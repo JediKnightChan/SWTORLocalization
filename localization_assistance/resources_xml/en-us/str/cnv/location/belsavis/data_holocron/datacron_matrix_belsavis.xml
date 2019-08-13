@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/data_holocron/datacron_matrix_belsavis.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="763754" id2="17" version="1065353216">You are no longer able to access this datacron.</text>
+		<text bitflag="321" id1="763758" id2="17" version="1065353216">You have located another datacron.</text>
+		<text bitflag="321" id1="763762" id2="17" version="1065353216">You have located a datacron, an ancient technology once used by the Infinite Empire.</text>
+		<text bitflag="321" id1="763764" id2="17" version="1065353216">This datacron contains a Green Matrix Shard. You can combine it with other matrix shards.</text>
+		<text bitflag="321" id1="763766" id2="17" version="1065353216">This one is still active; use it to collect the Green Matrix Shard. Once removed, you will no longer be able to access this datacron.</text>
+		<text bitflag="321" id1="763767" id2="17" version="1065353216">[ Matrix Shard Collected ]</text>
+		<text bitflag="321" id1="763770" id2="17" version="1065353216">You have collected the Green Matrix Shard. Perhaps there are more to be found....</text>
+	</file_content>
+</stb_file>

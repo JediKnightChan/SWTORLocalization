@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>74</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/jedi_consular/chapter_3/shattering/ship_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="478596" id2="17" version="1065353216">Warning: Coolant regulation system ignited. Catastrophic structural integrity failure has begun. Destruction of the Javelin is imminent.</text>
+		<text bitflag="1345" id1="478598" id2="17" version="1065353216">Please evacuate immediately. Repeat, please evacuate immediately.</text>
+		<text bitflag="1345" id1="478602" id2="17" version="1065353216">Jedi, do you read? We're clearing the tactical stations, and everything's flashing red. What's the situation?</text>
+		<text bitflag="1345" id1="478603" id2="17" version="1065353216">Hallow Voice, report. Did any of our ships get caught in that explosion?</text>
+		<text bitflag="1360" id1="478603" id2="17" version="1065353216">I have to check the fleet.</text>
+		<text bitflag="3393" id1="478604" id2="17" version="1065353216">All is well. There was light, but not a brightness to blind or burn.</text>
+		<text bitflag="1345" id1="478606" id2="17" version="1065353216">Watch that conduit! This area's getting too dangerous, we're pulling out to the ship.</text>
+		<text bitflag="1345" id1="478608" id2="17" version="1065353216">You and the commandos have to get to the ship immediately.</text>
+		<text bitflag="1360" id1="478608" id2="17" version="1065353216">Evacuate, now.</text>
+		<text bitflag="1345" id1="478609" id2="17" version="1065353216">All right, you heard her. Go!</text>
+		<text bitflag="1345" id1="478611" id2="17" version="1065353216">All right, you heard him. Go!</text>
+		<text bitflag="1345" id1="478613" id2="17" version="1065353216">Those bombs have done too much damage. We've lost the Javelin.</text>
+		<text bitflag="1360" id1="478613" id2="17" version="1065353216">The ship's coming apart.</text>
+		<text bitflag="1345" id1="478614" id2="17" version="1065353216">Copy. Listen up! Drop your gear and run for the ship!</text>
+		<text bitflag="1345" id1="478616" id2="17" version="1065353216">No, wait. Kalas-Na, take point, I can't leave yet.</text>
+		<text bitflag="1345" id1="478618" id2="17" version="1065353216">The Imperial crewmen were trying to erase these tactical stations. They might be carrying battle plans--I need to do a full download.</text>
+		<text bitflag="1345" id1="478619" id2="17" version="1065353216">Felix, in a few minutes the Javelin is going to be drifting debris.</text>
+		<text bitflag="1360" id1="478619" id2="17" version="1065353216">You don't have time.</text>
+		<text bitflag="1345" id1="478620" id2="17" version="1065353216">Sorry, I can't turn my back on vital intelligence.</text>
+		<text bitflag="1345" id1="478622" id2="17" version="1065353216">If you do this, will you be able to evacuate?</text>
+		<text bitflag="1360" id1="478622" id2="17" version="1065353216">Can you get to the ship?</text>
+		<text bitflag="1345" id1="478623" id2="17" version="1065353216">Uh... unlikely. Sounds like the whole deck's going to shear off.</text>
+		<text bitflag="1345" id1="478625" id2="17" version="1065353216">Get everything you can find, I'm not leaving empty-handed.</text>
+		<text bitflag="1360" id1="478625" id2="17" version="1065353216">Good idea.</text>
+		<text bitflag="1345" id1="478626" id2="17" version="1065353216">Blast. This'll take longer than I thought. I won't be able to join you.</text>
+		<text bitflag="1345" id1="478628" id2="17" version="1065353216">The pods. I saw a rank of escape pods on this deck; I can make it down to Corellia's surface.</text>
+		<text bitflag="1345" id1="478629" id2="17" version="1065353216">Then do it. Stay hidden, we'll come for you.</text>
+		<text bitflag="1360" id1="478629" id2="17" version="1065353216">A sensible plan.</text>
+		<text bitflag="1345" id1="478630" id2="17" version="1065353216">Copy. Now take care of yourself.</text>
+		<text bitflag="1345" id1="478632" id2="17" version="1065353216">Something could go wrong. I don't want to lose you.</text>
+		<text bitflag="1360" id1="478632" id2="17" version="1065353216">Please don't do this.</text>
+		<text bitflag="1345" id1="478633" id2="17" version="1065353216">I'll be alright, I promise. There's too much we haven't said yet.</text>
+		<text bitflag="1345" id1="478635" id2="17" version="1065353216">Even if you survive the landing, you'll be in the middle of a war zone.</text>
+		<text bitflag="1360" id1="478635" id2="17" version="1065353216">You'll be down there alone.</text>
+		<text bitflag="1345" id1="478636" id2="17" version="1065353216">I'll stay bunkered down. This data's more important than heroics.</text>
+		<text bitflag="1360" id1="478638" id2="17" version="1065353216">You can't be serious.</text>
+		<text bitflag="1345" id1="478639" id2="17" version="1065353216">There's no time. I've got a way out, you need to go.</text>
+		<text bitflag="1345" id1="478641" id2="17" version="1065353216">Be safe, and we'll rendezvous on Corellia. Iresso, signing off.</text>
+		<text bitflag="1345" id1="478646" id2="17" version="1065353216">Jedi? Are you there? Something exploded near the tactical stations, but we don't know what's happening.</text>
+		<text bitflag="1345" id1="478647" id2="17" version="1065353216">Hallow Voice, was the fleet caught in that explosion?</text>
+		<text bitflag="1360" id1="478647" id2="17" version="1065353216">I need to check the fleet.</text>
+		<text bitflag="3393" id1="478648" id2="17" version="1065353216">All is well. There was light, but not a brightness to blind or burn.</text>
+		<text bitflag="1345" id1="478650" id2="17" version="1065353216">Uh! Everything's shaking, we're getting back to the ship!</text>
+		<text bitflag="1345" id1="478652" id2="17" version="1065353216">It doesn't matter, tell everyone to run for the hangar bay.</text>
+		<text bitflag="1360" id1="478652" id2="17" version="1065353216">Get off the dreadnought now.</text>
+		<text bitflag="1345" id1="478653" id2="17" version="1065353216">Okay, everybody, back the way we came!</text>
+		<text bitflag="1345" id1="478655" id2="17" version="1065353216">We couldn't stop the Javelin from being destroyed. There isn't much time.</text>
+		<text bitflag="1360" id1="478655" id2="17" version="1065353216">The ship's breaking up.</text>
+		<text bitflag="1345" id1="478656" id2="17" version="1065353216">I'm so sorry, Jedi. All right, we'll try and get to safety.</text>
+		<text bitflag="1345" id1="478658" id2="17" version="1065353216">But... no, I can't. Go without me. Jedi, I have to stay just for a few minutes.</text>
+		<text bitflag="1345" id1="478660" id2="17" version="1065353216">The crew was trying to destroy these tactical stations. I think they were hiding something. I'm going to download everything I can.</text>
+		<text bitflag="1345" id1="478661" id2="17" version="1065353216">There is a time and a place for gaining knowledge, Nadia!</text>
+		<text bitflag="1360" id1="478661" id2="17" version="1065353216">Forget it and get to safety.</text>
+		<text bitflag="1345" id1="478662" id2="17" version="1065353216">I know, I know! But what if there's battle plans in here?</text>
+		<text bitflag="1345" id1="478664" id2="17" version="1065353216">Will you be able to reach the ship in time?</text>
+		<text bitflag="1360" id1="478664" id2="17" version="1065353216">Can you still escape?</text>
+		<text bitflag="1345" id1="478665" id2="17" version="1065353216">I--I don't think so. This deck doesn't feel safe.</text>
+		<text bitflag="1345" id1="478667" id2="17" version="1065353216">Any intelligence about the Empire's plans could help Corellia.</text>
+		<text bitflag="1360" id1="478667" id2="17" version="1065353216">A wise move.</text>
+		<text bitflag="1345" id1="478668" id2="17" version="1065353216">This is... there's too much data, it's going to take too long.</text>
+		<text bitflag="1345" id1="478670" id2="17" version="1065353216">Wait! We passed a row of escape pods. I can pilot one out--or point it at Corellia's surface or something.</text>
+		<text bitflag="1345" id1="478671" id2="17" version="1065353216">Keep hidden when you land, and we'll come for you.</text>
+		<text bitflag="1360" id1="478671" id2="17" version="1065353216">Do it, but be careful.</text>
+		<text bitflag="1345" id1="478672" id2="17" version="1065353216">I'll be fine. But you won't unless you hurry.</text>
+		<text bitflag="1345" id1="478674" id2="17" version="1065353216">I'm not going to leave you behind, Nadia. I couldn't.</text>
+		<text bitflag="1360" id1="478674" id2="17" version="1065353216">I can't leave you.</text>
+		<text bitflag="1345" id1="478675" id2="17" version="1065353216">You have to. But we'll be together again soon. I feel it.</text>
+		<text bitflag="1345" id1="478677" id2="17" version="1065353216">I have a duty to keep you safe.</text>
+		<text bitflag="1360" id1="478677" id2="17" version="1065353216">I must protect my Padawan.</text>
+		<text bitflag="1345" id1="478678" id2="17" version="1065353216">You have a whole galaxy to keep safe. I'll make you proud... Master.</text>
+		<text bitflag="1345" id1="478680" id2="17" version="1065353216">You want to land blind in a war zone, alone, carrying critical intelligence?</text>
+		<text bitflag="1360" id1="478680" id2="17" version="1065353216">That's a stupid plan.</text>
+		<text bitflag="1345" id1="478681" id2="17" version="1065353216">If we stand and argue, we'll both die here.</text>
+		<text bitflag="1345" id1="478683" id2="17" version="1065353216">Please, the hangar won't be safe for long. Go on--I'll see you on Corellia!</text>
+	</file_content>
+</stb_file>

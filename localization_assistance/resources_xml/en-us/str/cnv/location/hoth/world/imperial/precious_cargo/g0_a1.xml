@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>9</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/world/imperial/precious_cargo/g0_a1.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="527514" id2="17" version="1065353216">Target recipient = standby // Receiving priority message authorization</text>
+		<text bitflag="3393" id1="527516" id2="17" version="1065353216">Directive = contact General Avrun + verify mission success // Request = acknowledged?</text>
+		<text bitflag="1360" id1="527517" id2="17" version="1065353216">I'll find this General Avrun.</text>
+		<text bitflag="1360" id1="527518" id2="17" version="1065353216">Couldn't someone else go?</text>
+		<text bitflag="3393" id1="527519" id2="17" version="1065353216">Mission sensitivity = high // You = proven track record</text>
+		<text bitflag="3393" id1="527521" id2="17" version="1065353216">Coordinates = General Avrun's last known location // Imperial High Command = appreciates your discretion</text>
+		<text bitflag="1360" id1="527523" id2="17" version="1065353216">Denied. [Refuse quest]</text>
+		<text bitflag="3393" id1="527524" id2="17" version="1065353216">Refusal = acknowledged // Pursuing alternative</text>
+		<text bitflag="3393" id1="765455" id2="17" version="1065353216">Imperial Command = unable to contact General Avrun // General Avrun = overseeing classified retrieval operation // Mission status = unknown</text>
+	</file_content>
+</stb_file>

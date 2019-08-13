@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>22</strs>
+		<file_name>/resources/en-us/str/gui/trainer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="240013" version="1065353216">Sort by Level</text>
+		<text bitflag="321" id1="2" id2="240013" version="1065353216">Sort by Price</text>
+		<text bitflag="321" id1="3" id2="240013" version="1065353216">Sort by Name</text>
+		<text bitflag="321" id1="4" id2="240013" version="1065353216">Show All</text>
+		<text bitflag="321" id1="5" id2="240013" version="1065353216">Show New</text>
+		<text bitflag="321" id1="6" id2="240013" version="1065353216">Show Trainable</text>
+		<text bitflag="321" id1="7" id2="240013" version="1065353216">Rank</text>
+		<text bitflag="321" id1="8" id2="240013" version="1065353216">Level</text>
+		<text bitflag="321" id1="100" id2="240013" version="1065353216">Ability &lt;&lt;1&gt;&gt; trained.</text>
+		<text bitflag="321" id1="101" id2="240013" version="1065353216">Trainer is too far away.</text>
+		<text bitflag="321" id1="102" id2="240013" version="1065353216">No trainer targeted, or NPC is not a trainer.</text>
+		<text bitflag="321" id1="103" id2="240013" version="1065353216">This is not the trainer you're looking for.</text>
+		<text bitflag="321" id1="104" id2="240013" version="1065353216">You are not a disciple of this trainer.</text>
+		<text bitflag="321" id1="105" id2="240013" version="1065353216">Insufficient credits.</text>
+		<text bitflag="321" id1="106" id2="240013" version="1065353216">That ability cannot be trained any further.</text>
+		<text bitflag="321" id1="107" id2="240013" version="1065353216">Insufficient level.</text>
+		<text bitflag="321" id1="108" id2="240013" version="1065353216">Target not in phase.</text>
+		<text bitflag="321" id1="257" id2="240013" version="1065353216">This trainer is currently dead and unable to assist you.</text>
+		<text bitflag="321" id1="258" id2="240013" version="1065353216">This trainer is busy right now.</text>
+		<text bitflag="321" id1="259" id2="240013" version="1065353216">Unable to train while in combat.</text>
+		<text bitflag="321" id1="260" id2="240013" version="1065353216">Insuffcient Legacy Level.</text>
+		<text bitflag="321" id1="261" id2="240013" version="1065353216">Subscribers access this ability at level &lt;&lt;1&gt;&gt;. 
+Subscribe now to unlock this ability!</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/world/republic/volatile_chemicals/factory_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="690238" id2="17" version="1065353216">Status update, refinery drive alpha. Emergency shut-down successful.</text>
+		<text bitflag="1345" id1="690240" id2="17" version="1065353216">Warning: safety systems remain compromised. Threat of overload is now extreme. Complete emergency shutdown procedures for all refinery drives to avoid failure.</text>
+		<text bitflag="1345" id1="690242" id2="17" version="1065353216">Warning: safety systems compromised. Threat of system overload--high.</text>
+		<text bitflag="1345" id1="690244" id2="17" version="1065353216">Evacuation protocols for all personnel are now mandatory.</text>
+		<text bitflag="1345" id1="690246" id2="17" version="1065353216">Status update, emergency shut-down procedures successful. Threat of overload suspended.</text>
+		<text bitflag="1345" id1="690247" id2="17" version="1065353216">Warning: refinery drives nearing failure. Threat of overload--critical.</text>
+		<text bitflag="1345" id1="690248" id2="17" version="1065353216">Emergency: system overload in progress.</text>
+	</file_content>
+</stb_file>

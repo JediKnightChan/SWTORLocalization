@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>14</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/imperial/revan/sergeant_lodani.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="202078" id2="17" version="1065353216">The fleet will strike as soon as you're in the Foundry.</text>
+		<text bitflag="1345" id1="202081" id2="17" version="1065353216">There's a crew waiting aboard the Republic cruiser, my lord.</text>
+		<text bitflag="1345" id1="202083" id2="17" version="1065353216">Sir, the Republic cruiser is outfitted and our people are aboard.</text>
+		<text bitflag="1345" id1="202085" id2="17" version="1065353216">Give the word, and they'll take you straight to the Foundry.</text>
+		<text bitflag="1360" id1="202086" id2="17" version="1065353216">[Start Tactical Flashpoint]</text>
+		<text bitflag="1360" id1="202089" id2="17" version="1065353216">Not now. [Refuse Mission]</text>
+		<text bitflag="1345" id1="202092" id2="17" version="1065353216">Ready if you need us.</text>
+		<text bitflag="1360" id1="987734" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="987737" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987738" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="987739" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1170392" id2="17" version="1065353216">[Start Solo Flashpoint]</text>
+		<text bitflag="1360" id1="1219956" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1219957" id2="17" version="1065353216">[Start Story Mode]</text>
+	</file_content>
+</stb_file>

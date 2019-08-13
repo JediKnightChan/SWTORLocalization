@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>23</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/world/republic/lost_and_found/stranded_soldier.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="552374" id2="17" version="1065353216">Am I seeing things? I didn't think there was anyone else left alive on this planet.</text>
+		<text bitflag="1345" id1="552376" id2="17" version="1065353216">What's the word from Aurek Base? There's nothing on the comm but static. I was starting to think they pulled out and left us.</text>
+		<text bitflag="1345" id1="552377" id2="17" version="1065353216">Aurek Base is in bad shape. They took heavy casualties, and they need all the help they can get.</text>
+		<text bitflag="1360" id1="552377" id2="17" version="1065353216">You should head back.</text>
+		<text bitflag="1345" id1="552378" id2="17" version="1065353216">See? I told you to stop being so negative. They didn't leave us. They're just nearly all dead.</text>
+		<text bitflag="1345" id1="552380" id2="17" version="1065353216">Right. You're a model of optimism.</text>
+		<text bitflag="1360" id1="552382" id2="17" version="1065353216">Is everyone alright?</text>
+		<text bitflag="1345" id1="552383" id2="17" version="1065353216">No, just cold and sick of emergency rations.</text>
+		<text bitflag="1345" id1="552385" id2="17" version="1065353216">Not that getting back to Aurek Base will change that.</text>
+		<text bitflag="1345" id1="552387" id2="17" version="1065353216">There are still Imperial troops in the area. Can you get back to the base on your own?</text>
+		<text bitflag="1360" id1="552387" id2="17" version="1065353216">Will you be okay out there?</text>
+		<text bitflag="1345" id1="552388" id2="17" version="1065353216">We can handle it now that we've got supplies.</text>
+		<text bitflag="1345" id1="552390" id2="17" version="1065353216">What about our mission? We can't leave the sensors like this.</text>
+		<text bitflag="1345" id1="552391" id2="17" version="1065353216">I thought you'd be anxious to get back to the base. Did I miss something?</text>
+		<text bitflag="1360" id1="552391" id2="17" version="1065353216">What's the problem?</text>
+		<text bitflag="1345" id1="552392" id2="17" version="1065353216">Just get back to the base alive. The sensors can wait.</text>
+		<text bitflag="1360" id1="552392" id2="17" version="1065353216">We don't have time for this.</text>
+		<text bitflag="1345" id1="552393" id2="17" version="1065353216">We came out here to check the long-range sensors. They were damaged in the attack, but they're easily fixable.</text>
+		<text bitflag="1345" id1="552395" id2="17" version="1065353216">If you can get to them, which we obviously couldn't.</text>
+		<text bitflag="1360" id1="552397" id2="17" version="1065353216">I'll deal with the sensors.</text>
+		<text bitflag="1345" id1="552398" id2="17" version="1065353216">Without the sensors, Aurek Base is blind. They won't have any warning the Empire is coming.</text>
+		<text bitflag="1345" id1="552400" id2="17" version="1065353216">If you can reach the arrays, you can bring them back online. There are a lot of Imperials in the area, though.</text>
+		<text bitflag="1345" id1="552402" id2="17" version="1065353216">We'd better get moving if we're not going to freeze to death. See you back at the base.</text>
+	</file_content>
+</stb_file>

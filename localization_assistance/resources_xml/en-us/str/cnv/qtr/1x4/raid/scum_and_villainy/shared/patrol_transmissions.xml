@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>28</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x4/raid/scum_and_villainy/shared/patrol_transmissions.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1105566" id2="17" version="1065353216">This is Ops: possible security breach. A patrol team has gone missing.</text>
+		<text bitflag="1345" id1="1105567" id2="17" version="1065353216">Ops to all security teams: report in!</text>
+		<text bitflag="1345" id1="1105568" id2="17" version="1065353216">Ops to Red Team: report in!</text>
+		<text bitflag="1345" id1="1105569" id2="17" version="1065353216">Ops to Green Team: report in!</text>
+		<text bitflag="1345" id1="1105570" id2="17" version="1065353216">Ops to Blue Team: report in!</text>
+		<text bitflag="1345" id1="1105571" id2="17" version="1065353216">Ops to Gold Team: report in!</text>
+		<text bitflag="1345" id1="1105572" id2="17" version="1065353216">Ops to Red Team: you haven't checked in. Respond!</text>
+		<text bitflag="1345" id1="1105573" id2="17" version="1065353216">Ops to Blue Team: you haven't checked in. Respond!</text>
+		<text bitflag="1345" id1="1105574" id2="17" version="1065353216">Ops to Green Team: you haven't checked in. Report!</text>
+		<text bitflag="1345" id1="1105575" id2="17" version="1065353216">Ops to Gold Team: you haven't checked in. Report!</text>
+		<text bitflag="1345" id1="1105576" id2="17" version="1065353216">Ops to all security forces: increase patrols immediately!</text>
+		<text bitflag="1345" id1="1105577" id2="17" version="1065353216">Ops to all security forces: intruders spotted in the city! Deploy to intercept!</text>
+		<text bitflag="1345" id1="1105579" id2="17" version="1065353216">The operations center is under attack! Need reinforcements, now!</text>
+		<text bitflag="1345" id1="1105591" id2="17" version="1065353216">Ops to all teams: where are you scumbags? I need backup, now!</text>
+		<text bitflag="1345" id1="1105592" id2="17" version="1065353216">Ops to all security forces: red alert! Lock down all city entrances and the spaceport! Find and eliminate the intruders!</text>
+		<text bitflag="1345" id1="1105593" id2="17" version="1065353216">We're here, we're here... lighten up, will ya?</text>
+		<text bitflag="1345" id1="1105594" id2="17" version="1065353216">Red Team, all clear.</text>
+		<text bitflag="1345" id1="1105595" id2="17" version="1065353216">Green Team, all clear.</text>
+		<text bitflag="3393" id1="1105596" id2="17" version="1065353216">Blue Team, all clear.</text>
+		<text bitflag="1345" id1="1105597" id2="17" version="1065353216">Gold Team, all clear.</text>
+		<text bitflag="1345" id1="1105598" id2="17" version="1065353216">Red Team to Ops: we're under attack!</text>
+		<text bitflag="1345" id1="1105599" id2="17" version="1065353216">Green Team calling Ops: intruders! Need backup!</text>
+		<text bitflag="3393" id1="1105600" id2="17" version="1065353216">Blue Team calling in, we need reinforcements!</text>
+		<text bitflag="1345" id1="1105601" id2="17" version="1065353216">Gold Team to Ops--intruders! Send help!</text>
+		<text bitflag="1345" id1="1105723" id2="17" version="1065353216">Patrol teams, this is Ops: you've got your assignments. We're here to show the Hutts what we can do, so no room for screwups!</text>
+		<text bitflag="1345" id1="1105725" id2="17" version="1065353216">Stick to your patrol zones, maintain contact, and keep your eyes open!</text>
+		<text bitflag="1345" id1="1105728" id2="17" version="1065353216">This is Ops: alert! Multiple patrol teams have gone missing!</text>
+		<text bitflag="1345" id1="1105741" id2="17" version="1065353216">Lock down all city entrances and the spaceport! All remaining forces, find out who's doing this and take them down!</text>
+	</file_content>
+</stb_file>

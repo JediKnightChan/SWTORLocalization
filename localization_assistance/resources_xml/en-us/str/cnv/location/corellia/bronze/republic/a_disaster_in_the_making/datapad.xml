@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/bronze/republic/a_disaster_in_the_making/datapad.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="234652" id2="17" version="1065353216">[You examine the datapad and discover the mission parameters for &quot;Operation Black Haze.&quot;]</text>
+		<text bitflag="321" id1="234654" id2="17" version="1065353216">The Empire has procured a Republic warhead from [REDACTED]. In less than twenty-five hours, they will detonate it in Corellia's government district.</text>
+		<text bitflag="321" id1="234656" id2="17" version="1065353216">Your primary objective: Disarm the warhead. Supplied ion charges will nullify the ordnance with minimal detonation risk.</text>
+		<text bitflag="321" id1="234658" id2="17" version="1065353216">[REDACTED] recommends use of all issued charges to ensure success. Stop the detonation, and help us save Corellia.</text>
+		<text bitflag="321" id1="234660" id2="17" version="1065353216">[Someone ambushed this team before they reached their objective. It should be possible to take out the warhead if you can gather all of the ion charges.]</text>
+		<text bitflag="1360" id1="234661" id2="17" version="1065353216">[Accept quest]</text>
+		<text bitflag="1360" id1="234662" id2="17" version="1065353216">[Refuse quest]</text>
+	</file_content>
+</stb_file>

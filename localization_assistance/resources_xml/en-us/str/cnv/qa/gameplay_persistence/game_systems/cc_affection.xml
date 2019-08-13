@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>10</strs>
+		<file_name>/resources/en-us/str/cnv/qa/gameplay_persistence/game_systems/cc_affection.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1089" id1="1058829" id2="17" version="1065353216">Please choose from the following choices:</text>
+		<text bitflag="1089" id1="1058830" id2="17" version="1065353216">What's behind, 'Door Number 1'?</text>
+		<text bitflag="1104" id1="1058830" id2="17" version="1065353216">ADD Affection</text>
+		<text bitflag="1089" id1="1058831" id2="17" version="1065353216">What's behind, 'Door Number 2'?</text>
+		<text bitflag="1104" id1="1058831" id2="17" version="1065353216">No Change...</text>
+		<text bitflag="1089" id1="1058832" id2="17" version="1065353216">What's behind, 'Door Number 3'?</text>
+		<text bitflag="1104" id1="1058832" id2="17" version="1065353216">LOSE Affection</text>
+		<text bitflag="1089" id1="1058833" id2="17" version="1065353216">Congratulations on the Grand Prize! May you and your companion live happily ever after.</text>
+		<text bitflag="1089" id1="1058835" id2="17" version="1065353216">Too bad, no loss nor gain though.  Please play again sometime.</text>
+		<text bitflag="1089" id1="1058837" id2="17" version="1065353216">Well, at least you still have your shirt... and your companion, for now.</text>
+	</file_content>
+</stb_file>

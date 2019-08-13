@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/qa/gameplay_persistence/phasing/imperial_world_phase.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1089" id1="1059496" id2="17" version="1065353216">This is the Imperial World Phase set up for testing. Would you like me to get you started?</text>
+		<text bitflag="1089" id1="1059497" id2="17" version="1065353216">Absolutely.</text>
+		<text bitflag="1104" id1="1059497" id2="17" version="1065353216">Yes</text>
+		<text bitflag="1089" id1="1059498" id2="17" version="1065353216">Sorry, Wrong Phase.</text>
+		<text bitflag="1104" id1="1059498" id2="17" version="1065353216">No</text>
+		<text bitflag="1089" id1="1059499" id2="17" version="1065353216">You may enter.</text>
+	</file_content>
+</stb_file>

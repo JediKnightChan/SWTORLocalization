@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>68</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/class/trooper/turret_1.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="512486" id2="17" version="1065353216">There are two wires in the maintenance panel, Yuun--one red, one blue. Which should I cut?</text>
+		<text bitflag="3393" id1="512487" id2="17" version="1065353216">Hmm. The red wire suggests danger, threat, even anger, but it sits serene. Its placement demonstrates calm and peace.</text>
+		<text bitflag="3393" id1="512489" id2="17" version="1065353216">The blue wire presents an appearance of cool serenity, but its placement is askew--its twists and turns betray its evil nature.</text>
+		<text bitflag="3393" id1="512491" id2="17" version="1065353216">Yuun believes that the blue wire gives the force field its deadly resolve. Sever it, and your journey can continue in safety.</text>
+		<text bitflag="1345" id1="512492" id2="17" version="1065353216">Cutting the blue wire now.</text>
+		<text bitflag="1360" id1="512492" id2="17" version="1065353216">Copy that. [Cut the blue wire]</text>
+		<text bitflag="1345" id1="512494" id2="17" version="1065353216">I don't see how you can base so much on the wires' positions.</text>
+		<text bitflag="1360" id1="512494" id2="17" version="1065353216">How can you be so sure?</text>
+		<text bitflag="3393" id1="512495" id2="17" version="1065353216">It is the Findsman's way to see the truth, Captain. To find the signs that hide amongst the ordinary.</text>
+		<text bitflag="1345" id1="512497" id2="17" version="1065353216">You're talking nonsense, Yuun.</text>
+		<text bitflag="1360" id1="512497" id2="17" version="1065353216">This is absurd!</text>
+		<text bitflag="3393" id1="512498" id2="17" version="1065353216">Yuun apologizes if Yuun is misunderstood. Clarity and specificity are of great importance.</text>
+		<text bitflag="3393" id1="512500" id2="17" version="1065353216">Yuun is quite certain--the blue wire must be cut.</text>
+		<text bitflag="1345" id1="512501" id2="17" version="1065353216">Let's hope this works.</text>
+		<text bitflag="1360" id1="512501" id2="17" version="1065353216">All right. [Cut the blue wire]</text>
+		<text bitflag="3393" id1="512504" id2="17" version="1065353216">Perfect. The threat is removed, and harmony returned.</text>
+		<text bitflag="1345" id1="512505" id2="17" version="1065353216">Thanks for the assist, Sergeant.</text>
+		<text bitflag="1360" id1="512505" id2="17" version="1065353216">Good call.</text>
+		<text bitflag="3393" id1="512506" id2="17" version="1065353216">Yuun is very proud to be found helpful.</text>
+		<text bitflag="1345" id1="512508" id2="17" version="1065353216">You're an odd guy, Yuun, but I won't argue with results.</text>
+		<text bitflag="1360" id1="512508" id2="17" version="1065353216">Maybe you aren't crazy.</text>
+		<text bitflag="3393" id1="512509" id2="17" version="1065353216">Yuun merely follows the great legacy of Gand's Findsmen. Perhaps these methods will become more understandable with time.</text>
+		<text bitflag="1345" id1="512511" id2="17" version="1065353216">You had fifty-fifty odds of being right. This doesn't prove anything.</text>
+		<text bitflag="1360" id1="512511" id2="17" version="1065353216">A lucky guess--nothing more.</text>
+		<text bitflag="3393" id1="512512" id2="17" version="1065353216">Yuun only intended to provide assistance.</text>
+		<text bitflag="3393" id1="512514" id2="17" version="1065353216">The path to knowledge is cleared! Please proceed, Captain--Yuun will stand by.</text>
+		<text bitflag="1345" id1="512515" id2="17" version="1065353216">I'm not listening to your babble.</text>
+		<text bitflag="1360" id1="512515" id2="17" version="1065353216">No way. [Cut the red wire.]</text>
+		<text bitflag="1345" id1="512518" id2="17" version="1065353216">Captain! How dare this treacherous Imperial machine attempt to harm you? Die, inferior scrap pile!</text>
+		<text bitflag="1345" id1="512519" id2="17" version="1065353216">Captain! Here, sir--let me help you.</text>
+		<text bitflag="1345" id1="512522" id2="17" version="1065353216">Captain! Steady, steady--you're alright.</text>
+		<text bitflag="1345" id1="512523" id2="17" version="1065353216">Hm. Maybe you should listen to his babble, Captain.</text>
+		<text bitflag="3393" id1="512528" id2="17" version="1065353216">Gand is deeply sorry that miscommunication occurred. Gand will endeavor to be clearer in the future.</text>
+		<text bitflag="1345" id1="512529" id2="17" version="1065353216">I don't have time for this!</text>
+		<text bitflag="1360" id1="512529" id2="17" version="1065353216">Forget it! [Shoot the panel.]</text>
+		<text bitflag="1345" id1="512532" id2="17" version="1065353216">Captain! Noble Captain, please--do not expose yourself to unnecessary explosive impacts. I can serve that function quite well!</text>
+		<text bitflag="1345" id1="512535" id2="17" version="1065353216">Sir! Are you alright? Do you require medical attention?</text>
+		<text bitflag="1345" id1="512536" id2="17" version="1065353216">I'll be alright, Dorne, don't worry about it.</text>
+		<text bitflag="1360" id1="512536" id2="17" version="1065353216">Negative.</text>
+		<text bitflag="1345" id1="512537" id2="17" version="1065353216">I'm not sure... you'd better come closer to take a look.</text>
+		<text bitflag="1360" id1="512537" id2="17" version="1065353216">[Flirt] Always.</text>
+		<text bitflag="1345" id1="512538" id2="17" version="1065353216">Sir, please. I was merely concerned for your health.</text>
+		<text bitflag="1345" id1="512540" id2="17" version="1065353216">Ahem. Well, cognitive functions appear normal, at least. No clear sign of physical injury either.</text>
+		<text bitflag="1345" id1="512542" id2="17" version="1065353216">I've been in worse shape than this--I'll manage.</text>
+		<text bitflag="1360" id1="512542" id2="17" version="1065353216">It's nothing I can't handle.</text>
+		<text bitflag="1345" id1="512543" id2="17" version="1065353216">Very well, sir.</text>
+		<text bitflag="1345" id1="512546" id2="17" version="1065353216">Ugh. I was not expecting that to happen.</text>
+		<text bitflag="1360" id1="512546" id2="17" version="1065353216">That hurt.</text>
+		<text bitflag="1345" id1="512547" id2="17" version="1065353216">Here, sir--this should help with the pain.</text>
+		<text bitflag="1345" id1="512549" id2="17" version="1065353216">Ah! You alright, Captain? That looked like it hurt.</text>
+		<text bitflag="1345" id1="512550" id2="17" version="1065353216">Nothing major, Jorgan. Don't worry about it.</text>
+		<text bitflag="1360" id1="512550" id2="17" version="1065353216">I'll be fine.</text>
+		<text bitflag="1345" id1="512551" id2="17" version="1065353216">Could've fooled me. Whatever you say, sir.</text>
+		<text bitflag="1345" id1="512552" id2="17" version="1065353216">Don't get your hopes up, Jorgan--I'm not dead yet.</text>
+		<text bitflag="1360" id1="512552" id2="17" version="1065353216">Hoping for a new job opening?</text>
+		<text bitflag="1345" id1="512553" id2="17" version="1065353216">Good. Now I won't have to explain to General Garza how you blew yourself up.</text>
+		<text bitflag="1345" id1="512554" id2="17" version="1065353216">Aw, Jorgan, you do care.</text>
+		<text bitflag="1360" id1="512554" id2="17" version="1065353216">[Flirt] Worried about me?</text>
+		<text bitflag="1345" id1="512555" id2="17" version="1065353216">Wouldn't be much of a squad without a CO, would we?</text>
+		<text bitflag="1345" id1="512556" id2="17" version="1065353216">Don't get any big ideas, sir.</text>
+		<text bitflag="1345" id1="512557" id2="17" version="1065353216">Ugh. Didn't see that one coming.</text>
+		<text bitflag="1360" id1="512557" id2="17" version="1065353216">That hurt.</text>
+		<text bitflag="1345" id1="512558" id2="17" version="1065353216">Just take it easy, all right? We still got a lot of work to do here.</text>
+		<text bitflag="1345" id1="512561" id2="17" version="1065353216">Ouch. Well, you got the job done, Captain.</text>
+		<text bitflag="3393" id1="512565" id2="17" version="1065353216">Gand is deeply shamed. Clearly, Gand should have been more clear in explaining how to sever the wires.</text>
+		<text bitflag="3393" id1="512567" id2="17" version="1065353216">Next time, Gand will make certain that words are not misunderstood. Deepest apologies, sir.</text>
+		<text bitflag="3393" id1="760396" id2="17" version="1065353216">This unpleasantness is not without benefit, though--the path to knowledge is now cleared. Please proceed, Captain.</text>
+		<text bitflag="3393" id1="760406" id2="17" version="1065353216">This unpleasantness is not without benefit, though--the path to knowledge is now cleared. Please proceed, Captain.</text>
+	</file_content>
+</stb_file>

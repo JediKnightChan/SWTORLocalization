@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>15</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x4/raid/scum_and_villainy/imperial/k4_e2.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1007266" id2="17" version="1065353216">Please report to Moff Orlec.</text>
+		<text bitflag="1345" id1="1007269" id2="17" version="1065353216">Attention! Broadcast droid K4-E2 receiving emergency dispatch from Imperial Command. Please stand by....</text>
+		<text bitflag="1345" id1="1007271" id2="17" version="1065353216">Warning: Unexplained gathering of mercenary forces detected in Hutt Space. Imperial security jeopardized!</text>
+		<text bitflag="1345" id1="1007273" id2="17" version="1065353216">Moff Orlec requests immediate assistance aboard his vessel. Response?</text>
+		<text bitflag="1345" id1="1007274" id2="17" version="1065353216">I'll speak with Orlec immediately.</text>
+		<text bitflag="1360" id1="1007274" id2="17" version="1065353216">I accept.</text>
+		<text bitflag="1345" id1="1007275" id2="17" version="1065353216">What kind of assistance does Orlec need?</text>
+		<text bitflag="1360" id1="1007275" id2="17" version="1065353216">I need details.</text>
+		<text bitflag="1345" id1="1007276" id2="17" version="1065353216">Additional information unavailable. K4-E2 deemed too public to relay classified mission parameters.</text>
+		<text bitflag="1345" id1="1007278" id2="17" version="1065353216">Moff Orlec can provide further details in person. Ending dispatch.</text>
+		<text bitflag="1345" id1="1007279" id2="17" version="1065353216">I'm busy right now. I'll see this Moff later.</text>
+		<text bitflag="1360" id1="1007279" id2="17" version="1065353216">I don't have time for this.</text>
+		<text bitflag="1345" id1="1007280" id2="17" version="1065353216">Transmitting.... Response acknowledged.</text>
+		<text bitflag="1345" id1="1007282" id2="17" version="1065353216">Moff Orlec shall await you on his ship. Ending dispatch.</text>
+		<text bitflag="1345" id1="1007284" id2="17" version="1065353216">Move along.</text>
+	</file_content>
+</stb_file>

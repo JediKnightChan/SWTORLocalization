@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>25</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/01/ep_08/scene_03_arcann_scorpio_lana.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1164252" id2="17" version="1065353216">Tell me you're alive.</text>
+		<text bitflag="1345" id1="1164253" id2="17" version="1065353216">Alive, yes. Intact... mostly.</text>
+		<text bitflag="1360" id1="1164253" id2="17" version="1065353216">For the moment.</text>
+		<text bitflag="1345" id1="1164254" id2="17" version="1065353216">I'm in the middle of killing Arcann.</text>
+		<text bitflag="1360" id1="1164254" id2="17" version="1065353216">Stop bothering me.</text>
+		<text bitflag="1345" id1="1164255" id2="17" version="1065353216">The Gravestone is under siege--but we're not leaving without you.</text>
+		<text bitflag="1345" id1="1164256" id2="17" version="1065353216">Hold tight. I'm coming.</text>
+		<text bitflag="1360" id1="1164256" id2="17" version="1065353216">I'm on my way.</text>
+		<text bitflag="1345" id1="1164257" id2="17" version="1065353216">Don't wait for me. I have unfinished business.</text>
+		<text bitflag="1360" id1="1164257" id2="17" version="1065353216">You're on your own.</text>
+		<text bitflag="1345" id1="1164593" id2="17" version="1065353216">We are your business!</text>
+		<text bitflag="1345" id1="1177256" id2="17" version="1065353216">Hey! Shiny! Do us all a favor and get those cannons firing, would ya?</text>
+		<text bitflag="1345" id1="1177258" id2="17" version="1065353216">This vessel's targeting algorithms were inferior. I am upgrading them.</text>
+		<text bitflag="1345" id1="1177260" id2="17" version="1065353216">That is not a priority right now!</text>
+		<text bitflag="1345" id1="1177262" id2="17" version="1065353216">Improvement is always a priority. Activating firing pattern.</text>
+		<text bitflag="1345" id1="1177264" id2="17" version="1065353216">I take it all back! That's some good shooting!</text>
+		<text bitflag="1345" id1="1177266" id2="17" version="1065353216">Uhh... didn't that just go down near the Scions' hideout? Someone better check up on our Outlander.</text>
+		<text bitflag="3393" id1="1190595" id2="17" version="1065353216">Gravestone = in danger! // T7 + Jedi = save the day!</text>
+		<text bitflag="3393" id1="1190596" id2="17" version="1065353216">Gravestone = in danger! // T7 + Barsen'thor = must help!</text>
+		<text bitflag="3393" id1="1190599" id2="17" version="1065353216">Gravestone = in danger! // T7 + Major = must help!</text>
+		<text bitflag="3393" id1="1190600" id2="17" version="1065353216">Gravestone = in danger! // T7 + Captain = must help!</text>
+		<text bitflag="3393" id1="1190601" id2="17" version="1065353216">Gravestone = in danger! // T7 + Sith Lord = must help!</text>
+		<text bitflag="3393" id1="1190602" id2="17" version="1065353216">Gravestone = in danger! // T7 + bounty hunter = must help!</text>
+		<text bitflag="3393" id1="1190603" id2="17" version="1065353216">Gravestone = in danger! // T7 + Agent = must help!</text>
+		<text bitflag="3393" id1="1190607" id2="17" version="1065353216">Explosion = large // T7 = worried!</text>
+	</file_content>
+</stb_file>

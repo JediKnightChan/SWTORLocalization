@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>24</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_3/doomsday/ship_holo_dinner_bell.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="639927" id2="17" version="1065353216">We've landed on Dromund Kaas. Any sign we've been detected?</text>
+		<text bitflag="3393" id1="639928" id2="17" version="1065353216">T7 = scanning area // Results = no enemy movement toward this position</text>
+		<text bitflag="1345" id1="639930" id2="17" version="1065353216">Good for us, but the Republic fleet's getting blown to bits up there. We need to wrap this up fast.</text>
+		<text bitflag="1345" id1="639932" id2="17" version="1065353216">I examined the coordinates Tol Braga gave you. The Emperor has gone to an ancient temple deep in the jungle. Access is highly restricted.</text>
+		<text bitflag="1345" id1="639933" id2="17" version="1065353216">I'm sure you know a shortcut or two.</text>
+		<text bitflag="1360" id1="639933" id2="17" version="1065353216">Not for you, I'll bet.</text>
+		<text bitflag="1345" id1="639934" id2="17" version="1065353216">What do you know about this ancient temple?</text>
+		<text bitflag="1360" id1="639934" id2="17" version="1065353216">Sounds like you've been there.</text>
+		<text bitflag="1345" id1="639935" id2="17" version="1065353216">The Emperor built it. He imprisoned his enemies there for many centuries. It is a place of vast dark power.</text>
+		<text bitflag="1345" id1="639937" id2="17" version="1065353216">If you don't have a way to get us inside there, I might kill you on general principle.</text>
+		<text bitflag="1360" id1="639937" id2="17" version="1065353216">Be useful for once--or else.</text>
+		<text bitflag="1345" id1="639938" id2="17" version="1065353216">One of the Emperor's private shuttles is not far from here. It has full security clearance to enter the temple.</text>
+		<text bitflag="1345" id1="639940" id2="17" version="1065353216">Great. Now all we have to do is fight through a city full of bad guys trying to kill us.</text>
+		<text bitflag="1345" id1="639942" id2="17" version="1065353216">Moving as a single unit will give away our objective. We could pair off and follow separate routes to the shuttle.</text>
+		<text bitflag="1345" id1="639943" id2="17" version="1065353216">The rest of you will have better odds if I keep the enemy focused on me.</text>
+		<text bitflag="1360" id1="639943" id2="17" version="1065353216">I'll clear your path.</text>
+		<text bitflag="1345" id1="639944" id2="17" version="1065353216">Do not be overeager. You're the only one who can face the Emperor. If you die, our mission fails.</text>
+		<text bitflag="1345" id1="639946" id2="17" version="1065353216">Shouldn't we leave someone guarding the ship, in case the enemy comes?</text>
+		<text bitflag="1360" id1="639946" id2="17" version="1065353216">And abandon this vessel?</text>
+		<text bitflag="1345" id1="639947" id2="17" version="1065353216">If Imperial forces find the ship unguarded, they will leave a token security force. We can easily dispatch it when we return.</text>
+		<text bitflag="1345" id1="639949" id2="17" version="1065353216">The time for mercy is over. Everyone outside this ship deserves death. Give it to them.</text>
+		<text bitflag="1360" id1="639949" id2="17" version="1065353216">Kill everyone you meet.</text>
+		<text bitflag="1345" id1="639950" id2="17" version="1065353216">I'll bring extra ammo.</text>
+		<text bitflag="1345" id1="639952" id2="17" version="1065353216">You all have the shuttle's coordinates. I recommend no one be late arriving there.</text>
+	</file_content>
+</stb_file>

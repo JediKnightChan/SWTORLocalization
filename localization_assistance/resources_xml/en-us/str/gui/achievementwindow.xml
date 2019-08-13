@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>21</strs>
+		<file_name>/resources/en-us/str/gui/achievementwindow.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="732590" version="1065353216">Open</text>
+		<text bitflag="321" id1="257" id2="732590" version="1065353216">Achievement Completed</text>
+		<text bitflag="321" id1="258" id2="732590" version="1065353216">Achievements</text>
+		<text bitflag="321" id1="259" id2="732590" version="1065353216">Select an achievement:</text>
+		<text bitflag="321" id1="260" id2="732590" version="1065353216">Achievement description:</text>
+		<text bitflag="321" id1="261" id2="732590" version="1065353216">Overview</text>
+		<text bitflag="321" id1="262" id2="732590" version="1065353216">MOST RECENT &lt;&lt;1&gt;&gt; ACHIEVEMENTS</text>
+		<text bitflag="321" id1="263" id2="732590" version="1065353216">Rewards:</text>
+		<text bitflag="321" id1="264" id2="732590" version="1065353216">Status:</text>
+		<text bitflag="321" id1="265" id2="732590" version="1065353216">Complete</text>
+		<text bitflag="321" id1="266" id2="732590" version="1065353216">Incomplete</text>
+		<text bitflag="321" id1="267" id2="732590" version="1065353216">Track</text>
+		<text bitflag="321" id1="268" id2="732590" version="1065353216">Toggle Achievement Tracker On</text>
+		<text bitflag="321" id1="269" id2="732590" version="1065353216">Toggle Achievement Tracker Off</text>
+		<text bitflag="321" id1="270" id2="732590" version="1065353216">&lt;&lt;1&gt;&gt; Additional &lt;&lt;1[Achievement/Achievements]&gt;&gt; Tracked</text>
+		<text bitflag="321" id1="274" id2="732590" version="1065353216">Legacy Title:</text>
+		<text bitflag="321" id1="275" id2="732590" version="1065353216">Cartel Coins:</text>
+		<text bitflag="321" id1="276" id2="732590" version="1065353216">Fleet Requisition:</text>
+		<text bitflag="321" id1="277" id2="732590" version="1065353216">REPEATABLE</text>
+		<text bitflag="321" id1="278" id2="732590" version="1065353216">Conquest Objective Complete</text>
+		<text bitflag="321" id1="279" id2="732590" version="1065353216">Item Rewards:</text>
+	</file_content>
+</stb_file>

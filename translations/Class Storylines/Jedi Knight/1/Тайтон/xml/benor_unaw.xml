@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="48">
+	<unit bitflag="3393" id1="604407" id2="17" version="1065353216">
+		<source>That was amazing. I thought we were dead.</source>
+		<target>Поразительно. Я думал, мы покойники.</target>
+	</unit>
+	<unit bitflag="1345" id1="604409" id2="17" version="1065353216">
+		<source>You two alright? What happened here?</source>
+		<target>Вы двое в порядке? Что случилось?</target>
+	</unit>
+	<unit bitflag="3393" id1="604411" id2="17" version="1065353216">
+		<source>This Jedi attacked us, Master Orgus. He was sick... confused.</source>
+		<target>Этот джедай напал на нас, мастер Оргус. Он был болен... запутан.</target>
+	</unit>
+	<unit bitflag="1345" id1="604413" id2="17" version="1065353216">
+		<source>Thank the Force that you're both safe. This man's no Jedi--at least, not one of us.</source>
+		<target>Слава Силе, вы оба в порядке. Он не джедай - по крайней мере, не один из нас.</target>
+	</unit>
+	<unit bitflag="1345" id1="604414" id2="17" version="1065353216">
+		<source>He organized the attack on the training grounds. Called the Flesh Raiders his &quot;soldiers.&quot;</source>
+		<target>Он организовал атаку на тренировочные площадки. Называл раздирателей своими солдатами.</target>
+	</unit>
+	<unit bitflag="1360" id1="604414" id2="17" version="1065353216">
+		<source>He led these Flesh Raiders.</source>
+		<target>Он возглавлял раздирателей.</target>
+	</unit>
+	<unit bitflag="1345" id1="604415" id2="17" version="1065353216">
+		<source>I warned the Council these natives aren't mindless beasts. This is proof.</source>
+		<target>Я предупреждал Совет, что эти аборигены не всего лишь неразумные звери. Вот тому и доказательство.</target>
+	</unit>
+	<unit bitflag="1345" id1="604416" id2="17" version="1065353216">
+		<source>You missed the fun, Master. Did you have something better to do?</source>
+		<target>Вы пропустили веселье, учитель. Вам и так было чем заняться?</target>
+	</unit>
+	<unit bitflag="1360" id1="604416" id2="17" version="1065353216">
+		<source>You're late.</source>
+		<target>Вы опоздали.</target>
+	</unit>
+	<unit bitflag="1345" id1="604417" id2="17" version="1065353216">
+		<source>I was distracted by a pack of hungry Flesh Raiders. Thought I looked delicious.</source>
+		<target>Меня отвлекла группа голодных раздирателей. Сочли меня вкусным на вид.</target>
+	</unit>
+	<unit bitflag="1345" id1="604418" id2="17" version="1065353216">
+		<source>If he's wasn't like us, what was he?</source>
+		<target>Если он не такой, как мы, то что он?</target>
+	</unit>
+	<unit bitflag="1360" id1="604418" id2="17" version="1065353216">
+		<source>Not a Jedi?</source>
+		<target>Не джедай?</target>
+	</unit>
+	<unit bitflag="1345" id1="604419" id2="17" version="1065353216">
+		<source>I'd call him Sith, but the Empire doesn't know where Tython is.</source>
+		<target>Я бы назвал его Ситом, но Империя не знает местоположения Тайтона.</target>
+	</unit>
+	<unit bitflag="1345" id1="604421" id2="17" version="1065353216">
+		<source>This lightsaber... there's something familiar about it. Strange.</source>
+		<target>Этот световой меч... в нём что-то знакомое. Странно.</target>
+	</unit>
+	<unit bitflag="1345" id1="604423" id2="17" version="1065353216">
+		<source>You held off all these attackers by yourself with only a practice saber. Impressive.</source>
+		<target>Тебе удалось сдержать всех нападающих в одиночку одним тренировочным мечом. Впечатляет.</target>
+	</unit>
+	<unit bitflag="1345" id1="604424" id2="17" version="1065353216">
+		<source>I followed my instincts, that's all.</source>
+		<target>Просто мои инстинкты вели меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="604424" id2="17" version="1065353216">
+		<source>The Force was with me.</source>
+		<target>Сила была со мной.</target>
+	</unit>
+	<unit bitflag="1345" id1="604425" id2="17" version="1065353216">
+		<source>They served you well.</source>
+		<target>Они сослужили тебе хорошую службу.</target>
+	</unit>
+	<unit bitflag="1345" id1="604427" id2="17" version="1065353216">
+		<source>I deserve a decent weapon--and my enemy doesn't need his anymore.</source>
+		<target>Я заслуживаю более приличного оружия, а моему врагу его меч больше не понадобится.</target>
+	</unit>
+	<unit bitflag="1360" id1="604427" id2="17" version="1065353216">
+		<source>Give me a real lightsaber.</source>
+		<target>Дайте мне настоящий меч.</target>
+	</unit>
+	<unit bitflag="1345" id1="604428" id2="17" version="1065353216">
+		<source>This weapon can help us discover who the man was. It's going to the Jedi Council.</source>
+		<target>Это оружие наверняка поможет нам узнать, кем был его владелец. Оно достанется Совету джедаев.</target>
+	</unit>
+	<unit bitflag="1360" id1="604430" id2="17" version="1065353216">
+		<source>Yes, I am.</source>
+		<target>Да.</target>
+	</unit>
+	<unit bitflag="1345" id1="604431" id2="17" version="1065353216">
+		<source>Don't confuse confidence with arrogance, Padawan. Your Masters should've taught you the difference.</source>
+		<target>Не путай уверенность с наглостью, падаван. Твои учителя должны были объяснить тебе разницу.</target>
+	</unit>
+	<unit bitflag="1345" id1="604433" id2="17" version="1065353216">
+		<source>This battle's over, but we don't want any more Flesh Raiders coming through here.</source>
+		<target>Эта битва окончена, но мы не хотим, чтобы раздиратели снова полезли через этот проход.</target>
+	</unit>
+	<unit bitflag="1345" id1="604435" id2="17" version="1065353216">
+		<source>That should hold them back, for now.</source>
+		<target>Это должно сдержать их... на время.</target>
+	</unit>
+	<unit bitflag="1345" id1="604436" id2="17" version="1065353216">
+		<source>I can see why you're a Jedi Master.</source>
+		<target>Теперь видно, почему вы мастер-джедай.</target>
+	</unit>
+	<unit bitflag="1360" id1="604436" id2="17" version="1065353216">
+		<source>That was amazing.</source>
+		<target>Поразительно.</target>
+	</unit>
+	<unit bitflag="1345" id1="604437" id2="17" version="1065353216">
+		<source>When you get as old as me, you learn a few tricks.</source>
+		<target>Дожив до моего возраста, поневоле научишься кое-чему.</target>
+	</unit>
+	<unit bitflag="1345" id1="604439" id2="17" version="1065353216">
+		<source>I want to learn how to do that.</source>
+		<target>Я хочу научиться таким вещам.</target>
+	</unit>
+	<unit bitflag="1360" id1="604439" id2="17" version="1065353216">
+		<source>How can I do that trick?</source>
+		<target>Как мне повторить это?</target>
+	</unit>
+	<unit bitflag="1345" id1="604440" id2="17" version="1065353216">
+		<source>Spend a few decades practicing, and you'll pick it up in no time.</source>
+		<target>Проведи пару десятилетий в тренировках, и мигом научишься.</target>
+	</unit>
+	<unit bitflag="1345" id1="604442" id2="17" version="1065353216">
+		<source>You should've left that open. We could've used it to destroy the Flesh Raiders.</source>
+		<target>Надо было оставить его открытым. Мы могли бы использовать его, чтобы уничтожить раздирателей.</target>
+	</unit>
+	<unit bitflag="1360" id1="604442" id2="17" version="1065353216">
+		<source>We needed that tunnel for war.</source>
+		<target>Этот туннель мог бы помочь нам в войне.</target>
+	</unit>
+	<unit bitflag="1345" id1="604443" id2="17" version="1065353216">
+		<source>Declaring war is the last thing we should do. There's too much we don't know about our enemy.</source>
+		<target>Объявлять войну - последнее, что нам стоит делать. Мы слишком мало знаем о враге.</target>
+	</unit>
+	<unit bitflag="3393" id1="604445" id2="17" version="1065353216">
+		<source>I'm injured, Master Orgus. Are the training grounds safe for travel?</source>
+		<target>Я ранен, мастер Оргус. Тренировочные площадки уже безопасны?</target>
+	</unit>
+	<unit bitflag="1345" id1="604447" id2="17" version="1065353216">
+		<source>Not yet. I'll get you to a medcenter.</source>
+		<target>Ещё нет. Я доставлю тебя в медпункт.</target>
+	</unit>
+	<unit bitflag="1345" id1="604449" id2="17" version="1065353216">
+		<source>You seem alright to travel alone. Report to the Jedi Council.</source>
+		<target>Похоже, ты сможешь путешествовать в одиночку. Доложи Совету джедаев о том, что здесь произошло.</target>
+	</unit>
+	<unit bitflag="1345" id1="604450" id2="17" version="1065353216">
+		<source>This valley isn't safe yet; I don't feel good about leaving.</source>
+		<target>Долина ещё небезопасна; мне кажется, что рано покидать её.</target>
+	</unit>
+	<unit bitflag="1360" id1="604450" id2="17" version="1065353216">
+		<source>I should stay and help.</source>
+		<target>Мне следует остаться и помочь.</target>
+	</unit>
+	<unit bitflag="1345" id1="604451" id2="17" version="1065353216">
+		<source>We have Jedi Knights rooting out the last attackers. You're needed elsewhere.</source>
+		<target>Рыцари-джедаи уничтожат оставшихся нападающих. Ты нужен в другом месте.</target>
+	</unit>
+	<unit bitflag="1345" id1="604453" id2="17" version="1065353216">
+		<source>I only just arrived on Tython. Where am I going?</source>
+		<target>Я совсем недавно на Тайтоне. Куда мне идти?</target>
+	</unit>
+	<unit bitflag="1360" id1="604453" id2="17" version="1065353216">
+		<source>Can you give me directions?</source>
+		<target>Можете указать мне дорогу?</target>
+	</unit>
+	<unit bitflag="1345" id1="604454" id2="17" version="1065353216">
+		<source>Going to a boring meeting is the last thing on my mind right now.</source>
+		<target>Идти на скучное собрание - последнее, что мне бы сейчас хотелось делать.</target>
+	</unit>
+	<unit bitflag="1360" id1="604454" id2="17" version="1065353216">
+		<source>Talking isn't why I'm here.</source>
+		<target>Я здесь не для разговоров.</target>
+	</unit>
+	<unit bitflag="1345" id1="604455" id2="17" version="1065353216">
+		<source>Sounds familiar. But you're still going, Padawan.</source>
+		<target>Звучит знакомо. Но тебе всё равно нужно идти, падаван.</target>
+	</unit>
+	<unit bitflag="1345" id1="604457" id2="17" version="1065353216">
+		<source>Follow the path leading out of this valley. You'll find the Jedi Temple through the mountain pass. See you there.</source>
+		<target>Следуй по пути, ведущему из этой долины. Ты найдёшь Храм джедаев за горным переходом. Увидимся там.</target>
+	</unit>
+	<unit bitflag="3393" id1="604461" id2="17" version="1065353216">
+		<source>Help--he's trying to kill me.</source>
+		<target>Помогите... он хочет убить меня.</target>
+	</unit>
+	<unit bitflag="3393" id1="604462" id2="17" version="1065353216">
+		<source>This place isn't safe. Leave while you can.</source>
+		<target>Это место небезопасно. Уходи, пока можешь.</target>
+	</unit>
+</dialogue_file>

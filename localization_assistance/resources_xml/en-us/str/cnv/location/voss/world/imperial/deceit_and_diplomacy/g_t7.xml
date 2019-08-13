@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>26</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/world/imperial/deceit_and_diplomacy/g_t7.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="601198" id2="17" version="1065353216">Welcome to the Voss Orbital Docking Station. This--oh, it's you. Do let me know if there's anything I can do for you.</text>
+		<text bitflag="1345" id1="601202" id2="17" version="1065353216">Welcome to the Voss Orbital Docking Station. This facility offers state-of-the-art amenities, such as a pressurized interior and radiation shielding.</text>
+		<text bitflag="1345" id1="601204" id2="17" version="1065353216">We hope you will enjoy your stay on this station, as access to the planet is strictly prohibited.</text>
+		<text bitflag="1345" id1="601205" id2="17" version="1065353216">No droid tells a Lord of the Sith where to go.</text>
+		<text bitflag="1360" id1="601205" id2="17" version="1065353216">I go where I choose.</text>
+		<text bitflag="1345" id1="601206" id2="17" version="1065353216">This is an Imperial edict. No one is to go to Voss without permission.</text>
+		<text bitflag="1345" id1="601208" id2="17" version="1065353216">I'm not interested in debating the rules with you, just let me through.</text>
+		<text bitflag="1360" id1="601208" id2="17" version="1065353216">I don't have time for this.</text>
+		<text bitflag="1345" id1="601209" id2="17" version="1065353216">By Imperial edict, no one goes to Voss without permission. You don't have permission. End of debate.</text>
+		<text bitflag="1345" id1="601211" id2="17" version="1065353216">I want to speak to someone more significant.</text>
+		<text bitflag="1360" id1="601211" id2="17" version="1065353216">Who is in charge here?</text>
+		<text bitflag="1345" id1="601212" id2="17" version="1065353216">My orders come from an Imperial edict. You won't find anyone here willing to countermand that.</text>
+		<text bitflag="1360" id1="601214" id2="17" version="1065353216">Why is it prohibited?</text>
+		<text bitflag="1345" id1="601215" id2="17" version="1065353216">The negotiations on Voss are complex, requiring subtlety, and are far too important for just any--</text>
+		<text bitflag="1345" id1="601217" id2="17" version="1065353216">Incoming transmission.</text>
+		<text bitflag="1345" id1="601219" id2="17" version="1065353216">My apologies. It, ah, seems Darth Serevin requests the honor of your presence in the Imperial Embassy at Voss-Ka at your earliest convenience.</text>
+		<text bitflag="1345" id1="601220" id2="17" version="1065353216">Get out of my way, and I'll speak with him now.</text>
+		<text bitflag="1360" id1="601220" id2="17" version="1065353216">At once.</text>
+		<text bitflag="1345" id1="601221" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1360" id1="601223" id2="17" version="1065353216">Why does he want to see me?</text>
+		<text bitflag="1345" id1="601224" id2="17" version="1065353216">Darth Serevin only asked that you be invited to the embassy as soon as you arrived.</text>
+		<text bitflag="1345" id1="601226" id2="17" version="1065353216">The shuttle is this way. Please don't keep Darth Serevin waiting, he's terribly important.</text>
+		<text bitflag="1345" id1="601228" id2="17" version="1065353216">I have things to do before I go to the planet.</text>
+		<text bitflag="1360" id1="601228" id2="17" version="1065353216">He can wait. [Refuse quest]</text>
+		<text bitflag="1345" id1="601229" id2="17" version="1065353216">Of course. I suggest, however, that you don't keep Darth Serevin waiting long.</text>
+		<text bitflag="1345" id1="601231" id2="17" version="1065353216">I'm sorry, I'll be with you shortly.</text>
+	</file_content>
+</stb_file>

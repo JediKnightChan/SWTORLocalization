@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>21</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/class/spy/crate.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="610337" id2="17" version="1065353216">The ghost cell hasn't come for its delivery yet. I assume that fits your plan?</text>
+		<text bitflag="1345" id1="610338" id2="17" version="1065353216">Well... there's still stuff here. Guess the ghost cell hasn't picked up its delivery.</text>
+		<text bitflag="1345" id1="610339" id2="17" version="1065353216">Get the crates open and climb inside. We're taking a ride.</text>
+		<text bitflag="1360" id1="610339" id2="17" version="1065353216">We can hide in these.</text>
+		<text bitflag="1345" id1="610340" id2="17" version="1065353216">There's plenty of room inside these things. Guess where we're going?</text>
+		<text bitflag="1360" id1="610340" id2="17" version="1065353216">Our ticket to the village.</text>
+		<text bitflag="1345" id1="610341" id2="17" version="1065353216">At least our eyes adjust to the dark.</text>
+		<text bitflag="1345" id1="610342" id2="17" version="1065353216">Worst part is, I've traveled this way before....</text>
+		<text bitflag="1345" id1="610343" id2="17" version="1065353216">Get in. Anyone else opens the crate, shoot them.</text>
+		<text bitflag="1360" id1="610343" id2="17" version="1065353216">Time for a dangerous journey.</text>
+		<text bitflag="1345" id1="610344" id2="17" version="1065353216">We'll be ready. Let's hope it doesn't come to that.</text>
+		<text bitflag="1345" id1="610345" id2="17" version="1065353216">I'll cozy up to my blaster. See you on the other side.</text>
+		<text bitflag="321" id1="610346" id2="17" version="1065353216">[This is a large crate of engineering supplies and construction materials. There's easily enough room for one or more people to fit inside.]</text>
+		<text bitflag="336" id1="610347" id2="17" version="1065353216">[Climb into the crate.]</text>
+		<text bitflag="336" id1="610354" id2="17" version="1065353216">[Leave the crate alone.]</text>
+		<text bitflag="321" id1="610356" id2="17" version="1065353216">[You leave the crate alone.]</text>
+		<text bitflag="321" id1="610359" id2="17" version="1065353216">[The empty crate is marked to be returned to the speeder pad. Climb in?]</text>
+		<text bitflag="336" id1="610360" id2="17" version="1065353216">[Climb into crate.]</text>
+		<text bitflag="336" id1="610362" id2="17" version="1065353216">Get in</text>
+		<text bitflag="336" id1="610363" id2="17" version="1065353216">[Leave the crate alone.]</text>
+		<text bitflag="321" id1="610365" id2="17" version="1065353216">[You leave the crate alone.]</text>
+	</file_content>
+</stb_file>

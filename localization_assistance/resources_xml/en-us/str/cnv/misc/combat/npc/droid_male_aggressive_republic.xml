@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/droid_male_aggressive_republic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63443" id2="17" version="1065353216">Defense systems engaged.</text>
+		<text bitflag="1345" id1="63445" id2="17" version="1065353216">Enemy forces detected.</text>
+		<text bitflag="1345" id1="63447" id2="17" version="1065353216">Engage and destroy.</text>
+		<text bitflag="1345" id1="63449" id2="17" version="1065353216">Hostiles on the move.</text>
+		<text bitflag="1345" id1="63451" id2="17" version="1065353216">Weapons operational.</text>
+		<text bitflag="1345" id1="63453" id2="17" version="1065353216">Main objective sighted.</text>
+	</file_content>
+</stb_file>

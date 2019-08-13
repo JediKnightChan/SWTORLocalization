@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>23</strs>
+		<file_name>/resources/en-us/str/gui/conversation.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="197491" version="1065353216">Invalid client conversation state.</text>
+		<text bitflag="321" id1="2" id2="197491" version="1065353216">Conversation request successful.</text>
+		<text bitflag="321" id1="3" id2="197491" version="1065353216">Conversation system error.</text>
+		<text bitflag="321" id1="4" id2="197491" version="1065353216">Already in a conversation.</text>
+		<text bitflag="321" id1="5" id2="197491" version="1065353216">You cannot start a conversation now.</text>
+		<text bitflag="321" id1="6" id2="197491" version="1065353216">Out Of Range</text>
+		<text bitflag="321" id1="7" id2="197491" version="1065353216">That conversation is private.</text>
+		<text bitflag="321" id1="8" id2="197491" version="1065353216">You are not a member of that player's group.</text>
+		<text bitflag="321" id1="9" id2="197491" version="1065353216">Invalid Conversation</text>
+		<text bitflag="321" id1="10" id2="197491" version="1065353216">Cannot converse with that target.</text>
+		<text bitflag="321" id1="11" id2="197491" version="1065353216">Cannot converse with that target.</text>
+		<text bitflag="321" id1="12" id2="197491" version="1065353216">Not eligible to join your group member for this conversation, because you are on different mission steps.</text>
+		<text bitflag="321" id1="13" id2="197491" version="1065353216">Target too busy to converse right now.</text>
+		<text bitflag="321" id1="14" id2="197491" version="1065353216">Response Timer Expired</text>
+		<text bitflag="321" id1="15" id2="197491" version="1065353216">You are a guest in this phase and cannot start this conversation right now.</text>
+		<text bitflag="321" id1="16" id2="197491" version="1065353216">You have already been invited to a conversation.</text>
+		<text bitflag="321" id1="17" id2="197491" version="1065353216">Not Enough Persuasion Points</text>
+		<text bitflag="321" id1="18" id2="197491" version="1065353216">Not eligible for this conversation.</text>
+		<text bitflag="321" id1="19" id2="197491" version="1065353216">You are in combat</text>
+		<text bitflag="321" id1="257" id2="197491" version="1065353216">Missing Actor</text>
+		<text bitflag="321" id1="258" id2="197491" version="1065353216">Spectator Mode</text>
+		<text bitflag="321" id1="259" id2="197491" version="1065353216">&lt;&lt;1&gt;&gt; has aborted the conversation for all participants.</text>
+		<text bitflag="321" id1="261" id2="197491" version="1065353216">Not eligible to start multiplayer conversation because your groupmate is already starting a conversation with that object</text>
+	</file_content>
+</stb_file>

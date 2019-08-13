@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>39</strs>
+		<file_name>/resources/en-us/str/cnv/location/alderaan/bronze/republic/a_historic_endeavor/maelrich_alde.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="318395" id2="17" version="1065353216">It's so nice to see young people getting involved! Warms the heart, really!</text>
+		<text bitflag="1345" id1="318396" id2="17" version="1065353216">Please let Captain Alethios know when the Rist situation has been resolved.</text>
+		<text bitflag="1345" id1="318397" id2="17" version="1065353216">While you were pummeling House Rist's men into giving up their satellite codes, I've been trying to track their comm chatter.</text>
+		<text bitflag="1345" id1="318399" id2="17" version="1065353216">If we could get to their transceiver, you could destroy their communications network--knocking out their ability to speak, as well as see.</text>
+		<text bitflag="1360" id1="318400" id2="17" version="1065353216">I'll help you.</text>
+		<text bitflag="1360" id1="318401" id2="17" version="1065353216">Find a hidden transceiver?</text>
+		<text bitflag="1345" id1="318402" id2="17" version="1065353216">The Rists are operating out of the houses nearby--if I'm right, you'll find the transceiver there.</text>
+		<text bitflag="1345" id1="318404" id2="17" version="1065353216">Please tell Captain Alethios when the Rist transceiver is shut down. He's my nephew. Good lad. Promising career.</text>
+		<text bitflag="1360" id1="318405" id2="17" version="1065353216">Not now. [Refuse quest]</text>
+		<text bitflag="1345" id1="318406" id2="17" version="1065353216">Of course, of course. Do let me know if you change your mind.</text>
+		<text bitflag="1345" id1="318409" id2="17" version="1065353216">The Rist satellite relay has been disabled.</text>
+		<text bitflag="1345" id1="318410" id2="17" version="1065353216">I can't tell you how good it is to see young people working for the good of Alderaan!</text>
+		<text bitflag="1345" id1="318412" id2="17" version="1065353216">Thank you so much, my lady. You have done a great thing for Alderaan.</text>
+		<text bitflag="1345" id1="318414" id2="17" version="1065353216">Thank you, young man. It's so refreshing to see young people with an interest in public service.</text>
+		<text bitflag="1345" id1="318416" id2="17" version="1065353216">You'll probably need to rough up House Rist's agents in order to get the codes to the relay. Nothing else for it.</text>
+		<text bitflag="1345" id1="318417" id2="17" version="1065353216">Are you here to help? No, no. Impossible. My transmission never got through.</text>
+		<text bitflag="1345" id1="318419" id2="17" version="1065353216">You're not Imperials and you don't appear to be Rist thugs. Explorers, perhaps?</text>
+		<text bitflag="1345" id1="318421" id2="17" version="1065353216">What would bring a Jedi here? You can't be working for Rist. Too ridiculous a prospect to consider.</text>
+		<text bitflag="1345" id1="318423" id2="17" version="1065353216">Mercenary? No, too disciplined. Soldier? Hmm, but not one of Rist's. Curious.</text>
+		<text bitflag="1345" id1="318425" id2="17" version="1065353216">Hmm. You got here safely and you're not drooling on yourself. Can't be one of the Rists, then.</text>
+		<text bitflag="1345" id1="318427" id2="17" version="1065353216">Well, you haven't shot me yet, so I'll assume you're friendly. I don't suppose you'd be interested in helping an old operative?</text>
+		<text bitflag="1360" id1="318428" id2="17" version="1065353216">How can I help?</text>
+		<text bitflag="1345" id1="318429" id2="17" version="1065353216">Well, I came here to help House Organa, but I'm not as young as I used to be.</text>
+		<text bitflag="1345" id1="318431" id2="17" version="1065353216">No offense, but you're the most unlikely operative I've ever seen.</text>
+		<text bitflag="1360" id1="318431" id2="17" version="1065353216">You're a spy?</text>
+		<text bitflag="1345" id1="318432" id2="17" version="1065353216">I came out of retirement to help Alderaan. I'll have you know I was quite the spy back in my day.</text>
+		<text bitflag="1360" id1="318434" id2="17" version="1065353216">I'll hear your plan, anyway.</text>
+		<text bitflag="1345" id1="318435" id2="17" version="1065353216">House Rist has a satellite relay up in the mountains. It's central to their spy network for this region.</text>
+		<text bitflag="1345" id1="318437" id2="17" version="1065353216">Disabling it will throw Rist into confusion and save the lives of countless Organa troops. But I can't get near it.</text>
+		<text bitflag="1345" id1="318438" id2="17" version="1065353216">What needs to be done to take out this satellite relay?</text>
+		<text bitflag="1360" id1="318438" id2="17" version="1065353216">I can take care of it.</text>
+		<text bitflag="1345" id1="318439" id2="17" version="1065353216">I can't keep all these houses straight. Which one is Rist?</text>
+		<text bitflag="1360" id1="318439" id2="17" version="1065353216">Who is House Rist?</text>
+		<text bitflag="1345" id1="318440" id2="17" version="1065353216">They're assassins, for the most part. With a few spies. Their family reunions must be dreadful.</text>
+		<text bitflag="1345" id1="318442" id2="17" version="1065353216">If you could get the command codes for the relay from House Rist's men, you could use the codes to take control.</text>
+		<text bitflag="1345" id1="318444" id2="17" version="1065353216">Without the relay, those Rist miscreants won't be able to watch the area. Then the Organas could march in and send those bullies packing.</text>
+		<text bitflag="1360" id1="318446" id2="17" version="1065353216">Too bad. [Refuse quest]</text>
+		<text bitflag="1345" id1="318447" id2="17" version="1065353216">Young people these days....</text>
+		<text bitflag="1345" id1="318448" id2="17" version="1065353216">I would be more than happy to talk to you later. Perhaps when I'm less in danger of being murdered.</text>
+	</file_content>
+</stb_file>

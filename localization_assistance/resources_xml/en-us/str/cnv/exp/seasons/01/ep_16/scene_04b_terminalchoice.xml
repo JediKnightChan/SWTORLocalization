@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/01/ep_16/scene_04b_terminalchoice.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1214059" id2="17" version="1065353216">You discover a deployment terminal offering Zakuulan weapons and armor or defense turrets.</text>
+		<text bitflag="336" id1="1214060" id2="17" version="1065353216">Choose the weapons and shields</text>
+		<text bitflag="336" id1="1214061" id2="17" version="1065353216">Choose the turrets</text>
+	</file_content>
+</stb_file>

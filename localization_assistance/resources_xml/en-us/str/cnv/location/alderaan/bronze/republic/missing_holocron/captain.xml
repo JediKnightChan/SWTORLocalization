@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>38</strs>
+		<file_name>/resources/en-us/str/cnv/location/alderaan/bronze/republic/missing_holocron/captain.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="317753" id2="17" version="1065353216">Thanks to you, I'm sure to be promoted to captain this time!</text>
+		<text bitflag="1345" id1="317756" id2="17" version="1065353216">Recover the holocron and take it to Master Dolso of the Jedi.</text>
+		<text bitflag="1345" id1="317759" id2="17" version="1065353216">Ah. You must be the one the Republic sent. About time you got here!</text>
+		<text bitflag="1345" id1="317761" id2="17" version="1065353216">I'm glad to see they sent a Jedi. Obviously, they're starting to realize how important I am.</text>
+		<text bitflag="1345" id1="317763" id2="17" version="1065353216">I knew they'd send someone to help me out. I was hoping for a Jedi, but I guess a soldier will do.</text>
+		<text bitflag="1345" id1="317765" id2="17" version="1065353216">I was expecting a soldier or maybe even a Jedi, but I'm sure you're very capable in your own way.</text>
+		<text bitflag="1345" id1="317767" id2="17" version="1065353216">Ah. You must be the ones the Republic sent. About time you got here!</text>
+		<text bitflag="1345" id1="317769" id2="17" version="1065353216">I'm glad they sent more than one person. Obviously, they're starting to appreciate how important I am.</text>
+		<text bitflag="1345" id1="317771" id2="17" version="1065353216">I'm surprised no one responded to my request in person, though. It's almost like the Republic commanders are ignoring me.</text>
+		<text bitflag="1360" id1="317772" id2="17" version="1065353216">I'm sorry. I don't know you.</text>
+		<text bitflag="1345" id1="317773" id2="17" version="1065353216">Well, that's just great! Once again, the Republic is too busy to listen to lowly Lieutenant Weeznod of House Organa!</text>
+		<text bitflag="1360" id1="317775" id2="17" version="1065353216">I don't blame them.</text>
+		<text bitflag="1345" id1="317776" id2="17" version="1065353216">Do you know who I am? I'm Lieutenant Weeznod--the twenty-third highest ranking officer in all of House Organa!</text>
+		<text bitflag="1345" id1="317778" id2="17" version="1065353216">Or maybe it's twenty-fourth. Someone may have been promoted above me last week. It's hard to keep track.</text>
+		<text bitflag="1345" id1="317780" id2="17" version="1065353216">Refresh my memory. What exactly was I supposed to do for you?</text>
+		<text bitflag="1360" id1="317780" id2="17" version="1065353216">Uh... no. They sent me.</text>
+		<text bitflag="1345" id1="317781" id2="17" version="1065353216">Refresh your memory? Oh, I get it. This is just one big joke to you.</text>
+		<text bitflag="1345" id1="317783" id2="17" version="1065353216">Let's make fun of Lieutenant Weeznod from House Organa! He's just a loser. He's never in charge of anything important.</text>
+		<text bitflag="1345" id1="317785" id2="17" version="1065353216">But if I get that holocron back, you'll be looking at Captain Weeznod! Then people will give me the respect I deserve!</text>
+		<text bitflag="1345" id1="317786" id2="17" version="1065353216">If you're only doing your job to get promoted, that could be why nobody respects you.</text>
+		<text bitflag="1360" id1="317786" id2="17" version="1065353216">Is that all you care about?</text>
+		<text bitflag="1345" id1="317787" id2="17" version="1065353216">They're just jealous. My family is a wealthy supporter of House Organa, so I didn't have to enlist as some lowly private.</text>
+		<text bitflag="1345" id1="317789" id2="17" version="1065353216">But I can see the Republic doesn't care about any of that. Obviously, no one else is coming. You're the only one who can help me.</text>
+		<text bitflag="1345" id1="317791" id2="17" version="1065353216">Your name is Weeznod. Nobody's ever going to respect you.</text>
+		<text bitflag="1360" id1="317791" id2="17" version="1065353216">Don't count on it.</text>
+		<text bitflag="1345" id1="317792" id2="17" version="1065353216">The Weeznods have a long and proud tradition! We've been supporters of House Organa for centuries!</text>
+		<text bitflag="1345" id1="317794" id2="17" version="1065353216">Look, I don't want to argue. Obviously, nobody else is coming. You're the only one who can help me.</text>
+		<text bitflag="1360" id1="317796" id2="17" version="1065353216">A holocron? What do you mean?</text>
+		<text bitflag="1345" id1="317797" id2="17" version="1065353216">Oh, sure. I get it. I mention a holocron and suddenly you're interested. Fine. We can play it that way.</text>
+		<text bitflag="1345" id1="317799" id2="17" version="1065353216">Agents from House Thul recently recovered an ancient Jedi holocron. They've arranged a meeting with some Sith to hand the holocron over.</text>
+		<text bitflag="1345" id1="317800" id2="17" version="1065353216">What makes this holocron so special?</text>
+		<text bitflag="1360" id1="317800" id2="17" version="1065353216">What's on the holocron?</text>
+		<text bitflag="1345" id1="317801" id2="17" version="1065353216">It contains historical records of atrocities House Thul committed. If that info becomes public, it will weaken their support with the other houses.</text>
+		<text bitflag="1360" id1="317803" id2="17" version="1065353216">Tell me where to find them.</text>
+		<text bitflag="1345" id1="317804" id2="17" version="1065353216">Here's the location for the meeting. Once you get the holocron, take it to Master Dolso of the Jedi. I'll let him know you're coming.</text>
+		<text bitflag="1360" id1="317806" id2="17" version="1065353216">Bye, loser. [Refuse quest]</text>
+		<text bitflag="1345" id1="317807" id2="17" version="1065353216">Fine. Walk away. I'll just find someone else to help me. You'll see!</text>
+		<text bitflag="1345" id1="317811" id2="17" version="1065353216">Please! I have a very important job! I can't have all these distractions!</text>
+	</file_content>
+</stb_file>

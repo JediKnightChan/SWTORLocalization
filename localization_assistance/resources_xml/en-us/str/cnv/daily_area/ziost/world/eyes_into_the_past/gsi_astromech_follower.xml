@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/ziost/world/eyes_into_the_past/gsi_astromech_follower.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1155601" id2="17" version="1065353216">Unit power levels = nominal // Unit = continuing projection subroutines</text>
+		<text bitflag="3393" id1="1155603" id2="17" version="1065353216">Unit = detects something nearby // Unit = awaiting Handler identification</text>
+		<text bitflag="3393" id1="1155604" id2="17" version="1065353216">Handler = near unscanned site // Unit = ready to survey</text>
+		<text bitflag="3393" id1="1155605" id2="17" version="1065353216">Survey site = nearby // Handler = be alert</text>
+		<text bitflag="3393" id1="1155606" id2="17" version="1065353216">Unit power levels = low // Handler = has power cells?</text>
+		<text bitflag="3393" id1="1155607" id2="17" version="1065353216">Unit power levels = critical // Unit = powering down...</text>
+		<text bitflag="3393" id1="1155608" id2="17" version="1065353216">Site survey data = complete // Unit directives = upload data to holo-relay</text>
+		<text bitflag="3393" id1="1155609" id2="17" version="1065353216">Survey data = uploaded // Unit functions = complete</text>
+		<text bitflag="3393" id1="1155610" id2="17" version="1065353216">Scan = complete // Identification = stonework monument</text>
+		<text bitflag="3393" id1="1155612" id2="17" version="1065353216">Reconstruction simulation = complete // Holo-simulation of monuments = enabled</text>
+		<text bitflag="3393" id1="1155614" id2="17" version="1065353216">Scan = complete // Identification = structural obelisk</text>
+		<text bitflag="3393" id1="1155616" id2="17" version="1065353216">Reconstruction simulation = complete // Holo-simulation of structural elements = enabled</text>
+		<text bitflag="3393" id1="1155618" id2="17" version="1065353216">Scan = complete // Identification = ceremonial earthwork containers</text>
+		<text bitflag="3393" id1="1155620" id2="17" version="1065353216">Reconstruction simulation = complete // Holo-simulation of pottery = enabled</text>
+		<text bitflag="3393" id1="1155622" id2="17" version="1065353216">Scan = complete // Identification = masonry humanoid replica</text>
+		<text bitflag="3393" id1="1155624" id2="17" version="1065353216">Reconstruction simulation = complete // Holo-simulation of statues = enabled</text>
+		<text bitflag="3393" id1="1155626" id2="17" version="1065353216">Scan = complete // Identification = fragmented linguistical representation</text>
+		<text bitflag="3393" id1="1155628" id2="17" version="1065353216">Reconstruction simulation = complete // Holo-translation of carvings = enabled</text>
+		<text bitflag="3393" id1="1155890" id2="17" version="1065353216">Unit = not programmed for combat // Handler = help!</text>
+	</file_content>
+</stb_file>

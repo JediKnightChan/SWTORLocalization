@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>163</strs>
+		<file_name>/resources/en-us/str/gui/collection.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="748427" version="1065353216">&lt;&lt;1&gt;&gt; has been added to your Collection.</text>
+		<text bitflag="321" id1="257" id2="748427" version="1065353216">Toys</text>
+		<text bitflag="321" id1="258" id2="748427" version="1065353216">Space Equipment</text>
+		<text bitflag="321" id1="259" id2="748427" version="1065353216">Titles</text>
+		<text bitflag="321" id1="260" id2="748427" version="1065353216">Pets</text>
+		<text bitflag="321" id1="261" id2="748427" version="1065353216">Weapons</text>
+		<text bitflag="321" id1="262" id2="748427" version="1065353216">Armor</text>
+		<text bitflag="321" id1="263" id2="748427" version="1065353216">Cartel Market</text>
+		<text bitflag="321" id1="264" id2="748427" version="1065353216">Vehicles</text>
+		<text bitflag="321" id1="265" id2="748427" version="1065353216">Supreme Mogul's Contraband Pack</text>
+		<text bitflag="321" id1="266" id2="748427" version="1065353216">Archon's Contraband Pack</text>
+		<text bitflag="321" id1="267" id2="748427" version="1065353216">Vice Commandant's Contraband Pack</text>
+		<text bitflag="321" id1="268" id2="748427" version="1065353216">Enforcer's Contraband Pack</text>
+		<text bitflag="321" id1="269" id2="748427" version="1065353216">Regulator's Contraband Pack</text>
+		<text bitflag="321" id1="270" id2="748427" version="1065353216">All Contraband Packs</text>
+		<text bitflag="321" id1="271" id2="748427" version="1065353216">Space Pirate's Cartel Pack</text>
+		<text bitflag="321" id1="272" id2="748427" version="1065353216">Blockade Runner's Cartel Pack</text>
+		<text bitflag="321" id1="273" id2="748427" version="1065353216">Crime Lord's Cartel Pack</text>
+		<text bitflag="321" id1="274" id2="748427" version="1065353216">Black Market Cartel Pack</text>
+		<text bitflag="321" id1="275" id2="748427" version="1065353216">All Cartel Packs</text>
+		<text bitflag="321" id1="276" id2="748427" version="1065353216">Items By Pack</text>
+		<text bitflag="321" id1="277" id2="748427" version="1065353216">Return of the Gree</text>
+		<text bitflag="321" id1="278" id2="748427" version="1065353216">Life Day</text>
+		<text bitflag="321" id1="279" id2="748427" version="1065353216">Collector's Edition</text>
+		<text bitflag="321" id1="280" id2="748427" version="1065353216">Promotional Items</text>
+		<text bitflag="321" id1="281" id2="748427" version="1065353216">Unlocks</text>
+		<text bitflag="321" id1="282" id2="748427" version="1065353216">Skip Tracer Cartel Pack</text>
+		<text bitflag="321" id1="283" id2="748427" version="1065353216">You must have &lt;&lt;1&gt;&gt; free inventory slots before reclaiming these items.</text>
+		<text bitflag="321" id1="284" id2="748427" version="1065353216">INSPECT ITEM</text>
+		<text bitflag="321" id1="285" id2="748427" version="1065353216">COLLECTIONS</text>
+		<text bitflag="321" id1="286" id2="748427" version="1065353216">Categories:</text>
+		<text bitflag="321" id1="287" id2="748427" version="1065353216">Items</text>
+		<text bitflag="321" id1="288" id2="748427" version="1065353216">Transfer a copy of this item to your inventory.&lt;br&gt;&lt;br&gt;Pets, Emotes, Titles and Vehicles will automatically be learned by your character.</text>
+		<text bitflag="321" id1="289" id2="748427" version="1065353216">Open Cartel Market</text>
+		<text bitflag="321" id1="290" id2="748427" version="1065353216">Show Details</text>
+		<text bitflag="321" id1="296" id2="748427" version="1065353216">Requires Level &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="297" id2="748427" version="1065353216">You have added this item to your Collection from another character.&lt;br&gt;&lt;br&gt;You may purchase the ability for all characters on your account to claim copies of this item.</text>
+		<text bitflag="321" id1="298" id2="748427" version="1065353216">You do not meet the requirements to reclaim this item.</text>
+		<text bitflag="321" id1="299" id2="748427" version="1065353216">You do not have permission to reclaim this item.</text>
+		<text bitflag="321" id1="300" id2="748427" version="1065353216">This item is not currently in your Collection and cannot be reclaimed.&lt;br&gt;&lt;br&gt;Once this item is collected, you may transfer copies of it to your inventory.</text>
+		<text bitflag="321" id1="301" id2="748427" version="1065353216">&lt;&lt;1&gt;&gt; - COMPLETED</text>
+		<text bitflag="321" id1="302" id2="748427" version="1065353216">Color Crystals</text>
+		<text bitflag="321" id1="303" id2="748427" version="1065353216">Emotes</text>
+		<text bitflag="321" id1="304" id2="748427" version="1065353216">Open the Collections interface.</text>
+		<text bitflag="321" id1="305" id2="748427" version="1065353216">Shipment 1: Cartel Packs</text>
+		<text bitflag="321" id1="306" id2="748427" version="1065353216">Shipment 2: Contraband Packs</text>
+		<text bitflag="321" id1="307" id2="748427" version="1065353216">Companion Customization</text>
+		<text bitflag="321" id1="308" id2="748427" version="1065353216">Promotional Items</text>
+		<text bitflag="321" id1="309" id2="748427" version="1065353216">Public Test Server</text>
+		<text bitflag="321" id1="310" id2="748427" version="1065353216">Cartel Reputation</text>
+		<text bitflag="321" id1="311" id2="748427" version="1065353216">Contraband Resale Corp.</text>
+		<text bitflag="321" id1="312" id2="748427" version="1065353216">You have successfully reclaimed &lt;&lt;1[an item/items]&gt;&gt; from your Collection!</text>
+		<text bitflag="321" id1="314" id2="748427" version="1065353216">You have successfully reclaimed &lt;&lt;1[an emote/emotes]&gt;&gt; from your Collection!</text>
+		<text bitflag="321" id1="316" id2="748427" version="1065353216">You have successfully reclaimed &lt;&lt;1[an ability/abilities]&gt;&gt; from your Collection!</text>
+		<text bitflag="321" id1="317" id2="748427" version="1065353216">&lt;&lt;1&gt;&gt; of &lt;&lt;2&gt;&gt; items in this set have been collected.&lt;br&gt;&lt;br&gt;You may tranfer copies of this set to your inventory.</text>
+		<text bitflag="321" id1="318" id2="748427" version="1065353216">You have successfully reclaimed &lt;&lt;1[a title/titles]&gt;&gt; from your Collection!</text>
+		<text bitflag="321" id1="319" id2="748427" version="1065353216">You currently have &lt;&lt;1&gt;&gt; of &lt;&lt;2&gt;&gt; items in this set.&lt;br&gt;&lt;br&gt;Once all items are bound to you, it will become unlocked in your Collection.</text>
+		<text bitflag="321" id1="320" id2="748427" version="1065353216">All characters on your account can retrieve copies of this item.</text>
+		<text bitflag="321" id1="321" id2="748427" version="1065353216">You already have this item.</text>
+		<text bitflag="321" id1="322" id2="748427" version="1065353216">Rise of the Hutt Cartel Pre-order</text>
+		<text bitflag="321" id1="323" id2="748427" version="1065353216">Shipment 3: Bounty Packs</text>
+		<text bitflag="321" id1="324" id2="748427" version="1065353216">Contractor's Bounty Pack</text>
+		<text bitflag="321" id1="325" id2="748427" version="1065353216">Freelancer's Bounty Pack</text>
+		<text bitflag="321" id1="326" id2="748427" version="1065353216">Pursuer's Bounty Pack</text>
+		<text bitflag="321" id1="327" id2="748427" version="1065353216">Tracker's Bounty Pack</text>
+		<text bitflag="321" id1="328" id2="748427" version="1065353216">Opportunist's Bounty Pack</text>
+		<text bitflag="321" id1="329" id2="748427" version="1065353216">All Bounty Packs</text>
+		<text bitflag="321" id1="330" id2="748427" version="1065353216">Bounty Supply Company</text>
+		<text bitflag="321" id1="333" id2="748427" version="1065353216">Events</text>
+		<text bitflag="321" id1="334" id2="748427" version="1065353216">Holiday</text>
+		<text bitflag="321" id1="335" id2="748427" version="1065353216">Shipment 4: Starfighter Packs</text>
+		<text bitflag="321" id1="336" id2="748427" version="1065353216">All Starfighter Packs</text>
+		<text bitflag="321" id1="337" id2="748427" version="1065353216">Wingman's Starfighter Pack</text>
+		<text bitflag="321" id1="338" id2="748427" version="1065353216">Dogfighter's Starfighter Pack</text>
+		<text bitflag="321" id1="339" id2="748427" version="1065353216">Galactic Ace's Starfighter Pack</text>
+		<text bitflag="321" id1="340" id2="748427" version="1065353216">Space Jockey's Starfighter Pack</text>
+		<text bitflag="321" id1="341" id2="748427" version="1065353216">Hotshot's Starfighter Pack</text>
+		<text bitflag="321" id1="342" id2="748427" version="1065353216">General</text>
+		<text bitflag="321" id1="344" id2="748427" version="1065353216">Interplanetary Component Exchange</text>
+		<text bitflag="321" id1="345" id2="748427" version="1065353216">Shipment 5: Stronghold Packs</text>
+		<text bitflag="321" id1="346" id2="748427" version="1065353216">All Stronghold Packs</text>
+		<text bitflag="321" id1="347" id2="748427" version="1065353216">Builder's Stronghold Pack</text>
+		<text bitflag="321" id1="348" id2="748427" version="1065353216">Gatekeeper's Stronghold Pack</text>
+		<text bitflag="321" id1="349" id2="748427" version="1065353216">Constable's Stronghold Pack</text>
+		<text bitflag="321" id1="350" id2="748427" version="1065353216">Seneschal's Stronghold Pack</text>
+		<text bitflag="321" id1="351" id2="748427" version="1065353216">Architect's Stronghold Pack</text>
+		<text bitflag="321" id1="352" id2="748427" version="1065353216">Binary Star Realty</text>
+		<text bitflag="321" id1="353" id2="748427" version="1065353216">Nightlife Packs</text>
+		<text bitflag="321" id1="354" id2="748427" version="1065353216">All Nightlife Packs</text>
+		<text bitflag="321" id1="355" id2="748427" version="1065353216">Star Cluster Nightlife Pack</text>
+		<text bitflag="321" id1="356" id2="748427" version="1065353216">Club Vertica Nightlife Pack</text>
+		<text bitflag="321" id1="358" id2="748427" version="1065353216">Shipment 6: Shadow Packs</text>
+		<text bitflag="321" id1="359" id2="748427" version="1065353216">All Shadow Packs</text>
+		<text bitflag="321" id1="360" id2="748427" version="1065353216">Initiate's Shadow Pack</text>
+		<text bitflag="321" id1="361" id2="748427" version="1065353216">Pilgrim's Shadow Pack</text>
+		<text bitflag="321" id1="362" id2="748427" version="1065353216">Acolyte's Shadow Pack</text>
+		<text bitflag="321" id1="363" id2="748427" version="1065353216">Apprentice's Shadow Pack</text>
+		<text bitflag="321" id1="364" id2="748427" version="1065353216">Master's Shadow Pack</text>
+		<text bitflag="321" id1="365" id2="748427" version="1065353216">Freebooter's Trade Union</text>
+		<text bitflag="321" id1="366" id2="748427" version="1065353216">Shipment 7: Explorer Packs</text>
+		<text bitflag="321" id1="367" id2="748427" version="1065353216">All Explorer Packs</text>
+		<text bitflag="321" id1="368" id2="748427" version="1065353216">Core Worlds Explorer's Pack</text>
+		<text bitflag="321" id1="369" id2="748427" version="1065353216">Deep Core Explorer's Pack</text>
+		<text bitflag="321" id1="370" id2="748427" version="1065353216">Mid Rim Explorer's Pack</text>
+		<text bitflag="321" id1="371" id2="748427" version="1065353216">Outer Rim Explorer's Pack</text>
+		<text bitflag="321" id1="372" id2="748427" version="1065353216">Wild Space Explorer's Pack</text>
+		<text bitflag="321" id1="373" id2="748427" version="1065353216">Esstran Exports</text>
+		<text bitflag="321" id1="374" id2="748427" version="1065353216">Shipment 8: Alliance Packs</text>
+		<text bitflag="321" id1="375" id2="748427" version="1065353216">All Alliance Packs</text>
+		<text bitflag="321" id1="376" id2="748427" version="1065353216">Underworld Alliance Pack</text>
+		<text bitflag="321" id1="377" id2="748427" version="1065353216">Force Alliance Pack</text>
+		<text bitflag="321" id1="378" id2="748427" version="1065353216">Strategy Alliance Pack</text>
+		<text bitflag="321" id1="379" id2="748427" version="1065353216">Research Alliance Pack</text>
+		<text bitflag="321" id1="380" id2="748427" version="1065353216">Filter:</text>
+		<text bitflag="321" id1="381" id2="748427" version="1065353216">Collapse All</text>
+		<text bitflag="321" id1="382" id2="748427" version="1065353216">Clear</text>
+		<text bitflag="321" id1="386" id2="748427" version="1065353216">Show All Items</text>
+		<text bitflag="321" id1="387" id2="748427" version="1065353216">Show Collected</text>
+		<text bitflag="321" id1="388" id2="748427" version="1065353216">Show Uncollected</text>
+		<text bitflag="321" id1="389" id2="748427" version="1065353216">Anarchist Pack</text>
+		<text bitflag="321" id1="390" id2="748427" version="1065353216">Disavowed Pack</text>
+		<text bitflag="321" id1="391" id2="748427" version="1065353216">Visionary Pack</text>
+		<text bitflag="321" id1="392" id2="748427" version="1065353216">Plunderer Pack</text>
+		<text bitflag="321" id1="393" id2="748427" version="1065353216">Revenge Pack</text>
+		<text bitflag="321" id1="394" id2="748427" version="1065353216">GEMINI Pack</text>
+		<text bitflag="321" id1="395" id2="748427" version="1065353216">Battler Pack</text>
+		<text bitflag="321" id1="396" id2="748427" version="1065353216">Manipulator Pack</text>
+		<text bitflag="321" id1="401" id2="748427" version="1065353216">Companions</text>
+		<text bitflag="321" id1="408" id2="748427" version="1065353216">Lightsabers</text>
+		<text bitflag="321" id1="409" id2="748427" version="1065353216">Dualsabers</text>
+		<text bitflag="321" id1="410" id2="748427" version="1065353216">Blasters</text>
+		<text bitflag="321" id1="411" id2="748427" version="1065353216">Blaster Rifles</text>
+		<text bitflag="321" id1="412" id2="748427" version="1065353216">Sniper Rifles</text>
+		<text bitflag="321" id1="413" id2="748427" version="1065353216">Assault Cannons</text>
+		<text bitflag="321" id1="414" id2="748427" version="1065353216">Vibroswords</text>
+		<text bitflag="321" id1="415" id2="748427" version="1065353216">Double-Bladed Vibroswords</text>
+		<text bitflag="321" id1="416" id2="748427" version="1065353216">Mounts</text>
+		<text bitflag="321" id1="417" id2="748427" version="1065353216">Creatures</text>
+		<text bitflag="321" id1="418" id2="748427" version="1065353216">Ship Models</text>
+		<text bitflag="321" id1="419" id2="748427" version="1065353216">Droids</text>
+		<text bitflag="321" id1="420" id2="748427" version="1065353216">Scavenger Pack</text>
+		<text bitflag="321" id1="421" id2="748427" version="1065353216">Oppressor Pack</text>
+		<text bitflag="321" id1="422" id2="748427" version="1065353216">Shipment 9: Command Packs</text>
+		<text bitflag="321" id1="423" id2="748427" version="1065353216">Eternal Command Pack</text>
+		<text bitflag="321" id1="424" id2="748427" version="1065353216">Flair</text>
+		<text bitflag="321" id1="425" id2="748427" version="1065353216">Stalwart Leader Pack</text>
+		<text bitflag="321" id1="426" id2="748427" version="1065353216">All Command Packs</text>
+		<text bitflag="321" id1="427" id2="748427" version="1065353216">Vigilant Defender Pack</text>
+		<text bitflag="321" id1="428" id2="748427" version="1065353216">Warbound Crusader Pack</text>
+		<text bitflag="321" id1="429" id2="748427" version="1065353216">Steadfast Champion Pack</text>
+		<text bitflag="321" id1="430" id2="748427" version="1065353216">Reputation</text>
+		<text bitflag="321" id1="431" id2="748427" version="1065353216">Dread Warlord Pack</text>
+		<text bitflag="321" id1="432" id2="748427" version="1065353216">Armed Resistance Pack</text>
+		<text bitflag="321" id1="433" id2="748427" version="1065353216">Tunings</text>
+		<text bitflag="321" id1="435" id2="748427" version="1065353216">Precious Cargo Pack</text>
+		<text bitflag="321" id1="436" id2="748427" version="1065353216">Singularity Pack</text>
+		<text bitflag="321" id1="437" id2="748427" version="1065353216">Shipment 10: United Forces Packs</text>
+		<text bitflag="321" id1="438" id2="748427" version="1065353216">All United Forces Packs</text>
+		<text bitflag="321" id1="439" id2="748427" version="1065353216">Spoils of War Pack</text>
+		<text bitflag="321" id1="440" id2="748427" version="1065353216">Archive</text>
+		<text bitflag="321" id1="441" id2="748427" version="1065353216">Recently Added</text>
+		<text bitflag="321" id1="442" id2="748427" version="1065353216">All</text>
+		<text bitflag="321" id1="443" id2="748427" version="1065353216">Discord Pack</text>
+	</file_content>
+</stb_file>

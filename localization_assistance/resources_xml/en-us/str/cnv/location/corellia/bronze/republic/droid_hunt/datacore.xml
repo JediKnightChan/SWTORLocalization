@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/bronze/republic/droid_hunt/datacore.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="234455" id2="17" version="1065353216">[You examine a datacore pulled from the Corellian droid's wreckage and read its final log entry.]</text>
+		<text bitflag="321" id1="234457" id2="17" version="1065353216">System corruption detected. Source of malicious code: Imperial command droid units.</text>
+		<text bitflag="321" id1="234459" id2="17" version="1065353216">Attempting syst0egjsr010001011000reprogram complete. Imperial protocol activated. Calibrating weapons to fire on Corellian rebels.</text>
+		<text bitflag="321" id1="234461" id2="17" version="1065353216">[Imperial command droids turned this Corellian model against the resistance. If you destroy the Imperial droids, you should be able to stop them from corrupting more followers.]</text>
+		<text bitflag="336" id1="234462" id2="17" version="1065353216">[Accept quest]</text>
+		<text bitflag="336" id1="234463" id2="17" version="1065353216">[Refuse quest]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>25</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris_imp/class/sith_warrior/mine_center_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="619594" id2="17" version="1065353216">The facility will self-destruct in ten seconds... nine... eight... seven... six... five... four... three... two... one....</text>
+		<text bitflag="1345" id1="619595" id2="17" version="1065353216">The facility will self-destruct in thirty seconds....</text>
+		<text bitflag="1345" id1="619600" id2="17" version="1065353216">Damage to base detected. Initiating emergency shutdown and data encryption in two minutes.</text>
+		<text bitflag="321" id1="619601" id2="17" version="1065353216">[You stop the emergency shutdown and access the database.]</text>
+		<text bitflag="321" id1="619602" id2="17" version="1065353216">[Accessing database.]</text>
+		<text bitflag="321" id1="619604" id2="17" version="1065353216">[Accessing database.]</text>
+		<text bitflag="321" id1="619606" id2="17" version="1065353216">[You learn that General Frellka is mining materials for Project: Siantide. The War Trust General Minst is in charge of receiving the materials from this cave.]</text>
+		<text bitflag="321" id1="619608" id2="17" version="1065353216">[General Minst is stationed at the dismantled reactor core in the sewer sector of old Taris.]</text>
+		<text bitflag="321" id1="619610" id2="17" version="1065353216">[Choose function:]</text>
+		<text bitflag="321" id1="619611" id2="17" version="1065353216">[Access Project Siantide.]</text>
+		<text bitflag="336" id1="619611" id2="17" version="1065353216">[Access Project Siantide]</text>
+		<text bitflag="321" id1="619612" id2="17" version="1065353216">[Access mine self-destruct sequence.]</text>
+		<text bitflag="336" id1="619612" id2="17" version="1065353216">[Access self-destruct]</text>
+		<text bitflag="321" id1="619613" id2="17" version="1065353216">[Warning: Once mine self-destruct sequence has been initiated, it cannot be deactivated.]</text>
+		<text bitflag="321" id1="619614" id2="17" version="1065353216">[Initiate mine self-destruct sequence.]</text>
+		<text bitflag="336" id1="619614" id2="17" version="1065353216">[Initiate self-destruct]</text>
+		<text bitflag="321" id1="619615" id2="17" version="1065353216">[Access Project Siantide.]</text>
+		<text bitflag="336" id1="619615" id2="17" version="1065353216">[Access Project Siantide]</text>
+		<text bitflag="321" id1="619616" id2="17" version="1065353216">[You learn that the substance being mined here is residue from the incineration of the millions of life-forms that perished when the Empire bombarded Taris.]</text>
+		<text bitflag="321" id1="619618" id2="17" version="1065353216">[The Republic has discovered a way to process the substance into a powerful new energy source. The full implications are still unknown.]</text>
+		<text bitflag="321" id1="619619" id2="17" version="1065353216">[Initiate mine self-destruct sequence.]</text>
+		<text bitflag="336" id1="619619" id2="17" version="1065353216">[Initiate self-destruct]</text>
+		<text bitflag="1345" id1="619620" id2="17" version="1065353216">The facility will self-destruct in sixty seconds....</text>
+		<text bitflag="321" id1="619622" id2="17" version="1065353216">[Do not initiate mine self-destruct sequence.]</text>
+		<text bitflag="336" id1="619622" id2="17" version="1065353216">[Do not start self-destruct]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x3/event/scavenger_hunt/imperial/imperial_slicing_droid.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1049609" id2="17" version="1065353216">I see you found the droid: excellent. This data should lead you to this plasma-sealed jar.</text>
+		<text bitflag="1345" id1="1049611" id2="17" version="1065353216">Apparently, Nar Shaddaa's original architects deliberately engineered a fault in the transport system. A secret route.</text>
+		<text bitflag="1345" id1="1049613" id2="17" version="1065353216">Now their secret is ours. Take a public speeder to the following coordinates; it should trigger whatever they had to hide.</text>
+		<text bitflag="1345" id1="1049616" id2="17" version="1065353216">My lord Xaresh, this droid contains all the relevant information on the plasma-sealed jar you seek.</text>
+		<text bitflag="1345" id1="1049618" id2="17" version="1065353216">You were correct. There is a glitch in the Nar Shaddaa transport system; an ancient glitch which can be triggered.</text>
+		<text bitflag="1345" id1="1049620" id2="17" version="1065353216">If you can suffer to use a public speeder, my lord, take it to these coordinates. The glitch should do the rest.</text>
+	</file_content>
+</stb_file>

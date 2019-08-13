@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>8</strs>
+		<file_name>/resources/en-us/str/cnv/flashpoint/rishi/flashpoint_2/shared/moral_choice.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1138491" id2="17" version="1065353216">[These anti-aircraft guns are currently firing upon Imperial warships in orbit.]</text>
+		<text bitflag="336" id1="1138494" id2="17" version="1065353216">[Set to fire on Republic ships.]</text>
+		<text bitflag="336" id1="1138495" id2="17" version="1065353216">[Set to fire on Revanite ships.]</text>
+		<text bitflag="321" id1="1138501" id2="17" version="1065353216">[These anti-aircraft guns are currently firing upon Republic warships in orbit.]</text>
+		<text bitflag="336" id1="1138502" id2="17" version="1065353216">[Set to fire on Revanite ships.]</text>
+		<text bitflag="336" id1="1138503" id2="17" version="1065353216">[Set to fire on Imperial ships.]</text>
+		<text bitflag="1345" id1="1151046" id2="17" version="1065353216">[You notice that the targeting parameters can be altered.]</text>
+		<text bitflag="1345" id1="1151048" id2="17" version="1065353216">[You notice that the targeting parameters can be altered.]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>76</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/cc/jedi_knight/t7.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="67509" id2="17" version="1065353216">Enemy = in range</text>
+		<text bitflag="3393" id1="67511" id2="17" version="1065353216">Combat protocols = active</text>
+		<text bitflag="3393" id1="67513" id2="17" version="1065353216">T7 weapons = armed</text>
+		<text bitflag="3393" id1="67515" id2="17" version="1065353216">T7 = opening fire</text>
+		<text bitflag="3393" id1="67517" id2="17" version="1065353216">Enemy = attacking</text>
+		<text bitflag="3393" id1="67519" id2="17" version="1065353216">Enemy leader = targeting</text>
+		<text bitflag="3393" id1="67521" id2="17" version="1065353216">T7 = ready to fight</text>
+		<text bitflag="3393" id1="67523" id2="17" version="1065353216">Deactivation = not an option!</text>
+		<text bitflag="3393" id1="67525" id2="17" version="1065353216">T7 + weapons = enemy sorry</text>
+		<text bitflag="3393" id1="67527" id2="17" version="1065353216">Victory = T7 + Jedi</text>
+		<text bitflag="3393" id1="67531" id2="17" version="1065353216">Affirmative</text>
+		<text bitflag="3393" id1="67533" id2="17" version="1065353216">Understood</text>
+		<text bitflag="3393" id1="67535" id2="17" version="1065353216">T7 = obeying</text>
+		<text bitflag="3393" id1="67537" id2="17" version="1065353216">Orders = received</text>
+		<text bitflag="3393" id1="67539" id2="17" version="1065353216">Jedi instructions = clear</text>
+		<text bitflag="3393" id1="67543" id2="17" version="1065353216">Negative</text>
+		<text bitflag="3393" id1="67545" id2="17" version="1065353216">Request = impossible</text>
+		<text bitflag="3393" id1="67547" id2="17" version="1065353216">T7 = unable to comply</text>
+		<text bitflag="3393" id1="67551" id2="17" version="1065353216">Goodbye</text>
+		<text bitflag="3393" id1="67553" id2="17" version="1065353216">T7 = leaving</text>
+		<text bitflag="3393" id1="67555" id2="17" version="1065353216">T7 = back soon</text>
+		<text bitflag="3393" id1="67557" id2="17" version="1065353216">T7 = back to rest.</text>
+		<text bitflag="3393" id1="67559" id2="17" version="1065353216">Jedi = stay safe</text>
+		<text bitflag="3393" id1="67563" id2="17" version="1065353216">T7 = malfunctioning</text>
+		<text bitflag="3393" id1="67565" id2="17" version="1065353216">Major systems = crippled</text>
+		<text bitflag="3393" id1="67567" id2="17" version="1065353216">T7 = requires emergency maintenance</text>
+		<text bitflag="3393" id1="67569" id2="17" version="1065353216">Power systems = failing</text>
+		<text bitflag="3393" id1="67571" id2="17" version="1065353216">T7 = shutting down</text>
+		<text bitflag="3393" id1="67575" id2="17" version="1065353216">Returned</text>
+		<text bitflag="3393" id1="67577" id2="17" version="1065353216">T7 = ready</text>
+		<text bitflag="3393" id1="67579" id2="17" version="1065353216">T7 = reporting</text>
+		<text bitflag="3393" id1="67581" id2="17" version="1065353216">T7 = always eager to help</text>
+		<text bitflag="3393" id1="67583" id2="17" version="1065353216">Jedi = needs T7</text>
+		<text bitflag="3393" id1="67587" id2="17" version="1065353216">Deactivate!</text>
+		<text bitflag="3393" id1="67589" id2="17" version="1065353216">T7 = attack!</text>
+		<text bitflag="3393" id1="67591" id2="17" version="1065353216">Target = eliminate</text>
+		<text bitflag="3393" id1="67593" id2="17" version="1065353216">Weapons = overloaded</text>
+		<text bitflag="3393" id1="67595" id2="17" version="1065353216">Termination protocols = active</text>
+		<text bitflag="3393" id1="67599" id2="17" version="1065353216">Health = better?</text>
+		<text bitflag="3393" id1="67601" id2="17" version="1065353216">Medpac = applied</text>
+		<text bitflag="3393" id1="67603" id2="17" version="1065353216">T7 = activating medic protocols</text>
+		<text bitflag="3393" id1="67607" id2="17" version="1065353216">T7 = grateful</text>
+		<text bitflag="3393" id1="67609" id2="17" version="1065353216">Help = appreciated</text>
+		<text bitflag="3393" id1="67611" id2="17" version="1065353216">T7  circuits = restored</text>
+		<text bitflag="3393" id1="67615" id2="17" version="1065353216">T7 = working</text>
+		<text bitflag="3393" id1="67617" id2="17" version="1065353216">Request = fulfilled soon</text>
+		<text bitflag="3393" id1="67619" id2="17" version="1065353216">T7 = reports when job complete</text>
+		<text bitflag="3393" id1="67621" id2="17" version="1065353216">Jedi = won't wait long</text>
+		<text bitflag="3393" id1="67623" id2="17" version="1065353216">T7 = always happy to help</text>
+		<text bitflag="3393" id1="67627" id2="17" version="1065353216">Results = superior!</text>
+		<text bitflag="3393" id1="67629" id2="17" version="1065353216">Jedi = pleased?</text>
+		<text bitflag="3393" id1="67631" id2="17" version="1065353216">T7 = worked hard</text>
+		<text bitflag="3393" id1="67633" id2="17" version="1065353216">Outcome = good</text>
+		<text bitflag="3393" id1="67635" id2="17" version="1065353216">Results = unacceptable // T7 = sorry</text>
+		<text bitflag="3393" id1="67639" id2="17" version="1065353216">Jedi = T7's best friend!</text>
+		<text bitflag="3393" id1="571615" id2="17" version="1065353216">Gift = much appreciated</text>
+		<text bitflag="3393" id1="571619" id2="17" version="1065353216">T7 = thanks Jedi</text>
+		<text bitflag="3393" id1="571623" id2="17" version="1065353216">Gift = interesting</text>
+		<text bitflag="3393" id1="571625" id2="17" version="1065353216">T7 = store this item?</text>
+		<text bitflag="3393" id1="571629" id2="17" version="1065353216">T7 = on the way</text>
+		<text bitflag="3393" id1="571632" id2="17" version="1065353216">T7 = rolling as fast as possible</text>
+		<text bitflag="3393" id1="571636" id2="17" version="1065353216">T7 + Jedi = made new friend</text>
+		<text bitflag="3393" id1="571638" id2="17" version="1065353216">Jedi = lucky // Good equipment = hard to find</text>
+		<text bitflag="3393" id1="571640" id2="17" version="1065353216">Jedi = looking good</text>
+		<text bitflag="3393" id1="571642" id2="17" version="1065353216">Jedi = making T7 sad</text>
+		<text bitflag="3393" id1="571644" id2="17" version="1065353216">Jedi = acting like real hero</text>
+		<text bitflag="3393" id1="571648" id2="17" version="1065353216">T7 = ready to save the galaxy</text>
+		<text bitflag="3393" id1="571651" id2="17" version="1065353216">Jedi = T7's favorite partner</text>
+		<text bitflag="3393" id1="571655" id2="17" version="1065353216">T7 = appreciates upgrade</text>
+		<text bitflag="3393" id1="571658" id2="17" version="1065353216">T7 = use this to save the galaxy</text>
+		<text bitflag="3393" id1="571662" id2="17" version="1065353216">Jedi = acting silly</text>
+		<text bitflag="3393" id1="571665" id2="17" version="1065353216">Jedi = not fair // T7 wheels = can't jump</text>
+		<text bitflag="3393" id1="571669" id2="17" version="1065353216">T7 + Jedi = stronger than ever!</text>
+		<text bitflag="3393" id1="571672" id2="17" version="1065353216">Bad guys = in trouble now // T7 + Jedi = super powered</text>
+		<text bitflag="3393" id1="571676" id2="17" version="1065353216">Enemy = eliminated // T7 = hero!</text>
+		<text bitflag="3393" id1="571679" id2="17" version="1065353216">Enemy = deleted // T7 = got Jedi's back!</text>
+	</file_content>
+</stb_file>

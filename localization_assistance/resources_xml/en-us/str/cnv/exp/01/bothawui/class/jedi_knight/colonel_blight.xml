@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>79</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/bothawui/class/jedi_knight/colonel_blight.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1089" id1="1024272" id2="17" version="1065353216">Containment system activated. We may begin.</text>
+		<text bitflag="1089" id1="1024277" id2="17" version="1065353216">The time for talk has passed, Jedi.</text>
+		<text bitflag="1089" id1="1024279" id2="17" version="1065353216">Captain Maddox. I've defeated Colonel Blight. Camp Sovereign's ready for you.</text>
+		<text bitflag="1089" id1="1024280" id2="17" version="1065353216">We'll get the rest of the prisoners under cover. Move fast!</text>
+		<text bitflag="1089" id1="1051701" id2="17" version="1065353216">Already here. We'll get to work right away.</text>
+		<text bitflag="1089" id1="1051705" id2="17" version="1065353216">Wide-range neural disruptors... would have mitigated Force sensitivity. Next time, perhaps.</text>
+		<text bitflag="1089" id1="1051706" id2="17" version="1065353216">I'm calling the Protectors. They'll patch your wounds and transport you into Republic custody.</text>
+		<text bitflag="1104" id1="1051706" id2="17" version="1065353216">It's time you faced justice.</text>
+		<text bitflag="1089" id1="1051707" id2="17" version="1065353216">You underestimate yourself, Master Jedi. I'm beyond their skills.</text>
+		<text bitflag="1089" id1="1051709" id2="17" version="1065353216">Next you'll be telling me the best way to get injured, or how to maximize my odds of survival.</text>
+		<text bitflag="1104" id1="1051709" id2="17" version="1065353216">Do you ever quit talking?</text>
+		<text bitflag="1089" id1="1051710" id2="17" version="1065353216">Don't get stabbed by a lightsaber. Ninety-seven percent lethal.</text>
+		<text bitflag="1089" id1="1051712" id2="17" version="1065353216">There won't be a next time. After what you've done to Bothawui, you don't deserve mercy.</text>
+		<text bitflag="1104" id1="1051712" id2="17" version="1065353216">Enough of that.</text>
+		<text bitflag="1089" id1="1051713" id2="17" version="1065353216">Too late for mercy now. The numbers will be... good.</text>
+		<text bitflag="1089" id1="1051719" id2="17" version="1065353216">We've got trouble, Master Jedi. Full squadron of Imp bombers headed our way.</text>
+		<text bitflag="1089" id1="1051721" id2="17" version="1065353216">No good. Flight trajectory has us surrounded. They're packing enough scatterblast to crater this camp.</text>
+		<text bitflag="1089" id1="1051722" id2="17" version="1065353216">We have to shoot these fighters down fast. Are the Seekers still online?</text>
+		<text bitflag="1104" id1="1051722" id2="17" version="1065353216">We need weapons.</text>
+		<text bitflag="1089" id1="1051725" id2="17" version="1065353216">Colonel Blight made a holocall before he died. He had this all planned.</text>
+		<text bitflag="1104" id1="1051725" id2="17" version="1065353216">Blight's last revenge.</text>
+		<text bitflag="1089" id1="1051726" id2="17" version="1065353216">I said I'd clear out the camp. It was your job to do the rest, remember?</text>
+		<text bitflag="1104" id1="1051726" id2="17" version="1065353216">You're all useless.</text>
+		<text bitflag="1089" id1="1051727" id2="17" version="1065353216">We'll work on our clairvoyance for next time.</text>
+		<text bitflag="1089" id1="1051729" id2="17" version="1065353216">We need to disable the bombers before they reach us. But I don't have time to rig anything.</text>
+		<text bitflag="3137" id1="1051731" id2="17" version="1065353216">Seeker firepower + approaching ships = vaporized Imperials</text>
+		<text bitflag="1089" id1="1051733" id2="17" version="1065353216">It's a shame the Seekers aren't online. Oh, wait, they are.</text>
+		<text bitflag="1089" id1="1051735" id2="17" version="1065353216">Wouldn't be ethical to recommend using the Seekers. Oops.</text>
+		<text bitflag="1089" id1="1051737" id2="17" version="1065353216">The Seekers. Accurate, lethal and poetic.</text>
+		<text bitflag="1089" id1="1051739" id2="17" version="1065353216">Blight has already provided. Use the Seekers.</text>
+		<text bitflag="1089" id1="1051741" id2="17" version="1065353216">Recommendation: The Seekers can be manually targeted at anything, master. Ignorant engineers, for example.</text>
+		<text bitflag="1089" id1="1051743" id2="17" version="1065353216">I'm sorry to interrupt, master, but the Seekers are still active. Perhaps they should be disabled, for safety's sake?</text>
+		<text bitflag="1089" id1="1051745" id2="17" version="1065353216">What about the... blast, what did Tav call them? The Seekers!</text>
+		<text bitflag="1089" id1="1051747" id2="17" version="1065353216">Looks like they've got a security lockout. Need to override that first. Control station's probably up by you, Master Jedi.</text>
+		<text bitflag="1089" id1="1051748" id2="17" version="1065353216">Look sharp and stay out of sight. I'll signal you once security's down.</text>
+		<text bitflag="1104" id1="1051748" id2="17" version="1065353216">Don't worry, I'll find it.</text>
+		<text bitflag="1089" id1="1051749" id2="17" version="1065353216">The Seeker operators are dead. Can Garith and his men take over?</text>
+		<text bitflag="1104" id1="1051749" id2="17" version="1065353216">Who will fire them?</text>
+		<text bitflag="1089" id1="1051750" id2="17" version="1065353216">We'll recruit some prisoners, too. They've seen 'em fired often enough.</text>
+		<text bitflag="1089" id1="1051752" id2="17" version="1065353216">I hope this mythical control station exists. We don't have a lot of time.</text>
+		<text bitflag="1104" id1="1051752" id2="17" version="1065353216">You'd better be right.</text>
+		<text bitflag="1089" id1="1051753" id2="17" version="1065353216">If I'm wrong, may an Imperial bomb squadron destroy us all.</text>
+		<text bitflag="1089" id1="1051755" id2="17" version="1065353216">Anyone who wants a shot at these scumbags, get in position!</text>
+		<text bitflag="1089" id1="1051757" id2="17" version="1065353216">I mean no offense, my lord. But consider: the psychological impact of losing five thousand civilians to one Jedi....</text>
+		<text bitflag="1089" id1="1051759" id2="17" version="1065353216">Your efficiency models do not interest me, Colonel. Remain where you are.</text>
+		<text bitflag="1089" id1="1051761" id2="17" version="1065353216">Perhaps if you showed Darth Legius my projections. Surely he would agree this is a waste of resources.</text>
+		<text bitflag="1089" id1="1051763" id2="17" version="1065353216">Enough. Your objective arrives. Show my master how efficient you can be.</text>
+		<text bitflag="1089" id1="1051764" id2="17" version="1065353216">You don't have to fight me. All I want is to free Camp Sovereign.</text>
+		<text bitflag="1104" id1="1051764" id2="17" version="1065353216">We can talk this out.</text>
+		<text bitflag="1089" id1="1051765" id2="17" version="1065353216">And provide a morale boost of up to one-hundred-and-fourteen percent. Unacceptable.</text>
+		<text bitflag="1089" id1="1051767" id2="17" version="1065353216">I've fought one Sith Lord already. Was that another I just saw?</text>
+		<text bitflag="1104" id1="1051767" id2="17" version="1065353216">Who's your friend?</text>
+		<text bitflag="1089" id1="1051768" id2="17" version="1065353216">Lord Zell. One of Darth Legius's apprentices. His only one, now.</text>
+		<text bitflag="1089" id1="1051770" id2="17" version="1065353216">One Imperial officer against a Jedi. That's not efficient--just stupid.</text>
+		<text bitflag="1104" id1="1051770" id2="17" version="1065353216">You have no chance.</text>
+		<text bitflag="3137" id1="1051773" id2="17" version="1065353216">Jedi = protectors of the galaxy // Colonel Blight = fool!</text>
+		<text bitflag="1089" id1="1051775" id2="17" version="1065353216">I'm beginning to think he just makes these up as he goes.</text>
+		<text bitflag="1089" id1="1051777" id2="17" version="1065353216">Meet the other thirteen. It's thirteen, right?</text>
+		<text bitflag="1089" id1="1051779" id2="17" version="1065353216">It's seventy-eight. Imperials.</text>
+		<text bitflag="1089" id1="1051781" id2="17" version="1065353216">On that much we agree.</text>
+		<text bitflag="1089" id1="1051783" id2="17" version="1065353216">Hostility: No master of mine can be called a fool, Imperial organic.</text>
+		<text bitflag="1089" id1="1051785" id2="17" version="1065353216">I am unable to verify the accuracy of these calculations, master.</text>
+		<text bitflag="1089" id1="1051789" id2="17" version="1065353216">You think this is a war of ideas, of principles--but it's all just numbers. Good ones mean victory. Bad ones... don't.</text>
+		<text bitflag="1089" id1="1051790" id2="17" version="1065353216">If that were true, the Republic would have stopped fighting long ago.</text>
+		<text bitflag="1104" id1="1051790" id2="17" version="1065353216">War is never that simple.</text>
+		<text bitflag="1089" id1="1051791" id2="17" version="1065353216">When the numbers are bad enough, you will.</text>
+		<text bitflag="1089" id1="1051792" id2="17" version="1065353216">You're about to risk your life for the Empire. Don't you feel anything?</text>
+		<text bitflag="1104" id1="1051792" id2="17" version="1065353216">Is that all you think about?</text>
+		<text bitflag="1089" id1="1051793" id2="17" version="1065353216">Annoyance, mostly.</text>
+		<text bitflag="1089" id1="1051794" id2="17" version="1065353216">This is for every Bothan you've killed, and every one you never got to.</text>
+		<text bitflag="1104" id1="1051794" id2="17" version="1065353216">You're a monster. [Attack]</text>
+		<text bitflag="1089" id1="1051795" id2="17" version="1065353216">There's time yet.</text>
+		<text bitflag="1089" id1="1056341" id2="17" version="1065353216">Everybody, back on board. We'll take off and draw them towards Republic territory.</text>
+		<text bitflag="1089" id1="1056343" id2="17" version="1065353216">We named him right. Bloodsucking son of a Hutt....</text>
+		<text bitflag="1089" id1="1056345" id2="17" version="1065353216">Now why didn't I think of that? These babies could bring down ten squadrons!</text>
+		<text bitflag="1089" id1="1056720" id2="17" version="1065353216">The Bothans are taking this much too personally.</text>
+		<text bitflag="1089" id1="1058885" id2="17" version="1065353216">The element of surprise allows a fifteen percent advantage. Unfamiliar surroundings may compensate.</text>
+		<text bitflag="1089" id1="1058886" id2="17" version="1065353216">Two-hundred-and-twenty-to-one, in your favor. I'm well aware of my odds, thank you.</text>
+		<text bitflag="1089" id1="1058888" id2="17" version="1065353216">One can't expect a Sith Lord to understand. Or a Jedi, for that matter. Eighty-seven percent fools, all of you.</text>
+	</file_content>
+</stb_file>

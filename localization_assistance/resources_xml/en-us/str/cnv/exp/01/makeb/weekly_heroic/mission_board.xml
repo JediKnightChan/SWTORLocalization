@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/weekly_heroic/mission_board.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1174104" id2="17" version="1065353216">Daskarta has outlined the parameters for a high-priority mission in the Frinn Mesa sector of Makeb. For additional details about the mission, Daskarta may be contacted in-person. Otherwise, the mission may be initiated from this terminal for your convenience.
+ 
+This mission may require a small group. It may be completed once per week.</text>
+		<text bitflag="321" id1="1174129" id2="17" version="1065353216">Archivist Varus has outlined the parameters for a high-priority mission in the Tarlam Settlements sector of Makeb. For additional details about the mission, Archivist Varus may be contacted in-person. Otherwise, the mission may be initiated from this terminal for your convenience.
+ 
+This mission may require a small group. It may be completed once per week.</text>
+		<text bitflag="321" id1="1174132" id2="17" version="1065353216">-- REPUBLIC MISSION ALERT -- OFFICIAL --
+-- By Authority of Supr. Cmdr. Jace Malcom --
+
+A particularly heinous band of former Regulators situated on the Fingers has been shooting down and looting civilian shuttles headed for a refugee camp.
+
+Draw out these Regulators by fabricating and activating a shuttle distress beacon at one of the shuttle wreckage sites to keep them from doing harm to any more civilians.
+
+-- END --</text>
+		<text bitflag="321" id1="1174133" id2="17" version="1065353216">-- REPUBLIC MISSION ALERT -- OFFICIAL --
+-- By Authority of Supr. Cmdr. Jace Malcom --
+
+Many of Makeb's citizens were unable to reach the Ark before its launch. Some couldn't make it because they were shot down by ex-Regulator forces on Telemur Mesa, who are keeping the civilians imprisoned.
+
+Retrieve the shuttle manifests from the Regulators while doing what you can to limit these mercenaries' capabilities in the area.
+
+-- END --</text>
+		<text bitflag="321" id1="1174134" id2="17" version="1065353216">-- REPUBLIC MISSION ALERT -- OFFICIAL --
+-- By Authority of Supr. Cmdr. Jace Malcom --
+
+A group of former Regulators on Makeb have called on various extraplanetary forces--Mandalorians, assassin droids and fallen Jedi, mostly--to help them take control of the planet. These forces are reaching the planet via a ground-to-atmosphere turbolift called a &quot;gravity hook.&quot;
+
+Ambush the potential Regulator allies arriving at Gravity Hook Four before they can make their way off the mesa.
+
+-- END --</text>
+		<text bitflag="321" id1="1188837" id2="17" version="1065353216">-- REPUBLIC MISSION ALERT -- OFFICIAL --
+
+A large cache of Isotope-5 is being held by renegade mercenaries in the courtyard of Toborro the Hutt's palace. They've got a massive Isotope-5 droid posted on guard duty at all times--our forces haven't been able to put a dent in the thing. We need you to take that droid down.
+
+-- END --
+
+[Operation: Toborro's Courtyard]
+Defeat Golden Fury (Any Difficulty Mode).
+
+[Recommended Gear]
+Story Mode: Item Rating 148
+Hard Mode: Item Rating 168</text>
+	</file_content>
+</stb_file>

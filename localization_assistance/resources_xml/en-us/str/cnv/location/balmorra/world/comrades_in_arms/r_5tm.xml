@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra/world/comrades_in_arms/r_5tm.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="714869" id2="17" version="1065353216">[R-5TM no longer responds to you.]</text>
+		<text bitflag="1345" id1="714870" id2="17" version="1065353216">Please have unit B-6NX apply the data spike and repair his faulty programming.</text>
+		<text bitflag="1345" id1="714871" id2="17" version="1065353216">Even with the motivator, field repairs will require significant time.</text>
+		<text bitflag="1345" id1="714872" id2="17" version="1065353216">The data spike will return unit B-6NX to normal function. Thank you.</text>
+		<text bitflag="1345" id1="714873" id2="17" version="1065353216">Repairing my damaged systems is an unnecessary waste, but I will not argue further.</text>
+		<text bitflag="321" id1="714874" id2="17" version="1065353216">[This droid is badly damaged and doesn't respond.]</text>
+	</file_content>
+</stb_file>

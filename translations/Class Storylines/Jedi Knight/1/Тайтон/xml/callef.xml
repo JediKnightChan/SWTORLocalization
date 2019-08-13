@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="22">
+	<unit bitflag="1345" id1="604463" id2="17" version="1065353216">
+		<source>Stop struggling, Padawan. Your life was over the moment you set foot here.</source>
+		<target>Прекрати сопротивляться, падаван. Ты был обречён, едва ступив на эту землю.</target>
+	</unit>
+	<unit bitflag="3393" id1="604465" id2="17" version="1065353216">
+		<source>You are Jedi. Why would you kill me?</source>
+		<target>Ты джедай. Зачем тебе убивать меня?</target>
+	</unit>
+	<unit bitflag="1345" id1="604467" id2="17" version="1065353216">
+		<source>Because the order must evolve--and you are weak.</source>
+		<target>Потому что Орден должен развиваться - а ты слаб.</target>
+	</unit>
+	<unit bitflag="1345" id1="604468" id2="17" version="1065353216">
+		<source>Whoever you are, step away from that Padawan.</source>
+		<target>Кто бы ты ни был, отойди от этого падавана.</target>
+	</unit>
+	<unit bitflag="1360" id1="604468" id2="17" version="1065353216">
+		<source>Stop this right now.</source>
+		<target>Прекрати немедленно.</target>
+	</unit>
+	<unit bitflag="1360" id1="604469" id2="17" version="1065353216">
+		<source>What's happening here?</source>
+		<target>Что происходит?</target>
+	</unit>
+	<unit bitflag="3393" id1="604470" id2="17" version="1065353216">
+		<source>This man looks like a Jedi, but something is wrong with him.</source>
+		<target>Этот человек похож на джедая, но с ним что-то не так.</target>
+	</unit>
+	<unit bitflag="1345" id1="604472" id2="17" version="1065353216">
+		<source>Whatever your problem is, ugly, I'm here to end it.</source>
+		<target>Какая скверна бы тебя не коснулась, урод, сейчас она исчезнет.</target>
+	</unit>
+	<unit bitflag="1360" id1="604472" id2="17" version="1065353216">
+		<source>If you want a fight, pick me.</source>
+		<target>Хочешь битвы - сразись со мной.</target>
+	</unit>
+	<unit bitflag="3393" id1="604473" id2="17" version="1065353216">
+		<source>Be careful. There's something wrong with this Jedi--and he's not alone.</source>
+		<target>Осторожно. С этим джедаем что-то не так, и он не один.</target>
+	</unit>
+	<unit bitflag="1345" id1="604475" id2="17" version="1065353216">
+		<source>Hmm. You are... dangerous. You killed my soldiers.</source>
+		<target>Хм. Ты... опасен. Ты убил моих солдат.</target>
+	</unit>
+	<unit bitflag="3393" id1="604477" id2="17" version="1065353216">
+		<source>He commands the Flesh Raiders attacking us.</source>
+		<target>Он командует атакующими нас раздирателями.</target>
+	</unit>
+	<unit bitflag="1345" id1="604479" id2="17" version="1065353216">
+		<source>Not attacking--cleansing. And we have only begun.</source>
+		<target>Не атакующими... очищающими вас. И это только начало.</target>
+	</unit>
+	<unit bitflag="1345" id1="604480" id2="17" version="1065353216">
+		<source>Lay down your weapons. I don't want to hurt you.</source>
+		<target>Сложи оружие. Я не хочу вредить тебе.</target>
+	</unit>
+	<unit bitflag="1360" id1="604480" id2="17" version="1065353216">
+		<source>I'm asking you to surrender.</source>
+		<target>Я прошу тебя сдаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="604481" id2="17" version="1065353216">
+		<source>Sounds like fun. Where do I sign up?</source>
+		<target>Звучит здорово. Где записаться в ваши ряды?</target>
+	</unit>
+	<unit bitflag="1360" id1="604481" id2="17" version="1065353216">
+		<source>Can I join you?</source>
+		<target>Можно присоединиться?</target>
+	</unit>
+	<unit bitflag="1345" id1="604482" id2="17" version="1065353216">
+		<source>You cannot save yourself with tricks.</source>
+		<target>Ты не спасёшь себя уловками.</target>
+	</unit>
+	<unit bitflag="1345" id1="604484" id2="17" version="1065353216">
+		<source>The old order is dead. Long live the new order.</source>
+		<target>Старый Орден мёртв. Да здравствует новый Орден.</target>
+	</unit>
+	<unit bitflag="1345" id1="604485" id2="17" version="1065353216">
+		<source>I'll do some cleansing of my own.</source>
+		<target>Это я очищу вас от ереси.</target>
+	</unit>
+	<unit bitflag="1360" id1="604485" id2="17" version="1065353216">
+		<source>No, you're done. [Attack]</source>
+		<target>Нет, это конец. [Напасть]</target>
+	</unit>
+	<unit bitflag="1345" id1="604488" id2="17" version="1065353216">
+		<source>You should not be here. Go now, or you will be destroyed.</source>
+		<target>Тебя не должно быть здесь. Уходи, или будешь уничтожен.</target>
+	</unit>
+</dialogue_file>

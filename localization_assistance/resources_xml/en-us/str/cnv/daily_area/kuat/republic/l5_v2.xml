@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/kuat/republic/l5_v2.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1125795" id2="17" version="1065353216">Shuttle = unavailable // Future attempt = recommended</text>
+		<text bitflag="3393" id1="1125799" id2="17" version="1065353216">Good luck = my wish for you</text>
+		<text bitflag="3393" id1="1125800" id2="17" version="1065353216">Kuat shuttle = ready! // You = ready, too?</text>
+		<text bitflag="3393" id1="1125801" id2="17" version="1065353216">L5 = pleased to be in your presence!</text>
+		<text bitflag="1360" id1="1125802" id2="17" version="1065353216">[Start Flashpoint]</text>
+		<text bitflag="1360" id1="1125803" id2="17" version="1065353216">[Refuse Mission]</text>
+		<text bitflag="3393" id1="1125804" id2="17" version="1065353216">Decision = confirmed // You = have a nice day!</text>
+	</file_content>
+</stb_file>

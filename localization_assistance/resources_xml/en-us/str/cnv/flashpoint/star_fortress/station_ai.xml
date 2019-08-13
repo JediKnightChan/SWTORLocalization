@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>60</strs>
+		<file_name>/resources/en-us/str/cnv/flashpoint/star_fortress/station_ai.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1173131" id2="17" version="1065353216">Newly constructed units provide a three-point-two percent increase in destructive efficiency.</text>
+		<text bitflag="1345" id1="1173132" id2="17" version="1065353216">Factory output rerouted to neutralize security threats.</text>
+		<text bitflag="1345" id1="1173133" id2="17" version="1065353216">Field command subroutines initialized. Additional units requested.</text>
+		<text bitflag="1345" id1="1173135" id2="17" version="1065353216">Target acquisition complete. Engaging.</text>
+		<text bitflag="1345" id1="1173137" id2="17" version="1065353216">Threats identified. Elimination protocols enacted.</text>
+		<text bitflag="1345" id1="1173138" id2="17" version="1065353216">Combat prediction: ninety-six-point-six percent victory assurance.</text>
+		<text bitflag="1345" id1="1173140" id2="17" version="1065353216">Critical unit failure....</text>
+		<text bitflag="1345" id1="1173141" id2="17" version="1065353216">Offensive output insufficient....</text>
+		<text bitflag="1345" id1="1173142" id2="17" version="1065353216">Armor integrity compromised....</text>
+		<text bitflag="1345" id1="1173149" id2="17" version="1065353216">Prioritize neutralization of designated threat.</text>
+		<text bitflag="1345" id1="1173150" id2="17" version="1065353216">All units: Concentrate firepower on selected target.</text>
+		<text bitflag="1345" id1="1173151" id2="17" version="1065353216">Assets coordinated for maximum offensive yield.</text>
+		<text bitflag="1345" id1="1174033" id2="17" version="1065353216">Execute tactical maneuver three-seven-nine.</text>
+		<text bitflag="1345" id1="1174185" id2="17" version="1065353216">Intrusion on Skytrooper production level. Praetorian unit deployed.</text>
+		<text bitflag="1345" id1="1174186" id2="17" version="1065353216">Skytrooper facility compromised. Prioritizing relevant security nodes.</text>
+		<text bitflag="1345" id1="1176711" id2="17" version="1065353216">All targets neutralized. Unit combat performance within allowable tolerances.</text>
+		<text bitflag="1345" id1="1176712" id2="17" version="1065353216">Intruders eliminated. Unit standing down.</text>
+		<text bitflag="1345" id1="1176713" id2="17" version="1065353216">Target life signs: negative. Unit awaiting orders.</text>
+		<text bitflag="1345" id1="1176774" id2="17" version="1065353216">EPHEMERIS Alert: Data center breach in progress.</text>
+		<text bitflag="1345" id1="1176775" id2="17" version="1065353216">Data center defense protocols enacted. All units: Respond.</text>
+		<text bitflag="1345" id1="1176779" id2="17" version="1065353216">Warning: EPHEMERIS data core compromised. Secondary core engaged.</text>
+		<text bitflag="1345" id1="1176780" id2="17" version="1065353216">EPHEMERIS Alert: Secondary data core failure. System failure. Deploying emergency backup unit.</text>
+		<text bitflag="1345" id1="1176782" id2="17" version="1065353216">Neural-feedback overload. Rebooting.</text>
+		<text bitflag="1345" id1="1176783" id2="17" version="1065353216">Reboot complete. Defense protocols resumed.</text>
+		<text bitflag="1345" id1="1176785" id2="17" version="1065353216">Engaging combat algorithm, classification &quot;Knight&quot;.</text>
+		<text bitflag="1345" id1="1176786" id2="17" version="1065353216">Repulsion capabilities ready.</text>
+		<text bitflag="1345" id1="1176803" id2="17" version="1065353216">Target ability insufficient.</text>
+		<text bitflag="1345" id1="1176804" id2="17" version="1065353216">Combat protocols deprioritized.</text>
+		<text bitflag="1345" id1="1176805" id2="17" version="1065353216">Intruder underperformance expected.</text>
+		<text bitflag="1345" id1="1176808" id2="17" version="1065353216">Threat neutralized. Data cores intact. Defense protocols remain faultless.</text>
+		<text bitflag="1345" id1="1176811" id2="17" version="1065353216">EPHEMERIS Alert: Fatal system error....</text>
+		<text bitflag="1345" id1="1176812" id2="17" version="1065353216">EPHEMERIS failure inevitable....</text>
+		<text bitflag="1345" id1="1176813" id2="17" version="1065353216">EPHEMERIS Alert: Ghost Mode enacted....</text>
+		<text bitflag="1345" id1="1176815" id2="17" version="1065353216">Warning: Intruder. EPHEMERIS vigilance protocols enacted.</text>
+		<text bitflag="1345" id1="1176817" id2="17" version="1065353216">Warning: Security breach detected.</text>
+		<text bitflag="1345" id1="1176820" id2="17" version="1065353216">All units: Intercept and neutralize.</text>
+		<text bitflag="1345" id1="1176821" id2="17" version="1065353216">EPHEMERIS Alert: System overload. Adaptive protocols enacted.</text>
+		<text bitflag="1345" id1="1176822" id2="17" version="1065353216">Defensive protocols enacted.</text>
+		<text bitflag="1345" id1="1176823" id2="17" version="1065353216">Warning: Hazardous containment breach.</text>
+		<text bitflag="1345" id1="1176826" id2="17" version="1065353216">Warning: EPHEMERIS system malfunction.</text>
+		<text bitflag="1345" id1="1176839" id2="17" version="1065353216">EPHEMERIS system directives are functioning in Ghost Mode.</text>
+		<text bitflag="1345" id1="1176840" id2="17" version="1065353216">The EPHEMERIS system is operating in Ghost Mode. All nonessential functions are suspended.</text>
+		<text bitflag="1345" id1="1176849" id2="17" version="1065353216">Five.</text>
+		<text bitflag="1345" id1="1176850" id2="17" version="1065353216">Four.</text>
+		<text bitflag="1345" id1="1176851" id2="17" version="1065353216">Three.</text>
+		<text bitflag="1345" id1="1176852" id2="17" version="1065353216">Two.</text>
+		<text bitflag="1345" id1="1176853" id2="17" version="1065353216">One.</text>
+		<text bitflag="1345" id1="1176854" id2="17" version="1065353216">Zero.</text>
+		<text bitflag="1345" id1="1176857" id2="17" version="1065353216">Reserve units deployed.</text>
+		<text bitflag="1345" id1="1177128" id2="17" version="1065353216">Security units ineffective. System uplink initiated.</text>
+		<text bitflag="1345" id1="1177130" id2="17" version="1065353216">Vessel inadequate. Control transfer initiated.</text>
+		<text bitflag="1345" id1="1177131" id2="17" version="1065353216">Unit damaged. New host selected.</text>
+		<text bitflag="1345" id1="1177132" id2="17" version="1065353216">Condition critical. Host reassignment enacted.</text>
+		<text bitflag="1345" id1="1177160" id2="17" version="1065353216">Deactivation in....</text>
+		<text bitflag="1345" id1="1177161" id2="17" version="1065353216">Detonation in....</text>
+		<text bitflag="1345" id1="1177163" id2="17" version="1065353216">Rebooting in....</text>
+		<text bitflag="1345" id1="1177164" id2="17" version="1065353216">Arrival in....</text>
+		<text bitflag="1345" id1="1177165" id2="17" version="1065353216">Deployment in....</text>
+		<text bitflag="1345" id1="1177166" id2="17" version="1065353216">Engaging system in....</text>
+		<text bitflag="1345" id1="1177204" id2="17" version="1065353216">Warning: The prisoner has escaped. All units: Function on high alert status.</text>
+	</file_content>
+</stb_file>

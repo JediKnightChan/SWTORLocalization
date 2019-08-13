@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/gui/abilities.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="220325" version="1065353216">Ability Panel</text>
+		<text bitflag="321" id1="303" id2="220325" version="1065353216">Speeder Piloting Rank 1:  90%
+Speeder Piloting Rank 2:  100%
+Speeder Piloting Rank 3:  110%
+Speeder Piloting Rank 4:  120%
+Speeder Piloting Rank 5:  130%</text>
+	</file_content>
+</stb_file>

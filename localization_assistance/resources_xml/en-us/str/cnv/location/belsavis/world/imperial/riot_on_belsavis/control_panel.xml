@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>39</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/world/imperial/riot_on_belsavis/control_panel.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="541637" id2="17" version="1065353216">[The thawing controls are drained of power.]</text>
+		<text bitflag="321" id1="541638" id2="17" version="1065353216">[You have found the carbonite-thawing controls. A status readout warns that it is cut off from the main generator.]</text>
+		<text bitflag="321" id1="541640" id2="17" version="1065353216">[Remaining power is only sufficient to thaw one grid of prisoners. There are two here.]</text>
+		<text bitflag="321" id1="541642" id2="17" version="1065353216">[Grid 1 houses murderers with diagnosed criminal pathologies. They're likely to kill guards and other prisoners if released, which could spark an escalating war.]</text>
+		<text bitflag="321" id1="541644" id2="17" version="1065353216">[Grid 2 houses agitators of large-scale protests and riots. They're likely to organize revolts if released, possibly with less violence.]</text>
+		<text bitflag="321" id1="541646" id2="17" version="1065353216">[What would you like to do?]</text>
+		<text bitflag="1345" id1="541647" id2="17" version="1065353216">A few psychopaths should keep the Republic awake at night.</text>
+		<text bitflag="1360" id1="541647" id2="17" version="1065353216">[Thaw the murderers]</text>
+		<text bitflag="321" id1="541648" id2="17" version="1065353216">[Energy diverted to Grid 1.]</text>
+		<text bitflag="1345" id1="541649" id2="17" version="1065353216">Nothing like a rebellion to shake things up.</text>
+		<text bitflag="1360" id1="541649" id2="17" version="1065353216">[Thaw the agitators]</text>
+		<text bitflag="321" id1="541650" id2="17" version="1065353216">[Energy diverted to Grid 2.]</text>
+		<text bitflag="1345" id1="541652" id2="17" version="1065353216">I hope you're proud. Your time on Belsavis is up.</text>
+		<text bitflag="1345" id1="541653" id2="17" version="1065353216">You speak that way to a Sith Lord?</text>
+		<text bitflag="1360" id1="541653" id2="17" version="1065353216">Insolent words, lawman.</text>
+		<text bitflag="1345" id1="541654" id2="17" version="1065353216">I'd speak this way to the Emperor himself if the coward dared show his face.</text>
+		<text bitflag="1345" id1="541656" id2="17" version="1065353216">I've been cracking heads twenty years this spring. Every Sith I've downed thought the law never applied to him.</text>
+		<text bitflag="1345" id1="541658" id2="17" version="1065353216">You don't have a clue who you're talking to.</text>
+		<text bitflag="1360" id1="541658" id2="17" version="1065353216">I'm way better than you think.</text>
+		<text bitflag="1345" id1="541659" id2="17" version="1065353216">I've seen bounty hunters come and go, each believing they were the baddest boots in the galaxy.</text>
+		<text bitflag="1345" id1="541661" id2="17" version="1065353216">I've got a wall of helmets in my den that says otherwise.</text>
+		<text bitflag="1345" id1="541663" id2="17" version="1065353216">Sharp words from someone unfamiliar with my talents.</text>
+		<text bitflag="1360" id1="541663" id2="17" version="1065353216">You know nothing.</text>
+		<text bitflag="1345" id1="541664" id2="17" version="1065353216">You think I can't smell Imperial Intelligence all over you?</text>
+		<text bitflag="1345" id1="541666" id2="17" version="1065353216">I've been with the law twenty years this spring. I've seen it all.</text>
+		<text bitflag="1360" id1="541668" id2="17" version="1065353216">My time's never up.</text>
+		<text bitflag="1345" id1="541669" id2="17" version="1065353216">This isn't a case of where we agree to disagree. Not while you're still on this planet.</text>
+		<text bitflag="1345" id1="541671" id2="17" version="1065353216">You have anything to back that up?</text>
+		<text bitflag="1360" id1="541671" id2="17" version="1065353216">Says who?</text>
+		<text bitflag="1345" id1="541672" id2="17" version="1065353216">Listen close. I've been serving reality to slime like you for near twenty years.</text>
+		<text bitflag="1345" id1="541674" id2="17" version="1065353216">So let me make this perfectly clear. You've made a mistake. Time to pack up and fly home.</text>
+		<text bitflag="1345" id1="541675" id2="17" version="1065353216">You can't scare me off, Ruger. I'm here to stay.</text>
+		<text bitflag="1360" id1="541675" id2="17" version="1065353216">Never.</text>
+		<text bitflag="1345" id1="541676" id2="17" version="1065353216">I'll enjoy throwing your stubborn carcass in jail.</text>
+		<text bitflag="1345" id1="541677" id2="17" version="1065353216">What mistake?</text>
+		<text bitflag="1360" id1="541677" id2="17" version="1065353216">Mistake?</text>
+		<text bitflag="1345" id1="541678" id2="17" version="1065353216">You got my attention.</text>
+		<text bitflag="1360" id1="541679" id2="17" version="1065353216">Your act isn't working, Ruger.</text>
+		<text bitflag="1345" id1="541680" id2="17" version="1065353216">You'll learn. They all do.</text>
+	</file_content>
+</stb_file>

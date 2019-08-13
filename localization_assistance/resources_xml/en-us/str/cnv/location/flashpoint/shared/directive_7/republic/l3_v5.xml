@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>18</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/directive_7/republic/l3_v5.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="503894" id2="17" version="1065353216">Transport + escort = ready // Directive 7 base coordinates = locked in // You = hero?</text>
+		<text bitflag="1360" id1="503895" id2="17" version="1065353216">[Start Tactical Flashpoint]</text>
+		<text bitflag="3393" id1="503896" id2="17" version="1065353216">Everyone = counting on you!</text>
+		<text bitflag="1360" id1="503898" id2="17" version="1065353216">Forget it. [Refuse Mission]</text>
+		<text bitflag="3393" id1="503901" id2="17" version="1065353216">L3 = wishing you luck!</text>
+		<text bitflag="3393" id1="503904" id2="17" version="1065353216">Director Rigel = waiting inside + ready for briefing // You = here to help?</text>
+		<text bitflag="1360" id1="503905" id2="17" version="1065353216">Count on me.</text>
+		<text bitflag="3393" id1="503906" id2="17" version="1065353216">Everyone = counting on you!</text>
+		<text bitflag="1360" id1="503908" id2="17" version="1065353216">Forget it. [Refuse quest]</text>
+		<text bitflag="3393" id1="503911" id2="17" version="1065353216">L3 = greeting you!</text>
+		<text bitflag="1360" id1="987624" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="987626" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987627" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="987629" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="1360" id1="1170361" id2="17" version="1065353216">[Start Solo Flashpoint]</text>
+		<text bitflag="3393" id1="1170362" id2="17" version="1065353216">Everyone = counting on you!</text>
+		<text bitflag="1360" id1="1220158" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1220159" id2="17" version="1065353216">[Start Story Mode]</text>
+	</file_content>
+</stb_file>

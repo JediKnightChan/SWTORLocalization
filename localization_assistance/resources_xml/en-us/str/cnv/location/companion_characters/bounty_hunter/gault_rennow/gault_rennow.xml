@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>569</strs>
+		<file_name>/resources/en-us/str/cnv/location/companion_characters/bounty_hunter/gault_rennow/gault_rennow.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="68532" id2="17" version="1065353216">Uh huh.</text>
+		<text bitflag="1345" id1="501940" id2="17" version="1065353216">Whatever you're planning, forget it.</text>
+		<text bitflag="1345" id1="501941" id2="17" version="1065353216">What? I'm not up to anything... at the moment.</text>
+		<text bitflag="1345" id1="540295" id2="17" version="1065353216">Following you around isn't so bad. You visit the most extravagant locales.</text>
+		<text bitflag="1345" id1="540297" id2="17" version="1065353216">Those Girards had some lovely finery just collecting dust.</text>
+		<text bitflag="1345" id1="540299" id2="17" version="1065353216">I picked up a little souvenir from the Royal Museum.</text>
+		<text bitflag="1345" id1="540301" id2="17" version="1065353216">I thought we could make sure these get put to better use.</text>
+		<text bitflag="1345" id1="540302" id2="17" version="1065353216">Keep your loot. I work for a living.</text>
+		<text bitflag="1360" id1="540302" id2="17" version="1065353216">I don't need handouts.</text>
+		<text bitflag="1345" id1="540303" id2="17" version="1065353216">Fine, I wanted some decorations anyway. Brighten up the cell, you know.</text>
+		<text bitflag="1345" id1="540305" id2="17" version="1065353216">You're giving me something worth money?</text>
+		<text bitflag="1360" id1="540305" id2="17" version="1065353216">What are you trying to pull?</text>
+		<text bitflag="1345" id1="540306" id2="17" version="1065353216">Gesture of good faith and all that. Figured if I'm stuck here, I might as well lighten the mood.</text>
+		<text bitflag="1345" id1="540308" id2="17" version="1065353216">Glad to see you're actually making yourself useful.</text>
+		<text bitflag="1360" id1="540308" id2="17" version="1065353216">I like the way you think.</text>
+		<text bitflag="1345" id1="540309" id2="17" version="1065353216">A little respect might be nice. I was a target in the Great Hunt, you know.</text>
+		<text bitflag="1345" id1="540311" id2="17" version="1065353216">Unless we find a collector, we'll need to fence these. Quick turnaround'll forfeit a big cut, but it'll be a nice bonus.</text>
+		<text bitflag="1345" id1="540312" id2="17" version="1065353216">Let's just see the credits.</text>
+		<text bitflag="1360" id1="540312" id2="17" version="1065353216">Quick is fine.</text>
+		<text bitflag="1345" id1="540313" id2="17" version="1065353216">I'd rather get the most bang for my buck. Throw 'em in cargo.</text>
+		<text bitflag="1360" id1="540313" id2="17" version="1065353216">Let's hold out for a bit.</text>
+		<text bitflag="1345" id1="540314" id2="17" version="1065353216">Works for me. Try not to take too many sharp turns.</text>
+		<text bitflag="1345" id1="540322" id2="17" version="1065353216">I've got better things to do than haggle in pawn shops.</text>
+		<text bitflag="1360" id1="540322" id2="17" version="1065353216">You handle it.</text>
+		<text bitflag="1345" id1="540323" id2="17" version="1065353216">I'll see what I can do.</text>
+		<text bitflag="1345" id1="540325" id2="17" version="1065353216">I have to say that none of my trips to Alderaan have ever been quite so... explosive.</text>
+		<text bitflag="1345" id1="705541" id2="17" version="1065353216">So, this is home. A little spare, don't you think?</text>
+		<text bitflag="1345" id1="705542" id2="17" version="1065353216">It serves well enough.</text>
+		<text bitflag="1360" id1="705542" id2="17" version="1065353216">It's a tool.</text>
+		<text bitflag="1345" id1="705543" id2="17" version="1065353216">You're practical. I get it. I'm not suggesting plating the hull in gold.</text>
+		<text bitflag="1360" id1="705545" id2="17" version="1065353216">What did you expect?</text>
+		<text bitflag="1345" id1="705547" id2="17" version="1065353216">Thought I'd have more dancing girls?</text>
+		<text bitflag="1345" id1="705548" id2="17" version="1065353216">Now there's a thought.</text>
+		<text bitflag="1345" id1="705551" id2="17" version="1065353216">Thought I'd have frilly curtains?</text>
+		<text bitflag="1345" id1="705552" id2="17" version="1065353216">Well, now that you mention it....</text>
+		<text bitflag="1345" id1="705554" id2="17" version="1065353216">I'm just saying, maybe you should consider conserving ammo and installing seats with upholstery.</text>
+		<text bitflag="1345" id1="705556" id2="17" version="1065353216">Blame the previous owner.</text>
+		<text bitflag="1360" id1="705556" id2="17" version="1065353216">I'll give you that.</text>
+		<text bitflag="1345" id1="705557" id2="17" version="1065353216">Found yourself a fixer-upper, huh?</text>
+		<text bitflag="1345" id1="705559" id2="17" version="1065353216">She's not bad, just needs a little TLC. A couple bounties ought to go a long way to sprucing the place up.</text>
+		<text bitflag="1345" id1="705561" id2="17" version="1065353216">Think about it.</text>
+		<text bitflag="1345" id1="705562" id2="17" version="1065353216">Keep the place clean and we'll talk.</text>
+		<text bitflag="1360" id1="705562" id2="17" version="1065353216">I'll consider it.</text>
+		<text bitflag="1345" id1="705563" id2="17" version="1065353216">I guess I can live with it, for now.</text>
+		<text bitflag="1345" id1="705565" id2="17" version="1065353216">Couldn't hurt to make this bucket a little more livable.</text>
+		<text bitflag="1360" id1="705565" id2="17" version="1065353216">You make a good point.</text>
+		<text bitflag="1345" id1="705566" id2="17" version="1065353216">I can recommend some folks who keep a good selection of &quot;before market&quot; parts. So's not to strain your budget.</text>
+		<text bitflag="1345" id1="705568" id2="17" version="1065353216">I've got better things to spend my credits on than your comfort.</text>
+		<text bitflag="1360" id1="705568" id2="17" version="1065353216">Fat chance.</text>
+		<text bitflag="1345" id1="705569" id2="17" version="1065353216">I forget you legit types are always strapped for cash.</text>
+		<text bitflag="1345" id1="705571" id2="17" version="1065353216">We can't all be fabulously wealthy criminal masterminds, but this bounty hunting gig seems straightforward enough.</text>
+		<text bitflag="1345" id1="705573" id2="17" version="1065353216">Besides, I like the idea of doing the chasing for a change... even if I am slumming it.</text>
+		<text bitflag="1345" id1="705577" id2="17" version="1065353216">You're not going to believe this. I heard from Hylo.</text>
+		<text bitflag="1345" id1="705579" id2="17" version="1065353216">She's willing to take me back, if I'm willing to show she means more to me than me.</text>
+		<text bitflag="1345" id1="705581" id2="17" version="1065353216">Sent the message certified, credits on delivery. Almost cleaned me out just to have it delivered.</text>
+		<text bitflag="1345" id1="705582" id2="17" version="1065353216">She's nobody's fool.</text>
+		<text bitflag="1360" id1="705582" id2="17" version="1065353216">Clever girl.</text>
+		<text bitflag="1345" id1="705583" id2="17" version="1065353216">Never was. If it'd been my plan to steal the money, she'd have sniffed me out. That just sort of... happened. I learned my lesson.</text>
+		<text bitflag="1345" id1="705585" id2="17" version="1065353216">I hope you get her back, she's my kind of lady.</text>
+		<text bitflag="1360" id1="705585" id2="17" version="1065353216">I like her.</text>
+		<text bitflag="1345" id1="705586" id2="17" version="1065353216">One-of-a-kind. Too bad it took me this long to figure it out.</text>
+		<text bitflag="1345" id1="705588" id2="17" version="1065353216">You've still got a lot of catching up to do.</text>
+		<text bitflag="1360" id1="705588" id2="17" version="1065353216">That's getting off easy.</text>
+		<text bitflag="1345" id1="705589" id2="17" version="1065353216">I know, I know, but I'm up to it.</text>
+		<text bitflag="1345" id1="705591" id2="17" version="1065353216">I feel like I'm back in my prime. Not that I'd slipped, I'm just... unburdened.</text>
+		<text bitflag="1345" id1="705593" id2="17" version="1065353216">I owe you for that, so I thought I'd say it. Don't go making a big deal out of it.</text>
+		<text bitflag="1345" id1="705594" id2="17" version="1065353216">Never.</text>
+		<text bitflag="1360" id1="705594" id2="17" version="1065353216">That won't be a problem.</text>
+		<text bitflag="1345" id1="705595" id2="17" version="1065353216">Glad I could help. Really.</text>
+		<text bitflag="1360" id1="705595" id2="17" version="1065353216">You're welcome.</text>
+		<text bitflag="1345" id1="705596" id2="17" version="1065353216">That's going on the record.</text>
+		<text bitflag="1360" id1="705596" id2="17" version="1065353216">It is a big deal.</text>
+		<text bitflag="1345" id1="705597" id2="17" version="1065353216">I'm going to hear about this for a while, aren't I?</text>
+		<text bitflag="1345" id1="705599" id2="17" version="1065353216">I've got to hand it to you, you really surprised me. You're not what I would call a conventional partner in crime.</text>
+		<text bitflag="1345" id1="705601" id2="17" version="1065353216">But we're really turning out to make quite the team.</text>
+		<text bitflag="1345" id1="705602" id2="17" version="1065353216">Letting you live was one of my better decisions.</text>
+		<text bitflag="1360" id1="705602" id2="17" version="1065353216">Couldn't agree more.</text>
+		<text bitflag="1345" id1="705603" id2="17" version="1065353216">I do think it's because we got all that pesky trying-to-kill-each-other out of the way early.</text>
+		<text bitflag="1345" id1="705605" id2="17" version="1065353216">That mean I'm stuck with you?</text>
+		<text bitflag="1360" id1="705605" id2="17" version="1065353216">I'm valuable, what can I say?</text>
+		<text bitflag="1345" id1="705606" id2="17" version="1065353216">I'm afraid so.</text>
+		<text bitflag="1345" id1="705608" id2="17" version="1065353216">You just needed someone who could pick up all your slack.</text>
+		<text bitflag="1360" id1="705608" id2="17" version="1065353216">More or less.</text>
+		<text bitflag="1345" id1="705609" id2="17" version="1065353216">Can you argue with the results?</text>
+		<text bitflag="1345" id1="705611" id2="17" version="1065353216">You and me, we're going to carve out a criminal empire, or at least accumulate one heck of a fortune. Your children's children won't know what to do with it.</text>
+		<text bitflag="1345" id1="705613" id2="17" version="1065353216">I'm telling you, Wild Space is the limit!</text>
+		<text bitflag="1345" id1="705618" id2="17" version="1065353216">When did you get back?</text>
+		<text bitflag="1345" id1="705619" id2="17" version="1065353216">Oh, a little while ago. I wasn't exactly in a talkative mood. My little pipe dream involving Hylo went about as you'd have expected.</text>
+		<text bitflag="1345" id1="705620" id2="17" version="1065353216">Didn't find her?</text>
+		<text bitflag="1360" id1="705620" id2="17" version="1065353216">Wild ghost chase?</text>
+		<text bitflag="1345" id1="705621" id2="17" version="1065353216">No, I found her.</text>
+		<text bitflag="1345" id1="705623" id2="17" version="1065353216">I'm here, if you want to get it off your chest.</text>
+		<text bitflag="1360" id1="705623" id2="17" version="1065353216">What about now?</text>
+		<text bitflag="1345" id1="705624" id2="17" version="1065353216">I'm not exactly used to spilling my guts, but okay.</text>
+		<text bitflag="1345" id1="705626" id2="17" version="1065353216">I expected you wouldn't make it back.</text>
+		<text bitflag="1360" id1="705626" id2="17" version="1065353216">No, you're still breathing.</text>
+		<text bitflag="1345" id1="705627" id2="17" version="1065353216">I appreciate the vote of confidence.</text>
+		<text bitflag="1345" id1="705629" id2="17" version="1065353216">After all these years I finally caught up with her and she hadn't changed a bit.</text>
+		<text bitflag="1345" id1="705631" id2="17" version="1065353216">I found her on Belsavis, in some sort of stasis chamber. It was like I'd just left.</text>
+		<text bitflag="1345" id1="705632" id2="17" version="1065353216">She wasn't in a forgiving mood.</text>
+		<text bitflag="1360" id1="705632" id2="17" version="1065353216">The wounds were still fresh.</text>
+		<text bitflag="1345" id1="705633" id2="17" version="1065353216">At least she didn't have time to nurse an old grudge.</text>
+		<text bitflag="1360" id1="705633" id2="17" version="1065353216">Maybe that was for the best.</text>
+		<text bitflag="1345" id1="705634" id2="17" version="1065353216">Yeah... yeah, maybe. Regardless, it wasn't pretty.</text>
+		<text bitflag="1345" id1="705636" id2="17" version="1065353216">Talk about your past catching up with you.</text>
+		<text bitflag="1360" id1="705636" id2="17" version="1065353216">Weird.</text>
+		<text bitflag="1345" id1="705637" id2="17" version="1065353216">If she'd had a blaster, she'd have shot me the moment she came to. Lucky for me, she recognized that prison wasn't the place to hash things out.</text>
+		<text bitflag="1345" id1="705639" id2="17" version="1065353216">She took off the first chance she got. Hardly the reunion I was looking for, but I got her out of that pit. That counts for something, right?</text>
+		<text bitflag="1345" id1="705640" id2="17" version="1065353216">I'm not the one to ask.</text>
+		<text bitflag="1360" id1="705640" id2="17" version="1065353216">Maybe.</text>
+		<text bitflag="1345" id1="705641" id2="17" version="1065353216">Guess I'm stuck answering that one myself.</text>
+		<text bitflag="1345" id1="705643" id2="17" version="1065353216">She'd have been stuck down there forever if you hadn't.</text>
+		<text bitflag="1360" id1="705643" id2="17" version="1065353216">I think so.</text>
+		<text bitflag="1345" id1="705644" id2="17" version="1065353216">She deserved better than that.</text>
+		<text bitflag="1345" id1="705646" id2="17" version="1065353216">Hey, who needs love anyway... thanks.</text>
+		<text bitflag="1345" id1="705648" id2="17" version="1065353216">Well, now you can get over it and move on.</text>
+		<text bitflag="1360" id1="705648" id2="17" version="1065353216">It's closure.</text>
+		<text bitflag="1345" id1="705649" id2="17" version="1065353216">Yeah, maybe.</text>
+		<text bitflag="1345" id1="705651" id2="17" version="1065353216">If you'll excuse me, I need to create a hangover to nurse.</text>
+		<text bitflag="1345" id1="705657" id2="17" version="1065353216">I caught up with that old associate from the blockade run.</text>
+		<text bitflag="1345" id1="705659" id2="17" version="1065353216">Old Quan and I had a nice little chat; he was surprised to see me, to say the least.</text>
+		<text bitflag="1345" id1="705660" id2="17" version="1065353216">Did he know anything useful?</text>
+		<text bitflag="1360" id1="705660" id2="17" version="1065353216">And?</text>
+		<text bitflag="1345" id1="705661" id2="17" version="1065353216">Can you trust him to keep quiet about your new identity?</text>
+		<text bitflag="1360" id1="705661" id2="17" version="1065353216">He recognized you?</text>
+		<text bitflag="1345" id1="705662" id2="17" version="1065353216">Oh, I'd say he'll remain mum on the subject indefinitely. Don't give me that look, I bought his last round.</text>
+		<text bitflag="1345" id1="705664" id2="17" version="1065353216">He probably thought he was finally rid of you.</text>
+		<text bitflag="1360" id1="705664" id2="17" version="1065353216">Disappointed, more like.</text>
+		<text bitflag="1345" id1="705665" id2="17" version="1065353216">We were never that close, not like you and me, so I didn't mind too much having to shoot him.</text>
+		<text bitflag="1345" id1="705667" id2="17" version="1065353216">Before I had to end Quan's retirement prematurely, I convinced him to fill me in on some gaps in our history since the blockade run.</text>
+		<text bitflag="1345" id1="705669" id2="17" version="1065353216">When the Hutts came looking for their return investment, Hylo Visz smuggled herself off to Republic space with the help of another free trader.</text>
+		<text bitflag="1345" id1="705670" id2="17" version="1065353216">That doesn't exactly narrow it down.</text>
+		<text bitflag="1360" id1="705670" id2="17" version="1065353216">You know where?</text>
+		<text bitflag="1345" id1="705671" id2="17" version="1065353216">More than you think. I know the guy.</text>
+		<text bitflag="1345" id1="705673" id2="17" version="1065353216">Technically, so do you.</text>
+		<text bitflag="1345" id1="705675" id2="17" version="1065353216">That definitely increases her odds of being alive.</text>
+		<text bitflag="1360" id1="705675" id2="17" version="1065353216">Good news, right?</text>
+		<text bitflag="1345" id1="705676" id2="17" version="1065353216">I'm not so sure, given where she was headed.</text>
+		<text bitflag="1345" id1="705678" id2="17" version="1065353216">Looks like she got over you quickly enough.</text>
+		<text bitflag="1360" id1="705678" id2="17" version="1065353216">Bet it was a new beau.</text>
+		<text bitflag="1345" id1="705679" id2="17" version="1065353216">Ha ha, fat chance. Hylo had better taste in who to be caught dead with.</text>
+		<text bitflag="1345" id1="705681" id2="17" version="1065353216">Remember Zale Barrows? She cut a deal with that twerp to hide her on Belsavis!</text>
+		<text bitflag="1345" id1="705683" id2="17" version="1065353216">A goody two-shoes who threw in with the Republic as a privateer after the blockade, he took her off to some prison colony far off the radar.</text>
+		<text bitflag="1345" id1="705685" id2="17" version="1065353216">If she's still stuck there, this is my chance to swoop in to the rescue. I've got to go after her.</text>
+		<text bitflag="1345" id1="705686" id2="17" version="1065353216">It seems like you owe her a lot more than that, but it's a start.</text>
+		<text bitflag="1360" id1="705686" id2="17" version="1065353216">I suppose so.</text>
+		<text bitflag="1345" id1="705687" id2="17" version="1065353216">If it means this much to you, count me in.</text>
+		<text bitflag="1360" id1="705687" id2="17" version="1065353216">Need help?</text>
+		<text bitflag="1345" id1="705688" id2="17" version="1065353216">This is personal, too personal. I've got to take care of this on my own.</text>
+		<text bitflag="1345" id1="705690" id2="17" version="1065353216">You're deluding yourself. All that time running make you forget how to face consequences?</text>
+		<text bitflag="1360" id1="705690" id2="17" version="1065353216">Listen to what you're saying.</text>
+		<text bitflag="1345" id1="705691" id2="17" version="1065353216">I'm suggesting risking my neck on the off chance I can save someone who hates my guts. Of course I'm deluded.</text>
+		<text bitflag="1345" id1="705693" id2="17" version="1065353216">If I don't make it, well--thanks. I don't think Tyresius would have ever gotten this opportunity.</text>
+		<text bitflag="1345" id1="705700" id2="17" version="1065353216">So what do you know about Hylo Visz?</text>
+		<text bitflag="1345" id1="705701" id2="17" version="1065353216">Who or what is Hylo Visz?</text>
+		<text bitflag="1360" id1="705701" id2="17" version="1065353216">Nothing.</text>
+		<text bitflag="1345" id1="705702" id2="17" version="1065353216">Only the big-time celebrity who coordinated the biggest blockade run this galaxy's ever seen.</text>
+		<text bitflag="1345" id1="705704" id2="17" version="1065353216">I've heard the name. She was some big-time spacer, wasn't she?</text>
+		<text bitflag="1360" id1="705704" id2="17" version="1065353216">Sounds familiar.</text>
+		<text bitflag="1345" id1="705705" id2="17" version="1065353216">You could put it that way, if you're partial to understatement.</text>
+		<text bitflag="1345" id1="705707" id2="17" version="1065353216">I know that you don't really care what I know.</text>
+		<text bitflag="1360" id1="705707" id2="17" version="1065353216">Just skip to the point.</text>
+		<text bitflag="1345" id1="705708" id2="17" version="1065353216">She broke the Mandalorian blockade at the Hydian Way. You know, the one that strangled Coruscant and dashed a full-scale Jedi assault.</text>
+		<text bitflag="1345" id1="705710" id2="17" version="1065353216">And it wasn't out of the goodness of her heart, either. Credits were involved, a lot of them.</text>
+		<text bitflag="1360" id1="705711" id2="17" version="1065353216">Go on.</text>
+		<text bitflag="1345" id1="705712" id2="17" version="1065353216">I like her already.</text>
+		<text bitflag="1360" id1="705712" id2="17" version="1065353216">My kind of woman.</text>
+		<text bitflag="1345" id1="705713" id2="17" version="1065353216">She was quite the lady.</text>
+		<text bitflag="1345" id1="705715" id2="17" version="1065353216">You could say that run was the height of her career, but that's only because she dropped off the scanners not long after.</text>
+		<text bitflag="1345" id1="705717" id2="17" version="1065353216">She single?</text>
+		<text bitflag="1360" id1="705717" id2="17" version="1065353216">My kind of woman.</text>
+		<text bitflag="1345" id1="705718" id2="17" version="1065353216">I heard that!</text>
+		<text bitflag="1345" id1="705720" id2="17" version="1065353216">No. She's dead. According to the rumors anyway.</text>
+		<text bitflag="1345" id1="705722" id2="17" version="1065353216">I bet more than a few people would be willing to pay to have a word with her.</text>
+		<text bitflag="1360" id1="705722" id2="17" version="1065353216">Could be a nice bounty.</text>
+		<text bitflag="1345" id1="705723" id2="17" version="1065353216">That'd be difficult to deliver, considering she's dead. Anyone asking about Hylo isn't looking for a chat.</text>
+		<text bitflag="1345" id1="705725" id2="17" version="1065353216">Most think the Hutts were behind Hylo's disappearance, but anyone who knew her could tell you they'd have better odds winning a marathon.</text>
+		<text bitflag="1345" id1="705727" id2="17" version="1065353216">No, she's still out there... somewhere.</text>
+		<text bitflag="1345" id1="705728" id2="17" version="1065353216">Why the sudden interest in a long lost spacer?</text>
+		<text bitflag="1360" id1="705728" id2="17" version="1065353216">Where's this going?</text>
+		<text bitflag="1345" id1="705729" id2="17" version="1065353216">Never took you for the type to get starstruck.</text>
+		<text bitflag="1360" id1="705729" id2="17" version="1065353216">You really admire her.</text>
+		<text bitflag="1345" id1="705730" id2="17" version="1065353216">What? No. We've got history.</text>
+		<text bitflag="1345" id1="705732" id2="17" version="1065353216">Not to mention her credits.</text>
+		<text bitflag="1360" id1="705732" id2="17" version="1065353216">So's that fortune.</text>
+		<text bitflag="1345" id1="705733" id2="17" version="1065353216">Ah, that isn't exactly the case.</text>
+		<text bitflag="1345" id1="705735" id2="17" version="1065353216">Hylo was my old partner... more than that. That blockade run was the last thing we ever did together. Like I said, a lot of credits were involved.</text>
+		<text bitflag="1345" id1="705737" id2="17" version="1065353216">When I saw the opportunity, I took off and left Hylo holding the bag. Stupid.</text>
+		<text bitflag="1345" id1="705738" id2="17" version="1065353216">Reassuring.</text>
+		<text bitflag="1360" id1="705738" id2="17" version="1065353216">Sounds just like you.</text>
+		<text bitflag="1345" id1="705739" id2="17" version="1065353216">Hey, I said it was stupid. I learned my lesson.</text>
+		<text bitflag="1345" id1="705741" id2="17" version="1065353216">You double-crossed your own girlfriend?</text>
+		<text bitflag="1360" id1="705741" id2="17" version="1065353216">That's really low.</text>
+		<text bitflag="1345" id1="705742" id2="17" version="1065353216">Technically, she wasn't my girlfriend when I double-crossed her....</text>
+		<text bitflag="1345" id1="705744" id2="17" version="1065353216">I was young and naive... and maybe a little afraid of commitment. I didn't know what I lost until it was gone.</text>
+		<text bitflag="1345" id1="705746" id2="17" version="1065353216">Is that a conscience showing?</text>
+		<text bitflag="1360" id1="705746" id2="17" version="1065353216">You're actually sorry?</text>
+		<text bitflag="1345" id1="705747" id2="17" version="1065353216">I don't know, maybe. It was a dumb move I regret making.</text>
+		<text bitflag="1345" id1="705749" id2="17" version="1065353216">Listen, I found out that an old associate from that blockade run is still around and kicking. A mutual acquaintance.</text>
+		<text bitflag="1345" id1="705751" id2="17" version="1065353216">I owe Hylo one last visit.  If he knows where she's been laying low all this time, I've got to track him down.</text>
+		<text bitflag="1345" id1="705757" id2="17" version="1065353216">Notice anything different?</text>
+		<text bitflag="1345" id1="705758" id2="17" version="1065353216">About you? Can't say I do.</text>
+		<text bitflag="1360" id1="705758" id2="17" version="1065353216">No.</text>
+		<text bitflag="1345" id1="705759" id2="17" version="1065353216">Good! Money well-spent.</text>
+		<text bitflag="1345" id1="705761" id2="17" version="1065353216">Are you gonna get upset if I say &quot;no&quot;?</text>
+		<text bitflag="1360" id1="705761" id2="17" version="1065353216">This a trick question?</text>
+		<text bitflag="1345" id1="705762" id2="17" version="1065353216">Hardly. I'll just chalk it up to fine craftsmanship.</text>
+		<text bitflag="1345" id1="705764" id2="17" version="1065353216">You should lay off the junk food.</text>
+		<text bitflag="1360" id1="705764" id2="17" version="1065353216">Weight gain, for one.</text>
+		<text bitflag="1345" id1="705765" id2="17" version="1065353216">And they said this stuff was slimming.</text>
+		<text bitflag="1345" id1="705767" id2="17" version="1065353216">Just acquired some nice form-fitting blast armor. Thought I'd see if it would stand up to a trained eye.</text>
+		<text bitflag="1345" id1="705769" id2="17" version="1065353216">Apparently so, if your &quot;observation&quot; is any indication.</text>
+		<text bitflag="1345" id1="705770" id2="17" version="1065353216">Glad that worked out for you.</text>
+		<text bitflag="1360" id1="705770" id2="17" version="1065353216">Well, good, I suppose.</text>
+		<text bitflag="1345" id1="705771" id2="17" version="1065353216">The equipment I'm providing not cutting it?</text>
+		<text bitflag="1360" id1="705771" id2="17" version="1065353216">Don't like my gear?</text>
+		<text bitflag="1345" id1="705772" id2="17" version="1065353216">No complaints. This is purely supplemental.</text>
+		<text bitflag="1345" id1="705774" id2="17" version="1065353216">Be happy to see if it stands up to my blaster.</text>
+		<text bitflag="1360" id1="705774" id2="17" version="1065353216">Why stop the experiment there?</text>
+		<text bitflag="1345" id1="705775" id2="17" version="1065353216">I can always count on you to keep my welfare in mind.</text>
+		<text bitflag="1345" id1="705777" id2="17" version="1065353216">Since I'm still putting myself in harm's way, I decided to make a little investment in my well-being.</text>
+		<text bitflag="1345" id1="705779" id2="17" version="1065353216">Been stocking up on interesting tidbits at every port we've hit. From here on, I'm ready for anything.</text>
+		<text bitflag="1345" id1="705785" id2="17" version="1065353216">Meet our new product. Had our salt shipment bottled as &quot;special&quot; tablets to help organics retain water.</text>
+		<text bitflag="1345" id1="705787" id2="17" version="1065353216">Now we just need to seal the deal. I want you with me when our prospective buyer calls. Keep him from getting too comfortable.</text>
+		<text bitflag="1345" id1="705789" id2="17" version="1065353216">We'll be meeting an Arcona named Groona to convince him to act as our supplier to the colony.</text>
+		<text bitflag="1345" id1="705790" id2="17" version="1065353216">Sounds simple enough.</text>
+		<text bitflag="1360" id1="705790" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="705791" id2="17" version="1065353216">I thought you were going to be the supplier.</text>
+		<text bitflag="1360" id1="705791" id2="17" version="1065353216">Why?</text>
+		<text bitflag="1345" id1="705792" id2="17" version="1065353216">Unless you want to start making regular trips to the middle of nowhere, we need a middleman.</text>
+		<text bitflag="1345" id1="705794" id2="17" version="1065353216">I'll try not to let all the excitement get to me.</text>
+		<text bitflag="1360" id1="705794" id2="17" version="1065353216">Sounds dull.</text>
+		<text bitflag="1345" id1="705795" id2="17" version="1065353216">You'll change your tune when the credits start rolling in.</text>
+		<text bitflag="1345" id1="705797" id2="17" version="1065353216">This chump would do anything for enough credits to get off Tatooine. I don't think it'll take much to get poor Groona to bite.</text>
+		<text bitflag="1345" id1="705801" id2="17" version="1065353216">Groona, good to hear from you. Looking well. Lose some weight?</text>
+		<text bitflag="1345" id1="705805" id2="17" version="1065353216">Oh, her? Don't worry about her. Had to let my last security detail go in favor of this fine lady. Say hello, my dear.</text>
+		<text bitflag="1345" id1="705806" id2="17" version="1065353216">Oh, him? Never mind him. Had to let go of my last security detail in favor of this one. Consummate professional. Say hello.</text>
+		<text bitflag="1345" id1="705807" id2="17" version="1065353216">Hello.</text>
+		<text bitflag="1360" id1="705807" id2="17" version="1065353216">Fine.</text>
+		<text bitflag="1345" id1="705808" id2="17" version="1065353216">We look forward to doing business with you, Groona.</text>
+		<text bitflag="1360" id1="705808" id2="17" version="1065353216">The pleasure is mine.</text>
+		<text bitflag="1345" id1="705809" id2="17" version="1065353216">See, a perfect lady.</text>
+		<text bitflag="1345" id1="705811" id2="17" version="1065353216">See, a perfect gentleman.</text>
+		<text bitflag="1345" id1="705814" id2="17" version="1065353216">Manners aren't part of the job description, you understand.</text>
+		<text bitflag="1345" id1="705816" id2="17" version="1065353216">You know, Groona, I'm a bit of a philanthropist. Did I mention that?</text>
+		<text bitflag="1345" id1="705820" id2="17" version="1065353216">My visit to Tatooine left me inspired by the plight of rugged folks like yourself trying to squeeze life out of that dust bowl.</text>
+		<text bitflag="1345" id1="705822" id2="17" version="1065353216">Make life easier for the little guy, that's my motto. And helping you hardworking souls is now my personal mission.</text>
+		<text bitflag="1345" id1="705823" id2="17" version="1065353216">I'm sure he's more interested in hearing about the product.</text>
+		<text bitflag="1360" id1="705823" id2="17" version="1065353216">Just get to the deal.</text>
+		<text bitflag="1345" id1="705824" id2="17" version="1065353216">Who wouldn't be?</text>
+		<text bitflag="1345" id1="705826" id2="17" version="1065353216">He'll put himself in the poor house if that's what it takes.</text>
+		<text bitflag="1360" id1="705826" id2="17" version="1065353216">My boss is a true saint.</text>
+		<text bitflag="1345" id1="705827" id2="17" version="1065353216">My associate worries too much; my friend Groona and his pals wouldn't leave me holding the bag. There'll be plenty of prosperity to go 'round.</text>
+		<text bitflag="1345" id1="705829" id2="17" version="1065353216">Ahem. Sorry, dry air.</text>
+		<text bitflag="1360" id1="705829" id2="17" version="1065353216">What a load of garbage.</text>
+		<text bitflag="1345" id1="705830" id2="17" version="1065353216">So, as I was saying.</text>
+		<text bitflag="1345" id1="705832" id2="17" version="1065353216">The top chemists at Roing Industries developed this little wonder for us: a compound designed to maximize water retention in organic life-forms.</text>
+		<text bitflag="1345" id1="705834" id2="17" version="1065353216">The benefit to hardworking subsistence farmers such as yourself is immeasurable.</text>
+		<text bitflag="1345" id1="705839" id2="17" version="1065353216">Can you be sure you'll ever be able to afford that at the rate you're going?</text>
+		<text bitflag="1360" id1="705839" id2="17" version="1065353216">That's why you need us.</text>
+		<text bitflag="1345" id1="705841" id2="17" version="1065353216">We're helping you use less water, leaving you more to sell. It'll pay for itself several times over.</text>
+		<text bitflag="1345" id1="705842" id2="17" version="1065353216">You're in a good position, Groona. You stand to make a lot of money as my distributor once things take off.</text>
+		<text bitflag="1345" id1="705844" id2="17" version="1065353216">We've invested a lot of money into this project for you, now you're not interested?</text>
+		<text bitflag="1360" id1="705844" id2="17" version="1065353216">You're starting to annoy me.</text>
+		<text bitflag="1345" id1="705847" id2="17" version="1065353216">That's a better plan for your savings than investing in this garbage.</text>
+		<text bitflag="1360" id1="705847" id2="17" version="1065353216">Hang on to your credits.</text>
+		<text bitflag="1345" id1="705849" id2="17" version="1065353216">This is lower than I'm willing to sink, Gault.</text>
+		<text bitflag="1345" id1="705854" id2="17" version="1065353216">Must be having some kind of flashback. Can't find decent help these days. Just, let me handle my associate and we'll finish our business.</text>
+		<text bitflag="1345" id1="705856" id2="17" version="1065353216">Snap out of it, buddy. It's Gellar, Gellar Roing, your boss. Don't mess this up.</text>
+		<text bitflag="1345" id1="705857" id2="17" version="1065353216">We're better than this.</text>
+		<text bitflag="1360" id1="705857" id2="17" version="1065353216">There are wealthier marks.</text>
+		<text bitflag="1345" id1="705858" id2="17" version="1065353216">And I thought you might be too ruthless for this business.</text>
+		<text bitflag="1345" id1="705860" id2="17" version="1065353216">Need me to remind you who's boss?</text>
+		<text bitflag="1360" id1="705860" id2="17" version="1065353216">Don't tell me what to do.</text>
+		<text bitflag="1345" id1="705861" id2="17" version="1065353216">Oh, ease off. If it means that much to you....</text>
+		<text bitflag="1345" id1="705863" id2="17" version="1065353216">I can't even begin to express my disappointment.</text>
+		<text bitflag="1345" id1="705867" id2="17" version="1065353216">Looks like I'm sending you the whole shipment. Free of charge. Choke on it.</text>
+		<text bitflag="1345" id1="705871" id2="17" version="1065353216">Well, since we both know how sensitive you are about robbing the poor, let me remind you of the benefits of robbing the rich.</text>
+		<text bitflag="1345" id1="705873" id2="17" version="1065353216">Just so we're clear, me talking to you doesn't mean I'm not still irked about that last job.</text>
+		<text bitflag="1345" id1="705874" id2="17" version="1065353216">You didn't lose much on it.</text>
+		<text bitflag="1360" id1="705874" id2="17" version="1065353216">You can't be that mad.</text>
+		<text bitflag="1345" id1="705875" id2="17" version="1065353216">Yeah, yeah, I said I was irked, not that I was going to steal your firstborn.</text>
+		<text bitflag="1345" id1="705877" id2="17" version="1065353216">I know it was your deal, but I couldn't go through with that. Maybe next time.</text>
+		<text bitflag="1360" id1="705877" id2="17" version="1065353216">I'm sorry.</text>
+		<text bitflag="1345" id1="705878" id2="17" version="1065353216">I'm surprised you're open to a next time after that little show.</text>
+		<text bitflag="1345" id1="705880" id2="17" version="1065353216">Getting the silent treatment from you would be a blessing.</text>
+		<text bitflag="1360" id1="705880" id2="17" version="1065353216">Like I care.</text>
+		<text bitflag="1345" id1="705881" id2="17" version="1065353216">Watch it, or I'll start practicing my singing.</text>
+		<text bitflag="1345" id1="705883" id2="17" version="1065353216">I think it's fair to say you owe me another go. And not just anything--I'm talking about a big score.</text>
+		<text bitflag="1345" id1="705885" id2="17" version="1065353216">I'm sure I can think of something that won't upset your precious sensibilities.</text>
+		<text bitflag="1345" id1="705886" id2="17" version="1065353216">Sorry, I'm feeling a little sick to my stomach.</text>
+		<text bitflag="1360" id1="705886" id2="17" version="1065353216">Fine, just hurry up.</text>
+		<text bitflag="1345" id1="705887" id2="17" version="1065353216">We had a long trip, my partner's just a little grouchy. No need to rush a decision. I stand by my product.</text>
+		<text bitflag="1345" id1="705889" id2="17" version="1065353216">Tell you what, I'll send you a sample. If your friends aren't begging you for more in a matter of days, you can keep it. No charge.</text>
+		<text bitflag="1345" id1="705893" id2="17" version="1065353216">Don't mention it. I hope we'll be hearing from you soon.</text>
+		<text bitflag="1345" id1="705895" id2="17" version="1065353216">Come on, partner, I have a feeling we'll need to increase our supply.</text>
+		<text bitflag="1345" id1="705899" id2="17" version="1065353216">See, I told you a little patience goes a long way, but let me remove any lingering doubts.</text>
+		<text bitflag="1345" id1="705901" id2="17" version="1065353216">You remember those little trinkets that happened to come into our possession on Alderaan?</text>
+		<text bitflag="1345" id1="705903" id2="17" version="1065353216">I managed to sell most of the stuff right back to the nobility, at a tidy profit.</text>
+		<text bitflag="1345" id1="705904" id2="17" version="1065353216">How'd you swing that?</text>
+		<text bitflag="1360" id1="705904" id2="17" version="1065353216">You're kidding.</text>
+		<text bitflag="1345" id1="705905" id2="17" version="1065353216">It took a little laundering, but the Alderaanians were very eager to outbid the competition.</text>
+		<text bitflag="1345" id1="705907" id2="17" version="1065353216">You did the work, you get the spoils.</text>
+		<text bitflag="1360" id1="705907" id2="17" version="1065353216">I want you to keep it.</text>
+		<text bitflag="1345" id1="705908" id2="17" version="1065353216">Very generous of you. Very foolish, but very generous... thanks.</text>
+		<text bitflag="1345" id1="705910" id2="17" version="1065353216">This had better be worth the wait.</text>
+		<text bitflag="1360" id1="705910" id2="17" version="1065353216">That was ages ago.</text>
+		<text bitflag="1345" id1="705911" id2="17" version="1065353216">You want to try to squeeze more out of those stuffed shirts, be my guest. Alderaan's not going anywhere.</text>
+		<text bitflag="1345" id1="705920" id2="17" version="1065353216">Now we wait for Groona gets his friends hooked and watch the credits trickle in.</text>
+		<text bitflag="1345" id1="705921" id2="17" version="1065353216">I have to hand it to you, you were right.</text>
+		<text bitflag="1360" id1="705921" id2="17" version="1065353216">Excellent.</text>
+		<text bitflag="1345" id1="705922" id2="17" version="1065353216">Of course I was right. I didn't get to be the infamous Tyresius Lokai by placing sucker bets.</text>
+		<text bitflag="1345" id1="705924" id2="17" version="1065353216">I thought you were crazy when you pitched this little scheme.</text>
+		<text bitflag="1360" id1="705924" id2="17" version="1065353216">I can't believe this worked.</text>
+		<text bitflag="1345" id1="705925" id2="17" version="1065353216">I'm unconventional, not a crackpot. Remember that.</text>
+		<text bitflag="1345" id1="705927" id2="17" version="1065353216">I've got blood money that's cleaner than these credits.</text>
+		<text bitflag="1360" id1="705927" id2="17" version="1065353216">I've never stooped so low.</text>
+		<text bitflag="1345" id1="705928" id2="17" version="1065353216">Hey, you've taken credits from some pretty dirty hands in the past, friend.</text>
+		<text bitflag="1345" id1="705930" id2="17" version="1065353216">You seem to have a knack for this line of work. I think it's time we take off the kid gloves and find a big score.</text>
+		<text bitflag="1345" id1="705932" id2="17" version="1065353216">I'll do a little legwork while you find ways to spend your newfound wealth.</text>
+		<text bitflag="1345" id1="705940" id2="17" version="1065353216">Remember those Arcona colonists I was telling you about?</text>
+		<text bitflag="1345" id1="705942" id2="17" version="1065353216">Well, I've got the perfect racket to skim a little profit off of those moisture farming saps: salt.</text>
+		<text bitflag="1345" id1="705943" id2="17" version="1065353216">As in table salt?</text>
+		<text bitflag="1360" id1="705943" id2="17" version="1065353216">Salt?</text>
+		<text bitflag="1345" id1="705944" id2="17" version="1065353216">Well, I'm not talking bath salts, considering water's a luxury good. Listen, I've got a theory.</text>
+		<text bitflag="1345" id1="705946" id2="17" version="1065353216">This I have to hear.</text>
+		<text bitflag="1360" id1="705946" id2="17" version="1065353216">Do tell.</text>
+		<text bitflag="1345" id1="705947" id2="17" version="1065353216">You can stop there.</text>
+		<text bitflag="1360" id1="705947" id2="17" version="1065353216">Forget it.</text>
+		<text bitflag="1345" id1="705948" id2="17" version="1065353216">Hey, hey, hey, hear me out.</text>
+		<text bitflag="1345" id1="705950" id2="17" version="1065353216">I used to know this spacey Arconan bagman back on Nar Shaddaa. Thought the guy was a spicehead for the longest time.</text>
+		<text bitflag="1345" id1="705952" id2="17" version="1065353216">Turns out I was only half-right. This guy's cravings were something else.</text>
+		<text bitflag="1345" id1="705953" id2="17" version="1065353216">Your friend had some sort of reaction.</text>
+		<text bitflag="1360" id1="705953" id2="17" version="1065353216">Salt.</text>
+		<text bitflag="1345" id1="705954" id2="17" version="1065353216">Can't say for certain, but I've got my suspicions.</text>
+		<text bitflag="1345" id1="705956" id2="17" version="1065353216">Are all Arcona this screwy?</text>
+		<text bitflag="1360" id1="705956" id2="17" version="1065353216">You're not making this up?</text>
+		<text bitflag="1345" id1="705957" id2="17" version="1065353216">The few I have met haven't exactly instilled me with confidence.</text>
+		<text bitflag="1345" id1="705959" id2="17" version="1065353216">Now who are you trying to con?</text>
+		<text bitflag="1360" id1="705959" id2="17" version="1065353216">Do I look that gullible?</text>
+		<text bitflag="1345" id1="705960" id2="17" version="1065353216">If you'd been there, you wouldn't be giving me that look.</text>
+		<text bitflag="1345" id1="705962" id2="17" version="1065353216">One night, after making our handoff in some dive diner, he orders some garbage soup and dumps an entire shaker of salt into the bowl.</text>
+		<text bitflag="1345" id1="705964" id2="17" version="1065353216">Shoulda seen the way this guy went at the stuff before stumbling out of the place like it's last call.</text>
+		<text bitflag="1345" id1="705965" id2="17" version="1065353216">Your money's on these colonists having the same craving.</text>
+		<text bitflag="1360" id1="705965" id2="17" version="1065353216">I see where this is going.</text>
+		<text bitflag="1345" id1="705966" id2="17" version="1065353216">Ten-to-one says there's something about salt those wedge-heads can't resist.</text>
+		<text bitflag="1345" id1="705968" id2="17" version="1065353216">So, you want to sell them salt?</text>
+		<text bitflag="1360" id1="705968" id2="17" version="1065353216">I don't see a scam here.</text>
+		<text bitflag="1345" id1="705969" id2="17" version="1065353216">Do we look like two-credit traders?</text>
+		<text bitflag="1345" id1="705971" id2="17" version="1065353216">The only thing that proves is you keep lousy company.</text>
+		<text bitflag="1360" id1="705971" id2="17" version="1065353216">You're an idiot.</text>
+		<text bitflag="1345" id1="705972" id2="17" version="1065353216">Didn't take a genius to see something fishy was going on and I'm a betting man.</text>
+		<text bitflag="1345" id1="705974" id2="17" version="1065353216">We're gonna sell those colonists the answer to all their woes, specially formulated and offered exclusively through Roing Industries.</text>
+		<text bitflag="1345" id1="705976" id2="17" version="1065353216">If I'm right about how much Arcona love the stuff, our biggest problem will be keeping up the supply.</text>
+		<text bitflag="1345" id1="705982" id2="17" version="1065353216">Let me tell you a little thing about opportunity.</text>
+		<text bitflag="1345" id1="705983" id2="17" version="1065353216">Enlighten me.</text>
+		<text bitflag="1360" id1="705983" id2="17" version="1065353216">All right.</text>
+		<text bitflag="1345" id1="705984" id2="17" version="1065353216">Sometimes, when it knocks, you put it away for a rainy day.</text>
+		<text bitflag="1345" id1="705986" id2="17" version="1065353216">What makes you think I need advice on the subject?</text>
+		<text bitflag="1360" id1="705986" id2="17" version="1065353216">I do something wrong?</text>
+		<text bitflag="1345" id1="705987" id2="17" version="1065353216">You're more an &quot;in the moment&quot; type. Sometimes you've got to see the potential farther down the road.</text>
+		<text bitflag="1345" id1="705989" id2="17" version="1065353216">Take this group of &quot;fresh off the shuttle&quot; Arcona I met at the Mos Ila spaceport before you showed up.</text>
+		<text bitflag="1345" id1="705991" id2="17" version="1065353216">I left those Arcona with a stellar impression of Gellar Roing, helpful merchant, and ear-marked them for a return trip once things died down.</text>
+		<text bitflag="1345" id1="705992" id2="17" version="1065353216">What makes them good marks?</text>
+		<text bitflag="1360" id1="705992" id2="17" version="1065353216">How'd they catch your eye?</text>
+		<text bitflag="1345" id1="705993" id2="17" version="1065353216">You know why they were traveling to a dump like Tatooine?</text>
+		<text bitflag="1345" id1="705995" id2="17" version="1065353216">So, you're planning to sell them junk speeders?</text>
+		<text bitflag="1360" id1="705995" id2="17" version="1065353216">I don't follow.</text>
+		<text bitflag="1345" id1="705996" id2="17" version="1065353216">That's small-time, friend. I don't think you fully appreciate the caliber of moron we're dealing with.</text>
+		<text bitflag="1345" id1="705998" id2="17" version="1065353216">What are Arcona?</text>
+		<text bitflag="1360" id1="705998" id2="17" version="1065353216">Arcona?</text>
+		<text bitflag="1345" id1="705999" id2="17" version="1065353216">They're your basic schlubs, big wedge-shaped heads and giant eyes. Can't miss 'em.</text>
+		<text bitflag="1345" id1="706001" id2="17" version="1065353216">How about you just tell me what you want?</text>
+		<text bitflag="1360" id1="706001" id2="17" version="1065353216">I don't need a lecture.</text>
+		<text bitflag="1345" id1="706002" id2="17" version="1065353216">Listen, I met this group of Arcona colonists in Mos Ila while waiting to get off-planet.</text>
+		<text bitflag="1345" id1="706004" id2="17" version="1065353216">Seems fresh water's hard to come by on Cona. These rubes heard about moisture farming on Tatooine and figured it was their ticket to riches.</text>
+		<text bitflag="1345" id1="706006" id2="17" version="1065353216">Fleecing these yokels will be like taking candy from a baby; the key is finding the right scheme.</text>
+		<text bitflag="1345" id1="706007" id2="17" version="1065353216">What are we aiming for?</text>
+		<text bitflag="1360" id1="706007" id2="17" version="1065353216">Any thoughts?</text>
+		<text bitflag="1345" id1="706008" id2="17" version="1065353216">We need something with a low overhead, something we can keep going for a while.</text>
+		<text bitflag="1345" id1="706010" id2="17" version="1065353216">You really enjoy seeing what you can get away with, don't you?</text>
+		<text bitflag="1360" id1="706010" id2="17" version="1065353216">Ah, this is a game to you.</text>
+		<text bitflag="1345" id1="706011" id2="17" version="1065353216">Surely a Mandalorian can appreciate testing one's limits.</text>
+		<text bitflag="1345" id1="706013" id2="17" version="1065353216">I suppose you threw your hat into the Great Hunt out of complacency.</text>
+		<text bitflag="1345" id1="706015" id2="17" version="1065353216">Moisture farmers aren't exactly rolling in credits, but a whole colony of them can add up.</text>
+		<text bitflag="1345" id1="706016" id2="17" version="1065353216">Talk to me when you've got something.</text>
+		<text bitflag="1360" id1="706016" id2="17" version="1065353216">Quit wasting my time.</text>
+		<text bitflag="1345" id1="706017" id2="17" version="1065353216">Some people have no appreciation for the craft.</text>
+		<text bitflag="1345" id1="706025" id2="17" version="1065353216">You'll be pleased to hear I finished fencing those little Alderaanian trinkets that came into our possession.</text>
+		<text bitflag="1345" id1="706027" id2="17" version="1065353216">Made a nice sum, even with the rush.</text>
+		<text bitflag="1345" id1="706028" id2="17" version="1065353216">You're really starting to prove your worth.</text>
+		<text bitflag="1360" id1="706028" id2="17" version="1065353216">Good work.</text>
+		<text bitflag="1345" id1="706029" id2="17" version="1065353216">I'm going to have to teach you a thing or two about compliments and flattery.</text>
+		<text bitflag="1345" id1="706031" id2="17" version="1065353216">Hang onto it, you've earned a little bonus.</text>
+		<text bitflag="1360" id1="706031" id2="17" version="1065353216">I want you to keep it.</text>
+		<text bitflag="1345" id1="706032" id2="17" version="1065353216">Don't mind if I do. It'll complement my modest finder's fee nicely... and, thanks.</text>
+		<text bitflag="1345" id1="706034" id2="17" version="1065353216">You call that a rush? Hand it over.</text>
+		<text bitflag="1360" id1="706034" id2="17" version="1065353216">About time.</text>
+		<text bitflag="1345" id1="706035" id2="17" version="1065353216">Oh, sure. You're welcome. No trouble at all.</text>
+		<text bitflag="1345" id1="706045" id2="17" version="1065353216">Have I mentioned how much pulling that little con has improved my mood?</text>
+		<text bitflag="1345" id1="706047" id2="17" version="1065353216">I think that auction put to bed any lingering doubts that Tyresius is dead and gone.</text>
+		<text bitflag="1345" id1="706049" id2="17" version="1065353216">And aside from knowing my new identity ought to stick, I'd almost forgotten how much I love a good scheme.</text>
+		<text bitflag="1345" id1="706050" id2="17" version="1065353216">Does this mean you're going to stop pacing the ship at all hours?</text>
+		<text bitflag="1360" id1="706050" id2="17" version="1065353216">Back to your old self?</text>
+		<text bitflag="1345" id1="706051" id2="17" version="1065353216">Sure, sure... unless I'm planning our next big score.</text>
+		<text bitflag="1345" id1="706053" id2="17" version="1065353216">Fun and profit, what's not to like?</text>
+		<text bitflag="1360" id1="706053" id2="17" version="1065353216">I see the appeal.</text>
+		<text bitflag="1345" id1="706054" id2="17" version="1065353216">Getting shot at, for one, but working with you has made that pretty common place.</text>
+		<text bitflag="1345" id1="706056" id2="17" version="1065353216">It's not like you were retired when I found you.</text>
+		<text bitflag="1360" id1="706056" id2="17" version="1065353216">It hasn't been that long.</text>
+		<text bitflag="1345" id1="706057" id2="17" version="1065353216">It's hard to work a proper hustle when you're on the run, chum. I've pulled more heists than cons in recent memory.</text>
+		<text bitflag="1345" id1="706059" id2="17" version="1065353216">That was the kind of racket my former partner preferred. Simple, bold, effective. Used to argue about that a lot.</text>
+		<text bitflag="1345" id1="706060" id2="17" version="1065353216">You had other preferences.</text>
+		<text bitflag="1360" id1="706060" id2="17" version="1065353216">It's not your style.</text>
+		<text bitflag="1345" id1="706061" id2="17" version="1065353216">Armed robbery is one of the few things I enjoy in moderation.</text>
+		<text bitflag="1345" id1="706063" id2="17" version="1065353216">How'd you two part ways?</text>
+		<text bitflag="1360" id1="706063" id2="17" version="1065353216">What became of your partner?</text>
+		<text bitflag="1345" id1="706064" id2="17" version="1065353216">We had different ideas about where we were headed... water under the bridge.</text>
+		<text bitflag="1345" id1="706066" id2="17" version="1065353216">Sounds like I got stuck with the dead weight.</text>
+		<text bitflag="1360" id1="706066" id2="17" version="1065353216">Can I swap you out?</text>
+		<text bitflag="1345" id1="706067" id2="17" version="1065353216">Only between your ears.</text>
+		<text bitflag="1345" id1="706069" id2="17" version="1065353216">My preference is to be long gone by the time anyone gets wise. That's a lot easier without bounty hunters breathing down my neck.</text>
+		<text bitflag="1345" id1="706071" id2="17" version="1065353216">It's about time I got back in the game. Can't afford to let myself get out of practice, after all.</text>
+		<text bitflag="1345" id1="706078" id2="17" version="1065353216">What, no parade? Not even a cake?  How about at least mustering a &quot;good to see you&quot; for the guy holding your share of the credits?</text>
+		<text bitflag="1345" id1="706079" id2="17" version="1065353216">I take it the auction went to plan?</text>
+		<text bitflag="1360" id1="706079" id2="17" version="1065353216">What's the story?</text>
+		<text bitflag="1345" id1="706080" id2="17" version="1065353216">I don't know whether to be flattered by the numbers.</text>
+		<text bitflag="1345" id1="706082" id2="17" version="1065353216">Sorry to disappoint. Take a drink, instead?</text>
+		<text bitflag="1360" id1="706082" id2="17" version="1065353216">Welcome back.</text>
+		<text bitflag="1345" id1="706083" id2="17" version="1065353216">Well, just this once.</text>
+		<text bitflag="1345" id1="706085" id2="17" version="1065353216">I'd like to see my take before it wanders off.</text>
+		<text bitflag="1360" id1="706085" id2="17" version="1065353216">Show me the money.</text>
+		<text bitflag="1345" id1="706086" id2="17" version="1065353216">It's not like it'd be going far. I live here, remember?</text>
+		<text bitflag="1345" id1="706088" id2="17" version="1065353216">Your cut. Pretty good take considering the expenses. The bidders really couldn't wait to take Tyresius off our hands.</text>
+		<text bitflag="1345" id1="706089" id2="17" version="1065353216">I didn't expect much to come of this.</text>
+		<text bitflag="1360" id1="706089" id2="17" version="1065353216">I should give you more credit.</text>
+		<text bitflag="1345" id1="706090" id2="17" version="1065353216">I know you didn't, which if you'll recall, was my point from the start. You might say I've got some experience duping these suckers.</text>
+		<text bitflag="1345" id1="706092" id2="17" version="1065353216">What expenses?</text>
+		<text bitflag="1360" id1="706092" id2="17" version="1065353216">Expenses?</text>
+		<text bitflag="1345" id1="706093" id2="17" version="1065353216">Middlemen, venues, security, incentives. Everything necessary to ensure a smooth transaction with half the underworld in one place.</text>
+		<text bitflag="1345" id1="706095" id2="17" version="1065353216">Don't let me find you've been holding out on me.</text>
+		<text bitflag="1360" id1="706095" id2="17" version="1065353216">This better be all of it.</text>
+		<text bitflag="1345" id1="706096" id2="17" version="1065353216">Don't worry, you won't. Even if you did, you might think twice about cutting in front of everyone who wants a piece of me.</text>
+		<text bitflag="1345" id1="706098" id2="17" version="1065353216">Three pirate crews, ten free traders, two Exchange bosses, half a dozen Hutts... one I don't even remember crossing. Kept licking his lips, think his name was Drooga.</text>
+		<text bitflag="1345" id1="706100" id2="17" version="1065353216">It was quite the rogue's gallery, lot of familiar faces. Brought back memories, let me tell you.</text>
+		<text bitflag="1345" id1="706106" id2="17" version="1065353216">So, that suggestion I had involving my duplicate. Turns out there are a lot of folks out there who've still got a bone to pick with the late Tyresius Lokai.</text>
+		<text bitflag="1345" id1="706108" id2="17" version="1065353216">A little friendly competition couldn't hurt our final take. I'm thinking an auction would do the trick.</text>
+		<text bitflag="1345" id1="706109" id2="17" version="1065353216">In my experience, auctions and the underworld don't mix well.</text>
+		<text bitflag="1360" id1="706109" id2="17" version="1065353216">That's risky.</text>
+		<text bitflag="1345" id1="706110" id2="17" version="1065353216">Oh sure, get enough bad seeds in one place and something bad's bound to crop up; a little weeding out takes care of that.</text>
+		<text bitflag="1345" id1="706112" id2="17" version="1065353216">I'm open to anything that'll boost our profits.</text>
+		<text bitflag="1360" id1="706112" id2="17" version="1065353216">As long as the price is right.</text>
+		<text bitflag="1345" id1="706113" id2="17" version="1065353216">That's just what I wanted to hear.</text>
+		<text bitflag="1345" id1="706115" id2="17" version="1065353216">Do I look like I have time for that?</text>
+		<text bitflag="1360" id1="706115" id2="17" version="1065353216">Too much of a bother.</text>
+		<text bitflag="1345" id1="706116" id2="17" version="1065353216">No, of course not, but I do.</text>
+		<text bitflag="1345" id1="706118" id2="17" version="1065353216">Give me some time off the ship and I can handle the whole thing by proxy. The only finger you'll have to lift'll be the one accepting your credit transfer.</text>
+		<text bitflag="1345" id1="706119" id2="17" version="1065353216">Make it happen.</text>
+		<text bitflag="1360" id1="706119" id2="17" version="1065353216">All right.</text>
+		<text bitflag="1345" id1="706120" id2="17" version="1065353216">Take as long as you need.</text>
+		<text bitflag="1360" id1="706120" id2="17" version="1065353216">Be careful while you're gone.</text>
+		<text bitflag="1345" id1="706121" id2="17" version="1065353216">Try anything cute and it'll be a two for one sale.</text>
+		<text bitflag="1360" id1="706121" id2="17" version="1065353216">Don't cross me.</text>
+		<text bitflag="1345" id1="706122" id2="17" version="1065353216">Cute's not really my style. Besides, I'm still recovering from the last time we crossed each other.</text>
+		<text bitflag="1345" id1="706124" id2="17" version="1065353216">I'll be back before you know it.</text>
+		<text bitflag="1345" id1="706132" id2="17" version="1065353216">I've been thinking it over and I see a lot of room for improvement maximizing your profits. Take catching me, for example.</text>
+		<text bitflag="1345" id1="706134" id2="17" version="1065353216">Sure you got a nice bounty from the Great Hunt, but why stop there? You just need to use a little imagination.</text>
+		<text bitflag="1345" id1="706135" id2="17" version="1065353216">And what did your imagination come up with?</text>
+		<text bitflag="1360" id1="706135" id2="17" version="1065353216">Let me hear the plan.</text>
+		<text bitflag="1345" id1="706136" id2="17" version="1065353216">This have something to do with your duplicate?</text>
+		<text bitflag="1360" id1="706136" id2="17" version="1065353216">You think I can collect again?</text>
+		<text bitflag="1345" id1="706137" id2="17" version="1065353216">Nothing slips past you, now does it?</text>
+		<text bitflag="1345" id1="706139" id2="17" version="1065353216">Get to the point, Gault.</text>
+		<text bitflag="1360" id1="706139" id2="17" version="1065353216">I'm losing patience with this.</text>
+		<text bitflag="1345" id1="706140" id2="17" version="1065353216">A few words in the right ears and you could make a lot of money on poor Tyresius's remains. If you don't mind double-crossing crime lords.</text>
+		<text bitflag="1345" id1="706142" id2="17" version="1065353216">Offer the body, see who bites, rob them blind. Couldn't be simpler.</text>
+		<text bitflag="1345" id1="706143" id2="17" version="1065353216">Drum up some interest. If the payoff is worth the risk, I'm in.</text>
+		<text bitflag="1360" id1="706143" id2="17" version="1065353216">Let's see where this goes.</text>
+		<text bitflag="1345" id1="706144" id2="17" version="1065353216">See, that's the best part about this little partnership.</text>
+		<text bitflag="1345" id1="706146" id2="17" version="1065353216">Are all of your schemes this blunt?</text>
+		<text bitflag="1360" id1="706146" id2="17" version="1065353216">Suspiciously straightforward.</text>
+		<text bitflag="1345" id1="706147" id2="17" version="1065353216">It's not the most elaborate con, but you're new at this. Besides....</text>
+		<text bitflag="1345" id1="706149" id2="17" version="1065353216">The scams are a lot less risky when you know you can vaporize anyone in the room.</text>
+		<text bitflag="1345" id1="706150" id2="17" version="1065353216">I get dirty enough handling my clients' funny business, thanks.</text>
+		<text bitflag="1360" id1="706150" id2="17" version="1065353216">I'm no thief.</text>
+		<text bitflag="1345" id1="706151" id2="17" version="1065353216">Think of it as just another job. I'm a client with a strong personal interest in seeing Tyresius avenged.</text>
+		<text bitflag="1345" id1="706153" id2="17" version="1065353216">And what better tribute to the late me than ripping off the scum who put me there?</text>
+		<text bitflag="1345" id1="706159" id2="17" version="1065353216">You know, you're pretty quick to sniff out an opportunity for profit.</text>
+		<text bitflag="1345" id1="706160" id2="17" version="1065353216">What's your point?</text>
+		<text bitflag="1360" id1="706160" id2="17" version="1065353216">So?</text>
+		<text bitflag="1345" id1="706161" id2="17" version="1065353216">Just an observation. Makes food for thought.</text>
+		<text bitflag="1345" id1="706163" id2="17" version="1065353216">I like to think I know my business.</text>
+		<text bitflag="1360" id1="706163" id2="17" version="1065353216">Thanks.</text>
+		<text bitflag="1345" id1="706164" id2="17" version="1065353216">Oh, there's no doubt about that.</text>
+		<text bitflag="1345" id1="706166" id2="17" version="1065353216">Flattery won't get whatever you're angling for.</text>
+		<text bitflag="1360" id1="706166" id2="17" version="1065353216">Okay, what do you want now?</text>
+		<text bitflag="1345" id1="706167" id2="17" version="1065353216">If I were really flattering a gem such as yourself, I wouldn't lead with your business acumen.</text>
+		<text bitflag="1345" id1="706169" id2="17" version="1065353216">I was just making an observation, but now that you mention it....</text>
+		<text bitflag="1345" id1="706171" id2="17" version="1065353216">I wonder how much more lucrative our little partnership could be if you applied that intuition to something other than bounty hunting.</text>
+		<text bitflag="1345" id1="706172" id2="17" version="1065353216">Gave up trying to make an honest living already?</text>
+		<text bitflag="1360" id1="706172" id2="17" version="1065353216">Back to your old self, I see.</text>
+		<text bitflag="1345" id1="706173" id2="17" version="1065353216">I was looking for a fresh start with this little arrangement, not a career change.</text>
+		<text bitflag="1345" id1="706175" id2="17" version="1065353216">I'm not opposed to a little moonlighting.</text>
+		<text bitflag="1360" id1="706175" id2="17" version="1065353216">I like lucrative.</text>
+		<text bitflag="1345" id1="706176" id2="17" version="1065353216">Can't afford to keep all your chips at the same table, am I right?</text>
+		<text bitflag="1345" id1="706178" id2="17" version="1065353216">Let me see if I can come up with something that'll play to your strengths, and I'll trust you to recognize a good opportunity when you see one.</text>
+		<text bitflag="1345" id1="706179" id2="17" version="1065353216">Leave me out of your scheming.</text>
+		<text bitflag="1360" id1="706179" id2="17" version="1065353216">Quit trying to con me.</text>
+		<text bitflag="1345" id1="706180" id2="17" version="1065353216">Don't sell our partnership short.</text>
+		<text bitflag="1345" id1="706182" id2="17" version="1065353216">My abundance of skills and expertise are always at your disposal. It just so happens that most of my expertise is in crime.</text>
+		<text bitflag="1345" id1="706184" id2="17" version="1065353216">Mull it over. I'd hate to see so much potential go to waste.</text>
+		<text bitflag="1345" id1="706190" id2="17" version="1065353216">Ahh, it's good to relax. This is as close as I'm getting to it these days.</text>
+		<text bitflag="1345" id1="706191" id2="17" version="1065353216">Everyone has limits.</text>
+		<text bitflag="1360" id1="706191" id2="17" version="1065353216">We all need rest.</text>
+		<text bitflag="1345" id1="706192" id2="17" version="1065353216">Are you kidding? I'm in my prime. I'm talking about trying to unwind here, I mean really unwind. It's... unsettling.</text>
+		<text bitflag="1345" id1="706194" id2="17" version="1065353216">Something wrong?</text>
+		<text bitflag="1360" id1="706194" id2="17" version="1065353216">Problems?</text>
+		<text bitflag="1345" id1="706195" id2="17" version="1065353216">Wrong? Ha. That's putting it lightly. I'm going nuts here!</text>
+		<text bitflag="1345" id1="706197" id2="17" version="1065353216">Could have fooled me.</text>
+		<text bitflag="1360" id1="706197" id2="17" version="1065353216">You're the laziest bum I know.</text>
+		<text bitflag="1345" id1="706198" id2="17" version="1065353216">Laugh all you want, it's hard work, relaxing.</text>
+		<text bitflag="1345" id1="706200" id2="17" version="1065353216">I've spent so long keeping one step ahead of somebody, I can't believe I've lost them for good.</text>
+		<text bitflag="1345" id1="706202" id2="17" version="1065353216">At least when I'm out with you, I usually know where the blaster fire's coming from. Keeps my mind off trouble. Mostly.</text>
+		<text bitflag="1345" id1="706203" id2="17" version="1065353216">The less time you and trouble spend together, the better.</text>
+		<text bitflag="1360" id1="706203" id2="17" version="1065353216">That's good for both of us.</text>
+		<text bitflag="1345" id1="706204" id2="17" version="1065353216">You've got a marvelously camouflaged sense of humor, you know that?</text>
+		<text bitflag="1345" id1="706206" id2="17" version="1065353216">Didn't realize you were having this much trouble adjusting.</text>
+		<text bitflag="1360" id1="706206" id2="17" version="1065353216">I had no idea.</text>
+		<text bitflag="1345" id1="706207" id2="17" version="1065353216">Spend thirty years doing what you're doing and you'll know what I'm talking about.</text>
+		<text bitflag="1345" id1="706208" id2="17" version="1065353216">If you want me to give you more time to loaf around, forget it.</text>
+		<text bitflag="1360" id1="706208" id2="17" version="1065353216">I'm not buying it.</text>
+		<text bitflag="1345" id1="706209" id2="17" version="1065353216">Are you even listening? The last thing I need is more time to myself.</text>
+		<text bitflag="1345" id1="706211" id2="17" version="1065353216">Let's see how easily you brush off your old instincts and catch forty winks after you've spent thirty years bounty hunting.</text>
+		<text bitflag="1345" id1="706212" id2="17" version="1065353216">If you're not up to something, let me know before it becomes a problem.</text>
+		<text bitflag="1360" id1="706212" id2="17" version="1065353216">Keep me informed about this.</text>
+		<text bitflag="1345" id1="706213" id2="17" version="1065353216">Ah, I'm just in a funk.</text>
+		<text bitflag="1345" id1="706215" id2="17" version="1065353216">I knew you were a career scoundrel, but thirty years on the run? Pretty impressive.</text>
+		<text bitflag="1360" id1="706215" id2="17" version="1065353216">Must've been quite a life.</text>
+		<text bitflag="1345" id1="706216" id2="17" version="1065353216">Things weren't so bad, until people finally realized the same guy was responsible for most of their woes.</text>
+		<text bitflag="1345" id1="706218" id2="17" version="1065353216">And I've made some enemies over the years, believe me. Two and a half-dozen Hutt families, the entire Corellian Exchange....</text>
+		<text bitflag="1345" id1="706220" id2="17" version="1065353216">And there was that whole blockade incident that ran the Mandalorians home with their tails between their legs.</text>
+		<text bitflag="1345" id1="706222" id2="17" version="1065353216">You can sleep when you're dead.</text>
+		<text bitflag="1360" id1="706222" id2="17" version="1065353216">No rest for the wicked.</text>
+		<text bitflag="1345" id1="706223" id2="17" version="1065353216">It's so nice to have a partner concerned with my health and well-being.</text>
+		<text bitflag="1345" id1="706225" id2="17" version="1065353216">Come on. I think I've had my fill of all this cheering up.</text>
+		<text bitflag="1345" id1="706229" id2="17" version="1065353216">There's something we should discuss back at the ship.</text>
+		<text bitflag="1345" id1="706230" id2="17" version="1065353216">When things die down, what do you say we take five, huh? I'm feeling a little parched.</text>
+		<text bitflag="1345" id1="706231" id2="17" version="1065353216">Whatever's wrong, it wasn't me.</text>
+		<text bitflag="1345" id1="706232" id2="17" version="1065353216">You know what? Never mind, I think I already know the answer.</text>
+		<text bitflag="3393" id1="763529" id2="17" version="1065353216">Wha--I--um, hello again, Master Roing and um....</text>
+		<text bitflag="1360" id1="763533" id2="17" version="1065353216">[Say nothing]</text>
+		<text bitflag="3393" id1="763536" id2="17" version="1065353216">No, I--</text>
+		<text bitflag="3393" id1="763544" id2="17" version="1065353216">That--that's really impressive, Master Roing, but I don't know if we can afford something that fancy.</text>
+		<text bitflag="3393" id1="763546" id2="17" version="1065353216">Most of us are barely making enough to keep food on the table. We're just trying to save up the credits for passage home.</text>
+		<text bitflag="3393" id1="763549" id2="17" version="1065353216">I--I--</text>
+		<text bitflag="3393" id1="763552" id2="17" version="1065353216">What's she saying? I don't understand?</text>
+		<text bitflag="3393" id1="763554" id2="17" version="1065353216">What's he saying? I don't understand.</text>
+		<text bitflag="3393" id1="763560" id2="17" version="1065353216">Um, excuse me. Can someone explain what's going on?</text>
+		<text bitflag="3393" id1="763567" id2="17" version="1065353216">I'd do anything to turn things around here, Master Roing. I appreciate the opportunity you're giving us.</text>
+		<text bitflag="1345" id1="988294" id2="17" version="1065353216">Don't look at me, this is your show.</text>
+		<text bitflag="1345" id1="988296" id2="17" version="1065353216">I am clearly not a bad enough influence on you.</text>
+		<text bitflag="1345" id1="988297" id2="17" version="1065353216">You fight, I'll cheer. Deal?</text>
+		<text bitflag="1345" id1="988298" id2="17" version="1065353216">This probably isn't the best time to start bonding.</text>
+		<text bitflag="1345" id1="988299" id2="17" version="1065353216">Don't worry, I'll stick close to you.</text>
+		<text bitflag="1345" id1="988300" id2="17" version="1065353216">Here's where it gets interesting.</text>
+		<text bitflag="1345" id1="988301" id2="17" version="1065353216">After you, I insist.</text>
+		<text bitflag="1345" id1="988302" id2="17" version="1065353216">Guess I'm volunteered now, is that it?</text>
+		<text bitflag="1345" id1="988303" id2="17" version="1065353216">Shouldn't you be, I don't know, collecting a bounty?</text>
+		<text bitflag="1345" id1="988304" id2="17" version="1065353216">I ever tell you you meet the most wonderful people?</text>
+	</file_content>
+</stb_file>

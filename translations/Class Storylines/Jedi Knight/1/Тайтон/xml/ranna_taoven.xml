@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="335">
+	<unit bitflag="1345" id1="605239" id2="17" version="1065353216">
+		<source>I surrender. Please, don't hurt me.</source>
+		<target>Я сдаюсь. Пожалуйста, не стреляй.</target>
+	</unit>
+	<unit bitflag="1345" id1="605241" id2="17" version="1065353216">
+		<source>Why didn't they listen to me?</source>
+		<target>Почему они меня не послушали?</target>
+	</unit>
+	<unit bitflag="1345" id1="605245" id2="17" version="1065353216">
+		<source>Now the Flesh Raiders will destroy us for sure.</source>
+		<target>Теперь раздиратели точно нас уничтожат.</target>
+	</unit>
+	<unit bitflag="1345" id1="605247" id2="17" version="1065353216">
+		<source>This was all a terrible mistake.</source>
+		<target>Это всё ужасная ошибка.</target>
+	</unit>
+	<unit bitflag="1345" id1="605249" id2="17" version="1065353216">
+		<source>I know it doesn't matter to you, but I did all this to save my people.</source>
+		<target>Я знаю, что тебя это не волнует, но я делала всё это, чтобы спасти свой народ.</target>
+	</unit>
+	<unit bitflag="1345" id1="605250" id2="17" version="1065353216">
+		<source>It wasn't supposed to be like this. I was going to save you--save us all.</source>
+		<target>Так не должно было быть. Я собиралась спасти тебя - нас всех.</target>
+	</unit>
+	<unit bitflag="1345" id1="605251" id2="17" version="1065353216">
+		<source>The harder you hold onto me, the more you lose control.</source>
+		<target>Чем сильнее ты за меня держишься, тем больше теряешь контроль.</target>
+	</unit>
+	<unit bitflag="1360" id1="605251" id2="17" version="1065353216">
+		<source>Emotions cloud your judgment.</source>
+		<target>Эмоции заслоняют суждения.</target>
+	</unit>
+	<unit bitflag="1345" id1="605252" id2="17" version="1065353216">
+		<source>I've lost so much, and I couldn't lose you, too.</source>
+		<target>Я потеряла так много, и не могла потерять и тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605254" id2="17" version="1065353216">
+		<source>You gave my Master to the enemy!</source>
+		<target>Ты отдала врагу моего учителя!</target>
+	</unit>
+	<unit bitflag="1360" id1="605254" id2="17" version="1065353216">
+		<source>You betrayed Master Orgus.</source>
+		<target>Ты предала мастера Оргуса.</target>
+	</unit>
+	<unit bitflag="1345" id1="605255" id2="17" version="1065353216">
+		<source>No, you can still save him.</source>
+		<target>Нет, ты ещё можешь спасти его.</target>
+	</unit>
+	<unit bitflag="1345" id1="605257" id2="17" version="1065353216">
+		<source>Bengel Morr wants to destroy my order, and you handed him my Master.</source>
+		<target>Бенгел Морр хочет уничтожить мой Орден, а ты отдала ему моего учителя.</target>
+	</unit>
+	<unit bitflag="1360" id1="605257" id2="17" version="1065353216">
+		<source>What about the Jedi?</source>
+		<target>А как насчёт джедаев?</target>
+	</unit>
+	<unit bitflag="1345" id1="605258" id2="17" version="1065353216">
+		<source>There's still time to save them.</source>
+		<target>Ещё есть время спасти его.</target>
+	</unit>
+	<unit bitflag="1360" id1="605260" id2="17" version="1065353216">
+		<source>Idiot.</source>
+		<target>Дура.</target>
+	</unit>
+	<unit bitflag="1345" id1="605261" id2="17" version="1065353216">
+		<source>My people were dying. What choice did I have?</source>
+		<target>Мои люди умирали. Какой у меня был выбор?</target>
+	</unit>
+	<unit bitflag="1345" id1="605263" id2="17" version="1065353216">
+		<source>Everything just happened so fast.</source>
+		<target>Просто всё произошло так быстро.</target>
+	</unit>
+	<unit bitflag="1345" id1="605265" id2="17" version="1065353216">
+		<source>Bengel Morr took Orgus to someplace called the Forge. Reactivate your droid--it might know where to find them.</source>
+		<target>Бенгел Морр забрал Оргуса на какую-то Кузницу. Включи своего дроида - он может знать, где их найти.</target>
+	</unit>
+	<unit bitflag="1345" id1="605267" id2="17" version="1065353216">
+		<source>Isn't that information worth some mercy?</source>
+		<target>Разве эта информация не стоит пощады?</target>
+	</unit>
+	<unit bitflag="1345" id1="605268" id2="17" version="1065353216">
+		<source>I don't believe in forgiving scum like you.</source>
+		<target>Я не признаю прощение отродий вроде тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="605268" id2="17" version="1065353216">
+		<source>Mercy isn't in my vocabulary.</source>
+		<target>Пощада не входит в мой лексикон.</target>
+	</unit>
+	<unit bitflag="1345" id1="605269" id2="17" version="1065353216">
+		<source>You can forgive me, can't you?</source>
+		<target>Ты ведь можешь простить меня?</target>
+	</unit>
+	<unit bitflag="1345" id1="605270" id2="17" version="1065353216">
+		<source>I would've died before I let anyone hurt my sister. I swear it.</source>
+		<target>Я бы дала навредить моей сестре только через мой труп. Клянусь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605271" id2="17" version="1065353216">
+		<source>It was never in my heart to betray you. Forgive me, please.</source>
+		<target>Мне никогда не хотелось предавать тебя. Прошу, прости меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="605272" id2="17" version="1065353216">
+		<source>I don't condone what you've done, but I understand.</source>
+		<target>Я не одобряю сделанное тобой, но понимаю.</target>
+	</unit>
+	<unit bitflag="1360" id1="605272" id2="17" version="1065353216">
+		<source>I forgive you, Ranna.</source>
+		<target>Я прощаю тебя, Ранна.</target>
+	</unit>
+	<unit bitflag="1345" id1="605273" id2="17" version="1065353216">
+		<source>I... that's not what I expected.</source>
+		<target>Я... это не то, чего я ожидала.</target>
+	</unit>
+	<unit bitflag="1345" id1="605275" id2="17" version="1065353216">
+		<source>Thank you. I am so sorry.</source>
+		<target>Спасибо. Мне так жаль.</target>
+	</unit>
+	<unit bitflag="1345" id1="605277" id2="17" version="1065353216">
+		<source>You're more forgiving than any sister I could've hoped for.</source>
+		<target>Ты снисходительнее, чем можно ожидать и от сестры.</target>
+	</unit>
+	<unit bitflag="1345" id1="605279" id2="17" version="1065353216">
+		<source>I'm so sorry for all this.</source>
+		<target>Я приношу извинения за всё это.</target>
+	</unit>
+	<unit bitflag="1345" id1="605281" id2="17" version="1065353216">
+		<source>Tell me what I can do to make this right.</source>
+		<target>Скажи, что я могу сделать, чтобы исправить это.</target>
+	</unit>
+	<unit bitflag="1345" id1="605282" id2="17" version="1065353216">
+		<source>Learn from this mistake. Spend your life atoning for what you've done.</source>
+		<target>Учись на своих ошибках. Посвяти свою жизнь искуплению совершённого.</target>
+	</unit>
+	<unit bitflag="1360" id1="605282" id2="17" version="1065353216">
+		<source>Dedicate yourself to goodness.</source>
+		<target>Посвяти себя добру.</target>
+	</unit>
+	<unit bitflag="1345" id1="605283" id2="17" version="1065353216">
+		<source>I won't waste this chance. That's a promise.</source>
+		<target>Я не потрачу этот шанс зря. Обещаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="605285" id2="17" version="1065353216">
+		<source>You're not fit to lead your people. You have to step down.</source>
+		<target>Ты не подходишь на роль лидера своего народа. Ты должна отречься.</target>
+	</unit>
+	<unit bitflag="1360" id1="605285" id2="17" version="1065353216">
+		<source>Give up your position.</source>
+		<target>Покинь этот пост.</target>
+	</unit>
+	<unit bitflag="1345" id1="605286" id2="17" version="1065353216">
+		<source>You're right. I'm not the Matriarch my mother was.</source>
+		<target>Согласна. Я не такой хороший матриарх, как мать.</target>
+	</unit>
+	<unit bitflag="1345" id1="605288" id2="17" version="1065353216">
+		<source>I should tell my people what's happened. We'll bury and mourn our dead.</source>
+		<target>Мне надо рассказать моим людям, что случилось. Мы похороним и будем оплакивать наших умерших.</target>
+	</unit>
+	<unit bitflag="1345" id1="605290" id2="17" version="1065353216">
+		<source>My people should hear what's happened. It's best if I tell them.</source>
+		<target>Мои люди должны услышать о случившемся. Лучше я им расскажу.</target>
+	</unit>
+	<unit bitflag="1345" id1="605292" id2="17" version="1065353216">
+		<source>I forgive you--but I don't want to know you.</source>
+		<target>Я прощаю тебя - но знать тебя не хочу.</target>
+	</unit>
+	<unit bitflag="1360" id1="605292" id2="17" version="1065353216">
+		<source>Just go away.</source>
+		<target>Уходи.</target>
+	</unit>
+	<unit bitflag="1345" id1="605293" id2="17" version="1065353216">
+		<source>Why? Why would you forgive me and then destroy me?</source>
+		<target>Почему? Почему ты прощаешь и затем убиваешь меня?</target>
+	</unit>
+	<unit bitflag="1345" id1="605294" id2="17" version="1065353216">
+		<source>I can see in your eyes--you still hate me.</source>
+		<target>Я вижу в твоих глазах - ты всё ещё ненавидишь меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="605295" id2="17" version="1065353216">
+		<source>I understand. Forgiving isn't the same as forgetting.</source>
+		<target>Я понимаю. Простить - не значит забыть.</target>
+	</unit>
+	<unit bitflag="1345" id1="605297" id2="17" version="1065353216">
+		<source>I hope you find your Master....</source>
+		<target>Я надеюсь, ты найдёшь своего учителя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605298" id2="17" version="1065353216">
+		<source>You've done terrible things. There must be consequences.</source>
+		<target>Ты совершила ужасные вещи. Это должно повлечьь последствия.</target>
+	</unit>
+	<unit bitflag="1360" id1="605298" id2="17" version="1065353216">
+		<source>Your crimes are great.</source>
+		<target>Твои преступления велики.</target>
+	</unit>
+	<unit bitflag="1345" id1="605299" id2="17" version="1065353216">
+		<source>You're right. Tell me what I should do.</source>
+		<target>Согласна. Скажи, что надо сделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="605300" id2="17" version="1065353216">
+		<source>Surrender to the Jedi Council. Confess your crimes.</source>
+		<target>Сдайся Совету джедаев. Признайся в содеянном.</target>
+	</unit>
+	<unit bitflag="1360" id1="605300" id2="17" version="1065353216">
+		<source>Turn yourself in.</source>
+		<target>Сдайся.</target>
+	</unit>
+	<unit bitflag="1345" id1="605301" id2="17" version="1065353216">
+		<source>The settlement will be better off without me.</source>
+		<target>Поселению будет лучше без меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="605303" id2="17" version="1065353216">
+		<source>All I've done is get people killed. That's a debt I have to repay.</source>
+		<target>Всё, что мне удалось добиться - лишь смерть среди моего народа. Этот долг я должна выплатить.</target>
+	</unit>
+	<unit bitflag="1345" id1="605305" id2="17" version="1065353216">
+		<source>The others will come, too. We should all confess our crimes.</source>
+		<target>Другие тоже пойдут. Мы все должны признаться в содеянном.</target>
+	</unit>
+	<unit bitflag="1345" id1="605307" id2="17" version="1065353216">
+		<source>I'll go to the temple immediately. I hope you find your Master....</source>
+		<target>Я пойду в Храм немедленно. Надеюсь, ты найдёшь своего учителя...</target>
+	</unit>
+	<unit bitflag="1345" id1="605308" id2="17" version="1065353216">
+		<source>Take the next shuttle off this planet. Never come back.</source>
+		<target>Улетай с планеты на следующем шаттле. Никогда не возвращайся.</target>
+	</unit>
+	<unit bitflag="1360" id1="605308" id2="17" version="1065353216">
+		<source>I want you gone from Tython.</source>
+		<target>Покинь Тайтон.</target>
+	</unit>
+	<unit bitflag="1345" id1="605309" id2="17" version="1065353216">
+		<source>My people are dead because of me. I deserve to be banished.</source>
+		<target>Мои люди мертвы из-за меня. Я заслуживаю изгнания.</target>
+	</unit>
+	<unit bitflag="1345" id1="605311" id2="17" version="1065353216">
+		<source>Maybe that's for the best. I'm not the Matriarch my mother was.</source>
+		<target>Может, оно и к лучшему. Я не такой хороший матриарх, как мать.</target>
+	</unit>
+	<unit bitflag="1345" id1="605313" id2="17" version="1065353216">
+		<source>You'll always be my sister.</source>
+		<target>Ты всегда будешь моей сестрой.</target>
+	</unit>
+	<unit bitflag="1345" id1="605315" id2="17" version="1065353216">
+		<source>I'm sorry for all this. You deserved better.</source>
+		<target>Прости за всё это. Ты заслуживаешь лучшего.</target>
+	</unit>
+	<unit bitflag="1345" id1="605317" id2="17" version="1065353216">
+		<source>I hope you find your Master. Goodbye.</source>
+		<target>Надеюсь, ты найдёшь своего учителя. Прощайте.</target>
+	</unit>
+	<unit bitflag="1345" id1="605318" id2="17" version="1065353216">
+		<source>I'll make sure your crimes stay between us--if you show the proper appreciation.</source>
+		<target>Я позабочусь, чтобы твои преступления остались между нами - если ты оценишь это.</target>
+	</unit>
+	<unit bitflag="1360" id1="605318" id2="17" version="1065353216">
+		<source>Pay me to forget this.</source>
+		<target>Заплати, чтобы всё забылось.</target>
+	</unit>
+	<unit bitflag="1345" id1="605319" id2="17" version="1065353216">
+		<source>After all this, you demand tribute? You've seen how poor we are.</source>
+		<target>После всего этого ты требуешь возмещения? Ты же видел, как мы бедны.</target>
+	</unit>
+	<unit bitflag="1345" id1="605321" id2="17" version="1065353216">
+		<source>You've seen our settlement. We have no wealth.</source>
+		<target>Посмотри на наше поселение. У нас нет материальных благ.</target>
+	</unit>
+	<unit bitflag="1345" id1="605323" id2="17" version="1065353216">
+		<source>My people brought a few sacred relics to Tython. They're valuable. I'll tell my people the Flesh Raiders stole them.</source>
+		<target>Мой народ привёз на Тайтон несколько священных реликвий. Они ценны. Я скажу, что их украли раздиратели.</target>
+	</unit>
+	<unit bitflag="1345" id1="605325" id2="17" version="1065353216">
+		<source>I can't stand to be in here anymore....</source>
+		<target>Я не могу больше находиться здесь...</target>
+	</unit>
+	<unit bitflag="1345" id1="605326" id2="17" version="1065353216">
+		<source>There's no excuse for what you've done. You deserve to be punished.</source>
+		<target>Содеянному тобой нет оправдания. Ты заслуживаешь наказания.</target>
+	</unit>
+	<unit bitflag="1360" id1="605326" id2="17" version="1065353216">
+		<source>Being sorry won't save you.</source>
+		<target>Сожаление тебя не спасёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="605327" id2="17" version="1065353216">
+		<source>There's nothing I can do to stop you, is there?</source>
+		<target>Я не смогу тебя остановить, да?</target>
+	</unit>
+	<unit bitflag="1345" id1="605328" id2="17" version="1065353216">
+		<source>Hasn't there been enough suffering already?</source>
+		<target>Разве было мало страданий?</target>
+	</unit>
+	<unit bitflag="1345" id1="605329" id2="17" version="1065353216">
+		<source>Please--hasn't there been enough ugliness between us?</source>
+		<target>Пожалуйста... разве между нами было мало зла?</target>
+	</unit>
+	<unit bitflag="1345" id1="605330" id2="17" version="1065353216">
+		<source>Can't you find it in your heart to forgive me?</source>
+		<target>В твоём сердце нет места моему прощению?</target>
+	</unit>
+	<unit bitflag="1345" id1="605331" id2="17" version="1065353216">
+		<source>If I ever see you again, you're dead.</source>
+		<target>Если я снова тебя увижу, ты покойница.</target>
+	</unit>
+	<unit bitflag="1360" id1="605331" id2="17" version="1065353216">
+		<source>Run for your life.</source>
+		<target>Беги, если хочешь жить.</target>
+	</unit>
+	<unit bitflag="1345" id1="605332" id2="17" version="1065353216">
+		<source>Thank you for sparing me....</source>
+		<target>Спасибо, что не убъёшь меня сразу...</target>
+	</unit>
+	<unit bitflag="1345" id1="605334" id2="17" version="1065353216">
+		<source>How can you be so cruel?</source>
+		<target>Как ты можешь так жестоко поступать?</target>
+	</unit>
+	<unit bitflag="1345" id1="605336" id2="17" version="1065353216">
+		<source>Your eyes have nothing but hatred in them....</source>
+		<target>В твоих глазах лишь ненависть...</target>
+	</unit>
+	<unit bitflag="1345" id1="605338" id2="17" version="1065353216">
+		<source>You would kill me, after we... what kind of man are you?</source>
+		<target>Ты убьёшь меня после того, как мы... да что ж ты за человек-то?</target>
+	</unit>
+	<unit bitflag="1360" id1="605340" id2="17" version="1065353216">
+		<source>You earned this. [Hit Ranna.]</source>
+		<target>Ты это заслужила. [Ударить Ранну]</target>
+	</unit>
+	<unit bitflag="1345" id1="605342" id2="17" version="1065353216">
+		<source>Get out of my sight.</source>
+		<target>Исчезни с глаз моих.</target>
+	</unit>
+	<unit bitflag="1345" id1="605344" id2="17" version="1065353216">
+		<source>You don't deserve to live.</source>
+		<target>Ты не заслуживаешь жить.</target>
+	</unit>
+	<unit bitflag="1360" id1="605344" id2="17" version="1065353216">
+		<source>No. [Kill Ranna]</source>
+		<target>Нет. [Убить Ранну]</target>
+	</unit>
+	<unit bitflag="1345" id1="605350" id2="17" version="1065353216">
+		<source>Master Orgus responded to your distress call. I was to meet him here. What's happened?</source>
+		<target>Мастер Оргус ответил на ваш сигнал бедствия. Мы должны были встретиться здесь. В чём дело?</target>
+	</unit>
+	<unit bitflag="1345" id1="605351" id2="17" version="1065353216">
+		<source>Nothing. We didn't send any distress call. Things have been quiet since you left.</source>
+		<target>Ни в чём. Мы не посылали сигналов бедствия. Всё было тихо с твоего ухода.</target>
+	</unit>
+	<unit bitflag="1345" id1="605353" id2="17" version="1065353216">
+		<source>I haven't seen or spoken to Master Orgus.</source>
+		<target>Мастер Оргус не связывался со мной.</target>
+	</unit>
+	<unit bitflag="3393" id1="605355" id2="17" version="1065353216">
+		<source>T7 = scanning area // Stand by....</source>
+		<target>T7 = сканирует район // Подождите...</target>
+	</unit>
+	<unit bitflag="3393" id1="605357" id2="17" version="1065353216">
+		<source>Confirmed // Master Orgus = not in settlement + not answering holocom</source>
+		<target>Подтверждено // Мастер Оргус = не в поселении + не отвечает по голосвязи</target>
+	</unit>
+	<unit bitflag="1345" id1="605358" id2="17" version="1065353216">
+		<source>Master Orgus should've gotten here ahead of me.</source>
+		<target>Мастер Оргус должен был добраться сюда раньше меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="605358" id2="17" version="1065353216">
+		<source>That's very suspicious.</source>
+		<target>Очень подозрительно.</target>
+	</unit>
+	<unit bitflag="3393" id1="605359" id2="17" version="1065353216">
+		<source>T7 = contact Jedi Temple?</source>
+		<target>T7 = связаться с Храмом джедаев?</target>
+	</unit>
+	<unit bitflag="1345" id1="605361" id2="17" version="1065353216">
+		<source>Someone sent Master Orgus a distress call from here. Who was it?</source>
+		<target>Кто-то послал отсюда мастеру Оргусу сигнал бедствия. Кто?</target>
+	</unit>
+	<unit bitflag="1360" id1="605361" id2="17" version="1065353216">
+		<source>Any ideas, Ranna?</source>
+		<target>Есть идея, Ранна?</target>
+	</unit>
+	<unit bitflag="1345" id1="605362" id2="17" version="1065353216">
+		<source>You disappeared for a long time. Where have you been?</source>
+		<target>Ты исчез надолго. Где ты был?</target>
+	</unit>
+	<unit bitflag="1360" id1="605362" id2="17" version="1065353216">
+		<source>I don't trust you, droid.</source>
+		<target>Я тебе не доверяю, дроид.</target>
+	</unit>
+	<unit bitflag="3393" id1="605363" id2="17" version="1065353216">
+		<source>T7 = conducted high-level scan of wilderness + detected many Flesh Raider patrols</source>
+		<target>T7 = совершал высокоуровневое сканирование дикой местности + засёк много патрулей раздирателей</target>
+	</unit>
+	<unit bitflag="3393" id1="605365" id2="17" version="1065353216">
+		<source>Jedi + T7 = go find Master Orgus?</source>
+		<target>Джедай + T7 = искать мастера Оргуса?</target>
+	</unit>
+	<unit bitflag="1345" id1="605367" id2="17" version="1065353216">
+		<source>I wish you hadn't come. Would have made things easier....</source>
+		<target>Жаль, что ты здесь. Иначе всё было бы намного проще...</target>
+	</unit>
+	<unit bitflag="1345" id1="605369" id2="17" version="1065353216">
+		<source>We didn't want to hurt you or your Master, but we have no choice.</source>
+		<target>Мы не хотели вредить вам или вашему учителю, но выбора не было.</target>
+	</unit>
+	<unit bitflag="1345" id1="605370" id2="17" version="1065353216">
+		<source>Where is Master Orgus? What did you do to him?</source>
+		<target>Где мастер Оргус? Что вы сделали с ним?</target>
+	</unit>
+	<unit bitflag="1360" id1="605370" id2="17" version="1065353216">
+		<source>What have you done?</source>
+		<target>Что вы сделали?</target>
+	</unit>
+	<unit bitflag="1345" id1="605371" id2="17" version="1065353216">
+		<source>I don't believe this. We protected you people!</source>
+		<target>Не могу поверить. Мы вас защищали!</target>
+	</unit>
+	<unit bitflag="1360" id1="605371" id2="17" version="1065353216">
+		<source>You traitors.</source>
+		<target>Предатели.</target>
+	</unit>
+	<unit bitflag="1345" id1="605372" id2="17" version="1065353216">
+		<source>Only when it was convenient. For months, we begged the Council to send help!</source>
+		<target>Только когда это было вам удобно. Мы месяцами просили Совет прислать помощь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605374" id2="17" version="1065353216">
+		<source>And no matter how many you kill, the Flesh Raider numbers keep growing. You can't win.</source>
+		<target>И, скольких бы вы ни убили, численность раздирателей растёт. Вам не победить.</target>
+	</unit>
+	<unit bitflag="1345" id1="605376" id2="17" version="1065353216">
+		<source>I'm sure it's a misunderstanding. Your Master will turn up.</source>
+		<target>Уверена, это недоразумение. Твой учитель появится.</target>
+	</unit>
+	<unit bitflag="1345" id1="605378" id2="17" version="1065353216">
+		<source>Why don't you stay a while? You must be exhausted.</source>
+		<target>Не подождёшь? Ты наверняка валишься с ног.</target>
+	</unit>
+	<unit bitflag="1345" id1="605379" id2="17" version="1065353216">
+		<source>Don't worry. As long as we're together, everything will be alright.</source>
+		<target>Не волнуйся. Пока мы вместе, всё будет хорошо.</target>
+	</unit>
+	<unit bitflag="1345" id1="605380" id2="17" version="1065353216">
+		<source>Stay here a while. I feel safer when you're close.</source>
+		<target>Оставайся здесь. Мне спокойнее, когда ты рядом.</target>
+	</unit>
+	<unit bitflag="1345" id1="605382" id2="17" version="1065353216">
+		<source>Stop it! What are you doing?</source>
+		<target>Стойте! Что вы делаете?</target>
+	</unit>
+	<unit bitflag="1345" id1="605384" id2="17" version="1065353216">
+		<source>Matriarch, step aside. Handing over the girl's Master wasn't enough. This Padawan has to die.</source>
+		<target>Отойди, матриарх. Отдать учителя девчонки недостаточно. Этот падаван должен умереть.</target>
+	</unit>
+	<unit bitflag="1345" id1="605386" id2="17" version="1065353216">
+		<source>I told you to leave my sister alone! That was the pact!</source>
+		<target>Я сказала вам оставить мою сестру в покое! Таков был договор!</target>
+	</unit>
+	<unit bitflag="1345" id1="605388" id2="17" version="1065353216">
+		<source>Matriarch, step aside. Handing over the boy's Master wasn't enough. This Padawan has to die.</source>
+		<target>Отойди, матриарх. Отдать учителя мальчишки недостаточно. Этот падаван должен умереть.</target>
+	</unit>
+	<unit bitflag="1345" id1="605390" id2="17" version="1065353216">
+		<source>I told you to leave him alone! That was the pact!</source>
+		<target>Я сказала вам оставить его в покое! Такой был договор!</target>
+	</unit>
+	<unit bitflag="1345" id1="605392" id2="17" version="1065353216">
+		<source>Bengel Morr refused your terms. This is to save our people!</source>
+		<target>Бенгел Морр отверг твои условия. Это спасёт наш народ!</target>
+	</unit>
+	<unit bitflag="1345" id1="605393" id2="17" version="1065353216">
+		<source>What did you do to my Master? Where's Bengel Morr?</source>
+		<target>Что вы сделали с моим учителем? Где Бенгел Морр?</target>
+	</unit>
+	<unit bitflag="1360" id1="605393" id2="17" version="1065353216">
+		<source>What have you done?</source>
+		<target>Что вы натворили?</target>
+	</unit>
+	<unit bitflag="1345" id1="605394" id2="17" version="1065353216">
+		<source>You lied to my face. How could you do that?</source>
+		<target>Ты солгала мне в лицо. Как ты могла?</target>
+	</unit>
+	<unit bitflag="1360" id1="605394" id2="17" version="1065353216">
+		<source>I trusted you, Ranna.</source>
+		<target>Ты предала моё доверие, Ранна.</target>
+	</unit>
+	<unit bitflag="1345" id1="605395" id2="17" version="1065353216">
+		<source>I had no choice. There are too many Flesh Raiders, and not enough Jedi.</source>
+		<target>У меня не было выбора. Раздирателей слишком много, а джедаев мало.</target>
+	</unit>
+	<unit bitflag="1345" id1="605397" id2="17" version="1065353216">
+		<source>I was trying to save you. The Jedi are doomed--but you'd be safe if you stayed here.</source>
+		<target>Я пыталась спасти тебя. Джедаи обречены - но тебе бы удалось уцелеть, оставшись здесь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605399" id2="17" version="1065353216">
+		<source>Your Jedi can't win. They're all going to die--but I can save you.</source>
+		<target>Твои джедаи не победят. Они все умрут - но я могу спасти тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605401" id2="17" version="1065353216">
+		<source>What did you inject me with?</source>
+		<target>Чем ты уколола меня?</target>
+	</unit>
+	<unit bitflag="1360" id1="605401" id2="17" version="1065353216">
+		<source>You poisoned me!</source>
+		<target>Ты отравила меня!</target>
+	</unit>
+	<unit bitflag="1345" id1="605402" id2="17" version="1065353216">
+		<source>Something to stop you from escaping--and numb the pain. I don't want you to suffer.</source>
+		<target>Должно удержать тебя от побега - и уменьшить боль. Не хочу, чтобы тебе пришлось страдать.</target>
+	</unit>
+	<unit bitflag="1345" id1="605404" id2="17" version="1065353216">
+		<source>The toxin will make this easier on everyone.</source>
+		<target>Токсин упростит жизнь всем.</target>
+	</unit>
+	<unit bitflag="1345" id1="605406" id2="17" version="1065353216">
+		<source>Bengel Morr came to me. Said he'd end the Flesh Raider attacks if we gave him your Master.</source>
+		<target>Бенгел Морр пришёл ко мне. Сказал, что прекратит атаки раздирателей, если мы отдадим ему твоего учителя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605408" id2="17" version="1065353216">
+		<source>He wants us to kill you, too. I... I'm sorry.</source>
+		<target>Он хочет и твоей смерти. Я... мне жаль.</target>
+	</unit>
+	<unit bitflag="1345" id1="605409" id2="17" version="1065353216">
+		<source>You made a deal with a monster. You won't like the consequences.</source>
+		<target>Ты заключила сделку с чуловищем. Последствия тебе не понравятся.</target>
+	</unit>
+	<unit bitflag="1360" id1="605409" id2="17" version="1065353216">
+		<source>So am I.</source>
+		<target>Мне тоже.</target>
+	</unit>
+	<unit bitflag="1360" id1="605410" id2="17" version="1065353216">
+		<source>I'm not. [Attack]</source>
+		<target>Мне нет. [Напасть]</target>
+	</unit>
+	<unit bitflag="1345" id1="605412" id2="17" version="1065353216">
+		<source>He asked us to kill you, too--but I said &quot;no.&quot; I told him we'd keep you here.</source>
+		<target>Он попросил нас убить и тебя, но я отказалась. Сказала ему, что мы удержим тебя здесь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605414" id2="17" version="1065353216">
+		<source>You'd be safe, and my people would have a protector.</source>
+		<target>Тебе бы удалось уцелеть, а у моего народа был бы защитник.</target>
+	</unit>
+	<unit bitflag="1345" id1="605416" id2="17" version="1065353216">
+		<source>You can't do this, Moorint. She's my family.</source>
+		<target>Ты не можешь так поступить, Муринт. Она моя семья.</target>
+	</unit>
+	<unit bitflag="1345" id1="605418" id2="17" version="1065353216">
+		<source>Please, Moorint. You can't hurt him.</source>
+		<target>Прошу, Муринт. Ты не можешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605420" id2="17" version="1065353216">
+		<source>If we don't do what we're told, Bengel Morr will kill us all.</source>
+		<target>Если мы не сделаем, что говорят, Бенгел Морр нас всех убьёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="605421" id2="17" version="1065353216">
+		<source>Bengel Morr is a monster. When he's done using you, he'll kill everyone.</source>
+		<target>Бенгел Морр - чудовище. Когда вы перестанете быть ему нужны, он всех убьёт.</target>
+	</unit>
+	<unit bitflag="1360" id1="605421" id2="17" version="1065353216">
+		<source>He'll kill you anyway.</source>
+		<target>Он всё равно всех убьёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="605422" id2="17" version="1065353216">
+		<source>Don't resist. It'll only make things harder.</source>
+		<target>Не сопротивляйся. Это лишь усложнит всё.</target>
+	</unit>
+	<unit bitflag="1345" id1="605423" id2="17" version="1065353216">
+		<source>You don't want to hurt anyone. You want to leave here peacefully.</source>
+		<target>Вы не хотите никому вредить. Вы хотите уйти мирно.</target>
+	</unit>
+	<unit bitflag="1360" id1="605423" id2="17" version="1065353216">
+		<source>[Force Persuade] Go in peace.</source>
+		<target>[Убеждение Силы] Идите с миром.</target>
+	</unit>
+	<unit bitflag="1345" id1="605424" id2="17" version="1065353216">
+		<source>I... I don't want to hurt anyone.</source>
+		<target>Я... я не хочу никому вредить.</target>
+	</unit>
+	<unit bitflag="1345" id1="605426" id2="17" version="1065353216">
+		<source>We should leave here peacefully.</source>
+		<target>Мы должны уйти с миром.</target>
+	</unit>
+	<unit bitflag="1345" id1="605428" id2="17" version="1065353216">
+		<source>Yes. Better that way. Here, perhaps you can use these. We don't need them....</source>
+		<target>Да. Так лучше. Вот, возможно, вам пригодится. Нам они не нужны...</target>
+	</unit>
+	<unit bitflag="1345" id1="605432" id2="17" version="1065353216">
+		<source>You people make me sick.</source>
+		<target>Меня от вас тошнит.</target>
+	</unit>
+	<unit bitflag="1360" id1="605432" id2="17" version="1065353216">
+		<source>I've heard enough. [Attack]</source>
+		<target>С меня хватит. [Напасть]</target>
+	</unit>
+	<unit bitflag="1345" id1="605436" id2="17" version="1065353216">
+		<source>I've destroyed the machines poisoning your crops.</source>
+		<target>Механизмы, отравляющие ваши посевы, уничтожены.</target>
+	</unit>
+	<unit bitflag="1345" id1="605437" id2="17" version="1065353216">
+		<source>You have this entire settlement's gratitude. I'm told you suffered greatly on our behalf.</source>
+		<target>Тебе благодарно всё это поселение. Говорят, ты серьёзно пострадал ради нашей защиты.</target>
+	</unit>
+	<unit bitflag="1345" id1="605439" id2="17" version="1065353216">
+		<source>My scouts recovered these items from the ruins. They're yours now, as we agreed. I hope you profit from them.</source>
+		<target>Мои разведчики нашли это в руинах. Как мы и договорились, это твоё. Надеюсь, тебе они принесут прибыль.</target>
+	</unit>
+	<unit bitflag="1345" id1="605441" id2="17" version="1065353216">
+		<source>Now, please excuse me--my people need guidance and reassurance....</source>
+		<target>Теперь прошу меня извинить - моему народу нужны руководство и поддержка...</target>
+	</unit>
+	<unit bitflag="1345" id1="605443" id2="17" version="1065353216">
+		<source>I saw how you suffered out there. What you did was more than brave--it was heroic.</source>
+		<target>Я видела твои страдания. Совершённое тобой было не просто храбрым - героическим.</target>
+	</unit>
+	<unit bitflag="1345" id1="605445" id2="17" version="1065353216">
+		<source>Since you came here, all you've done is risk your life to save us.</source>
+		<target>С самого твоего прихода твои действия то и дело спасали нас, рискуя своей жизнью.</target>
+	</unit>
+	<unit bitflag="1345" id1="605447" id2="17" version="1065353216">
+		<source>Please take a token of my people's honor. I'm sorry it can't be more.</source>
+		<target>Прошу, возьми это в знак признания моего народа. Прости, что это всё.</target>
+	</unit>
+	<unit bitflag="1345" id1="605448" id2="17" version="1065353216">
+		<source>Rewards aren't necessary, but thank you.</source>
+		<target>Мне не нужны награды, но спасибо.</target>
+	</unit>
+	<unit bitflag="1360" id1="605448" id2="17" version="1065353216">
+		<source>It's very generous.</source>
+		<target>Это очень щедро.</target>
+	</unit>
+	<unit bitflag="1360" id1="605449" id2="17" version="1065353216">
+		<source>Jedi don't need rewards.</source>
+		<target>Джедаям не нужны награды.</target>
+	</unit>
+	<unit bitflag="1345" id1="605450" id2="17" version="1065353216">
+		<source>You've done more than any outsider ever has.</source>
+		<target>Ты сделал больше любого другого чужака.</target>
+	</unit>
+	<unit bitflag="1345" id1="605452" id2="17" version="1065353216">
+		<source>My mother was strong, like you. It's hard, being alone with all this.</source>
+		<target>Моя мать была сильной, как ты. Быть наедине со всем этим тяжело.</target>
+	</unit>
+	<unit bitflag="1345" id1="605453" id2="17" version="1065353216">
+		<source>Everyone in this settlement is your family, now. Be strong for them.</source>
+		<target>Теперь все в этом поселении - твоя семья. Будь сильной ради них.</target>
+	</unit>
+	<unit bitflag="1360" id1="605453" id2="17" version="1065353216">
+		<source>Look to your people.</source>
+		<target>Посмотри на свой народ.</target>
+	</unit>
+	<unit bitflag="1345" id1="605454" id2="17" version="1065353216">
+		<source>You're right. A leader must learn how to stand alone.</source>
+		<target>Согласна. Лидер должен научиться держаться в одиночку.</target>
+	</unit>
+	<unit bitflag="1345" id1="605456" id2="17" version="1065353216">
+		<source>You're stronger than you know. You can do anything you set your mind to.</source>
+		<target>Ты сильнее, чем думаешь. Ты справишься со всем, на что нацелишься.</target>
+	</unit>
+	<unit bitflag="1360" id1="605456" id2="17" version="1065353216">
+		<source>You can handle it.</source>
+		<target>Ты справишься.</target>
+	</unit>
+	<unit bitflag="1345" id1="605457" id2="17" version="1065353216">
+		<source>You make me feel like I can take on the whole galaxy.</source>
+		<target>Из-за тебя я чувствую себя в силах справиться со всей Галактикой.</target>
+	</unit>
+	<unit bitflag="1345" id1="605459" id2="17" version="1065353216">
+		<source>You can always count on me, Ranna. I won't let you down.</source>
+		<target>Ты можешь всегда рассчитывать на меня, Ранна. Я не подведу.</target>
+	</unit>
+	<unit bitflag="1360" id1="605459" id2="17" version="1065353216">
+		<source>I'm here for you.</source>
+		<target>Я рядом.</target>
+	</unit>
+	<unit bitflag="1345" id1="605460" id2="17" version="1065353216">
+		<source>You're a better friend than any I've ever had. I hope somehow my mother knows you're watching over me.</source>
+		<target>Ты лучший друг, чем все прежние. Надеюсь, моя мать знает, что ты присматриваешь за мной.</target>
+	</unit>
+	<unit bitflag="1345" id1="605462" id2="17" version="1065353216">
+		<source>I've heard it said friends are the family we choose for ourselves. My mother was all the family I had left, until you came.</source>
+		<target>Я слышала, что друзья - семья, которую мы себе выбираем. Моя мать была всей моей семьёй, пока ты не пришёл.</target>
+	</unit>
+	<unit bitflag="1345" id1="605464" id2="17" version="1065353216">
+		<source>That's strange, isn't it? I've only known you a little while, but it's like you're the sister I've always wanted.</source>
+		<target>Это странно, правда? Я знаю тебя так недолго, но ты словно сестра, которую я всегда хотела.</target>
+	</unit>
+	<unit bitflag="1345" id1="605465" id2="17" version="1065353216">
+		<source>Ranna, it's natural for you to seek comfort from others, but I'm not your sister.</source>
+		<target>Ранна, искать утешения в других естественно, но я тебе не сестра.</target>
+	</unit>
+	<unit bitflag="1360" id1="605465" id2="17" version="1065353216">
+		<source>You're confused by grief.</source>
+		<target>Скорбь смущает тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605466" id2="17" version="1065353216">
+		<source>You're right. Forgive me if I've made you uncomfortable.</source>
+		<target>Верно. Прости, если тебе было неудобно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605468" id2="17" version="1065353216">
+		<source>You hardly know anything about me.</source>
+		<target>Ты меня едва знаешь.</target>
+	</unit>
+	<unit bitflag="1360" id1="605468" id2="17" version="1065353216">
+		<source>What makes you say that?</source>
+		<target>Почему ты так говоришь?</target>
+	</unit>
+	<unit bitflag="1345" id1="605469" id2="17" version="1065353216">
+		<source>I know you're brave and honest--and that you care about others more than yourself.</source>
+		<target>Я знаю, что ты смелая и честная - и что ты заботишься о других больше, чем о себе.</target>
+	</unit>
+	<unit bitflag="1345" id1="605471" id2="17" version="1065353216">
+		<source>I know I can trust you. That's all that matters.</source>
+		<target>Я знаю, что могу доверять тебе. Остальное не важно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605473" id2="17" version="1065353216">
+		<source>Glad I'm not the only one who feels that connection.</source>
+		<target>Радует, что не только я чувствую эту связь.</target>
+	</unit>
+	<unit bitflag="1360" id1="605473" id2="17" version="1065353216">
+		<source>I know what you mean.</source>
+		<target>Я понимаю, о чём ты.</target>
+	</unit>
+	<unit bitflag="1345" id1="605474" id2="17" version="1065353216">
+		<source>It's an incredible gift to have someone who's always there for you, no matter what.</source>
+		<target>Это бесценный дар - иметь кого-то, кто всегда рядом, что бы ни случилось.</target>
+	</unit>
+	<unit bitflag="1345" id1="605476" id2="17" version="1065353216">
+		<source>My people have an old ritual for friends to become family. Would you perform it with me? Become my sister?</source>
+		<target>У моего народа есть старинный ритуал, делающий друзей семьёй. Ты совершишь его со мной? Станешь мне сестрой?</target>
+	</unit>
+	<unit bitflag="1345" id1="605477" id2="17" version="1065353216">
+		<source>We don't have to be sisters to look out for each other.</source>
+		<target>Нам не нужно быть сёстрами, чтобы смотреть друг за другом.</target>
+	</unit>
+	<unit bitflag="1360" id1="605477" id2="17" version="1065353216">
+		<source>Friendship is good enough.</source>
+		<target>Дружбы достаточно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605478" id2="17" version="1065353216">
+		<source>You always know the right thing to say and do. Friends, then.</source>
+		<target>Ты всегда знаешь, что надо сказать и сделать. Тогда друзья.</target>
+	</unit>
+	<unit bitflag="1345" id1="605480" id2="17" version="1065353216">
+		<source>Jedi aren't allowed to place one person above others, Ranna. We have to treat everyone like they're family.</source>
+		<target>Джедаям нельзя ставить одну личность выше других, Ранна. Мы обязаны обращаться со всеми как с семьёй.</target>
+	</unit>
+	<unit bitflag="1360" id1="605480" id2="17" version="1065353216">
+		<source>My code forbids it.</source>
+		<target>Кодекс не велит.</target>
+	</unit>
+	<unit bitflag="1345" id1="605481" id2="17" version="1065353216">
+		<source>I think I understand. It's too bad, though. You'd make a wonderful big sister.</source>
+		<target>Думаю, я понимаю. Но очень жаль. Ты бы была чудесной старшей сестрой.</target>
+	</unit>
+	<unit bitflag="1345" id1="605483" id2="17" version="1065353216">
+		<source>Having a sister like you would be wonderful.</source>
+		<target>Иметь сестру вроде тебя было бы чудесно.</target>
+	</unit>
+	<unit bitflag="1360" id1="605483" id2="17" version="1065353216">
+		<source>Yes, I'd like that.</source>
+		<target>Да, я бы хотела.</target>
+	</unit>
+	<unit bitflag="1345" id1="605484" id2="17" version="1065353216">
+		<source>Then come, sit--let's take the oaths of family together....</source>
+		<target>Тогда садись... давай вместе примем семейные клятвы...</target>
+	</unit>
+	<unit bitflag="1345" id1="605486" id2="17" version="1065353216">
+		<source>There, we're sisters now. Our bond is forever. Always together, never alone.</source>
+		<target>Вот, теперь мы сёстры. Наша связь вечна. Всегда вместе, никогда порознь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605487" id2="17" version="1065353216">
+		<source>I'll always be there for you, Ranna--no matter what.</source>
+		<target>Я всегда буду рядом, Ранна - что бы ни случилось.</target>
+	</unit>
+	<unit bitflag="1360" id1="605487" id2="17" version="1065353216">
+		<source>Sisters to the end.</source>
+		<target>Сёстры до конца.</target>
+	</unit>
+	<unit bitflag="1345" id1="605488" id2="17" version="1065353216">
+		<source>These kinds of attachments are against the Jedi Code. I shouldn't have done this.</source>
+		<target>Такие привязанности против Кодекса джедаев. Я не должна была этого делать.</target>
+	</unit>
+	<unit bitflag="1360" id1="605488" id2="17" version="1065353216">
+		<source>This was a mistake.</source>
+		<target>Это было ошибкой.</target>
+	</unit>
+	<unit bitflag="1345" id1="605489" id2="17" version="1065353216">
+		<source>Don't say that. The bonds of family make us stronger than any code. You'll see--sister.</source>
+		<target>Не говори так. Семейные узы делают нас сильнее любого кодекса. Увидишь, сестра.</target>
+	</unit>
+	<unit bitflag="1345" id1="605491" id2="17" version="1065353216">
+		<source>Let's keep this between us. I don't think my Master would approve.</source>
+		<target>Давай держать это в тайне. Не думаю, что мой учитель одобрил бы.</target>
+	</unit>
+	<unit bitflag="1360" id1="605491" id2="17" version="1065353216">
+		<source>We shouldn't tell Orgus.</source>
+		<target>Не говори Оргусу.</target>
+	</unit>
+	<unit bitflag="1345" id1="605492" id2="17" version="1065353216">
+		<source>I don't need anyone else to know--just you.</source>
+		<target>Мне не нужно, чтобы знал кто-то ещё - только ты.</target>
+	</unit>
+	<unit bitflag="1345" id1="605494" id2="17" version="1065353216">
+		<source>Here, take this. Whenever we're apart, I'll still be with you.</source>
+		<target>Вот, возьми. Даже в разлуке я буду с тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="605496" id2="17" version="1065353216">
+		<source>Why would you face death again and again for people you barely know?</source>
+		<target>Почему ты рискуешь жизнью снова и снова ради почти незнакомцев?</target>
+	</unit>
+	<unit bitflag="1345" id1="605497" id2="17" version="1065353216">
+		<source>My order's greatest honor is to protect and serve others.</source>
+		<target>Величайшая честь моего Ордена - защищать других и служить им.</target>
+	</unit>
+	<unit bitflag="1360" id1="605497" id2="17" version="1065353216">
+		<source>That's what Jedi do.</source>
+		<target>Так поступают джедаи.</target>
+	</unit>
+	<unit bitflag="1345" id1="605498" id2="17" version="1065353216">
+		<source>You serve your ideals well.</source>
+		<target>Ты хорошо служишь своим идеалам.</target>
+	</unit>
+	<unit bitflag="1345" id1="605500" id2="17" version="1065353216">
+		<source>I can't stand by and do nothing while others suffer.</source>
+		<target>Я не могу стоять в стороне и бездействовать, пока другие страдают.</target>
+	</unit>
+	<unit bitflag="1360" id1="605500" id2="17" version="1065353216">
+		<source>Because I care about people.</source>
+		<target>Потому что я забочусь о других.</target>
+	</unit>
+	<unit bitflag="1345" id1="605501" id2="17" version="1065353216">
+		<source>So many of my people mistrust the Jedi. I wish they could know you like I do.</source>
+		<target>Многие из моих людей не доверяют джедаям. Жаль, они не знают тебя, как я.</target>
+	</unit>
+	<unit bitflag="1345" id1="605503" id2="17" version="1065353216">
+		<source>You're worth the risk.</source>
+		<target>Ты стоишь риска.</target>
+	</unit>
+	<unit bitflag="1360" id1="605503" id2="17" version="1065353216">
+		<source>[Flirt] I do it for you.</source>
+		<target>[Флирт] Ради тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605504" id2="17" version="1065353216">
+		<source>Me? You don't even know me.</source>
+		<target>Я? Ты меня даже не знаешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605505" id2="17" version="1065353216">
+		<source>You're strong, capable--a good person. What else should I know?</source>
+		<target>Ты сильная, умелая... хороший человек. Что мне ещё надо знать?</target>
+	</unit>
+	<unit bitflag="1360" id1="605505" id2="17" version="1065353216">
+		<source>[Flirt] I know enough.</source>
+		<target>[Флирт] Я знаю достаточно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605506" id2="17" version="1065353216">
+		<source>I've lost so much. All I seem to have left are responsibilities.</source>
+		<target>Я потеряла так много. Кажется, у меня остались одни обязанности.</target>
+	</unit>
+	<unit bitflag="1345" id1="605508" id2="17" version="1065353216">
+		<source>We'll finish this some other time. I have a job to do.</source>
+		<target>Мы закончим в другой раз. У меня есть дела.</target>
+	</unit>
+	<unit bitflag="1360" id1="605508" id2="17" version="1065353216">
+		<source>Nevermind. I should go.</source>
+		<target>Неважно. Мне нужно идти.</target>
+	</unit>
+	<unit bitflag="1345" id1="605509" id2="17" version="1065353216">
+		<source>Yes, of course. I'm sorry if I kept you from it.</source>
+		<target>Да, конечно. Прости, если задержала.</target>
+	</unit>
+	<unit bitflag="1345" id1="605511" id2="17" version="1065353216">
+		<source>Haven't you noticed I keep coming back to you? It's not just my duty.</source>
+		<target>Ты не заметила, что я возвращаюсь к тебе? Это не просто долг.</target>
+	</unit>
+	<unit bitflag="1360" id1="605511" id2="17" version="1065353216">
+		<source>[Flirt] But I want to.</source>
+		<target>[Флирт] Но хотел бы.</target>
+	</unit>
+	<unit bitflag="1345" id1="605512" id2="17" version="1065353216">
+		<source>Duties are all I seem to have, now.</source>
+		<target>Кажется, всё, что у меня есть теперь, это долг.</target>
+	</unit>
+	<unit bitflag="1345" id1="605514" id2="17" version="1065353216">
+		<source>Being a Matriarch means putting your own needs second. It's the same for Jedi, isn't it?</source>
+		<target>Быть матриархом значит отодвигать свои нужды на второй план. Разве у джедаев не так?</target>
+	</unit>
+	<unit bitflag="1345" id1="605515" id2="17" version="1065353216">
+		<source>There's more to life than responsibility for others. There has to be.</source>
+		<target>В жизни есть не только ответственность за других. Должно быть что-то ещё.</target>
+	</unit>
+	<unit bitflag="1360" id1="605515" id2="17" version="1065353216">
+		<source>[Flirt] I hope not.</source>
+		<target>[Флирт] Надеюсь, что нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="605516" id2="17" version="1065353216">
+		<source>For all her victories, my mother spent her life alone. I don't want that.</source>
+		<target>При всех своих достижениях мать провела жизнь одна. Я не хочу такого.</target>
+	</unit>
+	<unit bitflag="1345" id1="605518" id2="17" version="1065353216">
+		<source>If there's anything I can do as a friend, let me know.</source>
+		<target>Если я могу сделать что-то как друг, дай мне знать.</target>
+	</unit>
+	<unit bitflag="1360" id1="605518" id2="17" version="1065353216">
+		<source>Yes, but we can be friends.</source>
+		<target>Да, но мы можем быть друзьями.</target>
+	</unit>
+	<unit bitflag="1345" id1="605519" id2="17" version="1065353216">
+		<source>I will. Thank you.</source>
+		<target>Хорошо, спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="605521" id2="17" version="1065353216">
+		<source>Rules are for servants and slaves.</source>
+		<target>Правила для слуг и рабов.</target>
+	</unit>
+	<unit bitflag="1360" id1="605521" id2="17" version="1065353216">
+		<source>[Flirt] We deserve more.</source>
+		<target>[Флирт] Мы заслужили большего.</target>
+	</unit>
+	<unit bitflag="1345" id1="605522" id2="17" version="1065353216">
+		<source>But I thought Jedi weren't allowed to... I mean... should you be doing this?</source>
+		<target>Но я думала, что джедаям нельзя... в смысле... тебе стоит это делать?</target>
+	</unit>
+	<unit bitflag="1345" id1="605523" id2="17" version="1065353216">
+		<source>If we both feel the same way, what does it matter?</source>
+		<target>Если мы хотим одного, разве это важно?</target>
+	</unit>
+	<unit bitflag="1360" id1="605523" id2="17" version="1065353216">
+		<source>[Flirt] Who cares?</source>
+		<target>[Флирт] Это важно?</target>
+	</unit>
+	<unit bitflag="1345" id1="605524" id2="17" version="1065353216">
+		<source>I... I do feel the same way. And I don't care about your Jedi rules.</source>
+		<target>Я... я хочу того же. И мне плевать на твои джедайские правила.</target>
+	</unit>
+	<unit bitflag="1345" id1="605526" id2="17" version="1065353216">
+		<source>I have feelings for you--but as a Jedi, I'm not allowed to act on them.</source>
+		<target>Ты мне небезразлична - но, как джедаю, мне нельзя следовать этому.</target>
+	</unit>
+	<unit bitflag="1360" id1="605526" id2="17" version="1065353216">
+		<source>No, I shouldn't.</source>
+		<target>Нет, не стоит.</target>
+	</unit>
+	<unit bitflag="1345" id1="605527" id2="17" version="1065353216">
+		<source>What a lonely way to live. It's no wonder there aren't more Jedi in the galaxy.</source>
+		<target>Какой одинокий способ жить. Неудивительно, что в Галактике так мало джедаев.</target>
+	</unit>
+	<unit bitflag="1345" id1="605529" id2="17" version="1065353216">
+		<source>Even though you don't believe in accepting rewards, I insist you take this one.</source>
+		<target>Хоть ты и не принимаешь награды, я настаиваю на взятии этой.</target>
+	</unit>
+	<unit bitflag="1345" id1="605531" id2="17" version="1065353216">
+		<source>Please accept this token of affection from my people. You've earned it.</source>
+		<target>Прошу, прими это в знак признания моего народа. Ты заслужил его.</target>
+	</unit>
+	<unit bitflag="1345" id1="605533" id2="17" version="1065353216">
+		<source>Right now, all I want is you.</source>
+		<target>Сейчас я хочу только тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="605533" id2="17" version="1065353216">
+		<source>[Flirt] I can't help myself.</source>
+		<target>[Флирт] Ничего не могу поделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="605534" id2="17" version="1065353216">
+		<source>And I want you, too.</source>
+		<target>А я тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605536" id2="17" version="1065353216">
+		<source>I'll make sure no one disturbs us....</source>
+		<target>Я позабочусь, чтобы нас никто не побеспокоил...</target>
+	</unit>
+	<unit bitflag="1345" id1="605538" id2="17" version="1065353216">
+		<source>If we stay much longer, my people will wonder--and I don't want you to get in trouble with your Master.</source>
+		<target>Если мы пробудем тут ещё дольше, мои люди начнут интересоваться - а я не хочу, чтобы у тебя были проблемы с учителем.</target>
+	</unit>
+	<unit bitflag="1345" id1="605539" id2="17" version="1065353216">
+		<source>There won't be any trouble. You bring out the best in me, Ranna.</source>
+		<target>Проблем не будет. Ты находишь наилучшее во мне, Ранна.</target>
+	</unit>
+	<unit bitflag="1360" id1="605539" id2="17" version="1065353216">
+		<source>You're beautiful.</source>
+		<target>Ты красивая.</target>
+	</unit>
+	<unit bitflag="1345" id1="605540" id2="17" version="1065353216">
+		<source>You were right. We shouldn't have done this.</source>
+		<target>Ты была права. Не стоило этого делать.</target>
+	</unit>
+	<unit bitflag="1360" id1="605540" id2="17" version="1065353216">
+		<source>This was a mistake.</source>
+		<target>Это было ошибкой.</target>
+	</unit>
+	<unit bitflag="1345" id1="605541" id2="17" version="1065353216">
+		<source>Don't say that. I can't regret something this good.</source>
+		<target>Не говори так. Я не могу сожалеть о столь хорошем.</target>
+	</unit>
+	<unit bitflag="1345" id1="605543" id2="17" version="1065353216">
+		<source>Orgus doesn't get to tell me who I can be with.</source>
+		<target>Оргус не сможет указывать мне, с кем быть.</target>
+	</unit>
+	<unit bitflag="1360" id1="605543" id2="17" version="1065353216">
+		<source>He doesn't scare me.</source>
+		<target>Он меня не пугает.</target>
+	</unit>
+	<unit bitflag="1345" id1="605544" id2="17" version="1065353216">
+		<source>But he might expel you from the Jedi. I wouldn't want that.</source>
+		<target>Но он может изгнать тебя из джедаев. Я бы этого не хотела.</target>
+	</unit>
+	<unit bitflag="1345" id1="605546" id2="17" version="1065353216">
+		<source>Here, this is something for when we're apart.</source>
+		<target>Вот, держи, это на время разлуки.</target>
+	</unit>
+	<unit bitflag="1345" id1="605548" id2="17" version="1065353216">
+		<source>My people are probably looking for me. I'll see you again soon, I hope.</source>
+		<target>Мой народ, вероятно, ищет меня. Надеюсь, мы скоро увидимся вновь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605550" id2="17" version="1065353216">
+		<source>No, I insist. You deserve this.</source>
+		<target>Нет, я настаиваю. Ты заслужил.</target>
+	</unit>
+	<unit bitflag="1345" id1="605552" id2="17" version="1065353216">
+		<source>I'm sure I'll find a use for it, somehow.</source>
+		<target>Думаю, я найду этому применение.</target>
+	</unit>
+	<unit bitflag="1360" id1="605552" id2="17" version="1065353216">
+		<source>So am I.</source>
+		<target>Да.</target>
+	</unit>
+	<unit bitflag="1345" id1="605553" id2="17" version="1065353216">
+		<source>We're not wealthy, but my people give all they can.</source>
+		<target>Мы не богаты, но мои люди отдают всё, что могут.</target>
+	</unit>
+	<unit bitflag="1345" id1="605555" id2="17" version="1065353216">
+		<source>I should go inform everyone that the danger is over.</source>
+		<target>Я предупрежу всех, что опасность миновала.</target>
+	</unit>
+	<unit bitflag="1345" id1="605557" id2="17" version="1065353216">
+		<source>The poison machines are in the fields. Please, do something.</source>
+		<target>Механизмы с ядом на полях. Прошу, сделай что-нибудь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605559" id2="17" version="1065353216">
+		<source>I shut down the energy shield. Any word on Master Orgus's mission?</source>
+		<target>Энергетический щит отключён. Новости по заданию мастера Оргуса?</target>
+	</unit>
+	<unit bitflag="1345" id1="605560" id2="17" version="1065353216">
+		<source>No. My mother... she found peace during your absence. I'm now Matriarch.</source>
+		<target>Нет. Моя мать... она обрела покой, пока тебя не было. Теперь я матриарх.</target>
+	</unit>
+	<unit bitflag="1345" id1="605561" id2="17" version="1065353216">
+		<source>You have my sympathies, Ranna--but your people are in good hands.</source>
+		<target>Сочувствую, Ранна - но твой народ в хороших руках.</target>
+	</unit>
+	<unit bitflag="1360" id1="605561" id2="17" version="1065353216">
+		<source>You're going to be alright.</source>
+		<target>Всё будет хорошо.</target>
+	</unit>
+	<unit bitflag="1345" id1="605562" id2="17" version="1065353216">
+		<source>You're kind to say that. I've heard people call the Jedi cold, but it's not true.</source>
+		<target>Ты добр ко мне. Я слышала, что джедаев называют холодными, но это не так.</target>
+	</unit>
+	<unit bitflag="1345" id1="605564" id2="17" version="1065353216">
+		<source>You don't have to go through this alone.</source>
+		<target>Тебе не обязательно делать всё в одиночку.</target>
+	</unit>
+	<unit bitflag="1360" id1="605564" id2="17" version="1065353216">
+		<source>I'm here if you need me.</source>
+		<target>Я рядом, если нужно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605565" id2="17" version="1065353216">
+		<source>You and your Master are a great comfort to me.</source>
+		<target>Вы с твоим учителем сильно успокаиваете меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="605567" id2="17" version="1065353216">
+		<source>People who say Jedi have no feelings are wrong.</source>
+		<target>Те, кто говорит, что джедаи бесчувственны, ошибаются.</target>
+	</unit>
+	<unit bitflag="1345" id1="605569" id2="17" version="1065353216">
+		<source>As long as you cooperate, I have no problem with your new position.</source>
+		<target>Пока ты сотрудничаешь, меня не волнует твой новый пост.</target>
+	</unit>
+	<unit bitflag="1360" id1="605569" id2="17" version="1065353216">
+		<source>Doesn't matter.</source>
+		<target>Неважно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605570" id2="17" version="1065353216">
+		<source>How are you so cold? Are only Masters allowed to express warmth and comfort?</source>
+		<target>Почему ты столь холоден? Только наставникам позволено выражать тепло и успокаивать?</target>
+	</unit>
+	<unit bitflag="1345" id1="605572" id2="17" version="1065353216">
+		<source>Before he left, Master Orgus told me &quot;There is no death, there is the Force.&quot;</source>
+		<target>Перед уходом мастер Оргус сказал мне: «Нет смерти, есть Сила».</target>
+	</unit>
+	<unit bitflag="1345" id1="605574" id2="17" version="1065353216">
+		<source>He believes our essence lives on when we die and merges with the Force. I hope that's true.</source>
+		<target>Он верит, что наша сущность продолжает жить после нашей смерти и соединяется с Силой. Надеюсь, это правда.</target>
+	</unit>
+	<unit bitflag="1345" id1="605576" id2="17" version="1065353216">
+		<source>Matriarch! Flesh Raiders broke through our defenses. They did something to our crop fields!</source>
+		<target>Матриарх! Раздиратели прорвали нашу оборону. Они сделали что-то с нашими полями!</target>
+	</unit>
+	<unit bitflag="1345" id1="605578" id2="17" version="1065353216">
+		<source>They dropped strange machines in the soil. When a scout approached one, he collapsed with sickness.</source>
+		<target>Они разместили странные механизмы в почве. Когда наш разведчик приблизился к одной из них, его стошнило.</target>
+	</unit>
+	<unit bitflag="1345" id1="605580" id2="17" version="1065353216">
+		<source>He crawled away from the device and began to recover--but there are many more machines still out there.</source>
+		<target>Он отполз от устройства и начал приходить в себя... но их там намного больше.</target>
+	</unit>
+	<unit bitflag="1345" id1="605581" id2="17" version="1065353216">
+		<source>Tell your people to stay away from the fields. I'll get rid of these things.</source>
+		<target>Прикажите своим людям держаться подальше от полей. Я избавлюсь от них.</target>
+	</unit>
+	<unit bitflag="1360" id1="605581" id2="17" version="1065353216">
+		<source>Let me deal with this.</source>
+		<target>Я разберусь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605582" id2="17" version="1065353216">
+		<source>Be careful. If the machines are too powerful, save yourself.</source>
+		<target>Осторожно. Если механизмы слишком сильны, спасайся.</target>
+	</unit>
+	<unit bitflag="1345" id1="605584" id2="17" version="1065353216">
+		<source>Once again, I'm in your debt.</source>
+		<target>И опять я у тебя в долгу.</target>
+	</unit>
+	<unit bitflag="1345" id1="605586" id2="17" version="1065353216">
+		<source>I've never heard of anything like this before.</source>
+		<target>Мне не приходилось слышать о таких устройствах.</target>
+	</unit>
+	<unit bitflag="1360" id1="605586" id2="17" version="1065353216">
+		<source>What are these devices?</source>
+		<target>Что это за устройства?</target>
+	</unit>
+	<unit bitflag="1345" id1="605587" id2="17" version="1065353216">
+		<source>If these machines can poison us, they can destroy our crops as well.</source>
+		<target>Если эти машины могут отравлять нас, они уничтожат наши посевы.</target>
+	</unit>
+	<unit bitflag="1345" id1="605589" id2="17" version="1065353216">
+		<source>Your settlement here is finished. You can't stay on Tython.</source>
+		<target>Вашему поселению здесь конец. Вам нельзя оставаться на Тайтоне.</target>
+	</unit>
+	<unit bitflag="1360" id1="605589" id2="17" version="1065353216">
+		<source>It's time you left this world.</source>
+		<target>Вам пора покинуть этот мир.</target>
+	</unit>
+	<unit bitflag="1345" id1="605590" id2="17" version="1065353216">
+		<source>We have nowhere else to go. My people will kill themselves dismantling those machines.</source>
+		<target>Нам больше некуда идти. Мои люди погибнут, убирая эти механизмы.</target>
+	</unit>
+	<unit bitflag="1345" id1="605592" id2="17" version="1065353216">
+		<source>Please, help us. Jedi are strong. You can resist the machines and destroy them.</source>
+		<target>Прошу, помоги нам. Джедаи сильны. Ты сможешь сопротивляться этим механизмам и уничтожить их.</target>
+	</unit>
+	<unit bitflag="1345" id1="605593" id2="17" version="1065353216">
+		<source>I'll take out as many of them as I can.</source>
+		<target>Я уничтожу как можно больше их.</target>
+	</unit>
+	<unit bitflag="1360" id1="605593" id2="17" version="1065353216">
+		<source>I'll do my best, Matriarch.</source>
+		<target>Сделаю, что смогу, матриарх.</target>
+	</unit>
+	<unit bitflag="1360" id1="605594" id2="17" version="1065353216">
+		<source>There's always a chance.</source>
+		<target>Шанс есть всегда.</target>
+	</unit>
+	<unit bitflag="1345" id1="605595" id2="17" version="1065353216">
+		<source>If I've learned anything, it's that Jedi succeed where others fail.</source>
+		<target>Если я что и узнала, так это то, что джедаи справляются там, где другие нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="605597" id2="17" version="1065353216">
+		<source>If I have to root through your fields, I expect something in return.</source>
+		<target>Если мне надо корчевать ваши поля, я ожидаю чего-то взамен.</target>
+	</unit>
+	<unit bitflag="1360" id1="605597" id2="17" version="1065353216">
+		<source>For a price.</source>
+		<target>Не бесплатно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605598" id2="17" version="1065353216">
+		<source>My scouts find things in Tython's ancient ruins. I can give you what they've salvaged.</source>
+		<target>Мои разведчики находят разные вещи в древних руинах Тайтона. Я могу дать тебе принесённое ими.</target>
+	</unit>
+	<unit bitflag="1345" id1="605600" id2="17" version="1065353216">
+		<source>Hurry to the fields. I fear we don't have much time.</source>
+		<target>Поторопись на поля. Боюсь, у нас мало времени.</target>
+	</unit>
+	<unit bitflag="1345" id1="605602" id2="17" version="1065353216">
+		<source>My hopes go with you. Take care.</source>
+		<target>Мои надежды с тобой. Береги себя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605603" id2="17" version="1065353216">
+		<source>Your Master wants to talk to you.</source>
+		<target>Твой учитель хочет поговорить с тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="605604" id2="17" version="1065353216">
+		<source>Your mission sounds dangerous. Be careful.</source>
+		<target>Твоя задача, похоже, опасна. Будь осторожнее.</target>
+	</unit>
+	<unit bitflag="1345" id1="605607" id2="17" version="1065353216">
+		<source>One of our scouts watched from a distance while you invaded the Flesh Raider camp. He said you defeated many of them.</source>
+		<target>Один из наших разведчиков наблюдал на расстоянии за твоим вторжением в лагерь раздирателей. Сказал, ты многих победил.</target>
+	</unit>
+	<unit bitflag="1345" id1="605609" id2="17" version="1065353216">
+		<source>With the weapons and technology you brought from the Flesh Raiders, my people can defend themselves.</source>
+		<target>С помощью оружия и техники, принесённых тобой от раздирателей, мои люди смогут защищаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="605611" id2="17" version="1065353216">
+		<source>Your heroism gives me hope that we'll survive this.</source>
+		<target>Твой героизм даёт мне надежду на выживание.</target>
+	</unit>
+	<unit bitflag="1345" id1="605612" id2="17" version="1065353216">
+		<source>And your Matriarch? Is she feeling any better?</source>
+		<target>А ваш матриарх? Ей лучше?</target>
+	</unit>
+	<unit bitflag="1360" id1="605612" id2="17" version="1065353216">
+		<source>How is your mother?</source>
+		<target>Как твоя мать?</target>
+	</unit>
+	<unit bitflag="1345" id1="605613" id2="17" version="1065353216">
+		<source>No, but we're doing all we can. Thank you for asking.</source>
+		<target>Нет, но мы делаем всё, что можем. Спасибо, что побеспокоился.</target>
+	</unit>
+	<unit bitflag="1345" id1="605615" id2="17" version="1065353216">
+		<source>Moorint? Our friend should know everything we've learned about the Flesh Raiders.</source>
+		<target>Муринт? Наш друг должен узнать всё, что мы узнали о раздирателях.</target>
+	</unit>
+	<unit bitflag="1345" id1="605616" id2="17" version="1065353216">
+		<source>You risked your life to help us. My people haven't had a champion for some time.</source>
+		<target>Тебе пришлось рисковать собой, чтобы помочь нам. У моих людей давно не было защитника.</target>
+	</unit>
+	<unit bitflag="1345" id1="605617" id2="17" version="1065353216">
+		<source>Jedi have a duty to protect and defend others.</source>
+		<target>Джедай должен защищать и оборонять других.</target>
+	</unit>
+	<unit bitflag="1360" id1="605617" id2="17" version="1065353216">
+		<source>It's my honor to serve.</source>
+		<target>Для меня честь - служить.</target>
+	</unit>
+	<unit bitflag="1345" id1="605618" id2="17" version="1065353216">
+		<source>And we promised to share our knowledge in return for that duty.</source>
+		<target>А мы обещали поделиться своими знаниями в обмен на этот долг.</target>
+	</unit>
+	<unit bitflag="1345" id1="605619" id2="17" version="1065353216">
+		<source>I'll be your champion whenever you need one.</source>
+		<target>Я буду твоим защитником, когда нужно.</target>
+	</unit>
+	<unit bitflag="1360" id1="605619" id2="17" version="1065353216">
+		<source>[Flirt] Call on me anytime.</source>
+		<target>[Флирт] Зови в любое время.</target>
+	</unit>
+	<unit bitflag="1345" id1="605620" id2="17" version="1065353216">
+		<source>Oh. I... ah, should give you the information you requested. Moorint, report.</source>
+		<target>Ой. Я... э... должна дать тебе информацию. Муринт, докладывай.</target>
+	</unit>
+	<unit bitflag="1345" id1="605621" id2="17" version="1065353216">
+		<source>I did as you asked--for information, nothing more.</source>
+		<target>Я выполнил вашу просьбу - только ради информации.</target>
+	</unit>
+	<unit bitflag="1360" id1="605621" id2="17" version="1065353216">
+		<source>Don't get sentimental.</source>
+		<target>Не сентиментальничай.</target>
+	</unit>
+	<unit bitflag="1345" id1="605622" id2="17" version="1065353216">
+		<source>Of course. And I will honor that bargain.</source>
+		<target>Конечно. И я выполню свою часть сделки.</target>
+	</unit>
+	<unit bitflag="1345" id1="605624" id2="17" version="1065353216">
+		<source>Scouts report that the Flesh Raider forces are gathering in strength.</source>
+		<target>Разведчики сообщают, что силы раздирателей растут.</target>
+	</unit>
+	<unit bitflag="1345" id1="605626" id2="17" version="1065353216">
+		<source>They already control the mountains around us, and now they're invading the ruins of Kaleth.</source>
+		<target>Они уже контролируют горы вокруг нас и теперь вторгаются в руины Калета.</target>
+	</unit>
+	<unit bitflag="1345" id1="605628" id2="17" version="1065353216">
+		<source>My men spotted them at the remains of an ancient shrine--close to your Jedi Temple.</source>
+		<target>Мои люди засекли их у остатков древнего алтаря - около вашего Храма джедаев.</target>
+	</unit>
+	<unit bitflag="1345" id1="605630" id2="17" version="1065353216">
+		<source>Kaleth was a great city of Force users. Its ruins hold powers we still don't understand.</source>
+		<target>Калет был великим городом адептов Силы. Его руины содержат до сих пор непонятные нам энергии.</target>
+	</unit>
+	<unit bitflag="1345" id1="605632" id2="17" version="1065353216">
+		<source>The Flesh Raiders are looking for something there.</source>
+		<target>Раздиратели ищут там что-то.</target>
+	</unit>
+	<unit bitflag="1345" id1="605634" id2="17" version="1065353216">
+		<source>We can't let them find it. Drive back those Flesh Raiders immediately. I have to take this droid back to the Council.</source>
+		<target>Нельзя, чтобы они нашли это. Оттесни этих раздирателей немедленно. Я должен вернуть этого дроида Совету.</target>
+	</unit>
+	<unit bitflag="1345" id1="605636" id2="17" version="1065353216">
+		<source>That hooded figure in the holo--I know his voice. The situation is worse than I thought.</source>
+		<target>Фигура в капюшоне на той записи... я знаю его голос. Ситуация ещё хуже, чем я думал.</target>
+	</unit>
+	<unit bitflag="1345" id1="605638" id2="17" version="1065353216">
+		<source>Do whatever it takes to push the Flesh Raiders out of Kaleth. I'll send you reinforcements as soon as possible.</source>
+		<target>Сделай всё, что нужно, чтобы оттеснить раздирателей из Калета. Я пришлю подкрепления как можно скорее.</target>
+	</unit>
+	<unit bitflag="1345" id1="605639" id2="17" version="1065353216">
+		<source>I'll hold the line until reinforcements arrive, Master.</source>
+		<target>Я продержусь до прибытия подкреплений, учитель.</target>
+	</unit>
+	<unit bitflag="1360" id1="605639" id2="17" version="1065353216">
+		<source>I'll be ready for anything.</source>
+		<target>Буду готов ко всему.</target>
+	</unit>
+	<unit bitflag="1345" id1="605640" id2="17" version="1065353216">
+		<source>You aren't going to tell me what's happening?</source>
+		<target>Вы не собираетесь объяснить мне, что происходит?</target>
+	</unit>
+	<unit bitflag="1360" id1="605640" id2="17" version="1065353216">
+		<source>Wait, that's it?</source>
+		<target>Стоп, это всё?</target>
+	</unit>
+	<unit bitflag="1345" id1="605641" id2="17" version="1065353216">
+		<source>Take too long. Just be aware that Kaleth is a place of great danger.</source>
+		<target>Слишком долго. Просто знай, что Калет - очень опасное место.</target>
+	</unit>
+	<unit bitflag="1345" id1="605643" id2="17" version="1065353216">
+		<source>In case you haven't noticed, I handle things just fine by myself.</source>
+		<target>Если вы не заметили, я отлично справляюсь самостоятельно.</target>
+	</unit>
+	<unit bitflag="1360" id1="605643" id2="17" version="1065353216">
+		<source>I won't need them.</source>
+		<target>Мне они не потребуются.</target>
+	</unit>
+	<unit bitflag="1345" id1="605644" id2="17" version="1065353216">
+		<source>Don't get cocky. You're good, but you're still a Padawan.</source>
+		<target>Не возгордись. Ты хороший падаван, но всё-таки лишь падаван.</target>
+	</unit>
+	<unit bitflag="1345" id1="605646" id2="17" version="1065353216">
+		<source>If you see that hooded figure from the holo, do not engage him. Now get going.</source>
+		<target>Если увидишь эту фигуру в капюшоне с записи, не сражайся с ним. Теперь иди.</target>
+	</unit>
+	<unit bitflag="1345" id1="605650" id2="17" version="1065353216">
+		<source>Saylew is upset. Perhaps he'll listen to you.</source>
+		<target>Сэйлу раздражён. Возможно, тебя он послушает.</target>
+	</unit>
+	<unit bitflag="1345" id1="605651" id2="17" version="1065353216">
+		<source>If you bring us the Flesh Raider weapons, we'll put them to good use.</source>
+		<target>Если ты принесёшь нам оружие раздирателей, мы найдём ему применение.</target>
+	</unit>
+	<unit bitflag="1345" id1="605652" id2="17" version="1065353216">
+		<source>Our Matriarch will speak with you.</source>
+		<target>Наш матриарх поговорит с тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="605653" id2="17" version="1065353216">
+		<source>Please excuse me. Others require my full attention.</source>
+		<target>Прошу извинить. Другие требуют моего внимания.</target>
+	</unit>
+</dialogue_file>

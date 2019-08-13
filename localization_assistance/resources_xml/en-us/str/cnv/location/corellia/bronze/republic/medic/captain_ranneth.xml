@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>31</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/bronze/republic/medic/captain_ranneth.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="234170" id2="17" version="1065353216">The troops all know what you did for them back there. Asked me to thank you personally.</text>
+		<text bitflag="1345" id1="234172" id2="17" version="1065353216">I found your men. They're going to be okay.</text>
+		<text bitflag="3393" id1="234173" id2="17" version="1065353216">Thanks. Imperials have been tearing us up good lately. Seen too many good men cut down.</text>
+		<text bitflag="3393" id1="234175" id2="17" version="1065353216">Glad I'll be able to send at least a few back to their families, safe and sound.</text>
+		<text bitflag="3393" id1="234177" id2="17" version="1065353216">Don't worry about me. Medic pumped me with enough tranq to knock out a bantha. Just get to those wounded.</text>
+		<text bitflag="3393" id1="234178" id2="17" version="1065353216">You... you any good with a suture? Know how to dress a wound?</text>
+		<text bitflag="1345" id1="234179" id2="17" version="1065353216">I'm no doctor, but I've picked up a few things.</text>
+		<text bitflag="1360" id1="234179" id2="17" version="1065353216">I can do that.</text>
+		<text bitflag="1345" id1="234180" id2="17" version="1065353216">I'm familiar with several healing techniques.</text>
+		<text bitflag="1360" id1="234180" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="234181" id2="17" version="1065353216">I've had basic medical training. Know my way around a medpac.</text>
+		<text bitflag="1360" id1="234181" id2="17" version="1065353216">I do.</text>
+		<text bitflag="1345" id1="234182" id2="17" version="1065353216">I know enough not to make it worse.</text>
+		<text bitflag="1360" id1="234182" id2="17" version="1065353216">More or less.</text>
+		<text bitflag="3393" id1="234183" id2="17" version="1065353216">Good enough.</text>
+		<text bitflag="1360" id1="234185" id2="17" version="1065353216">You look like you need both.</text>
+		<text bitflag="3393" id1="234186" id2="17" version="1065353216">Got a cracked sternum and a couple broken ribs, but it's not for me.</text>
+		<text bitflag="1360" id1="234188" id2="17" version="1065353216">Not really.</text>
+		<text bitflag="3393" id1="234189" id2="17" version="1065353216">This is no time to get squeamish.</text>
+		<text bitflag="3393" id1="234191" id2="17" version="1065353216">I've got wounded in the field. Patrol unit, ambushed by Imperials. Hit 'em hard and... ah, sedatives just kicked in.</text>
+		<text bitflag="3393" id1="234193" id2="17" version="1065353216">Area's too hot to send a medic. Need someone who can get in, fix my men up and get out in one piece.</text>
+		<text bitflag="1360" id1="234194" id2="17" version="1065353216">You can depend on me.</text>
+		<text bitflag="3393" id1="234195" id2="17" version="1065353216">Maybe it's just the tranq talking, but I think you can do it.</text>
+		<text bitflag="1345" id1="234197" id2="17" version="1065353216">How do you even know your men are still alive?</text>
+		<text bitflag="1360" id1="234197" id2="17" version="1065353216">They could be dead.</text>
+		<text bitflag="3393" id1="234198" id2="17" version="1065353216">I can still hear them groaning over the comm. That's all the proof I need.</text>
+		<text bitflag="3393" id1="234200" id2="17" version="1065353216">Here's an emergency medical pack. Should have everything you need.</text>
+		<text bitflag="3393" id1="234202" id2="17" version="1065353216">Remember, this is just a patch job, something to get them moving. Don't get fancy.</text>
+		<text bitflag="1360" id1="234204" id2="17" version="1065353216">Too dangerous. [Refuse quest]</text>
+		<text bitflag="3393" id1="234205" id2="17" version="1065353216">Yeah, leave it to the guy with the chest fracture.</text>
+		<text bitflag="3393" id1="234207" id2="17" version="1065353216">Can't talk. Concussion grenade. Hard to breathe.</text>
+	</file_content>
+</stb_file>

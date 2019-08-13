@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/flashpoint/tython_and_korriban/imperial/t8x_4.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1128238" id2="17" version="1065353216">Tython invasion force = preparing for your arrival // Imperial shuttle = all set // You = ready to invade the Jedi Temple?</text>
+		<text bitflag="3393" id1="1128239" id2="17" version="1065353216">Shuttle = ready // Tython Jedi Temple = yours for the taking!</text>
+		<text bitflag="3393" id1="1128242" id2="17" version="1065353216">Special mission = in planning stages // You = remain vigilant!</text>
+		<text bitflag="1360" id1="1128257" id2="17" version="1065353216">[Start Hard Mode]</text>
+		<text bitflag="321" id1="1128258" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="1360" id1="1128259" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1128260" id2="17" version="1065353216">[Refuse Mission]</text>
+		<text bitflag="3393" id1="1128261" id2="17" version="1065353216">Shuttle = placed on standby....</text>
+		<text bitflag="1360" id1="1128263" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="1128266" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1147982" id2="17" version="1065353216">[Start Story Mode]</text>
+		<text bitflag="1360" id1="1147983" id2="17" version="1065353216">[Start Solo Mode]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/ambient/hub1/green/republic6.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="573372" id2="17" version="1065353216">What's the damage?</text>
+		<text bitflag="1345" id1="573374" id2="17" version="1065353216">Your droid's motivator's busted. Plus the coolant system's shot. I can fix him, but it'll cost ya.</text>
+		<text bitflag="1345" id1="573376" id2="17" version="1065353216">Blasted rust heap! Now who's going to guard my inventory!</text>
+		<text bitflag="1345" id1="573378" id2="17" version="1065353216">I know some guys in the protection business. Want me to set something up?</text>
+		<text bitflag="1345" id1="573380" id2="17" version="1065353216">Do it. I have too much overhead to close shop now.</text>
+	</file_content>
+</stb_file>

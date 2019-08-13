@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/hutta/class/spy/industrial_facility_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="664214" id2="17" version="1065353216">Gas leak detected. Activating ventilation system.</text>
+		<text bitflag="1345" id1="664216" id2="17" version="1065353216">Lockdown in place until ventilation complete. Recalling all mining and security droids.</text>
+		<text bitflag="1345" id1="664218" id2="17" version="1065353216">Cartel representative identity confirmed. Entry authorized.</text>
+		<text bitflag="1345" id1="664219" id2="17" version="1065353216">Unable to confirm identity. Entry not authorized.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/droid_male_aggressive_imperial.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63430" id2="17" version="1065353216">Annihilation mode active.</text>
+		<text bitflag="1345" id1="63432" id2="17" version="1065353216">Weapons at full power.</text>
+		<text bitflag="1345" id1="63434" id2="17" version="1065353216">Calculating odds: targets doomed.</text>
+		<text bitflag="1345" id1="63436" id2="17" version="1065353216">Initiating kill protocol.</text>
+		<text bitflag="1345" id1="63438" id2="17" version="1065353216">Targets identified for elimination.</text>
+		<text bitflag="1345" id1="63440" id2="17" version="1065353216">Lethal measures authorized.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/gui/companiongifttypes.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="2" id2="889514" version="1065353216">Weapon</text>
+		<text bitflag="321" id1="3" id2="889514" version="1065353216">Military Gear</text>
+		<text bitflag="321" id1="4" id2="889514" version="1065353216">Courting</text>
+		<text bitflag="321" id1="5" id2="889514" version="1065353216">Luxury</text>
+		<text bitflag="321" id1="6" id2="889514" version="1065353216">Technology</text>
+		<text bitflag="321" id1="7" id2="889514" version="1065353216">Republic Memorabilia</text>
+		<text bitflag="321" id1="8" id2="889514" version="1065353216">Imperial Memorabilia</text>
+		<text bitflag="321" id1="9" id2="889514" version="1065353216">Cultural Artifact</text>
+		<text bitflag="321" id1="10" id2="889514" version="1065353216">Trophy</text>
+		<text bitflag="321" id1="11" id2="889514" version="1065353216">Underworld Good</text>
+		<text bitflag="321" id1="12" id2="889514" version="1065353216">Delicacies</text>
+		<text bitflag="321" id1="13" id2="889514" version="1065353216">Maintenance</text>
+	</file_content>
+</stb_file>

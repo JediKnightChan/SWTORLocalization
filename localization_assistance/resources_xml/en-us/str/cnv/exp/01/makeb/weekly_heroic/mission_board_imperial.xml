@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/weekly_heroic/mission_board_imperial.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1188811" id2="17" version="1065353216">MISSION ASSISTANCE--BY ORDER OF IMPERIAL COMMAND--MESSAGE READS:
+
+Renegade mercenaries have claimed a substantial Isotope-5 cache in the courtyard of Toborro's palace. Their primary defense is a massive droid powered by the substance; this particular model is substantially more dangerous than others our forces have encountered. 
+
+We will have that cache. Destroy the droid and clear the way for our retrieval teams.
+
+For the Empire.
+
+END MESSAGE
+
+[Operation: Toborro's Courtyard]
+Defeat Golden Fury (Any Difficulty Mode).
+
+[Recommended Gear]
+Story Mode: Item Rating 148
+Hard Mode: Item Rating 168</text>
+		<text bitflag="321" id1="1188814" id2="17" version="1065353216">D3-X9 has outlined the parameters for a high-priority mission in the Gravity Hook Four sector of Makeb. For additional details about the mission, D3-X9 may be contacted in-person. Otherwise, the mission may be initiated from this terminal for your convenience.
+ 
+This mission may require a small group. It may be completed once per week.</text>
+		<text bitflag="321" id1="1188815" id2="17" version="1065353216">GR-18 has outlined the parameters for a high-priority mission in the Gravity Hook Seven sector of Makeb. For additional details about the mission, GR-18 may be contacted in-person. Otherwise, the mission may be initiated from this terminal for your convenience.
+ 
+This mission may require a small group. It may be completed once per week.</text>
+		<text bitflag="321" id1="1188819" id2="17" version="1065353216">IMPERIAL MILITARY DISPATCH--AUTH: UNDER-MOFF BENSEN--MESSAGE READS:
+
+Former Regulators have obtained a prototype isotope-5 rocket from the remnants of the Archon's weapons stockpiles. 
+
+Steal the rocket from their long-range artillery depot located on the chain of bridged mesas known as &quot;the Fingers.&quot; Our science team will monitor the rocket as you launch it into a nearby mesa to assess its potential for Imperial use.
+
+END MESSAGE</text>
+		<text bitflag="321" id1="1188820" id2="17" version="1065353216">IMPERIAL MILITARY DISPATCH--AUTH: UNDER-MOFF BENSEN--MESSAGE READS:
+
+Refugees fleeing Pelratha Mesa, which collapsed due to the Empire's hastening of Makeb's destabilization, have crash-landed on Telemur Mesa. Their shuttle's flight recorder contains statistical data that could potentially expose our role here on the planet. 
+
+Retrieve the flight recorder and use its data to pin Pelratha's collapse on the Regulators.
+
+END MESSAGE</text>
+		<text bitflag="321" id1="1188821" id2="17" version="1065353216">IMPERIAL MILITARY DISPATCH--AUTH: UNDER-MOFF BENSEN--MESSAGE READS:
+
+An Imperial misinformation architect has crafted the components of a potent lie: that the destruction of Makeb has been long foretold by the planet's own scientists; and that the powers that be on the planet knew about, ignored and covered up any such evidence. 
+
+To sell this fiction, this data must be uploaded to the various computers within the planet's Cultural Archives in the Tarlam settlement.
+
+END MESSAGE</text>
+	</file_content>
+</stb_file>

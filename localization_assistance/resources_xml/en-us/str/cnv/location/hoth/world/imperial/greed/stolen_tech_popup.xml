@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/world/imperial/greed/stolen_tech_popup.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="670437" id2="17" version="1065353216">[In this droid, you find its neural chipset--the droid's brain--marked by Loramarr, the inventor Fixer 308 told you about.]</text>
+		<text bitflag="321" id1="670439" id2="17" version="1065353216">[This chipset is highly advanced. The Empire would be interested in it, but it could also be sold on the black market.]</text>
+		<text bitflag="321" id1="670441" id2="17" version="1065353216">[What would you like to do?]</text>
+		<text bitflag="1345" id1="670442" id2="17" version="1065353216">This belongs in Imperial hands.</text>
+		<text bitflag="1360" id1="670442" id2="17" version="1065353216">[Bring it to the Empire.]</text>
+		<text bitflag="1345" id1="670443" id2="17" version="1065353216">This should be worth my trouble.</text>
+		<text bitflag="1360" id1="670443" id2="17" version="1065353216">[Keep it to sell.]</text>
+	</file_content>
+</stb_file>

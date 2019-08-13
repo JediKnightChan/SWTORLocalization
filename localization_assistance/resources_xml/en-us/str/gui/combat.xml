@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>1196</strs>
+		<file_name>/resources/en-us/str/gui/combat.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; hit &lt;&lt;A:2&gt;&gt; for &lt;&lt;n:3[no/$d/$d]&gt;&gt; &lt;&lt;4&gt;&gt; damage.</text>
+		<text bitflag="321" id1="2" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; hit &lt;&lt;A:2&gt;&gt; with &lt;&lt;o2:3&gt;&gt; for &lt;&lt;n:4[no/$d/$d]&gt;&gt; &lt;&lt;5&gt;&gt; damage.</text>
+		<text bitflag="321" id1="6" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; hit &lt;&lt;r2:1&gt;&gt; for &lt;&lt;n:3[no/$d/$d]&gt;&gt; &lt;&lt;4&gt;&gt; damage.</text>
+		<text bitflag="321" id1="7" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; hit &lt;&lt;r2:1&gt;&gt; with &lt;&lt;o2:2&gt;&gt; for &lt;&lt;n:3[no/$d/$d]&gt;&gt; &lt;&lt;4&gt;&gt; damage.</text>
+		<text bitflag="321" id1="11" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; hit&lt;&lt;1[s/]&gt;&gt; &lt;&lt;p2:2&gt;&gt; for &lt;&lt;n:3[no/$d/$d]&gt;&gt; &lt;&lt;4&gt;&gt; damage.</text>
+		<text bitflag="321" id1="12" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; hit&lt;&lt;1[s/]&gt;&gt; &lt;&lt;p2:2&gt;&gt; with &lt;&lt;o:3,1&gt;&gt; for &lt;&lt;n:4[no/$d/$d]&gt;&gt; &lt;&lt;5&gt;&gt; damage.</text>
+		<text bitflag="321" id1="21" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; hit&lt;&lt;1[s/]&gt;&gt; &lt;&lt;A:2&gt;&gt; for &lt;&lt;n:3[no/$d/$d]&gt;&gt; &lt;&lt;4&gt;&gt; damage.</text>
+		<text bitflag="321" id1="22" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; hit&lt;&lt;1[s/]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;o:3,1&gt;&gt; for &lt;&lt;n:4[no/$d/$d]&gt;&gt; &lt;&lt;5&gt;&gt; damage.</text>
+		<text bitflag="321" id1="26" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; hit&lt;&lt;1[s/]&gt;&gt; &lt;&lt;r:1&gt;&gt; for &lt;&lt;n:3[no/$d/$d]&gt;&gt; &lt;&lt;4&gt;&gt; damage.</text>
+		<text bitflag="321" id1="27" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; hit&lt;&lt;1[s/]&gt;&gt; &lt;&lt;r:1&gt;&gt; with &lt;&lt;o:3,1&gt;&gt; for &lt;&lt;n:4[no/$d/$d]&gt;&gt; &lt;&lt;5&gt;&gt; damage.</text>
+		<text bitflag="321" id1="31" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; heal &lt;&lt;A:2&gt;&gt; for &lt;&lt;n:3[no points/$d point/$d points]&gt;&gt;.</text>
+		<text bitflag="321" id1="32" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; heal &lt;&lt;A:2&gt;&gt; for &lt;&lt;n:3[no points/$d point/$d points]&gt;&gt; with &lt;&lt;o2:4&gt;&gt;.</text>
+		<text bitflag="321" id1="36" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; heal &lt;&lt;n:3[no points/$d point/$d points]&gt;&gt;.</text>
+		<text bitflag="321" id1="37" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; heal &lt;&lt;n:4[no points/$d point/$d points]&gt;&gt; with &lt;&lt;o2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="41" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; heal&lt;&lt;1[s/]&gt;&gt; &lt;&lt;p2:2&gt;&gt; &lt;&lt;n:3[no points/$d point/$d points]&gt;&gt;.</text>
+		<text bitflag="321" id1="42" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; heal&lt;&lt;1[s/]&gt;&gt; &lt;&lt;p2:2&gt;&gt; &lt;&lt;n:3[no points/$d point/$d points]&gt;&gt; with &lt;&lt;o:4,1&gt;&gt;.</text>
+		<text bitflag="321" id1="51" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; heal&lt;&lt;1[s/]&gt;&gt; &lt;&lt;A:2&gt;&gt; &lt;&lt;n:3[no points/$d point/$d points]&gt;&gt;.</text>
+		<text bitflag="321" id1="52" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; heal&lt;&lt;1[s/]&gt;&gt; &lt;&lt;A:2&gt;&gt; &lt;&lt;n:3[no points/$d point/$d points]&gt;&gt; with &lt;&lt;o:4,1&gt;&gt;.</text>
+		<text bitflag="321" id1="56" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; heal&lt;&lt;1[s/]&gt;&gt; &lt;&lt;r:2&gt;&gt; &lt;&lt;n:3[no points/$d point/$d points]&gt;&gt;.</text>
+		<text bitflag="321" id1="57" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; heal&lt;&lt;1[s/]&gt;&gt; &lt;&lt;r:2&gt;&gt; &lt;&lt;n:3[no points/$d point/$d points]&gt;&gt; with &lt;&lt;o:4,1&gt;&gt;.</text>
+		<text bitflag="321" id1="61" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; miss &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="62" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; miss &lt;&lt;A:2&gt;&gt; with &lt;&lt;o2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="66" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; miss &lt;&lt;r2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="67" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; miss &lt;&lt;r2:1&gt;&gt; with &lt;&lt;o2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="71" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; miss&lt;&lt;1[es/]&gt;&gt; &lt;&lt;p2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="72" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; miss&lt;&lt;1[es/]&gt;&gt; &lt;&lt;p2:2&gt;&gt; with &lt;&lt;o:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="81" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; miss&lt;&lt;1[es/]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="82" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; miss&lt;&lt;1[es/]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;o:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="86" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; miss&lt;&lt;1[es/]&gt;&gt; &lt;&lt;r:1&gt;&gt;.</text>
+		<text bitflag="321" id1="87" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; miss&lt;&lt;1[es/]&gt;&gt; &lt;&lt;r:1&gt;&gt; with &lt;&lt;o:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="91" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[parries/parry]&gt;&gt; &lt;&lt;p2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="92" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[parries/parry]&gt;&gt; &lt;&lt;o2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="96" id2="194657" version="1065353216">&lt;&lt;Cp2:2&gt;&gt; parry &lt;&lt;r2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="97" id2="194657" version="1065353216">&lt;&lt;Cp2:2&gt;&gt; parry &lt;&lt;o2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="101" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; parry &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="102" id2="194657" version="1065353216">&lt;&lt;Cp2:2&gt;&gt; parry &lt;&lt;AG:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="111" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[parries/parry]&gt;&gt; &lt;&lt;A:1&gt;&gt;.</text>
+		<text bitflag="321" id1="112" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[parries/parry]&gt;&gt; &lt;&lt;AG:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="116" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[parries/parry]&gt;&gt; &lt;&lt;r:1&gt;&gt;.</text>
+		<text bitflag="321" id1="117" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[parries/parry]&gt;&gt; &lt;&lt;o:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="121" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[resists/resist]&gt;&gt; &lt;&lt;p2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="122" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[resists/resist]&gt;&gt; &lt;&lt;o2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="126" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; resist &lt;&lt;r1&gt;&gt;.</text>
+		<text bitflag="321" id1="127" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; resist &lt;&lt;o2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="131" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; resist &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="132" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; resist &lt;&lt;AG:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="141" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[resists/resist]&gt;&gt; &lt;&lt;A:1&gt;&gt;.</text>
+		<text bitflag="321" id1="142" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[resists/resist]&gt;&gt; &lt;&lt;AG:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="146" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;r:1&gt;&gt;.</text>
+		<text bitflag="321" id1="147" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;o:3,3&gt;&gt;.</text>
+		<text bitflag="321" id1="151" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[is/are]&gt;&gt; immune to &lt;&lt;p2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="152" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[is/are]&gt;&gt; immune to &lt;&lt;o2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="156" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; are immune to &lt;&lt;r1&gt;&gt;.</text>
+		<text bitflag="321" id1="157" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; are immune to &lt;&lt;o2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="161" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; are immune to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="162" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; are immune to &lt;&lt;AG:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="171" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[is/are]&gt;&gt; immune to &lt;&lt;A:1&gt;&gt;.</text>
+		<text bitflag="321" id1="172" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[is/are]&gt;&gt; immune to &lt;&lt;AG:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="176" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;r:1&gt;&gt;.</text>
+		<text bitflag="321" id1="177" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;o:3,3&gt;&gt;.</text>
+		<text bitflag="321" id1="180" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; die.</text>
+		<text bitflag="321" id1="185" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; become &lt;&lt;2[unstunned/alive/stunned]&gt;&gt;.</text>
+		<text bitflag="321" id1="190" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; die&lt;&lt;1[s/]&gt;&gt;.</text>
+		<text bitflag="321" id1="195" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; become&lt;&lt;1[s/]&gt;&gt; &lt;&lt;2[unstunned/alive/stunned]&gt;&gt;.</text>
+		<text bitflag="321" id1="200" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; have defeated &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="210" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; defeated &lt;&lt;p2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="220" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; defeated &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="230" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;3[unstun/revive/stun]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="240" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;3[unstun/revive/stun]&gt;&gt;&lt;&lt;1[s/]&gt;&gt; &lt;&lt;p2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="250" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;3[unstun/revive/stun]&gt;&gt;&lt;&lt;1[s/]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="260" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; lose &lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="270" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; lose&lt;&lt;1[s/]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="280" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; regenerate &lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="290" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; regenerate&lt;&lt;1[s/]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="300" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; spend &lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="310" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; spend&lt;&lt;1[s/]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="320" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; restore &lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="330" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; restore&lt;&lt;1[s/]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="340" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; gain &lt;&lt;2&gt;&gt; experience.</text>
+		<text bitflag="321" id1="350" id2="194657" version="1065353216">=====&lt;&lt;Cp2:1&gt;&gt; enter combat=====</text>
+		<text bitflag="321" id1="355" id2="194657" version="1065353216">=====&lt;&lt;Cp2:1&gt;&gt; exit combat=====</text>
+		<text bitflag="321" id1="360" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; have reached level &lt;&lt;2&gt;&gt;!</text>
+		<text bitflag="321" id1="370" id2="194657" version="1065353216">&lt;&lt;1&gt;&gt; has reached level &lt;&lt;2&gt;&gt;!</text>
+		<text bitflag="321" id1="372" id2="194657" version="1065353216">%A %v %o.</text>
+		<text bitflag="321" id1="374" id2="194657" version="1065353216">%A %v %B.</text>
+		<text bitflag="321" id1="375" id2="194657" version="1065353216">%A %v %o &lt;&lt;4[on/to]&gt;&gt; %B.</text>
+		<text bitflag="321" id1="376" id2="194657" version="1065353216">%A %v %B with %o.</text>
+		<text bitflag="321" id1="378" id2="194657" version="1065353216">%A &lt;&lt;1[falls and loses/fall and lose]&gt;&gt; &lt;&lt;2[no/$d/$d]&gt;&gt; health.</text>
+		<text bitflag="321" id1="380" id2="194657" version="1065353216">%A taunt&lt;&lt;1[s/]&gt;&gt; %B (&lt;&lt;3&gt;&gt; threat).</text>
+		<text bitflag="321" id1="382" id2="194657" version="1065353216">%A &lt;&lt;1[modifies/modify]&gt;&gt; threat toward %B by &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="384" id2="194657" version="1065353216">%A %v to %o.</text>
+		<text bitflag="321" id1="386" id2="194657" version="1065353216">%A %v %p.</text>
+		<text bitflag="321" id1="388" id2="194657" version="1065353216">%P %v %B.</text>
+		<text bitflag="321" id1="400" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[dodges/dodge]&gt;&gt; &lt;&lt;p2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="401" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[dodges/dodge]&gt;&gt; &lt;&lt;o2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="405" id2="194657" version="1065353216">&lt;&lt;Cp2:2&gt;&gt; dodge &lt;&lt;r2:1&gt;&gt;.</text>
+		<text bitflag="321" id1="406" id2="194657" version="1065353216">&lt;&lt;Cp2:2&gt;&gt; dodge &lt;&lt;o2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="410" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; dodge &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="411" id2="194657" version="1065353216">&lt;&lt;Cp2:2&gt;&gt; dodge &lt;&lt;AG:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="420" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[dodges/dodge]&gt;&gt; &lt;&lt;A:1&gt;&gt;.</text>
+		<text bitflag="321" id1="421" id2="194657" version="1065353216">&lt;&lt;CA:2&gt;&gt; &lt;&lt;2[dodges/dodge]&gt;&gt; &lt;&lt;AG:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="425" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dodges/dodge]&gt;&gt; &lt;&lt;r:1&gt;&gt;.</text>
+		<text bitflag="321" id1="426" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dodges/dodge]&gt;&gt; &lt;&lt;o:3,1&gt;&gt;.</text>
+		<text bitflag="321" id1="1024" id2="194657" version="1065353216">focus point</text>
+		<text bitflag="321" id1="1025" id2="194657" version="1065353216">rage point</text>
+		<text bitflag="321" id1="1026" id2="194657" version="1065353216">ammo unit</text>
+		<text bitflag="321" id1="1027" id2="194657" version="1065353216">heat</text>
+		<text bitflag="321" id1="1028" id2="194657" version="1065353216">action point</text>
+		<text bitflag="321" id1="1029" id2="194657" version="1065353216">health</text>
+		<text bitflag="321" id1="1030" id2="194657" version="1065353216">Force</text>
+		<text bitflag="321" id1="1031" id2="194657" version="1065353216">energy</text>
+		<text bitflag="321" id1="1032" id2="194657" version="1065353216">health point</text>
+		<text bitflag="321" id1="2048" id2="194657" version="1065353216">&lt;&lt;1[resists/resist]&gt;&gt;</text>
+		<text bitflag="321" id1="2049" id2="194657" version="1065353216">&lt;&lt;1[is/are]&gt;&gt; immune to</text>
+		<text bitflag="321" id1="2050" id2="194657" version="1065353216">&lt;&lt;1[evades/evade]&gt;&gt;</text>
+		<text bitflag="321" id1="2051" id2="194657" version="1065353216">&lt;&lt;1[activates/activate]&gt;&gt;</text>
+		<text bitflag="321" id1="2052" id2="194657" version="1065353216">&lt;&lt;1[fails/fail]&gt;&gt; to activate</text>
+		<text bitflag="321" id1="2053" id2="194657" version="1065353216">&lt;&lt;1[begins/begin]&gt;&gt; casting</text>
+		<text bitflag="321" id1="2054" id2="194657" version="1065353216">&lt;&lt;1[cancels/cancel]&gt;&gt; casting</text>
+		<text bitflag="321" id1="2055" id2="194657" version="1065353216">&lt;&lt;1[deactivates/deactivate]&gt;&gt;</text>
+		<text bitflag="321" id1="2056" id2="194657" version="1065353216">&lt;&lt;1[fails/fail]&gt;&gt; to cast</text>
+		<text bitflag="321" id1="2057" id2="194657" version="1065353216">&lt;&lt;1[is/are]&gt;&gt; interrupted while casting</text>
+		<text bitflag="321" id1="2058" id2="194657" version="1065353216">&lt;&lt;1[toggles/toggle]&gt;&gt; off</text>
+		<text bitflag="321" id1="2059" id2="194657" version="1065353216">&lt;&lt;1[toggles/toggle]&gt;&gt; on</text>
+		<text bitflag="321" id1="2060" id2="194657" version="1065353216">&lt;&lt;1[invokes/invoke]&gt;&gt;</text>
+		<text bitflag="321" id1="2061" id2="194657" version="1065353216">&lt;&lt;1[applies/apply]&gt;&gt;</text>
+		<text bitflag="321" id1="2062" id2="194657" version="1065353216">&lt;&lt;1[afflicts/afflict]&gt;&gt;</text>
+		<text bitflag="321" id1="2064" id2="194657" version="1065353216">&lt;&lt;1[loots/loot]&gt;&gt;</text>
+		<text bitflag="321" id1="2066" id2="194657" version="1065353216">&lt;&lt;1[draws/draw]&gt;&gt;</text>
+		<text bitflag="321" id1="2067" id2="194657" version="1065353216">&lt;&lt;1[stops/stop]&gt;&gt; looting</text>
+		<text bitflag="321" id1="2068" id2="194657" version="1065353216">&lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat</text>
+		<text bitflag="321" id1="2069" id2="194657" version="1065353216">&lt;&lt;1[stands/stand]&gt;&gt; at ease</text>
+		<text bitflag="321" id1="2070" id2="194657" version="1065353216">&lt;&lt;1[has/have]&gt;&gt; been immobilized</text>
+		<text bitflag="321" id1="2071" id2="194657" version="1065353216">&lt;&lt;1[insta-kills/insta-kill]&gt;&gt;</text>
+		<text bitflag="321" id1="2072" id2="194657" version="1065353216">&lt;&lt;1[leaves/leave]&gt;&gt; cover</text>
+		<text bitflag="321" id1="2073" id2="194657" version="1065353216">&lt;&lt;1[has/have]&gt;&gt; been neutralized</text>
+		<text bitflag="321" id1="2074" id2="194657" version="1065353216">&lt;&lt;1[modifies/modify]&gt;&gt; threat toward</text>
+		<text bitflag="321" id1="2076" id2="194657" version="1065353216">&lt;&lt;1[stops/stop]&gt;&gt; auto-attacking</text>
+		<text bitflag="321" id1="2077" id2="194657" version="1065353216">&lt;&lt;1[starts/start]&gt;&gt; auto-attacking</text>
+		<text bitflag="321" id1="2078" id2="194657" version="1065353216">&lt;&lt;1[stows/stow]&gt;&gt;</text>
+		<text bitflag="321" id1="2079" id2="194657" version="1065353216">&lt;&lt;1[summons/summon]&gt;&gt;</text>
+		<text bitflag="321" id1="2080" id2="194657" version="1065353216">&lt;&lt;1[switches/switch]&gt;&gt; to a new cover location</text>
+		<text bitflag="321" id1="2081" id2="194657" version="1065353216">&lt;&lt;1[takes/take]&gt;&gt; cover</text>
+		<text bitflag="321" id1="2082" id2="194657" version="1065353216">&lt;&lt;1[switches/switch]&gt;&gt; stance to</text>
+		<text bitflag="321" id1="2083" id2="194657" version="1065353216">&lt;&lt;1[switches/switch]&gt;&gt; weapon mode to</text>
+		<text bitflag="321" id1="2084" id2="194657" version="1065353216">&lt;&lt;1[is/are]&gt;&gt; teleported to</text>
+		<text bitflag="321" id1="2085" id2="194657" version="1065353216">&lt;&lt;1[teleports/teleport]&gt;&gt; to</text>
+		<text bitflag="321" id1="2086" id2="194657" version="1065353216">&lt;&lt;1[is/are]&gt;&gt; using a broken weapon</text>
+		<text bitflag="321" id1="2087" id2="194657" version="1065353216">&lt;&lt;1[fades/fade]&gt;&gt; from</text>
+		<text bitflag="321" id1="2088" id2="194657" version="1065353216">&lt;&lt;1[is/are]&gt;&gt; no longer immobilized</text>
+		<text bitflag="321" id1="2089" id2="194657" version="1065353216">&lt;&lt;1[is/are]&gt;&gt; no longer neutralized</text>
+		<text bitflag="321" id1="2090" id2="194657" version="1065353216">&lt;&lt;1[dismisses/dismiss]&gt;&gt;</text>
+		<text bitflag="321" id1="3300" id2="194657" version="1065353216">weapon</text>
+		<text bitflag="321" id1="3301" id2="194657" version="1065353216">normal</text>
+		<text bitflag="321" id1="3302" id2="194657" version="1065353216">ready</text>
+		<text bitflag="321" id1="3303" id2="194657" version="1065353216">combat</text>
+		<text bitflag="321" id1="3304" id2="194657" version="1065353216">unarmed</text>
+		<text bitflag="321" id1="3305" id2="194657" version="1065353216">melee</text>
+		<text bitflag="321" id1="3306" id2="194657" version="1065353216">ranged</text>
+		<text bitflag="321" id1="3401" id2="194657" version="1065353216">kinetic</text>
+		<text bitflag="321" id1="3402" id2="194657" version="1065353216">energy</text>
+		<text bitflag="321" id1="3403" id2="194657" version="1065353216">elemental</text>
+		<text bitflag="321" id1="3404" id2="194657" version="1065353216">internal</text>
+		<text bitflag="321" id1="3405" id2="194657" version="1065353216">You have no current target to follow.</text>
+		<text bitflag="321" id1="5000" id2="194657" version="1065353216">&lt;&lt;1&gt;&gt;(&lt;&lt;2&gt;&gt;) &lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="5001" id2="194657" version="1065353216">&lt;&lt;1&gt;&gt;&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6000" id2="194657" version="1065353216">Defeated by &lt;&lt;1&gt;&gt;'s Companion with &lt;&lt;2&gt;&gt; (&lt;&lt;3&gt;&gt; damage)</text>
+		<text bitflag="321" id1="6001" id2="194657" version="1065353216">&lt;&lt;1&gt;&gt; defeated by &lt;&lt;2&gt;&gt;'s Companion with &lt;&lt;3&gt;&gt; (&lt;&lt;4&gt;&gt; damage)</text>
+		<text bitflag="321" id1="6002" id2="194657" version="1065353216">Defeated by &lt;&lt;1&gt;&gt; with &lt;&lt;2&gt;&gt; (&lt;&lt;3&gt;&gt; damage)</text>
+		<text bitflag="321" id1="6003" id2="194657" version="1065353216">&lt;&lt;1&gt;&gt; defeated by &lt;&lt;2&gt;&gt; with &lt;&lt;3&gt;&gt; (&lt;&lt;4&gt;&gt; damage)</text>
+		<text bitflag="321" id1="6004" id2="194657" version="1065353216">Defeated &lt;&lt;1&gt;&gt;'s Companion with &lt;&lt;2&gt;&gt; (&lt;&lt;3&gt;&gt; damage)</text>
+		<text bitflag="321" id1="6005" id2="194657" version="1065353216">&lt;&lt;1&gt;&gt; defeated &lt;&lt;2&gt;&gt;'s Companion with &lt;&lt;3&gt;&gt; (&lt;&lt;4&gt;&gt; damage)</text>
+		<text bitflag="321" id1="6006" id2="194657" version="1065353216">Defeated &lt;&lt;1&gt;&gt; with &lt;&lt;2&gt;&gt; (&lt;&lt;3&gt;&gt; damage)</text>
+		<text bitflag="321" id1="6007" id2="194657" version="1065353216">&lt;&lt;1&gt;&gt; defeated &lt;&lt;2&gt;&gt; with &lt;&lt;3&gt;&gt; (&lt;&lt;4&gt;&gt; damage)</text>
+		<text bitflag="321" id1="8000" id2="194657" version="1065353216">Event</text>
+		<text bitflag="321" id1="8001" id2="194657" version="1065353216">Spend</text>
+		<text bitflag="321" id1="8002" id2="194657" version="1065353216">Regenerate</text>
+		<text bitflag="321" id1="8003" id2="194657" version="1065353216">Decay</text>
+		<text bitflag="321" id1="8004" id2="194657" version="1065353216">Restore</text>
+		<text bitflag="321" id1="8005" id2="194657" version="1065353216">ApplyEffect</text>
+		<text bitflag="321" id1="8006" id2="194657" version="1065353216">RemoveEffect</text>
+		<text bitflag="321" id1="8007" id2="194657" version="1065353216">AbilityActivate</text>
+		<text bitflag="321" id1="8008" id2="194657" version="1065353216">AbilityDeactivate</text>
+		<text bitflag="321" id1="8009" id2="194657" version="1065353216">AbilityCancel</text>
+		<text bitflag="321" id1="8010" id2="194657" version="1065353216">AbilityInterrupt</text>
+		<text bitflag="321" id1="8011" id2="194657" version="1065353216">ModifyThreat</text>
+		<text bitflag="321" id1="8012" id2="194657" version="1065353216">FallingDamage</text>
+		<text bitflag="321" id1="8013" id2="194657" version="1065353216">EnterCover</text>
+		<text bitflag="321" id1="8014" id2="194657" version="1065353216">LeaveCover</text>
+		<text bitflag="321" id1="8015" id2="194657" version="1065353216">Crouch</text>
+		<text bitflag="321" id1="8016" id2="194657" version="1065353216">Taunt</text>
+		<text bitflag="321" id1="8017" id2="194657" version="1065353216">EnterCombat</text>
+		<text bitflag="321" id1="8018" id2="194657" version="1065353216">ExitCombat</text>
+		<text bitflag="321" id1="8019" id2="194657" version="1065353216">GainXp</text>
+		<text bitflag="321" id1="8020" id2="194657" version="1065353216">SetLevel</text>
+		<text bitflag="321" id1="8021" id2="194657" version="1065353216">Death</text>
+		<text bitflag="321" id1="8022" id2="194657" version="1065353216">Revived</text>
+		<text bitflag="321" id1="8023" id2="194657" version="1065353216">Stunned</text>
+		<text bitflag="321" id1="8024" id2="194657" version="1065353216">Unstunned</text>
+		<text bitflag="321" id1="8025" id2="194657" version="1065353216">BecomeSuspicious</text>
+		<text bitflag="321" id1="8026" id2="194657" version="1065353216">NoLongerSuspicious</text>
+		<text bitflag="321" id1="8027" id2="194657" version="1065353216">FailedEffect</text>
+		<text bitflag="321" id1="8028" id2="194657" version="1065353216">Heal</text>
+		<text bitflag="321" id1="8029" id2="194657" version="1065353216">Damage</text>
+		<text bitflag="321" id1="8030" id2="194657" version="1065353216">miss</text>
+		<text bitflag="321" id1="8031" id2="194657" version="1065353216">parry</text>
+		<text bitflag="321" id1="8032" id2="194657" version="1065353216">evade</text>
+		<text bitflag="321" id1="8033" id2="194657" version="1065353216">dodge</text>
+		<text bitflag="321" id1="8034" id2="194657" version="1065353216">immune</text>
+		<text bitflag="321" id1="8035" id2="194657" version="1065353216">resist</text>
+		<text bitflag="321" id1="8036" id2="194657" version="1065353216">deflect</text>
+		<text bitflag="321" id1="8037" id2="194657" version="1065353216">shield</text>
+		<text bitflag="321" id1="8038" id2="194657" version="1065353216">cover</text>
+		<text bitflag="321" id1="8039" id2="194657" version="1065353216">absorbed</text>
+		<text bitflag="321" id1="8040" id2="194657" version="1065353216">negated</text>
+		<text bitflag="321" id1="10000" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[falls and loses/fall and lose]&gt;&gt; &lt;&lt;2[no/$d/$d]&gt;&gt; health.</text>
+		<text bitflag="321" id1="10001" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[falls and loses/fall and lose]&gt;&gt; &lt;&lt;2[no/$d/$d]&gt;&gt; health.</text>
+		<text bitflag="321" id1="10002" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; taunt&lt;&lt;1[s/]&gt;&gt; &lt;&lt;r2:2&gt;&gt; (&lt;&lt;3&gt;&gt; threat).</text>
+		<text bitflag="321" id1="10003" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; taunt&lt;&lt;1[s/]&gt;&gt; &lt;&lt;A:2&gt;&gt; (&lt;&lt;3&gt;&gt; threat).</text>
+		<text bitflag="321" id1="10004" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; taunt&lt;&lt;1[s/]&gt;&gt; &lt;&lt;P2:2&gt;&gt; (&lt;&lt;3&gt;&gt; threat).</text>
+		<text bitflag="321" id1="10005" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; taunt&lt;&lt;1[s/]&gt;&gt; &lt;&lt;r:2&gt;&gt; (&lt;&lt;3&gt;&gt; threat).</text>
+		<text bitflag="321" id1="10006" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;r2:2&gt;&gt; by &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10007" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;A:2&gt;&gt; by &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10008" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;P2:2&gt;&gt; by &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10009" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;r:2&gt;&gt; by &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10100" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt;.</text>
+		<text bitflag="321" id1="10101" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt;.</text>
+		<text bitflag="321" id1="10102" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10103" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10104" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10105" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10106" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10107" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10108" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;3[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10109" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;3[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10110" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;3[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10111" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;3[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10112" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10113" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10114" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10115" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10116" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10117" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10118" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10119" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10120" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10121" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10122" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10123" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[resists/resist]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10125" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to.</text>
+		<text bitflag="321" id1="10126" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to.</text>
+		<text bitflag="321" id1="10127" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10128" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10129" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10130" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10131" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10132" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10133" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10134" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10135" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10136" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10137" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10138" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10139" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10140" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10141" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10142" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10143" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10144" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10145" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10146" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10147" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10148" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; immune to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10150" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt;.</text>
+		<text bitflag="321" id1="10151" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt;.</text>
+		<text bitflag="321" id1="10152" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10153" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10154" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10155" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10156" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10157" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10158" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10159" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10160" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10161" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10162" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10163" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10164" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10165" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10166" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10167" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10168" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10169" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10170" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10171" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10172" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10173" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[evades/evade]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10175" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt;.</text>
+		<text bitflag="321" id1="10176" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt;.</text>
+		<text bitflag="321" id1="10177" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10178" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10179" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10180" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10181" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10182" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10183" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10184" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10185" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10186" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10187" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10188" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10189" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10190" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10191" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10192" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10193" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10194" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10195" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10196" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10197" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10198" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[activates/activate]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10200" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate.</text>
+		<text bitflag="321" id1="10201" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate.</text>
+		<text bitflag="321" id1="10202" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10203" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10204" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10205" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10206" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10207" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10208" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10209" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10210" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10211" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10212" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10213" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10214" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10215" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10216" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10217" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10218" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10219" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10220" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10221" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10222" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10223" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to activate &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10225" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting.</text>
+		<text bitflag="321" id1="10226" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting.</text>
+		<text bitflag="321" id1="10227" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10228" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10229" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10230" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10231" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10232" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10233" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10234" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10235" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10236" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10237" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10238" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10239" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10240" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10241" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10242" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10243" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10244" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10245" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10246" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10247" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10248" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[begins/begin]&gt;&gt; casting &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10250" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting.</text>
+		<text bitflag="321" id1="10251" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting.</text>
+		<text bitflag="321" id1="10252" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10253" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10254" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10255" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10256" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10257" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10258" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10259" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10260" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10261" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10262" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10263" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10264" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10265" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10266" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10267" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10268" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10269" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10270" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10271" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10272" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10273" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[cancels/cancel]&gt;&gt; casting &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10275" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt;.</text>
+		<text bitflag="321" id1="10276" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt;.</text>
+		<text bitflag="321" id1="10277" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10278" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10279" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10280" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10281" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10282" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10283" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10284" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10285" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10286" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10287" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10288" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10289" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10290" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10291" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10292" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10293" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10294" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10295" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10296" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10297" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10298" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[deactivates/deactivate]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10300" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast.</text>
+		<text bitflag="321" id1="10301" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast.</text>
+		<text bitflag="321" id1="10302" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10303" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10304" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10305" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10306" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10307" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10308" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10309" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10310" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10311" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10312" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10313" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10314" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10315" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10316" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10317" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10318" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10319" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10320" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10321" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10322" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10323" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[fails/fail]&gt;&gt; to cast &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10325" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting.</text>
+		<text bitflag="321" id1="10326" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting.</text>
+		<text bitflag="321" id1="10327" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10328" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10329" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10330" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10331" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10332" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10333" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10334" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10335" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10336" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10337" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10338" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10339" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10340" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10341" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10342" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10343" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10344" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10345" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10346" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10347" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10348" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; interrupted while casting &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10350" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off.</text>
+		<text bitflag="321" id1="10351" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off.</text>
+		<text bitflag="321" id1="10352" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10353" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10354" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10355" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10356" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10357" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10358" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10359" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10360" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10361" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10362" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10363" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10364" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10365" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10366" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10367" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10368" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10369" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10370" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10371" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10372" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10373" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; off &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10375" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on.</text>
+		<text bitflag="321" id1="10376" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on.</text>
+		<text bitflag="321" id1="10377" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10378" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10379" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10380" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10381" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10382" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10383" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10384" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10385" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10386" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10387" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10388" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10389" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10390" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10391" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10392" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10393" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10394" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10395" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10396" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10397" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10398" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[toggles/toggle]&gt;&gt; on &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10400" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt;.</text>
+		<text bitflag="321" id1="10401" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt;.</text>
+		<text bitflag="321" id1="10402" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10403" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10404" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10405" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10406" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10407" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10408" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10409" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10410" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10411" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10412" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10413" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10414" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10415" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10416" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10417" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10418" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10419" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10420" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10421" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10422" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10423" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[invokes/invoke]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10425" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt;.</text>
+		<text bitflag="321" id1="10426" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt;.</text>
+		<text bitflag="321" id1="10427" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10428" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10429" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10430" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10431" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10432" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10433" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10434" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10435" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10436" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10437" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10438" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10439" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10440" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10441" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10442" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10443" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10444" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10445" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10446" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10447" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10448" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[applies/apply]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10450" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt;.</text>
+		<text bitflag="321" id1="10451" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt;.</text>
+		<text bitflag="321" id1="10452" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10453" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10454" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10455" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10456" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10457" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10458" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10459" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10460" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10461" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10462" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10463" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10464" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10465" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10466" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10467" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10468" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10469" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10470" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10471" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10472" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10473" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[afflicts/afflict]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10500" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt;.</text>
+		<text bitflag="321" id1="10501" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt;.</text>
+		<text bitflag="321" id1="10502" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10503" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10504" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10505" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10506" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10507" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10508" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10509" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10510" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10511" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10512" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10513" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10514" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10515" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10516" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10517" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10518" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10519" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10520" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10521" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10522" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10523" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[loots/loot]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10550" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt;.</text>
+		<text bitflag="321" id1="10551" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt;.</text>
+		<text bitflag="321" id1="10552" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10553" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10554" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10555" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10556" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10557" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10558" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10559" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10560" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10561" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10562" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10563" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10564" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10565" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10566" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10567" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10568" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10569" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10570" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10571" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10572" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10573" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[draws/draw]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10575" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting.</text>
+		<text bitflag="321" id1="10576" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting.</text>
+		<text bitflag="321" id1="10577" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10578" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10579" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10580" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10581" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10582" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10583" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10584" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10585" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10586" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10587" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10588" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10589" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10590" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10591" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10592" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10593" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10594" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10595" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10596" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10597" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10598" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; looting &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10600" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat.</text>
+		<text bitflag="321" id1="10601" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat.</text>
+		<text bitflag="321" id1="10602" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10603" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10604" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10605" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10606" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10607" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10608" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10609" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10610" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10611" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10612" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10613" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10614" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10615" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10616" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10617" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10618" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10619" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10620" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10621" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10622" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10623" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[becomes/become]&gt;&gt; alerted to a nearby threat &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10625" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease.</text>
+		<text bitflag="321" id1="10626" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease.</text>
+		<text bitflag="321" id1="10627" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10628" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10629" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10630" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10631" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10632" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10633" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10634" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10635" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10636" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10637" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10638" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10639" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10640" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10641" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10642" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10643" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10644" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10645" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10646" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10647" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10648" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[stands/stand]&gt;&gt; at ease &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10650" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized.</text>
+		<text bitflag="321" id1="10651" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized.</text>
+		<text bitflag="321" id1="10652" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10653" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10654" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10655" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10656" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10657" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10658" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10659" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10660" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10661" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10662" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10663" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10664" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10665" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10666" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10667" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10668" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10669" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10670" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10671" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10672" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10673" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been immobilized &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10675" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt;.</text>
+		<text bitflag="321" id1="10676" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt;.</text>
+		<text bitflag="321" id1="10677" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10678" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10679" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10680" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10681" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10682" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10683" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10684" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10685" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10686" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10687" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10688" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10689" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10690" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10691" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10692" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10693" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10694" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10695" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10696" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10697" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10698" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[insta-kills/insta-kill]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10700" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover.</text>
+		<text bitflag="321" id1="10701" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover.</text>
+		<text bitflag="321" id1="10702" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10703" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10704" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10705" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10706" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10707" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10708" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10709" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10710" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10711" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10712" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10713" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10714" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10715" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10716" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10717" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10718" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10719" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10720" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10721" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10722" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10723" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[leaves/leave]&gt;&gt; cover &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10725" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized.</text>
+		<text bitflag="321" id1="10726" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized.</text>
+		<text bitflag="321" id1="10727" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10728" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10729" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10730" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10731" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10732" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10733" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10734" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10735" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10736" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10737" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10738" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10739" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10740" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10741" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10742" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10743" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10744" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10745" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10746" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10747" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10748" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[has/have]&gt;&gt; been neutralized &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10750" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward.</text>
+		<text bitflag="321" id1="10751" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward.</text>
+		<text bitflag="321" id1="10752" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10753" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10754" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10755" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10756" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10757" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10758" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10759" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10760" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10761" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10762" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10763" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10764" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10765" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10766" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10767" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10768" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10769" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10770" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10771" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10772" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10773" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[modifies/modify]&gt;&gt; threat toward &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10800" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking.</text>
+		<text bitflag="321" id1="10801" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking.</text>
+		<text bitflag="321" id1="10802" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10803" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10804" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10805" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10806" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10807" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10808" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10809" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10810" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10811" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10812" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10813" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10814" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10815" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10816" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10817" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10818" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10819" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10820" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10821" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10822" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10823" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[stops/stop]&gt;&gt; auto-attacking &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10825" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking.</text>
+		<text bitflag="321" id1="10826" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking.</text>
+		<text bitflag="321" id1="10827" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10828" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10829" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10830" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10831" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10832" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10833" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10834" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10835" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10836" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10837" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10838" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10839" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10840" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10841" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10842" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10843" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10844" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10845" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10846" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10847" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10848" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[starts/start]&gt;&gt; auto-attacking &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10850" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt;.</text>
+		<text bitflag="321" id1="10851" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt;.</text>
+		<text bitflag="321" id1="10852" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10853" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10854" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10855" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10856" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10857" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10858" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10859" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10860" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10861" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10862" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10863" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10864" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10865" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10866" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10867" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10868" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10869" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10870" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10871" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10872" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10873" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[stows/stow]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10875" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt;.</text>
+		<text bitflag="321" id1="10876" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt;.</text>
+		<text bitflag="321" id1="10877" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10878" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10879" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10880" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10881" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10882" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10883" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10884" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10885" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10886" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10887" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10888" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10889" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10890" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10891" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10892" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10893" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10894" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10895" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10896" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10897" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10898" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[summons/summon]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10900" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location.</text>
+		<text bitflag="321" id1="10901" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location.</text>
+		<text bitflag="321" id1="10902" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10903" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10904" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10905" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10906" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10907" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10908" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10909" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10910" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10911" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10912" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10913" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10914" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10915" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10916" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10917" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10918" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10919" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10920" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10921" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10922" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10923" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; to a new cover location &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10925" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover.</text>
+		<text bitflag="321" id1="10926" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover.</text>
+		<text bitflag="321" id1="10927" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10928" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10929" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10930" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10931" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10932" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10933" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10934" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10935" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10936" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10937" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10938" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10939" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10940" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10941" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10942" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10943" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10944" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10945" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10946" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10947" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10948" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[takes/take]&gt;&gt; cover &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10950" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to.</text>
+		<text bitflag="321" id1="10951" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to.</text>
+		<text bitflag="321" id1="10952" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10953" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10954" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10955" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10956" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10957" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10958" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10959" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10960" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10961" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10962" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10963" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10964" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10965" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10966" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10967" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10968" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10969" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10970" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10971" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10972" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10973" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; stance to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10975" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to.</text>
+		<text bitflag="321" id1="10976" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to.</text>
+		<text bitflag="321" id1="10977" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10978" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10979" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10980" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10981" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10982" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10983" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10984" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10985" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10986" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="10987" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10988" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10989" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10990" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10991" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10992" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="10993" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10994" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="10995" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10996" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10997" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="10998" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[switches/switch]&gt;&gt; weapon mode to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11000" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to.</text>
+		<text bitflag="321" id1="11001" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to.</text>
+		<text bitflag="321" id1="11002" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11003" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11004" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11005" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11006" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11007" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11008" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11009" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11010" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11011" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11012" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11013" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11014" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11015" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11016" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11017" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11018" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11019" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="11020" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11021" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11022" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11023" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; teleported to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11025" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to.</text>
+		<text bitflag="321" id1="11026" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to.</text>
+		<text bitflag="321" id1="11027" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11028" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11029" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11030" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11031" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11032" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11033" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11034" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11035" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11036" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11037" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11038" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11039" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11040" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11041" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11042" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11043" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11044" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="11045" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11046" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11047" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11048" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[teleports/teleport]&gt;&gt; to &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11050" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon.</text>
+		<text bitflag="321" id1="11051" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon.</text>
+		<text bitflag="321" id1="11052" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11053" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11054" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11055" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11056" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11057" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11058" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11059" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11060" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11061" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11062" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11063" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11064" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11065" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11066" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11067" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11068" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11069" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="11070" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11071" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11072" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11073" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; using a broken weapon &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11075" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from.</text>
+		<text bitflag="321" id1="11076" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from.</text>
+		<text bitflag="321" id1="11077" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11078" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11079" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11080" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11081" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11082" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11083" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11084" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11085" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11086" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11087" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11088" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11089" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11090" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11091" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11092" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11093" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11094" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="11095" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11096" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11097" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11098" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[fades/fade]&gt;&gt; from &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11100" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized.</text>
+		<text bitflag="321" id1="11101" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized.</text>
+		<text bitflag="321" id1="11102" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11103" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11104" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11105" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11106" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11107" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11108" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11109" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11110" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11111" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11112" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11113" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11114" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11115" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11116" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11117" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11118" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11119" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="11120" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11121" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11122" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11123" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer immobilized &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11125" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized.</text>
+		<text bitflag="321" id1="11126" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized.</text>
+		<text bitflag="321" id1="11127" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11128" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11129" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11130" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11131" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11132" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11133" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11134" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11135" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11136" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11137" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11138" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11139" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11140" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11141" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11142" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11143" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11144" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="11145" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11146" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11147" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11148" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[is/are]&gt;&gt; no longer neutralized &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11150" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt;.</text>
+		<text bitflag="321" id1="11151" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt;.</text>
+		<text bitflag="321" id1="11152" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11153" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11154" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11155" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11156" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11157" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11158" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11159" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;A:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11160" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;P2:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11161" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[on/to]&gt;&gt; &lt;&lt;r:3&gt;&gt;.</text>
+		<text bitflag="321" id1="11162" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;r2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11163" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;A:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11164" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;P2:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11165" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;r:2&gt;&gt; with &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="11166" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11167" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11168" id2="194657" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;o2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11169" id2="194657" version="1065353216">&lt;&lt;CA:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;GA:2,1&gt;&gt;.</text>
+		<text bitflag="321" id1="11170" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;r2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11171" id2="194657" version="1065353216">&lt;&lt;Co2:1&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;A:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11172" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;P2:2&gt;&gt;.</text>
+		<text bitflag="321" id1="11173" id2="194657" version="1065353216">&lt;&lt;CGA:1,2&gt;&gt; &lt;&lt;1[dismisses/dismiss]&gt;&gt; &lt;&lt;r:2&gt;&gt;.</text>
+		<text bitflag="321" id1="16177" id2="194657" version="1065353216">reflected</text>
+		<text bitflag="321" id1="16179" id2="194657" version="1065353216">8 Player Story</text>
+		<text bitflag="321" id1="16180" id2="194657" version="1065353216">8 Player Veteran</text>
+		<text bitflag="321" id1="16181" id2="194657" version="1065353216">16 Player Story</text>
+		<text bitflag="321" id1="16182" id2="194657" version="1065353216">16 Player Veteran</text>
+		<text bitflag="321" id1="16183" id2="194657" version="1065353216">8 Player Master</text>
+		<text bitflag="321" id1="16184" id2="194657" version="1065353216">16 Player Master</text>
+		<text bitflag="321" id1="16185" id2="194657" version="1065353216">4 Player Veteran</text>
+		<text bitflag="321" id1="16186" id2="194657" version="1065353216">4 Player Story</text>
+		<text bitflag="321" id1="16187" id2="194657" version="1065353216">4 Player Master</text>
+		<text bitflag="321" id1="16191" id2="194657" version="1065353216">Solo</text>
+	</file_content>
+</stb_file>

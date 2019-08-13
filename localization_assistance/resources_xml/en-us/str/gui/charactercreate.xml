@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>104</strs>
+		<file_name>/resources/en-us/str/gui/charactercreate.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194650" version="1065353216">Female</text>
+		<text bitflag="321" id1="2" id2="194650" version="1065353216">GENDER</text>
+		<text bitflag="321" id1="3" id2="194650" version="1065353216">AVAILABLE ADVANCED CLASSES</text>
+		<text bitflag="321" id1="4" id2="194650" version="1065353216">NAME</text>
+		<text bitflag="321" id1="5" id2="194650" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="6" id2="194650" version="1065353216">RANDOM</text>
+		<text bitflag="321" id1="7" id2="194650" version="1065353216">NEXT</text>
+		<text bitflag="321" id1="8" id2="194650" version="1065353216">CLASS</text>
+		<text bitflag="321" id1="9" id2="194650" version="1065353216">UNLOCKED AT LEVEL 10</text>
+		<text bitflag="321" id1="10" id2="194650" version="1065353216">ADVANCED CLASS</text>
+		<text bitflag="321" id1="15" id2="194650" version="1065353216">Rotate character to the right.</text>
+		<text bitflag="321" id1="16" id2="194650" version="1065353216">Rotate character to the left.</text>
+		<text bitflag="321" id1="17" id2="194650" version="1065353216">Zoom In/Zoom Out</text>
+		<text bitflag="321" id1="18" id2="194650" version="1065353216">BODY TYPE</text>
+		<text bitflag="321" id1="19" id2="194650" version="1065353216">SPECIES</text>
+		<text bitflag="321" id1="20" id2="194650" version="1065353216">Have the computer generate a random name for your character.</text>
+		<text bitflag="321" id1="21" id2="194650" version="1065353216">Have the computer generate a random appearance for your character.</text>
+		<text bitflag="321" id1="22" id2="194650" version="1065353216">SELECT CLASS</text>
+		<text bitflag="321" id1="23" id2="194650" version="1065353216">Agile</text>
+		<text bitflag="321" id1="24" id2="194650" version="1065353216">Athletic</text>
+		<text bitflag="321" id1="25" id2="194650" version="1065353216">Strong</text>
+		<text bitflag="321" id1="26" id2="194650" version="1065353216">Tough</text>
+		<text bitflag="321" id1="27" id2="194650" version="1065353216">HEAD SHAPE</text>
+		<text bitflag="321" id1="28" id2="194650" version="1065353216">COMPLEXION</text>
+		<text bitflag="321" id1="29" id2="194650" version="1065353216">FACE</text>
+		<text bitflag="321" id1="30" id2="194650" version="1065353216">HAIR STYLE</text>
+		<text bitflag="321" id1="31" id2="194650" version="1065353216">HAIR COLOR</text>
+		<text bitflag="321" id1="38" id2="194650" version="1065353216">PLAY</text>
+		<text bitflag="321" id1="39" id2="194650" version="1065353216">BACK</text>
+		<text bitflag="321" id1="40" id2="194650" version="1065353216">RANDOM</text>
+		<text bitflag="321" id1="100" id2="194650" version="1065353216">Agile characters are slender and compact, capable of exceptional bursts of speed when the situation warrants. Agile characters are the smallest characters around.</text>
+		<text bitflag="321" id1="101" id2="194650" version="1065353216">Athletic characters are vigorous and able-bodied. Built to last, they can recover from an exhausting battle more quickly than their peers.</text>
+		<text bitflag="321" id1="102" id2="194650" version="1065353216">Strong characters are powerful and muscular, in addition to being the tallest characters around. When necessary, they can shrug off effects that would slow down weaker combatants.</text>
+		<text bitflag="321" id1="103" id2="194650" version="1065353216">Tough characters have heavy builds and can take a powerful blow without flinching. They are bulkier than strong characters, but slightly shorter.</text>
+		<text bitflag="321" id1="104" id2="194650" version="1065353216">SKIN COLOR</text>
+		<text bitflag="321" id1="105" id2="194650" version="1065353216">EYE COLOR</text>
+		<text bitflag="321" id1="106" id2="194650" version="1065353216">FACIAL DETAILS</text>
+		<text bitflag="321" id1="107" id2="194650" version="1065353216">Male</text>
+		<text bitflag="321" id1="110" id2="194650" version="1065353216">Make selection and move forward in character creation</text>
+		<text bitflag="321" id1="111" id2="194650" version="1065353216">Revisit previously selected character creation choices</text>
+		<text bitflag="321" id1="112" id2="194650" version="1065353216">THE GALACTIC REPUBLIC</text>
+		<text bitflag="321" id1="113" id2="194650" version="1065353216">Founded 20,000 years ago by explorers and diplomats, the Galactic Republic is a vast democracy led by the Supreme Chancellor. The Republic is a chaotic amalgam of many worlds, corporations and species, which often clash with each other.</text>
+		<text bitflag="321" id1="114" id2="194650" version="1065353216">THE SITH EMPIRE</text>
+		<text bitflag="321" id1="115" id2="194650" version="1065353216">A rigid, militaristic society where aliens are subjugated and the Sith Lords are supreme, the Empire is ruled by the mysterious, all-powerful Sith Emperor. To Imperial citizens, power is everything; only the strongest ascend to glory.</text>
+		<text bitflag="321" id1="116" id2="194650" version="1065353216">Exit Character Creation and lose all selections</text>
+		<text bitflag="321" id1="117" id2="194650" version="1065353216">SELECT SPECIES</text>
+		<text bitflag="321" id1="118" id2="194650" version="1065353216">SELECT GENDER</text>
+		<text bitflag="321" id1="119" id2="194650" version="1065353216">[Unlocked at Level 10]</text>
+		<text bitflag="321" id1="120" id2="194650" version="1065353216">Advanced Classes</text>
+		<text bitflag="321" id1="121" id2="194650" version="1065353216">APPEARANCE</text>
+		<text bitflag="321" id1="122" id2="194650" version="1065353216">Start Playing</text>
+		<text bitflag="321" id1="123" id2="194650" version="1065353216">EXIT CREATION?</text>
+		<text bitflag="321" id1="124" id2="194650" version="1065353216">Are you sure you want to cancel the creation of this character?</text>
+		<text bitflag="321" id1="125" id2="194650" version="1065353216">NO</text>
+		<text bitflag="321" id1="126" id2="194650" version="1065353216">YES</text>
+		<text bitflag="321" id1="127" id2="194650" version="1065353216">Body Type</text>
+		<text bitflag="321" id1="128" id2="194650" version="1065353216">Enter a name for your character.</text>
+		<text bitflag="321" id1="129" id2="194650" version="1065353216">Invalid name! Names may not start or end with a dash or an apostrophe!</text>
+		<text bitflag="321" id1="130" id2="194650" version="1065353216">Invalid name! Too many dashes!</text>
+		<text bitflag="321" id1="131" id2="194650" version="1065353216">Invalid name! Too many apostrophes!</text>
+		<text bitflag="321" id1="132" id2="194650" version="1065353216">Invalid name! Your name contains invalid characters.</text>
+		<text bitflag="321" id1="133" id2="194650" version="1065353216">Name too short!</text>
+		<text bitflag="321" id1="134" id2="194650" version="1065353216">Name cannot exceed 15 characters.</text>
+		<text bitflag="321" id1="135" id2="194650" version="1065353216">Name unavailable, please choose another.</text>
+		<text bitflag="321" id1="136" id2="194650" version="1065353216">Invalid name.</text>
+		<text bitflag="321" id1="137" id2="194650" version="1065353216">You cannot create another character on this world.</text>
+		<text bitflag="321" id1="138" id2="194650" version="1065353216">Error creating character (error #&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="139" id2="194650" version="1065353216">&lt;&lt;1&gt;&gt; : &lt;&lt;2&gt;&gt; : &lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="140" id2="194650" version="1065353216">&lt;&lt;1&gt;&gt; : &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="141" id2="194650" version="1065353216">SELECT FACTION</text>
+		<text bitflag="321" id1="142" id2="194650" version="1065353216">EQUIPMENT</text>
+		<text bitflag="321" id1="143" id2="194650" version="1065353216">ABILITIES</text>
+		<text bitflag="321" id1="144" id2="194650" version="1065353216">ADVANCED CLASSES</text>
+		<text bitflag="321" id1="145" id2="194650" version="1065353216">COMBAT ROLE</text>
+		<text bitflag="321" id1="146" id2="194650" version="1065353216">STORY</text>
+		<text bitflag="321" id1="147" id2="194650" version="1065353216">Invalid name! Your name contains invalid consecutive characters.</text>
+		<text bitflag="321" id1="404" id2="194650" version="1065353216">STEP &lt;&lt;1&gt;&gt; OF &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="405" id2="194650" version="1065353216">Exit Character Creation</text>
+		<text bitflag="321" id1="406" id2="194650" version="1065353216">Lock/Unlock to save or alter this appearance option</text>
+		<text bitflag="321" id1="407" id2="194650" version="1065353216">Next customization option</text>
+		<text bitflag="321" id1="408" id2="194650" version="1065353216">Previous customization option</text>
+		<text bitflag="321" id1="409" id2="194650" version="1065353216">EXIT</text>
+		<text bitflag="321" id1="410" id2="194650" version="1065353216">Return to Select Faction</text>
+		<text bitflag="321" id1="411" id2="194650" version="1065353216">Return to Select Faction?</text>
+		<text bitflag="321" id1="412" id2="194650" version="1065353216">All customizations will be lost.</text>
+		<text bitflag="321" id1="413" id2="194650" version="1065353216">LOCKED</text>
+		<text bitflag="321" id1="414" id2="194650" version="1065353216">UNLOCKED</text>
+		<text bitflag="321" id1="415" id2="194650" version="1065353216">LEGACY APPEARANCES UNLOCKED</text>
+		<text bitflag="321" id1="416" id2="194650" version="1065353216">Reach level 50 with a &lt;&lt;1&gt;&gt; to unlock this species for all classes!</text>
+		<text bitflag="321" id1="417" id2="194650" version="1065353216">This species is available for purchase for all Players in the Cartel Market.</text>
+		<text bitflag="321" id1="418" id2="194650" version="1065353216">The &lt;&lt;1&gt;&gt; species is not available for this class without an unlock from the Legacy system or a purchase from the Cartel Market while in-game.
+
+Unlocking a species requires a character at Level 10 with an unlocked Legacy.</text>
+		<text bitflag="321" id1="419" id2="194650" version="1065353216">Free-to-Play Players cannot access the &lt;&lt;1&gt;&gt; species for this class. Subscribers can always access the &lt;&lt;1&gt;&gt; species for this class. You may unlock this species for all classes at level 10 through the Legacy system or a purchase from the Cartel Market while in-game.
+
+Players gain access to a Legacy after completion of their Origin World.</text>
+		<text bitflag="321" id1="420" id2="194650" version="1065353216">The &lt;&lt;1&gt;&gt; species is not available for this class without a purchase from the Cartel Market.</text>
+		<text bitflag="321" id1="421" id2="194650" version="1065353216">LEVEL</text>
+		<text bitflag="321" id1="422" id2="194650" version="1065353216">OUTLANDER CHARACTER</text>
+		<text bitflag="321" id1="423" id2="194650" version="1065353216">This character is being created at level 60 and will start the game in Chapter One of Knights of the Fallen Empire.</text>
+		<text bitflag="321" id1="424" id2="194650" version="1065353216">ADVANCED</text>
+		<text bitflag="321" id1="425" id2="194650" version="1065353216">Change your Discipline</text>
+		<text bitflag="321" id1="426" id2="194650" version="1065353216">OK</text>
+		<text bitflag="321" id1="427" id2="194650" version="1065353216">Change Discipline Warning</text>
+		<text bitflag="321" id1="428" id2="194650" version="1065353216">Your character has already been assigned the recommended Discipline and Utility points. Clicking OK will allow you to select a different Discipline. However, you will have to assign your Utility points once you enter the game. This can be done by hitting the K key on your keyboard or clicking on the Discipline icon at the top of your screen.</text>
+		<text bitflag="321" id1="429" id2="194650" version="1065353216">Invalid name! Too many spaces!</text>
+		<text bitflag="321" id1="430" id2="194650" version="1065353216">Invalid name! Your name must have 3 characters before and after a space!</text>
+		<text bitflag="321" id1="436" id2="194650" version="1065353216">This character is being created at level 65 and will start the game in Chapter One of Knights of the Eternal Throne.</text>
+	</file_content>
+</stb_file>

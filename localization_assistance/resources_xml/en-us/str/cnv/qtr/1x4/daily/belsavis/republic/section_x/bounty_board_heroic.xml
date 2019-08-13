@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x4/daily/belsavis/republic/section_x/bounty_board_heroic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1059193" id2="17" version="1065353216">PRIORITY DISPATCH / FOR ALL SECTION X PERSONNEL
+
+The SIS has determined the Dread Masters' true objective: an ancient Rakata weapon known as the &quot;Aurora Cannon.&quot;
+
+Preliminary analysis shows that this weapon could vaporize every Republic soldier on Belsavis in a single shot. It cannot be allowed to fall into enemy hands.
+
+A strike team is authorized to locate the Aurora Cannon and disable it with electromagnetic pulse munitions.
+
+ALERT: The Dread Guard has deployed extensive forces to retrieve this weapon. Attempting this mission without a full strike team is not advised.</text>
+		<text bitflag="1345" id1="1059194" id2="17" version="1065353216">PRIORITY UPDATE / FOR ALL SECTION X PERSONNEL
+
+The Aurora Cannon has been disabled. Although Dread Guard forces remain in the area, their objective has been lost forever.
+
+Additional forces will begin final assault and recovery operations immediately. For the Republic!</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>369</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/class/spy/kanjon_slyke.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="486923" id2="17" version="1065353216">Force field up ahead.</text>
+		<text bitflag="1345" id1="486924" id2="17" version="1065353216">It's hooked into the security program. Now all that work with the droids pays off.</text>
+		<text bitflag="1345" id1="486926" id2="17" version="1065353216">I'm going to trigger every alarm in Belsavis, and the Scorpio system's going to go crazy. I hope.</text>
+		<text bitflag="1345" id1="486931" id2="17" version="1065353216">Hold on, Chaney, darling.</text>
+		<text bitflag="1345" id1="486933" id2="17" version="1065353216">Seems to me now's a very good time to renegotiate our deal.</text>
+		<text bitflag="1345" id1="486934" id2="17" version="1065353216">This is no time for games.</text>
+		<text bitflag="1360" id1="486934" id2="17" version="1065353216">What are you talking about?</text>
+		<text bitflag="1345" id1="486935" id2="17" version="1065353216">I can be reasonable. Tell me what you want.</text>
+		<text bitflag="1360" id1="486935" id2="17" version="1065353216">State your terms.</text>
+		<text bitflag="1345" id1="486936" id2="17" version="1065353216">He's pointing his gun at me!</text>
+		<text bitflag="1345" id1="486938" id2="17" version="1065353216">Turn on me, Kanjon, and those years in a cell will seem like paradise.</text>
+		<text bitflag="1360" id1="486938" id2="17" version="1065353216">You're making a big mistake.</text>
+		<text bitflag="1345" id1="486939" id2="17" version="1065353216">Shut up. He has a gun to my head.</text>
+		<text bitflag="1345" id1="486941" id2="17" version="1065353216">I've heard your threats, but I got to look out for my interests. Don't mean we can't settle this nice, though.</text>
+		<text bitflag="1345" id1="486943" id2="17" version="1065353216">We've had our problems. Don't mean I want to see you dead, but I need to look out for my interests.</text>
+		<text bitflag="1345" id1="486945" id2="17" version="1065353216">You're going to authorize a credit transfer. Pay up, I find my way off Belsavis, and you can finish your little break-in.</text>
+		<text bitflag="1345" id1="486946" id2="17" version="1065353216">Say the word, and the slicer dies.</text>
+		<text bitflag="1345" id1="486948" id2="17" version="1065353216">What? Why me?</text>
+		<text bitflag="1345" id1="486950" id2="17" version="1065353216">Nothing personal. You just make a good bargaining chip.</text>
+		<text bitflag="1345" id1="486952" id2="17" version="1065353216">Now I don't want you dead, but you make a lot of threats and Ohta and I have to look out for our interests.</text>
+		<text bitflag="1345" id1="486954" id2="17" version="1065353216">Now I don't want you dead, but Ohta and I are looking out for our interests.</text>
+		<text bitflag="1345" id1="486956" id2="17" version="1065353216">I want you to authorize a credit transfer. Pay us enough, we'll leave Belsavis and you can finish your little break-in.</text>
+		<text bitflag="1345" id1="486957" id2="17" version="1065353216">I'm making a transfer now. Take it and go.</text>
+		<text bitflag="1360" id1="486957" id2="17" version="1065353216">I'll pay you from my accounts.</text>
+		<text bitflag="1345" id1="486958" id2="17" version="1065353216">You got it.</text>
+		<text bitflag="1345" id1="486959" id2="17" version="1065353216">Listen, you can't buy your way out of here--and like me or not, you need me.</text>
+		<text bitflag="1360" id1="486959" id2="17" version="1065353216">This won't work. You know it.</text>
+		<text bitflag="1345" id1="486961" id2="17" version="1065353216">Now put the gun down and try to remember that.</text>
+		<text bitflag="1345" id1="486962" id2="17" version="1065353216">Heh. Ha! You really are something. All right--you can't blame me for trying. Chaney?</text>
+		<text bitflag="1345" id1="486964" id2="17" version="1065353216">Triggering the alarms. Thank you.</text>
+		<text bitflag="1345" id1="486966" id2="17" version="1065353216">I won't be blackmailed by you.</text>
+		<text bitflag="1360" id1="486966" id2="17" version="1065353216">You traitorous scum.</text>
+		<text bitflag="1345" id1="486967" id2="17" version="1065353216">Enjoy the Megasecurity Ward then, boss.</text>
+		<text bitflag="3393" id1="486971" id2="17" version="1065353216">Paarkos does not participate in blackmail. Proceed.</text>
+		<text bitflag="1345" id1="486973" id2="17" version="1065353216">Thank you. Kanjon's dead. We're okay.</text>
+		<text bitflag="1345" id1="486975" id2="17" version="1065353216">Triggering the alarms. You owe us.</text>
+		<text bitflag="1345" id1="486976" id2="17" version="1065353216">I'll remember what you did.</text>
+		<text bitflag="1360" id1="486976" id2="17" version="1065353216">I pay my debts.</text>
+		<text bitflag="1345" id1="486977" id2="17" version="1065353216">You could've gone along with it, you know.</text>
+		<text bitflag="1360" id1="486977" id2="17" version="1065353216">Why didn't you turn on me?</text>
+		<text bitflag="1345" id1="486978" id2="17" version="1065353216">You didn't treat me so bad. Kanjon did.</text>
+		<text bitflag="1345" id1="486979" id2="17" version="1065353216">Save it until I'm out of the death trap, Chaney.</text>
+		<text bitflag="1360" id1="486979" id2="17" version="1065353216">We'll finish this later.</text>
+		<text bitflag="1345" id1="486980" id2="17" version="1065353216">Right.</text>
+		<text bitflag="3393" id1="486982" id2="17" version="1065353216">Paarkos does not participate in blackmail.</text>
+		<text bitflag="1345" id1="486984" id2="17" version="1065353216">Stupid alien! All of you!</text>
+		<text bitflag="1345" id1="486986" id2="17" version="1065353216">They're all dead. And I don't feel so good.</text>
+		<text bitflag="1345" id1="486988" id2="17" version="1065353216">I can still set off the alarms. But you make sure they know: Chaney Barrow was the best. Smartest slicer anywhere.</text>
+		<text bitflag="1345" id1="486989" id2="17" version="1065353216">I'll tell them. Time to rest.</text>
+		<text bitflag="1360" id1="486989" id2="17" version="1065353216">You did good, Chaney.</text>
+		<text bitflag="1345" id1="486990" id2="17" version="1065353216">Hold on. You're hurt, but you're not dead.</text>
+		<text bitflag="1360" id1="486990" id2="17" version="1065353216">I'll find a way to help you.</text>
+		<text bitflag="1345" id1="486991" id2="17" version="1065353216">You're nice... huh.</text>
+		<text bitflag="1345" id1="486993" id2="17" version="1065353216">Just get it done.</text>
+		<text bitflag="1360" id1="486993" id2="17" version="1065353216">Pathetic.</text>
+		<text bitflag="1345" id1="486996" id2="17" version="1065353216">I can hear a thousand electronic screams. What have you done...? Ah!</text>
+		<text bitflag="1345" id1="486999" id2="17" version="1065353216">There's a door here. Heavy-duty metal, can't tell the composition.</text>
+		<text bitflag="1345" id1="487000" id2="17" version="1065353216">Hey, boss. Paarkos spotted it. Blocks his ultraviolet sight.</text>
+		<text bitflag="1345" id1="487002" id2="17" version="1065353216">Here's where the maranium power battery comes in. Take her out of the protective case and attach her to the door.</text>
+		<text bitflag="1345" id1="487004" id2="17" version="1065353216">She'll pump out enough radiation to fatigue the metal, and you can blast on through.</text>
+		<text bitflag="1345" id1="487005" id2="17" version="1065353216">That serum I found--it'll counter the radiation's effect?</text>
+		<text bitflag="1360" id1="487005" id2="17" version="1065353216">The medicine comes in here?</text>
+		<text bitflag="1345" id1="487006" id2="17" version="1065353216">It should.</text>
+		<text bitflag="1345" id1="487008" id2="17" version="1065353216">What do I expect to find past the door?</text>
+		<text bitflag="1360" id1="487008" id2="17" version="1065353216">And then, after I'm through?</text>
+		<text bitflag="1345" id1="487009" id2="17" version="1065353216">Not sure. Probably going to hit the force fields soon, which puts you in Chaney's hands.</text>
+		<text bitflag="1345" id1="487011" id2="17" version="1065353216">I always wanted to die young.</text>
+		<text bitflag="1360" id1="487011" id2="17" version="1065353216">This is going to hurt.</text>
+		<text bitflag="1345" id1="487012" id2="17" version="1065353216">No one on Belsavis is that young.</text>
+		<text bitflag="1345" id1="487014" id2="17" version="1065353216">In any case, you've got that serum to cancel out the radiation.</text>
+		<text bitflag="1345" id1="487016" id2="17" version="1065353216">Take it when you start feeling woozy, but try to keep your distance in the meantime.</text>
+		<text bitflag="1345" id1="487020" id2="17" version="1065353216">Ready for the Megasecurity Ward?</text>
+		<text bitflag="1345" id1="487021" id2="17" version="1065353216">Megasecurity Ward 23 is in the deep prison. Old, underground complex; say the infrastructure was here way before the Republic.</text>
+		<text bitflag="1345" id1="487023" id2="17" version="1065353216">Imperials got the deep prison guarded, so you want to get inside, you find your own way through.</text>
+		<text bitflag="1345" id1="487024" id2="17" version="1065353216">I've dealt with their kind before. Don't worry about the Empire's blockade.</text>
+		<text bitflag="1360" id1="487024" id2="17" version="1065353216">The Imperials won't be a problem.</text>
+		<text bitflag="1345" id1="487025" id2="17" version="1065353216">You mean we all find a way through.</text>
+		<text bitflag="1360" id1="487025" id2="17" version="1065353216">Aren't you coming along?</text>
+		<text bitflag="1345" id1="487026" id2="17" version="1065353216">No way any more than you and a friend get inside. Besides, we've got support to run.</text>
+		<text bitflag="1345" id1="487028" id2="17" version="1065353216">After all, under those tidy uniforms, Imperials are a bunch of softies.</text>
+		<text bitflag="1360" id1="487028" id2="17" version="1065353216">You make it sound so easy.</text>
+		<text bitflag="1345" id1="487029" id2="17" version="1065353216">Is what it is.</text>
+		<text bitflag="1345" id1="487031" id2="17" version="1065353216">Once you get to the Megasecurity Ward, we'll finish our tasks and meet up, walk you through on the comms.</text>
+		<text bitflag="1345" id1="487033" id2="17" version="1065353216">I'm on computers. Paarkos is finalizing the map. Kanjon's turning off Republic monitors.</text>
+		<text bitflag="1345" id1="487037" id2="17" version="1065353216">I have weapons and explosives prepared for you.</text>
+		<text bitflag="1345" id1="487039" id2="17" version="1065353216">Equipment's all set. Handle it careful, call us when you're at the front door. Break-in of the century.</text>
+		<text bitflag="1345" id1="487040" id2="17" version="1065353216">I want all of you focused. Someone slips, we all pay.</text>
+		<text bitflag="1360" id1="487040" id2="17" version="1065353216">Let's do this right.</text>
+		<text bitflag="1345" id1="487041" id2="17" version="1065353216">Remember how this feels. You'll never do a job like it again.</text>
+		<text bitflag="1360" id1="487041" id2="17" version="1065353216">Now we're going to have fun.</text>
+		<text bitflag="1345" id1="487042" id2="17" version="1065353216">Last job this big put me in Belsavis. I'll get it right this time.</text>
+		<text bitflag="1345" id1="487044" id2="17" version="1065353216">I owe you for this, gorgeous. Let's celebrate when I get back.</text>
+		<text bitflag="1360" id1="487044" id2="17" version="1065353216">[Flirt] You've been fun.</text>
+		<text bitflag="1345" id1="487045" id2="17" version="1065353216">Yeah, I like that... find ourselves somewhere cozy....</text>
+		<text bitflag="1345" id1="487047" id2="17" version="1065353216">Let's just get this done.</text>
+		<text bitflag="1345" id1="487048" id2="17" version="1065353216">If this plan fails, you'll never leave Belsavis. I've got people who'll see to it.</text>
+		<text bitflag="1360" id1="487048" id2="17" version="1065353216">Anything goes wrong, you die.</text>
+		<text bitflag="1345" id1="487049" id2="17" version="1065353216">I'd like to meet them.</text>
+		<text bitflag="1345" id1="487051" id2="17" version="1065353216">We have a good plan. Don't you mess up, either.</text>
+		<text bitflag="1345" id1="487053" id2="17" version="1065353216">She means well. Whatever's in that place... we gonna know real soon.</text>
+		<text bitflag="1345" id1="487055" id2="17" version="1065353216">What do you think?</text>
+		<text bitflag="1345" id1="487057" id2="17" version="1065353216">...Nah. Pulse bomb won't do anything against that wall. Leaves us back where we started.</text>
+		<text bitflag="1345" id1="487059" id2="17" version="1065353216">Got control of the droids. They'll set off every alarm on Belsavis, and the Scorpio program won't know where to look.</text>
+		<text bitflag="1345" id1="487061" id2="17" version="1065353216">Rest of us were working out the plan for the break-in. Ready as we're gonna be, but there is one thing...</text>
+		<text bitflag="1345" id1="487062" id2="17" version="1065353216">What is it, Kanjon?</text>
+		<text bitflag="1360" id1="487062" id2="17" version="1065353216">Say what you need to say.</text>
+		<text bitflag="1345" id1="487063" id2="17" version="1065353216">I get the feeling I'm not going to like this.</text>
+		<text bitflag="1360" id1="487063" id2="17" version="1065353216">Why are you all looking at me?</text>
+		<text bitflag="1345" id1="487064" id2="17" version="1065353216">If something's gone wrong, you need to fix it.</text>
+		<text bitflag="1360" id1="487064" id2="17" version="1065353216">I don't want to hear excuses.</text>
+		<text bitflag="1345" id1="487065" id2="17" version="1065353216">Not something we can fix.</text>
+		<text bitflag="1345" id1="487067" id2="17" version="1065353216">While back, you made some promises. Said this break-in would make us rich, but we ain't seen no signs.</text>
+		<text bitflag="1345" id1="487069" id2="17" version="1065353216">While back, you made some promises. Said this break-in would help us get offworld, but you never said why.</text>
+		<text bitflag="1345" id1="487071" id2="17" version="1065353216">Getting a little tired of taking things on faith.</text>
+		<text bitflag="1345" id1="487072" id2="17" version="1065353216">I can't tell you everything... but your brother knew what he was doing. I know what I'm doing. Don't toss away a fortune.</text>
+		<text bitflag="1360" id1="487072" id2="17" version="1065353216">I guarantee there's money.</text>
+		<text bitflag="1345" id1="487073" id2="17" version="1065353216">I can't tell you everything... but I haven't led you wrong so far. Your freedom's in sight; we just need to take it.</text>
+		<text bitflag="1360" id1="487073" id2="17" version="1065353216">I guarantee I'll get you out.</text>
+		<text bitflag="1345" id1="487074" id2="17" version="1065353216">You want to pass on this job? You think you can survive without me? Take your chances, but don't come crawling back.</text>
+		<text bitflag="1360" id1="487074" id2="17" version="1065353216">You don't believe me? Then go!</text>
+		<text bitflag="1345" id1="487076" id2="17" version="1065353216">You want to work, work. I don't have time to coddle anyone.</text>
+		<text bitflag="1345" id1="487077" id2="17" version="1065353216">While back, you made some threats. Said we owed you for breaking us out.</text>
+		<text bitflag="1345" id1="487079" id2="17" version="1065353216">You're plenty nasty, but some of us are wondering where this goes.</text>
+		<text bitflag="1345" id1="487080" id2="17" version="1065353216">Huh. You want a promise? Do your jobs, you come out of Belsavis ready to take on the whole galaxy. You get cash, you get freedom.</text>
+		<text bitflag="1360" id1="487080" id2="17" version="1065353216">Stick with me and be rewarded.</text>
+		<text bitflag="1345" id1="487081" id2="17" version="1065353216">Yeah, alright.</text>
+		<text bitflag="1345" id1="487082" id2="17" version="1065353216">Fair enough. I can't say much right now, but this should tide you over in the meantime.</text>
+		<text bitflag="1360" id1="487082" id2="17" version="1065353216">Here's an advance on payment.</text>
+		<text bitflag="1345" id1="487083" id2="17" version="1065353216">Hey...</text>
+		<text bitflag="1345" id1="487084" id2="17" version="1065353216">Now can we get back to work? What's our next step?</text>
+		<text bitflag="1345" id1="487085" id2="17" version="1065353216">Tiny taste of freedom and you get all cocky and smug.</text>
+		<text bitflag="1360" id1="487085" id2="17" version="1065353216">Don't you dare question me!</text>
+		<text bitflag="5441" id1="487087" id2="17" version="1065353216">You're a piece of garbage who'd be dead if not for me. Don't hold up the mission again.</text>
+		<text bitflag="1345" id1="487088" id2="17" version="1065353216">Understood, boss.</text>
+		<text bitflag="3393" id1="487090" id2="17" version="1065353216">It is time.</text>
+		<text bitflag="1345" id1="487094" id2="17" version="1065353216">Droids are waiting for you, boss.</text>
+		<text bitflag="1345" id1="487095" id2="17" version="1065353216">Take a look; this is the junk we got from the laboratory. Paarkos has been putting things together.</text>
+		<text bitflag="3393" id1="487097" id2="17" version="1065353216">Place your acquisitions here. When Paarkos is finished, you will be protected against the Megasecurity Ward's traps.</text>
+		<text bitflag="1345" id1="487099" id2="17" version="1065353216">The physical defenses aren't enough. We need to deal with that computer--the Scorpio Sanctions.</text>
+		<text bitflag="1345" id1="487100" id2="17" version="1065353216">That thing has caused enough trouble.</text>
+		<text bitflag="1360" id1="487100" id2="17" version="1065353216">Agreed.</text>
+		<text bitflag="1345" id1="487101" id2="17" version="1065353216">Is there something you aren't telling me?</text>
+		<text bitflag="1360" id1="487101" id2="17" version="1065353216">You know what that thing is?</text>
+		<text bitflag="1345" id1="487102" id2="17" version="1065353216">I like to learn about the things that attack me.</text>
+		<text bitflag="1345" id1="487104" id2="17" version="1065353216">You got a plan, Chaney, or just a lot of talk?</text>
+		<text bitflag="1360" id1="487104" id2="17" version="1065353216">This had better be good.</text>
+		<text bitflag="1345" id1="487105" id2="17" version="1065353216">I think the sanctions are a program running in the Megasecurity Ward that accesses the rest of the prison.</text>
+		<text bitflag="1345" id1="487107" id2="17" version="1065353216">It controls the force fields, scanners, all that. Your equipment will only do half the job if the program's still running.</text>
+		<text bitflag="1345" id1="487109" id2="17" version="1065353216">My brother didn't have a slicer when he got himself killed. She might be right.</text>
+		<text bitflag="1345" id1="487111" id2="17" version="1065353216">I'm really good, but I can't disable the program. We need to distract it.</text>
+		<text bitflag="1345" id1="487112" id2="17" version="1065353216">Software isn't easily distracted.</text>
+		<text bitflag="1360" id1="487112" id2="17" version="1065353216">How do we do that?</text>
+		<text bitflag="1345" id1="487113" id2="17" version="1065353216">Kanjon? Think you can play the gentleman and get the program to let us inside?</text>
+		<text bitflag="1360" id1="487113" id2="17" version="1065353216">Maybe it just needs seducing.</text>
+		<text bitflag="1345" id1="487114" id2="17" version="1065353216">Not the way I swing.</text>
+		<text bitflag="1345" id1="487116" id2="17" version="1065353216">A thermal detonator in the computer core should do the trick.</text>
+		<text bitflag="1360" id1="487116" id2="17" version="1065353216">I'd rather blow it to pieces.</text>
+		<text bitflag="1345" id1="487117" id2="17" version="1065353216">You're not listening. I think the core is in the ward.</text>
+		<text bitflag="1345" id1="487119" id2="17" version="1065353216">I can take control of the upper level security droids. Override their programming. Then, when we get to the Megasecurity Ward--bang!</text>
+		<text bitflag="1345" id1="487121" id2="17" version="1065353216">I make the droids set off every alarm in the prison. The Scorpio program gets confused. Gives us a few minutes, at least.</text>
+		<text bitflag="1345" id1="487123" id2="17" version="1065353216">Clever little bird.</text>
+		<text bitflag="1345" id1="487125" id2="17" version="1065353216">You and the guys could upload my overrides into the droids while Paarkos and I work. Then we can go in.</text>
+		<text bitflag="1345" id1="487126" id2="17" version="1065353216">Get your gear together. We're going droid-hunting.</text>
+		<text bitflag="1360" id1="487126" id2="17" version="1065353216">Let's get moving.</text>
+		<text bitflag="1345" id1="487127" id2="17" version="1065353216">How do I upload your controls into the droids?</text>
+		<text bitflag="1360" id1="487127" id2="17" version="1065353216">Is there a trick to it?</text>
+		<text bitflag="1345" id1="487128" id2="17" version="1065353216">I don't want you exposed. I'll handle the droids myself.</text>
+		<text bitflag="1360" id1="487128" id2="17" version="1065353216">I'll go--the others stay here.</text>
+		<text bitflag="1345" id1="487131" id2="17" version="1065353216">You doubt us.</text>
+		<text bitflag="1345" id1="487133" id2="17" version="1065353216">Guess I'll just work on the plan.</text>
+		<text bitflag="1345" id1="487135" id2="17" version="1065353216">Get close to each droid and use these computer spikes. They'll stop shooting after. Not before.</text>
+		<text bitflag="1345" id1="487137" id2="17" version="1065353216">When we've got enough set up, I'll give you a call.</text>
+		<text bitflag="1345" id1="487139" id2="17" version="1065353216">How many warden droids are still out there?</text>
+		<text bitflag="1345" id1="487141" id2="17" version="1065353216">I told you already...</text>
+		<text bitflag="1345" id1="487147" id2="17" version="1065353216">Tell me again.</text>
+		<text bitflag="1345" id1="487149" id2="17" version="1065353216">Give me the knife! I want to try.</text>
+		<text bitflag="1345" id1="487150" id2="17" version="1065353216">What's going on?</text>
+		<text bitflag="1345" id1="487151" id2="17" version="1065353216">Caught ourselves a guard; thought we'd have a little fun.</text>
+		<text bitflag="1345" id1="487152" id2="17" version="1065353216">You questioned him?</text>
+		<text bitflag="1360" id1="487152" id2="17" version="1065353216">Does he know anything useful?</text>
+		<text bitflag="1345" id1="487153" id2="17" version="1065353216">He don't know much--guards aren't in good shape between the prisoners and the Imperials coming through.</text>
+		<text bitflag="1345" id1="487155" id2="17" version="1065353216">He helped us with our maps. And I'm security clearance green, now.</text>
+		<text bitflag="1345" id1="487157" id2="17" version="1065353216">Think he's probably tapped out. Want me to clean up?</text>
+		<text bitflag="1345" id1="487158" id2="17" version="1065353216">You captured a guard? That wasn't part of the plan!</text>
+		<text bitflag="1360" id1="487158" id2="17" version="1065353216">I never permitted this!</text>
+		<text bitflag="1345" id1="487159" id2="17" version="1065353216">Come on--no one's gonna miss him in all this. Besides, we learned all sorts of things.</text>
+		<text bitflag="1345" id1="487161" id2="17" version="1065353216">We can kill him now, if you want. No one saw us grab him.</text>
+		<text bitflag="1345" id1="487162" id2="17" version="1065353216">You should've waited for me. I've got a grudge or two against the guards myself.</text>
+		<text bitflag="1360" id1="487162" id2="17" version="1065353216">Maybe I'll join in. [Hurt him]</text>
+		<text bitflag="1345" id1="487163" id2="17" version="1065353216">I don't even know you. Please... ah!</text>
+		<text bitflag="1345" id1="487165" id2="17" version="1065353216">Nice. Nice!</text>
+		<text bitflag="1345" id1="487167" id2="17" version="1065353216">You got a bit of a temper. Think he's given all we're getting, though--want me to clean up?</text>
+		<text bitflag="1345" id1="487168" id2="17" version="1065353216">Make it quick. We should get back to work.</text>
+		<text bitflag="1360" id1="487168" id2="17" version="1065353216">Go ahead and kill him.</text>
+		<text bitflag="1345" id1="487169" id2="17" version="1065353216">Please....</text>
+		<text bitflag="1345" id1="487171" id2="17" version="1065353216">You work on Belsavis, you should know what's coming.</text>
+		<text bitflag="1345" id1="487173" id2="17" version="1065353216">We saw hostages killed once, as a diplomat. It disturbed us then, too.</text>
+		<text bitflag="1345" id1="487175" id2="17" version="1065353216">I don't know if I could've made that call.</text>
+		<text bitflag="1345" id1="487177" id2="17" version="1065353216">At least he had some dignity.</text>
+		<text bitflag="1345" id1="487179" id2="17" version="1065353216">Get out of here. Anyone tries to stop him, you answer to me.</text>
+		<text bitflag="1360" id1="487179" id2="17" version="1065353216">Let him go free.</text>
+		<text bitflag="1345" id1="487180" id2="17" version="1065353216">You've got to be kidding.</text>
+		<text bitflag="1345" id1="487182" id2="17" version="1065353216">Don't push it.</text>
+		<text bitflag="1345" id1="487183" id2="17" version="1065353216">The order was clear.</text>
+		<text bitflag="1345" id1="487184" id2="17" version="1065353216">I don't think she was.</text>
+		<text bitflag="1345" id1="487185" id2="17" version="1065353216">I don't think he was.</text>
+		<text bitflag="1345" id1="487186" id2="17" version="1065353216">Don't make us convince you.</text>
+		<text bitflag="1345" id1="487187" id2="17" version="1065353216">Maybe we'd better not push it.</text>
+		<text bitflag="1345" id1="487189" id2="17" version="1065353216">Bind him and lock him up somewhere. Make sure he can't hear us.</text>
+		<text bitflag="1360" id1="487189" id2="17" version="1065353216">He might be useful later.</text>
+		<text bitflag="1345" id1="487190" id2="17" version="1065353216">Momma always said to save the crumbs. All right, let's go...</text>
+		<text bitflag="1345" id1="487192" id2="17" version="1065353216">Don't worry about us, boss.</text>
+		<text bitflag="1345" id1="487195" id2="17" version="1065353216">You are immune to mind control technologies, yet those defenses should be unavailable to the wider galaxy. Interesting.</text>
+		<text bitflag="1345" id1="487197" id2="17" version="1065353216">We will continue this discussion later.</text>
+		<text bitflag="1345" id1="487199" id2="17" version="1065353216">Ugh. So... what? I don't have anything to say sorry for.</text>
+		<text bitflag="1345" id1="487203" id2="17" version="1065353216">A formal apology should include a gift, we know, but for now... we're sorry about that.</text>
+		<text bitflag="1345" id1="487207" id2="17" version="1065353216">Sir, I'm terribly sorry. I couldn't help myself....</text>
+		<text bitflag="1345" id1="487211" id2="17" version="1065353216">That was an unfortunate experience. I must commend you for your quick thinking.</text>
+		<text bitflag="1345" id1="487217" id2="17" version="1065353216">Think we're all in one piece. That's a nasty security system.</text>
+		<text bitflag="1345" id1="487219" id2="17" version="1065353216">We're not even in the Megasecurity Ward yet.</text>
+		<text bitflag="1345" id1="487220" id2="17" version="1065353216">Look, we survived. And there's still lots to do, so let's move it.</text>
+		<text bitflag="1360" id1="487220" id2="17" version="1065353216">Let's get back to work.</text>
+		<text bitflag="1345" id1="487221" id2="17" version="1065353216">You got it, boss.</text>
+		<text bitflag="1345" id1="487223" id2="17" version="1065353216">What were we just attacked by? One of you must know.</text>
+		<text bitflag="1360" id1="487223" id2="17" version="1065353216">Anyone know about that voice?</text>
+		<text bitflag="1345" id1="487224" id2="17" version="1065353216">Not a clue, boss. My brother didn't live to tell.</text>
+		<text bitflag="1345" id1="487226" id2="17" version="1065353216">Anyone thinking of turning back needs to decide: What do you want to face? Me, right now? Or some half-baked security system?</text>
+		<text bitflag="1360" id1="487226" id2="17" version="1065353216">Be afraid of me, not Belsavis.</text>
+		<text bitflag="1345" id1="487227" id2="17" version="1065353216">No one talking about turning back, boss.</text>
+		<text bitflag="1345" id1="487229" id2="17" version="1065353216">I'll--I can slice the computers. See if I can get an equipment inventory...</text>
+		<text bitflag="1345" id1="487231" id2="17" version="1065353216">See? It's all good.</text>
+		<text bitflag="1345" id1="487233" id2="17" version="1065353216">Yes. Yes... no.</text>
+		<text bitflag="1345" id1="487235" id2="17" version="1065353216">It's almost all here--the stupid equipment is listed--but there's some pieces that aren't stored in the lab. I can pinpoint the locations.</text>
+		<text bitflag="1345" id1="487236" id2="17" version="1065353216">Run down what we're missing.</text>
+		<text bitflag="1360" id1="487236" id2="17" version="1065353216">Give me details.</text>
+		<text bitflag="1345" id1="487237" id2="17" version="1065353216">You're doing good. Let's hear what you found out.</text>
+		<text bitflag="1360" id1="487237" id2="17" version="1065353216">Nicely done, Chaney.</text>
+		<text bitflag="1345" id1="487238" id2="17" version="1065353216">We're moving out. We've got a fight ahead of us.</text>
+		<text bitflag="1360" id1="487238" id2="17" version="1065353216">Weapons ready, everyone.</text>
+		<text bitflag="1345" id1="487239" id2="17" version="1065353216">All due respect, we ain't fit. My hand shaking from that gas, don't think I could slaughter a bantha cub.</text>
+		<text bitflag="1345" id1="487241" id2="17" version="1065353216">What're we missing, Chaney?</text>
+		<text bitflag="1345" id1="487243" id2="17" version="1065353216">Carbonite trap. It's in the armory.</text>
+		<text bitflag="1345" id1="487245" id2="17" version="1065353216">Need that to freeze yourself, hide your life signs from the Megasecurity Ward scanners. Only way to get in.</text>
+		<text bitflag="1345" id1="487247" id2="17" version="1065353216">Spent maranium power battery. Hazardous waste containment.</text>
+		<text bitflag="1345" id1="487249" id2="17" version="1065353216">Radiation'll weaken the door seals. Old Black Sun trick.</text>
+		<text bitflag="1345" id1="487251" id2="17" version="1065353216">Anti-radiation serum. Water filters.</text>
+		<text bitflag="1345" id1="487253" id2="17" version="1065353216">Help you survive that power battery. Still, if that's all that's missing, we can count ourselves lucky.</text>
+		<text bitflag="1345" id1="487255" id2="17" version="1065353216">Me and the others can pack up, start creeping to the next security zone... assuming you can recover those three pieces.</text>
+		<text bitflag="1345" id1="487256" id2="17" version="1065353216">Carbonite bomb from the armory, battery from hazard containment, serum from the water filters. You finish up here and I'll find them.</text>
+		<text bitflag="1360" id1="487256" id2="17" version="1065353216">Agreed.</text>
+		<text bitflag="1345" id1="487257" id2="17" version="1065353216">You got it.</text>
+		<text bitflag="1345" id1="487259" id2="17" version="1065353216">I'll be fine, but I don't want you dead at the hands of the Republic.</text>
+		<text bitflag="1360" id1="487259" id2="17" version="1065353216">Will all of you be okay?</text>
+		<text bitflag="3393" id1="487260" id2="17" version="1065353216">Paarkos will show them hidden paths.</text>
+		<text bitflag="1345" id1="487262" id2="17" version="1065353216">I will handle the Republic.</text>
+		<text bitflag="1345" id1="487264" id2="17" version="1065353216">That'll take care of that. Watch yourself.</text>
+		<text bitflag="1345" id1="487265" id2="17" version="1065353216">You stick to the plan. No improvising, no surprises. Got it?</text>
+		<text bitflag="1360" id1="487265" id2="17" version="1065353216">Stay out of trouble.</text>
+		<text bitflag="1345" id1="487266" id2="17" version="1065353216">Oh, I got it.</text>
+		<text bitflag="3393" id1="487268" id2="17" version="1065353216">The laboratory map. We gather what we need.</text>
+		<text bitflag="1345" id1="487270" id2="17" version="1065353216">We'll start scrounging for basic equipment. For the bigger stuff, though, guess it's the laboratories.</text>
+		<text bitflag="1345" id1="487271" id2="17" version="1065353216">Years back, my brother tried what you're saying--found traps, sensors, blast doors, force fields... got himself killed.</text>
+		<text bitflag="1345" id1="487273" id2="17" version="1065353216">Only way in is to short out what security you can and try to survive the rest. Takes prep we ain't done and a bundle of equipment.</text>
+		<text bitflag="1345" id1="487274" id2="17" version="1065353216">Then start putting together a list of resources we'll need.</text>
+		<text bitflag="1360" id1="487274" id2="17" version="1065353216">Let's get on it.</text>
+		<text bitflag="1345" id1="487276" id2="17" version="1065353216">The rest of you, I want maps, security assessments, anything you can get me. We'll do this job right.</text>
+		<text bitflag="1345" id1="487277" id2="17" version="1065353216">Yes, boss.</text>
+		<text bitflag="1345" id1="487278" id2="17" version="1065353216">No one said it would be easy. But if you're not in all the way....</text>
+		<text bitflag="1360" id1="487278" id2="17" version="1065353216">Are you with me or not?</text>
+		<text bitflag="1345" id1="487279" id2="17" version="1065353216">Huh. In.</text>
+		<text bitflag="3393" id1="487281" id2="17" version="1065353216">Paarkos will join you.</text>
+		<text bitflag="1345" id1="487285" id2="17" version="1065353216">For now.</text>
+		<text bitflag="1345" id1="487287" id2="17" version="1065353216">Don't have any other plans, so... I'll start a list of what we need....</text>
+		<text bitflag="1345" id1="487288" id2="17" version="1065353216">You need to give me something useful. I'm on a tight schedule.</text>
+		<text bitflag="1360" id1="487288" id2="17" version="1065353216">Don't waste my time.</text>
+		<text bitflag="1345" id1="487289" id2="17" version="1065353216">That's going to make life difficult.</text>
+		<text bitflag="1345" id1="487291" id2="17" version="1065353216">But you can handle it... right?</text>
+		<text bitflag="1345" id1="487293" id2="17" version="1065353216">We need a way.</text>
+		<text bitflag="1345" id1="487295" id2="17" version="1065353216">You can do this, though?</text>
+		<text bitflag="1345" id1="487297" id2="17" version="1065353216">I'm sure you'll find a way.</text>
+		<text bitflag="1345" id1="487299" id2="17" version="1065353216">Yeah. Yeah, I can manage.</text>
+		<text bitflag="1345" id1="487301" id2="17" version="1065353216">It's doable, though?</text>
+		<text bitflag="1345" id1="487303" id2="17" version="1065353216">Sure, darling. Why not?</text>
+		<text bitflag="1345" id1="487305" id2="17" version="1065353216">Now, let me get you a list of what we need...</text>
+		<text bitflag="1345" id1="487307" id2="17" version="1065353216">...bet we can pick some tools off the bodies, but not the specialized stuff. Take a look.</text>
+		<text bitflag="1345" id1="487309" id2="17" version="1065353216">Repulsor coils, rebreathers, computer spikes... carbonite traps? Where're we going to get this?</text>
+		<text bitflag="1345" id1="487311" id2="17" version="1065353216">Computer spikes and rebreathers are simple... but engineering equipment? Where do we find that here?</text>
+		<text bitflag="1345" id1="487313" id2="17" version="1065353216">Carbonite traps, repulsor coils... I couldn't requisition half of this from the Chiss, sir.</text>
+		<text bitflag="1345" id1="487315" id2="17" version="1065353216">Radiation equipment, carbonite traps... interesting choices, but these items will be... difficult to procure.</text>
+		<text bitflag="1345" id1="487317" id2="17" version="1065353216">Don't look at me--my brother took five years to assemble this stuff. It's up to our miracle worker.</text>
+		<text bitflag="1345" id1="487318" id2="17" version="1065353216">Repulsor coils, rebreathers, computer spikes, carbonite traps... all the best, but I don't have a clue where you'll find it.</text>
+		<text bitflag="1345" id1="487319" id2="17" version="1065353216">We can't exactly order this stuff from offworld, so we'll have to improvise. Tear apart the housing, guard towers, anything you can.</text>
+		<text bitflag="1360" id1="487319" id2="17" version="1065353216">We'll need to salvage it.</text>
+		<text bitflag="1345" id1="487320" id2="17" version="1065353216">Been a long time. Moving out, then.</text>
+		<text bitflag="1345" id1="487322" id2="17" version="1065353216">Let the killing begin.</text>
+		<text bitflag="1345" id1="487324" id2="17" version="1065353216">Think. We've lived on Belsavis for years. How do we get special equipment?</text>
+		<text bitflag="1360" id1="487324" id2="17" version="1065353216">One of you must have an idea.</text>
+		<text bitflag="3393" id1="487325" id2="17" version="1065353216">Paarkos has an answer.</text>
+		<text bitflag="1345" id1="487327" id2="17" version="1065353216">He wants to send you to the laboratories. Huh.</text>
+		<text bitflag="1345" id1="487329" id2="17" version="1065353216">Get yourselves ready. We're going to blast every hideout and Republic ship until we have what we need.</text>
+		<text bitflag="1360" id1="487329" id2="17" version="1065353216">Time to raid the Republic.</text>
+		<text bitflag="1345" id1="487330" id2="17" version="1065353216">Well, I could use some sport.</text>
+		<text bitflag="1345" id1="487332" id2="17" version="1065353216">This I like.</text>
+		<text bitflag="3393" id1="487334" id2="17" version="1065353216">Chaney. The laboratories.</text>
+		<text bitflag="1345" id1="487336" id2="17" version="1065353216">What? Hey! The laboratories. The medical facilities.</text>
+		<text bitflag="1345" id1="487338" id2="17" version="1065353216">The labs'll be sealed off. Guards'll set up a kill zone to keep us from looting the place.</text>
+		<text bitflag="1345" id1="487340" id2="17" version="1065353216">The laboratories have all sorts of equipment, and they can track more down. One person slips in and opens the back entrance... we can all follow.</text>
+		<text bitflag="1345" id1="487341" id2="17" version="1065353216">I'm not worried about Republic kill zones. If we need that equipment, I'll get us inside--just be ready to follow.</text>
+		<text bitflag="1360" id1="487341" id2="17" version="1065353216">Leave it to me.</text>
+		<text bitflag="1345" id1="487342" id2="17" version="1065353216">Sure, boss.</text>
+		<text bitflag="1345" id1="487344" id2="17" version="1065353216">I never heard of any laboratory on Belsavis.</text>
+		<text bitflag="1360" id1="487344" id2="17" version="1065353216">Explain this laboratory.</text>
+		<text bitflag="1345" id1="487345" id2="17" version="1065353216">It's in the next security zone. They say it's a medlab, but everyone knows they experiment on prisoners.</text>
+		<text bitflag="1345" id1="487347" id2="17" version="1065353216">It's a stupid idea--but then, I ain't heard any better.</text>
+		<text bitflag="1345" id1="487349" id2="17" version="1065353216">You survive... maybe we have more to talk about.</text>
+		<text bitflag="1345" id1="487350" id2="17" version="1065353216">I could get inside a Republic lab. What's your plan while I'm gone?</text>
+		<text bitflag="1360" id1="487350" id2="17" version="1065353216">If I go, what'll you be doing?</text>
+		<text bitflag="1345" id1="487351" id2="17" version="1065353216">Well... so far we've barely had time to pick up a blaster, so once we've armed ourselves, we can be more useful.</text>
+		<text bitflag="1345" id1="487353" id2="17" version="1065353216">I'm working on the computers now. Soon as you open a way, I'll know. We all follow. Sir.</text>
+		<text bitflag="1345" id1="487355" id2="17" version="1065353216">Now, Ohta, why are you talking like that with a lady around?</text>
+		<text bitflag="1345" id1="487357" id2="17" version="1065353216">It is my nature to shed blood. I will not hide it or wait any longer.</text>
+		<text bitflag="1345" id1="487359" id2="17" version="1065353216">Huh. Don't think you have to.</text>
+		<text bitflag="1345" id1="487361" id2="17" version="1065353216">Remember to make an example out of the troublemaker.</text>
+		<text bitflag="1345" id1="487363" id2="17" version="1065353216">They expect a leader, but that's what they hate. Surprise them.</text>
+		<text bitflag="1345" id1="487365" id2="17" version="1065353216">Everyone's watching us, sir...</text>
+		<text bitflag="1345" id1="487367" id2="17" version="1065353216">Your first test of leadership.</text>
+		<text bitflag="1345" id1="487369" id2="17" version="1065353216">We are grateful you freed us. Now flee before I strangle you.</text>
+		<text bitflag="1345" id1="487370" id2="17" version="1065353216">I don't have time for games. If you think you can kill me, take your shot. Otherwise, sit down.</text>
+		<text bitflag="1360" id1="487370" id2="17" version="1065353216">If you have a problem, tough.</text>
+		<text bitflag="1345" id1="487371" id2="17" version="1065353216">You've got fangs. You and me can go far together.</text>
+		<text bitflag="1360" id1="487371" id2="17" version="1065353216">I like your attitude.</text>
+		<text bitflag="1345" id1="487372" id2="17" version="1065353216">Heh.</text>
+		<text bitflag="1345" id1="487373" id2="17" version="1065353216">That's a generous offer. Tell you what--I'll think it over.</text>
+		<text bitflag="1360" id1="487373" id2="17" version="1065353216">Troublemaker, eh? [Shoot him]</text>
+		<text bitflag="1345" id1="487376" id2="17" version="1065353216">Stupid. Stupid...</text>
+		<text bitflag="1345" id1="487377" id2="17" version="1065353216">Some of you know about Megasecurity Ward 23. Deepest pit in this prison. Together, we have the skills to get inside.</text>
+		<text bitflag="1345" id1="487379" id2="17" version="1065353216">Break in, take what they're hiding--heist of the century. Follow my lead and we'll all walk away rich.</text>
+		<text bitflag="1345" id1="487381" id2="17" version="1065353216">With what's in there, we can all make it off this rock. You just need to follow my lead.</text>
+		<text bitflag="1345" id1="487383" id2="17" version="1065353216">Don't bother arguing. It's not like you have a choice.</text>
+		<text bitflag="3393" id1="487384" id2="17" version="1065353216">Megasecurity Ward 23. Paarkos has heard the rumors.</text>
+		<text bitflag="1345" id1="487386" id2="17" version="1065353216">Dead. Just like that...</text>
+		<text bitflag="1345" id1="487388" id2="17" version="1065353216">Heh. Don't worry about Chaney. Kanjon Slyke. That's Paarkos, and you just killed Ohta.</text>
+		<text bitflag="1345" id1="487390" id2="17" version="1065353216">Always wanted to be rich...</text>
+		<text bitflag="1345" id1="487392" id2="17" version="1065353216">Want to get out. Need to get out...</text>
+		<text bitflag="1345" id1="487394" id2="17" version="1065353216">Don't like not knowing, don't want to die...</text>
+		<text bitflag="1345" id1="487396" id2="17" version="1065353216">Heh. Kanjon Slyke--she's Chaney, that's Paarkos and Ohta.</text>
+		<text bitflag="1345" id1="487398" id2="17" version="1065353216">You got confidence, pretty bird, but Megasecurity ain't just breaking windows and slitting throats. We're talking bad things there.</text>
+		<text bitflag="1345" id1="487399" id2="17" version="1065353216">Bad things? See, I can enjoy those....</text>
+		<text bitflag="1360" id1="487399" id2="17" version="1065353216">[Flirt] I like danger.</text>
+		<text bitflag="1345" id1="487400" id2="17" version="1065353216">Nice, darling. This might work out after all.</text>
+		<text bitflag="3393" id1="487402" id2="17" version="1065353216">You spoke of the Megasecurity Ward.</text>
+		<text bitflag="1345" id1="487404" id2="17" version="1065353216">What about the ward?</text>
+		<text bitflag="1345" id1="487406" id2="17" version="1065353216">You sound pretty sure, but Megasecurity ain't just breaking windows and slitting throats. We're talking bad things there.</text>
+		<text bitflag="1345" id1="487407" id2="17" version="1065353216">I take it you have some experience.</text>
+		<text bitflag="1360" id1="487407" id2="17" version="1065353216">What do you know about it?</text>
+		<text bitflag="1345" id1="487408" id2="17" version="1065353216">I didn't pick this crew at random. You know this can work.</text>
+		<text bitflag="1360" id1="487408" id2="17" version="1065353216">That's why I came to you.</text>
+		<text bitflag="1345" id1="487409" id2="17" version="1065353216">You're awfully soft for a professional killer.</text>
+		<text bitflag="1360" id1="487409" id2="17" version="1065353216">You sound like a coward.</text>
+		<text bitflag="1345" id1="487410" id2="17" version="1065353216">I'm a common sense man, with a clue what I'm getting into.</text>
+		<text bitflag="1345" id1="487414" id2="17" version="1065353216">Don't think we're on the same page.</text>
+		<text bitflag="1345" id1="487415" id2="17" version="1065353216">Somewhere in here, you're going to trigger a gas attack. There's a rebreather with your equipment; you want to use it.</text>
+		<text bitflag="1345" id1="487418" id2="17" version="1065353216">Hope this message finds you, pretty bird. That reward of yours panned out.</text>
+		<text bitflag="1345" id1="487420" id2="17" version="1065353216">Hey, boss. Hope this message finds you. That reward of yours panned out.</text>
+		<text bitflag="1345" id1="487422" id2="17" version="1065353216">Imps pay pretty well, and they got me off Belsavis. I'm a free man now.</text>
+		<text bitflag="1345" id1="487424" id2="17" version="1065353216">Thought I'd show you some appreciation, offer a little tip--job I have to pass on.</text>
+		<text bitflag="1345" id1="487426" id2="17" version="1065353216">Follow these coordinates, and there's a prize waiting. Think of me when you're fighting for it.</text>
+		<text bitflag="1345" id1="487427" id2="17" version="1065353216">Follow these coordinates, and there's a prize waiting. You just have to fight for it.</text>
+		<text bitflag="3393" id1="930161" id2="17" version="1065353216">Paarkos does not participate in blackmail.</text>
+	</file_content>
+</stb_file>

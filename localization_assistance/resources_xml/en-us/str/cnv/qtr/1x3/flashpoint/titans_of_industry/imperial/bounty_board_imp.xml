@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x3/flashpoint/titans_of_industry/imperial/bounty_board_imp.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1113788" id2="17" version="1065353216">++CZ-198 Network Remap
+++++Init. V-Wedge-N3 Protocol...
+
+++Transmission Successful++
+
+Direct Message From Moff Kresk:
+
+Can you believe it! Faced with incurring the Empire's fury, the armed enforcers of facility CZ-198 have decided to back their employer, Rasmus Blys. This will not do! Let's make an example of them, shall we?
+
+++END++</text>
+		<text bitflag="321" id1="1113789" id2="17" version="1065353216">++CZ-198 Network Remap
+++++Init. V-Wedge-N3 Protocol...
+
+++Transmission Successful++
+
+It should come as no surprise that Czerka has developed a top-shelf combat droid. The ZX-10 line is highly durable and extremely deadly. However, the designs cannot be found anywhere within CZ-198's datastores. Furthermore, the existing models are secured with a multi-layered security protocol that renders the droids useless before they can be reprogrammed.
+
+Our slicers have procured a code that will cause an electrical overstress of the ZX-10 storage/repair pods. As these droids cannot be used as Imperial assets, you are to enter this code on the pods' keypads, which will destroy the droids within. Note that there is a chance, however slight, that a droid might prematurely disengage from its pod and attack.
+
+IMPERIAL COMMAND
+++END++</text>
+		<text bitflag="321" id1="1113790" id2="17" version="1065353216">++CZ-198 Network Remap
+++++Init. V-Wedge-N3 Protocol...
+
+++Transmission Successful++
+
+The scientists at Czerka have somehow managed to synthesize kolto. We've fully wiped the formula from CZ-198 databanks, ensuring the Republic cannot obtain it. Destroy any synthetic kolto found at the depot so that the Republic has no chance of building up its own supply.
+
+Also found in Czerka's databanks were logs of shipments containing a biotoxin ingeniously derived from havrap marrow. We would very much like to obtain as much of this biotoxin as possible for use in our continued efforts against the Empire's enemies.
+
+Destroy the kolto. Take the biotoxin. For the Empire.
+
+IMPERIAL COMMAND
+++END++</text>
+		<text bitflag="321" id1="1113791" id2="17" version="1065353216">++CZ-198 Network Remap
+++++Init. V-Wedge-N3 Protocol...
+
+++Transmission Successful++
+
+In an apparent rush to keep its most valuable assets out of Imperial hands, some dutiful Czerka employees attempted to dispose of an anti-toxin designed to protect against their deadly havrap-marrow biotoxin. We would have need of this anti-toxin in the field, so I had our slicers power down the trash compactor the anti-toxin container was tossed into.
+
+Make your way into the trash compactor and see if you can't procure this anti-toxin.
+
+IMPERIAL COMMAND
+++END++</text>
+		<text bitflag="321" id1="1118393" id2="17" version="1065353216">Aid the Empire by completing the following missions on CZ-198:
+
+[DAILY] Staff Cuts
+[DAILY] Droid Demolition
+[DAILY] What's Yours is Mine
+[DAILY] Anti-Toxin Acquisition
+[HEROIC 2+] Off Mission</text>
+		<text bitflag="321" id1="1157736" id2="17" version="1065353216">++CZ-198 Network Remap
+++++Init. V-Wedge-N3 Protocol...
+
+++Transmission Successful++
+
+A group of Czerka engineers have panicked and activated a military grade eradicator droid and removed it's targeting parameters.  Left unchecked, it will destroy much of this facility before we can utilize it.
+
+Destroy it for the Empire.
+
+IMPERIAL COMMAND
+++END++</text>
+	</file_content>
+</stb_file>

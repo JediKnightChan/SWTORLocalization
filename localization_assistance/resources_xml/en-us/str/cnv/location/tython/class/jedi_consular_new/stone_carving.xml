@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>15</strs>
+		<file_name>/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/stone_carving.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="91857" id2="17" version="1065353216">[As soon as you touch the stone, you smell something seeping into the room.]</text>
+		<text bitflag="3393" id1="91859" id2="17" version="1065353216">Small hunter, I scent--yes, is cyanogen gas. Poison. Will not harm me, but you....</text>
+		<text bitflag="321" id1="91861" id2="17" version="1065353216">[It smells like cyanogen gas, an often-deadly poison.]</text>
+		<text bitflag="321" id1="91863" id2="17" version="1065353216">[The smell of gas is getting worse. Already it is becoming difficult to breathe.]</text>
+		<text bitflag="1345" id1="91864" id2="17" version="1065353216">I will not die without a fight!</text>
+		<text bitflag="1360" id1="91864" id2="17" version="1065353216">[Attack the stone]</text>
+		<text bitflag="321" id1="91865" id2="17" version="1065353216">[As your blow hits, the smell of cyanogen gas begins to fade.]</text>
+		<text bitflag="321" id1="91867" id2="17" version="1065353216">[After a minute or two, you can breathe easily again.]</text>
+		<text bitflag="1345" id1="91868" id2="17" version="1065353216">There must be a switch or lever somewhere.</text>
+		<text bitflag="1360" id1="91868" id2="17" version="1065353216">[Try to stop the gas]</text>
+		<text bitflag="321" id1="91869" id2="17" version="1065353216">[As you search, the smell of gas grows stronger, and you pass out.]</text>
+		<text bitflag="1345" id1="91871" id2="17" version="1065353216">I will not be afraid. I can survive this.</text>
+		<text bitflag="1360" id1="91871" id2="17" version="1065353216">[Meditate and endure it]</text>
+		<text bitflag="321" id1="91874" id2="17" version="1065353216">[You suffer the cyanogen gas for several minutes before it recedes.]</text>
+		<text bitflag="321" id1="91876" id2="17" version="1065353216">[Your Jedi training has kept you alive, but you feel deathly ill.]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>99</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/world/breakthrough/comm_station.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="709630" id2="17" version="1065353216">That's our man. Can you get us control of Balmorra's satellite system?</text>
+		<text bitflag="1345" id1="709632" id2="17" version="1065353216">Not exactly. But I can shut it down, that's for sure.</text>
+		<text bitflag="1345" id1="709633" id2="17" version="1065353216">That's a dangerous task for a tech.</text>
+		<text bitflag="1360" id1="709633" id2="17" version="1065353216">I'm still impressed.</text>
+		<text bitflag="1345" id1="709634" id2="17" version="1065353216">A fair fight is a good start.</text>
+		<text bitflag="1360" id1="709634" id2="17" version="1065353216">I'm still impressed.</text>
+		<text bitflag="1345" id1="709635" id2="17" version="1065353216">Shutting down a satellite system is nothing to sneeze at.</text>
+		<text bitflag="1360" id1="709635" id2="17" version="1065353216">I'm still impressed.</text>
+		<text bitflag="1345" id1="709636" id2="17" version="1065353216">Hacking past a Hawkeye defense? I deserve a medal!</text>
+		<text bitflag="1345" id1="709638" id2="17" version="1065353216">What do you mean, not exactly?</text>
+		<text bitflag="1360" id1="709638" id2="17" version="1065353216">Can you elaborate?</text>
+		<text bitflag="1360" id1="709639" id2="17" version="1065353216">That's not promising.</text>
+		<text bitflag="1345" id1="709640" id2="17" version="1065353216">Neither do I. Unless we have control of the system, any attack from Bugtown is going to fail.</text>
+		<text bitflag="1345" id1="709642" id2="17" version="1065353216">I can get you one unauthorized command. Then the system will lock up, and it'll take the Hawkeyes weeks to detangle it.</text>
+		<text bitflag="1345" id1="709644" id2="17" version="1065353216">That'll have to be enough. How do we make this happen?</text>
+		<text bitflag="1345" id1="709646" id2="17" version="1065353216">The hack needs to be planted in the satellite control tower's main computers, right where Admiral Riserre and his men are stationed.</text>
+		<text bitflag="1345" id1="709647" id2="17" version="1065353216">Does the admiral have any other defenses?</text>
+		<text bitflag="1360" id1="709647" id2="17" version="1065353216">What should I expect?</text>
+		<text bitflag="1345" id1="709648" id2="17" version="1065353216">Just his track record. Even in defeat, he always manages to strike the last blow.</text>
+		<text bitflag="1345" id1="709650" id2="17" version="1065353216">There's no way to draw them out?</text>
+		<text bitflag="1360" id1="709650" id2="17" version="1065353216">I don't like those odds.</text>
+		<text bitflag="1345" id1="709651" id2="17" version="1065353216">Using the satellite system was the admiral's idea. He wants to keep it as badly as we want to steal it.</text>
+		<text bitflag="1360" id1="709653" id2="17" version="1065353216">They won't stop me.</text>
+		<text bitflag="1345" id1="709654" id2="17" version="1065353216">Once the fight's over, just insert this disc into the main control console. It'll upload the hack.</text>
+		<text bitflag="1345" id1="709656" id2="17" version="1065353216">I need to get to a computer. Thanks again for the rescue.</text>
+		<text bitflag="1345" id1="709658" id2="17" version="1065353216">Taking down Admiral Riserre and his men is a tall order. Are you sure you're up to it?</text>
+		<text bitflag="1345" id1="709659" id2="17" version="1065353216">The admiral will surrender the satellite system, or fall defending it.</text>
+		<text bitflag="1360" id1="709659" id2="17" version="1065353216">Absolutely sure.</text>
+		<text bitflag="1345" id1="709660" id2="17" version="1065353216">Knowing the admiral, surrender isn't an option.</text>
+		<text bitflag="1345" id1="709662" id2="17" version="1065353216">Are you sure your troops can take on the Imperial army?</text>
+		<text bitflag="1360" id1="709662" id2="17" version="1065353216">Don't worry about me.</text>
+		<text bitflag="1345" id1="709663" id2="17" version="1065353216">Fair enough.</text>
+		<text bitflag="1345" id1="709665" id2="17" version="1065353216">Only difference between us is a whole lot of blasters.</text>
+		<text bitflag="1360" id1="709665" id2="17" version="1065353216">He's just an Imperial.</text>
+		<text bitflag="1345" id1="709666" id2="17" version="1065353216">Grit and determination beats formal training in my book.</text>
+		<text bitflag="1360" id1="709668" id2="17" version="1065353216">I know the dangers.</text>
+		<text bitflag="1360" id1="709669" id2="17" version="1065353216">I'm up for anything.</text>
+		<text bitflag="1345" id1="709670" id2="17" version="1065353216">Don't underestimate the admiral. He's experienced, ruthless and, worst of all, smart.</text>
+		<text bitflag="1345" id1="709672" id2="17" version="1065353216">Sarkus and I will wait for your signal. We'll be ready.</text>
+		<text bitflag="1345" id1="709676" id2="17" version="1065353216">I was starting to get worried. There's a lot of Imperial movement going on up there.</text>
+		<text bitflag="1345" id1="709677" id2="17" version="1065353216">Sarkus sabotaged a few things to keep them busy.</text>
+		<text bitflag="1360" id1="709677" id2="17" version="1065353216">All part of the plan.</text>
+		<text bitflag="1360" id1="709678" id2="17" version="1065353216">I took care of it.</text>
+		<text bitflag="1345" id1="709679" id2="17" version="1065353216">I'm alive, so I won't complain that you didn't mention my help. Iain Sarkus, Hawkeye tech.</text>
+		<text bitflag="1345" id1="709681" id2="17" version="1065353216">That's the result of some pointless experiments.</text>
+		<text bitflag="1360" id1="709681" id2="17" version="1065353216">Blame the Hawkeye.</text>
+		<text bitflag="1345" id1="709682" id2="17" version="1065353216">Iain Sarkus, sir. I left the Empire a few thank you presents for their hospitality.</text>
+		<text bitflag="1345" id1="709684" id2="17" version="1065353216">Sarkus works at a well-armed, auxiliary satellite station used to spy on the locals. There's an armory on site and plenty of Imperial troops.</text>
+		<text bitflag="1345" id1="709686" id2="17" version="1065353216">He reports to one of the Empire's best, Admiral Riserre. No wonder they've got control.</text>
+		<text bitflag="1345" id1="709687" id2="17" version="1065353216">That sounds like firsthand experience talking.</text>
+		<text bitflag="1360" id1="709687" id2="17" version="1065353216">So you've faced him before.</text>
+		<text bitflag="1345" id1="709688" id2="17" version="1065353216">Fighting the admiral's like going up against a durasteel wall.</text>
+		<text bitflag="1345" id1="709690" id2="17" version="1065353216">Should I be worried?</text>
+		<text bitflag="1360" id1="709690" id2="17" version="1065353216">Does this change things?</text>
+		<text bitflag="1345" id1="709691" id2="17" version="1065353216">You should be careful. The only way to beat Admiral Riserre is to stay one step ahead.</text>
+		<text bitflag="1360" id1="709693" id2="17" version="1065353216">He won't get in my way.</text>
+		<text bitflag="1345" id1="709694" id2="17" version="1065353216">I don't advocate wholesale slaughter, but this whole plan goes belly up if Admiral Riserre finds out.</text>
+		<text bitflag="1345" id1="709696" id2="17" version="1065353216">Do what you have to and get Sarkus back to the shuttle pad. He'll tell us where to go from there.</text>
+		<text bitflag="1360" id1="709697" id2="17" version="1065353216">Shouldn't take much.</text>
+		<text bitflag="1345" id1="709698" id2="17" version="1065353216">Let's hope so. We're not going to get another shot at this.</text>
+		<text bitflag="1360" id1="709700" id2="17" version="1065353216">I'm on my way now.</text>
+		<text bitflag="1345" id1="709701" id2="17" version="1065353216">If Sarkus is willing to help, we'll be there.</text>
+		<text bitflag="1360" id1="709701" id2="17" version="1065353216">We'll see about that.</text>
+		<text bitflag="1345" id1="709702" id2="17" version="1065353216">Let's hope we're not risking our necks for a traitor.</text>
+		<text bitflag="1360" id1="709702" id2="17" version="1065353216">We better be careful.</text>
+		<text bitflag="1345" id1="709703" id2="17" version="1065353216">I'll make sure he's on the level.</text>
+		<text bitflag="1360" id1="709703" id2="17" version="1065353216">We better be careful.</text>
+		<text bitflag="1345" id1="709704" id2="17" version="1065353216">Sarkus is too smart to join the Empire. Or he better be.</text>
+		<text bitflag="1345" id1="709706" id2="17" version="1065353216">I'll be standing by.</text>
+		<text bitflag="1345" id1="709709" id2="17" version="1065353216">Commander Madine? I've recovered your intel. The agent didn't make it.</text>
+		<text bitflag="1345" id1="709710" id2="17" version="1065353216">Even so, that's the best news I've gotten in a while. There's enough data here to build another satellite system...</text>
+		<text bitflag="1345" id1="709712" id2="17" version="1065353216">...and it's all in Balmorran shorthand. Looks like the system's operated by the Hawkeye techs.</text>
+		<text bitflag="1345" id1="709714" id2="17" version="1065353216">The Hawkeyes are the best technicians on Balmorra. To control the satellite system, we'll need their help.</text>
+		<text bitflag="1345" id1="709715" id2="17" version="1065353216">How do we know they'll want to help?</text>
+		<text bitflag="1360" id1="709715" id2="17" version="1065353216">If they're on our side.</text>
+		<text bitflag="1345" id1="709716" id2="17" version="1065353216">I doubt the occupation's made them warm to the Empire.</text>
+		<text bitflag="1360" id1="709718" id2="17" version="1065353216">Where do I find them?</text>
+		<text bitflag="1345" id1="709719" id2="17" version="1065353216">The best people wouldn't work for the Empire.</text>
+		<text bitflag="1360" id1="709719" id2="17" version="1065353216">Can't be that smart.</text>
+		<text bitflag="1345" id1="709720" id2="17" version="1065353216">Not everyone's lucky enough to have the Force, Master Jedi.</text>
+		<text bitflag="1345" id1="709722" id2="17" version="1065353216">We can't all make Havoc Squad, Captain.</text>
+		<text bitflag="1345" id1="709724" id2="17" version="1065353216">A gun to your head makes a pretty persuasive argument.</text>
+		<text bitflag="1345" id1="709726" id2="17" version="1065353216">Most of the Hawkeyes are stationed at the satellite control tower, but there's one we might be able to reach.</text>
+		<text bitflag="1345" id1="709728" id2="17" version="1065353216">Iain Sarkus... I recognize the name. He's young, but brilliant. Bit of a wisecracker.</text>
+		<text bitflag="1345" id1="709729" id2="17" version="1065353216">A Jedi learns to clear the mind of all distractions.</text>
+		<text bitflag="1360" id1="709729" id2="17" version="1065353216">That won't bother me.</text>
+		<text bitflag="1345" id1="709730" id2="17" version="1065353216">I'm more worried that he'll distract the Empire.</text>
+		<text bitflag="1345" id1="709732" id2="17" version="1065353216">This could get dangerous. I don't want the kid to get hurt.</text>
+		<text bitflag="1360" id1="709732" id2="17" version="1065353216">A civ? Are you sure?</text>
+		<text bitflag="1345" id1="709733" id2="17" version="1065353216">If he's willing to help, he's accepting the risk--just like you and me.</text>
+		<text bitflag="1345" id1="709735" id2="17" version="1065353216">I'd say he's met his match.</text>
+		<text bitflag="1360" id1="709735" id2="17" version="1065353216">We'll get along swell.</text>
+		<text bitflag="1345" id1="709736" id2="17" version="1065353216">On that, we agree.</text>
+		<text bitflag="1360" id1="709738" id2="17" version="1065353216">He's all we've got.</text>
+		<text bitflag="1345" id1="709739" id2="17" version="1065353216">We'll make do. The Republic always has.</text>
+		<text bitflag="1345" id1="709741" id2="17" version="1065353216">He'll behave. I can promise you that.</text>
+		<text bitflag="1360" id1="709741" id2="17" version="1065353216">I'll set him straight.</text>
+		<text bitflag="321" id1="709742" id2="17" version="1065353216">[This comm station is inactive.]</text>
+		<text bitflag="1345" id1="709744" id2="17" version="1065353216">Reporting in, Commander. We made it back safely.</text>
+	</file_content>
+</stb_file>

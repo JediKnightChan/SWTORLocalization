@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/ambient/hub1/green/republic4.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="573352" id2="17" version="1065353216">I'm looking for humidity sensors. Sandstorm did a number on my vaporators.</text>
+		<text bitflag="3393" id1="573354" id2="17" version="1065353216">Sensors in stock. Discount on bulk orders!</text>
+		<text bitflag="1345" id1="573356" id2="17" version="1065353216">Great. I'll take, oh, ten sensors, and... hold on. I recognize those scraps. You stole them off my farm!</text>
+		<text bitflag="3393" id1="573358" id2="17" version="1065353216">We no steal! We salvage! Now you buy, with discount!</text>
+		<text bitflag="1345" id1="573360" id2="17" version="1065353216">Fine, but don't let me catch your friends near my vaporators again.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>115</strs>
+		<file_name>/resources/en-us/str/gui/itm/setbonuses.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1" id2="209177" version="1065353216">Test Itemset</text>
+		<text bitflag="1345" id1="2" id2="209177" version="1065353216">Lightbringer's</text>
+		<text bitflag="1345" id1="3" id2="209177" version="1065353216">Whirling Shield's</text>
+		<text bitflag="1345" id1="4" id2="209177" version="1065353216">Enlightened Jedi's</text>
+		<text bitflag="1345" id1="5" id2="209177" version="1065353216">Pillar ofLight's</text>
+		<text bitflag="1345" id1="6" id2="209177" version="1065353216">Warrior Captain's</text>
+		<text bitflag="1345" id1="7" id2="209177" version="1065353216">Peacewalker's</text>
+		<text bitflag="1345" id1="8" id2="209177" version="1065353216">Spec Ops</text>
+		<text bitflag="1345" id1="9" id2="209177" version="1065353216">Techsuit</text>
+		<text bitflag="1345" id1="10" id2="209177" version="1065353216">Blademaster's</text>
+		<text bitflag="1345" id1="11" id2="209177" version="1065353216">Ascendant's Alloy</text>
+		<text bitflag="1345" id1="12" id2="209177" version="1065353216">Heavy Gunner's</text>
+		<text bitflag="1345" id1="13" id2="209177" version="1065353216">Arena Champion's</text>
+		<text bitflag="1345" id1="14" id2="209177" version="1065353216">Savior's</text>
+		<text bitflag="1345" id1="15" id2="209177" version="1065353216">Stalwart Defender's</text>
+		<text bitflag="1345" id1="16" id2="209177" version="1065353216">Deathbringer's</text>
+		<text bitflag="1345" id1="17" id2="209177" version="1065353216">Shadowblade's</text>
+		<text bitflag="1345" id1="18" id2="209177" version="1065353216">Sith Corruptor's</text>
+		<text bitflag="1345" id1="19" id2="209177" version="1065353216">Dark Pact</text>
+		<text bitflag="1345" id1="20" id2="209177" version="1065353216">Dark Jedi's</text>
+		<text bitflag="1345" id1="21" id2="209177" version="1065353216">Nightstalker's</text>
+		<text bitflag="1345" id1="22" id2="209177" version="1065353216">Annihilator's</text>
+		<text bitflag="1345" id1="23" id2="209177" version="1065353216">Underworld Surgeon's</text>
+		<text bitflag="1345" id1="24" id2="209177" version="1065353216">Dark Slayer's</text>
+		<text bitflag="1345" id1="25" id2="209177" version="1065353216">Voidwalker's</text>
+		<text bitflag="1345" id1="26" id2="209177" version="1065353216">Blood-stained</text>
+		<text bitflag="1345" id1="27" id2="209177" version="1065353216">Butcher's</text>
+		<text bitflag="1345" id1="28" id2="209177" version="1065353216">Tech Medic's</text>
+		<text bitflag="1345" id1="29" id2="209177" version="1065353216">Indomitable</text>
+		<text bitflag="321" id1="34" id2="209177" version="1065353216">Rakata Force-Master's Gear</text>
+		<text bitflag="321" id1="35" id2="209177" version="1065353216">Rakata Force-Mystic's Gear</text>
+		<text bitflag="321" id1="36" id2="209177" version="1065353216">Rakata Stalker's Gear</text>
+		<text bitflag="321" id1="37" id2="209177" version="1065353216">Rakata Survivor's Gear</text>
+		<text bitflag="321" id1="38" id2="209177" version="1065353216">Rakata Vindicator's Gear</text>
+		<text bitflag="321" id1="39" id2="209177" version="1065353216">Rakata Weaponmaster's Gear</text>
+		<text bitflag="321" id1="40" id2="209177" version="1065353216">Rakata War Leader's Gear</text>
+		<text bitflag="321" id1="41" id2="209177" version="1065353216">Rakata Eliminator's Gear</text>
+		<text bitflag="321" id1="42" id2="209177" version="1065353216">Rakata Field Tech's Gear</text>
+		<text bitflag="321" id1="43" id2="209177" version="1065353216">Rakata Combat Tech's Gear</text>
+		<text bitflag="321" id1="44" id2="209177" version="1065353216">Rakata Enforcer's Gear</text>
+		<text bitflag="321" id1="45" id2="209177" version="1065353216">Rakata Combat Medic's Gear</text>
+		<text bitflag="321" id1="46" id2="209177" version="1065353216">Rakata Field Medic's Gear</text>
+		<text bitflag="321" id1="47" id2="209177" version="1065353216">Rakata Supercommando's Gear</text>
+		<text bitflag="321" id1="48" id2="209177" version="1065353216">Battlemaster Force-Master's Gear</text>
+		<text bitflag="321" id1="49" id2="209177" version="1065353216">Battlemaster Force-Mystic's Gear</text>
+		<text bitflag="321" id1="50" id2="209177" version="1065353216">Battlemaster Stalker's Gear</text>
+		<text bitflag="321" id1="51" id2="209177" version="1065353216">Battlemaster Survivor's Gear</text>
+		<text bitflag="321" id1="52" id2="209177" version="1065353216">Battlemaster Vindicator's Gear</text>
+		<text bitflag="321" id1="53" id2="209177" version="1065353216">Battlemaster Weaponmaster's Gear</text>
+		<text bitflag="321" id1="54" id2="209177" version="1065353216">Battlemaster War Leader's Gear</text>
+		<text bitflag="321" id1="55" id2="209177" version="1065353216">Battlemaster Eliminator's Gear</text>
+		<text bitflag="321" id1="56" id2="209177" version="1065353216">Battlemaster Field Tech's Gear</text>
+		<text bitflag="321" id1="57" id2="209177" version="1065353216">Battlemaster Combat Tech's Gear</text>
+		<text bitflag="321" id1="58" id2="209177" version="1065353216">Battlemaster Enforcer's Gear</text>
+		<text bitflag="321" id1="59" id2="209177" version="1065353216">Battlemaster Combat Medic's Gear</text>
+		<text bitflag="321" id1="60" id2="209177" version="1065353216">Battlemaster Field Medic's Gear</text>
+		<text bitflag="321" id1="61" id2="209177" version="1065353216">Battlemaster Supercommando's Gear</text>
+		<text bitflag="321" id1="289" id2="209177" version="1065353216">Force-Master's Gear</text>
+		<text bitflag="321" id1="290" id2="209177" version="1065353216">Force-Mystic's Gear</text>
+		<text bitflag="321" id1="291" id2="209177" version="1065353216">Stalker's Gear</text>
+		<text bitflag="321" id1="292" id2="209177" version="1065353216">Survivor's Gear</text>
+		<text bitflag="321" id1="293" id2="209177" version="1065353216">Vindicator's Gear</text>
+		<text bitflag="321" id1="294" id2="209177" version="1065353216">Weaponmaster's Gear</text>
+		<text bitflag="321" id1="295" id2="209177" version="1065353216">War Leader's Gear</text>
+		<text bitflag="321" id1="296" id2="209177" version="1065353216">Eliminator's Gear</text>
+		<text bitflag="321" id1="297" id2="209177" version="1065353216">Field Tech's Gear</text>
+		<text bitflag="321" id1="298" id2="209177" version="1065353216">Combat Tech's Gear</text>
+		<text bitflag="321" id1="299" id2="209177" version="1065353216">Enforcer's Gear</text>
+		<text bitflag="321" id1="300" id2="209177" version="1065353216">Combat Medic's Gear</text>
+		<text bitflag="321" id1="301" id2="209177" version="1065353216">Field Medic's Gear</text>
+		<text bitflag="321" id1="302" id2="209177" version="1065353216">Supercommando's Gear</text>
+		<text bitflag="321" id1="303" id2="209177" version="1065353216">Force-Master's Gear</text>
+		<text bitflag="321" id1="304" id2="209177" version="1065353216">Force-Mystic's Gear</text>
+		<text bitflag="321" id1="305" id2="209177" version="1065353216">Stalker's Gear</text>
+		<text bitflag="321" id1="306" id2="209177" version="1065353216">Survivor's Gear</text>
+		<text bitflag="321" id1="307" id2="209177" version="1065353216">Vindicator's Gear</text>
+		<text bitflag="321" id1="308" id2="209177" version="1065353216">Weaponmaster's Gear</text>
+		<text bitflag="321" id1="309" id2="209177" version="1065353216">War Leader's Gear</text>
+		<text bitflag="321" id1="310" id2="209177" version="1065353216">Eliminator's Gear</text>
+		<text bitflag="321" id1="311" id2="209177" version="1065353216">Field Tech's Gear</text>
+		<text bitflag="321" id1="312" id2="209177" version="1065353216">Combat Tech's Gear</text>
+		<text bitflag="321" id1="313" id2="209177" version="1065353216">Enforcer's Gear</text>
+		<text bitflag="321" id1="314" id2="209177" version="1065353216">Combat Medic's Gear</text>
+		<text bitflag="321" id1="315" id2="209177" version="1065353216">FIeld Medic's Gear</text>
+		<text bitflag="321" id1="316" id2="209177" version="1065353216">Supercommando's Gear</text>
+		<text bitflag="321" id1="256" id2="769338" version="1065353216">MK-4 Force-Master's Gear</text>
+		<text bitflag="321" id1="257" id2="769338" version="1065353216">MK-4 Force-Mystic's Gear</text>
+		<text bitflag="321" id1="258" id2="769338" version="1065353216">MK-4 Stalker's Gear</text>
+		<text bitflag="321" id1="259" id2="769338" version="1065353216">MK-4 Survivor's Gear</text>
+		<text bitflag="321" id1="260" id2="769338" version="1065353216">MK-4 Vindicator's Gear</text>
+		<text bitflag="321" id1="261" id2="769338" version="1065353216">MK-4 Weaponmaster's Gear</text>
+		<text bitflag="321" id1="262" id2="769338" version="1065353216">MK-4 War Leader's Gear</text>
+		<text bitflag="321" id1="263" id2="769338" version="1065353216">MK-4 Eliminator's Gear</text>
+		<text bitflag="321" id1="264" id2="769338" version="1065353216">MK-4 Field Tech's Gear</text>
+		<text bitflag="321" id1="265" id2="769338" version="1065353216">MK-4 Combat Tech's Gear</text>
+		<text bitflag="321" id1="266" id2="769338" version="1065353216">MK-4 Enforcer's Gear</text>
+		<text bitflag="321" id1="267" id2="769338" version="1065353216">MK-4 Combat Medic's Gear</text>
+		<text bitflag="321" id1="268" id2="769338" version="1065353216">MK-4 Field Medic's Gear</text>
+		<text bitflag="321" id1="269" id2="769338" version="1065353216">MK-4 Supercommando's Gear</text>
+		<text bitflag="321" id1="270" id2="769338" version="1065353216">Victorious Pioneer's Gear</text>
+		<text bitflag="321" id1="271" id2="769338" version="1065353216">Ancient Force-Master's Gear</text>
+		<text bitflag="321" id1="272" id2="769338" version="1065353216">Ancient Force-Mystic's Gear</text>
+		<text bitflag="321" id1="273" id2="769338" version="1065353216">Ancient Stalker's Gear</text>
+		<text bitflag="321" id1="274" id2="769338" version="1065353216">Ancient Survivor's Gear</text>
+		<text bitflag="321" id1="275" id2="769338" version="1065353216">Ancient Vindicator's Gear</text>
+		<text bitflag="321" id1="276" id2="769338" version="1065353216">Ancient Weaponmaster's Gear</text>
+		<text bitflag="321" id1="277" id2="769338" version="1065353216">Ancient War Leader's Gear</text>
+		<text bitflag="321" id1="278" id2="769338" version="1065353216">Ancient Eliminator's Gear</text>
+		<text bitflag="321" id1="279" id2="769338" version="1065353216">Ancient Field Tech's Gear</text>
+		<text bitflag="321" id1="280" id2="769338" version="1065353216">Ancient Combat Tech's Gear</text>
+		<text bitflag="321" id1="281" id2="769338" version="1065353216">Ancient Enforcer's Gear</text>
+		<text bitflag="321" id1="282" id2="769338" version="1065353216">Ancient Combat Medic's Gear</text>
+		<text bitflag="321" id1="283" id2="769338" version="1065353216">Ancient Field Medic's Gear</text>
+		<text bitflag="321" id1="284" id2="769338" version="1065353216">Ancient Supercommando's Gear</text>
+		<text bitflag="321" id1="285" id2="769338" version="1065353216">Unidentified MK-2 Equipment</text>
+	</file_content>
+</stb_file>

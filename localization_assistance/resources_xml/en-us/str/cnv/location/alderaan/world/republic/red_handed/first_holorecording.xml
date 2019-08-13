@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/alderaan/world/republic/red_handed/first_holorecording.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="721232" id2="17" version="1065353216">[You have managed to decrypt the holorecording, but it appears to be damaged. Only the first portion of it can be played.]</text>
+		<text bitflag="321" id1="721236" id2="17" version="1065353216">[The damaged holorecording cuts out here.]</text>
+		<text bitflag="321" id1="721238" id2="17" version="1065353216">[There is no sign that House Ulgo was involved. The rest of the holorecording may have more evidence--if it can be recovered.]</text>
+		<text bitflag="1345" id1="971826" id2="17" version="1065353216">[The assassin who murdered Gaul Panteer appears to be a member of House Rist.]</text>
+	</file_content>
+</stb_file>

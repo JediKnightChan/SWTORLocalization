@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>35</strs>
+		<file_name>/resources/en-us/str/gui/dueling.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; has challenged you to a duel.</text>
+		<text bitflag="321" id1="2" id2="221627" version="1065353216">Request Duel</text>
+		<text bitflag="321" id1="3" id2="221627" version="1065353216">Surrender Duel</text>
+		<text bitflag="321" id1="4" id2="221627" version="1065353216">You left the duel perimeter.</text>
+		<text bitflag="321" id1="5" id2="221627" version="1065353216">You entered a non-dueling region.</text>
+		<text bitflag="321" id1="6" id2="221627" version="1065353216">Duel begins &lt;&lt;1[now/in $d second/in $d seconds]&gt;&gt;!</text>
+		<text bitflag="321" id1="7" id2="221627" version="1065353216">Fight!</text>
+		<text bitflag="321" id1="8" id2="221627" version="1065353216">You must select a player in order to duel.</text>
+		<text bitflag="321" id1="9" id2="221627" version="1065353216">You have had too many duel requests rejected in a short time. You must wait before you can request another duel.</text>
+		<text bitflag="321" id1="10" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; has declined to duel with you.</text>
+		<text bitflag="321" id1="11" id2="221627" version="1065353216">You are already in a duel.</text>
+		<text bitflag="321" id1="12" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; is already in a duel.</text>
+		<text bitflag="321" id1="13" id2="221627" version="1065353216">You cannot request a duel while surrendering.</text>
+		<text bitflag="321" id1="14" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; cannot accept duel requests while surrendering.</text>
+		<text bitflag="321" id1="15" id2="221627" version="1065353216">You are in a non-dueling area.</text>
+		<text bitflag="321" id1="16" id2="221627" version="1065353216">You are too far away from &lt;&lt;1&gt;&gt; to request a duel.</text>
+		<text bitflag="321" id1="17" id2="221627" version="1065353216">You cannot request a duel while you are in a non-dueling region.</text>
+		<text bitflag="321" id1="18" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; cannot accept duel requests while in a non-dueling region.</text>
+		<text bitflag="321" id1="19" id2="221627" version="1065353216">You cannot start a duel while in combat.</text>
+		<text bitflag="321" id1="20" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; cannot accept duel requests while in combat.</text>
+		<text bitflag="321" id1="21" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; rejected a duel too recently. You must wait before requesting a duel.</text>
+		<text bitflag="321" id1="22" id2="221627" version="1065353216">You have challenged &lt;&lt;1&gt;&gt; to a duel.</text>
+		<text bitflag="321" id1="23" id2="221627" version="1065353216">You cannot accept a duel without a valid request.</text>
+		<text bitflag="321" id1="24" id2="221627" version="1065353216">You have accepted &lt;&lt;1&gt;&gt;'s challenge to a duel.</text>
+		<text bitflag="321" id1="25" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; has accepted your challenge to a duel.</text>
+		<text bitflag="321" id1="26" id2="221627" version="1065353216">You don't have a duel request to reject.</text>
+		<text bitflag="321" id1="27" id2="221627" version="1065353216">You have declined to duel with &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="28" id2="221627" version="1065353216">Your duel with &lt;&lt;1&gt;&gt; has been interrupted.</text>
+		<text bitflag="321" id1="29" id2="221627" version="1065353216">You won your duel with &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="30" id2="221627" version="1065353216">You lost your duel with &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="31" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; has won a duel with &lt;&lt;2&gt;&gt;!</text>
+		<text bitflag="321" id1="32" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; has left the dueling perimeter.</text>
+		<text bitflag="321" id1="33" id2="221627" version="1065353216">&lt;&lt;1&gt;&gt; is busy.</text>
+		<text bitflag="321" id1="34" id2="221627" version="1065353216">You cannot do that right now.</text>
+		<text bitflag="321" id1="258" id2="221627" version="1065353216">You cannot duel yourself.</text>
+	</file_content>
+</stb_file>

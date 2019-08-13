@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/jedi_consular/chapter_2/attis_station/airlock.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="641587" id2="17" version="1065353216">[The airlock leading into Attis Station is sealed tight. Someone has shot out the keypad.]</text>
+		<text bitflag="3393" id1="641589" id2="17" version="1065353216">Looks like Empire's work.</text>
+		<text bitflag="1345" id1="641591" id2="17" version="1065353216">Fried to a proverbial crisp. Crude, but sadly quite effective.</text>
+		<text bitflag="1345" id1="641593" id2="17" version="1065353216">Permacrete detonator would open it. If you don't mind a landslide.</text>
+		<text bitflag="1345" id1="641595" id2="17" version="1065353216">Sorry. There are Imperial soldiers wandering around. I had to hide for a bit.</text>
+		<text bitflag="1345" id1="641596" id2="17" version="1065353216">Is there a way to open this door without the codes?</text>
+		<text bitflag="1360" id1="641596" id2="17" version="1065353216">We're locked out.</text>
+		<text bitflag="1345" id1="641597" id2="17" version="1065353216">You should always be mindful of your welfare. But I could use your help.</text>
+		<text bitflag="1360" id1="641597" id2="17" version="1065353216">As long as you're safe.</text>
+		<text bitflag="1345" id1="641598" id2="17" version="1065353216">Oh! Let me take care of that. We built in a manual release just in case. Now, where....</text>
+		<text bitflag="1345" id1="641600" id2="17" version="1065353216">Save your little adventure for someone else. I need to get inside.</text>
+		<text bitflag="1360" id1="641600" id2="17" version="1065353216">I'm not interested.</text>
+		<text bitflag="1345" id1="641601" id2="17" version="1065353216">I didn't mean to... I'll get the manual release for you.</text>
+		<text bitflag="1345" id1="641603" id2="17" version="1065353216">It's awfully quiet in there. I hope everyone's alright.</text>
+		<text bitflag="1345" id1="641605" id2="17" version="1065353216">I have to get this door closed before the atmosphere contaminates the station. I'll meet you inside.</text>
+		<text bitflag="321" id1="641607" id2="17" version="1065353216">[This airlock is sealed, and the keypad has been destroyed.]</text>
+	</file_content>
+</stb_file>

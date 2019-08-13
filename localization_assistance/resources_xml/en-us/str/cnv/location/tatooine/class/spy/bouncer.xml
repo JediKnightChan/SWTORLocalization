@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/class/spy/bouncer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="610327" id2="17" version="1065353216">Getting a fix on the first tracker. Keep going.</text>
+		<text bitflag="1345" id1="610328" id2="17" version="1065353216">Watch yourself. The Rodian's Revenge isn't friendly.</text>
+		<text bitflag="321" id1="610333" id2="17" version="1065353216"># [You place a tracker on the bouncer - Missing Functionality]</text>
+	</file_content>
+</stb_file>

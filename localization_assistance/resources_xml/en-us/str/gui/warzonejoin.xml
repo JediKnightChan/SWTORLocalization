@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>13</strs>
+		<file_name>/resources/en-us/str/gui/warzonejoin.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194678" version="1065353216">Leave Queue</text>
+		<text bitflag="321" id1="2" id2="194678" version="1065353216">Enter Now</text>
+		<text bitflag="321" id1="3" id2="194678" version="1065353216">PVP Match</text>
+		<text bitflag="321" id1="4" id2="194678" version="1065353216">Ranked</text>
+		<text bitflag="321" id1="257" id2="194678" version="1065353216">PVP Match</text>
+		<text bitflag="321" id1="258" id2="194678" version="1065353216">Warzone (Mixed)</text>
+		<text bitflag="321" id1="259" id2="194678" version="1065353216">DARK SIDE</text>
+		<text bitflag="321" id1="260" id2="194678" version="1065353216">FIGHT FOR THE 
+&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="261" id2="194678" version="1065353216">LIGHT SIDE</text>
+		<text bitflag="321" id1="262" id2="194678" version="1065353216">Starfighter</text>
+		<text bitflag="321" id1="263" id2="194678" version="1065353216">Unranked</text>
+		<text bitflag="321" id1="264" id2="194678" version="1065353216">Arena</text>
+		<text bitflag="321" id1="265" id2="194678" version="1065353216">Warzone</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/agent/special_forces_trooper.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="540278" id2="17" version="1065353216">Enemy reinforcements!</text>
+		<text bitflag="3393" id1="540280" id2="17" version="1065353216">Alpha team, get to the roof and capture that ship. Beta team, hold the line!</text>
+		<text bitflag="1345" id1="540282" id2="17" version="1065353216">Ready when you are, agent.</text>
+		<text bitflag="1345" id1="540283" id2="17" version="1065353216">Shall we, sir?</text>
+		<text bitflag="1345" id1="540284" id2="17" version="1065353216">I see we weren't the first to arrive.</text>
+		<text bitflag="1345" id1="540285" id2="17" version="1065353216">Your strategy is flawed. You already disappoint me.</text>
+		<text bitflag="1345" id1="540288" id2="17" version="1065353216">Never gets easier, does it? Let's go....</text>
+	</file_content>
+</stb_file>

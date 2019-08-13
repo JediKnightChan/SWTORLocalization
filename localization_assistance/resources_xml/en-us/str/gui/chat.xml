@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>438</strs>
+		<file_name>/resources/en-us/str/gui/chat.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194652" version="1065353216">You talk to &lt;&lt;1&gt;&gt; and say: &quot;&lt;&lt;2&gt;&gt;&quot;</text>
+		<text bitflag="321" id1="2" id2="194652" version="1065353216">You are now afk.</text>
+		<text bitflag="321" id1="3" id2="194652" version="1065353216">You are no longer afk.</text>
+		<text bitflag="321" id1="4" id2="194652" version="1065353216">(Owner: &lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="5" id2="194652" version="1065353216">You must wait before you can send another message.</text>
+		<text bitflag="321" id1="6" id2="194652" version="1065353216">Entering Story Area</text>
+		<text bitflag="321" id1="10" id2="194652" version="1065353216">&lt;red&gt;You are currently bound to &lt;&lt;1&gt;&gt; &lt;/red&gt;</text>
+		<text bitflag="321" id1="11" id2="194652" version="1065353216">&lt;red&gt;You are currently not bound to any location.&lt;/red&gt;</text>
+		<text bitflag="321" id1="12" id2="194652" version="1065353216">Leaving &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="13" id2="194652" version="1065353216">Leaving &lt;&lt;1&gt;&gt; - Instance's owner: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="500" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; has gone offline.</text>
+		<text bitflag="321" id1="501" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; has come online.</text>
+		<text bitflag="321" id1="502" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is away from keyboard.</text>
+		<text bitflag="321" id1="503" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is unavailable.</text>
+		<text bitflag="321" id1="504" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is away from keyboard: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="505" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is unavailable: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="506" id2="194652" version="1065353216">You are now unavailable.</text>
+		<text bitflag="321" id1="507" id2="194652" version="1065353216">You are no longer unavailable.</text>
+		<text bitflag="321" id1="508" id2="194652" version="1065353216">You are now unavailable: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="509" id2="194652" version="1065353216">You are now friends with &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="510" id2="194652" version="1065353216">You are already friends with &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="511" id2="194652" version="1065353216">Comment updated for &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="512" id2="194652" version="1065353216">You are no longer friends with &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="513" id2="194652" version="1065353216">You are now ignoring &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="514" id2="194652" version="1065353216">You are already ignoring &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="515" id2="194652" version="1065353216">Updating ignore comment for &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="516" id2="194652" version="1065353216">You are no longer ignoring &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="517" id2="194652" version="1065353216">Chat functionality:
+/say [message] -
+   send a message to nearby players
+/yell [message] -
+   send a message to players in the area
+/emote [message] -
+   send an emote to nearby players
+/general [message] -
+   send a message to the General chat channel
+/pvp [message] -
+   send a message to the PvP chat channel
+/trade [message] -
+   send a message to the Trade chat channel
+/tell [player] [message] -
+   send a message directly to another player
+/afk {comment message} -
+   set yourself as Away From Keyboard (with an optional message)
+/dnd {comment message} -
+   set yourself as Do Not Disturb (with an optional message)</text>
+		<text bitflag="321" id1="518" id2="194652" version="1065353216">/group [message] -
+   send a message to your group members</text>
+		<text bitflag="321" id1="519" id2="194652" version="1065353216">/ops [message] -
+   send a message to your ops group members</text>
+		<text bitflag="321" id1="520" id2="194652" version="1065353216">/guild [message] -
+   send a message to your Guild members</text>
+		<text bitflag="321" id1="521" id2="194652" version="1065353216">/officer [message] -
+   send a message on your Guild's Officer Channel
+/guildannounce [message] - send an announcement to your Guild</text>
+		<text bitflag="321" id1="522" id2="194652" version="1065353216">/announce [message] -
+   send an announcement message</text>
+		<text bitflag="321" id1="523" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is ignoring you.</text>
+		<text bitflag="321" id1="524" id2="194652" version="1065353216">[&lt;&lt;1&gt;&gt; - &lt;&lt;2&gt;&gt;] [&lt;&lt;3&gt;&gt;]:</text>
+		<text bitflag="321" id1="525" id2="194652" version="1065353216">[&lt;&lt;1&gt;&gt;] says:</text>
+		<text bitflag="321" id1="527" id2="194652" version="1065353216">[&lt;&lt;1&gt;&gt;] yells:</text>
+		<text bitflag="321" id1="528" id2="194652" version="1065353216">To [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="529" id2="194652" version="1065353216">[&lt;&lt;1&gt;&gt;] whispers:</text>
+		<text bitflag="321" id1="530" id2="194652" version="1065353216">You are now away from keyboard.</text>
+		<text bitflag="321" id1="531" id2="194652" version="1065353216">You are no longer away from keyboard.</text>
+		<text bitflag="321" id1="532" id2="194652" version="1065353216">You are now away from keyboard: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="533" id2="194652" version="1065353216">Your 'away from keyboard' message is now '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="534" id2="194652" version="1065353216">You clear your 'away from keyboard' message.</text>
+		<text bitflag="321" id1="551" id2="194652" version="1065353216">[1 - General] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="552" id2="194652" version="1065353216">[2 - Pvp] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="553" id2="194652" version="1065353216">[3 - Trade] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="554" id2="194652" version="1065353216">[Group] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="555" id2="194652" version="1065353216">[Ops] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="556" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is away from their keyboard.</text>
+		<text bitflag="321" id1="557" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is away from their keyboard: &quot;&lt;&lt;2&gt;&gt;&quot;</text>
+		<text bitflag="321" id1="558" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is in Do Not Disturb mode.</text>
+		<text bitflag="321" id1="559" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is in Do Not Disturb mode: &quot;&lt;&lt;2&gt;&gt;&quot;</text>
+		<text bitflag="321" id1="560" id2="194652" version="1065353216">[&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt; :</text>
+		<text bitflag="321" id1="561" id2="194652" version="1065353216">[Announcement] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="562" id2="194652" version="1065353216">[Guild] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="563" id2="194652" version="1065353216">[Guild Officers] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="564" id2="194652" version="1065353216">[Ops Officers] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="565" id2="194652" version="1065353216">[Guild Announcement] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="566" id2="194652" version="1065353216">[Ops Leader] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="567" id2="194652" version="1065353216">[Ops Announcement] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="568" id2="194652" version="1065353216">[&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="606" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is not in your faction.</text>
+		<text bitflag="321" id1="607" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is incapacitated and cannot receive your message.</text>
+		<text bitflag="321" id1="608" id2="194652" version="1065353216">You are squelched.</text>
+		<text bitflag="321" id1="609" id2="194652" version="1065353216">You are ignoring &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="700" id2="194652" version="1065353216">You successfully created the &quot;&lt;&lt;1&gt;&gt;&quot; channel. Send messages to the channel using &quot;/&lt;&lt;2&gt;&gt; [message]&quot;.</text>
+		<text bitflag="321" id1="701" id2="194652" version="1065353216">The $Q&lt;&lt;1&gt;&gt;$Q channel is in use. Choose a different name and try again.</text>
+		<text bitflag="321" id1="702" id2="194652" version="1065353216">You have reached your maximum number of custom chat channels. Please leave a channel and try again.</text>
+		<text bitflag="321" id1="703" id2="194652" version="1065353216">You successfully joined the &quot;&lt;&lt;1&gt;&gt;&quot; channel.  Send messages to the channel using &quot;/&lt;&lt;2&gt;&gt; [message]&quot;.</text>
+		<text bitflag="321" id1="704" id2="194652" version="1065353216">You leave the &quot;&lt;&lt;1&gt;&gt;&quot; channel.</text>
+		<text bitflag="321" id1="705" id2="194652" version="1065353216">You are not a member of the &quot;&lt;&lt;1&gt;&gt;&quot; channel.</text>
+		<text bitflag="321" id1="706" id2="194652" version="1065353216">You are already joined to the &quot;&lt;&lt;1&gt;&gt;&quot; channel.</text>
+		<text bitflag="321" id1="707" id2="194652" version="1065353216">No such channel.</text>
+		<text bitflag="321" id1="710" id2="194652" version="1065353216">You join the General channel.</text>
+		<text bitflag="321" id1="711" id2="194652" version="1065353216">You leave the General channel.</text>
+		<text bitflag="321" id1="712" id2="194652" version="1065353216">You join the PvP channel.</text>
+		<text bitflag="321" id1="713" id2="194652" version="1065353216">You leave the PvP channel.</text>
+		<text bitflag="321" id1="714" id2="194652" version="1065353216">You join the Trade channel.</text>
+		<text bitflag="321" id1="715" id2="194652" version="1065353216">You leave the Trade channel.</text>
+		<text bitflag="321" id1="716" id2="194652" version="1065353216">You are not joined to the General channel.</text>
+		<text bitflag="321" id1="717" id2="194652" version="1065353216">You are not joined to the PvP channel.</text>
+		<text bitflag="321" id1="718" id2="194652" version="1065353216">You are not joined to the Trade channel.</text>
+		<text bitflag="321" id1="719" id2="194652" version="1065353216">You are already joined to the General channel.</text>
+		<text bitflag="321" id1="720" id2="194652" version="1065353216">You are already joined to the PvP channel.</text>
+		<text bitflag="321" id1="721" id2="194652" version="1065353216">You are already joined to the Trade channel.</text>
+		<text bitflag="321" id1="722" id2="194652" version="1065353216">Player not found.</text>
+		<text bitflag="321" id1="723" id2="194652" version="1065353216">You cannot send tells to yourself.</text>
+		<text bitflag="321" id1="724" id2="194652" version="1065353216">Channel &quot;&lt;&lt;1&gt;&gt;&quot; locked.</text>
+		<text bitflag="321" id1="725" id2="194652" version="1065353216">Server shutdown in &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="1000" id2="194652" version="1065353216">Alderaan Chat</text>
+		<text bitflag="321" id1="1001" id2="194652" version="1065353216">Balmorra Chat</text>
+		<text bitflag="321" id1="1002" id2="194652" version="1065353216">Belsavis Chat</text>
+		<text bitflag="321" id1="1003" id2="194652" version="1065353216">Coruscant Chat</text>
+		<text bitflag="321" id1="1004" id2="194652" version="1065353216">Dromund Kaas Chat</text>
+		<text bitflag="321" id1="1005" id2="194652" version="1065353216">Hoth Chat</text>
+		<text bitflag="321" id1="1006" id2="194652" version="1065353216">Hutta Chat</text>
+		<text bitflag="321" id1="1007" id2="194652" version="1065353216">The Black Talon Chat</text>
+		<text bitflag="321" id1="1008" id2="194652" version="1065353216">Korriban Chat</text>
+		<text bitflag="321" id1="1009" id2="194652" version="1065353216">Nar Shaddaa Chat</text>
+		<text bitflag="321" id1="1010" id2="194652" version="1065353216">Offline Chat</text>
+		<text bitflag="321" id1="1011" id2="194652" version="1065353216">Ord Mantell Chat</text>
+		<text bitflag="321" id1="1012" id2="194652" version="1065353216">Quesh Chat</text>
+		<text bitflag="321" id1="1013" id2="194652" version="1065353216">The Esseles Chat</text>
+		<text bitflag="321" id1="1014" id2="194652" version="1065353216">Taris Chat</text>
+		<text bitflag="321" id1="1015" id2="194652" version="1065353216">Tatooine Chat</text>
+		<text bitflag="321" id1="1016" id2="194652" version="1065353216">Tython Chat</text>
+		<text bitflag="321" id1="1017" id2="194652" version="1065353216">Unknown Chat</text>
+		<text bitflag="321" id1="1018" id2="194652" version="1065353216">Balmorra Secondary Chat</text>
+		<text bitflag="321" id1="1019" id2="194652" version="1065353216">Taris Secondary Chat</text>
+		<text bitflag="321" id1="1020" id2="194652" version="1065353216">Foundry Chat</text>
+		<text bitflag="321" id1="1021" id2="194652" version="1065353216">Maelstrom Prison Chat</text>
+		<text bitflag="321" id1="1022" id2="194652" version="1065353216">X-70 Phantom Chat</text>
+		<text bitflag="321" id1="1023" id2="194652" version="1065353216">Defender Chat</text>
+		<text bitflag="321" id1="1024" id2="194652" version="1065353216">D5-Mantis Chat</text>
+		<text bitflag="321" id1="1025" id2="194652" version="1065353216">Defender Chat</text>
+		<text bitflag="321" id1="1026" id2="194652" version="1065353216">Fury Chat</text>
+		<text bitflag="321" id1="1027" id2="194652" version="1065353216">Fury Chat</text>
+		<text bitflag="321" id1="1028" id2="194652" version="1065353216">XS Freighter Chat</text>
+		<text bitflag="321" id1="1029" id2="194652" version="1065353216">The White Nova Chat</text>
+		<text bitflag="321" id1="1030" id2="194652" version="1065353216">The Telos Chat</text>
+		<text bitflag="321" id1="1031" id2="194652" version="1065353216">Voss Chat</text>
+		<text bitflag="321" id1="1032" id2="194652" version="1065353216">BT-7 Thunderclap Chat</text>
+		<text bitflag="321" id1="1033" id2="194652" version="1065353216">Corellia Chat</text>
+		<text bitflag="321" id1="1034" id2="194652" version="1065353216">Ilum Chat</text>
+		<text bitflag="321" id1="1100" id2="194652" version="1065353216">Entering Alderaan &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1101" id2="194652" version="1065353216">Entering Balmorra &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1102" id2="194652" version="1065353216">Entering Belsavis &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1103" id2="194652" version="1065353216">Entering Coruscant &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1104" id2="194652" version="1065353216">Entering Dromund Kaas &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1105" id2="194652" version="1065353216">Entering Hoth &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1106" id2="194652" version="1065353216">Entering Hutta &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1107" id2="194652" version="1065353216">Entering Imperial Space Station &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1108" id2="194652" version="1065353216">Entering Korriban &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1109" id2="194652" version="1065353216">Entering Nar Shaddaa &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1110" id2="194652" version="1065353216">Entering Offline Chat</text>
+		<text bitflag="321" id1="1111" id2="194652" version="1065353216">Entering Ord Mantell &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1112" id2="194652" version="1065353216">Entering Quesh &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1113" id2="194652" version="1065353216">Entering Republic Space Station &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1114" id2="194652" version="1065353216">Entering Taris &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1115" id2="194652" version="1065353216">Entering Tatooine &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1116" id2="194652" version="1065353216">Entering Tython &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1117" id2="194652" version="1065353216">Entering &quot;Unknown Chat&quot; region</text>
+		<text bitflag="321" id1="1118" id2="194652" version="1065353216">Entering Balmorra Secondary Chat</text>
+		<text bitflag="321" id1="1119" id2="194652" version="1065353216">Entering Taris Secondary Chat</text>
+		<text bitflag="321" id1="1120" id2="194652" version="1065353216">Entering Foundry &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1121" id2="194652" version="1065353216">Entering Maelstrom Prison &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1122" id2="194652" version="1065353216">Entering Imperial Agent Starship Chat</text>
+		<text bitflag="321" id1="1123" id2="194652" version="1065353216">Entering Jedi Consular Starship Chat</text>
+		<text bitflag="321" id1="1124" id2="194652" version="1065353216">Entering Bounty Hunter Starship Chat</text>
+		<text bitflag="321" id1="1125" id2="194652" version="1065353216">Entering Jedi Knight Starship Chat</text>
+		<text bitflag="321" id1="1126" id2="194652" version="1065353216">Entering Sith Warrior Starship Chat</text>
+		<text bitflag="321" id1="1127" id2="194652" version="1065353216">Entering Sith Inquisitor Starship Chat</text>
+		<text bitflag="321" id1="1128" id2="194652" version="1065353216">Entering Smuggler Starship Chat</text>
+		<text bitflag="321" id1="1129" id2="194652" version="1065353216">Entering &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1130" id2="194652" version="1065353216">Entering Telos &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1131" id2="194652" version="1065353216">Entering Voss &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1132" id2="194652" version="1065353216">Entering Trooper Starship Chat</text>
+		<text bitflag="321" id1="1133" id2="194652" version="1065353216">Entering Corellia &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1134" id2="194652" version="1065353216">Entering Ilum &lt;&lt;1&gt;&gt; Chat</text>
+		<text bitflag="321" id1="1200" id2="194652" version="1065353216">General Chat - Use /general or /1 to send messages.</text>
+		<text bitflag="321" id1="1201" id2="194652" version="1065353216">PvP Chat - Use /pvp or /2 to send messages.</text>
+		<text bitflag="321" id1="1202" id2="194652" version="1065353216">Trade Chat - Use /trade or /3 to send messages.</text>
+		<text bitflag="321" id1="1203" id2="194652" version="1065353216">General</text>
+		<text bitflag="321" id1="1204" id2="194652" version="1065353216">Combat</text>
+		<text bitflag="321" id1="1205" id2="194652" version="1065353216">Other</text>
+		<text bitflag="321" id1="1206" id2="194652" version="1065353216">Toggle Chat Off</text>
+		<text bitflag="321" id1="1207" id2="194652" version="1065353216">Toggle Chat On</text>
+		<text bitflag="321" id1="1208" id2="194652" version="1065353216">Scroll up</text>
+		<text bitflag="321" id1="1209" id2="194652" version="1065353216">Scroll down</text>
+		<text bitflag="321" id1="1210" id2="194652" version="1065353216">Scroll to the end</text>
+		<text bitflag="321" id1="1211" id2="194652" version="1065353216">Border Transfer Station Chat</text>
+		<text bitflag="321" id1="1212" id2="194652" version="1065353216">The Justice Chat</text>
+		<text bitflag="321" id1="1213" id2="194652" version="1065353216">The Aurora Chat</text>
+		<text bitflag="321" id1="1214" id2="194652" version="1065353216">Abandoned Asteroid Mining Facility Chat</text>
+		<text bitflag="321" id1="1215" id2="194652" version="1065353216">Imperial Dreadnaught Chat</text>
+		<text bitflag="321" id1="1216" id2="194652" version="1065353216">Uphrades Chat</text>
+		<text bitflag="321" id1="1217" id2="194652" version="1065353216">Ord Mantell Station Chat</text>
+		<text bitflag="321" id1="1218" id2="194652" version="1065353216">Battleship Carida Chat</text>
+		<text bitflag="321" id1="1219" id2="194652" version="1065353216">The Celestial Crow Chat</text>
+		<text bitflag="321" id1="1220" id2="194652" version="1065353216">Tavus's Ship Chat</text>
+		<text bitflag="321" id1="1221" id2="194652" version="1065353216">Jaesa's Ship Chat</text>
+		<text bitflag="321" id1="1222" id2="194652" version="1065353216">Vivicar's Ship Station Chat</text>
+		<text bitflag="321" id1="1223" id2="194652" version="1065353216">Orbital Monitoring Station Chat</text>
+		<text bitflag="321" id1="1224" id2="194652" version="1065353216">The Long Shadow Chat</text>
+		<text bitflag="321" id1="1225" id2="194652" version="1065353216">Port Raga Chat</text>
+		<text bitflag="321" id1="1226" id2="194652" version="1065353216">The Oppressor Chat</text>
+		<text bitflag="321" id1="1227" id2="194652" version="1065353216">Corellia Chat</text>
+		<text bitflag="321" id1="1228" id2="194652" version="1065353216">Zadd Hydroplant Chat</text>
+		<text bitflag="321" id1="1229" id2="194652" version="1065353216">Transit Outpost Chat</text>
+		<text bitflag="321" id1="1230" id2="194652" version="1065353216">The White Nova Chat</text>
+		<text bitflag="321" id1="1231" id2="194652" version="1065353216">The Telos Chat</text>
+		<text bitflag="321" id1="1232" id2="194652" version="1065353216">You will be logged out shortly due to inactivity.</text>
+		<text bitflag="321" id1="1233" id2="194652" version="1065353216">You are in an unsafe area and will log out shortly.</text>
+		<text bitflag="321" id1="1234" id2="194652" version="1065353216">Logout cancelled</text>
+		<text bitflag="321" id1="1235" id2="194652" version="1065353216">Quit canceled</text>
+		<text bitflag="321" id1="1236" id2="194652" version="1065353216">Cannot log out while in combat!</text>
+		<text bitflag="321" id1="1237" id2="194652" version="1065353216">Cannot quit while in combat!</text>
+		<text bitflag="321" id1="1238" id2="194652" version="1065353216">Alderaan Warzone Chat</text>
+		<text bitflag="321" id1="1239" id2="194652" version="1065353216">Alderaan Kaon City Chat</text>
+		<text bitflag="321" id1="1240" id2="194652" version="1065353216">Mandalore's Flagship Chat</text>
+		<text bitflag="321" id1="1241" id2="194652" version="1065353216">The Fortitude Chat</text>
+		<text bitflag="321" id1="1242" id2="194652" version="1065353216">Waypoint Station Three Chat</text>
+		<text bitflag="321" id1="1243" id2="194652" version="1065353216">The Emperor's Fortress Chat</text>
+		<text bitflag="321" id1="1244" id2="194652" version="1065353216">Port Nowhere Chat</text>
+		<text bitflag="321" id1="1245" id2="194652" version="1065353216">Imperial Treasury Cruiser Voklov Chat</text>
+		<text bitflag="321" id1="1246" id2="194652" version="1065353216">The Gauntlet Chat</text>
+		<text bitflag="321" id1="1247" id2="194652" version="1065353216">Darth Vengean's Flagship Chat</text>
+		<text bitflag="321" id1="1248" id2="194652" version="1065353216">The Lobby Chat</text>
+		<text bitflag="321" id1="1249" id2="194652" version="1065353216">The White Nova Chat</text>
+		<text bitflag="321" id1="1250" id2="194652" version="1065353216">The Foundry Chat</text>
+		<text bitflag="321" id1="1251" id2="194652" version="1065353216">Taral V Chat</text>
+		<text bitflag="321" id1="1252" id2="194652" version="1065353216">Maelstrom Prison Chat</text>
+		<text bitflag="321" id1="1253" id2="194652" version="1065353216">Space Combat Chat</text>
+		<text bitflag="321" id1="1254" id2="194652" version="1065353216">Cannot do that while in a conversation.</text>
+		<text bitflag="321" id1="1255" id2="194652" version="1065353216">Cannot do that while in combat.</text>
+		<text bitflag="321" id1="1256" id2="194652" version="1065353216">Cannot do that while dead.</text>
+		<text bitflag="321" id1="1257" id2="194652" version="1065353216">Cannot do that while inside a flashpoint.</text>
+		<text bitflag="321" id1="1258" id2="194652" version="1065353216">Cannot do that while in space combat.</text>
+		<text bitflag="321" id1="1259" id2="194652" version="1065353216">Yell</text>
+		<text bitflag="321" id1="1260" id2="194652" version="1065353216">General</text>
+		<text bitflag="321" id1="1261" id2="194652" version="1065353216">Guild</text>
+		<text bitflag="321" id1="1262" id2="194652" version="1065353216">Officer</text>
+		<text bitflag="321" id1="1263" id2="194652" version="1065353216">PvP</text>
+		<text bitflag="321" id1="1264" id2="194652" version="1065353216">Trade</text>
+		<text bitflag="321" id1="1265" id2="194652" version="1065353216">Group</text>
+		<text bitflag="321" id1="1266" id2="194652" version="1065353216">Lost Island Chat</text>
+		<text bitflag="321" id1="1267" id2="194652" version="1065353216">The Tenebrous Chat</text>
+		<text bitflag="321" id1="1268" id2="194652" version="1065353216">The Star Chamber Chat</text>
+		<text bitflag="321" id1="1269" id2="194652" version="1065353216">The Tytun Rings Chat</text>
+		<text bitflag="321" id1="1270" id2="194652" version="1065353216">Isen 4 Colony Chat</text>
+		<text bitflag="321" id1="1271" id2="194652" version="1065353216">The Founder Chat</text>
+		<text bitflag="321" id1="1272" id2="194652" version="1065353216">The Tyrant Chat</text>
+		<text bitflag="321" id1="1273" id2="194652" version="1065353216">The Tyrant Chat</text>
+		<text bitflag="321" id1="1274" id2="194652" version="1065353216">The Javelin Chat</text>
+		<text bitflag="321" id1="1275" id2="194652" version="1065353216">The Euphony Chat</text>
+		<text bitflag="321" id1="1276" id2="194652" version="1065353216">The Doombringer Chat</text>
+		<text bitflag="321" id1="1277" id2="194652" version="1065353216">Korriban's Flame Chat</text>
+		<text bitflag="321" id1="1278" id2="194652" version="1065353216">The Valiant Chat</text>
+		<text bitflag="321" id1="1279" id2="194652" version="1065353216">The Regnant Chat</text>
+		<text bitflag="321" id1="1280" id2="194652" version="1065353216">A-77 Chat</text>
+		<text bitflag="321" id1="1281" id2="194652" version="1065353216">Outpost 256 Chat</text>
+		<text bitflag="321" id1="1282" id2="194652" version="1065353216">Transponder Vessel Chat</text>
+		<text bitflag="321" id1="1283" id2="194652" version="1065353216">Dromund Kaas Chat</text>
+		<text bitflag="321" id1="1284" id2="194652" version="1065353216">Ziost Shadow Chat</text>
+		<text bitflag="321" id1="1285" id2="194652" version="1065353216">The Gav Daragon Chat</text>
+		<text bitflag="321" id1="1286" id2="194652" version="1065353216">The Battle for Ilum Chat</text>
+		<text bitflag="321" id1="1287" id2="194652" version="1065353216">The Emperor's Station Chat</text>
+		<text bitflag="321" id1="1288" id2="194652" version="1065353216">The Voidstar Chat</text>
+		<text bitflag="321" id1="1289" id2="194652" version="1065353216">The Pit Chat</text>
+		<text bitflag="321" id1="1290" id2="194652" version="1065353216">The Eternity Vault Chat</text>
+		<text bitflag="321" id1="1291" id2="194652" version="1065353216">Imperial Fleet Chat</text>
+		<text bitflag="321" id1="1292" id2="194652" version="1065353216">Republic Fleet Chat</text>
+		<text bitflag="321" id1="1400" id2="194652" version="1065353216">Say</text>
+		<text bitflag="321" id1="1401" id2="194652" version="1065353216">Emote</text>
+		<text bitflag="321" id1="1402" id2="194652" version="1065353216">Whisper</text>
+		<text bitflag="321" id1="1403" id2="194652" version="1065353216">System</text>
+		<text bitflag="321" id1="1404" id2="194652" version="1065353216">Ops</text>
+		<text bitflag="321" id1="1405" id2="194652" version="1065353216">Ops Officer</text>
+		<text bitflag="321" id1="1406" id2="194652" version="1065353216">Conversation</text>
+		<text bitflag="321" id1="1407" id2="194652" version="1065353216">System Feedback</text>
+		<text bitflag="321" id1="1408" id2="194652" version="1065353216">Character Login</text>
+		<text bitflag="321" id1="1409" id2="194652" version="1065353216">Tab Name</text>
+		<text bitflag="321" id1="1410" id2="194652" version="1065353216">Enter the name for your new tab</text>
+		<text bitflag="321" id1="1411" id2="194652" version="1065353216">Create New Tab</text>
+		<text bitflag="321" id1="1412" id2="194652" version="1065353216">Remove Tab</text>
+		<text bitflag="321" id1="1413" id2="194652" version="1065353216">Chat Settings</text>
+		<text bitflag="321" id1="1414" id2="194652" version="1065353216">Font Size</text>
+		<text bitflag="321" id1="1415" id2="194652" version="1065353216">Chat Panel Settings</text>
+		<text bitflag="321" id1="1416" id2="194652" version="1065353216">Ops Leader</text>
+		<text bitflag="321" id1="1417" id2="194652" version="1065353216">To [&lt;&lt;1&gt;&gt;]</text>
+		<text bitflag="321" id1="1418" id2="194652" version="1065353216">Global Channels</text>
+		<text bitflag="321" id1="1419" id2="194652" version="1065353216">Player Channels</text>
+		<text bitflag="321" id1="1420" id2="194652" version="1065353216">Group Channels</text>
+		<text bitflag="321" id1="1421" id2="194652" version="1065353216">System Channels</text>
+		<text bitflag="321" id1="1422" id2="194652" version="1065353216">Personal Channels</text>
+		<text bitflag="321" id1="1423" id2="194652" version="1065353216">Unknown command.</text>
+		<text bitflag="321" id1="1424" id2="194652" version="1065353216">Ops Announcement</text>
+		<text bitflag="321" id1="1425" id2="194652" version="1065353216">Group Information</text>
+		<text bitflag="321" id1="1426" id2="194652" version="1065353216">Ops Information</text>
+		<text bitflag="321" id1="1427" id2="194652" version="1065353216">Guild Information</text>
+		<text bitflag="321" id1="1428" id2="194652" version="1065353216">Gameplay Persistence Chat</text>
+		<text bitflag="321" id1="1429" id2="194652" version="1065353216">Gameplay Persistence Flashpoint Chat</text>
+		<text bitflag="321" id1="1430" id2="194652" version="1065353216">Gameplay Persistence Ops Chat</text>
+		<text bitflag="321" id1="1431" id2="194652" version="1065353216">Create Custom Channel</text>
+		<text bitflag="321" id1="1432" id2="194652" version="1065353216">Channel Name</text>
+		<text bitflag="321" id1="1433" id2="194652" version="1065353216">Enter the name for your new chat channel</text>
+		<text bitflag="321" id1="1434" id2="194652" version="1065353216">Toggle Chat On</text>
+		<text bitflag="321" id1="1435" id2="194652" version="1065353216">Toggle Chat Off</text>
+		<text bitflag="321" id1="1436" id2="194652" version="1065353216">Toggle Social Center On</text>
+		<text bitflag="321" id1="1437" id2="194652" version="1065353216">Toggle Social Center Off</text>
+		<text bitflag="321" id1="1438" id2="194652" version="1065353216">Combat Information</text>
+		<text bitflag="321" id1="6431" id2="194652" version="1065353216">Mandalorian Ops Chat</text>
+		<text bitflag="321" id1="6432" id2="194652" version="1065353216">Hammer Station Chat</text>
+		<text bitflag="321" id1="6433" id2="194652" version="1065353216">Athiss Chat</text>
+		<text bitflag="321" id1="6434" id2="194652" version="1065353216">Crimson Vengeance Chat</text>
+		<text bitflag="321" id1="6435" id2="194652" version="1065353216">Hutt Hospitality Chat</text>
+		<text bitflag="321" id1="6444" id2="194652" version="1065353216">Channel &quot;&lt;&lt;1&gt;&gt;&quot; unlocked.</text>
+		<text bitflag="321" id1="6445" id2="194652" version="1065353216">Invited &lt;&lt;1&gt;&gt; to channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6446" id2="194652" version="1065353216">Kicked &lt;&lt;1&gt;&gt; from channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6447" id2="194652" version="1065353216">Banned &lt;&lt;1&gt;&gt; from channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6448" id2="194652" version="1065353216">Unbanned &lt;&lt;1&gt;&gt; from channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6449" id2="194652" version="1065353216">Channel &quot;&lt;&lt;1&gt;&gt;&quot; password set to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6450" id2="194652" version="1065353216">Channel &quot;&lt;&lt;1&gt;&gt;&quot; password cleared.</text>
+		<text bitflag="321" id1="6451" id2="194652" version="1065353216">Granted Moderator to &lt;&lt;1&gt;&gt; on channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6452" id2="194652" version="1065353216">Revoked Moderator from &lt;&lt;1&gt;&gt; on channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6453" id2="194652" version="1065353216">Muted &lt;&lt;1&gt;&gt; on channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6454" id2="194652" version="1065353216">Unmuted &lt;&lt;1&gt;&gt; on channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6455" id2="194652" version="1065353216">Set channel &quot;&lt;&lt;1&gt;&gt;&quot; to moderated.</text>
+		<text bitflag="321" id1="6456" id2="194652" version="1065353216">Set channel &quot;&lt;&lt;1&gt;&gt;&quot; to unmoderated.</text>
+		<text bitflag="321" id1="6457" id2="194652" version="1065353216">Current Channel List:</text>
+		<text bitflag="321" id1="6458" id2="194652" version="1065353216">You are not on any personal channels.</text>
+		<text bitflag="321" id1="6459" id2="194652" version="1065353216">List of available channels:</text>
+		<text bitflag="321" id1="6460" id2="194652" version="1065353216">Channel &quot;&lt;&lt;1&gt;&gt;&quot; members:</text>
+		<text bitflag="321" id1="6461" id2="194652" version="1065353216">Unable to join channel &quot;&lt;&lt;1&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6462" id2="194652" version="1065353216">You been kicked from &quot;&lt;&lt;1&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6463" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; leaves channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6464" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; joins channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6465" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; has invited you to channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6466" id2="194652" version="1065353216">/create [channelname] [password] -
+   Create a custom channel with an optional password
+/cjoin [channelname] [password] -
+   Create or join a custom channel with an optional password
+/cleave [channelname] [password] -
+   Leave a custom channel
+/lock [channelname] -
+   Allow only invited players to join the custom channel
+/unlock [channelname] -
+   Allow all players to join the custom channel
+/cinvite [channelname] [player] -
+   Invite a player to the custom channel
+/password [channelname] [password] -
+   Set a password on the custom channel
+/password [channelname] -
+   Clear the password from the custom channel
+/ckick [channelname] [player] -
+   Kick a player from the custom channel
+/ban [channelname] [player] -
+   Ban the player from the custom channel
+/unban [channelname] [player] -
+   Unban the player from the custom channel
+/mod [channelname] [player] -
+   Grant moderator status to the player on the custom channel
+/unmod [channelname] [player] -
+   Remove moderator status from the player on the custom channel
+/mute [channelname] [player] -
+   Remove the ability to send messages from the player on the custom channel
+/unmute [channelname] [player] -
+   Grant the ability to send messages from the player on the custom channel
+/moderate [channelname] -
+   Set the custom channel to only allow moderators to speak
+/unmoderate [channelname] -
+   Set the custom channel to allow all players to speak
+/channellist -
+   List the custom channels that you are on
+/list [channelname] -
+   List the players on the custom channel</text>
+		<text bitflag="321" id1="6467" id2="194652" version="1065353216">You are not allowed to send messages on channel &quot;&lt;&lt;1&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6469" id2="194652" version="1065353216">The specified channel name is invalid; Profanity and special characters are not supported.</text>
+		<text bitflag="321" id1="6470" id2="194652" version="1065353216">Channel name too long.</text>
+		<text bitflag="321" id1="6471" id2="194652" version="1065353216">(&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;)</text>
+		<text bitflag="321" id1="6472" id2="194652" version="1065353216">[Group] [&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt;:</text>
+		<text bitflag="321" id1="6473" id2="194652" version="1065353216">[Ops Leader] [&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt;:</text>
+		<text bitflag="321" id1="6474" id2="194652" version="1065353216">[Ops] [&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt;:</text>
+		<text bitflag="321" id1="6475" id2="194652" version="1065353216">[Ops Announcement] [&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt;:</text>
+		<text bitflag="321" id1="6476" id2="194652" version="1065353216">[Ops Officers] [&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt;:</text>
+		<text bitflag="321" id1="6477" id2="194652" version="1065353216">[&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt; whispers:</text>
+		<text bitflag="321" id1="6481" id2="194652" version="1065353216">[Guild] [&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt;:</text>
+		<text bitflag="321" id1="6482" id2="194652" version="1065353216">[Guild Officers] [&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt;:</text>
+		<text bitflag="321" id1="6483" id2="194652" version="1065353216">[Ops Leader] &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="6485" id2="194652" version="1065353216">Streets of Cademimu Chat</text>
+		<text bitflag="321" id1="6486" id2="194652" version="1065353216">You are no longer squelched.</text>
+		<text bitflag="321" id1="6487" id2="194652" version="1065353216">Colicoid War Game Chat</text>
+		<text bitflag="321" id1="6488" id2="194652" version="1065353216">Denova Chat</text>
+		<text bitflag="321" id1="6489" id2="194652" version="1065353216">Black Hole Chat</text>
+		<text bitflag="321" id1="6490" id2="194652" version="1065353216">Novare Coast Chat</text>
+		<text bitflag="321" id1="6491" id2="194652" version="1065353216">As a Free-to-Play Player, you have restrictions on which chat channels are available. Subscribers do not have this limitation. Visit &lt;hl lid=&quot;BFBB&quot; &gt; for information on becoming a Subscriber.</text>
+		<text bitflag="321" id1="6492" id2="194652" version="1065353216">Free-to-Play Players may not create or join custom chat channels.</text>
+		<text bitflag="321" id1="6493" id2="194652" version="1065353216">Until level 25, Free-to-Play Players are limited as to whom they can send private chat messages to &amp;#x2013; this message was blocked.</text>
+		<text bitflag="321" id1="6500" id2="194652" version="1065353216">Channel is invite only.</text>
+		<text bitflag="321" id1="6501" id2="194652" version="1065353216">Incorrect password.</text>
+		<text bitflag="321" id1="6502" id2="194652" version="1065353216">You must be a Moderator to perform commands on a channel.</text>
+		<text bitflag="321" id1="6503" id2="194652" version="1065353216">You are not permitted to join the channel at this time.</text>
+		<text bitflag="321" id1="6504" id2="194652" version="1065353216">Channel password must be &lt;&lt;1&gt;&gt; characters or below.</text>
+		<text bitflag="321" id1="6505" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; is not a member of channel &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="6506" id2="194652" version="1065353216">Section X Chat</text>
+		<text bitflag="321" id1="6508" id2="194652" version="1065353216">The Theoretika Chat</text>
+		<text bitflag="321" id1="6509" id2="194652" version="1065353216">You are limited to &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; by your subscription level.</text>
+		<text bitflag="321" id1="6510" id2="194652" version="1065353216">You are at your credits cap: &lt;&lt;1&gt;&gt; credits have been moved to your credits escrow.</text>
+		<text bitflag="321" id1="6511" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; credits have been transferred from your escrow into your credits balance!</text>
+		<text bitflag="321" id1="6512" id2="194652" version="1065353216">spacecombat9_chat</text>
+		<text bitflag="321" id1="6513" id2="194652" version="1065353216">Darvannis Chat</text>
+		<text bitflag="321" id1="6514" id2="194652" version="1065353216">Primary Observatory Four Chat</text>
+		<text bitflag="321" id1="6515" id2="194652" version="1065353216">Makeb Chat</text>
+		<text bitflag="321" id1="6516" id2="194652" version="1065353216">The Arcanum Chat</text>
+		<text bitflag="321" id1="6517" id2="194652" version="1065353216">You are prohibited from sending messages to any chat channel. Your character has been repeatedly flagged for abuse of the chat system. Your chat prohibition will expire at &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="6518" id2="194652" version="1065353216">You found</text>
+		<text bitflag="321" id1="6519" id2="194652" version="1065353216">Seeker Droid: Post-dig scan suggests repositioning for more favorable results.</text>
+		<text bitflag="321" id1="6520" id2="194652" version="1065353216">Seeker Droid: Post-dig scan indicates promising results near your present location!</text>
+		<text bitflag="321" id1="6523" id2="194652" version="1065353216">Toborro's Courtyard Chat</text>
+		<text bitflag="321" id1="6524" id2="194652" version="1065353216">CZ-198 Chat</text>
+		<text bitflag="321" id1="6525" id2="194652" version="1065353216">Czerka Corporate Facility Chat</text>
+		<text bitflag="321" id1="6527" id2="194652" version="1065353216">Czerka Biomes Chat</text>
+		<text bitflag="321" id1="6528" id2="194652" version="1065353216">Oricon Chat</text>
+		<text bitflag="321" id1="6529" id2="194652" version="1065353216">Corellia Square Arena Chat</text>
+		<text bitflag="321" id1="6530" id2="194652" version="1065353216">Makeb Mesa Arena Chat</text>
+		<text bitflag="321" id1="6531" id2="194652" version="1065353216">Orbital Station Arena Chat</text>
+		<text bitflag="321" id1="6532" id2="194652" version="1065353216">Tatooine Canyon Arena Chat</text>
+		<text bitflag="321" id1="6533" id2="194652" version="1065353216">Dread Fortress Chat</text>
+		<text bitflag="321" id1="6534" id2="194652" version="1065353216">Dread Palace Chat</text>
+		<text bitflag="321" id1="6544" id2="194652" version="1065353216">X7-Cratus Chat</text>
+		<text bitflag="321" id1="6545" id2="194652" version="1065353216">Lost Shipyards Chat</text>
+		<text bitflag="321" id1="6546" id2="194652" version="1065353216">Lost Shipyards Chat</text>
+		<text bitflag="321" id1="6547" id2="194652" version="1065353216">Kuat Mesa Chat</text>
+		<text bitflag="321" id1="6548" id2="194652" version="1065353216">Kuat Mesa Chat</text>
+		<text bitflag="321" id1="6549" id2="194652" version="1065353216">Lost Shipyards Chat</text>
+		<text bitflag="321" id1="6550" id2="194652" version="1065353216">Manaan Research Facility</text>
+		<text bitflag="321" id1="6551" id2="194652" version="1065353216">Manaan Trade Hub</text>
+		<text bitflag="321" id1="6552" id2="194652" version="1065353216">Squad</text>
+		<text bitflag="321" id1="6553" id2="194652" version="1065353216">[Squad] [&lt;&lt;1&gt;&gt;]:</text>
+		<text bitflag="321" id1="6554" id2="194652" version="1065353216">[Squad] [&lt;&lt;1&gt;&gt;] &lt;&lt;2&gt;&gt;:</text>
+		<text bitflag="321" id1="6555" id2="194652" version="1065353216">Assault on Tython Chat</text>
+		<text bitflag="321" id1="6556" id2="194652" version="1065353216">Korriban Incursion Chat</text>
+		<text bitflag="321" id1="6557" id2="194652" version="1065353216">Kuat Drive Yards Chat</text>
+		<text bitflag="321" id1="6558" id2="194652" version="1065353216">Denon Exosphere Chat</text>
+		<text bitflag="321" id1="6559" id2="194652" version="1065353216">Quesh Huttball Pit Chat</text>
+		<text bitflag="321" id1="6560" id2="194652" version="1065353216">Yavin 4 Chat</text>
+		<text bitflag="321" id1="6561" id2="194652" version="1065353216">Rishi Chat</text>
+		<text bitflag="321" id1="6562" id2="194652" version="1065353216">Battle of Rishi Chat</text>
+		<text bitflag="321" id1="6563" id2="194652" version="1065353216">The Ravagers Chat</text>
+		<text bitflag="321" id1="6564" id2="194652" version="1065353216">Temple of Sacrifice Chat</text>
+		<text bitflag="321" id1="6565" id2="194652" version="1065353216">Ziost Chat</text>
+		<text bitflag="321" id1="6566" id2="194652" version="1065353216">Star Fortress Chat</text>
+		<text bitflag="321" id1="6567" id2="194652" version="1065353216">Heart of Ruin Chat</text>
+		<text bitflag="321" id1="6568" id2="194652" version="1065353216">Zakuul Chat</text>
+		<text bitflag="321" id1="6569" id2="194652" version="1065353216">Odessen Chat</text>
+		<text bitflag="321" id1="6570" id2="194652" version="1065353216">Wild Space Chat</text>
+		<text bitflag="321" id1="6571" id2="194652" version="1065353216">Dreamscape Chat</text>
+		<text bitflag="321" id1="6572" id2="194652" version="1065353216">Asylum Chat</text>
+		<text bitflag="321" id1="6573" id2="194652" version="1065353216">Zakuul Rooftops Chat</text>
+		<text bitflag="321" id1="6577" id2="194652" version="1065353216">Results:</text>
+		<text bitflag="321" id1="6578" id2="194652" version="1065353216">&lt;&lt;1&gt;&gt; [ &lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt; ] &lt;&lt;4&gt;&gt;</text>
+		<text bitflag="321" id1="6579" id2="194652" version="1065353216">Incorrect whisper request. New whisper format is /whisper (Player Name): (Message)</text>
+		<text bitflag="321" id1="6580" id2="194652" version="1065353216">Odessen Wilds Chat</text>
+		<text bitflag="321" id1="6581" id2="194652" version="1065353216">Eternal Championship Chat</text>
+		<text bitflag="321" id1="6582" id2="194652" version="1065353216">No results returned.</text>
+		<text bitflag="321" id1="6583" id2="194652" version="1065353216">Rishi Cove Arena Chat</text>
+		<text bitflag="321" id1="6584" id2="194652" version="1065353216">Odessen Proving Grounds Chat</text>
+		<text bitflag="321" id1="6585" id2="194652" version="1065353216">Vandin Chat</text>
+		<text bitflag="321" id1="6586" id2="194652" version="1065353216">The Coil Chat</text>
+		<text bitflag="321" id1="6589" id2="194652" version="1065353216">Volcano Base Chat</text>
+		<text bitflag="321" id1="6590" id2="194652" version="1065353216">Iokath Chat</text>
+		<text bitflag="321" id1="6593" id2="194652" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; gain &lt;&lt;2[$d Command Point/$d Command Points]&gt;&gt;.</text>
+		<text bitflag="321" id1="6594" id2="194652" version="1065353216">Firefrost Lavaworks Chat</text>
+		<text bitflag="321" id1="6595" id2="194652" version="1065353216">Denova Trench Chat</text>
+		<text bitflag="321" id1="6596" id2="194652" version="1065353216">Vanguard Station Chat</text>
+		<text bitflag="321" id1="6598" id2="194652" version="1065353216">You have reached your weekly cap for Command Experience Points.</text>
+		<text bitflag="321" id1="6599" id2="194652" version="1065353216">Voss Chat</text>
+		<text bitflag="321" id1="6600" id2="194652" version="1065353216">Works Chat</text>
+		<text bitflag="321" id1="6601" id2="194652" version="1065353216">Dromund Kaas Expanse Chat</text>
+		<text bitflag="321" id1="6602" id2="194652" version="1065353216">Eternal Throne Spire Chat</text>
+		<text bitflag="321" id1="6603" id2="194652" version="1065353216">Odessen Assault Chat</text>
+		<text bitflag="321" id1="6604" id2="194652" version="1065353216">Gravestone Chat</text>
+		<text bitflag="321" id1="6606" id2="194652" version="1065353216">Palace of the Eternal Dragon Chat</text>
+		<text bitflag="321" id1="6607" id2="194652" version="1065353216">Nathema Chat</text>
+		<text bitflag="321" id1="6608" id2="194652" version="1065353216">Rakata Prime Chat</text>
+		<text bitflag="321" id1="6610" id2="194652" version="1065353216">Umbara Chat</text>
+		<text bitflag="321" id1="6617" id2="194652" version="1065353216">The Legacy Bank did not approve your transaction.</text>
+		<text bitflag="321" id1="6618" id2="194652" version="1065353216">You are unable to withdraw that amount of Credits from the Legacy Bank.</text>
+		<text bitflag="321" id1="6619" id2="194652" version="1065353216">You are unable to deposit that amount of Credits to the Legacy Bank.</text>
+		<text bitflag="321" id1="6620" id2="194652" version="1065353216">You deposited &lt;&lt;1&gt;&gt; &lt;&lt;1[credit/credits]&gt;&gt; to the Legacy Bank.</text>
+		<text bitflag="321" id1="6621" id2="194652" version="1065353216">Battle Over Iokath Chat</text>
+		<text bitflag="321" id1="6622" id2="194652" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; gain &lt;&lt;2[$d Conquest Point/$d Conquest Points]&gt;&gt;.</text>
+		<text bitflag="321" id1="6623" id2="194652" version="1065353216">Listening Post Chat</text>
+		<text bitflag="321" id1="6624" id2="194652" version="1065353216">Copero Chat</text>
+	</file_content>
+</stb_file>

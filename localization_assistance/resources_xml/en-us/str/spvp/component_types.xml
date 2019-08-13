@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/spvp/component_types.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="764847" version="1065353216">Primary Weapons</text>
+		<text bitflag="321" id1="257" id2="764847" version="1065353216">Secondary Weapons</text>
+		<text bitflag="321" id1="258" id2="764847" version="1065353216">Systems</text>
+		<text bitflag="321" id1="259" id2="764847" version="1065353216">Engines</text>
+		<text bitflag="321" id1="260" id2="764847" version="1065353216">Shields</text>
+		<text bitflag="321" id1="261" id2="764847" version="1065353216">Capacitor</text>
+		<text bitflag="321" id1="262" id2="764847" version="1065353216">Magazine</text>
+		<text bitflag="321" id1="263" id2="764847" version="1065353216">Sensors</text>
+		<text bitflag="321" id1="264" id2="764847" version="1065353216">Thrusters</text>
+		<text bitflag="321" id1="265" id2="764847" version="1065353216">Reactor</text>
+		<text bitflag="321" id1="266" id2="764847" version="1065353216">Armor</text>
+	</file_content>
+</stb_file>

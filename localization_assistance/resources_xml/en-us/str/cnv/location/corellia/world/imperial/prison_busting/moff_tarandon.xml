@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>60</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/world/imperial/prison_busting/moff_tarandon.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="690796" id2="17" version="1065353216">This sector's locked up. The last few pockets of resistance are being mopped up, and soon Corellia will be at peace.</text>
+		<text bitflag="1345" id1="690800" id2="17" version="1065353216">Colonel Wolroff is dead, and the prison defenses are reprogrammed.</text>
+		<text bitflag="1345" id1="690801" id2="17" version="1065353216">Excellent news! Without their hero, the remaining resistance will fall apart.</text>
+		<text bitflag="1345" id1="690804" id2="17" version="1065353216">The security systems are reprogrammed. It's just a matter of time now.</text>
+		<text bitflag="1345" id1="690805" id2="17" version="1065353216">Good, good. Darth Decimus will be pleased when I report this evening.</text>
+		<text bitflag="1345" id1="690807" id2="17" version="1065353216">And with CorSec's little bastion all locked up, the rest of Corellia will be easy to bring under control. Time to get some real government established.</text>
+		<text bitflag="1345" id1="690808" id2="17" version="1065353216">With CorSec out of the way, you shouldn't meet much resistance.</text>
+		<text bitflag="1360" id1="690808" id2="17" version="1065353216">You can handle it from here.</text>
+		<text bitflag="1345" id1="690809" id2="17" version="1065353216">Those left will fight back, but yes--with the prison secured, they're effectively finished.</text>
+		<text bitflag="1345" id1="690811" id2="17" version="1065353216">If you give these people any leeway, the resistance will start again.</text>
+		<text bitflag="1360" id1="690811" id2="17" version="1065353216">Rule them with a firm hand.</text>
+		<text bitflag="1345" id1="690812" id2="17" version="1065353216">Don't worry. This sector will remain secure, by any means necessary.</text>
+		<text bitflag="1345" id1="690814" id2="17" version="1065353216">I'll include your heroics in my report.</text>
+		<text bitflag="1360" id1="690815" id2="17" version="1065353216">That was a miserable fight.</text>
+		<text bitflag="1345" id1="690816" id2="17" version="1065353216">There's nowhere left for the resistance to hide. They're finished, even if they don't know it.</text>
+		<text bitflag="1345" id1="690818" id2="17" version="1065353216">Until all the security systems are re-programmed, CorSec will just move to safe zones where they can't be targeted.</text>
+		<text bitflag="1345" id1="690820" id2="17" version="1065353216">Moff. How are things faring?</text>
+		<text bitflag="1345" id1="690821" id2="17" version="1065353216">You're an inspiration. Thanks to your push against the Green Jedi, the Empire has almost cleansed the planet of Republic influences.</text>
+		<text bitflag="1345" id1="690823" id2="17" version="1065353216">It's just a matter of time, my lord. The Republic cannot turn the tide.</text>
+		<text bitflag="1345" id1="690825" id2="17" version="1065353216">Even a mercenary should appreciate the good a stable government will do here.</text>
+		<text bitflag="1345" id1="690827" id2="17" version="1065353216">Before long, Corellia's industry will be the pride of the Empire; her star will be brighter than ever.</text>
+		<text bitflag="1345" id1="690829" id2="17" version="1065353216">Soon, Corellia will be completely pacified. All that remains is to secure CorSec's maximum security prison. The resistance is defending it fiercely.</text>
+		<text bitflag="1345" id1="690830" id2="17" version="1065353216">The whole point of a prison is to keep people in.</text>
+		<text bitflag="1360" id1="690830" id2="17" version="1065353216">A prison is easy to secure.</text>
+		<text bitflag="1345" id1="690831" id2="17" version="1065353216">Those walls work both ways--they're just as good at keeping us out.</text>
+		<text bitflag="1360" id1="690833" id2="17" version="1065353216">You'll finish the job.</text>
+		<text bitflag="1345" id1="690834" id2="17" version="1065353216">Three attempts, and we've barely pushed past the outer defenses.</text>
+		<text bitflag="1345" id1="690836" id2="17" version="1065353216">Every sector must be secured. This one is no exception.</text>
+		<text bitflag="1360" id1="690836" id2="17" version="1065353216">Delays won't be tolerated.</text>
+		<text bitflag="1345" id1="690837" id2="17" version="1065353216">I understand that. Darth Decimus has made his plans clear.</text>
+		<text bitflag="1345" id1="690839" id2="17" version="1065353216">CorSec is using the prison as a staging area for attacks against Imperial forces. They've made the place all but impenetrable.</text>
+		<text bitflag="1345" id1="690841" id2="17" version="1065353216">They've even turned the prison security systems against us--they don't target CorSec forces, so it's like having an automated army defending the place.</text>
+		<text bitflag="1345" id1="690842" id2="17" version="1065353216">There must be a way to disable the systems.</text>
+		<text bitflag="1360" id1="690842" id2="17" version="1065353216">Security can be overridden.</text>
+		<text bitflag="1345" id1="690843" id2="17" version="1065353216">The prison generates its own power, so there's no way from outside. But you may be right.</text>
+		<text bitflag="1345" id1="690845" id2="17" version="1065353216">A small assault team could slip in and reprogram the systems at several control nodes in the prison.</text>
+		<text bitflag="1345" id1="690847" id2="17" version="1065353216">If CorSec is living in the prison, where are the inmates?</text>
+		<text bitflag="1360" id1="690847" id2="17" version="1065353216">What about the prisoners?</text>
+		<text bitflag="1345" id1="690848" id2="17" version="1065353216">Most offered to help CorSec for a shortened sentence. A captured prisoner gave us vital information about the security systems.</text>
+		<text bitflag="1360" id1="690850" id2="17" version="1065353216">You must be incompetent.</text>
+		<text bitflag="1345" id1="690851" id2="17" version="1065353216">Feel free to lead another assault. Darth Decimus will be interested in why you sacrificed more men, assuming you survive the security systems.</text>
+		<text bitflag="1345" id1="690853" id2="17" version="1065353216">They can't be shut down, but a small assault team could slip in and reprogram them at several control nodes in the prison.</text>
+		<text bitflag="1345" id1="690855" id2="17" version="1065353216">Those systems could be altered to target CorSec directly--the defenders would be cut down by their own defenses. Can I count on your assistance?</text>
+		<text bitflag="1345" id1="690856" id2="17" version="1065353216">I relish bringing an end to this uprising.</text>
+		<text bitflag="1360" id1="690856" id2="17" version="1065353216">It will be my pleasure.</text>
+		<text bitflag="1345" id1="690857" id2="17" version="1065353216">Their fear will be a sweet chorus in the tapestry of the Force.</text>
+		<text bitflag="1360" id1="690857" id2="17" version="1065353216">I relish the opportunity.</text>
+		<text bitflag="1345" id1="690858" id2="17" version="1065353216">A full-on fortress run? Step back and let a professional handle this.</text>
+		<text bitflag="1360" id1="690858" id2="17" version="1065353216">Sounds like my kind of job.</text>
+		<text bitflag="1345" id1="690859" id2="17" version="1065353216">CorSec won't know I'm there until it's too late.</text>
+		<text bitflag="1360" id1="690859" id2="17" version="1065353216">I'll be happy to handle it.</text>
+		<text bitflag="1345" id1="690860" id2="17" version="1065353216">Once the security systems are reprogrammed, they'll eliminate the resistance for us.</text>
+		<text bitflag="1345" id1="690862" id2="17" version="1065353216">Once this area is secure, maybe Corellia can move forward.</text>
+		<text bitflag="1360" id1="690862" id2="17" version="1065353216">Ending the fight is worth it.</text>
+		<text bitflag="1345" id1="690863" id2="17" version="1065353216">That's my hope as well, but there can be no future while CorSec and the resistance insist on living in the past.</text>
+		<text bitflag="1345" id1="690865" id2="17" version="1065353216">The resistance leader is Colonel Wolroff. His attacks have been a thorn in the Empire's side for too long.</text>
+		<text bitflag="1345" id1="690867" id2="17" version="1065353216">Securing the prison is essential, but Wolroff's death would leave a wonderfully ugly hole in the resistance command structure.</text>
+		<text bitflag="1360" id1="690869" id2="17" version="1065353216">Find another. [Refuse quest]</text>
+		<text bitflag="1345" id1="690870" id2="17" version="1065353216">Of course, it was foolish of me to think you'd help. Don't worry, we'll find a way to finish the job.</text>
+		<text bitflag="1345" id1="690872" id2="17" version="1065353216">Lovely planet, Corellia. Soon the war will be over and we can get down to the business of government.</text>
+	</file_content>
+</stb_file>

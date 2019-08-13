@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="4">
+	<unit bitflag="1345" id1="605736" id2="17" version="1065353216">
+		<source>The Flesh Raiders are knocking on your temple's back door. Finally, you know what it feels like.</source>
+		<target>Раздиратели уже стоят на заднем пороге вашего Храма. Наконец-то ты знаешь, каково это.</target>
+	</unit>
+	<unit bitflag="1345" id1="605738" id2="17" version="1065353216">
+		<source>We don't need more weapons. We need less Flesh Raiders. Sabotage their technology like I showed you.</source>
+		<target>Нам не нужно больше оружия. Нам нужно меньше раздирателей. Испорти их технологии, как я показал тебе.</target>
+	</unit>
+	<unit bitflag="1345" id1="605739" id2="17" version="1065353216">
+		<source>If you have business with the Matriarch, speak to her--not me.</source>
+		<target>Если у тебя дела с матриархом, говори с ней, не со мной.</target>
+	</unit>
+	<unit bitflag="1345" id1="605740" id2="17" version="1065353216">
+		<source>I have no time for you.</source>
+		<target>У меня нет на тебя времени.</target>
+	</unit>
+</dialogue_file>

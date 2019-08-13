@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>33</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/bronze/imperial/the_carriers_of_xenovirus_prime/galko.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="289607" id2="17" version="1065353216">[You activate the communications device, but receive no response.]</text>
+		<text bitflag="3393" id1="289608" id2="17" version="1065353216">Excellent work. I am in your debt. The marked cells have been released. Soon Xenovirus Prime will overrun the Republic.</text>
+		<text bitflag="3393" id1="289609" id2="17" version="1065353216">I haven't received any signals from the cells. I can't release Xenovirus Prime until all the cells are marked.</text>
+		<text bitflag="321" id1="289610" id2="17" version="1065353216">[You activate the monitoring station terminal and set it to the Imperial frequency.]</text>
+		<text bitflag="3393" id1="289612" id2="17" version="1065353216">Hmm. I thought this communications device was shut down. Does that mean someone's finally managed to breach the prison's high-security areas?</text>
+		<text bitflag="3393" id1="289614" id2="17" version="1065353216">Doctor Fizz Galko here. Bioengineer. I was nearly finished with my greatest experiment, Xenovirus Prime, when my team and I were forced to flee.</text>
+		<text bitflag="3393" id1="289616" id2="17" version="1065353216">You have no idea how relieved I am that you're there. Finally, Xenovirus Prime will be released into the world.</text>
+		<text bitflag="1360" id1="289617" id2="17" version="1065353216">&quot;Xenovirus Prime&quot;?</text>
+		<text bitflag="3393" id1="289618" id2="17" version="1065353216">My most magnificent creation.</text>
+		<text bitflag="1360" id1="289620" id2="17" version="1065353216">How will that work?</text>
+		<text bitflag="3393" id1="289621" id2="17" version="1065353216">With your help, I hope.</text>
+		<text bitflag="1360" id1="289623" id2="17" version="1065353216">You assume too much.</text>
+		<text bitflag="3393" id1="289624" id2="17" version="1065353216">Then you must not be familiar with Xenovirus Prime.</text>
+		<text bitflag="3393" id1="289626" id2="17" version="1065353216">With this virus, we can weaken the ranks of the Republic without ever firing a shot. It can be carried by anyone, but it only affects certain Republic-aligned species.</text>
+		<text bitflag="3393" id1="289628" id2="17" version="1065353216">The known effects are vomiting, internal bleeding and eventually, death. It's magnificent.</text>
+		<text bitflag="3393" id1="289630" id2="17" version="1065353216">Before we fled, I gave the virus to some of Belsavis's most dangerous prisoners. They are the vectors, the carriers. Free them, and they will infect the Republic for us.</text>
+		<text bitflag="1360" id1="289631" id2="17" version="1065353216">Sounds delightful.</text>
+		<text bitflag="3393" id1="289632" id2="17" version="1065353216">Good. Take the sensor device I left and use it to detect the infected aliens. Mark their cells. I will open them remotely once you're clear. Good luck.</text>
+		<text bitflag="1345" id1="289633" id2="17" version="1065353216">This virus is aimed at aliens. Will it kill me?</text>
+		<text bitflag="1360" id1="289633" id2="17" version="1065353216">What if I get infected?</text>
+		<text bitflag="1345" id1="289634" id2="17" version="1065353216">I'm not sure it's wise to be freeing Belsavis's most dangerous prisoners.</text>
+		<text bitflag="1360" id1="289634" id2="17" version="1065353216">Free them? Sounds reckless.</text>
+		<text bitflag="3393" id1="289635" id2="17" version="1065353216">I should clarify.</text>
+		<text bitflag="3393" id1="289637" id2="17" version="1065353216">All you need to do is use the sensor device I left and detect which aliens are infected, then mark their cages. I will open them remotely after you're clear.</text>
+		<text bitflag="3393" id1="289639" id2="17" version="1065353216">There's no danger of being infected or attacked by the creatures. Though, who knows what other dangers are loose.</text>
+		<text bitflag="1360" id1="289640" id2="17" version="1065353216">I guess I can do that.</text>
+		<text bitflag="1360" id1="289641" id2="17" version="1065353216">You'd better be right.</text>
+		<text bitflag="3393" id1="289642" id2="17" version="1065353216">You won't regret it. This project means everything to the Empire. They may reward all of us.</text>
+		<text bitflag="1360" id1="289644" id2="17" version="1065353216">Not interested. [Refuse quest]</text>
+		<text bitflag="1360" id1="289645" id2="17" version="1065353216">That's awful. [Refuse quest]</text>
+		<text bitflag="3393" id1="289646" id2="17" version="1065353216">I know it's not the most palatable thing, but we have to do what we have to do to win.</text>
+		<text bitflag="321" id1="289648" id2="17" version="1065353216">[This monitoring station appears to be deactivated.]</text>
+		<text bitflag="321" id1="935707" id2="17" version="1065353216">[You activate the monitoring station terminal and set it to the Imperial frequency.]</text>
+	</file_content>
+</stb_file>

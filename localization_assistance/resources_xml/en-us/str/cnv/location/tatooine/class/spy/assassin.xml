@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/class/spy/assassin.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="610246" id2="17" version="1065353216">Come out. The wind speaks your name. The sand would bury your corpse.</text>
+		<text bitflag="1345" id1="610250" id2="17" version="1065353216">You have asked improper questions. The Old Man has determined your fate.</text>
+		<text bitflag="1345" id1="610251" id2="17" version="1065353216">Who are you? Why do you want me dead?</text>
+		<text bitflag="1360" id1="610251" id2="17" version="1065353216">What's this about?</text>
+		<text bitflag="1345" id1="610252" id2="17" version="1065353216">You know the answers well enough. Now it is time to die.</text>
+		<text bitflag="1345" id1="610253" id2="17" version="1065353216">Why don't you lower your weapons and we can discuss this?</text>
+		<text bitflag="1360" id1="610253" id2="17" version="1065353216">Let's talk.</text>
+		<text bitflag="1345" id1="610254" id2="17" version="1065353216">There is nothing to discuss. Now it is time to die.</text>
+		<text bitflag="1345" id1="610255" id2="17" version="1065353216">Really? Then I have a surprise for you.</text>
+		<text bitflag="1360" id1="610255" id2="17" version="1065353216">Is that so? [Spring trap]</text>
+		<text bitflag="1345" id1="610256" id2="17" version="1065353216">We shall see.</text>
+		<text bitflag="1345" id1="610261" id2="17" version="1065353216">Silence from the interloper.</text>
+	</file_content>
+</stb_file>

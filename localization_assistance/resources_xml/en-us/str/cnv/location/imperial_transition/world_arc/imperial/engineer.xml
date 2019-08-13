@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/engineer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="506605" id2="17" version="1065353216">The tech team sealed the door. You should be able to blast through, but they'll know you're coming.</text>
+		<text bitflag="1345" id1="506606" id2="17" version="1065353216">More droids! They're cutting through!</text>
+		<text bitflag="1345" id1="506607" id2="17" version="1065353216">Critical systems are green. The engine is safe.</text>
+		<text bitflag="1345" id1="506608" id2="17" version="1065353216">That's something. But with all this damage, we're cut off from the main deck.</text>
+		<text bitflag="1345" id1="506609" id2="17" version="1065353216">If you want to get out, you'll have to go through the cargo bay. Follow me.</text>
+	</file_content>
+</stb_file>

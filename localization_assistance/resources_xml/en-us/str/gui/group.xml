@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>203</strs>
+		<file_name>/resources/en-us/str/gui/group.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="221630" version="1065353216">grpResultOk</text>
+		<text bitflag="321" id1="2" id2="221630" version="1065353216">You are not in a group.</text>
+		<text bitflag="321" id1="3" id2="221630" version="1065353216">&lt;&lt;C:1&gt;&gt; is already in a group.</text>
+		<text bitflag="321" id1="4" id2="221630" version="1065353216">You are not the group leader.</text>
+		<text bitflag="321" id1="5" id2="221630" version="1065353216">&lt;&lt;C:1&gt;&gt; is not a member of the group.</text>
+		<text bitflag="321" id1="6" id2="221630" version="1065353216">The group is full.</text>
+		<text bitflag="321" id1="7" id2="221630" version="1065353216">You have not been invited to a group.</text>
+		<text bitflag="321" id1="8" id2="221630" version="1065353216">&lt;&lt;C:1&gt;&gt; is busy.</text>
+		<text bitflag="321" id1="9" id2="221630" version="1065353216">You cannot invite yourself to a group.</text>
+		<text bitflag="321" id1="10" id2="221630" version="1065353216">You are already the group leader.</text>
+		<text bitflag="321" id1="11" id2="221630" version="1065353216">You already have the maximum number of pending invitations.</text>
+		<text bitflag="321" id1="12" id2="221630" version="1065353216">Player does not exist or is not online.</text>
+		<text bitflag="321" id1="13" id2="221630" version="1065353216">Invalid target.</text>
+		<text bitflag="321" id1="400" id2="221630" version="1065353216">You join a group.</text>
+		<text bitflag="321" id1="401" id2="221630" version="1065353216">You leave the group.</text>
+		<text bitflag="321" id1="402" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; joined the group.</text>
+		<text bitflag="321" id1="403" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; left the group.</text>
+		<text bitflag="321" id1="404" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; disconnected.</text>
+		<text bitflag="321" id1="405" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; reconnected.</text>
+		<text bitflag="321" id1="406" id2="221630" version="1065353216">You are now the group leader.</text>
+		<text bitflag="321" id1="407" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; is now the group leader.</text>
+		<text bitflag="321" id1="408" id2="221630" version="1065353216">Loot is now set to Free For All.</text>
+		<text bitflag="321" id1="409" id2="221630" version="1065353216">Loot is now set to Round Robin.</text>
+		<text bitflag="321" id1="410" id2="221630" version="1065353216">You have invited &lt;&lt;1&gt;&gt; to join your group.</text>
+		<text bitflag="321" id1="411" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has invited &lt;&lt;2&gt;&gt; to join your group.</text>
+		<text bitflag="321" id1="412" id2="221630" version="1065353216">Loot threshold is now &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="420" id2="221630" version="1065353216">You decline the group invitation from &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="421" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; withdrew the group invitation.</text>
+		<text bitflag="321" id1="422" id2="221630" version="1065353216">You withdraw the group invitation to &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="423" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; withdrew the group invitation to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="424" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; removed you from the group.</text>
+		<text bitflag="321" id1="425" id2="221630" version="1065353216">You remove &lt;&lt;1&gt;&gt; from the group.</text>
+		<text bitflag="321" id1="426" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; removed &lt;&lt;2&gt;&gt; from the group.</text>
+		<text bitflag="321" id1="427" id2="221630" version="1065353216">The group has been disbanded.</text>
+		<text bitflag="321" id1="428" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; declined the invitation to your group.</text>
+		<text bitflag="321" id1="429" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; selects &lt;&lt;2&gt;&gt; for &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="430" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; rolls &lt;&lt;2&gt;&gt; on &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="431" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has won the roll for &lt;&lt;2&gt;&gt;!</text>
+		<text bitflag="321" id1="432" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has won the roll, but has no room in their inventory!</text>
+		<text bitflag="321" id1="450" id2="221630" version="1065353216">Auto-declining group invite...</text>
+		<text bitflag="321" id1="451" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has invited you to join a group.&lt;br&gt;A group gains increased Experience, Social Points, Command XP and can more easily defeat strong enemies.</text>
+		<text bitflag="321" id1="452" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has invited you to join an ops group.</text>
+		<text bitflag="321" id1="453" id2="221630" version="1065353216">You have invited &lt;&lt;1&gt;&gt; to join your ops group.</text>
+		<text bitflag="321" id1="454" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has invited &lt;&lt;2&gt;&gt; to join your ops group.</text>
+		<text bitflag="321" id1="455" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; removed you from the ops group.</text>
+		<text bitflag="321" id1="456" id2="221630" version="1065353216">You remove &lt;&lt;1&gt;&gt; from the ops group.</text>
+		<text bitflag="321" id1="457" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; removed &lt;&lt;2&gt;&gt; from the ops group.</text>
+		<text bitflag="321" id1="458" id2="221630" version="1065353216">You join an ops group.</text>
+		<text bitflag="321" id1="459" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; joined the ops group.</text>
+		<text bitflag="321" id1="460" id2="221630" version="1065353216">You leave the ops group.</text>
+		<text bitflag="321" id1="461" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; left the ops group.</text>
+		<text bitflag="321" id1="462" id2="221630" version="1065353216">You are now the ops leader.</text>
+		<text bitflag="321" id1="463" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; is now the ops leader.</text>
+		<text bitflag="321" id1="464" id2="221630" version="1065353216">You are now an ops lieutenant.</text>
+		<text bitflag="321" id1="465" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; is now an ops lieutenant.</text>
+		<text bitflag="321" id1="466" id2="221630" version="1065353216">You are no longer an ops lieutenant.</text>
+		<text bitflag="321" id1="467" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; is no longer an ops lieutenant.</text>
+		<text bitflag="321" id1="468" id2="221630" version="1065353216">You decline the ops group invitation from &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="469" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; declined the invitation to your ops group.</text>
+		<text bitflag="321" id1="470" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; withdrew the ops group invitation.</text>
+		<text bitflag="321" id1="471" id2="221630" version="1065353216">You withdrew the ops group invitation to &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="472" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; withdrew the ops group invitation to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="473" id2="221630" version="1065353216">The ops group has been disbanded.</text>
+		<text bitflag="321" id1="474" id2="221630" version="1065353216">Cannot invite &lt;&lt;1&gt;&gt; because they are in a flashpoint.</text>
+		<text bitflag="321" id1="475" id2="221630" version="1065353216">You are not currently in an ops group.</text>
+		<text bitflag="321" id1="476" id2="221630" version="1065353216">The ops group is full.</text>
+		<text bitflag="321" id1="477" id2="221630" version="1065353216">You are currently in an ops group.</text>
+		<text bitflag="321" id1="478" id2="221630" version="1065353216">You do not have ops lieutenant privileges.</text>
+		<text bitflag="321" id1="479" id2="221630" version="1065353216">Only the ops leader can demote or remove ops lieutenants.</text>
+		<text bitflag="321" id1="480" id2="221630" version="1065353216">You are the ops leader and cannot demote yourself.</text>
+		<text bitflag="321" id1="481" id2="221630" version="1065353216">You have converted your group into an ops group.</text>
+		<text bitflag="321" id1="482" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has converted the group into an ops group.</text>
+		<text bitflag="321" id1="483" id2="221630" version="1065353216">You are not currently in a group.</text>
+		<text bitflag="321" id1="484" id2="221630" version="1065353216">You are already in an ops group.</text>
+		<text bitflag="321" id1="485" id2="221630" version="1065353216">Only the leader can convert a group to an ops group.</text>
+		<text bitflag="321" id1="486" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has dismissed your companion.</text>
+		<text bitflag="321" id1="487" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has dismissed &lt;&lt;g:3,2&gt;&gt;.</text>
+		<text bitflag="321" id1="488" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; is ignoring you.</text>
+		<text bitflag="321" id1="489" id2="221630" version="1065353216">companion</text>
+		<text bitflag="321" id1="490" id2="221630" version="1065353216">group</text>
+		<text bitflag="321" id1="491" id2="221630" version="1065353216">The entered command is missing arguments.</text>
+		<text bitflag="321" id1="492" id2="221630" version="1065353216">Group command usage:
+/invite {name}
+/accept
+/decline
+/leave
+/remove {name}
+/setleader {name}
+/promote {name}
+/demote {name}
+/convert
+/pvpchallenge {name}
+/open</text>
+		<text bitflag="321" id1="493" id2="221630" version="1065353216">The group is now open to joining.</text>
+		<text bitflag="321" id1="494" id2="221630" version="1065353216">The group is now closed to joining.</text>
+		<text bitflag="321" id1="495" id2="221630" version="1065353216">&lt;&lt;g:2,1&gt;&gt; is currently not open to joining.</text>
+		<text bitflag="321" id1="496" id2="221630" version="1065353216">You are already in a group.</text>
+		<text bitflag="321" id1="497" id2="221630" version="1065353216">You cannot do that while in combat.</text>
+		<text bitflag="321" id1="498" id2="221630" version="1065353216">You cannot do that while &lt;&lt;1&gt;&gt; is in combat.</text>
+		<text bitflag="321" id1="499" id2="221630" version="1065353216">Cannot convert to an ops group because some group members are in a flashpoint.</text>
+		<text bitflag="321" id1="500" id2="221630" version="1065353216">Cannot remove members from this group.</text>
+		<text bitflag="321" id1="501" id2="221630" version="1065353216">Operations challenge mode set to 8 Player Story</text>
+		<text bitflag="321" id1="502" id2="221630" version="1065353216">Operations challenge mode set to 8 Player Veteran</text>
+		<text bitflag="321" id1="503" id2="221630" version="1065353216">Operations challenge mode set to 16 Player Story</text>
+		<text bitflag="321" id1="504" id2="221630" version="1065353216">Operations challenge mode set to 16 Player Veteran</text>
+		<text bitflag="321" id1="505" id2="221630" version="1065353216">Operations challenge mode set to 8 Player Master</text>
+		<text bitflag="321" id1="506" id2="221630" version="1065353216">Operations challenge mode set to 16 Player Master</text>
+		<text bitflag="321" id1="507" id2="221630" version="1065353216">You are not eligible to enter this ship.</text>
+		<text bitflag="321" id1="5503" id2="221630" version="1065353216">You do not have permission to set target markers.</text>
+		<text bitflag="321" id1="5504" id2="221630" version="1065353216">You must specify a target marker between 1 and 8.</text>
+		<text bitflag="321" id1="5506" id2="221630" version="1065353216">That item belongs to &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="5507" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has transferred to Instance &lt;&lt;2&gt;&gt; of &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="5508" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has transferred to Instance &lt;&lt;2&gt;&gt; of &lt;&lt;3&gt;&gt; (you are in Instance &lt;&lt;4&gt;&gt;).</text>
+		<text bitflag="321" id1="5509" id2="221630" version="1065353216">Cannot convert to an ops group because some members are inside of a phase.</text>
+		<text bitflag="321" id1="5510" id2="221630" version="1065353216">You cannot join the group because you have group phases in conflict with some of the existing members.</text>
+		<text bitflag="321" id1="5511" id2="221630" version="1065353216">You cannot join this group without first resetting your active flashpoint or ops.</text>
+		<text bitflag="321" id1="5512" id2="221630" version="1065353216">You cannot join this ops group while inside a group phase.</text>
+		<text bitflag="321" id1="5514" id2="221630" version="1065353216">The Force is with &lt;&lt;1&gt;&gt;, winning the roll for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="5515" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has taken &lt;&lt;2&gt;&gt; for &lt;&lt;r:1&gt;&gt;!</text>
+		<text bitflag="321" id1="5516" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has awarded &lt;&lt;2&gt;&gt; to &lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="5517" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has decided to give &lt;&lt;2&gt;&gt; away randomly!</text>
+		<text bitflag="321" id1="5518" id2="221630" version="1065353216">Award this item to &lt;&lt;1&gt;&gt;?</text>
+		<text bitflag="321" id1="5519" id2="221630" version="1065353216">The Master Looter is deciding what to do with that item.</text>
+		<text bitflag="321" id1="5520" id2="221630" version="1065353216">That item is destined for &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="5521" id2="221630" version="1065353216">Loot is now set to Master Looter.</text>
+		<text bitflag="321" id1="5523" id2="221630" version="1065353216">[Random]: &lt;&lt;1&gt;&gt; rolls &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="5524" id2="221630" version="1065353216">[Random]: &lt;&lt;1&gt;&gt; rolls &lt;&lt;2&gt;&gt; total: &lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="5527" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has initiated a vote to kick you from the ops group.</text>
+		<text bitflag="321" id1="5528" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has initiated a vote to kick &lt;&lt;2&gt;&gt; from the ops group.</text>
+		<text bitflag="321" id1="5529" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has voted to kick you from the group. Select 'X' to close. Select '?' to see the vote details.</text>
+		<text bitflag="321" id1="5530" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has voted to kick &lt;&lt;2&gt;&gt; from the group. Select 'X' to abstain. Select '?' to vote.</text>
+		<text bitflag="321" id1="5531" id2="221630" version="1065353216">You have been removed from the group and cannot vote to kick group members.</text>
+		<text bitflag="321" id1="5532" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; is in combat and cannot be vote kicked at this time.</text>
+		<text bitflag="321" id1="5533" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; is awaiting ejection from the group and cannot be vote kicked.</text>
+		<text bitflag="321" id1="5534" id2="221630" version="1065353216">You have already voted to remove &lt;&lt;1&gt;&gt; from the group.</text>
+		<text bitflag="321" id1="5535" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has been removed from the ops group by vote kick.</text>
+		<text bitflag="321" id1="5536" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has been removed from the group by vote kick.</text>
+		<text bitflag="321" id1="5537" id2="221630" version="1065353216">Only one vote to kick can be active at a time.</text>
+		<text bitflag="321" id1="5538" id2="221630" version="1065353216">You must wait &lt;&lt;1&gt;&gt; minutes before initiating another vote kick.</text>
+		<text bitflag="321" id1="5539" id2="221630" version="1065353216">The vote to kick &lt;&lt;1&gt;&gt; has failed because of insufficient votes.</text>
+		<text bitflag="321" id1="5540" id2="221630" version="1065353216">You have been removed from your groupfinder group by a vote kick.</text>
+		<text bitflag="321" id1="5543" id2="221630" version="1065353216">Vote Kick</text>
+		<text bitflag="321" id1="5544" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has initiated a vote to kick you from the ops group. Reason: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="5545" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has initiated a vote to kick &lt;&lt;2&gt;&gt; (level &lt;&lt;3&gt;&gt; &lt;&lt;4&gt;&gt; &lt;&lt;5&gt;&gt;) from the ops group. Reason: &lt;&lt;6&gt;&gt;</text>
+		<text bitflag="321" id1="5546" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has initiated a vote to kick you from the group. Reason: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="5547" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has initiated a vote to kick &lt;&lt;2&gt;&gt; (level &lt;&lt;3&gt;&gt; &lt;&lt;4&gt;&gt; &lt;&lt;5&gt;&gt;) from the group. Reason: &lt;&lt;6&gt;&gt;</text>
+		<text bitflag="321" id1="5548" id2="221630" version="1065353216">You have been removed from the groupfinder ops group by vote kick.</text>
+		<text bitflag="321" id1="5549" id2="221630" version="1065353216">The ops group invitation has been withdrawn.</text>
+		<text bitflag="321" id1="5550" id2="221630" version="1065353216">The group invitation has been withdrawn.</text>
+		<text bitflag="321" id1="5551" id2="221630" version="1065353216">The ops group invitation to &lt;&lt;1&gt;&gt; has been withdrawn.</text>
+		<text bitflag="321" id1="5552" id2="221630" version="1065353216">The group invitation to &lt;&lt;1&gt;&gt; has been withdrawn.</text>
+		<text bitflag="321" id1="5553" id2="221630" version="1065353216">This vote kick has expired with insufficient votes to kick a group member.</text>
+		<text bitflag="321" id1="5554" id2="221630" version="1065353216">You have been removed from your groupfinder group by a vote kick. Reason: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5556" id2="221630" version="1065353216">There are not enough players  to complete a vote kick.</text>
+		<text bitflag="321" id1="5557" id2="221630" version="1065353216">You have initiated a vote to kick &lt;&lt;1&gt;&gt; from the group.</text>
+		<text bitflag="321" id1="5558" id2="221630" version="1065353216">You have initiated a vote to kick &lt;&lt;1&gt;&gt; from the ops group.</text>
+		<text bitflag="321" id1="5559" id2="221630" version="1065353216">Cannot invite &lt;&lt;1&gt;&gt; because they are in an ops group restricted region.</text>
+		<text bitflag="321" id1="5560" id2="221630" version="1065353216">Cannot convert to an ops group because some group members are in an ops group restricted region.</text>
+		<text bitflag="321" id1="5561" id2="221630" version="1065353216">Removed from the ops group due to region restriction.</text>
+		<text bitflag="321" id1="5562" id2="221630" version="1065353216">You are no longer restricted from joining ops groups.</text>
+		<text bitflag="321" id1="5563" id2="221630" version="1065353216">You cannot invite members to join your group while you have a flagship transport request pending.</text>
+		<text bitflag="321" id1="5564" id2="221630" version="1065353216">Your group transport offer was declined by: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5565" id2="221630" version="1065353216">Your group transport offer was accepted by: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5566" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; is ineligible for your offer of group transport.</text>
+		<text bitflag="321" id1="5567" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; waited too long to respond to your group transportation offer.</text>
+		<text bitflag="321" id1="5568" id2="221630" version="1065353216">You cannot accept group transportation, as you have not unlocked your personal ship.</text>
+		<text bitflag="321" id1="5569" id2="221630" version="1065353216">Cannot summon group transportation due to cooldown.</text>
+		<text bitflag="321" id1="5570" id2="221630" version="1065353216">You must be in a group to summon group transportation.</text>
+		<text bitflag="321" id1="5571" id2="221630" version="1065353216">You cannot summon group transportation while your group has pending invites.</text>
+		<text bitflag="321" id1="5572" id2="221630" version="1065353216">You cannot summon group transportation while in combat.</text>
+		<text bitflag="321" id1="5573" id2="221630" version="1065353216">You cannot summon group transportation from a phased instance.</text>
+		<text bitflag="321" id1="5574" id2="221630" version="1065353216">Your group already has an active chapter transport request pending.</text>
+		<text bitflag="321" id1="5575" id2="221630" version="1065353216">&quot;Group Transport&quot;</text>
+		<text bitflag="321" id1="5576" id2="221630" version="1065353216">&quot;Would you like to summon your group for &lt;&lt;1&gt;&gt; credits?&quot;</text>
+		<text bitflag="321" id1="5577" id2="221630" version="1065353216">Group transport is blocked for your current area.</text>
+		<text bitflag="321" id1="5578" id2="221630" version="1065353216">You are in an area where quick travel is forbidden.  To accept the group transport you will have to first leave your current area</text>
+		<text bitflag="321" id1="5579" id2="221630" version="1065353216">Your group transport invitation has expired.</text>
+		<text bitflag="321" id1="5580" id2="221630" version="1065353216">Failed to activate group transport.</text>
+		<text bitflag="321" id1="5581" id2="221630" version="1065353216">Cannot use group transport while you are moving.</text>
+		<text bitflag="321" id1="5582" id2="221630" version="1065353216">You cannot use group transport while riding in a taxi.</text>
+		<text bitflag="321" id1="5583" id2="221630" version="1065353216">You cannot use group transport while dead.</text>
+		<text bitflag="321" id1="5585" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has offered you group transportation to their coordinates on &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="5586" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; can not join because they do not have &quot;Allow Access to Same Class/Personal Phases&quot; enabled in Social Preferences</text>
+		<text bitflag="321" id1="5588" id2="221630" version="1065353216">Suggested Invite</text>
+		<text bitflag="321" id1="5589" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; suggests you invite &lt;&lt;2&gt;&gt; to the group.</text>
+		<text bitflag="321" id1="5590" id2="221630" version="1065353216">The group doesn't allow suggested invites.</text>
+		<text bitflag="321" id1="5591" id2="221630" version="1065353216">You already have a pending suggested invite.</text>
+		<text bitflag="321" id1="5592" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has already been suggested to the group.</text>
+		<text bitflag="321" id1="5593" id2="221630" version="1065353216">The group leader rejected your suggested invite of &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="5594" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; is ignored by someone in the group.</text>
+		<text bitflag="321" id1="5595" id2="221630" version="1065353216">Players with a lockout timer may not be invited into a group that is currently engaged in activity finder content.</text>
+		<text bitflag="321" id1="5596" id2="221630" version="1065353216">No challenge content for current group size.</text>
+		<text bitflag="321" id1="5597" id2="221630" version="1065353216">No active PvP challenge.</text>
+		<text bitflag="321" id1="5598" id2="221630" version="1065353216">Player is not in a group.</text>
+		<text bitflag="321" id1="5599" id2="221630" version="1065353216">No challenge content for target player's group size.</text>
+		<text bitflag="321" id1="5600" id2="221630" version="1065353216">You cannot challenge your own group.</text>
+		<text bitflag="321" id1="5601" id2="221630" version="1065353216">Selected content is invalid for the group size of this pvp challenge.</text>
+		<text bitflag="321" id1="5602" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has cancelled the pending group PvP challenge.</text>
+		<text bitflag="321" id1="5603" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has declined the pending group PvP challenge.</text>
+		<text bitflag="321" id1="5604" id2="221630" version="1065353216">The group sizes have changed please select a new PvP type.</text>
+		<text bitflag="321" id1="5605" id2="221630" version="1065353216">Your group has a pending group PvP challenge.</text>
+		<text bitflag="321" id1="5606" id2="221630" version="1065353216">View Challenge</text>
+		<text bitflag="321" id1="5607" id2="221630" version="1065353216">Ignore</text>
+		<text bitflag="321" id1="5608" id2="221630" version="1065353216">Pending Group PvP Challenge!</text>
+		<text bitflag="321" id1="5609" id2="221630" version="1065353216">Target already has a pending PvP challenge.</text>
+		<text bitflag="321" id1="5610" id2="221630" version="1065353216">Cannot create a group PvP challenge while engaged in activity finder content.</text>
+		<text bitflag="321" id1="5611" id2="221630" version="1065353216">Target is currently engaged in activity finder content.</text>
+		<text bitflag="321" id1="5612" id2="221630" version="1065353216">Cannot create a group PvP challenge while a group member is engaged in PvP content.</text>
+		<text bitflag="321" id1="5613" id2="221630" version="1065353216">Target is currently engaged in PvP content.</text>
+		<text bitflag="321" id1="5614" id2="221630" version="1065353216">Not in the PvP challenge initator group!</text>
+		<text bitflag="321" id1="5615" id2="221630" version="1065353216">Not in the PvP challenge recipient group!</text>
+		<text bitflag="321" id1="5616" id2="221630" version="1065353216">Current PvP challenge cannot be a guild PvP challenge.</text>
+		<text bitflag="321" id1="5617" id2="221630" version="1065353216">The group makeup has changed and it is no longer valid for a guild PvP challenge.</text>
+		<text bitflag="321" id1="5618" id2="221630" version="1065353216">&lt;&lt;1&gt;&gt; has disbanded their group.</text>
+	</file_content>
+</stb_file>

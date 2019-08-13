@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>38</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/class/sith_inquisitor/distress_beacon.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="671870" id2="17" version="1065353216">This is Captain Quellon of the Starrunner. SOS, I repeat, SOS. We are caught in Hoth's gravitational pull, and falling fast.</text>
+		<text bitflag="1345" id1="671872" id2="17" version="1065353216">Strange events date back two weeks. Yavin Four artifacts believed to be the source. Something has taken control of the ship.</text>
+		<text bitflag="1345" id1="671874" id2="17" version="1065353216">To whomever finds this message: Burn this vessel. Don't look inside, don't touch it. Burn it.</text>
+		<text bitflag="1345" id1="671876" id2="17" version="1065353216">Lieutenant Drellik really is something else. Could find a wampa hair in a snowdrift, I bet.</text>
+		<text bitflag="1345" id1="671877" id2="17" version="1065353216">Is there anything else recorded on the beacon? Coordinates perhaps? A hint of where the ship may have fallen.</text>
+		<text bitflag="1360" id1="671877" id2="17" version="1065353216">Is that the end?</text>
+		<text bitflag="1345" id1="671878" id2="17" version="1065353216">Not as I can tell. Might take a good going-over in the lab. But what are those tracks?</text>
+		<text bitflag="1345" id1="671880" id2="17" version="1065353216">It still doesn't tell me where the ship is.</text>
+		<text bitflag="1360" id1="671880" id2="17" version="1065353216">But where is the ship?</text>
+		<text bitflag="1345" id1="671881" id2="17" version="1065353216">No, but we have a bearing from the beacon launch. And those tracks... somebody beat us to this thing.</text>
+		<text bitflag="1345" id1="671883" id2="17" version="1065353216">Do you expect me to get excited about a distress beacon?</text>
+		<text bitflag="1360" id1="671883" id2="17" version="1065353216">I'm hardly thrilled.</text>
+		<text bitflag="1345" id1="671884" id2="17" version="1065353216">Well, it confirms the existence of your ghost, for one. And these tracks might mean something.</text>
+		<text bitflag="1345" id1="671886" id2="17" version="1065353216">Lieutenant, sir, we've found the beacon but no ship. There're some light tracks, though; appear to be a few days old.</text>
+		<text bitflag="1345" id1="671888" id2="17" version="1065353216">Have Shalora zoom in, Sorrel. I've been studying alien tracks since I was old enough to know a Twi'lek from a tuk'ata.</text>
+		<text bitflag="1345" id1="671890" id2="17" version="1065353216">Erm, no offense.</text>
+		<text bitflag="1345" id1="671892" id2="17" version="1065353216">Ortolan. I'd know them if they were six days old and covered in jam. Those are Ortolan tracks.</text>
+		<text bitflag="1345" id1="671893" id2="17" version="1065353216">You think the Ortolans know something about this?</text>
+		<text bitflag="1360" id1="671893" id2="17" version="1065353216">How does that help?</text>
+		<text bitflag="1345" id1="671894" id2="17" version="1065353216">I'll be sure to look for you next time my ship's galley is invaded by a pack of Ortolans.</text>
+		<text bitflag="1360" id1="671894" id2="17" version="1065353216">Covered in jam? Good to know.</text>
+		<text bitflag="1345" id1="671895" id2="17" version="1065353216">Ha! That's a good one. I'll have to remember that next time the Imperial Reclamation Service trackers' committee meets.</text>
+		<text bitflag="1345" id1="671897" id2="17" version="1065353216">What's an Ortolan?</text>
+		<text bitflag="1360" id1="671897" id2="17" version="1065353216">Ortolan?</text>
+		<text bitflag="1345" id1="671898" id2="17" version="1065353216">A cold-weather type of alien who've made their home on Hoth. Usually peaceful--until recently.</text>
+		<text bitflag="1345" id1="671900" id2="17" version="1065353216">It looks like those Ortolans dug something up--possibly a clue to the ship's location. Sorrel, where's the nearest Ortolan camp?</text>
+		<text bitflag="1345" id1="671902" id2="17" version="1065353216">It's a ways beyond the next outpost. But the tracks look headed in the right direction.</text>
+		<text bitflag="1345" id1="671904" id2="17" version="1065353216">Might be time to put on your best diplomatic face, my lord. Ortolans don't like outsiders much, but it looks like they're the key to finding our ghost.</text>
+		<text bitflag="1345" id1="671905" id2="17" version="1065353216">I will be utterly charming.</text>
+		<text bitflag="1360" id1="671905" id2="17" version="1065353216">No problem.</text>
+		<text bitflag="1345" id1="671906" id2="17" version="1065353216">A little lightning will break them. It always does.</text>
+		<text bitflag="1360" id1="671906" id2="17" version="1065353216">No need for diplomacy.</text>
+		<text bitflag="1345" id1="671907" id2="17" version="1065353216">Sounds a little gruesome, but who am I to question a master's methods?</text>
+		<text bitflag="1345" id1="671909" id2="17" version="1065353216">This chase better give results, or I'll have your skin for a cloak.</text>
+		<text bitflag="1360" id1="671909" id2="17" version="1065353216">I'm getting tired of this.</text>
+		<text bitflag="1345" id1="671910" id2="17" version="1065353216">Never so much as a pottery shard has escaped me, my lord. We are on the right track.</text>
+		<text bitflag="1345" id1="671912" id2="17" version="1065353216">I'll have Sorrel bring the beacon to the base. Between it and the Ortolans, we're bound to have a breakthrough.</text>
+		<text bitflag="1345" id1="671914" id2="17" version="1065353216">We'll be there when you're through dealing with the Ortolans.</text>
+	</file_content>
+</stb_file>

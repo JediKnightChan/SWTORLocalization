@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>1700</strs>
+		<file_name>/resources/en-us/str/gui/emotes.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194662" version="1065353216">You sit down.</text>
+		<text bitflag="321" id1="2" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down.</text>
+		<text bitflag="321" id1="3" id2="194662" version="1065353216">You sit down near &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="4" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down near you.</text>
+		<text bitflag="321" id1="5" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down near &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6" id2="194662" version="1065353216">You wave.</text>
+		<text bitflag="321" id1="7" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waves.</text>
+		<text bitflag="321" id1="8" id2="194662" version="1065353216">You wave at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="9" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waves at you.</text>
+		<text bitflag="321" id1="10" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waves at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="11" id2="194662" version="1065353216">You dance.</text>
+		<text bitflag="321" id1="12" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; breaks into dance.</text>
+		<text bitflag="321" id1="13" id2="194662" version="1065353216">You dance with &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="14" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with you.</text>
+		<text bitflag="321" id1="15" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="16" id2="194662" version="1065353216">You accuse everyone around you.</text>
+		<text bitflag="321" id1="17" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; accuses everyone.</text>
+		<text bitflag="321" id1="18" id2="194662" version="1065353216">You accuse &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="19" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; accuses you.</text>
+		<text bitflag="321" id1="20" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; accuses &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="21" id2="194662" version="1065353216">You tremble with anger.</text>
+		<text bitflag="321" id1="22" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; trembles with anger.</text>
+		<text bitflag="321" id1="23" id2="194662" version="1065353216">You tremble with anger at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="24" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; trembles with anger at you.</text>
+		<text bitflag="321" id1="25" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; trembles with anger at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="26" id2="194662" version="1065353216">You tremble with anger.</text>
+		<text bitflag="321" id1="27" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; trembles with anger.</text>
+		<text bitflag="321" id1="28" id2="194662" version="1065353216">You tremble with anger at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="29" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; trembles with anger at you.</text>
+		<text bitflag="321" id1="30" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; trembles with anger at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="31" id2="194662" version="1065353216">You tremble with anger.</text>
+		<text bitflag="321" id1="32" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; trembles with anger.</text>
+		<text bitflag="321" id1="33" id2="194662" version="1065353216">You tremble with anger at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="34" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; trembles with anger at you.</text>
+		<text bitflag="321" id1="35" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; trembles with anger at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="36" id2="194662" version="1065353216">You apologize to everyone.</text>
+		<text bitflag="321" id1="37" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; apologizes to everyone.</text>
+		<text bitflag="321" id1="38" id2="194662" version="1065353216">You apologize to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="39" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; apologizes to you.</text>
+		<text bitflag="321" id1="40" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; apologizes to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="41" id2="194662" version="1065353216">You apologize to everyone.</text>
+		<text bitflag="321" id1="42" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; apologizes to everyone.</text>
+		<text bitflag="321" id1="43" id2="194662" version="1065353216">You apologize to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="44" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; apologizes to you.</text>
+		<text bitflag="321" id1="45" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; apologizes to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="46" id2="194662" version="1065353216">You applaud.</text>
+		<text bitflag="321" id1="47" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds.</text>
+		<text bitflag="321" id1="48" id2="194662" version="1065353216">You applaud at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="49" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds at you.</text>
+		<text bitflag="321" id1="50" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="51" id2="194662" version="1065353216">You applaud.</text>
+		<text bitflag="321" id1="52" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds.</text>
+		<text bitflag="321" id1="53" id2="194662" version="1065353216">You applaud at  &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="54" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds at you.</text>
+		<text bitflag="321" id1="55" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="56" id2="194662" version="1065353216">You applaud.</text>
+		<text bitflag="321" id1="57" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds.</text>
+		<text bitflag="321" id1="58" id2="194662" version="1065353216">You applaud at  &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="59" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds at you.</text>
+		<text bitflag="321" id1="60" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="61" id2="194662" version="1065353216">You clap.</text>
+		<text bitflag="321" id1="62" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; claps.</text>
+		<text bitflag="321" id1="63" id2="194662" version="1065353216">You clap for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="64" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; claps for you.</text>
+		<text bitflag="321" id1="65" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; claps for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="66" id2="194662" version="1065353216">You beckon everyone over to you.</text>
+		<text bitflag="321" id1="67" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; beckons everyone over to them.</text>
+		<text bitflag="321" id1="68" id2="194662" version="1065353216">You beckon to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="69" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; beckons you over.</text>
+		<text bitflag="321" id1="70" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; beckons to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="71" id2="194662" version="1065353216">You beg to everyone.</text>
+		<text bitflag="321" id1="72" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; begs to everyone.</text>
+		<text bitflag="321" id1="73" id2="194662" version="1065353216">You beg to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="74" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; begs to you.</text>
+		<text bitflag="321" id1="75" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; begs to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="76" id2="194662" version="1065353216">You blink.</text>
+		<text bitflag="321" id1="77" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blinks.</text>
+		<text bitflag="321" id1="78" id2="194662" version="1065353216">You blink at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="79" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blinks at you.</text>
+		<text bitflag="321" id1="80" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blinks at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="81" id2="194662" version="1065353216">You blow a kiss.</text>
+		<text bitflag="321" id1="82" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blows a kiss.</text>
+		<text bitflag="321" id1="83" id2="194662" version="1065353216">You blow a kiss to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="84" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blows a kiss to you.</text>
+		<text bitflag="321" id1="85" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blows a kiss to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="86" id2="194662" version="1065353216">You blow a kiss.</text>
+		<text bitflag="321" id1="87" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blows a kiss.</text>
+		<text bitflag="321" id1="88" id2="194662" version="1065353216">You blow a kiss to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="89" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blows a kiss to you.</text>
+		<text bitflag="321" id1="90" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blows a kiss to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="91" id2="194662" version="1065353216">You bonk yourself on the head.</text>
+		<text bitflag="321" id1="92" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bonks themselves on the head.</text>
+		<text bitflag="321" id1="93" id2="194662" version="1065353216">You bonk &lt;&lt;2&gt;&gt; on the head.</text>
+		<text bitflag="321" id1="94" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bonks you on the head.</text>
+		<text bitflag="321" id1="95" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bonks &lt;&lt;2&gt;&gt; on the head.</text>
+		<text bitflag="321" id1="96" id2="194662" version="1065353216">You sigh with boredom.</text>
+		<text bitflag="321" id1="97" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sighs with boredom.</text>
+		<text bitflag="321" id1="98" id2="194662" version="1065353216">You are bored with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="99" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you, bored.</text>
+		<text bitflag="321" id1="100" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is bored with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="101" id2="194662" version="1065353216">You take a bow.</text>
+		<text bitflag="321" id1="102" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; takes a bow.</text>
+		<text bitflag="321" id1="103" id2="194662" version="1065353216">You bow before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="104" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bows before you.</text>
+		<text bitflag="321" id1="105" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bows before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="106" id2="194662" version="1065353216">You bow respectfully.</text>
+		<text bitflag="321" id1="107" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bows respectfully.</text>
+		<text bitflag="321" id1="108" id2="194662" version="1065353216">You bow before &lt;&lt;2&gt;&gt; with great respect.</text>
+		<text bitflag="321" id1="109" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bows before you with great respect.</text>
+		<text bitflag="321" id1="110" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bows before &lt;&lt;2&gt;&gt; with great respect.</text>
+		<text bitflag="321" id1="111" id2="194662" version="1065353216">You bow with great formality.</text>
+		<text bitflag="321" id1="112" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bows with great formality.</text>
+		<text bitflag="321" id1="113" id2="194662" version="1065353216">You bow before &lt;&lt;2&gt;&gt; with great formality.</text>
+		<text bitflag="321" id1="114" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bows formally before you.</text>
+		<text bitflag="321" id1="115" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bows formally before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="116" id2="194662" version="1065353216">You let everyone know you'll be right back.</text>
+		<text bitflag="321" id1="117" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; will be right back.</text>
+		<text bitflag="321" id1="118" id2="194662" version="1065353216">You will be right back.</text>
+		<text bitflag="321" id1="119" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; will be right back.</text>
+		<text bitflag="321" id1="120" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; will be right back.</text>
+		<text bitflag="321" id1="121" id2="194662" version="1065353216">You belch.</text>
+		<text bitflag="321" id1="122" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; belches.</text>
+		<text bitflag="321" id1="123" id2="194662" version="1065353216">You belch rudely near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="124" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; belches at you.</text>
+		<text bitflag="321" id1="125" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; belches at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="126" id2="194662" version="1065353216">You burp.</text>
+		<text bitflag="321" id1="127" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; burps.</text>
+		<text bitflag="321" id1="128" id2="194662" version="1065353216">You burp rudely near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="129" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; belches at you.</text>
+		<text bitflag="321" id1="130" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; belches at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="131" id2="194662" version="1065353216">You bid everyone farewell.</text>
+		<text bitflag="321" id1="132" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bids everyone farewell.</text>
+		<text bitflag="321" id1="133" id2="194662" version="1065353216">You bid farewell to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="134" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bids you, &quot;Farewell.&quot;</text>
+		<text bitflag="321" id1="135" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bids farewell to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="136" id2="194662" version="1065353216">You bid everyone farewell.</text>
+		<text bitflag="321" id1="137" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bids everyone farewell.</text>
+		<text bitflag="321" id1="138" id2="194662" version="1065353216">You bid farewell to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="139" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bids you, &quot;Farewell.&quot;</text>
+		<text bitflag="321" id1="140" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bids farewell to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="141" id2="194662" version="1065353216">You bid everyone farewell.</text>
+		<text bitflag="321" id1="142" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bids everyone farewell.</text>
+		<text bitflag="321" id1="143" id2="194662" version="1065353216">You bid farewell to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="144" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bids you, &quot;Farewell.&quot;</text>
+		<text bitflag="321" id1="145" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bids farewell to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="146" id2="194662" version="1065353216">You calm yourself.</text>
+		<text bitflag="321" id1="147" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calms down.</text>
+		<text bitflag="321" id1="148" id2="194662" version="1065353216">You try to calm &lt;&lt;2&gt;&gt; down.</text>
+		<text bitflag="321" id1="149" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tries to calm you down.</text>
+		<text bitflag="321" id1="150" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tries to calm &lt;&lt;2&gt;&gt; down.</text>
+		<text bitflag="321" id1="151" id2="194662" version="1065353216">You tell everyone to catch up!</text>
+		<text bitflag="321" id1="152" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells everyone to catch up!</text>
+		<text bitflag="321" id1="153" id2="194662" version="1065353216">You tell &lt;&lt;2&gt;&gt; to catch up!</text>
+		<text bitflag="321" id1="154" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you to catch up!</text>
+		<text bitflag="321" id1="155" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells &lt;&lt;2&gt;&gt; to catch up!</text>
+		<text bitflag="321" id1="156" id2="194662" version="1065353216">You cheer.</text>
+		<text bitflag="321" id1="157" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers.</text>
+		<text bitflag="321" id1="158" id2="194662" version="1065353216">You cheer at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="159" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers at you.</text>
+		<text bitflag="321" id1="160" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="161" id2="194662" version="1065353216">You cheer.</text>
+		<text bitflag="321" id1="162" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers.</text>
+		<text bitflag="321" id1="163" id2="194662" version="1065353216">You cheer at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="164" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers at you.</text>
+		<text bitflag="321" id1="165" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="166" id2="194662" version="1065353216">You show everyone your moves.</text>
+		<text bitflag="321" id1="167" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows off &lt;&lt;o:1&gt;&gt; moves.</text>
+		<text bitflag="321" id1="168" id2="194662" version="1065353216">You show off for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="169" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows off for you.</text>
+		<text bitflag="321" id1="170" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows off for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="171" id2="194662" version="1065353216">You shiver with cold.</text>
+		<text bitflag="321" id1="172" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; appears to be cold.</text>
+		<text bitflag="321" id1="173" id2="194662" version="1065353216">You shiver in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="174" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; appears to you to be cold.</text>
+		<text bitflag="321" id1="175" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shivers in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="176" id2="194662" version="1065353216">You need to be comforted.</text>
+		<text bitflag="321" id1="177" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; needs to be comforted.</text>
+		<text bitflag="321" id1="178" id2="194662" version="1065353216">You comfort &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="179" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; comforts you.</text>
+		<text bitflag="321" id1="180" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; comforts &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="181" id2="194662" version="1065353216">You commend everyone, &quot;Well done!&quot;</text>
+		<text bitflag="321" id1="182" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; commends everyone, &quot;Well done!&quot;</text>
+		<text bitflag="321" id1="183" id2="194662" version="1065353216">You commend &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="184" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; commends you, &quot;Well done!&quot;</text>
+		<text bitflag="321" id1="185" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; commends &lt;&lt;2&gt;&gt;, &quot;Well done!&quot;</text>
+		<text bitflag="321" id1="186" id2="194662" version="1065353216">You commend everyone, &quot;Good job!&quot;</text>
+		<text bitflag="321" id1="187" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; commends everyone, &quot;Good job!&quot;</text>
+		<text bitflag="321" id1="188" id2="194662" version="1065353216">You commend &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="189" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; commends you, &quot;Good job!&quot;</text>
+		<text bitflag="321" id1="190" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; commends &lt;&lt;2&gt;&gt;, &quot;Good job!&quot;</text>
+		<text bitflag="321" id1="191" id2="194662" version="1065353216">You boggle at the situation.</text>
+		<text bitflag="321" id1="192" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; boggles at the situation.</text>
+		<text bitflag="321" id1="193" id2="194662" version="1065353216">You boggle at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="194" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; boggles at you.</text>
+		<text bitflag="321" id1="195" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; boggles at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="196" id2="194662" version="1065353216">You look confused.</text>
+		<text bitflag="321" id1="197" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks confused.</text>
+		<text bitflag="321" id1="198" id2="194662" version="1065353216">You look confused by &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="199" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you incredulously.</text>
+		<text bitflag="321" id1="200" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks incredulously at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="201" id2="194662" version="1065353216">You gaze curiously around you.</text>
+		<text bitflag="321" id1="202" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; expresses curiosity.</text>
+		<text bitflag="321" id1="203" id2="194662" version="1065353216">You curiously observe &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="204" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; curiously observes you.</text>
+		<text bitflag="321" id1="205" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; curiously observes &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="206" id2="194662" version="1065353216">You look puzzled.</text>
+		<text bitflag="321" id1="207" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks puzzled.</text>
+		<text bitflag="321" id1="208" id2="194662" version="1065353216">You are puzzled by &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="209" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is puzzled by you.</text>
+		<text bitflag="321" id1="210" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is puzzled by &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="211" id2="194662" version="1065353216">You congratulate everyone.</text>
+		<text bitflag="321" id1="212" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates everyone.</text>
+		<text bitflag="321" id1="213" id2="194662" version="1065353216">You congratulate &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="214" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates you.</text>
+		<text bitflag="321" id1="215" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="216" id2="194662" version="1065353216">You congratulate everyone.</text>
+		<text bitflag="321" id1="217" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates everyone.</text>
+		<text bitflag="321" id1="218" id2="194662" version="1065353216">You congratulate &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="219" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates you.</text>
+		<text bitflag="321" id1="220" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="221" id2="194662" version="1065353216">You congratulate everyone.</text>
+		<text bitflag="321" id1="222" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates everyone.</text>
+		<text bitflag="321" id1="223" id2="194662" version="1065353216">You congratulate &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="224" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates you.</text>
+		<text bitflag="321" id1="225" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="226" id2="194662" version="1065353216">You congratulate everyone.</text>
+		<text bitflag="321" id1="227" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates everyone.</text>
+		<text bitflag="321" id1="228" id2="194662" version="1065353216">You congratulate &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="229" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates you.</text>
+		<text bitflag="321" id1="230" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; congratulates &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="231" id2="194662" version="1065353216">You need to be consoled.</text>
+		<text bitflag="321" id1="232" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; needs to be consoled.</text>
+		<text bitflag="321" id1="233" id2="194662" version="1065353216">You console &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="234" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; consoles you.</text>
+		<text bitflag="321" id1="235" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; consoles &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="236" id2="194662" version="1065353216">You contemplate the situation at hand.</text>
+		<text bitflag="321" id1="237" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; contemplates the situation.</text>
+		<text bitflag="321" id1="238" id2="194662" version="1065353216">You contemplate the situation along with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="239" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; contemplates the situation along with you.</text>
+		<text bitflag="321" id1="240" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; contemplates the situation along with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="241" id2="194662" version="1065353216">You cough.</text>
+		<text bitflag="321" id1="242" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; coughs.</text>
+		<text bitflag="321" id1="243" id2="194662" version="1065353216">You cough near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="244" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; coughs near you.</text>
+		<text bitflag="321" id1="245" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; coughs near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="246" id2="194662" version="1065353216">You cringe.</text>
+		<text bitflag="321" id1="247" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cringes.</text>
+		<text bitflag="321" id1="248" id2="194662" version="1065353216">You cringe at the sight of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="249" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cringes at the sight of you.</text>
+		<text bitflag="321" id1="250" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cringes at the sight of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="251" id2="194662" version="1065353216">You're afraid.</text>
+		<text bitflag="321" id1="252" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cringes in fear.</text>
+		<text bitflag="321" id1="253" id2="194662" version="1065353216">You cringe in fear at the sight of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="254" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cringes in fear at the sight of you.</text>
+		<text bitflag="321" id1="255" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cringes in fear at the sight of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="256" id2="194662" version="1065353216">You stand impatiently.</text>
+		<text bitflag="321" id1="257" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stands impatiently.</text>
+		<text bitflag="321" id1="258" id2="194662" version="1065353216">You cross your arms waiting for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="259" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waits impatiently for you.</text>
+		<text bitflag="321" id1="260" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waits impatiently for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="261" id2="194662" version="1065353216">You cry.</text>
+		<text bitflag="321" id1="262" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries.</text>
+		<text bitflag="321" id1="263" id2="194662" version="1065353216">You cry next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="264" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries next to you.</text>
+		<text bitflag="321" id1="265" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="266" id2="194662" version="1065353216">You mourn.</text>
+		<text bitflag="321" id1="267" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; mourns.</text>
+		<text bitflag="321" id1="268" id2="194662" version="1065353216">You mourn the loss of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="269" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; mourns you.</text>
+		<text bitflag="321" id1="270" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; mourns the loss of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="271" id2="194662" version="1065353216">You sob.</text>
+		<text bitflag="321" id1="272" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sobs.</text>
+		<text bitflag="321" id1="273" id2="194662" version="1065353216">You sob next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="274" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sobs next to you.</text>
+		<text bitflag="321" id1="275" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="276" id2="194662" version="1065353216">You cry.</text>
+		<text bitflag="321" id1="277" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries.</text>
+		<text bitflag="321" id1="278" id2="194662" version="1065353216">You cry next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="279" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries next to you.</text>
+		<text bitflag="321" id1="280" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="281" id2="194662" version="1065353216">You dance excitedly.</text>
+		<text bitflag="321" id1="282" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances excitedly.</text>
+		<text bitflag="321" id1="283" id2="194662" version="1065353216">You dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="284" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with you.</text>
+		<text bitflag="321" id1="285" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="286" id2="194662" version="1065353216">You frown with disappointment.</text>
+		<text bitflag="321" id1="287" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is disappointed.</text>
+		<text bitflag="321" id1="288" id2="194662" version="1065353216">You are disappointed by &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="289" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is disappointed with you.</text>
+		<text bitflag="321" id1="290" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is disappointed with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="291" id2="194662" version="1065353216">You can't believe you just did that!</text>
+		<text bitflag="321" id1="292" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is disappointed with themselves.</text>
+		<text bitflag="321" id1="293" id2="194662" version="1065353216">You can't believe that &lt;&lt;2&gt;&gt; just did that!</text>
+		<text bitflag="321" id1="294" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; can't believe what you did!</text>
+		<text bitflag="321" id1="295" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; can't believe what  &lt;&lt;2&gt;&gt; did.</text>
+		<text bitflag="321" id1="296" id2="194662" version="1065353216">You're done here.</text>
+		<text bitflag="321" id1="297" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is done here.</text>
+		<text bitflag="321" id1="298" id2="194662" version="1065353216">You are done dealing with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="299" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is done dealing with you.</text>
+		<text bitflag="321" id1="300" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is done dealing with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="301" id2="194662" version="1065353216">You let everyone know you'll keep your eyes on them.</text>
+		<text bitflag="321" id1="302" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is keeping &lt;&lt;o:1&gt;&gt; eyes on everyone.</text>
+		<text bitflag="321" id1="303" id2="194662" version="1065353216">You're keeping your eyes on &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="304" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is keeping an eye on you.</text>
+		<text bitflag="321" id1="305" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is keeping an eye on &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="306" id2="194662" version="1065353216">You raise a drink and propose a toast.</text>
+		<text bitflag="321" id1="307" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; raises a drink in the air and proposes a toast.</text>
+		<text bitflag="321" id1="308" id2="194662" version="1065353216">You raise a drink to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="309" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; raises a drink to you and proposes a toast.</text>
+		<text bitflag="321" id1="310" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; raises a drink to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="311" id2="194662" version="1065353216">You duck.</text>
+		<text bitflag="321" id1="312" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; ducks.</text>
+		<text bitflag="321" id1="313" id2="194662" version="1065353216">You duck behind &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="314" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; ducks behind you.</text>
+		<text bitflag="321" id1="315" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; ducks behind &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="316" id2="194662" version="1065353216">You eat a hearty meal.</text>
+		<text bitflag="321" id1="317" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; eats a hearty meal.</text>
+		<text bitflag="321" id1="318" id2="194662" version="1065353216">You eat a hearty meal in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="319" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; eats a hearty meal in front of you.</text>
+		<text bitflag="321" id1="320" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; eats a hearty meal in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="321" id2="194662" version="1065353216">You eat a hearty meal.</text>
+		<text bitflag="321" id1="322" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; eats a hearty meal.</text>
+		<text bitflag="321" id1="323" id2="194662" version="1065353216">You eat a hearty meal in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="324" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; eats a hearty meal in front of you.</text>
+		<text bitflag="321" id1="325" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; eats a hearty meal in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="326" id2="194662" version="1065353216">You eat a hearty meal.</text>
+		<text bitflag="321" id1="327" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; eats a hearty meal.</text>
+		<text bitflag="321" id1="328" id2="194662" version="1065353216">You eat a hearty meal in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="329" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; eats a hearty meal in front of you.</text>
+		<text bitflag="321" id1="330" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; eats a hearty meal in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="331" id2="194662" version="1065353216">You are excited.</text>
+		<text bitflag="321" id1="332" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is excited.</text>
+		<text bitflag="321" id1="333" id2="194662" version="1065353216">You talk excitedly with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="334" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; talks excitedly with you.</text>
+		<text bitflag="321" id1="335" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; talks excitedly with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="336" id2="194662" version="1065353216">You can't believe that just happened.</text>
+		<text bitflag="321" id1="337" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; can't believe that just happened.</text>
+		<text bitflag="321" id1="338" id2="194662" version="1065353216">You can't believe &lt;&lt;2&gt;&gt; just did that.</text>
+		<text bitflag="321" id1="339" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; can't believe that you just did that.</text>
+		<text bitflag="321" id1="340" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; can't believe that &lt;&lt;2&gt;&gt; just did that.</text>
+		<text bitflag="321" id1="341" id2="194662" version="1065353216">You fidget impatiently.</text>
+		<text bitflag="321" id1="342" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; fidgets impatiently.</text>
+		<text bitflag="321" id1="343" id2="194662" version="1065353216">You fidget impatiently while waiting for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="344" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; fidgets impatiently while waiting for you.</text>
+		<text bitflag="321" id1="345" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; fidgets impatiently while waiting for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="346" id2="194662" version="1065353216">You fidget impatiently.</text>
+		<text bitflag="321" id1="347" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; fidgets impatiently.</text>
+		<text bitflag="321" id1="348" id2="194662" version="1065353216">You fidget impatiently while waiting for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="349" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; fidgets impatiently while waiting for you.</text>
+		<text bitflag="321" id1="350" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; fidgets impatiently while waiting for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="351" id2="194662" version="1065353216">You are too skilled for everyone here.</text>
+		<text bitflag="321" id1="352" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is too skilled for everyone here.</text>
+		<text bitflag="321" id1="353" id2="194662" version="1065353216">You are too skilled for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="354" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is too skilled for you.</text>
+		<text bitflag="321" id1="355" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is too skilled for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="356" id2="194662" version="1065353216">You try and get everyone's attention.</text>
+		<text bitflag="321" id1="357" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tries to get everyone's attention.</text>
+		<text bitflag="321" id1="358" id2="194662" version="1065353216">You try to get the attention of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="359" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tries to get your attention.</text>
+		<text bitflag="321" id1="360" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tries to get the attention of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="361" id2="194662" version="1065353216">You flap your arms wildly.</text>
+		<text bitflag="321" id1="362" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flaps &lt;&lt;o:1&gt;&gt; arms wildly.</text>
+		<text bitflag="321" id1="363" id2="194662" version="1065353216">You flap your arms wildly at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="364" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flaps &lt;&lt;o:1&gt;&gt; arms wildly at you.</text>
+		<text bitflag="321" id1="365" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flaps &lt;&lt;o:1&gt;&gt;  arms wildly at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="366" id2="194662" version="1065353216">You yell &quot;Run away! Run away!&quot;</text>
+		<text bitflag="321" id1="367" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; yells &quot;Run away! Run away!&quot;</text>
+		<text bitflag="321" id1="368" id2="194662" version="1065353216">You yell &quot;Run away!&quot; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="369" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; yells to you, &quot;Run away! Run away!&quot;</text>
+		<text bitflag="321" id1="370" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; yells &quot;Run away!&quot; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="371" id2="194662" version="1065353216">You flex for the audience.</text>
+		<text bitflag="321" id1="372" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flexes.</text>
+		<text bitflag="321" id1="373" id2="194662" version="1065353216">You flex your muscles at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="374" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flexes at you.</text>
+		<text bitflag="321" id1="375" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flexes at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="376" id2="194662" version="1065353216">You flex for the audience.</text>
+		<text bitflag="321" id1="377" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flexes.</text>
+		<text bitflag="321" id1="378" id2="194662" version="1065353216">You flex your muscles at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="379" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flexes at you.</text>
+		<text bitflag="321" id1="380" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flexes at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="381" id2="194662" version="1065353216">You flinch.</text>
+		<text bitflag="321" id1="382" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flinches.</text>
+		<text bitflag="321" id1="383" id2="194662" version="1065353216">You flinch at the sight of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="384" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flinches at the sight of you.</text>
+		<text bitflag="321" id1="385" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flinches at the sight of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="386" id2="194662" version="1065353216">You do a flip.</text>
+		<text bitflag="321" id1="387" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a flip.</text>
+		<text bitflag="321" id1="388" id2="194662" version="1065353216">You flip for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="389" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flips for you.</text>
+		<text bitflag="321" id1="390" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flips for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="391" id2="194662" version="1065353216">You do a flip.</text>
+		<text bitflag="321" id1="392" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a flip.</text>
+		<text bitflag="321" id1="393" id2="194662" version="1065353216">You flip for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="394" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flips for you.</text>
+		<text bitflag="321" id1="395" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flips for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="396" id2="194662" version="1065353216">You flirt with everyone.</text>
+		<text bitflag="321" id1="397" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flirts with everyone.</text>
+		<text bitflag="321" id1="398" id2="194662" version="1065353216">You flirt with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="399" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flirts with you.</text>
+		<text bitflag="321" id1="400" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flirts with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="401" id2="194662" version="1065353216">You brandish your weapon.</text>
+		<text bitflag="321" id1="402" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; brandishes &lt;&lt;o:1&gt;&gt; weapon.</text>
+		<text bitflag="321" id1="403" id2="194662" version="1065353216">You brandish your weapon at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="404" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; brandishes &lt;&lt;o:1&gt;&gt; weapon at you.</text>
+		<text bitflag="321" id1="405" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; brandishes &lt;&lt;o:1&gt;&gt; weapon at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="406" id2="194662" version="1065353216">You flourish your weapon in front of everyone.</text>
+		<text bitflag="321" id1="407" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flourishes &lt;&lt;o:1&gt;&gt; weapon in front of everyone.</text>
+		<text bitflag="321" id1="408" id2="194662" version="1065353216">You flourish your weapon before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="409" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flourishes &lt;&lt;o:1&gt;&gt; weapon in front of you.</text>
+		<text bitflag="321" id1="410" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; flourishes &lt;&lt;o:1&gt;&gt; weapon in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="411" id2="194662" version="1065353216">You tell everyone to follow you.</text>
+		<text bitflag="321" id1="412" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells everyone to follow.</text>
+		<text bitflag="321" id1="413" id2="194662" version="1065353216">You suggest &lt;&lt;2&gt;&gt; follows you.</text>
+		<text bitflag="321" id1="414" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you to follow.</text>
+		<text bitflag="321" id1="415" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells &lt;&lt;2&gt;&gt; to follow.</text>
+		<text bitflag="321" id1="416" id2="194662" version="1065353216">You let everyone know that you are hungry.</text>
+		<text bitflag="321" id1="417" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; appears to be hungry.</text>
+		<text bitflag="321" id1="418" id2="194662" version="1065353216">You look hungry in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="419" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; appears to you to be hungry.</text>
+		<text bitflag="321" id1="420" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks hungry in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="421" id2="194662" version="1065353216">You let everyone know that you are hungry.</text>
+		<text bitflag="321" id1="422" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; appears to be hungry.</text>
+		<text bitflag="321" id1="423" id2="194662" version="1065353216">You look hungry in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="424" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; appears to you to be hungry.</text>
+		<text bitflag="321" id1="425" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks hungry in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="426" id2="194662" version="1065353216">You frown.</text>
+		<text bitflag="321" id1="427" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; frowns.</text>
+		<text bitflag="321" id1="428" id2="194662" version="1065353216">You frown with disappointment at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="429" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; frowns at you with disappointment.</text>
+		<text bitflag="321" id1="430" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; frown with disappointment at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="431" id2="194662" version="1065353216">You show everyone how to move.</text>
+		<text bitflag="321" id1="432" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows everyone how to move.</text>
+		<text bitflag="321" id1="433" id2="194662" version="1065353216">You show &lt;&lt;2&gt;&gt; how to move.</text>
+		<text bitflag="321" id1="434" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows you how to move.</text>
+		<text bitflag="321" id1="435" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows &lt;&lt;2&gt;&gt; how to move.</text>
+		<text bitflag="321" id1="436" id2="194662" version="1065353216">You glare with contempt.</text>
+		<text bitflag="321" id1="437" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; glares with contemp.</text>
+		<text bitflag="321" id1="438" id2="194662" version="1065353216">You glare at &lt;&lt;2&gt;&gt; with contempt.</text>
+		<text bitflag="321" id1="439" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; glares at you with contempt.</text>
+		<text bitflag="321" id1="440" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; glares angrily at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="441" id2="194662" version="1065353216">You gloat to anyone that would listen.</text>
+		<text bitflag="321" id1="442" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gloats to anyone that would listen.</text>
+		<text bitflag="321" id1="443" id2="194662" version="1065353216">You gloat at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="444" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gloats at you.</text>
+		<text bitflag="321" id1="445" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gloats at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="446" id2="194662" version="1065353216">You clap politely.</text>
+		<text bitflag="321" id1="447" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; claps politely.</text>
+		<text bitflag="321" id1="448" id2="194662" version="1065353216">You clap politely for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="449" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; claps politely for you.</text>
+		<text bitflag="321" id1="450" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; claps politely for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="451" id2="194662" version="1065353216">You greet everyone.</text>
+		<text bitflag="321" id1="452" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets everyone.</text>
+		<text bitflag="321" id1="453" id2="194662" version="1065353216">You greet &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="454" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets you.</text>
+		<text bitflag="321" id1="455" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="456" id2="194662" version="1065353216">You greet everyone.</text>
+		<text bitflag="321" id1="457" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets everyone.</text>
+		<text bitflag="321" id1="458" id2="194662" version="1065353216">You greet &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="459" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets you.</text>
+		<text bitflag="321" id1="460" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="461" id2="194662" version="1065353216">You greet everyone.</text>
+		<text bitflag="321" id1="462" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets everyone.</text>
+		<text bitflag="321" id1="463" id2="194662" version="1065353216">You greet &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="464" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets you.</text>
+		<text bitflag="321" id1="465" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="466" id2="194662" version="1065353216">You greet everyone.</text>
+		<text bitflag="321" id1="467" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets everyone.</text>
+		<text bitflag="321" id1="468" id2="194662" version="1065353216">You greet &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="469" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets you.</text>
+		<text bitflag="321" id1="470" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; greets &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="471" id2="194662" version="1065353216">You grin.</text>
+		<text bitflag="321" id1="472" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grins.</text>
+		<text bitflag="321" id1="473" id2="194662" version="1065353216">You grin at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="474" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grins at you.</text>
+		<text bitflag="321" id1="475" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grins at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="476" id2="194662" version="1065353216">You groan.</text>
+		<text bitflag="321" id1="477" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; groans.</text>
+		<text bitflag="321" id1="478" id2="194662" version="1065353216">You groan at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="479" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; groans at you.</text>
+		<text bitflag="321" id1="480" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; groans at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="481" id2="194662" version="1065353216">You grovel before everyone.</text>
+		<text bitflag="321" id1="482" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grovels before everyone.</text>
+		<text bitflag="321" id1="483" id2="194662" version="1065353216">You grovel before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="484" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grovels before you.</text>
+		<text bitflag="321" id1="485" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grovels before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="486" id2="194662" version="1065353216">You plead in desperation.</text>
+		<text bitflag="321" id1="487" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pleads in desperation.</text>
+		<text bitflag="321" id1="488" id2="194662" version="1065353216">You plead for mercy from &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="489" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pleads you for mercy.</text>
+		<text bitflag="321" id1="490" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pleads for mercy from &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="491" id2="194662" version="1065353216">You do a handstand.</text>
+		<text bitflag="321" id1="492" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a handstand.</text>
+		<text bitflag="321" id1="493" id2="194662" version="1065353216">You do a handstand for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="494" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a handstand for you.</text>
+		<text bitflag="321" id1="495" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a handstand for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="496" id2="194662" version="1065353216">You express happiness.</text>
+		<text bitflag="321" id1="497" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; expresses happiness.</text>
+		<text bitflag="321" id1="498" id2="194662" version="1065353216">You are happy for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="499" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is happy for you.</text>
+		<text bitflag="321" id1="500" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is happy for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="501" id2="194662" version="1065353216">You express happiness.</text>
+		<text bitflag="321" id1="502" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; expresses happiness.</text>
+		<text bitflag="321" id1="503" id2="194662" version="1065353216">You are happy for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="504" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is happy for you.</text>
+		<text bitflag="321" id1="505" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is happy for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="506" id2="194662" version="1065353216">You call out for healing.</text>
+		<text bitflag="321" id1="507" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls out for healing!</text>
+		<text bitflag="321" id1="508" id2="194662" version="1065353216">You call out to &lt;&lt;2&gt;&gt; for healing!</text>
+		<text bitflag="321" id1="509" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls to you for healing!</text>
+		<text bitflag="321" id1="510" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls for healing from &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="511" id2="194662" version="1065353216">You cry out for help!</text>
+		<text bitflag="321" id1="512" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries out for help!</text>
+		<text bitflag="321" id1="513" id2="194662" version="1065353216">You cry out to &lt;&lt;2&gt;&gt; for help!</text>
+		<text bitflag="321" id1="514" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries out to you for help!</text>
+		<text bitflag="321" id1="515" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cries out for help to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="516" id2="194662" version="1065353216">You call out, &quot;Hey!&quot;</text>
+		<text bitflag="321" id1="517" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls out, &quot;Hey!&quot;</text>
+		<text bitflag="321" id1="518" id2="194662" version="1065353216">You call out, &quot;Hey!&quot; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="519" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls out, &quot;Hey!&quot; to you.</text>
+		<text bitflag="321" id1="520" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls out, &quot;Hey!&quot; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="521" id2="194662" version="1065353216">You could use a hug.</text>
+		<text bitflag="321" id1="522" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; could use a hug.</text>
+		<text bitflag="321" id1="523" id2="194662" version="1065353216">You hug &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="524" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; hugs you.</text>
+		<text bitflag="321" id1="525" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; hugs &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="526" id2="194662" version="1065353216">You call out, &quot;Incoming!&quot;</text>
+		<text bitflag="321" id1="527" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls out, &quot;Incoming!&quot;</text>
+		<text bitflag="321" id1="528" id2="194662" version="1065353216">You call out, &quot;Incoming &lt;&lt;2&gt;&gt;!&quot;</text>
+		<text bitflag="321" id1="529" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls out to you, &quot;Incoming!&quot;</text>
+		<text bitflag="321" id1="530" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls out, &quot;Incoming &lt;&lt;2&gt;&gt;!&quot;</text>
+		<text bitflag="321" id1="531" id2="194662" version="1065353216">You introduce yourself to all.</text>
+		<text bitflag="321" id1="532" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; makes a cordial introduction.</text>
+		<text bitflag="321" id1="533" id2="194662" version="1065353216">You introduce yourself to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="534" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; makes a cordial introduction to you.</text>
+		<text bitflag="321" id1="535" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; makes a cordial introduction to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="536" id2="194662" version="1065353216">You tell a joke.</text>
+		<text bitflag="321" id1="537" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells a joke.</text>
+		<text bitflag="321" id1="538" id2="194662" version="1065353216">You tell &lt;&lt;2&gt;&gt; a joke.</text>
+		<text bitflag="321" id1="539" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you a joke.</text>
+		<text bitflag="321" id1="540" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells &lt;&lt;2&gt;&gt; a joke.</text>
+		<text bitflag="321" id1="541" id2="194662" version="1065353216">You tell a joke.</text>
+		<text bitflag="321" id1="542" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells a joke.</text>
+		<text bitflag="321" id1="543" id2="194662" version="1065353216">You tell &lt;&lt;2&gt;&gt; a joke.</text>
+		<text bitflag="321" id1="544" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you a joke.</text>
+		<text bitflag="321" id1="545" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells &lt;&lt;2&gt;&gt; a joke.</text>
+		<text bitflag="321" id1="546" id2="194662" version="1065353216">You kneel down.</text>
+		<text bitflag="321" id1="547" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; kneels down.</text>
+		<text bitflag="321" id1="548" id2="194662" version="1065353216">You kneel before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="549" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; kneels before you.</text>
+		<text bitflag="321" id1="550" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; kneels before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="551" id2="194662" version="1065353216">You cackle uncontrollably.</text>
+		<text bitflag="321" id1="552" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cackles uncontrollably.</text>
+		<text bitflag="321" id1="553" id2="194662" version="1065353216">You cackle uncontrollably at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="554" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cackles uncontrollably at you.</text>
+		<text bitflag="321" id1="555" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cackles uncontrollably at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="556" id2="194662" version="1065353216">You let out a boisterous chuckle.</text>
+		<text bitflag="321" id1="557" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lets out a boisterous chuckle.</text>
+		<text bitflag="321" id1="558" id2="194662" version="1065353216">You chuckle at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="559" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; chuckles at you.</text>
+		<text bitflag="321" id1="560" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; chuckles at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="561" id2="194662" version="1065353216">You giggle.</text>
+		<text bitflag="321" id1="562" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; giggles.</text>
+		<text bitflag="321" id1="563" id2="194662" version="1065353216">You giggle at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="564" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; giggles at you.</text>
+		<text bitflag="321" id1="565" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; giggles at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="566" id2="194662" version="1065353216">You laugh.</text>
+		<text bitflag="321" id1="567" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; laughs.</text>
+		<text bitflag="321" id1="568" id2="194662" version="1065353216">You laugh at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="569" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; laughs at you.</text>
+		<text bitflag="321" id1="570" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; laughs at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="571" id2="194662" version="1065353216">You laugh.</text>
+		<text bitflag="321" id1="572" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; laughs.</text>
+		<text bitflag="321" id1="573" id2="194662" version="1065353216">You laugh at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="574" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; laughs at you.</text>
+		<text bitflag="321" id1="575" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; laughs at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="576" id2="194662" version="1065353216">You lie down.</text>
+		<text bitflag="321" id1="577" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down.</text>
+		<text bitflag="321" id1="578" id2="194662" version="1065353216">You lie down before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="579" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down before you.</text>
+		<text bitflag="321" id1="580" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="581" id2="194662" version="1065353216">You lie down.</text>
+		<text bitflag="321" id1="582" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down.</text>
+		<text bitflag="321" id1="583" id2="194662" version="1065353216">You lie down before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="584" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down before you.</text>
+		<text bitflag="321" id1="585" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="586" id2="194662" version="1065353216">You lie down.</text>
+		<text bitflag="321" id1="587" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down.</text>
+		<text bitflag="321" id1="588" id2="194662" version="1065353216">You lie down before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="589" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down before you.</text>
+		<text bitflag="321" id1="590" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="591" id2="194662" version="1065353216">You lie down.</text>
+		<text bitflag="321" id1="592" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down.</text>
+		<text bitflag="321" id1="593" id2="194662" version="1065353216">You lie down before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="594" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down before you.</text>
+		<text bitflag="321" id1="595" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lies down before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="596" id2="194662" version="1065353216">You listen intently.</text>
+		<text bitflag="321" id1="597" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is listening intently.</text>
+		<text bitflag="321" id1="598" id2="194662" version="1065353216">You listen intently to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="599" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; listens intently to you.</text>
+		<text bitflag="321" id1="600" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; listens intently to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="601" id2="194662" version="1065353216">You look around.</text>
+		<text bitflag="321" id1="602" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks around.</text>
+		<text bitflag="321" id1="603" id2="194662" version="1065353216">You look at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="604" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you.</text>
+		<text bitflag="321" id1="605" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="606" id2="194662" version="1065353216">You peer out.</text>
+		<text bitflag="321" id1="607" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; peers out.</text>
+		<text bitflag="321" id1="608" id2="194662" version="1065353216">You look at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="609" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you.</text>
+		<text bitflag="321" id1="610" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="611" id2="194662" version="1065353216">You love everyone.</text>
+		<text bitflag="321" id1="612" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is in love.</text>
+		<text bitflag="321" id1="613" id2="194662" version="1065353216">You love &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="614" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; loves you.</text>
+		<text bitflag="321" id1="615" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; loves &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="616" id2="194662" version="1065353216">You meditate.</text>
+		<text bitflag="321" id1="617" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; meditates.</text>
+		<text bitflag="321" id1="618" id2="194662" version="1065353216">You meditate along with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="619" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; meditates along with you.</text>
+		<text bitflag="321" id1="620" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; meditates along with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="621" id2="194662" version="1065353216">You mock everyone.</text>
+		<text bitflag="321" id1="622" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; mocks everyone.</text>
+		<text bitflag="321" id1="623" id2="194662" version="1065353216">You mock &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="624" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; mocks you.</text>
+		<text bitflag="321" id1="625" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; mocks &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="626" id2="194662" version="1065353216">You call everyone a nerfherder!</text>
+		<text bitflag="321" id1="627" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls everyone a nerfherder!</text>
+		<text bitflag="321" id1="628" id2="194662" version="1065353216">You call &lt;&lt;2&gt;&gt; a nerfherder!</text>
+		<text bitflag="321" id1="629" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls you a nerfherder!</text>
+		<text bitflag="321" id1="630" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; calls &lt;&lt;2&gt;&gt; a nerfherder!</text>
+		<text bitflag="321" id1="631" id2="194662" version="1065353216">You tell everyone &quot;No.&quot;</text>
+		<text bitflag="321" id1="632" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; says &quot;No.&quot;</text>
+		<text bitflag="321" id1="633" id2="194662" version="1065353216">You say &quot;No&quot; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="634" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you &quot;No.&quot;</text>
+		<text bitflag="321" id1="635" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; says &quot;No&quot; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="636" id2="194662" version="1065353216">You assure everyone that these are certainly not the droids being sought.</text>
+		<text bitflag="321" id1="637" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; assures everyone that these are certainly not the droids being sought.</text>
+		<text bitflag="321" id1="638" id2="194662" version="1065353216">You assure &lt;&lt;2&gt;&gt; that these are certainly not the droids being sought.</text>
+		<text bitflag="321" id1="639" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; assure you that these are certainly not the droids being sought.</text>
+		<text bitflag="321" id1="640" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; assures &lt;&lt;2&gt;&gt; that these are certainly not the droids being sought.</text>
+		<text bitflag="321" id1="641" id2="194662" version="1065353216">You gaze off into the distance.</text>
+		<text bitflag="321" id1="642" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gazes off into the distance.</text>
+		<text bitflag="321" id1="643" id2="194662" version="1065353216">You gaze at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="644" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gazes at you.</text>
+		<text bitflag="321" id1="645" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gazes at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="646" id2="194662" version="1065353216">You announce that you have low resources!</text>
+		<text bitflag="321" id1="647" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; announces that resources are low!</text>
+		<text bitflag="321" id1="648" id2="194662" version="1065353216">You tell &lt;&lt;2&gt;&gt; that you have low resources!</text>
+		<text bitflag="321" id1="649" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you that resources are low!</text>
+		<text bitflag="321" id1="650" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells &lt;&lt;2&gt;&gt; that you have low resources!</text>
+		<text bitflag="321" id1="651" id2="194662" version="1065353216">You tell everyone to attack.</text>
+		<text bitflag="321" id1="652" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells everyone to attack.</text>
+		<text bitflag="321" id1="653" id2="194662" version="1065353216">You tell everyone to attack &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="654" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells everyone to attack you.</text>
+		<text bitflag="321" id1="655" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells everyone to attack &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="656" id2="194662" version="1065353216">You give the order to open fire.</text>
+		<text bitflag="321" id1="657" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives the order to open fire!</text>
+		<text bitflag="321" id1="658" id2="194662" version="1065353216">You give orders to open fire on &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="659" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you to open fire!</text>
+		<text bitflag="321" id1="660" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives orders to open fire on &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="661" id2="194662" version="1065353216">You tell everyone it's over there.</text>
+		<text bitflag="321" id1="662" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells everyone that it's over there.</text>
+		<text bitflag="321" id1="663" id2="194662" version="1065353216">You tell &lt;&lt;2&gt;&gt; that it's over there.</text>
+		<text bitflag="321" id1="664" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you that it's over there.</text>
+		<text bitflag="321" id1="665" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells &lt;&lt;2&gt;&gt; that it's over there.</text>
+		<text bitflag="321" id1="666" id2="194662" version="1065353216">You panic.</text>
+		<text bitflag="321" id1="667" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; panics.</text>
+		<text bitflag="321" id1="668" id2="194662" version="1065353216">You panic at the sight of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="669" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you and panics.</text>
+		<text bitflag="321" id1="670" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; panics at the sight of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="671" id2="194662" version="1065353216">You throw &quot;Paper.&quot;</text>
+		<text bitflag="321" id1="672" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; throws &quot;Paper.&quot;</text>
+		<text bitflag="321" id1="673" id2="194662" version="1065353216">You throw &quot;Paper&quot; at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="674" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; throws &quot;Paper&quot; at you.</text>
+		<text bitflag="321" id1="675" id2="194662" version="1065353216">&lt;&lt;2&gt;&gt; throws &quot;Paper&quot; at &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="676" id2="194662" version="1065353216">You see something.</text>
+		<text bitflag="321" id1="677" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sees something.</text>
+		<text bitflag="321" id1="678" id2="194662" version="1065353216">You ask &lt;&lt;2&gt;&gt; if they see it too.</text>
+		<text bitflag="321" id1="679" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; asks if you see it too.</text>
+		<text bitflag="321" id1="680" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; asks &lt;&lt;2&gt;&gt; if they see it too.</text>
+		<text bitflag="321" id1="681" id2="194662" version="1065353216">You shoo everyone away.</text>
+		<text bitflag="321" id1="682" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shoos everyone away.</text>
+		<text bitflag="321" id1="683" id2="194662" version="1065353216">You shoo &lt;&lt;2&gt;&gt; away.</text>
+		<text bitflag="321" id1="684" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shoos you away.</text>
+		<text bitflag="321" id1="685" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shoos away &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="686" id2="194662" version="1065353216">You shoo everyone away.</text>
+		<text bitflag="321" id1="687" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shoos everyone away.</text>
+		<text bitflag="321" id1="688" id2="194662" version="1065353216">You shoo &lt;&lt;2&gt;&gt; away.</text>
+		<text bitflag="321" id1="689" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shoos you away.</text>
+		<text bitflag="321" id1="690" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shoos away &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="691" id2="194662" version="1065353216">You pity those around you.</text>
+		<text bitflag="321" id1="692" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks down with pity.</text>
+		<text bitflag="321" id1="693" id2="194662" version="1065353216">You look at &lt;&lt;2&gt;&gt; with pity.</text>
+		<text bitflag="321" id1="694" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks down upon you with pity.</text>
+		<text bitflag="321" id1="695" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at &lt;&lt;2&gt;&gt; with pity.</text>
+		<text bitflag="321" id1="696" id2="194662" version="1065353216">You point out something.</text>
+		<text bitflag="321" id1="697" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; points out something.</text>
+		<text bitflag="321" id1="698" id2="194662" version="1065353216">You point at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="699" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; points at you.</text>
+		<text bitflag="321" id1="700" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; points at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="701" id2="194662" version="1065353216">You poke everyone.</text>
+		<text bitflag="321" id1="702" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pokes everyone to pay attention.</text>
+		<text bitflag="321" id1="703" id2="194662" version="1065353216">You poke &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="704" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pokes you.</text>
+		<text bitflag="321" id1="705" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pokes &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="706" id2="194662" version="1065353216">You ponder what will happen next.</text>
+		<text bitflag="321" id1="707" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; ponders what will happen next.</text>
+		<text bitflag="321" id1="708" id2="194662" version="1065353216">You ponder about &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="709" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; ponders about you.</text>
+		<text bitflag="321" id1="710" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; ponders about &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="711" id2="194662" version="1065353216">You offer praise to everyone.</text>
+		<text bitflag="321" id1="712" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; offers praise.</text>
+		<text bitflag="321" id1="713" id2="194662" version="1065353216">You offer praise to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="714" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; offers praise to you.</text>
+		<text bitflag="321" id1="715" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; offers praise to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="716" id2="194662" version="1065353216">You question everyone.</text>
+		<text bitflag="321" id1="717" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; questions everyone.</text>
+		<text bitflag="321" id1="718" id2="194662" version="1065353216">You question &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="719" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; questions you.</text>
+		<text bitflag="321" id1="720" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; questions &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="721" id2="194662" version="1065353216">You raise your hand.</text>
+		<text bitflag="321" id1="722" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; raises a hand into the air.</text>
+		<text bitflag="321" id1="723" id2="194662" version="1065353216">You raise your hand at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="724" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you and raises a hand.</text>
+		<text bitflag="321" id1="725" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; raises a hand at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="726" id2="194662" version="1065353216">You fume at everyone.</text>
+		<text bitflag="321" id1="727" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; fumes at everyone.</text>
+		<text bitflag="321" id1="728" id2="194662" version="1065353216">You fume in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="729" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; fumes in front of you.</text>
+		<text bitflag="321" id1="730" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; fumes in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="731" id2="194662" version="1065353216">You let everyone know that you are ready!</text>
+		<text bitflag="321" id1="732" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is ready!</text>
+		<text bitflag="321" id1="733" id2="194662" version="1065353216">You tell &lt;&lt;2&gt;&gt; that you are ready.</text>
+		<text bitflag="321" id1="734" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is ready!</text>
+		<text bitflag="321" id1="735" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is ready!</text>
+		<text bitflag="321" id1="736" id2="194662" version="1065353216">You let everyone know that you are ready!</text>
+		<text bitflag="321" id1="737" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is ready!</text>
+		<text bitflag="321" id1="738" id2="194662" version="1065353216">You tell &lt;&lt;2&gt;&gt; that you are ready.</text>
+		<text bitflag="321" id1="739" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is ready!</text>
+		<text bitflag="321" id1="740" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is ready!</text>
+		<text bitflag="321" id1="741" id2="194662" version="1065353216">You throw &quot;Rock.&quot;</text>
+		<text bitflag="321" id1="742" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; throws &quot;Rock.&quot;</text>
+		<text bitflag="321" id1="743" id2="194662" version="1065353216">You throw &quot;Rock&quot; at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="744" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; throws &quot;Rock&quot; at you.</text>
+		<text bitflag="321" id1="745" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; throws &quot;Rock&quot; at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="746" id2="194662" version="1065353216">You roll on the floor laughing.</text>
+		<text bitflag="321" id1="747" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; rolls on the floor laughing.</text>
+		<text bitflag="321" id1="748" id2="194662" version="1065353216">You roll on the floor laughing at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="749" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; rolls on the floor laughing at you.</text>
+		<text bitflag="321" id1="750" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; rolls on the floor laughing at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="751" id2="194662" version="1065353216">You make a rude gesture.</text>
+		<text bitflag="321" id1="752" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; makes a rude gesture.</text>
+		<text bitflag="321" id1="753" id2="194662" version="1065353216">You make a rude gesture at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="754" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; makes a rude gesture toward you.</text>
+		<text bitflag="321" id1="755" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; makes a rude gesture toward &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="756" id2="194662" version="1065353216">You make a rude gesture.</text>
+		<text bitflag="321" id1="757" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; makes a rude gesture.</text>
+		<text bitflag="321" id1="758" id2="194662" version="1065353216">You make a rude gesture at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="759" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; makes a rude gesture toward you.</text>
+		<text bitflag="321" id1="760" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; makes a rude gesture toward &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="761" id2="194662" version="1065353216">You salute everyone.</text>
+		<text bitflag="321" id1="762" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; salutes everyone with respect.</text>
+		<text bitflag="321" id1="763" id2="194662" version="1065353216">You salute &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="764" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; salutes you.</text>
+		<text bitflag="321" id1="765" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; salutes &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="766" id2="194662" version="1065353216">You cower in fear.</text>
+		<text bitflag="321" id1="767" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cowers in fear.</text>
+		<text bitflag="321" id1="768" id2="194662" version="1065353216">You cower in fear at the sight of &lt;&lt;2&gt;&gt;!</text>
+		<text bitflag="321" id1="769" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cowers in fear at the sight of you!</text>
+		<text bitflag="321" id1="770" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cowers in fear at the sight of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="771" id2="194662" version="1065353216">You appear afraid.</text>
+		<text bitflag="321" id1="772" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is scared!</text>
+		<text bitflag="321" id1="773" id2="194662" version="1065353216">You are scared of &lt;&lt;2&gt;&gt;!</text>
+		<text bitflag="321" id1="774" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is scared of you!</text>
+		<text bitflag="321" id1="775" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is scared of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="776" id2="194662" version="1065353216">You throw &quot;Scissors.&quot;</text>
+		<text bitflag="321" id1="777" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; throws &quot;Scissors.&quot;</text>
+		<text bitflag="321" id1="778" id2="194662" version="1065353216">You throw &quot;Scissors&quot; at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="779" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; throws &quot;Scissors&quot; at you.</text>
+		<text bitflag="321" id1="780" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is scared of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="781" id2="194662" version="1065353216">You scratch.</text>
+		<text bitflag="321" id1="782" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; scratches.</text>
+		<text bitflag="321" id1="783" id2="194662" version="1065353216">You scratch in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="784" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; scratches in front of you.</text>
+		<text bitflag="321" id1="785" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; scratches in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="786" id2="194662" version="1065353216">You strut seductively in front of everyone.</text>
+		<text bitflag="321" id1="787" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; struts around seductively.</text>
+		<text bitflag="321" id1="788" id2="194662" version="1065353216">You strut seductively in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="789" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; struts seductively in front of you.</text>
+		<text bitflag="321" id1="790" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; struts seductively in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="791" id2="194662" version="1065353216">You shiver.</text>
+		<text bitflag="321" id1="792" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shivers.</text>
+		<text bitflag="321" id1="793" id2="194662" version="1065353216">You shiver next to  &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="794" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shivers next to you.</text>
+		<text bitflag="321" id1="795" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shivers next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="796" id2="194662" version="1065353216">You're shocked!</text>
+		<text bitflag="321" id1="797" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is shocked!</text>
+		<text bitflag="321" id1="798" id2="194662" version="1065353216">You look at &lt;&lt;2&gt;&gt; shocked!</text>
+		<text bitflag="321" id1="799" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you, shocked!</text>
+		<text bitflag="321" id1="800" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at &lt;&lt;2&gt;&gt;, shocked!</text>
+		<text bitflag="321" id1="801" id2="194662" version="1065353216">You are surprised!</text>
+		<text bitflag="321" id1="802" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is surprised!</text>
+		<text bitflag="321" id1="803" id2="194662" version="1065353216">You look at &lt;&lt;2&gt;&gt; with surprise!</text>
+		<text bitflag="321" id1="804" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you, surprised!</text>
+		<text bitflag="321" id1="805" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at &lt;&lt;2&gt;&gt;, surprised!</text>
+		<text bitflag="321" id1="806" id2="194662" version="1065353216">You shrug.</text>
+		<text bitflag="321" id1="807" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shrugs.</text>
+		<text bitflag="321" id1="808" id2="194662" version="1065353216">You shrug at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="809" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shrugs at you.</text>
+		<text bitflag="321" id1="810" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shrugs at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="811" id2="194662" version="1065353216">You blush.</text>
+		<text bitflag="321" id1="812" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blushes.</text>
+		<text bitflag="321" id1="813" id2="194662" version="1065353216">You blush at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="814" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blushes at you.</text>
+		<text bitflag="321" id1="815" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; blushes at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="816" id2="194662" version="1065353216">You smile shyly.</text>
+		<text bitflag="321" id1="817" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; quietly smiles.</text>
+		<text bitflag="321" id1="818" id2="194662" version="1065353216">You quietly smile at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="819" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; quietly smiles at you.</text>
+		<text bitflag="321" id1="820" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; quietly smiles at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="821" id2="194662" version="1065353216">You let out a heavy sigh.</text>
+		<text bitflag="321" id1="822" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; lets out a heavy sigh.</text>
+		<text bitflag="321" id1="823" id2="194662" version="1065353216">You sigh at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="824" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sighs at you.</text>
+		<text bitflag="321" id1="825" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sighs at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="826" id2="194662" version="1065353216">You sit down.</text>
+		<text bitflag="321" id1="827" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down.</text>
+		<text bitflag="321" id1="828" id2="194662" version="1065353216">You sit down next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="829" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down next to you.</text>
+		<text bitflag="321" id1="830" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="831" id2="194662" version="1065353216">You slap empty space.</text>
+		<text bitflag="321" id1="832" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; slaps empty space.</text>
+		<text bitflag="321" id1="833" id2="194662" version="1065353216">You slap &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="834" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; slaps you.</text>
+		<text bitflag="321" id1="835" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; slaps &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="836" id2="194662" version="1065353216">You fall in a deep slumber.</text>
+		<text bitflag="321" id1="837" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; falls asleep.</text>
+		<text bitflag="321" id1="838" id2="194662" version="1065353216">You fall asleep in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="839" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; falls asleep in front of you.</text>
+		<text bitflag="321" id1="840" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; falls asleep in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="841" id2="194662" version="1065353216">You smile.</text>
+		<text bitflag="321" id1="842" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; smiles.</text>
+		<text bitflag="321" id1="843" id2="194662" version="1065353216">You smile at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="844" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; smiles at you.</text>
+		<text bitflag="321" id1="845" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; smiles at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="846" id2="194662" version="1065353216">You smirk.</text>
+		<text bitflag="321" id1="847" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; smirks.</text>
+		<text bitflag="321" id1="848" id2="194662" version="1065353216">You smirk at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="849" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; smirks at you.</text>
+		<text bitflag="321" id1="850" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; smirks at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="851" id2="194662" version="1065353216">You snicker.</text>
+		<text bitflag="321" id1="852" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; snickers.</text>
+		<text bitflag="321" id1="853" id2="194662" version="1065353216">You snicker at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="854" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; snickers at you.</text>
+		<text bitflag="321" id1="855" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; snickers at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="856" id2="194662" version="1065353216">You spit.</text>
+		<text bitflag="321" id1="857" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; spits.</text>
+		<text bitflag="321" id1="858" id2="194662" version="1065353216">You spit on &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="859" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; spits on you.</text>
+		<text bitflag="321" id1="860" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; spits on &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="861" id2="194662" version="1065353216">You stare off into the distance.</text>
+		<text bitflag="321" id1="862" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stares off into the distance.</text>
+		<text bitflag="321" id1="863" id2="194662" version="1065353216">You stare down &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="864" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stares you down.</text>
+		<text bitflag="321" id1="865" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stares down &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="866" id2="194662" version="1065353216">You give up.</text>
+		<text bitflag="321" id1="867" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives up.</text>
+		<text bitflag="321" id1="868" id2="194662" version="1065353216">You give up in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="869" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives up in front of you.</text>
+		<text bitflag="321" id1="870" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives up in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="871" id2="194662" version="1065353216">You talk to everyone.</text>
+		<text bitflag="321" id1="872" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; talks to everyone.</text>
+		<text bitflag="321" id1="873" id2="194662" version="1065353216">You want to talk to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="874" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; wants to talk to you.</text>
+		<text bitflag="321" id1="875" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; wants to talk to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="876" id2="194662" version="1065353216">You tap your foot impatiently.</text>
+		<text bitflag="321" id1="877" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waits impatiently.</text>
+		<text bitflag="321" id1="878" id2="194662" version="1065353216">You impatiently tap your foot as you wait for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="879" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; impatiently waits for you.</text>
+		<text bitflag="321" id1="880" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; impatiently waits for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="881" id2="194662" version="1065353216">You taunt everyone.</text>
+		<text bitflag="321" id1="882" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; taunts everyone.</text>
+		<text bitflag="321" id1="883" id2="194662" version="1065353216">You taunt &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="884" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; taunts you.</text>
+		<text bitflag="321" id1="885" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; taunts &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="886" id2="194662" version="1065353216">You tease everyone.</text>
+		<text bitflag="321" id1="887" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; teases everyone.</text>
+		<text bitflag="321" id1="888" id2="194662" version="1065353216">You tease &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="889" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; teases you.</text>
+		<text bitflag="321" id1="890" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; teases &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="891" id2="194662" version="1065353216">You thank everyone.</text>
+		<text bitflag="321" id1="892" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thanks everyone.</text>
+		<text bitflag="321" id1="893" id2="194662" version="1065353216">You thank &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="894" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thanks you.</text>
+		<text bitflag="321" id1="895" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thanks &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="896" id2="194662" version="1065353216">You thank everyone.</text>
+		<text bitflag="321" id1="897" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thanks everyone.</text>
+		<text bitflag="321" id1="898" id2="194662" version="1065353216">You thank &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="899" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thanks you.</text>
+		<text bitflag="321" id1="900" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thanks &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="901" id2="194662" version="1065353216">You thank everyone.</text>
+		<text bitflag="321" id1="902" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thanks everyone.</text>
+		<text bitflag="321" id1="903" id2="194662" version="1065353216">You thank &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="904" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thanks you.</text>
+		<text bitflag="321" id1="905" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thanks &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="906" id2="194662" version="1065353216">You let everyone know that you are thirsty.</text>
+		<text bitflag="321" id1="907" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; appears to be thirsty.</text>
+		<text bitflag="321" id1="908" id2="194662" version="1065353216">You look thirsty to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="909" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; appears to you to be thirsty.</text>
+		<text bitflag="321" id1="910" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; appears to be thirsty to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="911" id2="194662" version="1065353216">You threaten everyone around you.</text>
+		<text bitflag="321" id1="912" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; threatens everyone.</text>
+		<text bitflag="321" id1="913" id2="194662" version="1065353216">You threaten &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="914" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; threatens you.</text>
+		<text bitflag="321" id1="915" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; threatens &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="916" id2="194662" version="1065353216">You threaten everyone around you.</text>
+		<text bitflag="321" id1="917" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; threatens everyone.</text>
+		<text bitflag="321" id1="918" id2="194662" version="1065353216">You threaten &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="919" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; threatens you.</text>
+		<text bitflag="321" id1="920" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; threatens &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="921" id2="194662" version="1065353216">You give everyone a thumbs down.</text>
+		<text bitflag="321" id1="922" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives everyone a thumbs down.</text>
+		<text bitflag="321" id1="923" id2="194662" version="1065353216">You give &lt;&lt;2&gt;&gt; a thumbs down.</text>
+		<text bitflag="321" id1="924" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives you a thumbs down.</text>
+		<text bitflag="321" id1="925" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives &lt;&lt;2&gt;&gt; a thumbs down.</text>
+		<text bitflag="321" id1="926" id2="194662" version="1065353216">You give everyone a thumbs up.</text>
+		<text bitflag="321" id1="927" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives everyone a thumbs up.</text>
+		<text bitflag="321" id1="928" id2="194662" version="1065353216">You give &lt;&lt;2&gt;&gt; a thumbs up.</text>
+		<text bitflag="321" id1="929" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives you a thumbs up.</text>
+		<text bitflag="321" id1="930" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gives &lt;&lt;2&gt;&gt; a thumbs up.</text>
+		<text bitflag="321" id1="931" id2="194662" version="1065353216">You are tickled.</text>
+		<text bitflag="321" id1="932" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is tickled.</text>
+		<text bitflag="321" id1="933" id2="194662" version="1065353216">You tickle &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="934" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tickles you.</text>
+		<text bitflag="321" id1="935" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tickles &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="936" id2="194662" version="1065353216">You sigh with exhaustion.</text>
+		<text bitflag="321" id1="937" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sighs with exhaustion.</text>
+		<text bitflag="321" id1="938" id2="194662" version="1065353216">You sigh with exhaustion at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="939" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sighs at you with exhaustion.</text>
+		<text bitflag="321" id1="940" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sigh with exhaustion at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="941" id2="194662" version="1065353216">You cheer in victory.</text>
+		<text bitflag="321" id1="942" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers in victory.</text>
+		<text bitflag="321" id1="943" id2="194662" version="1065353216">You cheer in victory with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="944" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers in victory with you.</text>
+		<text bitflag="321" id1="945" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers in victory with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="946" id2="194662" version="1065353216">You tell everyone to wait.</text>
+		<text bitflag="321" id1="947" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells everyone to wait.</text>
+		<text bitflag="321" id1="948" id2="194662" version="1065353216">You tell &lt;&lt;2&gt;&gt; to wait.</text>
+		<text bitflag="321" id1="949" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you to wait.</text>
+		<text bitflag="321" id1="950" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells &lt;&lt;2&gt;&gt; to wait.</text>
+		<text bitflag="321" id1="951" id2="194662" version="1065353216">You get ready for anything.</text>
+		<text bitflag="321" id1="952" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gets ready for anything.</text>
+		<text bitflag="321" id1="953" id2="194662" version="1065353216">You stretch your muscles, taunting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="954" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stretches, taunting you.</text>
+		<text bitflag="321" id1="955" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stretches, taunting &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="956" id2="194662" version="1065353216">You wave at everyone.</text>
+		<text bitflag="321" id1="957" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waves at everyone.</text>
+		<text bitflag="321" id1="958" id2="194662" version="1065353216">You wave at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="959" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waves at you.</text>
+		<text bitflag="321" id1="960" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waves at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="961" id2="194662" version="1065353216">You welcome everyone.</text>
+		<text bitflag="321" id1="962" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; welcomes everyone.</text>
+		<text bitflag="321" id1="963" id2="194662" version="1065353216">You welcome &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="964" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; welcomes you.</text>
+		<text bitflag="321" id1="965" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; welcomes &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="966" id2="194662" version="1065353216">You whine at the situation.</text>
+		<text bitflag="321" id1="967" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; whines at the situation.</text>
+		<text bitflag="321" id1="968" id2="194662" version="1065353216">You whine to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="969" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; whines to you.</text>
+		<text bitflag="321" id1="970" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; whines to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="971" id2="194662" version="1065353216">You whistle merrily.</text>
+		<text bitflag="321" id1="972" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; whistles merrily.</text>
+		<text bitflag="321" id1="973" id2="194662" version="1065353216">You whistle at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="974" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; whistles at you.</text>
+		<text bitflag="321" id1="975" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; whistles at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="976" id2="194662" version="1065353216">You grin with a wolfish smile.</text>
+		<text bitflag="321" id1="977" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grins a wolfish smile.</text>
+		<text bitflag="321" id1="978" id2="194662" version="1065353216">You grin a wolfish smile at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="979" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grins a wolfish smile at you.</text>
+		<text bitflag="321" id1="980" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grins a wolfish smile at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="981" id2="194662" version="1065353216">You grin with a wolfish smile.</text>
+		<text bitflag="321" id1="982" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grins a wolfish smile.</text>
+		<text bitflag="321" id1="983" id2="194662" version="1065353216">You grin a wolfish smile at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="984" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grins a wolfish smile at you.</text>
+		<text bitflag="321" id1="985" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grins a wolfish smile at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="986" id2="194662" version="1065353216">You wink coyly.</text>
+		<text bitflag="321" id1="987" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; winks coyly.</text>
+		<text bitflag="321" id1="988" id2="194662" version="1065353216">You wink coyly at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="989" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; winks coyly at you.</text>
+		<text bitflag="321" id1="990" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; winks coyly at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="991" id2="194662" version="1065353216">You stretch your muscles.</text>
+		<text bitflag="321" id1="992" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stretches.</text>
+		<text bitflag="321" id1="993" id2="194662" version="1065353216">You stretch in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="994" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stretches in front of you.</text>
+		<text bitflag="321" id1="995" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stretches in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="996" id2="194662" version="1065353216">You yawn.</text>
+		<text bitflag="321" id1="997" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; yawns.</text>
+		<text bitflag="321" id1="998" id2="194662" version="1065353216">You yawn at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="999" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you and yawns.</text>
+		<text bitflag="321" id1="1000" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; yawns at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="1001" id2="194662" version="1065353216">You are filled with happiness!</text>
+		<text bitflag="321" id1="1002" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; expresses happiness.</text>
+		<text bitflag="321" id1="1003" id2="194662" version="1065353216">You are happy for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="1004" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is happy for you.</text>
+		<text bitflag="321" id1="1005" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is happy for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="1006" id2="194662" version="1065353216">You nod.</text>
+		<text bitflag="321" id1="1007" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; nods.</text>
+		<text bitflag="321" id1="1008" id2="194662" version="1065353216">You nod at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="1009" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; nods at you.</text>
+		<text bitflag="321" id1="1010" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; nods at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="1011" id2="194662" version="1065353216">You nod in agreement.</text>
+		<text bitflag="321" id1="1012" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; nods in agreement.</text>
+		<text bitflag="321" id1="1013" id2="194662" version="1065353216">You nod at &lt;&lt;2&gt;&gt; in agreement.</text>
+		<text bitflag="321" id1="1014" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; nods at you in agreement.</text>
+		<text bitflag="321" id1="1015" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; nods at &lt;&lt;2&gt;&gt; in agreement.</text>
+		<text bitflag="321" id1="6016" id2="194662" version="1065353216">You cannot follow a player that is ignoring you.</text>
+		<text bitflag="321" id1="6017" id2="194662" version="1065353216">You may only use this command once per play session. To use again, please log out and log back in.</text>
+		<text bitflag="321" id1="6018" id2="194662" version="1065353216">That player is ignoring you.</text>
+		<text bitflag="321" id1="6021" id2="194662" version="1065353216">You have unlocked the &lt;&lt;1&gt;&gt; emote!</text>
+		<text bitflag="321" id1="6022" id2="194662" version="1065353216">You may not yet use the &lt;&lt;1&gt;&gt; emote.</text>
+		<text bitflag="321" id1="6062" id2="194662" version="1065353216">You demonstrate your Bounty Hunter legacy.</text>
+		<text bitflag="321" id1="6063" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Bounty Hunter legacy.</text>
+		<text bitflag="321" id1="6064" id2="194662" version="1065353216">You demonstrate your Bounty Hunter legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6065" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Bounty Hunter legacy to you.</text>
+		<text bitflag="321" id1="6066" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Bounty Hunter legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6067" id2="194662" version="1065353216">You demonstrate your Agent legacy.</text>
+		<text bitflag="321" id1="6068" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Agent legacy.</text>
+		<text bitflag="321" id1="6069" id2="194662" version="1065353216">You demonstrate Agent legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6070" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Agent legacy to you.</text>
+		<text bitflag="321" id1="6071" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Agent legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6072" id2="194662" version="1065353216">You demonstrate your Sith Warrior legacy.</text>
+		<text bitflag="321" id1="6073" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Sith Warrior legacy.</text>
+		<text bitflag="321" id1="6074" id2="194662" version="1065353216">You demonstrate your Sith Warrior legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6075" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Sith Warrior legacy to you.</text>
+		<text bitflag="321" id1="6076" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Sith Warrior legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6077" id2="194662" version="1065353216">You demonstrate your Sith Inquisitor legacy.</text>
+		<text bitflag="321" id1="6078" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Sith Inquisitor legacy.</text>
+		<text bitflag="321" id1="6079" id2="194662" version="1065353216">You demonstrate your Sith Inquisitor legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6080" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Sith Inquisitor legacy to you.</text>
+		<text bitflag="321" id1="6081" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Sith Inquisitor legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6082" id2="194662" version="1065353216">You demonstrate your Trooper legacy.</text>
+		<text bitflag="321" id1="6083" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Trooper legacy.</text>
+		<text bitflag="321" id1="6084" id2="194662" version="1065353216">You demonstrate your Trooper legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6085" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Trooper legacy to you.</text>
+		<text bitflag="321" id1="6086" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Trooper legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6087" id2="194662" version="1065353216">You demonstrate your Smuggler legacy.</text>
+		<text bitflag="321" id1="6088" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Smuggler legacy.</text>
+		<text bitflag="321" id1="6089" id2="194662" version="1065353216">You demonstrate your Smuggler legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6090" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Smuggler legacy to you.</text>
+		<text bitflag="321" id1="6091" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Smuggler legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6092" id2="194662" version="1065353216">You demonstrate your Jedi Knight legacy.</text>
+		<text bitflag="321" id1="6093" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Jedi Knight legacy.</text>
+		<text bitflag="321" id1="6094" id2="194662" version="1065353216">You demonstrate your Jedi Knight legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6095" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Jedi Knight legacy to you.</text>
+		<text bitflag="321" id1="6096" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Jedi Knight legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6097" id2="194662" version="1065353216">You demonstrate your Jedi Consular legacy.</text>
+		<text bitflag="321" id1="6098" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Jedi Consular legacy.</text>
+		<text bitflag="321" id1="6099" id2="194662" version="1065353216">You demonstrate your Jedi Consular legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6100" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Jedi Consular legacy to you.</text>
+		<text bitflag="321" id1="6101" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; demonstrates &lt;&lt;o:1&gt;&gt; Jedi Consular legacy to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6102" id2="194662" version="1065353216">You are so very impressed.</text>
+		<text bitflag="321" id1="6103" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is so very impressed.</text>
+		<text bitflag="321" id1="6104" id2="194662" version="1065353216">You are so very impressed with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6105" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is so very impressed by you.</text>
+		<text bitflag="321" id1="6106" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is so very impressed by &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6107" id2="194662" version="1065353216">You begin some repairs.</text>
+		<text bitflag="321" id1="6108" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; begins some repairs.</text>
+		<text bitflag="321" id1="6109" id2="194662" version="1065353216">You repair &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6110" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; repairs you.</text>
+		<text bitflag="321" id1="6111" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; repairs &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6112" id2="194662" version="1065353216">You review your position on your map.</text>
+		<text bitflag="321" id1="6113" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks &lt;&lt;o:1&gt;&gt; position on &lt;&lt;o:1&gt;&gt; map.</text>
+		<text bitflag="321" id1="6114" id2="194662" version="1065353216">You check the position of &lt;&lt;2&gt;&gt; on your map.</text>
+		<text bitflag="321" id1="6115" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks your position on &lt;&lt;o:1&gt;&gt; map.</text>
+		<text bitflag="321" id1="6116" id2="194662" version="1065353216">&lt;&lt;1&gt; checks the position of &lt;&lt;2&gt;&gt; on &lt;&lt;o:1&gt;&gt; map.</text>
+		<text bitflag="321" id1="6117" id2="194662" version="1065353216">You check your holocommunicator.</text>
+		<text bitflag="321" id1="6118" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks &lt;&lt;o:1&gt;&gt; holocommunicator.</text>
+		<text bitflag="321" id1="6119" id2="194662" version="1065353216">You check your holocommunicator for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6120" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks &lt;&lt;o:1&gt;&gt; holocommunicator for you.</text>
+		<text bitflag="321" id1="6121" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks &lt;&lt;o:1&gt;&gt; holocommunicator for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6122" id2="194662" version="1065353216">You scan for technical problems.</text>
+		<text bitflag="321" id1="6123" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks for technical problems.</text>
+		<text bitflag="321" id1="6124" id2="194662" version="1065353216">You check &lt;&lt;2&gt;&gt; for technical problems.</text>
+		<text bitflag="321" id1="6125" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks you for technical problems.</text>
+		<text bitflag="321" id1="6126" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks &lt;&lt;2&gt;&gt; for technical problems.</text>
+		<text bitflag="321" id1="6127" id2="194662" version="1065353216">You scan for biological problems.</text>
+		<text bitflag="321" id1="6128" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks for biological problems.</text>
+		<text bitflag="321" id1="6129" id2="194662" version="1065353216">You check &lt;&lt;2&gt;&gt; for biological problems.</text>
+		<text bitflag="321" id1="6130" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks you for biological problems.</text>
+		<text bitflag="321" id1="6131" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks &lt;&lt;2&gt;&gt; for biological problems.</text>
+		<text bitflag="321" id1="6132" id2="194662" version="1065353216">You survey the area.</text>
+		<text bitflag="321" id1="6133" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; surveys the area.</text>
+		<text bitflag="321" id1="6134" id2="194662" version="1065353216">You survey the area for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6135" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; surveys the area for you.</text>
+		<text bitflag="321" id1="6136" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; surveys the area for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6137" id2="194662" version="1065353216">You review your datapad.</text>
+		<text bitflag="321" id1="6138" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; reviews &lt;&lt;o:1&gt;&gt; datapad.</text>
+		<text bitflag="321" id1="6139" id2="194662" version="1065353216">You review your datapad for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6140" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; reviews &lt;&lt;o:1&gt;&gt; datapad for you.</text>
+		<text bitflag="321" id1="6141" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; reviews &lt;&lt;o:1&gt;&gt; datapad for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6142" id2="194662" version="1065353216">You're gunning for everyone.</text>
+		<text bitflag="321" id1="6143" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is gunning for everyone.</text>
+		<text bitflag="321" id1="6144" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is gunning for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6145" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is gunning for you.</text>
+		<text bitflag="321" id1="6146" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is gunning for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6147" id2="194662" version="1065353216">Your mood is now Annoyed.</text>
+		<text bitflag="321" id1="6148" id2="194662" version="1065353216">Your mood is now Angered.</text>
+		<text bitflag="321" id1="6149" id2="194662" version="1065353216">Your mood is now Enraged.</text>
+		<text bitflag="321" id1="6150" id2="194662" version="1065353216">Your mood is now Disdained.</text>
+		<text bitflag="321" id1="6151" id2="194662" version="1065353216">Your mood is now Snide.</text>
+		<text bitflag="321" id1="6152" id2="194662" version="1065353216">Your mood is now Scowling.</text>
+		<text bitflag="321" id1="6153" id2="194662" version="1065353216">Your mood is now Eager.</text>
+		<text bitflag="321" id1="6154" id2="194662" version="1065353216">Your mood is now Alarmed.</text>
+		<text bitflag="321" id1="6155" id2="194662" version="1065353216">Your mood is now Fearful.</text>
+		<text bitflag="321" id1="6156" id2="194662" version="1065353216">Your mood is now Terrified.</text>
+		<text bitflag="321" id1="6157" id2="194662" version="1065353216">Your mood is now Flattered.</text>
+		<text bitflag="321" id1="6158" id2="194662" version="1065353216">Your mood is now Frustrated.</text>
+		<text bitflag="321" id1="6159" id2="194662" version="1065353216">Your mood is now Cheery.</text>
+		<text bitflag="321" id1="6160" id2="194662" version="1065353216">Your mood is now Joyful.</text>
+		<text bitflag="321" id1="6161" id2="194662" version="1065353216">Your mood is now Ecstatic.</text>
+		<text bitflag="321" id1="6162" id2="194662" version="1065353216">Your mood is now Meditative.</text>
+		<text bitflag="321" id1="6163" id2="194662" version="1065353216">Your mood is now Dejected.</text>
+		<text bitflag="321" id1="6164" id2="194662" version="1065353216">Your mood is now Neutral.</text>
+		<text bitflag="321" id1="6165" id2="194662" version="1065353216">Your mood is now Discomforted.</text>
+		<text bitflag="321" id1="6166" id2="194662" version="1065353216">Your mood is now Hurt.</text>
+		<text bitflag="321" id1="6167" id2="194662" version="1065353216">Your mood is now Pained.</text>
+		<text bitflag="321" id1="6168" id2="194662" version="1065353216">Your mood is now Saddened.</text>
+		<text bitflag="321" id1="6169" id2="194662" version="1065353216">Your mood is now Mournful.</text>
+		<text bitflag="321" id1="6170" id2="194662" version="1065353216">Your mood is now Depressed.</text>
+		<text bitflag="321" id1="6171" id2="194662" version="1065353216">Your mood is now Sly.</text>
+		<text bitflag="321" id1="6172" id2="194662" version="1065353216">Your mood is now Awed.</text>
+		<text bitflag="321" id1="6173" id2="194662" version="1065353216">Your mood is now Stunned.</text>
+		<text bitflag="321" id1="6174" id2="194662" version="1065353216">Your mood is now Astounded.</text>
+		<text bitflag="321" id1="6175" id2="194662" version="1065353216">You display your strength to everyone.</text>
+		<text bitflag="321" id1="6176" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; displays their strength.</text>
+		<text bitflag="321" id1="6177" id2="194662" version="1065353216">You display your strength to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6178" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; displays their strength to you.</text>
+		<text bitflag="321" id1="6179" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; displays their strength to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6180" id2="194662" version="1065353216">You do a backflip.</text>
+		<text bitflag="321" id1="6181" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a backflip.</text>
+		<text bitflag="321" id1="6182" id2="194662" version="1065353216">You do a backflip for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6183" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a backflip for you.</text>
+		<text bitflag="321" id1="6184" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a backflip for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6185" id2="194662" version="1065353216">You become frozen in carbonite.</text>
+		<text bitflag="321" id1="6186" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; becomes frozen in carbonite.</text>
+		<text bitflag="321" id1="6187" id2="194662" version="1065353216">&lt;&lt;2&gt;&gt; sees that you are frozen in carbonite.</text>
+		<text bitflag="321" id1="6188" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; becomes frozen in carbonite before your eyes.</text>
+		<text bitflag="321" id1="6189" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; becomes frozen in carbonite in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6190" id2="194662" version="1065353216">You display your weapon for everyone to see.</text>
+		<text bitflag="321" id1="6191" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; displays a weapon for the crowd.</text>
+		<text bitflag="321" id1="6192" id2="194662" version="1065353216">You show a weapon to &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6193" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows you a weapon.</text>
+		<text bitflag="321" id1="6194" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows a weapon to &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6195" id2="194662" version="1065353216">You bop along to the beat.</text>
+		<text bitflag="321" id1="6196" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bops along to the beat.</text>
+		<text bitflag="321" id1="6197" id2="194662" version="1065353216">You bop along to the beat with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6198" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bops along to the beat with you.</text>
+		<text bitflag="321" id1="6199" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bops along to the beat with &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6200" id2="194662" version="1065353216">You dance like no one is watching.</text>
+		<text bitflag="321" id1="6201" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances like no one is watching.</text>
+		<text bitflag="321" id1="6202" id2="194662" version="1065353216">You dance with &lt;&lt;2&gt;&gt; like no one is watching</text>
+		<text bitflag="321" id1="6203" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with you like no one is watching.</text>
+		<text bitflag="321" id1="6204" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with &lt;&lt;2&gt;&gt; like no one is watching.</text>
+		<text bitflag="321" id1="6205" id2="194662" version="1065353216">You get down and boogie.</text>
+		<text bitflag="321" id1="6206" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gets down and boogies.</text>
+		<text bitflag="321" id1="6207" id2="194662" version="1065353216">You get down and boogie with &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6208" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gets down and boogies.</text>
+		<text bitflag="321" id1="6209" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gets down and boogies with &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6210" id2="194662" version="1065353216">You groove to the beat.</text>
+		<text bitflag="321" id1="6211" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grooves to the beat.</text>
+		<text bitflag="321" id1="6212" id2="194662" version="1065353216">You groove to the beat with &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6213" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grooves to the beat.</text>
+		<text bitflag="321" id1="6214" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grooves to the beat with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6215" id2="194662" version="1065353216">You intimidate everyone around you with threatening words.</text>
+		<text bitflag="321" id1="6216" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; intimidates everyone with threatening words.</text>
+		<text bitflag="321" id1="6217" id2="194662" version="1065353216">You intimidate &lt;&lt;2&gt;&gt; with threatening words.</text>
+		<text bitflag="321" id1="6218" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; intimidates you with threatening words.</text>
+		<text bitflag="321" id1="6219" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; intimidates &lt;&lt;2&gt;&gt; with threatening words.</text>
+		<text bitflag="321" id1="6220" id2="194662" version="1065353216">You menace everyone around you with threats of violence.</text>
+		<text bitflag="321" id1="6221" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; menaces everyone nearby with threats of violence.</text>
+		<text bitflag="321" id1="6222" id2="194662" version="1065353216">You menace &lt;&lt;2&gt;&gt;  with threats of violence.</text>
+		<text bitflag="321" id1="6223" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; menaces you  with threats of violence.</text>
+		<text bitflag="321" id1="6224" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; menaces &lt;&lt;2&gt;&gt;  with threats of violence.</text>
+		<text bitflag="321" id1="6225" id2="194662" version="1065353216">You mock everyone for being little babies.</text>
+		<text bitflag="321" id1="6226" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; mocks everyone around for being little babies.</text>
+		<text bitflag="321" id1="6227" id2="194662" version="1065353216">You mock &lt;&lt;2&gt;&gt; for being a little baby.</text>
+		<text bitflag="321" id1="6228" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; mocks you for being a little baby.</text>
+		<text bitflag="321" id1="6229" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; mocks &lt;&lt;2&gt;&gt; for being a little baby.</text>
+		<text bitflag="321" id1="6230" id2="194662" version="1065353216">Your mood is now Furious.</text>
+		<text bitflag="321" id1="6231" id2="194662" version="1065353216">Your mood is now Indignant.</text>
+		<text bitflag="321" id1="6232" id2="194662" version="1065353216">You point and laugh at everyone around you.</text>
+		<text bitflag="321" id1="6233" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; points and laughs at everyone nearby.</text>
+		<text bitflag="321" id1="6234" id2="194662" version="1065353216">You point and laugh at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6235" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; points at you and laughs.</text>
+		<text bitflag="321" id1="6236" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; points at &lt;&lt;2&gt;&gt; and laughs.</text>
+		<text bitflag="321" id1="6237" id2="194662" version="1065353216">You pretend to put on a show with your holo-xantha.</text>
+		<text bitflag="321" id1="6238" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pretends to put on a show with a holo-xantha.</text>
+		<text bitflag="321" id1="6239" id2="194662" version="1065353216">You pretend to put on a show for &lt;&lt;2&gt;&gt; with your holo-xantha.</text>
+		<text bitflag="321" id1="6240" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pretends to put on a show for you with a holo-xantha.</text>
+		<text bitflag="321" id1="6241" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pretends to put on a show for &lt;&lt;2&gt;&gt; with a holo-xantha.</text>
+		<text bitflag="321" id1="6242" id2="194662" version="1065353216">You pretend to serenade everyone around you with your holo-kloo.</text>
+		<text bitflag="321" id1="6243" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pretends to serenade everyone around with a holo-kloo.</text>
+		<text bitflag="321" id1="6244" id2="194662" version="1065353216">You pretend to serenade &lt;&lt;2&gt;&gt; with your holo-kloo.</text>
+		<text bitflag="321" id1="6245" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pretends to serenade you with a holo-kloo.</text>
+		<text bitflag="321" id1="6246" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; pretends to serenade &lt;&lt;2&gt;&gt; with a holo-kloo.</text>
+		<text bitflag="321" id1="6247" id2="194662" version="1065353216">You party like they do on the Gold Beaches of Corellia.</text>
+		<text bitflag="321" id1="6248" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; parties like they do on the Gold Beaches of Corellia.</text>
+		<text bitflag="321" id1="6249" id2="194662" version="1065353216">You party with &lt;&lt;2&gt;&gt; like they do on the Gold Beaches of Corellia.</text>
+		<text bitflag="321" id1="6250" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; parties with you like they do on the Gold Beaches of Corellia.</text>
+		<text bitflag="321" id1="6251" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; parties with &lt;&lt;2&gt;&gt; like they do on the Gold Beaches of Corellia.</text>
+		<text bitflag="321" id1="6252" id2="194662" version="1065353216">You celebrate with a mighty fist pump.</text>
+		<text bitflag="321" id1="6253" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates with a mighty fist pump.</text>
+		<text bitflag="321" id1="6254" id2="194662" version="1065353216">You celebrate &lt;&lt;2&gt;&gt; with a mighty fist pump.</text>
+		<text bitflag="321" id1="6255" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates you with a mighty fist pump.</text>
+		<text bitflag="321" id1="6256" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates &lt;&lt;2&gt;&gt; with a might fist pump.</text>
+		<text bitflag="321" id1="6257" id2="194662" version="1065353216">Your mood is now Goofy.</text>
+		<text bitflag="321" id1="6258" id2="194662" version="1065353216">Your mood is now Disrespectful.</text>
+		<text bitflag="321" id1="6259" id2="194662" version="1065353216">Your mood is now Skeptical.</text>
+		<text bitflag="321" id1="6260" id2="194662" version="1065353216">You dance a merry jig.</text>
+		<text bitflag="321" id1="6261" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances a merry jig.</text>
+		<text bitflag="321" id1="6262" id2="194662" version="1065353216">You dance a merry jig with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6263" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances a merry jig with you.</text>
+		<text bitflag="321" id1="6264" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances a merry jig with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6265" id2="194662" version="1065353216">You leap with joy!</text>
+		<text bitflag="321" id1="6266" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; leaps with joy!</text>
+		<text bitflag="321" id1="6267" id2="194662" version="1065353216">You leap with joy for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6268" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; leaps with joy for you.</text>
+		<text bitflag="321" id1="6269" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; leaps with joy for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6270" id2="194662" version="1065353216">Your mood is now Creepy.</text>
+		<text bitflag="321" id1="6275" id2="194662" version="1065353216">You perform a stylish dance.</text>
+		<text bitflag="321" id1="6276" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs a stylish dance.</text>
+		<text bitflag="321" id1="6277" id2="194662" version="1065353216">You perform a stylish dance for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6278" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs a stylish dance for you.</text>
+		<text bitflag="321" id1="6279" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs a stylish dance for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6280" id2="194662" version="1065353216">You applaud sarcastically.</text>
+		<text bitflag="321" id1="6281" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; applauds sarcastically.</text>
+		<text bitflag="321" id1="6282" id2="194662" version="1065353216">You applaud the efforts of &lt;&lt;2&gt;&gt; sarcastically.</text>
+		<text bitflag="321" id1="6283" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sarcastically applauds your efforts.</text>
+		<text bitflag="321" id1="6284" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sarcastically applauds the efforts of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6285" id2="194662" version="1065353216">You grow restless.</text>
+		<text bitflag="321" id1="6286" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grows restless.</text>
+		<text bitflag="321" id1="6287" id2="194662" version="1065353216">You grow restless waiting for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6288" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grows restless waiting for you.</text>
+		<text bitflag="321" id1="6289" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grows restless waiting for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6290" id2="194662" version="1065353216">You do an insultingly bad imitation of a chicken.</text>
+		<text bitflag="321" id1="6291" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does an insultingly bad imitation of a chicken.</text>
+		<text bitflag="321" id1="6292" id2="194662" version="1065353216">You insult &lt;&lt;2&gt;&gt; with your terrible chicken impression.</text>
+		<text bitflag="321" id1="6293" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; insults you with a terrible impression of a chicken.</text>
+		<text bitflag="321" id1="6294" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does an insultingly bad impression of a chicken at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6295" id2="194662" version="1065353216">You leap up and click your heels.</text>
+		<text bitflag="321" id1="6296" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; leaps up and clicks their heels.</text>
+		<text bitflag="321" id1="6297" id2="194662" version="1065353216">You leap up and click your heels for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6298" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; leaps up and clicks their heels for you.</text>
+		<text bitflag="321" id1="6299" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; leaps up and clicks their heels for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6300" id2="194662" version="1065353216">You do The Droid.</text>
+		<text bitflag="321" id1="6301" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does The Droid.</text>
+		<text bitflag="321" id1="6302" id2="194662" version="1065353216">You do The Droid for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6303" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does The Droid for you.</text>
+		<text bitflag="321" id1="6304" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does The Droid for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6305" id2="194662" version="1065353216">You dance like a fool.  What's up with that?</text>
+		<text bitflag="321" id1="6306" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances like a fool.  What's up with that?</text>
+		<text bitflag="321" id1="6307" id2="194662" version="1065353216">You dance like a fool for &lt;&lt;2&gt;&gt;.  What's up with that?</text>
+		<text bitflag="321" id1="6308" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances like a fool for you.  What's up with that?</text>
+		<text bitflag="321" id1="6309" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances like a fool for &lt;&lt;2&gt;&gt;.  What's up with that?</text>
+		<text bitflag="321" id1="6310" id2="194662" version="1065353216">Your mood is now Outraged.</text>
+		<text bitflag="321" id1="6311" id2="194662" version="1065353216">You take a seat.</text>
+		<text bitflag="321" id1="6312" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; takes a seat.</text>
+		<text bitflag="321" id1="6313" id2="194662" version="1065353216">You take a seat near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6314" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; takes a seat near you.</text>
+		<text bitflag="321" id1="6315" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; takes a seat near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6316" id2="194662" version="1065353216">You take a seat.</text>
+		<text bitflag="321" id1="6317" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; takes a seat.</text>
+		<text bitflag="321" id1="6318" id2="194662" version="1065353216">You take a seat near &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="6319" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; takes a seat near you.</text>
+		<text bitflag="321" id1="6320" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; takes a seat near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6321" id2="194662" version="1065353216">You sing a song for everyone around you.</text>
+		<text bitflag="321" id1="6322" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sings a song for everyone.</text>
+		<text bitflag="321" id1="6323" id2="194662" version="1065353216">You sing a song for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6324" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sings a song for you.</text>
+		<text bitflag="321" id1="6325" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sings a song for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6326" id2="194662" version="1065353216">A strange force invades your mind.  You feel possessed!</text>
+		<text bitflag="321" id1="6327" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is acting like one possessed!</text>
+		<text bitflag="321" id1="6328" id2="194662" version="1065353216">A strange force invades your mind.  Could &lt;&lt;2&gt;&gt; be controlling you?</text>
+		<text bitflag="321" id1="6329" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is raving and staring at you, like one possessed!</text>
+		<text bitflag="321" id1="6330" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is raving and staring at &lt;&lt;2&gt;&gt;!  Could they be possessed?</text>
+		<text bitflag="321" id1="6331" id2="194662" version="1065353216">You sit down for a good think.</text>
+		<text bitflag="321" id1="6332" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down and contemplates.</text>
+		<text bitflag="321" id1="6333" id2="194662" version="1065353216">You sit down and contemplate &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6334" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down and looks you over.</text>
+		<text bitflag="321" id1="6335" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down and contemplates &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6336" id2="194662" version="1065353216">You sit down and relax.</text>
+		<text bitflag="321" id1="6337" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down and relaxes.</text>
+		<text bitflag="321" id1="6338" id2="194662" version="1065353216">You sit down near &lt;&lt;2&gt;&gt; and relax.</text>
+		<text bitflag="321" id1="6339" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down near you and relaxes.</text>
+		<text bitflag="321" id1="6340" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down near &lt;&lt;2&gt;&gt; and relaxes.</text>
+		<text bitflag="321" id1="6341" id2="194662" version="1065353216">You spike the ball.</text>
+		<text bitflag="321" id1="6342" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; spikes the ball.</text>
+		<text bitflag="321" id1="6343" id2="194662" version="1065353216">You spike the ball in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6344" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; spikes the ball in front of you.</text>
+		<text bitflag="321" id1="6345" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; spikes the ball in front of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6346" id2="194662" version="1065353216">You wave and take a bow.</text>
+		<text bitflag="321" id1="6347" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waves and takes a bow.</text>
+		<text bitflag="321" id1="6348" id2="194662" version="1065353216">You wave and take a bow before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6349" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waves and takes a bow before you.</text>
+		<text bitflag="321" id1="6350" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; waves and takes a bow before &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6351" id2="194662" version="1065353216">You celebrate your victory with a skyward punch.</text>
+		<text bitflag="321" id1="6352" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates their victory with a skyward punch.</text>
+		<text bitflag="321" id1="6353" id2="194662" version="1065353216">You celebrate near &lt;&lt;2&gt;&gt; with a skyward punch.</text>
+		<text bitflag="321" id1="6354" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates near you with a skyward punch.</text>
+		<text bitflag="321" id1="6355" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates near &lt;&lt;2&gt;&gt; with a skyward punch.</text>
+		<text bitflag="321" id1="6356" id2="194662" version="1065353216">You bob your head to the beat.</text>
+		<text bitflag="321" id1="6357" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bobs their head to the beat.</text>
+		<text bitflag="321" id1="6358" id2="194662" version="1065353216">You bob your head to the beat with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6359" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bobs their head to the beat with you.</text>
+		<text bitflag="321" id1="6360" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; bobs their head to the beat with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6361" id2="194662" version="1065353216">You do a little shadowboxing.</text>
+		<text bitflag="321" id1="6362" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a little shadowboxing.</text>
+		<text bitflag="321" id1="6363" id2="194662" version="1065353216">You do a little shadowboxing with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6364" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a little shadowboxing with you.</text>
+		<text bitflag="321" id1="6365" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a little shadowboxing with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6366" id2="194662" version="1065353216">You get funky.</text>
+		<text bitflag="321" id1="6367" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gets funky.</text>
+		<text bitflag="321" id1="6368" id2="194662" version="1065353216">You get funky with &lt;&lt;2&gt;&gt;,</text>
+		<text bitflag="321" id1="6369" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gets funky with you.</text>
+		<text bitflag="321" id1="6370" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gets funky with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6371" id2="194662" version="1065353216">You do the peanut butter jelly.</text>
+		<text bitflag="321" id1="6372" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the peanut butter jelly.</text>
+		<text bitflag="321" id1="6373" id2="194662" version="1065353216">You do the peanut butter jelly with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6374" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the peanut butter jelly with you.</text>
+		<text bitflag="321" id1="6375" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the peanut butter jelly with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6376" id2="194662" version="1065353216">You do a toe touch jump.</text>
+		<text bitflag="321" id1="6377" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a toe touch jump.</text>
+		<text bitflag="321" id1="6378" id2="194662" version="1065353216">You do a toe touch jump for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6379" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a toe touch jump for you.</text>
+		<text bitflag="321" id1="6380" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a toe touch jump for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6381" id2="194662" version="1065353216">You start nodding off.</text>
+		<text bitflag="321" id1="6382" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; starts to nod off.</text>
+		<text bitflag="321" id1="6383" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; starts nodding of near you.</text>
+		<text bitflag="321" id1="6384" id2="194662" version="1065353216">You start nodding off near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6385" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; starts nodding off near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6386" id2="194662" version="1065353216">You do the Running Man.</text>
+		<text bitflag="321" id1="6387" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Running Man.</text>
+		<text bitflag="321" id1="6388" id2="194662" version="1065353216">You do the Running Man with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6389" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Does the Running man with &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6390" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Running Man with you.</text>
+		<text bitflag="321" id1="6391" id2="194662" version="1065353216">You cross your arms and dance.</text>
+		<text bitflag="321" id1="6392" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; crosses their arms and dances.</text>
+		<text bitflag="321" id1="6393" id2="194662" version="1065353216">You cross your arms and dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6394" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; crosses their arms and dances with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6395" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; crosses their arms and dances with you.</text>
+		<text bitflag="321" id1="6396" id2="194662" version="1065353216">You are freezing.</text>
+		<text bitflag="321" id1="6397" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is freezing</text>
+		<text bitflag="321" id1="6398" id2="194662" version="1065353216">You are freezing near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6399" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is freezing near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6400" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is freezing near you.</text>
+		<text bitflag="321" id1="6401" id2="194662" version="1065353216">You feel chilly.</text>
+		<text bitflag="321" id1="6402" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; feels chilly.</text>
+		<text bitflag="321" id1="6403" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; feels chilly near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6404" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; feels chilly near you.</text>
+		<text bitflag="321" id1="6405" id2="194662" version="1065353216">You feel chilly near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6406" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Starslides.</text>
+		<text bitflag="321" id1="6407" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Starslides with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6408" id2="194662" version="1065353216">You Starslide with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6409" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Starslides near you.</text>
+		<text bitflag="321" id1="6410" id2="194662" version="1065353216">You Starslide.</text>
+		<text bitflag="321" id1="6411" id2="194662" version="1065353216">Your mood is now Cobalt Durasteel.</text>
+		<text bitflag="321" id1="6412" id2="194662" version="1065353216">You recline.</text>
+		<text bitflag="321" id1="6413" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; reclines.</text>
+		<text bitflag="321" id1="6414" id2="194662" version="1065353216">You recline near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6415" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; reclines near you.</text>
+		<text bitflag="321" id1="6416" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; reclines near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6417" id2="194662" version="1065353216">You play Dejarik.</text>
+		<text bitflag="321" id1="6418" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; plays Dejarik.</text>
+		<text bitflag="321" id1="6419" id2="194662" version="1065353216">You play Dejarik near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6420" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; plays Dejarik near you.</text>
+		<text bitflag="321" id1="6421" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; plays Dejarik near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6422" id2="194662" version="1065353216">Your mood is now Crying.</text>
+		<text bitflag="321" id1="6423" id2="194662" version="1065353216">You do the Lepi Hop.</text>
+		<text bitflag="321" id1="6424" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Lepi Hop.</text>
+		<text bitflag="321" id1="6425" id2="194662" version="1065353216">You do the Lepi Hop with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6426" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Lepi Hop with you.</text>
+		<text bitflag="321" id1="6427" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Lepi Hop with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6433" id2="194662" version="1065353216">You Holo Hoop.</text>
+		<text bitflag="321" id1="6434" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Holo Hoops.</text>
+		<text bitflag="321" id1="6435" id2="194662" version="1065353216">You Holo Hoop near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6436" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Holo Hoops near you.</text>
+		<text bitflag="321" id1="6437" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Holo Hoops near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6443" id2="194662" version="1065353216">You do the Fresh.</text>
+		<text bitflag="321" id1="6444" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Fresh.</text>
+		<text bitflag="321" id1="6445" id2="194662" version="1065353216">You do the Fresh with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6446" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Fresh near you.</text>
+		<text bitflag="321" id1="6447" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Fresh with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6448" id2="194662" version="1065353216">You are Bound.</text>
+		<text bitflag="321" id1="6449" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is Bound.</text>
+		<text bitflag="321" id1="6450" id2="194662" version="1065353216">You are Bound near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6451" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is Bound near you.</text>
+		<text bitflag="321" id1="6452" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is Bound near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6453" id2="194662" version="1065353216">You do the Waltz.</text>
+		<text bitflag="321" id1="6454" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Waltz.</text>
+		<text bitflag="321" id1="6455" id2="194662" version="1065353216">You do the Waltz with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6456" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Waltz with you.</text>
+		<text bitflag="321" id1="6457" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Waltz with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6458" id2="194662" version="1065353216">Your mood is now Pout.</text>
+		<text bitflag="321" id1="6459" id2="194662" version="1065353216">You do the Smuggler Shuffle.</text>
+		<text bitflag="321" id1="6460" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Smuggler Shuffle.</text>
+		<text bitflag="321" id1="6461" id2="194662" version="1065353216">You do the Smuggler Shuffle with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6462" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Smuggler Shuffle with you.</text>
+		<text bitflag="321" id1="6463" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Smuggler Shuffle &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6464" id2="194662" version="1065353216">You do the Romance Shuffle.</text>
+		<text bitflag="321" id1="6465" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Romance Shuffle.</text>
+		<text bitflag="321" id1="6466" id2="194662" version="1065353216">You do the Romance Shuffle with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6467" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Romance Shuffle with you.</text>
+		<text bitflag="321" id1="6468" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Romance Shuffle with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6469" id2="194662" version="1065353216">You sit in a temple chair.</text>
+		<text bitflag="321" id1="6470" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits in a temple chair.</text>
+		<text bitflag="321" id1="6471" id2="194662" version="1065353216">You sit in a temple chair near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6472" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits in a temple chair near you.</text>
+		<text bitflag="321" id1="6473" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits in a temple chair near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6474" id2="194662" version="1065353216">You pull out a Thermal Detonator... its a dud.</text>
+		<text bitflag="321" id1="6475" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Pulls out a Thermal Detonator... its a dud.</text>
+		<text bitflag="321" id1="6476" id2="194662" version="1065353216">You pull out a Thermal Detonator near &lt;&lt;2&gt;&gt;... its a dud.</text>
+		<text bitflag="321" id1="6477" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Pulls out a Thermal Detonator near you... its a dud.</text>
+		<text bitflag="321" id1="6478" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Pulls out a Thermal Detonator near &lt;&lt;2&gt;&gt;... its a dud.</text>
+		<text bitflag="321" id1="6479" id2="194662" version="1065353216">Your mood is now Jawa Face.</text>
+		<text bitflag="321" id1="6480" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances like a crazy fool for &lt;&lt;2&gt;&gt;.  What's up with that?</text>
+		<text bitflag="321" id1="6481" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances like a crazy fool for you.  What's up with that?</text>
+		<text bitflag="321" id1="6482" id2="194662" version="1065353216">You dance like a crazy fool for &lt;&lt;2&gt;&gt;.  What's up with that?</text>
+		<text bitflag="321" id1="6483" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances like a crazy fool.  What's up with that?</text>
+		<text bitflag="321" id1="6484" id2="194662" version="1065353216">You dance like a crazy fool.  What's up with that?</text>
+		<text bitflag="321" id1="6485" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; start typing near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6486" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; start typing near you.</text>
+		<text bitflag="321" id1="6487" id2="194662" version="1065353216">You start typing near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6488" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; starts typing.</text>
+		<text bitflag="321" id1="6489" id2="194662" version="1065353216">You start typing.</text>
+		<text bitflag="321" id1="6490" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks their belt near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6491" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks their belt near you.</text>
+		<text bitflag="321" id1="6492" id2="194662" version="1065353216">You check your belt near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6493" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; checks their belt.</text>
+		<text bitflag="321" id1="6494" id2="194662" version="1065353216">You check your belt.</text>
+		<text bitflag="321" id1="6495" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6496" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates with you.</text>
+		<text bitflag="321" id1="6497" id2="194662" version="1065353216">You celebrate with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6498" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates.</text>
+		<text bitflag="321" id1="6499" id2="194662" version="1065353216">You celebrate.</text>
+		<text bitflag="321" id1="6500" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Clawbird Kicks &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6501" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; Clawbird Kicks you.</text>
+		<text bitflag="321" id1="6502" id2="194662" version="1065353216">You Clawbird Kick &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6503" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Clawbird Kick.</text>
+		<text bitflag="321" id1="6504" id2="194662" version="1065353216">You do the Clawbird Kick.</text>
+		<text bitflag="321" id1="6505" id2="194662" version="1065353216">You do the Punch Dance.</text>
+		<text bitflag="321" id1="6506" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Punch Dance.</text>
+		<text bitflag="321" id1="6507" id2="194662" version="1065353216">You do the Punch Dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6508" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the punch dance with you.</text>
+		<text bitflag="321" id1="6509" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the punch dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6510" id2="194662" version="1065353216">You sit down to think.</text>
+		<text bitflag="321" id1="6511" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down to think.</text>
+		<text bitflag="321" id1="6512" id2="194662" version="1065353216">You sit down near &lt;&lt;2&gt;&gt; to think.</text>
+		<text bitflag="321" id1="6513" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down near you to think.</text>
+		<text bitflag="321" id1="6514" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down near &lt;&lt;2&gt;&gt; to think.</text>
+		<text bitflag="321" id1="6515" id2="194662" version="1065353216">You cheer aggressively.</text>
+		<text bitflag="321" id1="6516" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers aggressively.</text>
+		<text bitflag="321" id1="6517" id2="194662" version="1065353216">You cheer aggressively at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6518" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers aggressively at you.</text>
+		<text bitflag="321" id1="6519" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cheers aggressively at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6520" id2="194662" version="1065353216">You do a traditional dance.</text>
+		<text bitflag="321" id1="6521" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a traditional dance.</text>
+		<text bitflag="321" id1="6522" id2="194662" version="1065353216">You do a traditional dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6523" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a traditional dance with you.</text>
+		<text bitflag="321" id1="6524" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a traditional dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6525" id2="194662" version="1065353216">You celebrate with a super fist pump.</text>
+		<text bitflag="321" id1="6526" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates with a super fist pump.</text>
+		<text bitflag="321" id1="6527" id2="194662" version="1065353216">You celebrate &lt;&lt;2&gt;&gt; with a super fist pump.</text>
+		<text bitflag="321" id1="6528" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates you with a super fist pump.</text>
+		<text bitflag="321" id1="6529" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; celebrates &lt;&lt;2&gt;&gt; with a super fist pump.</text>
+		<text bitflag="321" id1="6530" id2="194662" version="1065353216">You headbang.</text>
+		<text bitflag="321" id1="6531" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; headbangs.</text>
+		<text bitflag="321" id1="6532" id2="194662" version="1065353216">You headbang with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6533" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; headbangs with you.</text>
+		<text bitflag="321" id1="6534" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; headbangs with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6535" id2="194662" version="1065353216">You sit down because it is to cold to move.</text>
+		<text bitflag="321" id1="6536" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down because it is to cold to move.</text>
+		<text bitflag="321" id1="6537" id2="194662" version="1065353216">You sit down near &lt;&lt;2&gt;&gt; because it is to cold to move.</text>
+		<text bitflag="321" id1="6538" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down near you because it is to cold to move.</text>
+		<text bitflag="321" id1="6539" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down near &lt;&lt;2&gt;&gt; because it is to cold to move.</text>
+		<text bitflag="321" id1="6540" id2="194662" version="1065353216">You prepare for a cantina fight.</text>
+		<text bitflag="321" id1="6541" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; preapares for a cantina fight.</text>
+		<text bitflag="321" id1="6542" id2="194662" version="1065353216">You prepare for a cantina fight with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6543" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; preapares for a cantina fight with you.</text>
+		<text bitflag="321" id1="6544" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; preapares for a cantina fight with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6545" id2="194662" version="1065353216">You thrash your head wildly.</text>
+		<text bitflag="321" id1="6546" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thrashes their head wildly.</text>
+		<text bitflag="321" id1="6547" id2="194662" version="1065353216">You thrash your head wildly with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6548" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thrashes their head wildly with you.</text>
+		<text bitflag="321" id1="6549" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; thrashes their head wildly with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6550" id2="194662" version="1065353216">You do a handstand with a heel click.</text>
+		<text bitflag="321" id1="6551" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a handstand with a heel click.</text>
+		<text bitflag="321" id1="6552" id2="194662" version="1065353216">You do a handstand with a heel click near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6553" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a handstand with a heel click near you.</text>
+		<text bitflag="321" id1="6554" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does a handstand with a heel click near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6555" id2="194662" version="1065353216">You dance with joy.</text>
+		<text bitflag="321" id1="6556" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with joy.</text>
+		<text bitflag="321" id1="6557" id2="194662" version="1065353216">You dance with joy near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6558" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with joy near you.</text>
+		<text bitflag="321" id1="6559" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with joy near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6560" id2="194662" version="1065353216">You put up your dukes.</text>
+		<text bitflag="321" id1="6561" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; puts up their dukes.</text>
+		<text bitflag="321" id1="6562" id2="194662" version="1065353216">You put up your dukes at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6563" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; puts up their dukes at you.</text>
+		<text bitflag="321" id1="6564" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; puts up their dukes at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6565" id2="194662" version="1065353216">You do the sneak.</text>
+		<text bitflag="321" id1="6566" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the sneak.</text>
+		<text bitflag="321" id1="6567" id2="194662" version="1065353216">You do the sneak with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6568" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the sneak with you.</text>
+		<text bitflag="321" id1="6569" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the sneak with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6570" id2="194662" version="1065353216">You sit down because it is to hot to move.</text>
+		<text bitflag="321" id1="6571" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down because it is to hot to move.</text>
+		<text bitflag="321" id1="6572" id2="194662" version="1065353216">You sit down near &lt;&lt;2&gt;&gt; because it is to hot to move.</text>
+		<text bitflag="321" id1="6573" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sit down near you because it is to hot to move.</text>
+		<text bitflag="321" id1="6574" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sit down near &lt;&lt;2&gt;&gt; because it is to hot to move.</text>
+		<text bitflag="321" id1="6575" id2="194662" version="1065353216">Your mood is now Sinister</text>
+		<text bitflag="321" id1="6576" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dodges &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6577" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dodges you.</text>
+		<text bitflag="321" id1="6578" id2="194662" version="1065353216">You dodge &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6579" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dodges.</text>
+		<text bitflag="321" id1="6580" id2="194662" version="1065353216">You dodge.</text>
+		<text bitflag="321" id1="6581" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; talks all crazy to &lt;&lt;2&gt;&gt;.  &lt;&lt;2&gt;&gt; does not understand what &lt;&lt;1&gt;&gt; is saying.</text>
+		<text bitflag="321" id1="6582" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; talks all crazy to you.  You do not understand what &lt;&lt;1&gt;&gt; is saying.</text>
+		<text bitflag="321" id1="6583" id2="194662" version="1065353216">You talk all crazy to &lt;&lt;2&gt;&gt;.  &lt;&lt;2&gt;&gt; does not understand what you are saying.</text>
+		<text bitflag="321" id1="6584" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; talks all crazy.  No one understands what &lt;&lt;1&gt;&gt; is saying.</text>
+		<text bitflag="321" id1="6585" id2="194662" version="1065353216">You talk all crazy.  No one understands what you are saying.</text>
+		<text bitflag="321" id1="6586" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Hip Dip with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6587" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Hip Dip with you.</text>
+		<text bitflag="321" id1="6588" id2="194662" version="1065353216">You do the Hip Dip with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6589" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Hip Dip.</text>
+		<text bitflag="321" id1="6590" id2="194662" version="1065353216">You do the Hip Dip.</text>
+		<text bitflag="321" id1="6591" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is out of breath near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6592" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is out of breath near you.</text>
+		<text bitflag="321" id1="6593" id2="194662" version="1065353216">You are out of breath near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6594" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is out of breath.</text>
+		<text bitflag="321" id1="6595" id2="194662" version="1065353216">You are out of breath.</text>
+		<text bitflag="321" id1="6596" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; faints near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6597" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; faints near you.</text>
+		<text bitflag="321" id1="6598" id2="194662" version="1065353216">You faint near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6599" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; faints.</text>
+		<text bitflag="321" id1="6600" id2="194662" version="1065353216">You faint.</text>
+		<text bitflag="321" id1="6601" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Tihaar with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6602" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Tihaar with you.</text>
+		<text bitflag="321" id1="6603" id2="194662" version="1065353216">You do the Tihaar with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6604" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Tihaar.</text>
+		<text bitflag="321" id1="6605" id2="194662" version="1065353216">You do the Tihaar.</text>
+		<text bitflag="321" id1="6606" id2="194662" version="1065353216">You smash a bottle.</text>
+		<text bitflag="321" id1="6607" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; smashes a bottle.</text>
+		<text bitflag="321" id1="6608" id2="194662" version="1065353216">You break a bottle and threaten &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6609" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; threatens you with a broken bottle.</text>
+		<text bitflag="321" id1="6610" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; breaks a bottle and threatens &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6626" id2="194662" version="1065353216">You cannot take it anymore, and begin to angrily dance.</text>
+		<text bitflag="321" id1="6627" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cannot take it anymore, and begins to angrily dance.</text>
+		<text bitflag="321" id1="6628" id2="194662" version="1065353216">You grab &lt;&lt;2&gt;&gt; and begin to angrily dance with them.</text>
+		<text bitflag="321" id1="6629" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grabs you and begins to angrily dance with you.</text>
+		<text bitflag="321" id1="6630" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grabs &lt;&lt;2&gt;&gt; and begins to angrily dance with them.</text>
+		<text bitflag="321" id1="6631" id2="194662" version="1065353216">You do the Mind Prison Spin.</text>
+		<text bitflag="321" id1="6632" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Mind Prison Spin.</text>
+		<text bitflag="321" id1="6633" id2="194662" version="1065353216">You do the Mind Prison Spin with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6634" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Mind Prison Spin with you.</text>
+		<text bitflag="321" id1="6635" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Mind Prison Spin with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6636" id2="194662" version="1065353216">You look quite sinister.</text>
+		<text bitflag="321" id1="6637" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks quite sinister.</text>
+		<text bitflag="321" id1="6638" id2="194662" version="1065353216">You look at &lt;&lt;2&gt;&gt; with a sinister grin.</text>
+		<text bitflag="321" id1="6639" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you with a sinister grin.</text>
+		<text bitflag="321" id1="6640" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at &lt;&lt;2&gt;&gt; with a sinister grin.</text>
+		<text bitflag="321" id1="6641" id2="194662" version="1065353216">You do not feel worthy.</text>
+		<text bitflag="321" id1="6642" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does not feel worthy.</text>
+		<text bitflag="321" id1="6643" id2="194662" version="1065353216">You do not feel worthy in the presence of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6644" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does not feel worthy in your presence.</text>
+		<text bitflag="321" id1="6645" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does not feel worthy in the presence of &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6646" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; punts the ball to &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6647" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; punts the ball.</text>
+		<text bitflag="321" id1="6648" id2="194662" version="1065353216">You punt the ball to &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6649" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; punts the ball.</text>
+		<text bitflag="321" id1="6650" id2="194662" version="1065353216">You punt the ball.</text>
+		<text bitflag="321" id1="6651" id2="194662" version="1065353216">You do the No Bones dance.</text>
+		<text bitflag="321" id1="6652" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the No Bones dance.</text>
+		<text bitflag="321" id1="6653" id2="194662" version="1065353216">You do the No Bones dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6654" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the No Bones dance.</text>
+		<text bitflag="321" id1="6655" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the No Bones dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6656" id2="194662" version="1065353216">YIPPEE!</text>
+		<text bitflag="321" id1="6657" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; gets excited and shouts YIPPEE!</text>
+		<text bitflag="321" id1="6658" id2="194662" version="1065353216">You grab &lt;&lt;2&gt;&gt; and shout YIPPEE!</text>
+		<text bitflag="321" id1="6659" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grabs &lt;&lt;2&gt;&gt; and shouts YIPPEE!</text>
+		<text bitflag="321" id1="6660" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grabs you and shouts YIPPEE!</text>
+		<text bitflag="321" id1="6661" id2="194662" version="1065353216">You kneel down and begin detailing the battle plan with everyone.</text>
+		<text bitflag="321" id1="6662" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; kneels down and starts detailing the battle plan with everyone.</text>
+		<text bitflag="321" id1="6663" id2="194662" version="1065353216">You grab &lt;&lt;2&gt;&gt; and begin detailing the battle plan with them.</text>
+		<text bitflag="321" id1="6664" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; begins detailing the battle plan with you.</text>
+		<text bitflag="321" id1="6665" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grabs &lt;&lt;2&gt;&gt; and begins detailing the battle plan with them.</text>
+		<text bitflag="321" id1="6666" id2="194662" version="1065353216">You kneel down and search the floor.</text>
+		<text bitflag="321" id1="6667" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; kneels down and begins searching the floor.</text>
+		<text bitflag="321" id1="6668" id2="194662" version="1065353216">You kneel down and ask &lt;&lt;2&gt;&gt; to help you search the floor.</text>
+		<text bitflag="321" id1="6669" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; kneels down and asks you to help them search.</text>
+		<text bitflag="321" id1="6670" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; kneels down and asks &lt;&lt;2&gt;&gt; to help them search the floor.</text>
+		<text bitflag="321" id1="6671" id2="194662" version="1065353216">You begin sweeping the floor.</text>
+		<text bitflag="321" id1="6672" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; begins sweeping the floor.</text>
+		<text bitflag="321" id1="6673" id2="194662" version="1065353216">You look at &lt;&lt;2&gt;&gt;, wondering if they mind picking up a broom.</text>
+		<text bitflag="321" id1="6674" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at you, wondering if you mind picking up a broom.</text>
+		<text bitflag="321" id1="6675" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; looks at &lt;&lt;2&gt;&gt;, and wonders if they mind picking up a broom.</text>
+		<text bitflag="321" id1="6676" id2="194662" version="1065353216">You grab a pickaxe and begin excavating.</text>
+		<text bitflag="321" id1="6677" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grabs a pickaxe and begins excavating.</text>
+		<text bitflag="321" id1="6678" id2="194662" version="1065353216">You grab a pickaxe and ask &lt;&lt;2&gt;&gt; to help you excavate.</text>
+		<text bitflag="321" id1="6679" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grabs a pickaxe and asks you to help them excavate.</text>
+		<text bitflag="321" id1="6680" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; grabs a pickaxe and asks &lt;&lt;2&gt;&gt; to help them excavate.</text>
+		<text bitflag="321" id1="6681" id2="194662" version="1065353216">You begin shoveling.</text>
+		<text bitflag="321" id1="6682" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; begins shoveling.</text>
+		<text bitflag="321" id1="6683" id2="194662" version="1065353216">You ask &lt;&lt;2&gt;&gt; to move aside and begin shoveling.</text>
+		<text bitflag="321" id1="6684" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; asks you to move aside and begins shoveling.</text>
+		<text bitflag="321" id1="6685" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; asks &lt;&lt;2&gt;&gt; to move aside and beings shoveling.</text>
+		<text bitflag="321" id1="6686" id2="194662" version="1065353216">You're all clear, kid.</text>
+		<text bitflag="321" id1="6687" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; informs everyone know that they are clear to land.</text>
+		<text bitflag="321" id1="6688" id2="194662" version="1065353216">You inform &lt;&lt;2&gt;&gt; that they are clear to land.</text>
+		<text bitflag="321" id1="6689" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; informs you know that you are clear to land.</text>
+		<text bitflag="321" id1="6690" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; informs &lt;&lt;2&gt;&gt; that they are clear to land.</text>
+		<text bitflag="321" id1="6691" id2="194662" version="1065353216">You can't shake that beat, and begin air drumming!</text>
+		<text bitflag="321" id1="6692" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cannot shake the beat, and begins air drumming.</text>
+		<text bitflag="321" id1="6693" id2="194662" version="1065353216">You tell &lt;&lt;2&gt;&gt; that you cannot shake the beat, and begin air drumming.</text>
+		<text bitflag="321" id1="6694" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells you they cannot shake the beat, and begins air drumming.</text>
+		<text bitflag="321" id1="6695" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tells &lt;&lt;2&gt;&gt; they cannot shake the beat, and begins air drumming.</text>
+		<text bitflag="321" id1="6696" id2="194662" version="1065353216">You stand at ease.</text>
+		<text bitflag="321" id1="6697" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stands at ease.</text>
+		<text bitflag="321" id1="6698" id2="194662" version="1065353216">You stand at ease near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6699" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stands at ease near you.</text>
+		<text bitflag="321" id1="6700" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; stands at ease near &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6701" id2="194662" version="1065353216">You perform an exceptional golf swing!</text>
+		<text bitflag="321" id1="6702" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs an exceptional golf swing!</text>
+		<text bitflag="321" id1="6703" id2="194662" version="1065353216">You perform an exceptional golf swing near &lt;&lt;2&gt;&gt;!</text>
+		<text bitflag="321" id1="6704" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs an exceptional golf swing near you!</text>
+		<text bitflag="321" id1="6705" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs an exceptional golf swing near &lt;&lt;2&gt;&gt;!</text>
+		<text bitflag="321" id1="6706" id2="194662" version="1065353216">You sit down.</text>
+		<text bitflag="321" id1="6707" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down.</text>
+		<text bitflag="321" id1="6708" id2="194662" version="1065353216">You sit down next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6709" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down next to you.</text>
+		<text bitflag="321" id1="6710" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6711" id2="194662" version="1065353216">You sit down.</text>
+		<text bitflag="321" id1="6712" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down.</text>
+		<text bitflag="321" id1="6713" id2="194662" version="1065353216">You sit down next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6714" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down next to you.</text>
+		<text bitflag="321" id1="6715" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; sits down next to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6716" id2="194662" version="1065353216">You put on an unconvincing performance. It's not great.</text>
+		<text bitflag="321" id1="6717" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs, albeit unconvincingly.</text>
+		<text bitflag="321" id1="6718" id2="194662" version="1065353216">You performing unconvincingly for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6719" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs for you. You're not convinced. Not even a little.</text>
+		<text bitflag="321" id1="6720" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs unconvincingly for &lt;&lt;2&gt;&gt;. It's not a great situation.</text>
+		<text bitflag="321" id1="6721" id2="194662" version="1065353216">You do the Empowered Shuffle.</text>
+		<text bitflag="321" id1="6722" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Empowered Shuffle.</text>
+		<text bitflag="321" id1="6723" id2="194662" version="1065353216">You do the Empowered Shuffle with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6724" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Empowered Shuffle with you.</text>
+		<text bitflag="321" id1="6725" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; does the Empowered Shuffle &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6726" id2="194662" version="1065353216">You dance like an excited child.</text>
+		<text bitflag="321" id1="6727" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances like an excited child.</text>
+		<text bitflag="321" id1="6728" id2="194662" version="1065353216">You dance like an excited child with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6729" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with you like an excited child.</text>
+		<text bitflag="321" id1="6730" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with &lt;&lt;2&gt;&gt; like an excited child.</text>
+		<text bitflag="321" id1="6731" id2="194662" version="1065353216">You are in utter disbelief!</text>
+		<text bitflag="321" id1="6732" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is in utter disbelief!</text>
+		<text bitflag="321" id1="6733" id2="194662" version="1065353216">You are in utter disbelief with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6734" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is in utter disbelief with you.</text>
+		<text bitflag="321" id1="6735" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; is in utter disbelief with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6746" id2="194662" version="1065353216">You have dance fever!</text>
+		<text bitflag="321" id1="6747" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; has dance fever!</text>
+		<text bitflag="321" id1="6748" id2="194662" version="1065353216">You dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6749" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with you.</text>
+		<text bitflag="321" id1="6750" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; dances with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6755" id2="194662" version="1065353216">You show everyone your enormous muscles.</text>
+		<text bitflag="321" id1="6756" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows everyone their enormous muscles.</text>
+		<text bitflag="321" id1="6757" id2="194662" version="1065353216">You show your enormous muscles to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6758" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows you their enormous muscles.</text>
+		<text bitflag="321" id1="6759" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows&lt;&lt;2&gt;&gt; their enormous muscles.</text>
+		<text bitflag="321" id1="6760" id2="194662" version="1065353216">You taunt everyone with a mighty chest beat.</text>
+		<text bitflag="321" id1="6761" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; taunts everyone with mighty chest beating.</text>
+		<text bitflag="321" id1="6762" id2="194662" version="1065353216">You taunt &lt;&lt;2&gt;&gt; with a mighty chest beat.</text>
+		<text bitflag="321" id1="6763" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; taunts you with a mighty chest beat.</text>
+		<text bitflag="321" id1="6764" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; taunts &lt;&lt;2&gt;&gt; with mighty chest beating.</text>
+		<text bitflag="321" id1="6765" id2="194662" version="1065353216">You cartwheel for everyone.</text>
+		<text bitflag="321" id1="6766" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cartwheels for everyone.</text>
+		<text bitflag="321" id1="6767" id2="194662" version="1065353216">You cartwheel for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6768" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cartwheels for you.</text>
+		<text bitflag="321" id1="6769" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; cartwheels for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6770" id2="194662" version="1065353216">You try to scare someone.</text>
+		<text bitflag="321" id1="6771" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tries to scare someone.</text>
+		<text bitflag="321" id1="6772" id2="194662" version="1065353216">You try to scare &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6773" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tries to scare you.</text>
+		<text bitflag="321" id1="6774" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; tries to scare &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6775" id2="194662" version="1065353216">You perform a little Salsa dance.</text>
+		<text bitflag="321" id1="6776" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs a little Salsa dance.</text>
+		<text bitflag="321" id1="6777" id2="194662" version="1065353216">You perform a little Salsa dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6778" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs a little Salsa dance with you.</text>
+		<text bitflag="321" id1="6779" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; performs a little Salsa dance with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="6780" id2="194662" version="1065353216">You show everyone how to be cool.</text>
+		<text bitflag="321" id1="6781" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows everyone how to be cool.</text>
+		<text bitflag="321" id1="6782" id2="194662" version="1065353216">You show &lt;&lt;2&gt;&gt; how to be cool.</text>
+		<text bitflag="321" id1="6783" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows you how to be cool.</text>
+		<text bitflag="321" id1="6784" id2="194662" version="1065353216">&lt;&lt;1&gt;&gt; shows &lt;&lt;2&gt;&gt; how to be cool.</text>
+	</file_content>
+</stb_file>

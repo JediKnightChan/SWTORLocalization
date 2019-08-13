@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>18</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/directive_7/imperial/z0_b5.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="506770" id2="17" version="1065353216">Transport to Directive 7 hideout = prepped + ready // You = ready for takeoff?</text>
+		<text bitflag="1360" id1="506771" id2="17" version="1065353216">[Start Tactical Flashpoint]</text>
+		<text bitflag="3393" id1="506772" id2="17" version="1065353216">Crew = ready // Proceed</text>
+		<text bitflag="1360" id1="506774" id2="17" version="1065353216">Forget it. [Refuse Mission]</text>
+		<text bitflag="3393" id1="506777" id2="17" version="1065353216">Discussion = unnecessary // transport = ready</text>
+		<text bitflag="3393" id1="506780" id2="17" version="1065353216">Moff Rigel = inside + ready to give briefing // You = ready for meeting?</text>
+		<text bitflag="1360" id1="506781" id2="17" version="1065353216">Absolutely.</text>
+		<text bitflag="3393" id1="506782" id2="17" version="1065353216">Everything = ready // Proceed</text>
+		<text bitflag="1360" id1="506784" id2="17" version="1065353216">Forget it. [Refuse quest]</text>
+		<text bitflag="3393" id1="506787" id2="17" version="1065353216">Transport = unavailable // Z0 = apologetic</text>
+		<text bitflag="1360" id1="987591" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="987593" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987594" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="987595" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1170366" id2="17" version="1065353216">[Start Solo Flashpoint]</text>
+		<text bitflag="3393" id1="1170367" id2="17" version="1065353216">Crew = ready // Proceed</text>
+		<text bitflag="1360" id1="1220155" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1220157" id2="17" version="1065353216">[Start Story Mode]</text>
+	</file_content>
+</stb_file>

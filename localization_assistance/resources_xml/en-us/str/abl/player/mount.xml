@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/abl/player/mount.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="65" id1="0" id2="506678" version="1065353216">Civilian Hoverbike (Gray)</text>
+		<text bitflag="65" id1="1" id2="506678" version="1065353216">Activates the 42-Y Civilian Hover Bike, increasing movement speed by 90%.</text>
+		<text bitflag="65" id1="258" id2="506678" version="1065353216">Movement speed increased by 90%</text>
+		<text bitflag="321" id1="0" id2="506688" version="1065353216">CRP-A3 Budget Speeder Bike</text>
+		<text bitflag="65" id1="1" id2="506688" version="1065353216">This base abilities is called by all level 25 mounts</text>
+	</file_content>
+</stb_file>

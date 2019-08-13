@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>9</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/world/planetary_checkup/wall_pipe_2.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="683003" id2="17" version="1065353216">Burba Seismic Activity Reader locked. Results: Normal activity levels saved.</text>
+		<text bitflag="321" id1="683004" id2="17" version="1065353216">Burba Seismic Activity Reader locked. Results: Dangerous activity levels saved.</text>
+		<text bitflag="321" id1="683005" id2="17" version="1065353216">Seismic activity normal. Planet safe. Adjustment to reading required?</text>
+		<text bitflag="336" id1="683006" id2="17" version="1065353216">[Leave the reading as it is]</text>
+		<text bitflag="321" id1="683007" id2="17" version="1065353216">Results: Normal activity levels saved.</text>
+		<text bitflag="336" id1="683009" id2="17" version="1065353216">[Tamper with the reading]</text>
+		<text bitflag="321" id1="683010" id2="17" version="1065353216">Results: Dangerous activity levels saved. Planet is in peril.</text>
+		<text bitflag="321" id1="683012" id2="17" version="1065353216">Burba Seismic Activity Reader powered up.</text>
+		<text bitflag="321" id1="683014" id2="17" version="1065353216">Reading seismic activity. Stand by.</text>
+	</file_content>
+</stb_file>

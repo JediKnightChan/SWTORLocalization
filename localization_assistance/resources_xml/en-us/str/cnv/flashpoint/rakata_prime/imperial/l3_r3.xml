@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/flashpoint/rakata_prime/imperial/l3_r3.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1143850" id2="17" version="1065353216">Shuttle = ready // Destination = Rakata Prime</text>
+		<text bitflag="3393" id1="1143852" id2="17" version="1065353216">Time = short // Danger = extreme // You = ready to shuttle to Rakata Prime?</text>
+		<text bitflag="1360" id1="1143853" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1143854" id2="17" version="1065353216">[Refuse Mission]</text>
+		<text bitflag="3393" id1="1143856" id2="17" version="1065353216">Shuttle = remains fueled // L3-R3 = Awaiting your return</text>
+		<text bitflag="3393" id1="1143858" id2="17" version="1065353216">Mission = pending // L3-R3 = monitoring for status updates!</text>
+		<text bitflag="1360" id1="1143877" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="1143899" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="1143902" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1148020" id2="17" version="1065353216">[Start Story Mode]</text>
+		<text bitflag="1360" id1="1148021" id2="17" version="1065353216">[Start Solo Mode]</text>
+	</file_content>
+</stb_file>

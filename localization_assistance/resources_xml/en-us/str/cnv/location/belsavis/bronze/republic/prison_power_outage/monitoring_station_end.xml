@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/bronze/republic/prison_power_outage/monitoring_station_end.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="289090" id2="17" version="1065353216">Power has been restored. All escaped prisoners have been accounted for.</text>
+		<text bitflag="3393" id1="289092" id2="17" version="1065353216">Maximum security wing is in lockdown. Your response is appreciated.</text>
+		<text bitflag="321" id1="949804" id2="17" version="1065353216">[This monitoring station appears to be deactivated.]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>661</strs>
+		<file_name>/resources/en-us/str/gui/emotegrouping.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="328314" version="1065353216">Action</text>
+		<text bitflag="321" id1="2" id2="328314" version="1065353216">Emotion</text>
+		<text bitflag="321" id1="3" id2="328314" version="1065353216">General</text>
+		<text bitflag="321" id1="4" id2="328314" version="1065353216">Greeting</text>
+		<text bitflag="321" id1="5" id2="328314" version="1065353216">Social</text>
+		<text bitflag="321" id1="6" id2="328314" version="1065353216">Tactics</text>
+		<text bitflag="321" id1="7" id2="328314" version="1065353216">/belch</text>
+		<text bitflag="321" id1="8" id2="328314" version="1065353216">/blink</text>
+		<text bitflag="321" id1="9" id2="328314" version="1065353216">/blow</text>
+		<text bitflag="321" id1="10" id2="328314" version="1065353216">/bonk</text>
+		<text bitflag="321" id1="11" id2="328314" version="1065353216">/burp</text>
+		<text bitflag="321" id1="12" id2="328314" version="1065353216">/cheer</text>
+		<text bitflag="321" id1="13" id2="328314" version="1065353216">/clubdance</text>
+		<text bitflag="321" id1="14" id2="328314" version="1065353216">/cough</text>
+		<text bitflag="321" id1="15" id2="328314" version="1065353216">/cringe</text>
+		<text bitflag="321" id1="16" id2="328314" version="1065353216">/drink</text>
+		<text bitflag="321" id1="17" id2="328314" version="1065353216">/duck</text>
+		<text bitflag="321" id1="18" id2="328314" version="1065353216">/eat</text>
+		<text bitflag="321" id1="19" id2="328314" version="1065353216">/flagdown</text>
+		<text bitflag="321" id1="20" id2="328314" version="1065353216">/flap</text>
+		<text bitflag="321" id1="21" id2="328314" version="1065353216">/flex</text>
+		<text bitflag="321" id1="22" id2="328314" version="1065353216">/flip</text>
+		<text bitflag="321" id1="23" id2="328314" version="1065353216">/golfclap</text>
+		<text bitflag="321" id1="24" id2="328314" version="1065353216">/handstand</text>
+		<text bitflag="321" id1="25" id2="328314" version="1065353216">/kiss</text>
+		<text bitflag="321" id1="26" id2="328314" version="1065353216">/kneel</text>
+		<text bitflag="321" id1="27" id2="328314" version="1065353216">/liedown</text>
+		<text bitflag="321" id1="28" id2="328314" version="1065353216">/look</text>
+		<text bitflag="321" id1="29" id2="328314" version="1065353216">/meditate</text>
+		<text bitflag="321" id1="30" id2="328314" version="1065353216">/observe</text>
+		<text bitflag="321" id1="31" id2="328314" version="1065353216">/overthere</text>
+		<text bitflag="321" id1="32" id2="328314" version="1065353216">/raise</text>
+		<text bitflag="321" id1="33" id2="328314" version="1065353216">/salute</text>
+		<text bitflag="321" id1="34" id2="328314" version="1065353216">/scratch</text>
+		<text bitflag="321" id1="35" id2="328314" version="1065353216">/sleep</text>
+		<text bitflag="321" id1="36" id2="328314" version="1065353216">/talk</text>
+		<text bitflag="321" id1="37" id2="328314" version="1065353216">/tap</text>
+		<text bitflag="321" id1="38" id2="328314" version="1065353216">/threaten</text>
+		<text bitflag="321" id1="39" id2="328314" version="1065353216">/woot</text>
+		<text bitflag="321" id1="40" id2="328314" version="1065353216">/accuse</text>
+		<text bitflag="321" id1="41" id2="328314" version="1065353216">/angry</text>
+		<text bitflag="321" id1="42" id2="328314" version="1065353216">/blush</text>
+		<text bitflag="321" id1="43" id2="328314" version="1065353216">/bored</text>
+		<text bitflag="321" id1="44" id2="328314" version="1065353216">/comfort</text>
+		<text bitflag="321" id1="45" id2="328314" version="1065353216">/cower</text>
+		<text bitflag="321" id1="46" id2="328314" version="1065353216">/crossarms</text>
+		<text bitflag="321" id1="47" id2="328314" version="1065353216">/done</text>
+		<text bitflag="321" id1="48" id2="328314" version="1065353216">/excited</text>
+		<text bitflag="321" id1="49" id2="328314" version="1065353216">/facepalm</text>
+		<text bitflag="321" id1="50" id2="328314" version="1065353216">/fear</text>
+		<text bitflag="321" id1="51" id2="328314" version="1065353216">/frown</text>
+		<text bitflag="321" id1="52" id2="328314" version="1065353216">/glare</text>
+		<text bitflag="321" id1="53" id2="328314" version="1065353216">/grin</text>
+		<text bitflag="321" id1="54" id2="328314" version="1065353216">/groan</text>
+		<text bitflag="321" id1="55" id2="328314" version="1065353216">/happy</text>
+		<text bitflag="321" id1="56" id2="328314" version="1065353216">/love</text>
+		<text bitflag="321" id1="57" id2="328314" version="1065353216">/mad</text>
+		<text bitflag="321" id1="58" id2="328314" version="1065353216">/mock</text>
+		<text bitflag="321" id1="59" id2="328314" version="1065353216">/mourn</text>
+		<text bitflag="321" id1="60" id2="328314" version="1065353216">/panic</text>
+		<text bitflag="321" id1="61" id2="328314" version="1065353216">/paranoid</text>
+		<text bitflag="321" id1="62" id2="328314" version="1065353216">/pity</text>
+		<text bitflag="321" id1="63" id2="328314" version="1065353216">/ponder</text>
+		<text bitflag="321" id1="64" id2="328314" version="1065353216">/praise</text>
+		<text bitflag="321" id1="65" id2="328314" version="1065353216">/raving</text>
+		<text bitflag="321" id1="66" id2="328314" version="1065353216">/sexy</text>
+		<text bitflag="321" id1="67" id2="328314" version="1065353216">/shakefist</text>
+		<text bitflag="321" id1="68" id2="328314" version="1065353216">/shy</text>
+		<text bitflag="321" id1="69" id2="328314" version="1065353216">/smile</text>
+		<text bitflag="321" id1="70" id2="328314" version="1065353216">/snicker</text>
+		<text bitflag="321" id1="71" id2="328314" version="1065353216">/tired</text>
+		<text bitflag="321" id1="72" id2="328314" version="1065353216">/whine</text>
+		<text bitflag="321" id1="73" id2="328314" version="1065353216">/wicked</text>
+		<text bitflag="321" id1="74" id2="328314" version="1065353216">/wink</text>
+		<text bitflag="321" id1="75" id2="328314" version="1065353216">/beg</text>
+		<text bitflag="321" id1="76" id2="328314" version="1065353216">/brb</text>
+		<text bitflag="321" id1="77" id2="328314" version="1065353216">/clap</text>
+		<text bitflag="321" id1="78" id2="328314" version="1065353216">/congratulate</text>
+		<text bitflag="321" id1="79" id2="328314" version="1065353216">/cry</text>
+		<text bitflag="321" id1="80" id2="328314" version="1065353216">/dance</text>
+		<text bitflag="321" id1="81" id2="328314" version="1065353216">/doh</text>
+		<text bitflag="321" id1="82" id2="328314" version="1065353216">/flirt</text>
+		<text bitflag="321" id1="83" id2="328314" version="1065353216">/flourish</text>
+		<text bitflag="321" id1="84" id2="328314" version="1065353216">/followme</text>
+		<text bitflag="321" id1="85" id2="328314" version="1065353216">/goodbye</text>
+		<text bitflag="321" id1="86" id2="328314" version="1065353216">/goodjob</text>
+		<text bitflag="321" id1="87" id2="328314" version="1065353216">/hello</text>
+		<text bitflag="321" id1="88" id2="328314" version="1065353216">/laugh</text>
+		<text bitflag="321" id1="89" id2="328314" version="1065353216">/no</text>
+		<text bitflag="321" id1="90" id2="328314" version="1065353216">/point</text>
+		<text bitflag="321" id1="91" id2="328314" version="1065353216">/poke</text>
+		<text bitflag="321" id1="92" id2="328314" version="1065353216">/ready</text>
+		<text bitflag="321" id1="93" id2="328314" version="1065353216">/sigh</text>
+		<text bitflag="321" id1="94" id2="328314" version="1065353216">/sit</text>
+		<text bitflag="321" id1="95" id2="328314" version="1065353216">/slap</text>
+		<text bitflag="321" id1="96" id2="328314" version="1065353216">/sorry</text>
+		<text bitflag="321" id1="97" id2="328314" version="1065353216">/spit</text>
+		<text bitflag="321" id1="98" id2="328314" version="1065353216">/surprised</text>
+		<text bitflag="321" id1="99" id2="328314" version="1065353216">/thank</text>
+		<text bitflag="321" id1="100" id2="328314" version="1065353216">/wait</text>
+		<text bitflag="321" id1="101" id2="328314" version="1065353216">/yes</text>
+		<text bitflag="321" id1="102" id2="328314" version="1065353216">/bow</text>
+		<text bitflag="321" id1="103" id2="328314" version="1065353216">/bowformal</text>
+		<text bitflag="321" id1="104" id2="328314" version="1065353216">/bowrespect</text>
+		<text bitflag="321" id1="105" id2="328314" version="1065353216">/farewell</text>
+		<text bitflag="321" id1="106" id2="328314" version="1065353216">/greet</text>
+		<text bitflag="321" id1="107" id2="328314" version="1065353216">/hey</text>
+		<text bitflag="321" id1="108" id2="328314" version="1065353216">/introduce</text>
+		<text bitflag="321" id1="109" id2="328314" version="1065353216">/wave</text>
+		<text bitflag="321" id1="110" id2="328314" version="1065353216">/welcome</text>
+		<text bitflag="321" id1="111" id2="328314" version="1065353216">/apologize</text>
+		<text bitflag="321" id1="112" id2="328314" version="1065353216">/applaud</text>
+		<text bitflag="321" id1="113" id2="328314" version="1065353216">/beckon</text>
+		<text bitflag="321" id1="114" id2="328314" version="1065353216">/boggle</text>
+		<text bitflag="321" id1="115" id2="328314" version="1065353216">/bravo</text>
+		<text bitflag="321" id1="116" id2="328314" version="1065353216">/cackle</text>
+		<text bitflag="321" id1="117" id2="328314" version="1065353216">/calm</text>
+		<text bitflag="321" id1="118" id2="328314" version="1065353216">/chuckle</text>
+		<text bitflag="321" id1="119" id2="328314" version="1065353216">/cold</text>
+		<text bitflag="321" id1="120" id2="328314" version="1065353216">/commend</text>
+		<text bitflag="321" id1="121" id2="328314" version="1065353216">/confused</text>
+		<text bitflag="321" id1="122" id2="328314" version="1065353216">/console</text>
+		<text bitflag="321" id1="123" id2="328314" version="1065353216">/contemplate</text>
+		<text bitflag="321" id1="124" id2="328314" version="1065353216">/curious</text>
+		<text bitflag="321" id1="125" id2="328314" version="1065353216">/disappoint</text>
+		<text bitflag="321" id1="126" id2="328314" version="1065353216">/doubleguns</text>
+		<text bitflag="321" id1="127" id2="328314" version="1065353216">/fidget</text>
+		<text bitflag="321" id1="128" id2="328314" version="1065353216">/fistbump</text>
+		<text bitflag="321" id1="129" id2="328314" version="1065353216">/flinch</text>
+		<text bitflag="321" id1="130" id2="328314" version="1065353216">/getdown</text>
+		<text bitflag="321" id1="131" id2="328314" version="1065353216">/giggle</text>
+		<text bitflag="321" id1="132" id2="328314" version="1065353216">/gloat</text>
+		<text bitflag="321" id1="133" id2="328314" version="1065353216">/grovel</text>
+		<text bitflag="321" id1="134" id2="328314" version="1065353216">/hug</text>
+		<text bitflag="321" id1="135" id2="328314" version="1065353216">/hungry</text>
+		<text bitflag="321" id1="136" id2="328314" version="1065353216">/impatient</text>
+		<text bitflag="321" id1="137" id2="328314" version="1065353216">/insult</text>
+		<text bitflag="321" id1="138" id2="328314" version="1065353216">/joke</text>
+		<text bitflag="321" id1="139" id2="328314" version="1065353216">/listen</text>
+		<text bitflag="321" id1="140" id2="328314" version="1065353216">/nerfherder</text>
+		<text bitflag="321" id1="141" id2="328314" version="1065353216">/nod</text>
+		<text bitflag="321" id1="142" id2="328314" version="1065353216">/notdroids</text>
+		<text bitflag="321" id1="143" id2="328314" version="1065353216">/paper</text>
+		<text bitflag="321" id1="144" id2="328314" version="1065353216">/plead</text>
+		<text bitflag="321" id1="145" id2="328314" version="1065353216">/puzzled</text>
+		<text bitflag="321" id1="146" id2="328314" version="1065353216">/question</text>
+		<text bitflag="321" id1="147" id2="328314" version="1065353216">/rock</text>
+		<text bitflag="321" id1="148" id2="328314" version="1065353216">/rude</text>
+		<text bitflag="321" id1="149" id2="328314" version="1065353216">/scissors</text>
+		<text bitflag="321" id1="150" id2="328314" version="1065353216">/shiver</text>
+		<text bitflag="321" id1="151" id2="328314" version="1065353216">/shock</text>
+		<text bitflag="321" id1="152" id2="328314" version="1065353216">/shoo</text>
+		<text bitflag="321" id1="153" id2="328314" version="1065353216">/shrug</text>
+		<text bitflag="321" id1="154" id2="328314" version="1065353216">/stare</text>
+		<text bitflag="321" id1="155" id2="328314" version="1065353216">/stretch</text>
+		<text bitflag="321" id1="156" id2="328314" version="1065353216">/taunt</text>
+		<text bitflag="321" id1="157" id2="328314" version="1065353216">/tease</text>
+		<text bitflag="321" id1="158" id2="328314" version="1065353216">/thirsty</text>
+		<text bitflag="321" id1="159" id2="328314" version="1065353216">/thumbsdown</text>
+		<text bitflag="321" id1="160" id2="328314" version="1065353216">/thumbsup</text>
+		<text bitflag="321" id1="161" id2="328314" version="1065353216">/tickle</text>
+		<text bitflag="321" id1="162" id2="328314" version="1065353216">/warmup</text>
+		<text bitflag="321" id1="163" id2="328314" version="1065353216">/whistle</text>
+		<text bitflag="321" id1="164" id2="328314" version="1065353216">/yawn</text>
+		<text bitflag="321" id1="165" id2="328314" version="1065353216">/yay</text>
+		<text bitflag="321" id1="166" id2="328314" version="1065353216">/attacktarget</text>
+		<text bitflag="321" id1="167" id2="328314" version="1065353216">/brandish</text>
+		<text bitflag="321" id1="168" id2="328314" version="1065353216">/catchup</text>
+		<text bitflag="321" id1="169" id2="328314" version="1065353216">/flee</text>
+		<text bitflag="321" id1="170" id2="328314" version="1065353216">/healme</text>
+		<text bitflag="321" id1="171" id2="328314" version="1065353216">/helpme</text>
+		<text bitflag="321" id1="172" id2="328314" version="1065353216">/incoming</text>
+		<text bitflag="321" id1="173" id2="328314" version="1065353216">/oor</text>
+		<text bitflag="321" id1="174" id2="328314" version="1065353216">/openfire</text>
+		<text bitflag="321" id1="175" id2="328314" version="1065353216">/giveup</text>
+		<text bitflag="321" id1="176" id2="328314" version="1065353216">/victory</text>
+		<text bitflag="321" id1="177" id2="328314" version="1065353216">Belch</text>
+		<text bitflag="321" id1="178" id2="328314" version="1065353216">Blink</text>
+		<text bitflag="321" id1="179" id2="328314" version="1065353216">Blow a Kiss</text>
+		<text bitflag="321" id1="180" id2="328314" version="1065353216">Bonk</text>
+		<text bitflag="321" id1="181" id2="328314" version="1065353216">Burp</text>
+		<text bitflag="321" id1="182" id2="328314" version="1065353216">Cheer</text>
+		<text bitflag="321" id1="183" id2="328314" version="1065353216">Club Dance</text>
+		<text bitflag="321" id1="184" id2="328314" version="1065353216">Cough</text>
+		<text bitflag="321" id1="185" id2="328314" version="1065353216">Cringe</text>
+		<text bitflag="321" id1="186" id2="328314" version="1065353216">Drink</text>
+		<text bitflag="321" id1="187" id2="328314" version="1065353216">Duck</text>
+		<text bitflag="321" id1="188" id2="328314" version="1065353216">Eat</text>
+		<text bitflag="321" id1="189" id2="328314" version="1065353216">Flag Down</text>
+		<text bitflag="321" id1="190" id2="328314" version="1065353216">Flap</text>
+		<text bitflag="321" id1="191" id2="328314" version="1065353216">Flex</text>
+		<text bitflag="321" id1="192" id2="328314" version="1065353216">Flip</text>
+		<text bitflag="321" id1="193" id2="328314" version="1065353216">Golf Clap</text>
+		<text bitflag="321" id1="194" id2="328314" version="1065353216">Handstand</text>
+		<text bitflag="321" id1="195" id2="328314" version="1065353216">Kiss</text>
+		<text bitflag="321" id1="196" id2="328314" version="1065353216">Kneel</text>
+		<text bitflag="321" id1="197" id2="328314" version="1065353216">Lie Down</text>
+		<text bitflag="321" id1="198" id2="328314" version="1065353216">Look</text>
+		<text bitflag="321" id1="199" id2="328314" version="1065353216">Meditate</text>
+		<text bitflag="321" id1="200" id2="328314" version="1065353216">Observe</text>
+		<text bitflag="321" id1="201" id2="328314" version="1065353216">Overthere</text>
+		<text bitflag="321" id1="202" id2="328314" version="1065353216">Raise Hand</text>
+		<text bitflag="321" id1="203" id2="328314" version="1065353216">Salute</text>
+		<text bitflag="321" id1="204" id2="328314" version="1065353216">Scratch</text>
+		<text bitflag="321" id1="205" id2="328314" version="1065353216">Sleep</text>
+		<text bitflag="321" id1="206" id2="328314" version="1065353216">Talk</text>
+		<text bitflag="321" id1="207" id2="328314" version="1065353216">Tap</text>
+		<text bitflag="321" id1="208" id2="328314" version="1065353216">Threaten</text>
+		<text bitflag="321" id1="209" id2="328314" version="1065353216">w00t</text>
+		<text bitflag="321" id1="210" id2="328314" version="1065353216">Accuse</text>
+		<text bitflag="321" id1="211" id2="328314" version="1065353216">Angry</text>
+		<text bitflag="321" id1="212" id2="328314" version="1065353216">Blush</text>
+		<text bitflag="321" id1="213" id2="328314" version="1065353216">Bored</text>
+		<text bitflag="321" id1="214" id2="328314" version="1065353216">Comfort</text>
+		<text bitflag="321" id1="215" id2="328314" version="1065353216">Cower</text>
+		<text bitflag="321" id1="216" id2="328314" version="1065353216">Cross Arms</text>
+		<text bitflag="321" id1="217" id2="328314" version="1065353216">Done</text>
+		<text bitflag="321" id1="218" id2="328314" version="1065353216">Excited</text>
+		<text bitflag="321" id1="219" id2="328314" version="1065353216">Facepalm</text>
+		<text bitflag="321" id1="220" id2="328314" version="1065353216">Fear</text>
+		<text bitflag="321" id1="221" id2="328314" version="1065353216">Frown</text>
+		<text bitflag="321" id1="222" id2="328314" version="1065353216">Glare</text>
+		<text bitflag="321" id1="223" id2="328314" version="1065353216">Grin</text>
+		<text bitflag="321" id1="224" id2="328314" version="1065353216">Groan</text>
+		<text bitflag="321" id1="225" id2="328314" version="1065353216">Happy</text>
+		<text bitflag="321" id1="226" id2="328314" version="1065353216">Love</text>
+		<text bitflag="321" id1="227" id2="328314" version="1065353216">Mad</text>
+		<text bitflag="321" id1="228" id2="328314" version="1065353216">Mock</text>
+		<text bitflag="321" id1="229" id2="328314" version="1065353216">Mourn</text>
+		<text bitflag="321" id1="230" id2="328314" version="1065353216">Panic</text>
+		<text bitflag="321" id1="231" id2="328314" version="1065353216">Paranoid</text>
+		<text bitflag="321" id1="232" id2="328314" version="1065353216">Pity</text>
+		<text bitflag="321" id1="233" id2="328314" version="1065353216">Ponder</text>
+		<text bitflag="321" id1="234" id2="328314" version="1065353216">Praise</text>
+		<text bitflag="321" id1="235" id2="328314" version="1065353216">Raving Mad</text>
+		<text bitflag="321" id1="236" id2="328314" version="1065353216">Seduce</text>
+		<text bitflag="321" id1="237" id2="328314" version="1065353216">Fist Shake</text>
+		<text bitflag="321" id1="238" id2="328314" version="1065353216">Shy</text>
+		<text bitflag="321" id1="239" id2="328314" version="1065353216">Smile</text>
+		<text bitflag="321" id1="240" id2="328314" version="1065353216">Snicker</text>
+		<text bitflag="321" id1="241" id2="328314" version="1065353216">Tired</text>
+		<text bitflag="321" id1="242" id2="328314" version="1065353216">Whine</text>
+		<text bitflag="321" id1="243" id2="328314" version="1065353216">Wicked</text>
+		<text bitflag="321" id1="244" id2="328314" version="1065353216">Wink</text>
+		<text bitflag="321" id1="245" id2="328314" version="1065353216">Beg</text>
+		<text bitflag="321" id1="246" id2="328314" version="1065353216">Be Right Back</text>
+		<text bitflag="321" id1="247" id2="328314" version="1065353216">Clap</text>
+		<text bitflag="321" id1="248" id2="328314" version="1065353216">Congratulate</text>
+		<text bitflag="321" id1="249" id2="328314" version="1065353216">Cry</text>
+		<text bitflag="321" id1="250" id2="328314" version="1065353216">Dance</text>
+		<text bitflag="321" id1="251" id2="328314" version="1065353216">Doh</text>
+		<text bitflag="321" id1="252" id2="328314" version="1065353216">Flirt</text>
+		<text bitflag="321" id1="253" id2="328314" version="1065353216">Flourish</text>
+		<text bitflag="321" id1="254" id2="328314" version="1065353216">Follow Me</text>
+		<text bitflag="321" id1="255" id2="328314" version="1065353216">Goodbye</text>
+		<text bitflag="321" id1="256" id2="328314" version="1065353216">Good Job!</text>
+		<text bitflag="321" id1="257" id2="328314" version="1065353216">Hello</text>
+		<text bitflag="321" id1="258" id2="328314" version="1065353216">Laugh</text>
+		<text bitflag="321" id1="259" id2="328314" version="1065353216">No</text>
+		<text bitflag="321" id1="260" id2="328314" version="1065353216">Point</text>
+		<text bitflag="321" id1="261" id2="328314" version="1065353216">Poke</text>
+		<text bitflag="321" id1="262" id2="328314" version="1065353216">Ready!</text>
+		<text bitflag="321" id1="263" id2="328314" version="1065353216">Sigh</text>
+		<text bitflag="321" id1="264" id2="328314" version="1065353216">Sit</text>
+		<text bitflag="321" id1="265" id2="328314" version="1065353216">Slap</text>
+		<text bitflag="321" id1="266" id2="328314" version="1065353216">Sorry</text>
+		<text bitflag="321" id1="267" id2="328314" version="1065353216">Spit</text>
+		<text bitflag="321" id1="268" id2="328314" version="1065353216">Surprised</text>
+		<text bitflag="321" id1="269" id2="328314" version="1065353216">Thank You</text>
+		<text bitflag="321" id1="270" id2="328314" version="1065353216">Wait</text>
+		<text bitflag="321" id1="271" id2="328314" version="1065353216">Yes</text>
+		<text bitflag="321" id1="272" id2="328314" version="1065353216">Bow</text>
+		<text bitflag="321" id1="273" id2="328314" version="1065353216">Formal Bow</text>
+		<text bitflag="321" id1="274" id2="328314" version="1065353216">Respectful Bow</text>
+		<text bitflag="321" id1="275" id2="328314" version="1065353216">Farewell</text>
+		<text bitflag="321" id1="276" id2="328314" version="1065353216">Greet</text>
+		<text bitflag="321" id1="277" id2="328314" version="1065353216">Hey</text>
+		<text bitflag="321" id1="278" id2="328314" version="1065353216">Introduce</text>
+		<text bitflag="321" id1="279" id2="328314" version="1065353216">Wave</text>
+		<text bitflag="321" id1="280" id2="328314" version="1065353216">Welcome</text>
+		<text bitflag="321" id1="281" id2="328314" version="1065353216">Apologize</text>
+		<text bitflag="321" id1="282" id2="328314" version="1065353216">Applaud</text>
+		<text bitflag="321" id1="283" id2="328314" version="1065353216">Beckon</text>
+		<text bitflag="321" id1="284" id2="328314" version="1065353216">Boggle</text>
+		<text bitflag="321" id1="285" id2="328314" version="1065353216">Bravo</text>
+		<text bitflag="321" id1="286" id2="328314" version="1065353216">Cackle</text>
+		<text bitflag="321" id1="287" id2="328314" version="1065353216">Calm</text>
+		<text bitflag="321" id1="288" id2="328314" version="1065353216">Chuckle</text>
+		<text bitflag="321" id1="289" id2="328314" version="1065353216">Cold</text>
+		<text bitflag="321" id1="290" id2="328314" version="1065353216">Commend</text>
+		<text bitflag="321" id1="291" id2="328314" version="1065353216">Confused</text>
+		<text bitflag="321" id1="292" id2="328314" version="1065353216">Console</text>
+		<text bitflag="321" id1="293" id2="328314" version="1065353216">Contemplate</text>
+		<text bitflag="321" id1="294" id2="328314" version="1065353216">Curious</text>
+		<text bitflag="321" id1="295" id2="328314" version="1065353216">Disappoint</text>
+		<text bitflag="321" id1="296" id2="328314" version="1065353216">Double Guns</text>
+		<text bitflag="321" id1="297" id2="328314" version="1065353216">Fidget</text>
+		<text bitflag="321" id1="298" id2="328314" version="1065353216">Fist Bump</text>
+		<text bitflag="321" id1="299" id2="328314" version="1065353216">Flinch</text>
+		<text bitflag="321" id1="300" id2="328314" version="1065353216">Get Down</text>
+		<text bitflag="321" id1="301" id2="328314" version="1065353216">Giggle</text>
+		<text bitflag="321" id1="302" id2="328314" version="1065353216">Gloat</text>
+		<text bitflag="321" id1="303" id2="328314" version="1065353216">Grovel</text>
+		<text bitflag="321" id1="304" id2="328314" version="1065353216">Hug</text>
+		<text bitflag="321" id1="305" id2="328314" version="1065353216">Hungry</text>
+		<text bitflag="321" id1="306" id2="328314" version="1065353216">Impatient</text>
+		<text bitflag="321" id1="307" id2="328314" version="1065353216">Insult</text>
+		<text bitflag="321" id1="308" id2="328314" version="1065353216">Joke</text>
+		<text bitflag="321" id1="309" id2="328314" version="1065353216">Listen</text>
+		<text bitflag="321" id1="310" id2="328314" version="1065353216">Nerfherder</text>
+		<text bitflag="321" id1="311" id2="328314" version="1065353216">Nod</text>
+		<text bitflag="321" id1="312" id2="328314" version="1065353216">Not the Droids</text>
+		<text bitflag="321" id1="313" id2="328314" version="1065353216">Paper</text>
+		<text bitflag="321" id1="314" id2="328314" version="1065353216">Plead</text>
+		<text bitflag="321" id1="315" id2="328314" version="1065353216">Puzzled</text>
+		<text bitflag="321" id1="316" id2="328314" version="1065353216">Question</text>
+		<text bitflag="321" id1="317" id2="328314" version="1065353216">Rock</text>
+		<text bitflag="321" id1="318" id2="328314" version="1065353216">Rude</text>
+		<text bitflag="321" id1="319" id2="328314" version="1065353216">Scissors</text>
+		<text bitflag="321" id1="320" id2="328314" version="1065353216">Shiver</text>
+		<text bitflag="321" id1="321" id2="328314" version="1065353216">Shock</text>
+		<text bitflag="321" id1="322" id2="328314" version="1065353216">Shoo</text>
+		<text bitflag="321" id1="323" id2="328314" version="1065353216">Shrug</text>
+		<text bitflag="321" id1="324" id2="328314" version="1065353216">Stare</text>
+		<text bitflag="321" id1="325" id2="328314" version="1065353216">Stretch</text>
+		<text bitflag="321" id1="326" id2="328314" version="1065353216">Taunt</text>
+		<text bitflag="321" id1="327" id2="328314" version="1065353216">Tease</text>
+		<text bitflag="321" id1="328" id2="328314" version="1065353216">Thirsty</text>
+		<text bitflag="321" id1="329" id2="328314" version="1065353216">Thumbs Down</text>
+		<text bitflag="321" id1="330" id2="328314" version="1065353216">Thumb Up</text>
+		<text bitflag="321" id1="331" id2="328314" version="1065353216">Tickle</text>
+		<text bitflag="321" id1="332" id2="328314" version="1065353216">Warm Up</text>
+		<text bitflag="321" id1="333" id2="328314" version="1065353216">Whistle</text>
+		<text bitflag="321" id1="334" id2="328314" version="1065353216">Yawn</text>
+		<text bitflag="321" id1="335" id2="328314" version="1065353216">Yay!</text>
+		<text bitflag="321" id1="336" id2="328314" version="1065353216">Attack the Target</text>
+		<text bitflag="321" id1="337" id2="328314" version="1065353216">Brandish</text>
+		<text bitflag="321" id1="338" id2="328314" version="1065353216">Catch Up</text>
+		<text bitflag="321" id1="339" id2="328314" version="1065353216">Flee</text>
+		<text bitflag="321" id1="340" id2="328314" version="1065353216">Heal Me!</text>
+		<text bitflag="321" id1="341" id2="328314" version="1065353216">Help Me!</text>
+		<text bitflag="321" id1="342" id2="328314" version="1065353216">Incoming!</text>
+		<text bitflag="321" id1="343" id2="328314" version="1065353216">Out of Resources</text>
+		<text bitflag="321" id1="344" id2="328314" version="1065353216">Open Fire!</text>
+		<text bitflag="321" id1="345" id2="328314" version="1065353216">Give Up</text>
+		<text bitflag="321" id1="346" id2="328314" version="1065353216">Victory!</text>
+		<text bitflag="321" id1="5347" id2="328314" version="1065353216">Ironfist</text>
+		<text bitflag="321" id1="5349" id2="328314" version="1065353216">Mood</text>
+		<text bitflag="321" id1="5350" id2="328314" version="1065353216">Neutral</text>
+		<text bitflag="321" id1="5351" id2="328314" version="1065353216">Alarmed</text>
+		<text bitflag="321" id1="5352" id2="328314" version="1065353216">Angered</text>
+		<text bitflag="321" id1="5353" id2="328314" version="1065353216">Annoyed</text>
+		<text bitflag="321" id1="5354" id2="328314" version="1065353216">Astounded</text>
+		<text bitflag="321" id1="5355" id2="328314" version="1065353216">Awed</text>
+		<text bitflag="321" id1="5356" id2="328314" version="1065353216">Cheery</text>
+		<text bitflag="321" id1="5357" id2="328314" version="1065353216">Dejected</text>
+		<text bitflag="321" id1="5358" id2="328314" version="1065353216">Depressed</text>
+		<text bitflag="321" id1="5359" id2="328314" version="1065353216">Disdained</text>
+		<text bitflag="321" id1="5360" id2="328314" version="1065353216">Discomforted</text>
+		<text bitflag="321" id1="5361" id2="328314" version="1065353216">Eager</text>
+		<text bitflag="321" id1="5362" id2="328314" version="1065353216">Ecstatic</text>
+		<text bitflag="321" id1="5363" id2="328314" version="1065353216">Enraged</text>
+		<text bitflag="321" id1="5364" id2="328314" version="1065353216">Fearful</text>
+		<text bitflag="321" id1="5365" id2="328314" version="1065353216">Flattered</text>
+		<text bitflag="321" id1="5366" id2="328314" version="1065353216">Frustrated</text>
+		<text bitflag="321" id1="5367" id2="328314" version="1065353216">Hurt</text>
+		<text bitflag="321" id1="5368" id2="328314" version="1065353216">Joyful</text>
+		<text bitflag="321" id1="5369" id2="328314" version="1065353216">Meditative</text>
+		<text bitflag="321" id1="5370" id2="328314" version="1065353216">Mournful</text>
+		<text bitflag="321" id1="5371" id2="328314" version="1065353216">Pained</text>
+		<text bitflag="321" id1="5372" id2="328314" version="1065353216">Saddened</text>
+		<text bitflag="321" id1="5373" id2="328314" version="1065353216">Scowling</text>
+		<text bitflag="321" id1="5374" id2="328314" version="1065353216">Sly</text>
+		<text bitflag="321" id1="5375" id2="328314" version="1065353216">Snide</text>
+		<text bitflag="321" id1="5376" id2="328314" version="1065353216">Stunned</text>
+		<text bitflag="321" id1="5377" id2="328314" version="1065353216">Terrified</text>
+		<text bitflag="321" id1="5380" id2="328314" version="1065353216">/neutral</text>
+		<text bitflag="321" id1="5381" id2="328314" version="1065353216">/alarmed</text>
+		<text bitflag="321" id1="5382" id2="328314" version="1065353216">/angered</text>
+		<text bitflag="321" id1="5383" id2="328314" version="1065353216">/annoyed</text>
+		<text bitflag="321" id1="5384" id2="328314" version="1065353216">/astounded</text>
+		<text bitflag="321" id1="5385" id2="328314" version="1065353216">/awed</text>
+		<text bitflag="321" id1="5386" id2="328314" version="1065353216">/cheery</text>
+		<text bitflag="321" id1="5387" id2="328314" version="1065353216">/dejected</text>
+		<text bitflag="321" id1="5388" id2="328314" version="1065353216">/depressed</text>
+		<text bitflag="321" id1="5389" id2="328314" version="1065353216">/disdained</text>
+		<text bitflag="321" id1="5390" id2="328314" version="1065353216">/discomforted</text>
+		<text bitflag="321" id1="5391" id2="328314" version="1065353216">/eager</text>
+		<text bitflag="321" id1="5392" id2="328314" version="1065353216">/ecstatic</text>
+		<text bitflag="321" id1="5393" id2="328314" version="1065353216">/enraged</text>
+		<text bitflag="321" id1="5394" id2="328314" version="1065353216">/fearful</text>
+		<text bitflag="321" id1="5395" id2="328314" version="1065353216">/flattered</text>
+		<text bitflag="321" id1="5396" id2="328314" version="1065353216">/frustrated</text>
+		<text bitflag="321" id1="5397" id2="328314" version="1065353216">/hurt</text>
+		<text bitflag="321" id1="5398" id2="328314" version="1065353216">/joyful</text>
+		<text bitflag="321" id1="5399" id2="328314" version="1065353216">/meditative</text>
+		<text bitflag="321" id1="5400" id2="328314" version="1065353216">/mournful</text>
+		<text bitflag="321" id1="5401" id2="328314" version="1065353216">/pained</text>
+		<text bitflag="321" id1="5402" id2="328314" version="1065353216">/saddened</text>
+		<text bitflag="321" id1="5403" id2="328314" version="1065353216">/scowling</text>
+		<text bitflag="321" id1="5404" id2="328314" version="1065353216">/sly</text>
+		<text bitflag="321" id1="5405" id2="328314" version="1065353216">/snide</text>
+		<text bitflag="321" id1="5406" id2="328314" version="1065353216">/stunned</text>
+		<text bitflag="321" id1="5407" id2="328314" version="1065353216">/terrified</text>
+		<text bitflag="321" id1="5411" id2="328314" version="1065353216">/ironfist</text>
+		<text bitflag="321" id1="5412" id2="328314" version="1065353216">Bop</text>
+		<text bitflag="321" id1="5413" id2="328314" version="1065353216">Swing</text>
+		<text bitflag="321" id1="5414" id2="328314" version="1065353216">Boogie</text>
+		<text bitflag="321" id1="5415" id2="328314" version="1065353216">Groove</text>
+		<text bitflag="321" id1="5416" id2="328314" version="1065353216">/bop</text>
+		<text bitflag="321" id1="5417" id2="328314" version="1065353216">/swing</text>
+		<text bitflag="321" id1="5418" id2="328314" version="1065353216">/boogie</text>
+		<text bitflag="321" id1="5419" id2="328314" version="1065353216">/groove</text>
+		<text bitflag="321" id1="5420" id2="328314" version="1065353216">/intimidate</text>
+		<text bitflag="321" id1="5421" id2="328314" version="1065353216">Intimidate</text>
+		<text bitflag="321" id1="5422" id2="328314" version="1065353216">Menace</text>
+		<text bitflag="321" id1="5423" id2="328314" version="1065353216">/menace</text>
+		<text bitflag="321" id1="5424" id2="328314" version="1065353216">Superflex</text>
+		<text bitflag="321" id1="5425" id2="328314" version="1065353216">/superflex</text>
+		<text bitflag="321" id1="5426" id2="328314" version="1065353216">Backflip</text>
+		<text bitflag="321" id1="5427" id2="328314" version="1065353216">/backflip</text>
+		<text bitflag="321" id1="5428" id2="328314" version="1065353216">Boo-Hoo</text>
+		<text bitflag="321" id1="5429" id2="328314" version="1065353216">/boohoo</text>
+		<text bitflag="321" id1="5430" id2="328314" version="1065353216">Point and Laugh</text>
+		<text bitflag="321" id1="5431" id2="328314" version="1065353216">/pointlaugh</text>
+		<text bitflag="321" id1="5432" id2="328314" version="1065353216">/indignant</text>
+		<text bitflag="321" id1="5433" id2="328314" version="1065353216">/furious</text>
+		<text bitflag="321" id1="5434" id2="328314" version="1065353216">Furious</text>
+		<text bitflag="321" id1="5435" id2="328314" version="1065353216">Indignant</text>
+		<text bitflag="321" id1="5436" id2="328314" version="1065353216">Xantha</text>
+		<text bitflag="321" id1="5437" id2="328314" version="1065353216">Kloo</text>
+		<text bitflag="321" id1="5438" id2="328314" version="1065353216">/xantha</text>
+		<text bitflag="321" id1="5439" id2="328314" version="1065353216">/kloo</text>
+		<text bitflag="321" id1="5440" id2="328314" version="1065353216">Beach Party</text>
+		<text bitflag="321" id1="5441" id2="328314" version="1065353216">Fist Pump</text>
+		<text bitflag="321" id1="5442" id2="328314" version="1065353216">/beachparty</text>
+		<text bitflag="321" id1="5443" id2="328314" version="1065353216">/fistpump</text>
+		<text bitflag="321" id1="5444" id2="328314" version="1065353216">/goofy</text>
+		<text bitflag="321" id1="5445" id2="328314" version="1065353216">/disrespectful</text>
+		<text bitflag="321" id1="5446" id2="328314" version="1065353216">/skeptical</text>
+		<text bitflag="321" id1="5447" id2="328314" version="1065353216">Goofy</text>
+		<text bitflag="321" id1="5448" id2="328314" version="1065353216">Disrespectful</text>
+		<text bitflag="321" id1="5449" id2="328314" version="1065353216">Skeptical</text>
+		<text bitflag="321" id1="5450" id2="328314" version="1065353216">Woohoo</text>
+		<text bitflag="321" id1="5451" id2="328314" version="1065353216">/woohoo</text>
+		<text bitflag="321" id1="5452" id2="328314" version="1065353216">Jig</text>
+		<text bitflag="321" id1="5453" id2="328314" version="1065353216">/jig</text>
+		<text bitflag="321" id1="5454" id2="328314" version="1065353216">Creepy</text>
+		<text bitflag="321" id1="5455" id2="328314" version="1065353216">/creepy</text>
+		<text bitflag="321" id1="5457" id2="328314" version="1065353216">/style</text>
+		<text bitflag="321" id1="5458" id2="328314" version="1065353216">Style</text>
+		<text bitflag="321" id1="5459" id2="328314" version="1065353216">/slowclap</text>
+		<text bitflag="321" id1="5460" id2="328314" version="1065353216">Slow Clap</text>
+		<text bitflag="321" id1="5461" id2="328314" version="1065353216">/restless</text>
+		<text bitflag="321" id1="5462" id2="328314" version="1065353216">Restless</text>
+		<text bitflag="321" id1="5463" id2="328314" version="1065353216">/outraged</text>
+		<text bitflag="321" id1="5464" id2="328314" version="1065353216">Outraged</text>
+		<text bitflag="321" id1="5465" id2="328314" version="1065353216">/whatup</text>
+		<text bitflag="321" id1="5466" id2="328314" version="1065353216">What Up</text>
+		<text bitflag="321" id1="5467" id2="328314" version="1065353216">/droid</text>
+		<text bitflag="321" id1="5468" id2="328314" version="1065353216">Droid</text>
+		<text bitflag="321" id1="5469" id2="328314" version="1065353216">/heelclick</text>
+		<text bitflag="321" id1="5470" id2="328314" version="1065353216">Heel Click</text>
+		<text bitflag="321" id1="5471" id2="328314" version="1065353216">/chicken</text>
+		<text bitflag="321" id1="5472" id2="328314" version="1065353216">Chicken</text>
+		<text bitflag="321" id1="5473" id2="328314" version="1065353216">Chair 2</text>
+		<text bitflag="321" id1="5474" id2="328314" version="1065353216">/chair2</text>
+		<text bitflag="321" id1="5475" id2="328314" version="1065353216">Chair 1</text>
+		<text bitflag="321" id1="5476" id2="328314" version="1065353216">/chair1</text>
+		<text bitflag="321" id1="5477" id2="328314" version="1065353216">Sing</text>
+		<text bitflag="321" id1="5478" id2="328314" version="1065353216">/sing</text>
+		<text bitflag="321" id1="5479" id2="328314" version="1065353216">Possessed</text>
+		<text bitflag="321" id1="5480" id2="328314" version="1065353216">/possessed</text>
+		<text bitflag="321" id1="5481" id2="328314" version="1065353216">Chair 3</text>
+		<text bitflag="321" id1="5482" id2="328314" version="1065353216">/chair3</text>
+		<text bitflag="321" id1="5483" id2="328314" version="1065353216">Chair 4</text>
+		<text bitflag="321" id1="5484" id2="328314" version="1065353216">/chair4</text>
+		<text bitflag="321" id1="5485" id2="328314" version="1065353216">Spike</text>
+		<text bitflag="321" id1="5486" id2="328314" version="1065353216">/spike</text>
+		<text bitflag="321" id1="5487" id2="328314" version="1065353216">Victory Wave</text>
+		<text bitflag="321" id1="5488" id2="328314" version="1065353216">/victorywave</text>
+		<text bitflag="321" id1="5489" id2="328314" version="1065353216">/rdy</text>
+		<text bitflag="321" id1="5490" id2="328314" version="1065353216">/airpunch</text>
+		<text bitflag="321" id1="5491" id2="328314" version="1065353216">Air Punch</text>
+		<text bitflag="321" id1="5492" id2="328314" version="1065353216">/headbob</text>
+		<text bitflag="321" id1="5493" id2="328314" version="1065353216">Head Bob</text>
+		<text bitflag="321" id1="5494" id2="328314" version="1065353216">/boxing</text>
+		<text bitflag="321" id1="5495" id2="328314" version="1065353216">Boxing</text>
+		<text bitflag="321" id1="5496" id2="328314" version="1065353216">Funky</text>
+		<text bitflag="321" id1="5497" id2="328314" version="1065353216">/funky</text>
+		<text bitflag="321" id1="5498" id2="328314" version="1065353216">/nodoff</text>
+		<text bitflag="321" id1="5499" id2="328314" version="1065353216">Nod Off</text>
+		<text bitflag="321" id1="5500" id2="328314" version="1065353216">/toetouch</text>
+		<text bitflag="321" id1="5501" id2="328314" version="1065353216">Toe Touch</text>
+		<text bitflag="321" id1="5502" id2="328314" version="1065353216">/pbj</text>
+		<text bitflag="321" id1="5503" id2="328314" version="1065353216">PBJ Time</text>
+		<text bitflag="321" id1="5504" id2="328314" version="1065353216">/runningman</text>
+		<text bitflag="321" id1="5505" id2="328314" version="1065353216">Running Man</text>
+		<text bitflag="321" id1="5506" id2="328314" version="1065353216">/armscrossed</text>
+		<text bitflag="321" id1="5507" id2="328314" version="1065353216">Arms Crossed</text>
+		<text bitflag="321" id1="5508" id2="328314" version="1065353216">Freezing</text>
+		<text bitflag="321" id1="5509" id2="328314" version="1065353216">/freezing</text>
+		<text bitflag="321" id1="5510" id2="328314" version="1065353216">/chilly</text>
+		<text bitflag="321" id1="5511" id2="328314" version="1065353216">Chilly</text>
+		<text bitflag="321" id1="5512" id2="328314" version="1065353216">/starslide</text>
+		<text bitflag="321" id1="5513" id2="328314" version="1065353216">Starslide</text>
+		<text bitflag="321" id1="5514" id2="328314" version="1065353216">/cobalt</text>
+		<text bitflag="321" id1="5515" id2="328314" version="1065353216">Cobalt Durasteel</text>
+		<text bitflag="321" id1="5516" id2="328314" version="1065353216">/crying</text>
+		<text bitflag="321" id1="5517" id2="328314" version="1065353216">Crying</text>
+		<text bitflag="321" id1="5518" id2="328314" version="1065353216">/dejarik</text>
+		<text bitflag="321" id1="5519" id2="328314" version="1065353216">Dejarik</text>
+		<text bitflag="321" id1="5520" id2="328314" version="1065353216">/recline</text>
+		<text bitflag="321" id1="5521" id2="328314" version="1065353216">Recline</text>
+		<text bitflag="321" id1="5522" id2="328314" version="1065353216">/lepihop</text>
+		<text bitflag="321" id1="5523" id2="328314" version="1065353216">Lepi Hop</text>
+		<text bitflag="321" id1="5524" id2="328314" version="1065353216">/chair5</text>
+		<text bitflag="321" id1="5525" id2="328314" version="1065353216">Chair 5</text>
+		<text bitflag="321" id1="5526" id2="328314" version="1065353216">Holo Hoop</text>
+		<text bitflag="321" id1="5527" id2="328314" version="1065353216">/holohoop</text>
+		<text bitflag="321" id1="5528" id2="328314" version="1065353216">Holo Hoop 2</text>
+		<text bitflag="321" id1="5529" id2="328314" version="1065353216">/holohoop2</text>
+		<text bitflag="321" id1="5530" id2="328314" version="1065353216">/fresh</text>
+		<text bitflag="321" id1="5531" id2="328314" version="1065353216">Fresh</text>
+		<text bitflag="321" id1="5532" id2="328314" version="1065353216">Bound</text>
+		<text bitflag="321" id1="5533" id2="328314" version="1065353216">/bound</text>
+		<text bitflag="321" id1="5534" id2="328314" version="1065353216">/waltz</text>
+		<text bitflag="321" id1="5535" id2="328314" version="1065353216">Waltz</text>
+		<text bitflag="321" id1="5536" id2="328314" version="1065353216">/pout</text>
+		<text bitflag="321" id1="5537" id2="328314" version="1065353216">Pout</text>
+		<text bitflag="321" id1="5538" id2="328314" version="1065353216">Smuggler Shuffle</text>
+		<text bitflag="321" id1="5539" id2="328314" version="1065353216">/smugglershuffle</text>
+		<text bitflag="321" id1="5540" id2="328314" version="1065353216">/romanceshuffle</text>
+		<text bitflag="321" id1="5541" id2="328314" version="1065353216">Romance Shuffle</text>
+		<text bitflag="321" id1="5542" id2="328314" version="1065353216">/chair6</text>
+		<text bitflag="321" id1="5543" id2="328314" version="1065353216">Chair 6</text>
+		<text bitflag="321" id1="5544" id2="328314" version="1065353216">Dud</text>
+		<text bitflag="321" id1="5545" id2="328314" version="1065353216">/dud</text>
+		<text bitflag="321" id1="5546" id2="328314" version="1065353216">/jawaface</text>
+		<text bitflag="321" id1="5547" id2="328314" version="1065353216">Jawa Face</text>
+		<text bitflag="321" id1="5548" id2="328314" version="1065353216">What Up 2</text>
+		<text bitflag="321" id1="5549" id2="328314" version="1065353216">/whatup2</text>
+		<text bitflag="321" id1="5550" id2="328314" version="1065353216">Typing</text>
+		<text bitflag="321" id1="5551" id2="328314" version="1065353216">/typing</text>
+		<text bitflag="321" id1="5552" id2="328314" version="1065353216">Belt Check</text>
+		<text bitflag="321" id1="5553" id2="328314" version="1065353216">/beltcheck</text>
+		<text bitflag="321" id1="5554" id2="328314" version="1065353216">Celebrate</text>
+		<text bitflag="321" id1="5555" id2="328314" version="1065353216">/celebrate</text>
+		<text bitflag="321" id1="5556" id2="328314" version="1065353216">Clawbird Kick</text>
+		<text bitflag="321" id1="5557" id2="328314" version="1065353216">/clawbirdkick</text>
+		<text bitflag="321" id1="5558" id2="328314" version="1065353216">Punch Dance</text>
+		<text bitflag="321" id1="5559" id2="328314" version="1065353216">/punchdance</text>
+		<text bitflag="321" id1="5560" id2="328314" version="1065353216">Think</text>
+		<text bitflag="321" id1="5561" id2="328314" version="1065353216">/think</text>
+		<text bitflag="321" id1="5562" id2="328314" version="1065353216">Cheer 2</text>
+		<text bitflag="321" id1="5563" id2="328314" version="1065353216">/cheer2</text>
+		<text bitflag="321" id1="5564" id2="328314" version="1065353216">Traditional</text>
+		<text bitflag="321" id1="5565" id2="328314" version="1065353216">/traditional</text>
+		<text bitflag="321" id1="5566" id2="328314" version="1065353216">Fist Pump 2</text>
+		<text bitflag="321" id1="5567" id2="328314" version="1065353216">/fistpump2</text>
+		<text bitflag="321" id1="5568" id2="328314" version="1065353216">Head Bang</text>
+		<text bitflag="321" id1="5569" id2="328314" version="1065353216">/headbang</text>
+		<text bitflag="321" id1="5570" id2="328314" version="1065353216">Sit Cold</text>
+		<text bitflag="321" id1="5571" id2="328314" version="1065353216">/sitcold</text>
+		<text bitflag="321" id1="5572" id2="328314" version="1065353216">Cantina Fight</text>
+		<text bitflag="321" id1="5573" id2="328314" version="1065353216">/cantinafight</text>
+		<text bitflag="321" id1="5574" id2="328314" version="1065353216">Thrash</text>
+		<text bitflag="321" id1="5575" id2="328314" version="1065353216">/thrash</text>
+		<text bitflag="321" id1="5576" id2="328314" version="1065353216">Handstand Heel Click</text>
+		<text bitflag="321" id1="5577" id2="328314" version="1065353216">/handstandheelclick</text>
+		<text bitflag="321" id1="5578" id2="328314" version="1065353216">Joy</text>
+		<text bitflag="321" id1="5579" id2="328314" version="1065353216">/joy</text>
+		<text bitflag="321" id1="5580" id2="328314" version="1065353216">Fisticuffs</text>
+		<text bitflag="321" id1="5581" id2="328314" version="1065353216">/fisticuffs</text>
+		<text bitflag="321" id1="5582" id2="328314" version="1065353216">Sneak</text>
+		<text bitflag="321" id1="5583" id2="328314" version="1065353216">/sneak</text>
+		<text bitflag="321" id1="5584" id2="328314" version="1065353216">Sit Hot</text>
+		<text bitflag="321" id1="5585" id2="328314" version="1065353216">/sithot</text>
+		<text bitflag="321" id1="5586" id2="328314" version="1065353216">Sinister</text>
+		<text bitflag="321" id1="5587" id2="328314" version="1065353216">/sinister</text>
+		<text bitflag="321" id1="5588" id2="328314" version="1065353216">Dodge</text>
+		<text bitflag="321" id1="5589" id2="328314" version="1065353216">/dodge</text>
+		<text bitflag="321" id1="5590" id2="328314" version="1065353216">Crazy Talk</text>
+		<text bitflag="321" id1="5591" id2="328314" version="1065353216">/crazytalk</text>
+		<text bitflag="321" id1="5592" id2="328314" version="1065353216">Hip Dip</text>
+		<text bitflag="321" id1="5593" id2="328314" version="1065353216">/hipdip</text>
+		<text bitflag="321" id1="5594" id2="328314" version="1065353216">Out of breath</text>
+		<text bitflag="321" id1="5595" id2="328314" version="1065353216">/outofbreath</text>
+		<text bitflag="321" id1="5596" id2="328314" version="1065353216">Faint</text>
+		<text bitflag="321" id1="5597" id2="328314" version="1065353216">/faint</text>
+		<text bitflag="321" id1="5598" id2="328314" version="1065353216">Tihaar</text>
+		<text bitflag="321" id1="5599" id2="328314" version="1065353216">/tihaar</text>
+		<text bitflag="321" id1="5600" id2="328314" version="1065353216">/chair</text>
+		<text bitflag="321" id1="5601" id2="328314" version="1065353216">Chair</text>
+		<text bitflag="321" id1="5602" id2="328314" version="1065353216">Dances</text>
+		<text bitflag="321" id1="5603" id2="328314" version="1065353216">Chairs and Sitting</text>
+		<text bitflag="321" id1="5604" id2="328314" version="1065353216">Celebration</text>
+		<text bitflag="321" id1="5605" id2="328314" version="1065353216">Showing Off</text>
+		<text bitflag="321" id1="5606" id2="328314" version="1065353216">Communication</text>
+		<text bitflag="321" id1="5607" id2="328314" version="1065353216">/bottlebreak</text>
+		<text bitflag="321" id1="5608" id2="328314" version="1065353216">Bottle Break</text>
+		<text bitflag="321" id1="5609" id2="328314" version="1065353216">Angry Dance</text>
+		<text bitflag="321" id1="5610" id2="328314" version="1065353216">/angrydance</text>
+		<text bitflag="321" id1="5611" id2="328314" version="1065353216">Mind Prison Spin</text>
+		<text bitflag="321" id1="5612" id2="328314" version="1065353216">/mindprisonspin</text>
+		<text bitflag="321" id1="5613" id2="328314" version="1065353216">Sinister2</text>
+		<text bitflag="321" id1="5614" id2="328314" version="1065353216">/sinister</text>
+		<text bitflag="321" id1="5615" id2="328314" version="1065353216">Worthy</text>
+		<text bitflag="321" id1="5616" id2="328314" version="1065353216">/worthy</text>
+		<text bitflag="321" id1="5617" id2="328314" version="1065353216">Punt</text>
+		<text bitflag="321" id1="5618" id2="328314" version="1065353216">/punt</text>
+		<text bitflag="321" id1="5619" id2="328314" version="1065353216">/nobones</text>
+		<text bitflag="321" id1="5620" id2="328314" version="1065353216">No Bones</text>
+		<text bitflag="321" id1="5621" id2="328314" version="1065353216">/yippee</text>
+		<text bitflag="321" id1="5622" id2="328314" version="1065353216">Yippee</text>
+		<text bitflag="321" id1="5623" id2="328314" version="1065353216">/battleplan</text>
+		<text bitflag="321" id1="5624" id2="328314" version="1065353216">Battle Plan</text>
+		<text bitflag="321" id1="5625" id2="328314" version="1065353216">Search</text>
+		<text bitflag="321" id1="5626" id2="328314" version="1065353216">/search</text>
+		<text bitflag="321" id1="5627" id2="328314" version="1065353216">Sweep</text>
+		<text bitflag="321" id1="5628" id2="328314" version="1065353216">/sweep</text>
+		<text bitflag="321" id1="5629" id2="328314" version="1065353216">Pickaxe</text>
+		<text bitflag="321" id1="5630" id2="328314" version="1065353216">/pickaxe</text>
+		<text bitflag="321" id1="5631" id2="328314" version="1065353216">Shovel</text>
+		<text bitflag="321" id1="5632" id2="328314" version="1065353216">/shovel</text>
+		<text bitflag="321" id1="5633" id2="328314" version="1065353216">Air Control</text>
+		<text bitflag="321" id1="5634" id2="328314" version="1065353216">/aircontrol</text>
+		<text bitflag="321" id1="5635" id2="328314" version="1065353216">Air Drums</text>
+		<text bitflag="321" id1="5636" id2="328314" version="1065353216">/airdrums</text>
+		<text bitflag="321" id1="5637" id2="328314" version="1065353216">/standatease</text>
+		<text bitflag="321" id1="5638" id2="328314" version="1065353216">Stand at Ease</text>
+		<text bitflag="321" id1="5639" id2="328314" version="1065353216">Golf Swing</text>
+		<text bitflag="321" id1="5640" id2="328314" version="1065353216">/golfswing</text>
+		<text bitflag="321" id1="5641" id2="328314" version="1065353216">/chair9</text>
+		<text bitflag="321" id1="5642" id2="328314" version="1065353216">Chair 9</text>
+		<text bitflag="321" id1="5643" id2="328314" version="1065353216">/chair10</text>
+		<text bitflag="321" id1="5644" id2="328314" version="1065353216">Chair 10</text>
+		<text bitflag="321" id1="5645" id2="328314" version="1065353216">Unconvincing Performance</text>
+		<text bitflag="321" id1="5646" id2="328314" version="1065353216">/perform</text>
+		<text bitflag="321" id1="5647" id2="328314" version="1065353216">/empoweredshuffle</text>
+		<text bitflag="321" id1="5648" id2="328314" version="1065353216">Empowered Shuffle</text>
+		<text bitflag="321" id1="5649" id2="328314" version="1065353216">/child</text>
+		<text bitflag="321" id1="5650" id2="328314" version="1065353216">Excited Child</text>
+		<text bitflag="321" id1="5651" id2="328314" version="1065353216">/omg</text>
+		<text bitflag="321" id1="5652" id2="328314" version="1065353216">OMG</text>
+		<text bitflag="321" id1="5653" id2="328314" version="1065353216">/fever2</text>
+		<text bitflag="321" id1="5654" id2="328314" version="1065353216">Dance Fever 2</text>
+		<text bitflag="321" id1="5655" id2="328314" version="1065353216">/fever</text>
+		<text bitflag="321" id1="5656" id2="328314" version="1065353216">Dance Fever</text>
+		<text bitflag="321" id1="5657" id2="328314" version="1065353216">Beat Chest</text>
+		<text bitflag="321" id1="5658" id2="328314" version="1065353216">/bchest</text>
+		<text bitflag="321" id1="5659" id2="328314" version="1065353216">Bicep Kiss</text>
+		<text bitflag="321" id1="5660" id2="328314" version="1065353216">/bkiss</text>
+		<text bitflag="321" id1="5661" id2="328314" version="1065353216">/scare</text>
+		<text bitflag="321" id1="5662" id2="328314" version="1065353216">Scare</text>
+		<text bitflag="321" id1="5663" id2="328314" version="1065353216">/cartwheel</text>
+		<text bitflag="321" id1="5664" id2="328314" version="1065353216">Cartwheel</text>
+		<text bitflag="321" id1="5665" id2="328314" version="1065353216">Salsa</text>
+		<text bitflag="321" id1="5666" id2="328314" version="1065353216">/salsa</text>
+		<text bitflag="321" id1="5667" id2="328314" version="1065353216">Double Thumbs</text>
+		<text bitflag="321" id1="5668" id2="328314" version="1065353216">/2xthumbs</text>
+	</file_content>
+</stb_file>

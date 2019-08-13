@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/gui/bug.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="6000" id2="194649" version="1065353216">Enter your issue report</text>
+		<text bitflag="321" id1="6001" id2="194649" version="1065353216">Thank you for your feedback. Please fill out all sections to help ensure this issue gets promptly reviewed and resolved.</text>
+		<text bitflag="321" id1="6002" id2="194649" version="1065353216">Topics</text>
+		<text bitflag="321" id1="6003" id2="194649" version="1065353216">Details (Please give all available information to find and reproduce this issue). [&lt;&lt;1&gt;&gt; limit]</text>
+		<text bitflag="321" id1="6004" id2="194649" version="1065353216">Attach Screenshot</text>
+		<text bitflag="321" id1="6005" id2="194649" version="1065353216">General</text>
+		<text bitflag="321" id1="6006" id2="194649" version="1065353216">Art</text>
+		<text bitflag="321" id1="6007" id2="194649" version="1065353216">Combat</text>
+		<text bitflag="321" id1="6008" id2="194649" version="1065353216">Spawning / Creatures / Items</text>
+		<text bitflag="321" id1="6009" id2="194649" version="1065353216">Conversations / Missions</text>
+		<text bitflag="321" id1="6010" id2="194649" version="1065353216">Sound / Voiceover</text>
+		<text bitflag="321" id1="6011" id2="194649" version="1065353216">Performance</text>
+		<text bitflag="321" id1="6012" id2="194649" version="1065353216">User Interface</text>
+		<text bitflag="321" id1="6013" id2="194649" version="1065353216">Submit</text>
+		<text bitflag="321" id1="6014" id2="194649" version="1065353216">Cancel</text>
+		<text bitflag="321" id1="6015" id2="194649" version="1065353216">User Screenshot</text>
+	</file_content>
+</stb_file>

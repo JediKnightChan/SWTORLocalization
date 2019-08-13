@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>109</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/camp/master_ranos.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1213243" id2="17" version="1065353216">Jedi Master Dazh Ranos. Heard good things about you, Commander. Savior of the galaxy. Leader of the Alliance. Hope you live up to the hype.</text>
+		<text bitflag="1345" id1="1213244" id2="17" version="1065353216">Pretty crowded in this camp. Not used to being around this many people, I guess. Don't worry--I'll get over it.</text>
+		<text bitflag="1345" id1="1213246" id2="17" version="1065353216">Jedi Master Dazh Ranos. Have to admit, I almost didn't come. You don't have the best reputation. Real servant of the dark side, or so I hear.</text>
+		<text bitflag="1345" id1="1213257" id2="17" version="1065353216">Been working on my own for a long time. Even before the Jedi Council collapsed and the rest of my Order scattered.</text>
+		<text bitflag="1345" id1="1213260" id2="17" version="1065353216">But you're building something special here, and I want to be part of it. So sign me up.</text>
+		<text bitflag="321" id1="1213261" id2="17" version="1065353216">Glad to have you join us. Welcome aboard.</text>
+		<text bitflag="321" id1="1213262" id2="17" version="1065353216">[INVESTIGATE] Tell me more about yourself.</text>
+		<text bitflag="321" id1="1213263" id2="17" version="1065353216">[INVESTIGATE] Do you know what happened to the rest of the Jedi?</text>
+		<text bitflag="321" id1="1213264" id2="17" version="1065353216">I don't want someone like you as part of my Alliance.</text>
+		<text bitflag="1345" id1="1213265" id2="17" version="1065353216">Well, I'm a Jedi, but don't hold that against me. Never really fit in with the Order anyway.</text>
+		<text bitflag="1345" id1="1213266" id2="17" version="1065353216">I'm a Jedi, like you. Well, maybe not quite like you. I never really fit in with the rest of the Order.</text>
+		<text bitflag="1345" id1="1213267" id2="17" version="1065353216">Well, I'm a Jedi. But probably not the kind you're thinking of. Never really fit in with the Order.</text>
+		<text bitflag="1345" id1="1213271" id2="17" version="1065353216">Didn't like answering to the Council. Didn't like being cooped up in the Jedi Temple, meditating all day.</text>
+		<text bitflag="1345" id1="1213273" id2="17" version="1065353216">So I left Tython to walk my own path. Follow the will of the Force wherever it took me.</text>
+		<text bitflag="321" id1="1213274" id2="17" version="1065353216">Makes sense to me.</text>
+		<text bitflag="321" id1="1213275" id2="17" version="1065353216">Some would warn that path leads to the dark side.</text>
+		<text bitflag="321" id1="1213277" id2="17" version="1065353216">I'll talk to you later.</text>
+		<text bitflag="1345" id1="1213278" id2="17" version="1065353216">I believe the dark side comes from putting yourself before others. If you truly serve the Force, you serve the light.</text>
+		<text bitflag="1345" id1="1213280" id2="17" version="1065353216">I set off for the far reaches of the galaxy. The Force isn't limited to the Core Worlds; it flows through every living being. Easy to forget that.</text>
+		<text bitflag="1345" id1="1213284" id2="17" version="1065353216">So I traveled the frontier. Tried to help ordinary, everyday people.</text>
+		<text bitflag="321" id1="1213286" id2="17" version="1065353216">Sounds boring.</text>
+		<text bitflag="321" id1="1213287" id2="17" version="1065353216">So why come here?</text>
+		<text bitflag="1345" id1="1213293" id2="17" version="1065353216">Used to think I was better off working on my own. Helping people one-on-one avoided all the politics and bureaucracy. Then you showed up.</text>
+		<text bitflag="1345" id1="1213295" id2="17" version="1065353216">Like it or not, yours is the hand that shapes the galaxy, Commander. Your Alliance will help more people than I could meet in a thousand lifetimes.</text>
+		<text bitflag="1345" id1="1213296" id2="17" version="1065353216">Your actions affect trillions of lives, for better or worse. Joining your Alliance lets me accomplish more than I ever could on my own.</text>
+		<text bitflag="1345" id1="1213297" id2="17" version="1065353216">You know where I'll be.</text>
+		<text bitflag="1345" id1="1213299" id2="17" version="1065353216">I'd call it fulfilling. I wasn't saving the galaxy, but I was making a real difference in people's lives.</text>
+		<text bitflag="321" id1="1213300" id2="17" version="1065353216">Sounds like you have a problem with authority.</text>
+		<text bitflag="1345" id1="1213301" id2="17" version="1065353216">I'll take orders, if they make sense, but ultimately I serve the Force.</text>
+		<text bitflag="1345" id1="1213303" id2="17" version="1065353216">Going to be an adjustment taking orders from someone again, but I think I can handle it. Long as you don't ask me to do anything too stupid.</text>
+		<text bitflag="1345" id1="1213305" id2="17" version="1065353216">You sure about that, Commander? I've been to hundreds of worlds, and I've got friends on each one.</text>
+		<text bitflag="1345" id1="1213307" id2="17" version="1065353216">And I know how to get things done, on and off the battlefield. So you could send me away, but I think you're smarter than that.</text>
+		<text bitflag="321" id1="1213308" id2="17" version="1065353216">Fine. You can stay.</text>
+		<text bitflag="321" id1="1213309" id2="17" version="1065353216">[REJECT COMPANION] Forget it. I want you to leave.</text>
+		<text bitflag="1345" id1="1213310" id2="17" version="1065353216">Glad you're willing to listen to reason.</text>
+		<text bitflag="321" id1="1213311" id2="17" version="1065353216">[INVESTIGATE] What kind of skills do you have?</text>
+		<text bitflag="1345" id1="1213312" id2="17" version="1065353216">Guess I overestimated you. Goodbye, Commander.</text>
+		<text bitflag="1345" id1="1213314" id2="17" version="1065353216">Think these lightsabers on my belt are just for show? Pretty good with them. Not bragging if it's true, right?</text>
+		<text bitflag="1345" id1="1213316" id2="17" version="1065353216">I'm also smart enough to know when not to use them. Seen too many &quot;Masters&quot; treat their lightsabers like a lumberjack with a new axe on Kashyyyk.</text>
+		<text bitflag="1345" id1="1213318" id2="17" version="1065353216">Some problems can't be solved by chopping down everything in sight. No offense.</text>
+		<text bitflag="1345" id1="1213319" id2="17" version="1065353216">Some problems can't be solved by chopping down everything in sight.</text>
+		<text bitflag="321" id1="1213320" id2="17" version="1065353216">None taken.</text>
+		<text bitflag="321" id1="1213322" id2="17" version="1065353216">Why even have lightsabers if you aren't going to use them?</text>
+		<text bitflag="321" id1="1213323" id2="17" version="1065353216">Sometimes violence is necessary.</text>
+		<text bitflag="321" id1="1213324" id2="17" version="1065353216">I agree.</text>
+		<text bitflag="1345" id1="1213325" id2="17" version="1065353216">Good. Sometimes I say things that rub people the wrong way.</text>
+		<text bitflag="1345" id1="1213327" id2="17" version="1065353216">If it comes to a fight, I'm always ready. Just feels a bit foolish not to look for other options first.</text>
+		<text bitflag="1345" id1="1213328" id2="17" version="1065353216">That's like saying a mechanic only needs one wrench to repair a ship. Different tools for different jobs, right?</text>
+		<text bitflag="1345" id1="1213332" id2="17" version="1065353216">I heard rumors, nothing more. When the Eternal Empire attacked the Republic, the Jedi were outmatched.</text>
+		<text bitflag="1345" id1="1213334" id2="17" version="1065353216">The Council can be stubborn. They fought using the same old tactics, and they lost. Badly.</text>
+		<text bitflag="321" id1="1213335" id2="17" version="1065353216">At least they fought. Empress Acina and the Sith Empire just surrendered.</text>
+		<text bitflag="1345" id1="1213336" id2="17" version="1065353216">Interesting question. Is it better to bow down and submit, or to fight and lose a battle you can't win? I'm not wise enough to say.</text>
+		<text bitflag="321" id1="1213337" id2="17" version="1065353216">You didn't help in this battle?</text>
+		<text bitflag="321" id1="1213339" id2="17" version="1065353216">Did any of the Jedi Council survive?</text>
+		<text bitflag="1345" id1="1213340" id2="17" version="1065353216">Not a clue. Even before all this, I didn't have much to do with them. They considered me a rogue agent. An embarrassment.</text>
+		<text bitflag="1345" id1="1213342" id2="17" version="1065353216">Could be they're still out there, having their secret meetings. Watching to see what you'll do next.</text>
+		<text bitflag="1345" id1="1213345" id2="17" version="1065353216">Even before this, I barely had any contact with the Council. I was an embarrassment to them. A rogue agent.</text>
+		<text bitflag="1345" id1="1213347" id2="17" version="1065353216">When the war with Zakuul started, I was on the far edge of colonized space. By the time the news reached us, it was basically over.</text>
+		<text bitflag="1345" id1="1213353" id2="17" version="1065353216">The Jedi were either dead, or scattered and in hiding. The Council had vanished. And I really didn't feel like looking for them.</text>
+		<text bitflag="1345" id1="1214014" id2="17" version="1065353216">Hey, Commander. You need something?</text>
+		<text bitflag="1345" id1="1214018" id2="17" version="1065353216">Or maybe they're all dead. I don't care much either way--your Alliance is far more important to the galaxy than they ever were.</text>
+		<text bitflag="321" id1="1214043" id2="17" version="1065353216">Have you heard of a former Jedi named Ashara Zavros? A Togruta?</text>
+		<text bitflag="321" id1="1214044" id2="17" version="1065353216">Do you know anything about a Jedi named Kira Carsen?</text>
+		<text bitflag="321" id1="1214045" id2="17" version="1065353216">Do you know anything about my old Padawan, Nadia Grell?</text>
+		<text bitflag="1345" id1="1214047" id2="17" version="1065353216">Life's funny, isn't it? Sort of assumed my days of working with another Jedi were over.</text>
+		<text bitflag="1345" id1="1214049" id2="17" version="1065353216">Funny... never thought I'd be working with a Sith. Wonder what my old Master would think of me now.</text>
+		<text bitflag="1345" id1="1214051" id2="17" version="1065353216">Interested to see how you run things around here, given your military background.</text>
+		<text bitflag="1345" id1="1214053" id2="17" version="1065353216">Looking forward to this... and not just because my old Master would roll over in his grave if he saw me working with someone in your line of work.</text>
+		<text bitflag="1345" id1="1214073" id2="17" version="1065353216">By the time news of the war reached me on the edges of space, the Jedi Council had gone into hiding.</text>
+		<text bitflag="1345" id1="1214078" id2="17" version="1065353216">Heard stories in Wild Space about a Togruta Force user. Supposedly she'd turned her back on both the Sith and Jedi.</text>
+		<text bitflag="1345" id1="1214080" id2="17" version="1065353216">Hard to say which ones are true, though. Details were always sketchy. Sorry I can't be more help.</text>
+		<text bitflag="1345" id1="1214081" id2="17" version="1065353216">I actually met her a few years ago. She'd joined some rebels launching guerilla attacks on remote Zakuulan outposts. Arcann tracked them down, eventually.</text>
+		<text bitflag="1345" id1="1214083" id2="17" version="1065353216">Kira thought you were dead. Everyone did. But she spoke highly of you. That's partly the reason I'm here.</text>
+		<text bitflag="1345" id1="1214084" id2="17" version="1065353216">I know you two were close. Kira thought you were dead, but I could tell she still had feelings for you. Wish I could tell you more.</text>
+		<text bitflag="1345" id1="1214086" id2="17" version="1065353216">Only a handful of rebels escaped. Not sure if she was with them.</text>
+		<text bitflag="1345" id1="1214089" id2="17" version="1065353216">In some of stories she was a hero, taking out bad guys and helping people in need. In other stories she was the bad guy.</text>
+		<text bitflag="321" id1="1214254" id2="17" version="1065353216">Always good to meet a fellow Jedi.</text>
+		<text bitflag="321" id1="1214257" id2="17" version="1065353216">You don't have any problem swearing allegiance to a Sith?</text>
+		<text bitflag="321" id1="1214258" id2="17" version="1065353216">Could be useful, having another Jedi on board.</text>
+		<text bitflag="321" id1="1214259" id2="17" version="1065353216">All the stories about me are true... and then some.</text>
+		<text bitflag="321" id1="1214260" id2="17" version="1065353216">Seems like a lot of people want to join the Alliance, now that I'm winning.</text>
+		<text bitflag="321" id1="1214262" id2="17" version="1065353216">If you don't like what I'm doing, then why are you here?</text>
+		<text bitflag="321" id1="1214263" id2="17" version="1065353216">I'm Sith. What did you expect?</text>
+		<text bitflag="321" id1="1214264" id2="17" version="1065353216">Let me guess... You want to show me a better path.</text>
+		<text bitflag="321" id1="1214265" id2="17" version="1065353216">I don't have time for some Jedi Master who wants to redeem me.</text>
+		<text bitflag="1345" id1="1214268" id2="17" version="1065353216">Appreciate the welcome, but you need to know what you're getting into with me. I'm not the easiest person to get along with.</text>
+		<text bitflag="1345" id1="1214270" id2="17" version="1065353216">You're not like most Sith. And I'm just here to help, not take an oath of undying loyalty.</text>
+		<text bitflag="1345" id1="1214272" id2="17" version="1065353216">Thanks, but I don't want us to start on the wrong foot. You should know I'm not like most other Jedi.</text>
+		<text bitflag="1345" id1="1214274" id2="17" version="1065353216">Uh... good to know, I guess. I'd say the same, but I doubt you've heard any of the stories about me.</text>
+		<text bitflag="1345" id1="1214276" id2="17" version="1065353216">I'm not that kind of Jedi. I don't want to change you. I want to join you.</text>
+		<text bitflag="1345" id1="1214278" id2="17" version="1065353216">I admit I'm late to the party, but if you knew where I came from, you'd understand why it took so long to get here.</text>
+		<text bitflag="1345" id1="1214280" id2="17" version="1065353216">It's how you do things that worries me, not what you do. But at least you get results. That counts for a lot.</text>
+		<text bitflag="1345" id1="1214282" id2="17" version="1065353216">Okay, I'll give you that one. And you get results. I'll give you that, too.</text>
+		<text bitflag="1345" id1="1214284" id2="17" version="1065353216">Hardly. You've made your choice. I doubt I could change it. And I can't argue with your results.</text>
+		<text bitflag="1345" id1="1214286" id2="17" version="1065353216">We crossed paths a few years ago in the Unknown Regions. Didn't realize she was your Padawan. Makes sense though. She was obsessed with finding you.</text>
+		<text bitflag="1345" id1="1214288" id2="17" version="1065353216">When you disappeared, most of the galaxy thought you were dead. But a few folks--like Nadia--figured you'd gone into hiding. She refused to give up on you.</text>
+		<text bitflag="1345" id1="1214290" id2="17" version="1065353216">She kept going deeper into Wild Space, hoping to find you. Eventually, she didn't come back. Sorry I don't know more.</text>
+		<text bitflag="1345" id1="1214291" id2="17" version="1065353216">Jedi Master Dazh Ranos. Heard good things about you, Commander. Savior of the galaxy. Champion of the light side. Hope you live up to the hype.</text>
+		<text bitflag="1345" id1="1214761" id2="17" version="1065353216">Have you heard of a Sith called Lord Scourge?</text>
+		<text bitflag="1345" id1="1214766" id2="17" version="1065353216">The Emperor's Wrath? Never met him, but I've heard stories. Legends say the emperor made him immortal, but at a terrible cost.</text>
+		<text bitflag="1345" id1="1214772" id2="17" version="1065353216">He lives in constant pain, wandering the dark corners of the galaxy, searching for ancient Sith rituals to end his suffering.</text>
+		<text bitflag="1345" id1="1214774" id2="17" version="1065353216">Or so the story goes. Makes for a good morality tale, but it's a little far-fetched if you ask me.</text>
+		<text bitflag="1345" id1="1214775" id2="17" version="1065353216">I'm looking for an old friend. Jaesa Willsaam.</text>
+		<text bitflag="1345" id1="1214776" id2="17" version="1065353216">I know the name. They say she's insane. Obsessed with seeking out dark side artifacts on long forgotten worlds.</text>
+		<text bitflag="1345" id1="1214778" id2="17" version="1065353216">Everywhere she goes, she leaves a trail of bodies and broken lives, crushing anyone and anything that gets in her way.</text>
+		<text bitflag="1345" id1="1214791" id2="17" version="1065353216">Whatever your relationship with her, it's probably over. Jaesa only cares about one thing now: power.</text>
+		<text bitflag="1345" id1="1214804" id2="17" version="1065353216">I know the name. Reminded me of myself. Young Jedi turns her back on the Council and seeks her own path.</text>
+		<text bitflag="1345" id1="1214806" id2="17" version="1065353216">Always wanted to meet her. Even tried to track her down. Never found her. Maybe she doesn't want to be found.</text>
+		<text bitflag="1345" id1="1214807" id2="17" version="1065353216">Stories about her popped up from time to time during my journeys. She was out there on the frontier, standing up for people. Fighting the good fight.</text>
+	</file_content>
+</stb_file>

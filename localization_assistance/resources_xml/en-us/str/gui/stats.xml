@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>294</strs>
+		<file_name>/resources/en-us/str/gui/stats.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="226325" version="1065353216">Strength</text>
+		<text bitflag="321" id1="2" id2="226325" version="1065353216">Aim</text>
+		<text bitflag="321" id1="3" id2="226325" version="1065353216">Cunning</text>
+		<text bitflag="321" id1="4" id2="226325" version="1065353216">Endurance</text>
+		<text bitflag="321" id1="5" id2="226325" version="1065353216">Presence</text>
+		<text bitflag="321" id1="6" id2="226325" version="1065353216">Willpower</text>
+		<text bitflag="321" id1="7" id2="226325" version="1065353216">Max Health</text>
+		<text bitflag="321" id1="8" id2="226325" version="1065353216">Max Energy</text>
+		<text bitflag="321" id1="9" id2="226325" version="1065353216">Max Force</text>
+		<text bitflag="321" id1="10" id2="226325" version="1065353216">Max Weapon Damage</text>
+		<text bitflag="321" id1="11" id2="226325" version="1065353216">Minimum Weapon Damage</text>
+		<text bitflag="321" id1="13" id2="226325" version="1065353216">Flurry Length</text>
+		<text bitflag="321" id1="14" id2="226325" version="1065353216">Range Max</text>
+		<text bitflag="321" id1="15" id2="226325" version="1065353216">Range Min</text>
+		<text bitflag="321" id1="16" id2="226325" version="1065353216">Damage Reduction: Elemental</text>
+		<text bitflag="321" id1="17" id2="226325" version="1065353216">Damage Reduction: Internal</text>
+		<text bitflag="321" id1="18" id2="226325" version="1065353216">Damage Reduction: Kinetic</text>
+		<text bitflag="321" id1="19" id2="226325" version="1065353216">Damage Reduction: Energy</text>
+		<text bitflag="321" id1="20" id2="226325" version="1065353216">Ranged Damage Bonus</text>
+		<text bitflag="321" id1="21" id2="226325" version="1065353216">Melee Damage Bonus</text>
+		<text bitflag="321" id1="23" id2="226325" version="1065353216">Persuasion Score</text>
+		<text bitflag="321" id1="24" id2="226325" version="1065353216">Persuasion Crit Chance</text>
+		<text bitflag="321" id1="25" id2="226325" version="1065353216">Movement Speed</text>
+		<text bitflag="321" id1="26" id2="226325" version="1065353216">Max Action Points</text>
+		<text bitflag="321" id1="27" id2="226325" version="1065353216">Run Speed</text>
+		<text bitflag="321" id1="28" id2="226325" version="1065353216">Walk Speed</text>
+		<text bitflag="321" id1="29" id2="226325" version="1065353216">Cover Defense Modifier</text>
+		<text bitflag="321" id1="30" id2="226325" version="1065353216">Armor Rating</text>
+		<text bitflag="321" id1="31" id2="226325" version="1065353216">Arena Rating</text>
+		<text bitflag="321" id1="32" id2="226325" version="1065353216">Run Back Speed</text>
+		<text bitflag="321" id1="33" id2="226325" version="1065353216">Turn Speed</text>
+		<text bitflag="321" id1="34" id2="226325" version="1065353216">Effect Initial Charges</text>
+		<text bitflag="321" id1="35" id2="226325" version="1065353216">Effect Max Charges</text>
+		<text bitflag="321" id1="36" id2="226325" version="1065353216">Activation Time</text>
+		<text bitflag="321" id1="37" id2="226325" version="1065353216">Channeling Time</text>
+		<text bitflag="321" id1="38" id2="226325" version="1065353216">Cooldown Time</text>
+		<text bitflag="321" id1="39" id2="226325" version="1065353216">Effect Duration</text>
+		<text bitflag="321" id1="40" id2="226325" version="1065353216">Global Cooldown Time</text>
+		<text bitflag="321" id1="41" id2="226325" version="1065353216">Effect Tick Time</text>
+		<text bitflag="321" id1="42" id2="226325" version="1065353216">Ability Force Cost</text>
+		<text bitflag="321" id1="43" id2="226325" version="1065353216">Ability Energy Cost</text>
+		<text bitflag="321" id1="44" id2="226325" version="1065353216">Ability Action Point Cost</text>
+		<text bitflag="321" id1="45" id2="226325" version="1065353216">Ability Max Range</text>
+		<text bitflag="321" id1="46" id2="226325" version="1065353216">Ability Min Range</text>
+		<text bitflag="321" id1="47" id2="226325" version="1065353216">Effect Aura Radius</text>
+		<text bitflag="321" id1="48" id2="226325" version="1065353216">Effect Action: Absorbed Damage per Hit (Fixed Modifier)</text>
+		<text bitflag="321" id1="49" id2="226325" version="1065353216">Effect Action: Absorbed Damage per Hit (Percentage Modifier)</text>
+		<text bitflag="321" id1="50" id2="226325" version="1065353216">Effect Action: Absorbed Damage Max (Fixed Modifier)</text>
+		<text bitflag="321" id1="51" id2="226325" version="1065353216">Effect Action: Absorbed Damage Max (Percentage Modifier)</text>
+		<text bitflag="321" id1="52" id2="226325" version="1065353216">Damage Done Modifier (Fixed)</text>
+		<text bitflag="321" id1="53" id2="226325" version="1065353216">Damage Done Modifier (Percentage)</text>
+		<text bitflag="321" id1="54" id2="226325" version="1065353216">Threat Generated Modifier (Fixed)</text>
+		<text bitflag="321" id1="55" id2="226325" version="1065353216">Threat Generated Modifier (Percentage)</text>
+		<text bitflag="321" id1="56" id2="226325" version="1065353216">Healing Done Modifier (Fixed)</text>
+		<text bitflag="321" id1="57" id2="226325" version="1065353216">Healing Done Modifier (Percentage)</text>
+		<text bitflag="321" id1="58" id2="226325" version="1065353216">Effect Action: Ballistic Impulse Momentum (Fixed Modifier)</text>
+		<text bitflag="321" id1="59" id2="226325" version="1065353216">Effect Action: Ballistic Impulse Momentum (Percentage Modifier)</text>
+		<text bitflag="321" id1="60" id2="226325" version="1065353216">Effect Action: Modify Stat (Fixed Modifier)</text>
+		<text bitflag="321" id1="61" id2="226325" version="1065353216">Effect Action: Modify Stat (Percentage Modifier)</text>
+		<text bitflag="321" id1="62" id2="226325" version="1065353216">Effect Action: Restore Action Points (Fixed Modifier)</text>
+		<text bitflag="321" id1="63" id2="226325" version="1065353216">Effect Action: Restore Action Points (Percentage Modifier)</text>
+		<text bitflag="321" id1="64" id2="226325" version="1065353216">Effect Action: Restore Force (Fixed Modifier)</text>
+		<text bitflag="321" id1="65" id2="226325" version="1065353216">Effect Action: Restore Force (Percentage Modifier)</text>
+		<text bitflag="321" id1="66" id2="226325" version="1065353216">Effect Action: Restore Energy (Fixed Modifier)</text>
+		<text bitflag="321" id1="67" id2="226325" version="1065353216">Effect Action: Restore Energy (Percentage Modifier)</text>
+		<text bitflag="321" id1="68" id2="226325" version="1065353216">Effect Action: Spend Action Points (Fixed Modifier)</text>
+		<text bitflag="321" id1="69" id2="226325" version="1065353216">Effect Action: Spend Action Points (Percentage Modifier)</text>
+		<text bitflag="321" id1="70" id2="226325" version="1065353216">Effect Action: Spend Force (Fixed Modifier)</text>
+		<text bitflag="321" id1="71" id2="226325" version="1065353216">Effect Action: Spend Force (Percentage Modifier)</text>
+		<text bitflag="321" id1="72" id2="226325" version="1065353216">Effect Action: Spend Energy (Fixed Modifier)</text>
+		<text bitflag="321" id1="73" id2="226325" version="1065353216">Effect Action: Spend Energy (Percentage Modifier)</text>
+		<text bitflag="321" id1="74" id2="226325" version="1065353216">Effect Action: Spend Health (Fixed Modifier)</text>
+		<text bitflag="321" id1="75" id2="226325" version="1065353216">Effect Action: Spend Health (Percentage Modifier)</text>
+		<text bitflag="321" id1="76" id2="226325" version="1065353216">Effect Target: AOE Sphere Radius (Fixed Modifier)</text>
+		<text bitflag="321" id1="77" id2="226325" version="1065353216">Effect Target: AOE Sphere Radius (Percentage Modifier)</text>
+		<text bitflag="321" id1="78" id2="226325" version="1065353216">Effect Target: AOE Cone Distance (Fixed Modifier)</text>
+		<text bitflag="321" id1="79" id2="226325" version="1065353216">Effect Target: AOE Cone Distance (Percentage Modifier)</text>
+		<text bitflag="321" id1="80" id2="226325" version="1065353216">Effect Target: AOE Cone Angle (Fixed Modifier)</text>
+		<text bitflag="321" id1="81" id2="226325" version="1065353216">Effect Target: AOE Cone Angle (Percentage Modifier)</text>
+		<text bitflag="321" id1="82" id2="226325" version="1065353216">Effect Target: AOE Cylinder Distance (Fixed Modifier)</text>
+		<text bitflag="321" id1="83" id2="226325" version="1065353216">Effect Target: AOE Cylinder Distance (Percentage Modifier)</text>
+		<text bitflag="321" id1="84" id2="226325" version="1065353216">Effect Target: AOE Cylinder Radius (Fixed Modifier)</text>
+		<text bitflag="321" id1="85" id2="226325" version="1065353216">Effect Target: AOE (Percentage Modifier)</text>
+		<text bitflag="321" id1="86" id2="226325" version="1065353216">Melee Accuracy</text>
+		<text bitflag="321" id1="87" id2="226325" version="1065353216">Melee Defense</text>
+		<text bitflag="321" id1="88" id2="226325" version="1065353216">Melee Critical Chance</text>
+		<text bitflag="321" id1="89" id2="226325" version="1065353216">Melee Critical Damage Bonus</text>
+		<text bitflag="321" id1="90" id2="226325" version="1065353216">Shield Chance</text>
+		<text bitflag="321" id1="91" id2="226325" version="1065353216">Shield Absorb</text>
+		<text bitflag="321" id1="92" id2="226325" version="1065353216">Ranged Accuracy</text>
+		<text bitflag="321" id1="93" id2="226325" version="1065353216">Ranged Defense</text>
+		<text bitflag="321" id1="94" id2="226325" version="1065353216">Ranged Critical Chance</text>
+		<text bitflag="321" id1="95" id2="226325" version="1065353216">Ranged Critical Damage</text>
+		<text bitflag="321" id1="96" id2="226325" version="1065353216">Shield Chance</text>
+		<text bitflag="321" id1="97" id2="226325" version="1065353216">Shield Absorb</text>
+		<text bitflag="321" id1="98" id2="226325" version="1065353216">Dual Wield Accuracy Modifier</text>
+		<text bitflag="321" id1="99" id2="226325" version="1065353216">Cover Defense Bonus</text>
+		<text bitflag="321" id1="100" id2="226325" version="1065353216">Duel Wield Damage Penalty</text>
+		<text bitflag="321" id1="101" id2="226325" version="1065353216">Increased Stealth Level</text>
+		<text bitflag="321" id1="102" id2="226325" version="1065353216">Increased Stealth Detection Level</text>
+		<text bitflag="321" id1="103" id2="226325" version="1065353216">Weapon Accuracy</text>
+		<text bitflag="321" id1="104" id2="226325" version="1065353216">Shield Rating</text>
+		<text bitflag="321" id1="105" id2="226325" version="1065353216">Force Damage Bonus</text>
+		<text bitflag="321" id1="106" id2="226325" version="1065353216">Tech Damage Bonus</text>
+		<text bitflag="321" id1="107" id2="226325" version="1065353216">Force Critical Chance</text>
+		<text bitflag="321" id1="108" id2="226325" version="1065353216">Force Critical Damage Bonus</text>
+		<text bitflag="321" id1="109" id2="226325" version="1065353216">Tech Critical Chance</text>
+		<text bitflag="321" id1="110" id2="226325" version="1065353216">Tech Critical Damage Bonus</text>
+		<text bitflag="321" id1="114" id2="226325" version="1065353216">Force Regen (Out of Combat)</text>
+		<text bitflag="321" id1="115" id2="226325" version="1065353216">Energy Regen</text>
+		<text bitflag="321" id1="116" id2="226325" version="1065353216">Health Regen</text>
+		<text bitflag="321" id1="117" id2="226325" version="1065353216">Damage Boost on Players</text>
+		<text bitflag="321" id1="118" id2="226325" version="1065353216">Damage Reduction from Players</text>
+		<text bitflag="321" id1="119" id2="226325" version="1065353216">Critical Chance Percent</text>
+		<text bitflag="321" id1="120" id2="226325" version="1065353216">Critical Chance Reduction Percent</text>
+		<text bitflag="321" id1="121" id2="226325" version="1065353216">Healing Boost during PvP Combat</text>
+		<text bitflag="321" id1="122" id2="226325" version="1065353216">Hardiness Rating</text>
+		<text bitflag="321" id1="123" id2="226325" version="1065353216">Expertise Rating</text>
+		<text bitflag="321" id1="124" id2="226325" version="1065353216">Triage Rating</text>
+		<text bitflag="321" id1="125" id2="226325" version="1065353216">Critical Damage Reduction</text>
+		<text bitflag="321" id1="126" id2="226325" version="1065353216">Absorption Rating</text>
+		<text bitflag="321" id1="127" id2="226325" version="1065353216">Power</text>
+		<text bitflag="321" id1="128" id2="226325" version="1065353216">Force Power</text>
+		<text bitflag="321" id1="129" id2="226325" version="1065353216">Tech Power</text>
+		<text bitflag="321" id1="130" id2="226325" version="1065353216">Force Regen Rating</text>
+		<text bitflag="321" id1="131" id2="226325" version="1065353216">Energy Regen Rating</text>
+		<text bitflag="321" id1="132" id2="226325" version="1065353216">Accuracy Rating</text>
+		<text bitflag="321" id1="133" id2="226325" version="1065353216">Critical Rating</text>
+		<text bitflag="321" id1="134" id2="226325" version="1065353216">Force Regen</text>
+		<text bitflag="321" id1="135" id2="226325" version="1065353216">Trauma</text>
+		<text bitflag="321" id1="136" id2="226325" version="1065353216">Healing Received Modifier (Percentage)</text>
+		<text bitflag="321" id1="137" id2="226325" version="1065353216">Healing Received Modifier (Fixed)</text>
+		<text bitflag="321" id1="138" id2="226325" version="1065353216">Damage Received Modifier (Percentage)</text>
+		<text bitflag="321" id1="139" id2="226325" version="1065353216">Damage Received Modifier (Fixed)</text>
+		<text bitflag="321" id1="140" id2="226325" version="1065353216">Defense Rating</text>
+		<text bitflag="321" id1="141" id2="226325" version="1065353216">Effect Action: Generate Heat (Fixed Modifier)</text>
+		<text bitflag="321" id1="142" id2="226325" version="1065353216">Effect Action: Generate Heat (Percentage Modifier)</text>
+		<text bitflag="321" id1="143" id2="226325" version="1065353216">Armor Penetration</text>
+		<text bitflag="321" id1="144" id2="226325" version="1065353216">Artifice</text>
+		<text bitflag="321" id1="145" id2="226325" version="1065353216">Armormech</text>
+		<text bitflag="321" id1="146" id2="226325" version="1065353216">Armstech</text>
+		<text bitflag="321" id1="147" id2="226325" version="1065353216">Biochem</text>
+		<text bitflag="321" id1="148" id2="226325" version="1065353216">Cybertech</text>
+		<text bitflag="321" id1="149" id2="226325" version="1065353216">Synthweaving</text>
+		<text bitflag="321" id1="150" id2="226325" version="1065353216">Archaeology</text>
+		<text bitflag="321" id1="151" id2="226325" version="1065353216">Bioanalysis</text>
+		<text bitflag="321" id1="152" id2="226325" version="1065353216">Scavenging</text>
+		<text bitflag="321" id1="153" id2="226325" version="1065353216">Slicing</text>
+		<text bitflag="321" id1="154" id2="226325" version="1065353216">Diplomacy</text>
+		<text bitflag="321" id1="155" id2="226325" version="1065353216">Investigation</text>
+		<text bitflag="321" id1="156" id2="226325" version="1065353216">Treasure Hunting</text>
+		<text bitflag="321" id1="157" id2="226325" version="1065353216">Underworld Trading</text>
+		<text bitflag="321" id1="158" id2="226325" version="1065353216">Crafting</text>
+		<text bitflag="321" id1="159" id2="226325" version="1065353216">Harvesting</text>
+		<text bitflag="321" id1="160" id2="226325" version="1065353216">Mission</text>
+		<text bitflag="321" id1="161" id2="226325" version="1065353216">Artifice Efficiency</text>
+		<text bitflag="321" id1="162" id2="226325" version="1065353216">Armormech Efficiency</text>
+		<text bitflag="321" id1="163" id2="226325" version="1065353216">Armstech Efficiency</text>
+		<text bitflag="321" id1="164" id2="226325" version="1065353216">Biochem Efficiency</text>
+		<text bitflag="321" id1="165" id2="226325" version="1065353216">Cybertech Efficiency</text>
+		<text bitflag="321" id1="166" id2="226325" version="1065353216">Synthweaving Efficiency</text>
+		<text bitflag="321" id1="167" id2="226325" version="1065353216">Archaeology Efficiency</text>
+		<text bitflag="321" id1="168" id2="226325" version="1065353216">Bioanalysis Efficiency</text>
+		<text bitflag="321" id1="169" id2="226325" version="1065353216">Scavenging Efficiency</text>
+		<text bitflag="321" id1="170" id2="226325" version="1065353216">Slicing Efficiency</text>
+		<text bitflag="321" id1="171" id2="226325" version="1065353216">Diplomacy Efficiency</text>
+		<text bitflag="321" id1="172" id2="226325" version="1065353216">Investigation Efficiency</text>
+		<text bitflag="321" id1="173" id2="226325" version="1065353216">Treasure Hunting Efficiency</text>
+		<text bitflag="321" id1="174" id2="226325" version="1065353216">Underworld Trading Efficiency</text>
+		<text bitflag="321" id1="175" id2="226325" version="1065353216">Crafting Efficiency</text>
+		<text bitflag="321" id1="176" id2="226325" version="1065353216">Harvesting Efficiency</text>
+		<text bitflag="321" id1="177" id2="226325" version="1065353216">Mission Efficiency</text>
+		<text bitflag="321" id1="178" id2="226325" version="1065353216">Artifice Critical</text>
+		<text bitflag="321" id1="179" id2="226325" version="1065353216">Armormech Critical</text>
+		<text bitflag="321" id1="180" id2="226325" version="1065353216">Armstech Critical</text>
+		<text bitflag="321" id1="181" id2="226325" version="1065353216">Biochem Critical</text>
+		<text bitflag="321" id1="182" id2="226325" version="1065353216">Cybertech Critical</text>
+		<text bitflag="321" id1="183" id2="226325" version="1065353216">Synthweaving Critical</text>
+		<text bitflag="321" id1="184" id2="226325" version="1065353216">Archaeology Critical</text>
+		<text bitflag="321" id1="185" id2="226325" version="1065353216">Bioanalysis Critical</text>
+		<text bitflag="321" id1="186" id2="226325" version="1065353216">Scavenging Critical</text>
+		<text bitflag="321" id1="187" id2="226325" version="1065353216">Slicing Critical</text>
+		<text bitflag="321" id1="188" id2="226325" version="1065353216">Diplomacy Critical</text>
+		<text bitflag="321" id1="189" id2="226325" version="1065353216">Investigation Critical</text>
+		<text bitflag="321" id1="190" id2="226325" version="1065353216">Treasure Hunting Critical</text>
+		<text bitflag="321" id1="191" id2="226325" version="1065353216">Underworld Trading Critical</text>
+		<text bitflag="321" id1="192" id2="226325" version="1065353216">Crafting Critical</text>
+		<text bitflag="321" id1="193" id2="226325" version="1065353216">Harvesting Critical</text>
+		<text bitflag="321" id1="194" id2="226325" version="1065353216">Mission Critical</text>
+		<text bitflag="321" id1="195" id2="226325" version="1065353216">Healing Power: Tech</text>
+		<text bitflag="321" id1="196" id2="226325" version="1065353216">Healing Power: Force</text>
+		<text bitflag="321" id1="197" id2="226325" version="1065353216">Target Low Damage Modifier</text>
+		<text bitflag="321" id1="198" id2="226325" version="1065353216">Target Bleeding Damage Modifier</text>
+		<text bitflag="321" id1="199" id2="226325" version="1065353216">Target Stunned Damage Modifier</text>
+		<text bitflag="321" id1="200" id2="226325" version="1065353216">Caster Stunned Damage Taken Modifer</text>
+		<text bitflag="321" id1="201" id2="226325" version="1065353216">Modifier for percent chance</text>
+		<text bitflag="321" id1="202" id2="226325" version="1065353216">Rate Limit Modifier (Fixed)</text>
+		<text bitflag="321" id1="203" id2="226325" version="1065353216">Rate Limit Modifier (Percentage)</text>
+		<text bitflag="321" id1="204" id2="226325" version="1065353216">Surge Rating</text>
+		<text bitflag="321" id1="205" id2="226325" version="1065353216">Alacrity Rating</text>
+		<text bitflag="321" id1="206" id2="226325" version="1065353216">Resolve</text>
+		<text bitflag="321" id1="207" id2="226325" version="1065353216">Tech Accuracy</text>
+		<text bitflag="321" id1="208" id2="226325" version="1065353216">Tech Resistance</text>
+		<text bitflag="321" id1="209" id2="226325" version="1065353216">Ship Armor</text>
+		<text bitflag="321" id1="210" id2="226325" version="1065353216">Blaster Rate of Fire</text>
+		<text bitflag="321" id1="211" id2="226325" version="1065353216">Blaster Damage</text>
+		<text bitflag="321" id1="212" id2="226325" version="1065353216">Number of Missiles</text>
+		<text bitflag="321" id1="213" id2="226325" version="1065353216">Missile Damage</text>
+		<text bitflag="321" id1="214" id2="226325" version="1065353216">Missile Rate of Fire</text>
+		<text bitflag="321" id1="215" id2="226325" version="1065353216">Number of Torpedoes</text>
+		<text bitflag="321" id1="216" id2="226325" version="1065353216">Torpedo Damage</text>
+		<text bitflag="321" id1="217" id2="226325" version="1065353216">Torpedo Rate of Fire</text>
+		<text bitflag="321" id1="218" id2="226325" version="1065353216">Shield Strength</text>
+		<text bitflag="321" id1="219" id2="226325" version="1065353216">Shield Regeneration</text>
+		<text bitflag="321" id1="220" id2="226325" version="1065353216">Shield Cooldown</text>
+		<text bitflag="321" id1="221" id2="226325" version="1065353216">Ship Type</text>
+		<text bitflag="321" id1="222" id2="226325" version="1065353216">Pushback Modifier</text>
+		<text bitflag="321" id1="223" id2="226325" version="1065353216">Damage Modifier (Burning Target)</text>
+		<text bitflag="321" id1="224" id2="226325" version="1065353216">Force Accuracy</text>
+		<text bitflag="321" id1="225" id2="226325" version="1065353216">Force Resistance</text>
+		<text bitflag="321" id1="226" id2="226325" version="1065353216">Activation Time Reduction</text>
+		<text bitflag="321" id1="227" id2="226325" version="1065353216">Channeling Time Reduction</text>
+		<text bitflag="321" id1="10000" id2="226325" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="10001" id2="226325" version="1065353216">+&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="10002" id2="226325" version="1065353216">&lt;&lt;1&gt;&gt;% &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="10003" id2="226325" version="1065353216">+&lt;&lt;1&gt;&gt;% &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="15004" id2="226325" version="1065353216">Seeker Droid Range (Percentage)</text>
+		<text bitflag="321" id1="15005" id2="226325" version="1065353216">Seeker Droid Range (Fixed)</text>
+		<text bitflag="321" id1="15006" id2="226325" version="1065353216">Seeker Droid Detection Range (Percentage)</text>
+		<text bitflag="321" id1="15007" id2="226325" version="1065353216">Seeker Droid Detection Range (Fixed)</text>
+		<text bitflag="321" id1="15008" id2="226325" version="1065353216">Shield Power Cost</text>
+		<text bitflag="321" id1="15009" id2="226325" version="1065353216">Engine Power Cost</text>
+		<text bitflag="321" id1="15010" id2="226325" version="1065353216">Weapon Power Cost</text>
+		<text bitflag="321" id1="15011" id2="226325" version="1065353216">Firing Arc</text>
+		<text bitflag="321" id1="15012" id2="226325" version="1065353216">Armor Piercing</text>
+		<text bitflag="321" id1="15013" id2="226325" version="1065353216">Turn Rate Modifier</text>
+		<text bitflag="321" id1="15014" id2="226325" version="1065353216">Critical Hit Chance</text>
+		<text bitflag="321" id1="15015" id2="226325" version="1065353216">Critical Hit Damage</text>
+		<text bitflag="321" id1="15016" id2="226325" version="1065353216">Critical Hit Chance Reduction</text>
+		<text bitflag="321" id1="15017" id2="226325" version="1065353216">Ammo Pool Size</text>
+		<text bitflag="321" id1="15018" id2="226325" version="1065353216">Reload Time</text>
+		<text bitflag="321" id1="15019" id2="226325" version="1065353216">Lock On Time</text>
+		<text bitflag="321" id1="15020" id2="226325" version="1065353216">Charge Up Time</text>
+		<text bitflag="321" id1="15021" id2="226325" version="1065353216">Damage Reduction</text>
+		<text bitflag="321" id1="15022" id2="226325" version="1065353216">Max Range</text>
+		<text bitflag="321" id1="15023" id2="226325" version="1065353216">Accuracy</text>
+		<text bitflag="321" id1="15024" id2="226325" version="1065353216">Range</text>
+		<text bitflag="321" id1="15025" id2="226325" version="1065353216">Rate of Fire</text>
+		<text bitflag="321" id1="15026" id2="226325" version="1065353216">Weapon Power draw</text>
+		<text bitflag="321" id1="15027" id2="226325" version="1065353216">DPS vs Shields</text>
+		<text bitflag="321" id1="15028" id2="226325" version="1065353216">DPS vs Hull</text>
+		<text bitflag="321" id1="15029" id2="226325" version="1065353216">Shield Piercing</text>
+		<text bitflag="321" id1="15030" id2="226325" version="1065353216">Mid Range</text>
+		<text bitflag="321" id1="15031" id2="226325" version="1065353216">Point Blank Range</text>
+		<text bitflag="321" id1="15032" id2="226325" version="1065353216">Tracking Accuracy</text>
+		<text bitflag="321" id1="15033" id2="226325" version="1065353216">Hull Efficiency</text>
+		<text bitflag="321" id1="15034" id2="226325" version="1065353216">Shield Efficiency</text>
+		<text bitflag="321" id1="15035" id2="226325" version="1065353216">Mid Range</text>
+		<text bitflag="321" id1="15036" id2="226325" version="1065353216">Close Range</text>
+		<text bitflag="321" id1="15037" id2="226325" version="1065353216">Weapon Damage</text>
+		<text bitflag="321" id1="15038" id2="226325" version="1065353216">Weapon Accuracy</text>
+		<text bitflag="321" id1="15039" id2="226325" version="1065353216">Shield Bleedthrough</text>
+		<text bitflag="321" id1="15040" id2="226325" version="1065353216">Shield Power Capacity (per shield arc)</text>
+		<text bitflag="321" id1="15041" id2="226325" version="1065353216">Weapon Power Capacity</text>
+		<text bitflag="321" id1="15042" id2="226325" version="1065353216">Engine Power Capacity</text>
+		<text bitflag="321" id1="15043" id2="226325" version="1065353216">Weapon Power Regen Rate</text>
+		<text bitflag="321" id1="15044" id2="226325" version="1065353216">Shield Power Regen Rate (per shield arc)</text>
+		<text bitflag="321" id1="15045" id2="226325" version="1065353216">Engine Power Regen Rate</text>
+		<text bitflag="321" id1="15046" id2="226325" version="1065353216">Engine Maximum Speed</text>
+		<text bitflag="321" id1="15047" id2="226325" version="1065353216">Engine Minimum Speed</text>
+		<text bitflag="321" id1="15048" id2="226325" version="1065353216">Weapon Power Regeneration Delay</text>
+		<text bitflag="321" id1="15049" id2="226325" version="1065353216">Engine Power Regeneration Delay</text>
+		<text bitflag="321" id1="15050" id2="226325" version="1065353216">Shield Power Regeneration Delay</text>
+		<text bitflag="321" id1="15051" id2="226325" version="1065353216">Engine Speed</text>
+		<text bitflag="321" id1="15052" id2="226325" version="1065353216">Shield Power Recently Consumed Regeneration Rate</text>
+		<text bitflag="321" id1="15053" id2="226325" version="1065353216">Engine Power Recently Consumed Regeneration Rate</text>
+		<text bitflag="321" id1="15054" id2="226325" version="1065353216">Weapon Power Recently Consumed Regeneration Rate</text>
+		<text bitflag="321" id1="15055" id2="226325" version="1065353216">Sensor Detection Range</text>
+		<text bitflag="321" id1="15056" id2="226325" version="1065353216">Sensor Communication Range</text>
+		<text bitflag="321" id1="15057" id2="226325" version="1065353216">Sensor Dampening</text>
+		<text bitflag="321" id1="15058" id2="226325" version="1065353216">Evasion</text>
+		<text bitflag="321" id1="15059" id2="226325" version="1065353216">Afterburner Speed Boost</text>
+		<text bitflag="321" id1="15060" id2="226325" version="1065353216">Afterburner Cost</text>
+		<text bitflag="321" id1="15061" id2="226325" version="1065353216">Afterburner Consumption Rate</text>
+		<text bitflag="321" id1="15062" id2="226325" version="1065353216">Sensor Focused Detection Range</text>
+		<text bitflag="321" id1="15063" id2="226325" version="1065353216">Yaw</text>
+		<text bitflag="321" id1="15064" id2="226325" version="1065353216">Pitch</text>
+		<text bitflag="321" id1="15065" id2="226325" version="1065353216">&lt;&lt;1&gt;&gt; degree&lt;&lt;1[/s]&gt;&gt; per second</text>
+		<text bitflag="321" id1="15066" id2="226325" version="1065353216">Cast Ability While Moving</text>
+		<text bitflag="321" id1="15067" id2="226325" version="1065353216">Life Steal Modifier (Fixed)</text>
+		<text bitflag="321" id1="15068" id2="226325" version="1065353216">Life Steal Modifier (Percentage)</text>
+		<text bitflag="321" id1="15069" id2="226325" version="1065353216">Target Accuracy Reduced Modifier</text>
+		<text bitflag="321" id1="15070" id2="226325" version="1065353216">Mastery</text>
+		<text bitflag="321" id1="15071" id2="226325" version="1065353216">Minimum Health</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>25</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/bronze/imperial/deadly_mutations/ar_72.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="290202" id2="17" version="1065353216">[The monitoring station lies idle.]</text>
+		<text bitflag="1345" id1="290203" id2="17" version="1065353216">I detect no more machines or monsters in the area. The safe zone is secure. Deploying more battle droids.</text>
+		<text bitflag="1345" id1="290205" id2="17" version="1065353216">I will report your success to my Imperial Makers. Personally, I am glad you survived.</text>
+		<text bitflag="1345" id1="290207" id2="17" version="1065353216">I am still detecting anomalies in the safe-zone location. Kill the monsters and destroy the machines that are mutating them.</text>
+		<text bitflag="321" id1="290208" id2="17" version="1065353216">[You activate the monitoring station terminal and set it to the Imperial frequency.]</text>
+		<text bitflag="1345" id1="290210" id2="17" version="1065353216">Hmm. I recall you helped me reactivate the Rakata communications system. I thank you.</text>
+		<text bitflag="1345" id1="290212" id2="17" version="1065353216">Though I remain connected to the Rakata brain, the Empire has developed new programming for me to interact with Rakata technology without threat to my sanity.</text>
+		<text bitflag="1345" id1="290214" id2="17" version="1065353216">I regret that I must again ask for your assistance. And this mission will not be as easy as the first.</text>
+		<text bitflag="1345" id1="290215" id2="17" version="1065353216">Hello. I am AR-72. It's fortunate that you've used this monitoring station.</text>
+		<text bitflag="1345" id1="290217" id2="17" version="1065353216">The Empire requires your assistance for a mission that, I am required to inform you, may result in your death.</text>
+		<text bitflag="1360" id1="290218" id2="17" version="1065353216">I'm intrigued.</text>
+		<text bitflag="1360" id1="290219" id2="17" version="1065353216">Maybe not, then.</text>
+		<text bitflag="1345" id1="290220" id2="17" version="1065353216">I hope you will at least listen before you judge.</text>
+		<text bitflag="1360" id1="290222" id2="17" version="1065353216">I like them difficult.</text>
+		<text bitflag="1345" id1="290223" id2="17" version="1065353216">Imperial battle droids were tasked with establishing a safe zone within the maximum security area of the prison, but were destroyed by mutated monstrosities before they could succeed.</text>
+		<text bitflag="1345" id1="290225" id2="17" version="1065353216">Machines in the area are emitting radiation that strengthens these monsters. We need the monsters killed and the machines destroyed to establish the safe zone.</text>
+		<text bitflag="1345" id1="290227" id2="17" version="1065353216">The safe zone is essential to learning the secrets of the Rakata prison and its prisoners.</text>
+		<text bitflag="1360" id1="290228" id2="17" version="1065353216">I'll take care of it.</text>
+		<text bitflag="1360" id1="290229" id2="17" version="1065353216">We'll see.</text>
+		<text bitflag="1345" id1="290230" id2="17" version="1065353216">Do not delay too long. Maximum security is extremely dangerous.</text>
+		<text bitflag="1345" id1="290232" id2="17" version="1065353216">I will try to use the prison's network to make reaching the beasts and destroying the devices easier. It will give you a zero point zero five percent chance of survival.</text>
+		<text bitflag="1360" id1="290234" id2="17" version="1065353216">Not interested. [Refuse quest]</text>
+		<text bitflag="1345" id1="290235" id2="17" version="1065353216">Regrettable. Perhaps I can find other means....</text>
+		<text bitflag="321" id1="290237" id2="17" version="1065353216">[This monitoring station appears to be deactivated.]</text>
+		<text bitflag="321" id1="935705" id2="17" version="1065353216">[You activate the monitoring station terminal and set it to the Imperial frequency.]</text>
+	</file_content>
+</stb_file>

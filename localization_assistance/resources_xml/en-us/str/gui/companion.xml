@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>26</strs>
+		<file_name>/resources/en-us/str/gui/companion.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="224526" version="1065353216">Selling Trash</text>
+		<text bitflag="321" id1="2" id2="224526" version="1065353216">&lt;&lt;1&gt;&gt; wishes to speak with you in private.</text>
+		<text bitflag="321" id1="3" id2="224526" version="1065353216">&lt;&lt;1&gt;&gt; wishes to speak with you aboard your ship.</text>
+		<text bitflag="321" id1="4" id2="224526" version="1065353216">&lt;&lt;1&gt;&gt; is off selling your low-quality items.</text>
+		<text bitflag="321" id1="5" id2="224526" version="1065353216">&lt;&lt;1&gt;&gt; is currently deployed on a crew skill task.</text>
+		<text bitflag="321" id1="6" id2="224526" version="1065353216">Your companion has returned from selling your low-quality items with &lt;&lt;1&gt;&gt; credits.</text>
+		<text bitflag="321" id1="7" id2="224526" version="1065353216">Your companion has returned.</text>
+		<text bitflag="321" id1="8" id2="224526" version="1065353216">Your companion was dismissed because the group is full.</text>
+		<text bitflag="321" id1="9" id2="224526" version="1065353216">Your companion was dismissed at the group leader's request.</text>
+		<text bitflag="321" id1="10" id2="224526" version="1065353216">Your companion is away selling your low-quality items.</text>
+		<text bitflag="321" id1="11" id2="224526" version="1065353216">Open Crew Window</text>
+		<text bitflag="321" id1="12" id2="224526" version="1065353216">Group size limit reached. Companion has been dismissed.</text>
+		<text bitflag="321" id1="14" id2="224526" version="1065353216">Group size limit reached. You cannot summon your companion.</text>
+		<text bitflag="321" id1="15" id2="224526" version="1065353216">Companion Abilities</text>
+		<text bitflag="321" id1="16" id2="224526" version="1065353216">Toggle the companion ability bar.</text>
+		<text bitflag="321" id1="17" id2="224526" version="1065353216">Left-click abilities to activate.</text>
+		<text bitflag="321" id1="18" id2="224526" version="1065353216">Right-click abilities to toggle AI usage.</text>
+		<text bitflag="321" id1="19" id2="224526" version="1065353216">Your companion was dismissed because you joined an ops group.</text>
+		<text bitflag="321" id1="20" id2="224526" version="1065353216">You cannot summon your companion while in an ops group.</text>
+		<text bitflag="321" id1="21" id2="224526" version="1065353216">Companion</text>
+		<text bitflag="321" id1="22" id2="224526" version="1065353216">&lt;&lt;g:2,1&gt;&gt;</text>
+		<text bitflag="321" id1="23" id2="224526" version="1065353216">&lt;&lt;Co5:1&gt;&gt;</text>
+		<text bitflag="321" id1="257" id2="224526" version="1065353216">Work has been added to &lt;&lt;1&gt;&gt;'s crew skill queue.</text>
+		<text bitflag="321" id1="258" id2="224526" version="1065353216">Your companion has been dismissed due to entering companion free region</text>
+		<text bitflag="321" id1="259" id2="224526" version="1065353216">Companions can not be summoned in this region</text>
+		<text bitflag="321" id1="260" id2="224526" version="1065353216">Your companion cannot join you on this mission.</text>
+	</file_content>
+</stb_file>

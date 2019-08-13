@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>40</strs>
+		<file_name>/resources/en-us/str/gui/elev_dest_descriptions.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194065" version="1065353216">Click to travel here.</text>
+		<text bitflag="321" id1="2" id2="194065" version="1065353216">Make your selection.</text>
+		<text bitflag="321" id1="3" id2="194065" version="1065353216">Bridge Controls</text>
+		<text bitflag="321" id1="4" id2="194065" version="1065353216">Code</text>
+		<text bitflag="321" id1="5" id2="194065" version="1065353216">Click to play this track.</text>
+		<text bitflag="321" id1="6" id2="194065" version="1065353216">Click to Dream-walk</text>
+		<text bitflag="321" id1="7" id2="194065" version="1065353216">Begin Meditation</text>
+		<text bitflag="321" id1="5000" id2="194065" version="1065353216">Consider your options carefully before selecting an Advanced Class.</text>
+		<text bitflag="321" id1="5001" id2="194065" version="1065353216">Choose Sniper as your Advanced Class. Snipers are skilled with high-caliber rifles and use advanced weaponry. They excel at battlefield control, sustained and burst damage from a distance.</text>
+		<text bitflag="321" id1="5002" id2="194065" version="1065353216">Choose Operative as your Advanced Class. Operatives are skilled with energy weapons and infiltration tech. They excel at stealth, healing and inflicting damage in close combat.</text>
+		<text bitflag="321" id1="5003" id2="194065" version="1065353216">Choose Powertech as your Advanced Class. Powertechs are skilled with flamethrowers and advanced shield technology. They excel at ranged defense and inflicting damage in close combat.</text>
+		<text bitflag="321" id1="5004" id2="194065" version="1065353216">Choose Mercenary as your Advanced Class. Mercenaries are skilled with dual pistols and use an array of weapons and gadgets. They excel at battlefield control, healing and sustained damage from a distance.</text>
+		<text bitflag="321" id1="5005" id2="194065" version="1065353216">Choose Sith Sorcerer as your Advanced Class. Sorcerers are skilled with Force Lightning and channeling dark afflictions. They excel at healing, battlefield control and sustained damage from a distance.</text>
+		<text bitflag="321" id1="5006" id2="194065" version="1065353216">Choose Sith Assassin as your Advanced Class. Assassins are skilled with double-bladed lightsabers and use the Force to deceive opponents. They excel at stealth and inflicting damage in close combat.</text>
+		<text bitflag="321" id1="5007" id2="194065" version="1065353216">Choose Sith Marauder as your Advanced Class. Marauders are skilled with dual lightsabers, focusing their rage into powerful melee attacks. They excel at inflicting burst and sustained damage in close combat.</text>
+		<text bitflag="321" id1="5008" id2="194065" version="1065353216">Choose Sith Juggernaut as your Advanced Class. Juggernauts are skilled with lightsabers, heavy armors and using fear as a weapon. They excel at battlefield control, defense and survival in close combat.</text>
+		<text bitflag="321" id1="5009" id2="194065" version="1065353216">Choose Jedi Sage as your Advanced Class. Sages are skilled with telekinetics and use the Force to maintain balance. They excel at healing, battlefield control and sustained damage from a distance.</text>
+		<text bitflag="321" id1="5010" id2="194065" version="1065353216">Choose Jedi Shadow as your Advanced Class. Shadows are skilled with double-bladed lightsabers, channeling the Force in melee combat. They excel at stealth, survival and inflicting damage in close combat.</text>
+		<text bitflag="321" id1="5011" id2="194065" version="1065353216">Choose Jedi Sentinel as your Advanced Class. Sentinels are skilled with dual lightsabers, drawing on the Force to enhance their reflexes. They excel at inflicting burst and sustained damage in close combat.</text>
+		<text bitflag="321" id1="5012" id2="194065" version="1065353216">Choose Jedi Guardian as your Advanced Class. Guardians are skilled with lightsabers, heavy armors and combat discipline. They excel at battlefield control, defense and survival in close combat.</text>
+		<text bitflag="321" id1="5013" id2="194065" version="1065353216">Choose Gunslinger as your Advanced Class. Gunslingers are skilled with dual pistols and outlawed weapons. They excel at battlefield control, sustained and burst damage from a distance.</text>
+		<text bitflag="321" id1="5014" id2="194065" version="1065353216">Choose Scoundrel as your Advanced Class. Scoundrels are skilled with scatterguns and using luck to their advantage. They excel at stealth, healing and inflicting damage in close combat.</text>
+		<text bitflag="321" id1="5015" id2="194065" version="1065353216">Choose Commando as your Advanced Class. Commandos are skilled with massive assault cannons and combat morale. They excel at survival, healing and sustained damage from a distance.</text>
+		<text bitflag="321" id1="5016" id2="194065" version="1065353216">Choose Vanguard as your Advanced Class. Vanguards are skilled with assault rifles and use advanced shield technology. They excel at ranged defense and inflicting damage in close combat.</text>
+		<text bitflag="321" id1="10021" id2="194065" version="1065353216">You are here.</text>
+		<text bitflag="321" id1="10022" id2="194065" version="1065353216">Click to abandon the chase and ride the transport back to the landing platform.</text>
+		<text bitflag="321" id1="10023" id2="194065" version="1065353216">Select this subsystem.</text>
+		<text bitflag="321" id1="10024" id2="194065" version="1065353216">Click to confirm execution of the currently configured autoassembly task.</text>
+		<text bitflag="321" id1="10025" id2="194065" version="1065353216">Click to unlock access to this assembly station.</text>
+		<text bitflag="321" id1="10026" id2="194065" version="1065353216">Click to perform final testing on an assembled ship design.</text>
+		<text bitflag="321" id1="10027" id2="194065" version="1065353216">Ground Level</text>
+		<text bitflag="321" id1="10028" id2="194065" version="1065353216">Rooftop Access</text>
+		<text bitflag="321" id1="10029" id2="194065" version="1065353216">Select your destination.</text>
+		<text bitflag="321" id1="10030" id2="194065" version="1065353216">Choose Your Desired Tier 1 Variant:</text>
+		<text bitflag="321" id1="10031" id2="194065" version="1065353216">Choose Your Desired Tier 2 Variant:</text>
+		<text bitflag="321" id1="10032" id2="194065" version="1065353216">Select an option below.</text>
+		<text bitflag="321" id1="10033" id2="194065" version="1065353216">Click to begin this scenario.</text>
+		<text bitflag="321" id1="10034" id2="194065" version="1065353216">Disable any active scenario and de-activate the security gates.</text>
+		<text bitflag="321" id1="10036" id2="194065" version="1065353216">Click to summon this training dummy.</text>
+		<text bitflag="321" id1="10037" id2="194065" version="1065353216">Disable training mode.</text>
+	</file_content>
+</stb_file>

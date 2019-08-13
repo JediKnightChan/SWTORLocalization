@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/world_arc/republic/hub_1/hitting_the_hutts/grevin.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1058037" id2="17" version="1065353216">You're all dead!</text>
+		<text bitflag="1345" id1="1058040" id2="17" version="1065353216">Regulators! Earn your pay!</text>
+		<text bitflag="1345" id1="1058043" id2="17" version="1065353216">No! Not like this!</text>
+		<text bitflag="1345" id1="1058106" id2="17" version="1065353216">This is Vice Commandant Grevin. Intruders have boarded the Storm Carrier. All Regulators, maximum alert!</text>
+		<text bitflag="1345" id1="1058107" id2="17" version="1065353216">One million credits to whoever finds the intruders. Ten million to whoever kills them!</text>
+		<text bitflag="1345" id1="1058108" id2="17" version="1065353216">Intruders are overloading the reactors! Protect the control terminals at all costs!</text>
+	</file_content>
+</stb_file>

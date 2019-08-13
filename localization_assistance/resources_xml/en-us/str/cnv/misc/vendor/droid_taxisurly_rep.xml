@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/misc/vendor/droid_taxisurly_rep.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="57664" id2="17" version="1065353216">State your destination. All vehicles leave on time.</text>
+		<text bitflag="1345" id1="57665" id2="17" version="1065353216">We are not responsible for missed departures.</text>
+		<text bitflag="1345" id1="57668" id2="17" version="1065353216">There are others waiting. Move along.</text>
+	</file_content>
+</stb_file>

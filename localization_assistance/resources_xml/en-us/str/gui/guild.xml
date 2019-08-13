@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>186</strs>
+		<file_name>/resources/en-us/str/gui/guild.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="220524" version="1065353216">Awaiting group members' confirmation...</text>
+		<text bitflag="321" id1="2" id2="220524" version="1065353216">The name is not available.</text>
+		<text bitflag="321" id1="3" id2="220524" version="1065353216">gldResultOutOfRange</text>
+		<text bitflag="321" id1="4" id2="220524" version="1065353216">gldResultInsufficientFunds</text>
+		<text bitflag="321" id1="5" id2="220524" version="1065353216">Invalid group.</text>
+		<text bitflag="321" id1="6" id2="220524" version="1065353216">gldResultFailed</text>
+		<text bitflag="321" id1="7" id2="220524" version="1065353216">gldResultTargetIsBusy</text>
+		<text bitflag="321" id1="8" id2="220524" version="1065353216">gldResultInvalidTarget</text>
+		<text bitflag="321" id1="9" id2="220524" version="1065353216">Guild MOTD:</text>
+		<text bitflag="321" id1="10" id2="220524" version="1065353216">Are you sure you want to delete the &lt;&lt;1&gt;&gt; rank?</text>
+		<text bitflag="321" id1="100" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; is busy.</text>
+		<text bitflag="321" id1="101" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; is already in a guild.</text>
+		<text bitflag="321" id1="102" id2="220524" version="1065353216">Player is not online or doesn't exist.</text>
+		<text bitflag="321" id1="103" id2="220524" version="1065353216">You have invited &lt;&lt;1&gt;&gt; to join your guild.</text>
+		<text bitflag="321" id1="104" id2="220524" version="1065353216">You are not in a guild.</text>
+		<text bitflag="321" id1="105" id2="220524" version="1065353216">Auto-declining guild invite from &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="106" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has invited you to join</text>
+		<text bitflag="321" id1="107" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; attempted to invite you to their guild.</text>
+		<text bitflag="321" id1="108" id2="220524" version="1065353216">You may not invite yourself to a guild.</text>
+		<text bitflag="321" id1="109" id2="220524" version="1065353216">You must abdicate leadership to another member before you may quit the guild.</text>
+		<text bitflag="321" id1="110" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; declined your guild invite.</text>
+		<text bitflag="321" id1="111" id2="220524" version="1065353216">You have joined a guild.</text>
+		<text bitflag="321" id1="112" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has joined the guild.</text>
+		<text bitflag="321" id1="113" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has logged in.</text>
+		<text bitflag="321" id1="114" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has gone offline.</text>
+		<text bitflag="321" id1="115" id2="220524" version="1065353216">You quit the guild.</text>
+		<text bitflag="321" id1="116" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; quit the guild.</text>
+		<text bitflag="321" id1="117" id2="220524" version="1065353216">You removed &lt;&lt;1&gt;&gt; from the guild.</text>
+		<text bitflag="321" id1="118" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; removed &lt;&lt;2&gt;&gt; from the guild.</text>
+		<text bitflag="321" id1="119" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; removed you from the guild.</text>
+		<text bitflag="321" id1="120" id2="220524" version="1065353216">You set &lt;&lt;1&gt;&gt;'s rank to &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="121" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; set your rank to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="122" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; set &lt;&lt;2&gt;&gt;'s rank to &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="123" id2="220524" version="1065353216">You have disbanded the guild.</text>
+		<text bitflag="321" id1="124" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has disbanded the guild.</text>
+		<text bitflag="321" id1="125" id2="220524" version="1065353216">Your guild rank does not have permission to do that.</text>
+		<text bitflag="321" id1="126" id2="220524" version="1065353216">You are not currently in a guild.</text>
+		<text bitflag="321" id1="127" id2="220524" version="1065353216">usage: /ginvite [target], /gquit, /gremove [target], /gban [target], /gabdicate [target], /gdisband</text>
+		<text bitflag="321" id1="128" id2="220524" version="1065353216">Guildmaster</text>
+		<text bitflag="321" id1="129" id2="220524" version="1065353216">Officer</text>
+		<text bitflag="321" id1="130" id2="220524" version="1065353216">Lieutenant</text>
+		<text bitflag="321" id1="131" id2="220524" version="1065353216">Member</text>
+		<text bitflag="321" id1="132" id2="220524" version="1065353216">Recruit</text>
+		<text bitflag="321" id1="133" id2="220524" version="1065353216">Disband your guild?  All guild owned strongholds will be deactivated and all donated decorations lost.</text>
+		<text bitflag="321" id1="134" id2="220524" version="1065353216">You have been removed from the guild.</text>
+		<text bitflag="321" id1="135" id2="220524" version="1065353216">Would you like to join this guild?</text>
+		<text bitflag="321" id1="136" id2="220524" version="1065353216">Guild Import Offer</text>
+		<text bitflag="321" id1="137" id2="220524" version="1065353216">Your web guild &lt;&lt;1&gt;&gt; is assigned to this server, but has not yet been created.
+Create the guild and join it with this character? NOTE: You may only auto-join with one character.</text>
+		<text bitflag="321" id1="138" id2="220524" version="1065353216">Your web guild &lt;&lt;1&gt;&gt; is on this server.
+Join the guild with this character? NOTE: You may only auto-join with one character.</text>
+		<text bitflag="321" id1="139" id2="220524" version="1065353216">Guild import failed. Please try again later.</text>
+		<text bitflag="321" id1="140" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has invited you to join the guild called &quot;&lt;&lt;2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="258" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; is not in your guild.</text>
+		<text bitflag="321" id1="259" id2="220524" version="1065353216">Invalid target.</text>
+		<text bitflag="321" id1="260" id2="220524" version="1065353216">You cannot abdicate the guild to yourself.</text>
+		<text bitflag="321" id1="261" id2="220524" version="1065353216">The guild is full.</text>
+		<text bitflag="321" id1="262" id2="220524" version="1065353216">Cannot promote &lt;&lt;1&gt;&gt; to that rank because it requires all members to have a Security Key.</text>
+		<text bitflag="321" id1="263" id2="220524" version="1065353216">Security Key Warning</text>
+		<text bitflag="321" id1="264" id2="220524" version="1065353216">Making the Security Key required for this guild rank will cause those members who do not have an Security Key to be demoted to the lowest rank.</text>
+		<text bitflag="321" id1="265" id2="220524" version="1065353216">Removing the lowest rank will result in the removal of the Security Key requirement of the next lowest rank. Are you sure you want to remove rank &lt;&lt;1&gt;&gt;?</text>
+		<text bitflag="321" id1="266" id2="220524" version="1065353216">Promoting the lowest rank will result in the removal of the Security Key requirement of the next lowest rank. Are you sure you want to promote rank &lt;&lt;1&gt;&gt;?</text>
+		<text bitflag="321" id1="267" id2="220524" version="1065353216">Promote Rank</text>
+		<text bitflag="321" id1="268" id2="220524" version="1065353216">Demoting this rank to the lowest rank will result in the removal of the Security Key requirement. Are you sure you want to demote rank &lt;&lt;1&gt;&gt;?</text>
+		<text bitflag="321" id1="269" id2="220524" version="1065353216">Demote Rank</text>
+		<text bitflag="321" id1="270" id2="220524" version="1065353216">Do you wish to purchase a Guild Bank for &lt;&lt;1&gt;&gt; credits?</text>
+		<text bitflag="321" id1="271" id2="220524" version="1065353216">Purchasing a guild bank will cost &lt;&lt;1&gt;&gt; credits, and requires that the guild has at least &lt;&lt;2&gt;&gt; members.</text>
+		<text bitflag="321" id1="272" id2="220524" version="1065353216">PURCHASE GUILD BANK</text>
+		<text bitflag="321" id1="273" id2="220524" version="1065353216">Purchasing a guild bank requires &lt;&lt;1&gt;&gt; guild members. Your guild only has &lt;&lt;2[$d member/$d members&gt;&gt;.</text>
+		<text bitflag="321" id1="274" id2="220524" version="1065353216">EXPAND GUILD BANK</text>
+		<text bitflag="321" id1="275" id2="220524" version="1065353216">Do you wish to expand your Guild Bank with another Vault for &lt;&lt;1&gt;&gt; credits?</text>
+		<text bitflag="321" id1="276" id2="220524" version="1065353216">You have insufficient funds to complete this transaction. Expanding your Guild Bank with another Vault will cost &lt;&lt;1&gt;&gt; credits.</text>
+		<text bitflag="321" id1="277" id2="220524" version="1065353216">Bank Vault &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="278" id2="220524" version="1065353216">WITHDRAW CREDITS</text>
+		<text bitflag="321" id1="279" id2="220524" version="1065353216">Enter number of credits to withdraw</text>
+		<text bitflag="321" id1="280" id2="220524" version="1065353216">DEPOSIT CREDITS</text>
+		<text bitflag="321" id1="281" id2="220524" version="1065353216">Enter number of credits to deposit</text>
+		<text bitflag="321" id1="282" id2="220524" version="1065353216">You do not have permission to add items to this Guild Bank Vault.</text>
+		<text bitflag="321" id1="283" id2="220524" version="1065353216">GUILD BANK ERROR</text>
+		<text bitflag="321" id1="284" id2="220524" version="1065353216">You attempted to withdraw &lt;&lt;1&gt;&gt; item(s) from this Guild Bank Vault. The maximum remaining you are permitted to withdraw is &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="285" id2="220524" version="1065353216">You are not permitted to rearrange items in this Guild Bank Vault.</text>
+		<text bitflag="321" id1="286" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; is an invalid number of credits to withdraw from the Guild Bank. The maximum you may withdraw is &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="287" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; is an invalid number of credits to deposit in the guild bank. You currently have &lt;&lt;2&gt;&gt; credits.</text>
+		<text bitflag="321" id1="288" id2="220524" version="1065353216">-- Obsolete Item --</text>
+		<text bitflag="321" id1="289" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; x&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="290" id2="220524" version="1065353216">Your Guild Bank is currently frozen by Customer Service.</text>
+		<text bitflag="321" id1="291" id2="220524" version="1065353216">Failed to respec using guild funds.</text>
+		<text bitflag="321" id1="292" id2="220524" version="1065353216">Slot is busy.</text>
+		<text bitflag="321" id1="293" id2="220524" version="1065353216">Edit Rank Name</text>
+		<text bitflag="321" id1="294" id2="220524" version="1065353216">Guild bank cannot hold &lt;&lt;1&gt;&gt;, max deposit possible &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="295" id2="220524" version="1065353216">Not permitted for Trial Accounts.</text>
+		<text bitflag="321" id1="296" id2="220524" version="1065353216">Guild Loading Error: Please contact customer support.</text>
+		<text bitflag="321" id1="297" id2="220524" version="1065353216">The following player cannot join a guild at this time: &lt;&lt;1&gt;&gt;.  This player should contact customer support.</text>
+		<text bitflag="321" id1="298" id2="220524" version="1065353216">The following players cannot join a guild at this time: &lt;&lt;1&gt;&gt;.  Affected players should contact customer support.</text>
+		<text bitflag="321" id1="299" id2="220524" version="1065353216">Guild Creation Error</text>
+		<text bitflag="321" id1="300" id2="220524" version="1065353216">Your guild has been renamed to &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="301" id2="220524" version="1065353216">GUILD RENAME</text>
+		<text bitflag="321" id1="302" id2="220524" version="1065353216">Enter a new name for your Guild.&lt;br&gt;Guild names must be unique.</text>
+		<text bitflag="321" id1="303" id2="220524" version="1065353216">Are you sure you want to rename your guild to &lt;&lt;1&gt;&gt;?</text>
+		<text bitflag="321" id1="304" id2="220524" version="1065353216">Your Guild is no longer a Free-to-Play Player Guild. Restrictions have been removed.</text>
+		<text bitflag="321" id1="305" id2="220524" version="1065353216">Your guild is now a Free-to-Play Player Guild. Some functionality is now restricted.</text>
+		<text bitflag="321" id1="306" id2="220524" version="1065353216">&amp;lt;Guild Name Has Expired&amp;gt;</text>
+		<text bitflag="321" id1="307" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has completed achievement &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="308" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has completed a conquest objective: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="309" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has achieved their personal conquest point target.</text>
+		<text bitflag="321" id1="312" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has moved the Guild's Flagship (&lt;&lt;2&gt;&gt;)</text>
+		<text bitflag="321" id1="313" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has activated orbital support for &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="314" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has revoked orbital support for planet &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="315" id2="220524" version="1065353216">Orbital support is already active.</text>
+		<text bitflag="321" id1="316" id2="220524" version="1065353216">You must have a gold key in order to activate orbital support.</text>
+		<text bitflag="321" id1="317" id2="220524" version="1065353216">Your Flagship must be docked with the planet you wish to orbitally support.</text>
+		<text bitflag="321" id1="318" id2="220524" version="1065353216">Your guild does not have a guild bank.</text>
+		<text bitflag="321" id1="319" id2="220524" version="1065353216">Your guild bank has insufficient credits to purchase orbital support.</text>
+		<text bitflag="321" id1="320" id2="220524" version="1065353216">You do not have sufficient withdrawal privileges from the guild bank to pay for the orbital support.</text>
+		<text bitflag="321" id1="322" id2="220524" version="1065353216">Your guild does not have a Flagship</text>
+		<text bitflag="321" id1="323" id2="220524" version="1065353216">You are not in your guild's Flagship.</text>
+		<text bitflag="321" id1="324" id2="220524" version="1065353216">You must be near your Flagship's command console.</text>
+		<text bitflag="321" id1="325" id2="220524" version="1065353216">Your guild's Flagship already has a name.</text>
+		<text bitflag="321" id1="326" id2="220524" version="1065353216">You are not the leader of your guild.</text>
+		<text bitflag="321" id1="327" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has donated decoration [&lt;&lt;2&gt;&gt;] for the guild.</text>
+		<text bitflag="321" id1="330" id2="220524" version="1065353216">Your guild's Stronghold has been deactivated.</text>
+		<text bitflag="321" id1="331" id2="220524" version="1065353216">Your guild's Flagship has been deactivated.</text>
+		<text bitflag="321" id1="334" id2="220524" version="1065353216">EDIT GUILD PROFILE</text>
+		<text bitflag="321" id1="336" id2="220524" version="1065353216">GUILD TAGS</text>
+		<text bitflag="321" id1="337" id2="220524" version="1065353216">GUILD INSPECT</text>
+		<text bitflag="321" id1="338" id2="220524" version="1065353216">You cannot ban yourself from the guild.</text>
+		<text bitflag="321" id1="339" id2="220524" version="1065353216">The guild leader cannot be banned from the guild.</text>
+		<text bitflag="321" id1="340" id2="220524" version="1065353216">You cannot ban a guild member with a higher rank.</text>
+		<text bitflag="321" id1="341" id2="220524" version="1065353216">You cannot invite &lt;&lt;1&gt;&gt; to the guild because they have been banned.</text>
+		<text bitflag="321" id1="342" id2="220524" version="1065353216">The guild's banned account list is full.</text>
+		<text bitflag="321" id1="343" id2="220524" version="1065353216">The guild has reached the Guild Commendation cap.</text>
+		<text bitflag="321" id1="344" id2="220524" version="1065353216">You have banned &lt;&lt;1&gt;&gt; from the guild.</text>
+		<text bitflag="321" id1="345" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; has banned &lt;&lt;2&gt;&gt; from the guild.</text>
+		<text bitflag="321" id1="346" id2="220524" version="1065353216">The guild has reached the weekly guild experience cap.</text>
+		<text bitflag="321" id1="354" id2="220524" version="1065353216">Guild Level: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="355" id2="220524" version="1065353216">&lt;&lt;1&gt;&gt; Guild Bank Purchased
+&lt;&lt;2&gt;&gt; Guild Flagship Purchased
+&lt;&lt;3&gt;&gt; Invasion Planet Selected</text>
+		<text bitflag="321" id1="356" id2="220524" version="1065353216">Required Steps</text>
+		<text bitflag="321" id1="357" id2="220524" version="1065353216">Docking Bay</text>
+		<text bitflag="321" id1="358" id2="220524" version="1065353216">Bridge</text>
+		<text bitflag="321" id1="363" id2="220524" version="1065353216">Purchase</text>
+		<text bitflag="321" id1="364" id2="220524" version="1065353216">You are unable to purchase this Perk.</text>
+		<text bitflag="321" id1="365" id2="220524" version="1065353216">This Flagship room must be unlocked before a Perk can be equipped. Return to your Flagship to unlock this room.</text>
+		<text bitflag="321" id1="366" id2="220524" version="1065353216">You cannot afford to purchase this Perk.</text>
+		<text bitflag="321" id1="367" id2="220524" version="1065353216">Perks require the guild to have a Flagship. See a Flagship kiosk to make this purchase.</text>
+		<text bitflag="321" id1="368" id2="220524" version="1065353216">Your guild does not meet the requirements to purchase this Perk.</text>
+		<text bitflag="321" id1="369" id2="220524" version="1065353216">REMOVE</text>
+		<text bitflag="321" id1="370" id2="220524" version="1065353216">REMOVE PERK</text>
+		<text bitflag="321" id1="371" id2="220524" version="1065353216">Are you sure you wish to remove this Perk?</text>
+		<text bitflag="321" id1="372" id2="220524" version="1065353216">UNLOCK</text>
+		<text bitflag="321" id1="373" id2="220524" version="1065353216">You do not have the proper guild rank permissions.</text>
+		<text bitflag="321" id1="374" id2="220524" version="1065353216">You have unbanned &lt;&lt;1&gt;&gt; from the guild.</text>
+		<text bitflag="321" id1="375" id2="220524" version="1065353216">You have updated the ban note for &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="376" id2="220524" version="1065353216">Social Grouping: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="377" id2="220524" version="1065353216">Player Types: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="378" id2="220524" version="1065353216">Skill Level: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="379" id2="220524" version="1065353216">Guild Atmosphere: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="380" id2="220524" version="1065353216">All</text>
+		<text bitflag="321" id1="381" id2="220524" version="1065353216">Any</text>
+		<text bitflag="321" id1="382" id2="220524" version="1065353216">Casual Friendly</text>
+		<text bitflag="321" id1="383" id2="220524" version="1065353216">Chill</text>
+		<text bitflag="321" id1="384" id2="220524" version="1065353216">Roleplay</text>
+		<text bitflag="321" id1="385" id2="220524" version="1065353216">Dedicated</text>
+		<text bitflag="321" id1="386" id2="220524" version="1065353216">Beginner Friendly</text>
+		<text bitflag="321" id1="387" id2="220524" version="1065353216">Family Friendly</text>
+		<text bitflag="321" id1="388" id2="220524" version="1065353216">Diversity Friendly</text>
+		<text bitflag="321" id1="389" id2="220524" version="1065353216">Adults</text>
+		<text bitflag="321" id1="390" id2="220524" version="1065353216">Training Grounds</text>
+		<text bitflag="321" id1="391" id2="220524" version="1065353216">Medium Skill</text>
+		<text bitflag="321" id1="392" id2="220524" version="1065353216">High Skill</text>
+		<text bitflag="321" id1="393" id2="220524" version="1065353216">Competitive Skill</text>
+		<text bitflag="321" id1="394" id2="220524" version="1065353216">Fun/Humor</text>
+		<text bitflag="321" id1="395" id2="220524" version="1065353216">Active Mentors</text>
+		<text bitflag="321" id1="396" id2="220524" version="1065353216">Serious Players</text>
+		<text bitflag="321" id1="397" id2="220524" version="1065353216">Leaderboard or Bust</text>
+		<text bitflag="321" id1="398" id2="220524" version="1065353216">Private</text>
+		<text bitflag="321" id1="399" id2="220524" version="1065353216">Recruiting</text>
+		<text bitflag="321" id1="400" id2="220524" version="1065353216">Social Grouping</text>
+		<text bitflag="321" id1="402" id2="220524" version="1065353216">Select a Perk to purchase from the list below.</text>
+		<text bitflag="321" id1="403" id2="220524" version="1065353216">Are you sure you wish to purchase this Perk?</text>
+		<text bitflag="321" id1="404" id2="220524" version="1065353216">PURCHASE PERK</text>
+		<text bitflag="321" id1="405" id2="220524" version="1065353216">Player Types</text>
+		<text bitflag="321" id1="406" id2="220524" version="1065353216">Skill Level</text>
+		<text bitflag="321" id1="407" id2="220524" version="1065353216">Guild Atmosphere</text>
+		<text bitflag="321" id1="408" id2="220524" version="1065353216">Guild Level Up</text>
+		<text bitflag="321" id1="409" id2="220524" version="1065353216">Guild Commendations</text>
+		<text bitflag="321" id1="410" id2="220524" version="1065353216">Active Perks</text>
+		<text bitflag="321" id1="411" id2="220524" version="1065353216">Link</text>
+		<text bitflag="321" id1="412" id2="220524" version="1065353216">Inspect</text>
+	</file_content>
+</stb_file>

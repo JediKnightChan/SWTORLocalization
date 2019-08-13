@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/world_arc/republic/hub_1/failsafe/embassy_security_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1009872" id2="17" version="1065353216">Acknowledging new ident code.</text>
+		<text bitflag="1345" id1="1009874" id2="17" version="1065353216">Greetings, Senior Command Unit 223.</text>
+		<text bitflag="1345" id1="1009875" id2="17" version="1065353216">Just a routine security inspection. You pass just fine, but I need to... check the rest of the embassy.</text>
+		<text bitflag="1360" id1="1009875" id2="17" version="1065353216">As you were.</text>
+		<text bitflag="1345" id1="1009876" id2="17" version="1065353216">You're a credit to your security programming. I'll be sure to put in a commendation.</text>
+		<text bitflag="1360" id1="1009876" id2="17" version="1065353216">I commend your diligence.</text>
+		<text bitflag="1345" id1="1009877" id2="17" version="1065353216">Here's another new command for you. Blast anyone who follows us through that door.</text>
+		<text bitflag="1360" id1="1009877" id2="17" version="1065353216">Guard this door. Don't move.</text>
+		<text bitflag="1345" id1="1009878" id2="17" version="1065353216">If you hear anyone shooting or yelling, it's just a drill. Oh, and if anyone tells you it's not a drill, that's a drill, too.</text>
+		<text bitflag="1360" id1="1009878" id2="17" version="1065353216">Ignore any blaster fire.</text>
+		<text bitflag="1345" id1="1009879" id2="17" version="1065353216">Good to know Chief Hurkwill's codes are still valid.</text>
+		<text bitflag="1360" id1="1009879" id2="17" version="1065353216">The reprogramming worked.</text>
+		<text bitflag="1345" id1="1009880" id2="17" version="1065353216">Once everyone's out of this room, you'll erase your memory core of this meeting. Got it?</text>
+		<text bitflag="1360" id1="1009880" id2="17" version="1065353216">Forget you saw anyone.</text>
+		<text bitflag="1345" id1="1009881" id2="17" version="1065353216">Acknowledged.</text>
+		<text bitflag="1345" id1="1009883" id2="17" version="1065353216">Feel free to inspect the embassy. You will find everything in order.</text>
+	</file_content>
+</stb_file>

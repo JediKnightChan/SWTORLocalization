@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>18</strs>
+		<file_name>/resources/en-us/str/cnv/misc/pvp/general.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="62172" id2="17" version="1065353216">You do the Republic proud.</text>
+		<text bitflag="1345" id1="62173" id2="17" version="1065353216">The Empire is in your debt.</text>
+		<text bitflag="1345" id1="62176" id2="17" version="1065353216">It's bravery like yours that'll get us through this war.</text>
+		<text bitflag="1345" id1="62177" id2="17" version="1065353216">You will be the destruction of our enemies.</text>
+		<text bitflag="1345" id1="62180" id2="17" version="1065353216">The Republic will honor your achievements forever.</text>
+		<text bitflag="1345" id1="62181" id2="17" version="1065353216">With you, we march toward triumph, and a glorious future!</text>
+		<text bitflag="1345" id1="62184" id2="17" version="1065353216">We have a cache of stun gas. Move to deploy.</text>
+		<text bitflag="1345" id1="62185" id2="17" version="1065353216">Enemy has stun gas! Move!</text>
+		<text bitflag="1345" id1="62188" id2="17" version="1065353216">They've got stun gas! Look out!</text>
+		<text bitflag="1345" id1="62189" id2="17" version="1065353216">Prepare to deploy stun gas.</text>
+		<text bitflag="1345" id1="62192" id2="17" version="1065353216">Place the signals and prepare for an air strike!</text>
+		<text bitflag="1345" id1="62193" id2="17" version="1065353216">Republic air strike imminent!</text>
+		<text bitflag="1345" id1="62196" id2="17" version="1065353216">Enemy air strike incoming!</text>
+		<text bitflag="1345" id1="62197" id2="17" version="1065353216">Ready the signals. We'll target from the air.</text>
+		<text bitflag="1345" id1="62200" id2="17" version="1065353216">Position the explosives near enemy artillery!</text>
+		<text bitflag="1345" id1="62201" id2="17" version="1065353216">The Republic is attempting to destroy our artillery. Intercept immediately!</text>
+		<text bitflag="1345" id1="62204" id2="17" version="1065353216">Enemy is moving to detonate our artillery. We need to intercept!</text>
+		<text bitflag="1345" id1="62205" id2="17" version="1065353216">Deliver the explosives to the enemy artillery.</text>
+	</file_content>
+</stb_file>

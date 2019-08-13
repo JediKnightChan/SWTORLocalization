@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>31</strs>
+		<file_name>/resources/en-us/str/gui/gcpackexplorer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="924503" version="1065353216">There is not enough room in your inventory to claim all items from the Galactic Command Item Stash.</text>
+		<text bitflag="321" id1="257" id2="924503" version="1065353216">Galactic Command Stash Item not found.</text>
+		<text bitflag="321" id1="258" id2="924503" version="1065353216">Added item &lt;&lt;1&gt;&gt; x&lt;&lt;2&gt;&gt; to the Galactic Command Item Stash</text>
+		<text bitflag="321" id1="259" id2="924503" version="1065353216">&lt;&lt;1&gt;&gt; x&lt;&lt;2&gt;&gt;, has been transferred to your inventory.</text>
+		<text bitflag="321" id1="260" id2="924503" version="1065353216">Are you sure?</text>
+		<text bitflag="321" id1="261" id2="924503" version="1065353216">Pack opening will instantly consume one pack at a time. This cannot be undone.</text>
+		<text bitflag="321" id1="262" id2="924503" version="1065353216">Never show again</text>
+		<text bitflag="321" id1="263" id2="924503" version="1065353216">Command Stash</text>
+		<text bitflag="321" id1="264" id2="924503" version="1065353216">Pending Command Crates</text>
+		<text bitflag="321" id1="265" id2="924503" version="1065353216">No available space in the Galactic Command Item Stash, please remove items before attempting to open another crate.</text>
+		<text bitflag="321" id1="266" id2="924503" version="1065353216">Disintegrate</text>
+		<text bitflag="321" id1="267" id2="924503" version="1065353216">Claim</text>
+		<text bitflag="321" id1="268" id2="924503" version="1065353216">Select All/None</text>
+		<text bitflag="321" id1="269" id2="924503" version="1065353216">Open</text>
+		<text bitflag="321" id1="270" id2="924503" version="1065353216">Successfully Expanded the Command Stash!</text>
+		<text bitflag="321" id1="271" id2="924503" version="1065353216">Command Stash Capacity</text>
+		<text bitflag="321" id1="272" id2="924503" version="1065353216">You are currently using &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt; of your available Command Stash slots.</text>
+		<text bitflag="321" id1="273" id2="924503" version="1065353216">Expand Command Stash</text>
+		<text bitflag="321" id1="274" id2="924503" version="1065353216">Visit the Cartel Market to expand the amount of space in your Command Stash.</text>
+		<text bitflag="321" id1="275" id2="924503" version="1065353216">Claim Item(s)</text>
+		<text bitflag="321" id1="276" id2="924503" version="1065353216">Transfer the selected items to your inventory. Items will remain in your Command Stash indefinitely until you claim them.</text>
+		<text bitflag="321" id1="277" id2="924503" version="1065353216">Disintegrate Item(s)</text>
+		<text bitflag="321" id1="278" id2="924503" version="1065353216">Destroy the selected items and convert them into Command Points.</text>
+		<text bitflag="321" id1="279" id2="924503" version="1065353216">COMMAND POINTS: +&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="280" id2="924503" version="1065353216">+&lt;&lt;1&gt;&gt; Command Points</text>
+		<text bitflag="321" id1="282" id2="924503" version="1065353216">Disintegrating multiple stacks of items will permanently remove them from the Command Stash.</text>
+		<text bitflag="321" id1="283" id2="924503" version="1065353216">Unable to disintegrate items. You have reached the Command Point cap for the week.</text>
+		<text bitflag="321" id1="284" id2="924503" version="1065353216">Unable to claim &lt;&lt;1&gt;&gt; x&lt;&lt;2&gt;&gt;. You have reached the cap for that currency.</text>
+		<text bitflag="321" id1="285" id2="924503" version="1065353216">+ &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="286" id2="924503" version="1065353216">+ &lt;&lt;1&gt;&gt; CXP</text>
+		<text bitflag="321" id1="287" id2="924503" version="1065353216">There is not enough room in your inventory to receive all disintegrated unassembled components.</text>
+	</file_content>
+</stb_file>

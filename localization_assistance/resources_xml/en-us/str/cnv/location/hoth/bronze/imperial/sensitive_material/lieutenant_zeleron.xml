@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>36</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/bronze/imperial/sensitive_material/lieutenant_zeleron.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="537863" id2="17" version="1065353216">I've already ordered a complete overhaul of the base's security systems.</text>
+		<text bitflag="3393" id1="537865" id2="17" version="1065353216">You must recover those stolen plans.</text>
+		<text bitflag="3393" id1="537866" id2="17" version="1065353216">Pardon the intrusion. I am Lieutenant Zerdran, here at Moff Braynor's request. My field: crisis control.</text>
+		<text bitflag="3393" id1="537867" id2="17" version="1065353216">I have no time for small talk.</text>
+		<text bitflag="3393" id1="537872" id2="17" version="1065353216">Impossible odds, yet still you manage to recover the stolen plans. Well done.</text>
+		<text bitflag="3393" id1="742073" id2="17" version="1065353216">Approximately nine hours ago, a Republic Spec Ops team infiltrated this base. Sliced the mainframe, gained unrestricted access to the Imperial network.</text>
+		<text bitflag="3393" id1="742075" id2="17" version="1065353216">We severed the connection, but not before the intruders stole classified data files outlining the Empire's campaign on Hoth.</text>
+		<text bitflag="1360" id1="742076" id2="17" version="1065353216">You're all incompetent.</text>
+		<text bitflag="3393" id1="742077" id2="17" version="1065353216">I was only called in after the breach took place. But I assure you, disciplinary action has been taken.</text>
+		<text bitflag="3393" id1="742483" id2="17" version="1065353216">The assault was executed by Xesh Squad. Infiltration unit, specializes in high-risk ops. Responsible for the Imperial Citadel bombing a few years back.</text>
+		<text bitflag="3393" id1="742485" id2="17" version="1065353216">We've tracked the Xesh commandos to an abandoned Ortolan outpost. They're boxed in, but firmly entrenched and awaiting extraction.</text>
+		<text bitflag="1360" id1="742488" id2="17" version="1065353216">Then go in and get them.</text>
+		<text bitflag="3393" id1="742490" id2="17" version="1065353216">Xesh Squad established a defensive perimeter in record time, turned the outpost into a veritable fortress. We can't move on them.</text>
+		<text bitflag="3393" id1="742492" id2="17" version="1065353216">That's why we must act fast.</text>
+		<text bitflag="3393" id1="742495" id2="17" version="1065353216">Recovery of the stolen plans is the Empire's top priority right now. Moff Braynor has requested you resolve the matter. Swiftly.</text>
+		<text bitflag="3393" id1="742504" id2="17" version="1065353216">I'm still reviewing the footage, assessing any flaws in our security. I can make my report available to you, if you wish.</text>
+		<text bitflag="1360" id1="742507" id2="17" version="1065353216">Who were the intruders?</text>
+		<text bitflag="1360" id1="742519" id2="17" version="1065353216">I'll pass. [Refuse quest]</text>
+		<text bitflag="3393" id1="742520" id2="17" version="1065353216">Moff Braynor will not be pleased.</text>
+		<text bitflag="1360" id1="742522" id2="17" version="1065353216">I'll head out immediately.</text>
+		<text bitflag="3393" id1="742525" id2="17" version="1065353216">The quicker the better. Only a matter of time before Xesh Squad's evac arrives and the plans are lost to us forever.</text>
+		<text bitflag="1360" id1="742529" id2="17" version="1065353216">I will destroy Xesh Squad.</text>
+		<text bitflag="1360" id1="742530" id2="17" version="1065353216">Bad day for the Empire.</text>
+		<text bitflag="3393" id1="742535" id2="17" version="1065353216">Quite.</text>
+		<text bitflag="3393" id1="742554" id2="17" version="1065353216">It's become clear that we require outside assistance to defuse the situation.</text>
+		<text bitflag="3393" id1="742696" id2="17" version="1065353216">Moff Braynor will be delighted to hear of your success--and of Xesh Squad's demise, no doubt.</text>
+		<text bitflag="1360" id1="742763" id2="17" version="1065353216">This does not concern Sith.</text>
+		<text bitflag="3393" id1="742764" id2="17" version="1065353216">I was under the impression the Sith and the Empire shared a common interest.</text>
+		<text bitflag="1360" id1="742765" id2="17" version="1065353216">So they're trapped. Excellent.</text>
+		<text bitflag="3393" id1="742766" id2="17" version="1065353216">At best, we're at a stalemate.</text>
+		<text bitflag="3393" id1="742887" id2="17" version="1065353216">I'll do what I can to ensure we never suffer through a similar incident. In the meantime, you have my thanks.</text>
+		<text bitflag="1360" id1="743063" id2="17" version="1065353216">Let's talk payment first.</text>
+		<text bitflag="3393" id1="743064" id2="17" version="1065353216">I have been authorized to provide compensation on successful retrieval of the plans.</text>
+		<text bitflag="1360" id1="743198" id2="17" version="1065353216">This is a huge setback.</text>
+		<text bitflag="1360" id1="743199" id2="17" version="1065353216">How did they get in?</text>
+		<text bitflag="1360" id1="743215" id2="17" version="1065353216">Why come to me?</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/flashpoint/tython_and_korriban/imperial/k3_f7.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1128252" id2="17" version="1065353216">Sith Academy = under Republic control // Reclamation = crucial // Imperial shuttle = take you to Korriban now?</text>
+		<text bitflag="3393" id1="1128253" id2="17" version="1065353216">Shuttle = ready // You = reclaim the Sith Academy on Korriban!</text>
+		<text bitflag="1360" id1="1128278" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1128281" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="1128287" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="1128290" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1128292" id2="17" version="1065353216">[Refuse Mission]</text>
+		<text bitflag="3393" id1="1128293" id2="17" version="1065353216">Shuttle = remains fueled + at the ready....</text>
+		<text bitflag="3393" id1="1128295" id2="17" version="1065353216">Reclamation mission = pending // K3 = on alert for mission plan clearance!</text>
+		<text bitflag="1360" id1="1147980" id2="17" version="1065353216">[Start Story Mode]</text>
+		<text bitflag="1360" id1="1147981" id2="17" version="1065353216">[Start Solo Mode]</text>
+	</file_content>
+</stb_file>

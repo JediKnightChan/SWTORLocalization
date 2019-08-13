@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>242</strs>
+		<file_name>/resources/en-us/str/gui/tooltips.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194677" version="1065353216">Requires Level &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="2" id2="194677" version="1065353216">Requires &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="3" id2="194677" version="1065353216">Requires &lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt;)</text>
+		<text bitflag="321" id1="4" id2="194677" version="1065353216">Weapon</text>
+		<text bitflag="321" id1="5" id2="194677" version="1065353216">Military Gear</text>
+		<text bitflag="321" id1="6" id2="194677" version="1065353216">Courting</text>
+		<text bitflag="321" id1="7" id2="194677" version="1065353216">Luxury</text>
+		<text bitflag="321" id1="8" id2="194677" version="1065353216">Technology</text>
+		<text bitflag="321" id1="9" id2="194677" version="1065353216">Republic Memorabilia</text>
+		<text bitflag="321" id1="10" id2="194677" version="1065353216">Imperial Memorabilia</text>
+		<text bitflag="321" id1="11" id2="194677" version="1065353216">Cultural Artifact</text>
+		<text bitflag="321" id1="12" id2="194677" version="1065353216">Trophy</text>
+		<text bitflag="321" id1="13" id2="194677" version="1065353216">Underworld Good</text>
+		<text bitflag="321" id1="14" id2="194677" version="1065353216">Artwork</text>
+		<text bitflag="321" id1="15" id2="194677" version="1065353216">Consumable</text>
+		<text bitflag="321" id1="16" id2="194677" version="1065353216">Kitsch</text>
+		<text bitflag="321" id1="17" id2="194677" version="1065353216">Pet</text>
+		<text bitflag="321" id1="18" id2="194677" version="1065353216">Secret</text>
+		<text bitflag="321" id1="19" id2="194677" version="1065353216">Rank</text>
+		<text bitflag="321" id1="20" id2="194677" version="1065353216">Shield Absorb</text>
+		<text bitflag="321" id1="21" id2="194677" version="1065353216">Shield Chance</text>
+		<text bitflag="321" id1="22" id2="194677" version="1065353216">Requires</text>
+		<text bitflag="321" id1="23" id2="194677" version="1065353216">Ingredients:</text>
+		<text bitflag="321" id1="24" id2="194677" version="1065353216">Creates:</text>
+		<text bitflag="321" id1="25" id2="194677" version="1065353216">Skill</text>
+		<text bitflag="321" id1="26" id2="194677" version="1065353216">Force:</text>
+		<text bitflag="321" id1="27" id2="194677" version="1065353216">Energy:</text>
+		<text bitflag="321" id1="28" id2="194677" version="1065353216">Focus:</text>
+		<text bitflag="321" id1="29" id2="194677" version="1065353216">Rage:</text>
+		<text bitflag="321" id1="30" id2="194677" version="1065353216">Energy Cells:</text>
+		<text bitflag="321" id1="31" id2="194677" version="1065353216">Heat:</text>
+		<text bitflag="321" id1="32" id2="194677" version="1065353216">Passive</text>
+		<text bitflag="321" id1="33" id2="194677" version="1065353216">Activation:</text>
+		<text bitflag="321" id1="34" id2="194677" version="1065353216">Channeled:</text>
+		<text bitflag="321" id1="35" id2="194677" version="1065353216">Cooldown:</text>
+		<text bitflag="321" id1="36" id2="194677" version="1065353216">Instant</text>
+		<text bitflag="321" id1="37" id2="194677" version="1065353216">Range:</text>
+		<text bitflag="321" id1="38" id2="194677" version="1065353216">s</text>
+		<text bitflag="321" id1="39" id2="194677" version="1065353216">m</text>
+		<text bitflag="321" id1="40" id2="194677" version="1065353216">Right-click to buy back</text>
+		<text bitflag="321" id1="41" id2="194677" version="1065353216">Right-click to repair</text>
+		<text bitflag="321" id1="42" id2="194677" version="1065353216">Right-click to sell</text>
+		<text bitflag="321" id1="43" id2="194677" version="1065353216">Currently Equipped</text>
+		<text bitflag="321" id1="44" id2="194677" version="1065353216">Unique</text>
+		<text bitflag="321" id1="45" id2="194677" version="1065353216">Quantity:</text>
+		<text bitflag="321" id1="46" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; Armor</text>
+		<text bitflag="321" id1="47" id2="194677" version="1065353216">Durability</text>
+		<text bitflag="321" id1="48" id2="194677" version="1065353216">Damage</text>
+		<text bitflag="321" id1="49" id2="194677" version="1065353216">Fits</text>
+		<text bitflag="321" id1="50" id2="194677" version="1065353216">Equip:</text>
+		<text bitflag="321" id1="51" id2="194677" version="1065353216">Use:</text>
+		<text bitflag="321" id1="52" id2="194677" version="1065353216">Made by &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="53" id2="194677" version="1065353216">Right-click to buy</text>
+		<text bitflag="321" id1="54" id2="194677" version="1065353216">mins</text>
+		<text bitflag="321" id1="55" id2="194677" version="1065353216">secs</text>
+		<text bitflag="321" id1="56" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt;d &lt;&lt;2&gt;&gt;h &lt;&lt;3&gt;&gt;m &lt;&lt;4&gt;&gt;s</text>
+		<text bitflag="321" id1="57" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt;h &lt;&lt;2&gt;&gt;m &lt;&lt;3&gt;&gt;s</text>
+		<text bitflag="321" id1="58" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt;m &lt;&lt;2&gt;&gt;s</text>
+		<text bitflag="321" id1="59" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt;s</text>
+		<text bitflag="321" id1="60" id2="194677" version="1065353216">(right-click to learn this)</text>
+		<text bitflag="321" id1="61" id2="194677" version="1065353216">(you cannot afford this)</text>
+		<text bitflag="321" id1="62" id2="194677" version="1065353216">Skill</text>
+		<text bitflag="321" id1="63" id2="194677" version="1065353216">Left-click to add a point</text>
+		<text bitflag="321" id1="64" id2="194677" version="1065353216">Right-click to remove a point</text>
+		<text bitflag="321" id1="65" id2="194677" version="1065353216">Next Rank:</text>
+		<text bitflag="321" id1="66" id2="194677" version="1065353216">Durability:</text>
+		<text bitflag="321" id1="67" id2="194677" version="1065353216">Modification Slots:</text>
+		<text bitflag="321" id1="68" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;%</text>
+		<text bitflag="321" id1="69" id2="194677" version="1065353216">Item Modifications</text>
+		<text bitflag="321" id1="71" id2="194677" version="1065353216">Shield Absorb: &lt;&lt;1&gt;&gt;%</text>
+		<text bitflag="321" id1="72" id2="194677" version="1065353216">Shield Chance: &lt;&lt;1&gt;&gt;%</text>
+		<text bitflag="321" id1="73" id2="194677" version="1065353216">Total Stats:</text>
+		<text bitflag="321" id1="74" id2="194677" version="1065353216">Stat Changes:</text>
+		<text bitflag="321" id1="75" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="76" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="77" id2="194677" version="1065353216">Visit your trainer to &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="78" id2="194677" version="1065353216">learn</text>
+		<text bitflag="321" id1="79" id2="194677" version="1065353216">advance</text>
+		<text bitflag="321" id1="80" id2="194677" version="1065353216">Reverse engineering will return you some of the materials needed to craft that item, as well as offer a chance to make a better version of that item. Right-click on an item in your inventory to reverse engineer it.</text>
+		<text bitflag="321" id1="81" id2="194677" version="1065353216">(Rating &lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="82" id2="194677" version="1065353216">Armor Rating</text>
+		<text bitflag="321" id1="83" id2="194677" version="1065353216">Weapon Damage/Power Rating</text>
+		<text bitflag="321" id1="84" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt;: Open</text>
+		<text bitflag="321" id1="85" id2="194677" version="1065353216">Item Roll Level &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="86" id2="194677" version="1065353216">&lt;&lt;1[/$dm/$dm]&gt;&gt; &lt;&lt;2[/$ds/$ds]&gt;&gt;</text>
+		<text bitflag="321" id1="87" id2="194677" version="1065353216">CTRL + Right-click to Modify</text>
+		<text bitflag="321" id1="88" id2="194677" version="1065353216">Max Damage</text>
+		<text bitflag="321" id1="89" id2="194677" version="1065353216">Min Damage</text>
+		<text bitflag="321" id1="90" id2="194677" version="1065353216">Light Armor</text>
+		<text bitflag="321" id1="91" id2="194677" version="1065353216">Medium Armor</text>
+		<text bitflag="321" id1="92" id2="194677" version="1065353216">Heavy Armor</text>
+		<text bitflag="321" id1="93" id2="194677" version="1065353216">Shield</text>
+		<text bitflag="321" id1="94" id2="194677" version="1065353216">Focus</text>
+		<text bitflag="321" id1="95" id2="194677" version="1065353216">Generator</text>
+		<text bitflag="321" id1="96" id2="194677" version="1065353216">NPC Only</text>
+		<text bitflag="321" id1="97" id2="194677" version="1065353216">Lightsaber</text>
+		<text bitflag="321" id1="98" id2="194677" version="1065353216">Training Saber</text>
+		<text bitflag="321" id1="99" id2="194677" version="1065353216">Double-bladed Lightsaber</text>
+		<text bitflag="321" id1="100" id2="194677" version="1065353216">Unarmed Combat</text>
+		<text bitflag="321" id1="101" id2="194677" version="1065353216">Gauntlet</text>
+		<text bitflag="321" id1="102" id2="194677" version="1065353216">Vibrosword</text>
+		<text bitflag="321" id1="103" id2="194677" version="1065353216">Electrostaff</text>
+		<text bitflag="321" id1="104" id2="194677" version="1065353216">Vibroknife</text>
+		<text bitflag="321" id1="105" id2="194677" version="1065353216">Blaster Pistol</text>
+		<text bitflag="321" id1="106" id2="194677" version="1065353216">Blaster Rifle</text>
+		<text bitflag="321" id1="107" id2="194677" version="1065353216">Sniper Rifle</text>
+		<text bitflag="321" id1="108" id2="194677" version="1065353216">Assault Cannon</text>
+		<text bitflag="321" id1="109" id2="194677" version="1065353216">Scattergun</text>
+		<text bitflag="321" id1="110" id2="194677" version="1065353216">Female Clothing</text>
+		<text bitflag="321" id1="111" id2="194677" version="1065353216">Male Clothing</text>
+		<text bitflag="321" id1="112" id2="194677" version="1065353216">Droid Armor</text>
+		<text bitflag="321" id1="113" id2="194677" version="1065353216">Valor Rank</text>
+		<text bitflag="321" id1="114" id2="194677" version="1065353216">Armor</text>
+		<text bitflag="321" id1="258" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; Damage</text>
+		<text bitflag="321" id1="259" id2="194677" version="1065353216">OBJECT HAS NO NAME</text>
+		<text bitflag="321" id1="260" id2="194677" version="1065353216">Lore Object</text>
+		<text bitflag="321" id1="261" id2="194677" version="1065353216">Conversation</text>
+		<text bitflag="321" id1="262" id2="194677" version="1065353216">Right-click to Reverse Engineer</text>
+		<text bitflag="321" id1="263" id2="194677" version="1065353216">Forbidden to &lt;&lt;1&gt;&gt; and above</text>
+		<text bitflag="321" id1="264" id2="194677" version="1065353216">Requires &lt;&lt;1&gt;&gt; or above</text>
+		<text bitflag="321" id1="265" id2="194677" version="1065353216">Techblade</text>
+		<text bitflag="321" id1="266" id2="194677" version="1065353216">Techstaff</text>
+		<text bitflag="321" id1="267" id2="194677" version="1065353216">a Ship</text>
+		<text bitflag="321" id1="268" id2="194677" version="1065353216">Achieved Outcast</text>
+		<text bitflag="321" id1="269" id2="194677" version="1065353216">Achieved Social X</text>
+		<text bitflag="321" id1="270" id2="194677" version="1065353216">Achieved Social IX</text>
+		<text bitflag="321" id1="271" id2="194677" version="1065353216">Achieved Social VIII</text>
+		<text bitflag="321" id1="272" id2="194677" version="1065353216">Achieved Social VII</text>
+		<text bitflag="321" id1="273" id2="194677" version="1065353216">Achieved Social VI</text>
+		<text bitflag="321" id1="274" id2="194677" version="1065353216">Achieved Social I</text>
+		<text bitflag="321" id1="275" id2="194677" version="1065353216">Achieved Social II</text>
+		<text bitflag="321" id1="276" id2="194677" version="1065353216">Achieved Social III</text>
+		<text bitflag="321" id1="277" id2="194677" version="1065353216">Achieved Social IV</text>
+		<text bitflag="321" id1="278" id2="194677" version="1065353216">Achieved Social V</text>
+		<text bitflag="321" id1="279" id2="194677" version="1065353216">Outcast</text>
+		<text bitflag="321" id1="280" id2="194677" version="1065353216">Social X</text>
+		<text bitflag="321" id1="281" id2="194677" version="1065353216">Social IX</text>
+		<text bitflag="321" id1="282" id2="194677" version="1065353216">Social VIII</text>
+		<text bitflag="321" id1="283" id2="194677" version="1065353216">Social VII</text>
+		<text bitflag="321" id1="284" id2="194677" version="1065353216">Social VI</text>
+		<text bitflag="321" id1="285" id2="194677" version="1065353216">Social I</text>
+		<text bitflag="321" id1="286" id2="194677" version="1065353216">Social II</text>
+		<text bitflag="321" id1="287" id2="194677" version="1065353216">Social III</text>
+		<text bitflag="321" id1="288" id2="194677" version="1065353216">Social IV</text>
+		<text bitflag="321" id1="289" id2="194677" version="1065353216">Social V</text>
+		<text bitflag="321" id1="290" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; - No longer meet requirements.</text>
+		<text bitflag="321" id1="291" id2="194677" version="1065353216">Requires Legacy Level &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="300" id2="194677" version="1065353216">Highest Warzone Rating</text>
+		<text bitflag="321" id1="301" id2="194677" version="1065353216">Requires &lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt;) or &lt;&lt;3&gt;&gt; (&lt;&lt;4&gt;&gt;)</text>
+		<text bitflag="321" id1="302" id2="194677" version="1065353216">Purchase Requirements:</text>
+		<text bitflag="321" id1="303" id2="194677" version="1065353216">Unlock Requirements:</text>
+		<text bitflag="321" id1="304" id2="194677" version="1065353216">Requires Species &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="305" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; Color Crystal</text>
+		<text bitflag="321" id1="306" id2="194677" version="1065353216">Highest Warzone Rating</text>
+		<text bitflag="321" id1="308" id2="194677" version="1065353216">Highest PvP Rating</text>
+		<text bitflag="321" id1="309" id2="194677" version="1065353216">Research Available</text>
+		<text bitflag="321" id1="310" id2="194677" version="1065353216">Adaptive Armor</text>
+		<text bitflag="321" id1="311" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; Armor for &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="312" id2="194677" version="1065353216">No Research Available</text>
+		<text bitflag="321" id1="313" id2="194677" version="1065353216">Chance to Research a Schematic: &lt;&lt;1&gt;&gt;%</text>
+		<text bitflag="321" id1="314" id2="194677" version="1065353216">Requires Augment slot &lt;&lt;1&gt;&gt; or better</text>
+		<text bitflag="321" id1="315" id2="194677" version="1065353216">This item is refundable for &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="316" id2="194677" version="1065353216">This item will permanently bind in &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="332" id2="194677" version="1065353216">&lt;&lt;g2,1&gt;&gt;</text>
+		<text bitflag="321" id1="333" id2="194677" version="1065353216">Requires Subscriber Status</text>
+		<text bitflag="321" id1="334" id2="194677" version="1065353216">Cartel Coins</text>
+		<text bitflag="321" id1="335" id2="194677" version="1065353216">Requires Artifact Equipment Authorization</text>
+		<text bitflag="321" id1="336" id2="194677" version="1065353216">Requires Event Equipment Requisition Authorization</text>
+		<text bitflag="321" id1="337" id2="194677" version="1065353216">Cartel Market Item</text>
+		<text bitflag="321" id1="338" id2="194677" version="1065353216">Requires Warfare Artifact Equipment Authorization</text>
+		<text bitflag="321" id1="339" id2="194677" version="1065353216">Requires Crew Member Appearance Authorization</text>
+		<text bitflag="321" id1="340" id2="194677" version="1065353216">This item is bound to you for &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="341" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; - This gear is unauthorized and will be ineffective until you obtain Authorization from the Cartel Market.</text>
+		<text bitflag="321" id1="342" id2="194677" version="1065353216">CTRL + Left-click to Preview</text>
+		<text bitflag="321" id1="343" id2="194677" version="1065353216">Previously Authorized by Subscription</text>
+		<text bitflag="321" id1="344" id2="194677" version="1065353216">Requires Access Authorization: Section X</text>
+		<text bitflag="321" id1="345" id2="194677" version="1065353216">Requires Digital Expansion: Rise of the Hutt Cartel</text>
+		<text bitflag="321" id1="346" id2="194677" version="1065353216">Requires &lt;&lt;1&gt;&gt; standing with &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="347" id2="194677" version="1065353216">Weekly Progress:</text>
+		<text bitflag="321" id1="349" id2="194677" version="1065353216">Reputation Trophy</text>
+		<text bitflag="321" id1="350" id2="194677" version="1065353216">No Color</text>
+		<text bitflag="321" id1="351" id2="194677" version="1065353216">Reaction: Influence Loss</text>
+		<text bitflag="321" id1="352" id2="194677" version="1065353216">Reaction: No Influence Gain</text>
+		<text bitflag="321" id1="353" id2="194677" version="1065353216">Reaction: Small Influence Gain</text>
+		<text bitflag="321" id1="686" id2="194677" version="1065353216">Player:</text>
+		<text bitflag="321" id1="687" id2="194677" version="1065353216">Reaction: Moderate Influence Gain</text>
+		<text bitflag="321" id1="688" id2="194677" version="1065353216">Reaction: Large Influence Gain</text>
+		<text bitflag="321" id1="689" id2="194677" version="1065353216">Can be slotted into equipment to change its color.</text>
+		<text bitflag="321" id1="690" id2="194677" version="1065353216">Primary:</text>
+		<text bitflag="321" id1="691" id2="194677" version="1065353216">Secondary:</text>
+		<text bitflag="321" id1="692" id2="194677" version="1065353216">This Cartel Market item cannot be sold to Vendors.</text>
+		<text bitflag="321" id1="693" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="696" id2="194677" version="1065353216">Level Granted:</text>
+		<text bitflag="321" id1="697" id2="194677" version="1065353216">Utility Point</text>
+		<text bitflag="321" id1="698" id2="194677" version="1065353216">Selected Utility</text>
+		<text bitflag="321" id1="699" id2="194677" version="1065353216">Item Rating</text>
+		<text bitflag="321" id1="701" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; - &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="702" id2="194677" version="1065353216">+&lt;&lt;1&gt;&gt; Prestige</text>
+		<text bitflag="321" id1="703" id2="194677" version="1065353216">, &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="704" id2="194677" version="1065353216">Stronghold Decoration:</text>
+		<text bitflag="321" id1="705" id2="194677" version="1065353216">Hook Type:</text>
+		<text bitflag="321" id1="706" id2="194677" version="1065353216">You Own:</text>
+		<text bitflag="321" id1="707" id2="194677" version="1065353216">Unlock:</text>
+		<text bitflag="321" id1="708" id2="194677" version="1065353216">Unspent</text>
+		<text bitflag="321" id1="709" id2="194677" version="1065353216">Spent</text>
+		<text bitflag="321" id1="710" id2="194677" version="1065353216">Not yet granted.</text>
+		<text bitflag="321" id1="711" id2="194677" version="1065353216">Status:</text>
+		<text bitflag="321" id1="712" id2="194677" version="1065353216">Dye Module</text>
+		<text bitflag="321" id1="713" id2="194677" version="1065353216">Companions do not gain any stat bonuses from equipment</text>
+		<text bitflag="321" id1="714" id2="194677" version="1065353216">Legendary Player</text>
+		<text bitflag="321" id1="715" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; days &lt;&lt;2&gt;&gt; hours &lt;&lt;3&gt;&gt; minutes &lt;&lt;4&gt;&gt; seconds</text>
+		<text bitflag="321" id1="716" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; hours &lt;&lt;2&gt;&gt; minutes &lt;&lt;3&gt;&gt; seconds</text>
+		<text bitflag="321" id1="717" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; minutes &lt;&lt;2&gt;&gt; seconds</text>
+		<text bitflag="321" id1="718" id2="194677" version="1065353216">&lt;&lt;1&gt;&gt; seconds</text>
+		<text bitflag="321" id1="719" id2="194677" version="1065353216">Right-click to favorite</text>
+		<text bitflag="321" id1="720" id2="194677" version="1065353216">Commit to the dark side of the force.</text>
+		<text bitflag="321" id1="721" id2="194677" version="1065353216">Commit to the light side of the force.</text>
+		<text bitflag="321" id1="722" id2="194677" version="1065353216">Light Side Total: &lt;&lt;1&gt;&gt; 
+Dark Side Total: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="724" id2="194677" version="1065353216">Dark Side Total: &lt;&lt;1&gt;&gt; 
+Light Side Total: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="729" id2="194677" version="1065353216">Locked in collections.</text>
+		<text bitflag="321" id1="730" id2="194677" version="1065353216">Unlocked for Character in Collections.</text>
+		<text bitflag="321" id1="731" id2="194677" version="1065353216">Unlocked for Account in Collections</text>
+		<text bitflag="321" id1="732" id2="194677" version="1065353216">Requires completion of the HK-55 Alliance recruitment quest, &quot;Arma Rasa&quot;.</text>
+		<text bitflag="321" id1="733" id2="194677" version="1065353216">Awaiting Players</text>
+		<text bitflag="321" id1="734" id2="194677" version="1065353216">Disintegrate:</text>
+		<text bitflag="321" id1="735" id2="194677" version="1065353216">+ &lt;&lt;1&gt;&gt; Command XP</text>
+		<text bitflag="321" id1="737" id2="194677" version="1065353216">Legacy-bound items cannot be transfered via mail or Legacy cargohold while Cartel Market modifications that are not account unlocked in collections are equipped.</text>
+		<text bitflag="321" id1="738" id2="194677" version="1065353216">Guild Owns:</text>
+		<text bitflag="321" id1="739" id2="194677" version="1065353216">&lt;&lt;2&gt;&gt; x&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="740" id2="194677" version="1065353216">Item does not support dye modules.</text>
+		<text bitflag="321" id1="741" id2="194677" version="1065353216">Requirements:</text>
+		<text bitflag="321" id1="742" id2="194677" version="1065353216">Cost:</text>
+		<text bitflag="321" id1="743" id2="194677" version="1065353216">Select a Perk to purchase.</text>
+		<text bitflag="321" id1="744" id2="194677" version="1065353216">This room is locked. Travel to your Guild Flagship to unlock this room.</text>
+		<text bitflag="321" id1="745" id2="194677" version="1065353216">Duration:</text>
+		<text bitflag="321" id1="747" id2="194677" version="1065353216">Expires:</text>
+		<text bitflag="321" id1="748" id2="194677" version="1065353216">&lt;&lt;1[/$dd/$dd]&gt;&gt; &lt;&lt;2[/$dh/$dh]&gt;&gt; &lt;&lt;3[/$dm/$dm]&gt;&gt; &lt;&lt;4[/$ds/$ds]&gt;&gt;</text>
+		<text bitflag="321" id1="749" id2="194677" version="1065353216">Remove Perk</text>
+		<text bitflag="321" id1="750" id2="194677" version="1065353216">A Perk already exists in this room. Remove this Perk before replacing it.</text>
+		<text bitflag="321" id1="751" id2="194677" version="1065353216">Open Abilities</text>
+		<text bitflag="321" id1="752" id2="194677" version="1065353216">Unlock this room to gain access to special guild abilities.</text>
+		<text bitflag="321" id1="753" id2="194677" version="1065353216">Purchase a Perk to gain a guild-wide ability.</text>
+	</file_content>
+</stb_file>

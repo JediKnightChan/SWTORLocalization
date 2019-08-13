@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>13</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/world/republic/point_of_interest/b6_31.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="667560" id2="17" version="1065353216">B6 = continuing to monitor transmissions</text>
+		<text bitflag="3393" id1="667561" id2="17" version="1065353216">B6 = apologizes for intrusion // Possible crisis = emerging</text>
+		<text bitflag="3393" id1="667563" id2="17" version="1065353216">B6 = receiving priority transmission // Transmission = indecipherable // Environmental interference = extensive</text>
+		<text bitflag="3393" id1="667565" id2="17" version="1065353216">B6 = pinpointed transmission origin // B6 = requesting immediate investigation</text>
+		<text bitflag="1360" id1="667566" id2="17" version="1065353216">I'll check it out.</text>
+		<text bitflag="1360" id1="667567" id2="17" version="1065353216">Why ask a stranger?</text>
+		<text bitflag="3393" id1="667568" id2="17" version="1065353216">You = established Republic protagonists // Success + not dying = feasible</text>
+		<text bitflag="3393" id1="667570" id2="17" version="1065353216">You = proven Republic exemplar // Success + not dying = feasible</text>
+		<text bitflag="1360" id1="667572" id2="17" version="1065353216">Then go investigate.</text>
+		<text bitflag="3393" id1="667573" id2="17" version="1065353216">B6 = built for communications + navigations // Dangerous treks = waste of brilliant design</text>
+		<text bitflag="3393" id1="667575" id2="17" version="1065353216">Transmission sender = Republic recon personnel // Nominal designation = &quot;Bren&quot;</text>
+		<text bitflag="3393" id1="667577" id2="17" version="1065353216">Establishing contact with Bren = recommended // Caution + haste = appreciated</text>
+		<text bitflag="3393" id1="667579" id2="17" version="1065353216">Hoth's weather = disruptive // Incoming transmission quality = sub-optimal</text>
+	</file_content>
+</stb_file>

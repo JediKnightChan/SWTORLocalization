@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/bronze/clearing_the_roads/droid.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="297195" id2="17" version="1065353216">E5-D5 = grateful // Nice man = helped resistance</text>
+		<text bitflag="3393" id1="297197" id2="17" version="1065353216">E5-D5 = grateful // Nice lady = helped resistance</text>
+		<text bitflag="3393" id1="297201" id2="17" version="1065353216">Nice man = recover supplies // Nice man = take Imperials out // Nice man = reopen supply routes</text>
+		<text bitflag="3393" id1="297203" id2="17" version="1065353216">Nice lady = recover supplies // Nice lady = take Imperials out // Nice lady = reopen supply routes</text>
+		<text bitflag="3393" id1="297207" id2="17" version="1065353216">E5-D5 = busy // E5-D5 = can't talk</text>
+	</file_content>
+</stb_file>

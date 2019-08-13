@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x2/event/imperial_announcer_fleet.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1033198" id2="17" version="1065353216">This is an Imperial News Network travel ban update.</text>
+		<text bitflag="1345" id1="1033296" id2="17" version="1065353216">The planet Tatooine remains the site of a major rakghoul plague outbreak. Authorities believe the rakghoul threat has spread to densely populated areas.</text>
+		<text bitflag="1345" id1="1033298" id2="17" version="1065353216">Do not land on Tatooine. Furthermore, do not answer distress calls or other communications from the planet without official clearance.</text>
+		<text bitflag="1345" id1="1033300" id2="17" version="1065353216">The Ministry of Logistics will advise when this travel ban has expired. Until then, remain vigilant, keep calm and avoid Tatooine.</text>
+	</file_content>
+</stb_file>

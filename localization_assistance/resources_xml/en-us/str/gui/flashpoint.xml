@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>47</strs>
+		<file_name>/resources/en-us/str/gui/flashpoint.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="272963" version="1065353216">Which version of</text>
+		<text bitflag="321" id1="2" id2="272963" version="1065353216">do you want to join?</text>
+		<text bitflag="321" id1="3" id2="272963" version="1065353216">SYNCHRONIZE</text>
+		<text bitflag="321" id1="4" id2="272963" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="5" id2="272963" version="1065353216">You must synchronize your progress toward the</text>
+		<text bitflag="321" id1="6" id2="272963" version="1065353216">Flashpoint with your group leader.</text>
+		<text bitflag="321" id1="7" id2="272963" version="1065353216">Out of Synch</text>
+		<text bitflag="321" id1="8" id2="272963" version="1065353216">In Synch</text>
+		<text bitflag="321" id1="9" id2="272963" version="1065353216">Flashpoint</text>
+		<text bitflag="321" id1="10" id2="272963" version="1065353216">NOT SET</text>
+		<text bitflag="321" id1="11" id2="272963" version="1065353216">Some of your progress may be lost.</text>
+		<text bitflag="321" id1="12" id2="272963" version="1065353216">Re-enter</text>
+		<text bitflag="321" id1="13" id2="272963" version="1065353216">Re-enter your previous phase.</text>
+		<text bitflag="321" id1="14" id2="272963" version="1065353216">JOIN</text>
+		<text bitflag="321" id1="15" id2="272963" version="1065353216">Flashpoint</text>
+		<text bitflag="321" id1="16" id2="272963" version="1065353216">CREATE</text>
+		<text bitflag="321" id1="17" id2="272963" version="1065353216">Create a new phase.</text>
+		<text bitflag="321" id1="18" id2="272963" version="1065353216">Which version of</text>
+		<text bitflag="321" id1="19" id2="272963" version="1065353216">do you want to join?</text>
+		<text bitflag="321" id1="20" id2="272963" version="1065353216">Instance</text>
+		<text bitflag="321" id1="21" id2="272963" version="1065353216">Multiplayer</text>
+		<text bitflag="321" id1="22" id2="272963" version="1065353216">Phase - You can help</text>
+		<text bitflag="321" id1="23" id2="272963" version="1065353216">but your own missions will not progress while you remain inside.</text>
+		<text bitflag="321" id1="24" id2="272963" version="1065353216">&lt;&lt;1&gt;&gt; Instance &lt;&lt;2&gt;&gt; Phase - You can help &lt;&lt;1&gt;&gt; but your own mission will not progress while you remain in &lt;&lt;1&gt;&gt; phase.</text>
+		<text bitflag="321" id1="25" id2="272963" version="1065353216">INSTANCE SELECTION</text>
+		<text bitflag="321" id1="26" id2="272963" version="1065353216">Unable to destroy phase. Players still inside:</text>
+		<text bitflag="321" id1="27" id2="272963" version="1065353216">&lt;&lt;g:2,1&gt;&gt; Phase - Your missions will progress in this phase.</text>
+		<text bitflag="321" id1="28" id2="272963" version="1065353216">&lt;&lt;g:2,1&gt;&gt; Phase - You can assist &lt;&lt;1&gt;&gt;, but your missions will not progress in this phase.</text>
+		<text bitflag="321" id1="29" id2="272963" version="1065353216">&lt;&lt;g:2,1&gt;&gt; Phase - Your missions will progress in this phase.</text>
+		<text bitflag="321" id1="30" id2="272963" version="1065353216">&lt;&lt;g:2,1&gt;&gt; Phase - You can assist &lt;&lt;1&gt;&gt;, but your missions will not progress in this phase.</text>
+		<text bitflag="321" id1="31" id2="272963" version="1065353216">&lt;&lt;g:2,1&gt;&gt; Phase - Your flashpoint mission will progress in this phase.</text>
+		<text bitflag="321" id1="32" id2="272963" version="1065353216">&lt;&lt;g:2,1&gt;&gt; Phase - Your missions will progress in this phase.</text>
+		<text bitflag="321" id1="258" id2="272963" version="1065353216">Access Denied. Code Required.</text>
+		<text bitflag="321" id1="259" id2="272963" version="1065353216">Warning: Two Minutes Until Detonation</text>
+		<text bitflag="321" id1="260" id2="272963" version="1065353216">Warning: One Minute Until Detonation</text>
+		<text bitflag="321" id1="261" id2="272963" version="1065353216">Warning: Thirty Seconds Until Detonation</text>
+		<text bitflag="321" id1="262" id2="272963" version="1065353216">Warning: Ten Seconds Until Detonation</text>
+		<text bitflag="321" id1="263" id2="272963" version="1065353216">9</text>
+		<text bitflag="321" id1="264" id2="272963" version="1065353216">8</text>
+		<text bitflag="321" id1="265" id2="272963" version="1065353216">7</text>
+		<text bitflag="321" id1="266" id2="272963" version="1065353216">6</text>
+		<text bitflag="321" id1="267" id2="272963" version="1065353216">5</text>
+		<text bitflag="321" id1="268" id2="272963" version="1065353216">4</text>
+		<text bitflag="321" id1="269" id2="272963" version="1065353216">3</text>
+		<text bitflag="321" id1="270" id2="272963" version="1065353216">2</text>
+		<text bitflag="321" id1="271" id2="272963" version="1065353216">1</text>
+		<text bitflag="321" id1="272" id2="272963" version="1065353216">An Iokath Power Relay is required to operate the super weapon controls.</text>
+	</file_content>
+</stb_file>

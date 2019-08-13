@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>71</strs>
+		<file_name>/resources/en-us/str/prf/system.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="221269" version="1065353216">Crew skill operation successful.</text>
+		<text bitflag="321" id1="2" id2="221269" version="1065353216">You do not have the appropriate crew skill.</text>
+		<text bitflag="321" id1="3" id2="221269" version="1065353216">You have insufficient skill level.</text>
+		<text bitflag="321" id1="4" id2="221269" version="1065353216">You do not have the appropriate tool.</text>
+		<text bitflag="321" id1="5" id2="221269" version="1065353216">You already know that schematic.</text>
+		<text bitflag="321" id1="6" id2="221269" version="1065353216">Invalid schematic!</text>
+		<text bitflag="321" id1="7" id2="221269" version="1065353216">Invalid item!</text>
+		<text bitflag="321" id1="8" id2="221269" version="1065353216">You have insufficient materials to craft that schematic.</text>
+		<text bitflag="321" id1="9" id2="221269" version="1065353216">You don't have enough room in your inventory.</text>
+		<text bitflag="321" id1="10" id2="221269" version="1065353216">You are too far away.</text>
+		<text bitflag="321" id1="11" id2="221269" version="1065353216">You are too far away from the crew skill trainer.</text>
+		<text bitflag="321" id1="12" id2="221269" version="1065353216">You don't know that recipe.</text>
+		<text bitflag="321" id1="13" id2="221269" version="1065353216">That resource was already gathered.</text>
+		<text bitflag="321" id1="14" id2="221269" version="1065353216">General crew skill error.</text>
+		<text bitflag="321" id1="15" id2="221269" version="1065353216">Unknown crew skill.</text>
+		<text bitflag="321" id1="16" id2="221269" version="1065353216">Crew skill already known.</text>
+		<text bitflag="321" id1="17" id2="221269" version="1065353216">Cannot have multiple crafting skills. You must unlearn '&lt;&lt;1&gt;&gt;' before you can learn '&lt;&lt;2&gt;&gt;'.</text>
+		<text bitflag="321" id1="18" id2="221269" version="1065353216">You do not have the appropriate crafting table.</text>
+		<text bitflag="321" id1="19" id2="221269" version="1065353216">This companion is currently fully tasked.</text>
+		<text bitflag="321" id1="20" id2="221269" version="1065353216">That item cannot be reverse engineered.</text>
+		<text bitflag="321" id1="21" id2="221269" version="1065353216">No reverse engineering information for item '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="22" id2="221269" version="1065353216">You do not have the base version of this schematic.</text>
+		<text bitflag="321" id1="23" id2="221269" version="1065353216">You do not have sufficient credits to undertake this mission.</text>
+		<text bitflag="321" id1="24" id2="221269" version="1065353216">You do not have sufficient credits to learn this schematic.</text>
+		<text bitflag="321" id1="25" id2="221269" version="1065353216">There are no missions defined for the crew skill '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="26" id2="221269" version="1065353216">You have trained the crew skill '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="27" id2="221269" version="1065353216">You have untrained the crew skill '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="28" id2="221269" version="1065353216">Your skill in &lt;&lt;1&gt;&gt; is now &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="29" id2="221269" version="1065353216">You learned the schematic '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="30" id2="221269" version="1065353216">Your companion &lt;&lt;1&gt;&gt; has crafted &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="31" id2="221269" version="1065353216">Your companion &lt;&lt;1&gt;&gt; has completed the mission '&lt;&lt;2&gt;&gt;'.</text>
+		<text bitflag="321" id1="32" id2="221269" version="1065353216">Unknown crew skill result.</text>
+		<text bitflag="321" id1="33" id2="221269" version="1065353216">You need at least one companion in order to open the crew management window.</text>
+		<text bitflag="321" id1="34" id2="221269" version="1065353216">You unlocked the mission '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="35" id2="221269" version="1065353216">Your companion &lt;&lt;1&gt;&gt; has crafted &lt;&lt;2&gt;&gt; x&lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="36" id2="221269" version="1065353216">You must unlearn one of your crew skills before you can learn '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="37" id2="221269" version="1065353216">You must unlearn your current crafting skill before you can learn '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="38" id2="221269" version="1065353216">You have chosen to learn '&lt;&lt;1&gt;&gt;' as your first crew skill.</text>
+		<text bitflag="321" id1="39" id2="221269" version="1065353216">You have chosen to learn '&lt;&lt;1&gt;&gt;' as your second crew skill.</text>
+		<text bitflag="321" id1="40" id2="221269" version="1065353216">You have chosen to learn '&lt;&lt;1&gt;&gt;' as your third crew skill.</text>
+		<text bitflag="321" id1="41" id2="221269" version="1065353216">You may learn up to three crew skills. Only one may be a crafting skill.</text>
+		<text bitflag="321" id1="42" id2="221269" version="1065353216">Train</text>
+		<text bitflag="321" id1="43" id2="221269" version="1065353216">&lt;&lt;1&gt;&gt; has crafted &lt;&lt;2&gt;&gt; for you.</text>
+		<text bitflag="321" id1="44" id2="221269" version="1065353216">&lt;&lt;1&gt;&gt; has crafted &lt;&lt;2&gt;&gt; x&lt;&lt;3&gt;&gt; for you.</text>
+		<text bitflag="321" id1="45" id2="221269" version="1065353216">You have no available companions to fulfill the crafting request from &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="46" id2="221269" version="1065353216">&lt;&lt;1&gt;&gt; has refused your crafting request.</text>
+		<text bitflag="321" id1="47" id2="221269" version="1065353216">You have already deployed the maximum number of companions for your level.</text>
+		<text bitflag="321" id1="48" id2="221269" version="1065353216">The maker's name has been worn completely off.</text>
+		<text bitflag="321" id1="49" id2="221269" version="1065353216">You can't reverse engineer that while looting.</text>
+		<text bitflag="321" id1="50" id2="221269" version="1065353216">You need &lt;&lt;1&gt;&gt; of those items to attempt reverse engineering.</text>
+		<text bitflag="321" id1="51" id2="221269" version="1065353216">That mission is already active!</text>
+		<text bitflag="321" id1="130" id2="221269" version="1065353216">Your companion &lt;&lt;1&gt;&gt; has crafted &lt;&lt;2&gt;&gt; with great success!</text>
+		<text bitflag="321" id1="135" id2="221269" version="1065353216">Your companion &lt;&lt;1&gt;&gt; has crafted &lt;&lt;2&gt;&gt; x&lt;&lt;3&gt;&gt; with great success!</text>
+		<text bitflag="321" id1="143" id2="221269" version="1065353216">&lt;&lt;1&gt;&gt; has crafted &lt;&lt;2&gt;&gt; for you with great success!</text>
+		<text bitflag="321" id1="144" id2="221269" version="1065353216">&lt;&lt;1&gt;&gt; has crafted &lt;&lt;2&gt;&gt; x&lt;&lt;3&gt;&gt; for you with great success!</text>
+		<text bitflag="321" id1="256" id2="221269" version="1065353216">Your companion is off selling junk.</text>
+		<text bitflag="321" id1="257" id2="221269" version="1065353216">Can not reverse engineer an equipped item</text>
+		<text bitflag="321" id1="258" id2="221269" version="1065353216">Reverse engineering failed. Item is part of another transaction.</text>
+		<text bitflag="321" id1="259" id2="221269" version="1065353216">You can only reverse engineer items in your inventory.</text>
+		<text bitflag="321" id1="260" id2="221269" version="1065353216">This trainer has nothing to teach you.</text>
+		<text bitflag="321" id1="262" id2="221269" version="1065353216">That companion is unavailable right now.</text>
+		<text bitflag="321" id1="263" id2="221269" version="1065353216">This requires &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="267" id2="221269" version="1065353216">You have trained &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="268" id2="221269" version="1065353216">You must first unlearn a Crew Skill before you can do that. Additional Crew Skill slots may be purchased from the Cartel Market.</text>
+		<text bitflag="321" id1="269" id2="221269" version="1065353216">You have deployed the maximum number of companions for your level and subscription status.</text>
+		<text bitflag="321" id1="270" id2="221269" version="1065353216">You may learn &lt;&lt;1&gt;&gt; Crew &lt;&lt;1[/Skill/Skills]&gt;&gt;. Only one of these may be a crafting skill. Additional Crew Skill slots may be purchased from the Cartel Market.</text>
+		<text bitflag="321" id1="272" id2="221269" version="1065353216">You cannot reactivate that Crew Skill until you unlock an additional Crew Skill slot. Additional Crew Skill Slots are available on the Cartel Market.</text>
+		<text bitflag="321" id1="273" id2="221269" version="1065353216">&lt;&lt;1&gt;&gt; has been deactivated. You retain your skill level and schematics for the Crew Skill but you may not access it without an additional Crew Skill Slot. Additional Crew Skill Slots are available on the Cartel Market.</text>
+		<text bitflag="321" id1="274" id2="221269" version="1065353216">&lt;&lt;1&gt;&gt; has been reactivated.</text>
+		<text bitflag="321" id1="275" id2="221269" version="1065353216">You have gained an additional crew skill. Visit a crew skill trainer to use it.</text>
+		<text bitflag="321" id1="276" id2="221269" version="1065353216">You have &lt;&lt;1&gt;&gt; unused profession slots but &lt;&lt;2&gt;&gt; inactive professions. See the crew skill trainer of the profession you wish to reactivate to activate it.</text>
+	</file_content>
+</stb_file>

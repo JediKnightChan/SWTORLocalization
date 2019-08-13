@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/kuat/shared/station_guardian_one.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1125667" id2="17" version="1065353216">Circuits... failing....</text>
+		<text bitflag="1345" id1="1125684" id2="17" version="1065353216">Operating at maximum energy.</text>
+		<text bitflag="1345" id1="1125685" id2="17" version="1065353216">Prepare for destruction.</text>
+		<text bitflag="1345" id1="1125686" id2="17" version="1065353216">Enemy nullification assured.</text>
+		<text bitflag="1345" id1="1125687" id2="17" version="1065353216">Unauthorized passage detected. Use of lethal force authorized.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra/world/firestar/control_tower.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="714028" id2="17" version="1065353216">[You access the satellite controls and input the coordinates for the generators.]</text>
+		<text bitflag="321" id1="714030" id2="17" version="1065353216">[Activating firing sequence.]</text>
+	</file_content>
+</stb_file>

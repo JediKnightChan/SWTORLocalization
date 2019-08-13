@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>191</strs>
+		<file_name>/resources/en-us/str/gui/system.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="197620" version="1065353216">You have been bound to &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="2" id2="197620" version="1065353216">You are no longer bound to a rez point.</text>
+		<text bitflag="321" id1="3" id2="197620" version="1065353216">You are already bound to this rez point.</text>
+		<text bitflag="321" id1="4" id2="197620" version="1065353216">[TRANSMISSION '&lt;&lt;1&gt;&gt;':] &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="5" id2="197620" version="1065353216">You have no target.</text>
+		<text bitflag="321" id1="6" id2="197620" version="1065353216">Your target has no target.</text>
+		<text bitflag="321" id1="7" id2="197620" version="1065353216">Music On</text>
+		<text bitflag="321" id1="8" id2="197620" version="1065353216">Music Off</text>
+		<text bitflag="321" id1="9" id2="197620" version="1065353216">Ambience On</text>
+		<text bitflag="321" id1="10" id2="197620" version="1065353216">Ambience Off</text>
+		<text bitflag="321" id1="11" id2="197620" version="1065353216">You cannot yell while incapacitated.</text>
+		<text bitflag="321" id1="12" id2="197620" version="1065353216">You cannot emote while incapacitated.</text>
+		<text bitflag="321" id1="13" id2="197620" version="1065353216">You cannot talk while incapacitated.</text>
+		<text bitflag="321" id1="14" id2="197620" version="1065353216">Subtitles toggled ON.</text>
+		<text bitflag="321" id1="15" id2="197620" version="1065353216">Subtitles toggled OFF.</text>
+		<text bitflag="321" id1="16" id2="197620" version="1065353216">Nameplates toggled.</text>
+		<text bitflag="321" id1="17" id2="197620" version="1065353216">Nameplate IDs toggled.</text>
+		<text bitflag="321" id1="18" id2="197620" version="1065353216">Conversation skipping disabled.</text>
+		<text bitflag="321" id1="19" id2="197620" version="1065353216">Conversation skipping enabled.</text>
+		<text bitflag="321" id1="20" id2="197620" version="1065353216">Toggled loot FX OFF.</text>
+		<text bitflag="321" id1="21" id2="197620" version="1065353216">Toggled loot FX ON.</text>
+		<text bitflag="321" id1="22" id2="197620" version="1065353216">Toggled overhead mission icons ON.</text>
+		<text bitflag="321" id1="23" id2="197620" version="1065353216">Toggled overhead mission icons OFF.</text>
+		<text bitflag="321" id1="24" id2="197620" version="1065353216">Toggled overhead target-in-cover-cone icons ON.</text>
+		<text bitflag="321" id1="25" id2="197620" version="1065353216">Toggled overhead target-in-cover-cone icons OFF.</text>
+		<text bitflag="321" id1="26" id2="197620" version="1065353216">You must select a character before leaving the character selection area.</text>
+		<text bitflag="321" id1="27" id2="197620" version="1065353216">/playercircle radius|off</text>
+		<text bitflag="321" id1="28" id2="197620" version="1065353216">/setactionpointdisplay true|false</text>
+		<text bitflag="321" id1="29" id2="197620" version="1065353216">Sprinting is enabled</text>
+		<text bitflag="321" id1="30" id2="197620" version="1065353216">Sprinting is disabled</text>
+		<text bitflag="321" id1="31" id2="197620" version="1065353216">Your default chat channel: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="32" id2="197620" version="1065353216">Changed your default chat channel: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="33" id2="197620" version="1065353216">No target!</text>
+		<text bitflag="321" id1="34" id2="197620" version="1065353216">Invalid target!</text>
+		<text bitflag="321" id1="38" id2="197620" version="1065353216">You dismiss &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="39" id2="197620" version="1065353216">You cannot dismiss &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="40" id2="197620" version="1065353216">You have no one to dismiss.</text>
+		<text bitflag="321" id1="41" id2="197620" version="1065353216">Companion dismissed.</text>
+		<text bitflag="321" id1="42" id2="197620" version="1065353216">Failed to add item &lt;&lt;1&gt;&gt; to your inventory.</text>
+		<text bitflag="321" id1="43" id2="197620" version="1065353216">Reward failed: Insufficient room in your inventory.</text>
+		<text bitflag="321" id1="45" id2="197620" version="1065353216">You must specify a mission.</text>
+		<text bitflag="321" id1="46" id2="197620" version="1065353216">An item has been added to your inventory: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="47" id2="197620" version="1065353216">You receive &lt;&lt;1&gt;&gt; credits.</text>
+		<text bitflag="321" id1="48" id2="197620" version="1065353216">You receive &lt;&lt;1&gt;&gt; credits.</text>
+		<text bitflag="321" id1="49" id2="197620" version="1065353216">Failed to add reward item &lt;&lt;1&gt;&gt;x&lt;&lt;2&gt;&gt; to your inventory.</text>
+		<text bitflag="321" id1="50" id2="197620" version="1065353216">Failed to add reward item &lt;&lt;1&gt;&gt; to your inventory.</text>
+		<text bitflag="321" id1="51" id2="197620" version="1065353216">You have learned a new ability: &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="52" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt; does not have the &lt;&lt;2&gt;&gt; ability.</text>
+		<text bitflag="321" id1="53" id2="197620" version="1065353216">Untrained: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="54" id2="197620" version="1065353216">Trained: &lt;&lt;1&gt;&gt; Rank: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="55" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt; has the enemy &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="56" id2="197620" version="1065353216">Player is in cover: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="57" id2="197620" version="1065353216">Player has cover node: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="58" id2="197620" version="1065353216">Player is in portable cover: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="59" id2="197620" version="1065353216">$RYour bug report has been submitted:</text>
+		<text bitflag="321" id1="60" id2="197620" version="1065353216">Acct Name: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="61" id2="197620" version="1065353216">Char ID: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="62" id2="197620" version="1065353216">Char Name: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="63" id2="197620" version="1065353216">Target Name: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="64" id2="197620" version="1065353216">Target ID: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="65" id2="197620" version="1065353216">Category: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="66" id2="197620" version="1065353216">Area: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="67" id2="197620" version="1065353216">Summary: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="68" id2="197620" version="1065353216">$Rusage: Submit a bug report$R/bug [description of bug]</text>
+		<text bitflag="321" id1="69" id2="197620" version="1065353216">Sold item &lt;&lt;1&gt;&gt; for &lt;&lt;2&gt;&gt; credits.</text>
+		<text bitflag="321" id1="70" id2="197620" version="1065353216">Sold item &lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt;) for &lt;&lt;3&gt;&gt; credits.</text>
+		<text bitflag="321" id1="71" id2="197620" version="1065353216">Bought item &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="72" id2="197620" version="1065353216">Bought back item &lt;&lt;1&gt;&gt; for &lt;&lt;2&gt;&gt; credits.</text>
+		<text bitflag="321" id1="73" id2="197620" version="1065353216">Companion summoned.</text>
+		<text bitflag="321" id1="74" id2="197620" version="1065353216">You gained &lt;&lt;1&gt;&gt; influence with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="75" id2="197620" version="1065353216">You lost &lt;&lt;1&gt;&gt; influence with &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="76" id2="197620" version="1065353216">No current companion!</text>
+		<text bitflag="321" id1="77" id2="197620" version="1065353216">Use /list to get a list of commands.</text>
+		<text bitflag="321" id1="78" id2="197620" version="1065353216">Use /list [alpha] to get an alphabetical list of commands.</text>
+		<text bitflag="321" id1="79" id2="197620" version="1065353216">Use /list check to check command script integrity.</text>
+		<text bitflag="321" id1="80" id2="197620" version="1065353216">Use /list [command name] to view details on a command.</text>
+		<text bitflag="321" id1="81" id2="197620" version="1065353216">Damaged items:</text>
+		<text bitflag="321" id1="82" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt;/&lt;&lt;3&gt;&gt;)</text>
+		<text bitflag="321" id1="100" id2="197620" version="1065353216">Error creating the item. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="101" id2="197620" version="1065353216">Token failure for item. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="102" id2="197620" version="1065353216">Item creation failure. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="103" id2="197620" version="1065353216">This non-player is not a vendor. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="104" id2="197620" version="1065353216">This non-player cannot repair items. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="105" id2="197620" version="1065353216">This item cannot be repaired. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="106" id2="197620" version="1065353216">You cannot have this item in your inventory. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="107" id2="197620" version="1065353216">You cannot sell mission items. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="108" id2="197620" version="1065353216">You cannot sell items of no value. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="109" id2="197620" version="1065353216">You cannot sell this damaged item. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="110" id2="197620" version="1065353216">You cannot sell equiped items.</text>
+		<text bitflag="321" id1="111" id2="197620" version="1065353216">The item is unavailable. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="112" id2="197620" version="1065353216">You cannot afford this item.</text>
+		<text bitflag="321" id1="113" id2="197620" version="1065353216">You cannot afford this repair.</text>
+		<text bitflag="321" id1="114" id2="197620" version="1065353216">There's no room in your inventory for the item (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="115" id2="197620" version="1065353216">None of your items need to be repaired.</text>
+		<text bitflag="321" id1="116" id2="197620" version="1065353216">The vendor (&lt;&lt;1&gt;&gt;) experienced a critical error while creating item (&lt;&lt;2&gt;&gt;).</text>
+		<text bitflag="321" id1="117" id2="197620" version="1065353216">You cannot interact with this vendor right now.</text>
+		<text bitflag="321" id1="118" id2="197620" version="1065353216">No items are available.</text>
+		<text bitflag="321" id1="119" id2="197620" version="1065353216">Unanticipated error. Please report this problem!</text>
+		<text bitflag="321" id1="120" id2="197620" version="1065353216">You need the Collector's Edition to access this vendor!</text>
+		<text bitflag="321" id1="121" id2="197620" version="1065353216">Your account must be authenticated to access this vendor.</text>
+		<text bitflag="321" id1="122" id2="197620" version="1065353216">You need to have pre-ordered to use this vendor!</text>
+		<text bitflag="321" id1="123" id2="197620" version="1065353216">Insufficient guild funds for this repair.</text>
+		<text bitflag="321" id1="124" id2="197620" version="1065353216">Must be level &lt;&lt;1&gt;&gt; to purchase.</text>
+		<text bitflag="321" id1="125" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt; reward adjusted from &lt;&lt;2&gt;&gt; to &lt;&lt;3&gt;&gt; due to weekly cap.</text>
+		<text bitflag="321" id1="200" id2="197620" version="1065353216">Set bind point to:&lt;br&gt;&lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="201" id2="197620" version="1065353216">Yes</text>
+		<text bitflag="321" id1="202" id2="197620" version="1065353216">No</text>
+		<text bitflag="321" id1="203" id2="197620" version="1065353216">You are already bound: &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="204" id2="197620" version="1065353216">Title Unlocked: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="300" id2="197620" version="1065353216">Codex Entry: '&lt;&lt;1&gt;&gt;'&lt;br&gt;&lt;&lt;2&gt;&gt; &lt;&lt;3&gt;&gt;/&lt;&lt;4&gt;&gt;</text>
+		<text bitflag="321" id1="301" id2="197620" version="1065353216">Discovered codex entry '&lt;&lt;1&gt;&gt;'. You gain &lt;&lt;2&gt;&gt; experience.</text>
+		<text bitflag="321" id1="302" id2="197620" version="1065353216">Planet Complete!</text>
+		<text bitflag="321" id1="303" id2="197620" version="1065353216">All codices on planet &lt;&lt;1&gt;&gt; complete! You gain &lt;&lt;2&gt;&gt; experience.</text>
+		<text bitflag="321" id1="304" id2="197620" version="1065353216">Category complete! Codex category '&lt;&lt;1&gt;&gt;' on planet &lt;&lt;2&gt;&gt; complete! You gain &lt;&lt;3&gt;&gt; experience.</text>
+		<text bitflag="321" id1="305" id2="197620" version="1065353216">Category Complete!</text>
+		<text bitflag="321" id1="306" id2="197620" version="1065353216">Codex Entry: '&lt;&lt;1&gt;&gt;'&lt;br&gt;&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="307" id2="197620" version="1065353216">Press SPACEBAR to Continue</text>
+		<text bitflag="321" id1="308" id2="197620" version="1065353216">Invalid Character</text>
+		<text bitflag="321" id1="309" id2="197620" version="1065353216">Equipping &lt;&lt;1&gt;&gt; will bind it to you. Are you sure you want to?</text>
+		<text bitflag="321" id1="310" id2="197620" version="1065353216">You are bound here</text>
+		<text bitflag="321" id1="311" id2="197620" version="1065353216">Use to permanently unlock this destination for Quick Travel.</text>
+		<text bitflag="321" id1="312" id2="197620" version="1065353216">Disconnected</text>
+		<text bitflag="321" id1="313" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt; Player</text>
+		<text bitflag="321" id1="314" id2="197620" version="1065353216">Level: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="315" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt;&lt;nl&gt;&lt;nl&gt;You are currently not bound to any location.</text>
+		<text bitflag="321" id1="316" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt;&lt;nl&gt;&lt;nl&gt;You are currently bound to: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="317" id2="197620" version="1065353216">Level &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="318" id2="197620" version="1065353216">HP: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="319" id2="197620" version="1065353216">Force: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="320" id2="197620" version="1065353216">Focus: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="321" id2="197620" version="1065353216">Rage: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="322" id2="197620" version="1065353216">Energy: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="323" id2="197620" version="1065353216">Heat: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="324" id2="197620" version="1065353216">Ammo: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="325" id2="197620" version="1065353216">Target not in phase.</text>
+		<text bitflag="321" id1="326" id2="197620" version="1065353216">Shields: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="327" id2="197620" version="1065353216">You cannot friend or ignore yourself.</text>
+		<text bitflag="321" id1="328" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt; does not exist.</text>
+		<text bitflag="321" id1="329" id2="197620" version="1065353216">You can only friend and ignore player characters.</text>
+		<text bitflag="321" id1="5327" id2="197620" version="1065353216">You have unlocked your Legacy!</text>
+		<text bitflag="321" id1="5328" id2="197620" version="1065353216">You gained a Legacy Level!</text>
+		<text bitflag="321" id1="5329" id2="197620" version="1065353216">You cannot use that while in combat.</text>
+		<text bitflag="321" id1="5330" id2="197620" version="1065353216">You cannot use that while defeated.</text>
+		<text bitflag="321" id1="5331" id2="197620" version="1065353216">Your mission log is full.</text>
+		<text bitflag="321" id1="5332" id2="197620" version="1065353216">Time played: &lt;&lt;1[$d Days/$d Day/$d Days]&gt;&gt;, &lt;&lt;2[$d Hours/$d Hour/$d Hours]&gt;&gt;, &lt;&lt;3[$d Minutes/$d Minute/$d Minutes]&gt;&gt;.</text>
+		<text bitflag="321" id1="5333" id2="197620" version="1065353216">You have added &lt;&lt;1&gt;&gt; to your available pets.</text>
+		<text bitflag="321" id1="5334" id2="197620" version="1065353216">You have added &lt;&lt;1&gt;&gt; to your available vehicles.</text>
+		<text bitflag="321" id1="5335" id2="197620" version="1065353216">Target player has no schematics to view.</text>
+		<text bitflag="321" id1="5336" id2="197620" version="1065353216">You gain &lt;&lt;1&gt;&gt; Legacy experience!</text>
+		<text bitflag="321" id1="5337" id2="197620" version="1065353216">Looking For Group</text>
+		<text bitflag="321" id1="5338" id2="197620" version="1065353216">You cannot use this command for &lt;&lt;1&gt;&gt;  more seconds. You may use your quicktravel ability if available.</text>
+		<text bitflag="321" id1="5340" id2="197620" version="1065353216">You already have this pet.</text>
+		<text bitflag="321" id1="5341" id2="197620" version="1065353216">Bought item &lt;&lt;1&gt;&gt;x&lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="5342" id2="197620" version="1065353216">You do not have Authorization for equipment you are wearing and will not gain its benefits. Permanent equipment Authorization is available in the Cartel Market.</text>
+		<text bitflag="321" id1="5343" id2="197620" version="1065353216">You have been granted temporary Authorization for your equipment. When this Authorization expires, you will no longer gain benefits from the equipment. Permanent equipment Authorization is available in the Cartel Market.</text>
+		<text bitflag="321" id1="5344" id2="197620" version="1065353216">You cannot sell that item. (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="5345" id2="197620" version="1065353216">Achievement Completed: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5348" id2="197620" version="1065353216">Energy Cells: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="5349" id2="197620" version="1065353216">Achievement Discovered: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5350" id2="197620" version="1065353216">You have been given &lt;&lt;1&gt;&gt; cartel coins for completing the achievement &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="5351" id2="197620" version="1065353216">You have not been given &lt;&lt;2&gt;&gt; cartel coins for completing the achievement &lt;&lt;3&gt;&gt; because of error code &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="5352" id2="197620" version="1065353216">You have not been given &lt;&lt;1&gt;&gt; cartel coins for completing the achievement &lt;&lt;2&gt;&gt; because you have already been given this reward on another shard.</text>
+		<text bitflag="321" id1="5359" id2="197620" version="1065353216">You are nearing the &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; weekly limit!</text>
+		<text bitflag="321" id1="5360" id2="197620" version="1065353216">You are very close to reaching the &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; weekly limit!</text>
+		<text bitflag="321" id1="5361" id2="197620" version="1065353216">You have exceeded the &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; weekly limit!</text>
+		<text bitflag="321" id1="5362" id2="197620" version="1065353216">You are nearing the &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; maximum!</text>
+		<text bitflag="321" id1="5363" id2="197620" version="1065353216">You are very close to reaching the &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; maximum!</text>
+		<text bitflag="321" id1="5364" id2="197620" version="1065353216">You have exceeded the &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; maximum!</text>
+		<text bitflag="321" id1="5365" id2="197620" version="1065353216">You may not rename your Legacy for &lt;&lt;1&gt;&gt; hours &lt;&lt;2&gt;&gt; minutes.</text>
+		<text bitflag="321" id1="5366" id2="197620" version="1065353216">You may not rename your Guild for &lt;&lt;1&gt;&gt; hours &lt;&lt;2&gt;&gt; minutes.</text>
+		<text bitflag="321" id1="5367" id2="197620" version="1065353216">You may not rename this Character for another &lt;&lt;1&gt;&gt; hours &lt;&lt;2&gt;&gt; minutes.</text>
+		<text bitflag="321" id1="5369" id2="197620" version="1065353216">You have exceeded your cap for &lt;&lt;1&gt;&gt;s and cannot acquire more at this time.</text>
+		<text bitflag="321" id1="5370" id2="197620" version="1065353216">An unknown error occured and the purchase was not successful.</text>
+		<text bitflag="321" id1="5371" id2="197620" version="1065353216">You did not have enough currency to purchase this.</text>
+		<text bitflag="321" id1="5372" id2="197620" version="1065353216">Conquest Objective Completed: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5373" id2="197620" version="1065353216">You  may not rename your Flagship for another &lt;&lt;1&gt;&gt; hours.</text>
+		<text bitflag="321" id1="5374" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt; (Empire)</text>
+		<text bitflag="321" id1="5375" id2="197620" version="1065353216">&lt;&lt;1&gt;&gt; (Republic)</text>
+		<text bitflag="321" id1="5376" id2="197620" version="1065353216">Item Rating: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5377" id2="197620" version="1065353216">You must pre-order the Shadow of Revan digital expansion</text>
+		<text bitflag="321" id1="5378" id2="197620" version="1065353216">You must wait &lt;&lt;1&gt;&gt; seconds between friend or ignore requests for offline characters.</text>
+		<text bitflag="321" id1="5379" id2="197620" version="1065353216">You cannot launch a Chapter while in a Warzone.</text>
+		<text bitflag="321" id1="5380" id2="197620" version="1065353216">You cannot launch a Chapter while in a Flashpoint.</text>
+		<text bitflag="321" id1="5381" id2="197620" version="1065353216">You cannot launch a Chapter while in an Operation.</text>
+		<text bitflag="321" id1="5382" id2="197620" version="1065353216">You cannot launch a Chapter while in an Operations group.</text>
+		<text bitflag="321" id1="5383" id2="197620" version="1065353216">You cannot launch a Chapter with an active phase. Please reset all active phases to proceed.</text>
+		<text bitflag="321" id1="5384" id2="197620" version="1065353216">Player Flair Unlocked: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5385" id2="197620" version="1065353216">Player Flair Locked: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5386" id2="197620" version="1065353216">Must be command level &lt;&lt;1&gt;&gt; to purchase.</text>
+		<text bitflag="321" id1="5387" id2="197620" version="1065353216">You must be the correct alignment to purchase this item</text>
+		<text bitflag="321" id1="5388" id2="197620" version="1065353216">Your server and personal alignment must match this item in order to purchase it</text>
+	</file_content>
+</stb_file>

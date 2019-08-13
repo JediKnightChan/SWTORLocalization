@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>615</strs>
+		<file_name>/resources/en-us/str/gui/plc/generic/medcenters.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="228365" version="1065353216">Cannot find medcenter name!</text>
+		<text bitflag="321" id1="2" id2="228365" version="1065353216">Area Start Point</text>
+		<text bitflag="321" id1="3" id2="228365" version="1065353216">Medical Center of Doom</text>
+		<text bitflag="321" id1="4" id2="228365" version="1065353216">Lesser Doom Hospice</text>
+		<text bitflag="321" id1="5" id2="228365" version="1065353216">New Hope Clinic</text>
+		<text bitflag="321" id1="6" id2="228365" version="1065353216">Falks Reach</text>
+		<text bitflag="321" id1="7" id2="228365" version="1065353216">Palace Grounds</text>
+		<text bitflag="321" id1="8" id2="228365" version="1065353216">Evocii Work Camp</text>
+		<text bitflag="321" id1="9" id2="228365" version="1065353216">Jedi Training Camp</text>
+		<text bitflag="321" id1="10" id2="228365" version="1065353216">Jedi Temple</text>
+		<text bitflag="321" id1="11" id2="228365" version="1065353216">Kalikori Village</text>
+		<text bitflag="321" id1="12" id2="228365" version="1065353216">Talloran Village</text>
+		<text bitflag="321" id1="13" id2="228365" version="1065353216">Separatist Stronghold</text>
+		<text bitflag="321" id1="14" id2="228365" version="1065353216">Oradam Village</text>
+		<text bitflag="321" id1="15" id2="228365" version="1065353216">Volcano Camp</text>
+		<text bitflag="321" id1="16" id2="228365" version="1065353216">Poison Pit</text>
+		<text bitflag="321" id1="17" id2="228365" version="1065353216">Chemical Marsh</text>
+		<text bitflag="321" id1="18" id2="228365" version="1065353216">Kaas City Medical Tent</text>
+		<text bitflag="321" id1="19" id2="228365" version="1065353216">Spaceport Medical Site</text>
+		<text bitflag="321" id1="20" id2="228365" version="1065353216">Outpost Tempest Medical Site</text>
+		<text bitflag="321" id1="21" id2="228365" version="1065353216">The Wall Medical Site</text>
+		<text bitflag="321" id1="22" id2="228365" version="1065353216">Kaas City Expansion Medical Site</text>
+		<text bitflag="321" id1="23" id2="228365" version="1065353216">Outpost Warden Medical Site</text>
+		<text bitflag="321" id1="24" id2="228365" version="1065353216">Gnarls Outpost</text>
+		<text bitflag="321" id1="25" id2="228365" version="1065353216">Jedi Temple</text>
+		<text bitflag="321" id1="26" id2="228365" version="1065353216">Jedi Temple</text>
+		<text bitflag="321" id1="27" id2="228365" version="1065353216">Kalikori Village</text>
+		<text bitflag="321" id1="28" id2="228365" version="1065353216">Elarian Trail Medical Hut</text>
+		<text bitflag="321" id1="29" id2="228365" version="1065353216">Senate Tower Medical Center</text>
+		<text bitflag="321" id1="30" id2="228365" version="1065353216">Lower Sundari Outpost</text>
+		<text bitflag="321" id1="31" id2="228365" version="1065353216">Sobrik Medical Facility</text>
+		<text bitflag="321" id1="32" id2="228365" version="1065353216">Sobrakarill Underbridge Outpost</text>
+		<text bitflag="321" id1="33" id2="228365" version="1065353216">Markaran Imperial Outpost</text>
+		<text bitflag="321" id1="34" id2="228365" version="1065353216">Remote Markaran Imperial Outpost</text>
+		<text bitflag="321" id1="35" id2="228365" version="1065353216">Gorinth Imperial Outpost</text>
+		<text bitflag="321" id1="36" id2="228365" version="1065353216">Markaran Waste Enclosure</text>
+		<text bitflag="321" id1="37" id2="228365" version="1065353216">Gorinth Scout Camp</text>
+		<text bitflag="321" id1="38" id2="228365" version="1065353216">Bug Town Medical Tent</text>
+		<text bitflag="321" id1="39" id2="228365" version="1065353216">Empire Entrance</text>
+		<text bitflag="321" id1="40" id2="228365" version="1065353216">Republic Entrance</text>
+		<text bitflag="321" id1="41" id2="228365" version="1065353216">Remote Sundari Medical Tent</text>
+		<text bitflag="321" id1="42" id2="228365" version="1065353216">Jedi Temple Atrium Medical Site</text>
+		<text bitflag="321" id1="43" id2="228365" version="1065353216">The Works Medical Facility</text>
+		<text bitflag="321" id1="44" id2="228365" version="1065353216">Jedi Temple Taxi Medical Site</text>
+		<text bitflag="321" id1="45" id2="228365" version="1065353216">Justicar Taxi Medical Center</text>
+		<text bitflag="321" id1="46" id2="228365" version="1065353216">Jedi Temple Atrium Medical Site</text>
+		<text bitflag="321" id1="47" id2="228365" version="1065353216">Urban Relief Volunteer Site</text>
+		<text bitflag="321" id1="48" id2="228365" version="1065353216">Old Galactic Market Medical Center</text>
+		<text bitflag="321" id1="49" id2="228365" version="1065353216">Revanite Camp</text>
+		<text bitflag="321" id1="50" id2="228365" version="1065353216">Olaris Reclamation Base</text>
+		<text bitflag="321" id1="51" id2="228365" version="1065353216">Waypoint Station Aurek</text>
+		<text bitflag="321" id1="52" id2="228365" version="1065353216">Kanner Outpost</text>
+		<text bitflag="321" id1="53" id2="228365" version="1065353216">Waypoint Station Draay</text>
+		<text bitflag="321" id1="54" id2="228365" version="1065353216">Waypoint Station Morne</text>
+		<text bitflag="321" id1="55" id2="228365" version="1065353216">Deucalon Spaceport</text>
+		<text bitflag="321" id1="56" id2="228365" version="1065353216">Mezenti Spaceport</text>
+		<text bitflag="321" id1="57" id2="228365" version="1065353216">Club Vertica Casino</text>
+		<text bitflag="321" id1="58" id2="228365" version="1065353216">Star Cluster Casino</text>
+		<text bitflag="321" id1="59" id2="228365" version="1065353216">Promenade</text>
+		<text bitflag="321" id1="60" id2="228365" version="1065353216">Promenade</text>
+		<text bitflag="321" id1="61" id2="228365" version="1065353216">Castle Organa</text>
+		<text bitflag="321" id1="62" id2="228365" version="1065353216">House Thul</text>
+		<text bitflag="321" id1="63" id2="228365" version="1065353216">Wardpost Landa</text>
+		<text bitflag="321" id1="64" id2="228365" version="1065353216">Outpost Talarn</text>
+		<text bitflag="321" id1="65" id2="228365" version="1065353216">Imperial Outpost</text>
+		<text bitflag="321" id1="66" id2="228365" version="1065353216">Wardpost Duvaal</text>
+		<text bitflag="321" id1="67" id2="228365" version="1065353216">Imperial Outpost</text>
+		<text bitflag="321" id1="68" id2="228365" version="1065353216">Outpost Ghrent</text>
+		<text bitflag="321" id1="69" id2="228365" version="1065353216">Wardpost Duvaal</text>
+		<text bitflag="321" id1="70" id2="228365" version="1065353216">Wardpost Hurne</text>
+		<text bitflag="321" id1="71" id2="228365" version="1065353216">Duros Sector</text>
+		<text bitflag="321" id1="72" id2="228365" version="1065353216">Corellian Sector</text>
+		<text bitflag="321" id1="73" id2="228365" version="1065353216">Nikto Taxi</text>
+		<text bitflag="321" id1="74" id2="228365" version="1065353216">Upper Industrial Office District</text>
+		<text bitflag="321" id1="75" id2="228365" version="1065353216">Maintenance Access Corridor</text>
+		<text bitflag="321" id1="76" id2="228365" version="1065353216">Network Access Taxi</text>
+		<text bitflag="321" id1="77" id2="228365" version="1065353216">Shadow Town Entrance</text>
+		<text bitflag="321" id1="78" id2="228365" version="1065353216">Toxic Lake Garrison</text>
+		<text bitflag="321" id1="79" id2="228365" version="1065353216">Bomber Command Post</text>
+		<text bitflag="321" id1="80" id2="228365" version="1065353216">Tower Command Station</text>
+		<text bitflag="321" id1="81" id2="228365" version="1065353216">Border Assault Post</text>
+		<text bitflag="321" id1="82" id2="228365" version="1065353216">Farnel Medcenter</text>
+		<text bitflag="321" id1="83" id2="228365" version="1065353216">Listening Post Medcenter</text>
+		<text bitflag="321" id1="84" id2="228365" version="1065353216">Markaran Medcenter</text>
+		<text bitflag="321" id1="85" id2="228365" version="1065353216">Gorinth Medcenter</text>
+		<text bitflag="321" id1="86" id2="228365" version="1065353216">Remote Gorinth Medcenter</text>
+		<text bitflag="321" id1="87" id2="228365" version="1065353216">Sundari Medcenter</text>
+		<text bitflag="321" id1="88" id2="228365" version="1065353216">Remote Sundari Medcenter</text>
+		<text bitflag="321" id1="89" id2="228365" version="1065353216">Spaceport boosh</text>
+		<text bitflag="321" id1="90" id2="228365" version="1065353216">Anchorhead</text>
+		<text bitflag="321" id1="91" id2="228365" version="1065353216">Dreviad Outpost</text>
+		<text bitflag="321" id1="92" id2="228365" version="1065353216">Outpost Largona</text>
+		<text bitflag="321" id1="93" id2="228365" version="1065353216">Outpost Salara</text>
+		<text bitflag="321" id1="94" id2="228365" version="1065353216">Outpost Thorazan</text>
+		<text bitflag="321" id1="95" id2="228365" version="1065353216">Mos Ila</text>
+		<text bitflag="321" id1="96" id2="228365" version="1065353216">Outpost Varath</text>
+		<text bitflag="321" id1="97" id2="228365" version="1065353216">Outpost Rennar</text>
+		<text bitflag="321" id1="98" id2="228365" version="1065353216">Mos Anek</text>
+		<text bitflag="321" id1="99" id2="228365" version="1065353216">Outpost Zaroshe</text>
+		<text bitflag="321" id1="100" id2="228365" version="1065353216">Empire Respawn</text>
+		<text bitflag="321" id1="101" id2="228365" version="1065353216">Republic Respawn</text>
+		<text bitflag="321" id1="102" id2="228365" version="1065353216">Attacker Respawn</text>
+		<text bitflag="321" id1="103" id2="228365" version="1065353216">Attacker Respawn</text>
+		<text bitflag="321" id1="104" id2="228365" version="1065353216">Attacker Respawn</text>
+		<text bitflag="321" id1="105" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="106" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="107" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="108" id2="228365" version="1065353216">Border Transfer Station</text>
+		<text bitflag="321" id1="109" id2="228365" version="1065353216">Transit Outpost</text>
+		<text bitflag="321" id1="110" id2="228365" version="1065353216">Red Light District Taxi</text>
+		<text bitflag="321" id1="111" id2="228365" version="1065353216">Snow Drift</text>
+		<text bitflag="321" id1="112" id2="228365" version="1065353216">Snow Drift</text>
+		<text bitflag="321" id1="113" id2="228365" version="1065353216">Incorporation Islands</text>
+		<text bitflag="321" id1="114" id2="228365" version="1065353216">Blasted Shipyards</text>
+		<text bitflag="321" id1="115" id2="228365" version="1065353216">Imperial War Camp</text>
+		<text bitflag="321" id1="116" id2="228365" version="1065353216">Republic Base</text>
+		<text bitflag="321" id1="117" id2="228365" version="1065353216">Axial Park South</text>
+		<text bitflag="321" id1="118" id2="228365" version="1065353216">Axial Park North</text>
+		<text bitflag="321" id1="119" id2="228365" version="1065353216">Business Sector</text>
+		<text bitflag="321" id1="120" id2="228365" version="1065353216">Uptown</text>
+		<text bitflag="321" id1="121" id2="228365" version="1065353216">Attacker Respawn</text>
+		<text bitflag="321" id1="122" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="123" id2="228365" version="1065353216">Attacker Respawn</text>
+		<text bitflag="321" id1="124" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="125" id2="228365" version="1065353216">Attacker Respawn</text>
+		<text bitflag="321" id1="126" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="127" id2="228365" version="1065353216">Attacker Respawn</text>
+		<text bitflag="321" id1="128" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="129" id2="228365" version="1065353216">Attacker Respawn</text>
+		<text bitflag="321" id1="130" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="131" id2="228365" version="1065353216">Attacker Respawn</text>
+		<text bitflag="321" id1="132" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="133" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="134" id2="228365" version="1065353216">Defender Respawn</text>
+		<text bitflag="321" id1="135" id2="228365" version="1065353216">Republic Respawn</text>
+		<text bitflag="321" id1="136" id2="228365" version="1065353216">Republic Respawn</text>
+		<text bitflag="321" id1="137" id2="228365" version="1065353216">Republic Respawn</text>
+		<text bitflag="321" id1="138" id2="228365" version="1065353216">Republic Respawn</text>
+		<text bitflag="321" id1="139" id2="228365" version="1065353216">Empire Respawn</text>
+		<text bitflag="321" id1="140" id2="228365" version="1065353216">Empire Respawn</text>
+		<text bitflag="321" id1="141" id2="228365" version="1065353216">Empire Respawn</text>
+		<text bitflag="321" id1="142" id2="228365" version="1065353216">Empire Respawn</text>
+		<text bitflag="321" id1="143" id2="228365" version="1065353216">Test 1</text>
+		<text bitflag="321" id1="144" id2="228365" version="1065353216">Test 2</text>
+		<text bitflag="321" id1="145" id2="228365" version="1065353216">Outpost Eudor</text>
+		<text bitflag="321" id1="146" id2="228365" version="1065353216">House Traders' Circle</text>
+		<text bitflag="321" id1="147" id2="228365" version="1065353216">Wardpost Luurdes</text>
+		<text bitflag="321" id1="148" id2="228365" version="1065353216">Lytle Outpost</text>
+		<text bitflag="321" id1="149" id2="228365" version="1065353216">Brejik's Run</text>
+		<text bitflag="321" id1="150" id2="228365" version="1065353216">Thul Research Camp</text>
+		<text bitflag="321" id1="154" id2="228365" version="1065353216">Republic Base</text>
+		<text bitflag="321" id1="155" id2="228365" version="1065353216">War Outpost</text>
+		<text bitflag="321" id1="156" id2="228365" version="1065353216">Imperial Base</text>
+		<text bitflag="321" id1="157" id2="228365" version="1065353216">Imperial Waystation</text>
+		<text bitflag="321" id1="159" id2="228365" version="1065353216">Outpost Zerek</text>
+		<text bitflag="321" id1="160" id2="228365" version="1065353216">Outpost Senth</text>
+		<text bitflag="321" id1="161" id2="228365" version="1065353216">Outpost Cresh</text>
+		<text bitflag="321" id1="162" id2="228365" version="1065353216">Aurek Base</text>
+		<text bitflag="321" id1="163" id2="228365" version="1065353216">Dorn Base</text>
+		<text bitflag="321" id1="164" id2="228365" version="1065353216">Forward Bunker</text>
+		<text bitflag="321" id1="165" id2="228365" version="1065353216">Leth Outpost</text>
+		<text bitflag="321" id1="166" id2="228365" version="1065353216">Thesh Outpost</text>
+		<text bitflag="321" id1="167" id2="228365" version="1065353216">Frostwake Outpost</text>
+		<text bitflag="321" id1="168" id2="228365" version="1065353216">Expansion Outpost</text>
+		<text bitflag="321" id1="169" id2="228365" version="1065353216">Unfinished Colossus Camp</text>
+		<text bitflag="321" id1="170" id2="228365" version="1065353216">Fort Garnik</text>
+		<text bitflag="321" id1="171" id2="228365" version="1065353216">Drift Hills Republic Depot</text>
+		<text bitflag="321" id1="172" id2="228365" version="1065353216">Jagged Plains Republic Outpost</text>
+		<text bitflag="321" id1="173" id2="228365" version="1065353216">Drift Hills Imperial Outpost</text>
+		<text bitflag="321" id1="174" id2="228365" version="1065353216">Jagged Plains Imperial Garrison</text>
+		<text bitflag="321" id1="175" id2="228365" version="1065353216">Forward Outpost Alpha</text>
+		<text bitflag="321" id1="176" id2="228365" version="1065353216">Crater Command Base</text>
+		<text bitflag="321" id1="177" id2="228365" version="1065353216">75th Legion Forward Camp</text>
+		<text bitflag="321" id1="178" id2="228365" version="1065353216">Generic Respawn Point</text>
+		<text bitflag="321" id1="179" id2="228365" version="1065353216">Generic Respawn Point</text>
+		<text bitflag="321" id1="180" id2="228365" version="1065353216">Generic Respawn Point</text>
+		<text bitflag="321" id1="181" id2="228365" version="1065353216">Generic Respawn Point</text>
+		<text bitflag="321" id1="182" id2="228365" version="1065353216">Mannett Point Scout Camp</text>
+		<text bitflag="321" id1="183" id2="228365" version="1065353216">Separatist Stronghold Level 1</text>
+		<text bitflag="321" id1="184" id2="228365" version="1065353216">Drelliad Village</text>
+		<text bitflag="321" id1="185" id2="228365" version="1065353216">Minefield Scout Camp</text>
+		<text bitflag="321" id1="186" id2="228365" version="1065353216">Republic Respawn</text>
+		<text bitflag="321" id1="187" id2="228365" version="1065353216">Imperial Respawn</text>
+		<text bitflag="321" id1="188" id2="228365" version="1065353216">New Tarisian Rise</text>
+		<text bitflag="321" id1="189" id2="228365" version="1065353216">Sundari Battlezone</text>
+		<text bitflag="321" id1="190" id2="228365" version="1065353216">Balmorran Arms Complex</text>
+		<text bitflag="321" id1="191" id2="228365" version="1065353216">Vanguard Outpost</text>
+		<text bitflag="321" id1="192" id2="228365" version="1065353216">Medical Outpost</text>
+		<text bitflag="321" id1="193" id2="228365" version="1065353216">Organa Encampment</text>
+		<text bitflag="321" id1="194" id2="228365" version="1065353216">The Remnants Outpost</text>
+		<text bitflag="321" id1="195" id2="228365" version="1065353216">Faathras Palatial Grounds</text>
+		<text bitflag="321" id1="196" id2="228365" version="1065353216">Faathras Palace</text>
+		<text bitflag="321" id1="197" id2="228365" version="1065353216">Mandalorian Enclave</text>
+		<text bitflag="321" id1="198" id2="228365" version="1065353216">Sith Sanctum</text>
+		<text bitflag="321" id1="199" id2="228365" version="1065353216">Imperial Command</text>
+		<text bitflag="321" id1="200" id2="228365" version="1065353216">Separatist Stronghold Level 2</text>
+		<text bitflag="321" id1="201" id2="228365" version="1065353216">Tythos Ridge</text>
+		<text bitflag="321" id1="202" id2="228365" version="1065353216">Medical Outpost</text>
+		<text bitflag="321" id1="203" id2="228365" version="1065353216">Sundari Outpost Medical Tent</text>
+		<text bitflag="321" id1="204" id2="228365" version="1065353216">Old Galactic Market</text>
+		<text bitflag="321" id1="205" id2="228365" version="1065353216">Field Medical Site</text>
+		<text bitflag="321" id1="206" id2="228365" version="1065353216">Sith Academy</text>
+		<text bitflag="321" id1="207" id2="228365" version="1065353216">Tulak Horde Ruined Atrium</text>
+		<text bitflag="321" id1="208" id2="228365" version="1065353216">Lower Wilds</text>
+		<text bitflag="321" id1="209" id2="228365" version="1065353216">Wilds Laboratory</text>
+		<text bitflag="321" id1="210" id2="228365" version="1065353216">Ruins Medcenter Tent</text>
+		<text bitflag="321" id1="211" id2="228365" version="1065353216">Black Sun</text>
+		<text bitflag="321" id1="212" id2="228365" version="1065353216">Balmorran Arms Factory</text>
+		<text bitflag="321" id1="213" id2="228365" version="1065353216">Jigunna Pumping Station</text>
+		<text bitflag="321" id1="214" id2="228365" version="1065353216">Naga Sadow Medcenter Chamber</text>
+		<text bitflag="321" id1="215" id2="228365" version="1065353216">Outer Swamps</text>
+		<text bitflag="321" id1="216" id2="228365" version="1065353216">Remote Gorinth Imperial Outpost</text>
+		<text bitflag="321" id1="217" id2="228365" version="1065353216">The Works Central Facility</text>
+		<text bitflag="321" id1="218" id2="228365" version="1065353216">Okara Droid Factory</text>
+		<text bitflag="321" id1="219" id2="228365" version="1065353216">Justicar Medical Facility</text>
+		<text bitflag="321" id1="220" id2="228365" version="1065353216">Justicar Central Medical Center</text>
+		<text bitflag="321" id1="221" id2="228365" version="1065353216">Private Quarters</text>
+		<text bitflag="321" id1="222" id2="228365" version="1065353216">Private Quarters</text>
+		<text bitflag="321" id1="223" id2="228365" version="1065353216">Private Quarters</text>
+		<text bitflag="321" id1="224" id2="228365" version="1065353216">Private Quarters</text>
+		<text bitflag="321" id1="225" id2="228365" version="1065353216">Private Quarters</text>
+		<text bitflag="321" id1="226" id2="228365" version="1065353216">Private Quarters</text>
+		<text bitflag="321" id1="227" id2="228365" version="1065353216">Private Quarters</text>
+		<text bitflag="321" id1="228" id2="228365" version="1065353216">Private Quarters</text>
+		<text bitflag="321" id1="229" id2="228365" version="1065353216">Imperial Respawn</text>
+		<text bitflag="321" id1="230" id2="228365" version="1065353216">Republic Respawn</text>
+		<text bitflag="321" id1="231" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="232" id2="228365" version="1065353216">All Hands Deck</text>
+		<text bitflag="321" id1="233" id2="228365" version="1065353216">Bridge</text>
+		<text bitflag="321" id1="234" id2="228365" version="1065353216">Bridge</text>
+		<text bitflag="321" id1="235" id2="228365" version="1065353216">Secluded Island</text>
+		<text bitflag="321" id1="236" id2="228365" version="1065353216">Ord Mantell Station</text>
+		<text bitflag="321" id1="237" id2="228365" version="1065353216">Abandoned Asteroid Mining Facility</text>
+		<text bitflag="321" id1="238" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="239" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="240" id2="228365" version="1065353216">Reactor Relay Alpha</text>
+		<text bitflag="321" id1="241" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="242" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="243" id2="228365" version="1065353216">Side Corridor</text>
+		<text bitflag="321" id1="244" id2="228365" version="1065353216">Generator Control Center</text>
+		<text bitflag="321" id1="245" id2="228365" version="1065353216">Lord Khresius' Compound</text>
+		<text bitflag="321" id1="246" id2="228365" version="1065353216">Camp 27</text>
+		<text bitflag="321" id1="247" id2="228365" version="1065353216">Nikto South Sector</text>
+		<text bitflag="321" id1="248" id2="228365" version="1065353216">Shipyard Elevator Access</text>
+		<text bitflag="321" id1="249" id2="228365" version="1065353216">Duros Central Medcenter</text>
+		<text bitflag="321" id1="250" id2="228365" version="1065353216">The Dark Temple</text>
+		<text bitflag="321" id1="251" id2="228365" version="1065353216">Nikto North Sector</text>
+		<text bitflag="321" id1="252" id2="228365" version="1065353216">Orbital Hangar Bay</text>
+		<text bitflag="321" id1="253" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="254" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="255" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="256" id2="228365" version="1065353216">Datacenter</text>
+		<text bitflag="321" id1="257" id2="228365" version="1065353216">Tromper Crags Medcenter</text>
+		<text bitflag="321" id1="258" id2="228365" version="1065353216">Tromper Crags Medcenter</text>
+		<text bitflag="321" id1="259" id2="228365" version="1065353216">Corellian Sector Center</text>
+		<text bitflag="321" id1="260" id2="228365" version="1065353216">Ascendant Star Medcenter</text>
+		<text bitflag="321" id1="261" id2="228365" version="1065353216">Ascendant Star Medcenter</text>
+		<text bitflag="321" id1="262" id2="228365" version="1065353216">Red Light District Medcenter</text>
+		<text bitflag="321" id1="263" id2="228365" version="1065353216">Chiss Zero Station Medcenter</text>
+		<text bitflag="321" id1="264" id2="228365" version="1065353216">Overrun Power Station Medcenter</text>
+		<text bitflag="321" id1="265" id2="228365" version="1065353216">Crescent Canyon Research Station Medcenter</text>
+		<text bitflag="321" id1="266" id2="228365" version="1065353216">Extreme Weather Storage Medcenter</text>
+		<text bitflag="321" id1="267" id2="228365" version="1065353216">Downed Drop Ship Medcenter</text>
+		<text bitflag="321" id1="268" id2="228365" version="1065353216">Frostbite Redoubt Medcenter</text>
+		<text bitflag="321" id1="269" id2="228365" version="1065353216">Frostbite Lake Medcenter</text>
+		<text bitflag="321" id1="270" id2="228365" version="1065353216">Imperial Excavation Site Medcenter</text>
+		<text bitflag="321" id1="271" id2="228365" version="1065353216">Victor Squadron Crash Site Medcenter</text>
+		<text bitflag="321" id1="272" id2="228365" version="1065353216">Ortolan Base Medcenter</text>
+		<text bitflag="321" id1="273" id2="228365" version="1065353216">Ortolan Base Medcenter</text>
+		<text bitflag="321" id1="274" id2="228365" version="1065353216">Victor Squadron Crash Site Medcenter</text>
+		<text bitflag="321" id1="275" id2="228365" version="1065353216">Ice Claw Wampda Den Medcenter</text>
+		<text bitflag="321" id1="276" id2="228365" version="1065353216">The Big Sink Medcenter</text>
+		<text bitflag="321" id1="277" id2="228365" version="1065353216">The Big Sink Medcenter</text>
+		<text bitflag="321" id1="278" id2="228365" version="1065353216">Jagged Plains Encampment Medcenter</text>
+		<text bitflag="321" id1="279" id2="228365" version="1065353216">Downed Drop Ship Medcenter</text>
+		<text bitflag="321" id1="280" id2="228365" version="1065353216">Drift Hills Medcenter</text>
+		<text bitflag="321" id1="281" id2="228365" version="1065353216">Power Station Medcenter</text>
+		<text bitflag="321" id1="282" id2="228365" version="1065353216">Power Station Medcenter</text>
+		<text bitflag="321" id1="283" id2="228365" version="1065353216">Upper Industrial Labor District</text>
+		<text bitflag="321" id1="284" id2="228365" version="1065353216">The Fatality Crash Site Medcenter</text>
+		<text bitflag="321" id1="285" id2="228365" version="1065353216">The Fatality Crash Site Medcenter</text>
+		<text bitflag="321" id1="286" id2="228365" version="1065353216">Lake Algid Holdout Medcenter</text>
+		<text bitflag="321" id1="287" id2="228365" version="1065353216">Lake Algid Holdout Medcenter</text>
+		<text bitflag="321" id1="288" id2="228365" version="1065353216">Mos Ila Spaceport</text>
+		<text bitflag="321" id1="289" id2="228365" version="1065353216">Upper Industrial Labor District</text>
+		<text bitflag="321" id1="290" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="291" id2="228365" version="1065353216">Medical Bay</text>
+		<text bitflag="321" id1="292" id2="228365" version="1065353216">Tromper Crags Whitemaw Base Medcenter</text>
+		<text bitflag="321" id1="293" id2="228365" version="1065353216">Tromper Crags Whitemaw Base Medcenter</text>
+		<text bitflag="321" id1="294" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="295" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="296" id2="228365" version="1065353216">Upper Office Atrium</text>
+		<text bitflag="321" id1="297" id2="228365" version="1065353216">Indignation Crash Site Medcenter</text>
+		<text bitflag="321" id1="298" id2="228365" version="1065353216">Indignation Crash Site Medcenter</text>
+		<text bitflag="321" id1="299" id2="228365" version="1065353216">Ridgeside Sentry Post</text>
+		<text bitflag="321" id1="300" id2="228365" version="1065353216">Lower Office Atrium</text>
+		<text bitflag="321" id1="301" id2="228365" version="1065353216">Chilling Death Spire Medcenter</text>
+		<text bitflag="321" id1="302" id2="228365" version="1065353216">Chilling Death Spire Medcenter</text>
+		<text bitflag="321" id1="303" id2="228365" version="1065353216">Shattered Basin</text>
+		<text bitflag="321" id1="304" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="305" id2="228365" version="1065353216">Engineering Medical Bay</text>
+		<text bitflag="321" id1="306" id2="228365" version="1065353216">Bridge Medical Bay</text>
+		<text bitflag="321" id1="307" id2="228365" version="1065353216">Jundland Canyons</text>
+		<text bitflag="321" id1="308" id2="228365" version="1065353216">High Security Lockdown</text>
+		<text bitflag="321" id1="309" id2="228365" version="1065353216">Alien Outreach Center</text>
+		<text bitflag="321" id1="310" id2="228365" version="1065353216">Transit Bridge</text>
+		<text bitflag="321" id1="311" id2="228365" version="1065353216">Hutt Data Haven</text>
+		<text bitflag="321" id1="312" id2="228365" version="1065353216">Dune Sea</text>
+		<text bitflag="321" id1="313" id2="228365" version="1065353216">Dune Sea</text>
+		<text bitflag="321" id1="314" id2="228365" version="1065353216">Jundland Canyons</text>
+		<text bitflag="321" id1="315" id2="228365" version="1065353216">Espelar Settlement</text>
+		<text bitflag="321" id1="316" id2="228365" version="1065353216">Imperial Staging Camp</text>
+		<text bitflag="321" id1="317" id2="228365" version="1065353216">House Cortess</text>
+		<text bitflag="321" id1="318" id2="228365" version="1065353216">Hidden Camp</text>
+		<text bitflag="321" id1="319" id2="228365" version="1065353216">Syrush Estate</text>
+		<text bitflag="321" id1="320" id2="228365" version="1065353216">Thul Supply Camp</text>
+		<text bitflag="321" id1="321" id2="228365" version="1065353216">Republic Safehouse</text>
+		<text bitflag="321" id1="322" id2="228365" version="1065353216">Glarus Valley Camp</text>
+		<text bitflag="321" id1="323" id2="228365" version="1065353216">Ulgo Shipping Facility</text>
+		<text bitflag="321" id1="324" id2="228365" version="1065353216">Thul Observation Camp</text>
+		<text bitflag="321" id1="325" id2="228365" version="1065353216">Mount Tessef Ruins</text>
+		<text bitflag="321" id1="326" id2="228365" version="1065353216">Organa Observation Post</text>
+		<text bitflag="321" id1="327" id2="228365" version="1065353216">Master's Retreat</text>
+		<text bitflag="321" id1="328" id2="228365" version="1065353216">Star of Coruscant</text>
+		<text bitflag="321" id1="329" id2="228365" version="1065353216">Empire Medcenter</text>
+		<text bitflag="321" id1="330" id2="228365" version="1065353216">Republic Medcenter</text>
+		<text bitflag="321" id1="331" id2="228365" version="1065353216">Star of Coruscant</text>
+		<text bitflag="321" id1="332" id2="228365" version="1065353216">Republic Base Camp</text>
+		<text bitflag="321" id1="333" id2="228365" version="1065353216">Imperial Base Camp</text>
+		<text bitflag="321" id1="334" id2="228365" version="1065353216">Republic District</text>
+		<text bitflag="321" id1="335" id2="228365" version="1065353216">Ken-La Outpost</text>
+		<text bitflag="321" id1="336" id2="228365" version="1065353216">Camp Talanis</text>
+		<text bitflag="321" id1="337" id2="228365" version="1065353216">Shad-Ka Outpost</text>
+		<text bitflag="321" id1="338" id2="228365" version="1065353216">Kri-Ta Outpost</text>
+		<text bitflag="321" id1="339" id2="228365" version="1065353216">Pilgrim Retreat</text>
+		<text bitflag="321" id1="340" id2="228365" version="1065353216">Imperial District</text>
+		<text bitflag="321" id1="341" id2="228365" version="1065353216">Fort Kodentha</text>
+		<text bitflag="321" id1="342" id2="228365" version="1065353216">Outpost Skyline</text>
+		<text bitflag="321" id1="343" id2="228365" version="1065353216">Gehn's Overlook</text>
+		<text bitflag="321" id1="344" id2="228365" version="1065353216">Outpost Overseer</text>
+		<text bitflag="321" id1="345" id2="228365" version="1065353216">Pilgrim Retreat</text>
+		<text bitflag="321" id1="346" id2="228365" version="1065353216">Secret Landing Site</text>
+		<text bitflag="321" id1="347" id2="228365" version="1065353216">Republic Waystation</text>
+		<text bitflag="321" id1="348" id2="228365" version="1065353216">Imperial Waystation</text>
+		<text bitflag="321" id1="349" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="350" id2="228365" version="1065353216">Pir Tel Outpost</text>
+		<text bitflag="321" id1="351" id2="228365" version="1065353216">Pir Tel Outpost</text>
+		<text bitflag="321" id1="352" id2="228365" version="1065353216">Camp Bashana</text>
+		<text bitflag="321" id1="353" id2="228365" version="1065353216">Imperial Lodgement</text>
+		<text bitflag="321" id1="354" id2="228365" version="1065353216">Central Imperial Encampment</text>
+		<text bitflag="321" id1="355" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="356" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="357" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="358" id2="228365" version="1065353216">Bridge Medical Bay</text>
+		<text bitflag="321" id1="359" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="360" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="361" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="362" id2="228365" version="1065353216">Medical Center</text>
+		<text bitflag="321" id1="363" id2="228365" version="1065353216">Prison Adminstration Center</text>
+		<text bitflag="321" id1="364" id2="228365" version="1065353216">Intake Yard</text>
+		<text bitflag="321" id1="365" id2="228365" version="1065353216">Republic Watchtower</text>
+		<text bitflag="321" id1="366" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="367" id2="228365" version="1065353216">Maximum Security Ops Center</text>
+		<text bitflag="321" id1="368" id2="228365" version="1065353216">Automated Checkpoint</text>
+		<text bitflag="321" id1="369" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="370" id2="228365" version="1065353216">Imperial Command Post</text>
+		<text bitflag="321" id1="371" id2="228365" version="1065353216">Imperial Frontline Camp</text>
+		<text bitflag="321" id1="372" id2="228365" version="1065353216">Operations Group Two Post</text>
+		<text bitflag="321" id1="373" id2="228365" version="1065353216">Vixxon's Shear Imperial Outpost</text>
+		<text bitflag="321" id1="374" id2="228365" version="1065353216">Upper Experimental Checkpoint</text>
+		<text bitflag="321" id1="375" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="376" id2="228365" version="1065353216">Command Center Medical Bay</text>
+		<text bitflag="321" id1="377" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="378" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="379" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="380" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="381" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="382" id2="228365" version="1065353216">Empire Medcenter</text>
+		<text bitflag="321" id1="383" id2="228365" version="1065353216">Republic Medcenter</text>
+		<text bitflag="321" id1="384" id2="228365" version="1065353216">Korriban Orbital Station</text>
+		<text bitflag="321" id1="385" id2="228365" version="1065353216">Hutta Orbital Station</text>
+		<text bitflag="321" id1="386" id2="228365" version="1065353216">Tython Orbital Station</text>
+		<text bitflag="321" id1="387" id2="228365" version="1065353216">Ord Mantell Orbital Station</text>
+		<text bitflag="321" id1="388" id2="228365" version="1065353216">Dromund Kaas Orbital Station</text>
+		<text bitflag="321" id1="389" id2="228365" version="1065353216">Coruscant Orbital Station</text>
+		<text bitflag="321" id1="390" id2="228365" version="1065353216">Balmorra Orbital Station</text>
+		<text bitflag="321" id1="391" id2="228365" version="1065353216">Taris Orbital Station</text>
+		<text bitflag="321" id1="392" id2="228365" version="1065353216">Nar Shaddaa Orbital Station</text>
+		<text bitflag="321" id1="393" id2="228365" version="1065353216">Nar Shaddaa Orbital Station</text>
+		<text bitflag="321" id1="394" id2="228365" version="1065353216">Tatooine Orbital Station</text>
+		<text bitflag="321" id1="395" id2="228365" version="1065353216">Tatooine Orbital Station</text>
+		<text bitflag="321" id1="396" id2="228365" version="1065353216">Alderaan Orbital Station</text>
+		<text bitflag="321" id1="397" id2="228365" version="1065353216">Alderaan Orbital Station</text>
+		<text bitflag="321" id1="398" id2="228365" version="1065353216">Taris Orbital Station</text>
+		<text bitflag="321" id1="399" id2="228365" version="1065353216">Balmorra Orbital Station</text>
+		<text bitflag="321" id1="400" id2="228365" version="1065353216">Quesh Orbital Station</text>
+		<text bitflag="321" id1="401" id2="228365" version="1065353216">Quesh Orbital Station</text>
+		<text bitflag="321" id1="402" id2="228365" version="1065353216">Hoth Orbital Station</text>
+		<text bitflag="321" id1="403" id2="228365" version="1065353216">Hoth Orbital Station</text>
+		<text bitflag="321" id1="404" id2="228365" version="1065353216">Belsavis Orbital Station</text>
+		<text bitflag="321" id1="405" id2="228365" version="1065353216">Belsavis Orbital Station</text>
+		<text bitflag="321" id1="406" id2="228365" version="1065353216">Voss Orbital Station</text>
+		<text bitflag="321" id1="407" id2="228365" version="1065353216">Voss Orbital Station</text>
+		<text bitflag="321" id1="408" id2="228365" version="1065353216">Corellia Orbital Station</text>
+		<text bitflag="321" id1="409" id2="228365" version="1065353216">Corellia Orbital Station</text>
+		<text bitflag="321" id1="410" id2="228365" version="1065353216">Ilum Orbital Station</text>
+		<text bitflag="321" id1="411" id2="228365" version="1065353216">Ilum Orbital Station</text>
+		<text bitflag="321" id1="412" id2="228365" version="1065353216">Upper Industrial Medical Bay</text>
+		<text bitflag="321" id1="413" id2="228365" version="1065353216">Airlock</text>
+		<text bitflag="321" id1="414" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="415" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="416" id2="228365" version="1065353216">Crew Deck Medical Bay</text>
+		<text bitflag="321" id1="417" id2="228365" version="1065353216">Bridge Deck Medical Bay</text>
+		<text bitflag="321" id1="418" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="419" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="420" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="421" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="422" id2="228365" version="1065353216">Throne Room Medical Bay</text>
+		<text bitflag="321" id1="423" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="424" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="425" id2="228365" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="426" id2="228365" version="1065353216">Blastfield Shipyards</text>
+		<text bitflag="321" id1="427" id2="228365" version="1065353216">Ardus Industries</text>
+		<text bitflag="321" id1="428" id2="228365" version="1065353216">Park East</text>
+		<text bitflag="321" id1="429" id2="228365" version="1065353216">Republic Rendevous Point</text>
+		<text bitflag="321" id1="430" id2="228365" version="1065353216">Business Sector Tram</text>
+		<text bitflag="321" id1="431" id2="228365" version="1065353216">Republic Foundation Museum</text>
+		<text bitflag="321" id1="432" id2="228365" version="1065353216">Bastion Gate</text>
+		<text bitflag="321" id1="433" id2="228365" version="1065353216">Transport Station Five Remote Post</text>
+		<text bitflag="321" id1="434" id2="228365" version="1065353216">Republic Medcenter</text>
+		<text bitflag="321" id1="435" id2="228365" version="1065353216">Empire Medcenter</text>
+		<text bitflag="321" id1="436" id2="228365" version="1065353216">Test Aswan Die</text>
+		<text bitflag="321" id1="437" id2="228365" version="1065353216">Olaris Reclamation Base</text>
+		<text bitflag="321" id1="438" id2="228365" version="1065353216">Kaas City Arrival Point</text>
+		<text bitflag="321" id1="439" id2="228365" version="1065353216">Dark Temple Arrival Point</text>
+		<text bitflag="321" id1="440" id2="228365" version="1065353216">Dark Temple Mezzanine</text>
+		<text bitflag="321" id1="441" id2="228365" version="1065353216">Frozen Transport Center</text>
+		<text bitflag="321" id1="442" id2="228365" version="1065353216">Signal Monitoring Center</text>
+		<text bitflag="321" id1="443" id2="228365" version="1065353216">Rakata Maximum Security Junction</text>
+		<text bitflag="321" id1="444" id2="228365" version="1065353216">Rakata Maximum Security Junction</text>
+		<text bitflag="321" id1="445" id2="228365" version="1065353216">Rakata Transport Center</text>
+		<text bitflag="321" id1="446" id2="228365" version="1065353216">Lower Prison Magma Transport</text>
+		<text bitflag="321" id1="447" id2="228365" version="1065353216">Upper Transport Center</text>
+		<text bitflag="321" id1="448" id2="228365" version="1065353216">The Zedalus Tree Medical Station</text>
+		<text bitflag="321" id1="449" id2="228365" version="1065353216">The Zedalus Tree Medical Station</text>
+		<text bitflag="321" id1="450" id2="228365" version="1065353216">Automated Monitoring Post</text>
+		<text bitflag="321" id1="451" id2="228365" version="1065353216">Southern Observation Post</text>
+		<text bitflag="321" id1="452" id2="228365" version="1065353216">The Works Transport Pad</text>
+		<text bitflag="321" id1="453" id2="228365" version="1065353216">Soh'va Work Camp</text>
+		<text bitflag="321" id1="454" id2="228365" version="1065353216">Southwest Black Sun</text>
+		<text bitflag="321" id1="455" id2="228365" version="1065353216">Justicar Prison Entrance</text>
+		<text bitflag="321" id1="456" id2="228365" version="1065353216">Dark Temple Approach</text>
+		<text bitflag="321" id1="457" id2="228365" version="1065353216">Sundari Flatlands</text>
+		<text bitflag="321" id1="458" id2="228365" version="1065353216">Farnelll Research Facility</text>
+		<text bitflag="321" id1="459" id2="228365" version="1065353216">Trey Medcenter</text>
+		<text bitflag="321" id1="460" id2="228365" version="1065353216">Imperial Medical Site</text>
+		<text bitflag="321" id1="461" id2="228365" version="1065353216">Republic Medical Site</text>
+		<text bitflag="321" id1="462" id2="228365" version="1065353216">Imperial Medical Outpost</text>
+		<text bitflag="321" id1="463" id2="228365" version="1065353216">Republic Medical Outpost</text>
+		<text bitflag="321" id1="464" id2="228365" version="1065353216">Outer Tomb Transport Chamber</text>
+		<text bitflag="321" id1="465" id2="228365" version="1065353216">Maximum Security Medical Outpost</text>
+		<text bitflag="321" id1="466" id2="228365" version="1065353216">Maximum Security Medical Outpost</text>
+		<text bitflag="321" id1="467" id2="228365" version="1065353216">Rakata Prison Medical Outpost</text>
+		<text bitflag="321" id1="468" id2="228365" version="1065353216">Republic Medical Outpost</text>
+		<text bitflag="321" id1="469" id2="228365" version="1065353216">Imperial Medical Outpost</text>
+		<text bitflag="321" id1="470" id2="228365" version="1065353216">Cell Block 2018 Medical Outpost</text>
+		<text bitflag="321" id1="471" id2="228365" version="1065353216">Tomb Bridge Medical Outpost</text>
+		<text bitflag="321" id1="472" id2="228365" version="1065353216">Fort Orrus Medical Site</text>
+		<text bitflag="321" id1="473" id2="228365" version="1065353216">Duwon Pass Nerf Stables</text>
+		<text bitflag="321" id1="474" id2="228365" version="1065353216">Fan-Dro Outpost</text>
+		<text bitflag="321" id1="475" id2="228365" version="1065353216">SIS Recon Post</text>
+		<text bitflag="321" id1="476" id2="228365" version="1065353216">Shrine of Healing</text>
+		<text bitflag="321" id1="477" id2="228365" version="1065353216">Republic Forward Camp</text>
+		<text bitflag="321" id1="478" id2="228365" version="1065353216">Imperial Forward Camp</text>
+		<text bitflag="321" id1="479" id2="228365" version="1065353216">Club Vertica Medical Outpost</text>
+		<text bitflag="321" id1="480" id2="228365" version="1065353216">Star Cluster Medical Outpost</text>
+		<text bitflag="321" id1="481" id2="228365" version="1065353216">Markaran Plains</text>
+		<text bitflag="321" id1="482" id2="228365" version="1065353216">Quar Ret Imperial Medical Site</text>
+		<text bitflag="321" id1="483" id2="228365" version="1065353216">Quar Ret Republic Medical Site</text>
+		<text bitflag="321" id1="484" id2="228365" version="1065353216">Rapined Wood Republic Medical Site</text>
+		<text bitflag="321" id1="485" id2="228365" version="1065353216">Gormak Camp Overlook</text>
+		<text bitflag="321" id1="486" id2="228365" version="1065353216">Fest Otur Republic Medical Site</text>
+		<text bitflag="321" id1="487" id2="228365" version="1065353216">Fest Otur Imperial Medical Site</text>
+		<text bitflag="321" id1="488" id2="228365" version="1065353216">Old Galactic Market Medical Center</text>
+		<text bitflag="321" id1="489" id2="228365" version="1065353216">Upper Kaleth</text>
+		<text bitflag="321" id1="490" id2="228365" version="1065353216">Savrip Overlook</text>
+		<text bitflag="321" id1="491" id2="228365" version="1065353216">Republic Medical Outpost</text>
+		<text bitflag="321" id1="492" id2="228365" version="1065353216">Republic Medical Outpost</text>
+		<text bitflag="321" id1="493" id2="228365" version="1065353216">Republic Medical Outpost</text>
+		<text bitflag="321" id1="494" id2="228365" version="1065353216">Republic Medical Outpost</text>
+		<text bitflag="321" id1="495" id2="228365" version="1065353216">Republic Medical Outpost</text>
+		<text bitflag="321" id1="496" id2="228365" version="1065353216">Republic Medical Outpost</text>
+		<text bitflag="321" id1="497" id2="228365" version="1065353216">Republic Medical Outpost</text>
+		<text bitflag="321" id1="498" id2="228365" version="1065353216">Bastion Approach Medical Station</text>
+		<text bitflag="321" id1="499" id2="228365" version="1065353216">Bastion Command Center Medical Station</text>
+		<text bitflag="321" id1="500" id2="228365" version="1065353216">Sundar Research Grounds Medical Outpost</text>
+		<text bitflag="321" id1="501" id2="228365" version="1065353216">Balmorran Arms Factory Shipyard Medical Outpost</text>
+		<text bitflag="321" id1="502" id2="228365" version="1065353216">Voidwolf's Vault Medical Tent</text>
+		<text bitflag="321" id1="503" id2="228365" version="1065353216">Sobrik Medical Facility</text>
+		<text bitflag="321" id1="504" id2="228365" version="1065353216">Republic Ship</text>
+		<text bitflag="321" id1="505" id2="228365" version="1065353216">Imperial Ship</text>
+		<text bitflag="321" id1="506" id2="228365" version="1065353216">Gav Daragon</text>
+		<text bitflag="321" id1="507" id2="228365" version="1065353216">Telos</text>
+		<text bitflag="321" id1="508" id2="228365" version="1065353216">Carrick Station</text>
+		<text bitflag="321" id1="509" id2="228365" version="1065353216">Vaiken Spacedock</text>
+		<text bitflag="321" id1="510" id2="228365" version="1065353216">White Nova</text>
+		<text bitflag="321" id1="511" id2="228365" version="1065353216">Ziost Shadow</text>
+		<text bitflag="321" id1="512" id2="228365" version="1065353216">Government Bunker Medical Station</text>
+		<text bitflag="321" id1="513" id2="228365" version="1065353216">Okara Droid Factory</text>
+		<text bitflag="321" id1="514" id2="228365" version="1065353216">Troida Military Workshop</text>
+		<text bitflag="321" id1="515" id2="228365" version="1065353216">Moraine Outpost</text>
+		<text bitflag="321" id1="522" id2="228365" version="1065353216">Factory District</text>
+		<text bitflag="321" id1="524" id2="228365" version="1065353216">Museum Exhibit</text>
+		<text bitflag="321" id1="525" id2="228365" version="1065353216">Emergency Medical Droid</text>
+		<text bitflag="321" id1="526" id2="228365" version="1065353216">High Profile Ward</text>
+		<text bitflag="321" id1="527" id2="228365" version="1065353216">Imperial Home Base</text>
+		<text bitflag="321" id1="528" id2="228365" version="1065353216">Republic Home Base</text>
+		<text bitflag="321" id1="529" id2="228365" version="1065353216">Avesta's Plantation</text>
+		<text bitflag="321" id1="530" id2="228365" version="1065353216">Storm Carrier</text>
+		<text bitflag="321" id1="531" id2="228365" version="1065353216">The Fingers</text>
+		<text bitflag="321" id1="532" id2="228365" version="1065353216">The Aboro Mesa</text>
+		<text bitflag="321" id1="533" id2="228365" version="1065353216">Talaos City Upper Medcenter</text>
+		<text bitflag="321" id1="534" id2="228365" version="1065353216">Talaos City Lower Medcenter</text>
+		<text bitflag="321" id1="535" id2="228365" version="1065353216">Giant Spear</text>
+		<text bitflag="321" id1="536" id2="228365" version="1065353216">Ark Security Center</text>
+		<text bitflag="321" id1="537" id2="228365" version="1065353216">Frinn Flats</text>
+		<text bitflag="321" id1="538" id2="228365" version="1065353216">Frinn Mesa Landing Zone</text>
+		<text bitflag="321" id1="539" id2="228365" version="1065353216">Relus Medcenter</text>
+		<text bitflag="321" id1="540" id2="228365" version="1065353216">Crag Outpost</text>
+		<text bitflag="321" id1="541" id2="228365" version="1065353216">Camp Overlook</text>
+		<text bitflag="321" id1="542" id2="228365" version="1065353216">Aurora Cannon Facility</text>
+		<text bitflag="321" id1="543" id2="228365" version="1065353216">Aurora Cannon Facility</text>
+		<text bitflag="321" id1="544" id2="228365" version="1065353216">The Frozen Lake</text>
+		<text bitflag="321" id1="545" id2="228365" version="1065353216">The Frozen Lake</text>
+		<text bitflag="321" id1="546" id2="228365" version="1065353216">The Sanctuary</text>
+		<text bitflag="321" id1="547" id2="228365" version="1065353216">Tarlam Estates</text>
+		<text bitflag="321" id1="548" id2="228365" version="1065353216">Giant's Spear Command Post</text>
+		<text bitflag="321" id1="549" id2="228365" version="1065353216">Telemur Landing Zone</text>
+		<text bitflag="321" id1="550" id2="228365" version="1065353216">Telemur Mesa</text>
+		<text bitflag="321" id1="551" id2="228365" version="1065353216">Stronghold Landing Zone M23</text>
+		<text bitflag="321" id1="552" id2="228365" version="1065353216">Hutt Strongholds</text>
+		<text bitflag="321" id1="553" id2="228365" version="1065353216">Cartel Mining Mesa</text>
+		<text bitflag="321" id1="554" id2="228365" version="1065353216">Cartel Mining Mesa</text>
+		<text bitflag="321" id1="555" id2="228365" version="1065353216">Imperial Orbital Station</text>
+		<text bitflag="321" id1="556" id2="228365" version="1065353216">Gravity Hook Seven Crash Site</text>
+		<text bitflag="321" id1="557" id2="228365" version="1065353216">Gravity Hook Seven Loading Ring</text>
+		<text bitflag="321" id1="558" id2="228365" version="1065353216">Gravity Hook Four</text>
+		<text bitflag="321" id1="559" id2="228365" version="1065353216">Abandoned Mining Mesa</text>
+		<text bitflag="321" id1="560" id2="228365" version="1065353216">Perekta Mesa</text>
+		<text bitflag="321" id1="561" id2="228365" version="1065353216">Gravity Hook Seven Service Level</text>
+		<text bitflag="321" id1="562" id2="228365" version="1065353216">Republic Orbital Station</text>
+		<text bitflag="321" id1="563" id2="228365" version="1065353216">Solida Hesk's Estate</text>
+		<text bitflag="321" id1="564" id2="228365" version="1065353216">Westwater Settlements</text>
+		<text bitflag="321" id1="565" id2="228365" version="1065353216">Volcanic Mesa</text>
+		<text bitflag="321" id1="567" id2="228365" version="1065353216">Deck 4 Aft Corridor</text>
+		<text bitflag="321" id1="568" id2="228365" version="1065353216">Deck 4 Aft Corridor</text>
+		<text bitflag="321" id1="569" id2="228365" version="1065353216">Deck 5 Aft Corridor</text>
+		<text bitflag="321" id1="570" id2="228365" version="1065353216">Deck 5 Main Engineering</text>
+		<text bitflag="321" id1="571" id2="228365" version="1065353216">Deck 5 Aft Corridor</text>
+		<text bitflag="321" id1="572" id2="228365" version="1065353216">Deck 5 Main Engineering</text>
+		<text bitflag="321" id1="573" id2="228365" version="1065353216">The Third Eye</text>
+		<text bitflag="321" id1="574" id2="228365" version="1065353216">Starboard Airlock</text>
+		<text bitflag="321" id1="575" id2="228365" version="1065353216">Port Airlock</text>
+		<text bitflag="321" id1="576" id2="228365" version="1065353216">Drill Observation Ring</text>
+		<text bitflag="321" id1="577" id2="228365" version="1065353216">Mass Transit J-991</text>
+		<text bitflag="321" id1="578" id2="228365" version="1065353216">Mass Transit J-990</text>
+		<text bitflag="321" id1="579" id2="228365" version="1065353216">Mass Transit J-989</text>
+		<text bitflag="321" id1="582" id2="228365" version="1065353216">Medical Terminal</text>
+		<text bitflag="321" id1="583" id2="228365" version="1065353216">Sunken Pool</text>
+		<text bitflag="321" id1="584" id2="228365" version="1065353216">Stronghold One Defensive Position</text>
+		<text bitflag="321" id1="589" id2="228365" version="1065353216">CZ-198 Landing Zone</text>
+		<text bitflag="321" id1="590" id2="228365" version="1065353216">Czerka Freight Depot</text>
+		<text bitflag="321" id1="256" id2="769358" version="1065353216">THORN Operations Hub</text>
+		<text bitflag="321" id1="257" id2="769358" version="1065353216">THORN Crisis Command</text>
+		<text bitflag="321" id1="258" id2="769358" version="1065353216">Dread Executioners Camp</text>
+		<text bitflag="321" id1="259" id2="769358" version="1065353216">Strike Team Oricon</text>
+		<text bitflag="321" id1="260" id2="769358" version="1065353216">Dread Fortress Bridge</text>
+		<text bitflag="321" id1="272" id2="769358" version="1065353216">Raider's Cove Cantina</text>
+		<text bitflag="321" id1="273" id2="769358" version="1065353216">Rishii Village</text>
+		<text bitflag="321" id1="274" id2="769358" version="1065353216">Ship Container</text>
+		<text bitflag="321" id1="276" id2="769358" version="1065353216">Shared Landing Area</text>
+		<text bitflag="321" id1="277" id2="769358" version="1065353216">Forward Base</text>
+		<text bitflag="321" id1="278" id2="769358" version="1065353216">Recon Camp</text>
+		<text bitflag="321" id1="279" id2="769358" version="1065353216">Temple Ruins</text>
+		<text bitflag="321" id1="280" id2="769358" version="1065353216">Scout Camp</text>
+		<text bitflag="321" id1="281" id2="769358" version="1065353216">Raider's Cove Market</text>
+		<text bitflag="321" id1="282" id2="769358" version="1065353216">Raider's Cove</text>
+		<text bitflag="321" id1="283" id2="769358" version="1065353216">Military Outpost</text>
+		<text bitflag="321" id1="284" id2="769358" version="1065353216">Barren Outpost</text>
+		<text bitflag="321" id1="285" id2="769358" version="1065353216">Medical Services</text>
+		<text bitflag="321" id1="286" id2="769358" version="1065353216">Crisis Triage</text>
+		<text bitflag="321" id1="287" id2="769358" version="1065353216">Central District</text>
+		<text bitflag="321" id1="288" id2="769358" version="1065353216">People's Tower Plaza</text>
+		<text bitflag="321" id1="289" id2="769358" version="1065353216">Ziost Orbital Station</text>
+		<text bitflag="321" id1="290" id2="769358" version="1065353216">Checkpoint</text>
+		<text bitflag="321" id1="291" id2="769358" version="1065353216">Frostfire Lavaworks</text>
+		<text bitflag="321" id1="292" id2="769358" version="1065353216">Umbaran Train</text>
+		<text bitflag="321" id1="293" id2="769358" version="1065353216">Crash Site</text>
+		<text bitflag="321" id1="294" id2="769358" version="1065353216">Umbaran Wilderness</text>
+		<text bitflag="321" id1="295" id2="769358" version="1065353216">Copero Landing Site</text>
+		<text bitflag="321" id1="296" id2="769358" version="1065353216">Factory Throughput</text>
+		<text bitflag="321" id1="297" id2="769358" version="1065353216">Temple Approach</text>
+		<text bitflag="321" id1="298" id2="769358" version="1065353216">Landing Site</text>
+		<text bitflag="321" id1="299" id2="769358" version="1065353216">Plateau Vista</text>
+		<text bitflag="321" id1="300" id2="769358" version="1065353216">Valley Catwalks</text>
+		<text bitflag="321" id1="301" id2="769358" version="1065353216">Verdant Valley</text>
+		<text bitflag="321" id1="302" id2="769358" version="1065353216">Temple Entrance</text>
+		<text bitflag="321" id1="303" id2="769358" version="1065353216">Zildrog Chamber</text>
+		<text bitflag="321" id1="304" id2="769358" version="1065353216">Jedi Temple Ruins</text>
+		<text bitflag="321" id1="305" id2="769358" version="1065353216">Farms</text>
+		<text bitflag="321" id1="306" id2="769358" version="1065353216">Canyons</text>
+		<text bitflag="321" id1="307" id2="769358" version="1065353216">Dead Forest</text>
+		<text bitflag="321" id1="308" id2="769358" version="1065353216">Catacombs Entrance</text>
+		<text bitflag="321" id1="309" id2="769358" version="1065353216">Jedi Colony</text>
+		<text bitflag="321" id1="310" id2="769358" version="1065353216">Hidden Landing Site</text>
+	</file_content>
+</stb_file>

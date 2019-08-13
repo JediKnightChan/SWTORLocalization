@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>506</strs>
+		<file_name>/resources/en-us/str/lgc/unlocks.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="275" id2="656577" version="1065353216">Jedi Consular</text>
+		<text bitflag="321" id1="276" id2="656577" version="1065353216">Jedi Knight</text>
+		<text bitflag="321" id1="277" id2="656577" version="1065353216">Smuggler</text>
+		<text bitflag="321" id1="278" id2="656577" version="1065353216">Trooper</text>
+		<text bitflag="321" id1="279" id2="656577" version="1065353216">Agent</text>
+		<text bitflag="321" id1="280" id2="656577" version="1065353216">Bounty Hunter</text>
+		<text bitflag="321" id1="281" id2="656577" version="1065353216">Sith Inquisitor</text>
+		<text bitflag="321" id1="282" id2="656577" version="1065353216">Sith Warrior</text>
+		<text bitflag="321" id1="283" id2="656577" version="1065353216">Kaliyo</text>
+		<text bitflag="321" id1="284" id2="656577" version="1065353216">Doctor Lokin</text>
+		<text bitflag="321" id1="285" id2="656577" version="1065353216">Scorpio</text>
+		<text bitflag="321" id1="286" id2="656577" version="1065353216">Ensign Temple</text>
+		<text bitflag="321" id1="287" id2="656577" version="1065353216">Vector</text>
+		<text bitflag="321" id1="288" id2="656577" version="1065353216">+Presence to All Characters</text>
+		<text bitflag="321" id1="289" id2="656577" version="1065353216">Blizz</text>
+		<text bitflag="321" id1="290" id2="656577" version="1065353216">Gault</text>
+		<text bitflag="321" id1="291" id2="656577" version="1065353216">Mako</text>
+		<text bitflag="321" id1="292" id2="656577" version="1065353216">Skadge</text>
+		<text bitflag="321" id1="293" id2="656577" version="1065353216">Torian</text>
+		<text bitflag="321" id1="294" id2="656577" version="1065353216">Andronikos</text>
+		<text bitflag="321" id1="295" id2="656577" version="1065353216">Ashara</text>
+		<text bitflag="321" id1="296" id2="656577" version="1065353216">Khem Val</text>
+		<text bitflag="321" id1="297" id2="656577" version="1065353216">Talos Drellik</text>
+		<text bitflag="321" id1="298" id2="656577" version="1065353216">Xalek</text>
+		<text bitflag="321" id1="299" id2="656577" version="1065353216">Broonmark</text>
+		<text bitflag="321" id1="300" id2="656577" version="1065353216">Jaesa</text>
+		<text bitflag="321" id1="301" id2="656577" version="1065353216">Lt. Pierce</text>
+		<text bitflag="321" id1="302" id2="656577" version="1065353216">Malavai Quinn</text>
+		<text bitflag="321" id1="303" id2="656577" version="1065353216">Vette</text>
+		<text bitflag="321" id1="304" id2="656577" version="1065353216">Felix Iresso</text>
+		<text bitflag="321" id1="305" id2="656577" version="1065353216">Nadia Grell</text>
+		<text bitflag="321" id1="306" id2="656577" version="1065353216">Qyzen Fess</text>
+		<text bitflag="321" id1="307" id2="656577" version="1065353216">Tharan Cedrax</text>
+		<text bitflag="321" id1="308" id2="656577" version="1065353216">Zenith</text>
+		<text bitflag="321" id1="309" id2="656577" version="1065353216">Doc</text>
+		<text bitflag="321" id1="310" id2="656577" version="1065353216">Kira Carsen</text>
+		<text bitflag="321" id1="311" id2="656577" version="1065353216">Sgt. Rusk</text>
+		<text bitflag="321" id1="312" id2="656577" version="1065353216">Lord Scourge</text>
+		<text bitflag="321" id1="313" id2="656577" version="1065353216">T7-01</text>
+		<text bitflag="321" id1="314" id2="656577" version="1065353216">Akaavi Spar</text>
+		<text bitflag="321" id1="315" id2="656577" version="1065353216">Bowdaar</text>
+		<text bitflag="321" id1="316" id2="656577" version="1065353216">Corso Riggs</text>
+		<text bitflag="321" id1="317" id2="656577" version="1065353216">Guss Tuno</text>
+		<text bitflag="321" id1="318" id2="656577" version="1065353216">Risha</text>
+		<text bitflag="321" id1="319" id2="656577" version="1065353216">Aric Jorgan</text>
+		<text bitflag="321" id1="320" id2="656577" version="1065353216">Elara Dorne</text>
+		<text bitflag="321" id1="321" id2="656577" version="1065353216">M1-4X</text>
+		<text bitflag="321" id1="322" id2="656577" version="1065353216">Tanno Vik</text>
+		<text bitflag="321" id1="323" id2="656577" version="1065353216">Yuun</text>
+		<text bitflag="321" id1="324" id2="656577" version="1065353216">Agent Chapter 3 - Heroic Ability</text>
+		<text bitflag="321" id1="325" id2="656577" version="1065353216">Bounty Hunter Chapter 3 - Heroic Ability</text>
+		<text bitflag="321" id1="326" id2="656577" version="1065353216">Jedi Consular Chapter 3 - Heroic Ability</text>
+		<text bitflag="321" id1="327" id2="656577" version="1065353216">Jedi Knight Chapter 3 - Heroic Ability</text>
+		<text bitflag="321" id1="328" id2="656577" version="1065353216">Sith Warrior Chapter 3 - Heroic Ability</text>
+		<text bitflag="321" id1="329" id2="656577" version="1065353216">Smuggler Chapter 3 - Heroic Ability</text>
+		<text bitflag="321" id1="330" id2="656577" version="1065353216">Trooper Chapter 3 - Heroic Ability</text>
+		<text bitflag="321" id1="331" id2="656577" version="1065353216">Grants use of the &quot;Legacy Orbital Strike&quot; ability to all characters in your legacy.  This is a powerful combat ability only usable while your Heroic Moment ability is active.</text>
+		<text bitflag="321" id1="332" id2="656577" version="1065353216">Grants use of the &quot;Legacy Flamethrower&quot; ability to all characters in your legacy.  This is a powerful combat ability only usable while your Heroic Moment ability is active.</text>
+		<text bitflag="321" id1="333" id2="656577" version="1065353216">Grants use of the &quot;Legacy Project&quot; ability to all characters in your legacy.  This is a powerful combat ability only usable while your Heroic Moment ability is active.</text>
+		<text bitflag="321" id1="334" id2="656577" version="1065353216">Grants use of the &quot;Legacy Force Sweep&quot; ability to all characters in your legacy.  This is a powerful combat ability only usable while your Heroic Moment ability is active.</text>
+		<text bitflag="321" id1="335" id2="656577" version="1065353216">Grants use of the &quot;Legacy Force Choke&quot; ability to all characters in your legacy.  This is a powerful combat ability only usable while your Heroic Moment ability is active.</text>
+		<text bitflag="321" id1="336" id2="656577" version="1065353216">Grants use of the &quot;Legacy Dirty Kick&quot; ability to all characters in your legacy.  This is a powerful combat ability only usable while your Heroic Moment ability is active.</text>
+		<text bitflag="321" id1="337" id2="656577" version="1065353216">Grants use of the &quot;Legacy Sticky Plasma Grenade&quot; ability to all characters in your legacy.  This is a powerful combat ability only usable while your Heroic Moment ability is active.</text>
+		<text bitflag="321" id1="338" id2="656577" version="1065353216">Zabrak</text>
+		<text bitflag="321" id1="339" id2="656577" version="1065353216">Rattataki</text>
+		<text bitflag="321" id1="340" id2="656577" version="1065353216">Chiss</text>
+		<text bitflag="321" id1="341" id2="656577" version="1065353216">Mirialan</text>
+		<text bitflag="321" id1="342" id2="656577" version="1065353216">Twi'lek</text>
+		<text bitflag="321" id1="343" id2="656577" version="1065353216">Miraluka</text>
+		<text bitflag="321" id1="344" id2="656577" version="1065353216">Sith</text>
+		<text bitflag="321" id1="345" id2="656577" version="1065353216">Cyborg</text>
+		<text bitflag="321" id1="346" id2="656577" version="1065353216">Human</text>
+		<text bitflag="321" id1="347" id2="656577" version="1065353216">Sith Inquisitor Chapter 3 - Heroic Ability</text>
+		<text bitflag="321" id1="348" id2="656577" version="1065353216">Grants use of the &quot;Legacy Force Lightning&quot; ability to all characters in your legacy.  This is a powerful combat ability only usable while your Heroic Moment ability is active.</text>
+		<text bitflag="321" id1="349" id2="656577" version="1065353216">Agent Chapter 2 - Buff</text>
+		<text bitflag="321" id1="350" id2="656577" version="1065353216">Bounty Hunter Chapter 2 - Buff</text>
+		<text bitflag="321" id1="351" id2="656577" version="1065353216">Jedi Consular Chapter 2 - Buff</text>
+		<text bitflag="321" id1="352" id2="656577" version="1065353216">Jedi Knight Chapter 2 - Buff</text>
+		<text bitflag="321" id1="353" id2="656577" version="1065353216">Sith Inquisitor Chapter 2 - Buff</text>
+		<text bitflag="321" id1="354" id2="656577" version="1065353216">Sith Warrior Chapter 2 - Buff</text>
+		<text bitflag="321" id1="355" id2="656577" version="1065353216">Smuggler Chapter 2 - Buff</text>
+		<text bitflag="321" id1="356" id2="656577" version="1065353216">Trooper Chapter 2 - Buff</text>
+		<text bitflag="321" id1="357" id2="656577" version="1065353216">All class buffs now apply the effects of &quot;Coordination&quot; in addition to their own effects.  Does not stack with Smuggler buff.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="358" id2="656577" version="1065353216">All class buffs now apply the effects of &quot;Hunter's Boon&quot; in addition to their own effects.  Does not stack with Trooper buff.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="359" id2="656577" version="1065353216">All class buffs now apply the effects of &quot;Force Valor&quot; in addition to their own effects.  Does not stack with Sith Inquisitor buff. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="360" id2="656577" version="1065353216">All class buffs now apply the effects of &quot;Force Might&quot; in addition to their own effects.  Does not stack with Sith Warrior buff. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="361" id2="656577" version="1065353216">All class buffs now apply the effects of &quot;Mark of Power&quot; in addition to their own effects.  Does not stack with Jedi Consular buff. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="362" id2="656577" version="1065353216">All class buffs now apply the effects of &quot;Unnatural Might&quot; in addition to their own effects. Does not stack with Jedi Knight buff. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="363" id2="656577" version="1065353216">All class buffs now apply the effects of &quot;Lucky Shots&quot; in addition to their own effects.  Does not stack with Agent buff. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="364" id2="656577" version="1065353216">All class buffs now apply the effects of &quot;Fortification&quot; in addition to their own effects.  Does not stack with Bounty Hunter buff. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="366" id2="656577" version="1065353216">Legacy of Sacrifice</text>
+		<text bitflag="321" id1="367" id2="656577" version="1065353216">Legacy of Unity</text>
+		<text bitflag="321" id1="369" id2="656577" version="1065353216">Grants use of the Sacrifice ability to all characters.  Sacrifice injures your companion to instantly heal yourself.</text>
+		<text bitflag="321" id1="370" id2="656577" version="1065353216">Grants use of the Unity ability to all characters.  Unity reduces damage taken by you and your companion for a short duration.</text>
+		<text bitflag="321" id1="371" id2="656577" version="1065353216">Warzone Training Dummy</text>
+		<text bitflag="321" id1="372" id2="656577" version="1065353216">Operations Training Dummy</text>
+		<text bitflag="321" id1="373" id2="656577" version="1065353216">Ship Mailbox</text>
+		<text bitflag="321" id1="374" id2="656577" version="1065353216">Unlocks a training dummy on all characters' ships that simulates combat with an Operations toughness enemy.</text>
+		<text bitflag="321" id1="375" id2="656577" version="1065353216">Unlocks a training dummy on all characters' ships that simulates combat with another player.</text>
+		<text bitflag="321" id1="376" id2="656577" version="1065353216">Unlocks a mailbox on board all characters' ships.</text>
+		<text bitflag="321" id1="378" id2="656577" version="1065353216">Repair Droid</text>
+		<text bitflag="321" id1="379" id2="656577" version="1065353216">Unlocks an astromech droid on all characters' ships that buys items, repairs gear, and sells unique modifications for your protocol droid.</text>
+		<text bitflag="321" id1="380" id2="656577" version="1065353216">Galactic Trade Network Terminal</text>
+		<text bitflag="321" id1="381" id2="656577" version="1065353216">Unlocks a Galactic Trade Network terminal on all characters' ships.</text>
+		<text bitflag="321" id1="382" id2="656577" version="1065353216">Legacy of Equilibrium</text>
+		<text bitflag="321" id1="383" id2="656577" version="1065353216">Grants use of the Equilibrium ability to all characters.  Equilibrium increases damage and healing done by you and your companion for a short duration.</text>
+		<text bitflag="321" id1="384" id2="656577" version="1065353216">Agent Chapter 2 - Emote</text>
+		<text bitflag="321" id1="385" id2="656577" version="1065353216">Unlocks use of the /agent emote. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="386" id2="656577" version="1065353216">Bounty Hunter Chapter 2 - Emote</text>
+		<text bitflag="321" id1="387" id2="656577" version="1065353216">Unlocks use of the /bountyhunter emote. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="388" id2="656577" version="1065353216">Sith Inquisitor Chapter 2 - Emote</text>
+		<text bitflag="321" id1="389" id2="656577" version="1065353216">Unlocks use of the /inquisitor emote. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="390" id2="656577" version="1065353216">Sith Warrior Chapter 2 - Emote</text>
+		<text bitflag="321" id1="391" id2="656577" version="1065353216">Unlocks use of the /warrior emote. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="393" id2="656577" version="1065353216">Rocket Boost</text>
+		<text bitflag="321" id1="394" id2="656577" version="1065353216">Unlocks use of personal rocket boosters.  The rocket boost provides a brief, intense burst of speed for a short duration.   This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="395" id2="656577" version="1065353216">Jedi Knight Chapter 2 - Emote</text>
+		<text bitflag="321" id1="396" id2="656577" version="1065353216">Unlocks use of the /knight emote.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="397" id2="656577" version="1065353216">Jedi Consular Chapter 2 - Emote</text>
+		<text bitflag="321" id1="398" id2="656577" version="1065353216">Unlocks use of the /consular emote.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="399" id2="656577" version="1065353216">Trooper Chapter 2 - Emote</text>
+		<text bitflag="321" id1="400" id2="656577" version="1065353216">Unlocks use of the /trooper emote.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="401" id2="656577" version="1065353216">Smuggler Chapter 2 - Emote</text>
+		<text bitflag="321" id1="402" id2="656577" version="1065353216">Unlocks use of the /smuggler emote.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="407" id2="656577" version="1065353216">Double Lasers Emote</text>
+		<text bitflag="321" id1="408" id2="656577" version="1065353216">Unlocks use of the /doublelasers emote.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="409" id2="656577" version="1065353216">Requires completion of the Agent Chapter 3 class quests.</text>
+		<text bitflag="321" id1="410" id2="656577" version="1065353216">Requires completion of the Bounty Hunter Chapter 3 class quests.</text>
+		<text bitflag="321" id1="411" id2="656577" version="1065353216">Requires completion of the Sith Inquisitor Chapter 3 class quests.</text>
+		<text bitflag="321" id1="412" id2="656577" version="1065353216">Requires completion of the Sith Warrior Chapter 3 class quests.</text>
+		<text bitflag="321" id1="413" id2="656577" version="1065353216">Requires completion of the Jedi Consular Chapter 3 class quests.</text>
+		<text bitflag="321" id1="414" id2="656577" version="1065353216">Requires completion of the Jedi Knight Chapter 3 class quests.</text>
+		<text bitflag="321" id1="415" id2="656577" version="1065353216">Requires completion of the Smuggler Chapter 3 class quests.</text>
+		<text bitflag="321" id1="416" id2="656577" version="1065353216">Requires completion of the Trooper Chapter 3 class quests.</text>
+		<text bitflag="321" id1="417" id2="656577" version="1065353216">Requires completion of the Agent Chapter 2 class quests.</text>
+		<text bitflag="321" id1="418" id2="656577" version="1065353216">Requires completion of the Bounty Hunter Chapter 2 class quests.</text>
+		<text bitflag="321" id1="419" id2="656577" version="1065353216">Requires completion of the Sith Inquisitor Chapter 2 class quests.</text>
+		<text bitflag="321" id1="420" id2="656577" version="1065353216">Requires completion of the Sith Warrior Chapter 2 class quests.</text>
+		<text bitflag="321" id1="421" id2="656577" version="1065353216">Requires completion of the Jedi Consular Chapter 2 class quests.</text>
+		<text bitflag="321" id1="422" id2="656577" version="1065353216">Requires completion of the Jedi Knight Chapter 2 class quests.</text>
+		<text bitflag="321" id1="423" id2="656577" version="1065353216">Requires completion of the Smuggler Chapter 2 class quests.</text>
+		<text bitflag="321" id1="424" id2="656577" version="1065353216">Requires completion of the Trooper Chapter 2 class quests.</text>
+		<text bitflag="321" id1="425" id2="656577" version="1065353216">Legacy Fleet Pass I</text>
+		<text bitflag="321" id1="426" id2="656577" version="1065353216">Legacy Fleet Pass II</text>
+		<text bitflag="321" id1="427" id2="656577" version="1065353216">Reduces the cooldown of the Emergency Fleet Pass ability by 30 minutes. Effect is cumulative with other cooldown reduction unlocks. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="428" id2="656577" version="1065353216">Reduces the cooldown of the Emergency Fleet Pass ability by 30 minutes. Effect is cumulative with other cooldown reduction unlocks. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="429" id2="656577" version="1065353216">Legacy Travel I</text>
+		<text bitflag="321" id1="430" id2="656577" version="1065353216">Legacy Travel II</text>
+		<text bitflag="321" id1="431" id2="656577" version="1065353216">Reduces the cooldown of Quick Travel by 2 minutes.  Effect is cumulative with other cooldown reduction unlocks.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="432" id2="656577" version="1065353216">Reduces the cooldown of Quick Travel by 2 minutes.  Effect is cumulative with other cooldown reduction unlocks.   This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="433" id2="656577" version="1065353216">Legacy of Combat - Punch</text>
+		<text bitflag="321" id1="434" id2="656577" version="1065353216">Legacy of Combat - Jab</text>
+		<text bitflag="321" id1="435" id2="656577" version="1065353216">Legacy of Combat - Uppercut</text>
+		<text bitflag="321" id1="436" id2="656577" version="1065353216">Legacy of Combat - Bash</text>
+		<text bitflag="321" id1="437" id2="656577" version="1065353216">Unlocks the unarmed combat move Punch, a basic brawling attack. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="438" id2="656577" version="1065353216">Unlocks the unarmed combat move Jab, an advanced brawling attack. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="439" id2="656577" version="1065353216">Unlocks the unarmed combat move Uppercut, an advanced brawling attack. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="440" id2="656577" version="1065353216">Unlocks the unarmed combat move Bash, an advanced brawling attack. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="441" id2="656577" version="1065353216">Companion Dance</text>
+		<text bitflag="321" id1="442" id2="656577" version="1065353216">Unlocks the Companion Dance ability, which allows you and your companion to dance together.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="443" id2="656577" version="1065353216">Legacy Travel III</text>
+		<text bitflag="321" id1="444" id2="656577" version="1065353216">Legacy Fleet Pass III</text>
+		<text bitflag="321" id1="445" id2="656577" version="1065353216">Reduces the cooldown of Quick Travel by 2 minutes.  Effect is cumulative with other cooldown reduction unlocks.</text>
+		<text bitflag="321" id1="446" id2="656577" version="1065353216">Reduces the cooldown of the Emergency Fleet Pass ability by 30 minutes. Effect is cumulative with other cooldown reduction unlocks. This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="447" id2="656577" version="1065353216">Grants a bonus to your total Healing Received.  Increases duration of your Heroic Moment by 12 seconds and reduces the cooldown by 1 minute.  You may only receive this bonus for one Healer companion.  This unlock applies to all characters in your legacy.
+
+Grants a +10 bonus to Presence on all characters.</text>
+		<text bitflag="321" id1="448" id2="656577" version="1065353216">Grants a bonus to your Critical Damage.  Increases duration of your Heroic Moment by 12 seconds and reduces the cooldown by 1 minute.  You may only receive this bonus for one Melee Damage companion. This unlock applies to all characters in your legacy.
+
+Grants a +10 bonus to Presence on all characters.</text>
+		<text bitflag="321" id1="449" id2="656577" version="1065353216">Grants a bonus to your Accuracy.  Increases duration of your Heroic Moment by 12 seconds and reduces the cooldown by 1 minute.  You may only receive this bonus for one Melee Tank companion. This unlock applies to all characters in your legacy.
+
+Grants a +10 bonus to Presence on all characters.</text>
+		<text bitflag="321" id1="450" id2="656577" version="1065353216">Grants a bonus to your Critical Hit Chance. Increases duration of your Heroic Moment by 12 seconds and reduces the cooldown by 1 minute. You may only receive this bonus for one Ranged Damage companion. This unlock applies to all characters in your legacy.
+
+Grants a +10 bonus to Presence on all characters.</text>
+		<text bitflag="321" id1="451" id2="656577" version="1065353216">Grants a bonus to your Max Health.  Increases duration of your Heroic Moment by 12 seconds and reduces the cooldown by 1 minute.  You may only receive this bonus for one Ranged Tank companion. This unlock applies to all characters in your legacy.
+
+Grants a +10 bonus to Presence on all characters.</text>
+		<text bitflag="321" id1="452" id2="656577" version="1065353216">Tech Emotes</text>
+		<text bitflag="321" id1="453" id2="656577" version="1065353216">Tool Emotes</text>
+		<text bitflag="321" id1="454" id2="656577" version="1065353216">Unlocks use of the /datapad, /holocom, and /map emotes.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="455" id2="656577" version="1065353216">Unlocks use of the /scanred, /scangreen, /binoculars, and /weld emotes.  This unlock applies to all characters in your legacy.</text>
+		<text bitflag="321" id1="456" id2="656577" version="1065353216">Coming Soon</text>
+		<text bitflag="321" id1="457" id2="656577" version="1065353216">Flashpoint Experience Bonus I</text>
+		<text bitflag="321" id1="458" id2="656577" version="1065353216">Flashpoint Experience Bonus II</text>
+		<text bitflag="321" id1="459" id2="656577" version="1065353216">Flashpoint Experience Bonus III</text>
+		<text bitflag="321" id1="460" id2="656577" version="1065353216">Flashpoint Experience Bonus IV</text>
+		<text bitflag="321" id1="461" id2="656577" version="1065353216">Flashpoint Experience Bonus V</text>
+		<text bitflag="321" id1="462" id2="656577" version="1065353216">Space Experience Bonus I</text>
+		<text bitflag="321" id1="463" id2="656577" version="1065353216">Space Experience Bonus II</text>
+		<text bitflag="321" id1="464" id2="656577" version="1065353216">Space Experience Bonus III</text>
+		<text bitflag="321" id1="465" id2="656577" version="1065353216">Space Experience Bonus IV</text>
+		<text bitflag="321" id1="466" id2="656577" version="1065353216">Space Experience Bonus V</text>
+		<text bitflag="321" id1="467" id2="656577" version="1065353216">Warzone Experience Bonus I</text>
+		<text bitflag="321" id1="468" id2="656577" version="1065353216">Warzone Experience Bonus II</text>
+		<text bitflag="321" id1="469" id2="656577" version="1065353216">Warzone Experience Bonus III</text>
+		<text bitflag="321" id1="470" id2="656577" version="1065353216">Warzone Experience Bonus IV</text>
+		<text bitflag="321" id1="471" id2="656577" version="1065353216">Warzone Experience Bonus V</text>
+		<text bitflag="321" id1="472" id2="656577" version="1065353216">Legacy of Persuasion III</text>
+		<text bitflag="321" id1="473" id2="656577" version="1065353216">Legacy of Persuasion II</text>
+		<text bitflag="321" id1="474" id2="656577" version="1065353216">Legacy of Persuasion I</text>
+		<text bitflag="321" id1="475" id2="656577" version="1065353216">Legacy of Altruism III</text>
+		<text bitflag="321" id1="476" id2="656577" version="1065353216">Legacy of Altruism II</text>
+		<text bitflag="321" id1="477" id2="656577" version="1065353216">Legacy of Altruism I</text>
+		<text bitflag="321" id1="478" id2="656577" version="1065353216">Coming Soon:  Increases influence gains from giving gifts to companions.</text>
+		<text bitflag="321" id1="479" id2="656577" version="1065353216">Coming Soon:  Increases influence gain  from conversation options.</text>
+		<text bitflag="321" id1="480" id2="656577" version="1065353216">Coming Soon:  Increases experience gains from killing major enemies in flashpoints.</text>
+		<text bitflag="321" id1="481" id2="656577" version="1065353216">Coming Soon:  Increases experience gains from completing space missions.</text>
+		<text bitflag="321" id1="482" id2="656577" version="1065353216">Coming Soon:  Increases experience gains from completing warzones.</text>
+		<text bitflag="321" id1="483" id2="656577" version="1065353216">Legacy of Crafting I</text>
+		<text bitflag="321" id1="484" id2="656577" version="1065353216">Legacy of Crafting II</text>
+		<text bitflag="321" id1="485" id2="656577" version="1065353216">Legacy of Crafting III</text>
+		<text bitflag="321" id1="486" id2="656577" version="1065353216">Coming Soon: Increases chance of critical success while crafting.</text>
+		<text bitflag="321" id1="487" id2="656577" version="1065353216">Celerity I</text>
+		<text bitflag="321" id1="488" id2="656577" version="1065353216">Celerity II</text>
+		<text bitflag="321" id1="489" id2="656577" version="1065353216">Coming Soon:  Increased sprint speed.</text>
+		<text bitflag="321" id1="490" id2="656577" version="1065353216">Legacy Speeder License</text>
+		<text bitflag="321" id1="491" id2="656577" version="1065353216">Coming Soon: Grants the ability to use level 25 speeders at level 10.</text>
+		<text bitflag="321" id1="492" id2="656577" version="1065353216">Repair Droid I</text>
+		<text bitflag="321" id1="493" id2="656577" version="1065353216">Repair Droid II</text>
+		<text bitflag="321" id1="494" id2="656577" version="1065353216">Repair Droid III</text>
+		<text bitflag="321" id1="495" id2="656577" version="1065353216">Coming Soon:  Creates a Repair Droid that players and their allies may use to repair items in the field.</text>
+		<text bitflag="321" id1="496" id2="656577" version="1065353216">Unlocks this species as a choice for all classes at character creation.</text>
+		<text bitflag="321" id1="497" id2="656577" version="1065353216">Grants a +100 Presence bonus to all characters.</text>
+		<text bitflag="321" id1="499" id2="656577" version="1065353216">Field Respec</text>
+		<text bitflag="321" id1="500" id2="656577" version="1065353216">Coming Soon:  Reset your skill tree in the field.</text>
+		<text bitflag="321" id1="501" id2="656577" version="1065353216">Improved Rocket Boost I</text>
+		<text bitflag="321" id1="502" id2="656577" version="1065353216">Decreases cooldown of Rocket Boost by 30 seconds.&lt;br&gt;&lt;br&gt;This Legacy Unlock applies to the Rocket Boost ability, and will have no effect unless you have also unlocked Rocket Boost.</text>
+		<text bitflag="321" id1="503" id2="656577" version="1065353216">Improved Rocket Boost II</text>
+		<text bitflag="321" id1="504" id2="656577" version="1065353216">Decreases cooldown of Rocket Boost by 60 seconds.&lt;br&gt;&lt;br&gt;This Legacy Unlock applies to the Rocket Boost ability, and will have no effect unless you have also unlocked Rocket Boost.</text>
+		<text bitflag="321" id1="511" id2="656577" version="1065353216">Dual Spec</text>
+		<text bitflag="321" id1="512" id2="656577" version="1065353216">Coming Soon:  Store two different skill tree layouts and switch between them.</text>
+		<text bitflag="321" id1="513" id2="656577" version="1065353216">Portable Mailbox</text>
+		<text bitflag="321" id1="514" id2="656577" version="1065353216">Coming Soon: Drop a mailbox in the field for you and your allies to use.</text>
+		<text bitflag="321" id1="515" id2="656577" version="1065353216">Priority Medevac I</text>
+		<text bitflag="321" id1="516" id2="656577" version="1065353216">Priority Medevac II</text>
+		<text bitflag="321" id1="517" id2="656577" version="1065353216">Coming Soon:  Return at increased health after dying and respawning at a medical center.</text>
+		<text bitflag="321" id1="518" id2="656577" version="1065353216">Legacy of Leadership I</text>
+		<text bitflag="321" id1="519" id2="656577" version="1065353216">Legacy of Leadership II</text>
+		<text bitflag="321" id1="520" id2="656577" version="1065353216">Coming Soon:  Companions sell junk faster.</text>
+		<text bitflag="321" id1="521" id2="656577" version="1065353216">Requires completion of all conversations and quests for this companion.</text>
+		<text bitflag="321" id1="522" id2="656577" version="1065353216">Increases the amount of experience obtained from completing warzones by 6%.</text>
+		<text bitflag="321" id1="523" id2="656577" version="1065353216">Increases the amount of experience obtained from completing warzones by 4%. This increase is cumulative with previous increases to warzone experience.</text>
+		<text bitflag="321" id1="524" id2="656577" version="1065353216">Increases the amount of experience obtained from completing warzones by 6%. This increase is cumulative with previous increases to warzone experience.</text>
+		<text bitflag="321" id1="525" id2="656577" version="1065353216">Increases the amount of experience obtained from completing warzones by 8%. This increase is cumulative with previous increases to warzone experience.</text>
+		<text bitflag="321" id1="526" id2="656577" version="1065353216">Increases the amount of experience obtained from completing warzones by 10%. This increase is cumulative with previous increases to warzone experience.</text>
+		<text bitflag="321" id1="527" id2="656577" version="1065353216">Increases the amount of experience obtained from defeating enemies in flashpoints by 6%.</text>
+		<text bitflag="321" id1="528" id2="656577" version="1065353216">Increases the amount of experience obtained from defeating enemies in flashpoints by 4%. This increase is cumulative with previous increases to flashpoint experience.</text>
+		<text bitflag="321" id1="529" id2="656577" version="1065353216">Increases the amount of experience obtained from defeating enemies in flashpoints by 6%. This increase is cumulative with previous increases to flashpoint experience.</text>
+		<text bitflag="321" id1="530" id2="656577" version="1065353216">Increases the amount of experience obtained from defeating enemies in flashpoints by 8%. This increase is cumulative with previous increases to flashpoint experience.</text>
+		<text bitflag="321" id1="531" id2="656577" version="1065353216">Increases the amount of experience obtained from defeating enemies in flashpoints by 10%. This increase is cumulative with previous increases to flashpoint experience.</text>
+		<text bitflag="321" id1="532" id2="656577" version="1065353216">Increases the amount of experience obtained from completing space missions by 6%.</text>
+		<text bitflag="321" id1="533" id2="656577" version="1065353216">Increases the amount of experience obtained from completing space missions by 4%. This increase is cumulative with previous increases to space experience.</text>
+		<text bitflag="321" id1="534" id2="656577" version="1065353216">Increases the amount of experience obtained from completing space missions by 6%. This increase is cumulative with previous increases to space experience.</text>
+		<text bitflag="321" id1="535" id2="656577" version="1065353216">Increases the amount of experience obtained from completing space missions by 8%. This increase is cumulative with previous increases to space experience.</text>
+		<text bitflag="321" id1="536" id2="656577" version="1065353216">Increases the amount of experience obtained from completing space missions by 10%. This increase is cumulative with previous increases to space experience.</text>
+		<text bitflag="321" id1="538" id2="656577" version="1065353216">Increases the amount of experience obtained from completing class missions by 6%.</text>
+		<text bitflag="321" id1="539" id2="656577" version="1065353216">Increases the amount of experience obtained from completing class missions by 4%. This increase is cumulative with previous increases to class mission experience.</text>
+		<text bitflag="321" id1="540" id2="656577" version="1065353216">Increases the amount of experience obtained from completing class missions by 6%. This increase is cumulative with previous increases to class mission experience.</text>
+		<text bitflag="321" id1="541" id2="656577" version="1065353216">Increases the amount of experience obtained from completing class missions by 8%. This increase is cumulative with previous increases to class mission experience.</text>
+		<text bitflag="321" id1="542" id2="656577" version="1065353216">Increases the amount of experience obtained from completing class missions by 10%. This increase is cumulative with previous increases to class mission experience.</text>
+		<text bitflag="321" id1="543" id2="656577" version="1065353216">Increases the amount of experience obtained from exploration by 6%.</text>
+		<text bitflag="321" id1="544" id2="656577" version="1065353216">Increases the amount of experience obtained from exploration by 4%. This increase is cumulative with previous increases to exploration experience.</text>
+		<text bitflag="321" id1="545" id2="656577" version="1065353216">Increases the amount of experience obtained from exploration by 6%. This increase is cumulative with previous increases to exploration experience.</text>
+		<text bitflag="321" id1="546" id2="656577" version="1065353216">Increases the amount of experience obtained from exploration by 8%. This increase is cumulative with previous increases to exploration experience.</text>
+		<text bitflag="321" id1="547" id2="656577" version="1065353216">Increases the amount of experience obtained from exploration by 10%. This increase is cumulative with previous increases to exploration experience.</text>
+		<text bitflag="321" id1="548" id2="656577" version="1065353216">Increases the amount of companion influence gained from companion gifts by 10%.</text>
+		<text bitflag="321" id1="549" id2="656577" version="1065353216">Increases the amount of companion influence gained from companion gifts by 10%. This increase is cumulative with previous increases to gift influence gains.</text>
+		<text bitflag="321" id1="550" id2="656577" version="1065353216">Increases the amount of companion influence gained from companion gifts by 10%. This increase is cumulative with previous increases to gift influence gains.</text>
+		<text bitflag="321" id1="551" id2="656577" version="1065353216">Increases the amount of companion influence gained from conversations  by 10%.</text>
+		<text bitflag="321" id1="552" id2="656577" version="1065353216">Increases the amount of companion influence gained from conversations  by 10%. This increase is cumulative with previous increases to conversation influence gains.</text>
+		<text bitflag="321" id1="553" id2="656577" version="1065353216">Increases the amount of companion influence gained from conversations  by 10%. This increase is cumulative with previous increases to conversation influence gains.</text>
+		<text bitflag="321" id1="554" id2="656577" version="1065353216">Increases the chance of an augmented result while crafting by 1%.</text>
+		<text bitflag="321" id1="555" id2="656577" version="1065353216">Increases the chance of an augmented result while crafting by 1%. This increase is cumulative with previous augment result increases.</text>
+		<text bitflag="321" id1="556" id2="656577" version="1065353216">Increases the chance of an augmented result while crafting by 1%. This increase is cumulative with previous augment result increases.</text>
+		<text bitflag="321" id1="557" id2="656577" version="1065353216">Companions return from selling junk in 30 seconds.</text>
+		<text bitflag="321" id1="558" id2="656577" version="1065353216">Companions return from selling junk in 5 seconds.</text>
+		<text bitflag="321" id1="559" id2="656577" version="1065353216">Speeder Piloting I is now available at level 1.</text>
+		<text bitflag="321" id1="560" id2="656577" version="1065353216">Speeder Piloting III is now available at level 25.</text>
+		<text bitflag="321" id1="561" id2="656577" version="1065353216">You may now quickly shuttle to your capital world.</text>
+		<text bitflag="321" id1="562" id2="656577" version="1065353216">You may now quickly shuttle to your fleet's vanguard vessel.</text>
+		<text bitflag="321" id1="563" id2="656577" version="1065353216">You may now quickly shuttle to the Black Hole.</text>
+		<text bitflag="321" id1="564" id2="656577" version="1065353216">You may now quickly shuttle to Section X.</text>
+		<text bitflag="321" id1="565" id2="656577" version="1065353216">You may deploy a basic field repair droid. This unit provides basic repair and vendor services. Redeployment time is 1 hour.</text>
+		<text bitflag="321" id1="566" id2="656577" version="1065353216">You may deploy an improved field repair droid. This unit provides basic repair services, sells some consumable items and can be deployed more often.  Duration is increased by 1 minute and redeployment time is reduced by 15 minutes.</text>
+		<text bitflag="321" id1="567" id2="656577" version="1065353216">You may deploy an advanced field repair droid. This unit provides basic repair services, sells crew skill and consumable items and can be deployed more often.  Duration is increased by 1 minute and redeployment time is reduced by an additional 30 minutes.</text>
+		<text bitflag="321" id1="568" id2="656577" version="1065353216">You may summon a basic field mail droid. Redeployment time is extensive.</text>
+		<text bitflag="321" id1="569" id2="656577" version="1065353216">Reduces the redeployment time for the field mail droid by 15 minutes.</text>
+		<text bitflag="321" id1="570" id2="656577" version="1065353216">Further reduce the redeployment time for the field mail droid by 30 minutes.</text>
+		<text bitflag="321" id1="571" id2="656577" version="1065353216">Improved Warzone Experience I</text>
+		<text bitflag="321" id1="572" id2="656577" version="1065353216">Improved Warzone Experience II</text>
+		<text bitflag="321" id1="573" id2="656577" version="1065353216">Improved Warzone Experience III</text>
+		<text bitflag="321" id1="574" id2="656577" version="1065353216">Improved Warzone Experience IV</text>
+		<text bitflag="321" id1="575" id2="656577" version="1065353216">Improved Warzone Experience V</text>
+		<text bitflag="321" id1="576" id2="656577" version="1065353216">Improved Flashpoint Experience I</text>
+		<text bitflag="321" id1="577" id2="656577" version="1065353216">Improved Flashpoint Experience II</text>
+		<text bitflag="321" id1="578" id2="656577" version="1065353216">Improved Flashpoint Experience III</text>
+		<text bitflag="321" id1="579" id2="656577" version="1065353216">Improved Flashpoint Experience IV</text>
+		<text bitflag="321" id1="580" id2="656577" version="1065353216">Improved Flashpoint Experience V</text>
+		<text bitflag="321" id1="581" id2="656577" version="1065353216">Improved Space Mission Experience I</text>
+		<text bitflag="321" id1="582" id2="656577" version="1065353216">Improved Space Mission Experience II</text>
+		<text bitflag="321" id1="583" id2="656577" version="1065353216">Improved Space Mission Experience III</text>
+		<text bitflag="321" id1="584" id2="656577" version="1065353216">Improved Space Mission Experience IV</text>
+		<text bitflag="321" id1="585" id2="656577" version="1065353216">Improved Space Mission Experience V</text>
+		<text bitflag="321" id1="586" id2="656577" version="1065353216">Improved Class Mission Experience I</text>
+		<text bitflag="321" id1="587" id2="656577" version="1065353216">Improved Class Mission Experience II</text>
+		<text bitflag="321" id1="588" id2="656577" version="1065353216">Improved Class Mission Experience III</text>
+		<text bitflag="321" id1="589" id2="656577" version="1065353216">Improved Class Mission Experience IV</text>
+		<text bitflag="321" id1="590" id2="656577" version="1065353216">Improved Class Mission Experience V</text>
+		<text bitflag="321" id1="591" id2="656577" version="1065353216">Improved Exploration Experience I</text>
+		<text bitflag="321" id1="592" id2="656577" version="1065353216">Improved Exploration Experience II</text>
+		<text bitflag="321" id1="593" id2="656577" version="1065353216">Improved Exploration Experience III</text>
+		<text bitflag="321" id1="594" id2="656577" version="1065353216">Improved Exploration Experience IV</text>
+		<text bitflag="321" id1="595" id2="656577" version="1065353216">Improved Exploration Experience V</text>
+		<text bitflag="321" id1="596" id2="656577" version="1065353216">Improved Speeder Piloting I</text>
+		<text bitflag="321" id1="597" id2="656577" version="1065353216">Improved Speeder Piloting II</text>
+		<text bitflag="321" id1="598" id2="656577" version="1065353216">Priority Transport: Capital World</text>
+		<text bitflag="321" id1="599" id2="656577" version="1065353216">Priority Transport: The Outlaw's Den</text>
+		<text bitflag="321" id1="600" id2="656577" version="1065353216">Priority Transport: Fleet Vanguard Vessel</text>
+		<text bitflag="321" id1="601" id2="656577" version="1065353216">Priority Transport: The Black Hole</text>
+		<text bitflag="321" id1="602" id2="656577" version="1065353216">Priority Transport: Section X</text>
+		<text bitflag="321" id1="603" id2="656577" version="1065353216">Basic Field Repair Droid</text>
+		<text bitflag="321" id1="604" id2="656577" version="1065353216">Improved Field Repair Droid</text>
+		<text bitflag="321" id1="605" id2="656577" version="1065353216">Advanced Field Repair Droid</text>
+		<text bitflag="321" id1="606" id2="656577" version="1065353216">Field Mail Droid</text>
+		<text bitflag="321" id1="607" id2="656577" version="1065353216">Field Mail Droid: Redeployment Improvement I</text>
+		<text bitflag="321" id1="608" id2="656577" version="1065353216">Field Mail Droid: Redeployment Improvement II</text>
+		<text bitflag="321" id1="609" id2="656577" version="1065353216">You may now quickly shuttle to the Outlaw's Den.</text>
+		<text bitflag="321" id1="610" id2="656577" version="1065353216">Field Respecialization</text>
+		<text bitflag="321" id1="611" id2="656577" version="1065353216">You may switch disciplines while in the field. Normal costs apply.</text>
+		<text bitflag="321" id1="612" id2="656577" version="1065353216">Improved Speeder Piloting III</text>
+		<text bitflag="321" id1="613" id2="656577" version="1065353216">Speeder Piloting II is now available at level 10.</text>
+		<text bitflag="321" id1="614" id2="656577" version="1065353216">HK-51</text>
+		<text bitflag="321" id1="615" id2="656577" version="1065353216">Allows you to acquire the character perk that unlocks HK-51.</text>
+		<text bitflag="321" id1="616" id2="656577" version="1065353216">Complete the HK-51 Mission series.</text>
+		<text bitflag="321" id1="617" id2="656577" version="1065353216">HK-51 (Imperial)</text>
+		<text bitflag="321" id1="618" id2="656577" version="1065353216">Unlocks HK-51 as a companion for an Imperial character.</text>
+		<text bitflag="321" id1="619" id2="656577" version="1065353216">HK-51 (Republic)</text>
+		<text bitflag="321" id1="620" id2="656577" version="1065353216">Unlocks HK-51 as a companion for a Republic character.</text>
+		<text bitflag="321" id1="621" id2="656577" version="1065353216">Title: The Dedicated</text>
+		<text bitflag="321" id1="622" id2="656577" version="1065353216">You are granted the title &quot;The Dedicated&quot; upon reaching Legacy Level 10.</text>
+		<text bitflag="321" id1="623" id2="656577" version="1065353216">Title: The Illustrious</text>
+		<text bitflag="321" id1="624" id2="656577" version="1065353216">You are granted the title &quot;The Illustrious&quot; upon reaching Legacy Level 20.</text>
+		<text bitflag="321" id1="625" id2="656577" version="1065353216">Title: The Renowned</text>
+		<text bitflag="321" id1="626" id2="656577" version="1065353216">You are granted the title &quot;The Renowned&quot; upon reaching Legacy Level 30.</text>
+		<text bitflag="321" id1="627" id2="656577" version="1065353216">Title: The Historic</text>
+		<text bitflag="321" id1="628" id2="656577" version="1065353216">You are granted the title &quot;The Historic&quot; upon reaching Legacy Level 40.</text>
+		<text bitflag="321" id1="629" id2="656577" version="1065353216">Title: The Living Legend</text>
+		<text bitflag="321" id1="630" id2="656577" version="1065353216">You are granted the title &quot;The Living Legend&quot; upon reaching Legacy Level 50.</text>
+		<text bitflag="321" id1="639" id2="656577" version="1065353216">Improved Priority Transport: Personal Starship I</text>
+		<text bitflag="321" id1="640" id2="656577" version="1065353216">Reduces the cooldown of Priority Transport: Personal Starship by 2 minutes. Effect is cumulative with other cooldown reduction unlocks.</text>
+		<text bitflag="321" id1="641" id2="656577" version="1065353216">Improved Priority Transport: Personal Starship II</text>
+		<text bitflag="321" id1="642" id2="656577" version="1065353216">Reduces the cooldown of Priority Transport: Personal Starship by 2 minutes. Effect is cumulative with other cooldown reduction unlocks.</text>
+		<text bitflag="321" id1="643" id2="656577" version="1065353216">Improved Priority Transport: Personal Starship III</text>
+		<text bitflag="321" id1="644" id2="656577" version="1065353216">Reduces the cooldown of Priority Transport: Personal Starship by 2 minutes. Effect is cumulative with other cooldown reduction unlocks.</text>
+		<text bitflag="321" id1="645" id2="656577" version="1065353216">Priority Transport: Personal Starship</text>
+		<text bitflag="321" id1="646" id2="656577" version="1065353216">You may now quickly shuttle to your personal Starship. The cooldown for this ability may be reduced by Legacy Global Unlocks.</text>
+		<text bitflag="321" id1="647" id2="656577" version="1065353216">Cathar</text>
+		<text bitflag="321" id1="648" id2="656577" version="1065353216">Treek</text>
+		<text bitflag="321" id1="649" id2="656577" version="1065353216">Allows you to acquire the character perk that unlocks Treek.</text>
+		<text bitflag="321" id1="650" id2="656577" version="1065353216">Complete Treek's introductory mission, obtained from the Mercenary Contract available from the Legacy Vendor or the Cartel Market.</text>
+		<text bitflag="321" id1="651" id2="656577" version="1065353216">Treek (Imperial)</text>
+		<text bitflag="321" id1="652" id2="656577" version="1065353216">Unlocks Treek as a companion for an Imperial character.</text>
+		<text bitflag="321" id1="653" id2="656577" version="1065353216">Treek (Republic)</text>
+		<text bitflag="321" id1="654" id2="656577" version="1065353216">Unlocks Treek as a companion for a Republic character.</text>
+		<text bitflag="321" id1="655" id2="656577" version="1065353216">Priority Transport: CZ-198</text>
+		<text bitflag="321" id1="656" id2="656577" version="1065353216">You may now quickly shuttle to the moon CZ-198.</text>
+		<text bitflag="321" id1="657" id2="656577" version="1065353216">Priority Transport: Oricon</text>
+		<text bitflag="321" id1="658" id2="656577" version="1065353216">You may now quickly shuttle to the moon Oricon.</text>
+		<text bitflag="321" id1="659" id2="656577" version="1065353216">Ship Guild Bank</text>
+		<text bitflag="321" id1="660" id2="656577" version="1065353216">Unlocks a Guild Bank on all characters' ships.</text>
+		<text bitflag="321" id1="661" id2="656577" version="1065353216">Improved Starfighter Experience I</text>
+		<text bitflag="321" id1="662" id2="656577" version="1065353216">Improved Starfighter Experience II</text>
+		<text bitflag="321" id1="663" id2="656577" version="1065353216">Improved Starfighter Experience III</text>
+		<text bitflag="321" id1="664" id2="656577" version="1065353216">Improved Starfighter Experience IV</text>
+		<text bitflag="321" id1="665" id2="656577" version="1065353216">Improved Starfighter Experience V</text>
+		<text bitflag="321" id1="666" id2="656577" version="1065353216">Increases the amount of experience obtained from completing Galactic Starfighter battles by 6%.</text>
+		<text bitflag="321" id1="667" id2="656577" version="1065353216">Increases the amount of experience obtained from completing Galactic Starfighter battles by 6%. This increase is cumulative with previous increases to Starfighter experience.</text>
+		<text bitflag="321" id1="668" id2="656577" version="1065353216">Tactical Markers</text>
+		<text bitflag="321" id1="669" id2="656577" version="1065353216">Grants the following abilities:
+
+Tactical Marker: Tank
+Tactical Marker: Heal
+Tactical Marker: Damage
+
+These abilities are only useable in Operations and Flashpoints.</text>
+		<text bitflag="321" id1="670" id2="656577" version="1065353216">Priority Transport: Yavin 4</text>
+		<text bitflag="321" id1="671" id2="656577" version="1065353216">You may now quickly shuttle to the moon Yavin 4. (Requires Shadow of Revan Expansion.)</text>
+		<text bitflag="321" id1="672" id2="656577" version="1065353216">Priority Transport: Rishi</text>
+		<text bitflag="321" id1="673" id2="656577" version="1065353216">You may now quickly shuttle to the planet Rishi. (Requires Shadow of Revan Expansion.)</text>
+		<text bitflag="321" id1="674" id2="656577" version="1065353216">Improved Mounting</text>
+		<text bitflag="321" id1="675" id2="656577" version="1065353216">You may now activate any vehicle or call any creature mount while moving.</text>
+		<text bitflag="321" id1="676" id2="656577" version="1065353216">Togruta</text>
+		<text bitflag="321" id1="677" id2="656577" version="1065353216">Alderaan Blue Mastery Datacron</text>
+		<text bitflag="321" id1="678" id2="656577" version="1065353216">Alderaan Endurance Datacron</text>
+		<text bitflag="321" id1="679" id2="656577" version="1065353216">Alderaan Presence Datacron</text>
+		<text bitflag="321" id1="680" id2="656577" version="1065353216">Alderaan Red Mastery Datacron</text>
+		<text bitflag="321" id1="681" id2="656577" version="1065353216">Alderaan Purple Mastery Datacron</text>
+		<text bitflag="321" id1="682" id2="656577" version="1065353216">Balmorra (Imperial) Blue Mastery Datacron</text>
+		<text bitflag="321" id1="683" id2="656577" version="1065353216">Balmorra (Imperial) Orange Mastery Datacron</text>
+		<text bitflag="321" id1="684" id2="656577" version="1065353216">Balmorra (Imperial) Red Mastery Datacron</text>
+		<text bitflag="321" id1="685" id2="656577" version="1065353216">Balmorra (Imperial) Purple Mastery Datacron</text>
+		<text bitflag="321" id1="686" id2="656577" version="1065353216">Balmorra (Republic) Blue Mastery Datacron</text>
+		<text bitflag="321" id1="687" id2="656577" version="1065353216">Balmorra (Republic) Orange Mastery Datacron</text>
+		<text bitflag="321" id1="688" id2="656577" version="1065353216">Balmorra (Republic) Endurance Datacron</text>
+		<text bitflag="321" id1="689" id2="656577" version="1065353216">Balmorra (Republic) Presence Datacron</text>
+		<text bitflag="321" id1="690" id2="656577" version="1065353216">Balmorra (Republic) Purple Mastery Datacron</text>
+		<text bitflag="321" id1="691" id2="656577" version="1065353216">Belsavis Blue Mastery Datacron</text>
+		<text bitflag="321" id1="692" id2="656577" version="1065353216">Belsavis Endurance Datacron</text>
+		<text bitflag="321" id1="693" id2="656577" version="1065353216">Belsavis Presence Datacron</text>
+		<text bitflag="321" id1="694" id2="656577" version="1065353216">Belsavis Purple Mastery Datacron</text>
+		<text bitflag="321" id1="695" id2="656577" version="1065353216">Corellia Orange Mastery Datacron</text>
+		<text bitflag="321" id1="696" id2="656577" version="1065353216">Corellia Endurance Datacron</text>
+		<text bitflag="321" id1="697" id2="656577" version="1065353216">Corellia Presence Datacron</text>
+		<text bitflag="321" id1="698" id2="656577" version="1065353216">Corellia Red Mastery Datacron</text>
+		<text bitflag="321" id1="699" id2="656577" version="1065353216">Corellia Purple Mastery Datacron</text>
+		<text bitflag="321" id1="700" id2="656577" version="1065353216">Coruscant Orange Mastery Datacron</text>
+		<text bitflag="321" id1="701" id2="656577" version="1065353216">Coruscant Endurance Datacron</text>
+		<text bitflag="321" id1="702" id2="656577" version="1065353216">Coruscant Presence Datacron</text>
+		<text bitflag="321" id1="703" id2="656577" version="1065353216">Coruscant Red Mastery Datacron</text>
+		<text bitflag="321" id1="704" id2="656577" version="1065353216">Fleet Datacron</text>
+		<text bitflag="321" id1="705" id2="656577" version="1065353216">Dromund Kaas Orange Mastery Datacron</text>
+		<text bitflag="321" id1="706" id2="656577" version="1065353216">Dromund Kaas Endurance Datacron</text>
+		<text bitflag="321" id1="707" id2="656577" version="1065353216">Dromund Kaas Presence Datacron</text>
+		<text bitflag="321" id1="708" id2="656577" version="1065353216">Dromund Kaas Red Mastery Datacron</text>
+		<text bitflag="321" id1="709" id2="656577" version="1065353216">Hoth Orange Mastery Datacron</text>
+		<text bitflag="321" id1="710" id2="656577" version="1065353216">Hoth Endurance Datacron</text>
+		<text bitflag="321" id1="711" id2="656577" version="1065353216">Hoth Presence Datacron</text>
+		<text bitflag="321" id1="712" id2="656577" version="1065353216">Hoth Red Mastery Datacron</text>
+		<text bitflag="321" id1="713" id2="656577" version="1065353216">Hutta Blue Mastery Datacron</text>
+		<text bitflag="321" id1="714" id2="656577" version="1065353216">Hutta Presence Datacron</text>
+		<text bitflag="321" id1="715" id2="656577" version="1065353216">Ilum Blue Mastery Datacron</text>
+		<text bitflag="321" id1="716" id2="656577" version="1065353216">Ilum Endurance Datacron</text>
+		<text bitflag="321" id1="717" id2="656577" version="1065353216">Ilum Purple Mastery Datacron</text>
+		<text bitflag="321" id1="718" id2="656577" version="1065353216">Korriban Endurance Datacron</text>
+		<text bitflag="321" id1="719" id2="656577" version="1065353216">Korriban Purple Mastery Datacron</text>
+		<text bitflag="321" id1="720" id2="656577" version="1065353216">Nar Shaddaa Blue Mastery Datacron</text>
+		<text bitflag="321" id1="721" id2="656577" version="1065353216">Nar Shaddaa Orange Mastery Datacron</text>
+		<text bitflag="321" id1="722" id2="656577" version="1065353216">Nar Shaddaa Presence Datacron</text>
+		<text bitflag="321" id1="723" id2="656577" version="1065353216">Nar Shaddaa Red Mastery Datacron</text>
+		<text bitflag="321" id1="724" id2="656577" version="1065353216">Ord Mantell Blue Mastery Datacron</text>
+		<text bitflag="321" id1="725" id2="656577" version="1065353216">Ord Mantell Presence Datacron</text>
+		<text bitflag="321" id1="726" id2="656577" version="1065353216">Taris (Republic) Blue Mastery Datacron</text>
+		<text bitflag="321" id1="727" id2="656577" version="1065353216">Taris (Republic) Orange Mastery Datacron</text>
+		<text bitflag="321" id1="728" id2="656577" version="1065353216">Taris (Republic) Red Mastery Datacron</text>
+		<text bitflag="321" id1="729" id2="656577" version="1065353216">Taris (Republic) Purple Mastery Datacron</text>
+		<text bitflag="321" id1="730" id2="656577" version="1065353216">Taris (Imperial) Blue Mastery Datacron</text>
+		<text bitflag="321" id1="731" id2="656577" version="1065353216">Taris (Imperial) Orange Mastery Datacron</text>
+		<text bitflag="321" id1="732" id2="656577" version="1065353216">Taris (Imperial) Endurance Datacron</text>
+		<text bitflag="321" id1="733" id2="656577" version="1065353216">Taris (Imperial) Presence Datacron</text>
+		<text bitflag="321" id1="734" id2="656577" version="1065353216">Taris (Imperial) Purple Mastery Datacron</text>
+		<text bitflag="321" id1="735" id2="656577" version="1065353216">Tatooine Blue Mastery Datacron</text>
+		<text bitflag="321" id1="736" id2="656577" version="1065353216">Tatooine Orange Mastery Datacron</text>
+		<text bitflag="321" id1="737" id2="656577" version="1065353216">Tatooine Red Mastery Datacron</text>
+		<text bitflag="321" id1="738" id2="656577" version="1065353216">Tatooine Purple Mastery Datacron</text>
+		<text bitflag="321" id1="739" id2="656577" version="1065353216">Tython Endurance Datacron</text>
+		<text bitflag="321" id1="740" id2="656577" version="1065353216">Tython Purple Mastery Datacron</text>
+		<text bitflag="321" id1="741" id2="656577" version="1065353216">Voss Blue Mastery Datacron</text>
+		<text bitflag="321" id1="742" id2="656577" version="1065353216">Voss Orange Mastery Datacron</text>
+		<text bitflag="321" id1="743" id2="656577" version="1065353216">Voss Presence Datacron</text>
+		<text bitflag="321" id1="744" id2="656577" version="1065353216">Voss Red Mastery Datacron</text>
+		<text bitflag="321" id1="745" id2="656577" version="1065353216">Voss Purple Mastery Datacron</text>
+		<text bitflag="321" id1="746" id2="656577" version="1065353216">Quesh Orange Mastery Datacron</text>
+		<text bitflag="321" id1="747" id2="656577" version="1065353216">Quesh Endurance Datacron</text>
+		<text bitflag="321" id1="748" id2="656577" version="1065353216">Quesh Red Mastery Datacron</text>
+		<text bitflag="321" id1="749" id2="656577" version="1065353216">Makeb Endurance Datacron</text>
+		<text bitflag="321" id1="750" id2="656577" version="1065353216">Makeb Presence Datacron</text>
+		<text bitflag="321" id1="751" id2="656577" version="1065353216">Rishi Blue Mastery Datacron</text>
+		<text bitflag="321" id1="752" id2="656577" version="1065353216">Rishi Orange Mastery Datacron</text>
+		<text bitflag="321" id1="753" id2="656577" version="1065353216">Rishi Red Mastery Datacron</text>
+		<text bitflag="321" id1="754" id2="656577" version="1065353216">Rishi Purple Mastery Datacron</text>
+		<text bitflag="321" id1="755" id2="656577" version="1065353216">Activate Random Mount</text>
+		<text bitflag="321" id1="756" id2="656577" version="1065353216">Summon Random Pet</text>
+		<text bitflag="321" id1="757" id2="656577" version="1065353216">Randomly activates any unlocked vehicle or calls any unlocked creature mount.</text>
+		<text bitflag="321" id1="758" id2="656577" version="1065353216">Randomly summons any unlocked pet.</text>
+		<text bitflag="321" id1="759" id2="656577" version="1065353216">Discover the location of the datacron to unlock.</text>
+		<text bitflag="321" id1="760" id2="656577" version="1065353216">Priority Transport: Odessen</text>
+		<text bitflag="321" id1="761" id2="656577" version="1065353216">You may now quickly shuttle to the planet Odessen. (Requires Knights of the Fallen Empire Expansion.)</text>
+		<text bitflag="321" id1="762" id2="656577" version="1065353216">Legacy Cargo Hold</text>
+		<text bitflag="321" id1="763" id2="656577" version="1065353216">Item Modification Station</text>
+		<text bitflag="321" id1="764" id2="656577" version="1065353216">Unlocks a Legacy Cargo Hold on all characters' ships.</text>
+		<text bitflag="321" id1="765" id2="656577" version="1065353216">Unlocks a Item Modification Station on all characters' ships.</text>
+		<text bitflag="321" id1="766" id2="656577" version="1065353216">Legacy of Promptness I</text>
+		<text bitflag="321" id1="767" id2="656577" version="1065353216">Legacy of Promptness II</text>
+		<text bitflag="321" id1="768" id2="656577" version="1065353216">Legacy of Promptness III</text>
+		<text bitflag="321" id1="769" id2="656577" version="1065353216">Legacy of Promptness IV</text>
+		<text bitflag="321" id1="770" id2="656577" version="1065353216">Reduces the time taken to give gifts to companions by 20%.</text>
+		<text bitflag="321" id1="771" id2="656577" version="1065353216">Reduces the time taken to give gifts to companions by 20%. This reduction is cumulative with previous reductions to companion gift cast time.</text>
+		<text bitflag="321" id1="772" id2="656577" version="1065353216">Reduces the time taken to give gifts to companions by 20%. This reduction is cumulative with previous reductions to companion gift cast time.</text>
+		<text bitflag="321" id1="773" id2="656577" version="1065353216">Field Personal Cargo Hold</text>
+		<text bitflag="321" id1="774" id2="656577" version="1065353216">Field Personal Cargo Hold: Redeployment Improvement I</text>
+		<text bitflag="321" id1="775" id2="656577" version="1065353216">Field Personal Cargo Hold: Redeployment Improvement II</text>
+		<text bitflag="321" id1="776" id2="656577" version="1065353216">You may summon a basic personal cargo hold droid. Redeployment time is extensive.</text>
+		<text bitflag="321" id1="777" id2="656577" version="1065353216">Reduces the redeployment time for the field cargo hold droid by 15 minutes.</text>
+		<text bitflag="321" id1="778" id2="656577" version="1065353216">Further reduce the redeployment time for the field cargo hold droid by 30 minutes.</text>
+		<text bitflag="321" id1="779" id2="656577" version="1065353216">Field Legacy Cargo Hold</text>
+		<text bitflag="321" id1="780" id2="656577" version="1065353216">Field Legacy Cargo Hold: Redeployment Improvement I</text>
+		<text bitflag="321" id1="781" id2="656577" version="1065353216">Field Legacy Cargo Hold: Redeployment Improvement II</text>
+		<text bitflag="321" id1="782" id2="656577" version="1065353216">You may summon a basic legacy cargo hold droid. Redeployment time is extensive.</text>
+		<text bitflag="321" id1="783" id2="656577" version="1065353216">Reduces the redeployment time for the field cargo hold droid by 15 minutes.</text>
+		<text bitflag="321" id1="784" id2="656577" version="1065353216">Further reduce the redeployment time for the field cargo hold droid by 30 minutes.</text>
+		<text bitflag="321" id1="785" id2="656577" version="1065353216">Improved Command Experience I</text>
+		<text bitflag="321" id1="786" id2="656577" version="1065353216">Improved Command Experience II</text>
+		<text bitflag="321" id1="787" id2="656577" version="1065353216">Improved Command Experience III</text>
+		<text bitflag="321" id1="788" id2="656577" version="1065353216">Improved Command Experience IV</text>
+		<text bitflag="321" id1="789" id2="656577" version="1065353216">Improved Command Experience V</text>
+		<text bitflag="321" id1="790" id2="656577" version="1065353216">Increases the amount of command experience obtained from all content by 2%.
+
+This does not affect cxp earned through disintegration</text>
+		<text bitflag="321" id1="791" id2="656577" version="1065353216">Increases the amount of command experience obtained from all content by 2%. This increase is cumulative with previous increases to command experience.
+
+This does not affect cxp earned through disintegration</text>
+		<text bitflag="321" id1="792" id2="656577" version="1065353216">Improved Speeder Piloting IV</text>
+		<text bitflag="321" id1="793" id2="656577" version="1065353216">Improved Speeder Piloting V</text>
+		<text bitflag="321" id1="794" id2="656577" version="1065353216">Speeder Piloting IV is now available at level 30.</text>
+		<text bitflag="321" id1="795" id2="656577" version="1065353216">Speeder Piloting V is now available at level 35.</text>
+		<text bitflag="321" id1="796" id2="656577" version="1065353216">Commanding Legacy</text>
+		<text bitflag="321" id1="797" id2="656577" version="1065353216">This Legacy-wide unlock increases Command Experience gained by 25% for characters under Command Rank 300. This effect stacks up to 4 times for a 100% bonus. 
+
+You gain one stack for each mirrored Class at Command Rank 300 (Example: A Knight and Warrior at 300 only counts once).</text>
+		<text bitflag="321" id1="798" id2="656577" version="1065353216">Galactic Command</text>
+		<text bitflag="321" id1="833" id2="656577" version="1065353216">Ossus Blue Mastery Datacron</text>
+		<text bitflag="321" id1="834" id2="656577" version="1065353216">Ossus Endurance Datacron</text>
+		<text bitflag="321" id1="835" id2="656577" version="1065353216">Ossus Presence Datacron</text>
+		<text bitflag="321" id1="836" id2="656577" version="1065353216">Ossus Red Mastery Datacron</text>
+		<text bitflag="321" id1="837" id2="656577" version="1065353216">Ossus Purple Mastery Datacron</text>
+		<text bitflag="321" id1="838" id2="656577" version="1065353216">Voss Endurance Datacron</text>
+	</file_content>
+</stb_file>

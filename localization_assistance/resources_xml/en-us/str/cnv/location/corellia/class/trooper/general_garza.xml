@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>340</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/trooper/general_garza.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="487908" id2="17" version="1065353216">Major, good. Now that you've arrived, we can begin operations in earnest.</text>
+		<text bitflag="1345" id1="487909" id2="17" version="1065353216">Imperial forces, including General Rakton, have invaded Corellia in full force. Local resistance fighters have barely held them back from total victory.</text>
+		<text bitflag="1345" id1="487911" id2="17" version="1065353216">Havoc calling General Garza. Objective complete. The Bastion gate is secure.</text>
+		<text bitflag="1345" id1="487912" id2="17" version="1065353216">I'm very relieved to hear that, Major. I was worried that everything we'd worked for might have amounted to nothing.</text>
+		<text bitflag="1345" id1="487914" id2="17" version="1065353216">Excellent work, Major. Everything we've fought so hard to achieve is finally within reach.</text>
+		<text bitflag="1345" id1="487916" id2="17" version="1065353216">Our forces will rendezvous with you inside the Bastion shortly. Once they do, the operation will be in your hands.</text>
+		<text bitflag="1345" id1="487918" id2="17" version="1065353216">I cannot lead this final push from the outside, Major. I'm counting on you to assess Rakton's defenses and lead our forces to victory.</text>
+		<text bitflag="1345" id1="487919" id2="17" version="1065353216">I won't let you down, General.</text>
+		<text bitflag="1360" id1="487919" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="487920" id2="17" version="1065353216">It will be an honor to lead this operation.</text>
+		<text bitflag="1360" id1="487920" id2="17" version="1065353216">Thank you very much.</text>
+		<text bitflag="1345" id1="487921" id2="17" version="1065353216">Honor isn't part of the equation. You aren't there to lead a gallant charge; you're there to win--no matter what.</text>
+		<text bitflag="1345" id1="487923" id2="17" version="1065353216">Nice to know you finally trust me to command more than five people.</text>
+		<text bitflag="1360" id1="487923" id2="17" version="1065353216">It's about time.</text>
+		<text bitflag="1345" id1="487924" id2="17" version="1065353216">Drop the sarcasm, Major. A field commander has no time for it.</text>
+		<text bitflag="1345" id1="487926" id2="17" version="1065353216">Remember: General Rakton is one of the greatest enemies the Republic has ever faced. He is a very dangerous man, both mentally and physically.</text>
+		<text bitflag="1345" id1="487928" id2="17" version="1065353216">He plans to use the information in the Bastion's databanks to command an unstoppable campaign against us. You must not fail.</text>
+		<text bitflag="1345" id1="487929" id2="17" version="1065353216">General Rakton won't defeat me, General.</text>
+		<text bitflag="1360" id1="487929" id2="17" version="1065353216">I won't.</text>
+		<text bitflag="1345" id1="487930" id2="17" version="1065353216">I've gotten us this far, General. I'm not stopping now.</text>
+		<text bitflag="1360" id1="487930" id2="17" version="1065353216">Don't sweat it.</text>
+		<text bitflag="1345" id1="487931" id2="17" version="1065353216">Just be sure your confidence doesn't lead you to underestimate the situation.</text>
+		<text bitflag="1345" id1="487933" id2="17" version="1065353216">I'm going to cut a path of destruction straight into Rakton's face.</text>
+		<text bitflag="1360" id1="487933" id2="17" version="1065353216">Nothing will stand in my way.</text>
+		<text bitflag="1345" id1="487934" id2="17" version="1065353216">Discretion is just as important as aggression. Don't lose sight of the overall tactical situation.</text>
+		<text bitflag="1345" id1="487936" id2="17" version="1065353216">The finest military units available are under your command now. Your Republic is counting on you to put them to good use.</text>
+		<text bitflag="1345" id1="487938" id2="17" version="1065353216">Good luck, Major. Garza out.</text>
+		<text bitflag="1345" id1="487940" id2="17" version="1065353216">Good luck, Major.</text>
+		<text bitflag="1345" id1="487941" id2="17" version="1065353216">Before the full assault can begin, your team must complete two final objectives. The first is to block General Rakton's communications.</text>
+		<text bitflag="1345" id1="487943" id2="17" version="1065353216">Once Havoc has placed signal jammers at key locations outside the Bastion walls, we can cut off all comm traffic.</text>
+		<text bitflag="1345" id1="487944" id2="17" version="1065353216">Hopefully this will minimize any surprise Imperial backup.</text>
+		<text bitflag="1360" id1="487944" id2="17" version="1065353216">Good, no enemy reinforcements.</text>
+		<text bitflag="1345" id1="487945" id2="17" version="1065353216">Hopefully it will prevent Imperial backup entirely.</text>
+		<text bitflag="1345" id1="487947" id2="17" version="1065353216">If the Empire's top general drops off comms, they're going to notice.</text>
+		<text bitflag="1360" id1="487947" id2="17" version="1065353216">That could raise alarms.</text>
+		<text bitflag="1345" id1="487948" id2="17" version="1065353216">Based on the comm traffic we've measured so far, we're confident you'll have enough time to complete your objectives before anyone notices the blackout.</text>
+		<text bitflag="1345" id1="487950" id2="17" version="1065353216">Can't the forces we brought in help with this stuff?</text>
+		<text bitflag="1360" id1="487950" id2="17" version="1065353216">Why am I doing all the work?</text>
+		<text bitflag="1345" id1="487951" id2="17" version="1065353216">Backup was brought in to help with the assault, not the preparations for the assault.</text>
+		<text bitflag="1345" id1="487953" id2="17" version="1065353216">When the jammers are in position, Havoc can proceed to the second objective--breaching the Bastion gate.</text>
+		<text bitflag="1345" id1="487955" id2="17" version="1065353216">The gate is effectively impervious to frontal assault, so you'll need to commandeer an Imperial crawler tank and use it to pass through undetected.</text>
+		<text bitflag="1345" id1="487956" id2="17" version="1065353216">Consider it done, General.</text>
+		<text bitflag="1360" id1="487956" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="487957" id2="17" version="1065353216">I'm always up for joyriding in a hundred-tonne war machine.</text>
+		<text bitflag="1360" id1="487957" id2="17" version="1065353216">Sounds like fun.</text>
+		<text bitflag="1345" id1="487958" id2="17" version="1065353216">Try not to get carried away.</text>
+		<text bitflag="1345" id1="487960" id2="17" version="1065353216">Grabbing a crawler isn't exactly a walk in the park.</text>
+		<text bitflag="1360" id1="487960" id2="17" version="1065353216">Easier said than done.</text>
+		<text bitflag="1345" id1="487961" id2="17" version="1065353216">If you find hijacking an Imperial crawler your most difficult task on Corellia, I'll be very disappointed.</text>
+		<text bitflag="1345" id1="487963" id2="17" version="1065353216">Scouts have spotted a crawler operating at these coordinates with a minimal escort. It's your best bet.</text>
+		<text bitflag="1345" id1="487965" id2="17" version="1065353216">Once you've ridden the crawler through the Bastion gate, you'll secure the gate controls, then contact me via holo to begin the final assault. Is everything clear?</text>
+		<text bitflag="1345" id1="487966" id2="17" version="1065353216">Plant jammers outside the gate, hijack the crawler, secure the gate controls. Clear.</text>
+		<text bitflag="1360" id1="487966" id2="17" version="1065353216">Affirmative, General.</text>
+		<text bitflag="1345" id1="487967" id2="17" version="1065353216">Run me through the objectives one more time, please.</text>
+		<text bitflag="1360" id1="487967" id2="17" version="1065353216">I could use a review.</text>
+		<text bitflag="1345" id1="487968" id2="17" version="1065353216">First, plant the jammers outside the Bastion. Then, hijack an Imperial crawler and pass through the gate. Contact me when the gate is secure.</text>
+		<text bitflag="1345" id1="487970" id2="17" version="1065353216">This is your most ridiculous plan yet, Garza.</text>
+		<text bitflag="1360" id1="487970" id2="17" version="1065353216">Clearly suicidal, yes.</text>
+		<text bitflag="1345" id1="487971" id2="17" version="1065353216">And the best plan available to us, Major.</text>
+		<text bitflag="1345" id1="487973" id2="17" version="1065353216">Time is tight--that crawler won't be in the field forever. Set your jammers and get there as quickly as possible--don't let anything slow you down.</text>
+		<text bitflag="1345" id1="487975" id2="17" version="1065353216">Dismissed. And good luck.</text>
+		<text bitflag="1345" id1="487979" id2="17" version="1065353216">Major, excellent work. The Safecrackers and the Fifty-third Armored have already touched down, and the extra dropships you captured are bringing in the Eighty-first Infantry.</text>
+		<text bitflag="1345" id1="487981" id2="17" version="1065353216">Major, good work. Captain Phaeris's crews have already touched down with the Safecrackers and the Fifty-third Armored. They're approaching the Bastion now.</text>
+		<text bitflag="1345" id1="487983" id2="17" version="1065353216">Our strategy has unfolded perfectly. Now, it's time to put the final phase into motion.</text>
+		<text bitflag="1345" id1="487984" id2="17" version="1065353216">Havoc Squad is ready for action, General!</text>
+		<text bitflag="1360" id1="487984" id2="17" version="1065353216">Let's go!</text>
+		<text bitflag="1345" id1="487985" id2="17" version="1065353216">Are we ready to hit the Bastion with everything we've got?</text>
+		<text bitflag="1360" id1="487985" id2="17" version="1065353216">Full-frontal assault?</text>
+		<text bitflag="1345" id1="487986" id2="17" version="1065353216">Not yet, but we will be soon.</text>
+		<text bitflag="1345" id1="487988" id2="17" version="1065353216">The Imps had better start interviewing for a new head general.</text>
+		<text bitflag="1360" id1="487988" id2="17" version="1065353216">Rakton's as good as dead.</text>
+		<text bitflag="1345" id1="487989" id2="17" version="1065353216">We're very close now, but let's not get ahead of ourselves.</text>
+		<text bitflag="1345" id1="487991" id2="17" version="1065353216">What are you doing here, Major? Scans still show Imperial sensors active in Axial Park.</text>
+		<text bitflag="1345" id1="487993" id2="17" version="1065353216">Havoc Squad calling General Garza. Operation complete. Landing zone is clear.</text>
+		<text bitflag="1345" id1="487994" id2="17" version="1065353216">Excellent work, Major. I'll let Captain Phaeris know immediately.</text>
+		<text bitflag="1345" id1="487996" id2="17" version="1065353216">Yeah, and be sure to let her know how you got this VIP landing pad. She'll be thrilled.</text>
+		<text bitflag="1345" id1="487998" id2="17" version="1065353216">And you seemed like a decent person... I'm just glad my part in all of this is over now.</text>
+		<text bitflag="1345" id1="487999" id2="17" version="1065353216">I could tell you were trouble right from the start. At least my part in this is done.</text>
+		<text bitflag="1345" id1="488000" id2="17" version="1065353216">What do you mean, your part is done?</text>
+		<text bitflag="1360" id1="488000" id2="17" version="1065353216">You're leaving?</text>
+		<text bitflag="1345" id1="488001" id2="17" version="1065353216">It means I was here to help you get your troops on the ground, and I have. So now I'm leaving.</text>
+		<text bitflag="1345" id1="488003" id2="17" version="1065353216">This op has been a lot messier than I would've liked.</text>
+		<text bitflag="1360" id1="488003" id2="17" version="1065353216">I really am sorry.</text>
+		<text bitflag="1345" id1="488004" id2="17" version="1065353216">Oh, I'm really sorry to hear that.</text>
+		<text bitflag="1345" id1="488006" id2="17" version="1065353216">Without you around, we can finally get something done.</text>
+		<text bitflag="1360" id1="488006" id2="17" version="1065353216">Good riddance.</text>
+		<text bitflag="1345" id1="488007" id2="17" version="1065353216">I just hope you do half as much damage to Rakton as you did getting to him. So long.</text>
+		<text bitflag="1345" id1="488010" id2="17" version="1065353216">Havoc Squad calling General Garza. Operation complete. Lucky Lancer has cleared the landing area.</text>
+		<text bitflag="1345" id1="488011" id2="17" version="1065353216">I'm glad to hear it, Major.</text>
+		<text bitflag="1345" id1="488013" id2="17" version="1065353216">You've done a great thing today. You've saved something that could never be replaced.</text>
+		<text bitflag="1345" id1="488015" id2="17" version="1065353216">I can see that you're not just in it to win, you're in it to win the right way.</text>
+		<text bitflag="1345" id1="488016" id2="17" version="1065353216">I can't say I agree with every move you've made, but you took a big risk for us on this one. It's appreciated.</text>
+		<text bitflag="1345" id1="488017" id2="17" version="1065353216">I'm just glad I could help.</text>
+		<text bitflag="1360" id1="488017" id2="17" version="1065353216">It was nothing.</text>
+		<text bitflag="1345" id1="488018" id2="17" version="1065353216">So am I, believe me.</text>
+		<text bitflag="1345" id1="488020" id2="17" version="1065353216">Where do we go from here?</text>
+		<text bitflag="1360" id1="488020" id2="17" version="1065353216">What's next?</text>
+		<text bitflag="1345" id1="488021" id2="17" version="1065353216">Just be sure you remember this down the road, Locke.</text>
+		<text bitflag="1360" id1="488021" id2="17" version="1065353216">You owe me.</text>
+		<text bitflag="1345" id1="488022" id2="17" version="1065353216">What, a Corellian forget a debt? Not a chance.</text>
+		<text bitflag="1345" id1="488024" id2="17" version="1065353216">Now that you're getting your backup, I'd say my part is done. Been a pleasure working with you, Major--Rakton doesn't have a chance.</text>
+		<text bitflag="1345" id1="488025" id2="17" version="1065353216">It's been a pleasure working with you, too.</text>
+		<text bitflag="1360" id1="488025" id2="17" version="1065353216">Thanks.</text>
+		<text bitflag="1345" id1="488026" id2="17" version="1065353216">See you around.</text>
+		<text bitflag="1345" id1="488028" id2="17" version="1065353216">We could use a guy like you when we hit the Bastion.</text>
+		<text bitflag="1360" id1="488028" id2="17" version="1065353216">Stick around and help.</text>
+		<text bitflag="1345" id1="488029" id2="17" version="1065353216">That's best left to the younger generation, and I'm needed elsewhere. Best of luck to you.</text>
+		<text bitflag="1345" id1="488031" id2="17" version="1065353216">I'm glad to hear you won't be wasting any more of my time.</text>
+		<text bitflag="1360" id1="488031" id2="17" version="1065353216">Good riddance.</text>
+		<text bitflag="1345" id1="488032" id2="17" version="1065353216">Charming--I miss you already. Best of luck.</text>
+		<text bitflag="1345" id1="488034" id2="17" version="1065353216">I'm relocating to a Republic safe house in the Drall Library for the final phase of our plan, Major.</text>
+		<text bitflag="1345" id1="488036" id2="17" version="1065353216">Before you report here, sweep the area around the museum for any Imperial sensor emplacements. We can't afford to have our plans discovered now. Garza out.</text>
+		<text bitflag="1345" id1="488038" id2="17" version="1065353216">Get those pilots to the museum ASAP, Major. We don't have much time.</text>
+		<text bitflag="1345" id1="488039" id2="17" version="1065353216">Move quickly, Major. There isn't much time.</text>
+		<text bitflag="1345" id1="488040" id2="17" version="1065353216">Captain Phaeris is returning with our forces, and we need to clear them a place to land.</text>
+		<text bitflag="1345" id1="488042" id2="17" version="1065353216">The best bet here in Axial Park is the Corellian Museum of Starships--they have a big, open-air landing pad that our people can slip right onto.</text>
+		<text bitflag="1345" id1="488044" id2="17" version="1065353216">Unfortunately, that landing pad is occupied by a famous Corellian warship, the Lucky Lancer. We need you to deal with it.</text>
+		<text bitflag="1345" id1="488045" id2="17" version="1065353216">How exactly do you want me to &quot;deal with it,&quot; General?</text>
+		<text bitflag="1360" id1="488045" id2="17" version="1065353216">I'm not quite following you.</text>
+		<text bitflag="1345" id1="488046" id2="17" version="1065353216">Are you asking me to destroy this thing, General?</text>
+		<text bitflag="1360" id1="488046" id2="17" version="1065353216">You want me to blow it up?</text>
+		<text bitflag="1345" id1="488047" id2="17" version="1065353216">I believe that would be the wisest course of action, yes.</text>
+		<text bitflag="1345" id1="488049" id2="17" version="1065353216">What do you want me to do with some busted old ship?</text>
+		<text bitflag="1360" id1="488049" id2="17" version="1065353216">Antiques aren't my specialty.</text>
+		<text bitflag="1345" id1="488050" id2="17" version="1065353216">I'd prefer you simply destroy it, but Locke seems to feel it's very valuable.</text>
+		<text bitflag="1345" id1="488052" id2="17" version="1065353216">The Lucky Lancer is the most famous Corellian ship in the galaxy! We can't just blow it up to clear a parking spot!</text>
+		<text bitflag="1345" id1="488054" id2="17" version="1065353216">Look, I've got volunteers ready and willing to fly the Lancer out and hide it someplace safe. All you have to do is escort them to the museum.</text>
+		<text bitflag="1345" id1="488056" id2="17" version="1065353216">Escort missions are risky and time-consuming. Destroying the ship is a far better option.</text>
+		<text bitflag="1345" id1="488057" id2="17" version="1065353216">I won't risk the mission just to save one ship.</text>
+		<text bitflag="1360" id1="488057" id2="17" version="1065353216">Agreed--I'll destroy the ship.</text>
+		<text bitflag="1345" id1="488058" id2="17" version="1065353216">We need to keep the people's spirits up. Destroying their history won't do that.</text>
+		<text bitflag="1360" id1="488058" id2="17" version="1065353216">Let's get the ship out safely.</text>
+		<text bitflag="1345" id1="488059" id2="17" version="1065353216">If you feel you can save the ship and still serve our objectives, so be it. But keep it quick.</text>
+		<text bitflag="1345" id1="488061" id2="17" version="1065353216">Thanks, Major. Everyone on Corellia is going to be singing your praises for saving that ship.</text>
+		<text bitflag="1345" id1="488065" id2="17" version="1065353216">Okay, people. The major will escort you to the museum--keep your heads down, follow orders and get the Lancer out of there.</text>
+		<text bitflag="1345" id1="488067" id2="17" version="1065353216">Yes, sir!</text>
+		<text bitflag="1345" id1="488068" id2="17" version="1065353216">This hike could get pretty exciting--just leave the fighting to me. Let's go.</text>
+		<text bitflag="1360" id1="488068" id2="17" version="1065353216">Hope you're ready.</text>
+		<text bitflag="1345" id1="488072" id2="17" version="1065353216">I don't slow down for anything, so don't get left behind. Let's go.</text>
+		<text bitflag="1360" id1="488072" id2="17" version="1065353216">Try to keep up.</text>
+		<text bitflag="1345" id1="488074" id2="17" version="1065353216">Follow me!</text>
+		<text bitflag="1360" id1="488074" id2="17" version="1065353216">Let's move!</text>
+		<text bitflag="1345" id1="488076" id2="17" version="1065353216">Think you can handle detonating a priceless piece of Corellian history?</text>
+		<text bitflag="1360" id1="488076" id2="17" version="1065353216">Vik, prep your explosives.</text>
+		<text bitflag="1345" id1="488077" id2="17" version="1065353216">Only if I get to take credit every time we run into a Corellian from now on.</text>
+		<text bitflag="1345" id1="488079" id2="17" version="1065353216">Blasting this thing is going to be a lot of fun.</text>
+		<text bitflag="1360" id1="488079" id2="17" version="1065353216">I do love a good detonation.</text>
+		<text bitflag="1345" id1="488080" id2="17" version="1065353216">You know what? I give up on you people. It's like you're in a race with the Imps to do the most damage.</text>
+		<text bitflag="1345" id1="488081" id2="17" version="1065353216">I thought you weren't like her, Major. I thought you'd get it. Guess I was wrong.</text>
+		<text bitflag="1345" id1="488082" id2="17" version="1065353216">I'm here to protect the whole Republic, not just Corellia.</text>
+		<text bitflag="1360" id1="488082" id2="17" version="1065353216">The mission comes first.</text>
+		<text bitflag="1345" id1="488083" id2="17" version="1065353216">You're just taking the easy way out.</text>
+		<text bitflag="1345" id1="488085" id2="17" version="1065353216">I never wanted it to be this way.</text>
+		<text bitflag="1360" id1="488085" id2="17" version="1065353216">I'm sorry, Locke.</text>
+		<text bitflag="1345" id1="488086" id2="17" version="1065353216">Don't waste your apologies on me.</text>
+		<text bitflag="1345" id1="488088" id2="17" version="1065353216">We can't win this war with one hand tied behind our backs!</text>
+		<text bitflag="1360" id1="488088" id2="17" version="1065353216">You need to face reality.</text>
+		<text bitflag="1345" id1="488089" id2="17" version="1065353216">What's the point of winning if we destroy everything we have in the process?</text>
+		<text bitflag="1345" id1="488091" id2="17" version="1065353216">Enough. We don't have time for this. Major, here are the explosives. Be sure to report in when the job is done.</text>
+		<text bitflag="1345" id1="488093" id2="17" version="1065353216">Major, good. Let's get straight to it.</text>
+		<text bitflag="1345" id1="488096" id2="17" version="1065353216">Havoc Squad calling General Garza. Objective complete. The ambush was a success.</text>
+		<text bitflag="1345" id1="488097" id2="17" version="1065353216">Excellent news, Major. Rakton will think twice about sending reinforcements that way again.</text>
+		<text bitflag="1345" id1="488099" id2="17" version="1065353216">Locke and I have relocated to a Republic safe house in Axial Park.</text>
+		<text bitflag="1345" id1="488101" id2="17" version="1065353216">Report here immediately for new orders. Our forces will be arriving soon, and we need to clear them a safe landing zone.</text>
+		<text bitflag="1345" id1="488102" id2="17" version="1065353216">I'm on my way, General.</text>
+		<text bitflag="1360" id1="488102" id2="17" version="1065353216">Copy that.</text>
+		<text bitflag="1345" id1="488103" id2="17" version="1065353216">Very good. Garza out.</text>
+		<text bitflag="1345" id1="488104" id2="17" version="1065353216">What's wrong with the blast-field shipyard?</text>
+		<text bitflag="1360" id1="488104" id2="17" version="1065353216">They can't land where I did?</text>
+		<text bitflag="1345" id1="488105" id2="17" version="1065353216">The force is too large to move from there to the Bastion unnoticed. We need to land them closer to the actual mission area.</text>
+		<text bitflag="1345" id1="488107" id2="17" version="1065353216">I'll give you the full details when you arrive. Garza out.</text>
+		<text bitflag="1345" id1="488108" id2="17" version="1065353216">Reporting in is a waste of time. Run me through the op now.</text>
+		<text bitflag="1360" id1="488108" id2="17" version="1065353216">Just give me the details now.</text>
+		<text bitflag="1345" id1="488109" id2="17" version="1065353216">We can't trust the comms, Major. Get here on the double. Garza out.</text>
+		<text bitflag="1345" id1="488111" id2="17" version="1065353216">Move out, Major.</text>
+		<text bitflag="1345" id1="488112" id2="17" version="1065353216">General Rakton means to assault the Republic and resistance positions in this sector. He's deployed a massive infantry force.</text>
+		<text bitflag="1345" id1="488114" id2="17" version="1065353216">The main part of Rakton's force is going to move through a factory in Labor Valley--a great place for an ambush.</text>
+		<text bitflag="1345" id1="488115" id2="17" version="1065353216">I'll make the Imps wish they'd never left home.</text>
+		<text bitflag="1360" id1="488115" id2="17" version="1065353216">Count me in.</text>
+		<text bitflag="1345" id1="488116" id2="17" version="1065353216">Has Rakton found out that we're here?</text>
+		<text bitflag="1360" id1="488116" id2="17" version="1065353216">Do they know about Havoc?</text>
+		<text bitflag="1345" id1="488117" id2="17" version="1065353216">We don't believe so. This appears to be a standard infantry sweep, not any kind of specialized hunting party.</text>
+		<text bitflag="1345" id1="488119" id2="17" version="1065353216">Can't the forces here defend themselves?</text>
+		<text bitflag="1360" id1="488119" id2="17" version="1065353216">Why risk showing ourselves?</text>
+		<text bitflag="1345" id1="488120" id2="17" version="1065353216">This isn't the most defensible spot on Corellia. We need to hit the Imps in transit, before they can form up and attack.</text>
+		<text bitflag="1345" id1="488122" id2="17" version="1065353216">We've got three resistance cells hiding out in Labor Valley, all ready and willing to help out. Their coordinates are right here.</text>
+		<text bitflag="1345" id1="488124" id2="17" version="1065353216">Meet with each cell and tell them that the operation is beginning, then rendezvous with them all on the factory floor. Understood?</text>
+		<text bitflag="1345" id1="488125" id2="17" version="1065353216">I'll make it happen, General.</text>
+		<text bitflag="1360" id1="488125" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1360" id1="488126" id2="17" version="1065353216">Sounds like fun.</text>
+		<text bitflag="1345" id1="488127" id2="17" version="1065353216">Untrained irregulars will just get in my way.</text>
+		<text bitflag="1360" id1="488127" id2="17" version="1065353216">Let me handle this alone.</text>
+		<text bitflag="1345" id1="488128" id2="17" version="1065353216">I guarantee that every man and woman there has seen their share of gunfights. They won't disappoint you.</text>
+		<text bitflag="1345" id1="488130" id2="17" version="1065353216">When you meet with each cell, tell them &quot;blazing spear is go.&quot; They'll know what to do.</text>
+		<text bitflag="1345" id1="488132" id2="17" version="1065353216">Once the operation is complete, contact me via holo. Good luck.</text>
+		<text bitflag="1345" id1="488134" id2="17" version="1065353216">As you may already know, access to Labor Valley is limited by an Imperial blockade. General Aves is working on a solution.</text>
+		<text bitflag="1345" id1="488136" id2="17" version="1065353216">If you haven't already spoken to General Aves or his assistant, Corporal Hartke, do so. You'll find them at the spaceport. Dismissed.</text>
+		<text bitflag="1345" id1="488138" id2="17" version="1065353216">Access to Labor Valley is currently cut off by an Imperial blockade.</text>
+		<text bitflag="1345" id1="488140" id2="17" version="1065353216">General Aves will know how to deal with it. His assistant, Corporal Hartke, can point you to him--you'll find Hartke in the spaceport. Dismissed.</text>
+		<text bitflag="1345" id1="488144" id2="17" version="1065353216">Major. Captain Phaeris reports that she and her fellow pilots successfully navigated the Imperial blockade. They'll rendezvous with our forces shortly.</text>
+		<text bitflag="1345" id1="488146" id2="17" version="1065353216">I'm getting a dozen holocalls a minute from our people in the residential district. Havoc Squad's got a few hundred new fans on Corellia.</text>
+		<text bitflag="1345" id1="488147" id2="17" version="1065353216">I only did what had to be done.</text>
+		<text bitflag="1360" id1="488147" id2="17" version="1065353216">It was nothing.</text>
+		<text bitflag="1345" id1="488148" id2="17" version="1065353216">You put your neck out to save defenseless people--our people. Corellians don't forget a thing like that.</text>
+		<text bitflag="1345" id1="488150" id2="17" version="1065353216">You need to get those people somewhere secure.</text>
+		<text bitflag="1360" id1="488150" id2="17" version="1065353216">They should go somewhere safe.</text>
+		<text bitflag="1345" id1="488151" id2="17" version="1065353216">We're already on it. The Imps won't get a second shot at any of them.</text>
+		<text bitflag="1345" id1="488153" id2="17" version="1065353216">Be sure my fans know that Havoc is happy to accept gifts.</text>
+		<text bitflag="1360" id1="488153" id2="17" version="1065353216">Tell them to send credits.</text>
+		<text bitflag="1345" id1="488154" id2="17" version="1065353216">Don't be ridiculous. We've wasted enough time as it is.</text>
+		<text bitflag="1345" id1="488156" id2="17" version="1065353216">Ah, Major, good work out there. Captain Phaeris and her private fleet have breached the Imperial blockade. They're approaching our forces now.</text>
+		<text bitflag="1345" id1="488158" id2="17" version="1065353216">And in the meantime, we've got more bodies in those burned-out buildings than we can count! What do I tell those people's families?</text>
+		<text bitflag="1345" id1="488159" id2="17" version="1065353216">I didn't want this to happen, but there was no choice.</text>
+		<text bitflag="1360" id1="488159" id2="17" version="1065353216">I'm sorry, Locke.</text>
+		<text bitflag="1345" id1="488160" id2="17" version="1065353216">You had a choice. You chose to let those people die.</text>
+		<text bitflag="1345" id1="488162" id2="17" version="1065353216">Those bombings are nothing compared to what Rakton will do if we don't stop him.</text>
+		<text bitflag="1360" id1="488162" id2="17" version="1065353216">Look at the bigger picture.</text>
+		<text bitflag="1345" id1="488163" id2="17" version="1065353216">I'm sure that will make everyone feel much better.</text>
+		<text bitflag="1345" id1="488165" id2="17" version="1065353216">My squad can't be everywhere at once, Locke.</text>
+		<text bitflag="1360" id1="488165" id2="17" version="1065353216">They aren't my problem.</text>
+		<text bitflag="1345" id1="488166" id2="17" version="1065353216">No. But you were close enough to stop this, and you didn't.</text>
+		<text bitflag="1345" id1="488168" id2="17" version="1065353216">Enough. We need to get on with the operation.</text>
+		<text bitflag="1345" id1="488171" id2="17" version="1065353216">Havoc Squad to General Garza. Objective complete. The hangars are clear.</text>
+		<text bitflag="1345" id1="488172" id2="17" version="1065353216">Good work. We'll get Captain Phaeris and her associates on the move right away.</text>
+		<text bitflag="1345" id1="488174" id2="17" version="1065353216">General! Hey, you've got the major on the line, good. We've got a serious problem. Imperial troops are firebombing the residential districts.</text>
+		<text bitflag="1345" id1="488176" id2="17" version="1065353216">The people still hiding there won't have a chance. You've got to move fast, Major. Take the Imperials out before it's too late.</text>
+		<text bitflag="1345" id1="488177" id2="17" version="1065353216">I'll move out right away.</text>
+		<text bitflag="1360" id1="488177" id2="17" version="1065353216">You can count on me.</text>
+		<text bitflag="1345" id1="488178" id2="17" version="1065353216">Not so fast. We need to consider the overall operation before we act.</text>
+		<text bitflag="1345" id1="488180" id2="17" version="1065353216">General, what are your orders on this?</text>
+		<text bitflag="1360" id1="488180" id2="17" version="1065353216">That's up to Garza.</text>
+		<text bitflag="1345" id1="488181" id2="17" version="1065353216">I have a different strategy in mind.</text>
+		<text bitflag="1345" id1="488183" id2="17" version="1065353216">I'm here to take out Rakton. Period.</text>
+		<text bitflag="1360" id1="488183" id2="17" version="1065353216">Not part of my mission, Locke.</text>
+		<text bitflag="1345" id1="488184" id2="17" version="1065353216">Agreed. This situation offers us a much better tactical opportunity.</text>
+		<text bitflag="1345" id1="488186" id2="17" version="1065353216">While the Imperials are wasting time with the residential area, Havoc can slip behind them and eliminate the men guarding their dropships.</text>
+		<text bitflag="1345" id1="488188" id2="17" version="1065353216">Once the dropships are secured, Captain Phaeris's associates can hijack them and bring in more troops for our assault on the Bastion.</text>
+		<text bitflag="1345" id1="488189" id2="17" version="1065353216">Are you ordering me to clear out the dropships, General?</text>
+		<text bitflag="1360" id1="488189" id2="17" version="1065353216">Is that an order?</text>
+		<text bitflag="1345" id1="488190" id2="17" version="1065353216">Your call, Major. But if we allow ourselves to be distracted by every small-scale raid, we'll never reach Rakton.</text>
+		<text bitflag="1345" id1="488192" id2="17" version="1065353216">It's more important to save lives than dropships.</text>
+		<text bitflag="1360" id1="488192" id2="17" version="1065353216">We should stop the fires.</text>
+		<text bitflag="1345" id1="488193" id2="17" version="1065353216">We will save more lives by stopping Rakton than by stopping this raid. We need to focus.</text>
+		<text bitflag="1345" id1="488195" id2="17" version="1065353216">I'm up for anything that gives us a better shot at Rakton.</text>
+		<text bitflag="1360" id1="488195" id2="17" version="1065353216">More troops sounds good to me.</text>
+		<text bitflag="1345" id1="488196" id2="17" version="1065353216">But those are families' homes... there's no telling how many people are still hiding out in there!</text>
+		<text bitflag="1345" id1="488198" id2="17" version="1065353216">Look how long it's taken Coruscant to recover. We can't let that happen again. Not here.</text>
+		<text bitflag="1345" id1="488199" id2="17" version="1065353216">I have to do what's best for the mission.</text>
+		<text bitflag="1360" id1="488199" id2="17" version="1065353216">We need those dropships.</text>
+		<text bitflag="1345" id1="488200" id2="17" version="1065353216">The mission is to protect the people of the Republic!</text>
+		<text bitflag="1345" id1="488202" id2="17" version="1065353216">If I can help these people, I have to try.</text>
+		<text bitflag="1360" id1="488202" id2="17" version="1065353216">I'll save the civilians.</text>
+		<text bitflag="1345" id1="488203" id2="17" version="1065353216">Thank you, Major. Corellia really needs people like you.</text>
+		<text bitflag="1345" id1="488205" id2="17" version="1065353216">Return to base when you've finished. Garza out.</text>
+		<text bitflag="1345" id1="488207" id2="17" version="1065353216">You're letting personal feelings cloud your judgment, Locke.</text>
+		<text bitflag="1360" id1="488207" id2="17" version="1065353216">Fires aren't my problem.</text>
+		<text bitflag="1345" id1="488208" id2="17" version="1065353216">Personal feelings? I don't think it's personal to want the planet intact when you're done fighting Rakton!</text>
+		<text bitflag="1345" id1="488210" id2="17" version="1065353216">Enough. The matter is settled. Return to base when you've eliminated the guards around the Imperial dropships, Major. Garza out.</text>
+		<text bitflag="1345" id1="488212" id2="17" version="1065353216">You have your orders, Major.</text>
+		<text bitflag="1345" id1="488213" id2="17" version="1065353216">This is Locke, the CorSec officer I was telling you about. His associate is Captain Phaeris, a contract pilot who's volunteered to help us.</text>
+		<text bitflag="1345" id1="488215" id2="17" version="1065353216">As I've explained, breaching the Bastion will require substantial manpower. Captain Phaeris and her associates will be responsible for bringing that manpower to Corellia unnoticed.</text>
+		<text bitflag="1345" id1="488216" id2="17" version="1065353216">If you can get our people here without the Imps noticing, we'll be in good shape.</text>
+		<text bitflag="1360" id1="488216" id2="17" version="1065353216">Sounds good.</text>
+		<text bitflag="1345" id1="488217" id2="17" version="1065353216">It's what we do best. Just have to clear up one tiny detail, and we'll be ready to jet.</text>
+		<text bitflag="1345" id1="488219" id2="17" version="1065353216">Resistance is going to be heavy.</text>
+		<text bitflag="1360" id1="488219" id2="17" version="1065353216">It's going to be dangerous.</text>
+		<text bitflag="1345" id1="488220" id2="17" version="1065353216">Everyone in my crew can slip a blockade in their sleep. That's the least of our worries.</text>
+		<text bitflag="1345" id1="488222" id2="17" version="1065353216">Are we so low on troop transports that we're hiring smugglers now?</text>
+		<text bitflag="1360" id1="488222" id2="17" version="1065353216">That doesn't make any sense.</text>
+		<text bitflag="1345" id1="488223" id2="17" version="1065353216">Hey. Not a nice thing to say about someone in front of a police official.</text>
+		<text bitflag="1345" id1="488225" id2="17" version="1065353216">If we bring our forces down in our own transports, Rakton will realize that we're making our move. We need the element of surprise.</text>
+		<text bitflag="1345" id1="488227" id2="17" version="1065353216">Besides, my people know the ins and outs of this town a lot better than yours do. There's really just one downside.</text>
+		<text bitflag="1345" id1="488229" id2="17" version="1065353216">The landing bays where the volunteers' ships are docked have been captured by Imperial forces. We need Havoc Squad to clear them out--fast. Understood?</text>
+		<text bitflag="1345" id1="488230" id2="17" version="1065353216">The ships will be freed up in no time.</text>
+		<text bitflag="1360" id1="488230" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="488231" id2="17" version="1065353216">Music to my ears.</text>
+		<text bitflag="1345" id1="488233" id2="17" version="1065353216">We're getting their ships out, and they're helping us in return, right?</text>
+		<text bitflag="1360" id1="488233" id2="17" version="1065353216">So it's a favor for a favor?</text>
+		<text bitflag="1345" id1="488234" id2="17" version="1065353216">What do you take us for? This is our home, and we're not about to let the Imps get their grimy claws on it.</text>
+		<text bitflag="1345" id1="488236" id2="17" version="1065353216">Clearing security is kid's stuff, you don't need Havoc.</text>
+		<text bitflag="1360" id1="488236" id2="17" version="1065353216">This is a waste of my time.</text>
+		<text bitflag="1345" id1="488237" id2="17" version="1065353216">These are first-rate Imperial commandos, and our time frame is limited. It's a job for Havoc.</text>
+		<text bitflag="1345" id1="488239" id2="17" version="1065353216">There's your coordinates, Major--I look forward to seeing Havoc at work.</text>
+		<text bitflag="1345" id1="488241" id2="17" version="1065353216">Good luck, Major. Dismissed.</text>
+		<text bitflag="1345" id1="488243" id2="17" version="1065353216">I'm not saying we're not on board, lady, I'm saying you're not the boss of me. Wouldn't kill you to show some respect.</text>
+		<text bitflag="1345" id1="488245" id2="17" version="1065353216">This is war. If you can't join ranks and follow orders, then you're a liability.</text>
+		<text bitflag="1345" id1="488247" id2="17" version="1065353216">Everybody just take it easy, all right? We're all on the same side. Now, General, it looks like your best and brightest is here--why don't we get started?</text>
+		<text bitflag="1345" id1="488248" id2="17" version="1065353216">You're the Corellian Security officer, right?</text>
+		<text bitflag="1360" id1="488248" id2="17" version="1065353216">You must be Locke.</text>
+		<text bitflag="1345" id1="488249" id2="17" version="1065353216">It's CorSec around here, so yeah, that's me. It's a pleasure.</text>
+		<text bitflag="1345" id1="488251" id2="17" version="1065353216">Locke's associate is Captain Phaeris, a contract pilot. She's leading a group of private ship owners who have volunteered to help our cause.</text>
+		<text bitflag="1345" id1="488253" id2="17" version="1065353216">What are you all arguing about?</text>
+		<text bitflag="1360" id1="488253" id2="17" version="1065353216">What's going on here?</text>
+		<text bitflag="1345" id1="488254" id2="17" version="1065353216">Questioning authority. Standard operating procedure around here.</text>
+		<text bitflag="1345" id1="488256" id2="17" version="1065353216">Sounds like we're off to a great start.</text>
+		<text bitflag="1360" id1="488256" id2="17" version="1065353216">Bickering already?</text>
+		<text bitflag="1345" id1="488257" id2="17" version="1065353216">Great minds don't always think alike.</text>
+		<text bitflag="1345" id1="488263" id2="17" version="1065353216">Corellia is the tipping point for the entire war. If the Imperials win here, they could reverse all our hard-fought advances.</text>
+		<text bitflag="1345" id1="488264" id2="17" version="1065353216">Corellia won't fall to the Empire on my watch.</text>
+		<text bitflag="1360" id1="488264" id2="17" version="1065353216">Then we'll stop them.</text>
+		<text bitflag="1345" id1="488265" id2="17" version="1065353216">If we beat the Imps here, will that be the end of it?</text>
+		<text bitflag="1360" id1="488265" id2="17" version="1065353216">What if we win?</text>
+		<text bitflag="1345" id1="488266" id2="17" version="1065353216">Not right away. But winning here should put an overall victory well within our reach.</text>
+		<text bitflag="1345" id1="488268" id2="17" version="1065353216">I'll crush the Imps here just like I've crushed them everywhere else.</text>
+		<text bitflag="1360" id1="488268" id2="17" version="1065353216">I never lose.</text>
+		<text bitflag="1345" id1="488269" id2="17" version="1065353216">We're all counting on it.</text>
+		<text bitflag="1345" id1="488271" id2="17" version="1065353216">Your target is the Bastion, one of the main centers for logistics and strategic planning in the entire Republic.</text>
+		<text bitflag="1345" id1="488273" id2="17" version="1065353216">Rakton seized the Bastion during the invasion--he's clearly hoping to use the information inside to plan his next campaign against us. It's your job to stop him.</text>
+		<text bitflag="1345" id1="488274" id2="17" version="1065353216">Just tell me where to begin, General.</text>
+		<text bitflag="1360" id1="488274" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="488275" id2="17" version="1065353216">How could Rakton capture such an important objective?</text>
+		<text bitflag="1360" id1="488275" id2="17" version="1065353216">How did this happen?</text>
+		<text bitflag="1345" id1="488276" id2="17" version="1065353216">Corellia's leadership betrayed us--practically sold their planet to the Empire.</text>
+		<text bitflag="1345" id1="488278" id2="17" version="1065353216">If Rakton's in the Bastion, let's just flatten it from orbit.</text>
+		<text bitflag="1360" id1="488278" id2="17" version="1065353216">Why not slag the whole place?</text>
+		<text bitflag="1345" id1="488279" id2="17" version="1065353216">Unfortunately, even our most concentrated fire would barely make a dent.</text>
+		<text bitflag="1345" id1="488281" id2="17" version="1065353216">The Bastion is one of the most heavily secured fortresses in the galaxy. Your team will need a lot of support to take it.</text>
+		<text bitflag="1345" id1="488283" id2="17" version="1065353216">To get the necessary manpower into the field, we're working with a local resistance leader--a Corellian Security officer named Locke.</text>
+		<text bitflag="1345" id1="488284" id2="17" version="1065353216">Local intel can make a big difference.</text>
+		<text bitflag="1360" id1="488284" id2="17" version="1065353216">Sounds good.</text>
+		<text bitflag="1345" id1="488285" id2="17" version="1065353216">What do we know about this guy, General?</text>
+		<text bitflag="1360" id1="488285" id2="17" version="1065353216">Tell me about Locke.</text>
+		<text bitflag="1345" id1="488286" id2="17" version="1065353216">A great deal, actually.</text>
+		<text bitflag="1345" id1="488288" id2="17" version="1065353216">Havoc can pull this off fine on our own, Garza.</text>
+		<text bitflag="1360" id1="488288" id2="17" version="1065353216">We don't need locals.</text>
+		<text bitflag="1345" id1="488289" id2="17" version="1065353216">I'm afraid not, Major. Besides, this contact isn't like most others.</text>
+		<text bitflag="1345" id1="488291" id2="17" version="1065353216">Before he entered CorSec, Locke served in Special Forces under my command. He's a dependable soldier, and he knows Corellia very well.</text>
+		<text bitflag="1345" id1="488293" id2="17" version="1065353216">We'll discuss the details once you arrive. We've set up our command center in a former cantina, the Gilded Descent.</text>
+		<text bitflag="1345" id1="488294" id2="17" version="1065353216">I'll move out right away, General.</text>
+		<text bitflag="1360" id1="488294" id2="17" version="1065353216">Will do.</text>
+		<text bitflag="1345" id1="488295" id2="17" version="1065353216">I never thought I'd see you inside a cantina, General.</text>
+		<text bitflag="1360" id1="488295" id2="17" version="1065353216">Are we going for a drink?</text>
+		<text bitflag="1345" id1="488296" id2="17" version="1065353216">Very funny.</text>
+		<text bitflag="1345" id1="488298" id2="17" version="1065353216">Can't we do better than some old dive?</text>
+		<text bitflag="1360" id1="488298" id2="17" version="1065353216">Sounds pathetic.</text>
+		<text bitflag="1345" id1="488299" id2="17" version="1065353216">We make due with what's available.</text>
+		<text bitflag="1345" id1="488301" id2="17" version="1065353216">Watch for targets of opportunity, Major. Imperial commando teams are all over the area.</text>
+		<text bitflag="1345" id1="488303" id2="17" version="1065353216">See you soon. Garza out.</text>
+		<text bitflag="1345" id1="488309" id2="17" version="1065353216">Major.</text>
+		<text bitflag="3393" id1="969805" id2="17" version="1065353216">We'll hang back and stay out of sight while you clear a path, then catch up inside the museum. Good hunting!</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>75</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/cc/sith_warrior/pierce.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="65507" id2="17" version="1065353216">Time for some action.</text>
+		<text bitflag="1345" id1="65509" id2="17" version="1065353216">It's an ambush!</text>
+		<text bitflag="1345" id1="65511" id2="17" version="1065353216">Should have prepared first.</text>
+		<text bitflag="1345" id1="65513" id2="17" version="1065353216">We've been spotted. Take cover.</text>
+		<text bitflag="1345" id1="65515" id2="17" version="1065353216">Might need your help for this one.</text>
+		<text bitflag="1345" id1="65517" id2="17" version="1065353216">Bigger they are, harder they fall.</text>
+		<text bitflag="1345" id1="65519" id2="17" version="1065353216">Don't like my odds here.</text>
+		<text bitflag="1345" id1="65521" id2="17" version="1065353216">Bring it on!</text>
+		<text bitflag="1345" id1="65523" id2="17" version="1065353216">Your orders, my lord.</text>
+		<text bitflag="1345" id1="65525" id2="17" version="1065353216">I go down, you go with me.</text>
+		<text bitflag="1345" id1="65529" id2="17" version="1065353216">On it.</text>
+		<text bitflag="1345" id1="65531" id2="17" version="1065353216">Noted.</text>
+		<text bitflag="1345" id1="65533" id2="17" version="1065353216">Affirmative.</text>
+		<text bitflag="1345" id1="65535" id2="17" version="1065353216">No problem.</text>
+		<text bitflag="1345" id1="65541" id2="17" version="1065353216">Negative.</text>
+		<text bitflag="1345" id1="65543" id2="17" version="1065353216">Can't do it.</text>
+		<text bitflag="1345" id1="65545" id2="17" version="1065353216">Try something else.</text>
+		<text bitflag="1345" id1="65549" id2="17" version="1065353216">I'm out.</text>
+		<text bitflag="1345" id1="65551" id2="17" version="1065353216">My lord.</text>
+		<text bitflag="1345" id1="65553" id2="17" version="1065353216">Next time.</text>
+		<text bitflag="1345" id1="65555" id2="17" version="1065353216">I'm not even warmed up!</text>
+		<text bitflag="1345" id1="65557" id2="17" version="1065353216">Good time for a cooldown.</text>
+		<text bitflag="1345" id1="65561" id2="17" version="1065353216">Taking hits!</text>
+		<text bitflag="1345" id1="65563" id2="17" version="1065353216">Heavy fire here!</text>
+		<text bitflag="1345" id1="65565" id2="17" version="1065353216">Need a medpac!</text>
+		<text bitflag="1345" id1="65567" id2="17" version="1065353216">Could use some backup!</text>
+		<text bitflag="1345" id1="65569" id2="17" version="1065353216">Injured. Bad. Gonna fall.</text>
+		<text bitflag="1345" id1="65573" id2="17" version="1065353216">My lord.</text>
+		<text bitflag="1345" id1="65575" id2="17" version="1065353216">Your command.</text>
+		<text bitflag="1345" id1="65577" id2="17" version="1065353216">Armed and ready.</text>
+		<text bitflag="1345" id1="65579" id2="17" version="1065353216">Where's the action?</text>
+		<text bitflag="1345" id1="65581" id2="17" version="1065353216">About time I got some air.</text>
+		<text bitflag="1345" id1="65585" id2="17" version="1065353216">Dodge this!</text>
+		<text bitflag="1345" id1="65587" id2="17" version="1065353216">Hit 'em hard!</text>
+		<text bitflag="1345" id1="65589" id2="17" version="1065353216">Better take cover!</text>
+		<text bitflag="1345" id1="65591" id2="17" version="1065353216">This is gonna hurt!</text>
+		<text bitflag="1345" id1="65593" id2="17" version="1065353216">You're in trouble now!</text>
+		<text bitflag="1345" id1="65597" id2="17" version="1065353216">Get up!</text>
+		<text bitflag="1345" id1="65599" id2="17" version="1065353216">You good?</text>
+		<text bitflag="1345" id1="65601" id2="17" version="1065353216">Walk it off!</text>
+		<text bitflag="1345" id1="65605" id2="17" version="1065353216">Thanks!</text>
+		<text bitflag="1345" id1="65607" id2="17" version="1065353216">Still breathing!</text>
+		<text bitflag="1345" id1="65609" id2="17" version="1065353216">Back in the game!</text>
+		<text bitflag="1345" id1="65613" id2="17" version="1065353216">On the job.</text>
+		<text bitflag="1345" id1="65615" id2="17" version="1065353216">I'll start immediately.</text>
+		<text bitflag="1345" id1="65617" id2="17" version="1065353216">I'll get it done.</text>
+		<text bitflag="1345" id1="65619" id2="17" version="1065353216">Appreciate your trust.</text>
+		<text bitflag="1345" id1="65621" id2="17" version="1065353216">Yes, my lord.</text>
+		<text bitflag="1345" id1="65625" id2="17" version="1065353216">You're gonna like this.</text>
+		<text bitflag="1345" id1="65627" id2="17" version="1065353216">Followed your orders.</text>
+		<text bitflag="1345" id1="65629" id2="17" version="1065353216">Done. What's next?</text>
+		<text bitflag="1345" id1="65631" id2="17" version="1065353216">Objective complete.</text>
+		<text bitflag="1345" id1="65633" id2="17" version="1065353216">Things didn't go to plan.</text>
+		<text bitflag="1345" id1="65637" id2="17" version="1065353216">This is what I call a bonus.</text>
+		<text bitflag="1345" id1="504361" id2="17" version="1065353216">So this is what dying feels like.</text>
+		<text bitflag="1345" id1="504365" id2="17" version="1065353216">Good stuff. Appreciate it.</text>
+		<text bitflag="1345" id1="504369" id2="17" version="1065353216">Always need supplies.</text>
+		<text bitflag="1345" id1="504373" id2="17" version="1065353216">Find a use for this, I guess.</text>
+		<text bitflag="1345" id1="504375" id2="17" version="1065353216">Not something I need.</text>
+		<text bitflag="1345" id1="504379" id2="17" version="1065353216">Falling in!</text>
+		<text bitflag="1345" id1="504382" id2="17" version="1065353216">Got your back, boss. All the way to the brink of death.</text>
+		<text bitflag="1345" id1="504386" id2="17" version="1065353216">Heh. More cannon fodder. Why not?</text>
+		<text bitflag="1345" id1="504388" id2="17" version="1065353216">Major score.</text>
+		<text bitflag="1345" id1="504390" id2="17" version="1065353216">Nice. That'll help.</text>
+		<text bitflag="1345" id1="504392" id2="17" version="1065353216">I do love how you operate.</text>
+		<text bitflag="1345" id1="504394" id2="17" version="1065353216">That wasn't exactly how I'd handle things.</text>
+		<text bitflag="1345" id1="504401" id2="17" version="1065353216">Outfit me however you like.</text>
+		<text bitflag="1345" id1="504404" id2="17" version="1065353216">Don't matter what I use, enemies are gonna die.</text>
+		<text bitflag="1345" id1="504408" id2="17" version="1065353216">All Sith as, uh, bouncy as you?</text>
+		<text bitflag="1345" id1="504411" id2="17" version="1065353216">Might think about conserving your energy instead of hopping around. Just saying.</text>
+		<text bitflag="1345" id1="504415" id2="17" version="1065353216">You and me are going places.</text>
+		<text bitflag="1345" id1="504418" id2="17" version="1065353216">Not bragging, but feeling pretty invincible.</text>
+		<text bitflag="1345" id1="504422" id2="17" version="1065353216">Tougher they come, tougher I get.</text>
+		<text bitflag="1345" id1="504425" id2="17" version="1065353216">Gotta recharge my weapons. Drained everything I had for that one.</text>
+		<text bitflag="1345" id1="504427" id2="17" version="1065353216">You wanna dance with me? I might step on your face!</text>
+	</file_content>
+</stb_file>

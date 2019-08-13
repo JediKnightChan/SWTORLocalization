@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>42</strs>
+		<file_name>/resources/en-us/str/gui/profession.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="220700" version="1065353216">Profession operation successful.</text>
+		<text bitflag="321" id1="2" id2="220700" version="1065353216">You do not have the appropriate profession.</text>
+		<text bitflag="321" id1="3" id2="220700" version="1065353216">You have insufficient skill level.</text>
+		<text bitflag="321" id1="4" id2="220700" version="1065353216">Invalid schematic!</text>
+		<text bitflag="321" id1="5" id2="220700" version="1065353216">You already know that schematic.</text>
+		<text bitflag="321" id1="6" id2="220700" version="1065353216">You have insufficient materials to craft that schematic.</text>
+		<text bitflag="321" id1="7" id2="220700" version="1065353216">You do not have the appropriate tool.</text>
+		<text bitflag="321" id1="8" id2="220700" version="1065353216">That object is out of range.</text>
+		<text bitflag="321" id1="9" id2="220700" version="1065353216">You don't have enough room in your inventory.</text>
+		<text bitflag="321" id1="10" id2="220700" version="1065353216">Invalid item!</text>
+		<text bitflag="321" id1="11" id2="220700" version="1065353216">Unknown crew skill result.</text>
+		<text bitflag="321" id1="12" id2="220700" version="1065353216">You don't know that recipe.</text>
+		<text bitflag="321" id1="13" id2="220700" version="1065353216">That was already gathered.</text>
+		<text bitflag="321" id1="14" id2="220700" version="1065353216">General crew skill error.</text>
+		<text bitflag="321" id1="15" id2="220700" version="1065353216">Unknown crew skill.</text>
+		<text bitflag="321" id1="16" id2="220700" version="1065353216">Crew skill already known.</text>
+		<text bitflag="321" id1="17" id2="220700" version="1065353216">Cannot have multiple crafting crew skills.</text>
+		<text bitflag="321" id1="18" id2="220700" version="1065353216">You have trained the crew skill '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="19" id2="220700" version="1065353216">You have untrained the crew skill '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="20" id2="220700" version="1065353216">Your skill in &lt;&lt;1&gt;&gt; is now &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="21" id2="220700" version="1065353216">You have learned the schematic '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="22" id2="220700" version="1065353216">You do not have the appropriate crafting table.</text>
+		<text bitflag="321" id1="23" id2="220700" version="1065353216">Your companion has no task queue room.</text>
+		<text bitflag="321" id1="24" id2="220700" version="1065353216">That item cannot be reverse engineered.</text>
+		<text bitflag="321" id1="25" id2="220700" version="1065353216">No reverse engineering information for item 'prfProfession&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="26" id2="220700" version="1065353216">You do not have the base version of this schematic.</text>
+		<text bitflag="321" id1="27" id2="220700" version="1065353216">You do not have sufficient credits to undertake this mission.</text>
+		<text bitflag="321" id1="28" id2="220700" version="1065353216">You do not have sufficient credits to learn this schematic.</text>
+		<text bitflag="321" id1="29" id2="220700" version="1065353216">Your companion &lt;&lt;1&gt;&gt; has crafted '&lt;&lt;2&gt;&gt;' x &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="30" id2="220700" version="1065353216">Unknown crew skill result.</text>
+		<text bitflag="321" id1="31" id2="220700" version="1065353216">Your companion &lt;&lt;1&gt;&gt; has completed the mission '&lt;&lt;2&gt;&gt;'.</text>
+		<text bitflag="321" id1="32" id2="220700" version="1065353216">You are too far away from the crew skill trainer.</text>
+		<text bitflag="321" id1="33" id2="220700" version="1065353216">There are no missions defined for the crew skill '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="34" id2="220700" version="1065353216">Do you wish to untrain your crew skill?</text>
+		<text bitflag="321" id1="35" id2="220700" version="1065353216">&lt;&lt;1&gt;&gt; has requested that you craft &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="36" id2="220700" version="1065353216">View Schematics</text>
+		<text bitflag="321" id1="37" id2="220700" version="1065353216">&lt;&lt;g:2,1&gt;&gt;
+Influence Level &lt;&lt;3&gt;&gt; (&lt;&lt;4&gt;&gt;/&lt;&lt;5&gt;&gt;)
+&lt;&lt;6&gt;&gt;</text>
+		<text bitflag="321" id1="38" id2="220700" version="1065353216">Mission Level &lt;&lt;1&gt;&gt;-&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="257" id2="220700" version="1065353216">Influence</text>
+		<text bitflag="321" id1="258" id2="220700" version="1065353216">Default</text>
+		<text bitflag="321" id1="261" id2="220700" version="1065353216">You will lose the mods installed on this item. Are you sure?</text>
+		<text bitflag="321" id1="265" id2="220700" version="1065353216">Influence: +&lt;&lt;1&gt;&gt;</text>
+	</file_content>
+</stb_file>

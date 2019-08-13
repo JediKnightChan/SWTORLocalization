@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>27</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/world_arc/imperial/hub_2/recruitment_day/dying_republic_soldier.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1010367" id2="17" version="1065353216">I'm nearing the coordinates of the Republic evacuation caravan.</text>
+		<text bitflag="1345" id1="1028852" id2="17" version="1065353216">All right. It's full of random civilians fleeing the planet--but there are three members of the government mining and geological committee along for the ride.</text>
+		<text bitflag="1345" id1="1028854" id2="17" version="1065353216">Smartest engineers on Makeb. Get them out, and we're looking pretty.</text>
+		<text bitflag="1345" id1="1028856" id2="17" version="1065353216">They had a machine with them. Massive droid....</text>
+		<text bitflag="1345" id1="1028857" id2="17" version="1065353216">So the mercenaries and their droid have caught up with the Republic. This should be entertaining.</text>
+		<text bitflag="1360" id1="1028857" id2="17" version="1065353216">My enemies are fighting. Good.</text>
+		<text bitflag="1345" id1="1028858" id2="17" version="1065353216">I've done what I can, but you're still weak. Call for help after the battle.</text>
+		<text bitflag="1345" id1="1028859" id2="17" version="1065353216">Be silent.</text>
+		<text bitflag="1360" id1="1028859" id2="17" version="1065353216">You're useless. [Kill him]</text>
+		<text bitflag="1345" id1="1028862" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1345" id1="1028865" id2="17" version="1065353216">An isotope-5 unit capable of slaughtering Republic infantry. Perhaps this will be interesting, after all.</text>
+		<text bitflag="1360" id1="1028865" id2="17" version="1065353216">A fight to look forward to.</text>
+		<text bitflag="1345" id1="1028866" id2="17" version="1065353216">Forget the droid. How many mercenaries and how many Republic soldiers?</text>
+		<text bitflag="1360" id1="1028866" id2="17" version="1065353216">Tell me about the enemy.</text>
+		<text bitflag="1345" id1="1028867" id2="17" version="1065353216">Sounds like an isotope-5 droid. Any chance I can get air support?</text>
+		<text bitflag="1360" id1="1028867" id2="17" version="1065353216">I might need more firepower.</text>
+		<text bitflag="1345" id1="1028868" id2="17" version="1065353216">Phobium Squad must have caught up--and it sounds like our intel on the isotope-5 droid was right. Be extremely careful.</text>
+		<text bitflag="3393" id1="1028870" id2="17" version="1065353216">Program &quot;Eradication&quot; = online</text>
+		<text bitflag="1345" id1="1028872" id2="17" version="1065353216">If we had skyfighters to lend you, don't you think you'd have seen them by now?</text>
+		<text bitflag="1345" id1="1028873" id2="17" version="1065353216">I had to ask.</text>
+		<text bitflag="1345" id1="1028876" id2="17" version="1065353216">Too many mercenaries. They hit us hard. I'm sorry....</text>
+		<text bitflag="1345" id1="1033934" id2="17" version="1065353216">Who had a machine? Was it the mercenaries? Focus on my voice.</text>
+		<text bitflag="1360" id1="1033934" id2="17" version="1065353216">You're not making sense.</text>
+		<text bitflag="1345" id1="1033936" id2="17" version="1065353216">You should have fled. That was your only real hope.</text>
+		<text bitflag="1360" id1="1033936" id2="17" version="1065353216">Republic fool.</text>
+		<text bitflag="1345" id1="1033937" id2="17" version="1065353216">I can't... who are you?</text>
+		<text bitflag="1360" id1="1104945" id2="17" version="1065353216">Let me fix your wounds.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/ziost/class/sith_warrior/ship_holoterminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1089" id1="1071288" id2="17" version="1065353216">My lord, we've entered orbit over Ziost.</text>
+		<text bitflag="1089" id1="1071297" id2="17" version="1065353216">The Republic invaders have seized Ziost's planetary defense grid. They're disintegrating every vessel that approaches!</text>
+		<text bitflag="1089" id1="1071298" id2="17" version="1065353216">Is there a weakness we can exploit to reach the surface?</text>
+		<text bitflag="1104" id1="1071298" id2="17" version="1065353216">Can we evade their attacks?</text>
+		<text bitflag="1089" id1="1071299" id2="17" version="1065353216">The Hand's prepared a shuttle for you at Ziost's orbital station. It's small enough to slip through undetected.</text>
+		<text bitflag="1089" id1="1073983" id2="17" version="1065353216">The Republic blocks us from landing reinforcements. No wonder the invaders have held out so long.</text>
+		<text bitflag="1104" id1="1073983" id2="17" version="1065353216">A wise strategy.</text>
+		<text bitflag="1089" id1="1073986" id2="17" version="1065353216">Tell Servant One to prepare me an alternate approach.</text>
+		<text bitflag="1104" id1="1073986" id2="17" version="1065353216">Alert the Hand.</text>
+		<text bitflag="1089" id1="1073991" id2="17" version="1065353216">No doubt they'll deactivate the grid once the Republic fleet arrives.</text>
+		<text bitflag="1089" id1="1074005" id2="17" version="1065353216">Transmitting now, my lord....</text>
+		<text bitflag="1089" id1="1074017" id2="17" version="1065353216">Unlikely, my lord. The Imperium Pride attempted to land; its wreckage now litters the planet.</text>
+		<text bitflag="1089" id1="1074019" id2="17" version="1065353216">The shuttle will drop you far from civilization, at Outpost Fury. The Hand's agent already awaits your arrival.</text>
+		<text bitflag="1089" id1="1074022" id2="17" version="1065353216">Shields critical! Evasive maneuvers!</text>
+		<text bitflag="1089" id1="1074025" id2="17" version="1065353216">Ow! Whiplash!</text>
+		<text bitflag="1089" id1="1074037" id2="17" version="1065353216">Trying to get us killed, Quinn?</text>
+	</file_content>
+</stb_file>

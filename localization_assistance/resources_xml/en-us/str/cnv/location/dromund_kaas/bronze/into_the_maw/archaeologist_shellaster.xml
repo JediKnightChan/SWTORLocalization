@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>21</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/bronze/into_the_maw/archaeologist_shellaster.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="681839" id2="17" version="1065353216">I heard those spacers were Republic spies. Please don't tell my supervisor.</text>
+		<text bitflag="1345" id1="681840" id2="17" version="1065353216">Try the next camp over if you're looking for those spacers.</text>
+		<text bitflag="1345" id1="681843" id2="17" version="1065353216">Sorry, lord. I would find the supervisor for you, but talking to those spacers has already put me behind schedule.</text>
+		<text bitflag="1345" id1="681845" id2="17" version="1065353216">Um, are you looking for the supervisor? He left before those spacers arrived.</text>
+		<text bitflag="1345" id1="681847" id2="17" version="1065353216">Ugh, that crew just wouldn't leave! They kept asking for supplies. Do I look like a quartermaster?</text>
+		<text bitflag="1345" id1="681848" id2="17" version="1065353216">These crewmen--which way did they go?</text>
+		<text bitflag="1360" id1="681848" id2="17" version="1065353216">Spacers, here? Where are they?</text>
+		<text bitflag="1345" id1="681849" id2="17" version="1065353216">Were they asking for anything in particular?</text>
+		<text bitflag="1360" id1="681849" id2="17" version="1065353216">What supplies did they want?</text>
+		<text bitflag="1345" id1="681850" id2="17" version="1065353216">I wasn't really listening--maybe something about new uniforms.</text>
+		<text bitflag="1360" id1="681852" id2="17" version="1065353216">No, you sound like a whiner.</text>
+		<text bitflag="1345" id1="681853" id2="17" version="1065353216">I'm sorry, my lord. But those people would have tested even a Sith's great patience.</text>
+		<text bitflag="1345" id1="681855" id2="17" version="1065353216">Sorry, but they were interrupting my work. You know how frustrating that is, right?</text>
+		<text bitflag="1345" id1="681857" id2="17" version="1065353216">I sent them to the next camp over. Director Nashal there loves boasting about their &quot;superior equipment,&quot; so he can share it.</text>
+		<text bitflag="1345" id1="681859" id2="17" version="1065353216">I can give you the camp's location if you like.</text>
+		<text bitflag="1360" id1="681860" id2="17" version="1065353216">I should find these &quot;spacers.&quot;</text>
+		<text bitflag="1360" id1="681861" id2="17" version="1065353216">Yes. This sounds suspicious.</text>
+		<text bitflag="1345" id1="681862" id2="17" version="1065353216">There. It's not far. Hopefully you'll catch them before they leave.</text>
+		<text bitflag="1360" id1="681864" id2="17" version="1065353216">Don't bother. [Refuse quest]</text>
+		<text bitflag="1345" id1="681865" id2="17" version="1065353216">I don't blame you, those people were a nuisance. Back to work, I guess.</text>
+		<text bitflag="1345" id1="681867" id2="17" version="1065353216">I'd love to talk, but the supervisor's already disciplined me for time wasting.</text>
+	</file_content>
+</stb_file>

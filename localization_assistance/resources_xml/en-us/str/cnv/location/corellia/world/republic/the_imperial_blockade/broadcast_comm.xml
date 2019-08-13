@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/world/republic/the_imperial_blockade/broadcast_comm.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="493783" id2="17" version="1065353216">[This broadcast comm has been deactivated.]</text>
+		<text bitflag="1345" id1="493786" id2="17" version="1065353216">Darth Decimus is defeated, General. Tell your men the Legislature is ours.</text>
+		<text bitflag="1345" id1="493787" id2="17" version="1065353216">No need to. Broadcast comm just sang it across Corellia.</text>
+		<text bitflag="1345" id1="493789" id2="17" version="1065353216">It's up to our reserves to push the Empire out completely, but we're already seeing major retreats. Corellia is free.</text>
+		<text bitflag="1345" id1="493791" id2="17" version="1065353216">We're getting ready to declare a formal victory to the Senate. Head for the Press Room when you're ready.</text>
+		<text bitflag="321" id1="493795" id2="17" version="1065353216">[This broadcast comm cannot be accessed at this time.]</text>
+	</file_content>
+</stb_file>

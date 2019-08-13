@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>10</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/02/ep_05/vette_puzzle_barks.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1214861" id2="17" version="1065353216">This door won't open if we can't find some power.</text>
+		<text bitflag="1345" id1="1214863" id2="17" version="1065353216">That droid might have some juice.</text>
+		<text bitflag="1345" id1="1214865" id2="17" version="1065353216">Maybe something in this panel?</text>
+		<text bitflag="1345" id1="1214867" id2="17" version="1065353216">These lights gotta get their power from somewhere.</text>
+		<text bitflag="1345" id1="1214869" id2="17" version="1065353216">Perfect. Let's get that door open.</text>
+		<text bitflag="1345" id1="1214871" id2="17" version="1065353216">It's drawing power from those conduits!</text>
+		<text bitflag="1345" id1="1214873" id2="17" version="1065353216">It's working! It's getting weaker!</text>
+		<text bitflag="1345" id1="1214875" id2="17" version="1065353216">Blasted droids are repairing the conduits! Take 'em out!</text>
+		<text bitflag="1345" id1="1214877" id2="17" version="1065353216">Watch out! It's powering up again!</text>
+		<text bitflag="1345" id1="1214879" id2="17" version="1065353216">And stay down this time!</text>
+	</file_content>
+</stb_file>

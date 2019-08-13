@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>43</strs>
+		<file_name>/resources/en-us/str/cnv/location/nar_shaddaa/class/trooper/general_garza.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="651406" id2="17" version="1065353216">Before we begin your briefing, I want to make something clear: The situation on Nar Shaddaa is very delicate.</text>
+		<text bitflag="1345" id1="651408" id2="17" version="1065353216">This moon belongs to the Hutt Cartel, who take their neutrality very seriously. The Republic cannot afford any incidents.</text>
+		<text bitflag="1345" id1="651409" id2="17" version="1065353216">I won't cause any trouble.</text>
+		<text bitflag="1360" id1="651409" id2="17" version="1065353216">Understood, sir.</text>
+		<text bitflag="1345" id1="651410" id2="17" version="1065353216">Cause any trouble the mission requires. Just don't get caught.</text>
+		<text bitflag="1345" id1="651412" id2="17" version="1065353216">What exactly should I be avoiding here, sir?</text>
+		<text bitflag="1360" id1="651412" id2="17" version="1065353216">Define &quot;incident.&quot;</text>
+		<text bitflag="1345" id1="651413" id2="17" version="1065353216">Imperial personnel operate just as freely on Nar Shaddaa as we do. You cannot be caught taking action against them.</text>
+		<text bitflag="1345" id1="651415" id2="17" version="1065353216">Does it really matter if a bunch of Hutts are happy with us?</text>
+		<text bitflag="1360" id1="651415" id2="17" version="1065353216">Why do we care?</text>
+		<text bitflag="1345" id1="651416" id2="17" version="1065353216">The underworld has its uses, especially in times of war.</text>
+		<text bitflag="1345" id1="651418" id2="17" version="1065353216">Now, your mission: An experimental Republic war droid has gone rogue, committing a series of seemingly random attacks across Nar Shaddaa.</text>
+		<text bitflag="1345" id1="651420" id2="17" version="1065353216">The droid's designation is M1-4X, and it is my belief that this droid is acting under orders from Harron Tavus.</text>
+		<text bitflag="1345" id1="651421" id2="17" version="1065353216">Do we know anything about the war droid's capabilities?</text>
+		<text bitflag="1360" id1="651421" id2="17" version="1065353216">What are the M1-4X's specs?</text>
+		<text bitflag="1360" id1="651422" id2="17" version="1065353216">How is Tavus involved?</text>
+		<text bitflag="1345" id1="651423" id2="17" version="1065353216">A single droid? Are we really wasting time on this?</text>
+		<text bitflag="1360" id1="651423" id2="17" version="1065353216">Doesn't sound like a big deal.</text>
+		<text bitflag="1345" id1="651424" id2="17" version="1065353216">The droid is a highly advanced prototype, one that was being developed to serve in Havoc Squad.</text>
+		<text bitflag="1345" id1="651426" id2="17" version="1065353216">The project was supposed to have been canceled, but it would seem Tavus simply shifted the development elsewhere--most likely his allies in the Sith Empire.</text>
+		<text bitflag="1345" id1="651427" id2="17" version="1065353216">What are my orders, General?</text>
+		<text bitflag="1360" id1="651427" id2="17" version="1065353216">How should I proceed?</text>
+		<text bitflag="1345" id1="651428" id2="17" version="1065353216">Why wasn't the project completed in the first place?</text>
+		<text bitflag="1360" id1="651428" id2="17" version="1065353216">Why the cancellation?</text>
+		<text bitflag="1345" id1="651429" id2="17" version="1065353216">The droid's design relied on an exotic alien power source, but our technicians couldn't make it work efficiently.</text>
+		<text bitflag="1345" id1="651431" id2="17" version="1065353216">How could this get by unnoticed?</text>
+		<text bitflag="1360" id1="651431" id2="17" version="1065353216">This is ridiculous.</text>
+		<text bitflag="1345" id1="651432" id2="17" version="1065353216">Tavus and his followers are experts in covert operations--expertise they learned from us.</text>
+		<text bitflag="1345" id1="651434" id2="17" version="1065353216">This war droid's rampage must be stopped before it's linked with the Republic. An agent of the Strategic Information Service will be assisting you.</text>
+		<text bitflag="1345" id1="651436" id2="17" version="1065353216">Officially, you're providing military support to an SIS operation. Do not divulge Tavus's defection, or the droid's connection to it.</text>
+		<text bitflag="1345" id1="651437" id2="17" version="1065353216">You can count on me, sir.</text>
+		<text bitflag="1360" id1="651437" id2="17" version="1065353216">No problem.</text>
+		<text bitflag="1345" id1="651438" id2="17" version="1065353216">That's going to make this interesting.</text>
+		<text bitflag="1360" id1="651438" id2="17" version="1065353216">Uh, okay.</text>
+		<text bitflag="1345" id1="651439" id2="17" version="1065353216">General, if I may say so, this is highly irregular. Withholding relevant information from our allies is a violation of Regulation 32-C....</text>
+		<text bitflag="1345" id1="651441" id2="17" version="1065353216">Intelligence Service should know everything we know.</text>
+		<text bitflag="1360" id1="651441" id2="17" version="1065353216">I don't like this.</text>
+		<text bitflag="1345" id1="651442" id2="17" version="1065353216">The lieutenant is correct, General. Regulation 32-C requires us to share all relevant intelligence.</text>
+		<text bitflag="1345" id1="651444" id2="17" version="1065353216">SpecForce deals with its own problems, Sergeant Dorne. The SIS already knows everything it needs to know.</text>
+		<text bitflag="1345" id1="651446" id2="17" version="1065353216">We deal with our own problems, Lieutenant. The last thing we need is for the SIS to get involved.</text>
+		<text bitflag="1345" id1="651448" id2="17" version="1065353216">Be careful, Lieutenant. If this war droid is even half as dangerous as its original designers had estimated, you'll have your work cut out for you. Garza out.</text>
+		<text bitflag="1345" id1="651450" id2="17" version="1065353216">Lieutenant. This is General Garza. I see that you've touched down on Nar Shaddaa.</text>
+		<text bitflag="1345" id1="651454" id2="17" version="1065353216">Your contact is a field agent named Jonas Balkar. He'll meet you at a cantina located in the Duros Sector and provide further details.</text>
+	</file_content>
+</stb_file>

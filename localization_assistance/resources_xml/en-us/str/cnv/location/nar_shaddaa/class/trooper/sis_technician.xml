@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>24</strs>
+		<file_name>/resources/en-us/str/cnv/location/nar_shaddaa/class/trooper/sis_technician.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="652110" id2="17" version="1065353216">See you around, Lieutenant.</text>
+		<text bitflag="1345" id1="652111" id2="17" version="1065353216">Lieutenant! I'm with the SIS. What is your status? Do you require medical attention?</text>
+		<text bitflag="1345" id1="652112" id2="17" version="1065353216">My medic here has me covered, thanks.</text>
+		<text bitflag="1360" id1="652112" id2="17" version="1065353216">No, I'm fine.</text>
+		<text bitflag="1360" id1="652113" id2="17" version="1065353216">No, I'm fine.</text>
+		<text bitflag="1345" id1="652114" id2="17" version="1065353216">Excellent. We'll get straight to work then.</text>
+		<text bitflag="1345" id1="652116" id2="17" version="1065353216">Did Jonas send you?</text>
+		<text bitflag="1360" id1="652116" id2="17" version="1065353216">Why are you here?</text>
+		<text bitflag="1345" id1="652117" id2="17" version="1065353216">Yes, that's correct.</text>
+		<text bitflag="1345" id1="652119" id2="17" version="1065353216">Backup is pretty useless now, the fighting's over.</text>
+		<text bitflag="1360" id1="652119" id2="17" version="1065353216">You're a little late.</text>
+		<text bitflag="1345" id1="652120" id2="17" version="1065353216">Yes, yes, I can see that. This place looks like a war zone.</text>
+		<text bitflag="1345" id1="652122" id2="17" version="1065353216">We're here to clean up the mess, make sure there's nothing useful to be recovered. Nice work, by the way.</text>
+		<text bitflag="1345" id1="652124" id2="17" version="1065353216">Jonas is waiting for you inside the Republic Embassy, up on the Promenade. He asked that you meet him there for a debriefing.</text>
+		<text bitflag="1345" id1="652125" id2="17" version="1065353216">I'll head for the embassy right away.</text>
+		<text bitflag="1360" id1="652125" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1360" id1="652126" id2="17" version="1065353216">I guess I'm done.</text>
+		<text bitflag="1345" id1="652127" id2="17" version="1065353216">Yeah, I'd definitely say so.</text>
+		<text bitflag="1345" id1="652129" id2="17" version="1065353216">Glad I got a chance to meet you, Lieutenant. And again--nice work.</text>
+		<text bitflag="1360" id1="652131" id2="17" version="1065353216">You've got to be kidding.</text>
+		<text bitflag="1345" id1="652132" id2="17" version="1065353216">Well, I'm definitely impressed, if that means anything. I'm sure Jonas is just waiting to congratulate you in person.</text>
+		<text bitflag="1345" id1="652134" id2="17" version="1065353216">Anyways, I won't hold you up any longer. And again--great work down here.</text>
+		<text bitflag="1345" id1="652136" id2="17" version="1065353216">Sweepers, fan out! Standard grid formation....</text>
+		<text bitflag="1345" id1="652138" id2="17" version="1065353216">Can't talk. Sorry.</text>
+	</file_content>
+</stb_file>

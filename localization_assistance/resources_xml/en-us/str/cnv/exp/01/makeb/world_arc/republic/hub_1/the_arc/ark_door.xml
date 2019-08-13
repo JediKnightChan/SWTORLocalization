@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/world_arc/republic/hub_1/the_arc/ark_door.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1009347" id2="17" version="1065353216">Ilosov? We're through the blast door.</text>
+		<text bitflag="1345" id1="1009348" id2="17" version="1065353216">Good. Seal it behind you. There oughta be a control panel nearby.</text>
+		<text bitflag="1345" id1="1009350" id2="17" version="1065353216">Scramble the security codes. That'll keep reinforcements from following you.</text>
+		<text bitflag="1345" id1="1009352" id2="17" version="1065353216">Schematics for the ark construction site are a mess. Can't tell what half the symbols mean. Just do whatever it takes to secure the ark--and good luck.</text>
+	</file_content>
+</stb_file>

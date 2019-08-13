@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/cnv/location/hutta/bronze/death_mark/wanted_sign_cantina.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="507058" id2="17" version="1065353216">These criminals wage illegal war against me in the streets. Eradicate all of Fa'athra's people who dare to set foot in Jiguuna!</text>
+		<text bitflag="3393" id1="507060" id2="17" version="1065353216">Cripple this coward's army and you will know the honor and rewards of serving the great and powerful Nem'ro the Hutt.</text>
+		<text bitflag="3393" id1="755448" id2="17" version="1065353216">Nem'ro = content // P8-47 = appreciative</text>
+		<text bitflag="3393" id1="760213" id2="17" version="1065353216">Nem'ro + Fa'athra = enemies // Nem'ro = pay well if Fa'athra defeated</text>
+		<text bitflag="3393" id1="760214" id2="17" version="1065353216">P8-47 = carrying urgent message // Message = sent by Nem'ro the Hutt // Mighty Nem'ro = all powerful ruler of Jiguuna</text>
+		<text bitflag="1360" id1="760215" id2="17" version="1065353216">Okay, give me the message.</text>
+		<text bitflag="1360" id1="760216" id2="17" version="1065353216">Wait--Nem'ro doesn't know me.</text>
+		<text bitflag="3393" id1="760217" id2="17" version="1065353216">Message = meant for everyone // Nem'ro = making generous offer // P8-47 = deliver message or end up in scrap heap</text>
+		<text bitflag="1360" id1="760219" id2="17" version="1065353216">I don't answer to Nem'ro.</text>
+		<text bitflag="3393" id1="760220" id2="17" version="1065353216">Nem'ro = very powerful // Helping Nem'ro = profitable // P8-47 = deliver message or end up in scrap heap</text>
+		<text bitflag="3393" id1="760224" id2="17" version="1065353216">I am mighty Nem'ro, ruler of Jiguuna! Citizens, hear me--my city is under siege from the craven Fa'athra and his followers!</text>
+		<text bitflag="1360" id1="760226" id2="17" version="1065353216">Sounds like my kind of job.</text>
+		<text bitflag="3393" id1="760227" id2="17" version="1065353216">P8-47 = relieved // Nem'ro = turn P8-47 into spare parts if message ignored // P8-47 = not ready for scrap heap</text>
+		<text bitflag="1360" id1="760228" id2="17" version="1065353216">You're sure Nem'ro will pay?</text>
+		<text bitflag="3393" id1="760229" id2="17" version="1065353216">Nem'ro = honors all deals // Fa'athra = in violation of Hutt Cartel // Fa'athra = deal breaker // Nem'ro = legitimate claim to Jiguuna</text>
+		<text bitflag="3393" id1="760231" id2="17" version="1065353216">P8-47 = tell Nem'ro job accepted // P8-47 = relieved // Nem'ro = turn P8-47 to scrap if message ignored</text>
+		<text bitflag="1360" id1="760233" id2="17" version="1065353216">Not interested. [Refuse quest]</text>
+		<text bitflag="3393" id1="760234" id2="17" version="1065353216">Nem'ro = dangerous to refuse // Nem'ro = turn P8-47 to scrap if message ignored // P8-47 = stay here for now</text>
+		<text bitflag="3393" id1="760236" id2="17" version="1065353216">P8-47 = too busy to talk // P8-47 = on important mission for Nem'ro</text>
+	</file_content>
+</stb_file>

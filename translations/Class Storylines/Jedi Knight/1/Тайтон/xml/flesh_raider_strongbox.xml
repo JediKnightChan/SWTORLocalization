@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="13">
+	<unit bitflag="3393" id1="604544" id2="17" version="1065353216">
+		<source>Container inventory = Master Orgus's lightsaber // Jedi = take it</source>
+		<target>Содержимое контейнера = световой меч мастера Оргуса // джедай = взять его</target>
+	</unit>
+	<unit bitflag="1345" id1="604545" id2="17" version="1065353216">
+		<source>The Flesh Raiders took everything Orgus had. He's defenseless.</source>
+		<target>Раздиратели забрали у Оргуса всё. Он беззащитен.</target>
+	</unit>
+	<unit bitflag="1360" id1="604545" id2="17" version="1065353216">
+		<source>My Master will need this.</source>
+		<target>Он нужен моему учителю.</target>
+	</unit>
+	<unit bitflag="1345" id1="604546" id2="17" version="1065353216">
+		<source>I'm sure Master Orgus won't mind if I borrow this....</source>
+		<target>Мастер Оргус точно не будет против, если я одолжу его...</target>
+	</unit>
+	<unit bitflag="1360" id1="604546" id2="17" version="1065353216">
+		<source>Should I use it?</source>
+		<target>Мне его взять?</target>
+	</unit>
+	<unit bitflag="1345" id1="604547" id2="17" version="1065353216">
+		<source>I've been wanting one of these since I landed here.</source>
+		<target>Мне хотелось такой с самого приземления.</target>
+	</unit>
+	<unit bitflag="1360" id1="604547" id2="17" version="1065353216">
+		<source>Finally, a decent weapon.</source>
+		<target>Наконец, достойное оружие.</target>
+	</unit>
+	<unit bitflag="3393" id1="604548" id2="17" version="1065353216">
+		<source>Stand by... Master Orgus's life signs detected // Proximity = close</source>
+		<target>Подождите... Признаки жизни мастера Оргуса // Близость = непосредственная</target>
+	</unit>
+	<unit bitflag="3393" id1="604550" id2="17" version="1065353216">
+		<source>Large mass of enemy life signs detected // Proximity = closer</source>
+		<target>Большая масса вражеских признаков жизни // Близость = возрастает</target>
+	</unit>
+	<unit bitflag="3393" id1="604552" id2="17" version="1065353216">
+		<source>T7 recommendation = Jedi use Master Orgus's lightsaber</source>
+		<target>Рекомендация Т7 = джедай взять меч мастера Оргуса</target>
+	</unit>
+	<unit bitflag="321" id1="604554" id2="17" version="1065353216">
+		<source>[This strongbox contains several pieces of Jedi equipment and other useful items.]</source>
+		<target>[Этот сундук содержит несколько предметов джедайского снаряжения и другие полезные вещи]</target>
+	</unit>
+	<unit bitflag="3393" id1="604556" id2="17" version="1065353216">
+		<source>Jedi = look out!</source>
+		<target>Джедай = берегись!</target>
+	</unit>
+	<unit bitflag="1345" id1="604558" id2="17" version="1065353216">
+		<source>Die!</source>
+		<target>Умри!</target>
+	</unit>
+</dialogue_file>

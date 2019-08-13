@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="10">
+	<unit bitflag="1345" id1="604534" id2="17" version="1065353216">
+		<source>Jeehd-ay....</source>
+		<target>Джии-дай...</target>
+	</unit>
+	<unit bitflag="1345" id1="604535" id2="17" version="1065353216">
+		<source>Go peacefully, or face the consequences. This is your only warning.</source>
+		<target>Уйди с миром или испытай последствия. Это последнее предупреждение.</target>
+	</unit>
+	<unit bitflag="1360" id1="604535" id2="17" version="1065353216">
+		<source>Leave this place--now.</source>
+		<target>Оставь это место - сейчас же.</target>
+	</unit>
+	<unit bitflag="1345" id1="604536" id2="17" version="1065353216">
+		<source>Did you just call me &quot;Jedi&quot;?</source>
+		<target>Ты только что назвал меня джедаем?</target>
+	</unit>
+	<unit bitflag="1360" id1="604536" id2="17" version="1065353216">
+		<source>You can speak?</source>
+		<target>Ты говоришь?</target>
+	</unit>
+	<unit bitflag="1345" id1="604537" id2="17" version="1065353216">
+		<source>Step a little closer, you hideous freak.</source>
+		<target>Шагни ближе, уродливый выродок.</target>
+	</unit>
+	<unit bitflag="1360" id1="604537" id2="17" version="1065353216">
+		<source>Come and get it, ugly.</source>
+		<target>Подойди, урод.</target>
+	</unit>
+	<unit bitflag="1345" id1="604538" id2="17" version="1065353216">
+		<source>Heh....</source>
+		<target>Ха...</target>
+	</unit>
+	<unit bitflag="1345" id1="604540" id2="17" version="1065353216">
+		<source>Kill Jeehd-ay!</source>
+		<target>Убить джеэд-эя!</target>
+	</unit>
+	<unit bitflag="1345" id1="604542" id2="17" version="1065353216">
+		<source>Kill....</source>
+		<target>Убить...</target>
+	</unit>
+</dialogue_file>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/imperial_spy/chapter_1/a_new_epoch_of_fear/computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="644001" id2="17" version="1065353216">[The remainder of the Eradicator command codes is stored in this terminal. Inputting your half will grant full control over the devices.]</text>
+		<text bitflag="336" id1="644002" id2="17" version="1065353216">[Launch the attack for Jadus]</text>
+		<text bitflag="321" id1="644003" id2="17" version="1065353216">[The ship's computer has sent a targeting sequence to the Eradicators. Jadus's attack on the Empire has begun.]</text>
+		<text bitflag="336" id1="644004" id2="17" version="1065353216">[Disable the Eradicators]</text>
+		<text bitflag="321" id1="644005" id2="17" version="1065353216">[The Eradicators have been placed on standby, and their rampage has been halted. They will not fire unless they receive new commands.]</text>
+	</file_content>
+</stb_file>

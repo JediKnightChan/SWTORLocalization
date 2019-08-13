@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>163</strs>
+		<file_name>/resources/en-us/str/gui/ffhangar.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="766185" version="1065353216">Leave Queue</text>
+		<text bitflag="321" id1="257" id2="766185" version="1065353216">Solo Queue</text>
+		<text bitflag="321" id1="258" id2="766185" version="1065353216">Group Queue</text>
+		<text bitflag="321" id1="259" id2="766185" version="1065353216">Ships</text>
+		<text bitflag="321" id1="260" id2="766185" version="1065353216">Ship Information</text>
+		<text bitflag="321" id1="261" id2="766185" version="1065353216">Component Information</text>
+		<text bitflag="321" id1="262" id2="766185" version="1065353216">Ship Modification Information</text>
+		<text bitflag="321" id1="263" id2="766185" version="1065353216">Ship Role Information</text>
+		<text bitflag="321" id1="264" id2="766185" version="1065353216">Crew</text>
+		<text bitflag="321" id1="265" id2="766185" version="1065353216">Crew Member Information</text>
+		<text bitflag="321" id1="266" id2="766185" version="1065353216">Ship Preview Window</text>
+		<text bitflag="321" id1="267" id2="766185" version="1065353216">Ready For Battle</text>
+		<text bitflag="321" id1="268" id2="766185" version="1065353216">Back</text>
+		<text bitflag="321" id1="269" id2="766185" version="1065353216">Next</text>
+		<text bitflag="321" id1="270" id2="766185" version="1065353216">Create New Loadout</text>
+		<text bitflag="321" id1="271" id2="766185" version="1065353216">Galactic Starfighter</text>
+		<text bitflag="321" id1="272" id2="766185" version="1065353216">Ships</text>
+		<text bitflag="321" id1="273" id2="766185" version="1065353216">Components</text>
+		<text bitflag="321" id1="274" id2="766185" version="1065353216">Modifications</text>
+		<text bitflag="321" id1="275" id2="766185" version="1065353216">Crew</text>
+		<text bitflag="321" id1="276" id2="766185" version="1065353216">Launch</text>
+		<text bitflag="321" id1="277" id2="766185" version="1065353216">Battle Record</text>
+		<text bitflag="321" id1="278" id2="766185" version="1065353216">Account Status</text>
+		<text bitflag="321" id1="279" id2="766185" version="1065353216">Ship Requisition</text>
+		<text bitflag="321" id1="280" id2="766185" version="1065353216">Fleet Requisition</text>
+		<text bitflag="321" id1="281" id2="766185" version="1065353216">Error</text>
+		<text bitflag="321" id1="282" id2="766185" version="1065353216">Ship loadout is already ready for battle.</text>
+		<text bitflag="321" id1="283" id2="766185" version="1065353216">Ok</text>
+		<text bitflag="321" id1="284" id2="766185" version="1065353216">You cannot equip the same component twice. This component is already equipped in another slot.</text>
+		<text bitflag="321" id1="285" id2="766185" version="1065353216">UPGRADES</text>
+		<text bitflag="321" id1="286" id2="766185" version="1065353216">Click to unlock this tier of upgrades.</text>
+		<text bitflag="321" id1="287" id2="766185" version="1065353216">You must purchase previous tiers to unlock this tier.</text>
+		<text bitflag="321" id1="288" id2="766185" version="1065353216">(Drag up to ready ship loadout for battle)</text>
+		<text bitflag="321" id1="289" id2="766185" version="1065353216">(Drag off to remove ship loadout from ready list)</text>
+		<text bitflag="321" id1="290" id2="766185" version="1065353216">(Ship loadout is ready for battle)</text>
+		<text bitflag="321" id1="291" id2="766185" version="1065353216">At least one readied ship is required to be eligible for combat.</text>
+		<text bitflag="321" id1="301" id2="766185" version="1065353216">You must purchase this color option before you can equip it.</text>
+		<text bitflag="321" id1="302" id2="766185" version="1065353216">You must purchase this component before you can equip it.</text>
+		<text bitflag="321" id1="303" id2="766185" version="1065353216">You must purchase this ship before you can use it.</text>
+		<text bitflag="321" id1="304" id2="766185" version="1065353216">Crew Member Window</text>
+		<text bitflag="321" id1="312" id2="766185" version="1065353216">Major Components</text>
+		<text bitflag="321" id1="313" id2="766185" version="1065353216">Minor Components</text>
+		<text bitflag="321" id1="314" id2="766185" version="1065353216">Cosmetics</text>
+		<text bitflag="321" id1="315" id2="766185" version="1065353216">Cosmetics</text>
+		<text bitflag="321" id1="316" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; Coming Soon</text>
+		<text bitflag="321" id1="317" id2="766185" version="1065353216">Battle</text>
+		<text bitflag="321" id1="318" id2="766185" version="1065353216">Group Battle</text>
+		<text bitflag="321" id1="319" id2="766185" version="1065353216">Purchase upgrade</text>
+		<text bitflag="321" id1="320" id2="766185" version="1065353216">Purchase</text>
+		<text bitflag="321" id1="321" id2="766185" version="1065353216">Republic Scout Pattern 1</text>
+		<text bitflag="321" id1="322" id2="766185" version="1065353216">Republic Scout Pattern 2</text>
+		<text bitflag="321" id1="323" id2="766185" version="1065353216">Republic Scout Pattern 3</text>
+		<text bitflag="321" id1="324" id2="766185" version="1065353216">SELECTED PAINT JOB</text>
+		<text bitflag="321" id1="325" id2="766185" version="1065353216">You must purchase this pattern before you can equip it.</text>
+		<text bitflag="321" id1="326" id2="766185" version="1065353216">COSMETICS INFORMATION</text>
+		<text bitflag="321" id1="327" id2="766185" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="328" id2="766185" version="1065353216">INVERT COLORS</text>
+		<text bitflag="321" id1="329" id2="766185" version="1065353216">APPLY</text>
+		<text bitflag="321" id1="330" id2="766185" version="1065353216">PAINT JOB COLOR SELECTION</text>
+		<text bitflag="321" id1="331" id2="766185" version="1065353216">OPTIONS</text>
+		<text bitflag="321" id1="332" id2="766185" version="1065353216">Primary</text>
+		<text bitflag="321" id1="333" id2="766185" version="1065353216">Secondary</text>
+		<text bitflag="321" id1="334" id2="766185" version="1065353216">Color Select</text>
+		<text bitflag="321" id1="335" id2="766185" version="1065353216">Queued for battle</text>
+		<text bitflag="321" id1="336" id2="766185" version="1065353216">B</text>
+		<text bitflag="321" id1="337" id2="766185" version="1065353216">G</text>
+		<text bitflag="321" id1="338" id2="766185" version="1065353216">R</text>
+		<text bitflag="321" id1="339" id2="766185" version="1065353216">MAKE A SELECTION</text>
+		<text bitflag="321" id1="340" id2="766185" version="1065353216">This ship is not yet mastered, master the following slots by fully upgrading a component to master the ship.</text>
+		<text bitflag="321" id1="341" id2="766185" version="1065353216">This ship is already mastered and you will receive a 10% Ship and Fleet Requisition bonus while using it.</text>
+		<text bitflag="321" id1="342" id2="766185" version="1065353216">MASTERED -</text>
+		<text bitflag="321" id1="343" id2="766185" version="1065353216">NOT MASTERED -</text>
+		<text bitflag="321" id1="344" id2="766185" version="1065353216">Select your ship</text>
+		<text bitflag="321" id1="345" id2="766185" version="1065353216">CONVERT</text>
+		<text bitflag="321" id1="346" id2="766185" version="1065353216">CONVERT ALL</text>
+		<text bitflag="321" id1="347" id2="766185" version="1065353216">Total Available: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="348" id2="766185" version="1065353216">SHIPS</text>
+		<text bitflag="321" id1="349" id2="766185" version="1065353216">REQUISITION</text>
+		<text bitflag="321" id1="350" id2="766185" version="1065353216">Cartel Coin Cost &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="351" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; per degree</text>
+		<text bitflag="321" id1="352" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; degree&lt;&lt;1[/s]&gt;&gt;</text>
+		<text bitflag="321" id1="353" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; RPM</text>
+		<text bitflag="321" id1="354" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt;m</text>
+		<text bitflag="321" id1="355" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; per second</text>
+		<text bitflag="321" id1="356" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; meter&lt;&lt;1[/s]&gt;&gt;</text>
+		<text bitflag="321" id1="359" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; second&lt;&lt;1[/s]&gt;&gt;</text>
+		<text bitflag="321" id1="360" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; stats</text>
+		<text bitflag="321" id1="361" id2="766185" version="1065353216">Ship</text>
+		<text bitflag="321" id1="362" id2="766185" version="1065353216">Primary Weapon</text>
+		<text bitflag="321" id1="363" id2="766185" version="1065353216">Secondary Weapon</text>
+		<text bitflag="321" id1="364" id2="766185" version="1065353216">Drone</text>
+		<text bitflag="321" id1="365" id2="766185" version="1065353216">Active &lt;&lt;1[Ability/Abilities]&gt;&gt;</text>
+		<text bitflag="321" id1="366" id2="766185" version="1065353216">Upgrade Level &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="367" id2="766185" version="1065353216">Mastered</text>
+		<text bitflag="321" id1="368" id2="766185" version="1065353216">Equipped</text>
+		<text bitflag="321" id1="369" id2="766185" version="1065353216">You must purchase this component to apply upgrades.</text>
+		<text bitflag="321" id1="370" id2="766185" version="1065353216">Sensors</text>
+		<text bitflag="321" id1="371" id2="766185" version="1065353216">Engines</text>
+		<text bitflag="321" id1="372" id2="766185" version="1065353216">Hull</text>
+		<text bitflag="321" id1="373" id2="766185" version="1065353216">Shield</text>
+		<text bitflag="321" id1="374" id2="766185" version="1065353216">Blasters</text>
+		<text bitflag="321" id1="375" id2="766185" version="1065353216">Premium</text>
+		<text bitflag="321" id1="376" id2="766185" version="1065353216">Currently Owned</text>
+		<text bitflag="321" id1="377" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; power per second</text>
+		<text bitflag="321" id1="378" id2="766185" version="1065353216">Premium Ships are always considered Mastered and have a 10% bonus to their Requisition gain at all times.</text>
+		<text bitflag="321" id1="379" id2="766185" version="1065353216">Active (Copilot &lt;&lt;1[Ability/Abilities]&gt;&gt;)</text>
+		<text bitflag="321" id1="380" id2="766185" version="1065353216">Passive &lt;&lt;1[Ability/Abilities]&gt;&gt;</text>
+		<text bitflag="321" id1="389" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; Gas Canister (Blasters)</text>
+		<text bitflag="321" id1="390" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; Chemical Reactant (Engines)</text>
+		<text bitflag="321" id1="392" id2="766185" version="1065353216">Convert Ship Requisition to Fleet Requisition</text>
+		<text bitflag="321" id1="393" id2="766185" version="1065353216">Paint Job</text>
+		<text bitflag="321" id1="394" id2="766185" version="1065353216">Selecting this Paint Job changes your pattern for this ship. Select colors from the menu on the right once the Paint Job is applied.</text>
+		<text bitflag="321" id1="395" id2="766185" version="1065353216">Selecting this Gas Canister changes your blaster color for this weapon.</text>
+		<text bitflag="321" id1="396" id2="766185" version="1065353216">Selecting this Chemical Reactant changes your engine trail color for this engine.</text>
+		<text bitflag="321" id1="397" id2="766185" version="1065353216">Description</text>
+		<text bitflag="321" id1="398" id2="766185" version="1065353216">Stats</text>
+		<text bitflag="321" id1="410" id2="766185" version="1065353216">Galactic Starfighter Tutorial Level</text>
+		<text bitflag="321" id1="411" id2="766185" version="1065353216">Damage vs Shields</text>
+		<text bitflag="321" id1="412" id2="766185" version="1065353216">Damage vs Hull</text>
+		<text bitflag="321" id1="413" id2="766185" version="1065353216">Your group has queued for a Starfighter battle, but you are not currently allowed and have not been queued.</text>
+		<text bitflag="321" id1="414" id2="766185" version="1065353216">You group member, &lt;&lt;1&gt;&gt;, is not allowed to play Starfighter battles and has not been queued.</text>
+		<text bitflag="321" id1="416" id2="766185" version="1065353216">Purchase &lt;&lt;1&gt;&gt; for &amp;#0190;&lt;&lt;2&gt;&gt;?</text>
+		<text bitflag="321" id1="417" id2="766185" version="1065353216">Purchase &lt;&lt;1&gt;&gt; for &amp;#0188;&amp;nbsp;&lt;&lt;2&gt;&gt;?</text>
+		<text bitflag="321" id1="418" id2="766185" version="1065353216">&lt;font color='#E09EDE'&gt;This purchase will cost &lt;/font&gt;&lt;font color='#FFBB29'&gt;&amp;#162;&lt;/font&gt;&lt;font color='#E09EDE'&gt;&lt;&lt;1&gt;&gt;&lt;/font&gt;</text>
+		<text bitflag="321" id1="419" id2="766185" version="1065353216">&lt;font color='#FF0000'&gt;(This will use &lt;&lt;1&gt;&gt; Fleet Requisition)&lt;/font&gt;</text>
+		<text bitflag="321" id1="420" id2="766185" version="1065353216">You do not have enough Requisition to make this purchase.</text>
+		<text bitflag="321" id1="421" id2="766185" version="1065353216">You do not have enough Cartel Coins to make this purchase.</text>
+		<text bitflag="321" id1="422" id2="766185" version="1065353216">Damage</text>
+		<text bitflag="321" id1="423" id2="766185" version="1065353216">DPS</text>
+		<text bitflag="321" id1="424" id2="766185" version="1065353216">Click to add ship</text>
+		<text bitflag="321" id1="425" id2="766185" version="1065353216">Used to modify and upgrade any ship in your hangar, as well as unlock some ships and crew members. Fleet Requisition is very valuable.</text>
+		<text bitflag="321" id1="426" id2="766185" version="1065353216">Used to modify and upgrade the currently selected ship only. Convert Ship Requisition to Fleet Requisition to use it on other ships.</text>
+		<text bitflag="321" id1="427" id2="766185" version="1065353216">Your account status: &lt;&lt;1&gt;&gt;. Subscribers and Pass Holders receive a significant boost to all the Requisition they earn in battles.</text>
+		<text bitflag="321" id1="428" id2="766185" version="1065353216">Time remaining on pass: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="429" id2="766185" version="1065353216">Standard</text>
+		<text bitflag="321" id1="430" id2="766185" version="1065353216">Subscriber</text>
+		<text bitflag="321" id1="431" id2="766185" version="1065353216">Pass Holder</text>
+		<text bitflag="321" id1="432" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt; Day&lt;&lt;1[/s]&gt;&gt;</text>
+		<text bitflag="321" id1="433" id2="766185" version="1065353216">This ship is gaining Daily Bonus Requisition. Your Requisition is multiplied by &lt;&lt;1&gt;&gt;.&lt;br&gt;&lt;br&gt;&lt;&lt;2&gt;&gt; Bonus Requisition Remaining.&lt;br&gt;&lt;br&gt;This bonus is on top of any bonus you receive from your Account Status or Ship Bonuses.</text>
+		<text bitflag="321" id1="434" id2="766185" version="1065353216">You cannot modify your loadouts while queued for starfighter.</text>
+		<text bitflag="321" id1="435" id2="766185" version="1065353216">&lt;&lt;1&gt;&gt;m per second</text>
+		<text bitflag="321" id1="436" id2="766185" version="1065353216">You are about to spend Cartel Coins to convert Ship Requisition to Fleet Requisition. Are you sure?</text>
+		<text bitflag="321" id1="437" id2="766185" version="1065353216">You are about to spend Cartel Coins to make this purchase. Are you sure?</text>
+		<text bitflag="321" id1="438" id2="766185" version="1065353216">Battle Record</text>
+		<text bitflag="321" id1="439" id2="766185" version="1065353216">OVERALL</text>
+		<text bitflag="321" id1="440" id2="766185" version="1065353216">Ships</text>
+		<text bitflag="321" id1="443" id2="766185" version="1065353216">You are about to travel to the Galactic Starfighter Tutorial Level. Are you sure?</text>
+		<text bitflag="321" id1="445" id2="766185" version="1065353216">You do not have enough Requisition to make this purchase.</text>
+		<text bitflag="321" id1="446" id2="766185" version="1065353216">You do not have enough Fleet Requisition to make this purchase.</text>
+		<text bitflag="321" id1="447" id2="766185" version="1065353216">You do not have enough Cartel Coins to make this purchase.</text>
+		<text bitflag="321" id1="448" id2="766185" version="1065353216">You Pay:</text>
+		<text bitflag="321" id1="449" id2="766185" version="1065353216">, less &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="450" id2="766185" version="1065353216">Cartel Coins</text>
+		<text bitflag="321" id1="451" id2="766185" version="1065353216">You cannot purchase a ship while queued for starfighter.</text>
+		<text bitflag="321" id1="452" id2="766185" version="1065353216">You cannot select or purchase a crew member while queued for starfighter.</text>
+		<text bitflag="321" id1="453" id2="766185" version="1065353216">Purchase ship</text>
+		<text bitflag="321" id1="454" id2="766185" version="1065353216">Purchase component</text>
+		<text bitflag="321" id1="455" id2="766185" version="1065353216">Purchase component upgrade</text>
+		<text bitflag="321" id1="456" id2="766185" version="1065353216">Purchase color option</text>
+		<text bitflag="321" id1="457" id2="766185" version="1065353216">Purchase crew member</text>
+		<text bitflag="321" id1="458" id2="766185" version="1065353216">Purchase pattern</text>
+		<text bitflag="321" id1="459" id2="766185" version="1065353216">Purchase swatch</text>
+		<text bitflag="321" id1="460" id2="766185" version="1065353216">Are you the next hot-shot pilot in the galaxy? Experience intense 12 v12 free flight dogfighting in space. Choose your ship, loadout and crew and show the enemy what you are made of!
+
+Rewards: Requisition, Experience, Command Points, Credits and Unassembled Components.</text>
+	</file_content>
+</stb_file>

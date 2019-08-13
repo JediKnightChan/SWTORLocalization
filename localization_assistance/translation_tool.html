@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>STB Editor</title>
+    <style>
+        textarea {
+            background-color: transparent;
+        }
+    </style>
+    <script>
+        var strings = [];
+
+        function readFile(file) {
+            fileName = file.name;
+            document.body.style.backgroundColor = "lightskyblue";
+            var fr = new FileReader();
+            fr.onload = function(e) {
+                var dv = new DataView(e.target.result);
+                var fileSize = dv.byteLength;
+                var magic = dv.getUint32(0, true);
+                if ((magic & 0xFFFFFF) !== 1) return alert("Not a .stb file!");//01 00 00 XX
+
+                var numStrings = dv.getUint32(3, true);
+                var decoder = new TextDecoder('utf-8');
+                for (let i = 0; i < numStrings; i++) {
+                    let curString = Object.create(null);
+                    curString.id = dv.getUint32(7 + i * 26, true);
+                    curString.id2 = dv.getUint32(7 + i * 26 + 4, true);
+                    curString.bitflag = dv.getUint16(7 + i * 26 + 8, true);
+                    curString.version = dv.getFloat32(7 + i * 26 + 10, true);
+                    curString.len = dv.getUint32(7 + i * 26 + 14, true);
+                    curString.offset = dv.getUint32(7 + i * 26 + 18, true);
+                    curString.len2 = dv.getUint32(7 + i * 26 + 22, true);
+                    curString.text = decoder.decode(new DataView(dv.buffer, curString.offset, curString.len));
+                    strings[i] = curString;
+                }
+
+
+                document.body.style.backgroundColor = "white";
+                document.body.innerHTML = '';
+                var div = document.createElement("div");
+                var button = document.createElement("button");
+                button.innerHTML = 'Save changes';
+                button.onclick = save;
+                div.appendChild(button);
+                document.body.appendChild(div);
+
+                var table = document.createElement("table");
+                table.border = "border";
+                var tbody = document.createElement("tbody");
+                for (let i = 0; i < numStrings; i++) {
+                    let curString = strings[i];
+                    let tr = document.createElement("tr");
+                    tr.index = i;
+                    tr.innerHTML = '<td>' + curString.id + '</td><td><textarea cols=200>' + curString.text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;") + '</textarea></td>';
+
+                    if ((curString.bitflag & 0x10) === 0x10) {//is summary
+                        tr.style.backgroundColor = "#ffe0a8";
+                    }
+                    tbody.appendChild(tr);
+                }
+                table.appendChild(tbody);
+                document.body.appendChild(table);
+
+            };
+            fr.readAsArrayBuffer(file);
+        }
+        function save() {
+            var rows = document.getElementsByTagName("tbody")[0].childNodes;
+            var totalSize = 1000 + 1000 * rows.length;
+            var bv = new Uint8Array(totalSize);
+            bv[0] = 1;
+            bv[1] = 0;
+            bv[2] = 0;
+            var dv = new DataView(bv.buffer);
+
+            var numStrings = 0;
+            for (let i = 0; i < rows.length; i++) {
+                let newText = rows[i].getElementsByTagName("textarea")[0].value.trim();
+                if (newText !== '') {
+                    let curString = strings[i];
+                    curString.newIndex = numStrings;
+                    dv.setUint32(7 + numStrings * 26, curString.id, true);
+                    dv.setUint32(7 + numStrings * 26 + 4, curString.id2, true);
+                    dv.setUint16(7 + numStrings * 26 + 8, curString.bitflag, true);
+                    dv.setFloat32(7 + numStrings * 26 + 10, curString.version, true);
+                    dv.setUint32(7 + numStrings * 26 + 14, 0, true);
+                    dv.setUint32(7 + numStrings * 26 + 18, 0, true);
+                    dv.setUint32(7 + numStrings * 26 + 22, 0, true);
+                    numStrings++;
+                }
+            }
+
+            dv.setUint32(3, numStrings, true);
+            var textOffset = 7 + numStrings * 26;
+            var encoder = new TextEncoder();
+            for (let i = 0; i < rows.length; i++) {
+                let newText = rows[i].getElementsByTagName("textarea")[0].value.trim();
+                if (newText !== '') {
+                    let textArr = encoder.encode(newText);
+                    dv.setUint32(7 + strings[i].newIndex * 26 + 14, textArr.byteLength, true);
+                    dv.setUint32(7 + strings[i].newIndex * 26 + 18, textOffset, true);
+                    dv.setUint32(7 + strings[i].newIndex * 26 + 22, textArr.byteLength, true);
+                    for (let j = 0, jl = textArr.byteLength; j < jl; j++) {
+                        bv[textOffset + j] = textArr[j];
+                    }
+                    textOffset += textArr.byteLength;
+                }
+            }
+
+            var bv2 = new DataView(bv.buffer, 0, textOffset);
+            var url = window.URL.createObjectURL(new Blob([bv2], { type: 'application/octet-stream' }));
+            var a = document.createElement("a");
+            document.body.appendChild(a);
+            a.style.display = "none";
+            a.href = url;
+            a.download = fileName;
+            a.click();
+            window.URL.revokeObjectURL(url);
+            document.body.removeChild(a);
+        }
+    </script>
+</head>
+<body onbeforeunload="return myFunction()">
+
+<p>Drag &amp; drop or select a .stb file below.</p>
+<script>
+    var btn = document.createElement("input");
+    btn.type = "file";
+    btn.addEventListener("change", function() {
+        if (this.files.length < 1) return;
+        readFile(this.files[0]);
+    });
+    document.body.appendChild(btn);
+    function cancel(e) {
+        if (e.preventDefault) e.preventDefault();
+        document.body.style.backgroundColor = (e.type == "dragover" ? "yellow" : "white");
+        return false;
+    }
+    document.addEventListener("dragover", cancel);
+    document.addEventListener("dragleave", cancel);
+    document.addEventListener("drop", function(e) {
+        if (e.preventDefault) e.preventDefault();
+        var dt = e.dataTransfer;
+        if (dt.files.length < 1) return;
+        readFile(dt.files[0]);
+        return false;
+    });
+</script>
+
+<p><a href="https://www.yandex.com">Click here to call confirmation window</a></p>
+
+<script>
+    function myFunction() {
+        return "Write something clever here...";
+    }
+</script>
+
+</body>
+</html>

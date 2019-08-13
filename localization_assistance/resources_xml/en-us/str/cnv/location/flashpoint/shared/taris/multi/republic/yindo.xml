@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/taris/multi/republic/yindo.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="673457" id2="17" version="1065353216">The transport is prepped for departure. We can leave as soon as you are on board.</text>
+		<text bitflag="3393" id1="673460" id2="17" version="1065353216">As soon as you are ready to depart, my transport can take you to Kaon.</text>
+		<text bitflag="1360" id1="673461" id2="17" version="1065353216">Let's go. [Start Flashpoint]</text>
+		<text bitflag="3393" id1="673462" id2="17" version="1065353216">Board the transport while I plot a course. Let us hope for an uneventful trip.</text>
+		<text bitflag="1360" id1="673464" id2="17" version="1065353216">Forget it. [Refuse Mission]</text>
+		<text bitflag="3393" id1="673465" id2="17" version="1065353216">I will be here if you change your mind.</text>
+		<text bitflag="3393" id1="673471" id2="17" version="1065353216">All shuttles are landlocked on the orders of Chief Rannos. I hear he wants a word with you.</text>
+		<text bitflag="1360" id1="673472" id2="17" version="1065353216">Fine.</text>
+		<text bitflag="3393" id1="673473" id2="17" version="1065353216">Good, good. He will fill you in on everything.</text>
+		<text bitflag="1360" id1="673475" id2="17" version="1065353216">He can wait. [Refuse Mission]</text>
+		<text bitflag="3393" id1="673478" id2="17" version="1065353216">I need to finish the maintenance inspection on my ship.</text>
+		<text bitflag="336" id1="1015142" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="336" id1="1015145" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="1015146" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="1015147" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1220162" id2="17" version="1065353216">[Start Veteran Mode]</text>
+	</file_content>
+</stb_file>

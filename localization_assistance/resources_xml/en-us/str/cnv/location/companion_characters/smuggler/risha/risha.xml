@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>904</strs>
+		<file_name>/resources/en-us/str/cnv/location/companion_characters/smuggler/risha/risha.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="64961" id2="17" version="1065353216">Whatever you want.</text>
+		<text bitflag="1345" id1="504840" id2="17" version="1065353216">What? I thought you had a plan.</text>
+		<text bitflag="1345" id1="504841" id2="17" version="1065353216">Don't tell me: you forgot where we're going? Come on, let's go.</text>
+		<text bitflag="1345" id1="530604" id2="17" version="1065353216">Thanks for letting me stay on with your crew, Captain. I plan to be a very generous Queen to all my friends.</text>
+		<text bitflag="1345" id1="530605" id2="17" version="1065353216">I can see we're gonna get along just fine, Your High Exaltedness.</text>
+		<text bitflag="1360" id1="530605" id2="17" version="1065353216">Glad to hear it, Empress.</text>
+		<text bitflag="1345" id1="530606" id2="17" version="1065353216">Don't start with that. Risha will do fine. For now.</text>
+		<text bitflag="1345" id1="530608" id2="17" version="1065353216">Let's hope your planet is more valuable than your father's &quot;lost riches&quot;. That was barely enough to keep me flying.</text>
+		<text bitflag="1360" id1="530608" id2="17" version="1065353216">I'm counting on that.</text>
+		<text bitflag="1345" id1="530609" id2="17" version="1065353216">You already spent everything? Remind me to keep you away from my royal treasury....</text>
+		<text bitflag="1345" id1="530611" id2="17" version="1065353216">You could be generous right now. Move into my quarters. They're cozy.</text>
+		<text bitflag="1360" id1="530611" id2="17" version="1065353216">[Flirt] How generous?</text>
+		<text bitflag="1345" id1="530612" id2="17" version="1065353216">A man who describes his quarters as &quot;cozy&quot; really means he leaves dirty clothes on the floor.</text>
+		<text bitflag="1345" id1="530614" id2="17" version="1065353216">That should cost you almost nothing. What about the rest of us?</text>
+		<text bitflag="1360" id1="530614" id2="17" version="1065353216">You don't have friends.</text>
+		<text bitflag="1345" id1="530615" id2="17" version="1065353216">I'm sure I'll think of something.</text>
+		<text bitflag="1345" id1="530617" id2="17" version="1065353216">Every captain needs a good first mate. Corso doesn't know what it takes to run a starship, but I do.</text>
+		<text bitflag="1345" id1="530619" id2="17" version="1065353216">Considering the light years you've been racking up, I suggest a hyperdrive overhaul and a sublight engine tune-up. Which do you want first?</text>
+		<text bitflag="1345" id1="530620" id2="17" version="1065353216">The last thing we need is to get stranded in deep space. Keep my hyperdrive... hyper.</text>
+		<text bitflag="1360" id1="530620" id2="17" version="1065353216">Work on the hyperdrive.</text>
+		<text bitflag="1345" id1="530621" id2="17" version="1065353216">We're always in a hurry. See if you can squeeze some extra thrust from the engines.</text>
+		<text bitflag="1360" id1="530621" id2="17" version="1065353216">Focus on the engines.</text>
+		<text bitflag="1345" id1="530622" id2="17" version="1065353216">Consider it done. I'll be indispensable before you know it.</text>
+		<text bitflag="1345" id1="530623" id2="17" version="1065353216">I didn't hire you to make ship repairs. I just need someone to clean the refresher.</text>
+		<text bitflag="1360" id1="530623" id2="17" version="1065353216">You're my janitor.</text>
+		<text bitflag="1345" id1="530624" id2="17" version="1065353216">So we're clear, I charge extra to clean up after a Wookiee. I love Bowdaar, but he sheds. A lot.</text>
+		<text bitflag="1345" id1="530628" id2="17" version="1065353216">I've been thinking about the future a lot lately, and I had a funny realization. Every scenario I see, you're in it.</text>
+		<text bitflag="1345" id1="530630" id2="17" version="1065353216">I guess that's only right, all things considered. But still--never thought I'd get this close to anyone.</text>
+		<text bitflag="1345" id1="530631" id2="17" version="1065353216">That kind of talk makes me want to turn out the lights and put up a &quot;do not disturb&quot; sign.</text>
+		<text bitflag="1360" id1="530631" id2="17" version="1065353216">[Flirt] Get closer.</text>
+		<text bitflag="1345" id1="530632" id2="17" version="1065353216">It's funny you should mention that. I've been considering a related topic.</text>
+		<text bitflag="1345" id1="530634" id2="17" version="1065353216">We've traveled a long way. If you had to do it again, would you change anything?</text>
+		<text bitflag="1360" id1="530634" id2="17" version="1065353216">Do you have any regrets?</text>
+		<text bitflag="1345" id1="530635" id2="17" version="1065353216">The harder the flight, the sweeter the landing. And we're still flying.</text>
+		<text bitflag="1345" id1="530637" id2="17" version="1065353216">When I first met you, I hated your guts. You were bossy, manipulative--squatting on my ship. What a nightmare.</text>
+		<text bitflag="1360" id1="530637" id2="17" version="1065353216">You used to repulse me.</text>
+		<text bitflag="1345" id1="530638" id2="17" version="1065353216">You weren't any better. Rude, sarcastic, greedy, lecherous--you're lucky that's what I look for in a man.</text>
+		<text bitflag="1345" id1="530640" id2="17" version="1065353216">When we take over Dubrillion, we'll need to start thinking about producing an heir.</text>
+		<text bitflag="1345" id1="530642" id2="17" version="1065353216">I know we can't have children the traditional way, but I've heard about a planet called Kamino. Rumor has it the natives specialize in genetic engineering.</text>
+		<text bitflag="1345" id1="530643" id2="17" version="1065353216">Maybe we can make little copies of us? What about a hybrid?</text>
+		<text bitflag="1360" id1="530643" id2="17" version="1065353216">I can see the possibilities.</text>
+		<text bitflag="1345" id1="530644" id2="17" version="1065353216">Let's not get fancy. Besides, combining our good looks would be unfair to the rest of the galaxy.</text>
+		<text bitflag="1345" id1="530646" id2="17" version="1065353216">I say we find some nice orphans. Raise them as our own.</text>
+		<text bitflag="1360" id1="530646" id2="17" version="1065353216">Let's adopt children.</text>
+		<text bitflag="1345" id1="530647" id2="17" version="1065353216">Orphans? More than one? Somebody likes the idea of being a father.</text>
+		<text bitflag="1345" id1="530649" id2="17" version="1065353216">I've always thought the galaxy needed more of me. You too, for that matter.</text>
+		<text bitflag="1360" id1="530649" id2="17" version="1065353216">Sounds good to me.</text>
+		<text bitflag="1345" id1="530650" id2="17" version="1065353216">Maybe more than one heir. That's how dynasties stay healthy, after all.</text>
+		<text bitflag="1345" id1="530651" id2="17" version="1065353216">What do you say we blow up that bridge when we get to it? And no rush, either.</text>
+		<text bitflag="1360" id1="530651" id2="17" version="1065353216">We'll never have fun again.</text>
+		<text bitflag="1345" id1="530652" id2="17" version="1065353216">What are you so worried about? I'll be doing the hard part.</text>
+		<text bitflag="1345" id1="530654" id2="17" version="1065353216">The more, the merrier. I'll put the little scoundrels to work building me a new ship.</text>
+		<text bitflag="1360" id1="530654" id2="17" version="1065353216">Sounds good to me.</text>
+		<text bitflag="1345" id1="530655" id2="17" version="1065353216">Great idea. Father taught me all about starships when I was growing up, and I turned out great.</text>
+		<text bitflag="1345" id1="530657" id2="17" version="1065353216">Where in the world did you get the idea I'd be a responsible parent?</text>
+		<text bitflag="1360" id1="530657" id2="17" version="1065353216">Me? A father? That's crazy.</text>
+		<text bitflag="1345" id1="530658" id2="17" version="1065353216">I didn't say you were going to raise them. I'm not stupid.</text>
+		<text bitflag="1345" id1="530660" id2="17" version="1065353216">Just think... someone with my intelligence and your reflexes? There's nothing that child couldn't accomplish. We owe it to Dubrillion.</text>
+		<text bitflag="1345" id1="530662" id2="17" version="1065353216">Whatever happens, I promise any child of ours will have the best of everything.</text>
+		<text bitflag="1345" id1="530663" id2="17" version="1065353216">I've never let myself get close to anyone, not even my friends from the old days.</text>
+		<text bitflag="1345" id1="530665" id2="17" version="1065353216">Count Rineld may be my husband, but you're my family.</text>
+		<text bitflag="1345" id1="530666" id2="17" version="1065353216">But you're more than a friend. You're the closest thing I have to family.</text>
+		<text bitflag="1345" id1="530667" id2="17" version="1065353216">If I'm family, does that make me part of your noble bloodline? Will I get my own portrait displayed in the Dubrillion royal palace?</text>
+		<text bitflag="1360" id1="530667" id2="17" version="1065353216">So am I royalty, too?</text>
+		<text bitflag="1345" id1="530668" id2="17" version="1065353216">Of course. It'll be very tasteful. We'll hang it in the dungeon.</text>
+		<text bitflag="1345" id1="530670" id2="17" version="1065353216">Does that make me part of your noble bloodline? Will I have to learn that crazy Dubrillion accent?</text>
+		<text bitflag="1360" id1="530670" id2="17" version="1065353216">So am I royalty, too?</text>
+		<text bitflag="1345" id1="530671" id2="17" version="1065353216">Don't worry about it. My first edict as queen will be to teach everyone on the planet how to speak proper Basic.</text>
+		<text bitflag="1345" id1="530673" id2="17" version="1065353216">Right back at you, Risha.</text>
+		<text bitflag="1360" id1="530673" id2="17" version="1065353216">I feel the same way.</text>
+		<text bitflag="1345" id1="530674" id2="17" version="1065353216">In that case, I'm a little short on credits right now. Would you mind floating me a few thousand? Just until payday.</text>
+		<text bitflag="1360" id1="530674" id2="17" version="1065353216">Can I borrow some money?</text>
+		<text bitflag="1345" id1="530675" id2="17" version="1065353216">Did I say family? I meant moderately-valued business partner.</text>
+		<text bitflag="1345" id1="530677" id2="17" version="1065353216">I don't know what the future holds for us, but I promise to always be there. Not just for you, but everyone you care about.</text>
+		<text bitflag="1345" id1="530679" id2="17" version="1065353216">That's as mushy as I'm getting. Back to finding trouble!</text>
+		<text bitflag="1345" id1="530688" id2="17" version="1065353216">Didn't think you could still surprise me, but proposing in front on Count Rineld? That was a whammy.</text>
+		<text bitflag="1345" id1="530690" id2="17" version="1065353216">I wasn't sure if you were serious then. But I am now--and my answer's yes.</text>
+		<text bitflag="1345" id1="530692" id2="17" version="1065353216">Whatever happens--however long it takes--when I'm finally queen of Dubrillion, you'll be my king.</text>
+		<text bitflag="1345" id1="530693" id2="17" version="1065353216">I've been thinking... when I'm finally the queen of Dubrillion, I'm going to need a king.</text>
+		<text bitflag="1345" id1="530695" id2="17" version="1065353216">Someone who'll look good next to me on the palace balcony, waving to the people.</text>
+		<text bitflag="1345" id1="530697" id2="17" version="1065353216">I'm not sure I agree with Count Rineld that I need to marry a Dubrillion nobleman. What do you think?</text>
+		<text bitflag="1345" id1="530698" id2="17" version="1065353216">It's about blasted time you came around. Do you have any idea how many beautiful women I turned away to have you?</text>
+		<text bitflag="1360" id1="530698" id2="17" version="1065353216">I think I'm your king.</text>
+		<text bitflag="1345" id1="530699" id2="17" version="1065353216">Call me vain, but I hope it was thousands.</text>
+		<text bitflag="1345" id1="530701" id2="17" version="1065353216">You think the people of your world are ready for a non-human king?</text>
+		<text bitflag="1360" id1="530701" id2="17" version="1065353216">Do your people like aliens?</text>
+		<text bitflag="1345" id1="530702" id2="17" version="1065353216">We've had non-human royalty before. They were all assassinated... but I'll hire you better guards.</text>
+		<text bitflag="1345" id1="530704" id2="17" version="1065353216">You think the people of your world are ready for a guy like me?</text>
+		<text bitflag="1360" id1="530704" id2="17" version="1065353216">Will the people accept me?</text>
+		<text bitflag="1345" id1="530705" id2="17" version="1065353216">No one's ready for you. That's what makes you perfect.</text>
+		<text bitflag="1345" id1="530707" id2="17" version="1065353216">We'll have a royal wedding someday, but let's do something personal right now. I, Risha Drayen, take you as my future king.</text>
+		<text bitflag="1345" id1="530709" id2="17" version="1065353216">I promise to be faithful and always apologize when I get snippy with you, except when you're wrong.</text>
+		<text bitflag="1345" id1="530710" id2="17" version="1065353216">I'm not always right, sweetheart, but when have I ever been wrong?</text>
+		<text bitflag="1360" id1="530710" id2="17" version="1065353216">Which is never.</text>
+		<text bitflag="1345" id1="530711" id2="17" version="1065353216">Don't ruin this moment by forcing me to be honest.</text>
+		<text bitflag="1345" id1="530713" id2="17" version="1065353216">As queen, I promise to keep you in the lifestyle to which you've become accustomed, plus ten to twenty percent depending on good behavior.</text>
+		<text bitflag="1345" id1="530714" id2="17" version="1065353216">I'm a little fuzzy on this concept of &quot;good.&quot; Can you provide some examples?</text>
+		<text bitflag="1360" id1="530714" id2="17" version="1065353216">I need some clarification.</text>
+		<text bitflag="1345" id1="530715" id2="17" version="1065353216">Just remember I'm in charge and everything will be fine.</text>
+		<text bitflag="1345" id1="530716" id2="17" version="1065353216">I promise to always let you believe you're the boss. Are we married yet?</text>
+		<text bitflag="1360" id1="530716" id2="17" version="1065353216">Whatever works for you.</text>
+		<text bitflag="1345" id1="530717" id2="17" version="1065353216">Whatever you say, sweetheart. Need me to fetch your crown for you?</text>
+		<text bitflag="1360" id1="530717" id2="17" version="1065353216">It's a deal.</text>
+		<text bitflag="1345" id1="530718" id2="17" version="1065353216">We're equal partners. You wouldn't last ten seconds without me.</text>
+		<text bitflag="1360" id1="530718" id2="17" version="1065353216">Don't be ridiculous.</text>
+		<text bitflag="1345" id1="530719" id2="17" version="1065353216">Alright, alright--shut up and come here.</text>
+		<text bitflag="1345" id1="530720" id2="17" version="1065353216">I accept all your terms. Can we be married, already?</text>
+		<text bitflag="1360" id1="530720" id2="17" version="1065353216">Fine, fine--just say &quot;I do.&quot;</text>
+		<text bitflag="1345" id1="530721" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="1345" id1="530722" id2="17" version="1065353216">You know better than to underbid me. Make it thirty to sixty percent, and you've got a deal.</text>
+		<text bitflag="1360" id1="530722" id2="17" version="1065353216">Thirty percent is my minimum.</text>
+		<text bitflag="1345" id1="530723" id2="17" version="1065353216">Done--but for that kind of money, I expect seriously good behavior.</text>
+		<text bitflag="1345" id1="530724" id2="17" version="1065353216">What you said, plus this: I'll never skim more than ten percent off the royal treasury.</text>
+		<text bitflag="1360" id1="530724" id2="17" version="1065353216">I promise things, too.</text>
+		<text bitflag="1345" id1="530725" id2="17" version="1065353216">Only ten percent? You really do love me.</text>
+		<text bitflag="1345" id1="530726" id2="17" version="1065353216">We don't need vows. I'm crazy for you, you're crazy for me. Let's be crazy together.</text>
+		<text bitflag="1360" id1="530726" id2="17" version="1065353216">Let's skip the formalities.</text>
+		<text bitflag="1345" id1="530727" id2="17" version="1065353216">That works, too. Come here....</text>
+		<text bitflag="1345" id1="530731" id2="17" version="1065353216">What do you say we make this even more official?</text>
+		<text bitflag="1345" id1="530733" id2="17" version="1065353216">So... how does it feel to be married?</text>
+		<text bitflag="1345" id1="530734" id2="17" version="1065353216">I think you've been holding back on me until now.</text>
+		<text bitflag="1360" id1="530734" id2="17" version="1065353216">Better than I expected.</text>
+		<text bitflag="1345" id1="530735" id2="17" version="1065353216">You might be right.</text>
+		<text bitflag="1345" id1="530737" id2="17" version="1065353216">Come to my quarters this time. I've made some... modifications for you.</text>
+		<text bitflag="1360" id1="530737" id2="17" version="1065353216">[Flirt] Let me show you.</text>
+		<text bitflag="1345" id1="530738" id2="17" version="1065353216">How can I resist that offer?</text>
+		<text bitflag="1345" id1="530740" id2="17" version="1065353216">You never told me you were an engineering genius. I'm staying in the captain's quarters, from now on.</text>
+		<text bitflag="1345" id1="530742" id2="17" version="1065353216">What we did won't hold up in a court of law. Don't start thinking you're co-captain of this ship.</text>
+		<text bitflag="1360" id1="530742" id2="17" version="1065353216">We're not really married.</text>
+		<text bitflag="1345" id1="530743" id2="17" version="1065353216">Congratulations, you just set a record for shortest honeymoon ever.</text>
+		<text bitflag="1345" id1="530745" id2="17" version="1065353216">It occurs to me that with the Voidwolf dead, we've run out of trouble. Let's go make more.</text>
+		<text bitflag="1345" id1="530746" id2="17" version="1065353216">Just because we're married doesn't mean we can settle down. We've still got lots of people trying to kill us.</text>
+		<text bitflag="1345" id1="530747" id2="17" version="1065353216">Risha, I'm not the settling down type. Can you really see me sitting around with a crown on my head?</text>
+		<text bitflag="1360" id1="530747" id2="17" version="1065353216">I don't want to marry you.</text>
+		<text bitflag="1345" id1="530748" id2="17" version="1065353216">For about five minutes. Then you'd steal the royal treasury and flee.</text>
+		<text bitflag="1345" id1="530750" id2="17" version="1065353216">You're right. This'll never work. Where does that leave us?</text>
+		<text bitflag="1345" id1="530751" id2="17" version="1065353216">Who says the queen has to be married? To the void with tradition. Let's make our own rules.</text>
+		<text bitflag="1360" id1="530751" id2="17" version="1065353216">We're special friends.</text>
+		<text bitflag="1345" id1="530752" id2="17" version="1065353216">The best of both worlds, huh? It's worth a try.</text>
+		<text bitflag="1345" id1="530754" id2="17" version="1065353216">Put me in charge of your defense fleet. I'll protect your planet and beat up pirates. That's a good living.</text>
+		<text bitflag="1360" id1="530754" id2="17" version="1065353216">Make me an admiral.</text>
+		<text bitflag="1345" id1="530756" id2="17" version="1065353216">Even better, you don't have to share power. Just keep a warm place for me whenever I'm on shore leave.</text>
+		<text bitflag="1345" id1="530757" id2="17" version="1065353216">I thought I had a talent for negotiation. Sold... Admiral.</text>
+		<text bitflag="1345" id1="530759" id2="17" version="1065353216">We won't get married. We'll just be... extremely close acquaintances.</text>
+		<text bitflag="1345" id1="530760" id2="17" version="1065353216">Why don't you give up this queen nonsense and stay with me?</text>
+		<text bitflag="1360" id1="530760" id2="17" version="1065353216">Forget about Dubrillion.</text>
+		<text bitflag="1345" id1="530761" id2="17" version="1065353216">And be what, your first mate? I need a future of my own.</text>
+		<text bitflag="1345" id1="530763" id2="17" version="1065353216">If you're not ready to settle down I won't force you--but someday I'll have to leave this ship and become queen of Dubrillion.</text>
+		<text bitflag="1345" id1="530765" id2="17" version="1065353216">When that day comes, I hope you're ready to come with me.</text>
+		<text bitflag="1345" id1="530766" id2="17" version="1065353216">I've been getting reports on the war for Dubrillion. It's dragging into a stalemate. Nobody has a clear advantage yet.</text>
+		<text bitflag="1345" id1="530768" id2="17" version="1065353216">I want to get more involved in the war effort, but my allies tell me the best thing I can be is a symbol.</text>
+		<text bitflag="1345" id1="530769" id2="17" version="1065353216">Don't listen to those people. If you want to fight for your planet, just do it.</text>
+		<text bitflag="1360" id1="530769" id2="17" version="1065353216">Control your own destiny.</text>
+		<text bitflag="1345" id1="530770" id2="17" version="1065353216">Problem is, they're right. I'm a hundred times more effective as a rallying point for people who oppose the king.</text>
+		<text bitflag="1345" id1="530772" id2="17" version="1065353216">What are you supposed to represent?</text>
+		<text bitflag="1360" id1="530772" id2="17" version="1065353216">A symbol of what?</text>
+		<text bitflag="1345" id1="530773" id2="17" version="1065353216">I don't know... some nonsense about new hope.</text>
+		<text bitflag="1345" id1="530775" id2="17" version="1065353216">Stay out of the war until it's over. Then you can swoop in and claim credit for the big victory.</text>
+		<text bitflag="1360" id1="530775" id2="17" version="1065353216">Keep a low profile, for now.</text>
+		<text bitflag="1345" id1="530776" id2="17" version="1065353216">Are you auditioning to be my political advisor? 'Cause you're doing a great job.</text>
+		<text bitflag="1345" id1="530778" id2="17" version="1065353216">The minute I open my mouth and start talking politics, I risk losing support. I can't afford that right now.</text>
+		<text bitflag="1345" id1="530780" id2="17" version="1065353216">Guess I'm stuck on the sidelines until it's over. At least I have company.</text>
+		<text bitflag="1345" id1="530786" id2="17" version="1065353216">Things on Dubrillion have taken a turn. The king put a death mark on Count Rineld's head. When the citizens heard that, they rebelled.</text>
+		<text bitflag="1345" id1="530788" id2="17" version="1065353216">The king imposed martial law to stop the rioting, but that got the aristocracy riled up. The whole planet's going to war.</text>
+		<text bitflag="1345" id1="530789" id2="17" version="1065353216">Sounds like the count's plan to avoid bloodshed by marrying you just went up in flames.</text>
+		<text bitflag="1360" id1="530789" id2="17" version="1065353216">This changes everything.</text>
+		<text bitflag="1345" id1="530790" id2="17" version="1065353216">We were never going to unseat the king without a fight. I just hoped we'd pick the time and place.</text>
+		<text bitflag="1345" id1="530792" id2="17" version="1065353216">Where do the other nobles stand? Are they with the count, or the king?</text>
+		<text bitflag="1360" id1="530792" id2="17" version="1065353216">What do the aristocrats want?</text>
+		<text bitflag="1345" id1="530793" id2="17" version="1065353216">Some support Count Rineld. Others remain loyal to the king. They're all looking to benefit from the fight.</text>
+		<text bitflag="1345" id1="530795" id2="17" version="1065353216">It's a lot easier to steal a throne when everyone's busy fighting.</text>
+		<text bitflag="1360" id1="530795" id2="17" version="1065353216">Good. It makes our job easier.</text>
+		<text bitflag="1345" id1="530796" id2="17" version="1065353216">Yes, that's worked out so well for Alderaan.</text>
+		<text bitflag="1345" id1="530798" id2="17" version="1065353216">Needless to say, the count has his hands full just staying alive. But even with all that's happened, he still wants to marry me.</text>
+		<text bitflag="1345" id1="530800" id2="17" version="1065353216">I can't keep putting him off. Any advice how I should play this?</text>
+		<text bitflag="1345" id1="530801" id2="17" version="1065353216">A death mark puts a lot of pressure on a person. If you're going to let him down, be gentle.</text>
+		<text bitflag="1360" id1="530801" id2="17" version="1065353216">Be careful.</text>
+		<text bitflag="1345" id1="530802" id2="17" version="1065353216">What do you mean &quot;if?&quot; I'm with you now, remember?</text>
+		<text bitflag="1345" id1="530804" id2="17" version="1065353216">There's no good way to shoot a man down--especially one who's running for his life.</text>
+		<text bitflag="1345" id1="530806" id2="17" version="1065353216">You can't marry the count. You're spending the rest of your life with me.</text>
+		<text bitflag="1360" id1="530806" id2="17" version="1065353216">[Flirt] Marry me, Risha.</text>
+		<text bitflag="1345" id1="530807" id2="17" version="1065353216">What? I asked you for advice, not... do you really mean that?</text>
+		<text bitflag="1345" id1="530809" id2="17" version="1065353216">Forget about the politics for a second. Do you love this guy or not?</text>
+		<text bitflag="1360" id1="530809" id2="17" version="1065353216">Do you want to marry him?</text>
+		<text bitflag="1345" id1="530810" id2="17" version="1065353216">I barely know him. This isn't about love. I need to figure out what's best for my long-term plans.</text>
+		<text bitflag="1345" id1="530812" id2="17" version="1065353216">Is there a dowry if I give you away to him? Not that it would affect my recommendation....</text>
+		<text bitflag="1360" id1="530812" id2="17" version="1065353216">Can I profit from this?</text>
+		<text bitflag="1345" id1="530813" id2="17" version="1065353216">Why am I not surprised the word &quot;dowry&quot; exists in your vocabulary?</text>
+		<text bitflag="1345" id1="530815" id2="17" version="1065353216">Oh, perfect--time's up. That's him calling on the holo. Alright, let's do this.</text>
+		<text bitflag="1345" id1="530817" id2="17" version="1065353216">Merritt, I'm glad you're safe. From what I hear, the fighting got worse after you escaped.</text>
+		<text bitflag="1345" id1="530819" id2="17" version="1065353216">I cannot spare Dubrillion from war, but perhaps we can still create a better future together.</text>
+		<text bitflag="1345" id1="530821" id2="17" version="1065353216">I realize forging a true relationship takes time, and our marriage won't be consummated for some time. But I am hopeful.</text>
+		<text bitflag="1345" id1="530823" id2="17" version="1065353216">My proposal stands, dear Risha. Will you marry me?</text>
+		<text bitflag="1345" id1="530824" id2="17" version="1065353216">This man could be dead tomorrow. Even if he lives, who knows what the politics of Dubrillion will be like when the war ends?</text>
+		<text bitflag="1360" id1="530824" id2="17" version="1065353216">You don't need him.</text>
+		<text bitflag="1345" id1="530826" id2="17" version="1065353216">The best thing you can do is stay independent. It's always worked for me.</text>
+		<text bitflag="1345" id1="530827" id2="17" version="1065353216">I'm sorry, Merritt. I can't marry you. The war doesn't change that.</text>
+		<text bitflag="1345" id1="530829" id2="17" version="1065353216">C'mon, this is a no-brainer. Sure he's rich, handsome and popular. But I'm... me.</text>
+		<text bitflag="1360" id1="530829" id2="17" version="1065353216">[Flirt] Stay with me.</text>
+		<text bitflag="1345" id1="530830" id2="17" version="1065353216">I'm sorry Merritt, but I can't argue with logic like that. He's had my heart longer than you.</text>
+		<text bitflag="1345" id1="530832" id2="17" version="1065353216">I'm sorry Merritt, but we'd never work out. What can I say? The captain's my man.</text>
+		<text bitflag="1345" id1="530834" id2="17" version="1065353216">I'm sorry, Merritt, but he has a point. As scum of the galaxy goes, he's unique.</text>
+		<text bitflag="1345" id1="530836" id2="17" version="1065353216">Count, could you excuse us for a minute?</text>
+		<text bitflag="1360" id1="530836" id2="17" version="1065353216">String him along for a while.</text>
+		<text bitflag="1345" id1="530838" id2="17" version="1065353216">The way I see it, this guy hasn't given you nearly enough gifts to tie you down forever.</text>
+		<text bitflag="1345" id1="530840" id2="17" version="1065353216">I say you lead him on for a while and see just how serious he is about you.</text>
+		<text bitflag="1345" id1="530841" id2="17" version="1065353216">I wasn't going to marry him anyway. I don't want to spend my honeymoon running for my life.</text>
+		<text bitflag="1345" id1="530843" id2="17" version="1065353216">Merritt, I feel like we're rushing into things. We should take our time--for the good of Dubrillion.</text>
+		<text bitflag="1345" id1="530845" id2="17" version="1065353216">You're absolutely right. Let us part as friends.</text>
+		<text bitflag="1345" id1="530847" id2="17" version="1065353216">Say yes. Hurry, before you lose your nerve.</text>
+		<text bitflag="1360" id1="530847" id2="17" version="1065353216">Go ahead and marry him.</text>
+		<text bitflag="1345" id1="530850" id2="17" version="1065353216">What about us? I thought you wanted to marry me.</text>
+		<text bitflag="1345" id1="530851" id2="17" version="1065353216">What about us? You're ready to throw all that away?</text>
+		<text bitflag="1345" id1="530852" id2="17" version="1065353216">What about us? Are we over, just like that?</text>
+		<text bitflag="1345" id1="530853" id2="17" version="1065353216">Sooner or later, we'd drive each other crazy. At least this way, we end as friends.</text>
+		<text bitflag="1360" id1="530853" id2="17" version="1065353216">Splitting up now is better.</text>
+		<text bitflag="1345" id1="530854" id2="17" version="1065353216">You are an honorable man. Risha?</text>
+		<text bitflag="1345" id1="530856" id2="17" version="1065353216">You and the count are your world's best hope for peace. I won't stand in your way.</text>
+		<text bitflag="1360" id1="530856" id2="17" version="1065353216">Dubrillion matters more.</text>
+		<text bitflag="1345" id1="530857" id2="17" version="1065353216">A grand and noble gesture. I thank you. Risha?</text>
+		<text bitflag="1345" id1="530859" id2="17" version="1065353216">That was a test to see if you'd do it. Of course I don't want you marrying the count! You're with me!</text>
+		<text bitflag="1360" id1="530859" id2="17" version="1065353216">[Flirt] Don't marry him.</text>
+		<text bitflag="1345" id1="530860" id2="17" version="1065353216">Sorry Merritt, but he's right. I've been with him for longer than I care to admit.</text>
+		<text bitflag="1345" id1="530862" id2="17" version="1065353216">I hope we can still be friends. I'll need you to rebuild our world when the war ends.</text>
+		<text bitflag="1345" id1="530864" id2="17" version="1065353216">Of course. I look forward to the day you grant me amnesty so I may return to Dubrillion.</text>
+		<text bitflag="1345" id1="530866" id2="17" version="1065353216">Farewell, Risha. May the stars watch over you....</text>
+		<text bitflag="1345" id1="530868" id2="17" version="1065353216">That ended better than I expected--except for that whole part with my world being at war.</text>
+		<text bitflag="1345" id1="530869" id2="17" version="1065353216">You'll be Queen of Dubrillion someday.</text>
+		<text bitflag="1360" id1="530869" id2="17" version="1065353216">Chin up, Risha.</text>
+		<text bitflag="1345" id1="530870" id2="17" version="1065353216">I'll have my throne even if I have to build it myself.</text>
+		<text bitflag="1345" id1="530872" id2="17" version="1065353216">You said no to the count's proposal, but I seem to recall you had a second offer on the table.</text>
+		<text bitflag="1360" id1="530872" id2="17" version="1065353216">[Flirt] So... about us.</text>
+		<text bitflag="1345" id1="530873" id2="17" version="1065353216">It's under consideration. I promise not to keep you waiting for long.</text>
+		<text bitflag="1345" id1="530875" id2="17" version="1065353216">You're not having any regrets about turning down the count, are you?</text>
+		<text bitflag="1360" id1="530875" id2="17" version="1065353216">Are you sure you're alright?</text>
+		<text bitflag="1345" id1="530876" id2="17" version="1065353216">I've never regretted anything about my life. No reason to start now.</text>
+		<text bitflag="1345" id1="530878" id2="17" version="1065353216">Sometimes people have to fight. My advice is, don't get caught in the middle.</text>
+		<text bitflag="1360" id1="530878" id2="17" version="1065353216">That's Dubrillion's problem.</text>
+		<text bitflag="1345" id1="530879" id2="17" version="1065353216">Isn't that exactly what you've spent your entire career doing?</text>
+		<text bitflag="1345" id1="530881" id2="17" version="1065353216">That's enough politics and relationship issues for one day. Let's go steal something expensive. I always feel better after a good caper.</text>
+		<text bitflag="1345" id1="530882" id2="17" version="1065353216">Yes. I'll marry you. We'll make it official the old-fashioned way. Have your people bring me a written contract to sign.</text>
+		<text bitflag="1345" id1="530884" id2="17" version="1065353216">But let's not make it easy for the king to kill us. Until the war's over, we shouldn't meet in person. Agreed?</text>
+		<text bitflag="1345" id1="530886" id2="17" version="1065353216">I will continue to send you updates as I'm able. Dubrillion will be free. Farewell, my lovely wife. May the stars watch over you....</text>
+		<text bitflag="1345" id1="530888" id2="17" version="1065353216">Well. This is awkward.</text>
+		<text bitflag="1345" id1="530889" id2="17" version="1065353216">You have a place on my ship for as long as you need it.</text>
+		<text bitflag="1360" id1="530889" id2="17" version="1065353216">Don't worry about it.</text>
+		<text bitflag="1345" id1="530890" id2="17" version="1065353216">Stop being so nice. You're making me regret all this.</text>
+		<text bitflag="1345" id1="530891" id2="17" version="1065353216">And here I was hoping another man would finally take you off my hands.</text>
+		<text bitflag="1360" id1="530891" id2="17" version="1065353216">To say the least.</text>
+		<text bitflag="1345" id1="530892" id2="17" version="1065353216">If you were that eager to get rid of me, you would've spaced me by now.</text>
+		<text bitflag="1345" id1="530893" id2="17" version="1065353216">What the count doesn't know won't hurt him.</text>
+		<text bitflag="1360" id1="530893" id2="17" version="1065353216">[Flirt] It doesn't have to be.</text>
+		<text bitflag="1345" id1="530894" id2="17" version="1065353216">Oh, no you don't. From now on, we're just friends.</text>
+		<text bitflag="1345" id1="530896" id2="17" version="1065353216">Isn't he adorable?</text>
+		<text bitflag="1345" id1="530897" id2="17" version="1065353216">He's not my type, but whatever floats your speeder.</text>
+		<text bitflag="1360" id1="530897" id2="17" version="1065353216">If you say so.</text>
+		<text bitflag="1345" id1="530898" id2="17" version="1065353216">You make an adorable couple. I hope you're not expecting a gift on this short notice...</text>
+		<text bitflag="1360" id1="530898" id2="17" version="1065353216">Congratulations, Risha.</text>
+		<text bitflag="1345" id1="530899" id2="17" version="1065353216">You can owe us.</text>
+		<text bitflag="1345" id1="530901" id2="17" version="1065353216">That has to be the least romantic wedding I've ever seen in my life.</text>
+		<text bitflag="1360" id1="530901" id2="17" version="1065353216">What, no honeymoon?</text>
+		<text bitflag="1345" id1="530902" id2="17" version="1065353216">Maybe--but it's a perfect foundation for running a kingdom.</text>
+		<text bitflag="1345" id1="530904" id2="17" version="1065353216">I should probably do something to celebrate. Want to go steal something really expensive?</text>
+		<text bitflag="1345" id1="530910" id2="17" version="1065353216">I can't hold off Count Rineld forever. I have to answer his marriage proposal some day.</text>
+		<text bitflag="1345" id1="530912" id2="17" version="1065353216">But I want to make an informed decision. I was hoping you could help me out with that. In private.</text>
+		<text bitflag="1345" id1="530913" id2="17" version="1065353216">If I didn't know better, I'd say you were finally surrendering to my charms.</text>
+		<text bitflag="1360" id1="530913" id2="17" version="1065353216">Are you flirting with me?</text>
+		<text bitflag="1345" id1="530914" id2="17" version="1065353216">Let's not go that far yet. I still need convincing....</text>
+		<text bitflag="1345" id1="530915" id2="17" version="1065353216">I have a lot to say on the subject. I recommend we lock your door, so our conversation isn't disturbed.</text>
+		<text bitflag="1360" id1="530915" id2="17" version="1065353216">[Flirt] Gladly.</text>
+		<text bitflag="1345" id1="530916" id2="17" version="1065353216">You think of everything.</text>
+		<text bitflag="1345" id1="530920" id2="17" version="1065353216">That was a very persuasive argument.</text>
+		<text bitflag="1345" id1="530921" id2="17" version="1065353216">Sweetheart, this debate's just getting started.</text>
+		<text bitflag="1360" id1="530921" id2="17" version="1065353216">[Flirt] I'm not done yet.</text>
+		<text bitflag="1345" id1="530922" id2="17" version="1065353216">You've put some thought into this. I'm, ah, listening intently.</text>
+		<text bitflag="1345" id1="530923" id2="17" version="1065353216">Who's it going to be, Risha... the count, or me?</text>
+		<text bitflag="1360" id1="530923" id2="17" version="1065353216">Have you made a decision?</text>
+		<text bitflag="1345" id1="530924" id2="17" version="1065353216">I should examine your argument in more detail. Can we run through it again?</text>
+		<text bitflag="1345" id1="530926" id2="17" version="1065353216">You know... crowns and thrones aren't that great. I could maybe live without them.</text>
+		<text bitflag="1345" id1="530930" id2="17" version="1065353216">Assuming you survive me. I should kill you both for this insult!</text>
+		<text bitflag="1345" id1="530931" id2="17" version="1065353216">Cool your thrusters. I don't see your name tattooed anywhere on me.</text>
+		<text bitflag="1360" id1="530931" id2="17" version="1065353216">Calm down, Akaavi.</text>
+		<text bitflag="1345" id1="530932" id2="17" version="1065353216">Me neither. And I checked. Thoroughly.</text>
+		<text bitflag="1345" id1="530934" id2="17" version="1065353216">Don't do anything hasty! This isn't what it looks like, I swear!</text>
+		<text bitflag="1360" id1="530934" id2="17" version="1065353216">Wait, I can explain!</text>
+		<text bitflag="1345" id1="530935" id2="17" version="1065353216">Yes, it is. You have a problem with that?</text>
+		<text bitflag="1345" id1="530937" id2="17" version="1065353216">You've seen how I fight. You really want to make this personal?</text>
+		<text bitflag="1360" id1="530937" id2="17" version="1065353216">Try it and die.</text>
+		<text bitflag="1345" id1="530938" id2="17" version="1065353216">Why does she even care about us? How is this an insult to her?</text>
+		<text bitflag="1345" id1="530940" id2="17" version="1065353216">If you prefer this soft, passionless thing to me, then keep her. Otherwise, throw her out the air lock!</text>
+		<text bitflag="1345" id1="530941" id2="17" version="1065353216">This doesn't mean you're out of the running, Akaavi. Risha may run off with some aristocrat.</text>
+		<text bitflag="1360" id1="530941" id2="17" version="1065353216">That may not be necessary.</text>
+		<text bitflag="1345" id1="530942" id2="17" version="1065353216">No man of honor treats women with such disrespect. You betray us both with your actions.</text>
+		<text bitflag="1345" id1="530944" id2="17" version="1065353216">The count is suddenly looking a lot better.</text>
+		<text bitflag="1345" id1="530945" id2="17" version="1065353216">Nothing's happened between me and Akaavi. It was just harmless flirtation. You know how I am.</text>
+		<text bitflag="1360" id1="530945" id2="17" version="1065353216">Stay with me, Risha.</text>
+		<text bitflag="1345" id1="530947" id2="17" version="1065353216">You're the one I've always wanted, Risha. Haven't I proved that yet?</text>
+		<text bitflag="1345" id1="530948" id2="17" version="1065353216">If I misunderstood your interest in me, then I apologize. But you should be more careful with your tongue in the future.</text>
+		<text bitflag="1345" id1="530950" id2="17" version="1065353216">Always good advice.</text>
+		<text bitflag="1345" id1="530951" id2="17" version="1065353216">I think I've made my case. Not my fault you're upset over a little harmless flirtation.</text>
+		<text bitflag="1360" id1="530951" id2="17" version="1065353216">Do whatever you want.</text>
+		<text bitflag="1345" id1="530952" id2="17" version="1065353216">That's how it always starts, isn't it? Harmless. He's all yours, Mandalorian.</text>
+		<text bitflag="1345" id1="530954" id2="17" version="1065353216">I find myself wanting him much less, now.</text>
+		<text bitflag="1345" id1="530956" id2="17" version="1065353216">That's your problem, honey.</text>
+		<text bitflag="1345" id1="530957" id2="17" version="1065353216">I never believed you'd stick around, anyway. At least Akaavi has fire in her.</text>
+		<text bitflag="1360" id1="530957" id2="17" version="1065353216">In that case, I choose Akaavi.</text>
+		<text bitflag="1345" id1="530958" id2="17" version="1065353216">Have fun burning together.</text>
+		<text bitflag="1345" id1="530959" id2="17" version="1065353216">Akaavi, settle down. I'm not kicking anyone off this ship.</text>
+		<text bitflag="1360" id1="530959" id2="17" version="1065353216">Sorry, Akaavi. I want Risha.</text>
+		<text bitflag="1345" id1="530961" id2="17" version="1065353216">I didn't mean to lead you on. Risha's always been the girl for me. She always will be.</text>
+		<text bitflag="1345" id1="530962" id2="17" version="1065353216">Your answer allows me to keep my honor. For this, I will let you both live.</text>
+		<text bitflag="1345" id1="530964" id2="17" version="1065353216">Ugh! You and her? That's... exactly what I'd expect from you. What other &quot;friendships&quot; have you been keeping from me?</text>
+		<text bitflag="1345" id1="530965" id2="17" version="1065353216">Aside from this, I've been a very good boy. Don't believe me, ask Corso.</text>
+		<text bitflag="1360" id1="530965" id2="17" version="1065353216">None.</text>
+		<text bitflag="1345" id1="530966" id2="17" version="1065353216">I'm glad there are only two women on this ship. I'll assume you don't have a thing for Mon Calamari.</text>
+		<text bitflag="1345" id1="530968" id2="17" version="1065353216">I've woken up in some strange places, but it was usually after I'd been shot. Honest.</text>
+		<text bitflag="1360" id1="530968" id2="17" version="1065353216">[Lie] None.</text>
+		<text bitflag="1345" id1="530969" id2="17" version="1065353216">I'll just bet you're on a first-name basis with every cute med-tech on the Outer Rim.</text>
+		<text bitflag="1345" id1="530971" id2="17" version="1065353216">How do you think I got so good at &quot;arguing&quot;? It takes practice, beautiful.</text>
+		<text bitflag="1360" id1="530971" id2="17" version="1065353216">Lots.</text>
+		<text bitflag="1345" id1="530972" id2="17" version="1065353216">Not another word. I mean it.</text>
+		<text bitflag="1345" id1="530974" id2="17" version="1065353216">Nobody's going out the air lock. This is still my ship.</text>
+		<text bitflag="1360" id1="530974" id2="17" version="1065353216">Go away, Risha. I want Akaavi.</text>
+		<text bitflag="1345" id1="530976" id2="17" version="1065353216">Risha, it was fun while it lasted--but Akaavi's the one for me. What can I tell you? I like girls with big helmets.</text>
+		<text bitflag="1345" id1="530977" id2="17" version="1065353216">I can't believe I let you kiss me! I need to be de-loused!</text>
+		<text bitflag="1345" id1="530979" id2="17" version="1065353216">Or you could trade in this starship for a palace. What do you think?</text>
+		<text bitflag="1345" id1="530980" id2="17" version="1065353216">I work best flying by the seat of my pants. You don't want me getting boring, do you?</text>
+		<text bitflag="1360" id1="530980" id2="17" version="1065353216">Space is my place.</text>
+		<text bitflag="1345" id1="530981" id2="17" version="1065353216">Definitely not. I think I've just made my choice even more complicated.</text>
+		<text bitflag="1345" id1="530983" id2="17" version="1065353216">You're the only treasure I need. Everything else is pales in comparison.</text>
+		<text bitflag="1360" id1="530983" id2="17" version="1065353216">[Flirt] I go where you go.</text>
+		<text bitflag="1345" id1="530984" id2="17" version="1065353216">I'm not done talking to you.</text>
+		<text bitflag="1345" id1="530986" id2="17" version="1065353216">Well... that was an enlightening discussion. I think I'm going to have to disappoint the count.</text>
+		<text bitflag="1345" id1="530988" id2="17" version="1065353216">But first, I need some rest. Let's talk again later.</text>
+		<text bitflag="1345" id1="530989" id2="17" version="1065353216">Get me my own throne and crown, and you've got a deal. Naturally, I'll expect to be left in charge of taxes.</text>
+		<text bitflag="1360" id1="530989" id2="17" version="1065353216">It's good to be the king.</text>
+		<text bitflag="1345" id1="530990" id2="17" version="1065353216">One thing at a time, your almost-highness. There's a lot to figure out.</text>
+		<text bitflag="1345" id1="530992" id2="17" version="1065353216">We should probably cool things for a bit. I have some thinking to do.</text>
+		<text bitflag="1345" id1="530993" id2="17" version="1065353216">I think I just talked myself out of wanting you.</text>
+		<text bitflag="1360" id1="530993" id2="17" version="1065353216">I'm finished with you.</text>
+		<text bitflag="1345" id1="530994" id2="17" version="1065353216">What? Why you... I knew this would happen!</text>
+		<text bitflag="1345" id1="530996" id2="17" version="1065353216">For the record, I was only pretending to enjoy listening to you!</text>
+		<text bitflag="1345" id1="530997" id2="17" version="1065353216">Sweetheart, women are lining up for me at every spaceport in the galaxy. I don't need to compete for you.</text>
+		<text bitflag="1360" id1="530997" id2="17" version="1065353216">Our romance is over.</text>
+		<text bitflag="1345" id1="530998" id2="17" version="1065353216">I wasn't asking you to... forget it. You've got an asteroid where your heart should be--or am I confusing that with your brain?</text>
+		<text bitflag="1345" id1="531001" id2="17" version="1065353216">I was prepared for almost anything if it meant becoming queen: foiling assassination attempts, fighting wars, bunking on this ship for years... just kidding.</text>
+		<text bitflag="1345" id1="531003" id2="17" version="1065353216">Marrying the count was never part of the plan. Can I really do that?</text>
+		<text bitflag="1345" id1="531004" id2="17" version="1065353216">I'm trying to think of what I wouldn't do to become rich and powerful. Nope, I got nothing.</text>
+		<text bitflag="1360" id1="531004" id2="17" version="1065353216">You asked the wrong person.</text>
+		<text bitflag="1345" id1="531005" id2="17" version="1065353216">I've seen how your eyes wander every time we land on a new planet. You might get married, but could you stay that way?</text>
+		<text bitflag="1345" id1="531007" id2="17" version="1065353216">Never back yourself into a corner, I always say. The count seems nice right now, but someday he'll be fat and old.</text>
+		<text bitflag="1360" id1="531007" id2="17" version="1065353216">Maybe you shouldn't.</text>
+		<text bitflag="1345" id1="531008" id2="17" version="1065353216">The med-techs on Dubrillion can work miracles. I've seen eighty year-olds passing for twenty. That's what I plan to do.</text>
+		<text bitflag="1345" id1="531010" id2="17" version="1065353216">Your only job is to become queen. If marrying that nerf-herder gets you closer to the throne, do it.</text>
+		<text bitflag="1360" id1="531010" id2="17" version="1065353216">Use him for all he's worth.</text>
+		<text bitflag="1345" id1="531011" id2="17" version="1065353216">He'll make a popular king--maybe too popular. I don't want to look bad standing next to him.</text>
+		<text bitflag="1345" id1="531013" id2="17" version="1065353216">Ugh, I hadn't even thought about producing heirs. Not that he wouldn't be a great... father.</text>
+		<text bitflag="1345" id1="531015" id2="17" version="1065353216">This conversation's officially given me a headache. Let's go do something outrageous.</text>
+		<text bitflag="1345" id1="531021" id2="17" version="1065353216">Count Rineld is a man of his word. He sends me daily updates about his rebellion's progress. Incredibly sweet, beautifully-written updates.</text>
+		<text bitflag="1345" id1="531023" id2="17" version="1065353216">I knew taking Dubrillion's throne would be a challenge, but this is getting complicated.</text>
+		<text bitflag="1345" id1="531025" id2="17" version="1065353216">I'm not falling for him, but I might have to take this marriage proposal seriously. It's smart politics.</text>
+		<text bitflag="1345" id1="531026" id2="17" version="1065353216">Rationalize all you want. You'd still be choosing to spend your life with him.</text>
+		<text bitflag="1360" id1="531026" id2="17" version="1065353216">If you say so.</text>
+		<text bitflag="1345" id1="531027" id2="17" version="1065353216">This isn't just a business decision. I could be saving innocent lives.</text>
+		<text bitflag="1345" id1="531029" id2="17" version="1065353216">If you think I'm letting some wealthy pretty boy come between us, guess again.</text>
+		<text bitflag="1360" id1="531029" id2="17" version="1065353216">[Flirt] Blast the politics.</text>
+		<text bitflag="1345" id1="531030" id2="17" version="1065353216">Don't you get it? My whole future will be spent with wealthy pretty people.</text>
+		<text bitflag="1345" id1="531032" id2="17" version="1065353216">Nobles sleep in separate rooms, right? You can always slip me the key to your private chambers. I promise I'll be discreet.</text>
+		<text bitflag="1360" id1="531032" id2="17" version="1065353216">We can still have fun.</text>
+		<text bitflag="1345" id1="531033" id2="17" version="1065353216">I'm trying to imagine a universe where anything you do is &quot;discreet.&quot;</text>
+		<text bitflag="1345" id1="531035" id2="17" version="1065353216">When I'm queen, my days of racing the hyperlanes are over. Can you honestly see yourself settling down on Dubrillion?</text>
+		<text bitflag="1345" id1="531037" id2="17" version="1065353216">Merritt's every bit the man he appears to be. Even the dirt I've dug up on him turned out clean.</text>
+		<text bitflag="1345" id1="531038" id2="17" version="1065353216">It's &quot;Merritt&quot; now, huh? Sounds like you two are getting downright chummy.</text>
+		<text bitflag="1360" id1="531038" id2="17" version="1065353216">You're falling for him.</text>
+		<text bitflag="1345" id1="531039" id2="17" version="1065353216">He keeps insisting I not refer to him so formally. It's cute.</text>
+		<text bitflag="1345" id1="531041" id2="17" version="1065353216">I can't wait to hear what skeletons are rattling around his royal closet.</text>
+		<text bitflag="1360" id1="531041" id2="17" version="1065353216">What did you learn?</text>
+		<text bitflag="1345" id1="531042" id2="17" version="1065353216">He stole the crown jewels when he was five. Got a slap on the wrist, and he's been clean ever since. Seriously.</text>
+		<text bitflag="1345" id1="531044" id2="17" version="1065353216">If you haven't found anything, you're not looking deep enough.</text>
+		<text bitflag="1360" id1="531044" id2="17" version="1065353216">Dig harder.</text>
+		<text bitflag="1345" id1="531045" id2="17" version="1065353216">The count may be the most loved man on the planet. His enemies can't say enough nice things about him.</text>
+		<text bitflag="1345" id1="531047" id2="17" version="1065353216">Nothing about this guy triggers warning bells. When it comes to husbands, I could do a lot worse.</text>
+		<text bitflag="1345" id1="531049" id2="17" version="1065353216">I'll stop bothering you. I needed to talk, and you're the only person who understands me.</text>
+		<text bitflag="1345" id1="531050" id2="17" version="1065353216">I'm always here if you need me.</text>
+		<text bitflag="1360" id1="531050" id2="17" version="1065353216">Anytime, Risha.</text>
+		<text bitflag="1345" id1="531051" id2="17" version="1065353216">Does your new boyfriend understand you like I do? Because if he doesn't, you should think about that.</text>
+		<text bitflag="1360" id1="531051" id2="17" version="1065353216">[Flirt] What about the count?</text>
+		<text bitflag="1345" id1="531052" id2="17" version="1065353216">He's not my boyfriend.</text>
+		<text bitflag="1345" id1="531054" id2="17" version="1065353216">How honest have you been with your new boyfriend? Does he know all about your past?</text>
+		<text bitflag="1360" id1="531054" id2="17" version="1065353216">What about the count?</text>
+		<text bitflag="1345" id1="531055" id2="17" version="1065353216">I tried to tell him. He said it didn't matter who I used to be. It's the nicest thing anyone's ever said to me.</text>
+		<text bitflag="1345" id1="531057" id2="17" version="1065353216">Me listening to you babble doesn't mean I comprehend any of it.</text>
+		<text bitflag="1360" id1="531057" id2="17" version="1065353216">I don't understand you at all.</text>
+		<text bitflag="1345" id1="531058" id2="17" version="1065353216">It's still better than talking to a bulkhead. Or Corso.</text>
+		<text bitflag="1345" id1="531060" id2="17" version="1065353216">I'm sure there's trouble somewhere with our name on it. What do you say we go take all its credits?</text>
+		<text bitflag="1345" id1="531065" id2="17" version="1065353216">You're back. How'd it go with the count?</text>
+		<text bitflag="1345" id1="531066" id2="17" version="1065353216">Never talked to a complete stranger for that long before. Count Rineld gives to charities, builds orphanages, creates wildlife preserves--and those are just his hobbies.</text>
+		<text bitflag="1345" id1="531068" id2="17" version="1065353216">You ever consider we've been wasting our lives?</text>
+		<text bitflag="1345" id1="531069" id2="17" version="1065353216">I do everything for one reason: to get rich. It's straightforward, easy to remember and works amazingly well most of the time.</text>
+		<text bitflag="1360" id1="531069" id2="17" version="1065353216">Maybe you have--but not me.</text>
+		<text bitflag="1345" id1="531070" id2="17" version="1065353216">Ah, the simple life. Anyway, I left the negotiations open.</text>
+		<text bitflag="1345" id1="531072" id2="17" version="1065353216">I knew it! He pulled every smooth maneuver in the flight manual.</text>
+		<text bitflag="1360" id1="531072" id2="17" version="1065353216">You're falling for him.</text>
+		<text bitflag="1345" id1="531073" id2="17" version="1065353216">That's the thing--he wasn't smooth. He was actually kind of awkward. Stop being so paranoid.</text>
+		<text bitflag="1345" id1="531075" id2="17" version="1065353216">Somebody's got a crush on &quot;Count Nice Guy.&quot;</text>
+		<text bitflag="1360" id1="531075" id2="17" version="1065353216">You're falling for him.</text>
+		<text bitflag="1345" id1="531076" id2="17" version="1065353216">He is nice--but I'm not rushing into anything.</text>
+		<text bitflag="1345" id1="531078" id2="17" version="1065353216">I've definitely been wasting my time. The nanosecond you find some blue-blood stuffed shirt, you're ready to abandon ship.</text>
+		<text bitflag="1360" id1="531078" id2="17" version="1065353216">Every second I'm with you.</text>
+		<text bitflag="1345" id1="531079" id2="17" version="1065353216">That was always our deal--and it's not like I said &quot;yes&quot; to him.</text>
+		<text bitflag="1345" id1="531081" id2="17" version="1065353216">I told the count I needed time to think about his proposal. That'll give me a chance to run a deep background check.</text>
+		<text bitflag="1345" id1="531083" id2="17" version="1065353216">If this guy is as good as he seems, he just might help me overthrow the king without getting married....</text>
+		<text bitflag="1345" id1="531089" id2="17" version="1065353216">Guess who found a potential accomplice in the Dubrillion aristocracy? Feast your eyes on this holo-embossed, genuine flimsiplast invitation.</text>
+		<text bitflag="1345" id1="531091" id2="17" version="1065353216">See that fancy Aurebesh lettering? Hand-drawn. In ink. Classy.</text>
+		<text bitflag="1345" id1="531093" id2="17" version="1065353216">&quot;Count Merritt Rineld requests the favor of your presence at a discreet location in the Galactic Senate Tower on Coruscant, at a time of your choosing.&quot;</text>
+		<text bitflag="1345" id1="531094" id2="17" version="1065353216">Coruscant? Why not Dubrillion?</text>
+		<text bitflag="1360" id1="531094" id2="17" version="1065353216">Intriguing choice of location.</text>
+		<text bitflag="1345" id1="531095" id2="17" version="1065353216">Coruscant is neutral ground. Meeting at the Senate Tower? That's a gesture of respect.</text>
+		<text bitflag="1345" id1="531097" id2="17" version="1065353216">Does that invitation say why Baron Fancypants needs a face-to-face? Why can't he talk to you by holo?</text>
+		<text bitflag="1360" id1="531097" id2="17" version="1065353216">He can't just call you?</text>
+		<text bitflag="1345" id1="531098" id2="17" version="1065353216">Nobles are like gangsters: they won't crew with someone they've never met in person.</text>
+		<text bitflag="1345" id1="531100" id2="17" version="1065353216">Pssh. Amateurs. Like we'd ever fall for something like that.</text>
+		<text bitflag="1360" id1="531100" id2="17" version="1065353216">This is an obvious trap.</text>
+		<text bitflag="1345" id1="531101" id2="17" version="1065353216">Nobody puts this much effort into a trap. Look at all the embossing. That took sincerity.</text>
+		<text bitflag="1345" id1="531103" id2="17" version="1065353216">Count Rineld is one of the most popular nobles on Dubrillion. He's also secretly organizing a rebellion against the king.</text>
+		<text bitflag="1345" id1="531105" id2="17" version="1065353216">His invitation is addressed to &quot;Risha Drayen, Royal Heir to the Drayen Dynasty.&quot; He's taking me very seriously.</text>
+		<text bitflag="1345" id1="531106" id2="17" version="1065353216">The count sounds like the kind of accomplice you need to overthrow the king.</text>
+		<text bitflag="1360" id1="531106" id2="17" version="1065353216">Then meet with him.</text>
+		<text bitflag="1345" id1="531107" id2="17" version="1065353216">I didn't think you were broadcasting your true identity.</text>
+		<text bitflag="1360" id1="531107" id2="17" version="1065353216">You told him your real name?</text>
+		<text bitflag="1345" id1="531108" id2="17" version="1065353216">I had no choice. &quot;Risha from Nar Shaddaa&quot; doesn't carry the same weight as &quot;Risha the Future Queen.&quot;</text>
+		<text bitflag="1345" id1="531110" id2="17" version="1065353216">Watch yourself. Best case scenario, he thinks he can use you for his agenda.</text>
+		<text bitflag="1360" id1="531110" id2="17" version="1065353216">Don't trust him.</text>
+		<text bitflag="1345" id1="531111" id2="17" version="1065353216">Well, obviously. The question is, can I use him back?</text>
+		<text bitflag="1345" id1="531113" id2="17" version="1065353216">I'm contacting him by holo to arrange our meeting. Wanted you here to help me get a read on him. Opening a channel... whoa.</text>
+		<text bitflag="1345" id1="531115" id2="17" version="1065353216">This is a tremendous moment, your Royal Heiress. I grew up hearing tales of the Drayen dynasty. The great battles your ancestors fought.</text>
+		<text bitflag="1345" id1="531117" id2="17" version="1065353216">I never believed I'd meet a member of that proud bloodline in person. You have my deepest sympathies for your family's exile.</text>
+		<text bitflag="1345" id1="531118" id2="17" version="1065353216">Risha wants back into Dubrillion politics. You can make that happen, right?</text>
+		<text bitflag="1360" id1="531118" id2="17" version="1065353216">Help her return home.</text>
+		<text bitflag="1345" id1="531119" id2="17" version="1065353216">From what I've seen, the Drayens earned a kick out the door.</text>
+		<text bitflag="1360" id1="531119" id2="17" version="1065353216">They deserved it.</text>
+		<text bitflag="1345" id1="531120" id2="17" version="1065353216">We don't have all day. Stop sucking up and get to the point.</text>
+		<text bitflag="1360" id1="531120" id2="17" version="1065353216">Make your pitch, already.</text>
+		<text bitflag="1345" id1="531121" id2="17" version="1065353216">You must be the starship captain who recovered the Crown of Dubrillion. My world is in your debt.</text>
+		<text bitflag="1345" id1="531123" id2="17" version="1065353216">The king wants that crown--and my head. He won't be happy if he finds out we're talking.</text>
+		<text bitflag="1345" id1="531125" id2="17" version="1065353216">The man has lost all reason. He must be removed from power, but in a way that spares our world a bloody civil war.</text>
+		<text bitflag="1345" id1="531127" id2="17" version="1065353216">I believe the common people and aristrocracy alike would embrace the Drayen dynasty heir, especially if she wears the Crown of Dubrillion.</text>
+		<text bitflag="1345" id1="531128" id2="17" version="1065353216">I doubt your current ruler will abdicate just because Risha has a better hat.</text>
+		<text bitflag="1360" id1="531128" id2="17" version="1065353216">The king won't surrender.</text>
+		<text bitflag="1345" id1="531129" id2="17" version="1065353216">The king's power base is already unstable. It will crumble under the right pressure.</text>
+		<text bitflag="1345" id1="531131" id2="17" version="1065353216">Nothing is ever that easy. Skip to the part where our lives get complicated.</text>
+		<text bitflag="1360" id1="531131" id2="17" version="1065353216">What's the catch?</text>
+		<text bitflag="1345" id1="531132" id2="17" version="1065353216">It wasn't that long ago everyone wanted Risha's ancestor off the throne. What's changed?</text>
+		<text bitflag="1360" id1="531132" id2="17" version="1065353216">Don't they hate the Drayens?</text>
+		<text bitflag="1345" id1="531133" id2="17" version="1065353216">The early Drayen dynasty rulers are still highly-regarded. In historical retrospect, only the last one remains unpopular.</text>
+		<text bitflag="1345" id1="531135" id2="17" version="1065353216">It will not be enough to de-throne the king. He must be replaced by someone the people view as one of their own.</text>
+		<text bitflag="1345" id1="531137" id2="17" version="1065353216">Right now, you are an outsider. The only way to change that is to marry someone from the existing aristocracy.</text>
+		<text bitflag="1345" id1="531139" id2="17" version="1065353216">Get married? To who?</text>
+		<text bitflag="1345" id1="531141" id2="17" version="1065353216">Well, ahem, the only available suitor is... great stars, this is awkward... I am offering myself in marriage to you.</text>
+		<text bitflag="1345" id1="531142" id2="17" version="1065353216">You sound a little nervous, count. Is your heart really in this?</text>
+		<text bitflag="1360" id1="531142" id2="17" version="1065353216">Your proposal needs work.</text>
+		<text bitflag="1345" id1="531143" id2="17" version="1065353216">Forgive my hesitance. I only feared insulting the lady with my abruptness. The circumstances are far from ideal.</text>
+		<text bitflag="1345" id1="531145" id2="17" version="1065353216">This guy doesn't beat around the bantha. How do you want to play this?</text>
+		<text bitflag="1360" id1="531145" id2="17" version="1065353216">What do you think, Risha?</text>
+		<text bitflag="1345" id1="531146" id2="17" version="1065353216">You could've at least sent flowers, count.</text>
+		<text bitflag="1345" id1="531148" id2="17" version="1065353216">Risha already has a man in her life.</text>
+		<text bitflag="1360" id1="531148" id2="17" version="1065353216">Forget it, pal!</text>
+		<text bitflag="1345" id1="531149" id2="17" version="1065353216">Forgive me... I should have realized. Have you two joined?</text>
+		<text bitflag="1345" id1="531151" id2="17" version="1065353216">Er... not exactly, no.</text>
+		<text bitflag="1345" id1="531153" id2="17" version="1065353216">Please understand, I do not desire to come between you. That said, the final choice should be yours.</text>
+		<text bitflag="1345" id1="531155" id2="17" version="1065353216">Marrying Risha would make you king, wouldn't it? How convenient.</text>
+		<text bitflag="1360" id1="531155" id2="17" version="1065353216">This is a big scam.</text>
+		<text bitflag="1345" id1="531156" id2="17" version="1065353216">The Royal Heiress would hold primacy of power. I would be her subordinate in all matters.</text>
+		<text bitflag="1345" id1="531158" id2="17" version="1065353216">I understand my proposal is abrupt, but I wished to make my intentions clear and not waste your valuable time.</text>
+		<text bitflag="1345" id1="531160" id2="17" version="1065353216">I certainly don't expect an immediate response. All I ask is that you consider this for the good of Dubrillion.</text>
+		<text bitflag="1345" id1="531162" id2="17" version="1065353216">That'll be easier to do once we've met in person. I'm on my way to Coruscant. See you there, count.</text>
+		<text bitflag="1345" id1="531164" id2="17" version="1065353216">Well, that wasn't awkward at all.</text>
+		<text bitflag="1345" id1="531165" id2="17" version="1065353216">That was the worst blind date ever. You've known this guy all of two minutes and he proposes marriage? Crazy.</text>
+		<text bitflag="1360" id1="531165" id2="17" version="1065353216">It was too awkward.</text>
+		<text bitflag="1345" id1="531166" id2="17" version="1065353216">This isn't romance. It's just politics.</text>
+		<text bitflag="1345" id1="531168" id2="17" version="1065353216">The count was a lot nicer than most of the people we deal with.</text>
+		<text bitflag="1360" id1="531168" id2="17" version="1065353216">He seemed sincere.</text>
+		<text bitflag="1345" id1="531169" id2="17" version="1065353216">Hard to be sure over the holo, but I'm comfortable enough to meet him in person.</text>
+		<text bitflag="1345" id1="531171" id2="17" version="1065353216">The nerve of that guy. Like you'd ever pick him over me.</text>
+		<text bitflag="1360" id1="531171" id2="17" version="1065353216">You can't accept his proposal.</text>
+		<text bitflag="1345" id1="531172" id2="17" version="1065353216">Don't get your thrusters overheated. It's good to have friends, that's all.</text>
+		<text bitflag="1345" id1="531174" id2="17" version="1065353216">This whole deal smells like a bulk freighter of bantha droppings. No way should you trust that guy.</text>
+		<text bitflag="1360" id1="531174" id2="17" version="1065353216">You shouldn't go to him.</text>
+		<text bitflag="1345" id1="531175" id2="17" version="1065353216">Who said anything about trusting him?</text>
+		<text bitflag="1345" id1="531177" id2="17" version="1065353216">Under the circumstances, I should probably take this meeting alone. Be back soon, Captain....</text>
+		<text bitflag="1345" id1="531183" id2="17" version="1065353216">Been thinking about our decision to keep things casual. Thought I'd make sure you're still alright with it.</text>
+		<text bitflag="1345" id1="531184" id2="17" version="1065353216">Why would you bring that up... unless you're having regrets?</text>
+		<text bitflag="1360" id1="531184" id2="17" version="1065353216">Sounds like you have doubts.</text>
+		<text bitflag="1345" id1="531185" id2="17" version="1065353216">No regrets. I'm just open to... course-correction.</text>
+		<text bitflag="1345" id1="531187" id2="17" version="1065353216">In case you haven't noticed, I never stopped chasing you.</text>
+		<text bitflag="1360" id1="531187" id2="17" version="1065353216">[Flirt] Was I ever?</text>
+		<text bitflag="1345" id1="531188" id2="17" version="1065353216">We've been running a long time. That takes real stamina.</text>
+		<text bitflag="1345" id1="531190" id2="17" version="1065353216">Uhm... yes? Or... no. What was the question?</text>
+		<text bitflag="1360" id1="531190" id2="17" version="1065353216">I can't remember.</text>
+		<text bitflag="1345" id1="531191" id2="17" version="1065353216">I've almost rendered you speechless. That's a first.</text>
+		<text bitflag="1345" id1="531193" id2="17" version="1065353216">It could be years before I'm on Dubrillion's throne. Seems a shame to limit my options in the here and now.</text>
+		<text bitflag="1345" id1="531195" id2="17" version="1065353216">You seem to know what I like. Heard of any opportunities I should explore?</text>
+		<text bitflag="1345" id1="531196" id2="17" version="1065353216">Opportunities are my specialty--but I need to know exactly what you're looking for.</text>
+		<text bitflag="1360" id1="531196" id2="17" version="1065353216">Be more specific.</text>
+		<text bitflag="1345" id1="531197" id2="17" version="1065353216">Someone cool under pressure, but quick on the draw. Who understands business and knows how to take care of it. Ring any bells?</text>
+		<text bitflag="1345" id1="531198" id2="17" version="1065353216">That's a tall order, but I might be able to fill it. What would you pay for something like that?</text>
+		<text bitflag="1360" id1="531198" id2="17" version="1065353216">What are you offering?</text>
+		<text bitflag="1345" id1="531199" id2="17" version="1065353216">My price is negotiable--but don't expect payment in advance.</text>
+		<text bitflag="1345" id1="531200" id2="17" version="1065353216">I'm willing to start small and work my way up. I think you're worth it--and I know I am.</text>
+		<text bitflag="1360" id1="531200" id2="17" version="1065353216">[Flirt] I can take it slow.</text>
+		<text bitflag="1345" id1="531201" id2="17" version="1065353216">You drive a hard bargain, sweetheart. If I can fill your quota, I'll let you know.</text>
+		<text bitflag="1360" id1="531201" id2="17" version="1065353216">I'll think about it.</text>
+		<text bitflag="1345" id1="531202" id2="17" version="1065353216">You do that. But don't take too long.</text>
+		<text bitflag="1345" id1="531204" id2="17" version="1065353216">You're more trouble than you're worth. I'd have better luck romancing a krayt dragon!</text>
+		<text bitflag="1360" id1="531204" id2="17" version="1065353216">You're boring me.</text>
+		<text bitflag="1345" id1="531205" id2="17" version="1065353216">Then maybe you should set course for Tatooine! It's almost mating season!</text>
+		<text bitflag="1345" id1="531207" id2="17" version="1065353216">I know just the guy. He's practically a legend. You'd like him.</text>
+		<text bitflag="1360" id1="531207" id2="17" version="1065353216">[Flirt] You bet it does.</text>
+		<text bitflag="1345" id1="531208" id2="17" version="1065353216">Is that so? Keep talking.</text>
+		<text bitflag="1345" id1="531209" id2="17" version="1065353216">I'd rather not.</text>
+		<text bitflag="1345" id1="531210" id2="17" version="1065353216">You should look into that kid from Ord Mantell. He's about your speed. I hear he's nice to the ladies.</text>
+		<text bitflag="1360" id1="531210" id2="17" version="1065353216">Corso is your man.</text>
+		<text bitflag="1345" id1="531211" id2="17" version="1065353216">Thanks for the recommendation. I'll pass.</text>
+		<text bitflag="1345" id1="531213" id2="17" version="1065353216">I suppose we should get back to letting people shoot at us.</text>
+		<text bitflag="1345" id1="531214" id2="17" version="1065353216">There's only one Risha. I'll never settle for second best.</text>
+		<text bitflag="1360" id1="531214" id2="17" version="1065353216">[Flirt] Just me.</text>
+		<text bitflag="1345" id1="531216" id2="17" version="1065353216">I don't think you should either.</text>
+		<text bitflag="1345" id1="531219" id2="17" version="1065353216">Good answer. I look forward to continuing this discussion later.</text>
+		<text bitflag="1345" id1="531220" id2="17" version="1065353216">You think about what I said, and get back to me with a response.</text>
+		<text bitflag="1360" id1="531220" id2="17" version="1065353216">[Flirt] Pick a time.</text>
+		<text bitflag="1345" id1="531221" id2="17" version="1065353216">You can count on it.</text>
+		<text bitflag="1345" id1="531223" id2="17" version="1065353216">Our conversation's just starting. I've got plenty more to say.</text>
+		<text bitflag="1360" id1="531223" id2="17" version="1065353216">[Flirt] So do I.</text>
+		<text bitflag="1345" id1="531224" id2="17" version="1065353216">We won't run out of things to talk about. Good to know.</text>
+		<text bitflag="1345" id1="531226" id2="17" version="1065353216">We can't just stand here staring at each other. We have some exciting caper to pull off, don't we?</text>
+		<text bitflag="1345" id1="531227" id2="17" version="1065353216">All I'm getting is one kiss? Taking it slow is one thing, but this is ridiculous!</text>
+		<text bitflag="1360" id1="531227" id2="17" version="1065353216">We're already done? Insane!</text>
+		<text bitflag="1345" id1="531228" id2="17" version="1065353216">I knew it. I give you a centimeter and you want a light year!</text>
+		<text bitflag="1345" id1="531230" id2="17" version="1065353216">You kidding? You're higher-maintenance than a Rodian skip-trawler. At least those have resale value.</text>
+		<text bitflag="1360" id1="531230" id2="17" version="1065353216">Nope.</text>
+		<text bitflag="1345" id1="531231" id2="17" version="1065353216">You'd compare me to the most temperamental star freighters in the Outer Rim? That's low, even for you.</text>
+		<text bitflag="1345" id1="531233" id2="17" version="1065353216">I am not high-maintenance. It just takes a steady hand to... why am I still using your idiot metaphor?</text>
+		<text bitflag="1345" id1="531235" id2="17" version="1065353216">Forget it. Don't we have something better to do--preferably far away from each other?</text>
+		<text bitflag="1345" id1="531236" id2="17" version="1065353216">The longer I spend here, the more it feels like home. I'm even starting to appreciate Corso. Must be coming down with something....</text>
+		<text bitflag="1345" id1="531238" id2="17" version="1065353216">Promise me you'll visit often when I'm queen of Dubrillion.</text>
+		<text bitflag="1345" id1="531239" id2="17" version="1065353216">I'll visit so often, you'll have to build an extra wing onto the palace.</text>
+		<text bitflag="1360" id1="531239" id2="17" version="1065353216">Of course I will.</text>
+		<text bitflag="1345" id1="531240" id2="17" version="1065353216">Why not? How about a private landing pad to go with it?</text>
+		<text bitflag="1345" id1="531242" id2="17" version="1065353216">Aren't you afraid being friends with a common freighter captain will tarnish your reputation?</text>
+		<text bitflag="1360" id1="531242" id2="17" version="1065353216">You're sure you want that?</text>
+		<text bitflag="1345" id1="531243" id2="17" version="1065353216">First, there's nothing common about you. Second, the whole point of being queen is that I get to do whatever I want.</text>
+		<text bitflag="1345" id1="531245" id2="17" version="1065353216">I'll try, but you know what this lifestyle's like. No rest for the wicked.</text>
+		<text bitflag="1360" id1="531245" id2="17" version="1065353216">No promises.</text>
+		<text bitflag="1345" id1="531246" id2="17" version="1065353216">Even the wicked need to stop and refuel. I'll cut you a friendly discount.</text>
+		<text bitflag="1345" id1="531248" id2="17" version="1065353216">It'd be nice to sneak away with you for the occasional break. Go someplace dangerous, steal something expensive, mock the bad guys.</text>
+		<text bitflag="1345" id1="531250" id2="17" version="1065353216">When you think about it, being queen of a planet provides the perfect alibi. We should take advantage of that.</text>
+		<text bitflag="1345" id1="531256" id2="17" version="1065353216">You probably think I'm chasing Dubrillion's throne to get rich, don't you?</text>
+		<text bitflag="1345" id1="531257" id2="17" version="1065353216">Credits are just a means to an end. You must want all that money for something.</text>
+		<text bitflag="1360" id1="531257" id2="17" version="1065353216">For starters.</text>
+		<text bitflag="1345" id1="531258" id2="17" version="1065353216">Your motives are your business. I don't judge.</text>
+		<text bitflag="1360" id1="531258" id2="17" version="1065353216">It makes no difference to me.</text>
+		<text bitflag="1345" id1="531259" id2="17" version="1065353216">All my father cared about was revenge. That isn't me.</text>
+		<text bitflag="1345" id1="531261" id2="17" version="1065353216">You're a much more complicated woman than that.</text>
+		<text bitflag="1360" id1="531261" id2="17" version="1065353216">[Flirt] No.</text>
+		<text bitflag="1345" id1="531262" id2="17" version="1065353216">You think I'm complicated. But in a good way, right? Because I am. Complicated.</text>
+		<text bitflag="1345" id1="531264" id2="17" version="1065353216">Who wouldn't want that high life? Having millions of subjects pay you to run their lives? You can sign me up anytime.</text>
+		<text bitflag="1360" id1="531264" id2="17" version="1065353216">What other reason is there?</text>
+		<text bitflag="1345" id1="531265" id2="17" version="1065353216">Ruling a planet is a big responsibility. One bad decision can hurt a lot of people.</text>
+		<text bitflag="1345" id1="531267" id2="17" version="1065353216">I've seen what bad leadership does to a place. Alderaan... Nar Shaddaa... even Coruscant. They all suffer because of who's in power.</text>
+		<text bitflag="1345" id1="531269" id2="17" version="1065353216">I'm not looking to plunder Dubrillion. I want to make it better. Run their society the right way.</text>
+		<text bitflag="1345" id1="531270" id2="17" version="1065353216">I knew that mercenary attitude was a lie. You're a bleeding-heart do-gooder--admit it!</text>
+		<text bitflag="1360" id1="531270" id2="17" version="1065353216">Ah-hah! You're a big softie!</text>
+		<text bitflag="1345" id1="531271" id2="17" version="1065353216">Don't be ridiculous. I'm talking about political survival.</text>
+		<text bitflag="1345" id1="531273" id2="17" version="1065353216">From everything I've heard about your homeworld, it could use someone decent in charge.</text>
+		<text bitflag="1360" id1="531273" id2="17" version="1065353216">Sounds good to me.</text>
+		<text bitflag="1345" id1="531274" id2="17" version="1065353216">Never thought of myself as &quot;decent&quot; before. Maybe I can sell that.</text>
+		<text bitflag="1345" id1="531276" id2="17" version="1065353216">Let me tell you how that ends. Your subjects disagree with your good intentions. They revolt.</text>
+		<text bitflag="1360" id1="531276" id2="17" version="1065353216">What a waste of time.</text>
+		<text bitflag="1345" id1="531278" id2="17" version="1065353216">You have to crack down and restore order. Pretty soon, you're either executed... or a tyrant. The end.</text>
+		<text bitflag="1345" id1="531280" id2="17" version="1065353216">Seriously, don't waste your time trying to help people. Take their taxes and let them live their lives.</text>
+		<text bitflag="1345" id1="531281" id2="17" version="1065353216">You didn't let me finish. That's exactly what I'm planning.</text>
+		<text bitflag="1345" id1="531283" id2="17" version="1065353216">Every successful leader has the same strength: they're perceived as generous by their subjects.</text>
+		<text bitflag="1345" id1="531285" id2="17" version="1065353216">Give the people just enough of what they want, and they'll leave you alone. That's something the king of Dubrillion doesn't understand.</text>
+		<text bitflag="1345" id1="531286" id2="17" version="1065353216">You can't give people what they want if you can't afford it. Maybe Dubrillion isn't as wealthy as you think.</text>
+		<text bitflag="1360" id1="531286" id2="17" version="1065353216">Maybe he isn't rich enough.</text>
+		<text bitflag="1345" id1="531287" id2="17" version="1065353216">It's wealthy enough to support an aristocracy. Of course, they need to get paid-off, too....</text>
+		<text bitflag="1345" id1="531289" id2="17" version="1065353216">For a second, I thought I was seeing a whole new side of you. False alarm.</text>
+		<text bitflag="1360" id1="531289" id2="17" version="1065353216">You're so cynical.</text>
+		<text bitflag="1345" id1="531290" id2="17" version="1065353216">I'm just saying what everyone else is thinking. Nothing wrong with that.</text>
+		<text bitflag="1345" id1="531292" id2="17" version="1065353216">You think the Sith Emperor worries about pleasing his people? He's still in power.</text>
+		<text bitflag="1360" id1="531292" id2="17" version="1065353216">Fear is a better motivator.</text>
+		<text bitflag="1345" id1="531293" id2="17" version="1065353216">Making people fear you is easy when you're a scary Sith. I don't have that luxury.</text>
+		<text bitflag="1345" id1="531295" id2="17" version="1065353216">I can make this work. It's all about negotiation, and I'm good at that.</text>
+		<text bitflag="1345" id1="531297" id2="17" version="1065353216">I'm just thinking out loud, now. We should get back to business....</text>
+		<text bitflag="1345" id1="531303" id2="17" version="1065353216">Never thought I'd say this, but you're my favorite partner in crime. You make beating the odds look easy, Captain.</text>
+		<text bitflag="1345" id1="531304" id2="17" version="1065353216">The secret is always fighting people who are dumber than me.</text>
+		<text bitflag="1360" id1="531304" id2="17" version="1065353216">It is when you fight idiots.</text>
+		<text bitflag="1345" id1="531305" id2="17" version="1065353216">That appears to be most of the galaxy. Never realized you were a genius.</text>
+		<text bitflag="1345" id1="531307" id2="17" version="1065353216">That may be the biggest compliment you've ever paid me.</text>
+		<text bitflag="1360" id1="531307" id2="17" version="1065353216">Thank you, Risha.</text>
+		<text bitflag="1345" id1="531308" id2="17" version="1065353216">I like to mix a little praise with the insults. Keeps you off-balance.</text>
+		<text bitflag="1345" id1="531310" id2="17" version="1065353216">What can I say? I'm inspired by a beautiful woman.</text>
+		<text bitflag="1360" id1="531310" id2="17" version="1065353216">[Flirt] I'm motivated.</text>
+		<text bitflag="1345" id1="531311" id2="17" version="1065353216">Just so we're clear, I had a snappy comeback for that line--but I'm not using it out of respect.</text>
+		<text bitflag="1345" id1="531313" id2="17" version="1065353216">It would look even easier if I wasn't saving your neck all the time.</text>
+		<text bitflag="1360" id1="531313" id2="17" version="1065353216">You make it twice as hard.</text>
+		<text bitflag="1345" id1="531314" id2="17" version="1065353216">Oh, I'm your handicap? I don't think so.</text>
+		<text bitflag="1345" id1="531316" id2="17" version="1065353216">I've definitely learned a few dirty tricks from watching you work. Think I might've found a few of my own.</text>
+		<text bitflag="1345" id1="531318" id2="17" version="1065353216">We'll find out at our next death-defying showdown. I can't wait.</text>
+		<text bitflag="1345" id1="531324" id2="17" version="1065353216">I notice we're spending a lot of time together. I'm not complaining, but... you know this can't go anywhere, right?</text>
+		<text bitflag="1345" id1="531326" id2="17" version="1065353216">Sooner or later, I have to leave your ship. I don't want any hard feelings when I do. Does that make sense?</text>
+		<text bitflag="1345" id1="531327" id2="17" version="1065353216">Hard feelings? You've barely given me the time of day.</text>
+		<text bitflag="1360" id1="531327" id2="17" version="1065353216">We haven't even kissed.</text>
+		<text bitflag="1345" id1="531328" id2="17" version="1065353216">Exactly. Why form a messy attachment if we're just going to split up later?</text>
+		<text bitflag="1345" id1="531330" id2="17" version="1065353216">We'll have fun while it lasts, and no regrets when it's done. Perfect. Thank you, Captain.</text>
+		<text bitflag="1345" id1="531331" id2="17" version="1065353216">I'd rather regret you for the rest of my life than get scared off by your crazy talk.</text>
+		<text bitflag="1360" id1="531331" id2="17" version="1065353216">[Flirt] Not even a little.</text>
+		<text bitflag="1345" id1="531332" id2="17" version="1065353216">There's just no reasoning with you. Have it your way.</text>
+		<text bitflag="1345" id1="531334" id2="17" version="1065353216">If you want to make something of... whatever it is we have, fine. But don't say I didn't warn you.</text>
+		<text bitflag="1345" id1="531335" id2="17" version="1065353216">Plenty of gorgeous ladies are lining up for me, sweetheart. Take a number, and I'll get to you. Eventually.</text>
+		<text bitflag="1360" id1="531335" id2="17" version="1065353216">I have lots of other women.</text>
+		<text bitflag="1345" id1="531336" id2="17" version="1065353216">I don't want to be &quot;gotten to,&quot; you ridiculous... Never mind. We're at the same coordinates.</text>
+		<text bitflag="1345" id1="531338" id2="17" version="1065353216">Let's go back to doing what we're good at: shooting people and making money.</text>
+		<text bitflag="1345" id1="531339" id2="17" version="1065353216">My search for allies in Dubrillion's aristocracy has been interesting. Got an offer from a lesser baron. What a piece of work.</text>
+		<text bitflag="1345" id1="531341" id2="17" version="1065353216">Guy must think I'm an idiot. Took two minutes to verify he's a spy for the king. He was baiting me into a trap.</text>
+		<text bitflag="1345" id1="531342" id2="17" version="1065353216">Glad you caught wise before it went any further. I'm in no mood for another Tatooine.</text>
+		<text bitflag="1360" id1="531342" id2="17" version="1065353216">That could have been trouble.</text>
+		<text bitflag="1345" id1="531343" id2="17" version="1065353216">Look on the bright side. At this rate, the king will run out of assassins within the year.</text>
+		<text bitflag="1345" id1="531345" id2="17" version="1065353216">If the information was that easy to find, maybe the baron's being set up?</text>
+		<text bitflag="1360" id1="531345" id2="17" version="1065353216">Are you sure?</text>
+		<text bitflag="1345" id1="531346" id2="17" version="1065353216">My sources are solid. The king keeps underestimating my intelligence. I'd feel sorry for him if he wasn't trying to kill me.</text>
+		<text bitflag="1345" id1="531348" id2="17" version="1065353216">Know what I like to do with traps? Turn them against whoever set them.</text>
+		<text bitflag="1360" id1="531348" id2="17" version="1065353216">Let's teach him a lesson.</text>
+		<text bitflag="1345" id1="531349" id2="17" version="1065353216">Just one more thing we have in common.</text>
+		<text bitflag="1345" id1="531351" id2="17" version="1065353216">I sent the spy a phony meeting request from Nar Shaddaa. He's sending &quot;friends&quot; to help me. They're in for a surprise.</text>
+		<text bitflag="1345" id1="531353" id2="17" version="1065353216">Couple of Hutts owe me a favor. They promised to record the whole thing. I'll send the king a copy.</text>
+		<text bitflag="1345" id1="531359" id2="17" version="1065353216">If I'm going to take over Dubrillion, I can't keep looking for allies in the same old places.</text>
+		<text bitflag="1345" id1="531361" id2="17" version="1065353216">The scum of the galaxy isn't as useful when you're stealing a throne. I need a better class of accomplices.</text>
+		<text bitflag="1345" id1="531362" id2="17" version="1065353216">You can't steal anything big without some corrupt officials on your payroll.</text>
+		<text bitflag="1360" id1="531362" id2="17" version="1065353216">You need politicians.</text>
+		<text bitflag="1345" id1="531363" id2="17" version="1065353216">No matter what you're stealing, you can always use a little scum to grease the works.</text>
+		<text bitflag="1360" id1="531363" id2="17" version="1065353216">Criminals have their uses.</text>
+		<text bitflag="1345" id1="531364" id2="17" version="1065353216">I already have that covered, Captain. You're worth a hundred normal scum. And I mean that in the nicest way.</text>
+		<text bitflag="1345" id1="531366" id2="17" version="1065353216">You're gonna need a new wardrobe. You dress like Nar Shaddaa smells.</text>
+		<text bitflag="1360" id1="531366" id2="17" version="1065353216">Good luck attracting them.</text>
+		<text bitflag="1345" id1="531367" id2="17" version="1065353216">Oh, like I'd take fashion tips from you. Besides, I already have some promising new leads.</text>
+		<text bitflag="1345" id1="531369" id2="17" version="1065353216">There are some interesting rumors out of Dubrillion. Turns out the aristocracy is unhappy with the king. Some nobles are secretly rebelling.</text>
+		<text bitflag="1345" id1="531370" id2="17" version="1065353216">Taxes are the leading cause of rebellions. I bet that's the problem.</text>
+		<text bitflag="1360" id1="531370" id2="17" version="1065353216">That king sure is unpopular.</text>
+		<text bitflag="1345" id1="531371" id2="17" version="1065353216">You have such a wonderfully simple view of politics. It terrifies me how often you're right.</text>
+		<text bitflag="1345" id1="531373" id2="17" version="1065353216">Hating the king is one thing. Putting you on the throne is something else.</text>
+		<text bitflag="1360" id1="531373" id2="17" version="1065353216">But would they support you?</text>
+		<text bitflag="1345" id1="531374" id2="17" version="1065353216">The point is, the planet's politics are ripe for change. All I have to do is personify that.</text>
+		<text bitflag="1345" id1="531376" id2="17" version="1065353216">Get those idiots to wipe each other out. They'll leave you a nice big power vacuum to fill.</text>
+		<text bitflag="1360" id1="531376" id2="17" version="1065353216">Pit them against each other.</text>
+		<text bitflag="1345" id1="531377" id2="17" version="1065353216">I don't want to inherit an empty treasury--or a blood feud.</text>
+		<text bitflag="1345" id1="531379" id2="17" version="1065353216">Dubrillion is turning into another Alderaan. A new queen could prevent that, assuming she had the aristocracy's support.</text>
+		<text bitflag="1345" id1="531381" id2="17" version="1065353216">But that means taking this game to a new level. You up for that?</text>
+		<text bitflag="1345" id1="531382" id2="17" version="1065353216">You're the one steering the ship. I'm just along for the ride.</text>
+		<text bitflag="1360" id1="531382" id2="17" version="1065353216">You're the boss.</text>
+		<text bitflag="1345" id1="531383" id2="17" version="1065353216">That's not exactly true, but thanks for the vote of confidence. That was confidence, right?</text>
+		<text bitflag="1345" id1="531385" id2="17" version="1065353216">Don't expect me to be a politician. I solve most problems by shooting them.</text>
+		<text bitflag="1360" id1="531385" id2="17" version="1065353216">Just remember who I am.</text>
+		<text bitflag="1345" id1="531386" id2="17" version="1065353216">There's a time and place for everything. If someone tries to kill me, feel free to shoot them.</text>
+		<text bitflag="1345" id1="531388" id2="17" version="1065353216">I'm not leaving until you're sitting pretty on that throne. And not even then.</text>
+		<text bitflag="1360" id1="531388" id2="17" version="1065353216">[Flirt] Always.</text>
+		<text bitflag="1345" id1="531389" id2="17" version="1065353216">I'll have to find you a political appointment. Maybe something in sanitation.</text>
+		<text bitflag="1345" id1="531391" id2="17" version="1065353216">I've dealt with Hutts. A bunch of prancing nobles doesn't scare me.</text>
+		<text bitflag="1360" id1="531391" id2="17" version="1065353216">I'm over-qualified.</text>
+		<text bitflag="1345" id1="531392" id2="17" version="1065353216">What if we have to prance with them? Do you even own prancing shoes?</text>
+		<text bitflag="1345" id1="531394" id2="17" version="1065353216">I've put out feelers to some key Dubrillion nobles. When one of them bites, be ready to pounce.</text>
+		<text bitflag="1345" id1="531396" id2="17" version="1065353216">In the meantime, we have plenty of other business to keep us occupied.</text>
+		<text bitflag="1345" id1="531402" id2="17" version="1065353216">Seems like I've been doing all the talking lately. Makes me suspicious.</text>
+		<text bitflag="1345" id1="531404" id2="17" version="1065353216">The biggest drawback of the criminal lifestyle is, you don't meet a lot of decent men. Most are long on charm, short on substance.</text>
+		<text bitflag="1345" id1="531406" id2="17" version="1065353216">What's underneath that charming exterior, Captain? Or is that all you've got?</text>
+		<text bitflag="1345" id1="531407" id2="17" version="1065353216">You know the Spacer's Motto, sweetheart: &quot;If I don't have it, I can get it.&quot; What are you in the market for?</text>
+		<text bitflag="1360" id1="531407" id2="17" version="1065353216">What more do you need?</text>
+		<text bitflag="1345" id1="531408" id2="17" version="1065353216">I'm not buying, I'm selling. And the Seller's Motto is: &quot;If you have to ask the price, you probably can't afford it.&quot;</text>
+		<text bitflag="1345" id1="531410" id2="17" version="1065353216">I've learned the hard way never to jump into things. There's a lot I don't know about you.</text>
+		<text bitflag="1345" id1="531412" id2="17" version="1065353216">Maybe I just didn't want to bore you with personal details. You want to know more about me? Ask away.</text>
+		<text bitflag="1360" id1="531412" id2="17" version="1065353216">[Flirt] Find out.</text>
+		<text bitflag="1345" id1="531413" id2="17" version="1065353216">You're a mercenary who takes jobs for free. How do you plan to stay in business, Captain Goodheart?</text>
+		<text bitflag="1345" id1="531414" id2="17" version="1065353216">I always have credits to keep flying. The rest is spending-money.</text>
+		<text bitflag="1360" id1="531414" id2="17" version="1065353216">I earn more than enough.</text>
+		<text bitflag="1345" id1="531415" id2="17" version="1065353216">So you're nice to people out of laziness? I don't buy it.</text>
+		<text bitflag="1345" id1="531417" id2="17" version="1065353216">I'm looking to settle down with a nice girl of independent means. Know anybody like that?</text>
+		<text bitflag="1360" id1="531417" id2="17" version="1065353216">[Flirt] By marrying wealth.</text>
+		<text bitflag="1345" id1="531418" id2="17" version="1065353216">At least you're honest.</text>
+		<text bitflag="1345" id1="531420" id2="17" version="1065353216">There are a lot of bad people in this galaxy with too many credits. I plan to relieve them of that burden.</text>
+		<text bitflag="1360" id1="531420" id2="17" version="1065353216">Stealing from the evil.</text>
+		<text bitflag="1345" id1="531421" id2="17" version="1065353216">I can't tell if that's your career or your hobby.</text>
+		<text bitflag="1345" id1="531423" id2="17" version="1065353216">I've seen how you do business. You aren't known for your loyalty.</text>
+		<text bitflag="1345" id1="531424" id2="17" version="1065353216">I'm always loyal to someone. It just may not be the first person I talk to.</text>
+		<text bitflag="1360" id1="531424" id2="17" version="1065353216">Sure I am.</text>
+		<text bitflag="1345" id1="531425" id2="17" version="1065353216">Point of view is everything.</text>
+		<text bitflag="1345" id1="531427" id2="17" version="1065353216">I'm loyal to the people who matter. That's you, Risha.</text>
+		<text bitflag="1360" id1="531427" id2="17" version="1065353216">[Flirt] I'm loyal to you.</text>
+		<text bitflag="1345" id1="531428" id2="17" version="1065353216">You're sweet... or maybe you just haven't had a better offer yet.</text>
+		<text bitflag="1345" id1="531430" id2="17" version="1065353216">I give as a good as I get. If people want my loyalty, they have to give me theirs first.</text>
+		<text bitflag="1360" id1="531430" id2="17" version="1065353216">Loyalty is earned, not given.</text>
+		<text bitflag="1345" id1="531431" id2="17" version="1065353216">We have more in common than I thought.</text>
+		<text bitflag="1345" id1="531433" id2="17" version="1065353216">You're a hard man to figure out. Sometimes you play the hero. Sometimes not.</text>
+		<text bitflag="1345" id1="531434" id2="17" version="1065353216">Predictability gets you killed. I like to keep the opposition guessing.</text>
+		<text bitflag="1360" id1="531434" id2="17" version="1065353216">It's a survival tactic.</text>
+		<text bitflag="1345" id1="531435" id2="17" version="1065353216">Is that how you see me? The &quot;opposition&quot;? Thought we were partners.</text>
+		<text bitflag="1345" id1="531437" id2="17" version="1065353216">What's worse, that you can't figure me out, or that I might not be a hero?</text>
+		<text bitflag="1360" id1="531437" id2="17" version="1065353216">That bothers you?</text>
+		<text bitflag="1345" id1="531438" id2="17" version="1065353216">I've had my share of heroes. They can be unreliable, too.</text>
+		<text bitflag="1345" id1="531440" id2="17" version="1065353216">When I play the hero, it's business. If playing the villain pays better, so be it.</text>
+		<text bitflag="1360" id1="531440" id2="17" version="1065353216">All depends on the reward.</text>
+		<text bitflag="1345" id1="531441" id2="17" version="1065353216">Then you're a pure mercenary. Good to know.</text>
+		<text bitflag="1345" id1="531443" id2="17" version="1065353216">I won't lie. I enjoy spending time with you. But I'm not like other girls. The easy lines are wasted on me.</text>
+		<text bitflag="1345" id1="531445" id2="17" version="1065353216">If that doesn't scare you off, maybe this will actually go somewhere. I guess we'll see.</text>
+		<text bitflag="1345" id1="531446" id2="17" version="1065353216">I don't show you anything else because I don't trust you. Probably never will.</text>
+		<text bitflag="1360" id1="531446" id2="17" version="1065353216">It's all I have for you.</text>
+		<text bitflag="1345" id1="531447" id2="17" version="1065353216">Guess I know where we stand. Thanks for the map.</text>
+		<text bitflag="1345" id1="531448" id2="17" version="1065353216">I'm reviewing holovids of Dubrillion. Beautiful planet. Amazing oceans and forests. One of these days I'll have to see it in person.</text>
+		<text bitflag="1345" id1="531449" id2="17" version="1065353216">Why wait? Give me the coordinates. I'll have us there by dinnertime.</text>
+		<text bitflag="1360" id1="531449" id2="17" version="1065353216">We could go now.</text>
+		<text bitflag="1345" id1="531450" id2="17" version="1065353216">Throttle down, Captain. Don't you think I'd have visited by now if I could?</text>
+		<text bitflag="1345" id1="531452" id2="17" version="1065353216">How can you be sure the planet's even worth ruling? For all you know it smells like a wet bantha.</text>
+		<text bitflag="1360" id1="531452" id2="17" version="1065353216">You've never been there?</text>
+		<text bitflag="1345" id1="531453" id2="17" version="1065353216">I hire Bothan spies to pose as tourists and record everything for me. Even the smells.</text>
+		<text bitflag="1345" id1="531455" id2="17" version="1065353216">Preferably, you'll see it from the royal palace--while standing on the king's corpse.</text>
+		<text bitflag="1360" id1="531455" id2="17" version="1065353216">And rule it with an iron fist.</text>
+		<text bitflag="1345" id1="531456" id2="17" version="1065353216">Not like he doesn't have it coming.</text>
+		<text bitflag="1345" id1="531458" id2="17" version="1065353216">Father warned me to stay away from that planet before he went into hibernation. The spaceport has genetic scanners keyed to the Drayen bloodline.</text>
+		<text bitflag="1345" id1="531460" id2="17" version="1065353216">The king's doing everything in his power to keep me away. I'm not taking over without inside help. Until then, I have the holovids.</text>
+		<text bitflag="1345" id1="531466" id2="17" version="1065353216">I envy you, Captain. You'll always be free to do as you please. That all changes for me, once I'm a queen.</text>
+		<text bitflag="1345" id1="531467" id2="17" version="1065353216">I thought the whole point of ruling a planet was to do whatever you feel like.</text>
+		<text bitflag="1360" id1="531467" id2="17" version="1065353216">But you'll be in charge.</text>
+		<text bitflag="1345" id1="531468" id2="17" version="1065353216">My ancestors tried that. Didn't work out.</text>
+		<text bitflag="1345" id1="531470" id2="17" version="1065353216">Dubrillion is getting along fine without you. Do what makes you happy.</text>
+		<text bitflag="1360" id1="531470" id2="17" version="1065353216">So don't become one.</text>
+		<text bitflag="1345" id1="531471" id2="17" version="1065353216">Ruling a planet has its perks. I should at least give it a try.</text>
+		<text bitflag="1345" id1="531473" id2="17" version="1065353216">Freedom is overrated, sweetheart. I'd rather buy a nice planet somewhere. Retire with the woman of my dreams.</text>
+		<text bitflag="1360" id1="531473" id2="17" version="1065353216">[Flirt] I want to settle down.</text>
+		<text bitflag="1345" id1="531474" id2="17" version="1065353216">Dream woman, huh? Good thing you've got a vivid imagination.</text>
+		<text bitflag="1345" id1="531476" id2="17" version="1065353216">You'll be surrounded by people waiting on you hand and foot. My heart bleeds, Risha. Honest.</text>
+		<text bitflag="1360" id1="531476" id2="17" version="1065353216">I have no sympathy.</text>
+		<text bitflag="1345" id1="531477" id2="17" version="1065353216">Servants have a habit of becoming traitors if they're not treated well.</text>
+		<text bitflag="1345" id1="531479" id2="17" version="1065353216">I've studied records about the Drayen dynasty. They started from humble beginnings, distinguished themselves as war heroes. Officially, anyway.</text>
+		<text bitflag="1345" id1="531481" id2="17" version="1065353216">In reality, they backstabbed their way to power just like every other ruler. Some were better at it than others.</text>
+		<text bitflag="1345" id1="531482" id2="17" version="1065353216">Why didn't Nok make his own play for the throne? He was king of the backstab.</text>
+		<text bitflag="1360" id1="531482" id2="17" version="1065353216">What about your father?</text>
+		<text bitflag="1345" id1="531483" id2="17" version="1065353216">He knew recovering the crown was essential to establishing legitimate rule. It's not enough to conquer a world. You have to hold it, too.</text>
+		<text bitflag="1345" id1="531485" id2="17" version="1065353216">If they'd been able to hold onto power, you'd already be Queen.</text>
+		<text bitflag="1360" id1="531485" id2="17" version="1065353216">They all failed.</text>
+		<text bitflag="1345" id1="531486" id2="17" version="1065353216">It only takes one bad ruler to topple a dynasty. And my great-grandfather was good at burning bridges.</text>
+		<text bitflag="1345" id1="531488" id2="17" version="1065353216">You'll be Queen in no time. You're the best backstabber I know.</text>
+		<text bitflag="1360" id1="531488" id2="17" version="1065353216">In that case, you'll do great.</text>
+		<text bitflag="1345" id1="531489" id2="17" version="1065353216">Thanks, but I'm looking to do things a little differently.</text>
+		<text bitflag="1345" id1="531491" id2="17" version="1065353216">Father had his failings, but he inspired loyalty. Whenever he defeated a rival gangster, he always freed the enemy slaves.</text>
+		<text bitflag="1345" id1="531493" id2="17" version="1065353216">He gave them a choice: join him or take their chances elsewhere. No recriminations for anyone who left. The rest became family.</text>
+		<text bitflag="1345" id1="531494" id2="17" version="1065353216">I don't think Nok's definition of &quot;family&quot; is the same one in the dictionary.</text>
+		<text bitflag="1360" id1="531494" id2="17" version="1065353216">Family may be overdoing it.</text>
+		<text bitflag="1345" id1="531495" id2="17" version="1065353216">He gave them regular meals, shelter, and a chance to make their own fortunes.</text>
+		<text bitflag="1345" id1="531497" id2="17" version="1065353216">Interesting way to recruit new talent. How many slaves actually signed-on?</text>
+		<text bitflag="1360" id1="531497" id2="17" version="1065353216">How many joined him?</text>
+		<text bitflag="1345" id1="531498" id2="17" version="1065353216">Those people had a lot of anger issues. Most were excited to have a job that let them express it.</text>
+		<text bitflag="1345" id1="531500" id2="17" version="1065353216">There's no way your father just let the slaves go. He had them killed while you weren't looking.</text>
+		<text bitflag="1360" id1="531500" id2="17" version="1065353216">That isn't the Nok I know.</text>
+		<text bitflag="1345" id1="531501" id2="17" version="1065353216">You don't get it. He never needed to hurt them. Most slaves joined him. The rest were weak--no threat.</text>
+		<text bitflag="1345" id1="531503" id2="17" version="1065353216">There was this one little Twi'lek girl who joined us. Best thief I ever met. Got into all sorts of trouble together.</text>
+		<text bitflag="1345" id1="531505" id2="17" version="1065353216">We were like sisters, but when father's organization collapsed we got separated. I never found out what happened to her.</text>
+		<text bitflag="1345" id1="531506" id2="17" version="1065353216">No news is good news. She's probably enjoying an early retirement somewhere.</text>
+		<text bitflag="1360" id1="531506" id2="17" version="1065353216">I'm sure she's fine.</text>
+		<text bitflag="1345" id1="531507" id2="17" version="1065353216">I like to think so.</text>
+		<text bitflag="1345" id1="531509" id2="17" version="1065353216">Never too late to find her. If she's as good a thief as you say, she might come in handy.</text>
+		<text bitflag="1360" id1="531509" id2="17" version="1065353216">You should look her up.</text>
+		<text bitflag="1345" id1="531510" id2="17" version="1065353216">That was a long time ago. Sometimes it's better to leave the past alone.</text>
+		<text bitflag="1345" id1="531512" id2="17" version="1065353216">If you haven't heard from her by now, you're not going to.</text>
+		<text bitflag="1360" id1="531512" id2="17" version="1065353216">She's probably dead.</text>
+		<text bitflag="1345" id1="531513" id2="17" version="1065353216">She was always a survivor. I like to think she started over, like me.</text>
+		<text bitflag="1345" id1="531515" id2="17" version="1065353216">You're really bringing out my chatty side today. That usually means I need to get some exercise.</text>
+		<text bitflag="1345" id1="531517" id2="17" version="1065353216">Let's find something more exciting to do than stand around.</text>
+		<text bitflag="1345" id1="531523" id2="17" version="1065353216">I think I've figured out why we get along so well, Captain. We're both restless people. It's how we survive.</text>
+		<text bitflag="1345" id1="531525" id2="17" version="1065353216">Trouble loves us, and we just keep on moving. Eventually, trouble gets tired of following and gives up.</text>
+		<text bitflag="1345" id1="531526" id2="17" version="1065353216">There's always more trouble where that came from.</text>
+		<text bitflag="1360" id1="531526" id2="17" version="1065353216">But not for long.</text>
+		<text bitflag="1345" id1="531527" id2="17" version="1065353216">Exactly. Isn't it wonderful?</text>
+		<text bitflag="1345" id1="531529" id2="17" version="1065353216">I've attracted some awfully persistent trouble.</text>
+		<text bitflag="1360" id1="531529" id2="17" version="1065353216">Never in my experience.</text>
+		<text bitflag="1345" id1="531530" id2="17" version="1065353216">Some people are lucky that way.</text>
+		<text bitflag="1345" id1="531532" id2="17" version="1065353216">I'm the kind of trouble that never gets tired. Do yourself a favor, sweetheart--stop running.</text>
+		<text bitflag="1360" id1="531532" id2="17" version="1065353216">[Flirt] Let trouble catch you.</text>
+		<text bitflag="1345" id1="531533" id2="17" version="1065353216">I don't have to run from you, Captain. A brisk walk is usually enough.</text>
+		<text bitflag="1345" id1="531535" id2="17" version="1065353216">I have no idea what you're talking about. Have you been inhaling fuel-line cleaners again?</text>
+		<text bitflag="1360" id1="531535" id2="17" version="1065353216">You're babbling.</text>
+		<text bitflag="1345" id1="531536" id2="17" version="1065353216">Maybe you're some kind of &quot;trouble savant.&quot; That would explain a lot.</text>
+		<text bitflag="1345" id1="531538" id2="17" version="1065353216">There wasn't nearly enough trouble growing up on Dantooine. After being a crime lord's daughter, sitting around got dull real quick.</text>
+		<text bitflag="1345" id1="531540" id2="17" version="1065353216">I had a big library of holo-recordings from my father, but I could only watch them so many times.</text>
+		<text bitflag="1345" id1="531541" id2="17" version="1065353216">Never figured Nok for the sentimental type. He left you a bunch of holos dispensing his life's wisdom?</text>
+		<text bitflag="1360" id1="531541" id2="17" version="1065353216">Tell me about the recordings.</text>
+		<text bitflag="1345" id1="531542" id2="17" version="1065353216">If by &quot;wisdom&quot; you mean teaching me how to become a criminal, then yes. He was a good teacher. Very detail-oriented.</text>
+		<text bitflag="1345" id1="531544" id2="17" version="1065353216">You still had a starship. I'm guessing you weren't long for Dantooine.</text>
+		<text bitflag="1360" id1="531544" id2="17" version="1065353216">You ran away, right?</text>
+		<text bitflag="1345" id1="531545" id2="17" version="1065353216">When things get dull, I just start shooting. Works like a charm.</text>
+		<text bitflag="1360" id1="531545" id2="17" version="1065353216">I make my own trouble.</text>
+		<text bitflag="1345" id1="531546" id2="17" version="1065353216">I tried that, but Kath hounds are so stupid. I never got them to chase me.</text>
+		<text bitflag="1345" id1="531548" id2="17" version="1065353216">By the time I was fourteen, I'd had enough. I buried father's carbonite chamber someplace safe and hit the hyperlanes with a new identity.</text>
+		<text bitflag="1345" id1="531550" id2="17" version="1065353216">Those were good times. I met Juran and Audila. Got mixed-up with Beryl Thorne. Lived a life of crime.</text>
+		<text bitflag="1345" id1="531551" id2="17" version="1065353216">I'm sure Nok was proud of your accomplishments.</text>
+		<text bitflag="1360" id1="531551" id2="17" version="1065353216">Just like your father.</text>
+		<text bitflag="1345" id1="531552" id2="17" version="1065353216">Actually, he was disappointed I didn't have my own criminal empire. I was having too much fun on my own.</text>
+		<text bitflag="1345" id1="531554" id2="17" version="1065353216">Every time I see some idiot scrubbing tables at a cantina, I think of how lucky I am.</text>
+		<text bitflag="1360" id1="531554" id2="17" version="1065353216">That's the best way to live.</text>
+		<text bitflag="1345" id1="531555" id2="17" version="1065353216">Normal jobs are for people who aren't smart enough to earn a real living.</text>
+		<text bitflag="1345" id1="531557" id2="17" version="1065353216">As criminals go, you're pretty mediocre. You joined-up with Skavak, for crying out loud.</text>
+		<text bitflag="1360" id1="531557" id2="17" version="1065353216">Not a very good one.</text>
+		<text bitflag="1345" id1="531558" id2="17" version="1065353216">I never &quot;joined-up&quot; with Skavak. I used him until someone better came along. Worked out pretty well.</text>
+		<text bitflag="1345" id1="531560" id2="17" version="1065353216">I'm starting to enjoy these chats, but I'm feeling restless. Let's go find some trouble.</text>
+		<text bitflag="1345" id1="531566" id2="17" version="1065353216">Sometimes I can't believe you actually got back my crown. Do you know how many spacers died looking for it?</text>
+		<text bitflag="1345" id1="531568" id2="17" version="1065353216">Don't take this the wrong way, but when we first met I thought you'd wind up like all the others.</text>
+		<text bitflag="1345" id1="531569" id2="17" version="1065353216">I'll always beat the odds. You can count on that.</text>
+		<text bitflag="1360" id1="531569" id2="17" version="1065353216">Not my style.</text>
+		<text bitflag="1345" id1="531570" id2="17" version="1065353216">Why do you think I stayed with you? I'm hoping some of that luck rubs off.</text>
+		<text bitflag="1345" id1="531572" id2="17" version="1065353216">That's why I stuck around. I need all the good luck I can get.</text>
+		<text bitflag="1345" id1="531574" id2="17" version="1065353216">I never thought you had anything less than total confidence in me.</text>
+		<text bitflag="1360" id1="531574" id2="17" version="1065353216">You hid it well.</text>
+		<text bitflag="1345" id1="531575" id2="17" version="1065353216">I learned pretty fast not to underestimate you.</text>
+		<text bitflag="1345" id1="531577" id2="17" version="1065353216">No wonder you wouldn't let yourself fall for me. You were afraid I'd die.</text>
+		<text bitflag="1360" id1="531577" id2="17" version="1065353216">[Flirt] That explains it all.</text>
+		<text bitflag="1345" id1="531578" id2="17" version="1065353216">Oh, yes. Terrified.</text>
+		<text bitflag="1345" id1="531580" id2="17" version="1065353216">You probably planned to steal my ship when I died.</text>
+		<text bitflag="1360" id1="531580" id2="17" version="1065353216">So you were using me?</text>
+		<text bitflag="1345" id1="531581" id2="17" version="1065353216">Would that have been so wrong?</text>
+		<text bitflag="1345" id1="531583" id2="17" version="1065353216">What I'm really saying is, thanks. I wouldn't be where I am without you.</text>
+		<text bitflag="1345" id1="531584" id2="17" version="1065353216">I never leave an unhappy customer... except for Rogun the Butcher. He doesn't count.</text>
+		<text bitflag="1360" id1="531584" id2="17" version="1065353216">It's all part of the job.</text>
+		<text bitflag="1345" id1="531585" id2="17" version="1065353216">You can't please everyone.</text>
+		<text bitflag="1345" id1="531587" id2="17" version="1065353216">You don't have to thank me, Risha. We're not business partners anymore.</text>
+		<text bitflag="1360" id1="531587" id2="17" version="1065353216">What are friends for?</text>
+		<text bitflag="1345" id1="531588" id2="17" version="1065353216">That's all the more reason to say something.</text>
+		<text bitflag="1345" id1="531590" id2="17" version="1065353216">You owe me big time, future Queen. Don't think I'm not planning to collect.</text>
+		<text bitflag="1360" id1="531590" id2="17" version="1065353216">Never forget it.</text>
+		<text bitflag="1345" id1="531591" id2="17" version="1065353216">It's just business. Sure.</text>
+		<text bitflag="1345" id1="531593" id2="17" version="1065353216">Anyway... didn't mean to slow us down. I'm sure we have plenty to do.</text>
+		<text bitflag="1345" id1="531594" id2="17" version="1065353216">After an acceptable period of mourning.</text>
+		<text bitflag="1345" id1="531596" id2="17" version="1065353216">You're all right, Captain. With a little polish, you just might shine.</text>
+		<text bitflag="1345" id1="531597" id2="17" version="1065353216">I've been shining since you met me. You're just not paying attention.</text>
+		<text bitflag="1360" id1="531597" id2="17" version="1065353216">[Flirt] I already shine.</text>
+		<text bitflag="1345" id1="531598" id2="17" version="1065353216">Interesting theory. When you can prove it, let me know.</text>
+		<text bitflag="1345" id1="531599" id2="17" version="1065353216">This polishing business sounds like fun. When do we start?</text>
+		<text bitflag="1360" id1="531599" id2="17" version="1065353216">[Flirt] Polish away.</text>
+		<text bitflag="1345" id1="531600" id2="17" version="1065353216">I wasn't volunteering, Captain. Just... observing.</text>
+		<text bitflag="1345" id1="531602" id2="17" version="1065353216">Don't get your hopes up, Risha. You're not my type.</text>
+		<text bitflag="1360" id1="531602" id2="17" version="1065353216">Not for you, I won't.</text>
+		<text bitflag="1345" id1="531603" id2="17" version="1065353216">Wait, you thought I was flirting with you? Please! You're not my type, either.</text>
+		<text bitflag="1345" id1="531605" id2="17" version="1065353216">I shouldn't be keeping us from our work. I know how busy we are.</text>
+		<text bitflag="1345" id1="531611" id2="17" version="1065353216">Bet you were surprised to see I can hold my own in a fight. I'm pretty good with a blaster.</text>
+		<text bitflag="1345" id1="531613" id2="17" version="1065353216">My father taught me to shoot when I was four years old.</text>
+		<text bitflag="1345" id1="531614" id2="17" version="1065353216">Sounds like Nok didn't give you much of a childhood.</text>
+		<text bitflag="1360" id1="531614" id2="17" version="1065353216">Most children play with toys.</text>
+		<text bitflag="1345" id1="531615" id2="17" version="1065353216">Are you kidding? His lieutenants were terrified of me. They let me do whatever I wanted.</text>
+		<text bitflag="1345" id1="531617" id2="17" version="1065353216">Was Nok that desperate for muscle?</text>
+		<text bitflag="1360" id1="531617" id2="17" version="1065353216">What was the big rush?</text>
+		<text bitflag="1345" id1="531618" id2="17" version="1065353216">He thought an armed toddler was more reliable than his own people.</text>
+		<text bitflag="1345" id1="531620" id2="17" version="1065353216">He robbed me of my big chance. Teaching a girl to shoot can be romantic, if you do it right.</text>
+		<text bitflag="1360" id1="531620" id2="17" version="1065353216">[Flirt] I wanted to do that.</text>
+		<text bitflag="1345" id1="531621" id2="17" version="1065353216">And very messy if you don't. Maybe he spared you a visit to the med-center.</text>
+		<text bitflag="1345" id1="531623" id2="17" version="1065353216">My kid will be born with a blaster in one hand and credits in the other.</text>
+		<text bitflag="1360" id1="531623" id2="17" version="1065353216">I'll do the same, someday.</text>
+		<text bitflag="1345" id1="531624" id2="17" version="1065353216">Ha... sorry, I was just imagining you with a child....</text>
+		<text bitflag="1345" id1="531626" id2="17" version="1065353216">Father wanted me self-sufficient as early as possible. Said I'd need it to survive. He was right.</text>
+		<text bitflag="1345" id1="531628" id2="17" version="1065353216">I still remember the day he told me he was &quot;going to sleep&quot; for a while. Said I was on my own.</text>
+		<text bitflag="1345" id1="531629" id2="17" version="1065353216">Nok was in that carbonite for a decade. Weren't you still counting birthdays on one hand?</text>
+		<text bitflag="1360" id1="531629" id2="17" version="1065353216">You must have been young.</text>
+		<text bitflag="1345" id1="531630" id2="17" version="1065353216">Tell me he at least gave you credits before he froze himself in carbonite.</text>
+		<text bitflag="1360" id1="531630" id2="17" version="1065353216">He just abandoned you?</text>
+		<text bitflag="1345" id1="531631" id2="17" version="1065353216">He wasn't the greatest father in the galaxy, but he planned ahead. Gave me a blaster, a starship and plenty of credits.</text>
+		<text bitflag="1345" id1="531633" id2="17" version="1065353216">&quot;Going to sleep?&quot; You must have thought he was dying.</text>
+		<text bitflag="1360" id1="531633" id2="17" version="1065353216">I'll bet you were scared.</text>
+		<text bitflag="1345" id1="531634" id2="17" version="1065353216">Oh, no. He always treated me like an adult. I knew what was happening, even if I didn't understand it.</text>
+		<text bitflag="1345" id1="531636" id2="17" version="1065353216">I was eleven. Made my first solo hyperspace jump and flew to Dantooine. Father had a hideout there.</text>
+		<text bitflag="1345" id1="531638" id2="17" version="1065353216">Talk about your one-bantha planets. For a few years, Dantooine's population was doubled thanks to me and father frozen in carbonite.</text>
+		<text bitflag="1345" id1="531639" id2="17" version="1065353216">You had one messed-up childhood, Risha. It's a wonder you didn't come out crazy.</text>
+		<text bitflag="1360" id1="531639" id2="17" version="1065353216">Sounds lonely... and weird.</text>
+		<text bitflag="1345" id1="531640" id2="17" version="1065353216">You talk a lot about Nok, but you've never mentioned your mother.</text>
+		<text bitflag="1360" id1="531640" id2="17" version="1065353216">What about your mother?</text>
+		<text bitflag="1345" id1="531641" id2="17" version="1065353216">She died when I was young. I don't remember her.</text>
+		<text bitflag="1345" id1="531643" id2="17" version="1065353216">Now I understand your lack of social graces. You were raised by a hunk of carbonite.</text>
+		<text bitflag="1360" id1="531643" id2="17" version="1065353216">This explains your immaturity.</text>
+		<text bitflag="1345" id1="531644" id2="17" version="1065353216">Having my verbal skills insulted by you... ironic.</text>
+		<text bitflag="1345" id1="531646" id2="17" version="1065353216">Looking back, I should've been miserable. But it was just a big adventure.</text>
+		<text bitflag="1345" id1="531648" id2="17" version="1065353216">Speaking of which, we're overdue for some more excitement. What do you say we get back to our latest caper?</text>
+		<text bitflag="1345" id1="531652" id2="17" version="1065353216">When we get back to the ship, come find me. I need a few moments of your time.</text>
+		<text bitflag="1345" id1="531653" id2="17" version="1065353216">Next time we're someplace we won't get shot, let's talk.</text>
+		<text bitflag="1345" id1="531654" id2="17" version="1065353216">This isn't a good time for a chat. Maybe later.</text>
+		<text bitflag="1345" id1="988562" id2="17" version="1065353216">You're the boss.</text>
+		<text bitflag="1345" id1="988563" id2="17" version="1065353216">Looking forward to working with you, Captain.</text>
+		<text bitflag="1345" id1="988564" id2="17" version="1065353216">I'll be fine. I'm always fine.</text>
+		<text bitflag="1345" id1="988565" id2="17" version="1065353216">Glad to know you've got my back.</text>
+		<text bitflag="1345" id1="988566" id2="17" version="1065353216">I hope you know what you're doing.</text>
+		<text bitflag="1345" id1="988567" id2="17" version="1065353216">You're easily distracted by shiny things, aren't you?</text>
+		<text bitflag="1345" id1="988568" id2="17" version="1065353216">I promise you won't be disappointed.</text>
+		<text bitflag="1345" id1="988569" id2="17" version="1065353216">I won't let you take off without me.</text>
+		<text bitflag="1345" id1="988570" id2="17" version="1065353216">There's nowhere in Republic space that's safe anymore.</text>
+		<text bitflag="1345" id1="988571" id2="17" version="1065353216">Normal jobs are for people who aren't smart enough to earn a real living.</text>
+		<text bitflag="1345" id1="988572" id2="17" version="1065353216">Let's find something more exciting to do than stand around.</text>
+		<text bitflag="1345" id1="988573" id2="17" version="1065353216">I'd wish you good luck, but I know you don't need it.</text>
+		<text bitflag="1345" id1="988574" id2="17" version="1065353216">I suppose we should get back to letting people shoot at us.</text>
+		<text bitflag="1345" id1="988575" id2="17" version="1065353216">Let's go back to doing what we're good at: shooting people and making money.</text>
+		<text bitflag="1345" id1="988576" id2="17" version="1065353216">I'm taking a wild guess that my life just got a new kind of complicated.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/bronze/imperial/under_the_ice/g0_s5.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="673358" id2="17" version="1065353216">Request = issued // Updates = not available</text>
+		<text bitflag="3393" id1="673359" id2="17" version="1065353216">Patrol unit G0-S5 = requires assistance // Critical Imperial personnel = missing in action</text>
+		<text bitflag="3393" id1="673367" id2="17" version="1065353216">Report = not available // Unit = standby</text>
+		<text bitflag="3393" id1="770325" id2="17" version="1065353216">Strike unit &quot;Grek team&quot; = conducting priority assault mission // Last field report = thirty-four hours ago // Suspected KIA</text>
+		<text bitflag="3393" id1="770327" id2="17" version="1065353216">Mission failure = unacceptable // Request = locate Grek team + ensure mission completion</text>
+		<text bitflag="336" id1="917725" id2="17" version="1065353216">I'll find them.</text>
+		<text bitflag="3393" id1="917783" id2="17" version="1065353216">G0-S5 = uploading Grek team's last known coordinates // Target area = hostile territory // Recommend extreme caution</text>
+		<text bitflag="336" id1="917806" id2="17" version="1065353216">What was Grek team doing?</text>
+		<text bitflag="3393" id1="917807" id2="17" version="1065353216">Details = unavailable // Grek team leader &quot;Sergeant Peden&quot; = retains mission specs</text>
+		<text bitflag="336" id1="917809" id2="17" version="1065353216">Can't do it. [Refuse quest]</text>
+		<text bitflag="3393" id1="917810" id2="17" version="1065353216">G0-S5 = will continue hailing Grek team // Success = unlikely</text>
+	</file_content>
+</stb_file>

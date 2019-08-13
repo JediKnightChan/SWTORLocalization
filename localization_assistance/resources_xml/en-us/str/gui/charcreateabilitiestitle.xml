@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>24</strs>
+		<file_name>/resources/en-us/str/gui/charcreateabilitiestitle.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="482764" version="1065353216">WARRIOR ABILITIES</text>
+		<text bitflag="321" id1="2" id2="482764" version="1065353216">INQUISITOR ABILITIES</text>
+		<text bitflag="321" id1="3" id2="482764" version="1065353216">BOUNTY HUNTER ABILITIES</text>
+		<text bitflag="321" id1="4" id2="482764" version="1065353216">AGENT ABILITIES</text>
+		<text bitflag="321" id1="5" id2="482764" version="1065353216">KNIGHT ABILITIES</text>
+		<text bitflag="321" id1="6" id2="482764" version="1065353216">CONSULAR ABILITIES</text>
+		<text bitflag="321" id1="7" id2="482764" version="1065353216">SMUGGLER ABILITIES</text>
+		<text bitflag="321" id1="8" id2="482764" version="1065353216">TROOPER ABILITIES</text>
+		<text bitflag="321" id1="100" id2="482764" version="1065353216">MARAUDER ABILITIES</text>
+		<text bitflag="321" id1="101" id2="482764" version="1065353216">JUGGERNAUT ABILITIES</text>
+		<text bitflag="321" id1="200" id2="482764" version="1065353216">ASSASSIN ABILITIES</text>
+		<text bitflag="321" id1="201" id2="482764" version="1065353216">SORCERER ABILITIES</text>
+		<text bitflag="321" id1="300" id2="482764" version="1065353216">MERCENARY ABILITIES</text>
+		<text bitflag="321" id1="301" id2="482764" version="1065353216">POWERTECH ABILITIES</text>
+		<text bitflag="321" id1="400" id2="482764" version="1065353216">SNIPER ABILITIES</text>
+		<text bitflag="321" id1="401" id2="482764" version="1065353216">OPERATIVE ABILITIES</text>
+		<text bitflag="321" id1="500" id2="482764" version="1065353216">GUARDIAN ABILITIES</text>
+		<text bitflag="321" id1="501" id2="482764" version="1065353216">SENTINEL ABILITIES</text>
+		<text bitflag="321" id1="600" id2="482764" version="1065353216">SAGE ABILITIES</text>
+		<text bitflag="321" id1="601" id2="482764" version="1065353216">SHADOW ABILITIES</text>
+		<text bitflag="321" id1="700" id2="482764" version="1065353216">GUNSLINGER ABILITIES</text>
+		<text bitflag="321" id1="701" id2="482764" version="1065353216">SCOUNDREL ABILITIES</text>
+		<text bitflag="321" id1="800" id2="482764" version="1065353216">COMMANDO ABILITIES</text>
+		<text bitflag="321" id1="801" id2="482764" version="1065353216">VANGUARD ABILITIES</text>
+	</file_content>
+</stb_file>

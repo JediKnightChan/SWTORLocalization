@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>172</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/class/jedi_knight/sergeant_rusk.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="672250" id2="17" version="1065353216">It's an honor to serve a Jedi--especially one on a mission like yours. Victory or death.</text>
+		<text bitflag="1345" id1="672251" id2="17" version="1065353216">I'll requisition my gear and meet you at your ship.</text>
+		<text bitflag="1345" id1="672252" id2="17" version="1065353216">Grab a bunk and make yourself at home.</text>
+		<text bitflag="1360" id1="672252" id2="17" version="1065353216">See you there.</text>
+		<text bitflag="1345" id1="672253" id2="17" version="1065353216">I still have business here. You should come with me.</text>
+		<text bitflag="1360" id1="672253" id2="17" version="1065353216">Wait. [Change companion]</text>
+		<text bitflag="1345" id1="672254" id2="17" version="1065353216">Fine by me. I'm ready to thaw out.</text>
+		<text bitflag="1345" id1="672256" id2="17" version="1065353216">Aw, gee. I was hoping to see more snow and ice. Maybe next time.</text>
+		<text bitflag="3393" id1="672258" id2="17" version="1065353216">T7 = using ship de-icers to thaw servomotors</text>
+		<text bitflag="1345" id1="672260" id2="17" version="1065353216">I'll just have my gear delivered to your ship, then. Lead on, Master Jedi.</text>
+		<text bitflag="1345" id1="672263" id2="17" version="1065353216">Get going, Sergeant. I'll be leaving soon.</text>
+		<text bitflag="1360" id1="672263" id2="17" version="1065353216">You're dismissed.</text>
+		<text bitflag="1345" id1="672264" id2="17" version="1065353216">As ordered, Master Jedi.</text>
+		<text bitflag="1345" id1="672268" id2="17" version="1065353216">Good to see you. I was just finishing my mission report.</text>
+		<text bitflag="1345" id1="672271" id2="17" version="1065353216">I'll have my new squad in position ASAP. We won't let you down.</text>
+		<text bitflag="1345" id1="672272" id2="17" version="1065353216">We'll keep our target busy as long as we have to. Good luck, Master Jedi.</text>
+		<text bitflag="1345" id1="672275" id2="17" version="1065353216">Hope this isn't a bad time, Master Jedi.</text>
+		<text bitflag="1345" id1="672277" id2="17" version="1065353216">We took out the other reactor--but General Grayne just alerted me to a secondary objective.</text>
+		<text bitflag="1345" id1="672279" id2="17" version="1065353216">The White Maw has a series of munitions dumps here. Scouts report those weapons are headed for the dreadnaught.</text>
+		<text bitflag="1345" id1="672281" id2="17" version="1065353216">General Grayne believes the pirates are reinforcing. He ordered me to hit those munitions dumps. Thought you might want to join in.</text>
+		<text bitflag="1345" id1="672282" id2="17" version="1065353216">I don't want the enemy well-armed when we assault that dreadnaught.</text>
+		<text bitflag="1360" id1="672282" id2="17" version="1065353216">Wouldn't miss it.</text>
+		<text bitflag="1345" id1="672283" id2="17" version="1065353216">You're not under General Grayne's authority until my mission is complete. Understood?</text>
+		<text bitflag="1360" id1="672283" id2="17" version="1065353216">You only take orders from me.</text>
+		<text bitflag="1345" id1="672284" id2="17" version="1065353216">General Grayne is supreme commander here. Ignoring a direct order from him would be highly irregular.</text>
+		<text bitflag="1345" id1="672286" id2="17" version="1065353216">Cutting off the weapon supplies before they reach that dreadnaught makes your mission easier.</text>
+		<text bitflag="1345" id1="672288" id2="17" version="1065353216">I estimate my squad can destroy the munitions dumps with minimal casualties. Two or three men, tops.</text>
+		<text bitflag="1345" id1="672289" id2="17" version="1065353216">I'm sure the casualties will be fewer if I help.</text>
+		<text bitflag="1360" id1="672289" id2="17" version="1065353216">I'll join you.</text>
+		<text bitflag="1345" id1="672290" id2="17" version="1065353216">Transmitting coordinates to you now. If you can hit at least half, my men will handle the rest.</text>
+		<text bitflag="1345" id1="672292" id2="17" version="1065353216">We'll rendezvous with you at the outpost when this mission's complete. Sergeant Rusk out....</text>
+		<text bitflag="1345" id1="672294" id2="17" version="1065353216">I want your squad intact for the assault on that dreadnaught. Leave those munitions dumps alone.</text>
+		<text bitflag="1360" id1="672294" id2="17" version="1065353216">Do not obey General Grayne.</text>
+		<text bitflag="1345" id1="672296" id2="17" version="1065353216">General Grayne doesn't understand the bigger picture. I'll explain everything to him later. Clear?</text>
+		<text bitflag="1345" id1="672297" id2="17" version="1065353216">Yes, Master Jedi. We'll meet you at the outpost shortly. Rusk out....</text>
+		<text bitflag="1345" id1="672298" id2="17" version="1065353216">Just make sure you have enough men left to assault that dreadnaught.</text>
+		<text bitflag="1360" id1="672298" id2="17" version="1065353216">Go, then. [Refuse quest]</text>
+		<text bitflag="1345" id1="672299" id2="17" version="1065353216">You handle the pirates. I need to rendezvous with my fellow Jedi.</text>
+		<text bitflag="1360" id1="672299" id2="17" version="1065353216">I'm busy. [Refuse quest]</text>
+		<text bitflag="1345" id1="672300" id2="17" version="1065353216">Understood. I'll double-time the men through this and meet you ASAP. Rusk out....</text>
+		<text bitflag="1345" id1="672302" id2="17" version="1065353216">We'll have our target down in no time. Count on it.</text>
+		<text bitflag="1345" id1="672303" id2="17" version="1065353216">The White Maw maintains a depot inside a crashed dreadnaught. Everything they loot goes there.</text>
+		<text bitflag="1345" id1="672304" id2="17" version="1065353216">At least our objective is clear.</text>
+		<text bitflag="1360" id1="672304" id2="17" version="1065353216">That's our next stop.</text>
+		<text bitflag="1345" id1="672305" id2="17" version="1065353216">Sounds like you've dealt with these pirates before. Tell me about them.</text>
+		<text bitflag="1360" id1="672305" id2="17" version="1065353216">What else do you know?</text>
+		<text bitflag="1345" id1="672306" id2="17" version="1065353216">Before the Empire arrived, I was fighting the White Maw. They're well-armed, heavily fortified, clever scum.</text>
+		<text bitflag="1345" id1="672308" id2="17" version="1065353216">White Maw has its own dreadnaught?</text>
+		<text bitflag="1360" id1="672308" id2="17" version="1065353216">Is the vessel theirs?</text>
+		<text bitflag="1345" id1="672309" id2="17" version="1065353216">It was a Republic flagship during the war. The White Maw moved in but doesn't control all of it.</text>
+		<text bitflag="1345" id1="672311" id2="17" version="1065353216">The pirates secure their depot with ray shields. We'll have to find some way past them to reach those databanks.</text>
+		<text bitflag="1345" id1="672313" id2="17" version="1065353216">The Meedees scouted White Maw territory. They located two reactors buried beneath the ice.</text>
+		<text bitflag="1345" id1="672315" id2="17" version="1065353216">They're no doubt powering the ray shields. If we destroy the reactors, we can enter the pirate depot.</text>
+		<text bitflag="1345" id1="672317" id2="17" version="1065353216">Sergeant Rusk, head for these coordinates and destroy the reactor there. My friend will destroy the one at these coordinates.</text>
+		<text bitflag="1345" id1="672318" id2="17" version="1065353216">If your squad runs into trouble, contact me.</text>
+		<text bitflag="1360" id1="672318" id2="17" version="1065353216">Take care, Sergeant.</text>
+		<text bitflag="1345" id1="672319" id2="17" version="1065353216">Likewise, Master Jedi.</text>
+		<text bitflag="1345" id1="672321" id2="17" version="1065353216">Won't we have better odds if we combine our forces?</text>
+		<text bitflag="1360" id1="672321" id2="17" version="1065353216">Splitting up seems unwise.</text>
+		<text bitflag="1345" id1="672322" id2="17" version="1065353216">We need to strike the reactors simultaneously. Otherwise, we risk giving the pirates a chance to fortify the second one.</text>
+		<text bitflag="1345" id1="672324" id2="17" version="1065353216">My men are up to the task, Master Jedi. We won't let you down.</text>
+		<text bitflag="1345" id1="672326" id2="17" version="1065353216">Are you planning to sit this one out?</text>
+		<text bitflag="1360" id1="672326" id2="17" version="1065353216">You're not coming?</text>
+		<text bitflag="1345" id1="672327" id2="17" version="1065353216">We can't leave the Imperial here, and he's a liability on a combat mission. You're twice the warrior I am.</text>
+		<text bitflag="1345" id1="672329" id2="17" version="1065353216">I'll escort our prisoner to the Republic outpost near the starship graveyard. The Meedees will perform reconnaissance on the dreadnaught.</text>
+		<text bitflag="1345" id1="672331" id2="17" version="1065353216">When both pirate reactors are destroyed, meet me at the outpost and we'll plan our assault. May the Force be with us.</text>
+		<text bitflag="1345" id1="672335" id2="17" version="1065353216">Got here soon as we could. Had to engage some Imperial patrols in our way, but nothing serious.</text>
+		<text bitflag="1345" id1="672337" id2="17" version="1065353216">Nothing serious? Privates Vanth and Edder don't know what day it is. We're lucky to all be alive!</text>
+		<text bitflag="1345" id1="672339" id2="17" version="1065353216">Shut it down, Private! I don't tolerate insubordination.</text>
+		<text bitflag="1345" id1="672340" id2="17" version="1065353216">All of you, please listen. I know you've been through a lot. I understand your frustration.</text>
+		<text bitflag="1360" id1="672340" id2="17" version="1065353216">Everyone calm down.</text>
+		<text bitflag="1345" id1="672342" id2="17" version="1065353216">But a good Jedi--a good soldier--puts emotions aside to do what's necessary.</text>
+		<text bitflag="1345" id1="672344" id2="17" version="1065353216">To say the fate of the galaxy depends on us is no exaggeration. We must hold together.</text>
+		<text bitflag="1345" id1="672345" id2="17" version="1065353216">You should run for the Senate.</text>
+		<text bitflag="1345" id1="672347" id2="17" version="1065353216">Keep that up, the Republic might make you a general.</text>
+		<text bitflag="3393" id1="672349" id2="17" version="1065353216">T7 = served many battlefield commanders // Jedi = the best</text>
+		<text bitflag="1345" id1="672351" id2="17" version="1065353216">Let's honor this Jedi by giving our all.</text>
+		<text bitflag="1345" id1="672352" id2="17" version="1065353216">Listen up. You signed your lives away when you joined the Republic Army. Complaining won't change that.</text>
+		<text bitflag="1360" id1="672352" id2="17" version="1065353216">I'll restore discipline.</text>
+		<text bitflag="1345" id1="672354" id2="17" version="1065353216">The Empire wants us dead. You can run, or kill them first.</text>
+		<text bitflag="1345" id1="672356" id2="17" version="1065353216">If you're frustrated, take it out on the enemy--not your commander.</text>
+		<text bitflag="1345" id1="672357" id2="17" version="1065353216">Appealing to hatred. That's one way to inspire the troops....</text>
+		<text bitflag="1345" id1="672359" id2="17" version="1065353216">Guess that was better than mind-tricking them....</text>
+		<text bitflag="3393" id1="672361" id2="17" version="1065353216">Jedi = persuasive // Destroy Empire = best plan</text>
+		<text bitflag="1345" id1="672363" id2="17" version="1065353216">I don't want any of you throwing your lives away--unless you take ten times as many Imperials with you.</text>
+		<text bitflag="1345" id1="672364" id2="17" version="1065353216">You men will follow Sergeant Rusk's orders to the letter. You will not complain.</text>
+		<text bitflag="1360" id1="672364" id2="17" version="1065353216">[Force Persuade] Obey him.</text>
+		<text bitflag="1345" id1="672365" id2="17" version="1065353216">We'll follow Sergeant Rusk's orders to the letter. We won't complain.</text>
+		<text bitflag="1345" id1="672367" id2="17" version="1065353216">Was that your version of a pep talk?</text>
+		<text bitflag="1345" id1="672369" id2="17" version="1065353216">Mind-tricking our own people. Not sure I'm on board with that.</text>
+		<text bitflag="3393" id1="672371" id2="17" version="1065353216">Jedi = removing free will? // T7 = worried</text>
+		<text bitflag="1345" id1="672373" id2="17" version="1065353216">Thank you, Master Jedi. I appreciate the vote of confidence.</text>
+		<text bitflag="1345" id1="672375" id2="17" version="1065353216">Here... found this on an Imperial major. Might be useful.</text>
+		<text bitflag="1345" id1="672377" id2="17" version="1065353216">This is the scientist's vessel. And look what I found hiding under a dead Imperial officer....</text>
+		<text bitflag="1345" id1="672379" id2="17" version="1065353216">The rest of your unit is dead, Imperial. Start talking, or you'll join them.</text>
+		<text bitflag="1345" id1="672381" id2="17" version="1065353216">Please, I don't know anything. I'm just a computer tech.</text>
+		<text bitflag="1345" id1="672382" id2="17" version="1065353216">The Empire sent you here for a reason. Let's start with that.</text>
+		<text bitflag="1360" id1="672382" id2="17" version="1065353216">You know something.</text>
+		<text bitflag="1345" id1="672383" id2="17" version="1065353216">We won't hurt you--but the more you help us, the more we can help you.</text>
+		<text bitflag="1360" id1="672383" id2="17" version="1065353216">I promise you won't be harmed.</text>
+		<text bitflag="1345" id1="672384" id2="17" version="1065353216">When I said I didn't know anything, that wasn't completely true....</text>
+		<text bitflag="1345" id1="672386" id2="17" version="1065353216">You're a soon-to-be-dead computer tech, unless you become useful.</text>
+		<text bitflag="1360" id1="672386" id2="17" version="1065353216">Then we don't need you alive.</text>
+		<text bitflag="1345" id1="672387" id2="17" version="1065353216">What my friend means is, we'd appreciate your full cooperation.</text>
+		<text bitflag="1345" id1="672389" id2="17" version="1065353216">My job was to slice the databanks of this old starship, but the White Maw beat us to them. They lifted the whole network.</text>
+		<text bitflag="1345" id1="672391" id2="17" version="1065353216">The pirates stole the ship's databanks?</text>
+		<text bitflag="1345" id1="672393" id2="17" version="1065353216">They took everything valuable--but they missed the computer decryption file. They can't read the databanks without this.</text>
+		<text bitflag="1345" id1="672395" id2="17" version="1065353216">I'll be taking that.</text>
+		<text bitflag="1345" id1="672397" id2="17" version="1065353216">I'll re-constitute my squad and join you shortly. You should take those maps to Leeha Narezz.</text>
+		<text bitflag="1345" id1="672400" id2="17" version="1065353216">That all of them, Private?</text>
+		<text bitflag="1345" id1="672402" id2="17" version="1065353216">Yes, sir. Did they cut the lights, or....</text>
+		<text bitflag="1345" id1="672404" id2="17" version="1065353216">Squad fatalities: eighty-three point three percent.</text>
+		<text bitflag="1345" id1="672405" id2="17" version="1065353216">I shouldn't have put him in this fight.</text>
+		<text bitflag="1360" id1="672405" id2="17" version="1065353216">That poor man.</text>
+		<text bitflag="1345" id1="672406" id2="17" version="1065353216">He died saving the galaxy. We should all be so lucky.</text>
+		<text bitflag="1345" id1="672408" id2="17" version="1065353216">We'd better move out before more reinforcements arrive.</text>
+		<text bitflag="1360" id1="672408" id2="17" version="1065353216">Let's get out of here.</text>
+		<text bitflag="1345" id1="672409" id2="17" version="1065353216">I'll take the private's identichip. Don't want him reported MIA.</text>
+		<text bitflag="1345" id1="672411" id2="17" version="1065353216">At least he was useful before he died.</text>
+		<text bitflag="1360" id1="672411" id2="17" version="1065353216">He served his purpose.</text>
+		<text bitflag="1345" id1="672412" id2="17" version="1065353216">That's a soldier's duty.</text>
+		<text bitflag="1345" id1="672414" id2="17" version="1065353216">Enemy fatalities: one hundred percent. You can come out now, Private.</text>
+		<text bitflag="1345" id1="672416" id2="17" version="1065353216">Yes, sir. Thank you, sir.</text>
+		<text bitflag="1345" id1="672418" id2="17" version="1065353216">Thank this Jedi for doing your job, soldier.</text>
+		<text bitflag="1345" id1="672419" id2="17" version="1065353216">Sergeant, evacuate your man to a medical facility.</text>
+		<text bitflag="1360" id1="672419" id2="17" version="1065353216">Get the private to safety.</text>
+		<text bitflag="1345" id1="672420" id2="17" version="1065353216">I'm just glad you're safe, Private.</text>
+		<text bitflag="1360" id1="672420" id2="17" version="1065353216">Thanks aren't necessary.</text>
+		<text bitflag="1345" id1="672421" id2="17" version="1065353216">Any soldier trashing the Jedi gets a punch in the mouth from me. That's a promise.</text>
+		<text bitflag="1345" id1="672423" id2="17" version="1065353216">If I hadn't been here, you'd be dead.</text>
+		<text bitflag="1360" id1="672423" id2="17" version="1065353216">You owe me your life, Private.</text>
+		<text bitflag="1345" id1="672424" id2="17" version="1065353216">I'm not cut out for this. Maybe I can transfer to the waste disposal corps.</text>
+		<text bitflag="1345" id1="672426" id2="17" version="1065353216">These are the Imperial survey maps of the starship graveyard. Leeha Narezz wants to see them.</text>
+		<text bitflag="1345" id1="672428" id2="17" version="1065353216">I'll return to base and re-constitute my squad. We'll meet you at her coordinates ASAP. Stay sharp out there.</text>
+		<text bitflag="1345" id1="672432" id2="17" version="1065353216">Leeha Narezz sent me. Looks like I got here just in time.</text>
+		<text bitflag="1345" id1="672433" id2="17" version="1065353216">No worries, Master Jedi. I was prepared to hold this position indefinitely.</text>
+		<text bitflag="1345" id1="672435" id2="17" version="1065353216">Sergeant Fideltin Rusk, 301st Infantry. My squad's at your service.</text>
+		<text bitflag="1345" id1="672437" id2="17" version="1065353216">There's no more squad. We're all that's left!</text>
+		<text bitflag="1345" id1="672439" id2="17" version="1065353216">We're a squad until I say otherwise, Private. Now on your feet.</text>
+		<text bitflag="1345" id1="672440" id2="17" version="1065353216">Your man's in need of a kolto tank.</text>
+		<text bitflag="1360" id1="672440" id2="17" version="1065353216">He can barely stand.</text>
+		<text bitflag="1345" id1="672441" id2="17" version="1065353216">For starters. He's got third-degree burns and shrapnel wounds.</text>
+		<text bitflag="1345" id1="672443" id2="17" version="1065353216">You're a squad of one, Sergeant.</text>
+		<text bitflag="3393" id1="672445" id2="17" version="1065353216">Bio-sensors = indicate high trauma // Surgery droid = required</text>
+		<text bitflag="1345" id1="672447" id2="17" version="1065353216">He can hold a rifle. That's all the mission requires.</text>
+		<text bitflag="1345" id1="672449" id2="17" version="1065353216">Leeha said you're working with us. How did you get trapped here?</text>
+		<text bitflag="1360" id1="672449" id2="17" version="1065353216">Tell me your mission.</text>
+		<text bitflag="1345" id1="672450" id2="17" version="1065353216">No time for R &amp; R. Imperial forces are everywhere.</text>
+		<text bitflag="1360" id1="672450" id2="17" version="1065353216">You heard the sergeant.</text>
+		<text bitflag="1345" id1="672451" id2="17" version="1065353216">Take it easy. That soldier needs medical attention.</text>
+		<text bitflag="1345" id1="672453" id2="17" version="1065353216">R &amp; R? He needs a kolto tank.</text>
+		<text bitflag="3393" id1="672455" id2="17" version="1065353216">Solider = wounded // Bio-sensors = detecting high trauma</text>
+		<text bitflag="1345" id1="672457" id2="17" version="1065353216">Reload your weapons, Private. The mission isn't complete.</text>
+		<text bitflag="1345" id1="672459" id2="17" version="1065353216">Our objective was to secure Imperial survey maps of the starship graveyard. Target achieved.</text>
+		<text bitflag="1345" id1="672461" id2="17" version="1065353216">Imperial counter-attackers pursued us here. Squad fatalities: sixty-six point four percent. Enemy fatalities: one hundred percent.</text>
+		<text bitflag="1345" id1="672463" id2="17" version="1065353216">Hang on... I'm picking up a fresh wave of probe droids outside. They're headed this way!</text>
+		<text bitflag="1345" id1="672464" id2="17" version="1065353216">The sergeant and I will handle this. Keep your head down.</text>
+		<text bitflag="1360" id1="672464" id2="17" version="1065353216">Find some cover, Private.</text>
+		<text bitflag="1345" id1="672465" id2="17" version="1065353216">No loafing. You see a shot, take it.</text>
+		<text bitflag="1345" id1="672467" id2="17" version="1065353216">Yes, sir. Here they come!</text>
+		<text bitflag="1345" id1="672469" id2="17" version="1065353216">Keep him alive. I'll handle the droids myself.</text>
+		<text bitflag="1360" id1="672469" id2="17" version="1065353216">Protect your man, Sergeant.</text>
+		<text bitflag="1345" id1="672470" id2="17" version="1065353216">Get behind me, Private.</text>
+		<text bitflag="1345" id1="672472" id2="17" version="1065353216">Thank you, sir. Here they come!</text>
+		<text bitflag="1345" id1="672474" id2="17" version="1065353216">Make those droids sorry they ever came here.</text>
+		<text bitflag="1360" id1="672474" id2="17" version="1065353216">Everyone prepare for battle!</text>
+		<text bitflag="1345" id1="672475" id2="17" version="1065353216">You heard her. Secure that door.</text>
+		<text bitflag="1345" id1="672477" id2="17" version="1065353216">You heard him. Secure that door.</text>
+		<text bitflag="1345" id1="672479" id2="17" version="1065353216">Here they come!</text>
+		<text bitflag="1345" id1="672481" id2="17" version="1065353216">Sergeant Rusk, 301st Infantry.</text>
+		<text bitflag="1345" id1="672483" id2="17" version="1065353216">I just destroyed one of the White Maw's reactors. What's your status, Sergeant?</text>
+		<text bitflag="1345" id1="672484" id2="17" version="1065353216">Nothing serious? You should've sent Privates Vanth and Edder back to base. Those blasted turrets killed them both!</text>
+	</file_content>
+</stb_file>

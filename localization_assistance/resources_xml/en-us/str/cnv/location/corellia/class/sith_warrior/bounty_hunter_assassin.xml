@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>25</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/sith_warrior/bounty_hunter_assassin.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="534789" id2="17" version="1065353216">You would be wise to move.</text>
+		<text bitflag="1345" id1="534790" id2="17" version="1065353216">If you do not flee, I'm going to kill you.</text>
+		<text bitflag="1360" id1="534790" id2="17" version="1065353216">Leave or die.</text>
+		<text bitflag="1345" id1="534791" id2="17" version="1065353216">Your orders were rescinded. Darth Vowrawn's bounty was removed.</text>
+		<text bitflag="1360" id1="534791" id2="17" version="1065353216">[Lie] There's no more job.</text>
+		<text bitflag="1345" id1="534792" id2="17" version="1065353216">You're going to have to move me.</text>
+		<text bitflag="1360" id1="534792" id2="17" version="1065353216">No.</text>
+		<text bitflag="321" id1="534793" id2="17" version="1065353216">I'll say it again--move.</text>
+		<text bitflag="1345" id1="534794" id2="17" version="1065353216">I'm serious. Your life is about to end.</text>
+		<text bitflag="1360" id1="534794" id2="17" version="1065353216">Do you want to die?</text>
+		<text bitflag="1345" id1="534795" id2="17" version="1065353216">Someone beat you to it. Darth Vowrawn is dead.</text>
+		<text bitflag="1360" id1="534795" id2="17" version="1065353216">[Lie] You're too late.</text>
+		<text bitflag="321" id1="534796" id2="17" version="1065353216">I'm not playing around--move.</text>
+		<text bitflag="1345" id1="534797" id2="17" version="1065353216">You're a man of few words. Know any others?</text>
+		<text bitflag="1360" id1="534797" id2="17" version="1065353216">You already said that.</text>
+		<text bitflag="321" id1="534798" id2="17" version="1065353216">Yes, I do--move. Now.</text>
+		<text bitflag="1345" id1="534799" id2="17" version="1065353216">Forget it. Die then.</text>
+		<text bitflag="1360" id1="534799" id2="17" version="1065353216">That's it. [Attack]</text>
+		<text bitflag="1345" id1="534801" id2="17" version="1065353216">I'm as stubborn as they get. How long do you plan on keeping this up?</text>
+		<text bitflag="1360" id1="534801" id2="17" version="1065353216">I can play this all day.</text>
+		<text bitflag="321" id1="534802" id2="17" version="1065353216">Three moves is my limit.</text>
+		<text bitflag="1345" id1="534807" id2="17" version="1065353216">If you were confident, you would have attacked by now. I can feel the terror flowing from you.</text>
+		<text bitflag="1360" id1="534807" id2="17" version="1065353216">I can sense your fear.</text>
+		<text bitflag="1345" id1="534809" id2="17" version="1065353216">You act tough, but you're holding your breath and shaking like a fevered child. This is your last warning.</text>
+		<text bitflag="321" id1="534810" id2="17" version="1065353216">Fine. I'm leaving.</text>
+	</file_content>
+</stb_file>

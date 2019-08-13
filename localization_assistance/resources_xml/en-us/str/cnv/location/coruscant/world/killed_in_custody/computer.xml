@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>31</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/world/killed_in_custody/computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="683268" id2="17" version="1065353216">Detention center data system online. Scanning input memory core.</text>
+		<text bitflag="321" id1="683270" id2="17" version="1065353216">Core memory scan complete. LYSANNIS ADJUDICATION holorecordings available.</text>
+		<text bitflag="336" id1="683271" id2="17" version="1065353216">[Play holorecordings]</text>
+		<text bitflag="321" id1="683272" id2="17" version="1065353216">LYSANNIS ADJUDICATION SESSION 1 loading....</text>
+		<text bitflag="1345" id1="683274" id2="17" version="1065353216">Recording &quot;Rikael Lysannis Adjudication&quot; session one. Captain Dragen presiding.</text>
+		<text bitflag="1345" id1="683276" id2="17" version="1065353216">Master Lysannis, you're accused of criminal activity under Supreme Law 8814, aiding and abetting an enemy of the protectorate. How do you plead?</text>
+		<text bitflag="1345" id1="683278" id2="17" version="1065353216">How do you think I plead? Not guilty! I don't even know what you're talking about.</text>
+		<text bitflag="1345" id1="683280" id2="17" version="1065353216">This is a violation of my rights! Look--my father gives you people a lot of credits. He's not going to be happy about this!</text>
+		<text bitflag="1345" id1="683282" id2="17" version="1065353216">That is entirely irrelevant. Your plea is now on record. This session is concluded.</text>
+		<text bitflag="1345" id1="683284" id2="17" version="1065353216">You have no intention of even giving me a fair trial, do you? This is oppression, and I promise you, my father....</text>
+		<text bitflag="321" id1="683286" id2="17" version="1065353216">LYSANNIS ADJUDICATION SESSION 1 holorecording concluded. LYSANNIS ADJUDICATION SESSION 2 loading....</text>
+		<text bitflag="1360" id1="683287" id2="17" version="1065353216">Play Session 2 holo-recording.</text>
+		<text bitflag="1345" id1="683288" id2="17" version="1065353216">Recording &quot;Rikael Lysannis Adjudication&quot; session two. Captain Dragen presiding.</text>
+		<text bitflag="1345" id1="683290" id2="17" version="1065353216">Master Lysannis, as you know, your alleged girlfriend, Mistress Daria Felton, failed to corroborate your alibi.</text>
+		<text bitflag="1345" id1="683292" id2="17" version="1065353216">Mistress Felton's testimony, reports of six eyewitnesses and the blasters found in your residence are sufficient proof of your membership in the Black Sun crime syndicate. Do you have any closing statements?</text>
+		<text bitflag="1345" id1="683294" id2="17" version="1065353216">You know what? I do. You idiots got me this time, but you should know, I've been running operations under your nose for years.</text>
+		<text bitflag="1345" id1="683296" id2="17" version="1065353216">I've been working for the Black Sun since I was a kid. You people are pathetic.</text>
+		<text bitflag="1345" id1="683298" id2="17" version="1065353216">Very well. Your closing statements have been recorded. This session is concluded.</text>
+		<text bitflag="1345" id1="683300" id2="17" version="1065353216">You're gonna lose this war in the end! The Black Sun will rise!</text>
+		<text bitflag="321" id1="683302" id2="17" version="1065353216">LYSANNIS ADJUDICATION SESSION 2 holorecording concluded.</text>
+		<text bitflag="1360" id1="683303" id2="17" version="1065353216">[Take data showing Justicar innocence]</text>
+		<text bitflag="321" id1="683304" id2="17" version="1065353216">Ejecting memory core. Process complete.</text>
+		<text bitflag="1360" id1="683306" id2="17" version="1065353216">[Edit data to make Justicars look guilty]</text>
+		<text bitflag="321" id1="683307" id2="17" version="1065353216">SESSION 2 data removed. Ejecting memory core. Process complete.</text>
+		<text bitflag="321" id1="683309" id2="17" version="1065353216">Detention center data system shutting down.</text>
+		<text bitflag="336" id1="683311" id2="17" version="1065353216">[Log off]</text>
+		<text bitflag="321" id1="683312" id2="17" version="1065353216">Detention center data system shutting down.</text>
+		<text bitflag="321" id1="683314" id2="17" version="1065353216">Detention center data system offline.</text>
+		<text bitflag="321" id1="683317" id2="17" version="1065353216">Holorecording data ready for edit. Command?</text>
+		<text bitflag="1360" id1="683318" id2="17" version="1065353216">Delete Session 2 Recording.</text>
+		<text bitflag="1360" id1="683319" id2="17" version="1065353216">Cancel edit and eject.</text>
+	</file_content>
+</stb_file>

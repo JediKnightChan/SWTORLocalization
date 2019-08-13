@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>26</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/world/republic/cold_war/null_cannon.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="668585" id2="17" version="1065353216">You'll have to go into their base after it. Hit those sons of Hutts before they know we're coming.</text>
+		<text bitflag="1345" id1="668586" id2="17" version="1065353216">Do we know anything about the pirates or their operations that I can use?</text>
+		<text bitflag="1360" id1="668586" id2="17" version="1065353216">What should I expect going in?</text>
+		<text bitflag="1345" id1="668587" id2="17" version="1065353216">This sounds like something I could do for a few more credits.</text>
+		<text bitflag="1360" id1="668587" id2="17" version="1065353216">I hope there's hazard pay.</text>
+		<text bitflag="1345" id1="668588" id2="17" version="1065353216">You'll get them. I'll see to it personally.</text>
+		<text bitflag="1360" id1="668590" id2="17" version="1065353216">You can count on me.</text>
+		<text bitflag="1345" id1="668591" id2="17" version="1065353216">That's the spirit!</text>
+		<text bitflag="1345" id1="668593" id2="17" version="1065353216">That datapad puts the pirate base inside a huge system of ice caverns not far from here.</text>
+		<text bitflag="1345" id1="668595" id2="17" version="1065353216">Half the scum in the galaxy will be in there.</text>
+		<text bitflag="1345" id1="668597" id2="17" version="1065353216">Chief Engineer Arim and a squad of Talz will be on your heels. Once the pirates are down, Arim will secure the Null Cannon for transport.</text>
+		<text bitflag="1345" id1="668599" id2="17" version="1065353216">It'll be the mother of all fights! Good luck.</text>
+		<text bitflag="1345" id1="668602" id2="17" version="1065353216">The Force was with us, Admiral. The power core is secure, and I've got a datapad with the location of the pirate base.</text>
+		<text bitflag="1345" id1="668603" id2="17" version="1065353216">Havoc Squad reporting, sir. The power core is secure, and we've recovered a datapad with coordinates for the pirate base.</text>
+		<text bitflag="1345" id1="668604" id2="17" version="1065353216">I've got your power core and a datapad with the location of the pirate hideout, Admiral. Anything else while I'm here?</text>
+		<text bitflag="1345" id1="668605" id2="17" version="1065353216">You made quick work of that motherless space trash! Well done!</text>
+		<text bitflag="1345" id1="668607" id2="17" version="1065353216">Now our troops can take the fight to them!</text>
+		<text bitflag="1345" id1="668609" id2="17" version="1065353216">I hate to interrupt, but the data suggests these components were from the ancillary, not main, power core. That's... bad.</text>
+		<text bitflag="1345" id1="668610" id2="17" version="1065353216">We still kept part of the Null Cannon out of the pirates' hands. It can't be catastrophic.</text>
+		<text bitflag="1360" id1="668610" id2="17" version="1065353216">How bad?</text>
+		<text bitflag="1345" id1="668611" id2="17" version="1065353216">Worst-case scenario? The pirates already have enough of the weapon to make it operational.</text>
+		<text bitflag="1360" id1="668613" id2="17" version="1065353216">What do we do now?</text>
+		<text bitflag="1345" id1="668614" id2="17" version="1065353216">We panic? The pirates probably have the Null Cannon operational by now.</text>
+		<text bitflag="1360" id1="668616" id2="17" version="1065353216">What else can go wrong?</text>
+		<text bitflag="1345" id1="668617" id2="17" version="1065353216">So... you probably don't want to hear that the pirates have probably completed the Null Cannon, then.</text>
+		<text bitflag="1345" id1="668619" id2="17" version="1065353216">We can't leave our best weapon against the Empire in the hands of pirate scum!</text>
+	</file_content>
+</stb_file>

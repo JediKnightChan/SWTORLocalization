@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>42</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/bronze/republic/seismic_raiders/nolan_pars.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="196036" id2="17" version="1065353216">Everything appears stable.</text>
+		<text bitflag="3393" id1="196037" id2="17" version="1065353216">That did it. Analyzer's back online, transmitting the first batch of readings.</text>
+		<text bitflag="3393" id1="196039" id2="17" version="1065353216">Receiving them now. Registering some minor seismic activity, but nothing too alarming.</text>
+		<text bitflag="1345" id1="196040" id2="17" version="1065353216">What do the readings say? Should we start running?</text>
+		<text bitflag="1360" id1="196040" id2="17" version="1065353216">What's wrong?</text>
+		<text bitflag="1345" id1="196041" id2="17" version="1065353216">You think I'm going to fall for that one?</text>
+		<text bitflag="1360" id1="196041" id2="17" version="1065353216">Not funny.</text>
+		<text bitflag="3393" id1="196042" id2="17" version="1065353216">Heh, worth a try.</text>
+		<text bitflag="1360" id1="196044" id2="17" version="1065353216">I hate bad news.</text>
+		<text bitflag="3393" id1="196045" id2="17" version="1065353216">Heh. Gotcha.</text>
+		<text bitflag="3393" id1="196047" id2="17" version="1065353216">I'll be sure to alert command of any impending calamities. And thanks for the help--we'd be blind without you.</text>
+		<text bitflag="3393" id1="196049" id2="17" version="1065353216">I swear I felt something. The sooner you fix that analyzer, the better.</text>
+		<text bitflag="3393" id1="196050" id2="17" version="1065353216">You feel that just now? Like a--a tremor, or something? No?</text>
+		<text bitflag="3393" id1="196052" id2="17" version="1065353216">Sorry, I--it's our geothermic analyzer. Blasted thing's supposed to monitor the local topography, warn us of any anomalies.</text>
+		<text bitflag="3393" id1="196054" id2="17" version="1065353216">Handy if, say, an ice shelf is about to collapse on us. But it's not sending back any readings. Someone's been messing with it.</text>
+		<text bitflag="1345" id1="196055" id2="17" version="1065353216">A system like that could save lives. We need to get it working again.</text>
+		<text bitflag="1360" id1="196055" id2="17" version="1065353216">That's not good.</text>
+		<text bitflag="3393" id1="196056" id2="17" version="1065353216">You're telling me.</text>
+		<text bitflag="1345" id1="196058" id2="17" version="1065353216">I'm not sensing any disturbances. We should be fine for the time being.</text>
+		<text bitflag="1360" id1="196058" id2="17" version="1065353216">We'll be safe for now.</text>
+		<text bitflag="3393" id1="196059" id2="17" version="1065353216">Hey, you've got your... whatever, I've got my analyzer.</text>
+		<text bitflag="1345" id1="196061" id2="17" version="1065353216">You think the Imperials had something to do with this?</text>
+		<text bitflag="1360" id1="196061" id2="17" version="1065353216">You suspect the Empire?</text>
+		<text bitflag="3393" id1="196062" id2="17" version="1065353216">Could be. Or maybe a wampa got its paws on the analyzer. Happened before.</text>
+		<text bitflag="1345" id1="196064" id2="17" version="1065353216">Come on, it's not like a glacier is about to drop on us this second... is it?</text>
+		<text bitflag="1360" id1="196064" id2="17" version="1065353216">You're awfully jumpy.</text>
+		<text bitflag="3393" id1="196065" id2="17" version="1065353216">Well....</text>
+		<text bitflag="1360" id1="196067" id2="17" version="1065353216">Are you going to repair it?</text>
+		<text bitflag="1345" id1="196068" id2="17" version="1065353216">You don't think it was the cold?</text>
+		<text bitflag="1360" id1="196068" id2="17" version="1065353216">Could be the weather.</text>
+		<text bitflag="1360" id1="196069" id2="17" version="1065353216">You don't think it's the cold?</text>
+		<text bitflag="3393" id1="196070" id2="17" version="1065353216">That geothermic analyzer is state of the art. It doesn't get the sniffles.</text>
+		<text bitflag="3393" id1="196072" id2="17" version="1065353216">I sent my boys to patch it up, but they... well, it's been five hours, and the thing's still busted.</text>
+		<text bitflag="3393" id1="196074" id2="17" version="1065353216">I don't like it. Smells like sabotage. Any chance you could scope it out, maybe get that analyzer running again?</text>
+		<text bitflag="1360" id1="196075" id2="17" version="1065353216">Not if it's complicated.</text>
+		<text bitflag="3393" id1="196076" id2="17" version="1065353216">Far as I can tell, it's just the power cells that are damaged. Replacing them's a cinch.</text>
+		<text bitflag="1360" id1="196078" id2="17" version="1065353216">You got it.</text>
+		<text bitflag="3393" id1="196079" id2="17" version="1065353216">Thanks. Should just be the power cells that need replacing. Easy.</text>
+		<text bitflag="3393" id1="196081" id2="17" version="1065353216">I don't know what's out there, but if it got my men... well, it isn't friendly.</text>
+		<text bitflag="1360" id1="196083" id2="17" version="1065353216">You fix it. [Refuse quest]</text>
+		<text bitflag="3393" id1="196084" id2="17" version="1065353216">Don't come crying to me when you get buried under an avalanche.</text>
+		<text bitflag="3393" id1="196086" id2="17" version="1065353216">Come on, come on! Work!</text>
+	</file_content>
+</stb_file>

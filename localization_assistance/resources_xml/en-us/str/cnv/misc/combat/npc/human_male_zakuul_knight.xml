@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/human_male_zakuul_knight.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1182927" id2="17" version="1065353216">Perpetrator!</text>
+		<text bitflag="1345" id1="1182928" id2="17" version="1065353216">You are in violation!</text>
+		<text bitflag="1345" id1="1182929" id2="17" version="1065353216">I have the target!</text>
+		<text bitflag="1345" id1="1182933" id2="17" version="1065353216">Submit!</text>
+		<text bitflag="1345" id1="1182934" id2="17" version="1065353216">Concede at once!</text>
+		<text bitflag="1345" id1="1182935" id2="17" version="1065353216">Justice be upon you!</text>
+		<text bitflag="1345" id1="1182936" id2="17" version="1065353216">For Zakuul!</text>
+		<text bitflag="1345" id1="1182939" id2="17" version="1065353216">Your best is not enough!</text>
+		<text bitflag="1345" id1="1182940" id2="17" version="1065353216">Give up while you can!</text>
+		<text bitflag="1345" id1="1182941" id2="17" version="1065353216">We are eternal!</text>
+		<text bitflag="1345" id1="1182942" id2="17" version="1065353216">Death to the Outlander!</text>
+		<text bitflag="1345" id1="1182951" id2="17" version="1065353216">Outlander! Face me or face humiliation!</text>
+		<text bitflag="1345" id1="1183065" id2="17" version="1065353216">You will not win!</text>
+		<text bitflag="1345" id1="1183066" id2="17" version="1065353216">I have the upper hand!</text>
+		<text bitflag="1345" id1="1183067" id2="17" version="1065353216">Impossible!</text>
+		<text bitflag="1345" id1="1183068" id2="17" version="1065353216">Still in this fight!</text>
+	</file_content>
+</stb_file>

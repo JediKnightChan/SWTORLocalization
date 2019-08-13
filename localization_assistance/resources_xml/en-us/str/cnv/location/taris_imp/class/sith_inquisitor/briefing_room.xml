@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>46</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/briefing_room.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="485658" id2="17" version="1065353216">Zash, has your research turned up anything else on this Taris ghost?</text>
+		<text bitflag="3393" id1="485659" id2="17" version="1065353216">Zash is not here. I have beat her back. I am ready to serve you.</text>
+		<text bitflag="1345" id1="485661" id2="17" version="1065353216">Figures the old lady isn't around when we need her.</text>
+		<text bitflag="3393" id1="485663" id2="17" version="1065353216">She is a plague, a thief of my flesh.</text>
+		<text bitflag="1345" id1="485664" id2="17" version="1065353216">I'm sorry, but I need to speak with her.</text>
+		<text bitflag="1360" id1="485664" id2="17" version="1065353216">Please, I need Zash.</text>
+		<text bitflag="3393" id1="485665" id2="17" version="1065353216">I'm sorry, master, but I can't obey. I will not give over my identity to an intruder.</text>
+		<text bitflag="1345" id1="485666" id2="17" version="1065353216">She's more useful to me than you are. Let me speak with her.</text>
+		<text bitflag="1360" id1="485666" id2="17" version="1065353216">Shut up and give me Zash.</text>
+		<text bitflag="3393" id1="485667" id2="17" version="1065353216">No. I will not obey. I will not give over my identity to an intruder.</text>
+		<text bitflag="1345" id1="485668" id2="17" version="1065353216">You are bound to obey me, monster. Obey.</text>
+		<text bitflag="1360" id1="485668" id2="17" version="1065353216">That was not a request.</text>
+		<text bitflag="3393" id1="485669" id2="17" version="1065353216">I am powerless to disobey, but I will remember this.</text>
+		<text bitflag="1345" id1="485671" id2="17" version="1065353216">Thank you. It's such a relief to have the use of my faculties.</text>
+		<text bitflag="1345" id1="485673" id2="17" version="1065353216">If you won't let me speak with her, I guess I'll just have to force her out.</text>
+		<text bitflag="1360" id1="485673" id2="17" version="1065353216">Try again. [Shock him]</text>
+		<text bitflag="3393" id1="485674" id2="17" version="1065353216">Aggghhh! I will remember this....</text>
+		<text bitflag="1345" id1="485676" id2="17" version="1065353216">Thank you. That was just the opening I needed.</text>
+		<text bitflag="1345" id1="485678" id2="17" version="1065353216">You have no idea how disconcerting it is to be pushed to the recesses of your own consciousness.</text>
+		<text bitflag="1345" id1="485680" id2="17" version="1065353216">But you didn't call me here because you missed my company. What is it you need?</text>
+		<text bitflag="1345" id1="485681" id2="17" version="1065353216">You said you knew something about a ghost on Taris.</text>
+		<text bitflag="1360" id1="485681" id2="17" version="1065353216">Tell me about the ghost.</text>
+		<text bitflag="1345" id1="485682" id2="17" version="1065353216">Have you managed to find any more information about the Taris ghost?</text>
+		<text bitflag="1360" id1="485682" id2="17" version="1065353216">We've arrived on Taris.</text>
+		<text bitflag="1345" id1="485683" id2="17" version="1065353216">Ah, yes. I did manage to sneak in a little extra fact-finding before I, um, lost my bearings.</text>
+		<text bitflag="1345" id1="485685" id2="17" version="1065353216">What was the name of your contact on this planet again?</text>
+		<text bitflag="1360" id1="485685" id2="17" version="1065353216">Your servant on Taris....</text>
+		<text bitflag="1345" id1="485686" id2="17" version="1065353216">Ah, we've arrived on Taris, then. Excellent. His name is Elios Maliss. He's Sith. Sniveling, but obedient.</text>
+		<text bitflag="1345" id1="485688" id2="17" version="1065353216">It seems the ghost you're after was once a Sith from Darth Malak's invasion force that destroyed Taris a few hundred years ago.</text>
+		<text bitflag="1345" id1="485690" id2="17" version="1065353216">The ghost was one of the Sith left to die during the final bombardment, for some spiteful reason or another. We're all trigger-happy sometimes.</text>
+		<text bitflag="1345" id1="485691" id2="17" version="1065353216">Do you know anything else?</text>
+		<text bitflag="1360" id1="485691" id2="17" version="1065353216">Is that all?</text>
+		<text bitflag="1345" id1="485692" id2="17" version="1065353216">Don't any Sith ever die of natural causes?</text>
+		<text bitflag="1360" id1="485692" id2="17" version="1065353216">All Sith are murdered then?</text>
+		<text bitflag="1345" id1="485693" id2="17" version="1065353216">Most Sith don't see fifty.</text>
+		<text bitflag="1345" id1="485695" id2="17" version="1065353216">I don't know how we expect to wipe the Jedi from the galaxy when we keep killing ourselves.</text>
+		<text bitflag="1360" id1="485695" id2="17" version="1065353216">It makes us all look bad.</text>
+		<text bitflag="1345" id1="485696" id2="17" version="1065353216">With luck, they'll be so shocked they won't know what to make of us.</text>
+		<text bitflag="1345" id1="485698" id2="17" version="1065353216">Elios Maliss at the Imperial base will be able to tell you more. If he forgets his manners, remind him you're my successor.</text>
+		<text bitflag="1345" id1="485700" id2="17" version="1065353216">You're right, Khem Val. We must find a way to cope without her. What did she say about Taris?</text>
+		<text bitflag="1360" id1="485700" id2="17" version="1065353216">Never mind, then.</text>
+		<text bitflag="1345" id1="485701" id2="17" version="1065353216">We can cope without her. What did she say about Taris?</text>
+		<text bitflag="1360" id1="485701" id2="17" version="1065353216">It's alright. We'll make do.</text>
+		<text bitflag="1345" id1="485702" id2="17" version="1065353216">Something about some Jedi investigating an old Sith ghost. Said she had a Sith on the planet looking into it. Elios Maliss, I think.</text>
+		<text bitflag="1345" id1="485704" id2="17" version="1065353216">Surprised there's only one ghost. Story goes some crazy Darth blew the whole planet to pieces while his own Sith were still on it.</text>
+		<text bitflag="1345" id1="485706" id2="17" version="1065353216">Not very practical, but it ain't my business. Anyway, I'd hunt out this Maliss guy in the Imperial base and hope he has some answers.</text>
+	</file_content>
+</stb_file>

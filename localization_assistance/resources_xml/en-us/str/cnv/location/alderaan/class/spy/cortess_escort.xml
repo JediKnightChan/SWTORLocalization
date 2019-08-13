@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>179</strs>
+		<file_name>/resources/en-us/str/cnv/location/alderaan/class/spy/cortess_escort.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="725420" id2="17" version="1065353216">Be careful when you leave the estate. House Organa is on the move again.</text>
+		<text bitflag="1345" id1="725421" id2="17" version="1065353216">Welcome back. I'll let the baron know you're here.</text>
+		<text bitflag="1345" id1="725425" id2="17" version="1065353216">My dear, you shouldn't concern yourself with trifling details.</text>
+		<text bitflag="1345" id1="725427" id2="17" version="1065353216">I am concerned. This house needs all I can give--not just my gardening skills.</text>
+		<text bitflag="1345" id1="725429" id2="17" version="1065353216">Enough. We'll speak later.</text>
+		<text bitflag="1345" id1="725431" id2="17" version="1065353216">Your highness--it's a pleasure to see you on such a chilly day.</text>
+		<text bitflag="1345" id1="725433" id2="17" version="1065353216">Ah--the Imperial emissary. I hope you're enjoying your visit to Alderaan.</text>
+		<text bitflag="1345" id1="725435" id2="17" version="1065353216">Ah--the mercenary captain. I hope you're enjoying your visit to Alderaan.</text>
+		<text bitflag="1345" id1="725437" id2="17" version="1065353216">But if you're here about Denri Ayl, I must disappoint. I've been gathering information--yet I cannot locate him with any certainty.</text>
+		<text bitflag="1345" id1="725438" id2="17" version="1065353216">This data from House Alde might help.</text>
+		<text bitflag="1360" id1="725438" id2="17" version="1065353216">I found something.</text>
+		<text bitflag="1345" id1="725439" id2="17" version="1065353216">An exchange, Baron: I'll share my information if you'll share yours.</text>
+		<text bitflag="1360" id1="725439" id2="17" version="1065353216">Let's make a trade.</text>
+		<text bitflag="1345" id1="725440" id2="17" version="1065353216">I'm more than willing. May I?</text>
+		<text bitflag="1345" id1="725442" id2="17" version="1065353216">Guess I've made more progress than you, &quot;Baron.&quot;</text>
+		<text bitflag="1360" id1="725442" id2="17" version="1065353216">I succeeded where you failed.</text>
+		<text bitflag="1345" id1="725443" id2="17" version="1065353216">You speak boldly for a guest in my estate. Show me what you have.</text>
+		<text bitflag="1345" id1="725445" id2="17" version="1065353216">These records--they are the pieces of a puzzle my own sources left incomplete.</text>
+		<text bitflag="1345" id1="725447" id2="17" version="1065353216">It appears that some weeks ago, Master Ayl arranged a secret meeting with House Rist. That meeting is doubtless occurring as we speak.</text>
+		<text bitflag="1345" id1="725448" id2="17" version="1065353216">I'm not familiar with that house.</text>
+		<text bitflag="1360" id1="725448" id2="17" version="1065353216">Rist?</text>
+		<text bitflag="1345" id1="725449" id2="17" version="1065353216">Ayl's not meeting with anyone--he's hiding.</text>
+		<text bitflag="1360" id1="725449" id2="17" version="1065353216">He's looking for shelter.</text>
+		<text bitflag="1345" id1="725450" id2="17" version="1065353216">I defer to your judgment. Still, be cautious.</text>
+		<text bitflag="1345" id1="725452" id2="17" version="1065353216">I'll have to crash their party.</text>
+		<text bitflag="1360" id1="725452" id2="17" version="1065353216">I'll pay them a visit.</text>
+		<text bitflag="1345" id1="725453" id2="17" version="1065353216">I'd caution you to leave this matter alone.</text>
+		<text bitflag="1345" id1="725455" id2="17" version="1065353216">House Rist is a stain upon the nobility--a house of slayers and poisoners.</text>
+		<text bitflag="1345" id1="725457" id2="17" version="1065353216">I suggest you wait for Denri Ayl's return--a month, perhaps two. Don't earn the Rist assassins' ire by interfering in their affairs.</text>
+		<text bitflag="1345" id1="725458" id2="17" version="1065353216">Unfortunately, my mission is urgent.</text>
+		<text bitflag="1360" id1="725458" id2="17" version="1065353216">I can't afford to wait.</text>
+		<text bitflag="1345" id1="725459" id2="17" version="1065353216">I admire your energy, but these games should be played with caution. Confronting Rist will do no good.</text>
+		<text bitflag="1345" id1="725461" id2="17" version="1065353216">It'll take more than dilettantes with knives to hurt me.</text>
+		<text bitflag="1360" id1="725461" id2="17" version="1065353216">They don't worry me.</text>
+		<text bitflag="1345" id1="725462" id2="17" version="1065353216">House Rist earned its place through cunning and murder. Its blades are not dull, and confronting them will do no good.</text>
+		<text bitflag="1360" id1="725464" id2="17" version="1065353216">Maybe you're right.</text>
+		<text bitflag="1345" id1="725465" id2="17" version="1065353216">Good. I appreciate an ally who knows caution; confronting Rist will do no good.</text>
+		<text bitflag="1345" id1="725467" id2="17" version="1065353216">Now--I must cut this discussion short; I have other matters to attend to.</text>
+		<text bitflag="1345" id1="725469" id2="17" version="1065353216">See to our guest, my lady. Make certain Cortess hospitality remains second to none.</text>
+		<text bitflag="1345" id1="725471" id2="17" version="1065353216">I'm sorry about my husband. He's a busy man... and a brave one. Just not brave enough to confront House Rist.</text>
+		<text bitflag="1360" id1="725472" id2="17" version="1065353216">Oh?</text>
+		<text bitflag="1345" id1="725473" id2="17" version="1065353216">A war against House Rist would get both of you killed.</text>
+		<text bitflag="1360" id1="725473" id2="17" version="1065353216">He can't afford mistakes.</text>
+		<text bitflag="1345" id1="725474" id2="17" version="1065353216">He believes that. Maybe he's right. Maybe that's why I'm so frustrated.</text>
+		<text bitflag="1345" id1="725476" id2="17" version="1065353216">You're confusing bravery with stupidity.</text>
+		<text bitflag="1360" id1="725476" id2="17" version="1065353216">Only a fool would be.</text>
+		<text bitflag="1345" id1="725477" id2="17" version="1065353216">Then you plan to wait Ayl out? You don't seem like someone content to sit around in hopes of an easy solution.</text>
+		<text bitflag="1345" id1="725479" id2="17" version="1065353216">Everything the baron said about Rist is true. They are a stain on society--and a foe of Cortess.</text>
+		<text bitflag="1345" id1="725481" id2="17" version="1065353216">When I was a child, Rist assassins poisoned my father and slit my brother's throat. Justice was never done.</text>
+		<text bitflag="1345" id1="725482" id2="17" version="1065353216">If Rist is so abhorrent, why let them continue?</text>
+		<text bitflag="1360" id1="725482" id2="17" version="1065353216">Then strike back.</text>
+		<text bitflag="1345" id1="725483" id2="17" version="1065353216">If Rist really is my enemy, your family will be avenged.</text>
+		<text bitflag="1360" id1="725483" id2="17" version="1065353216">I'm going after them.</text>
+		<text bitflag="1345" id1="725484" id2="17" version="1065353216">We live in fear of their blades. But you found our lost patrol, stole Denri Ayl's records...</text>
+		<text bitflag="1345" id1="725485" id2="17" version="1065353216">Why are you telling me this?</text>
+		<text bitflag="1360" id1="725485" id2="17" version="1065353216">What are you saying?</text>
+		<text bitflag="1345" id1="725486" id2="17" version="1065353216">You have no idea the things I can do.</text>
+		<text bitflag="1360" id1="725486" id2="17" version="1065353216">I'm very capable.</text>
+		<text bitflag="1345" id1="725487" id2="17" version="1065353216">I can imagine.</text>
+		<text bitflag="1345" id1="725489" id2="17" version="1065353216">The baron won't listen to my ideas. But you could show him the meaning of bravery.</text>
+		<text bitflag="1345" id1="725491" id2="17" version="1065353216">Don't mistake me for your champion.</text>
+		<text bitflag="1360" id1="725491" id2="17" version="1065353216">I'm not your hero.</text>
+		<text bitflag="1345" id1="725492" id2="17" version="1065353216">Like I did the baron, once? Just listen.</text>
+		<text bitflag="1345" id1="725494" id2="17" version="1065353216">You could show all the houses that defying Rist isn't hopeless. Find Denri Ayl. Fight the assassins--and go with all our hopes.</text>
+		<text bitflag="1345" id1="725495" id2="17" version="1065353216">I don't like assassins. I'll make sure they remember my visit.</text>
+		<text bitflag="1360" id1="725495" id2="17" version="1065353216">I'll fight House Rist.</text>
+		<text bitflag="1345" id1="725496" id2="17" version="1065353216">You gladden my heart.</text>
+		<text bitflag="1360" id1="725498" id2="17" version="1065353216">Maybe.</text>
+		<text bitflag="1360" id1="725499" id2="17" version="1065353216">That's enough from you.</text>
+		<text bitflag="1345" id1="725500" id2="17" version="1065353216">You could show all the houses that defying Rist isn't hopeless. Find Denri Ayl. Fight the assassins. Change things for all of us.</text>
+		<text bitflag="1360" id1="725501" id2="17" version="1065353216">I will.</text>
+		<text bitflag="1345" id1="725502" id2="17" version="1065353216">Thank you. Sincerely, thank you.</text>
+		<text bitflag="1360" id1="725504" id2="17" version="1065353216">[Flirt] As you wish.</text>
+		<text bitflag="1345" id1="725505" id2="17" version="1065353216">You're very kind.</text>
+		<text bitflag="1345" id1="725507" id2="17" version="1065353216">You know--it's a long journey. Join me in my chambers? We could get something to warm you before you go.</text>
+		<text bitflag="1345" id1="725508" id2="17" version="1065353216">I think the baron might get the wrong idea.</text>
+		<text bitflag="1360" id1="725508" id2="17" version="1065353216">You're married.</text>
+		<text bitflag="1345" id1="725509" id2="17" version="1065353216">And we wouldn't want that.</text>
+		<text bitflag="1345" id1="725511" id2="17" version="1065353216">Cortess hospitality really is second to none.</text>
+		<text bitflag="1360" id1="725511" id2="17" version="1065353216">Absolutely.</text>
+		<text bitflag="1345" id1="725512" id2="17" version="1065353216">And there's a lot more to see.</text>
+		<text bitflag="1345" id1="725514" id2="17" version="1065353216">And when we're through... you can leave for Rist, and take my hopes with you.</text>
+		<text bitflag="1360" id1="725519" id2="17" version="1065353216">Not a chance.</text>
+		<text bitflag="1345" id1="725520" id2="17" version="1065353216">Ah--I was out of line, I think. Forgive me.</text>
+		<text bitflag="1345" id1="725522" id2="17" version="1065353216">I'll leave you alone. I'd warn you to be careful, but... I know you will be.</text>
+		<text bitflag="1345" id1="725523" id2="17" version="1065353216">I'm not here to serve you or your house.</text>
+		<text bitflag="1360" id1="725523" id2="17" version="1065353216">I won't be your lackey.</text>
+		<text bitflag="1345" id1="725524" id2="17" version="1065353216">If that's how you feel, then I won't take any more of your time.</text>
+		<text bitflag="1345" id1="725526" id2="17" version="1065353216">Goodbye, your highness. I'll see you if you return.</text>
+		<text bitflag="1345" id1="725527" id2="17" version="1065353216">Farewell. I'll make sure the baron hears of your eloquence.</text>
+		<text bitflag="1345" id1="725531" id2="17" version="1065353216">You're welcome to look around the estate.</text>
+		<text bitflag="1345" id1="725532" id2="17" version="1065353216">The baron is expecting you. This way, please.</text>
+		<text bitflag="1345" id1="725536" id2="17" version="1065353216">Our guest has arrived, my lord.</text>
+		<text bitflag="1345" id1="725540" id2="17" version="1065353216">Baron Peyar Cortess, Sword of the Castle Lands--I hereby present to you the honorable Countess Thul, emissary of her house.</text>
+		<text bitflag="1345" id1="725541" id2="17" version="1065353216">Baron Peyar Cortess, Sword of the Castle Lands--I hereby present to you the honorable Count Thul, emissary of his house.</text>
+		<text bitflag="1345" id1="725542" id2="17" version="1065353216">Baron Peyar Cortess, Sword of the Castle Lands--I hereby present to you the honorable emissary of the Sith Empire.</text>
+		<text bitflag="1345" id1="725543" id2="17" version="1065353216">Baron Peyar Cortess, Sword of the Castle Lands--I hereby present to you an honorable friend and a soldier of fortune.</text>
+		<text bitflag="1345" id1="725545" id2="17" version="1065353216">This woman risked herself in the service of House Cortess, valiantly recovering our lost patrol and identifying the Killik threat.</text>
+		<text bitflag="1345" id1="725547" id2="17" version="1065353216">In appreciation of her noble deeds, and out of respect for her accomplishments, I ask that you grant her recognition.</text>
+		<text bitflag="1345" id1="725549" id2="17" version="1065353216">This man risked himself in the service of House Cortess, valiantly recovering our lost patrol and identifying the Killik threat.</text>
+		<text bitflag="1345" id1="725551" id2="17" version="1065353216">In appreciation of his noble deeds, and out of respect for his accomplishments, I ask that you grant him recognition.</text>
+		<text bitflag="1345" id1="725553" id2="17" version="1065353216">I so grant her recognition.</text>
+		<text bitflag="1345" id1="725555" id2="17" version="1065353216">I am Baron Peyar Cortess, my lady. Welcome to my home.</text>
+		<text bitflag="1345" id1="725556" id2="17" version="1065353216">I so grant him recognition.</text>
+		<text bitflag="1345" id1="725558" id2="17" version="1065353216">I am Baron Peyar Cortess, good sir. Welcome to my home.</text>
+		<text bitflag="1345" id1="725559" id2="17" version="1065353216">The pleasure is mine, Baron.</text>
+		<text bitflag="1360" id1="725559" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1345" id1="725560" id2="17" version="1065353216">Then we are both fortunate.</text>
+		<text bitflag="1345" id1="725562" id2="17" version="1065353216">I've been trying to reach you for some time, Baron.</text>
+		<text bitflag="1360" id1="725562" id2="17" version="1065353216">At last we meet.</text>
+		<text bitflag="1345" id1="725563" id2="17" version="1065353216">Yes. Baroness Chay informs me you first arrived when I was otherwise occupied.</text>
+		<text bitflag="1345" id1="725565" id2="17" version="1065353216">Allow me to present Kaliyo Djannis, my loyal and trusted associate.</text>
+		<text bitflag="1360" id1="725565" id2="17" version="1065353216">Let me introduce my companion.</text>
+		<text bitflag="1345" id1="725566" id2="17" version="1065353216">Such an exotic young woman... how is it you come to be here?</text>
+		<text bitflag="1345" id1="725568" id2="17" version="1065353216">I slid out of mama's womb and picked up a blaster. Now I'm your new friend's bodyguard.</text>
+		<text bitflag="1345" id1="725570" id2="17" version="1065353216">Course, you and me could be friends, too. You've got a nice place here--I could stick around awhile.</text>
+		<text bitflag="1345" id1="725572" id2="17" version="1065353216">Baron...</text>
+		<text bitflag="1345" id1="725574" id2="17" version="1065353216">You... are an intriguing creature, I admit.</text>
+		<text bitflag="1345" id1="725576" id2="17" version="1065353216">Hear what he said? That was sweet!</text>
+		<text bitflag="1345" id1="725577" id2="17" version="1065353216">I think you've caught his interest.</text>
+		<text bitflag="1360" id1="725577" id2="17" version="1065353216">The baron likes you.</text>
+		<text bitflag="1345" id1="725578" id2="17" version="1065353216">What can I say? Baron needs some excitement in his life.</text>
+		<text bitflag="1345" id1="725580" id2="17" version="1065353216">I assure you my husband has enough excitement.</text>
+		<text bitflag="1345" id1="725582" id2="17" version="1065353216">With those manners, you could be royalty.</text>
+		<text bitflag="1360" id1="725582" id2="17" version="1065353216">You're fitting right in.</text>
+		<text bitflag="1345" id1="725583" id2="17" version="1065353216">I could welcome people just like the baroness.</text>
+		<text bitflag="1345" id1="725585" id2="17" version="1065353216">Forgive the Rattataki, Baron--her species lacks restraint.</text>
+		<text bitflag="1360" id1="725585" id2="17" version="1065353216">I apologize for her, my lord.</text>
+		<text bitflag="1345" id1="725586" id2="17" version="1065353216">I'm sure her other fine qualities compensate for it.</text>
+		<text bitflag="1345" id1="725588" id2="17" version="1065353216">Knew I liked you, Baron. We should talk politics.</text>
+		<text bitflag="1345" id1="725590" id2="17" version="1065353216">With due respect, Baron, I'd rather talk in private.</text>
+		<text bitflag="1360" id1="725590" id2="17" version="1065353216">Can we talk somewhere else?</text>
+		<text bitflag="1345" id1="725591" id2="17" version="1065353216">There's no need for privacy. My court is loyal and trustworthy.</text>
+		<text bitflag="1345" id1="725593" id2="17" version="1065353216">I hope I didn't give the wrong impression at the gates. I just take the security of my house very seriously.</text>
+		<text bitflag="1345" id1="725595" id2="17" version="1065353216">One of few things she does--along with her gardens and her akk dogs.</text>
+		<text bitflag="1345" id1="725597" id2="17" version="1065353216">You'll make me blush, my lord.</text>
+		<text bitflag="1345" id1="725599" id2="17" version="1065353216">Tell me, now--why do you seek my house? Is there a favor you would ask? An alliance you'd propose?</text>
+		<text bitflag="1345" id1="725600" id2="17" version="1065353216">I'm trying to identify a visitor to House Cortess. I know when he was here, but not his name or face.</text>
+		<text bitflag="1360" id1="725600" id2="17" version="1065353216">It's about a guest of yours.</text>
+		<text bitflag="1345" id1="725601" id2="17" version="1065353216">I need to identify a man. I think you might be able to assist.</text>
+		<text bitflag="1360" id1="725601" id2="17" version="1065353216">I'm looking for someone.</text>
+		<text bitflag="1345" id1="725602" id2="17" version="1065353216">I'll gladly help. Show me what you have.</text>
+		<text bitflag="1345" id1="725604" id2="17" version="1065353216">The dates in your files... yes, we've had visitors at these times. But that's no surprise.</text>
+		<text bitflag="1345" id1="725606" id2="17" version="1065353216">This data describes someone who interests me. Take a look.</text>
+		<text bitflag="1360" id1="725606" id2="17" version="1065353216">Check this out for me.</text>
+		<text bitflag="1345" id1="725607" id2="17" version="1065353216">I don't know what I'm looking for, but... very well.</text>
+		<text bitflag="1345" id1="725609" id2="17" version="1065353216">Ah, I see. A visitor to my house.</text>
+		<text bitflag="1345" id1="725611" id2="17" version="1065353216">I believe the guest you're looking for is Master Denri Ayl. We've hosted him and his summits on a number of occasions.</text>
+		<text bitflag="1345" id1="725612" id2="17" version="1065353216">I'm afraid I don't recognize the name.</text>
+		<text bitflag="1360" id1="725612" id2="17" version="1065353216">Who?</text>
+		<text bitflag="1360" id1="725613" id2="17" version="1065353216">Summits?</text>
+		<text bitflag="1345" id1="725614" id2="17" version="1065353216">Tell me where to find this man.</text>
+		<text bitflag="1360" id1="725614" id2="17" version="1065353216">I need to talk to him.</text>
+		<text bitflag="1345" id1="725615" id2="17" version="1065353216">Ah. Well, it may not be so easy as that.</text>
+		<text bitflag="1345" id1="725617" id2="17" version="1065353216">Denri Ayl was once Lord Denri Ayl--a powerful and respected man among the vassal houses. But some years ago, he abdicated his position.</text>
+		<text bitflag="1345" id1="725619" id2="17" version="1065353216">He become a mediator dedicated to forging peace.</text>
+		<text bitflag="1345" id1="725621" id2="17" version="1065353216">Strange you should ask about him now. For several weeks, Denri Ayl has been missing. Whether off on some secret negotiation or something more regrettable, no one knows.</text>
+		<text bitflag="1345" id1="725622" id2="17" version="1065353216">Isn't anyone trying to find him?</text>
+		<text bitflag="1360" id1="725622" id2="17" version="1065353216">Aren't people worried?</text>
+		<text bitflag="1345" id1="725623" id2="17" version="1065353216">Not that I'm aware of. One missing man in all this chaos... but it bears investigation.</text>
+		<text bitflag="1345" id1="725625" id2="17" version="1065353216">We can't let him disappear. It would be... unfortunate.</text>
+		<text bitflag="1360" id1="725625" id2="17" version="1065353216">We have to find him.</text>
+		<text bitflag="1345" id1="725626" id2="17" version="1065353216">I know which possibility I'd wager on.</text>
+		<text bitflag="1360" id1="725626" id2="17" version="1065353216">Oh, I have a suspicion.</text>
+		<text bitflag="1345" id1="725627" id2="17" version="1065353216">I'll begin looking into Ayl's whereabouts through formal and informal diplomatic channels. If I can find him for you, I will.</text>
+		<text bitflag="1345" id1="725629" id2="17" version="1065353216">You may also wish to investigate the matter yourself. I'm sure House Thul has friends who can assist.</text>
+		<text bitflag="1345" id1="725630" id2="17" version="1065353216">You may also wish to investigate the matter yourself. I'm sure the Empire has contacts who can assist.</text>
+		<text bitflag="1345" id1="725631" id2="17" version="1065353216">You may also wish to investigate the matter yourself. I'm sure a mercenary of your caliber has sources.</text>
+		<text bitflag="1345" id1="725632" id2="17" version="1065353216">I appreciate your efforts, Baron.</text>
+		<text bitflag="1360" id1="725632" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1345" id1="725633" id2="17" version="1065353216">You'll let me know if you find anything?</text>
+		<text bitflag="1360" id1="725633" id2="17" version="1065353216">Keep me informed.</text>
+		<text bitflag="1345" id1="725634" id2="17" version="1065353216">Of course. I'll send a message immediately.</text>
+		<text bitflag="1360" id1="725636" id2="17" version="1065353216">Uh-huh.</text>
+		<text bitflag="1345" id1="725637" id2="17" version="1065353216">Good. Together, we can find the mediator.</text>
+		<text bitflag="1345" id1="725639" id2="17" version="1065353216">In the meantime, you're welcome to stay as a guest. House Cortess prides itself on its hospitality.</text>
+		<text bitflag="1345" id1="725641" id2="17" version="1065353216">We'll have to dine together. You can meet the akk dogs.</text>
+		<text bitflag="1345" id1="725643" id2="17" version="1065353216">The baron has spoken! This audience is at an end.</text>
+		<text bitflag="1345" id1="725647" id2="17" version="1065353216">Are you supposed to be in the estate?</text>
+	</file_content>
+</stb_file>

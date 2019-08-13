@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/ambient/sundari_outpost/officer_and_medic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="297529" id2="17" version="1065353216">I've never even seen wounds like this before. Was this the Empire's doing?</text>
+		<text bitflag="1345" id1="297531" id2="17" version="1065353216">Special squad. Some kind of advanced weapon... must be from the arms factory.</text>
+		<text bitflag="1345" id1="297533" id2="17" version="1065353216">You've got to relax, sir. You might have some internal injuries.</text>
+		<text bitflag="1345" id1="297535" id2="17" version="1065353216">Can't. We lose this battle, the Empire gets permanent rights to these weapons.</text>
+		<text bitflag="1345" id1="297537" id2="17" version="1065353216">Meaning more work for me. At least sit still, then.</text>
+	</file_content>
+</stb_file>

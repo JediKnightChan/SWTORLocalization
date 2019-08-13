@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/bronze/the_freightskippers/freighthauler_controls.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="689562" id2="17" version="1065353216">[Return to the Galactic Market docks?]</text>
+		<text bitflag="321" id1="689563" id2="17" version="1065353216">Here goes nothing.</text>
+		<text bitflag="336" id1="689563" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="321" id1="689565" id2="17" version="1065353216">Let's wait until we're sure.</text>
+		<text bitflag="336" id1="689565" id2="17" version="1065353216">Not yet.</text>
+	</file_content>
+</stb_file>

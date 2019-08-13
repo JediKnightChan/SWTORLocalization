@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/qa/gameplay_persistence/tools/audio/mixsnapshot.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1089" id1="1030883" id2="17" version="1065353216">Mixsnapshot_conversation should have fired</text>
+		<text bitflag="1089" id1="1030884" id2="17" version="1065353216">Next</text>
+		<text bitflag="1089" id1="1030885" id2="17" version="1065353216">Mixsnapshot_conversation_dropmusic should have fired</text>
+		<text bitflag="1089" id1="1030886" id2="17" version="1065353216">Next</text>
+		<text bitflag="1089" id1="1030887" id2="17" version="1065353216">Mixsnapshot_conversation_dropsfx should have fired</text>
+		<text bitflag="1089" id1="1030888" id2="17" version="1065353216">Next</text>
+		<text bitflag="1089" id1="1030889" id2="17" version="1065353216">Mixsnapshot_conversation_dropvoiceover should have fired</text>
+		<text bitflag="1089" id1="1030890" id2="17" version="1065353216">Next</text>
+		<text bitflag="1089" id1="1030891" id2="17" version="1065353216">Mixsnapshot_conversation_killambience should have fired</text>
+		<text bitflag="1089" id1="1030892" id2="17" version="1065353216">Next</text>
+		<text bitflag="1089" id1="1030893" id2="17" version="1065353216">Mixsnapshot_raidevent_ability should have fired</text>
+		<text bitflag="1089" id1="1030894" id2="17" version="1065353216">Next</text>
+		<text bitflag="1089" id1="1030895" id2="17" version="1065353216">Mixsnapshot_raidevent_cinematicsfx should have fired</text>
+		<text bitflag="1089" id1="1030896" id2="17" version="1065353216">Next</text>
+		<text bitflag="1089" id1="1030898" id2="17" version="1065353216">Mixsnapshot_normal should fire when this conversation ends</text>
+		<text bitflag="1089" id1="1030899" id2="17" version="1065353216">Bye!</text>
+	</file_content>
+</stb_file>

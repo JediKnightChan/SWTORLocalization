@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>24</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/world/republic/the_imperial_blockade/rendezvous_comm_station.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="525422" id2="17" version="1065353216">[This comm station has been deactivated.]</text>
+		<text bitflag="1345" id1="525425" id2="17" version="1065353216">I've reached the rendezvous point, General Aves.</text>
+		<text bitflag="1345" id1="525426" id2="17" version="1065353216">Good work. The Republic's taking care of what's left of the Empire's special forces.</text>
+		<text bitflag="1345" id1="525428" id2="17" version="1065353216">Those commanders you ran into were Imperial Guard, the most elite fighting force in the galaxy.</text>
+		<text bitflag="1345" id1="525430" id2="17" version="1065353216">If the Imperial Guard has landed in force on Corellia, this battle's nowhere close to over. We've got to get past them first.</text>
+		<text bitflag="1360" id1="525431" id2="17" version="1065353216">That won't be easy.</text>
+		<text bitflag="1345" id1="525432" id2="17" version="1065353216">I've never heard of the Imperial Guard.</text>
+		<text bitflag="1360" id1="525432" id2="17" version="1065353216">The Imperial Guard?</text>
+		<text bitflag="1345" id1="525433" id2="17" version="1065353216">It's extremely rare to see more than one at time. As a unit, they've never been defeated and answer directly to the Emperor.</text>
+		<text bitflag="1345" id1="525435" id2="17" version="1065353216">If more come, they'll get what the others got.</text>
+		<text bitflag="1360" id1="525435" id2="17" version="1065353216">Bring 'em on, I say.</text>
+		<text bitflag="1345" id1="525436" id2="17" version="1065353216">You saw the chaos just a few Guardsmen caused. Imagine what an army of them could do.</text>
+		<text bitflag="1345" id1="525438" id2="17" version="1065353216">We've got to find the Imperial Guard before they find us. Tracing their dispatch orders will be our best bet.</text>
+		<text bitflag="1345" id1="525440" id2="17" version="1065353216">The Imperial command center's not far from here. Use a spike to take control. Our techs will scan for any orders related to the Imperial Guard.</text>
+		<text bitflag="1345" id1="525441" id2="17" version="1065353216">With their special forces down, the Imperial Guard might attack.</text>
+		<text bitflag="1360" id1="525441" id2="17" version="1065353216">What about the battle?</text>
+		<text bitflag="1345" id1="525442" id2="17" version="1065353216">You've brought the Republic this far. Our troops will give you as long as you need.</text>
+		<text bitflag="1360" id1="525444" id2="17" version="1065353216">Sounds easy enough.</text>
+		<text bitflag="1345" id1="525445" id2="17" version="1065353216">I hope you've got a plan for beating an unbeatable army.</text>
+		<text bitflag="1360" id1="525445" id2="17" version="1065353216">This plan is half-baked.</text>
+		<text bitflag="1345" id1="525446" id2="17" version="1065353216">Once we find out where the Imperial Guard is quartered, we can plan our next move.</text>
+		<text bitflag="1345" id1="525448" id2="17" version="1065353216">The Empire's jammed our portable comm frequencies. Use their comm station to contact me once you've spiked their systems.</text>
+		<text bitflag="1345" id1="525450" id2="17" version="1065353216">The command center is the Empire's last holdout in Axial Park. Get inside and find out what they're planning.</text>
+		<text bitflag="321" id1="525454" id2="17" version="1065353216">[This comm station cannot be accessed at this time.]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>95</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/trooper/chapter_1/public_relations/senator_krasul_bomb.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="129994" id2="17" version="1065353216">[The bomb is armed with redundant triggering mechanisms. Disabling any one trigger could cause another to detonate the explosives.]</text>
+		<text bitflag="336" id1="129995" id2="17" version="1065353216">[Inspect the bomb]</text>
+		<text bitflag="321" id1="129996" id2="17" version="1065353216">[The bomb is connected to three triggers: a weight sensor on the Senator's chair, an antenna, and a heated gas switch. Any of the triggers can detonate the bomb.]</text>
+		<text bitflag="336" id1="129997" id2="17" version="1065353216">[Inspect the weight sensor]</text>
+		<text bitflag="321" id1="129998" id2="17" version="1065353216">[This sensor monitors the Senator's weight in the chair. If he leaves, the bomb will detonate.]</text>
+		<text bitflag="321" id1="130000" id2="17" version="1065353216">[The weight sensor is connected to the heated gas switch and an antenna. Disconnecting it will detonate the bomb if the other triggers are still active.]</text>
+		<text bitflag="336" id1="130001" id2="17" version="1065353216">[Inspect the antenna]</text>
+		<text bitflag="321" id1="130002" id2="17" version="1065353216">[The antenna remotely detonates the bomb if it receives a signal from Wraith, or if any of the other trigger mechanisms are disabled.]</text>
+		<text bitflag="321" id1="130004" id2="17" version="1065353216">[An attached power supply keeps the antenna active, and also sends power to the heated gas switch. Strangely, it has a simple on-off switch.]</text>
+		<text bitflag="336" id1="130005" id2="17" version="1065353216">[Inspect the gas switch]</text>
+		<text bitflag="321" id1="130006" id2="17" version="1065353216">[This heated gas switch detonates the bomb if its internal pressure isn't maintained.]</text>
+		<text bitflag="321" id1="130008" id2="17" version="1065353216">[Wires connect this trigger to the weight sensor and the antenna's power supply, creating a circuit that heats the gas and maintains the pressure.]</text>
+		<text bitflag="321" id1="130010" id2="17" version="1065353216">[Interrupting any part of the circuit will make it impossible for the gas to resist the exterior air pressure, causing detonation.]</text>
+		<text bitflag="336" id1="130011" id2="17" version="1065353216">[Inspect the other triggers]</text>
+		<text bitflag="336" id1="130012" id2="17" version="1065353216">[Inspect the area]</text>
+		<text bitflag="321" id1="130013" id2="17" version="1065353216">[The area is filled with weapons and various chemicals. A series of large ventilation ducts are also visible throughout the room.]</text>
+		<text bitflag="321" id1="130015" id2="17" version="1065353216">[Apparently, the chamber is equipped with an emergency atmosphere cycling system. You may be able to use that system to briefly create a vacuum inside the chamber.]</text>
+		<text bitflag="336" id1="130016" id2="17" version="1065353216">[Inspect the area again]</text>
+		<text bitflag="336" id1="130017" id2="17" version="1065353216">[More Options]</text>
+		<text bitflag="321" id1="130018" id2="17" version="1065353216">[The bomb wiring appears to be partially exposed on the control panel...]</text>
+		<text bitflag="336" id1="130019" id2="17" version="1065353216">[Inspect the control panel]</text>
+		<text bitflag="321" id1="130022" id2="17" version="1065353216">[The explosive appears to be armed with multiple sensors.]</text>
+		<text bitflag="321" id1="130023" id2="17" version="1065353216">[Inspect the bomb]</text>
+		<text bitflag="336" id1="130023" id2="17" version="1065353216">[Inspect the bomb]</text>
+		<text bitflag="321" id1="130024" id2="17" version="1065353216">[Wires connect the chair to a small gray box and an antenna which then connect to a small green cylinder]</text>
+		<text bitflag="321" id1="130025" id2="17" version="1065353216">[Inspect the small gray box]</text>
+		<text bitflag="336" id1="130025" id2="17" version="1065353216">[Inspect the small gray box]</text>
+		<text bitflag="321" id1="130026" id2="17" version="1065353216">[The small box appears to be a pressure monitor]</text>
+		<text bitflag="321" id1="130028" id2="17" version="1065353216">[It is connected to the chair and to the green cylinder]</text>
+		<text bitflag="321" id1="130030" id2="17" version="1065353216">[It is also connected to the antenna control box]</text>
+		<text bitflag="321" id1="130032" id2="17" version="1065353216">[Disarming this first may alert a remote sensor to detonate]</text>
+		<text bitflag="321" id1="130034" id2="17" version="1065353216">[Inspect the green cylinder]</text>
+		<text bitflag="336" id1="130034" id2="17" version="1065353216">[Inspect the green cylinder]</text>
+		<text bitflag="321" id1="130035" id2="17" version="1065353216">[The pliable green cylinder houses a heated gas suspending a mercury switch]</text>
+		<text bitflag="321" id1="130037" id2="17" version="1065353216">[Wires connect the device to a small gray box, the primary detonator and the antenna]</text>
+		<text bitflag="321" id1="130039" id2="17" version="1065353216">[The wires create a circuit, providing energy to a heating element]</text>
+		<text bitflag="321" id1="130041" id2="17" version="1065353216">[Interrupting the circuit will make it impossible for the gas to resist the exterior pressure, causing detonation...]</text>
+		<text bitflag="321" id1="130043" id2="17" version="1065353216">[It appears there is no direct way you can interact with this object safely]</text>
+		<text bitflag="321" id1="130045" id2="17" version="1065353216">[Inspect the antenna]</text>
+		<text bitflag="336" id1="130045" id2="17" version="1065353216">[Inspect the antenna]</text>
+		<text bitflag="321" id1="130046" id2="17" version="1065353216">[The antenna is connected to a small box on the floor by two wires]</text>
+		<text bitflag="321" id1="130048" id2="17" version="1065353216">[The box appears to be a power supply and a remote relay kit]</text>
+		<text bitflag="321" id1="130050" id2="17" version="1065353216">[Any attempt to disarm the bomb may trigger a remote detonation unless this is disabled]</text>
+		<text bitflag="321" id1="130052" id2="17" version="1065353216">[Closer inspection reveals possible tamper protection mechanisms]</text>
+		<text bitflag="321" id1="130054" id2="17" version="1065353216">[Strangely amidst the security you discover a simple off switch to disable the battery, apparently unprotected]</text>
+		<text bitflag="321" id1="130056" id2="17" version="1065353216">[Inspect the area]</text>
+		<text bitflag="336" id1="130056" id2="17" version="1065353216">[Inspect the area]</text>
+		<text bitflag="321" id1="130057" id2="17" version="1065353216">[The area is filled with weapons and various chemicals]</text>
+		<text bitflag="321" id1="130059" id2="17" version="1065353216">[A series of large ventilation ducts are visible throughout the room]</text>
+		<text bitflag="321" id1="130061" id2="17" version="1065353216">[It appears this chamber is equipped with an emergency atmosphere evacuation system]</text>
+		<text bitflag="321" id1="130063" id2="17" version="1065353216">[If necessary you may be able to create a vacuum within the chamber]</text>
+		<text bitflag="321" id1="130065" id2="17" version="1065353216">[Exit]</text>
+		<text bitflag="336" id1="130065" id2="17" version="1065353216">[Exit]</text>
+		<text bitflag="321" id1="634302" id2="17" version="1065353216">[The bomb is armed with redundant triggering mechanisms, including a weight sensor on the Senator's chair, an antenna for remote detonation, and a heated gas switch.]</text>
+		<text bitflag="336" id1="634303" id2="17" version="1065353216">[Inspect the bomb]</text>
+		<text bitflag="336" id1="634307" id2="17" version="1065353216">[Inspect the gas switch]</text>
+		<text bitflag="321" id1="634308" id2="17" version="1065353216">[Any of the triggers can detonate the bomb, and they all seem resistant to tampering.]</text>
+		<text bitflag="336" id1="634311" id2="17" version="1065353216">[Inspect the area]</text>
+		<text bitflag="321" id1="634312" id2="17" version="1065353216">[However, if the room's atmospheric controls could be used to create a temporary vaccuum, the gas switch might fail without causing detonation.]</text>
+		<text bitflag="321" id1="634316" id2="17" version="1065353216">[The exposed wiring connects to the failsafe switches.]</text>
+		<text bitflag="321" id1="634318" id2="17" version="1065353216">[It may be possible to shoot the bomb and cause a partial, potentially non-fatal explosion.]</text>
+		<text bitflag="321" id1="634320" id2="17" version="1065353216">[Mark the control panel for attack?]</text>
+		<text bitflag="336" id1="634321" id2="17" version="1065353216">[Mark the control panel for attack]</text>
+		<text bitflag="321" id1="634322" id2="17" version="1065353216">[You will now shoot the control panel when interacting with it.]</text>
+		<text bitflag="321" id1="634324" id2="17" version="1065353216">[You can still inspect the bomb by inspecting the gas switch.]</text>
+		<text bitflag="1360" id1="634325" id2="17" version="1065353216">[Return to other options]</text>
+		<text bitflag="1360" id1="634326" id2="17" version="1065353216">[Exit]</text>
+		<text bitflag="336" id1="634327" id2="17" version="1065353216">[Return to previous]</text>
+		<text bitflag="336" id1="634328" id2="17" version="1065353216">[Exit]</text>
+		<text bitflag="321" id1="634329" id2="17" version="1065353216">[Remove the mark for attack from the bomb control panel?]</text>
+		<text bitflag="336" id1="634330" id2="17" version="1065353216">[Yes.]</text>
+		<text bitflag="336" id1="634331" id2="17" version="1065353216">[No.]</text>
+		<text bitflag="321" id1="634334" id2="17" version="1065353216">[The bomb appears to be a complex mechanism but with a key vulnerability.]</text>
+		<text bitflag="321" id1="634336" id2="17" version="1065353216">[The wiring directly behind the Senator is exposed. By blasting the control panel you could interrupt the primary detonation.]</text>
+		<text bitflag="321" id1="634338" id2="17" version="1065353216">[Although the Senator will be injured by the smaller explosion, improperly disarming the bomb may kill both of you.]</text>
+		<text bitflag="336" id1="634339" id2="17" version="1065353216">[Mark the control panel for attack]</text>
+		<text bitflag="321" id1="634340" id2="17" version="1065353216">[You will now shoot the control panel when interacting with it.]</text>
+		<text bitflag="321" id1="634342" id2="17" version="1065353216">[You can still inspect the bomb by inspecting the gas switch.]</text>
+		<text bitflag="336" id1="634343" id2="17" version="1065353216">[Attempt to disarm the bomb.]</text>
+		<text bitflag="321" id1="634346" id2="17" version="1065353216">[The bomb is armed with redundant triggering mechanisms. Disabling any one trigger could cause another to detonate the explosives.]</text>
+		<text bitflag="336" id1="634347" id2="17" version="1065353216">[Inspect the bomb]</text>
+		<text bitflag="321" id1="634348" id2="17" version="1065353216">[The bomb is connected to three triggers: a weight sensor on the Senator's chair, an antenna, and a heated gas switch. Any of the triggers can detonate the bomb.]</text>
+		<text bitflag="336" id1="634349" id2="17" version="1065353216">[Inspect the weight sensor]</text>
+		<text bitflag="321" id1="634350" id2="17" version="1065353216">[This sensor monitors the Senator's weight in the chair. If he leaves, the bomb will detonate.]</text>
+		<text bitflag="321" id1="634352" id2="17" version="1065353216">[The weight sensor is connected to the heated gas switch and an antenna. Disconnecting it will detonate the bomb if the other triggers are still active.]</text>
+		<text bitflag="336" id1="634353" id2="17" version="1065353216">[Inspect the antenna]</text>
+		<text bitflag="321" id1="634354" id2="17" version="1065353216">[The antenna remotely detonates the bomb if it receives a signal from Wraith, or if any of the other trigger mechanisms are disabled.]</text>
+		<text bitflag="321" id1="634356" id2="17" version="1065353216">[An attached power supply keeps the antenna active, and also sends power to the heated gas switch. Strangely, it has a simple on-off switch.]</text>
+		<text bitflag="336" id1="634357" id2="17" version="1065353216">[Inspect the gas switch]</text>
+		<text bitflag="321" id1="634358" id2="17" version="1065353216">[This heated gas switch detonates the bomb if its internal pressure isn't maintained.]</text>
+		<text bitflag="321" id1="634360" id2="17" version="1065353216">[Wires connect this trigger to the weight sensor and the antenna's power supply, creating a circuit that heats the gas and maintains the pressure.]</text>
+		<text bitflag="321" id1="634362" id2="17" version="1065353216">[Interrupting any part of the circuit will make it impossible for the gas to resist the exterior air pressure, causing detonation.]</text>
+		<text bitflag="336" id1="634363" id2="17" version="1065353216">[Inspect the area]</text>
+		<text bitflag="321" id1="634364" id2="17" version="1065353216">[The area is filled with weapons and various chemicals. A series of large ventilation ducts are also visible throughout the room.]</text>
+		<text bitflag="321" id1="634366" id2="17" version="1065353216">[Apparently, the chamber is equipped with an emergency atmosphere cycling system. You may be able to use that system to briefly create a vacuum inside the chamber.]</text>
+	</file_content>
+</stb_file>

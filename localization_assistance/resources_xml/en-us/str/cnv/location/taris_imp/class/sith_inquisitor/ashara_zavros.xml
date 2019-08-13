@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>432</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/ashara_zavros.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="619950" id2="17" version="1065353216">Child! What's this bloodshed in my grave?</text>
+		<text bitflag="1345" id1="619952" id2="17" version="1065353216">I warned you not to summon me again! I warned you to leave me in peace! To keep your Jedi away from my grave!</text>
+		<text bitflag="1345" id1="619954" id2="17" version="1065353216">Please, I'm sorry. This Sith needed to speak with you.</text>
+		<text bitflag="1345" id1="619956" id2="17" version="1065353216">Your apology is worthless! You must die.</text>
+		<text bitflag="1345" id1="619957" id2="17" version="1065353216">She only summoned you because I asked her to.</text>
+		<text bitflag="1360" id1="619957" id2="17" version="1065353216">It's me you want. [Calm him]</text>
+		<text bitflag="1360" id1="619958" id2="17" version="1065353216">No. [Calm him]</text>
+		<text bitflag="1360" id1="619960" id2="17" version="1065353216">[Let the ghost kill Ashara]</text>
+		<text bitflag="1345" id1="619961" id2="17" version="1065353216">Wait. Please don't kill me. Don't let him kill me! I'll do whatever you say!</text>
+		<text bitflag="1345" id1="619962" id2="17" version="1065353216">Since you begged.</text>
+		<text bitflag="1360" id1="619962" id2="17" version="1065353216">Fine. [Calm ghost]</text>
+		<text bitflag="1345" id1="619964" id2="17" version="1065353216">I've been waiting to hear those words for a long time.</text>
+		<text bitflag="1360" id1="619964" id2="17" version="1065353216">Finally. [Calm ghost]</text>
+		<text bitflag="1345" id1="619966" id2="17" version="1065353216">Agree to be my apprentice and I will spare you.</text>
+		<text bitflag="1360" id1="619966" id2="17" version="1065353216">You must join me.</text>
+		<text bitflag="1345" id1="619967" id2="17" version="1065353216">Whatever you say.</text>
+		<text bitflag="1345" id1="619969" id2="17" version="1065353216">What is happening? What are you....</text>
+		<text bitflag="1345" id1="619971" id2="17" version="1065353216">Strange. How long has it been since I've felt at peace? Centuries at least.</text>
+		<text bitflag="1345" id1="619973" id2="17" version="1065353216">What do you want that you went through all this effort to speak to me?</text>
+		<text bitflag="1345" id1="619974" id2="17" version="1065353216">I need your strength.</text>
+		<text bitflag="1360" id1="619974" id2="17" version="1065353216">Power. [Bind him]</text>
+		<text bitflag="1345" id1="619975" id2="17" version="1065353216">I wish to devour you and take your power for my own.</text>
+		<text bitflag="1360" id1="619975" id2="17" version="1065353216">I hunger. [Bind him]</text>
+		<text bitflag="1345" id1="619976" id2="17" version="1065353216">If you will let me bind you, I promise to free you when my enemies are defeated.</text>
+		<text bitflag="1360" id1="619976" id2="17" version="1065353216">I need your help.</text>
+		<text bitflag="1345" id1="619977" id2="17" version="1065353216">Will it get me out of this accursed enclave, with its artifacts of the light? Then I accept.</text>
+		<text bitflag="1345" id1="619979" id2="17" version="1065353216">Seal the pact with blood, Sith, and my power is yours.</text>
+		<text bitflag="1345" id1="619980" id2="17" version="1065353216">The pact is sealed.</text>
+		<text bitflag="1360" id1="619980" id2="17" version="1065353216">I promise. [Seal pact]</text>
+		<text bitflag="1345" id1="619981" id2="17" version="1065353216">I will remember your generosity.</text>
+		<text bitflag="1360" id1="619981" id2="17" version="1065353216">Thank you. [Seal pact]</text>
+		<text bitflag="1345" id1="619982" id2="17" version="1065353216">My strength is yours, Sith. Use it well.</text>
+		<text bitflag="1345" id1="619985" id2="17" version="1065353216">I'd rather have all of your strength.</text>
+		<text bitflag="1360" id1="619985" id2="17" version="1065353216">Forget it. [Force him]</text>
+		<text bitflag="1345" id1="619986" id2="17" version="1065353216">Ha. You don't have the ability to overwhelm me--aggghhh!</text>
+		<text bitflag="1345" id1="619988" id2="17" version="1065353216">Sith, what did you just do?</text>
+		<text bitflag="1345" id1="619989" id2="17" version="1065353216">I took the power that was rightfully mine.</text>
+		<text bitflag="1360" id1="619989" id2="17" version="1065353216">I bound the ghost.</text>
+		<text bitflag="1345" id1="619990" id2="17" version="1065353216">The only way I could think to free the enclave was to bind the ghost to myself.</text>
+		<text bitflag="1360" id1="619990" id2="17" version="1065353216">I cleansed the enclave.</text>
+		<text bitflag="1345" id1="619991" id2="17" version="1065353216">If I hadn't done that, another Sith like Maliss would have come and claimed it for himself.</text>
+		<text bitflag="1360" id1="619991" id2="17" version="1065353216">Only what was necessary.</text>
+		<text bitflag="1345" id1="619992" id2="17" version="1065353216">What happens now?</text>
+		<text bitflag="1345" id1="619993" id2="17" version="1065353216">I am your master now.</text>
+		<text bitflag="1360" id1="619993" id2="17" version="1065353216">Bow to me.</text>
+		<text bitflag="1345" id1="619994" id2="17" version="1065353216">I don't know. I guess I can't return to the Jedi after this, can I?</text>
+		<text bitflag="1345" id1="619996" id2="17" version="1065353216">Help me use my power to serve the light.</text>
+		<text bitflag="1360" id1="619996" id2="17" version="1065353216">Let's redeem the Empire.</text>
+		<text bitflag="1360" id1="619997" id2="17" version="1065353216">Go away.</text>
+		<text bitflag="1345" id1="619998" id2="17" version="1065353216">Are you kidding? How will I answer for my Masters? For the ghost?</text>
+		<text bitflag="1345" id1="620000" id2="17" version="1065353216">You manipulate me for your own ends and then you leave? My life as a Jedi is over.</text>
+		<text bitflag="1345" id1="620001" id2="17" version="1065353216">You'll always have a place at my side.</text>
+		<text bitflag="1360" id1="620001" id2="17" version="1065353216">Then come with me.</text>
+		<text bitflag="1345" id1="620002" id2="17" version="1065353216">I don't have a choice, do I?</text>
+		<text bitflag="1345" id1="620004" id2="17" version="1065353216">The Jedi were only holding you back. You wanted to cleanse this place, and you did. Come with me, and I'll help you realize your full potential.</text>
+		<text bitflag="1360" id1="620004" id2="17" version="1065353216">Forget the Jedi.</text>
+		<text bitflag="1345" id1="620007" id2="17" version="1065353216">Fine, I'll come. But I won't go against the Jedi teachings.</text>
+		<text bitflag="1345" id1="620008" id2="17" version="1065353216">I think I can solve that problem. Join me. Become Sith.</text>
+		<text bitflag="1360" id1="620008" id2="17" version="1065353216">You're my apprentice now.</text>
+		<text bitflag="1345" id1="620011" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="620013" id2="17" version="1065353216">Please, no more. I'll follow you. Just, no more, you monster.</text>
+		<text bitflag="1345" id1="620015" id2="17" version="1065353216">No offense, my lord, but I've seen actual tombs that had fewer dead in them than this place.</text>
+		<text bitflag="1345" id1="620016" id2="17" version="1065353216">There's the easy way, the hard way and then there's your way....</text>
+		<text bitflag="3393" id1="620017" id2="17" version="1065353216">So much death, my master. Your servant feasts well today.</text>
+		<text bitflag="1345" id1="620018" id2="17" version="1065353216">If this bloody scene is any indication, riding in your mind will be great fun, Sith.</text>
+		<text bitflag="1345" id1="620047" id2="17" version="1065353216">You killed them! You killed the Masters!</text>
+		<text bitflag="1345" id1="620048" id2="17" version="1065353216">They are Jedi after all.</text>
+		<text bitflag="1360" id1="620048" id2="17" version="1065353216">It's what Sith do.</text>
+		<text bitflag="1345" id1="620051" id2="17" version="1065353216">Just summon the ghost now.</text>
+		<text bitflag="1360" id1="620051" id2="17" version="1065353216">Bring me the ghost.</text>
+		<text bitflag="1360" id1="620057" id2="17" version="1065353216">Just bring me my ghost!</text>
+		<text bitflag="1345" id1="620059" id2="17" version="1065353216">I'm sorry, but they gave me no choice. They attacked me.</text>
+		<text bitflag="1360" id1="620059" id2="17" version="1065353216">It was self-defense.</text>
+		<text bitflag="1345" id1="620062" id2="17" version="1065353216">I guess there's nothing left to do now but summon the ghost.</text>
+		<text bitflag="1345" id1="620066" id2="17" version="1065353216">Child, I thought I told you never to summon me again!</text>
+		<text bitflag="1345" id1="620068" id2="17" version="1065353216">Excellent. Truly remarkable. My lord, you are utterly clever and resourceful.</text>
+		<text bitflag="1345" id1="620070" id2="17" version="1065353216">Thank you so much for clearing out the Jedi for us.</text>
+		<text bitflag="1345" id1="620071" id2="17" version="1065353216">I didn't do it for you.</text>
+		<text bitflag="1360" id1="620071" id2="17" version="1065353216">Don't thank me.</text>
+		<text bitflag="1345" id1="620072" id2="17" version="1065353216">Ah, but you did.</text>
+		<text bitflag="1360" id1="620074" id2="17" version="1065353216">Maliss!</text>
+		<text bitflag="1345" id1="620075" id2="17" version="1065353216">Collecting a ghost. For my master.</text>
+		<text bitflag="1345" id1="620077" id2="17" version="1065353216">If this is what I think it is, know that I don't take kindly to betrayal.</text>
+		<text bitflag="1360" id1="620077" id2="17" version="1065353216">Don't do something stupid.</text>
+		<text bitflag="1345" id1="620078" id2="17" version="1065353216">I'm sorry it had to end this way, but you were dead, and Darth Thanaton made a better offer. He's made me a lord.</text>
+		<text bitflag="1345" id1="620080" id2="17" version="1065353216">Unfortunately, he's also asked that you be executed. My regrets.</text>
+		<text bitflag="1345" id1="620102" id2="17" version="1065353216">There she is. The Sith who wants the ghost.</text>
+		<text bitflag="1345" id1="620104" id2="17" version="1065353216">There he is. The Sith who wants the ghost.</text>
+		<text bitflag="1345" id1="620106" id2="17" version="1065353216">You were right to tell us, Ashara. The Jedi Enclave is no place for Sith, and this one gives me an uneasy feeling.</text>
+		<text bitflag="1345" id1="620121" id2="17" version="1065353216">I've made mistakes in the past, it's true. But I mean well now.</text>
+		<text bitflag="1360" id1="620121" id2="17" version="1065353216">Let me redeem myself.</text>
+		<text bitflag="1345" id1="620122" id2="17" version="1065353216">Please, I believe I can cleanse the enclave of the ghost.</text>
+		<text bitflag="1360" id1="620122" id2="17" version="1065353216">I just want to help.</text>
+		<text bitflag="1345" id1="620123" id2="17" version="1065353216">We've been trying for months to cleanse this enclave.</text>
+		<text bitflag="1345" id1="620125" id2="17" version="1065353216">No, it doesn't work that way, Sith.</text>
+		<text bitflag="1345" id1="620127" id2="17" version="1065353216">We are the sworn defenders of this enclave, and we will not have dark side rituals performed in it.</text>
+		<text bitflag="1345" id1="620128" id2="17" version="1065353216">Blame it on my misspent youth.</text>
+		<text bitflag="1360" id1="620128" id2="17" version="1065353216">I had a rough childhood.</text>
+		<text bitflag="1345" id1="620129" id2="17" version="1065353216">This is not a flippant matter. I won't have dark side rituals performed in this enclave!</text>
+		<text bitflag="1345" id1="620133" id2="17" version="1065353216">Please! I relent. Lord, Jedi, don't kill me.</text>
+		<text bitflag="1345" id1="620135" id2="17" version="1065353216">Of course. The Jedi way is mercy.</text>
+		<text bitflag="1345" id1="620136" id2="17" version="1065353216">He will gather more men and keep hunting you. His master will kill him if he fails.</text>
+		<text bitflag="1360" id1="620136" id2="17" version="1065353216">That's not wise.</text>
+		<text bitflag="1345" id1="620137" id2="17" version="1065353216">Master Ryen says, &quot;Mercy has risk.&quot; It wouldn't be mercy otherwise.</text>
+		<text bitflag="1345" id1="620138" id2="17" version="1065353216">You know this one would not show you mercy, but go ahead. Be the good Padawan. Obey your Masters.</text>
+		<text bitflag="1360" id1="620138" id2="17" version="1065353216">Think for yourself.</text>
+		<text bitflag="1345" id1="620139" id2="17" version="1065353216">Shut up. Shut up! Why do you care whether he lives or dies?</text>
+		<text bitflag="1345" id1="620143" id2="17" version="1065353216">You call it mercy, but you're too afraid to kill.</text>
+		<text bitflag="1360" id1="620143" id2="17" version="1065353216">I knew you Jedi were cowards.</text>
+		<text bitflag="1345" id1="620144" id2="17" version="1065353216">He's surrendered. There's no courage in killing a helpless man. Why do you care whether he lives or dies?</text>
+		<text bitflag="1345" id1="620146" id2="17" version="1065353216">He's just another worthless Sith. He doesn't deserve his life.</text>
+		<text bitflag="1360" id1="620146" id2="17" version="1065353216">Why do you?</text>
+		<text bitflag="1345" id1="620147" id2="17" version="1065353216">No, he doesn't. But the same could be said of you, and I won't be goaded.</text>
+		<text bitflag="1345" id1="620153" id2="17" version="1065353216">He chased you like an animal through the swamp, and you let him live?</text>
+		<text bitflag="1360" id1="620153" id2="17" version="1065353216">He tried to kill you!</text>
+		<text bitflag="1345" id1="620157" id2="17" version="1065353216">I am giving you an order.</text>
+		<text bitflag="1360" id1="620157" id2="17" version="1065353216">Kill him. [Shock her]</text>
+		<text bitflag="1345" id1="620158" id2="17" version="1065353216">Because I want to see you kill, and I want to see you enjoy it!</text>
+		<text bitflag="1360" id1="620158" id2="17" version="1065353216">Enough talk! [Shock her]</text>
+		<text bitflag="1360" id1="620159" id2="17" version="1065353216">Kill him. [Shock her]</text>
+		<text bitflag="1345" id1="620162" id2="17" version="1065353216">Agghhh!</text>
+		<text bitflag="1345" id1="620164" id2="17" version="1065353216">I won't do it, Sith. I won't do it.</text>
+		<text bitflag="1345" id1="620165" id2="17" version="1065353216">You can end the pain. All you have to do is kill him.</text>
+		<text bitflag="1360" id1="620165" id2="17" version="1065353216">You will. [Shock her]</text>
+		<text bitflag="1345" id1="620168" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="620170" id2="17" version="1065353216">Why suffer for someone you hate?</text>
+		<text bitflag="1360" id1="620170" id2="17" version="1065353216">Don't be stupid. [Shock her]</text>
+		<text bitflag="1345" id1="620173" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="620175" id2="17" version="1065353216">A Jedi doesn't hate....</text>
+		<text bitflag="1345" id1="620177" id2="17" version="1065353216">He dies either way. You can make it quick for him.</text>
+		<text bitflag="1360" id1="620177" id2="17" version="1065353216">He suffers too. [Shock him]</text>
+		<text bitflag="1345" id1="620178" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="620180" id2="17" version="1065353216">Please, girl. There's no reasoning with him.</text>
+		<text bitflag="1345" id1="620182" id2="17" version="1065353216">Please, girl. There's no reasoning with her.</text>
+		<text bitflag="1345" id1="620184" id2="17" version="1065353216">I'm sorry. Please forgive me. &quot;There is no death, only the Force.&quot;</text>
+		<text bitflag="1345" id1="620186" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="620189" id2="17" version="1065353216">You have quite the talent.</text>
+		<text bitflag="1360" id1="620189" id2="17" version="1065353216">Marvelous.</text>
+		<text bitflag="1345" id1="620190" id2="17" version="1065353216">Please, don't say that.</text>
+		<text bitflag="1345" id1="620192" id2="17" version="1065353216">It feels good, doesn't it?</text>
+		<text bitflag="1360" id1="620192" id2="17" version="1065353216">Did you like that?</text>
+		<text bitflag="1345" id1="620193" id2="17" version="1065353216">Yes, yes it does. I feel so powerful. No, that's not what I meant.</text>
+		<text bitflag="1345" id1="620195" id2="17" version="1065353216">Your true nature finally shows.</text>
+		<text bitflag="1360" id1="620195" id2="17" version="1065353216">Just like a Sith.</text>
+		<text bitflag="1345" id1="620196" id2="17" version="1065353216">No, this isn't me. You made me. This isn't me.</text>
+		<text bitflag="1345" id1="620198" id2="17" version="1065353216">The Jedi won't have me back now. Not after what I've done. What will I do?</text>
+		<text bitflag="1345" id1="620199" id2="17" version="1065353216">Join me as my apprentice.</text>
+		<text bitflag="1360" id1="620199" id2="17" version="1065353216">Become Sith.</text>
+		<text bitflag="1345" id1="620200" id2="17" version="1065353216">I don't really have a choice, do I?</text>
+		<text bitflag="1345" id1="620202" id2="17" version="1065353216">Your emotions are a powerful weapon. Embrace them.</text>
+		<text bitflag="1360" id1="620202" id2="17" version="1065353216">Don't deny your strength.</text>
+		<text bitflag="1345" id1="620203" id2="17" version="1065353216">The Jedi told me to put my emotions aside. Do they know what this feels like?</text>
+		<text bitflag="1345" id1="620206" id2="17" version="1065353216">You will suffer until you learn to obey.</text>
+		<text bitflag="1360" id1="620206" id2="17" version="1065353216">Call me master. [Shock her]</text>
+		<text bitflag="1345" id1="620209" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="620212" id2="17" version="1065353216">I am not a Jedi.</text>
+		<text bitflag="1360" id1="620212" id2="17" version="1065353216">No. [Kill him]</text>
+		<text bitflag="1345" id1="620215" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="620217" id2="17" version="1065353216">You even kill your own kind without remorse. What do you want with me anyway?</text>
+		<text bitflag="1360" id1="620218" id2="17" version="1065353216">You heard the girl.</text>
+		<text bitflag="1345" id1="620221" id2="17" version="1065353216">Thank you, Sith. I didn't think mercy was in the Sith vocabulary.</text>
+		<text bitflag="1345" id1="620227" id2="17" version="1065353216">Sith! I should have known.</text>
+		<text bitflag="1345" id1="620229" id2="17" version="1065353216">Don't think you can kill me easily because I'm a Padawan. Even Master Ocera can't beat me with a lightsaber.</text>
+		<text bitflag="1345" id1="620230" id2="17" version="1065353216">Here's the holocron, as promised.</text>
+		<text bitflag="1360" id1="620230" id2="17" version="1065353216">It's no trap.</text>
+		<text bitflag="1345" id1="620231" id2="17" version="1065353216">A Sith who keeps his word. Now I've seen everything.</text>
+		<text bitflag="1345" id1="620233" id2="17" version="1065353216">A Sith who keeps her word. Now I've seen everything.</text>
+		<text bitflag="1345" id1="620235" id2="17" version="1065353216">Such intensity. Such fire. Those are Sith qualities.</text>
+		<text bitflag="1360" id1="620235" id2="17" version="1065353216">Such passion.</text>
+		<text bitflag="1345" id1="620236" id2="17" version="1065353216">Jedi are not without emotions, but they channel them toward the greater good and the protection of others.</text>
+		<text bitflag="1345" id1="620238" id2="17" version="1065353216">You couldn't beat me if I was wielding a toothpick.</text>
+		<text bitflag="1360" id1="620238" id2="17" version="1065353216">Don't be a fool.</text>
+		<text bitflag="1345" id1="620239" id2="17" version="1065353216">You'll have to try harder if you want to pick a fight. A Jedi never draws first.</text>
+		<text bitflag="1345" id1="620241" id2="17" version="1065353216">Is that the holocron? You surprise me, Sith. I didn't think you people knew how to tell the truth.</text>
+		<text bitflag="1345" id1="620243" id2="17" version="1065353216">Strange. I've never held one of these before. I expected it to be heavier.</text>
+		<text bitflag="1345" id1="620244" id2="17" version="1065353216">They are remarkable objects. Care to have a look inside?</text>
+		<text bitflag="1360" id1="620244" id2="17" version="1065353216">It does spark the curiosity.</text>
+		<text bitflag="1345" id1="620245" id2="17" version="1065353216">I don't know. The Masters don't let Padawans handle holocrons.</text>
+		<text bitflag="1345" id1="620246" id2="17" version="1065353216">They also didn't want you coming here, but it worked out.</text>
+		<text bitflag="1360" id1="620246" id2="17" version="1065353216">They don't let you do a lot.</text>
+		<text bitflag="1345" id1="620247" id2="17" version="1065353216">Well, I guess it can't hurt to look?</text>
+		<text bitflag="1345" id1="620248" id2="17" version="1065353216">It's probably more than you can handle anyway.</text>
+		<text bitflag="1360" id1="620248" id2="17" version="1065353216">They're wise.</text>
+		<text bitflag="1345" id1="620249" id2="17" version="1065353216">Why is everyone always trying to tell me what I can handle?</text>
+		<text bitflag="1345" id1="620250" id2="17" version="1065353216">There's much a Padawan can learn from a holocron.</text>
+		<text bitflag="1360" id1="620250" id2="17" version="1065353216">Why not?</text>
+		<text bitflag="1345" id1="620251" id2="17" version="1065353216">And I'm sure I will learn all those things in time. But for now, I must take this holocron to the Masters.</text>
+		<text bitflag="1345" id1="620253" id2="17" version="1065353216">You may take it to your Masters, but I need you to do something for me in return.</text>
+		<text bitflag="1360" id1="620253" id2="17" version="1065353216">Now, what will you give me?</text>
+		<text bitflag="1345" id1="620254" id2="17" version="1065353216">That depends on what you ask. I won't go against my training.</text>
+		<text bitflag="1345" id1="620255" id2="17" version="1065353216">You must promise not to open it. It feels light, but its power would certainly overwhelm a Padawan.</text>
+		<text bitflag="1360" id1="620255" id2="17" version="1065353216">It's deceptive.</text>
+		<text bitflag="1345" id1="620256" id2="17" version="1065353216">So even you look down your nose at me. I'm no ordinary Padawan, Sith.</text>
+		<text bitflag="1345" id1="620257" id2="17" version="1065353216">Then use the holocron.</text>
+		<text bitflag="1360" id1="620257" id2="17" version="1065353216">Prove it.</text>
+		<text bitflag="1345" id1="620258" id2="17" version="1065353216">I will. Just to show you. I will.</text>
+		<text bitflag="1345" id1="620259" id2="17" version="1065353216">I didn't mean you, of course.</text>
+		<text bitflag="1360" id1="620259" id2="17" version="1065353216">Apologies.</text>
+		<text bitflag="1345" id1="620260" id2="17" version="1065353216">I know what you meant. I'll show you.</text>
+		<text bitflag="1345" id1="620262" id2="17" version="1065353216">Behold the teachings of Darth Angral, Lord of the Sith!</text>
+		<text bitflag="1345" id1="620264" id2="17" version="1065353216">&quot;Peace is a lie, there is only passion.&quot; &quot;Peace is a lie, there is only passion.&quot; &quot;Peace is a lie, there is only passion.&quot;</text>
+		<text bitflag="1345" id1="620267" id2="17" version="1065353216">I need to see the ghost in the Jedi Enclave.</text>
+		<text bitflag="1360" id1="620267" id2="17" version="1065353216">Your ancestor....</text>
+		<text bitflag="1345" id1="620268" id2="17" version="1065353216">I need access to the Jedi Enclave.</text>
+		<text bitflag="1360" id1="620268" id2="17" version="1065353216">About the Jedi Enclave....</text>
+		<text bitflag="1345" id1="620269" id2="17" version="1065353216">Why? Wait--you're after the ghost. I should've known. Everyone wants to see that stupid ghost.</text>
+		<text bitflag="1345" id1="620271" id2="17" version="1065353216">No. No Sith can enter the Jedi Enclave. What would you do with a ghost anyway?</text>
+		<text bitflag="1345" id1="620272" id2="17" version="1065353216">The ghost in the Jedi Enclave. I must speak with him.</text>
+		<text bitflag="1360" id1="620272" id2="17" version="1065353216">I believe you know a ghost....</text>
+		<text bitflag="1345" id1="620286" id2="17" version="1065353216">The ghost? No. No Sith can enter the Jedi Enclave. What do you want with him anyway?</text>
+		<text bitflag="1345" id1="620287" id2="17" version="1065353216">My master wants me dead. I need the ghost's help to defeat him.</text>
+		<text bitflag="1360" id1="620287" id2="17" version="1065353216">I have no choice.</text>
+		<text bitflag="1345" id1="620288" id2="17" version="1065353216">But, there's no ritual that can get this ghost to aid you.</text>
+		<text bitflag="1345" id1="620290" id2="17" version="1065353216">The Masters would have learned to pacify it by now if it was possible. What makes you think you can get its help?</text>
+		<text bitflag="1345" id1="620291" id2="17" version="1065353216">There are Sith who want that ghost, but I think I can drive him away.</text>
+		<text bitflag="1360" id1="620291" id2="17" version="1065353216">To cleanse the enclave.</text>
+		<text bitflag="1345" id1="620292" id2="17" version="1065353216">Even the Masters haven't figured out how to drive the ghost away.</text>
+		<text bitflag="1345" id1="620293" id2="17" version="1065353216">I saved your life. You could do this much for me.</text>
+		<text bitflag="1360" id1="620293" id2="17" version="1065353216">You owe me.</text>
+		<text bitflag="1345" id1="620294" id2="17" version="1065353216">That holocron alone will warrant you passing your trials. I think you could give me something in return.</text>
+		<text bitflag="1360" id1="620294" id2="17" version="1065353216">You owe me.</text>
+		<text bitflag="1345" id1="620295" id2="17" version="1065353216">What does that have to do with anything? The Masters are here specifically to protect that ghost from Sith.</text>
+		<text bitflag="1345" id1="620297" id2="17" version="1065353216">Even if I let you in, what would you do? The ghost is angry, implacable. Even the Masters don't know how to pacify it.</text>
+		<text bitflag="1345" id1="620298" id2="17" version="1065353216">This isn't something I tell everyone. I have dreams, I see things.</text>
+		<text bitflag="1360" id1="620298" id2="17" version="1065353216">I had a vision.</text>
+		<text bitflag="1345" id1="620300" id2="17" version="1065353216">I've dreamt that I will pacify the ghost. I don't know how or why, only that it's my destiny.</text>
+		<text bitflag="1345" id1="620303" id2="17" version="1065353216">I know an ancient technique used to pacify ghosts. It requires great sacrifice.</text>
+		<text bitflag="1360" id1="620303" id2="17" version="1065353216">I learned a ritual....</text>
+		<text bitflag="1345" id1="620305" id2="17" version="1065353216">I don't know if the ritual will succeed, but I must try.</text>
+		<text bitflag="1345" id1="620308" id2="17" version="1065353216">Why so intent on keeping me from the ghost? If your Masters can't tame it, what harm could I possibly do?</text>
+		<text bitflag="1360" id1="620308" id2="17" version="1065353216">What's the harm?</text>
+		<text bitflag="1345" id1="620311" id2="17" version="1065353216">The Masters have guarded the enclave with good reason, I think.</text>
+		<text bitflag="1345" id1="620312" id2="17" version="1065353216">Let them see when you summon the ghost. I promise, no harm will come to them.</text>
+		<text bitflag="1360" id1="620312" id2="17" version="1065353216">Then invite the Masters.</text>
+		<text bitflag="1345" id1="620313" id2="17" version="1065353216">They would easily overpower you if you tried anything. We have a deal.</text>
+		<text bitflag="1345" id1="620315" id2="17" version="1065353216">I will go prepare the enclave and inform the Masters.</text>
+		<text bitflag="1345" id1="620316" id2="17" version="1065353216">Always deferring to the Masters. I thought this was your ancestor.</text>
+		<text bitflag="1360" id1="620316" id2="17" version="1065353216">The Masters again!</text>
+		<text bitflag="1345" id1="620317" id2="17" version="1065353216">He is my ancestor. I suppose there's no harm in letting you just speak with him.</text>
+		<text bitflag="1345" id1="620319" id2="17" version="1065353216">If you will not let me speak with this ghost, I will be killed, and my blood will be on your hands.</text>
+		<text bitflag="1360" id1="620319" id2="17" version="1065353216">Then I am as good as dead.</text>
+		<text bitflag="1345" id1="620320" id2="17" version="1065353216">Fine. You may see the ghost. But whether or not he speaks to you is beyond my control.</text>
+		<text bitflag="1345" id1="620322" id2="17" version="1065353216">I'll go ahead and prepare the enclave, make sure no Jedi are around.</text>
+		<text bitflag="1345" id1="620328" id2="17" version="1065353216">This holocron is an evil object. If you can't be trusted with it....</text>
+		<text bitflag="1360" id1="620328" id2="17" version="1065353216">Don't be stupid.</text>
+		<text bitflag="1345" id1="620329" id2="17" version="1065353216">No. You can trust me. I will deliver it, unopened, to the Masters.</text>
+		<text bitflag="1345" id1="620331" id2="17" version="1065353216">I'm not sure they will approve, but I feel like I ought to give you something, as a &quot;thank you&quot; for the holocron?</text>
+		<text bitflag="1345" id1="620332" id2="17" version="1065353216">All right, Sith. I came. But no tricks.</text>
+		<text bitflag="1345" id1="620334" id2="17" version="1065353216">Sith. I came like you asked. No tricks, right? You really want to come over to the light?</text>
+		<text bitflag="1345" id1="620335" id2="17" version="1065353216">Just tell me what I must do to become a Jedi.</text>
+		<text bitflag="1360" id1="620335" id2="17" version="1065353216">Yes. Help me.</text>
+		<text bitflag="1345" id1="620336" id2="17" version="1065353216">Well, um, it doesn't really work that way.</text>
+		<text bitflag="1345" id1="620338" id2="17" version="1065353216">I can teach you about the Jedi Order? And the code. But only the Jedi Council can decide to admit someone to the order.</text>
+		<text bitflag="1345" id1="620339" id2="17" version="1065353216">I must become a Jedi. It's my only hope.</text>
+		<text bitflag="1360" id1="620339" id2="17" version="1065353216">Don't turn me away.</text>
+		<text bitflag="1345" id1="620340" id2="17" version="1065353216">Listen, I can put in a good word for you with my Masters, but that's all.</text>
+		<text bitflag="1345" id1="620342" id2="17" version="1065353216">Even if I said &quot;sure, you can be a Jedi,&quot; it wouldn't make you one. Understand?</text>
+		<text bitflag="1345" id1="620343" id2="17" version="1065353216">Then at least take this holocron. It has an ill effect on me.</text>
+		<text bitflag="1360" id1="620343" id2="17" version="1065353216">Don't leave the holocron.</text>
+		<text bitflag="1345" id1="620344" id2="17" version="1065353216">Perhaps you can help me with something else, then.</text>
+		<text bitflag="1360" id1="620344" id2="17" version="1065353216">I need your assistance.</text>
+		<text bitflag="1345" id1="620345" id2="17" version="1065353216">I will try, but I won't go against my training.</text>
+		<text bitflag="1345" id1="620346" id2="17" version="1065353216">In that case, I have no choice but to make you Sith.</text>
+		<text bitflag="1360" id1="620346" id2="17" version="1065353216">Then you must join me. [Shock]</text>
+		<text bitflag="1360" id1="620347" id2="17" version="1065353216">Please, I want to learn.</text>
+		<text bitflag="1345" id1="620348" id2="17" version="1065353216">Well, there's the Jedi Code, which goes &quot;There is no emotion, there is only peace.&quot;</text>
+		<text bitflag="1345" id1="620350" id2="17" version="1065353216">But nowadays, the order will let people marry with permission.</text>
+		<text bitflag="1345" id1="620351" id2="17" version="1065353216">So then I don't have to whisk you away in a grand romantic gesture.</text>
+		<text bitflag="1360" id1="620351" id2="17" version="1065353216">[Flirt] What a relief.</text>
+		<text bitflag="1345" id1="620352" id2="17" version="1065353216">What? Don't I rate a grand romantic gesture?</text>
+		<text bitflag="1345" id1="620354" id2="17" version="1065353216">Old men deciding who and whether a girl can marry. How barbaric.</text>
+		<text bitflag="1360" id1="620354" id2="17" version="1065353216">Ugh.</text>
+		<text bitflag="1345" id1="620355" id2="17" version="1065353216">There are women on the Council, too.</text>
+		<text bitflag="1345" id1="620357" id2="17" version="1065353216">Don't you ever feel... trapped?</text>
+		<text bitflag="1360" id1="620357" id2="17" version="1065353216">Seems like a lot of rules.</text>
+		<text bitflag="1345" id1="620358" id2="17" version="1065353216">N--no. Well, I mean, doesn't everybody feel trapped sometimes?</text>
+		<text bitflag="1345" id1="620360" id2="17" version="1065353216">It's no wonder you Jedi are always falling. Being a Jedi is boring.</text>
+		<text bitflag="1360" id1="620360" id2="17" version="1065353216">Yawn.</text>
+		<text bitflag="1345" id1="620361" id2="17" version="1065353216">It might seem that way from the outside. But we're also soldiers, fighting for the protection of the galaxy.</text>
+		<text bitflag="1345" id1="620363" id2="17" version="1065353216">Look, it's getting late. The Masters will wonder where I am.</text>
+		<text bitflag="1345" id1="620364" id2="17" version="1065353216">If you must leave, please take this holocron from me. I'm afraid to have it.</text>
+		<text bitflag="1360" id1="620364" id2="17" version="1065353216">Don't leave the holocron.</text>
+		<text bitflag="1345" id1="620365" id2="17" version="1065353216">I am your master now. You're not going anywhere.</text>
+		<text bitflag="1360" id1="620365" id2="17" version="1065353216">Stay. [Shock her]</text>
+		<text bitflag="1345" id1="620368" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="620370" id2="17" version="1065353216">No, please, stop! I'll never become Sith!</text>
+		<text bitflag="1345" id1="620372" id2="17" version="1065353216">You don't need to listen to them.</text>
+		<text bitflag="1360" id1="620372" id2="17" version="1065353216">Who cares about them?</text>
+		<text bitflag="1345" id1="620373" id2="17" version="1065353216">I do. They're my Masters. That's part of being a Jedi. We obey our Masters, even if we don't want to.</text>
+		<text bitflag="1345" id1="620374" id2="17" version="1065353216">Please take this holocron from me. Spare me its darkness.</text>
+		<text bitflag="1360" id1="620374" id2="17" version="1065353216">You must take the holocron.</text>
+		<text bitflag="1345" id1="620375" id2="17" version="1065353216">Yes, of course.</text>
+		<text bitflag="1345" id1="620377" id2="17" version="1065353216">The truth is, I need your help for other reasons.</text>
+		<text bitflag="1360" id1="620377" id2="17" version="1065353216">Not exactly.</text>
+		<text bitflag="1345" id1="620378" id2="17" version="1065353216">What do you mean? What reasons?</text>
+		<text bitflag="1345" id1="620379" id2="17" version="1065353216">You are going to do everything I say. Now listen closely...</text>
+		<text bitflag="1360" id1="620379" id2="17" version="1065353216">Don't be stupid. [Shock her]</text>
+		<text bitflag="1345" id1="620384" id2="17" version="1065353216">Aaagh! I won't do it. I won't help you.</text>
+		<text bitflag="1345" id1="620389" id2="17" version="1065353216">Sith! I should have known this was some kind of trap.</text>
+		<text bitflag="1345" id1="620391" id2="17" version="1065353216">You don't really intend to protect me against your own people!</text>
+		<text bitflag="1345" id1="620392" id2="17" version="1065353216">Normally I wouldn't, but I need you alive.</text>
+		<text bitflag="1360" id1="620392" id2="17" version="1065353216">Unusual, but true.</text>
+		<text bitflag="1345" id1="620393" id2="17" version="1065353216">That certainly fills me with hope and confidence.</text>
+		<text bitflag="1345" id1="620394" id2="17" version="1065353216">They took me out of slavery and forced me into this. It wasn't my choice.</text>
+		<text bitflag="1360" id1="620394" id2="17" version="1065353216">They are not my people.</text>
+		<text bitflag="1345" id1="620395" id2="17" version="1065353216">I--I'm sorry. I didn't, I didn't know the Sith did that. I guess I thought... I don't know what I thought.</text>
+		<text bitflag="1345" id1="620396" id2="17" version="1065353216">Surely the idea of Sith opposing other Sith isn't surprising to you?</text>
+		<text bitflag="1360" id1="620396" id2="17" version="1065353216">What do you expect from Sith?</text>
+		<text bitflag="1345" id1="620397" id2="17" version="1065353216">No, now that you mention it, I guess it's not so unusual for villains to be at each other's throats.</text>
+		<text bitflag="1345" id1="620399" id2="17" version="1065353216">With all respect, my lord, we have orders to see this girl dead. Please don't make a fuss.</text>
+		<text bitflag="1345" id1="620400" id2="17" version="1065353216">If you want this Padawan, you'll have to go through me, first.</text>
+		<text bitflag="1360" id1="620400" id2="17" version="1065353216">I hope you're ready to fight.</text>
+		<text bitflag="1345" id1="620401" id2="17" version="1065353216">Don't make a fuss? You're asking too much, I'm afraid.</text>
+		<text bitflag="1360" id1="620401" id2="17" version="1065353216">I always make trouble.</text>
+		<text bitflag="1345" id1="620402" id2="17" version="1065353216">Wait, my lord, you're not seriously going to... I thought--this is treachery! Lord Anathemos will hear of it!</text>
+		<text bitflag="1345" id1="620404" id2="17" version="1065353216">You heard him. We're not going down without a fight!</text>
+		<text bitflag="1345" id1="620405" id2="17" version="1065353216">You heard her. We're not going down without a fight!</text>
+		<text bitflag="1345" id1="620407" id2="17" version="1065353216">This is not the Padawan you're looking for.</text>
+		<text bitflag="1360" id1="620407" id2="17" version="1065353216">[Force Persuade] Go away.</text>
+		<text bitflag="1345" id1="620408" id2="17" version="1065353216">This is not the Padawan we're looking for. I'm sorry for the mistake, my lord. Come, men. Let's go.</text>
+		<text bitflag="1345" id1="620410" id2="17" version="1065353216">Is that it? I mean, I guess I was expecting more blood.</text>
+		<text bitflag="1345" id1="620412" id2="17" version="1065353216">I don't understand. Why did you go through all this trouble to save me?</text>
+		<text bitflag="1345" id1="620413" id2="17" version="1065353216">I'm interested in the ghost in the Jedi enclave.</text>
+		<text bitflag="1360" id1="620413" id2="17" version="1065353216">I'm hunting the dead.</text>
+		<text bitflag="1345" id1="620414" id2="17" version="1065353216">You know how to raise the ghost in the Jedi enclave.</text>
+		<text bitflag="1360" id1="620414" id2="17" version="1065353216">You have a special talent.</text>
+		<text bitflag="1345" id1="620415" id2="17" version="1065353216">I need a new apprentice. You're it.</text>
+		<text bitflag="1360" id1="620415" id2="17" version="1065353216">To make you Sith. [Shock her]</text>
+		<text bitflag="1345" id1="620419" id2="17" version="1065353216">Ashara Zavros? I heard about the ambush. Meet me in the swamps, near your position. I can protect you.</text>
+		<text bitflag="1345" id1="620420" id2="17" version="1065353216">What? Who are you? How do I know this isn't another trap?</text>
+		<text bitflag="1345" id1="620421" id2="17" version="1065353216">If I wanted you dead, I'd just wait for the assassins to catch you and kill you.</text>
+		<text bitflag="1360" id1="620421" id2="17" version="1065353216">I could let you die....</text>
+		<text bitflag="1345" id1="620422" id2="17" version="1065353216">Maybe I should be worried about who it is that wants me alive so badly.</text>
+		<text bitflag="1345" id1="620424" id2="17" version="1065353216">I'm a friend. That's all you need to know.</text>
+		<text bitflag="1360" id1="620424" id2="17" version="1065353216">Trust me.</text>
+		<text bitflag="1345" id1="620425" id2="17" version="1065353216">I don't really have a choice, do I?</text>
+		<text bitflag="1345" id1="620427" id2="17" version="1065353216">You don't have much choice, do you?</text>
+		<text bitflag="1360" id1="620427" id2="17" version="1065353216">You don't.</text>
+		<text bitflag="1345" id1="620428" id2="17" version="1065353216">All right, I'll come that way. But if this is a trap, don't think I'll go down without a fight.</text>
+		<text bitflag="1345" id1="620430" id2="17" version="1065353216">Ashara Zavros? I've discovered an item that I believe might be of interest to you. A holocron of some power.</text>
+		<text bitflag="1345" id1="620431" id2="17" version="1065353216">Who are you? How did you know my name? What makes you think I'm interested in a holocron?</text>
+		<text bitflag="1345" id1="620432" id2="17" version="1065353216">I'm trying to keep this holocron out of Sith hands.</text>
+		<text bitflag="1360" id1="620432" id2="17" version="1065353216">The Sith want it.</text>
+		<text bitflag="1345" id1="620433" id2="17" version="1065353216">The truth is, I'm a Sith, and I need your help.</text>
+		<text bitflag="1360" id1="620433" id2="17" version="1065353216">I have a confession to make.</text>
+		<text bitflag="1345" id1="620434" id2="17" version="1065353216">A Sith? How did you get this frequency? Stay away, or I'll cut you in two.</text>
+		<text bitflag="1345" id1="620435" id2="17" version="1065353216">I believe we can help each other.</text>
+		<text bitflag="1360" id1="620435" id2="17" version="1065353216">I mean you no harm.</text>
+		<text bitflag="1345" id1="620436" id2="17" version="1065353216">I don't need your help.</text>
+		<text bitflag="1345" id1="620438" id2="17" version="1065353216">I'm not overly familiar with the Jedi Code, but I don't remember the part about bisecting people.</text>
+		<text bitflag="1360" id1="620438" id2="17" version="1065353216">That's not very Jedi-like.</text>
+		<text bitflag="1345" id1="620439" id2="17" version="1065353216">If driving villains like you from the galaxy isn't what a Jedi does, I don't know what is.</text>
+		<text bitflag="1345" id1="620441" id2="17" version="1065353216">I want nothing to do with you or your dark side secrets. Or that holocron.</text>
+		<text bitflag="1345" id1="620443" id2="17" version="1065353216">I'm trying to turn away from the dark side, but I need help.</text>
+		<text bitflag="1360" id1="620443" id2="17" version="1065353216">I'm trying to turn light side.</text>
+		<text bitflag="1345" id1="620444" id2="17" version="1065353216">Why come to me? Why not go to one of the Masters? Ryen or Ocera?</text>
+		<text bitflag="1345" id1="620445" id2="17" version="1065353216">I've done terrible things. I'm not ready to face their judgment.</text>
+		<text bitflag="1360" id1="620445" id2="17" version="1065353216">I'm afraid.</text>
+		<text bitflag="1345" id1="620446" id2="17" version="1065353216">I'm sure my Masters will be merciful.</text>
+		<text bitflag="1345" id1="620448" id2="17" version="1065353216">The Sith on Taris have already learned of your devotion to the light. You were the first person I thought of.</text>
+		<text bitflag="1360" id1="620448" id2="17" version="1065353216">I didn't know where to turn.</text>
+		<text bitflag="1345" id1="620449" id2="17" version="1065353216">My Masters are also devoted to the light.</text>
+		<text bitflag="1345" id1="620451" id2="17" version="1065353216">You are not a fool like your Masters.</text>
+		<text bitflag="1360" id1="620451" id2="17" version="1065353216">I don't respect them.</text>
+		<text bitflag="1345" id1="620452" id2="17" version="1065353216">My Masters are wise men.</text>
+		<text bitflag="1345" id1="620454" id2="17" version="1065353216">They live the Jedi Code and protect the innocent. They will know what's best for you.</text>
+		<text bitflag="1345" id1="620455" id2="17" version="1065353216">Perhaps if I had your reassurance, in person. We Sith do not trust easily.</text>
+		<text bitflag="1360" id1="620455" id2="17" version="1065353216">Just meet with me. Please?</text>
+		<text bitflag="1345" id1="620456" id2="17" version="1065353216">You can trust me, Sith. Tell me where I should meet you.</text>
+		<text bitflag="1345" id1="620457" id2="17" version="1065353216">If they know what's best, why is their brightest disciple still a Padawan?</text>
+		<text bitflag="1360" id1="620457" id2="17" version="1065353216">They haven't made you a Jedi.</text>
+		<text bitflag="1345" id1="620458" id2="17" version="1065353216">I don't know. That's--that's their judgment to make.</text>
+		<text bitflag="1345" id1="620460" id2="17" version="1065353216">But it's okay, I can help you. Where can I find you?</text>
+		<text bitflag="1345" id1="620461" id2="17" version="1065353216">Please, help me get rid of this holocron. I'm losing my fight to resist it.</text>
+		<text bitflag="1360" id1="620461" id2="17" version="1065353216">I need you to save me.</text>
+		<text bitflag="1345" id1="620462" id2="17" version="1065353216">Okay, okay. I'll help you. Just tell me where you are.</text>
+		<text bitflag="1345" id1="620463" id2="17" version="1065353216">Holocrons are incredible sources of knowledge. Jedi value knowledge, don't they?</text>
+		<text bitflag="1360" id1="620463" id2="17" version="1065353216">What's wrong about a holocron?</text>
+		<text bitflag="1345" id1="620464" id2="17" version="1065353216">&quot;There is no ignorance. There is only knowledge.&quot; But some knowledge is too dangerous for Padawans.</text>
+		<text bitflag="1345" id1="620466" id2="17" version="1065353216">Why call me? Why not take this holocron to one of the Masters? Ryen or Ocera?</text>
+		<text bitflag="1345" id1="620467" id2="17" version="1065353216">They'll destroy it. I hate seeing knowledge destroyed.</text>
+		<text bitflag="1360" id1="620467" id2="17" version="1065353216">I don't trust them.</text>
+		<text bitflag="1345" id1="620468" id2="17" version="1065353216">I can't believe they'd destroy it. The Masters value knowledge.</text>
+		<text bitflag="1345" id1="620470" id2="17" version="1065353216">Aren't you a Jedi? Why should you have to defer to them?</text>
+		<text bitflag="1360" id1="620470" id2="17" version="1065353216">Do they really know better?</text>
+		<text bitflag="1345" id1="620471" id2="17" version="1065353216">I, well, yes, I am a Jedi.</text>
+		<text bitflag="1345" id1="620473" id2="17" version="1065353216">I've already heard stories of your knowledge and power.</text>
+		<text bitflag="1360" id1="620473" id2="17" version="1065353216">Your reputation precedes you.</text>
+		<text bitflag="1345" id1="620474" id2="17" version="1065353216">Stories? That, I don't believe. The Masters don't seem to think I have much power or knowledge.</text>
+		<text bitflag="1345" id1="620476" id2="17" version="1065353216">But even if I was interested, I shouldn't leave the base....</text>
+		<text bitflag="1345" id1="620477" id2="17" version="1065353216">You don't really do everything your Masters tell you, do you?</text>
+		<text bitflag="1360" id1="620477" id2="17" version="1065353216">Are you afraid?</text>
+		<text bitflag="1345" id1="620478" id2="17" version="1065353216">Obedience is the Jedi way. But then, there are always exceptions.</text>
+		<text bitflag="1345" id1="620480" id2="17" version="1065353216">This is your chance to show your Masters that you're worthy of handling such a delicate item.</text>
+		<text bitflag="1360" id1="620480" id2="17" version="1065353216">They don't trust you, do they?</text>
+		<text bitflag="1345" id1="620481" id2="17" version="1065353216">You're right. I can prove myself.</text>
+		<text bitflag="1345" id1="620483" id2="17" version="1065353216">I'll come. Just tell me where to meet you.</text>
+		<text bitflag="1345" id1="620484" id2="17" version="1065353216">The swamps near Republic territory.</text>
+		<text bitflag="1360" id1="620484" id2="17" version="1065353216">There's an enclave....</text>
+		<text bitflag="1345" id1="620485" id2="17" version="1065353216">I'm sending you the coordinates of an enclave in the swamps.</text>
+		<text bitflag="1360" id1="620485" id2="17" version="1065353216">I'll send you the location.</text>
+		<text bitflag="1345" id1="620486" id2="17" version="1065353216">Are you familiar with this area of the swamps, near the Republic base?</text>
+		<text bitflag="1360" id1="620486" id2="17" version="1065353216">Do you know the swamps?</text>
+		<text bitflag="1345" id1="620487" id2="17" version="1065353216">Yes, I know the place. I'll meet you there as soon as I can. If they ask, I'll tell my Masters I've gone to train.</text>
+		<text bitflag="1345" id1="620488" id2="17" version="1065353216">I'll be waiting at the swamps in Republic territory, if you change your mind.</text>
+		<text bitflag="1360" id1="620488" id2="17" version="1065353216">Give it some thought.</text>
+		<text bitflag="1345" id1="620489" id2="17" version="1065353216">I'll... I'll give it some thought.</text>
+		<text bitflag="1345" id1="751904" id2="17" version="1065353216">I'm sorry, Sith. I couldn't do what you said. I just couldn't.</text>
+		<text bitflag="1345" id1="751906" id2="17" version="1065353216">This is all my fault. I should have known better than to deal with a Sith.</text>
+		<text bitflag="1345" id1="751931" id2="17" version="1065353216">Fine, I'll come.</text>
+		<text bitflag="1345" id1="758187" id2="17" version="1065353216">Embrace the dark side. Come with me.</text>
+		<text bitflag="1360" id1="758187" id2="17" version="1065353216">You become Sith.</text>
+		<text bitflag="1345" id1="758188" id2="17" version="1065353216">I suppose after all this, that's the only path open to me. Masters, forgive me.</text>
+		<text bitflag="1345" id1="758193" id2="17" version="1065353216">You tried to turn me to the dark side, and you have the nerve to claim self-defense?</text>
+		<text bitflag="1345" id1="758195" id2="17" version="1065353216">Master Ryen. Master Ocera. What have I done? What have I done?</text>
+		<text bitflag="1345" id1="758196" id2="17" version="1065353216">I understand you're upset, but we have a ghost to deal with.</text>
+		<text bitflag="1345" id1="758199" id2="17" version="1065353216">You're right. There is no emotion. There's peace.</text>
+		<text bitflag="1345" id1="758202" id2="17" version="1065353216">You said you would make sure there were no Jedi!</text>
+		<text bitflag="1360" id1="758202" id2="17" version="1065353216">You betrayed me.</text>
+		<text bitflag="1345" id1="758203" id2="17" version="1065353216">I'm sorry. I couldn't. I'm not dark side...</text>
+		<text bitflag="1345" id1="758207" id2="17" version="1065353216">I-- I suppose you're right. What kind of Jedi would I be if I let this assassin kill again? Please forgive me.</text>
+		<text bitflag="1345" id1="758210" id2="17" version="1065353216">You will end this miserable wretch's life before he kills again.</text>
+		<text bitflag="1360" id1="758210" id2="17" version="1065353216">[Force Persuade] Kill him.</text>
+		<text bitflag="1345" id1="758211" id2="17" version="1065353216">I will end this miserable wretch's life before he kills again.</text>
+		<text bitflag="1345" id1="758221" id2="17" version="1065353216">The darkness feels good, but the Order, the teachings... I don't know. What do you want from me?</text>
+		<text bitflag="1345" id1="758224" id2="17" version="1065353216">The fear, the anger, the pain. I relent! What do you want from me?</text>
+		<text bitflag="1345" id1="758225" id2="17" version="1065353216">The ghost! But... no, of course. I will do as you say.</text>
+		<text bitflag="1345" id1="758231" id2="17" version="1065353216">No. What am I saying? Is that what the darkness feels like?</text>
+		<text bitflag="1360" id1="758232" id2="17" version="1065353216">Embrace it.</text>
+		<text bitflag="1360" id1="758233" id2="17" version="1065353216">Leave the Jedi.</text>
+		<text bitflag="1345" id1="758234" id2="17" version="1065353216">It feels good. It feels powerful.... No! I should never have used the holocron! I can feel its darkness in me.</text>
+		<text bitflag="1360" id1="758236" id2="17" version="1065353216">Don't resist. [Shock her]</text>
+	</file_content>
+</stb_file>

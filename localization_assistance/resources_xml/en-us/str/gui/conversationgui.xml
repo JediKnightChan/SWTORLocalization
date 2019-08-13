@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>38</strs>
+		<file_name>/resources/en-us/str/gui/conversationgui.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194659" version="1065353216">Multiplayer Conversation</text>
+		<text bitflag="321" id1="2" id2="194659" version="1065353216">&lt;&lt;1&gt;&gt; is waiting to start a conversation.</text>
+		<text bitflag="321" id1="3" id2="194659" version="1065353216">Find &lt;&lt;1&gt;&gt; and right-click &lt;&lt;2&gt;&gt; to join the conversation, or choose an option below.</text>
+		<text bitflag="321" id1="4" id2="194659" version="1065353216">Waiting on &lt;&lt;1[$d player/$d players]&gt;&gt;</text>
+		<text bitflag="321" id1="5" id2="194659" version="1065353216">player</text>
+		<text bitflag="321" id1="6" id2="194659" version="1065353216">players</text>
+		<text bitflag="321" id1="7" id2="194659" version="1065353216">groupmate</text>
+		<text bitflag="321" id1="8" id2="194659" version="1065353216">groupmates</text>
+		<text bitflag="321" id1="9" id2="194659" version="1065353216">You can wait for &lt;&lt;1[$d player/$d players]&gt;&gt; to join or start the conversation now.</text>
+		<text bitflag="321" id1="10" id2="194659" version="1065353216">Your multiplayer conversation is ready. &lt;br&gt; Click 'Start Conversation' to begin.</text>
+		<text bitflag="321" id1="11" id2="194659" version="1065353216">Join Conversation</text>
+		<text bitflag="321" id1="12" id2="194659" version="1065353216">Holocall</text>
+		<text bitflag="321" id1="13" id2="194659" version="1065353216">Ignore</text>
+		<text bitflag="321" id1="14" id2="194659" version="1065353216">Start Conversation</text>
+		<text bitflag="321" id1="15" id2="194659" version="1065353216">Cancel</text>
+		<text bitflag="321" id1="16" id2="194659" version="1065353216">Waiting On Group Members</text>
+		<text bitflag="321" id1="17" id2="194659" version="1065353216">In a group phase, all eligible players must physically participate in the conversation.</text>
+		<text bitflag="321" id1="18" id2="194659" version="1065353216">Holocalls are not permitted in a phase</text>
+		<text bitflag="321" id1="19" id2="194659" version="1065353216">All eligible players must participate</text>
+		<text bitflag="321" id1="20" id2="194659" version="1065353216">In a group phase, all eligible players must physically participate in the conversation.</text>
+		<text bitflag="321" id1="21" id2="194659" version="1065353216">Holocalls are not permitted.</text>
+		<text bitflag="321" id1="22" id2="194659" version="1065353216">&lt;&lt;1&gt;&gt;:</text>
+		<text bitflag="321" id1="23" id2="194659" version="1065353216">Choice not available to remote participant.</text>
+		<text bitflag="321" id1="24" id2="194659" version="1065353216">Waiting on &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="4000" id2="194659" version="1065353216">Declined</text>
+		<text bitflag="321" id1="4001" id2="194659" version="1065353216">Ineligible</text>
+		<text bitflag="321" id1="4002" id2="194659" version="1065353216">Invited</text>
+		<text bitflag="321" id1="4003" id2="194659" version="1065353216">Accepted</text>
+		<text bitflag="321" id1="4004" id2="194659" version="1065353216">Accepted Via Holocall</text>
+		<text bitflag="321" id1="9005" id2="194659" version="1065353216">Guest</text>
+		<text bitflag="321" id1="9007" id2="194659" version="1065353216">&lt;&lt;1&gt;&gt;. &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="9008" id2="194659" version="1065353216">More...</text>
+		<text bitflag="321" id1="9009" id2="194659" version="1065353216">Previous Selections</text>
+		<text bitflag="321" id1="9010" id2="194659" version="1065353216">Time Remaining: &lt;&lt;1[$d second/$d seconds]&gt;&gt;</text>
+		<text bitflag="321" id1="9012" id2="194659" version="1065353216">(&lt;&lt;1&gt;&gt; Influence)</text>
+		<text bitflag="321" id1="9013" id2="194659" version="1065353216">You receive:</text>
+		<text bitflag="321" id1="9014" id2="194659" version="1065353216">You give:</text>
+		<text bitflag="321" id1="9015" id2="194659" version="1065353216">Reactions:</text>
+	</file_content>
+</stb_file>

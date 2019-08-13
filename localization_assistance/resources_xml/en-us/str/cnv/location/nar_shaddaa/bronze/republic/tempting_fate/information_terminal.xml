@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/nar_shaddaa/bronze/republic/tempting_fate/information_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="169539" id2="17" version="1065353216">Welcome to Betterlife, Officer 4621. How may I assist you?</text>
+		<text bitflag="1360" id1="169540" id2="17" version="1065353216">[Access Memory Dump process]</text>
+		<text bitflag="3393" id1="169541" id2="17" version="1065353216">Accessing instructions for emergency memory dump.</text>
+		<text bitflag="3393" id1="169543" id2="17" version="1065353216">Memory dump is a four-step fail-safe process. Failure to complete the steps in order will trigger an alarm in company headquarters.</text>
+		<text bitflag="3393" id1="169545" id2="17" version="1065353216">Step one: Terminate data intake process at Terminal J.</text>
+		<text bitflag="3393" id1="169547" id2="17" version="1065353216">Step two: Activate data miner at Terminal M.</text>
+		<text bitflag="3393" id1="169549" id2="17" version="1065353216">Step three: Set transmission location at Terminal Q.</text>
+		<text bitflag="3393" id1="169551" id2="17" version="1065353216">Step four: Trigger memory wipe at Terminal Y.</text>
+		<text bitflag="3393" id1="169553" id2="17" version="1065353216">Is there anything else?</text>
+		<text bitflag="1360" id1="169554" id2="17" version="1065353216">No.</text>
+		<text bitflag="1360" id1="169556" id2="17" version="1065353216">Repeat that.</text>
+		<text bitflag="1360" id1="169557" id2="17" version="1065353216">[Leave]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>8</strs>
+		<file_name>/resources/en-us/str/gui/splitstack.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="224334" version="1065353216">Split</text>
+		<text bitflag="321" id1="2" id2="224334" version="1065353216">Split Stack</text>
+		<text bitflag="321" id1="3" id2="224334" version="1065353216">How Many?</text>
+		<text bitflag="321" id1="4" id2="224334" version="1065353216">Take Less</text>
+		<text bitflag="321" id1="5" id2="224334" version="1065353216">Take More</text>
+		<text bitflag="321" id1="6" id2="224334" version="1065353216">Disassemble</text>
+		<text bitflag="321" id1="7" id2="224334" version="1065353216">Disassemble</text>
+		<text bitflag="321" id1="8" id2="224334" version="1065353216">How Many?</text>
+	</file_content>
+</stb_file>

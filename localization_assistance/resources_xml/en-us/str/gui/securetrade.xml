@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/gui/securetrade.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194676" version="1065353216">TRADE</text>
+		<text bitflag="321" id1="2" id2="194676" version="1065353216">Trade</text>
+		<text bitflag="321" id1="3" id2="194676" version="1065353216">READY</text>
+		<text bitflag="321" id1="4" id2="194676" version="1065353216">NOT READY</text>
+	</file_content>
+</stb_file>

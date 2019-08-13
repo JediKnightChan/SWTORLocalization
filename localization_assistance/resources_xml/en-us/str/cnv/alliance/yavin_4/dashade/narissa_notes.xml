@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>14</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/yavin_4/dashade/narissa_notes.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1196852" id2="17" version="1065353216">&quot;Greetings, Commander. Doctor Drellik sent word you'd be on your way. I've managed to keep the medtechs at bay long enough to write some quick notes on the situation and the artifacts in question. I hope you'll be able to sort out what we could not.&quot;</text>
+		<text bitflag="321" id1="1196853" id2="17" version="1065353216">[Read &quot;Artifact Notes&quot; entry]</text>
+		<text bitflag="321" id1="1196855" id2="17" version="1065353216">[Walk away]</text>
+		<text bitflag="321" id1="1196856" id2="17" version="1065353216">&quot;The relic coffer next to this datapad is the same one you recovered earlier with Doctor Drellik. Inside the coffer we found a Sith medallion along with eight ancient stone tablets.&quot;</text>
+		<text bitflag="321" id1="1196858" id2="17" version="1065353216">&quot;The medallion is fashioned after a Sith mask, with a crystal set into the forehead. When held, the medallion produces a mild, tingling sense of foreboding, supporting its authenticity. For secondary verification, we had Harris try to nap while wearing it. The nightmares came almost immediately.&quot;</text>
+		<text bitflag="321" id1="1196860" id2="17" version="1065353216">&quot;The eight tablets bear a variety of carved images, all unique, and all strongly thematic of Sith values or philosophy. The simple symbology of the images, along with their lack of text, led us to suspect that the tablets might have been intended to teach in some way.&quot;</text>
+		<text bitflag="321" id1="1196862" id2="17" version="1065353216">&quot;We were unable to make much progress with the relics until recently, when Harris found a new artifact in the cave known as the Architect's Hollow. Like the coffer relics, this new object dated to the Exar Kun era and appeared to be related. We set out to investigate, Harris bringing one of the tablets and the medallion, but the expedition was a disaster.&quot;</text>
+		<text bitflag="321" id1="1196864" id2="17" version="1065353216">&quot;Just as we reached the artifact's location, a hulking Massassi attacked us. It was one of their Relic Keepers. We had scouted them just west of the cave entrance, but didn't think much of it. They normally keep to themselves, jealously guarding their relic altars, but this brute went straight after Harris... like it knew full well what she had.&quot;</text>
+		<text bitflag="321" id1="1196866" id2="17" version="1065353216">&quot;Needless to say, Harris didn't last long... neither did our escort, for that matter. We scattered and fled. I don't know what became of the tablet or the medallion. It shames me that relics have been lost on my watch.&quot;</text>
+		<text bitflag="321" id1="1196868" id2="17" version="1065353216">&quot;I know Harris doesn't mean anything to you, Commander, but she was a great colleague. On our pride as members of Doctor Drellik's team, we need to put this puzzle to rest in her name. It's what she would have wanted.
+
+Doctor Narissa Delau&quot;</text>
+		<text bitflag="321" id1="1196873" id2="17" version="1065353216">[Reread &quot;Artifact Notes&quot; entry]</text>
+		<text bitflag="321" id1="1196876" id2="17" version="1065353216">[Reread &quot;Situation Report&quot; entry]</text>
+		<text bitflag="321" id1="1196880" id2="17" version="1065353216">[Read &quot;Situation Report&quot; entry]</text>
+		<text bitflag="321" id1="1197577" id2="17" version="1065353216">[A copy of Dr. Delau's notes has been added to your inventory for reference.]</text>
+	</file_content>
+</stb_file>

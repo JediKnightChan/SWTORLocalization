@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>154</strs>
+		<file_name>/resources/en-us/str/gui/map.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="220228" version="1065353216">Level</text>
+		<text bitflag="321" id1="2" id2="220228" version="1065353216">Companion</text>
+		<text bitflag="321" id1="3" id2="220228" version="1065353216">Zoom In</text>
+		<text bitflag="321" id1="4" id2="220228" version="1065353216">Zoom In The Minimap.</text>
+		<text bitflag="321" id1="5" id2="220228" version="1065353216">Zoom Out</text>
+		<text bitflag="321" id1="6" id2="220228" version="1065353216">Zoom Out The Minimap.</text>
+		<text bitflag="321" id1="7" id2="220228" version="1065353216">Server Lag</text>
+		<text bitflag="321" id1="8" id2="220228" version="1065353216">This meter displays the quality of your connection to the game server. If you only see one bar, you might experience a degraded game experience. If this problem persists, check your internet connection and consider contacting Customer Service.</text>
+		<text bitflag="321" id1="9" id2="220228" version="1065353216">Make a call</text>
+		<text bitflag="321" id1="10" id2="220228" version="1065353216">Make a call using your holocommunicator.</text>
+		<text bitflag="321" id1="11" id2="220228" version="1065353216">EDIT INSTANCE</text>
+		<text bitflag="321" id1="12" id2="220228" version="1065353216">X</text>
+		<text bitflag="321" id1="13" id2="220228" version="1065353216">Y</text>
+		<text bitflag="321" id1="14" id2="220228" version="1065353216">Z</text>
+		<text bitflag="321" id1="15" id2="220228" version="1065353216">Current Location</text>
+		<text bitflag="321" id1="16" id2="220228" version="1065353216">Answer your call</text>
+		<text bitflag="321" id1="17" id2="220228" version="1065353216">Answer the call from</text>
+		<text bitflag="321" id1="18" id2="220228" version="1065353216">using your holocommunicator.</text>
+		<text bitflag="321" id1="19" id2="220228" version="1065353216">Server Lag [&lt;&lt;1&gt;&gt; ms]</text>
+		<text bitflag="321" id1="20" id2="220228" version="1065353216">ms</text>
+		<text bitflag="321" id1="21" id2="220228" version="1065353216">EDIT</text>
+		<text bitflag="321" id1="22" id2="220228" version="1065353216">&lt;&lt;1&gt;&gt;:&lt;&lt;2&gt;&gt; AM</text>
+		<text bitflag="321" id1="23" id2="220228" version="1065353216">&lt;&lt;1&gt;&gt;:&lt;&lt;2&gt;&gt; PM</text>
+		<text bitflag="321" id1="24" id2="220228" version="1065353216">ZOOM LEVEL</text>
+		<text bitflag="321" id1="25" id2="220228" version="1065353216">BONUS:</text>
+		<text bitflag="321" id1="26" id2="220228" version="1065353216">Group Bonus:</text>
+		<text bitflag="321" id1="27" id2="220228" version="1065353216">Area Map</text>
+		<text bitflag="321" id1="28" id2="220228" version="1065353216">World Map</text>
+		<text bitflag="321" id1="29" id2="220228" version="1065353216">Player (X,Y):</text>
+		<text bitflag="321" id1="30" id2="220228" version="1065353216">Cursor (X,Y):</text>
+		<text bitflag="321" id1="31" id2="220228" version="1065353216">EXIT CURRENT AREA</text>
+		<text bitflag="321" id1="32" id2="220228" version="1065353216">Resource</text>
+		<text bitflag="321" id1="33" id2="220228" version="1065353216">Magnify</text>
+		<text bitflag="321" id1="34" id2="220228" version="1065353216">MISSION TRACKER</text>
+		<text bitflag="321" id1="35" id2="220228" version="1065353216">Use of your holocommunicator is disabled while in combat.</text>
+		<text bitflag="321" id1="36" id2="220228" version="1065353216">Filters:</text>
+		<text bitflag="321" id1="100" id2="220228" version="1065353216">Player</text>
+		<text bitflag="321" id1="101" id2="220228" version="1065353216">Companion</text>
+		<text bitflag="321" id1="102" id2="220228" version="1065353216">Mission Offer</text>
+		<text bitflag="321" id1="103" id2="220228" version="1065353216">Mission Objective</text>
+		<text bitflag="321" id1="104" id2="220228" version="1065353216">Group Member</text>
+		<text bitflag="321" id1="105" id2="220228" version="1065353216">Group Missions</text>
+		<text bitflag="321" id1="106" id2="220228" version="1065353216">Group Mission Objective</text>
+		<text bitflag="321" id1="107" id2="220228" version="1065353216">Exit</text>
+		<text bitflag="321" id1="108" id2="220228" version="1065353216">Exit with Mission</text>
+		<text bitflag="321" id1="109" id2="220228" version="1065353216">Mission Area</text>
+		<text bitflag="321" id1="111" id2="220228" version="1065353216">&lt;&lt;1&gt;&gt;,&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="112" id2="220228" version="1065353216">Legend</text>
+		<text bitflag="321" id1="114" id2="220228" version="1065353216">Missions</text>
+		<text bitflag="321" id1="115" id2="220228" version="1065353216">Search for a marketplace to find vendors, trainers and other services.</text>
+		<text bitflag="321" id1="116" id2="220228" version="1065353216">Warzones (Player vs. Player combat) are not available until level 10.</text>
+		<text bitflag="321" id1="117" id2="220228" version="1065353216">Space</text>
+		<text bitflag="321" id1="1000" id2="220228" version="1065353216">MAP FILTERS</text>
+		<text bitflag="321" id1="1001" id2="220228" version="1065353216">Vendor</text>
+		<text bitflag="321" id1="1002" id2="220228" version="1065353216">Taxi</text>
+		<text bitflag="321" id1="1003" id2="220228" version="1065353216">Trainer</text>
+		<text bitflag="321" id1="1004" id2="220228" version="1065353216">Quick Travel Point</text>
+		<text bitflag="321" id1="1005" id2="220228" version="1065353216">World Map</text>
+		<text bitflag="321" id1="1006" id2="220228" version="1065353216">Minimap</text>
+		<text bitflag="321" id1="1007" id2="220228" version="1065353216">Magnification</text>
+		<text bitflag="321" id1="1008" id2="220228" version="1065353216">Resource</text>
+		<text bitflag="321" id1="1009" id2="220228" version="1065353216">&lt;&lt;1&gt;&gt;: &lt;&lt;2&gt;&gt; missions</text>
+		<text bitflag="321" id1="1010" id2="220228" version="1065353216">Minimap Filters</text>
+		<text bitflag="321" id1="1011" id2="220228" version="1065353216">Mail</text>
+		<text bitflag="321" id1="1012" id2="220228" version="1065353216">Modification Station</text>
+		<text bitflag="321" id1="1013" id2="220228" version="1065353216">AREA MAP FILTER OPTIONS</text>
+		<text bitflag="321" id1="1014" id2="220228" version="1065353216">WORLD MAP FILTER OPTIONS</text>
+		<text bitflag="321" id1="1015" id2="220228" version="1065353216">MINIMAP FILTER OPTIONS</text>
+		<text bitflag="321" id1="1016" id2="220228" version="1065353216">Toggle vendor icons on the world map</text>
+		<text bitflag="321" id1="1017" id2="220228" version="1065353216">Toggle taxi icons on the world map</text>
+		<text bitflag="321" id1="1018" id2="220228" version="1065353216">Toggle trainer icons on the world map</text>
+		<text bitflag="321" id1="1019" id2="220228" version="1065353216">Toggle quick travel point icons on the world map</text>
+		<text bitflag="321" id1="1020" id2="220228" version="1065353216">Toggle resource icons on the world map</text>
+		<text bitflag="321" id1="1021" id2="220228" version="1065353216">Toggle mail icons on the world map</text>
+		<text bitflag="321" id1="1022" id2="220228" version="1065353216">Toggle modification station icons on the world map</text>
+		<text bitflag="321" id1="1023" id2="220228" version="1065353216">Toggle vendor icons on the area map</text>
+		<text bitflag="321" id1="1024" id2="220228" version="1065353216">Toggle taxi icons on the area map</text>
+		<text bitflag="321" id1="1025" id2="220228" version="1065353216">Toggle trainer icons on the area map</text>
+		<text bitflag="321" id1="1026" id2="220228" version="1065353216">Toggle quick travel point icons on the area map</text>
+		<text bitflag="321" id1="1027" id2="220228" version="1065353216">Toggle resource icons on the area map</text>
+		<text bitflag="321" id1="1028" id2="220228" version="1065353216">Toggle mailboxes on the area map</text>
+		<text bitflag="321" id1="1029" id2="220228" version="1065353216">Toggle modification station icons on the area map</text>
+		<text bitflag="321" id1="1030" id2="220228" version="1065353216">Toggle vendor icons on the minimap</text>
+		<text bitflag="321" id1="1031" id2="220228" version="1065353216">Toggle taxi stations on the minimap</text>
+		<text bitflag="321" id1="1032" id2="220228" version="1065353216">Toggle trainer icons on the minimap</text>
+		<text bitflag="321" id1="1033" id2="220228" version="1065353216">Toggle quick travel points on the minimap</text>
+		<text bitflag="321" id1="1034" id2="220228" version="1065353216">Toggle resource icons on the minimap</text>
+		<text bitflag="321" id1="1035" id2="220228" version="1065353216">Toggle mail icons on the minimap</text>
+		<text bitflag="321" id1="1036" id2="220228" version="1065353216">Toggle modification station icons on the minimap</text>
+		<text bitflag="321" id1="1037" id2="220228" version="1065353216">Exit Area</text>
+		<text bitflag="321" id1="1038" id2="220228" version="1065353216">Exit Current Area</text>
+		<text bitflag="321" id1="1039" id2="220228" version="1065353216">Open the World Map.</text>
+		<text bitflag="321" id1="1040" id2="220228" version="1065353216">Cargo Hold Access</text>
+		<text bitflag="321" id1="1041" id2="220228" version="1065353216">Galactic Market Kiosk</text>
+		<text bitflag="321" id1="1042" id2="220228" version="1065353216">Area</text>
+		<text bitflag="321" id1="1043" id2="220228" version="1065353216">World</text>
+		<text bitflag="321" id1="1044" id2="220228" version="1065353216">Change Instance</text>
+		<text bitflag="321" id1="1045" id2="220228" version="1065353216">Instance:</text>
+		<text bitflag="321" id1="1046" id2="220228" version="1065353216">You have &lt;&lt;1[no unread messages/$d unread message/$d unread messages]&gt;&gt;.
+Visit a mailbox to retrieve your mail.</text>
+		<text bitflag="321" id1="1047" id2="220228" version="1065353216">Warzone</text>
+		<text bitflag="321" id1="1048" id2="220228" version="1065353216">Flashpoint</text>
+		<text bitflag="321" id1="1049" id2="220228" version="1065353216">Crew Skills Trainer</text>
+		<text bitflag="321" id1="1050" id2="220228" version="1065353216">Elevator</text>
+		<text bitflag="321" id1="6050" id2="220228" version="1065353216">New abilities available</text>
+		<text bitflag="321" id1="6051" id2="220228" version="1065353216">Nothing to train</text>
+		<text bitflag="321" id1="6053" id2="220228" version="1065353216">Location^n</text>
+		<text bitflag="321" id1="6054" id2="220228" version="1065353216">X: &lt;&lt;1&gt;&gt; Y: &lt;&lt;2&gt;&gt; Z: &lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="6055" id2="220228" version="1065353216">You have a message from a BioWare Agent!</text>
+		<text bitflag="321" id1="6058" id2="220228" version="1065353216">Wild Space</text>
+		<text bitflag="321" id1="6059" id2="220228" version="1065353216">Dreamscape</text>
+		<text bitflag="321" id1="6060" id2="220228" version="1065353216">The Gravestone</text>
+		<text bitflag="321" id1="6061" id2="220228" version="1065353216">Asylum</text>
+		<text bitflag="321" id1="6062" id2="220228" version="1065353216">Show Exploration Missions</text>
+		<text bitflag="321" id1="6063" id2="220228" version="1065353216">This enables additional Missions throughout the galaxy for you to complete. This content does not impact your character's core storyline.</text>
+		<text bitflag="321" id1="6064" id2="220228" version="1065353216">Story Mission</text>
+		<text bitflag="321" id1="6065" id2="220228" version="1065353216">Exploration Mission</text>
+		<text bitflag="321" id1="6066" id2="220228" version="1065353216">Repeatable Mission</text>
+		<text bitflag="321" id1="6067" id2="220228" version="1065353216">You cannot toggle Exploration Missions for another &lt;&lt;1&gt;&gt; seconds.</text>
+		<text bitflag="321" id1="6068" id2="220228" version="1065353216">PvP Mission</text>
+		<text bitflag="321" id1="6069" id2="220228" version="1065353216">Magnified Cursor</text>
+		<text bitflag="321" id1="6070" id2="220228" version="1065353216">OPEN GALAXY MAP</text>
+		<text bitflag="321" id1="6071" id2="220228" version="1065353216">Open the Galaxy Map.</text>
+		<text bitflag="321" id1="6072" id2="220228" version="1065353216">Battle Over Iokath</text>
+		<text bitflag="321" id1="6073" id2="220228" version="1065353216">Yavin Ruins</text>
+		<text bitflag="321" id1="6074" id2="220228" version="1065353216">Yavin Ruins Chat</text>
+		<text bitflag="321" id1="6075" id2="220228" version="1065353216">Mandalorian Battle Ring</text>
+		<text bitflag="321" id1="6076" id2="220228" version="1065353216">Vandin Huttball Chat</text>
+		<text bitflag="321" id1="6077" id2="220228" version="1065353216">Vandin Huttball</text>
+		<text bitflag="321" id1="6078" id2="220228" version="1065353216">Ancient Hypergate</text>
+		<text bitflag="321" id1="6079" id2="220228" version="1065353216">Novare Coast</text>
+		<text bitflag="321" id1="6080" id2="220228" version="1065353216">Alderaan Civil War</text>
+		<text bitflag="321" id1="6081" id2="220228" version="1065353216">Voidstar</text>
+		<text bitflag="321" id1="6082" id2="220228" version="1065353216">Huttball</text>
+		<text bitflag="321" id1="6083" id2="220228" version="1065353216">Quesh Huttball</text>
+		<text bitflag="321" id1="6084" id2="220228" version="1065353216">Odessen Proving Grounds</text>
+		<text bitflag="321" id1="6085" id2="220228" version="1065353216">Lost Shipyards: Domination</text>
+		<text bitflag="321" id1="6086" id2="220228" version="1065353216">Lost Shipyards: Team Death Match</text>
+		<text bitflag="321" id1="6087" id2="220228" version="1065353216">Kuat Mesas: Domination</text>
+		<text bitflag="321" id1="6088" id2="220228" version="1065353216">Kuat Mesas: Team Death Match</text>
+		<text bitflag="321" id1="6089" id2="220228" version="1065353216">Denon Exosphere: Domination</text>
+		<text bitflag="321" id1="6090" id2="220228" version="1065353216">Battle Over Iokath: Team Death Match</text>
+		<text bitflag="321" id1="6091" id2="220228" version="1065353216">Orbital Station</text>
+		<text bitflag="321" id1="6092" id2="220228" version="1065353216">Rishi Cove Arena</text>
+		<text bitflag="321" id1="6093" id2="220228" version="1065353216">Makeb Mesa Arena</text>
+		<text bitflag="321" id1="6094" id2="220228" version="1065353216">Corellia Square Arena</text>
+		<text bitflag="321" id1="6095" id2="220228" version="1065353216">Tatooine Canyon</text>
+		<text bitflag="321" id1="6096" id2="220228" version="1065353216">Arenas are a best of three round death match.  Once you are down you are out of the round!  Be the last team standing!</text>
+		<text bitflag="321" id1="6097" id2="220228" version="1065353216">Interact with the objective control points to secure the defense turrets. Inflict enough turret damage to the enemy ship to destroy it and achieve victory!</text>
+		<text bitflag="321" id1="6098" id2="220228" version="1065353216">Interact with the ball to pick it up from the stand. Pass or run the ball to the enemy goal line to score points!</text>
+		<text bitflag="321" id1="6099" id2="220228" version="1065353216">Interact with the objective control points to secure the defense turrets. Inflict enough turret damage to the enemy ship to destroy it and kill other players to achieve victory.</text>
+		<text bitflag="321" id1="6100" id2="220228" version="1065353216">Capture an active Control Point for tour team by standing in the holo-area.  Every second of control scores points for your team. Seek out powerful Battle Mods that can turn the title of the exercise.</text>
+		<text bitflag="321" id1="6101" id2="220228" version="1065353216">Capture pylons, defeat other players, and gather and deliver energy orbs to score points!</text>
+		<text bitflag="321" id1="6102" id2="220228" version="1065353216">The attacking team progresses through the ship by blasting through doors and hacking terminals while the defensive team attempts to guards their ship from the attackers assault.</text>
+		<text bitflag="321" id1="6103" id2="220228" version="1065353216">Interact with the artillery targeting computers to reprogram it. Each defensive bunker is equipped with regenerative shields.  Use one turret to disable the shied and a second turret to damage the bunker.  Inflict enough damage to the enemy bunker to destroy it and achieve victory!</text>
+	</file_content>
+</stb_file>

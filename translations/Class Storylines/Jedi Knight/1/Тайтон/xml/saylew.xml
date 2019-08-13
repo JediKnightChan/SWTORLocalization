@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="61">
+	<unit bitflag="1345" id1="605654" id2="17" version="1065353216">
+		<source>She died in my arms. You should've seen what those filth did to her.</source>
+		<target>Она умерла у меня на руках. Если бы вы видели, что с ней сделала эта погань.</target>
+	</unit>
+	<unit bitflag="1345" id1="605656" id2="17" version="1065353216">
+		<source>I'm sorry, Saylew. We all share your loss.</source>
+		<target>Мне жаль, Сэйлу. Мы все разделяем твою потерю.</target>
+	</unit>
+	<unit bitflag="1345" id1="605658" id2="17" version="1065353216">
+		<source>For every one of us the Flesh Raiders butcher, we should kill ten! No, a hundred!</source>
+		<target>За каждого из нас, убитого раздирателями, нужно убивать десять в ответ! Нет, сто!</target>
+	</unit>
+	<unit bitflag="1345" id1="605660" id2="17" version="1065353216">
+		<source>Will that restore your loved one to life?</source>
+		<target>Это вернёт твою любимую к жизни?</target>
+	</unit>
+	<unit bitflag="1345" id1="605662" id2="17" version="1065353216">
+		<source>Don't lecture me, Jedi. My wife is dead! Our people, slaughtered! Where were you then?</source>
+		<target>Не учи меня, джедай. Моя жена мертва! Наш народ - перебит! Где вы были тогда?</target>
+	</unit>
+	<unit bitflag="1345" id1="605663" id2="17" version="1065353216">
+		<source>Nothing I say will make you feel whole again, but we truly are doing everything we can.</source>
+		<target>Никакие мои слова не утешат вас, но мы правда делаем всё, что можем.</target>
+	</unit>
+	<unit bitflag="1360" id1="605663" id2="17" version="1065353216">
+		<source>I'm sorry for your loss.</source>
+		<target>Сочувствую вашей потере.</target>
+	</unit>
+	<unit bitflag="1345" id1="605664" id2="17" version="1065353216">
+		<source>What about exterminating those animals?</source>
+		<target>Как насчёт того, чтобы истребить этих животных?</target>
+	</unit>
+	<unit bitflag="1345" id1="605666" id2="17" version="1065353216">
+		<source>Saylew, this Jedi brought us the Flesh Raiders' weapons so we can defend our homes.</source>
+		<target>Сэйлу, этот джедай принёс нам оружие раздирателей, чтобы мы могли защитить свой дом.</target>
+	</unit>
+	<unit bitflag="1345" id1="605668" id2="17" version="1065353216">
+		<source>I sabotaged the Flesh Raiders' weapons. They'll pay for what they've done.</source>
+		<target>Оружие раздирателей выведено из строя. Они заплатят за то, что сделали.</target>
+	</unit>
+	<unit bitflag="1360" id1="605668" id2="17" version="1065353216">
+		<source>Crippling the enemy.</source>
+		<target>Сокрушал врага.</target>
+	</unit>
+	<unit bitflag="1345" id1="605669" id2="17" version="1065353216">
+		<source>Sabotage? It's not enough. It'll never be enough.</source>
+		<target>Диверсия? Этого не достаточно. Ничего не будет достаточно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605671" id2="17" version="1065353216">
+		<source>I took all the Flesh Raiders' weapons, so you can defend yourselves.</source>
+		<target>Я забрал всё оружие раздирателей, чтобы вы могли защититься.</target>
+	</unit>
+	<unit bitflag="1360" id1="605671" id2="17" version="1065353216">
+		<source>Getting you weapons.</source>
+		<target>Доставал вам оружие.</target>
+	</unit>
+	<unit bitflag="1345" id1="605672" id2="17" version="1065353216">
+		<source>Finally, one of you who understands.</source>
+		<target>Наконец-то хоть кто-то из вас что-то понял.</target>
+	</unit>
+	<unit bitflag="1360" id1="605674" id2="17" version="1065353216">
+		<source>Shut your mouth.</source>
+		<target>Заткнись.</target>
+	</unit>
+	<unit bitflag="1345" id1="605675" id2="17" version="1065353216">
+		<source>You have an obligation to defend life--to stop evil. Isn't that what you people do?</source>
+		<target>Вы обязаны защищать жизнь, останавливать зло. Разве не этим вы занимаетесь?</target>
+	</unit>
+	<unit bitflag="1345" id1="605677" id2="17" version="1065353216">
+		<source>The Flesh Raiders won't stop until we're all dead. Are you going to let that happen?</source>
+		<target>Раздиратели не остановятся, пока мы все не будем мертвы. Вы позволите этому произойти?</target>
+	</unit>
+	<unit bitflag="1345" id1="605678" id2="17" version="1065353216">
+		<source>I won't quit until the Flesh Raiders are defeated. That's a promise.</source>
+		<target>Я не отступлю, пока раздиратели не будут разбиты. Обещаю.</target>
+	</unit>
+	<unit bitflag="1360" id1="605678" id2="17" version="1065353216">
+		<source>Never.</source>
+		<target>Никогда.</target>
+	</unit>
+	<unit bitflag="1345" id1="605679" id2="17" version="1065353216">
+		<source>We'll see what a Jedi's promise is worth.</source>
+		<target>Увидим, чего стоит обещание джедая.</target>
+	</unit>
+	<unit bitflag="1345" id1="605681" id2="17" version="1065353216">
+		<source>I hope you can fulfill that pledge. I fear he won't take disappointment well.</source>
+		<target>Надеюсь, ты исполнишь эту клятву. Боюсь, он не справится с разочарованием.</target>
+	</unit>
+	<unit bitflag="1345" id1="605682" id2="17" version="1065353216">
+		<source>Perhaps your people would be safer if you left Tython.</source>
+		<target>Возможно, ваш народ был бы целее за пределами Тайтона.</target>
+	</unit>
+	<unit bitflag="1360" id1="605682" id2="17" version="1065353216">
+		<source>You can always leave.</source>
+		<target>Вы всегда можете уехать.</target>
+	</unit>
+	<unit bitflag="1345" id1="605683" id2="17" version="1065353216">
+		<source>This is our home. No Flesh Raider--or Jedi--will drive us out.</source>
+		<target>Это наш дом. Ни раздиратели, ни джедаи не смогут изгнать нас отсюда.</target>
+	</unit>
+	<unit bitflag="1345" id1="605685" id2="17" version="1065353216">
+		<source>You made a good point. Shame he's too stubborn to hear it.</source>
+		<target>Ты прав. Жаль только, он слишком упрям, чтобы услышать.</target>
+	</unit>
+	<unit bitflag="1345" id1="605686" id2="17" version="1065353216">
+		<source>If you're dumb enough to pick fights with Jedi, maybe you don't deserve to survive.</source>
+		<target>Если вы настолько тупые, что боретесь с джедаями, возможно, вы не заслуживаете жить.</target>
+	</unit>
+	<unit bitflag="1360" id1="605686" id2="17" version="1065353216">
+		<source>Maybe I should.</source>
+		<target>Может, стоило бы.</target>
+	</unit>
+	<unit bitflag="1345" id1="605687" id2="17" version="1065353216">
+		<source>I knew you weren't here to help. We'll just have to take justice for ourselves.</source>
+		<target>Я знал, что вы пришли не на помощь. Нам просто придётся вершить правосудие самим.</target>
+	</unit>
+	<unit bitflag="1345" id1="605689" id2="17" version="1065353216">
+		<source>Emotions are running high enough. All you did was stir things up.</source>
+		<target>Эмоции и так зашкаливали. Вы лишь подлили масла в огонь.</target>
+	</unit>
+	<unit bitflag="1345" id1="605691" id2="17" version="1065353216">
+		<source>Saylew, this Jedi risked everything to seize the Flesh Raiders' own weapons and bring them here.</source>
+		<target>Сэйлу, этот джедай рисковал всем, чтобы отнять оружие у раздирателей и доставить сюда.</target>
+	</unit>
+	<unit bitflag="1345" id1="605693" id2="17" version="1065353216">
+		<source>Give me those weapons. We'll hunt down the Flesh Raiders. We'll have retribution.</source>
+		<target>Дай мне это оружие. Мы выследим раздирателей. Они заплатят.</target>
+	</unit>
+	<unit bitflag="1345" id1="605694" id2="17" version="1065353216">
+		<source>You're upset--the last thing you need is a blaster. Let me handle the Flesh Raiders.</source>
+		<target>Ты слишком сильно огорчён, и последнее, что тебе сейчас нужно, - бластер. Позволь мне разобраться с раздирателями.</target>
+	</unit>
+	<unit bitflag="1360" id1="605694" id2="17" version="1065353216">
+		<source>You'll die chasing revenge.</source>
+		<target>Ты умрёшь, добиваясь мести.</target>
+	</unit>
+	<unit bitflag="1345" id1="605695" id2="17" version="1065353216">
+		<source>This Jedi is wise. Listen to her counsel.</source>
+		<target>Этот джедай мудр. Прислушайся к его совету.</target>
+	</unit>
+	<unit bitflag="1345" id1="605697" id2="17" version="1065353216">
+		<source>Your wife wouldn't want you to die for revenge. I promise we'll stop these attacks.</source>
+		<target>Твоя жена не хотела бы мести за её жизнь ценой твоей. Обещаю, мы остановим эти атаки.</target>
+	</unit>
+	<unit bitflag="1345" id1="605699" id2="17" version="1065353216">
+		<source>Well done, Padawan. He may not feel better, but at least he'll stay out of trouble.</source>
+		<target>Отлично, падаван. Возможно, ему не стало лучше, но, по крайней мере, он не попадёт в неприятности.</target>
+	</unit>
+	<unit bitflag="1345" id1="605701" id2="17" version="1065353216">
+		<source>Your leader should decide how to use these weapons--not you.</source>
+		<target>Ваша предводительница должна решать, как использовать это оружие - не вы.</target>
+	</unit>
+	<unit bitflag="1360" id1="605701" id2="17" version="1065353216">
+		<source>Ranna's in charge here.</source>
+		<target>Здесь главная Ранна.</target>
+	</unit>
+	<unit bitflag="1345" id1="605702" id2="17" version="1065353216">
+		<source>The Jedi is wise. You should listen to her.</source>
+		<target>Этот джедай мудр. Стоит прислушаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="605704" id2="17" version="1065353216">
+		<source>Go and mourn your wife, Saylew. I'll organize a militia to protect our village.</source>
+		<target>Оплакивай свою жену, Сэйлу. Я организую ополчение для защиты деревни.</target>
+	</unit>
+	<unit bitflag="1345" id1="605706" id2="17" version="1065353216">
+		<source>He still wants revenge, but at least he isn't armed.</source>
+		<target>Он по-прежнему хочет мести, но он хотя бы безоружен.</target>
+	</unit>
+	<unit bitflag="1345" id1="605708" id2="17" version="1065353216">
+		<source>The weapons are yours. I hope you find your enemies.</source>
+		<target>Оружие ваше. Надеюсь, ты найдёшь своих врагов.</target>
+	</unit>
+	<unit bitflag="1360" id1="605708" id2="17" version="1065353216">
+		<source>Take them. [Give weapons]</source>
+		<target>Бери. [Отдать оружие]</target>
+	</unit>
+	<unit bitflag="1345" id1="605709" id2="17" version="1065353216">
+		<source>I will. And they're going to pay.</source>
+		<target>Найду. И они заплатят.</target>
+	</unit>
+	<unit bitflag="1345" id1="605711" id2="17" version="1065353216">
+		<source>Emotions and weapons--never a good mix.</source>
+		<target>Эмоции и оружие... ничего хорошего ждать не приходится.</target>
+	</unit>
+	<unit bitflag="1345" id1="605713" id2="17" version="1065353216">
+		<source>Poor Saylew. I understand his grief more than he knows.</source>
+		<target>Бедный Сэйлу. Я понимаю его печаль больше, чем он думает.</target>
+	</unit>
+	<unit bitflag="1345" id1="605715" id2="17" version="1065353216">
+		<source>People wonder why Jedi are forbidden to marry or have families. They don't see how attachments always lead to suffering.</source>
+		<target>Люди удивляются, почему джедаям запрещено вступать в брак, заводить семью. Они не понимают, что привязанности всегда ведут к страданию.</target>
+	</unit>
+	<unit bitflag="1345" id1="605717" id2="17" version="1065353216">
+		<source>Passionate emotions can destroy a person--and Jedi destroyed by passion become something terrible.</source>
+		<target>Сильные эмоции могут уничтожить личность - а джедай, уничтоженный страстью, превращается в нечто ужасное.</target>
+	</unit>
+	<unit bitflag="3393" id1="605719" id2="17" version="1065353216">
+		<source>T7 = salutes Master Orgus // T7 reconnaissance report = ready for delivery</source>
+		<target>T7 = приветствует мастера Оргуса // Рапорт о разведке T7 = готов к передаче</target>
+	</unit>
+	<unit bitflag="1345" id1="605720" id2="17" version="1065353216">
+		<source>Teeseven was captured by the Flesh Raiders. You'll want to see the holorecording he made.</source>
+		<target>Тэсемь был пойман раздирателями. Вам нужно увидеть запись, сделанную им.</target>
+	</unit>
+	<unit bitflag="1360" id1="605720" id2="17" version="1065353216">
+		<source>I found this droid, Master.</source>
+		<target>Этот дроид был найден мной, учитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="605721" id2="17" version="1065353216">
+		<source>This droid says he works for the Jedi. Is that true?</source>
+		<target>Этот дроид говорит, что работает на джедаев. Это правда?</target>
+	</unit>
+	<unit bitflag="1360" id1="605721" id2="17" version="1065353216">
+		<source>Do you know T7?</source>
+		<target>Вы знаете T7?</target>
+	</unit>
+	<unit bitflag="1345" id1="605722" id2="17" version="1065353216">
+		<source>Yes, he's one of our long-range probes. We sent out twenty. This is the only one to come back.</source>
+		<target>Да, он один из наших дистанционных зондов. Мы выслали двадцать. Вернулся только он.</target>
+	</unit>
+	<unit bitflag="1345" id1="605724" id2="17" version="1065353216">
+		<source>This thing's been a pain in my neck since the Flesh Raider camp.</source>
+		<target>Эта штука была моей головной болью с самого лагеря раздирателей.</target>
+	</unit>
+	<unit bitflag="1360" id1="605724" id2="17" version="1065353216">
+		<source>He's all yours.</source>
+		<target>Он всецело ваш.</target>
+	</unit>
+	<unit bitflag="1345" id1="605725" id2="17" version="1065353216">
+		<source>One of our long-range probes--I thought we'd lost all of them.</source>
+		<target>Один из наших дистанционных зондов - думал, мы всех потеряли.</target>
+	</unit>
+	<unit bitflag="3393" id1="605727" id2="17" version="1065353216">
+		<source>T7's holorecording = enemies of Jedi // T7 = play back for Master Orgus</source>
+		<target>Голозапись T7 = враги джедаев // T7 = воспроизвести для мастера Оргуса</target>
+	</unit>
+	<unit bitflag="1345" id1="605729" id2="17" version="1065353216">
+		<source>While I deal with the droid, talk to Ranna. I think her people are ready to help us, thanks to you.</source>
+		<target>Пока я разбираюсь с дроидом, поговори с Ранной. Думаю, её люди готовы нам помочь, благодаря тебе.</target>
+	</unit>
+	<unit bitflag="1345" id1="605735" id2="17" version="1065353216">
+		<source>What, another outsider who's come to mock us?</source>
+		<target>Что, ещё один чужак, пришедший насмехаться над нами?</target>
+	</unit>
+</dialogue_file>

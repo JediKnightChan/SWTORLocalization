@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/bronze/republic/traps_are_meant_to_be_sprung/doctor_varen.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="84695" id2="17" version="1065353216">We got those medical supplies just in time.</text>
+		<text bitflag="3393" id1="84696" id2="17" version="1065353216">Please, hurry. I'm not sure how long these patients will last without supplies.</text>
+		<text bitflag="3393" id1="84697" id2="17" version="1065353216">I've told you all I know. The Voss commando database will have more information.</text>
+		<text bitflag="3393" id1="84700" id2="17" version="1065353216">You all must be headed for the battlefield. Could we speak, first?</text>
+		<text bitflag="3393" id1="84702" id2="17" version="1065353216">Master Jedi, welcome to our field hospital. May I have a word?</text>
+		<text bitflag="3393" id1="84704" id2="17" version="1065353216">Major. Glad to see you're not injured. We're in a tight spot.</text>
+		<text bitflag="3393" id1="84706" id2="17" version="1065353216">Captain. I've heard a bit about your skills. I hope you can help.</text>
+		<text bitflag="3393" id1="84708" id2="17" version="1065353216">Doctor Varen, Republic field medic. The Voss have suffered some heavy losses, and we're running low on medical supplies.</text>
+		<text bitflag="3393" id1="84710" id2="17" version="1065353216">Rumor has it the supplies were stolen. The Voss asked for help recovering them, but I'm no soldier. You might do better.</text>
+		<text bitflag="1360" id1="84711" id2="17" version="1065353216">Whatever I can do.</text>
+		<text bitflag="1360" id1="84712" id2="17" version="1065353216">Be glad to help.</text>
+		<text bitflag="1360" id1="84713" id2="17" version="1065353216">Stolen by whom?</text>
+		<text bitflag="1360" id1="84714" id2="17" version="1065353216">Stolen by whom?</text>
+		<text bitflag="3393" id1="84715" id2="17" version="1065353216">We're in Gorma-Koss, fighting a war against the Gormak... I know where I'd look.</text>
+		<text bitflag="3393" id1="84717" id2="17" version="1065353216">The Voss would like to keep this operation quiet. Heavy losses, dwindling supplies--makes them look bad.</text>
+		<text bitflag="3393" id1="84719" id2="17" version="1065353216">Here. Temporary credentials to access the Voss commando database. Good luck--we need those supplies.</text>
+		<text bitflag="1360" id1="84721" id2="17" version="1065353216">Too busy. [Refuse quest]</text>
+		<text bitflag="3393" id1="84722" id2="17" version="1065353216">Please, reconsider. The Voss are fighting a war here. They need our help.</text>
+		<text bitflag="3393" id1="84724" id2="17" version="1065353216">Another time, please. There are many Voss injured here.</text>
+	</file_content>
+</stb_file>

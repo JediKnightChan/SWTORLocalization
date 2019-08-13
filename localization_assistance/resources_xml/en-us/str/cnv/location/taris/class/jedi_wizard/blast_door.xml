@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>10</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris/class/jedi_wizard/blast_door.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="624902" id2="17" version="1065353216">[The controls for the blast door do not respond. The toxic gas must have damaged the door's circuitry.]</text>
+		<text bitflag="1345" id1="624903" id2="17" version="1065353216">The Force is my ally--I will not fail.</text>
+		<text bitflag="1360" id1="624903" id2="17" version="1065353216">[Use your Force abilities]</text>
+		<text bitflag="1345" id1="624906" id2="17" version="1065353216">Perhaps a closer study is in order.</text>
+		<text bitflag="1360" id1="624906" id2="17" version="1065353216">[Examine the door]</text>
+		<text bitflag="321" id1="624907" id2="17" version="1065353216">[The blast door is too heavy to lift manually. There is no sound from the other side.]</text>
+		<text bitflag="1345" id1="624909" id2="17" version="1065353216">No sense going in unprepared.</text>
+		<text bitflag="1360" id1="624909" id2="17" version="1065353216">[Leave the door alone]</text>
+		<text bitflag="321" id1="624910" id2="17" version="1065353216">[You step back from the door.]</text>
+		<text bitflag="321" id1="624912" id2="17" version="1065353216">[This blast door is securely closed.]</text>
+	</file_content>
+</stb_file>

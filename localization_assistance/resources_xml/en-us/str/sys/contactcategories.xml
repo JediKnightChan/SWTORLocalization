@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>40</strs>
+		<file_name>/resources/en-us/str/sys/contactcategories.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="838162" version="1065353216">Hoth</text>
+		<text bitflag="321" id1="257" id2="838162" version="1065353216">Hutta</text>
+		<text bitflag="321" id1="258" id2="838162" version="1065353216">Korriban</text>
+		<text bitflag="321" id1="259" id2="838162" version="1065353216">Ord Mantell</text>
+		<text bitflag="321" id1="260" id2="838162" version="1065353216">Tython</text>
+		<text bitflag="321" id1="261" id2="838162" version="1065353216">Alderaan</text>
+		<text bitflag="321" id1="262" id2="838162" version="1065353216">Balmorra</text>
+		<text bitflag="321" id1="263" id2="838162" version="1065353216">Belsavis</text>
+		<text bitflag="321" id1="264" id2="838162" version="1065353216">Corellia</text>
+		<text bitflag="321" id1="265" id2="838162" version="1065353216">Dromund Kaas</text>
+		<text bitflag="321" id1="266" id2="838162" version="1065353216">Coruscant</text>
+		<text bitflag="321" id1="267" id2="838162" version="1065353216">Ilum</text>
+		<text bitflag="321" id1="268" id2="838162" version="1065353216">Nar Shaddaa</text>
+		<text bitflag="321" id1="269" id2="838162" version="1065353216">Quesh</text>
+		<text bitflag="321" id1="270" id2="838162" version="1065353216">Tatooine</text>
+		<text bitflag="321" id1="271" id2="838162" version="1065353216">Taris</text>
+		<text bitflag="321" id1="272" id2="838162" version="1065353216">Voss</text>
+		<text bitflag="321" id1="273" id2="838162" version="1065353216">Main Characters</text>
+		<text bitflag="321" id1="274" id2="838162" version="1065353216">Other Followers</text>
+		<text bitflag="321" id1="275" id2="838162" version="1065353216">Creatures</text>
+		<text bitflag="321" id1="276" id2="838162" version="1065353216">Droids</text>
+		<text bitflag="321" id1="277" id2="838162" version="1065353216">Yavin 4</text>
+		<text bitflag="321" id1="278" id2="838162" version="1065353216">Other Contacts</text>
+		<text bitflag="321" id1="279" id2="838162" version="1065353216">Odessen</text>
+		<text bitflag="321" id1="280" id2="838162" version="1065353216">Alliance Specialists</text>
+		<text bitflag="321" id1="281" id2="838162" version="1065353216">Zakuul</text>
+		<text bitflag="321" id1="282" id2="838162" version="1065353216">Unavailable Companions</text>
+		<text bitflag="321" id1="283" id2="838162" version="1065353216">Companions</text>
+		<text bitflag="321" id1="284" id2="838162" version="1065353216">Recruited Companions</text>
+		<text bitflag="321" id1="285" id2="838162" version="1065353216">Companions: Bounty Hunter</text>
+		<text bitflag="321" id1="286" id2="838162" version="1065353216">Companions: Sith Inquisitor</text>
+		<text bitflag="321" id1="287" id2="838162" version="1065353216">Companions: Sith Warrior</text>
+		<text bitflag="321" id1="288" id2="838162" version="1065353216">Companions: Trooper</text>
+		<text bitflag="321" id1="289" id2="838162" version="1065353216">Companions: Smuggler</text>
+		<text bitflag="321" id1="290" id2="838162" version="1065353216">Companions: Jedi Consular</text>
+		<text bitflag="321" id1="291" id2="838162" version="1065353216">Companions: Jedi Knight</text>
+		<text bitflag="321" id1="292" id2="838162" version="1065353216">Companions: Imperial Agent</text>
+		<text bitflag="321" id1="293" id2="838162" version="1065353216">Companions: Other</text>
+		<text bitflag="321" id1="294" id2="838162" version="1065353216">Alliance Recruit</text>
+		<text bitflag="321" id1="295" id2="838162" version="1065353216">Former Companion</text>
+	</file_content>
+</stb_file>

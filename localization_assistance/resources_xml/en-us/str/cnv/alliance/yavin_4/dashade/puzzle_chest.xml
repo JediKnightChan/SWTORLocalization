@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>125</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/yavin_4/dashade/puzzle_chest.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1188182" id2="17" version="1065353216">[Interact with the first slot]</text>
+		<text bitflag="321" id1="1188183" id2="17" version="1065353216">[Interact with the second slot]</text>
+		<text bitflag="321" id1="1188184" id2="17" version="1065353216">[Interact with the third slot]</text>
+		<text bitflag="321" id1="1188185" id2="17" version="1065353216">[Interact with the fourth slot]</text>
+		<text bitflag="321" id1="1188186" id2="17" version="1065353216">[Interact with the fifth slot]</text>
+		<text bitflag="321" id1="1188187" id2="17" version="1065353216">[Do something else]</text>
+		<text bitflag="321" id1="1188188" id2="17" version="1065353216">[You consider which tablet to place in the first slot.]</text>
+		<text bitflag="321" id1="1188189" id2="17" version="1065353216">The Tablet of Power</text>
+		<text bitflag="321" id1="1188190" id2="17" version="1065353216">The Tablet of Betrayal</text>
+		<text bitflag="321" id1="1188191" id2="17" version="1065353216">The Tablet of Sacrifice</text>
+		<text bitflag="321" id1="1188192" id2="17" version="1065353216">The Tablet of Strength</text>
+		<text bitflag="321" id1="1188193" id2="17" version="1065353216">The Tablet of Passion</text>
+		<text bitflag="321" id1="1188194" id2="17" version="1065353216">The Tablet of Broken Chains</text>
+		<text bitflag="321" id1="1188195" id2="17" version="1065353216">The Tablet of Victory</text>
+		<text bitflag="321" id1="1196925" id2="17" version="1065353216">[An enigmatic artifact lurks in the shadows, silently keeping its secrets.]</text>
+		<text bitflag="321" id1="1196926" id2="17" version="1065353216">[Examine the artifact]</text>
+		<text bitflag="321" id1="1196927" id2="17" version="1065353216">[Walk away]</text>
+		<text bitflag="321" id1="1196928" id2="17" version="1065353216">[There are five slots across the top of the artifact. The scratches and wear around their edges suggest that the slots are meant to hold other objects.]</text>
+		<text bitflag="321" id1="1197059" id2="17" version="1065353216">[On the front of the artifact is a pair of panels, each engraved with an image.]</text>
+		<text bitflag="321" id1="1197061" id2="17" version="1065353216">[The first engraving depicts two figures, their arms clasped in friendship. A pair of deep, angry gouges cuts through the image.]</text>
+		<text bitflag="321" id1="1197063" id2="17" version="1065353216">[The other carving depicts a liberated figure ascending to the stars as several smaller figures look on from the surface.]</text>
+		<text bitflag="321" id1="1197069" id2="17" version="1065353216">[Seeing the similarity between the artifact's engravings and your tablets, you try sliding one of your relic tablets into a slot, and discover that the tablets fit perfectly.]</text>
+		<text bitflag="321" id1="1197072" id2="17" version="1065353216">[There are five slots across the top of the artifact. These appear to be designed to hold the relic tablets.]</text>
+		<text bitflag="321" id1="1197074" id2="17" version="1065353216">[Try things involving the Sith medallion]</text>
+		<text bitflag="321" id1="1197075" id2="17" version="1065353216">[Try placing relic tablets in the slots]</text>
+		<text bitflag="321" id1="1197076" id2="17" version="1065353216">[You consider things to try with your Sith medallion.]</text>
+		<text bitflag="321" id1="1197077" id2="17" version="1065353216">[Try placing the medallion into an empty slot]</text>
+		<text bitflag="321" id1="1197078" id2="17" version="1065353216">[Try touching the Sith medallion to the surface of the artifact]</text>
+		<text bitflag="321" id1="1197079" id2="17" version="1065353216">[Do something else]</text>
+		<text bitflag="321" id1="1197080" id2="17" version="1065353216">[Dropping the medallion into an open slot has no noticeable effect.]</text>
+		<text bitflag="321" id1="1197081" id2="17" version="1065353216">[Touching the artifact with the Sith medallion has no noticeable effect.]</text>
+		<text bitflag="321" id1="1197086" id2="17" version="1065353216">[The Sith medallion's aura of unease has intensified into a yearning. It is reacting to something.]</text>
+		<text bitflag="321" id1="1197110" id2="17" version="1065353216">[This slot is currently empty.]</text>
+		<text bitflag="321" id1="1197111" id2="17" version="1065353216">[This slot contains the Tablet of Power.]</text>
+		<text bitflag="321" id1="1197112" id2="17" version="1065353216">[This slot contains the Tablet of Betrayal.]</text>
+		<text bitflag="321" id1="1197113" id2="17" version="1065353216">[This slot contains the Tablet of Sacrifice.]</text>
+		<text bitflag="321" id1="1197114" id2="17" version="1065353216">[This slot contains the Tablet of Strength.]</text>
+		<text bitflag="321" id1="1197115" id2="17" version="1065353216">[This slot contains the Tablet of Passion.]</text>
+		<text bitflag="321" id1="1197116" id2="17" version="1065353216">[This slot contains the Tablet of Broken Chains.]</text>
+		<text bitflag="321" id1="1197117" id2="17" version="1065353216">[This slot contains the Tablet of Victory.]</text>
+		<text bitflag="321" id1="1197118" id2="17" version="1065353216">[This slot contains the Tablet of Secrets.]</text>
+		<text bitflag="321" id1="1197148" id2="17" version="1065353216">[Remove the tablet in the first slot]</text>
+		<text bitflag="321" id1="1197149" id2="17" version="1065353216">[Place a tablet in the first slot]</text>
+		<text bitflag="321" id1="1197150" id2="17" version="1065353216">[Interact with a different slot]</text>
+		<text bitflag="321" id1="1197151" id2="17" version="1065353216">[Try something else entirely]</text>
+		<text bitflag="321" id1="1197161" id2="17" version="1065353216">[You remove the Tablet of Power from the slot.]</text>
+		<text bitflag="321" id1="1197162" id2="17" version="1065353216">[You remove the Tablet of Betrayal from the slot.]</text>
+		<text bitflag="321" id1="1197163" id2="17" version="1065353216">[You remove the Tablet of Sacrifice from the slot.]</text>
+		<text bitflag="321" id1="1197164" id2="17" version="1065353216">[You remove the Tablet of Strength from the slot.]</text>
+		<text bitflag="321" id1="1197165" id2="17" version="1065353216">[You remove the Tablet of Passion from the slot.]</text>
+		<text bitflag="321" id1="1197166" id2="17" version="1065353216">[You remove the Tablet of Broken Chains from the slot.]</text>
+		<text bitflag="321" id1="1197167" id2="17" version="1065353216">[You remove the Tablet of Victory from the slot.]</text>
+		<text bitflag="321" id1="1197168" id2="17" version="1065353216">[You remove the Tablet of Secrets from the slot.]</text>
+		<text bitflag="321" id1="1197181" id2="17" version="1065353216">[You place the Tablet of Power in the slot.]</text>
+		<text bitflag="321" id1="1197182" id2="17" version="1065353216">[You place the Tablet of Betrayal in the slot.]</text>
+		<text bitflag="321" id1="1197183" id2="17" version="1065353216">[You place the Tablet of Sacrifice in the slot.]</text>
+		<text bitflag="321" id1="1197184" id2="17" version="1065353216">[You place the Tablet of Strength in the slot.]</text>
+		<text bitflag="321" id1="1197185" id2="17" version="1065353216">[You place the Tablet of Passion in the slot.]</text>
+		<text bitflag="321" id1="1197186" id2="17" version="1065353216">[You place the Tablet of Broken Chains in the slot.]</text>
+		<text bitflag="321" id1="1197187" id2="17" version="1065353216">[You place the Tablet of Victory in the slot.]</text>
+		<text bitflag="321" id1="1197188" id2="17" version="1065353216">[You place the Tablet of Secrets in the slot.]</text>
+		<text bitflag="321" id1="1197206" id2="17" version="1065353216">[The Sith medallion's aura of unease intensifies into a yearning. It is reacting to something.]</text>
+		<text bitflag="321" id1="1197222" id2="17" version="1065353216">The Tablet of Secrets</text>
+		<text bitflag="321" id1="1197251" id2="17" version="1065353216">[Remove the tablet in the second slot]</text>
+		<text bitflag="321" id1="1197268" id2="17" version="1065353216">[Place a tablet in the second slot]</text>
+		<text bitflag="321" id1="1197269" id2="17" version="1065353216">[You consider which tablet to place in the second slot.]</text>
+		<text bitflag="321" id1="1197270" id2="17" version="1065353216">The Tablet of Power</text>
+		<text bitflag="321" id1="1197273" id2="17" version="1065353216">The Tablet of Betrayal</text>
+		<text bitflag="321" id1="1197276" id2="17" version="1065353216">The Tablet of Sacrifice</text>
+		<text bitflag="321" id1="1197279" id2="17" version="1065353216">The Tablet of Strength</text>
+		<text bitflag="321" id1="1197282" id2="17" version="1065353216">The Tablet of Passion</text>
+		<text bitflag="321" id1="1197285" id2="17" version="1065353216">The Tablet of Broken Chains</text>
+		<text bitflag="321" id1="1197288" id2="17" version="1065353216">The Tablet of Victory</text>
+		<text bitflag="321" id1="1197291" id2="17" version="1065353216">The Tablet of Secrets</text>
+		<text bitflag="321" id1="1197294" id2="17" version="1065353216">[Interact with a different slot]</text>
+		<text bitflag="321" id1="1197295" id2="17" version="1065353216">[Try something else entirely]</text>
+		<text bitflag="321" id1="1197317" id2="17" version="1065353216">[Remove the tablet in the third slot]</text>
+		<text bitflag="321" id1="1197334" id2="17" version="1065353216">[Place a tablet in the third slot]</text>
+		<text bitflag="321" id1="1197335" id2="17" version="1065353216">[You consider which tablet to place in the third slot.]</text>
+		<text bitflag="321" id1="1197336" id2="17" version="1065353216">The Tablet of Power</text>
+		<text bitflag="321" id1="1197339" id2="17" version="1065353216">The Tablet of Betrayal</text>
+		<text bitflag="321" id1="1197342" id2="17" version="1065353216">The Tablet of Sacrifice</text>
+		<text bitflag="321" id1="1197345" id2="17" version="1065353216">The Tablet of Strength</text>
+		<text bitflag="321" id1="1197348" id2="17" version="1065353216">The Tablet of Passion</text>
+		<text bitflag="321" id1="1197351" id2="17" version="1065353216">The Tablet of Broken Chains</text>
+		<text bitflag="321" id1="1197354" id2="17" version="1065353216">The Tablet of Victory</text>
+		<text bitflag="321" id1="1197357" id2="17" version="1065353216">The Tablet of Secrets</text>
+		<text bitflag="321" id1="1197360" id2="17" version="1065353216">[Interact with a different slot]</text>
+		<text bitflag="321" id1="1197361" id2="17" version="1065353216">[Try something else entirely]</text>
+		<text bitflag="321" id1="1197383" id2="17" version="1065353216">[Remove the tablet in the fourth slot]</text>
+		<text bitflag="321" id1="1197400" id2="17" version="1065353216">[Place a tablet in the fourth slot]</text>
+		<text bitflag="321" id1="1197401" id2="17" version="1065353216">[You consider which tablet to place in the fourth slot.]</text>
+		<text bitflag="321" id1="1197402" id2="17" version="1065353216">The Tablet of Power</text>
+		<text bitflag="321" id1="1197405" id2="17" version="1065353216">The Tablet of Betrayal</text>
+		<text bitflag="321" id1="1197408" id2="17" version="1065353216">The Tablet of Sacrifice</text>
+		<text bitflag="321" id1="1197411" id2="17" version="1065353216">The Tablet of Strength</text>
+		<text bitflag="321" id1="1197414" id2="17" version="1065353216">The Tablet of Passion</text>
+		<text bitflag="321" id1="1197417" id2="17" version="1065353216">The Tablet of Broken Chains</text>
+		<text bitflag="321" id1="1197420" id2="17" version="1065353216">The Tablet of Victory</text>
+		<text bitflag="321" id1="1197423" id2="17" version="1065353216">The Tablet of Secrets</text>
+		<text bitflag="321" id1="1197426" id2="17" version="1065353216">[Interact with a different slot]</text>
+		<text bitflag="321" id1="1197427" id2="17" version="1065353216">[Try something else entirely]</text>
+		<text bitflag="321" id1="1197449" id2="17" version="1065353216">[Remove the tablet in the fifth slot]</text>
+		<text bitflag="321" id1="1197466" id2="17" version="1065353216">[Place a tablet in the fifth slot]</text>
+		<text bitflag="321" id1="1197467" id2="17" version="1065353216">[You consider which tablet to place in the fifth slot.]</text>
+		<text bitflag="321" id1="1197468" id2="17" version="1065353216">The Tablet of Power</text>
+		<text bitflag="321" id1="1197471" id2="17" version="1065353216">The Tablet of Betrayal</text>
+		<text bitflag="321" id1="1197474" id2="17" version="1065353216">The Tablet of Sacrifice</text>
+		<text bitflag="321" id1="1197477" id2="17" version="1065353216">The Tablet of Strength</text>
+		<text bitflag="321" id1="1197480" id2="17" version="1065353216">The Tablet of Passion</text>
+		<text bitflag="321" id1="1197483" id2="17" version="1065353216">The Tablet of Broken Chains</text>
+		<text bitflag="321" id1="1197486" id2="17" version="1065353216">The Tablet of Victory</text>
+		<text bitflag="321" id1="1197489" id2="17" version="1065353216">The Tablet of Secrets</text>
+		<text bitflag="321" id1="1197492" id2="17" version="1065353216">[Interact with a different slot]</text>
+		<text bitflag="321" id1="1197493" id2="17" version="1065353216">[Try something else entirely]</text>
+		<text bitflag="321" id1="1197494" id2="17" version="1065353216">[Reclaim placed tablets and walk away]</text>
+		<text bitflag="321" id1="1197496" id2="17" version="1065353216">[The style of the engravings clearly matches that of the relic coffer's tablets. It is easy to see why Harris suspected the artifacts were related.]</text>
+		<text bitflag="321" id1="1197560" id2="17" version="1065353216">[Back]</text>
+		<text bitflag="321" id1="1197561" id2="17" version="1065353216">[Back]</text>
+		<text bitflag="321" id1="1197562" id2="17" version="1065353216">[Back]</text>
+		<text bitflag="321" id1="1197563" id2="17" version="1065353216">[Back]</text>
+		<text bitflag="321" id1="1197564" id2="17" version="1065353216">[Back]</text>
+		<text bitflag="321" id1="1197660" id2="17" version="1065353216">[The artifact looms, activated and ready.]</text>
+		<text bitflag="321" id1="1197663" id2="17" version="1065353216">[Touch the artifact]</text>
+		<text bitflag="321" id1="1197664" id2="17" version="1065353216">[Walk away]</text>
+	</file_content>
+</stb_file>

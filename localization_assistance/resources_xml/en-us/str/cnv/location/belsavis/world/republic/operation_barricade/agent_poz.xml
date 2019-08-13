@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>76</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/world/republic/operation_barricade/agent_poz.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="484414" id2="17" version="1065353216">You did it! You really did it!</text>
+		<text bitflag="1345" id1="484415" id2="17" version="1065353216">Let me know how it feels when you go through--I want to document everything!</text>
+		<text bitflag="1345" id1="484418" id2="17" version="1065353216">Hey there! Thanks to all of your hard work, I've got some really great news!</text>
+		<text bitflag="1345" id1="484420" id2="17" version="1065353216">We managed to get out in the field and pinpoint one of the instantaneous travel devices! It's in an old vault, very close by.</text>
+		<text bitflag="1345" id1="484422" id2="17" version="1065353216">A scouting party already went through to confirm the destination. It's the devices' control hub, for sure--and the Esh-kha are in control.</text>
+		<text bitflag="1345" id1="484423" id2="17" version="1065353216">I'll drive the Esh-kha out of there right away.</text>
+		<text bitflag="1360" id1="484423" id2="17" version="1065353216">Not for long.</text>
+		<text bitflag="1345" id1="484424" id2="17" version="1065353216">After everything you've done here, I don't doubt it!</text>
+		<text bitflag="1360" id1="484426" id2="17" version="1065353216">Nothing to worry about.</text>
+		<text bitflag="1360" id1="484427" id2="17" version="1065353216">That isn't exactly great news.</text>
+		<text bitflag="1345" id1="484428" id2="17" version="1065353216">Well, no, not the last part. But at least we've found a way in!</text>
+		<text bitflag="1345" id1="484430" id2="17" version="1065353216">You'll have to do a lot of fighting to drive the Esh-kha out. Be careful.</text>
+		<text bitflag="1345" id1="484432" id2="17" version="1065353216">I wish I could try it--going through. Is it like inertia, moving really fast, or do you just blink and you're there? Does it hurt?</text>
+		<text bitflag="1345" id1="484433" id2="17" version="1065353216">It would probably be a good idea to have a technical specialist along.</text>
+		<text bitflag="1360" id1="484433" id2="17" version="1065353216">Come and find out.</text>
+		<text bitflag="1345" id1="484434" id2="17" version="1065353216">Oh, no, I'm no good in dangerous situations. But maybe I'll get a chance when you've finished!</text>
+		<text bitflag="1345" id1="484436" id2="17" version="1065353216">Why don't I describe it to you over dinner?</text>
+		<text bitflag="1360" id1="484436" id2="17" version="1065353216">[Flirt] I'll gladly tell you.</text>
+		<text bitflag="1345" id1="484437" id2="17" version="1065353216">Oh, no, I don't think you should eat afterward until you've had a full-body scan. What if something got shifted around?</text>
+		<text bitflag="1345" id1="484439" id2="17" version="1065353216">With all the Esh-kha on the other end, you're better off here.</text>
+		<text bitflag="1360" id1="484439" id2="17" version="1065353216">Be glad you don't have to go.</text>
+		<text bitflag="1345" id1="484440" id2="17" version="1065353216">I know, I know. Maybe when you're done, it'll be safe enough for me to give it a try!</text>
+		<text bitflag="1360" id1="484442" id2="17" version="1065353216">I'll just be leaving now....</text>
+		<text bitflag="1360" id1="484443" id2="17" version="1065353216">I'll just be leaving now....</text>
+		<text bitflag="1345" id1="484444" id2="17" version="1065353216">Sorry, sorry. Sidetracked again. Sending the coordinates now. Once you travel through the device, talk to Captain Devlin, the scouting party commander.</text>
+		<text bitflag="1345" id1="484446" id2="17" version="1065353216">Devlin will feed me data so I can pinpoint exactly where the Esh-kha are tapped into the controls, and then you'll knock them out of there.</text>
+		<text bitflag="1345" id1="484447" id2="17" version="1065353216">I'll check in with Devlin as soon as I'm on the other side.</text>
+		<text bitflag="1360" id1="484447" id2="17" version="1065353216">Got it.</text>
+		<text bitflag="1360" id1="484448" id2="17" version="1065353216">I'm looking forward to this.</text>
+		<text bitflag="1345" id1="484449" id2="17" version="1065353216">Devlin and his team aren't going to help me fight at all?</text>
+		<text bitflag="1360" id1="484449" id2="17" version="1065353216">No real backup?</text>
+		<text bitflag="1345" id1="484450" id2="17" version="1065353216">I'm sorry--we need Devlin's team to hold the other device exit and help us locate the real objective. We just don't have any other troops to spare.</text>
+		<text bitflag="1345" id1="484452" id2="17" version="1065353216">Good luck!</text>
+		<text bitflag="1345" id1="484454" id2="17" version="1065353216">Good luck!</text>
+		<text bitflag="1345" id1="484456" id2="17" version="1065353216">Agent Poz? I was told to speak to you.</text>
+		<text bitflag="1345" id1="484457" id2="17" version="1065353216">It's you! I knew it, just as soon as I saw you. This is such a pleasure!</text>
+		<text bitflag="1345" id1="484459" id2="17" version="1065353216">Matter transmission has always been fascinating to me. But then, these devices might not be transmitting matter at all!</text>
+		<text bitflag="1345" id1="484461" id2="17" version="1065353216">Maybe they just replicate the matter instead. Maybe they're fixed dimensional pathways, and the matter doesn't change at all! There are just so many possibilities!</text>
+		<text bitflag="1345" id1="484462" id2="17" version="1065353216">Is there some way we could stop them from working?</text>
+		<text bitflag="1360" id1="484462" id2="17" version="1065353216">Can they be shut down?</text>
+		<text bitflag="1345" id1="484463" id2="17" version="1065353216">Oh, no, not from here. Not without destroying them, anyway, and we can't be sure we'd find them all. And what a waste!</text>
+		<text bitflag="1345" id1="484465" id2="17" version="1065353216">I take it you've been studying these ancient devices?</text>
+		<text bitflag="1360" id1="484465" id2="17" version="1065353216">You clearly know a great deal.</text>
+		<text bitflag="1345" id1="484466" id2="17" version="1065353216">Oh, not in person--if only. They're all in high-danger areas. I wouldn't last a minute out there.</text>
+		<text bitflag="1345" id1="484468" id2="17" version="1065353216">I'm afraid this isn't the kind of stuff they cover at SpecForce academy.</text>
+		<text bitflag="1360" id1="484468" id2="17" version="1065353216">Science isn't my specialty.</text>
+		<text bitflag="1345" id1="484469" id2="17" version="1065353216">Oh, you don't know what you're missing!</text>
+		<text bitflag="1345" id1="484471" id2="17" version="1065353216">Right. Replicating dimensions and so forth. Of course.</text>
+		<text bitflag="1360" id1="484471" id2="17" version="1065353216">Uh... yeah.</text>
+		<text bitflag="1345" id1="484472" id2="17" version="1065353216">No, no, replicating matter! You can't replicate whole dimensions... but, if you could....</text>
+		<text bitflag="1345" id1="484474" id2="17" version="1065353216">It's incredible that such old technology could be so advanced.</text>
+		<text bitflag="1360" id1="484474" id2="17" version="1065353216">I couldn't agree more.</text>
+		<text bitflag="1345" id1="484475" id2="17" version="1065353216">I know! That's the most interesting part of all! This technology is millennia old, older than the Republic itself. It boggles the mind!</text>
+		<text bitflag="1345" id1="484477" id2="17" version="1065353216">Anyway, we need to find one of the... well, &quot;teleporter&quot; might not be accurate, since it might not really be teleporting anything.</text>
+		<text bitflag="1360" id1="484479" id2="17" version="1065353216">Forget the science chat.</text>
+		<text bitflag="1360" id1="484480" id2="17" version="1065353216">Forget the science chat.</text>
+		<text bitflag="1345" id1="484481" id2="17" version="1065353216">Sorry, sorry. I don't mean to get so excited, it's just... nevermind.</text>
+		<text bitflag="1345" id1="484483" id2="17" version="1065353216">We're looking for a... well, &quot;teleporter&quot; may not be the right word. Like I said, we don't really know if actual teleportation is involved.</text>
+		<text bitflag="1345" id1="484485" id2="17" version="1065353216">&quot;Instantaneous Travel Device.&quot; There. We're looking for one that the Esh-kha are using, so you can get to the hub where they're controlling the... devices, and stop them.</text>
+		<text bitflag="1345" id1="484486" id2="17" version="1065353216">What can I do to help the search?</text>
+		<text bitflag="1360" id1="484486" id2="17" version="1065353216">How can I help?</text>
+		<text bitflag="1345" id1="484487" id2="17" version="1065353216">Well, the searching part is easy, at least, the technical part of the searching part.</text>
+		<text bitflag="1360" id1="484489" id2="17" version="1065353216">I understand.</text>
+		<text bitflag="1345" id1="484490" id2="17" version="1065353216">The devices put off a special energy signature that we can track. We have all the equipment for the job, ready for the field.</text>
+		<text bitflag="1360" id1="484492" id2="17" version="1065353216">So what do you need me for?</text>
+		<text bitflag="1345" id1="484493" id2="17" version="1065353216">I wish we could--we have the equipment to do it and everything!</text>
+		<text bitflag="1345" id1="484495" id2="17" version="1065353216">But this area is completely out of control. We can't pinpoint the nearest device until you make sure it's safe enough for us to do our work.</text>
+		<text bitflag="1345" id1="484496" id2="17" version="1065353216">I'll make sure the coast is clear so you can begin the search.</text>
+		<text bitflag="1360" id1="484496" id2="17" version="1065353216">I'll get started right away.</text>
+		<text bitflag="1360" id1="484497" id2="17" version="1065353216">This will be trifling.</text>
+		<text bitflag="1345" id1="484498" id2="17" version="1065353216">I do all of the work, then you push a few buttons. Great.</text>
+		<text bitflag="1360" id1="484498" id2="17" version="1065353216">Why did I agree to this?</text>
+		<text bitflag="1345" id1="484499" id2="17" version="1065353216">I'm sorry--I wish we could do more!</text>
+		<text bitflag="1345" id1="484501" id2="17" version="1065353216">Talk to any of the other personnel here--they'll give you a good idea of what needs doing.</text>
+		<text bitflag="1345" id1="484503" id2="17" version="1065353216">Good luck!</text>
+		<text bitflag="1345" id1="484505" id2="17" version="1065353216">Hello!</text>
+	</file_content>
+</stb_file>

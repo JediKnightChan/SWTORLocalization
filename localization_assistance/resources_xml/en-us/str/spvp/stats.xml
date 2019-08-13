@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>155</strs>
+		<file_name>/resources/en-us/str/spvp/stats.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="779246" version="1065353216">Battle Duration</text>
+		<text bitflag="321" id1="257" id2="779246" version="1065353216">The total amount of time the battle lasted for you.</text>
+		<text bitflag="321" id1="258" id2="779246" version="1065353216">Time Played</text>
+		<text bitflag="321" id1="259" id2="779246" version="1065353216">Your total play time spent as a contributor.</text>
+		<text bitflag="321" id1="260" id2="779246" version="1065353216">Kills</text>
+		<text bitflag="321" id1="261" id2="779246" version="1065353216">Your total kills including other players, drones, and objectives.</text>
+		<text bitflag="321" id1="262" id2="779246" version="1065353216">Assists</text>
+		<text bitflag="321" id1="263" id2="779246" version="1065353216">Your total assists including other players, drones, and objectives.</text>
+		<text bitflag="321" id1="264" id2="779246" version="1065353216">Deaths</text>
+		<text bitflag="321" id1="265" id2="779246" version="1065353216">Your total deaths.</text>
+		<text bitflag="321" id1="266" id2="779246" version="1065353216">Kill/Death Ratio</text>
+		<text bitflag="321" id1="267" id2="779246" version="1065353216">Your ratio of kills to deaths.</text>
+		<text bitflag="321" id1="268" id2="779246" version="1065353216">Damage Dealt</text>
+		<text bitflag="321" id1="269" id2="779246" version="1065353216">Your total damage dealt to enemies.</text>
+		<text bitflag="321" id1="270" id2="779246" version="1065353216">Damage Received</text>
+		<text bitflag="321" id1="271" id2="779246" version="1065353216">Your total damage received.</text>
+		<text bitflag="321" id1="272" id2="779246" version="1065353216">Damage Repaired</text>
+		<text bitflag="321" id1="273" id2="779246" version="1065353216">Your total damage repaired on yourself or others.</text>
+		<text bitflag="321" id1="274" id2="779246" version="1065353216">Blasters Fired</text>
+		<text bitflag="321" id1="275" id2="779246" version="1065353216">The total number of times you fired blaster weapons during the battle.</text>
+		<text bitflag="321" id1="276" id2="779246" version="1065353216">Missiles Fired</text>
+		<text bitflag="321" id1="277" id2="779246" version="1065353216">The total number of times you fired missile weapons during the battle.</text>
+		<text bitflag="321" id1="278" id2="779246" version="1065353216">Railguns Fired</text>
+		<text bitflag="321" id1="279" id2="779246" version="1065353216">The total number of times you fired railgun weapons during the battle.</text>
+		<text bitflag="321" id1="280" id2="779246" version="1065353216">Weapon Hits</text>
+		<text bitflag="321" id1="281" id2="779246" version="1065353216">Your total number of weapons hits.</text>
+		<text bitflag="321" id1="282" id2="779246" version="1065353216">Hit %</text>
+		<text bitflag="321" id1="283" id2="779246" version="1065353216">Your percentage of hits versus misses for all weapons fired.</text>
+		<text bitflag="321" id1="284" id2="779246" version="1065353216">Longest Kill Streak</text>
+		<text bitflag="321" id1="285" id2="779246" version="1065353216">The largest number of kills you had before being destroyed.</text>
+		<text bitflag="321" id1="286" id2="779246" version="1065353216">Drones/Mines Launched</text>
+		<text bitflag="321" id1="287" id2="779246" version="1065353216">The total number of drones/mines you launched during the battle.</text>
+		<text bitflag="321" id1="288" id2="779246" version="1065353216">Maneuvers Executed</text>
+		<text bitflag="321" id1="289" id2="779246" version="1065353216">The total number of defensive maneuvers you executed during the battle.</text>
+		<text bitflag="321" id1="290" id2="779246" version="1065353216">Abilities Used</text>
+		<text bitflag="321" id1="291" id2="779246" version="1065353216">The total number of times you used a special ability during the battle</text>
+		<text bitflag="321" id1="292" id2="779246" version="1065353216">Objective Captures</text>
+		<text bitflag="321" id1="293" id2="779246" version="1065353216">The total number of times you aided in capturing objectives during the battle.</text>
+		<text bitflag="321" id1="294" id2="779246" version="1065353216">Objective Defense</text>
+		<text bitflag="321" id1="295" id2="779246" version="1065353216">The total amount of time spent defending objectives during the battle.</text>
+		<text bitflag="321" id1="296" id2="779246" version="1065353216">Objective Turret Kills</text>
+		<text bitflag="321" id1="297" id2="779246" version="1065353216">Your total objective turret kills.</text>
+		<text bitflag="321" id1="298" id2="779246" version="1065353216">Objective Turret Assists</text>
+		<text bitflag="321" id1="299" id2="779246" version="1065353216">Your total objective turret kill assists.</text>
+		<text bitflag="321" id1="300" id2="779246" version="1065353216">Powerups Collected</text>
+		<text bitflag="321" id1="301" id2="779246" version="1065353216">The total number of powerups you collected during the battle.</text>
+		<text bitflag="321" id1="302" id2="779246" version="1065353216">Total Lifetime Ship Requisition</text>
+		<text bitflag="321" id1="303" id2="779246" version="1065353216">Total Lifetime Fleet Requisition</text>
+		<text bitflag="321" id1="304" id2="779246" version="1065353216">The total amount of requisition you have earned over your lifetime.</text>
+		<text bitflag="321" id1="305" id2="779246" version="1065353216">Total Time Played</text>
+		<text bitflag="321" id1="306" id2="779246" version="1065353216">Your total Galactic Starfighter play time</text>
+		<text bitflag="321" id1="307" id2="779246" version="1065353216">Total Number of Battles</text>
+		<text bitflag="321" id1="308" id2="779246" version="1065353216">Your total completed battles.</text>
+		<text bitflag="321" id1="309" id2="779246" version="1065353216">Total Wins</text>
+		<text bitflag="321" id1="310" id2="779246" version="1065353216">Your total battle wins.</text>
+		<text bitflag="321" id1="311" id2="779246" version="1065353216">Total Losses</text>
+		<text bitflag="321" id1="312" id2="779246" version="1065353216">Your total battle loses.</text>
+		<text bitflag="321" id1="313" id2="779246" version="1065353216">Win/Loss %</text>
+		<text bitflag="321" id1="314" id2="779246" version="1065353216">Your percentage of wins over losses.</text>
+		<text bitflag="321" id1="315" id2="779246" version="1065353216">Total Kills</text>
+		<text bitflag="321" id1="316" id2="779246" version="1065353216">Your total kills including other players, drones, and objective.</text>
+		<text bitflag="321" id1="317" id2="779246" version="1065353216">Average Kills per Battle</text>
+		<text bitflag="321" id1="318" id2="779246" version="1065353216">Your average number of kills per battle.</text>
+		<text bitflag="321" id1="319" id2="779246" version="1065353216">Total Assists</text>
+		<text bitflag="321" id1="320" id2="779246" version="1065353216">Your total deaths including other players, drones, and objective.</text>
+		<text bitflag="321" id1="321" id2="779246" version="1065353216">Average Assists per Battle</text>
+		<text bitflag="321" id1="322" id2="779246" version="1065353216">Your average number of assists per battle.</text>
+		<text bitflag="321" id1="323" id2="779246" version="1065353216">Total Deaths</text>
+		<text bitflag="321" id1="324" id2="779246" version="1065353216">Your total deaths.</text>
+		<text bitflag="321" id1="325" id2="779246" version="1065353216">Kill/Death Ratio</text>
+		<text bitflag="321" id1="326" id2="779246" version="1065353216">Your ratio of kills to deaths.</text>
+		<text bitflag="321" id1="327" id2="779246" version="1065353216">Total Damage Dealt</text>
+		<text bitflag="321" id1="328" id2="779246" version="1065353216">The total amount of damage you have dealt.</text>
+		<text bitflag="321" id1="329" id2="779246" version="1065353216">Average Damage Dealt per Battle</text>
+		<text bitflag="321" id1="330" id2="779246" version="1065353216">The average amount of damage you have dealt per battle.</text>
+		<text bitflag="321" id1="331" id2="779246" version="1065353216">Total Damage Received</text>
+		<text bitflag="321" id1="332" id2="779246" version="1065353216">The total amount of damage you have received.</text>
+		<text bitflag="321" id1="333" id2="779246" version="1065353216">Average Damage Received per Battle</text>
+		<text bitflag="321" id1="334" id2="779246" version="1065353216">The average amount of damage you have received per battle.</text>
+		<text bitflag="321" id1="335" id2="779246" version="1065353216">Damage Ratio</text>
+		<text bitflag="321" id1="336" id2="779246" version="1065353216">Your ratio of damage dealt to damage received.</text>
+		<text bitflag="321" id1="337" id2="779246" version="1065353216">Damage Repaired</text>
+		<text bitflag="321" id1="338" id2="779246" version="1065353216">The total amount of damage you've repaired on yourself and allies.</text>
+		<text bitflag="321" id1="339" id2="779246" version="1065353216">Blasters Fired</text>
+		<text bitflag="321" id1="340" id2="779246" version="1065353216">The total number of times you've fired blaster weapons.</text>
+		<text bitflag="321" id1="341" id2="779246" version="1065353216">Missiles Fired</text>
+		<text bitflag="321" id1="342" id2="779246" version="1065353216">The total number of times you've fired missile weapons.</text>
+		<text bitflag="321" id1="343" id2="779246" version="1065353216">Railguns Fired</text>
+		<text bitflag="321" id1="344" id2="779246" version="1065353216">The total number of times you've fired railgun weapons.</text>
+		<text bitflag="321" id1="345" id2="779246" version="1065353216">Weapon Hits</text>
+		<text bitflag="321" id1="346" id2="779246" version="1065353216">The total number of times your weapons have hit a target.</text>
+		<text bitflag="321" id1="347" id2="779246" version="1065353216">Hit/Miss %</text>
+		<text bitflag="321" id1="348" id2="779246" version="1065353216">Your percentage of hits over misses misses for all weapons fired by the player.</text>
+		<text bitflag="321" id1="349" id2="779246" version="1065353216">Drones/Mines Launched</text>
+		<text bitflag="321" id1="350" id2="779246" version="1065353216">The total number of drones/mines you've launched.</text>
+		<text bitflag="321" id1="351" id2="779246" version="1065353216">Maneuvers Executed</text>
+		<text bitflag="321" id1="352" id2="779246" version="1065353216">The total number of defensive maneuvers you executed during battle.</text>
+		<text bitflag="321" id1="353" id2="779246" version="1065353216">Abilities Used</text>
+		<text bitflag="321" id1="354" id2="779246" version="1065353216">The total number of times you've used a special ability.</text>
+		<text bitflag="321" id1="355" id2="779246" version="1065353216">Total Objectives Captured</text>
+		<text bitflag="321" id1="356" id2="779246" version="1065353216">The total number of times you've captured an objective.</text>
+		<text bitflag="321" id1="359" id2="779246" version="1065353216">Total Objective Turrets Killed</text>
+		<text bitflag="321" id1="360" id2="779246" version="1065353216">The total number of times you've destroyed an objective turret.</text>
+		<text bitflag="321" id1="363" id2="779246" version="1065353216">Total Objective Turret Assists</text>
+		<text bitflag="321" id1="364" id2="779246" version="1065353216">Your total objective turret kill assists.</text>
+		<text bitflag="321" id1="367" id2="779246" version="1065353216">Powerups Collected</text>
+		<text bitflag="321" id1="368" id2="779246" version="1065353216">The total number of powerups you collected during the battle.</text>
+		<text bitflag="321" id1="369" id2="779246" version="1065353216">Battle Completion</text>
+		<text bitflag="321" id1="370" id2="779246" version="1065353216">Earnings for completing the battle.</text>
+		<text bitflag="321" id1="371" id2="779246" version="1065353216">Victory Bonus</text>
+		<text bitflag="321" id1="372" id2="779246" version="1065353216">Bonus earnings for winning the battle.</text>
+		<text bitflag="321" id1="373" id2="779246" version="1065353216">Battle Length</text>
+		<text bitflag="321" id1="374" id2="779246" version="1065353216">Earnings for the amount of time you spent as a contributor.</text>
+		<text bitflag="321" id1="375" id2="779246" version="1065353216">Kill/Assist Points</text>
+		<text bitflag="321" id1="376" id2="779246" version="1065353216">Earnings for all of your kills/assists including other players and drones.</text>
+		<text bitflag="321" id1="377" id2="779246" version="1065353216">Objective Turret Kills/Assists</text>
+		<text bitflag="321" id1="378" id2="779246" version="1065353216">Earnings for all of your kills/assists of objective turrets.</text>
+		<text bitflag="321" id1="379" id2="779246" version="1065353216">Objectives Captured</text>
+		<text bitflag="321" id1="380" id2="779246" version="1065353216">Earnings based on the number of times you helped capture an objective.</text>
+		<text bitflag="321" id1="381" id2="779246" version="1065353216">Objective Defense</text>
+		<text bitflag="321" id1="382" id2="779246" version="1065353216">Earnings based on your defense of objectives captured by your team.</text>
+		<text bitflag="321" id1="383" id2="779246" version="1065353216">Daily Bonus</text>
+		<text bitflag="321" id1="384" id2="779246" version="1065353216">Limited bonus earnings given daily for each ship.</text>
+		<text bitflag="321" id1="385" id2="779246" version="1065353216">Player Bonus</text>
+		<text bitflag="321" id1="386" id2="779246" version="1065353216">Increased earnings from a boost applied to your ground character.</text>
+		<text bitflag="321" id1="387" id2="779246" version="1065353216">Mastery Bonus</text>
+		<text bitflag="321" id1="388" id2="779246" version="1065353216">Bonus earnings for flying a Mastered ship.</text>
+		<text bitflag="321" id1="389" id2="779246" version="1065353216">Event Bonus</text>
+		<text bitflag="321" id1="390" id2="779246" version="1065353216">Bonus earnings for an increased Requisition event</text>
+		<text bitflag="321" id1="391" id2="779246" version="1065353216">Powerup Kill/Assist Points</text>
+		<text bitflag="321" id1="392" id2="779246" version="1065353216">Bonus earnings for all of your kills/assists (including other players and drones) while having a powerup active.</text>
+		<text bitflag="321" id1="393" id2="779246" version="1065353216">Cargo Pickups</text>
+		<text bitflag="321" id1="394" id2="779246" version="1065353216">The total amount of cargo you picked up during the battle.</text>
+		<text bitflag="321" id1="395" id2="779246" version="1065353216">Cargo Deliveries</text>
+		<text bitflag="321" id1="396" id2="779246" version="1065353216">The total amount of cargo you successfully delivered during the battle.</text>
+		<text bitflag="321" id1="397" id2="779246" version="1065353216">Cargo Carrier Kills</text>
+		<text bitflag="321" id1="398" id2="779246" version="1065353216">The total number of cargo carrying enemies you killed during the battle.</text>
+		<text bitflag="321" id1="399" id2="779246" version="1065353216">Cargo Carrier Assists</text>
+		<text bitflag="321" id1="400" id2="779246" version="1065353216">The total number of cargo carrying enemies you assisted in killing during the battle.</text>
+		<text bitflag="321" id1="401" id2="779246" version="1065353216">Cargo Carrier Kill/Assist Points</text>
+		<text bitflag="321" id1="402" id2="779246" version="1065353216">Earnings for all of your kills/assists of cargo carrying players during Cargo Run battles.</text>
+		<text bitflag="321" id1="403" id2="779246" version="1065353216">Personal Cargo Deliveries</text>
+		<text bitflag="321" id1="404" id2="779246" version="1065353216">Earnings based on the number of times you successfully delivered cargo during Cargo Run battles.</text>
+		<text bitflag="321" id1="405" id2="779246" version="1065353216">Team Cargo Deliveries</text>
+		<text bitflag="321" id1="406" id2="779246" version="1065353216">Earnings based on the number of times your team successfully delivered cargo during Cargo Run battles.</text>
+		<text bitflag="321" id1="407" id2="779246" version="1065353216">Cargo Pickups</text>
+		<text bitflag="321" id1="408" id2="779246" version="1065353216">The total amount of cargo you've picked up during battles.</text>
+		<text bitflag="321" id1="409" id2="779246" version="1065353216">Cargo Deliveries</text>
+		<text bitflag="321" id1="410" id2="779246" version="1065353216">The total amount of cargo you've successfully delivered during battles.</text>
+		<text bitflag="321" id1="411" id2="779246" version="1065353216">Cargo Carrier Kills</text>
+		<text bitflag="321" id1="412" id2="779246" version="1065353216">The total number of cargo carrying enemies you've killed during battles.</text>
+		<text bitflag="321" id1="413" id2="779246" version="1065353216">Cargo Carrier Assists</text>
+		<text bitflag="321" id1="414" id2="779246" version="1065353216">The total number of cargo carrying enemies you've assisted in killing during battles.</text>
+		<text bitflag="321" id1="417" id2="779246" version="1065353216">Role Weapon Kill/Assist Points</text>
+		<text bitflag="321" id1="418" id2="779246" version="1065353216">Bonus earnings for all of your kills/assists (including other players and drones) while using a role specific weapon.</text>
+	</file_content>
+</stb_file>

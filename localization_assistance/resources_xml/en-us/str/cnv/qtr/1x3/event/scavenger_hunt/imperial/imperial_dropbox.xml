@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x3/event/scavenger_hunt/imperial/imperial_dropbox.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1058540" id2="17" version="1065353216">[This appears to be the drop point Gyden Kall described.]</text>
+		<text bitflag="321" id1="1058542" id2="17" version="1065353216">[Do you want to turn in the items from the Grand Acquisitions Race to the Empire, rather than the Chevin?]</text>
+		<text bitflag="336" id1="1058543" id2="17" version="1065353216">[Turn in the items to the Empire]</text>
+		<text bitflag="336" id1="1058544" id2="17" version="1065353216">[Walk away]</text>
+	</file_content>
+</stb_file>

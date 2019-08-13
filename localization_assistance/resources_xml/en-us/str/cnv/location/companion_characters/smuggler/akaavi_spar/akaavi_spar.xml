@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>592</strs>
+		<file_name>/resources/en-us/str/cnv/location/companion_characters/smuggler/akaavi_spar/akaavi_spar.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="504584" id2="17" version="1065353216">Words are not my strength.</text>
+		<text bitflag="1345" id1="504585" id2="17" version="1065353216">Persistence will get you nowhere. When I wish to talk, you'll know.</text>
+		<text bitflag="1345" id1="529490" id2="17" version="1065353216">I will not be with you long.</text>
+		<text bitflag="1345" id1="529492" id2="17" version="1065353216">Do not begin to think I am yours. This is a convenient arrangement, that is all.</text>
+		<text bitflag="1345" id1="529493" id2="17" version="1065353216">Just humor me. It's two syllables: &quot;Hell-oh.&quot; I know you can do it if you put your mind to it.</text>
+		<text bitflag="1360" id1="529493" id2="17" version="1065353216">Let's try this again. Hello!</text>
+		<text bitflag="1345" id1="529494" id2="17" version="1065353216">Hello.</text>
+		<text bitflag="1345" id1="529495" id2="17" version="1065353216">Hi. How are you? Is this starting to sound familiar?</text>
+		<text bitflag="1360" id1="529495" id2="17" version="1065353216">Let's keep going.</text>
+		<text bitflag="1345" id1="529496" id2="17" version="1065353216">Pretty soon, we'll be braiding each other's hair and talking about boys.</text>
+		<text bitflag="1360" id1="529496" id2="17" version="1065353216">Better already.</text>
+		<text bitflag="1345" id1="529497" id2="17" version="1065353216">Long hair is a detriment. It gives your enemies a handhold in a fight.</text>
+		<text bitflag="1345" id1="529499" id2="17" version="1065353216">I did not come to make small talk. I need somewhere to bunk while I track down my clan's enemies.</text>
+		<text bitflag="1345" id1="529501" id2="17" version="1065353216">See? I bet if you really worked at it, you could even smile....</text>
+		<text bitflag="1360" id1="529501" id2="17" version="1065353216">[Flirt] Was that so hard?</text>
+		<text bitflag="1345" id1="529502" id2="17" version="1065353216">My clan is dead and I have not avenged them. What would make me smile?</text>
+		<text bitflag="1345" id1="529504" id2="17" version="1065353216">Just tell me if you need anything.</text>
+		<text bitflag="1360" id1="529504" id2="17" version="1065353216">I've got things to do.</text>
+		<text bitflag="1345" id1="529505" id2="17" version="1065353216">Doesn't mean we can't chat while you're here, right? Share a few secrets, shed a few tears?</text>
+		<text bitflag="1360" id1="529505" id2="17" version="1065353216">We can still be friends.</text>
+		<text bitflag="1345" id1="529506" id2="17" version="1065353216">I have no clan. What more do you need to know?</text>
+		<text bitflag="1345" id1="529508" id2="17" version="1065353216">I will travel with you as long as our interests coincide.</text>
+		<text bitflag="1345" id1="529509" id2="17" version="1065353216">Sorry to bother you.</text>
+		<text bitflag="1360" id1="529509" id2="17" version="1065353216">If that's what you want, fine.</text>
+		<text bitflag="1345" id1="529510" id2="17" version="1065353216">It is no bother. I just wanted to... be clear.</text>
+		<text bitflag="1345" id1="529512" id2="17" version="1065353216">I appreciate my place here.</text>
+		<text bitflag="1345" id1="529518" id2="17" version="1065353216">I was wrong.</text>
+		<text bitflag="1345" id1="529519" id2="17" version="1065353216">Context, please?</text>
+		<text bitflag="1360" id1="529519" id2="17" version="1065353216">About what?</text>
+		<text bitflag="1345" id1="529520" id2="17" version="1065353216">I've never heard you admit that.</text>
+		<text bitflag="1360" id1="529520" id2="17" version="1065353216">Can I get that in writing?</text>
+		<text bitflag="1345" id1="529521" id2="17" version="1065353216">Your judgment is perfect. After all, you chose me....</text>
+		<text bitflag="1360" id1="529521" id2="17" version="1065353216">[Flirt] You're never wrong.</text>
+		<text bitflag="1345" id1="529522" id2="17" version="1065353216">My one lapse.</text>
+		<text bitflag="1345" id1="529524" id2="17" version="1065353216">You have changed me. When I joined you, I thought it would be a moment's distraction. I had sworn never to give my loyalty again.</text>
+		<text bitflag="1345" id1="529526" id2="17" version="1065353216">I was wrong.</text>
+		<text bitflag="1345" id1="529528" id2="17" version="1065353216">Normal people start with a little idle chitchat, build up to the point they're trying to make....</text>
+		<text bitflag="1360" id1="529528" id2="17" version="1065353216">I hate when you do that.</text>
+		<text bitflag="1345" id1="529529" id2="17" version="1065353216">This is my point.</text>
+		<text bitflag="1345" id1="529531" id2="17" version="1065353216">When I joined your crew, I told you I would never serve another's interests again. I could not trust anyone's purpose to suit my own.</text>
+		<text bitflag="1345" id1="529533" id2="17" version="1065353216">I was wrong. The longer I stay, the more loyalty I feel.</text>
+		<text bitflag="1345" id1="529535" id2="17" version="1065353216">There is nothing in my lifetime that could make me leave your side.</text>
+		<text bitflag="1345" id1="529541" id2="17" version="1065353216">For any Mandalorian, family is most important. That is instilled from birth.</text>
+		<text bitflag="1345" id1="529543" id2="17" version="1065353216">Whether you join the clan by blood or adoption, every Mandalorian seeks to one day have children to pass our traditions down to.</text>
+		<text bitflag="1345" id1="529545" id2="17" version="1065353216">When I left, I assumed that was over. What did I have that was worth passing on?</text>
+		<text bitflag="1345" id1="529546" id2="17" version="1065353216">Are you looking for someone to make rug rats with?</text>
+		<text bitflag="1360" id1="529546" id2="17" version="1065353216">Have you changed your mind?</text>
+		<text bitflag="1345" id1="529547" id2="17" version="1065353216">I know there can never be a child of our bodies, but perhaps one day we will find a child worth taking into our lives.</text>
+		<text bitflag="1345" id1="529549" id2="17" version="1065353216">I am your family. I want you to be my wife.</text>
+		<text bitflag="1360" id1="529549" id2="17" version="1065353216">You have a family now.</text>
+		<text bitflag="1345" id1="529550" id2="17" version="1065353216">I'm really not the &quot;raise a bunch of rug rats&quot; type.</text>
+		<text bitflag="1360" id1="529550" id2="17" version="1065353216">It is over.</text>
+		<text bitflag="1345" id1="529551" id2="17" version="1065353216">Whatever legacy you wish to leave, I would stand by your side.</text>
+		<text bitflag="1345" id1="529553" id2="17" version="1065353216">&quot;Ni vore gar riduurok. Gar riduur.&quot;</text>
+		<text bitflag="1345" id1="529555" id2="17" version="1065353216">Those are the words of our marriage ceremony. They declare a bond of trust and affection between partners.</text>
+		<text bitflag="1345" id1="529556" id2="17" version="1065353216">Ni vore... gar riduurok. Gar riduur.... For as long as we both shall live.</text>
+		<text bitflag="1360" id1="529556" id2="17" version="1065353216">I give you my vow.</text>
+		<text bitflag="1345" id1="529557" id2="17" version="1065353216">This was my father's helmet. I recovered it after he was taken by the Empire.</text>
+		<text bitflag="1345" id1="529559" id2="17" version="1065353216">I want you to have it.</text>
+		<text bitflag="1345" id1="529561" id2="17" version="1065353216">I do not need it with me any longer to mourn the family I lost. I have a family now.</text>
+		<text bitflag="1345" id1="529562" id2="17" version="1065353216">I do. You do. Now let's get to the honeymoon.</text>
+		<text bitflag="1360" id1="529562" id2="17" version="1065353216">Let's celebrate.</text>
+		<text bitflag="1345" id1="529563" id2="17" version="1065353216">You never change....</text>
+		<text bitflag="1345" id1="529566" id2="17" version="1065353216">Who said anything about marriage?</text>
+		<text bitflag="1360" id1="529566" id2="17" version="1065353216">Marriage?</text>
+		<text bitflag="1345" id1="529567" id2="17" version="1065353216">I thought that was what we were to each other. A life-long bond.</text>
+		<text bitflag="1345" id1="529569" id2="17" version="1065353216">Perhaps I have been wrong this whole time.</text>
+		<text bitflag="1345" id1="529570" id2="17" version="1065353216">I have no clan, and the man who destroyed it is dead. Without clan or foe, I am no longer a Mandalorian.</text>
+		<text bitflag="1345" id1="529572" id2="17" version="1065353216">But I am still a warrior--and great ones don't allow old age to take them.</text>
+		<text bitflag="1345" id1="529574" id2="17" version="1065353216">To die in battle, dragging many foes into the Void: that is a good ending. What do you think, Captain?</text>
+		<text bitflag="1345" id1="529575" id2="17" version="1065353216">I'm retiring to a resort planet somewhere. You have fun with that Void thing.</text>
+		<text bitflag="1360" id1="529575" id2="17" version="1065353216">I'd rather be rich.</text>
+		<text bitflag="1345" id1="529576" id2="17" version="1065353216">You'd rather collapse into sloth and weakness? Draw your final diseased breath lying in bed? That isn't living.</text>
+		<text bitflag="1345" id1="529578" id2="17" version="1065353216">I was planning to live forever. It's not as flashy as your idea, but it works for me.</text>
+		<text bitflag="1360" id1="529578" id2="17" version="1065353216">Dying isn't on my agenda.</text>
+		<text bitflag="1345" id1="529579" id2="17" version="1065353216">I should've known better than to expect a serious answer from you.</text>
+		<text bitflag="1345" id1="529581" id2="17" version="1065353216">Last thing I wanna do is get old and boring. Sign me up for the Void.</text>
+		<text bitflag="1360" id1="529581" id2="17" version="1065353216">Sounds like fun.</text>
+		<text bitflag="1345" id1="529582" id2="17" version="1065353216">Perhaps we will go there together.</text>
+		<text bitflag="1345" id1="529584" id2="17" version="1065353216">A warrior's end requires a worthy foe. We should keep fighting until we find ours.</text>
+		<text bitflag="1345" id1="529586" id2="17" version="1065353216">Tomorrow, we die. Today, someone else will. &quot;Ib'tuur jatne tuur ash'ad kyr'amur.&quot;</text>
+		<text bitflag="1345" id1="529592" id2="17" version="1065353216">When I accepted your kiss, I did not expect you to come away with my heart.</text>
+		<text bitflag="1345" id1="529594" id2="17" version="1065353216">But I find myself thinking of you as more than a lover.</text>
+		<text bitflag="1345" id1="529596" id2="17" version="1065353216">I want to share every moment with you.</text>
+		<text bitflag="1345" id1="529597" id2="17" version="1065353216">I love you, Akaavi.</text>
+		<text bitflag="1360" id1="529597" id2="17" version="1065353216">I want to be with you, too.</text>
+		<text bitflag="1345" id1="529598" id2="17" version="1065353216">I... ni kar'tayli gar darasuum.</text>
+		<text bitflag="1345" id1="529600" id2="17" version="1065353216">I did not expect ever to say that to a man.</text>
+		<text bitflag="1345" id1="529602" id2="17" version="1065353216">I don't know about &quot;every moment....&quot;</text>
+		<text bitflag="1360" id1="529602" id2="17" version="1065353216">That's a bit much.</text>
+		<text bitflag="1345" id1="529603" id2="17" version="1065353216">Don't worry. I'll preserve some mystery.</text>
+		<text bitflag="1345" id1="529605" id2="17" version="1065353216">I've got something to share with you, too....</text>
+		<text bitflag="1360" id1="529605" id2="17" version="1065353216">How about right now?</text>
+		<text bitflag="1345" id1="529606" id2="17" version="1065353216">Oh!</text>
+		<text bitflag="1345" id1="529608" id2="17" version="1065353216">For the first time in months, I've allowed myself to think about the future. Some day, this war must end.</text>
+		<text bitflag="1345" id1="529610" id2="17" version="1065353216">What will you do when the Sith Empire rules the galaxy? Will you transfer your loyalties to them? What if your profession is outlawed?</text>
+		<text bitflag="1345" id1="529611" id2="17" version="1065353216">I'll stay in business. If the Republic can't put a slave collar on me, neither can the Empire.</text>
+		<text bitflag="1360" id1="529611" id2="17" version="1065353216">I'll survive.</text>
+		<text bitflag="1345" id1="529612" id2="17" version="1065353216">How much experience do you have with the Empire's slave trade? It's highly advanced.</text>
+		<text bitflag="1345" id1="529614" id2="17" version="1065353216">Have you been following current events? The Empire's on the express hyperlane to nowhere.</text>
+		<text bitflag="1360" id1="529614" id2="17" version="1065353216">The Empire won't win.</text>
+		<text bitflag="1345" id1="529615" id2="17" version="1065353216">A rancor becomes twice as deadly when it's backed into a corner.</text>
+		<text bitflag="1345" id1="529617" id2="17" version="1065353216">Why all the sudden concern? Figuring out if you should jump ship?</text>
+		<text bitflag="1360" id1="529617" id2="17" version="1065353216">What do you care?</text>
+		<text bitflag="1345" id1="529618" id2="17" version="1065353216">Concern for my well-being doesn't exclude an interest in yours.</text>
+		<text bitflag="1345" id1="529620" id2="17" version="1065353216">The only constant in life is change. A warrior prepares for whatever comes.</text>
+		<text bitflag="1345" id1="529622" id2="17" version="1065353216">Your talent for survival is impressive, Captain, but luck has its limits.</text>
+		<text bitflag="1345" id1="529627" id2="17" version="1065353216">You look... well, not exactly happy. Less angry than usual.</text>
+		<text bitflag="1345" id1="529628" id2="17" version="1065353216">It's over. The filth who destroyed my clan and dishonored its name is dead.</text>
+		<text bitflag="1345" id1="529629" id2="17" version="1065353216">Great. You can help deal with my enemies.</text>
+		<text bitflag="1360" id1="529629" id2="17" version="1065353216">I'm glad that's done.</text>
+		<text bitflag="1345" id1="529630" id2="17" version="1065353216">I welcome more worthy foes.</text>
+		<text bitflag="1345" id1="529632" id2="17" version="1065353216">I'm guessing the real story's a little more complicated. Wouldn't mind hearing it.</text>
+		<text bitflag="1360" id1="529632" id2="17" version="1065353216">Do you want to talk about it?</text>
+		<text bitflag="1345" id1="529633" id2="17" version="1065353216">There is little to tell. It was violent, and brief.</text>
+		<text bitflag="1345" id1="529635" id2="17" version="1065353216">Hope you made it as painful as possible.</text>
+		<text bitflag="1360" id1="529635" id2="17" version="1065353216">Revenge is good.</text>
+		<text bitflag="1345" id1="529636" id2="17" version="1065353216">The only feeling I have is certainty. My enemy deserved his fate.</text>
+		<text bitflag="1345" id1="529638" id2="17" version="1065353216">Before he died, Rook confessed his crime. He destroyed my clan because the lie gained him a favorable contract with the Empire.</text>
+		<text bitflag="1345" id1="529640" id2="17" version="1065353216">He killed my people for profit--nothing more. The galaxy is no poorer without him.</text>
+		<text bitflag="1345" id1="529641" id2="17" version="1065353216">People who do terrible things for profit... boy, I'm glad I don't know anyone who fits that description.</text>
+		<text bitflag="1360" id1="529641" id2="17" version="1065353216">We're not all that different.</text>
+		<text bitflag="1345" id1="529642" id2="17" version="1065353216">Before taking a profit, always analyze the cost.</text>
+		<text bitflag="1345" id1="529644" id2="17" version="1065353216">What about the people serving Rook? Your old lover? Did all those people deserve to die?</text>
+		<text bitflag="1360" id1="529644" id2="17" version="1065353216">Your revenge was pointless.</text>
+		<text bitflag="1345" id1="529645" id2="17" version="1065353216">They had no honor. The smart ones ran and survived. The foolish ones are fertilizing Hutta.</text>
+		<text bitflag="1345" id1="529646" id2="17" version="1065353216">That's great, but you can only kill your enemies once. Now what?</text>
+		<text bitflag="1345" id1="529648" id2="17" version="1065353216">Do you have another reason to live, or should you just space yourself right now and get it over with?</text>
+		<text bitflag="1345" id1="529649" id2="17" version="1065353216">I did what honor demanded, without regret. I still have this ship--and you.</text>
+		<text bitflag="1345" id1="529651" id2="17" version="1065353216">Tell me you got something out of this besides revenge.</text>
+		<text bitflag="1360" id1="529651" id2="17" version="1065353216">Did you at least get rich?</text>
+		<text bitflag="1345" id1="529652" id2="17" version="1065353216">Rook was an even worse businessman than Mandalorian. His so-called clan lived in squalor.</text>
+		<text bitflag="1345" id1="529654" id2="17" version="1065353216">I could not have avenged my people without the resources and opportunities you've provided.</text>
+		<text bitflag="1345" id1="529656" id2="17" version="1065353216">I will repay that debt, Captain.</text>
+		<text bitflag="1345" id1="529662" id2="17" version="1065353216">Tayari Rook claims to lead his own clan!</text>
+		<text bitflag="1345" id1="529664" id2="17" version="1065353216">He destroyed my clan with his slander, then dares to raise up his mishmash of slavers and pirates and call them &quot;Clan Rook&quot;!</text>
+		<text bitflag="1345" id1="529666" id2="17" version="1065353216">And no one has challenged them!</text>
+		<text bitflag="1345" id1="529667" id2="17" version="1065353216">Maybe you can kill him twice.</text>
+		<text bitflag="1360" id1="529667" id2="17" version="1065353216">I guess that's your job.</text>
+		<text bitflag="1345" id1="529668" id2="17" version="1065353216">Twice is a mercy!</text>
+		<text bitflag="1345" id1="529670" id2="17" version="1065353216">Haven't the other Mandalorian clans caught wind of this? Shouldn't they be angry, too?</text>
+		<text bitflag="1360" id1="529670" id2="17" version="1065353216">How is this possible?</text>
+		<text bitflag="1345" id1="529671" id2="17" version="1065353216">Rook is careful. Anyone who could speak against him is already dead or dishonored.</text>
+		<text bitflag="1345" id1="529673" id2="17" version="1065353216">You're not Mandalorian anymore, remember? Let it go.</text>
+		<text bitflag="1360" id1="529673" id2="17" version="1065353216">Who cares?</text>
+		<text bitflag="1345" id1="529674" id2="17" version="1065353216">Rook took that away from me! I will not let him go!</text>
+		<text bitflag="1345" id1="529676" id2="17" version="1065353216">That isn't even the worst of it. The man I was with when my people fell... his clan lost all honor after I left. They joined Clan Rook.</text>
+		<text bitflag="1345" id1="529678" id2="17" version="1065353216">My old lover dishonors the name Mandalorian. That coward dies with the rest of Rook's filth.</text>
+		<text bitflag="1345" id1="529679" id2="17" version="1065353216">Once they're all dead, you'll finally be satisfied?</text>
+		<text bitflag="1360" id1="529679" id2="17" version="1065353216">And then you're done?</text>
+		<text bitflag="1345" id1="529680" id2="17" version="1065353216">This has never been personal. It's about justice.</text>
+		<text bitflag="1345" id1="529682" id2="17" version="1065353216">Killing the man who betrayed your clan is one thing. Killing everyone who works for him seems a little extreme.</text>
+		<text bitflag="1360" id1="529682" id2="17" version="1065353216">You're getting out of control.</text>
+		<text bitflag="1345" id1="529683" id2="17" version="1065353216">If Rook's followers run like the cowards they are, they might survive.</text>
+		<text bitflag="1345" id1="529685" id2="17" version="1065353216">First he turned his back on you, then he joined up with the man who betrayed you. I say he deserves whatever he gets.</text>
+		<text bitflag="1360" id1="529685" id2="17" version="1065353216">It seems only fair.</text>
+		<text bitflag="1345" id1="529686" id2="17" version="1065353216">I've often wondered if you listened when I told you about my people. Now I know.</text>
+		<text bitflag="1345" id1="529688" id2="17" version="1065353216">Rook's clan is on Hutta, bowing and scraping for the Cartel. The scum have no discipline. Destroying their camp will be easy.</text>
+		<text bitflag="1345" id1="529690" id2="17" version="1065353216">When I'm finished, it will be as if Clan Rook never existed. I leave for Hutta immediately....</text>
+		<text bitflag="1345" id1="529696" id2="17" version="1065353216">It's not easy to get time alone with you, Captain.</text>
+		<text bitflag="1345" id1="529698" id2="17" version="1065353216">Maybe we should make up an urgent mission for Risha and Corso and everyone. Somewhere at least an hour away.</text>
+		<text bitflag="1345" id1="529699" id2="17" version="1065353216">An hour? I think I'm insulted. We'll need the whole night.</text>
+		<text bitflag="1360" id1="529699" id2="17" version="1065353216">[Flirt] Good idea.</text>
+		<text bitflag="1345" id1="529700" id2="17" version="1065353216">I took the liberty of booking them a room planet-side.</text>
+		<text bitflag="1345" id1="529702" id2="17" version="1065353216">You will be the first outsider to be this close to me without my armor.</text>
+		<text bitflag="1345" id1="529703" id2="17" version="1065353216">They've been missing out.</text>
+		<text bitflag="1360" id1="529703" id2="17" version="1065353216">You're beautiful.</text>
+		<text bitflag="1345" id1="529704" id2="17" version="1065353216">Keep the helmet on....</text>
+		<text bitflag="1360" id1="529704" id2="17" version="1065353216">Just take off some of it.</text>
+		<text bitflag="1345" id1="529705" id2="17" version="1065353216">Ha.</text>
+		<text bitflag="1345" id1="529706" id2="17" version="1065353216">We've only got another twelve hours. Let's not waste it.</text>
+		<text bitflag="1360" id1="529706" id2="17" version="1065353216">Enough talking.</text>
+		<text bitflag="1345" id1="529707" id2="17" version="1065353216">Mmm....</text>
+		<text bitflag="1345" id1="529711" id2="17" version="1065353216">I had no idea all those &quot;smuggling compartments&quot; were for more than just cargo.</text>
+		<text bitflag="1345" id1="529713" id2="17" version="1065353216">That's it! I've had it with you two sneaking around here. Out!</text>
+		<text bitflag="1345" id1="529715" id2="17" version="1065353216">Me? What of you? I will not tolerate this insult any longer.</text>
+		<text bitflag="1345" id1="529717" id2="17" version="1065353216">It is one thing to watch your eye stray on every world we visit, but I will not live with a rival in my own home!</text>
+		<text bitflag="1345" id1="529719" id2="17" version="1065353216">You knew her first. But no man of honor would begin to court me before permanently ending whatever understanding you had with her.</text>
+		<text bitflag="1345" id1="529721" id2="17" version="1065353216">Finally. Something we agree on.</text>
+		<text bitflag="1345" id1="529723" id2="17" version="1065353216">Give up your claim to him. He has chosen me.</text>
+		<text bitflag="1345" id1="529724" id2="17" version="1065353216">Girls, girls. There's plenty of me to share....</text>
+		<text bitflag="1360" id1="529724" id2="17" version="1065353216">Can't I have both?</text>
+		<text bitflag="1345" id1="529725" id2="17" version="1065353216">Not in your wildest--never mind. That's probably exactly what you dream about.</text>
+		<text bitflag="1345" id1="529727" id2="17" version="1065353216">There is only one way to resolve this. I challenge you to an honor duel. Whoever loses must leave the ship and the captain forever.</text>
+		<text bitflag="1345" id1="529729" id2="17" version="1065353216">You've got to be kidding me.</text>
+		<text bitflag="1345" id1="529731" id2="17" version="1065353216">After all the time you spent chasing me, Captain, now that you have me, you'd throw it all away? I don't buy it. Choose.</text>
+		<text bitflag="1345" id1="529733" id2="17" version="1065353216">Who's it going to be? Akaavi or me?</text>
+		<text bitflag="1345" id1="529734" id2="17" version="1065353216">I can't decide. Why don't you two fight it out?</text>
+		<text bitflag="1360" id1="529734" id2="17" version="1065353216">I want to watch the duel.</text>
+		<text bitflag="1345" id1="529735" id2="17" version="1065353216">Love isn't something you settle with blasters.</text>
+		<text bitflag="1345" id1="529737" id2="17" version="1065353216">Why not?</text>
+		<text bitflag="1345" id1="529739" id2="17" version="1065353216">If he doesn't care enough to decide, you can have him! I'm not going to squabble like two kids with a toy.</text>
+		<text bitflag="1345" id1="529740" id2="17" version="1065353216">You haven't been nearly as much fun since you started to like me.</text>
+		<text bitflag="1360" id1="529740" id2="17" version="1065353216">I choose Akaavi.</text>
+		<text bitflag="1345" id1="529741" id2="17" version="1065353216">Well, you're in luck. That's over.</text>
+		<text bitflag="1345" id1="529742" id2="17" version="1065353216">Sorry, Akaavi. My life could never be complete without Risha insulting me.</text>
+		<text bitflag="1360" id1="529742" id2="17" version="1065353216">I choose Risha.</text>
+		<text bitflag="1345" id1="529743" id2="17" version="1065353216">Fine.</text>
+		<text bitflag="1345" id1="529745" id2="17" version="1065353216">That's right, Risha. It's been fun, but... you don't have the helmet.</text>
+		<text bitflag="1360" id1="529745" id2="17" version="1065353216">I've chosen Akaavi.</text>
+		<text bitflag="1345" id1="529746" id2="17" version="1065353216">You are a sick, sick man.</text>
+		<text bitflag="1345" id1="529748" id2="17" version="1065353216">Do you not accept his choice? Shall we duel for who remains a part of this crew?</text>
+		<text bitflag="1345" id1="529750" id2="17" version="1065353216">I don't want your leftovers. You can have him!</text>
+		<text bitflag="1345" id1="529752" id2="17" version="1065353216">Were she Mandalorian, we would both be dead now. Do not ever put me in that position.</text>
+		<text bitflag="1345" id1="529754" id2="17" version="1065353216">That's not your call, Akaavi. It's been fun, but... Risha's had my heart since before I met you.</text>
+		<text bitflag="1360" id1="529754" id2="17" version="1065353216">I've chosen Risha.</text>
+		<text bitflag="1345" id1="529755" id2="17" version="1065353216">If I was only a conquest to you, Captain, consider it over.</text>
+		<text bitflag="1345" id1="529757" id2="17" version="1065353216">I am not here for you to run to every time you make Risha mad.</text>
+		<text bitflag="1345" id1="529759" id2="17" version="1065353216">But that explains the holorecorders in them....</text>
+		<text bitflag="1345" id1="529760" id2="17" version="1065353216">Don't look at those. The other girls meant nothing to me.</text>
+		<text bitflag="1360" id1="529760" id2="17" version="1065353216">I need to erase those.</text>
+		<text bitflag="1345" id1="529761" id2="17" version="1065353216">I would not judge you on your past. Do not judge me on mine.</text>
+		<text bitflag="1345" id1="529763" id2="17" version="1065353216">We will have a new beginning, together.</text>
+		<text bitflag="1345" id1="529765" id2="17" version="1065353216">Don't you hate ruining a perfectly good friendship for one anti-climactic night?</text>
+		<text bitflag="1360" id1="529765" id2="17" version="1065353216">This was a mistake.</text>
+		<text bitflag="1345" id1="529766" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="1345" id1="529767" id2="17" version="1065353216">Just wait until we kick off the artificial grav....</text>
+		<text bitflag="1360" id1="529767" id2="17" version="1065353216">We've still got some time....</text>
+		<text bitflag="1345" id1="529768" id2="17" version="1065353216">Oh!</text>
+		<text bitflag="1345" id1="529770" id2="17" version="1065353216">I like to have all my friends around. The more, the merrier.</text>
+		<text bitflag="1360" id1="529770" id2="17" version="1065353216">I don't think so.</text>
+		<text bitflag="1345" id1="529771" id2="17" version="1065353216">Your friends... I see. I will not presume to be anything more than that.</text>
+		<text bitflag="1345" id1="529772" id2="17" version="1065353216">I'd rather have a night alone with a Wookiee.</text>
+		<text bitflag="1360" id1="529772" id2="17" version="1065353216">Stop hitting on me!</text>
+		<text bitflag="1345" id1="529773" id2="17" version="1065353216">You have made yourself clear. I will not bother you again.</text>
+		<text bitflag="1345" id1="529775" id2="17" version="1065353216">I do not presume to question your choice of crew mates, but I am curious. Why allow yourself to be surrounded by the weak?</text>
+		<text bitflag="1345" id1="529777" id2="17" version="1065353216">Only the Wookiee displays any strength of character. He understands honor. The rest are petty criminals.</text>
+		<text bitflag="1345" id1="529778" id2="17" version="1065353216">I can't tell you how many times the others have come to me singing your praises.</text>
+		<text bitflag="1360" id1="529778" id2="17" version="1065353216">They hate you, too.</text>
+		<text bitflag="1345" id1="529779" id2="17" version="1065353216">I don't value the favor of those weaker than myself.</text>
+		<text bitflag="1345" id1="529781" id2="17" version="1065353216">Cut the farm boy some slack. He's good in a fight. He even has a conscience.</text>
+		<text bitflag="1360" id1="529781" id2="17" version="1065353216">Corso has a good heart.</text>
+		<text bitflag="1345" id1="529782" id2="17" version="1065353216">He is too weak of spirit to make hard choices. He will hesitate, and fail you.</text>
+		<text bitflag="1345" id1="529784" id2="17" version="1065353216">Petty criminals are easier to manage. When they start complaining, just throw some credits at them.</text>
+		<text bitflag="1360" id1="529784" id2="17" version="1065353216">I like them that way.</text>
+		<text bitflag="1345" id1="529785" id2="17" version="1065353216">And what happens when they demand more than you're willing to pay?</text>
+		<text bitflag="1345" id1="529787" id2="17" version="1065353216">One thing a Mandalorian never has to question is a clan-mate's honor. I could always count on the strength of my fellow warriors.</text>
+		<text bitflag="1345" id1="529789" id2="17" version="1065353216">I always sleep lightly aboard your ship.</text>
+		<text bitflag="1345" id1="529796" id2="17" version="1065353216">I have learned more about the scum who betrayed my clan. Tayari Rook claims he has earned the title Mandalorian.</text>
+		<text bitflag="1345" id1="529798" id2="17" version="1065353216">But I heard nothing of him passing the trials of strength and courage required to join a clan.</text>
+		<text bitflag="1345" id1="529799" id2="17" version="1065353216">Sell your services as a Mandalorian without the whole honor and loyalty thing. Why didn't I think of that?</text>
+		<text bitflag="1360" id1="529799" id2="17" version="1065353216">What a ruse! Brilliant!</text>
+		<text bitflag="1345" id1="529800" id2="17" version="1065353216">Because any true Mandalorian would be honor-bound to kill you.</text>
+		<text bitflag="1345" id1="529802" id2="17" version="1065353216">What does it take to be adopted as a Mandalorian?</text>
+		<text bitflag="1360" id1="529802" id2="17" version="1065353216">Tell me about the trials.</text>
+		<text bitflag="1345" id1="529803" id2="17" version="1065353216">It is up to each clan. We do not care much for central authority.</text>
+		<text bitflag="1345" id1="529805" id2="17" version="1065353216">But no one would accept a new brother who had not shown his worth.</text>
+		<text bitflag="1345" id1="529807" id2="17" version="1065353216">Tell me when you get something actionable.</text>
+		<text bitflag="1360" id1="529807" id2="17" version="1065353216">Keep me posted.</text>
+		<text bitflag="1345" id1="529808" id2="17" version="1065353216">I know I cannot honestly take the name Mandalorian any longer. But I cannot let another claim it who has less right than I do.</text>
+		<text bitflag="1345" id1="529810" id2="17" version="1065353216">I have called myself Mandalorian since I left my mother's side at age three to begin training. It is not easy to put that behind me.</text>
+		<text bitflag="1345" id1="529811" id2="17" version="1065353216">Most kids that age are mastering the toilet, not the blaster.</text>
+		<text bitflag="1360" id1="529811" id2="17" version="1065353216">Age three?</text>
+		<text bitflag="1345" id1="529812" id2="17" version="1065353216">Most kids are not Mandalorian.</text>
+		<text bitflag="1345" id1="529814" id2="17" version="1065353216">We start training for war when our bodies and minds are still elastic--to make what we learn a part of ourselves.</text>
+		<text bitflag="1345" id1="529816" id2="17" version="1065353216">Do you want to go back? Live as a Mandalorian again?</text>
+		<text bitflag="1360" id1="529816" id2="17" version="1065353216">You don't have to.</text>
+		<text bitflag="1345" id1="529817" id2="17" version="1065353216">My father's training will always be part of me.</text>
+		<text bitflag="1345" id1="529819" id2="17" version="1065353216">I had a jetpack and blaster before I ever had a friend.</text>
+		<text bitflag="1345" id1="529821" id2="17" version="1065353216">You may be my first.</text>
+		<text bitflag="1345" id1="529822" id2="17" version="1065353216">&quot;Ke ba'jurir gar'ade, jagyc'ade kot'la a dalyc'ade kotla'shya.&quot; Train your sons to be strong, but your daughters to be stronger.</text>
+		<text bitflag="1345" id1="529823" id2="17" version="1065353216">It'd be easier if you stopped talking about it constantly.</text>
+		<text bitflag="1360" id1="529823" id2="17" version="1065353216">Get over it.</text>
+		<text bitflag="1345" id1="529824" id2="17" version="1065353216">You're right.</text>
+		<text bitflag="1345" id1="529830" id2="17" version="1065353216">There is a method to your madness.</text>
+		<text bitflag="1345" id1="529832" id2="17" version="1065353216">When we met, I thought your fighting was driven by impulse, with no strategy or plan.</text>
+		<text bitflag="1345" id1="529834" id2="17" version="1065353216">But I begin to see a pattern in the chaos.</text>
+		<text bitflag="1345" id1="529835" id2="17" version="1065353216">No. You were right the first time. I've got no idea what I'm doing.</text>
+		<text bitflag="1360" id1="529835" id2="17" version="1065353216">I'm just making it up.</text>
+		<text bitflag="1345" id1="529836" id2="17" version="1065353216">I have been studying your moves for some time now.</text>
+		<text bitflag="1345" id1="529838" id2="17" version="1065353216">Maybe we can have a few... practice sessions. Teach you some dirty tricks.</text>
+		<text bitflag="1360" id1="529838" id2="17" version="1065353216">[Flirt] I could teach you....</text>
+		<text bitflag="1345" id1="529839" id2="17" version="1065353216">I believe I've learned those tricks already, Captain.</text>
+		<text bitflag="1345" id1="529841" id2="17" version="1065353216">I am speaking of how you fight. There is more I can learn from you than I thought.</text>
+		<text bitflag="1345" id1="529843" id2="17" version="1065353216">You sound like you want to learn.</text>
+		<text bitflag="1360" id1="529843" id2="17" version="1065353216">I could teach you....</text>
+		<text bitflag="1345" id1="529844" id2="17" version="1065353216">I have already made a study of you, Captain.</text>
+		<text bitflag="1345" id1="529846" id2="17" version="1065353216">My style serves me well.</text>
+		<text bitflag="1360" id1="529846" id2="17" version="1065353216">It's deliberate.</text>
+		<text bitflag="1345" id1="529847" id2="17" version="1065353216">That, I have never questioned.</text>
+		<text bitflag="1345" id1="529849" id2="17" version="1065353216">I have thought of incorporating some of your... tricks... into my own repertoire.</text>
+		<text bitflag="1345" id1="529851" id2="17" version="1065353216">It would certainly earn me the edge of surprise should I be among Mandalorians again.</text>
+		<text bitflag="1345" id1="529857" id2="17" version="1065353216">I considered thinking up some coy comment to greet you with.</text>
+		<text bitflag="1345" id1="529859" id2="17" version="1065353216">But that is not me.</text>
+		<text bitflag="1345" id1="529861" id2="17" version="1065353216">I see the games of flirtation you play, but I cannot take part.</text>
+		<text bitflag="1345" id1="529862" id2="17" version="1065353216">You could start with a joke. I'd love to hear you laugh, Akaavi.</text>
+		<text bitflag="1360" id1="529862" id2="17" version="1065353216">Try it, you might like it.</text>
+		<text bitflag="1345" id1="529863" id2="17" version="1065353216">A Mandalorian woman goes to a Hutt arms dealer and says, &quot;I want to buy a blaster. It's for my husband.&quot;</text>
+		<text bitflag="1345" id1="529865" id2="17" version="1065353216">The Hutt says, &quot;What kind does he prefer? Carbine? Rifle?&quot;</text>
+		<text bitflag="1345" id1="529867" id2="17" version="1065353216">&quot;What does he care?&quot; the woman says. &quot;He doesn't even know I'm going to kill him.&quot;</text>
+		<text bitflag="1345" id1="529868" id2="17" version="1065353216">Ha! I didn't know Mandalorians told jokes.</text>
+		<text bitflag="1360" id1="529868" id2="17" version="1065353216">That's hilarious.</text>
+		<text bitflag="1345" id1="529869" id2="17" version="1065353216">Usually non-Mandalorians don't see the humor in them.</text>
+		<text bitflag="1345" id1="529871" id2="17" version="1065353216">I always heard it about a spacer and his nagging wife.</text>
+		<text bitflag="1360" id1="529871" id2="17" version="1065353216">I know that one.</text>
+		<text bitflag="1345" id1="529872" id2="17" version="1065353216">From the spacers I've met, the wife is more likely to be pulling the trigger.</text>
+		<text bitflag="1345" id1="529874" id2="17" version="1065353216">I take it back. Don't tell jokes.</text>
+		<text bitflag="1360" id1="529874" id2="17" version="1065353216">That was terrible.</text>
+		<text bitflag="1345" id1="529875" id2="17" version="1065353216">I didn't claim it was a skill.</text>
+		<text bitflag="1345" id1="529877" id2="17" version="1065353216">If I want to flirt, I can go to any cantina in the galaxy. There's no one out there like you.</text>
+		<text bitflag="1360" id1="529877" id2="17" version="1065353216">I like you just how you are.</text>
+		<text bitflag="1345" id1="529878" id2="17" version="1065353216">Then you do like me. I wasn't sure whether you were only hoping to remake me in your image.</text>
+		<text bitflag="1345" id1="529880" id2="17" version="1065353216">If you cracked a joke, it would kill the whole macho, prison-buddy vibe you've got going on.</text>
+		<text bitflag="1360" id1="529880" id2="17" version="1065353216">Don't try it.</text>
+		<text bitflag="1345" id1="529881" id2="17" version="1065353216">It is clearly not my strength. I can never tell when you're joking.</text>
+		<text bitflag="1345" id1="529883" id2="17" version="1065353216">I cannot put a name on our relationship. Among Mandalorians, there are two types of union a woman seeks with a man.</text>
+		<text bitflag="1345" id1="529885" id2="17" version="1065353216">A casual one, pursued for mutual enjoyment. Or a serious one, intended to make more children for the clan.</text>
+		<text bitflag="1345" id1="529886" id2="17" version="1065353216">You left off love. Is that not a reason?</text>
+		<text bitflag="1360" id1="529886" id2="17" version="1065353216">What about love?</text>
+		<text bitflag="1345" id1="529887" id2="17" version="1065353216">&quot;Ni kar'tayli gar darasuum.&quot; That is the closest thing we say to &quot;love.&quot; It means &quot;I will know you forever.&quot;</text>
+		<text bitflag="1345" id1="529889" id2="17" version="1065353216">It implies you will risk your own death to ensure that you are never left without them.</text>
+		<text bitflag="1345" id1="529891" id2="17" version="1065353216">I have only heard it in stories. No man or woman I knew ever said it.</text>
+		<text bitflag="1345" id1="529893" id2="17" version="1065353216">Nothing wrong with a little mutual enjoyment.</text>
+		<text bitflag="1360" id1="529893" id2="17" version="1065353216">I pick &quot;casual.&quot;</text>
+		<text bitflag="1345" id1="529894" id2="17" version="1065353216">Before, you said you wanted more than that.</text>
+		<text bitflag="1345" id1="529896" id2="17" version="1065353216">No reason we can't have both....</text>
+		<text bitflag="1345" id1="529900" id2="17" version="1065353216">This feels way too much like &quot;talking about our relationship.&quot;</text>
+		<text bitflag="1360" id1="529900" id2="17" version="1065353216">This talk isn't my thing.</text>
+		<text bitflag="1345" id1="529901" id2="17" version="1065353216">Less talk, more action. I'll keep that in mind.</text>
+		<text bitflag="1345" id1="529903" id2="17" version="1065353216">My travels with you have been worthwhile, Captain. Few Mandalorians experience Republic space as I have.</text>
+		<text bitflag="1345" id1="529905" id2="17" version="1065353216">Fewer still see the Jedi up close without having to kill them.</text>
+		<text bitflag="1345" id1="529906" id2="17" version="1065353216">I appreciate your restraint. What is it with Mandalorians and Jedi, anyway?</text>
+		<text bitflag="1360" id1="529906" id2="17" version="1065353216">Why do you hate the Jedi?</text>
+		<text bitflag="1345" id1="529907" id2="17" version="1065353216">We can only grow stronger through conflict against worthy foes.</text>
+		<text bitflag="1345" id1="529909" id2="17" version="1065353216">You wouldn't last two seconds against the Jedi I've met.</text>
+		<text bitflag="1360" id1="529909" id2="17" version="1065353216">Consider yourself lucky.</text>
+		<text bitflag="1345" id1="529910" id2="17" version="1065353216">I've fought their kind and lived.</text>
+		<text bitflag="1345" id1="529912" id2="17" version="1065353216">Don't hold back on my account. As long as nobody traces it back to this ship, kill whomever you like.</text>
+		<text bitflag="1360" id1="529912" id2="17" version="1065353216">Kill all you want.</text>
+		<text bitflag="1345" id1="529913" id2="17" version="1065353216">I've had no reason to fight Jedi while in your company. If that changes, I appreciate your gesture of consent.</text>
+		<text bitflag="1345" id1="529915" id2="17" version="1065353216">Jedi are the most respected warriors in the galaxy. And yet, they have never truly defeated the Mandalorians.</text>
+		<text bitflag="1345" id1="529917" id2="17" version="1065353216">No matter how punishing our defeats by them, we always return. One day, the Jedi will bow down before us.</text>
+		<text bitflag="1345" id1="529924" id2="17" version="1065353216">What are you looking for from me, Captain?</text>
+		<text bitflag="1345" id1="529926" id2="17" version="1065353216">You have expressed interest in a relationship, yet you continue to eye others every time we land.</text>
+		<text bitflag="1345" id1="529928" id2="17" version="1065353216">Am I a crew member? A friend? Are we to be lovers?</text>
+		<text bitflag="1345" id1="529929" id2="17" version="1065353216">All of those. I want to share my life with you, Akaavi.</text>
+		<text bitflag="1360" id1="529929" id2="17" version="1065353216">[Flirt] More than that.</text>
+		<text bitflag="1345" id1="529930" id2="17" version="1065353216">I have never thought to make such a commitment to any man.</text>
+		<text bitflag="1345" id1="529932" id2="17" version="1065353216">Why? Do you see so much of yourself in me? Do you think I would follow you blindly and never question your choices?</text>
+		<text bitflag="1345" id1="529934" id2="17" version="1065353216">You want me to share your life--what would that life be?</text>
+		<text bitflag="1345" id1="529935" id2="17" version="1065353216">It's going to take a tight rein to keep my business in order.</text>
+		<text bitflag="1360" id1="529935" id2="17" version="1065353216">We'll run my criminal empire.</text>
+		<text bitflag="1345" id1="529936" id2="17" version="1065353216">I do not think of myself as a criminal, but in Republic space, that is what I am.</text>
+		<text bitflag="1345" id1="529938" id2="17" version="1065353216">I like how you use your Republic assignments to cull profit and followers for yourself.</text>
+		<text bitflag="1345" id1="529940" id2="17" version="1065353216">Perhaps that is a future I could be persuaded to share....</text>
+		<text bitflag="1345" id1="529942" id2="17" version="1065353216">You've seen it. I'm not giving up the freedom of my own ship until I'm cold and buried.</text>
+		<text bitflag="1360" id1="529942" id2="17" version="1065353216">It'll be just like this.</text>
+		<text bitflag="1345" id1="529943" id2="17" version="1065353216">It is funny that you call this freedom, when it means you spend every waking moment working for someone else.</text>
+		<text bitflag="1345" id1="529945" id2="17" version="1065353216">I cannot imagine settling down, but I also do not wish to spend my life running errands for anyone who can pay.</text>
+		<text bitflag="1345" id1="529947" id2="17" version="1065353216">Maybe we can find something more, together.</text>
+		<text bitflag="1345" id1="529949" id2="17" version="1065353216">Once our reflexes slow down, I figured we'd get a bungalow on some little moon, adopt a couple of cocky street kids, maybe a dog....</text>
+		<text bitflag="1360" id1="529949" id2="17" version="1065353216">I want a wife and children.</text>
+		<text bitflag="1345" id1="529950" id2="17" version="1065353216">That is hardly the future I'd imagined.</text>
+		<text bitflag="1345" id1="529952" id2="17" version="1065353216">My mother fought off four raiders single-handedly when eight months pregnant, and returned to training when I was twelve weeks old.</text>
+		<text bitflag="1345" id1="529954" id2="17" version="1065353216">There is no room in Mandalorian life for your idea of domestic bliss.</text>
+		<text bitflag="1345" id1="529956" id2="17" version="1065353216">I'm game if you are.</text>
+		<text bitflag="1360" id1="529956" id2="17" version="1065353216">[Flirt] Lovers would be fun.</text>
+		<text bitflag="1345" id1="529957" id2="17" version="1065353216">Perhaps we should find somewhere more private to discuss it....</text>
+		<text bitflag="1345" id1="529959" id2="17" version="1065353216">I need a little more romance than &quot;get in the back of the starship, babe....&quot;</text>
+		<text bitflag="1360" id1="529959" id2="17" version="1065353216">We'll never be a couple.</text>
+		<text bitflag="1345" id1="529960" id2="17" version="1065353216">I misunderstood. I will not bother you with this again.</text>
+		<text bitflag="1345" id1="529962" id2="17" version="1065353216">Tell me, Captain... how do you choose your path in life? What guides you?</text>
+		<text bitflag="1345" id1="529963" id2="17" version="1065353216">Mostly, I follow the credits--and more is always better.</text>
+		<text bitflag="1360" id1="529963" id2="17" version="1065353216">Money.</text>
+		<text bitflag="1345" id1="529964" id2="17" version="1065353216">I thought only droids were ruled by numbers.</text>
+		<text bitflag="1345" id1="529966" id2="17" version="1065353216">My code's simple: treat everyone how I want them to treat me.</text>
+		<text bitflag="1360" id1="529966" id2="17" version="1065353216">I try to play fair.</text>
+		<text bitflag="1345" id1="529967" id2="17" version="1065353216">That is no code. It is wishful thinking.</text>
+		<text bitflag="1345" id1="529969" id2="17" version="1065353216">I prefer improvisation. Only a fool gets locked into a single way of thinking.</text>
+		<text bitflag="1360" id1="529969" id2="17" version="1065353216">Nothing--codes are for idiots.</text>
+		<text bitflag="1345" id1="529970" id2="17" version="1065353216">You're like a starship without navigation. Flying blind.</text>
+		<text bitflag="1345" id1="529972" id2="17" version="1065353216">I adhere to the Resol'nare. The core of what it means to be Mandalorian. A sacred law giving us direction and purpose.</text>
+		<text bitflag="1345" id1="529974" id2="17" version="1065353216">Education and armor, self-defense, our tribe, our language, our leader--all help us survive.</text>
+		<text bitflag="1345" id1="529976" id2="17" version="1065353216">We must educate our children as Mandalorians, obey the commands of Mandalore, speak Mando'a and defend our clans.</text>
+		<text bitflag="1345" id1="529977" id2="17" version="1065353216">Did you leave out something? I didn't hear anything about serving the Empire and wiping out the Republic.</text>
+		<text bitflag="1360" id1="529977" id2="17" version="1065353216">Plus the murderous violence.</text>
+		<text bitflag="1345" id1="529978" id2="17" version="1065353216">Every action a Mandalorian takes is because of the Resol'nare. It tells us why we fight--and whom to kill.</text>
+		<text bitflag="1345" id1="529980" id2="17" version="1065353216">I'm thinking the galaxy has the wrong idea about Mandalorians. You people sound alright.</text>
+		<text bitflag="1360" id1="529980" id2="17" version="1065353216">I like your code.</text>
+		<text bitflag="1345" id1="529981" id2="17" version="1065353216">Few have the strength to follow the Resol'nare. That is why the weak always hate us.</text>
+		<text bitflag="1345" id1="529983" id2="17" version="1065353216">Live however you want--just don't tell me about it.</text>
+		<text bitflag="1360" id1="529983" id2="17" version="1065353216">You're boring me.</text>
+		<text bitflag="1345" id1="529984" id2="17" version="1065353216">I assumed you were interested. I stand corrected.</text>
+		<text bitflag="1345" id1="529991" id2="17" version="1065353216">Why am I here, Captain?</text>
+		<text bitflag="1345" id1="529993" id2="17" version="1065353216">I have been clear about my reason for joining you. But I never understood what you want from me.</text>
+		<text bitflag="1345" id1="529995" id2="17" version="1065353216">Am I a hired gun? Or is there something more?</text>
+		<text bitflag="1345" id1="529996" id2="17" version="1065353216">You know what I want. I just didn't think you were ready to talk about it.</text>
+		<text bitflag="1360" id1="529996" id2="17" version="1065353216">[Flirt] You're more than that.</text>
+		<text bitflag="1345" id1="529997" id2="17" version="1065353216">How do you know if you don't ask?</text>
+		<text bitflag="1345" id1="529999" id2="17" version="1065353216">It may have started that way, but now you're part of my crew. You're family.</text>
+		<text bitflag="1360" id1="529999" id2="17" version="1065353216">We're friends.</text>
+		<text bitflag="1345" id1="530000" id2="17" version="1065353216">We have a proverb. &quot;Aliit ori'shya tal'din.&quot; Family is more than bloodline. But it refers to adoption by a clan, not...</text>
+		<text bitflag="1345" id1="530002" id2="17" version="1065353216">What do you care?</text>
+		<text bitflag="1360" id1="530002" id2="17" version="1065353216">I ask the questions here.</text>
+		<text bitflag="1345" id1="530003" id2="17" version="1065353216">Why else would I want you around?</text>
+		<text bitflag="1360" id1="530003" id2="17" version="1065353216">You're a hired gun.</text>
+		<text bitflag="1345" id1="530004" id2="17" version="1065353216">Why did you assemble this crew? It is too momentous a decision to make on impulse.</text>
+		<text bitflag="1345" id1="530006" id2="17" version="1065353216">Do your loyalties truly lie with the Republic?</text>
+		<text bitflag="1345" id1="530007" id2="17" version="1065353216">When the Empire's cantinas start serving deuterium-pyros, maybe I'll reconsider.</text>
+		<text bitflag="1360" id1="530007" id2="17" version="1065353216">Reps are more fun than Imps.</text>
+		<text bitflag="1360" id1="530008" id2="17" version="1065353216">I serve the Republic.</text>
+		<text bitflag="1345" id1="530009" id2="17" version="1065353216">The Republic is a big self-righteous pool of money, and I've got swimming privileges.</text>
+		<text bitflag="1360" id1="530009" id2="17" version="1065353216">I'm only loyal to myself.</text>
+		<text bitflag="1345" id1="530010" id2="17" version="1065353216">The Republic worships its own weakness.</text>
+		<text bitflag="1345" id1="530012" id2="17" version="1065353216">They waste their warriors defending those who cannot care for themselves. They call for loyalty to a government of strangers instead of family and clan.</text>
+		<text bitflag="1345" id1="530014" id2="17" version="1065353216">You could do better.</text>
+		<text bitflag="1345" id1="530019" id2="17" version="1065353216">You made it back alive. I assume the Imperial wasn't so lucky?</text>
+		<text bitflag="1345" id1="530020" id2="17" version="1065353216">That sniveling worm was no more the architect of my clan's destruction than Moff Tyrak was. I left him alive, wallowing in his disgrace.</text>
+		<text bitflag="1345" id1="530022" id2="17" version="1065353216">Major Stanwu ordered the execution because of lies told to him by another Mandalorian--Tayari Rook. The true crime rests with him.</text>
+		<text bitflag="1345" id1="530023" id2="17" version="1065353216">That must have been one whopper of a lie to get your whole clan wiped out.</text>
+		<text bitflag="1360" id1="530023" id2="17" version="1065353216">Rook was quite convincing.</text>
+		<text bitflag="1345" id1="530024" id2="17" version="1065353216">Why do I get the feeling you'll have yet another person you want to kill after this Tayari Rook character is dead?</text>
+		<text bitflag="1360" id1="530024" id2="17" version="1065353216">Are you sure about that?</text>
+		<text bitflag="1345" id1="530025" id2="17" version="1065353216">The lie stops with Rook. He acted alone.</text>
+		<text bitflag="1345" id1="530027" id2="17" version="1065353216">What would make a fellow Mandalorian want to sell out your clan?</text>
+		<text bitflag="1360" id1="530027" id2="17" version="1065353216">Betrayed by your own? Why?</text>
+		<text bitflag="1345" id1="530028" id2="17" version="1065353216">I will ask the traitor his reasons before I kill him.</text>
+		<text bitflag="1345" id1="530030" id2="17" version="1065353216">Rook presented Major Stanwu with evidence that Clan Spar reneged on a contract. My people were hired to destroy transport ships full of young Jedi, but the Empire's target survived.</text>
+		<text bitflag="1345" id1="530032" id2="17" version="1065353216">If Clan Spar had accepted that contract, the Jedi would be dead. Rook framed us.</text>
+		<text bitflag="1345" id1="530033" id2="17" version="1065353216">What did he stand to gain from your clan's destruction?</text>
+		<text bitflag="1360" id1="530033" id2="17" version="1065353216">This doesn't make any sense.</text>
+		<text bitflag="1345" id1="530034" id2="17" version="1065353216">His motives don't matter. They can't save him.</text>
+		<text bitflag="1345" id1="530036" id2="17" version="1065353216">Only a Mandalorian could get insulted over not being a mass-murderer.</text>
+		<text bitflag="1360" id1="530036" id2="17" version="1065353216">Framed for being nice.</text>
+		<text bitflag="1345" id1="530037" id2="17" version="1065353216">A Mandalorian's word is sacred. Contracts must be fulfilled, regardless of details.</text>
+		<text bitflag="1345" id1="530039" id2="17" version="1065353216">You already know what to do. Find this Rook and stick a blaster in his face.</text>
+		<text bitflag="1360" id1="530039" id2="17" version="1065353216">So kill him.</text>
+		<text bitflag="1345" id1="530040" id2="17" version="1065353216">I've already begun my hunt for Tayari Rook. I will settle his debt to Clan Spar.</text>
+		<text bitflag="1345" id1="530046" id2="17" version="1065353216">I have a name!</text>
+		<text bitflag="1345" id1="530047" id2="17" version="1065353216">&quot;Akaavi&quot;?</text>
+		<text bitflag="1360" id1="530047" id2="17" version="1065353216">Has it changed?</text>
+		<text bitflag="1345" id1="530048" id2="17" version="1065353216">Not me!</text>
+		<text bitflag="1360" id1="530050" id2="17" version="1065353216">Good. I guess....</text>
+		<text bitflag="1345" id1="530051" id2="17" version="1065353216">I know whose order Moff Tyrak signed. To execute my clan. It was sent by Imperial Major Stanwu.</text>
+		<text bitflag="1345" id1="530053" id2="17" version="1065353216">Who is it? What have you learned?</text>
+		<text bitflag="1360" id1="530053" id2="17" version="1065353216">The man who set up your clan?</text>
+		<text bitflag="1345" id1="530054" id2="17" version="1065353216">The order Moff Tyrak signed came from Imperial Major Stanwu.</text>
+		<text bitflag="1345" id1="530056" id2="17" version="1065353216">I've heard of him. He is a liaison between the Empire and hired bounty hunters.</text>
+		<text bitflag="1345" id1="530058" id2="17" version="1065353216">I will kill him.</text>
+		<text bitflag="1345" id1="530059" id2="17" version="1065353216">Yeah, I figured you weren't going to stop with a scolding.</text>
+		<text bitflag="1360" id1="530059" id2="17" version="1065353216">Not a shock.</text>
+		<text bitflag="1345" id1="530060" id2="17" version="1065353216">You can't just walk up to an Imperial Major and blast him. Do you have an actual plan?</text>
+		<text bitflag="1360" id1="530060" id2="17" version="1065353216">How will you do it?</text>
+		<text bitflag="1345" id1="530061" id2="17" version="1065353216">I'll exploit the Major's position and turn it against him.</text>
+		<text bitflag="1345" id1="530063" id2="17" version="1065353216">Good luck. I'll say something nice at your funeral.</text>
+		<text bitflag="1360" id1="530063" id2="17" version="1065353216">And get yourself killed, too.</text>
+		<text bitflag="1345" id1="530064" id2="17" version="1065353216">You think I'll attack blindly? A Mandalorian's rage burns cold.</text>
+		<text bitflag="1345" id1="530066" id2="17" version="1065353216">The major is hiring the best bounty hunters on Nar Shaddaa. I will go there and present myself as one of them.</text>
+		<text bitflag="1345" id1="530068" id2="17" version="1065353216">Once I secure a meeting with Major Stanwu, all that's left is to pull the trigger.</text>
+		<text bitflag="1345" id1="530069" id2="17" version="1065353216">There's another step after that: get the blazes off Nar Shaddaa before the Empire catches you.</text>
+		<text bitflag="1360" id1="530069" id2="17" version="1065353216">Don't forget to run away.</text>
+		<text bitflag="1345" id1="530070" id2="17" version="1065353216">This is not my first execution. I always leave myself an exit.</text>
+		<text bitflag="1345" id1="530072" id2="17" version="1065353216">Is it too late for a discussion about letting this go? Just live and let live?</text>
+		<text bitflag="1360" id1="530072" id2="17" version="1065353216">Can I talk you out of this?</text>
+		<text bitflag="1345" id1="530073" id2="17" version="1065353216">If the major did not wish to die, he should not have killed my clan.</text>
+		<text bitflag="1345" id1="530075" id2="17" version="1065353216">Take you time and enjoy. I recommend aiming for the kneecaps first.</text>
+		<text bitflag="1360" id1="530075" id2="17" version="1065353216">Make him pay.</text>
+		<text bitflag="1345" id1="530076" id2="17" version="1065353216">There's no honor in torture--but he will live long enough to know why his life is ending.</text>
+		<text bitflag="1345" id1="530078" id2="17" version="1065353216">If we do not see each other again... re'turcye mhi.</text>
+		<text bitflag="1345" id1="530084" id2="17" version="1065353216">Are there things you regret, Captain?</text>
+		<text bitflag="1345" id1="530086" id2="17" version="1065353216">It is not an emotion I was raised to feel. We act. And we face the consequences with courage.</text>
+		<text bitflag="1345" id1="530088" id2="17" version="1065353216">But it is far easier to discipline my body than my mind.</text>
+		<text bitflag="1345" id1="530089" id2="17" version="1065353216">Why waste time worrying about the last galaxy-shattering mistake, when a worse one's coming tomorrow?</text>
+		<text bitflag="1360" id1="530089" id2="17" version="1065353216">I try to live without regrets.</text>
+		<text bitflag="1345" id1="530090" id2="17" version="1065353216">There is no worse failure than abandoning my clan.</text>
+		<text bitflag="1345" id1="530092" id2="17" version="1065353216">How about you work on your mind and leave the body to me...?</text>
+		<text bitflag="1360" id1="530092" id2="17" version="1065353216">[Flirt] I can help.</text>
+		<text bitflag="1345" id1="530093" id2="17" version="1065353216">Do you want to talk about it?</text>
+		<text bitflag="1360" id1="530093" id2="17" version="1065353216">What do you regret?</text>
+		<text bitflag="1345" id1="530094" id2="17" version="1065353216">I should have been with my clan when the Empire came for them. I had left to join another clan, to follow a lover.</text>
+		<text bitflag="1345" id1="530096" id2="17" version="1065353216">It's not a weakness to admit you've done the wrong thing.</text>
+		<text bitflag="1360" id1="530096" id2="17" version="1065353216">Don't fight it.</text>
+		<text bitflag="1345" id1="530097" id2="17" version="1065353216">Was it wrong? What young girl has not left her clan for a time to travel with a lover?</text>
+		<text bitflag="1345" id1="530099" id2="17" version="1065353216">But while I was with him, the Empire came for my people.</text>
+		<text bitflag="1345" id1="530101" id2="17" version="1065353216">At the moment they were betrayed, I knew nothing.</text>
+		<text bitflag="1345" id1="530102" id2="17" version="1065353216">I don't imagine anyone can just walk up and arrest a bunch of Mandalorians.</text>
+		<text bitflag="1360" id1="530102" id2="17" version="1065353216">What happened?</text>
+		<text bitflag="1345" id1="530103" id2="17" version="1065353216">The Empire could not have succeeded without treachery.</text>
+		<text bitflag="1345" id1="530105" id2="17" version="1065353216">I only know they used some kind of time-release poison, then &quot;arrested&quot; them as they lay unconscious.</text>
+		<text bitflag="1345" id1="530107" id2="17" version="1065353216">When I called for my lover's clan to defend them, the cowards refused. They were not true Mandalorians.</text>
+		<text bitflag="1345" id1="530108" id2="17" version="1065353216">I never imagined you with a lover.</text>
+		<text bitflag="1360" id1="530108" id2="17" version="1065353216">You had a lover?</text>
+		<text bitflag="1345" id1="530109" id2="17" version="1065353216">I thought that was the only way you imagined me.</text>
+		<text bitflag="1345" id1="530111" id2="17" version="1065353216">Am I not a woman grown? Do you think Mandalorians have no gift for the gentler arts?</text>
+		<text bitflag="1345" id1="530113" id2="17" version="1065353216">His name was Zadik Lone. When we learned the Empire had betrayed my clan, I told Zadik to rally his people to defend them.</text>
+		<text bitflag="1345" id1="530115" id2="17" version="1065353216">The cowards buried their ears. They would not come to the aid of a fellow clan. I left that day.</text>
+		<text bitflag="1345" id1="530116" id2="17" version="1065353216">I thought that story would end with, &quot;so I tore them limb-from-limb and used their corpses as jet fuel.&quot;</text>
+		<text bitflag="1360" id1="530116" id2="17" version="1065353216">You didn't kill them?</text>
+		<text bitflag="1345" id1="530117" id2="17" version="1065353216">Their cowardice did not kill my clan. Let them live with their guilt. It is the Empire that must pay.</text>
+		<text bitflag="1360" id1="530118" id2="17" version="1065353216">A sad story.</text>
+		<text bitflag="1345" id1="530119" id2="17" version="1065353216">A Mandalorian does not ask for tears shed over his corpse, only that his death be visited tenfold on those who killed him!</text>
+		<text bitflag="1345" id1="530120" id2="17" version="1065353216">It's over. Might as well get used to it.</text>
+		<text bitflag="1360" id1="530120" id2="17" version="1065353216">Nothing you can do now.</text>
+		<text bitflag="1345" id1="530121" id2="17" version="1065353216">Blah blah, clan. Blah blah, betrayed. Aren't we past that yet?</text>
+		<text bitflag="1360" id1="530121" id2="17" version="1065353216">Are you still harping on that?</text>
+		<text bitflag="1345" id1="530122" id2="17" version="1065353216">I will not burden you with my memories again.</text>
+		<text bitflag="1345" id1="530128" id2="17" version="1065353216">I did not expect our travels to linger so long, Captain.</text>
+		<text bitflag="1345" id1="530130" id2="17" version="1065353216">I kept thinking I would leave at the next port, but I... appreciate the trust you have shown me.</text>
+		<text bitflag="1345" id1="530132" id2="17" version="1065353216">And, more often than not, I admire your decisions. You can be far more ruthless than your reputation suggests.</text>
+		<text bitflag="1345" id1="530133" id2="17" version="1065353216">You've certainly opened my eyes to some new ways of looking at things.</text>
+		<text bitflag="1360" id1="530133" id2="17" version="1065353216">I admire you, too.</text>
+		<text bitflag="1345" id1="530134" id2="17" version="1065353216">I did not expect us to find so much common ground.</text>
+		<text bitflag="1345" id1="530135" id2="17" version="1065353216">I should have guessed you like it rough.</text>
+		<text bitflag="1360" id1="530135" id2="17" version="1065353216">[Flirt] Ruthless is good?</text>
+		<text bitflag="1345" id1="530136" id2="17" version="1065353216">When you look at me like that... are you interested in me as a woman?</text>
+		<text bitflag="1345" id1="530138" id2="17" version="1065353216">Is this your way of pursuing a relationship?</text>
+		<text bitflag="1345" id1="530139" id2="17" version="1065353216">Boy, you know how to make a man's heart go pitter-pat.</text>
+		<text bitflag="1360" id1="530139" id2="17" version="1065353216">[Flirt] Try some romance.</text>
+		<text bitflag="1345" id1="530140" id2="17" version="1065353216">You would prefer I play hard to get? Why should we not speak directly?</text>
+		<text bitflag="1345" id1="530142" id2="17" version="1065353216">I didn't realize I just had to put in an order.</text>
+		<text bitflag="1360" id1="530142" id2="17" version="1065353216">[Flirt] Yes.</text>
+		<text bitflag="1345" id1="530143" id2="17" version="1065353216">Five years ago, my lover refused to come to my clan's aid. I left him.</text>
+		<text bitflag="1345" id1="530145" id2="17" version="1065353216">I have not known a man since.</text>
+		<text bitflag="1345" id1="530147" id2="17" version="1065353216">Can't a guy flirt without you thinking he's into chicks with horns?</text>
+		<text bitflag="1360" id1="530147" id2="17" version="1065353216">No.</text>
+		<text bitflag="1345" id1="530148" id2="17" version="1065353216">I will remember not to insult you that way.</text>
+		<text bitflag="1345" id1="530149" id2="17" version="1065353216">Guess where I picked that up?</text>
+		<text bitflag="1360" id1="530149" id2="17" version="1065353216">You're a good teacher.</text>
+		<text bitflag="1345" id1="530150" id2="17" version="1065353216">There's something creepy and unnatural about you complimenting me.</text>
+		<text bitflag="1360" id1="530150" id2="17" version="1065353216">Ugh. Don't try to be nice.</text>
+		<text bitflag="1345" id1="530151" id2="17" version="1065353216">I will remember to avoid that.</text>
+		<text bitflag="1345" id1="530158" id2="17" version="1065353216">You are not what I expected, Captain.</text>
+		<text bitflag="1345" id1="530160" id2="17" version="1065353216">I've seen you in battle; I know you can fight.</text>
+		<text bitflag="1345" id1="530162" id2="17" version="1065353216">But I have been killing Jedi and Republic troopers since my childhood, and you are nothing like them.</text>
+		<text bitflag="1345" id1="530163" id2="17" version="1065353216">What, do Mandalorian kids not know &quot;tag&quot;?</text>
+		<text bitflag="1360" id1="530163" id2="17" version="1065353216">You fought as a child?</text>
+		<text bitflag="1345" id1="530164" id2="17" version="1065353216">Even the youngest Mandalorian child would rather prove her mettle in a real fight than play games for points.</text>
+		<text bitflag="1345" id1="530166" id2="17" version="1065353216">You mean you never met a Republic man so ruggedly handsome, startlingly brave and dazzlingly clever?</text>
+		<text bitflag="1360" id1="530166" id2="17" version="1065353216">[Flirt] Not like them how?</text>
+		<text bitflag="1345" id1="530167" id2="17" version="1065353216">They fought with valor and discipline. You fight with words and tricks.</text>
+		<text bitflag="1345" id1="530169" id2="17" version="1065353216">You mean a coward with no discipline and no greater loyalty than myself?</text>
+		<text bitflag="1360" id1="530169" id2="17" version="1065353216">How am I not like them?</text>
+		<text bitflag="1345" id1="530170" id2="17" version="1065353216">My father would have thought so.</text>
+		<text bitflag="1345" id1="530172" id2="17" version="1065353216">He would have seen no honor in fighting a woman who uses words and tricks to turn a battle.</text>
+		<text bitflag="1345" id1="530174" id2="17" version="1065353216">He did not see any honor in facing a man who would not fight him head-to-head.</text>
+		<text bitflag="1345" id1="530176" id2="17" version="1065353216">Don't judge me.</text>
+		<text bitflag="1360" id1="530176" id2="17" version="1065353216">I didn't ask your opinion.</text>
+		<text bitflag="1345" id1="530177" id2="17" version="1065353216">You cannot ask that. I will not speak, if you wish, but I cannot see you and not take your measure.</text>
+		<text bitflag="1345" id1="530179" id2="17" version="1065353216">My father would not have thought you an honorable opponent.</text>
+		<text bitflag="1345" id1="530181" id2="17" version="1065353216">But I have seen your victories. I believe you are a worthy foe.</text>
+		<text bitflag="1345" id1="530182" id2="17" version="1065353216">Was I just complimented or insulted?</text>
+		<text bitflag="1360" id1="530182" id2="17" version="1065353216">Is that a good thing?</text>
+		<text bitflag="1345" id1="530183" id2="17" version="1065353216">And what do Mandalorian women do with a &quot;worthy foe&quot;? Rahrr....</text>
+		<text bitflag="1360" id1="530183" id2="17" version="1065353216">[Flirt] Worthy of what?</text>
+		<text bitflag="1345" id1="530184" id2="17" version="1065353216">Usually, they kill him.</text>
+		<text bitflag="1345" id1="530186" id2="17" version="1065353216">I'm not your enemy, Akaavi. I thought we were friends.</text>
+		<text bitflag="1360" id1="530186" id2="17" version="1065353216">I'm not a &quot;foe.&quot;</text>
+		<text bitflag="1345" id1="530187" id2="17" version="1065353216">Don't make me show you how &quot;worthy&quot; I am.</text>
+		<text bitflag="1360" id1="530187" id2="17" version="1065353216">You'd better.</text>
+		<text bitflag="1345" id1="530188" id2="17" version="1065353216">It was meant as praise.</text>
+		<text bitflag="1345" id1="530190" id2="17" version="1065353216">A warrior can only challenge herself against enemies of honor and courage. There is no honor in attacking those beneath you.</text>
+		<text bitflag="1345" id1="530192" id2="17" version="1065353216">A worthy foe is a gift. In defeating them, we hone ourselves to the best we can be and bring honor to the name &quot;Mandalorian.&quot;</text>
+		<text bitflag="1345" id1="530194" id2="17" version="1065353216">Or so I was taught.</text>
+		<text bitflag="1345" id1="530200" id2="17" version="1065353216">Your crew has welcomed me. I did not expect that.</text>
+		<text bitflag="1345" id1="530201" id2="17" version="1065353216">What's the usual protocol for Mandalorians turning against the Empire and joining a shiftless spacer's crew?</text>
+		<text bitflag="1360" id1="530201" id2="17" version="1065353216">What did you expect?</text>
+		<text bitflag="1345" id1="530202" id2="17" version="1065353216">I would call no part of that &quot;usual.&quot;</text>
+		<text bitflag="1345" id1="530204" id2="17" version="1065353216">We've got an open-door policy.</text>
+		<text bitflag="1360" id1="530204" id2="17" version="1065353216">They're used to it.</text>
+		<text bitflag="1345" id1="530205" id2="17" version="1065353216">Don't think this means they like you.</text>
+		<text bitflag="1360" id1="530205" id2="17" version="1065353216">It's not personal.</text>
+		<text bitflag="1345" id1="530206" id2="17" version="1065353216">I do not need their approval.</text>
+		<text bitflag="1345" id1="530208" id2="17" version="1065353216">It was not coincidence I came to you on Balmorra. Your name is famous among bounty hunters for the price both Skavak and Rogun put on you.</text>
+		<text bitflag="1345" id1="530210" id2="17" version="1065353216">I wanted to see who was worth so many credits.</text>
+		<text bitflag="1345" id1="530211" id2="17" version="1065353216">What can I say? My fans are generous.</text>
+		<text bitflag="1360" id1="530211" id2="17" version="1065353216">People love me.</text>
+		<text bitflag="1345" id1="530212" id2="17" version="1065353216">Greedy men are willing to throw away fortunes on you--but I value more than credits.</text>
+		<text bitflag="1345" id1="530214" id2="17" version="1065353216">Can you put a credit value on this? I always thought I was priceless....</text>
+		<text bitflag="1360" id1="530214" id2="17" version="1065353216">[Flirt] I'm undervalued.</text>
+		<text bitflag="1345" id1="530215" id2="17" version="1065353216">Every man and woman has someone who will pay to see them dead. Most just don't follow through.</text>
+		<text bitflag="1345" id1="530217" id2="17" version="1065353216">Do not worry.</text>
+		<text bitflag="1345" id1="530219" id2="17" version="1065353216">I'm a little insulted the price isn't higher. Is that why you haven't taken a shot at me?</text>
+		<text bitflag="1360" id1="530219" id2="17" version="1065353216">I'm undervalued.</text>
+		<text bitflag="1345" id1="530220" id2="17" version="1065353216">Stop looking at me like you're figuring out the tally per-body-part.</text>
+		<text bitflag="1360" id1="530220" id2="17" version="1065353216">Don't even try to collect.</text>
+		<text bitflag="1345" id1="530221" id2="17" version="1065353216">You gave me food and bed. I would not betray you.</text>
+		<text bitflag="1345" id1="530223" id2="17" version="1065353216">I would not give this up for a bounty.</text>
+		<text bitflag="1345" id1="530227" id2="17" version="1065353216">We should talk. Make time on the ship.</text>
+		<text bitflag="1345" id1="530228" id2="17" version="1065353216">We should talk. Let me know when you have time.</text>
+		<text bitflag="1345" id1="530229" id2="17" version="1065353216">Not now.</text>
+		<text bitflag="1345" id1="988577" id2="17" version="1065353216">If I must.</text>
+		<text bitflag="1345" id1="988578" id2="17" version="1065353216">As you like.</text>
+		<text bitflag="1345" id1="988579" id2="17" version="1065353216">Your priorities continue to mystify me.</text>
+		<text bitflag="1345" id1="988581" id2="17" version="1065353216">You do what you need to. Just expect me to do the same.</text>
+		<text bitflag="1345" id1="988582" id2="17" version="1065353216">I will get out of your way.</text>
+		<text bitflag="1345" id1="988583" id2="17" version="1065353216">I've got nowhere else to be.</text>
+		<text bitflag="1089" id1="988584" id2="17" version="1065353216">We're wasting our time.</text>
+		<text bitflag="1345" id1="988586" id2="17" version="1065353216">Hello.</text>
+		<text bitflag="1345" id1="988587" id2="17" version="1065353216">I will travel with you as long as our interests coincide.</text>
+		<text bitflag="1345" id1="988588" id2="17" version="1065353216">Why am I here, Captain?</text>
+		<text bitflag="1345" id1="988589" id2="17" version="1065353216">We can only grow stronger through conflict against worthy foes.</text>
+		<text bitflag="1345" id1="988591" id2="17" version="1065353216">I welcome more worthy foes.</text>
+	</file_content>
+</stb_file>

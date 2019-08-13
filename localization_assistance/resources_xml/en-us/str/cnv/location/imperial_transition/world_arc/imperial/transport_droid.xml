@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/transport_droid.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="661930" id2="17" version="1065353216">[You can control the ship's destination from the astrogation computer. Set course for Dromund Kaas?]</text>
+		<text bitflag="1360" id1="661931" id2="17" version="1065353216">Yes. [Go to Dromund Kaas]</text>
+		<text bitflag="1360" id1="661934" id2="17" version="1065353216">No. [Return to space station]</text>
+		<text bitflag="321" id1="661937" id2="17" version="1065353216">[You cannot access the astrogation computer now.]</text>
+	</file_content>
+</stb_file>

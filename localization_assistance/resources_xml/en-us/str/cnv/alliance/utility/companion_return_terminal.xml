@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>128</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/utility/companion_return_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1189818" id2="17" version="1065353216">When you were frozen in carbonite, your companions scattered across the galaxy.</text>
+		<text bitflag="321" id1="1189819" id2="17" version="1065353216">I understand. I still want to use the terminal to locate my companions.</text>
+		<text bitflag="321" id1="1189820" id2="17" version="1065353216">The following companions may be located and unlocked. Those not displayed here may be recruited in the near future.</text>
+		<text bitflag="321" id1="1189821" id2="17" version="1065353216">The following companions may be located and unlocked. Those not displayed here may be recruited in the near future.</text>
+		<text bitflag="321" id1="1189822" id2="17" version="1065353216">[Exit Terminal] I will wait for my companions to return on their own time.</text>
+		<text bitflag="321" id1="1189825" id2="17" version="1065353216">Locate Kira Carsen.</text>
+		<text bitflag="321" id1="1189828" id2="17" version="1065353216">The following companions may be located and unlocked. Those not displayed here may be recruited in the near future.</text>
+		<text bitflag="321" id1="1189830" id2="17" version="1065353216">The following companions may be located and unlocked. Those not displayed here may be recruited in the near future.</text>
+		<text bitflag="321" id1="1189832" id2="17" version="1065353216">The following companions may be located and unlocked. Those not displayed here may be recruited in the near future.</text>
+		<text bitflag="321" id1="1189834" id2="17" version="1065353216">The following companions may be located and unlocked. Those not displayed here may be recruited in the near future.</text>
+		<text bitflag="321" id1="1189836" id2="17" version="1065353216">The following companions may be located and unlocked. Those not displayed here may be recruited in the near future.</text>
+		<text bitflag="321" id1="1189838" id2="17" version="1065353216">The following companions may be located and unlocked. Those not displayed here may be recruited in the near future.</text>
+		<text bitflag="321" id1="1189840" id2="17" version="1065353216">Kira Carsen has been unlocked.</text>
+		<text bitflag="321" id1="1189841" id2="17" version="1065353216">Locate Doc.</text>
+		<text bitflag="321" id1="1189842" id2="17" version="1065353216">Doc has been unlocked.</text>
+		<text bitflag="321" id1="1189843" id2="17" version="1065353216">Locate Lord Scourge.</text>
+		<text bitflag="321" id1="1189845" id2="17" version="1065353216">Locate Tharan Cedrax.</text>
+		<text bitflag="321" id1="1189846" id2="17" version="1065353216">Tharan Cedrax has been unlocked.</text>
+		<text bitflag="321" id1="1189847" id2="17" version="1065353216">Locate Felix Iresso.</text>
+		<text bitflag="321" id1="1189848" id2="17" version="1065353216">Felix Iresso has been unlocked.</text>
+		<text bitflag="321" id1="1189849" id2="17" version="1065353216">Locate Nadia Grell.</text>
+		<text bitflag="321" id1="1189850" id2="17" version="1065353216">Nadia Grell has been unlocked.</text>
+		<text bitflag="321" id1="1189851" id2="17" version="1065353216">Locate Aric Jorgan.</text>
+		<text bitflag="321" id1="1189852" id2="17" version="1065353216">Aric Jorgan has been unlocked.</text>
+		<text bitflag="321" id1="1189853" id2="17" version="1065353216">Locate Tanno Vik.</text>
+		<text bitflag="321" id1="1189854" id2="17" version="1065353216">Tanno Vik has been unlocked.</text>
+		<text bitflag="321" id1="1189855" id2="17" version="1065353216">Locate Elara Dorne.</text>
+		<text bitflag="321" id1="1189856" id2="17" version="1065353216">Elara Dorne has been unlocked.</text>
+		<text bitflag="321" id1="1189857" id2="17" version="1065353216">Locate Corso Riggs.</text>
+		<text bitflag="321" id1="1189858" id2="17" version="1065353216">Corso Riggs has been unlocked.</text>
+		<text bitflag="321" id1="1189859" id2="17" version="1065353216">Locate Risha.</text>
+		<text bitflag="321" id1="1189860" id2="17" version="1065353216">Risha has been unlocked.</text>
+		<text bitflag="321" id1="1189861" id2="17" version="1065353216">Locate Akaavi Spar.</text>
+		<text bitflag="321" id1="1189862" id2="17" version="1065353216">Akaavi Spar has been unlocked.</text>
+		<text bitflag="321" id1="1189863" id2="17" version="1065353216">Locate Vette.</text>
+		<text bitflag="321" id1="1189864" id2="17" version="1065353216">Vette has been unlocked.</text>
+		<text bitflag="321" id1="1189865" id2="17" version="1065353216">Locate Jaesa Willsaam.</text>
+		<text bitflag="321" id1="1189866" id2="17" version="1065353216">Jaesa Willsaam has been unlocked.</text>
+		<text bitflag="321" id1="1189867" id2="17" version="1065353216">Locate Malavai Quinn.</text>
+		<text bitflag="321" id1="1189868" id2="17" version="1065353216">Malavai Quinn has been unlocked.</text>
+		<text bitflag="321" id1="1189869" id2="17" version="1065353216">Locate Andronikos Revel.</text>
+		<text bitflag="321" id1="1189870" id2="17" version="1065353216">Andronikos Revel has been unlocked.</text>
+		<text bitflag="321" id1="1189871" id2="17" version="1065353216">Locate Ashara Zavros.</text>
+		<text bitflag="321" id1="1189872" id2="17" version="1065353216">Ashara Zavros has been unlocked.</text>
+		<text bitflag="321" id1="1189875" id2="17" version="1065353216">Locate Mako.</text>
+		<text bitflag="321" id1="1189876" id2="17" version="1065353216">Mako has been unlocked.</text>
+		<text bitflag="321" id1="1189878" id2="17" version="1065353216">Locate Gault Rennow.</text>
+		<text bitflag="321" id1="1189879" id2="17" version="1065353216">Gault Rennow has been unlocked.</text>
+		<text bitflag="321" id1="1189880" id2="17" version="1065353216">Locate Torian Cadera.</text>
+		<text bitflag="321" id1="1189881" id2="17" version="1065353216">Torian Cadera has been unlocked.</text>
+		<text bitflag="321" id1="1189883" id2="17" version="1065353216">Locate Kaliyo Djannis.</text>
+		<text bitflag="321" id1="1189884" id2="17" version="1065353216">Kaliyo Djannis has been unlocked.</text>
+		<text bitflag="321" id1="1189885" id2="17" version="1065353216">Locate Vector Hyllus.</text>
+		<text bitflag="321" id1="1189886" id2="17" version="1065353216">Vector Hyllus has been unlocked.</text>
+		<text bitflag="321" id1="1189887" id2="17" version="1065353216">Locate Raina Temple.</text>
+		<text bitflag="321" id1="1189888" id2="17" version="1065353216">Raina Temple has been unlocked.</text>
+		<text bitflag="321" id1="1189892" id2="17" version="1065353216">[Exit Terminal] I've changed my mind.</text>
+		<text bitflag="321" id1="1189951" id2="17" version="1065353216">Locate Bowdaar.</text>
+		<text bitflag="321" id1="1189952" id2="17" version="1065353216">Bowdaar has been unlocked.</text>
+		<text bitflag="321" id1="1189956" id2="17" version="1065353216">Lord Scourge has been unlocked.</text>
+		<text bitflag="321" id1="1190247" id2="17" version="1065353216">Jaesa Willsaam has been unlocked.</text>
+		<text bitflag="321" id1="1194234" id2="17" version="1065353216">Much has happened in the five years you've been gone. Your companions may still be out there somewhere.</text>
+		<text bitflag="321" id1="1194235" id2="17" version="1065353216">Your companions may return to you as future events unfold. Using this terminal is not supported by the story.</text>
+		<text bitflag="321" id1="1194236" id2="17" version="1065353216">I don't want to wait any longer for my companions to return.</text>
+		<text bitflag="321" id1="1194237" id2="17" version="1065353216">[Exit Terminal] I want to keep the story intact.</text>
+		<text bitflag="321" id1="1194252" id2="17" version="1065353216">You have already unlocked every companion this terminal can locate.</text>
+		<text bitflag="321" id1="1197509" id2="17" version="1065353216">Locate Rusk.</text>
+		<text bitflag="321" id1="1197510" id2="17" version="1065353216">Fideltin Rusk has been unlocked.</text>
+		<text bitflag="321" id1="1197511" id2="17" version="1065353216">Locate Zenith.</text>
+		<text bitflag="321" id1="1197512" id2="17" version="1065353216">Zenith has been unlocked.</text>
+		<text bitflag="321" id1="1197515" id2="17" version="1065353216">Locate Guss Tuno.</text>
+		<text bitflag="321" id1="1197516" id2="17" version="1065353216">Guss Tuno has been unlocked.</text>
+		<text bitflag="321" id1="1197518" id2="17" version="1065353216">Locate Broonmark.</text>
+		<text bitflag="321" id1="1197519" id2="17" version="1065353216">Broonmark has been unlocked.</text>
+		<text bitflag="321" id1="1197521" id2="17" version="1065353216">Locate Khem Val.</text>
+		<text bitflag="321" id1="1197522" id2="17" version="1065353216">Khem Val has been unlocked.</text>
+		<text bitflag="321" id1="1197524" id2="17" version="1065353216">Locate Blizz.</text>
+		<text bitflag="321" id1="1197525" id2="17" version="1065353216">Blizz has been unlocked.</text>
+		<text bitflag="321" id1="1197527" id2="17" version="1065353216">Locate Skadge.</text>
+		<text bitflag="321" id1="1197528" id2="17" version="1065353216">Skadge has been unlocked.</text>
+		<text bitflag="321" id1="1213019" id2="17" version="1065353216">I want to bring back companions lost since Knights of the Fallen Empire.</text>
+		<text bitflag="321" id1="1213020" id2="17" version="1065353216">Using this terminal to return companions is not supported by the story.</text>
+		<text bitflag="321" id1="1213021" id2="17" version="1065353216">I understand. I still want to use the terminal to return my companions.</text>
+		<text bitflag="321" id1="1213022" id2="17" version="1065353216">The following companions may be returned.</text>
+		<text bitflag="321" id1="1213023" id2="17" version="1065353216">Return Koth Vortena.</text>
+		<text bitflag="321" id1="1213024" id2="17" version="1065353216">Koth Vortena has been returned.</text>
+		<text bitflag="321" id1="1213126" id2="17" version="1065353216">[Exit Terminal] I want to keep the consequences of my choices intact.</text>
+		<text bitflag="321" id1="1213130" id2="17" version="1065353216">Return Tanno Vik.</text>
+		<text bitflag="321" id1="1213131" id2="17" version="1065353216">Tanno Vik has been returned.</text>
+		<text bitflag="321" id1="1213134" id2="17" version="1065353216">Return Kaliyo Djannis.</text>
+		<text bitflag="321" id1="1213135" id2="17" version="1065353216">Kaliyo Djannis has been returned.</text>
+		<text bitflag="321" id1="1213137" id2="17" version="1065353216">Return Aric Jorgan.</text>
+		<text bitflag="321" id1="1213138" id2="17" version="1065353216">Aric Jorgan has been returned.</text>
+		<text bitflag="321" id1="1213140" id2="17" version="1065353216">Return Senya Tirall.</text>
+		<text bitflag="321" id1="1213141" id2="17" version="1065353216">Senya Tirall has been returned.</text>
+		<text bitflag="321" id1="1213143" id2="17" version="1065353216">Return SCORPIO.</text>
+		<text bitflag="321" id1="1213144" id2="17" version="1065353216">SCORPIO has been returned.</text>
+		<text bitflag="1345" id1="1214017" id2="17" version="1065353216">Some companions have been pushed away. Others have been sacrificed in order to grow your Alliance.</text>
+		<text bitflag="321" id1="1214033" id2="17" version="1065353216">I want to locate my original companions.</text>
+		<text bitflag="1345" id1="1214040" id2="17" version="1065353216">The choices you made during Knights of the Fallen Empire have far-reaching consequences.</text>
+		<text bitflag="321" id1="1217667" id2="17" version="1065353216">Return ZO-OM.</text>
+		<text bitflag="321" id1="1217668" id2="17" version="1065353216">ZO-OM has been returned.</text>
+		<text bitflag="321" id1="1219946" id2="17" version="1065353216">Return Vette.</text>
+		<text bitflag="321" id1="1219947" id2="17" version="1065353216">Vette has been returned.</text>
+		<text bitflag="321" id1="1219949" id2="17" version="1065353216">Return Torian Cadera.</text>
+		<text bitflag="321" id1="1219950" id2="17" version="1065353216">Torian Cadera has been returned.</text>
+		<text bitflag="321" id1="1220452" id2="17" version="1065353216">Return Master Ranos</text>
+		<text bitflag="321" id1="1220453" id2="17" version="1065353216">Master Ranos has been returned.</text>
+		<text bitflag="321" id1="1226226" id2="17" version="1065353216">Return Elara Dorne</text>
+		<text bitflag="321" id1="1226227" id2="17" version="1065353216">Elara Dorne has been returned.</text>
+		<text bitflag="321" id1="1226229" id2="17" version="1065353216">Return Malavai Quinn</text>
+		<text bitflag="321" id1="1226230" id2="17" version="1065353216">Malavai Quinn has been returned.</text>
+		<text bitflag="321" id1="1229548" id2="17" version="1065353216">Restore Elara Dorne</text>
+		<text bitflag="321" id1="1229549" id2="17" version="1065353216">Elara Dorne has been restored.</text>
+		<text bitflag="321" id1="1229551" id2="17" version="1065353216">Restore Malavai Quinn</text>
+		<text bitflag="321" id1="1229552" id2="17" version="1065353216">Malavai Quinn has been restored.</text>
+		<text bitflag="321" id1="1230499" id2="17" version="1065353216">Restore Theron Shan</text>
+		<text bitflag="321" id1="1230500" id2="17" version="1065353216">Theron Shan has been returned.</text>
+		<text bitflag="321" id1="1232890" id2="17" version="1065353216">Return Andronikos Revel.</text>
+		<text bitflag="321" id1="1232891" id2="17" version="1065353216">Andronikos Revel has been returned.</text>
+		<text bitflag="321" id1="1233042" id2="17" version="1065353216">Return Darth Hexid</text>
+		<text bitflag="321" id1="1233043" id2="17" version="1065353216">Darth Hexid has been returned.</text>
+		<text bitflag="1345" id1="1233046" id2="17" version="1065353216">Return Risha Drayen.</text>
+		<text bitflag="1345" id1="1233047" id2="17" version="1065353216">Risha Drayen has been returned.</text>
+		<text bitflag="321" id1="1233111" id2="17" version="1065353216">Return Corso Riggs.</text>
+		<text bitflag="321" id1="1233112" id2="17" version="1065353216">Corso Riggs has been returned.</text>
+		<text bitflag="321" id1="1233219" id2="17" version="1065353216">Return Ashara Zavros.</text>
+		<text bitflag="321" id1="1233220" id2="17" version="1065353216">Ashara Zavros has been returned.</text>
+	</file_content>
+</stb_file>

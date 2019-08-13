@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x2/event/republic_announcer_fleet.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1033208" id2="17" version="1065353216">Attention Republic citizens... the Interstellar Travel Council reminds everyone there is a Level One Emergency Alert for the planet Tatooine.</text>
+		<text bitflag="1345" id1="1033527" id2="17" version="1065353216">The rakghoul plague outbreak continues to spread and represents a major hazard to everyone on the planet and in nearby systems.</text>
+		<text bitflag="1345" id1="1033529" id2="17" version="1065353216">If you are on Tatooine, remain calm and practice appropriate emergency safety measures. If you are not on Tatooine, please avoid the planet completely.</text>
+		<text bitflag="1345" id1="1033531" id2="17" version="1065353216">Updates will continue as the situation develops. Thank you for your cooperation.</text>
+	</file_content>
+</stb_file>

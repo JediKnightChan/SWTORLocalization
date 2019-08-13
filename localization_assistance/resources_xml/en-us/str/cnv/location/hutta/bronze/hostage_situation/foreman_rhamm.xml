@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>41</strs>
+		<file_name>/resources/en-us/str/cnv/location/hutta/bronze/hostage_situation/foreman_rhamm.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="666592" id2="17" version="1065353216">I'll have that factory running in no time. Count on it.</text>
+		<text bitflag="1345" id1="666595" id2="17" version="1065353216">I heard the explosion from here. I'm guessing every bog-rat on Hutta heard it. That was amazing work.</text>
+		<text bitflag="1360" id1="666596" id2="17" version="1065353216">True.</text>
+		<text bitflag="1360" id1="666597" id2="17" version="1065353216">It was nothing.</text>
+		<text bitflag="1345" id1="666598" id2="17" version="1065353216">Really saved my skin, too. Nem'ro the Exculpating he may be, but only to a point, you know?</text>
+		<text bitflag="1360" id1="666600" id2="17" version="1065353216">I already regret it.</text>
+		<text bitflag="1345" id1="666601" id2="17" version="1065353216">Well, I guess I'm glad you wasted it on me, then. You helped me out of a big scrape.</text>
+		<text bitflag="1345" id1="666603" id2="17" version="1065353216">I'm pretty handy with a wrench, you know. If you're ever in town and need something fixed up, I'll be your guy.</text>
+		<text bitflag="1345" id1="666605" id2="17" version="1065353216">Past the retaining wall, all the way up the hill and across the pipes. Don't fall!</text>
+		<text bitflag="1345" id1="666608" id2="17" version="1065353216">Workers overheard the bog-rats talking about their ship. Can you believe it? Bog-rats flying?</text>
+		<text bitflag="1345" id1="666610" id2="17" version="1065353216">Apparently, they landed on the factory roof, but they're having mechanical trouble. How'd you like to blow up the first and last Evocii starship?</text>
+		<text bitflag="1360" id1="666611" id2="17" version="1065353216">It will be a historic moment.</text>
+		<text bitflag="1360" id1="666612" id2="17" version="1065353216">Blowing up ships isn't easy.</text>
+		<text bitflag="1345" id1="666613" id2="17" version="1065353216">I got a stick of detonite here that'll take a little ship out, no problem. Just make sure you stand way back.</text>
+		<text bitflag="1345" id1="666617" id2="17" version="1065353216">Path to the factory roof is no joke, though. Go past that retaining wall, up the hill, then walk real careful-like across the pipes leading into the factory.</text>
+		<text bitflag="1345" id1="666619" id2="17" version="1065353216">Then storm the place, blow up the bog-rat ship and come back. No problem.</text>
+		<text bitflag="1360" id1="666621" id2="17" version="1065353216">I'm done here. [Refuse quest]</text>
+		<text bitflag="1345" id1="666622" id2="17" version="1065353216">Yeah, okay. We got the workers out anyway.</text>
+		<text bitflag="1345" id1="666626" id2="17" version="1065353216">You did it. Got the whole group of them out. And now I know how the Evocii got into the factory in the first place!</text>
+		<text bitflag="1345" id1="666628" id2="17" version="1065353216">Upstairs for the console, then down for the hostages.</text>
+		<text bitflag="1345" id1="666630" id2="17" version="1065353216">Can't help noticing you're out here and not in your factory.</text>
+		<text bitflag="1345" id1="666631" id2="17" version="1065353216">This is Nem'ro's core plant. His most important asset. Now some crazy Evocii appeared out of nowhere and took the place over.</text>
+		<text bitflag="1345" id1="666633" id2="17" version="1065353216">One minute, they weren't there; the next, they were. I managed to get out, but the bog-rats took most of my workers hostage.</text>
+		<text bitflag="1345" id1="666635" id2="17" version="1065353216">You want to save me from charging into a crowd of angry Evocii with nothing but a stick of detonite and a bolt gun?</text>
+		<text bitflag="1345" id1="666636" id2="17" version="1065353216">I can take care of a few Evocii, no problem.</text>
+		<text bitflag="1360" id1="666636" id2="17" version="1065353216">Evocii? Sounds easy.</text>
+		<text bitflag="1345" id1="666637" id2="17" version="1065353216">That's a relief. Save me trying to rig a catapult out of these sludge pumps.</text>
+		<text bitflag="1345" id1="666639" id2="17" version="1065353216">Those Evocii would've killed you. You should've looked for a professional.</text>
+		<text bitflag="1360" id1="666639" id2="17" version="1065353216">You didn't just hire someone?</text>
+		<text bitflag="1345" id1="666640" id2="17" version="1065353216">No time. Nem'ro will kill me when he finds out I lost his factory! Don't matter that it's not my fault.</text>
+		<text bitflag="1345" id1="666642" id2="17" version="1065353216">What do you need me to do?</text>
+		<text bitflag="1360" id1="666642" id2="17" version="1065353216">What's the job?</text>
+		<text bitflag="1345" id1="666643" id2="17" version="1065353216">Hostages are in the basement, but you can't go straight there. Need to use the main console to unlock the elevators.</text>
+		<text bitflag="1345" id1="666645" id2="17" version="1065353216">The main console's on the top floor. Get the elevators working, then down to the basement and free my workers, yeah?</text>
+		<text bitflag="1360" id1="666646" id2="17" version="1065353216">I'm in.</text>
+		<text bitflag="1360" id1="666647" id2="17" version="1065353216">We'll see--no promises.</text>
+		<text bitflag="1345" id1="666648" id2="17" version="1065353216">Remember, upstairs first. Elevators won't work until they're unlocked.</text>
+		<text bitflag="1360" id1="666650" id2="17" version="1065353216">Forget it. [Refuse quest]</text>
+		<text bitflag="1345" id1="666651" id2="17" version="1065353216">All right, then. I guess it's Plan B. Gotta be some old tires and a blast furnace control mechanism around here somewhere....</text>
+		<text bitflag="1345" id1="666655" id2="17" version="1065353216">I'm sorry. I'm a little busy right now.</text>
+		<text bitflag="1345" id1="666656" id2="17" version="1065353216">I'm sorry. I'm a little busy right now.</text>
+	</file_content>
+</stb_file>

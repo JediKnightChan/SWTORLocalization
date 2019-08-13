@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>45</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/vistis.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="689185" id2="17" version="1065353216">Whoa, whoa! I give up! I only work for the guild part-time. I'm not dying for them.</text>
+		<text bitflag="3393" id1="689187" id2="17" version="1065353216">You here for something special, Jedi? Take anything you want. I'll even help you steal it.</text>
+		<text bitflag="1345" id1="689190" id2="17" version="1065353216">Agent Galen? I believe I found our thief.</text>
+		<text bitflag="1345" id1="689191" id2="17" version="1065353216">Get the stolen design files and hurry back. We've had a major security breach.</text>
+		<text bitflag="1345" id1="689192" id2="17" version="1065353216">What's happened now, agent?</text>
+		<text bitflag="1360" id1="689192" id2="17" version="1065353216">Another one?</text>
+		<text bitflag="1345" id1="689193" id2="17" version="1065353216">This holochannel isn't secure. I'll brief you at the Senate tower. Galen out.</text>
+		<text bitflag="1360" id1="689195" id2="17" version="1065353216">Got it.</text>
+		<text bitflag="1345" id1="689196" id2="17" version="1065353216">I haven't started my interrogation. I may be a while.</text>
+		<text bitflag="1360" id1="689196" id2="17" version="1065353216">You'll have to wait.</text>
+		<text bitflag="1345" id1="689197" id2="17" version="1065353216">Copy that. Galen out.</text>
+		<text bitflag="3393" id1="689199" id2="17" version="1065353216">Hang on... you're after those data files I lifted? I knew I should have charged more for that heist!</text>
+		<text bitflag="3393" id1="689201" id2="17" version="1065353216">Let's make a deal, huh? I have the data files, but the guild already decrypted them. I transmitted a copy to my clients.</text>
+		<text bitflag="3393" id1="689203" id2="17" version="1065353216">You want the people who hired me. I'll tell you where they are--if you promise to let me go.</text>
+		<text bitflag="1345" id1="689204" id2="17" version="1065353216">Tell me about your employers, and you can leave.</text>
+		<text bitflag="1360" id1="689204" id2="17" version="1065353216">I promise.</text>
+		<text bitflag="3393" id1="689205" id2="17" version="1065353216">I love Jedi. You're such reasonable people.</text>
+		<text bitflag="1360" id1="689207" id2="17" version="1065353216">You'd better not lie.</text>
+		<text bitflag="3393" id1="689208" id2="17" version="1065353216">Lie to a Jedi? Who's dumb enough to try that?</text>
+		<text bitflag="1345" id1="689210" id2="17" version="1065353216">You're in no position to bargain.</text>
+		<text bitflag="1360" id1="689210" id2="17" version="1065353216">No promises.</text>
+		<text bitflag="3393" id1="689211" id2="17" version="1065353216">I see your point.</text>
+		<text bitflag="3393" id1="689213" id2="17" version="1065353216">Black Sun hired me. Them and the guild are rival syndicates, but I work both sides.</text>
+		<text bitflag="3393" id1="689215" id2="17" version="1065353216">My deal was to use the guild's slicer to decrypt the data files and then transmit a copy to Black Sun.</text>
+		<text bitflag="1345" id1="689216" id2="17" version="1065353216">You have no idea the trouble you've caused.</text>
+		<text bitflag="1360" id1="689216" id2="17" version="1065353216">That's bad news.</text>
+		<text bitflag="1345" id1="689217" id2="17" version="1065353216">What is Black Sun's interest in military data files?</text>
+		<text bitflag="1360" id1="689217" id2="17" version="1065353216">Why?</text>
+		<text bitflag="3393" id1="689218" id2="17" version="1065353216">Beats me. What do I care?</text>
+		<text bitflag="1345" id1="689220" id2="17" version="1065353216">What would the guild do if they found out you work for Black Sun?</text>
+		<text bitflag="1360" id1="689220" id2="17" version="1065353216">You're double-dealing scum.</text>
+		<text bitflag="3393" id1="689221" id2="17" version="1065353216">I'm likable. They'd probably only take two fingers.</text>
+		<text bitflag="3393" id1="689223" id2="17" version="1065353216">Thief = irrelevant // Black Sun = real culprit</text>
+		<text bitflag="3393" id1="689225" id2="17" version="1065353216">Look, you can take the data files I stole. Just let me go.</text>
+		<text bitflag="1345" id1="689226" id2="17" version="1065353216">So long as everything you've told me is true, we have no further quarrel.</text>
+		<text bitflag="1360" id1="689226" id2="17" version="1065353216">You're free to leave.</text>
+		<text bitflag="3393" id1="689227" id2="17" version="1065353216">You got a good heart, Jedi.</text>
+		<text bitflag="1360" id1="689229" id2="17" version="1065353216">Go then--fast.</text>
+		<text bitflag="3393" id1="689230" id2="17" version="1065353216">Sounds good to me.</text>
+		<text bitflag="3393" id1="689232" id2="17" version="1065353216">Think I'll go visit my friends on Nar Shaddaa....</text>
+		<text bitflag="1345" id1="689234" id2="17" version="1065353216">Why would I ever let scum like you get away?</text>
+		<text bitflag="1360" id1="689234" id2="17" version="1065353216">No. [Kill him]</text>
+		<text bitflag="3393" id1="689235" id2="17" version="1065353216">You lied to me!</text>
+		<text bitflag="3393" id1="689240" id2="17" version="1065353216">That's not fair!</text>
+		<text bitflag="3393" id1="754438" id2="17" version="1065353216">A Jedi--that's all I need! Nothing personal, but I have to kill you!</text>
+	</file_content>
+</stb_file>

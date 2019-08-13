@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>18</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/01/ep_01/transmissions.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1157090" id2="17" version="1065353216">Sensors have detected enemies in the port section. Destroy them.</text>
+		<text bitflag="1345" id1="1157091" id2="17" version="1065353216">Enemies have breached the starboard compartment. Stop their advance.</text>
+		<text bitflag="1345" id1="1157092" id2="17" version="1065353216">Enemy forces are interfering with the turbolaser batteries. Drive them back.</text>
+		<text bitflag="1345" id1="1157093" id2="17" version="1065353216">The shield generator is under attack. Defend it.</text>
+		<text bitflag="1345" id1="1157094" id2="17" version="1065353216">More enemy boarders have been detected. Eliminate them.</text>
+		<text bitflag="1345" id1="1190702" id2="17" version="1065353216">Enemy fire has burned through our shields. Assessing hull damage.</text>
+		<text bitflag="1345" id1="1190782" id2="17" version="1065353216">Main thrusters are hit. Even if we get the power back online, the situation may not be salvageable.</text>
+		<text bitflag="1345" id1="1190783" id2="17" version="1065353216">Detecting multiple hostile forces approaching the bridge. Setting up barricades.</text>
+		<text bitflag="1345" id1="1190785" id2="17" version="1065353216">And?</text>
+		<text bitflag="1345" id1="1190787" id2="17" version="1065353216">Not optimal, my lord.</text>
+		<text bitflag="1345" id1="1190789" id2="17" version="1065353216">Take care of it.</text>
+		<text bitflag="1345" id1="1190791" id2="17" version="1065353216">I did not ask for your assessment. Speak only if you have an update or you will lose your tongue.</text>
+		<text bitflag="1345" id1="1190793" id2="17" version="1065353216">Yes, my lord. Utmost apologies.</text>
+		<text bitflag="1345" id1="1190795" id2="17" version="1065353216">Hold your ground. Or die trying.</text>
+		<text bitflag="1345" id1="1190797" id2="17" version="1065353216">We will not lose this position. I swear on my life.</text>
+		<text bitflag="1345" id1="1190870" id2="17" version="1065353216">Repair units, report to the subsidiary reactor!</text>
+		<text bitflag="1345" id1="1190871" id2="17" version="1065353216">Port side thruster is taking damage! All able engineers head to the lower decks. Prepare for hostile resistance!</text>
+		<text bitflag="1345" id1="1190872" id2="17" version="1065353216">All remaining personal fall back to the bridge. Enemy forces incoming. Do not let them through!</text>
+	</file_content>
+</stb_file>

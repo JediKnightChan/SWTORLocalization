@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/world/imperial/czerka_mystery/mural.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="609160" id2="17" version="1065353216">[After recording the image of the Sand People mural, it would be easy to destroy the piece and prevent anyone else from viewing it.]</text>
+		<text bitflag="336" id1="609161" id2="17" version="1065353216">[Vandalize the mural]</text>
+		<text bitflag="336" id1="609164" id2="17" version="1065353216">[Leave it alone]</text>
+	</file_content>
+</stb_file>

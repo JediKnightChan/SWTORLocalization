@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>18</strs>
+		<file_name>/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/holocron.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="660403" id2="17" version="1065353216">[The monument remains unopened.]</text>
+		<text bitflag="1345" id1="660404" id2="17" version="1065353216">Perhaps a little blood will satiate you.</text>
+		<text bitflag="1360" id1="660404" id2="17" version="1065353216">[Offer blood to it]</text>
+		<text bitflag="321" id1="660405" id2="17" version="1065353216">[Nothing happens.]</text>
+		<text bitflag="1345" id1="660406" id2="17" version="1065353216">Just open damn it!</text>
+		<text bitflag="1360" id1="660406" id2="17" version="1065353216">[Shoot lightning at it]</text>
+		<text bitflag="321" id1="660407" id2="17" version="1065353216">[The monument shudders and then opens, revealing the holocron.]</text>
+		<text bitflag="1345" id1="660409" id2="17" version="1065353216">Perhaps calm is necessary....</text>
+		<text bitflag="1360" id1="660409" id2="17" version="1065353216">[Meditate on the light side]</text>
+		<text bitflag="321" id1="660410" id2="17" version="1065353216">[Nothing happens.]</text>
+		<text bitflag="321" id1="660413" id2="17" version="1065353216">[The holocron's monument bears the marks of many hundreds of unsuccessful attempts to pry it open.]</text>
+		<text bitflag="1345" id1="660414" id2="17" version="1065353216">Peace is a lie, there is only passion....</text>
+		<text bitflag="1360" id1="660414" id2="17" version="1065353216">[Recite the Sith Code]</text>
+		<text bitflag="1345" id1="660415" id2="17" version="1065353216">Let's see how you like this!</text>
+		<text bitflag="1360" id1="660415" id2="17" version="1065353216">[Break it]</text>
+		<text bitflag="1345" id1="660416" id2="17" version="1065353216">The power of the dark side is in me.</text>
+		<text bitflag="1360" id1="660416" id2="17" version="1065353216">[Meditate on the dark side]</text>
+		<text bitflag="321" id1="660417" id2="17" version="1065353216">[The monument shudders, and beasts rush in and attack.]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/agent/baradium_bomb.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="467933" id2="17" version="1065353216">Get out now! That warhead is active!</text>
+		<text bitflag="1345" id1="467935" id2="17" version="1065353216">This is Major Nedecca. Beginning countdown on the warhead.</text>
+		<text bitflag="1345" id1="467937" id2="17" version="1065353216">At zero, everything inside Aegis Base will be reduced to component particles. You might want to get out.</text>
+		<text bitflag="1345" id1="467939" id2="17" version="1065353216">Lett-Shara to all squadrons--clear the airspace around Aegis Base. Go!</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>920</strs>
+		<file_name>/resources/en-us/str/sys/titles.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="261" id2="184873" version="1065353216">Guild Registrar</text>
+		<text bitflag="321" id1="263" id2="184873" version="1065353216">Skill Mentor</text>
+		<text bitflag="321" id1="264" id2="184873" version="1065353216">Repair Droid</text>
+		<text bitflag="321" id1="265" id2="184873" version="1065353216">Repair Droid</text>
+		<text bitflag="321" id1="266" id2="184873" version="1065353216">Hadras Apprentice</text>
+		<text bitflag="321" id1="267" id2="184873" version="1065353216">Hadras Apprentice</text>
+		<text bitflag="321" id1="268" id2="184873" version="1065353216">Hadras Apprentice</text>
+		<text bitflag="321" id1="269" id2="184873" version="1065353216">Republic Defense Coordinator</text>
+		<text bitflag="321" id1="270" id2="184873" version="1065353216">Republic Battle Coordinator</text>
+		<text bitflag="321" id1="271" id2="184873" version="1065353216">Chief Communications Officer</text>
+		<text bitflag="321" id1="272" id2="184873" version="1065353216">Chief Controller</text>
+		<text bitflag="321" id1="273" id2="184873" version="1065353216">Exiled Pirate Captain</text>
+		<text bitflag="321" id1="274" id2="184873" version="1065353216">Random Weapon Vendor</text>
+		<text bitflag="321" id1="275" id2="184873" version="1065353216">Random Armor Vendor</text>
+		<text bitflag="321" id1="276" id2="184873" version="1065353216">Mods Vendor</text>
+		<text bitflag="321" id1="281" id2="184873" version="1065353216">Starship Upgrades</text>
+		<text bitflag="321" id1="283" id2="184873" version="1065353216">Companion Gifts Vendor</text>
+		<text bitflag="321" id1="285" id2="184873" version="1065353216">Boss</text>
+		<text bitflag="321" id1="286" id2="184873" version="1065353216">Heroic World Boss</text>
+		<text bitflag="321" id1="287" id2="184873" version="1065353216">The Worldbreaker</text>
+		<text bitflag="321" id1="288" id2="184873" version="1065353216">Curator</text>
+		<text bitflag="321" id1="289" id2="184873" version="1065353216">The Infernal One</text>
+		<text bitflag="321" id1="290" id2="184873" version="1065353216">The Annihilation Machine</text>
+		<text bitflag="1345" id1="1" id2="194683" version="1065353216">General Goods</text>
+		<text bitflag="1345" id1="2" id2="194683" version="1065353216">Antiquities Dealer</text>
+		<text bitflag="1345" id1="3" id2="194683" version="1065353216">Jedi Guardian</text>
+		<text bitflag="1345" id1="4" id2="194683" version="1065353216">Jedi Knight</text>
+		<text bitflag="1345" id1="5" id2="194683" version="1065353216">Sparky</text>
+		<text bitflag="1345" id1="6" id2="194683" version="1065353216">Fellwater Colonel</text>
+		<text bitflag="1345" id1="8" id2="194683" version="1065353216">Rebelling Noble</text>
+		<text bitflag="1345" id1="9" id2="194683" version="1065353216">Rebelling Noble</text>
+		<text bitflag="1345" id1="10" id2="194683" version="1065353216">Defender Of The Nodes</text>
+		<text bitflag="1345" id1="11" id2="194683" version="1065353216">Defender Of The Nodes</text>
+		<text bitflag="1345" id1="12" id2="194683" version="1065353216">Markaran Defense Force</text>
+		<text bitflag="1345" id1="13" id2="194683" version="1065353216">The Bubbalicious</text>
+		<text bitflag="1345" id1="14" id2="194683" version="1065353216">The Bubbalicious</text>
+		<text bitflag="1345" id1="15" id2="194683" version="1065353216">The Bubbalicious</text>
+		<text bitflag="1345" id1="16" id2="194683" version="1065353216">Exiled Pirate Captain</text>
+		<text bitflag="1345" id1="18" id2="194683" version="1065353216">Flashpoint Vendor</text>
+		<text bitflag="1345" id1="19" id2="194683" version="1065353216">Battle Droid</text>
+		<text bitflag="1345" id1="20" id2="194683" version="1065353216">New Save</text>
+		<text bitflag="1345" id1="21" id2="194683" version="1065353216">Heavy Ranged Armor</text>
+		<text bitflag="321" id1="258" id2="194683" version="1065353216">Exiled Pirate Captain</text>
+		<text bitflag="321" id1="264" id2="194683" version="1065353216">Repair Droid</text>
+		<text bitflag="321" id1="265" id2="194683" version="1065353216">Infernal Lord</text>
+		<text bitflag="321" id1="266" id2="194683" version="1065353216">Infernal Assassin</text>
+		<text bitflag="321" id1="267" id2="194683" version="1065353216">Infernal Marauder</text>
+		<text bitflag="321" id1="269" id2="194683" version="1065353216">Victory Defense Coordinator</text>
+		<text bitflag="321" id1="270" id2="194683" version="1065353216">Victory Battle Coordinator</text>
+		<text bitflag="321" id1="271" id2="194683" version="1065353216">Chief Communications Officer</text>
+		<text bitflag="321" id1="272" id2="194683" version="1065353216">Chief Operations Officer</text>
+		<text bitflag="321" id1="273" id2="194683" version="1065353216">Exiled Pirate Captain</text>
+		<text bitflag="321" id1="274" id2="194683" version="1065353216">Eclectic Weapons Vendor</text>
+		<text bitflag="321" id1="275" id2="194683" version="1065353216">Eclectic Armor Vendor</text>
+		<text bitflag="1345" id1="1002" id2="194683" version="1065353216">Armor Vendor</text>
+		<text bitflag="1345" id1="1015" id2="194683" version="1065353216">Vendor</text>
+		<text bitflag="1345" id1="2006" id2="194683" version="1065353216">Sith Warrior Trainer</text>
+		<text bitflag="1345" id1="2015" id2="194683" version="1065353216">Light Vendor</text>
+		<text bitflag="1345" id1="3006" id2="194683" version="1065353216">Sith Inquisitor Trainer</text>
+		<text bitflag="1345" id1="3015" id2="194683" version="1065353216">Weapons Vendor</text>
+		<text bitflag="1345" id1="4002" id2="194683" version="1065353216">Jedi Knight Trainer</text>
+		<text bitflag="1345" id1="4006" id2="194683" version="1065353216">Bounty Hunter Trainer</text>
+		<text bitflag="1345" id1="4015" id2="194683" version="1065353216">Specialty Goods</text>
+		<text bitflag="1345" id1="5002" id2="194683" version="1065353216">Jedi Consular Trainer</text>
+		<text bitflag="1345" id1="5006" id2="194683" version="1065353216">Imperial Agent Trainer</text>
+		<text bitflag="1345" id1="5015" id2="194683" version="1065353216">Medium Armor Vendor</text>
+		<text bitflag="1345" id1="6002" id2="194683" version="1065353216">Republic Banker</text>
+		<text bitflag="1345" id1="6006" id2="194683" version="1065353216">Imperial Banker</text>
+		<text bitflag="1345" id1="6015" id2="194683" version="1065353216">Goon</text>
+		<text bitflag="1345" id1="7006" id2="194683" version="1065353216">Stims Vendor</text>
+		<text bitflag="1345" id1="7015" id2="194683" version="1065353216">Light Armor Vendor</text>
+		<text bitflag="1345" id1="9002" id2="194683" version="1065353216">Smuggler Trainer</text>
+		<text bitflag="1345" id1="10002" id2="194683" version="1065353216">Trooper Trainer</text>
+		<text bitflag="1345" id1="13002" id2="194683" version="1065353216">Heavy Armor Vendor</text>
+		<text bitflag="1345" id1="14002" id2="194683" version="1065353216">Master Armortech</text>
+		<text bitflag="1345" id1="15002" id2="194683" version="1065353216">Armstech (Crafting Trainer)</text>
+		<text bitflag="1345" id1="16002" id2="194683" version="1065353216">Artifice (Crafting Trainer)</text>
+		<text bitflag="1345" id1="17002" id2="194683" version="1065353216">Biochem (Crafting Trainer)</text>
+		<text bitflag="1345" id1="18002" id2="194683" version="1065353216">Cybertech (Crafting Trainer)</text>
+		<text bitflag="1345" id1="19002" id2="194683" version="1065353216">Master Sabercraftsman</text>
+		<text bitflag="1345" id1="20002" id2="194683" version="1065353216">Synthweaving (Crafting Trainer)</text>
+		<text bitflag="1345" id1="21002" id2="194683" version="1065353216">Archaeology (Gathering Trainer)</text>
+		<text bitflag="1345" id1="22002" id2="194683" version="1065353216">Bioanalysis (Gathering Trainer)</text>
+		<text bitflag="1345" id1="23002" id2="194683" version="1065353216">Scavenging (Gathering Trainer)</text>
+		<text bitflag="1345" id1="24002" id2="194683" version="1065353216">Master Mind Trick Artist</text>
+		<text bitflag="1345" id1="25002" id2="194683" version="1065353216">Master Con Artist</text>
+		<text bitflag="1345" id1="27002" id2="194683" version="1065353216">Mind Trick Artist</text>
+		<text bitflag="1345" id1="28002" id2="194683" version="1065353216">Salvager</text>
+		<text bitflag="1345" id1="29002" id2="194683" version="1065353216">Scrapyard Sifter</text>
+		<text bitflag="321" id1="31002" id2="194683" version="1065353216">Supply Officer</text>
+		<text bitflag="1345" id1="32002" id2="194683" version="1065353216">Backbreaker</text>
+		<text bitflag="1345" id1="33002" id2="194683" version="1065353216">Armormech (Crafting Trainer)</text>
+		<text bitflag="1345" id1="34002" id2="194683" version="1065353216">Diplomacy (Mission Trainer)</text>
+		<text bitflag="1345" id1="35002" id2="194683" version="1065353216">Investigation (Mission Trainer)</text>
+		<text bitflag="1345" id1="36002" id2="194683" version="1065353216">Treasure Hunting (Mission Trainer)</text>
+		<text bitflag="1345" id1="37002" id2="194683" version="1065353216">Underworld Trading (Mission Trainer)</text>
+		<text bitflag="1345" id1="38002" id2="194683" version="1065353216">Crew Skill Trade Vendor</text>
+		<text bitflag="1345" id1="39002" id2="194683" version="1065353216">Blood Leader</text>
+		<text bitflag="1345" id1="40002" id2="194683" version="1065353216">Companion Customization Vendor</text>
+		<text bitflag="1345" id1="41002" id2="194683" version="1065353216">Junk Dealer</text>
+		<text bitflag="1345" id1="44002" id2="194683" version="1065353216">Jedi Guardian</text>
+		<text bitflag="1345" id1="45002" id2="194683" version="1065353216">Scurge Of The Republic</text>
+		<text bitflag="1345" id1="46002" id2="194683" version="1065353216">Ryssa Jadeonar'S Bodyguard</text>
+		<text bitflag="1345" id1="47002" id2="194683" version="1065353216">Tarsarian Brood Mother</text>
+		<text bitflag="1345" id1="48002" id2="194683" version="1065353216">Fellwater Colonel</text>
+		<text bitflag="1345" id1="49002" id2="194683" version="1065353216">Muscles</text>
+		<text bitflag="1345" id1="50002" id2="194683" version="1065353216">Brains</text>
+		<text bitflag="1345" id1="51002" id2="194683" version="1065353216">Equipment Commendations Vendor</text>
+		<text bitflag="1345" id1="52002" id2="194683" version="1065353216">The Flame'S Henchman</text>
+		<text bitflag="1345" id1="53002" id2="194683" version="1065353216">Republic Weapons Division</text>
+		<text bitflag="1345" id1="54002" id2="194683" version="1065353216">Republic Medic</text>
+		<text bitflag="1345" id1="55002" id2="194683" version="1065353216">Defender Of The Nodes</text>
+		<text bitflag="1345" id1="56002" id2="194683" version="1065353216">Rebel Slave Revolutionary</text>
+		<text bitflag="1345" id1="57002" id2="194683" version="1065353216">Hadra Lord</text>
+		<text bitflag="1345" id1="58002" id2="194683" version="1065353216">Speeder Vendor</text>
+		<text bitflag="1345" id1="59002" id2="194683" version="1065353216">Defective Demolition Droid</text>
+		<text bitflag="1345" id1="60002" id2="194683" version="1065353216">Imperial Transport Service</text>
+		<text bitflag="1345" id1="61002" id2="194683" version="1065353216">Transport Service</text>
+		<text bitflag="1345" id1="62002" id2="194683" version="1065353216">Republic Transport Service</text>
+		<text bitflag="1345" id1="63002" id2="194683" version="1065353216">Imperial Medical Service</text>
+		<text bitflag="1345" id1="64002" id2="194683" version="1065353216">Republic Medical Service</text>
+		<text bitflag="1345" id1="65002" id2="194683" version="1065353216">Medical Service</text>
+		<text bitflag="1345" id1="66002" id2="194683" version="1065353216">Exchange Street Boss</text>
+		<text bitflag="1345" id1="67002" id2="194683" version="1065353216">Black Sun Sector</text>
+		<text bitflag="1345" id1="68002" id2="194683" version="1065353216">Galactic Sector</text>
+		<text bitflag="1345" id1="69002" id2="194683" version="1065353216">Justicar Sector</text>
+		<text bitflag="1345" id1="70002" id2="194683" version="1065353216">Social Items Vendor</text>
+		<text bitflag="1345" id1="71002" id2="194683" version="1065353216">Market Sector</text>
+		<text bitflag="1345" id1="72002" id2="194683" version="1065353216">Guild Master</text>
+		<text bitflag="1345" id1="73002" id2="194683" version="1065353216">Market Marauder</text>
+		<text bitflag="1345" id1="74002" id2="194683" version="1065353216">Markaran Defense Force</text>
+		<text bitflag="1345" id1="75002" id2="194683" version="1065353216">Balmorran Arms Forces</text>
+		<text bitflag="1345" id1="78002" id2="194683" version="1065353216">Banker</text>
+		<text bitflag="1345" id1="79002" id2="194683" version="1065353216">Ukabi Lieutenant</text>
+		<text bitflag="1345" id1="80002" id2="194683" version="1065353216">Ukabi Lieutenant</text>
+		<text bitflag="1345" id1="81002" id2="194683" version="1065353216">Lead Researcher</text>
+		<text bitflag="1345" id1="82002" id2="194683" version="1065353216">Bleeder Gene Corp Liaison</text>
+		<text bitflag="1345" id1="83002" id2="194683" version="1065353216">Kintan Kings Street Boss</text>
+		<text bitflag="1345" id1="84002" id2="194683" version="1065353216">Camp 27 Inquisitor</text>
+		<text bitflag="1345" id1="85002" id2="194683" version="1065353216">Modification Commendations Vendor</text>
+		<text bitflag="1345" id1="87002" id2="194683" version="1065353216">Auctioneer</text>
+		<text bitflag="1345" id1="93002" id2="194683" version="1065353216">Trooper PvP Vendor</text>
+		<text bitflag="1345" id1="94002" id2="194683" version="1065353216">Smuggler PvP Vendor</text>
+		<text bitflag="1345" id1="95002" id2="194683" version="1065353216">Jedi Knight PvP Vendor</text>
+		<text bitflag="1345" id1="98002" id2="194683" version="1065353216">Slicing (Gathering Trainer)</text>
+		<text bitflag="1345" id1="99002" id2="194683" version="1065353216">Jedi Consular PvP Vendor</text>
+		<text bitflag="1345" id1="100002" id2="194683" version="1065353216">Sith Warrior PvP Vendor</text>
+		<text bitflag="1345" id1="101002" id2="194683" version="1065353216">Sith Inquisitor PvP Vendor</text>
+		<text bitflag="1345" id1="102002" id2="194683" version="1065353216">Bounty Hunter PvP Vendor</text>
+		<text bitflag="1345" id1="103002" id2="194683" version="1065353216">Imperial Agent PvP Vendor</text>
+		<text bitflag="1345" id1="105002" id2="194683" version="1065353216">Imperial PvP Vendor</text>
+		<text bitflag="1345" id1="106002" id2="194683" version="1065353216">PvP Vendor</text>
+		<text bitflag="1345" id1="107002" id2="194683" version="1065353216">Republic PvP Vendor</text>
+		<text bitflag="1345" id1="108002" id2="194683" version="1065353216">Ranged Heavy Armor Repair</text>
+		<text bitflag="1345" id1="109002" id2="194683" version="1065353216">Melee Saber Armor Repair</text>
+		<text bitflag="1345" id1="110002" id2="194683" version="1065353216">Ranged Medium Armor Repair</text>
+		<text bitflag="1345" id1="111002" id2="194683" version="1065353216">Caster Saber Armor Repair</text>
+		<text bitflag="1345" id1="112002" id2="194683" version="1065353216">Passport Vendor</text>
+		<text bitflag="321" id1="117003" id2="194683" version="1065353216">Riflor's Champions</text>
+		<text bitflag="321" id1="117004" id2="194683" version="1065353216">Flashpoint: The Esseles</text>
+		<text bitflag="321" id1="117005" id2="194683" version="1065353216">Flashpoint: The Black Talon</text>
+		<text bitflag="321" id1="117006" id2="194683" version="1065353216">Flashpoint: Taral V</text>
+		<text bitflag="321" id1="117007" id2="194683" version="1065353216">Flashpoint: Maelstrom Prison</text>
+		<text bitflag="321" id1="117008" id2="194683" version="1065353216">Flashpoint: Boarding Party</text>
+		<text bitflag="321" id1="117009" id2="194683" version="1065353216">Flashpoint: The Foundry</text>
+		<text bitflag="321" id1="117010" id2="194683" version="1065353216">Flashpoint: Directive 7</text>
+		<text bitflag="321" id1="117011" id2="194683" version="1065353216">Flashpoint: The False Emperor</text>
+		<text bitflag="321" id1="117012" id2="194683" version="1065353216">Flashpoint: The Battle of Ilum</text>
+		<text bitflag="321" id1="117013" id2="194683" version="1065353216">Flashpoint: Hammer Station</text>
+		<text bitflag="321" id1="117014" id2="194683" version="1065353216">Flashpoint: Colicoid War Games</text>
+		<text bitflag="321" id1="117015" id2="194683" version="1065353216">Storm Squad Veteran</text>
+		<text bitflag="321" id1="117016" id2="194683" version="1065353216">Artillery Officer</text>
+		<text bitflag="321" id1="117017" id2="194683" version="1065353216">Flashpoint Courier</text>
+		<text bitflag="321" id1="117018" id2="194683" version="1065353216">Corrupted Explorer</text>
+		<text bitflag="321" id1="117019" id2="194683" version="1065353216">Trandoshan Commander</text>
+		<text bitflag="321" id1="117020" id2="194683" version="1065353216">Schism Collective Prototype</text>
+		<text bitflag="321" id1="117021" id2="194683" version="1065353216">Light Side Vendor</text>
+		<text bitflag="321" id1="117022" id2="194683" version="1065353216">Dark Side Vendor</text>
+		<text bitflag="321" id1="117023" id2="194683" version="1065353216">Mandalorian Beastmaster</text>
+		<text bitflag="321" id1="117024" id2="194683" version="1065353216">Mandalorian Clan Chieftan</text>
+		<text bitflag="321" id1="117025" id2="194683" version="1065353216">Republic Boarding Party</text>
+		<text bitflag="321" id1="117026" id2="194683" version="1065353216">Imperial Boarding Party</text>
+		<text bitflag="321" id1="117027" id2="194683" version="1065353216">Elite Defender</text>
+		<text bitflag="321" id1="117028" id2="194683" version="1065353216">Elite Defender</text>
+		<text bitflag="321" id1="117029" id2="194683" version="1065353216">The False Emperor</text>
+		<text bitflag="321" id1="117030" id2="194683" version="1065353216">Reconstructed Assassin Droid</text>
+		<text bitflag="321" id1="117031" id2="194683" version="1065353216">Mandalorian Ship Captain</text>
+		<text bitflag="321" id1="117032" id2="194683" version="1065353216">Captain of the Guard</text>
+		<text bitflag="321" id1="117033" id2="194683" version="1065353216">Echo of the Dark Side</text>
+		<text bitflag="321" id1="117034" id2="194683" version="1065353216">Hand of Darth Malgus</text>
+		<text bitflag="321" id1="117035" id2="194683" version="1065353216">Ongree Commander</text>
+		<text bitflag="321" id1="117036" id2="194683" version="1065353216">Kaleesh Commander</text>
+		<text bitflag="321" id1="117037" id2="194683" version="1065353216">Weequay Commander</text>
+		<text bitflag="321" id1="117038" id2="194683" version="1065353216">Gamorrean Captain</text>
+		<text bitflag="321" id1="117039" id2="194683" version="1065353216">Traitor of Fort Barrow</text>
+		<text bitflag="321" id1="117040" id2="194683" version="1065353216">Battle Team Royal</text>
+		<text bitflag="321" id1="117041" id2="194683" version="1065353216">Imperial Guard Force</text>
+		<text bitflag="321" id1="117042" id2="194683" version="1065353216">Guard Force</text>
+		<text bitflag="321" id1="117043" id2="194683" version="1065353216">Republic Guard Force</text>
+		<text bitflag="321" id1="117044" id2="194683" version="1065353216">Disciple of Komok-Da</text>
+		<text bitflag="321" id1="117045" id2="194683" version="1065353216">Pureblood Heretic</text>
+		<text bitflag="321" id1="117046" id2="194683" version="1065353216">Cantina Vendor</text>
+		<text bitflag="321" id1="117047" id2="194683" version="1065353216">Republic Defender</text>
+		<text bitflag="321" id1="117048" id2="194683" version="1065353216">Republic War Veteran</text>
+		<text bitflag="321" id1="117049" id2="194683" version="1065353216">Jedi Padawan</text>
+		<text bitflag="321" id1="117050" id2="194683" version="1065353216">Mandalorian Veteran</text>
+		<text bitflag="321" id1="117051" id2="194683" version="1065353216">Sith Apprentice</text>
+		<text bitflag="321" id1="117052" id2="194683" version="1065353216">Imperial Defender</text>
+		<text bitflag="321" id1="117053" id2="194683" version="1065353216">Ancient War Machine</text>
+		<text bitflag="321" id1="117054" id2="194683" version="1065353216">Ancient Creature</text>
+		<text bitflag="321" id1="117055" id2="194683" version="1065353216">Droid Prototype</text>
+		<text bitflag="321" id1="117056" id2="194683" version="1065353216">Master of The Foundry</text>
+		<text bitflag="321" id1="117057" id2="194683" version="1065353216">Imperial War Veteran</text>
+		<text bitflag="321" id1="117058" id2="194683" version="1065353216">Sith Overseer</text>
+		<text bitflag="321" id1="117059" id2="194683" version="1065353216">Cyborg Veteran</text>
+		<text bitflag="321" id1="117060" id2="194683" version="1065353216">Sith Beastmaster</text>
+		<text bitflag="321" id1="117061" id2="194683" version="1065353216">Sith Defender</text>
+		<text bitflag="321" id1="117062" id2="194683" version="1065353216">The Butcher of Coruscant</text>
+		<text bitflag="321" id1="117063" id2="194683" version="1065353216">Directive Seven</text>
+		<text bitflag="321" id1="117067" id2="194683" version="1065353216">Black Market Trader</text>
+		<text bitflag="321" id1="117068" id2="194683" version="1065353216">Gray Alignment Vendor</text>
+		<text bitflag="321" id1="117069" id2="194683" version="1065353216">Jedi Knight Advanced Trainer</text>
+		<text bitflag="321" id1="117070" id2="194683" version="1065353216">Jedi Consular Advanced Trainer</text>
+		<text bitflag="321" id1="117071" id2="194683" version="1065353216">Smuggler Advanced Trainer</text>
+		<text bitflag="321" id1="117072" id2="194683" version="1065353216">Trooper Advanced Trainer</text>
+		<text bitflag="321" id1="117073" id2="194683" version="1065353216">Sith Warrior Advanced Trainer</text>
+		<text bitflag="321" id1="117074" id2="194683" version="1065353216">Sith Inquisitor Advanced Trainer</text>
+		<text bitflag="321" id1="117075" id2="194683" version="1065353216">Imperial Agent Advanced Trainer</text>
+		<text bitflag="321" id1="117076" id2="194683" version="1065353216">Bounty Hunter Advanced Trainer</text>
+		<text bitflag="321" id1="117077" id2="194683" version="1065353216">Neutral Alignment Vendor</text>
+		<text bitflag="321" id1="117078" id2="194683" version="1065353216">Security Key Vendor</text>
+		<text bitflag="321" id1="117079" id2="194683" version="1065353216">Collector's Edition Vendor</text>
+		<text bitflag="321" id1="117080" id2="194683" version="1065353216">VIP Goods Vendor</text>
+		<text bitflag="321" id1="117081" id2="194683" version="1065353216">VIP Stims Vendor</text>
+		<text bitflag="321" id1="117082" id2="194683" version="1065353216">Cyborg Enforcer</text>
+		<text bitflag="321" id1="117083" id2="194683" version="1065353216">Military Enforcer Droid</text>
+		<text bitflag="321" id1="117084" id2="194683" version="1065353216">Separatist Weapons Smuggler</text>
+		<text bitflag="321" id1="117085" id2="194683" version="1065353216">Mantellian War Criminal</text>
+		<text bitflag="321" id1="117086" id2="194683" version="1065353216">Pre-Order Crystal Vendor</text>
+		<text bitflag="321" id1="117087" id2="194683" version="1065353216">The Leisurenauts</text>
+		<text bitflag="321" id1="117088" id2="194683" version="1065353216">The Load Lifters</text>
+		<text bitflag="321" id1="117089" id2="194683" version="1065353216">Astromechalla</text>
+		<text bitflag="321" id1="117090" id2="194683" version="1065353216">Hyperspeed Thunder</text>
+		<text bitflag="321" id1="117091" id2="194683" version="1065353216">Shockprod Holiday</text>
+		<text bitflag="321" id1="117092" id2="194683" version="1065353216">Senators of Rhythm</text>
+		<text bitflag="321" id1="117093" id2="194683" version="1065353216">Sonic Cannon</text>
+		<text bitflag="321" id1="117094" id2="194683" version="1065353216">South Sector Boppers</text>
+		<text bitflag="321" id1="117095" id2="194683" version="1065353216">Gormo and the Grackers</text>
+		<text bitflag="321" id1="117096" id2="194683" version="1065353216">Vet Volt Vexperience</text>
+		<text bitflag="321" id1="117097" id2="194683" version="1065353216">Paradise Planet</text>
+		<text bitflag="321" id1="117098" id2="194683" version="1065353216">Imperial PvE Vendor</text>
+		<text bitflag="321" id1="117099" id2="194683" version="1065353216">Republic PvE Vendor</text>
+		<text bitflag="321" id1="117100" id2="194683" version="1065353216">Centurion PvP Gear</text>
+		<text bitflag="321" id1="117101" id2="194683" version="1065353216">Centurion PvP Gear</text>
+		<text bitflag="321" id1="117102" id2="194683" version="1065353216">Centurion PvP Gear</text>
+		<text bitflag="321" id1="117103" id2="194683" version="1065353216">Centurion PvP Gear</text>
+		<text bitflag="321" id1="117104" id2="194683" version="1065353216">Centurion PvP Gear</text>
+		<text bitflag="321" id1="117105" id2="194683" version="1065353216">Centurion PvP Gear</text>
+		<text bitflag="321" id1="117106" id2="194683" version="1065353216">Centurion PvP Gear</text>
+		<text bitflag="321" id1="117107" id2="194683" version="1065353216">Centurion PvP Gear</text>
+		<text bitflag="321" id1="117108" id2="194683" version="1065353216">Recruit PvP Gear</text>
+		<text bitflag="321" id1="117109" id2="194683" version="1065353216">Recruit PvP Gear</text>
+		<text bitflag="321" id1="117110" id2="194683" version="1065353216">Recruit PvP Gear</text>
+		<text bitflag="321" id1="117111" id2="194683" version="1065353216">Recruit PvP Gear</text>
+		<text bitflag="321" id1="117112" id2="194683" version="1065353216">Recruit PvP Gear</text>
+		<text bitflag="321" id1="117113" id2="194683" version="1065353216">Recruit PvP Gear</text>
+		<text bitflag="321" id1="117114" id2="194683" version="1065353216">Recruit PvP Gear</text>
+		<text bitflag="321" id1="117115" id2="194683" version="1065353216">Recruit PvP Gear</text>
+		<text bitflag="321" id1="117116" id2="194683" version="1065353216">Battlemaster PvP Gear</text>
+		<text bitflag="321" id1="117117" id2="194683" version="1065353216">Battlemaster PvP Gear</text>
+		<text bitflag="321" id1="117118" id2="194683" version="1065353216">Battlemaster PvP Gear</text>
+		<text bitflag="321" id1="117119" id2="194683" version="1065353216">Battlemaster PvP Gear</text>
+		<text bitflag="321" id1="117120" id2="194683" version="1065353216">Battlemaster PvP Gear</text>
+		<text bitflag="321" id1="117121" id2="194683" version="1065353216">Battlemaster PvP Gear</text>
+		<text bitflag="321" id1="117122" id2="194683" version="1065353216">Battlemaster PvP Gear</text>
+		<text bitflag="321" id1="117123" id2="194683" version="1065353216">Battlemaster PvP Gear</text>
+		<text bitflag="321" id1="117124" id2="194683" version="1065353216">PvP Items</text>
+		<text bitflag="321" id1="117125" id2="194683" version="1065353216">PvP Weapons</text>
+		<text bitflag="321" id1="117126" id2="194683" version="1065353216">Tionese Gear</text>
+		<text bitflag="321" id1="117127" id2="194683" version="1065353216">Tionese Gear</text>
+		<text bitflag="321" id1="117128" id2="194683" version="1065353216">Tionese Gear</text>
+		<text bitflag="321" id1="117129" id2="194683" version="1065353216">Tionese Gear</text>
+		<text bitflag="321" id1="117130" id2="194683" version="1065353216">Tionese Gear</text>
+		<text bitflag="321" id1="117131" id2="194683" version="1065353216">Tionese Gear</text>
+		<text bitflag="321" id1="117132" id2="194683" version="1065353216">Tionese Gear</text>
+		<text bitflag="321" id1="117133" id2="194683" version="1065353216">Tionese Gear</text>
+		<text bitflag="321" id1="117134" id2="194683" version="1065353216">Columi Gear</text>
+		<text bitflag="321" id1="117135" id2="194683" version="1065353216">Columi Gear</text>
+		<text bitflag="321" id1="117136" id2="194683" version="1065353216">Columi Gear</text>
+		<text bitflag="321" id1="117137" id2="194683" version="1065353216">Columi Gear</text>
+		<text bitflag="321" id1="117138" id2="194683" version="1065353216">Columi Gear</text>
+		<text bitflag="321" id1="117139" id2="194683" version="1065353216">Columi Gear</text>
+		<text bitflag="321" id1="117140" id2="194683" version="1065353216">Columi Gear</text>
+		<text bitflag="321" id1="117141" id2="194683" version="1065353216">Columi Gear</text>
+		<text bitflag="321" id1="117142" id2="194683" version="1065353216">Hutta Equipment</text>
+		<text bitflag="321" id1="117143" id2="194683" version="1065353216">Korriban Equipment</text>
+		<text bitflag="321" id1="117144" id2="194683" version="1065353216">Tython Equipment</text>
+		<text bitflag="321" id1="117145" id2="194683" version="1065353216">Ord Mantell Equipment</text>
+		<text bitflag="321" id1="117146" id2="194683" version="1065353216">Coruscant Equipment</text>
+		<text bitflag="321" id1="117147" id2="194683" version="1065353216">Coruscant Equipment Modifications</text>
+		<text bitflag="321" id1="117148" id2="194683" version="1065353216">Dromund Kaas Equipment</text>
+		<text bitflag="321" id1="117149" id2="194683" version="1065353216">Dromund Kaas Equipment Modifications</text>
+		<text bitflag="321" id1="117150" id2="194683" version="1065353216">Belsavis Equipment</text>
+		<text bitflag="321" id1="117151" id2="194683" version="1065353216">Belsavis Equipment Modifications</text>
+		<text bitflag="321" id1="117152" id2="194683" version="1065353216">Corellia Equipment</text>
+		<text bitflag="321" id1="117153" id2="194683" version="1065353216">Corellia Equipment Modifications</text>
+		<text bitflag="321" id1="117154" id2="194683" version="1065353216">Hoth Equipment</text>
+		<text bitflag="321" id1="117155" id2="194683" version="1065353216">Hoth Equipment Modifications</text>
+		<text bitflag="321" id1="117156" id2="194683" version="1065353216">Taris Equipment</text>
+		<text bitflag="321" id1="117157" id2="194683" version="1065353216">Taris Equipment Modifications</text>
+		<text bitflag="321" id1="117158" id2="194683" version="1065353216">Tatooine Equipment</text>
+		<text bitflag="321" id1="117159" id2="194683" version="1065353216">Tatooine Equipment Modifications</text>
+		<text bitflag="321" id1="117160" id2="194683" version="1065353216">Voss Equipment</text>
+		<text bitflag="321" id1="117161" id2="194683" version="1065353216">Voss Equipment Modifications</text>
+		<text bitflag="321" id1="117163" id2="194683" version="1065353216">Balmorra Equipment</text>
+		<text bitflag="321" id1="117164" id2="194683" version="1065353216">Balmorra Equipment Modifications</text>
+		<text bitflag="321" id1="117165" id2="194683" version="1065353216">Nar Shaddaa Equipment</text>
+		<text bitflag="321" id1="117168" id2="194683" version="1065353216">Nar Shaddaa Equipment Modifications</text>
+		<text bitflag="321" id1="117169" id2="194683" version="1065353216">Alderaan Equipment Modifications</text>
+		<text bitflag="321" id1="117170" id2="194683" version="1065353216">Alderaan Equipment</text>
+		<text bitflag="321" id1="117171" id2="194683" version="1065353216">Grand Imperial Quartet</text>
+		<text bitflag="321" id1="117172" id2="194683" version="1065353216">Rakata Gear</text>
+		<text bitflag="321" id1="117174" id2="194683" version="1065353216">Mission Support Vendor</text>
+		<text bitflag="321" id1="117175" id2="194683" version="1065353216">PvP Armor</text>
+		<text bitflag="321" id1="117177" id2="194683" version="1065353216">The Slavedriver</text>
+		<text bitflag="321" id1="117178" id2="194683" version="1065353216">Rakghoul Super Soldier</text>
+		<text bitflag="321" id1="117179" id2="194683" version="1065353216">Mutated Rakghoul Beast</text>
+		<text bitflag="321" id1="117182" id2="194683" version="1065353216">Corrupted Quarantine Droid</text>
+		<text bitflag="321" id1="117183" id2="194683" version="1065353216">Flashpoint: Kaon Under Siege</text>
+		<text bitflag="321" id1="117184" id2="194683" version="1065353216">Flashpoint: Lost Island</text>
+		<text bitflag="321" id1="117185" id2="194683" version="1065353216">Enslaved Drouk</text>
+		<text bitflag="321" id1="117186" id2="194683" version="1065353216">Drouk Handler</text>
+		<text bitflag="321" id1="117187" id2="194683" version="1065353216">Campaign and Black Hole Vendor</text>
+		<text bitflag="321" id1="117188" id2="194683" version="1065353216">Conqueror of Denova</text>
+		<text bitflag="321" id1="117189" id2="194683" version="1065353216">Rare Crystal Vendor</text>
+		<text bitflag="321" id1="117190" id2="194683" version="1065353216">Legacy Vendor</text>
+		<text bitflag="321" id1="117191" id2="194683" version="1065353216">War Hero PvP Gear</text>
+		<text bitflag="321" id1="117192" id2="194683" version="1065353216">The Shadow of Corellia</text>
+		<text bitflag="321" id1="117193" id2="194683" version="1065353216">Chevin Conglomerate</text>
+		<text bitflag="321" id1="117194" id2="194683" version="1065353216">Corrupted A.I.</text>
+		<text bitflag="321" id1="117195" id2="194683" version="1065353216">Dread Guard Commander</text>
+		<text bitflag="321" id1="117196" id2="194683" version="1065353216">Dread Guard and Hazmat Vendor</text>
+		<text bitflag="321" id1="117197" id2="194683" version="1065353216">Elite War Hero PvP Gear</text>
+		<text bitflag="321" id1="117198" id2="194683" version="1065353216">Pawn of the Dread Masters</text>
+		<text bitflag="321" id1="117199" id2="194683" version="1065353216">Mercenary Broker</text>
+		<text bitflag="321" id1="117205" id2="194683" version="1065353216">Talaos Sewer Terror</text>
+		<text bitflag="321" id1="117206" id2="194683" version="1065353216">The Devourer</text>
+		<text bitflag="321" id1="117207" id2="194683" version="1065353216">Rakghoul Progenitor</text>
+		<text bitflag="321" id1="117208" id2="194683" version="1065353216">Common Data Crystal Vendor</text>
+		<text bitflag="321" id1="117209" id2="194683" version="1065353216">Common Data Crystal Vendor</text>
+		<text bitflag="321" id1="117210" id2="194683" version="1065353216">Glowing Data Crystal Vendor</text>
+		<text bitflag="321" id1="117211" id2="194683" version="1065353216">Radiant Gear Outfitter</text>
+		<text bitflag="321" id1="117212" id2="194683" version="1065353216">PvP Warzone Advanced Gear</text>
+		<text bitflag="321" id1="117213" id2="194683" version="1065353216">Operations Courier</text>
+		<text bitflag="321" id1="117214" id2="194683" version="1065353216">PvP Warzone Basic Gear</text>
+		<text bitflag="321" id1="117216" id2="194683" version="1065353216">Interactive Research Liaison</text>
+		<text bitflag="321" id1="117217" id2="194683" version="1065353216">Gray Secant Droid</text>
+		<text bitflag="321" id1="117218" id2="194683" version="1065353216">Tonvarr Raid Leader</text>
+		<text bitflag="321" id1="117219" id2="194683" version="1065353216">The Sandstorm Juggernaut</text>
+		<text bitflag="321" id1="117220" id2="194683" version="1065353216">Cartel Warlord</text>
+		<text bitflag="321" id1="117221" id2="194683" version="1065353216">Regional Annihilation at Reasonable Rates</text>
+		<text bitflag="321" id1="117222" id2="194683" version="1065353216">Trained War Beast</text>
+		<text bitflag="321" id1="117223" id2="194683" version="1065353216">Contraband Arms Dealer</text>
+		<text bitflag="321" id1="117224" id2="194683" version="1065353216">Renegade Sith Lord</text>
+		<text bitflag="321" id1="117225" id2="194683" version="1065353216">Styrak's Prized Pet</text>
+		<text bitflag="321" id1="117226" id2="194683" version="1065353216">Gree Reputation Vendor</text>
+		<text bitflag="321" id1="117227" id2="194683" version="1065353216">Gree Equipment Vendor</text>
+		<text bitflag="321" id1="117228" id2="194683" version="1065353216">Prodoranya's Spy Master</text>
+		<text bitflag="321" id1="117229" id2="194683" version="1065353216">Prodoranya's Assassin</text>
+		<text bitflag="321" id1="117230" id2="194683" version="1065353216">Regulator Annihilation Droid</text>
+		<text bitflag="321" id1="117231" id2="194683" version="1065353216">Gree Herald Droid</text>
+		<text bitflag="321" id1="117232" id2="194683" version="1065353216">Archon's Savrip Scout</text>
+		<text bitflag="321" id1="117233" id2="194683" version="1065353216">Outcast Jedi</text>
+		<text bitflag="321" id1="117234" id2="194683" version="1065353216">Underworld Merchant</text>
+		<text bitflag="321" id1="117235" id2="194683" version="1065353216">Dread-Seeded Rancor</text>
+		<text bitflag="321" id1="117236" id2="194683" version="1065353216">Beastmaster</text>
+		<text bitflag="321" id1="117237" id2="194683" version="1065353216">Toborro's Glittering Fury Mark II</text>
+		<text bitflag="321" id1="117238" id2="194683" version="1065353216">The Abominable</text>
+		<text bitflag="321" id1="117239" id2="194683" version="1065353216">Reputation Vendor</text>
+		<text bitflag="321" id1="117240" id2="194683" version="1065353216">Disciple of Styrak</text>
+		<text bitflag="321" id1="117241" id2="194683" version="1065353216">Red Team</text>
+		<text bitflag="321" id1="117242" id2="194683" version="1065353216">Green Team</text>
+		<text bitflag="321" id1="117243" id2="194683" version="1065353216">Gold Team</text>
+		<text bitflag="321" id1="117244" id2="194683" version="1065353216">Blue Team</text>
+		<text bitflag="321" id1="117245" id2="194683" version="1065353216">Oasis City Patrol</text>
+		<text bitflag="321" id1="117246" id2="194683" version="1065353216">Messenger of Kressh</text>
+		<text bitflag="321" id1="117247" id2="194683" version="1065353216">Corruptor of Darvannis</text>
+		<text bitflag="321" id1="117248" id2="194683" version="1065353216">Macrobinocular Missions</text>
+		<text bitflag="321" id1="117249" id2="194683" version="1065353216">Seeker Droid Missions</text>
+		<text bitflag="321" id1="117250" id2="194683" version="1065353216">Pra'Thima's Beast</text>
+		<text bitflag="321" id1="117257" id2="194683" version="1065353216">Prototype Model</text>
+		<text bitflag="321" id1="117258" id2="194683" version="1065353216">Your Companion</text>
+		<text bitflag="321" id1="117259" id2="194683" version="1065353216">GSI Auto-Guard Reputation Vendor</text>
+		<text bitflag="321" id1="117260" id2="194683" version="1065353216">GSI Auto-Guard</text>
+		<text bitflag="321" id1="117261" id2="194683" version="1065353216">GSI GSI Omni-Beast Reputation Vendor</text>
+		<text bitflag="321" id1="117262" id2="194683" version="1065353216">GSI Omni-Beast</text>
+		<text bitflag="321" id1="117263" id2="194683" version="1065353216">GSI Weaponeer Reputation Vendor</text>
+		<text bitflag="321" id1="117264" id2="194683" version="1065353216">GSI Weaponeer</text>
+		<text bitflag="321" id1="117265" id2="194683" version="1065353216">GSI Specialty Reputation Vendor</text>
+		<text bitflag="321" id1="117266" id2="194683" version="1065353216">GSI Requisition Officer</text>
+		<text bitflag="321" id1="117267" id2="194683" version="1065353216">Oasis Patrol Commander</text>
+		<text bitflag="321" id1="117268" id2="194683" version="1065353216">Bloated Matron</text>
+		<text bitflag="321" id1="117269" id2="194683" version="1065353216">Isotope-5 Droid</text>
+		<text bitflag="321" id1="117270" id2="194683" version="1065353216">Makeb Equipment Modifications</text>
+		<text bitflag="321" id1="117271" id2="194683" version="1065353216">Quesh Equipment</text>
+		<text bitflag="321" id1="117272" id2="194683" version="1065353216">Quesh Equipment Modifications</text>
+		<text bitflag="321" id1="117273" id2="194683" version="1065353216">Well Stocked</text>
+		<text bitflag="321" id1="117274" id2="194683" version="1065353216">Dread Officer</text>
+		<text bitflag="321" id1="117275" id2="194683" version="1065353216">Repository Subadministrator</text>
+		<text bitflag="321" id1="117276" id2="194683" version="1065353216">Well Armed</text>
+		<text bitflag="321" id1="117277" id2="194683" version="1065353216">Planetary Mission Courier</text>
+		<text bitflag="321" id1="117278" id2="194683" version="1065353216">Priority Mission Courier</text>
+		<text bitflag="321" id1="117279" id2="194683" version="1065353216">Makeb Weekly Mission</text>
+		<text bitflag="321" id1="117280" id2="194683" version="1065353216">Classic Token Vendor</text>
+		<text bitflag="321" id1="117281" id2="194683" version="1065353216">Embargoed Items</text>
+		<text bitflag="321" id1="117282" id2="194683" version="1065353216">Contraband Resale</text>
+		<text bitflag="321" id1="117283" id2="194683" version="1065353216">Trophy Vendor</text>
+		<text bitflag="321" id1="117284" id2="194683" version="1065353216">Czerka Security Force</text>
+		<text bitflag="321" id1="117285" id2="194683" version="1065353216">Czerka Bioweapon</text>
+		<text bitflag="321" id1="117286" id2="194683" version="1065353216">Rasmus Personal Experiment</text>
+		<text bitflag="321" id1="117287" id2="194683" version="1065353216">Premier Assault Unit</text>
+		<text bitflag="321" id1="117288" id2="194683" version="1065353216">Czerka Security Commander</text>
+		<text bitflag="321" id1="117289" id2="194683" version="1065353216">Multi-Biome Experiment</text>
+		<text bitflag="321" id1="117290" id2="194683" version="1065353216">PvP Warzone Basic Enhancements</text>
+		<text bitflag="321" id1="117291" id2="194683" version="1065353216">PvP Warzone Advanced Enhancements</text>
+		<text bitflag="321" id1="117292" id2="194683" version="1065353216">Gargantuan Creature</text>
+		<text bitflag="321" id1="117293" id2="194683" version="1065353216">Favored of Kressh</text>
+		<text bitflag="321" id1="117294" id2="194683" version="1065353216">Seperatist Sith</text>
+		<text bitflag="321" id1="117295" id2="194683" version="1065353216">Crazed Mandalorian</text>
+		<text bitflag="321" id1="117296" id2="194683" version="1065353216">Common Data Crystal Vendor</text>
+		<text bitflag="321" id1="117297" id2="194683" version="1065353216">Crime Lord's Henchman</text>
+		<text bitflag="321" id1="117298" id2="194683" version="1065353216">Bounty Client</text>
+		<text bitflag="321" id1="117299" id2="194683" version="1065353216">Crime Lord</text>
+		<text bitflag="321" id1="117300" id2="194683" version="1065353216">Nightmare Force Vendor</text>
+		<text bitflag="321" id1="117301" id2="194683" version="1065353216">Nightmare Tech Vendor</text>
+		<text bitflag="321" id1="117302" id2="194683" version="1065353216">Bounty Contract Broker</text>
+		<text bitflag="321" id1="117303" id2="194683" version="1065353216">BBA Relations</text>
+		<text bitflag="321" id1="117304" id2="194683" version="1065353216">Special Executive</text>
+		<text bitflag="321" id1="117306" id2="194683" version="1065353216">Otheros' Personal Guard</text>
+		<text bitflag="321" id1="117307" id2="194683" version="1065353216">Henchman's Henchman</text>
+		<text bitflag="321" id1="117308" id2="194683" version="1065353216">Advanced Security Prototype</text>
+		<text bitflag="321" id1="117309" id2="194683" version="1065353216">Investigation Supplies</text>
+		<text bitflag="321" id1="117310" id2="194683" version="1065353216">Vehicle Engineer</text>
+		<text bitflag="321" id1="117311" id2="194683" version="1065353216">Dread Host General</text>
+		<text bitflag="321" id1="117312" id2="194683" version="1065353216">Dread Host Captain</text>
+		<text bitflag="321" id1="117313" id2="194683" version="1065353216">Dread Host Commander</text>
+		<text bitflag="321" id1="117314" id2="194683" version="1065353216">Cartel Security</text>
+		<text bitflag="321" id1="117315" id2="194683" version="1065353216">The Gatekeeper</text>
+		<text bitflag="321" id1="117316" id2="194683" version="1065353216">Oricon Missions</text>
+		<text bitflag="321" id1="117317" id2="194683" version="1065353216">Bounty Supply</text>
+		<text bitflag="321" id1="117318" id2="194683" version="1065353216">Subscriber Vendor</text>
+		<text bitflag="321" id1="117319" id2="194683" version="1065353216">Animal Mount Vendor</text>
+		<text bitflag="321" id1="117320" id2="194683" version="1065353216">Failed Experiment</text>
+		<text bitflag="321" id1="117321" id2="194683" version="1065353216">Disappointment</text>
+		<text bitflag="321" id1="117322" id2="194683" version="1065353216">Keeper of the Dread Seeds</text>
+		<text bitflag="321" id1="117323" id2="194683" version="1065353216">Tactician of the Masters</text>
+		<text bitflag="321" id1="117324" id2="194683" version="1065353216">Prophet of the Masters</text>
+		<text bitflag="321" id1="117325" id2="194683" version="1065353216">Weaver of Nightmares</text>
+		<text bitflag="321" id1="117327" id2="194683" version="1065353216">Dread Guard Tower Commander</text>
+		<text bitflag="321" id1="117328" id2="194683" version="1065353216">Architect of Fear</text>
+		<text bitflag="321" id1="117329" id2="194683" version="1065353216">Watcher of the Walls</text>
+		<text bitflag="321" id1="117330" id2="194683" version="1065353216">Operations Gear Vendor</text>
+		<text bitflag="321" id1="117331" id2="194683" version="1065353216">The Scrapheap Terror</text>
+		<text bitflag="321" id1="117332" id2="194683" version="1065353216">Droid Army General</text>
+		<text bitflag="321" id1="117333" id2="194683" version="1065353216">THORN Emergency Medical Services</text>
+		<text bitflag="321" id1="117334" id2="194683" version="1065353216">Heart of the Infection</text>
+		<text bitflag="321" id1="117335" id2="194683" version="1065353216">Flashpoint: Assault on Tython</text>
+		<text bitflag="321" id1="117336" id2="194683" version="1065353216">Flashpoint: Korriban Incursion</text>
+		<text bitflag="321" id1="117337" id2="194683" version="1065353216">Rakghoul Monstrosity</text>
+		<text bitflag="321" id1="117338" id2="194683" version="1065353216">Plague Carrier</text>
+		<text bitflag="321" id1="117339" id2="194683" version="1065353216">Rakghoul Symbiote</text>
+		<text bitflag="321" id1="117340" id2="194683" version="1065353216">Anniversary Vendor</text>
+		<text bitflag="321" id1="117341" id2="194683" version="1065353216">Life Day Vendor</text>
+		<text bitflag="321" id1="117343" id2="194683" version="1065353216">I.C.E.</text>
+		<text bitflag="321" id1="117344" id2="194683" version="1065353216">Jedi Empath</text>
+		<text bitflag="321" id1="117345" id2="194683" version="1065353216">Assault Specialist</text>
+		<text bitflag="321" id1="117346" id2="194683" version="1065353216">SpecForce Defender</text>
+		<text bitflag="321" id1="117347" id2="194683" version="1065353216">Fortification Droid</text>
+		<text bitflag="321" id1="117348" id2="194683" version="1065353216">Siege Droid</text>
+		<text bitflag="321" id1="117349" id2="194683" version="1065353216">Combat Droid Tech</text>
+		<text bitflag="321" id1="117350" id2="194683" version="1065353216">Combat Droid Designer</text>
+		<text bitflag="321" id1="117351" id2="194683" version="1065353216">Sith Invasion Commander</text>
+		<text bitflag="321" id1="117352" id2="194683" version="1065353216">Council Combat Advisor</text>
+		<text bitflag="321" id1="117353" id2="194683" version="1065353216">Republic Invasion Leader</text>
+		<text bitflag="321" id1="117354" id2="194683" version="1065353216">Dark Council Member</text>
+		<text bitflag="321" id1="117355" id2="194683" version="1065353216">Security Commander</text>
+		<text bitflag="321" id1="117356" id2="194683" version="1065353216">Order of Shasa</text>
+		<text bitflag="321" id1="117357" id2="194683" version="1065353216">Specimen #71</text>
+		<text bitflag="321" id1="117359" id2="194683" version="1065353216">Cybernetics Research Lead</text>
+		<text bitflag="321" id1="117361" id2="194683" version="1065353216">Flashpoint: Kuat Drive Yards</text>
+		<text bitflag="321" id1="117362" id2="194683" version="1065353216">Experimental Assault Unit</text>
+		<text bitflag="321" id1="117363" id2="194683" version="1065353216">Imperial Forward Command</text>
+		<text bitflag="321" id1="117364" id2="194683" version="1065353216">Republic First Fleet</text>
+		<text bitflag="321" id1="117366" id2="194683" version="1065353216">Support Droid</text>
+		<text bitflag="321" id1="117367" id2="194683" version="1065353216">Story Arc: Forged Alliances</text>
+		<text bitflag="321" id1="117368" id2="194683" version="1065353216">Junkyard Alpha</text>
+		<text bitflag="321" id1="117369" id2="194683" version="1065353216">Junkyard Pack</text>
+		<text bitflag="321" id1="117370" id2="194683" version="1065353216">Ground Force Commander</text>
+		<text bitflag="321" id1="117371" id2="194683" version="1065353216">Stronghold Commissioner</text>
+		<text bitflag="321" id1="117372" id2="194683" version="1065353216">Framework Engineer</text>
+		<text bitflag="321" id1="117373" id2="194683" version="1065353216">Stronghold Decorations</text>
+		<text bitflag="321" id1="117374" id2="194683" version="1065353216">Taxi &amp; Speeder Rentals</text>
+		<text bitflag="321" id1="117375" id2="194683" version="1065353216">Binary Star Realty</text>
+		<text bitflag="321" id1="117377" id2="194683" version="1065353216">Fleet Commendation Vendor</text>
+		<text bitflag="321" id1="117378" id2="194683" version="1065353216">Casino Cashier</text>
+		<text bitflag="321" id1="117379" id2="194683" version="1065353216">Casino Prize Vendor</text>
+		<text bitflag="321" id1="117380" id2="194683" version="1065353216">GSI Medical Services</text>
+		<text bitflag="321" id1="117386" id2="194683" version="1065353216">Savage Rakatan Warlord</text>
+		<text bitflag="321" id1="117387" id2="194683" version="1065353216">Tribal Warbeast</text>
+		<text bitflag="321" id1="117388" id2="194683" version="1065353216">Infinite Army Officer</text>
+		<text bitflag="321" id1="117389" id2="194683" version="1065353216">Traitorous Revanite</text>
+		<text bitflag="321" id1="117390" id2="194683" version="1065353216">Scrap Peddler: Premium Materials</text>
+		<text bitflag="321" id1="117391" id2="194683" version="1065353216">Scrap Peddler: Prototype Materials</text>
+		<text bitflag="321" id1="117392" id2="194683" version="1065353216">Scrap Peddler: Artifact Materials</text>
+		<text bitflag="321" id1="117393" id2="194683" version="1065353216">Decoration Merchant</text>
+		<text bitflag="321" id1="117394" id2="194683" version="1065353216">Decoration Prefab Transformer</text>
+		<text bitflag="321" id1="117395" id2="194683" version="1065353216">Flashpoint: Legacy of the Rakata</text>
+		<text bitflag="321" id1="117396" id2="194683" version="1065353216">Planetary Conquest Equipment</text>
+		<text bitflag="321" id1="117416" id2="194683" version="1065353216">Flagship Commissioner</text>
+		<text bitflag="321" id1="117417" id2="194683" version="1065353216">Starfighter &amp; PvP Decoration Vendor</text>
+		<text bitflag="321" id1="117418" id2="194683" version="1065353216">Cartel Market Decorations</text>
+		<text bitflag="321" id1="117419" id2="194683" version="1065353216">Personnel Agent</text>
+		<text bitflag="321" id1="117420" id2="194683" version="1065353216">Decommissioned Engineering Droid</text>
+		<text bitflag="321" id1="117421" id2="194683" version="1065353216">Commander of the Republic Forces</text>
+		<text bitflag="321" id1="117422" id2="194683" version="1065353216">Commander of the Imperial Forces</text>
+		<text bitflag="321" id1="117425" id2="194683" version="1065353216">Utility Decorations Engineer</text>
+		<text bitflag="321" id1="117426" id2="194683" version="1065353216">Flashpoint: Depths of Manaan</text>
+		<text bitflag="321" id1="117428" id2="194683" version="1065353216">The Returned</text>
+		<text bitflag="321" id1="117450" id2="194683" version="1065353216">Torque's Astromechanical Terror</text>
+		<text bitflag="321" id1="117451" id2="194683" version="1065353216">Jury-Rigged Juggernaut</text>
+		<text bitflag="321" id1="117452" id2="194683" version="1065353216">Corrupted by the Dark Side</text>
+		<text bitflag="321" id1="117453" id2="194683" version="1065353216">Revanite Overseer</text>
+		<text bitflag="321" id1="117454" id2="194683" version="1065353216">Revanite Combat Walker</text>
+		<text bitflag="321" id1="117455" id2="194683" version="1065353216">Herald of Revan</text>
+		<text bitflag="321" id1="117456" id2="194683" version="1065353216">Revanite Commander</text>
+		<text bitflag="321" id1="117457" id2="194683" version="1065353216">Revanite Commander</text>
+		<text bitflag="321" id1="117458" id2="194683" version="1065353216">Revanite Assault Walker</text>
+		<text bitflag="321" id1="117459" id2="194683" version="1065353216">Serial Backstabber</text>
+		<text bitflag="321" id1="117460" id2="194683" version="1065353216">The Pirate Queen</text>
+		<text bitflag="321" id1="117461" id2="194683" version="1065353216">My Little Birdy</text>
+		<text bitflag="321" id1="117462" id2="194683" version="1065353216">Massassi Warlord</text>
+		<text bitflag="321" id1="117463" id2="194683" version="1065353216">Requisitions and Morale Officer</text>
+		<text bitflag="321" id1="117464" id2="194683" version="1065353216">Chief Engineer</text>
+		<text bitflag="321" id1="117465" id2="194683" version="1065353216">Nova Blade Commander</text>
+		<text bitflag="321" id1="117466" id2="194683" version="1065353216">Supply Depot Commander</text>
+		<text bitflag="321" id1="117467" id2="194683" version="1065353216">Flashpoint: Blood Hunt</text>
+		<text bitflag="321" id1="117468" id2="194683" version="1065353216">Strongest of the Hunt</text>
+		<text bitflag="321" id1="117469" id2="194683" version="1065353216">Mountain of Death</text>
+		<text bitflag="321" id1="117470" id2="194683" version="1065353216">River Assassin</text>
+		<text bitflag="321" id1="117471" id2="194683" version="1065353216">Water Slime</text>
+		<text bitflag="321" id1="117472" id2="194683" version="1065353216">Cunning Eye</text>
+		<text bitflag="321" id1="117473" id2="194683" version="1065353216">Merciless Bite</text>
+		<text bitflag="321" id1="117474" id2="194683" version="1065353216">Deadly Hairball</text>
+		<text bitflag="321" id1="117475" id2="194683" version="1065353216">Voracious Kell Dragon</text>
+		<text bitflag="321" id1="117476" id2="194683" version="1065353216">Flashpoint: Battle of Rishi</text>
+		<text bitflag="321" id1="117477" id2="194683" version="1065353216">AKA Torch</text>
+		<text bitflag="321" id1="117478" id2="194683" version="1065353216">Ancient Massassi</text>
+		<text bitflag="321" id1="117479" id2="194683" version="1065353216">Revanite Centurion</text>
+		<text bitflag="321" id1="117480" id2="194683" version="1065353216">Freebooter's Trade Union</text>
+		<text bitflag="321" id1="117481" id2="194683" version="1065353216">Revanite Prospector Droid</text>
+		<text bitflag="321" id1="117482" id2="194683" version="1065353216">Logistics Management Droid</text>
+		<text bitflag="321" id1="117483" id2="194683" version="1065353216">Common Data Crystal Vendor</text>
+		<text bitflag="321" id1="117485" id2="194683" version="1065353216">Token Exchange - Warrior - Level 55</text>
+		<text bitflag="321" id1="117486" id2="194683" version="1065353216">Token Exchange - Inquisitor - Level 55</text>
+		<text bitflag="321" id1="117487" id2="194683" version="1065353216">Token Exchange - Bounty Hunter - Level 55</text>
+		<text bitflag="321" id1="117488" id2="194683" version="1065353216">Token Exchange - Agent - Level 55</text>
+		<text bitflag="321" id1="117489" id2="194683" version="1065353216">Token Exchange - Knight - Level 55</text>
+		<text bitflag="321" id1="117490" id2="194683" version="1065353216">Token Exchange - Consular - Level 55</text>
+		<text bitflag="321" id1="117491" id2="194683" version="1065353216">Token Exchange - Trooper - Level 55</text>
+		<text bitflag="321" id1="117492" id2="194683" version="1065353216">Token Exchange - Smuggler - Level 55</text>
+		<text bitflag="321" id1="117493" id2="194683" version="1065353216">Nightmare Token Exchange - Warrior - Level 55</text>
+		<text bitflag="321" id1="117494" id2="194683" version="1065353216">Nightmare Token Exchange - Inquisitor - Level 55</text>
+		<text bitflag="321" id1="117495" id2="194683" version="1065353216">Nightmare Token Exchange - Bounty Hunter - Level 55</text>
+		<text bitflag="321" id1="117496" id2="194683" version="1065353216">Nightmare Token Exchange - Agent - Level 55</text>
+		<text bitflag="321" id1="117497" id2="194683" version="1065353216">Nightmare Token Exchange - Knight - Level 55</text>
+		<text bitflag="321" id1="117498" id2="194683" version="1065353216">Nightmare Token Exchange - Consular - Level 55</text>
+		<text bitflag="321" id1="117499" id2="194683" version="1065353216">Nightmare Token Exchange - Trooper - Level 55</text>
+		<text bitflag="321" id1="117500" id2="194683" version="1065353216">Nightmare Token Exchange - Smuggler - Level 55</text>
+		<text bitflag="321" id1="117501" id2="194683" version="1065353216">Rishi Equipment Modifications</text>
+		<text bitflag="321" id1="117502" id2="194683" version="1065353216">Cat</text>
+		<text bitflag="321" id1="117503" id2="194683" version="1065353216">Hound</text>
+		<text bitflag="321" id1="117504" id2="194683" version="1065353216">Mercenary</text>
+		<text bitflag="321" id1="117505" id2="194683" version="1065353216">Jungle Creature</text>
+		<text bitflag="321" id1="117506" id2="194683" version="1065353216">Beast</text>
+		<text bitflag="321" id1="117507" id2="194683" version="1065353216">Sea Creature</text>
+		<text bitflag="321" id1="117508" id2="194683" version="1065353216">Prelude: Shadow of Revan</text>
+		<text bitflag="321" id1="117509" id2="194683" version="1065353216">Revan's Companion</text>
+		<text bitflag="321" id1="117510" id2="194683" version="1065353216">3rd Anniversary Celebrant</text>
+		<text bitflag="321" id1="117511" id2="194683" version="1065353216">Bartender</text>
+		<text bitflag="321" id1="117512" id2="194683" version="1065353216">Chief Chemical Engineer</text>
+		<text bitflag="321" id1="117513" id2="194683" version="1065353216">Possessed</text>
+		<text bitflag="321" id1="117514" id2="194683" version="1065353216">Non-Essential Personnel</text>
+		<text bitflag="321" id1="117515" id2="194683" version="1065353216">Protector</text>
+		<text bitflag="321" id1="117516" id2="194683" version="1065353216">Avatar of Ruin</text>
+		<text bitflag="321" id1="117517" id2="194683" version="1065353216">GSI Equipment Vendor</text>
+		<text bitflag="321" id1="117518" id2="194683" version="1065353216">GSI Holographic Reconstruction Drone</text>
+		<text bitflag="321" id1="117519" id2="194683" version="1065353216">Death's Claw Pirate</text>
+		<text bitflag="321" id1="117520" id2="194683" version="1065353216">Adaptive Gear Vendor</text>
+		<text bitflag="321" id1="117521" id2="194683" version="1065353216">Level 9 Equipment Vendor</text>
+		<text bitflag="321" id1="117522" id2="194683" version="1065353216">Level 13 Equipment Vendor</text>
+		<text bitflag="321" id1="117523" id2="194683" version="1065353216">Level 17 Equipment Vendor</text>
+		<text bitflag="321" id1="117524" id2="194683" version="1065353216">Level 21 Equipment Vendor</text>
+		<text bitflag="321" id1="117525" id2="194683" version="1065353216">Level 25 Equipment Vendor</text>
+		<text bitflag="321" id1="117526" id2="194683" version="1065353216">Level 29 Equipment Vendor</text>
+		<text bitflag="321" id1="117527" id2="194683" version="1065353216">Level 33 Equipment Vendor</text>
+		<text bitflag="321" id1="117528" id2="194683" version="1065353216">Level 37 Equipment Vendor</text>
+		<text bitflag="321" id1="117529" id2="194683" version="1065353216">Level 38 Equipment Vendor</text>
+		<text bitflag="321" id1="117530" id2="194683" version="1065353216">Level 42 Equipment Vendor</text>
+		<text bitflag="321" id1="117531" id2="194683" version="1065353216">Level 45 Equipment Vendor</text>
+		<text bitflag="321" id1="117532" id2="194683" version="1065353216">Level 50 Equipment Vendor</text>
+		<text bitflag="321" id1="117533" id2="194683" version="1065353216">Level 10 Modification Vendor</text>
+		<text bitflag="321" id1="117534" id2="194683" version="1065353216">Level 14 Modification Vendor</text>
+		<text bitflag="321" id1="117535" id2="194683" version="1065353216">Level 18 Modification Vendor</text>
+		<text bitflag="321" id1="117536" id2="194683" version="1065353216">Level 22 Modification Vendor</text>
+		<text bitflag="321" id1="117537" id2="194683" version="1065353216">Level 26 Modification Vendor</text>
+		<text bitflag="321" id1="117538" id2="194683" version="1065353216">Level 30 Modification Vendor</text>
+		<text bitflag="321" id1="117539" id2="194683" version="1065353216">Level 34 Modification Vendor</text>
+		<text bitflag="321" id1="117540" id2="194683" version="1065353216">Level 38 Modification Vendor</text>
+		<text bitflag="321" id1="117541" id2="194683" version="1065353216">Level 42 Modification Vendor</text>
+		<text bitflag="321" id1="117542" id2="194683" version="1065353216">Level 48 Modification Vendor</text>
+		<text bitflag="321" id1="117543" id2="194683" version="1065353216">Level 52 Modification Vendor</text>
+		<text bitflag="321" id1="117544" id2="194683" version="1065353216">Level 56 Modification Vendor</text>
+		<text bitflag="321" id1="117545" id2="194683" version="1065353216">Nearly Possessed</text>
+		<text bitflag="321" id1="117546" id2="194683" version="1065353216">Civilian Medical Specialist</text>
+		<text bitflag="321" id1="117547" id2="194683" version="1065353216">GSI Exploratory Services</text>
+		<text bitflag="321" id1="117548" id2="194683" version="1065353216">Stranded Merchant</text>
+		<text bitflag="321" id1="117549" id2="194683" version="1065353216">Outpost Services Unit</text>
+		<text bitflag="321" id1="117550" id2="194683" version="1065353216">GSI Protective Services</text>
+		<text bitflag="321" id1="117551" id2="194683" version="1065353216">The Protectors</text>
+		<text bitflag="321" id1="117552" id2="194683" version="1065353216">Possessed by the Emperor</text>
+		<text bitflag="321" id1="117553" id2="194683" version="1065353216">Advanced Orbital Recon Probe</text>
+		<text bitflag="321" id1="117554" id2="194683" version="1065353216">Controlled by the Emperor</text>
+		<text bitflag="321" id1="117555" id2="194683" version="1065353216">Malfunctioning Suvey Team Escort Droid</text>
+		<text bitflag="321" id1="117556" id2="194683" version="1065353216">Ziost Equipment Vendor</text>
+		<text bitflag="321" id1="117557" id2="194683" version="1065353216">Ziost Heritage Vendor</text>
+		<text bitflag="321" id1="117559" id2="194683" version="1065353216">Esstran Exports</text>
+		<text bitflag="321" id1="117560" id2="194683" version="1065353216">Supreme Mogul of the Hutt Cartel</text>
+		<text bitflag="321" id1="117561" id2="194683" version="1065353216">Elite Bounty Hunter</text>
+		<text bitflag="321" id1="117562" id2="194683" version="1065353216">Heavy-duty Factory Droid</text>
+		<text bitflag="321" id1="117563" id2="194683" version="1065353216">Karagga's Pet</text>
+		<text bitflag="321" id1="117565" id2="194683" version="1065353216">Ranked Season Reward Vendor</text>
+		<text bitflag="321" id1="117566" id2="194683" version="1065353216">Knight of Zakuul</text>
+		<text bitflag="321" id1="117567" id2="194683" version="1065353216">Prototype Command Unit</text>
+		<text bitflag="321" id1="117568" id2="194683" version="1065353216">Paladin of Zakuul</text>
+		<text bitflag="321" id1="117569" id2="194683" version="1065353216">Flashpoint: Black Talon</text>
+		<text bitflag="321" id1="117570" id2="194683" version="1065353216">Flashpoint: Esseles</text>
+		<text bitflag="321" id1="117571" id2="194683" version="1065353216">Flashpoint: Boarding Party</text>
+		<text bitflag="321" id1="117572" id2="194683" version="1065353216">Flashpoint: The Foundry</text>
+		<text bitflag="321" id1="117573" id2="194683" version="1065353216">Flashpoint: Taral V</text>
+		<text bitflag="321" id1="117574" id2="194683" version="1065353216">Flashpoint: Maelstrom Prison</text>
+		<text bitflag="321" id1="117575" id2="194683" version="1065353216">Flashpoint: Directive 7</text>
+		<text bitflag="321" id1="117576" id2="194683" version="1065353216">Flashpoint: Battle of Ilum</text>
+		<text bitflag="321" id1="117577" id2="194683" version="1065353216">Flashpoint: False Emperor</text>
+		<text bitflag="321" id1="117578" id2="194683" version="1065353216">Flashpoint: Athiss</text>
+		<text bitflag="321" id1="117579" id2="194683" version="1065353216">Flashpoint: Cademimu</text>
+		<text bitflag="321" id1="117580" id2="194683" version="1065353216">Flashpoint: Mandalorian Raiders</text>
+		<text bitflag="321" id1="117581" id2="194683" version="1065353216">Flashpoint: Red Reaper</text>
+		<text bitflag="321" id1="117582" id2="194683" version="1065353216">Flashpoint: Kaon Under Siege</text>
+		<text bitflag="321" id1="117583" id2="194683" version="1065353216">Flashpoint: Lost Island</text>
+		<text bitflag="321" id1="117584" id2="194683" version="1065353216">Flashpoint: Korriban Incursion</text>
+		<text bitflag="321" id1="117585" id2="194683" version="1065353216">Flashpoint: Assault on Tython</text>
+		<text bitflag="321" id1="117586" id2="194683" version="1065353216">Flashpoint: Depths of Manaan</text>
+		<text bitflag="321" id1="117587" id2="194683" version="1065353216">Flashpoint: Legacy of the Rakata</text>
+		<text bitflag="321" id1="117588" id2="194683" version="1065353216">Flashpoint: Blood Hunt</text>
+		<text bitflag="321" id1="117589" id2="194683" version="1065353216">Flashpoint: Battle of Rishi</text>
+		<text bitflag="321" id1="117590" id2="194683" version="1065353216">Operation: Eternity Vault</text>
+		<text bitflag="321" id1="117591" id2="194683" version="1065353216">Operation: Karagga's Palace</text>
+		<text bitflag="321" id1="117592" id2="194683" version="1065353216">Operation: Explosive Conflict</text>
+		<text bitflag="321" id1="117593" id2="194683" version="1065353216">Operation: Terror from Beyond</text>
+		<text bitflag="321" id1="117594" id2="194683" version="1065353216">Operation: Scum and Villainy</text>
+		<text bitflag="321" id1="117595" id2="194683" version="1065353216">Operation: Dread Fortress</text>
+		<text bitflag="321" id1="117596" id2="194683" version="1065353216">Operation: Dread Palace</text>
+		<text bitflag="321" id1="117597" id2="194683" version="1065353216">Operation: The Ravagers</text>
+		<text bitflag="321" id1="117598" id2="194683" version="1065353216">Operation: Temple of Sacrifice</text>
+		<text bitflag="321" id1="117599" id2="194683" version="1065353216">Guardian of Forbidden Secrets</text>
+		<text bitflag="321" id1="117600" id2="194683" version="1065353216">Master Control Holoprojection</text>
+		<text bitflag="321" id1="117601" id2="194683" version="1065353216">Physical Backup Unit</text>
+		<text bitflag="321" id1="117602" id2="194683" version="1065353216">Master of Killers</text>
+		<text bitflag="321" id1="117603" id2="194683" version="1065353216">Nightmare Weaver</text>
+		<text bitflag="321" id1="117604" id2="194683" version="1065353216">Noble Executioner</text>
+		<text bitflag="321" id1="117605" id2="194683" version="1065353216">Supreme Vindicator</text>
+		<text bitflag="321" id1="117606" id2="194683" version="1065353216">Old World Muscle</text>
+		<text bitflag="321" id1="117607" id2="194683" version="1065353216">One-Handed Handler</text>
+		<text bitflag="321" id1="117608" id2="194683" version="1065353216">The Fallen Knight</text>
+		<text bitflag="321" id1="117609" id2="194683" version="1065353216">The Rising Squire</text>
+		<text bitflag="321" id1="117610" id2="194683" version="1065353216">Exarch of the Old World</text>
+		<text bitflag="321" id1="117611" id2="194683" version="1065353216">Exploratory Missions</text>
+		<text bitflag="321" id1="117612" id2="194683" version="1065353216">Tatooine Command Unit</text>
+		<text bitflag="321" id1="117613" id2="194683" version="1065353216">Hoth Command Unit</text>
+		<text bitflag="321" id1="117614" id2="194683" version="1065353216">Nar Shaddaa Command Unit</text>
+		<text bitflag="321" id1="117615" id2="194683" version="1065353216">Voss Command Unit</text>
+		<text bitflag="321" id1="117616" id2="194683" version="1065353216">Alderaan Command Unit</text>
+		<text bitflag="321" id1="117617" id2="194683" version="1065353216">Belsavis Command Unit</text>
+		<text bitflag="321" id1="117619" id2="194683" version="1065353216">Exarch of Voss</text>
+		<text bitflag="321" id1="117620" id2="194683" version="1065353216">Exarch of Tatooine</text>
+		<text bitflag="321" id1="117621" id2="194683" version="1065353216">Exarch of Nar Shaddaa</text>
+		<text bitflag="321" id1="117622" id2="194683" version="1065353216">Exarch of Hoth</text>
+		<text bitflag="321" id1="117623" id2="194683" version="1065353216">Exarch of Belsavis</text>
+		<text bitflag="321" id1="117624" id2="194683" version="1065353216">Exarch of Alderaan</text>
+		<text bitflag="321" id1="117625" id2="194683" version="1065353216">Creature Companion Tamer</text>
+		<text bitflag="321" id1="117626" id2="194683" version="1065353216">Droid Companion Technician</text>
+		<text bitflag="321" id1="117627" id2="194683" version="1065353216">Brood Mother</text>
+		<text bitflag="321" id1="117628" id2="194683" version="1065353216">Heroic Mission</text>
+		<text bitflag="321" id1="117629" id2="194683" version="1065353216">Cartel Certificate Decorations and Personnel</text>
+		<text bitflag="321" id1="117630" id2="194683" version="1065353216">Data Crystals Decorations</text>
+		<text bitflag="321" id1="117631" id2="194683" version="1065353216">Jedi Master</text>
+		<text bitflag="321" id1="117632" id2="194683" version="1065353216">Sith Lord</text>
+		<text bitflag="321" id1="117633" id2="194683" version="1065353216">Elite Skytrooper</text>
+		<text bitflag="321" id1="117634" id2="194683" version="1065353216">Scion of Zakuul</text>
+		<text bitflag="321" id1="117635" id2="194683" version="1065353216">Free Zone Crime Lord</text>
+		<text bitflag="321" id1="117636" id2="194683" version="1065353216">Free Zone Underboss</text>
+		<text bitflag="321" id1="117637" id2="194683" version="1065353216">Grandmaster of the Jedi Order</text>
+		<text bitflag="321" id1="117638" id2="194683" version="1065353216">Vision of the Past</text>
+		<text bitflag="321" id1="117639" id2="194683" version="1065353216">Level 60 Modification Vendor</text>
+		<text bitflag="321" id1="117640" id2="194683" version="1065353216">Herald of Zildrog</text>
+		<text bitflag="321" id1="117641" id2="194683" version="1065353216">Sister of Scyva</text>
+		<text bitflag="321" id1="117642" id2="194683" version="1065353216">Watcher of Esne</text>
+		<text bitflag="321" id1="117643" id2="194683" version="1065353216">Hand of Aivela</text>
+		<text bitflag="321" id1="117644" id2="194683" version="1065353216">Advanced Recon</text>
+		<text bitflag="321" id1="117645" id2="194683" version="1065353216">Cartel Coin Card Concierge</text>
+		<text bitflag="321" id1="117646" id2="194683" version="1065353216">Alert Response Team</text>
+		<text bitflag="321" id1="117647" id2="194683" version="1065353216">King of the Pen</text>
+		<text bitflag="321" id1="117648" id2="194683" version="1065353216">Story Arc: Alderaan</text>
+		<text bitflag="321" id1="117649" id2="194683" version="1065353216">Story Arc: Balmorra</text>
+		<text bitflag="321" id1="117650" id2="194683" version="1065353216">Story Arc: Belsavis</text>
+		<text bitflag="321" id1="117651" id2="194683" version="1065353216">Story Arc: Hoth</text>
+		<text bitflag="321" id1="117652" id2="194683" version="1065353216">Story Arc: Nar Shaddaa</text>
+		<text bitflag="321" id1="117653" id2="194683" version="1065353216">Story Arc: Taris</text>
+		<text bitflag="321" id1="117654" id2="194683" version="1065353216">Story Arc: Tatooine</text>
+		<text bitflag="321" id1="117655" id2="194683" version="1065353216">Story Arc: Voss</text>
+		<text bitflag="321" id1="117656" id2="194683" version="1065353216">Story Arc: Corellia</text>
+		<text bitflag="321" id1="117657" id2="194683" version="1065353216">Story Arc: Coruscant</text>
+		<text bitflag="321" id1="117658" id2="194683" version="1065353216">Story Arc: Dromund Kaas</text>
+		<text bitflag="321" id1="117659" id2="194683" version="1065353216">Story Arc: Hutta</text>
+		<text bitflag="321" id1="117660" id2="194683" version="1065353216">Story Arc: Ilum</text>
+		<text bitflag="321" id1="117661" id2="194683" version="1065353216">Story Arc: Korriban</text>
+		<text bitflag="321" id1="117662" id2="194683" version="1065353216">Story Arc: Ord Mantell</text>
+		<text bitflag="321" id1="117663" id2="194683" version="1065353216">Story Arc: Tython</text>
+		<text bitflag="321" id1="117664" id2="194683" version="1065353216">Story Arc: Quesh</text>
+		<text bitflag="321" id1="117665" id2="194683" version="1065353216">Story Arc: Makeb</text>
+		<text bitflag="321" id1="117666" id2="194683" version="1065353216">Story Arc: Rishi</text>
+		<text bitflag="321" id1="117667" id2="194683" version="1065353216">Story Arc: Yavin IV</text>
+		<text bitflag="321" id1="117668" id2="194683" version="1065353216">Story Arc: The Star Fortress</text>
+		<text bitflag="321" id1="117669" id2="194683" version="1065353216">Data Crystal Exchange</text>
+		<text bitflag="321" id1="117670" id2="194683" version="1065353216">Access: The Star Fortress</text>
+		<text bitflag="321" id1="117671" id2="194683" version="1065353216">Emperor of Zakuul</text>
+		<text bitflag="321" id1="117672" id2="194683" version="1065353216">Specialist: Science &amp; Research</text>
+		<text bitflag="321" id1="117673" id2="194683" version="1065353216">Specialist: Underworld Logistics</text>
+		<text bitflag="321" id1="117674" id2="194683" version="1065353216">Specialist: Force Enclave</text>
+		<text bitflag="321" id1="117675" id2="194683" version="1065353216">Specialist: Military Operations</text>
+		<text bitflag="321" id1="117676" id2="194683" version="1065353216">Resistance Fighter</text>
+		<text bitflag="321" id1="117677" id2="194683" version="1065353216">Shield Bunker Guardian</text>
+		<text bitflag="321" id1="117678" id2="194683" version="1065353216">Smuggled Supplies Vendor</text>
+		<text bitflag="321" id1="117679" id2="194683" version="1065353216">Alliance Vehicle Engineer</text>
+		<text bitflag="321" id1="117680" id2="194683" version="1065353216">Black Market Goods Vendor</text>
+		<text bitflag="321" id1="117681" id2="194683" version="1065353216">Flashpoint: Czerka Corporate Labs</text>
+		<text bitflag="321" id1="117682" id2="194683" version="1065353216">Flashpoint: Kaon Under Siege</text>
+		<text bitflag="321" id1="117683" id2="194683" version="1065353216">Flashpoint: Boarding Party</text>
+		<text bitflag="321" id1="117684" id2="194683" version="1065353216">Flashpoint: Taral V</text>
+		<text bitflag="321" id1="117685" id2="194683" version="1065353216">Flashpoint: Czerka Corporate Labs</text>
+		<text bitflag="321" id1="117686" id2="194683" version="1065353216">Overwatch Hunter</text>
+		<text bitflag="321" id1="117689" id2="194683" version="1065353216">Salvage Runner</text>
+		<text bitflag="321" id1="117690" id2="194683" version="1065353216">Last Lord of Urkupp</text>
+		<text bitflag="321" id1="117691" id2="194683" version="1065353216">Enemy of Zakuul</text>
+		<text bitflag="321" id1="117692" id2="194683" version="1065353216">Simulated Meatbag</text>
+		<text bitflag="321" id1="117693" id2="194683" version="1065353216">Eternal Championship Distributor</text>
+		<text bitflag="321" id1="117694" id2="194683" version="1065353216">Captured Republic Walker</text>
+		<text bitflag="321" id1="117695" id2="194683" version="1065353216">Captured Imperial Walker</text>
+		<text bitflag="321" id1="117696" id2="194683" version="1065353216">Special Promotions</text>
+		<text bitflag="321" id1="117697" id2="194683" version="1065353216">Master of Killers Reborn</text>
+		<text bitflag="321" id1="117698" id2="194683" version="1065353216">Master of Mayhem</text>
+		<text bitflag="321" id1="117699" id2="194683" version="1065353216">Knight Commander</text>
+		<text bitflag="321" id1="117700" id2="194683" version="1065353216">Beastmaster</text>
+		<text bitflag="321" id1="117701" id2="194683" version="1065353216">Scrap Peddler: Companion Customization Vendor</text>
+		<text bitflag="321" id1="117702" id2="194683" version="1065353216">Exiled Sith Lord</text>
+		<text bitflag="321" id1="117703" id2="194683" version="1065353216">Crimson Fang Mercenary</text>
+		<text bitflag="321" id1="117704" id2="194683" version="1065353216">Crimson Fang Hitman</text>
+		<text bitflag="321" id1="117705" id2="194683" version="1065353216">The Red Huntress</text>
+		<text bitflag="321" id1="117706" id2="194683" version="1065353216">Crimson Fang Captain</text>
+		<text bitflag="321" id1="117707" id2="194683" version="1065353216">Crimson Fang Security Droid</text>
+		<text bitflag="321" id1="117708" id2="194683" version="1065353216">Horizon Guard</text>
+		<text bitflag="321" id1="117709" id2="194683" version="1065353216">Head Chef</text>
+		<text bitflag="321" id1="117710" id2="194683" version="1065353216">Zakuulan Forward Recon</text>
+		<text bitflag="321" id1="117711" id2="194683" version="1065353216">Zakuulan Battalion Commander</text>
+		<text bitflag="321" id1="117717" id2="194683" version="1065353216">The Machine</text>
+		<text bitflag="321" id1="117718" id2="194683" version="1065353216">Royal Beastmaster</text>
+		<text bitflag="321" id1="117719" id2="194683" version="1065353216">Barracks Guard</text>
+		<text bitflag="321" id1="117720" id2="194683" version="1065353216">Security Center Guard</text>
+		<text bitflag="321" id1="117721" id2="194683" version="1065353216">Big Kid</text>
+		<text bitflag="321" id1="117723" id2="194683" version="1065353216">The Dust Vipers</text>
+		<text bitflag="321" id1="117724" id2="194683" version="1065353216">Rokuss's Forces</text>
+		<text bitflag="321" id1="117725" id2="194683" version="1065353216">Veeroa Denz's Forces</text>
+		<text bitflag="321" id1="117726" id2="194683" version="1065353216">Sick Kid</text>
+		<text bitflag="321" id1="117727" id2="194683" version="1065353216">Oleg's Pet</text>
+		<text bitflag="321" id1="117728" id2="194683" version="1065353216">Magistrate of Revelry</text>
+		<text bitflag="321" id1="117729" id2="194683" version="1065353216">Former Magistrate of Revelry</text>
+		<text bitflag="321" id1="117730" id2="194683" version="1065353216">Empress of Zakuul</text>
+		<text bitflag="321" id1="117731" id2="194683" version="1065353216">Level 65 Modification Vendor</text>
+		<text bitflag="321" id1="117732" id2="194683" version="1065353216">Immortal Emperor of Zakuul</text>
+		<text bitflag="321" id1="117733" id2="194683" version="1065353216">Vanquished Empress of Zakuul</text>
+		<text bitflag="321" id1="117734" id2="194683" version="1065353216">Jedi Grand Master</text>
+		<text bitflag="321" id1="117735" id2="194683" version="1065353216">Fallen Lord of the Sith</text>
+		<text bitflag="321" id1="117736" id2="194683" version="1065353216">Alliance Member</text>
+		<text bitflag="321" id1="117737" id2="194683" version="1065353216">Fallen Emperor of Zakuul</text>
+		<text bitflag="321" id1="117738" id2="194683" version="1065353216">Redeemed Son of Zakuul</text>
+		<text bitflag="321" id1="117739" id2="194683" version="1065353216">The Lost Companion</text>
+		<text bitflag="321" id1="117740" id2="194683" version="1065353216">Champion of the Light Side</text>
+		<text bitflag="321" id1="117741" id2="194683" version="1065353216">Champion of the Dark Side</text>
+		<text bitflag="321" id1="117742" id2="194683" version="1065353216">Secret Agent</text>
+		<text bitflag="321" id1="117743" id2="194683" version="1065353216">Dark Advisor</text>
+		<text bitflag="321" id1="117744" id2="194683" version="1065353216">Vengeful Enforcer</text>
+		<text bitflag="321" id1="117745" id2="194683" version="1065353216">Fallen Companion</text>
+		<text bitflag="321" id1="117746" id2="194683" version="1065353216">Emissary of the Alliance</text>
+		<text bitflag="321" id1="117747" id2="194683" version="1065353216">Chosen of Gethul</text>
+		<text bitflag="321" id1="117748" id2="194683" version="1065353216">Volatile Demolition Droid</text>
+		<text bitflag="321" id1="117749" id2="194683" version="1065353216">Rike's Raiders</text>
+		<text bitflag="321" id1="117750" id2="194683" version="1065353216">Alliance Recon Unit</text>
+		<text bitflag="321" id1="117751" id2="194683" version="1065353216">Galactic Command Light Side Vendor</text>
+		<text bitflag="321" id1="117752" id2="194683" version="1065353216">Galactic Command Dark Side Vendor</text>
+		<text bitflag="321" id1="117753" id2="194683" version="1065353216">God of Rage</text>
+		<text bitflag="321" id1="117754" id2="194683" version="1065353216">Goddess of Passion</text>
+		<text bitflag="321" id1="117755" id2="194683" version="1065353216">Goddess of Envy</text>
+		<text bitflag="321" id1="117756" id2="194683" version="1065353216">Research Analysis Platform</text>
+		<text bitflag="321" id1="117757" id2="194683" version="1065353216">The Destroyer</text>
+		<text bitflag="321" id1="117758" id2="194683" version="1065353216">Tier 1 Agent Equipment</text>
+		<text bitflag="321" id1="117759" id2="194683" version="1065353216">Tier 1 Bounty Hunter Equipment</text>
+		<text bitflag="321" id1="117760" id2="194683" version="1065353216">Tier 1 Warrior Equipment</text>
+		<text bitflag="321" id1="117761" id2="194683" version="1065353216">Tier 1 Inquisitor Equipment</text>
+		<text bitflag="321" id1="117762" id2="194683" version="1065353216">Tier 2 Agent Equipment</text>
+		<text bitflag="321" id1="117763" id2="194683" version="1065353216">Tier 2 Bounty Hunter Equipment</text>
+		<text bitflag="321" id1="117764" id2="194683" version="1065353216">Tier 2 Warrior Equipment</text>
+		<text bitflag="321" id1="117765" id2="194683" version="1065353216">Tier 2 Inquisitor Equipment</text>
+		<text bitflag="321" id1="117766" id2="194683" version="1065353216">Tier 3 Agent Equipment</text>
+		<text bitflag="321" id1="117767" id2="194683" version="1065353216">Tier 3 Bounty Hunter Equipment</text>
+		<text bitflag="321" id1="117768" id2="194683" version="1065353216">Tier 3 Warrior Equipment</text>
+		<text bitflag="321" id1="117769" id2="194683" version="1065353216">Tier 3 Inquisitor Equipment</text>
+		<text bitflag="321" id1="117770" id2="194683" version="1065353216">Tier 1 Unassembled Tokens</text>
+		<text bitflag="321" id1="117771" id2="194683" version="1065353216">Tier 2 Agent Unassembled Tokens</text>
+		<text bitflag="321" id1="117772" id2="194683" version="1065353216">Tier 2 Bounty Hunter Unassembled Tokens</text>
+		<text bitflag="321" id1="117773" id2="194683" version="1065353216">Tier 2 Warrior Unassembled Tokens</text>
+		<text bitflag="321" id1="117774" id2="194683" version="1065353216">Tier 2 Inquisitor Unassembled Tokens</text>
+		<text bitflag="321" id1="117775" id2="194683" version="1065353216">Tier 3 Agent Unassembled Tokens</text>
+		<text bitflag="321" id1="117776" id2="194683" version="1065353216">Tier 3 Bounty Hunter Unassembled Tokens</text>
+		<text bitflag="321" id1="117777" id2="194683" version="1065353216">Tier 3 Warrior Unassembled Tokens</text>
+		<text bitflag="321" id1="117778" id2="194683" version="1065353216">Tier 3 Inquisitor Unassembled Tokens</text>
+		<text bitflag="321" id1="117779" id2="194683" version="1065353216">Tier 1 Consular Equipment</text>
+		<text bitflag="321" id1="117780" id2="194683" version="1065353216">Tier 1 Knight Equipment</text>
+		<text bitflag="321" id1="117781" id2="194683" version="1065353216">Tier 1 Smuggler Equipment</text>
+		<text bitflag="321" id1="117782" id2="194683" version="1065353216">Tier 1 Trooper Equipment</text>
+		<text bitflag="321" id1="117783" id2="194683" version="1065353216">Tier 2 Consular Equipment</text>
+		<text bitflag="321" id1="117784" id2="194683" version="1065353216">Tier 2 Knight Equipment</text>
+		<text bitflag="321" id1="117785" id2="194683" version="1065353216">Tier 2 Smuggler Equipment</text>
+		<text bitflag="321" id1="117786" id2="194683" version="1065353216">Tier 2 Trooper Equipment</text>
+		<text bitflag="321" id1="117787" id2="194683" version="1065353216">Tier 3 Consular Equipment</text>
+		<text bitflag="321" id1="117788" id2="194683" version="1065353216">Tier 3 Knight Equipment</text>
+		<text bitflag="321" id1="117789" id2="194683" version="1065353216">Tier 3 Smuggler Equipment</text>
+		<text bitflag="321" id1="117790" id2="194683" version="1065353216">Tier 3 Trooper Equipment</text>
+		<text bitflag="321" id1="117791" id2="194683" version="1065353216">Tier 2 Consular Unassembled Tokens</text>
+		<text bitflag="321" id1="117792" id2="194683" version="1065353216">Tier 2 Knight Unassembled Tokens</text>
+		<text bitflag="321" id1="117793" id2="194683" version="1065353216">Tier 2 Smuggler Unassembled Tokens</text>
+		<text bitflag="321" id1="117794" id2="194683" version="1065353216">Tier 2 Trooper Unassembled Tokens</text>
+		<text bitflag="321" id1="117795" id2="194683" version="1065353216">Tier 3 Consular Unassembled Tokens</text>
+		<text bitflag="321" id1="117796" id2="194683" version="1065353216">Tier 3 Knight Unassembled Tokens</text>
+		<text bitflag="321" id1="117797" id2="194683" version="1065353216">Tier 3 Smuggler Unassembled Tokens</text>
+		<text bitflag="321" id1="117798" id2="194683" version="1065353216">Tier 3 Trooper Unassembled Tokens</text>
+		<text bitflag="321" id1="117799" id2="194683" version="1065353216">Command Token Vendor</text>
+		<text bitflag="321" id1="117800" id2="194683" version="1065353216">Aivelesne Drone</text>
+		<text bitflag="321" id1="117801" id2="194683" version="1065353216">Tier 2 Artifact Gear (234)</text>
+		<text bitflag="321" id1="117802" id2="194683" version="1065353216">Tier 4 Artifact Gear (246)</text>
+		<text bitflag="321" id1="117803" id2="194683" version="1065353216">Tier 4 Premium Weapons (244)</text>
+		<text bitflag="321" id1="117804" id2="194683" version="1065353216">Augments (228/236/240) and Kits (Mk10)</text>
+		<text bitflag="321" id1="117805" id2="194683" version="1065353216">Tier 4 Consular Equipment</text>
+		<text bitflag="321" id1="117806" id2="194683" version="1065353216">Tier 4 Knight Equipment</text>
+		<text bitflag="321" id1="117807" id2="194683" version="1065353216">Tier 4 Smuggler Equipment</text>
+		<text bitflag="321" id1="117808" id2="194683" version="1065353216">Tier 4 Trooper Equipment</text>
+		<text bitflag="321" id1="117809" id2="194683" version="1065353216">Tier 4 Consular Unassembled Tokens</text>
+		<text bitflag="321" id1="117810" id2="194683" version="1065353216">Tier 4 Knight Unassembled Tokens</text>
+		<text bitflag="321" id1="117811" id2="194683" version="1065353216">Tier 4 Smuggler Unassembled Tokens</text>
+		<text bitflag="321" id1="117812" id2="194683" version="1065353216">Tier 4 Trooper Unassembled Tokens</text>
+		<text bitflag="321" id1="117813" id2="194683" version="1065353216">Tier 4 Agent Equipment</text>
+		<text bitflag="321" id1="117814" id2="194683" version="1065353216">Tier 4 Bounty Hunter Equipment</text>
+		<text bitflag="321" id1="117815" id2="194683" version="1065353216">Tier 4 Warrior Equipment</text>
+		<text bitflag="321" id1="117816" id2="194683" version="1065353216">Tier 4 Inquisitor Equipment</text>
+		<text bitflag="321" id1="117817" id2="194683" version="1065353216">Tier 4 Agent Unassembled Tokens</text>
+		<text bitflag="321" id1="117818" id2="194683" version="1065353216">Tier 4 Bounty Hunter Unassembled Tokens</text>
+		<text bitflag="321" id1="117819" id2="194683" version="1065353216">Tier 4 Warrior Unassembled Tokens</text>
+		<text bitflag="321" id1="117820" id2="194683" version="1065353216">Tier 4 Inquisitor Unassembled Tokens</text>
+		<text bitflag="321" id1="117821" id2="194683" version="1065353216">Unassembled Piece Reclaimer</text>
+		<text bitflag="321" id1="117822" id2="194683" version="1065353216">Repository Core</text>
+		<text bitflag="321" id1="117823" id2="194683" version="1065353216">Pit Boss</text>
+		<text bitflag="321" id1="117824" id2="194683" version="1065353216">Son of Shadow</text>
+		<text bitflag="321" id1="117825" id2="194683" version="1065353216">Recovered Goods Vendor</text>
+		<text bitflag="321" id1="117826" id2="194683" version="1065353216">Advanced Biochemist Research</text>
+		<text bitflag="321" id1="117827" id2="194683" version="1065353216">Train Enthusiast</text>
+		<text bitflag="321" id1="117828" id2="194683" version="1065353216">Companion Customization Importer</text>
+		<text bitflag="321" id1="117829" id2="194683" version="1065353216">Grenade Vendor</text>
+		<text bitflag="321" id1="117830" id2="194683" version="1065353216">Mother of Sorrows</text>
+		<text bitflag="321" id1="117831" id2="194683" version="1065353216">Tier 4 Legendary Gear (248)</text>
+		<text bitflag="321" id1="117832" id2="194683" version="1065353216">Conquest Rewards</text>
+		<text bitflag="321" id1="117833" id2="194683" version="1065353216">Iokath Quartermaster</text>
+		<text bitflag="321" id1="117834" id2="194683" version="1065353216">Scyva's Consciousness</text>
+		<text bitflag="321" id1="117835" id2="194683" version="1065353216">Underworld Exchange</text>
+		<text bitflag="321" id1="117836" id2="194683" version="1065353216">Underworld Exchange: Strongholds</text>
+		<text bitflag="321" id1="117837" id2="194683" version="1065353216">Underworld Exchange: Starfighter</text>
+		<text bitflag="321" id1="117841" id2="194683" version="1065353216">Imperial Commander</text>
+		<text bitflag="321" id1="117842" id2="194683" version="1065353216">Reputation Vendor: Decorations</text>
+		<text bitflag="321" id1="117843" id2="194683" version="1065353216">Equipment Vendor</text>
+		<text bitflag="321" id1="117844" id2="194683" version="1065353216">Masterwork Vendor</text>
+		<text bitflag="321" id1="117845" id2="194683" version="1065353216">Ossus Colonization Initiative</text>
+		<text bitflag="321" id1="117846" id2="194683" version="1065353216">Ossus Assault Battalion</text>
+		<text bitflag="321" id1="117847" id2="194683" version="1065353216">Tier 5 Artifact Gear (252)</text>
+		<text bitflag="321" id1="117848" id2="194683" version="1065353216">Tier 5 Legendary Gear (258)</text>
+		<text bitflag="321" id1="117849" id2="194683" version="1065353216">Tier 3 Artifact Gear (240)</text>
+		<text bitflag="321" id1="117853" id2="194683" version="1065353216">Tier 4 Legendary Gear (248)</text>
+		<text bitflag="321" id1="117854" id2="194683" version="1065353216">Tier 4 Legendary Components (248)</text>
+		<text bitflag="321" id1="117855" id2="194683" version="1065353216">Tier 5 Legendary Components (258) on the Go</text>
+		<text bitflag="321" id1="117856" id2="194683" version="1065353216">Tier 1 Artifact Gear (230)</text>
+		<text bitflag="321" id1="117857" id2="194683" version="1065353216">Masterwork Crystal Smuggler</text>
+		<text bitflag="321" id1="117858" id2="194683" version="1065353216">Time Limited Missions</text>
+		<text bitflag="321" id1="117859" id2="194683" version="1065353216">Guild Flagship Components (PTS)</text>
+	</file_content>
+</stb_file>

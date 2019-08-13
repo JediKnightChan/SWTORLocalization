@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/ilum/republic/dg_93.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="198716" id2="17" version="1065353216">Darth Malgus won't take Ilum, will he?</text>
+		<text bitflag="1345" id1="198719" id2="17" version="1065353216">Go right in, Master Jedi. Captain Cantarus is ready to take you to the front lines.</text>
+		<text bitflag="1345" id1="198721" id2="17" version="1065353216">Good, you're here! Captain Cantarus is eager to depart.</text>
+		<text bitflag="1345" id1="198723" id2="17" version="1065353216">I'm afraid Republic defenses are struggling to hold against Darth Malgus's invasion. Do be careful!</text>
+		<text bitflag="1360" id1="198724" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1345" id1="198725" id2="17" version="1065353216">I'm afraid this hangar is restricted.</text>
+		<text bitflag="1360" id1="987571" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="987576" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987581" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="987582" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="1345" id1="1169931" id2="17" version="1065353216">Darth Malgus won't take Ilum, will he?</text>
+		<text bitflag="1360" id1="1170004" id2="17" version="1065353216">[Start Story Mode]</text>
+	</file_content>
+</stb_file>

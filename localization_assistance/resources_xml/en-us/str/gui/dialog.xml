@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>350</strs>
+		<file_name>/resources/en-us/str/gui/dialog.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="222239" version="1065353216">ACCEPT</text>
+		<text bitflag="321" id1="2" id2="222239" version="1065353216">DECLINE</text>
+		<text bitflag="321" id1="3" id2="222239" version="1065353216">CLOSE</text>
+		<text bitflag="321" id1="4" id2="222239" version="1065353216">Logging out in an unsafe area</text>
+		<text bitflag="321" id1="5" id2="222239" version="1065353216">Logging out due to inactivity</text>
+		<text bitflag="321" id1="6" id2="222239" version="1065353216">LOGGING OUT</text>
+		<text bitflag="321" id1="7" id2="222239" version="1065353216">Quitting in an unsafe area</text>
+		<text bitflag="321" id1="8" id2="222239" version="1065353216">Quitting</text>
+		<text bitflag="321" id1="9" id2="222239" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="10" id2="222239" version="1065353216">IMMEDIATE</text>
+		<text bitflag="321" id1="11" id2="222239" version="1065353216">Are you sure you want to log out of the game?</text>
+		<text bitflag="321" id1="12" id2="222239" version="1065353216">Are you sure you want to quit the game?</text>
+		<text bitflag="321" id1="13" id2="222239" version="1065353216">Yes</text>
+		<text bitflag="321" id1="14" id2="222239" version="1065353216">No</text>
+		<text bitflag="321" id1="15" id2="222239" version="1065353216">Cannot enter the flashpoint. Group leader must have the mission.</text>
+		<text bitflag="321" id1="16" id2="222239" version="1065353216">Are you sure you want to sell all the gray items in your inventory?</text>
+		<text bitflag="321" id1="17" id2="222239" version="1065353216">&lt;&lt;1&gt;&gt; would like to trade with you.</text>
+		<text bitflag="321" id1="18" id2="222239" version="1065353216">A flashpoint cannot be entered while group members inside are in combat or in conversation.</text>
+		<text bitflag="321" id1="19" id2="222239" version="1065353216">This phase cannot be entered while group members inside are in combat or in conversation.</text>
+		<text bitflag="321" id1="20" id2="222239" version="1065353216">LEGACY NAME CONFIRMATION</text>
+		<text bitflag="321" id1="21" id2="222239" version="1065353216">Your legacy surname will be shared among all characters on this server, although you may choose to not display it.&lt;br&gt;&lt;br&gt;Confirm legacy name:</text>
+		<text bitflag="321" id1="22" id2="222239" version="1065353216">CONFIRM</text>
+		<text bitflag="321" id1="23" id2="222239" version="1065353216">A browser window will be opened to SWTOR.com.&lt;br&gt;&lt;br&gt;If your game window is fullscreen, it will minimize.</text>
+		<text bitflag="321" id1="24" id2="222239" version="1065353216">You do not have enough Credits in Escrow for this transfer.</text>
+		<text bitflag="321" id1="25" id2="222239" version="1065353216">You do not have enough Cartel Coins for this purchase.</text>
+		<text bitflag="321" id1="26" id2="222239" version="1065353216">Click here to view this item in the Cartel Market.</text>
+		<text bitflag="321" id1="27" id2="222239" version="1065353216">VIEW</text>
+		<text bitflag="321" id1="28" id2="222239" version="1065353216">RESTART REQUIRED</text>
+		<text bitflag="321" id1="29" id2="222239" version="1065353216">You must re-launch the game for some settings to take effect</text>
+		<text bitflag="321" id1="100" id2="222239" version="1065353216">You can currently only friend nearby players</text>
+		<text bitflag="321" id1="101" id2="222239" version="1065353216">Cannot Friend yourself</text>
+		<text bitflag="321" id1="102" id2="222239" version="1065353216">Cannot Friend NPCs</text>
+		<text bitflag="321" id1="103" id2="222239" version="1065353216">Cannot Friend players of that Faction</text>
+		<text bitflag="321" id1="104" id2="222239" version="1065353216">Your Friends list is full. Remove friends before attempting to add others.</text>
+		<text bitflag="321" id1="105" id2="222239" version="1065353216">Please select another player to remove from your Friends list</text>
+		<text bitflag="321" id1="106" id2="222239" version="1065353216">Your Friend was not found online.</text>
+		<text bitflag="321" id1="200" id2="222239" version="1065353216">You can currently only Ignore nearby players</text>
+		<text bitflag="321" id1="201" id2="222239" version="1065353216">Cannot Ignore yourself</text>
+		<text bitflag="321" id1="202" id2="222239" version="1065353216">Cannot Ignore NPCs</text>
+		<text bitflag="321" id1="204" id2="222239" version="1065353216">You cannot Ignore any more players</text>
+		<text bitflag="321" id1="205" id2="222239" version="1065353216">Please select another player to remove from your Ignore list</text>
+		<text bitflag="321" id1="206" id2="222239" version="1065353216">That player is not online.</text>
+		<text bitflag="321" id1="300" id2="222239" version="1065353216">OK</text>
+		<text bitflag="321" id1="301" id2="222239" version="1065353216">ERROR</text>
+		<text bitflag="321" id1="302" id2="222239" version="1065353216">BIND ERROR</text>
+		<text bitflag="321" id1="303" id2="222239" version="1065353216">BIND POINT</text>
+		<text bitflag="321" id1="304" id2="222239" version="1065353216">MESSAGE OF THE DAY</text>
+		<text bitflag="321" id1="305" id2="222239" version="1065353216">GUILD INVITE</text>
+		<text bitflag="321" id1="306" id2="222239" version="1065353216">REMOVE RANK</text>
+		<text bitflag="321" id1="307" id2="222239" version="1065353216">FLASHPOINT</text>
+		<text bitflag="321" id1="308" id2="222239" version="1065353216">QUIT</text>
+		<text bitflag="321" id1="309" id2="222239" version="1065353216">LOGOUT</text>
+		<text bitflag="321" id1="310" id2="222239" version="1065353216">SELL JUNK</text>
+		<text bitflag="321" id1="311" id2="222239" version="1065353216">WAIT!</text>
+		<text bitflag="321" id1="312" id2="222239" version="1065353216">GROUP INVITE</text>
+		<text bitflag="321" id1="313" id2="222239" version="1065353216">ABANDON DISCIPLINE</text>
+		<text bitflag="321" id1="314" id2="222239" version="1065353216">SPACE COMBAT</text>
+		<text bitflag="321" id1="315" id2="222239" version="1065353216">WARNING</text>
+		<text bitflag="321" id1="316" id2="222239" version="1065353216">MAIL</text>
+		<text bitflag="321" id1="317" id2="222239" version="1065353216">DUEL</text>
+		<text bitflag="321" id1="318" id2="222239" version="1065353216">TRADE</text>
+		<text bitflag="321" id1="319" id2="222239" version="1065353216">Pay</text>
+		<text bitflag="321" id1="320" id2="222239" version="1065353216">The cost to abandon your discipline is: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="321" id2="222239" version="1065353216">You have not set a discipline.</text>
+		<text bitflag="321" id1="322" id2="222239" version="1065353216">You must select one of your reward items.</text>
+		<text bitflag="321" id1="323" id2="222239" version="1065353216">Are you sure you want to abandon this mission?</text>
+		<text bitflag="321" id1="324" id2="222239" version="1065353216">Abandon</text>
+		<text bitflag="321" id1="325" id2="222239" version="1065353216">HELP</text>
+		<text bitflag="321" id1="326" id2="222239" version="1065353216">NEW RANK</text>
+		<text bitflag="321" id1="327" id2="222239" version="1065353216">Name the new Guild rank:</text>
+		<text bitflag="321" id1="328" id2="222239" version="1065353216">Crafting Request</text>
+		<text bitflag="321" id1="329" id2="222239" version="1065353216">SYNCHRONIZE?</text>
+		<text bitflag="321" id1="330" id2="222239" version="1065353216">SYNCHRONIZE</text>
+		<text bitflag="321" id1="331" id2="222239" version="1065353216">NO</text>
+		<text bitflag="321" id1="332" id2="222239" version="1065353216">Entering this flashpoint will synchronize your mission status.</text>
+		<text bitflag="321" id1="333" id2="222239" version="1065353216">You must be in an ops group.</text>
+		<text bitflag="321" id1="334" id2="222239" version="1065353216">You cannot enter or re-enter while players inside are engaged in a boss fight. You will be able to enter or re-enter after the fight finishes.</text>
+		<text bitflag="321" id1="335" id2="222239" version="1065353216">Are you sure you want to transfer leadership of the guild to &lt;&lt;1&gt;&gt;?</text>
+		<text bitflag="321" id1="336" id2="222239" version="1065353216">Cannot log out while in combat!</text>
+		<text bitflag="321" id1="337" id2="222239" version="1065353216">Cannot quit while in combat!</text>
+		<text bitflag="321" id1="338" id2="222239" version="1065353216">You cannot afford to abandon your discipline. 
+
+The cost is: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="339" id2="222239" version="1065353216">Group Invite Attempt</text>
+		<text bitflag="321" id1="340" id2="222239" version="1065353216">&lt;&lt;1&gt;&gt; is trying to invite you to their group, but you both have an active flashpoint or operation. Would you like to reset it?</text>
+		<text bitflag="321" id1="341" id2="222239" version="1065353216">WARNING: You will pass ownership of your group to the new leader.</text>
+		<text bitflag="321" id1="342" id2="222239" version="1065353216">Reset</text>
+		<text bitflag="321" id1="343" id2="222239" version="1065353216">Reset</text>
+		<text bitflag="321" id1="344" id2="222239" version="1065353216">Are you sure you want to reset this mission?</text>
+		<text bitflag="321" id1="345" id2="222239" version="1065353216">The group leader must reset the current flashpoint before a new one can be started. Right-click your portrait and select the Phase option 'Reset All Active Flashpoints.'</text>
+		<text bitflag="321" id1="346" id2="222239" version="1065353216">The Operation is at capacity. You can either wait for a member to exit the instance, or join a new Ops Group.</text>
+		<text bitflag="321" id1="347" id2="222239" version="1065353216">Cannot reset. Players still inside:</text>
+		<text bitflag="321" id1="348" id2="222239" version="1065353216">Your instance has been reset too recently.</text>
+		<text bitflag="321" id1="349" id2="222239" version="1065353216">Your progress is currently farther along than the ops group's progress.</text>
+		<text bitflag="321" id1="350" id2="222239" version="1065353216">Warning: The ops group's saved progress is farther along than yours. However, you CAN still enter, and your saved progress WILL NOT be changed until you defeat a boss.</text>
+		<text bitflag="321" id1="351" id2="222239" version="1065353216">Your skill points have been refunded.</text>
+		<text bitflag="321" id1="352" id2="222239" version="1065353216">GUILD NOTE</text>
+		<text bitflag="321" id1="353" id2="222239" version="1065353216">Enter new Member note for &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="354" id2="222239" version="1065353216">Enter new Officer note for &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="355" id2="222239" version="1065353216">You must reset your active flashpoint before you can change the difficulty.</text>
+		<text bitflag="321" id1="356" id2="222239" version="1065353216">Reset Flashpoint</text>
+		<text bitflag="321" id1="357" id2="222239" version="1065353216">Do not ask again</text>
+		<text bitflag="321" id1="358" id2="222239" version="1065353216">You must reset your active ops group before you can change the ops size.</text>
+		<text bitflag="321" id1="359" id2="222239" version="1065353216">Logging out now will eject some of your group members from the phase they are in. Are you sure?</text>
+		<text bitflag="321" id1="360" id2="222239" version="1065353216">PVP MATCH</text>
+		<text bitflag="321" id1="361" id2="222239" version="1065353216">Traveling to your match now will eject some of your group members from the phase they are in. Are you sure?</text>
+		<text bitflag="321" id1="362" id2="222239" version="1065353216">A server error has occurred. Please follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="363" id2="222239" version="1065353216">There was an error loading your account. Please visit www.swtor.com/support to contact our Customer Service Team.</text>
+		<text bitflag="321" id1="364" id2="222239" version="1065353216">Your account has been disconnected. Please follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="365" id2="222239" version="1065353216">You cannot change the ops difficulty while in combat.</text>
+		<text bitflag="321" id1="366" id2="222239" version="1065353216">Server Error (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="367" id2="222239" version="1065353216">Your account has been disconnected. Please follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="368" id2="222239" version="1065353216">The character name you have chosen is unavailable. Please choose a different name.</text>
+		<text bitflag="321" id1="369" id2="222239" version="1065353216">You have reached the maximum number of characters permitted on this account. Please follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="370" id2="222239" version="1065353216">A login error has occurred. If this problem persists, please visit www.swtor.com/support to contact our Customer Service Team.</text>
+		<text bitflag="321" id1="371" id2="222239" version="1065353216">A login error has occurred. If this problem persists, please visit www.swtor.com/support to contact our Customer Service Team.</text>
+		<text bitflag="321" id1="372" id2="222239" version="1065353216">A connection error has occurred. If this problem persists, please visit www.swtor.com/support to contact our Customer Service Team.</text>
+		<text bitflag="321" id1="373" id2="222239" version="1065353216">A login error has occurred. If this problem persists, please visit www.swtor.com/support to contact our Customer Service Team.</text>
+		<text bitflag="321" id1="374" id2="222239" version="1065353216">The server is currently unavailable. If this problem persists, please visit www.swtor.com/support to contact our Customer Service Team.</text>
+		<text bitflag="321" id1="375" id2="222239" version="1065353216">Your current game version does not match the server's, please restart the game. Follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="376" id2="222239" version="1065353216">A connection error has occurred. If this problem persists, please visit www.swtor.com/support to contact our Customer Service Team.</text>
+		<text bitflag="321" id1="377" id2="222239" version="1065353216">This account is blacklisted. Please follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="378" id2="222239" version="1065353216">This account is not authorized to connect to our servers. Please follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="379" id2="222239" version="1065353216">This server is currently unavailable. If this problem persists, please visit www.swtor.com/support to contact our Customer Service Team.</text>
+		<text bitflag="321" id1="380" id2="222239" version="1065353216">Your connection to the server has been lost. If this problem persists, please visit www.swtor.com/support to contact our Customer Service Team.</text>
+		<text bitflag="321" id1="381" id2="222239" version="1065353216">Enter Now</text>
+		<text bitflag="321" id1="382" id2="222239" version="1065353216">EXTRACTION</text>
+		<text bitflag="321" id1="383" id2="222239" version="1065353216">Extracting this item modification will cost &lt;&lt;1&gt;&gt; credits. Proceed?</text>
+		<text bitflag="321" id1="384" id2="222239" version="1065353216">Error Code: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="385" id2="222239" version="1065353216">More Info.</text>
+		<text bitflag="321" id1="386" id2="222239" version="1065353216">Cinematics</text>
+		<text bitflag="321" id1="387" id2="222239" version="1065353216">HOPE</text>
+		<text bitflag="321" id1="388" id2="222239" version="1065353216">DECEIVED</text>
+		<text bitflag="321" id1="389" id2="222239" version="1065353216">RETURN</text>
+		<text bitflag="321" id1="390" id2="222239" version="1065353216">CREW SKILLS</text>
+		<text bitflag="321" id1="391" id2="222239" version="1065353216">Display Settings</text>
+		<text bitflag="321" id1="392" id2="222239" version="1065353216">Do you want to keep these display settings?</text>
+		<text bitflag="321" id1="393" id2="222239" version="1065353216">Keep changes</text>
+		<text bitflag="321" id1="394" id2="222239" version="1065353216">Revert</text>
+		<text bitflag="321" id1="395" id2="222239" version="1065353216">Use Guild Funds &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5356" id2="222239" version="1065353216">Abort for All</text>
+		<text bitflag="321" id1="5357" id2="222239" version="1065353216">Escape Conversation</text>
+		<text bitflag="321" id1="5358" id2="222239" version="1065353216">Are you sure you wish to leave the conversation?</text>
+		<text bitflag="321" id1="5359" id2="222239" version="1065353216">EXIT CONVERSATION?</text>
+		<text bitflag="321" id1="5360" id2="222239" version="1065353216">Leave Phase</text>
+		<text bitflag="321" id1="5365" id2="222239" version="1065353216">&lt;&lt;1&gt;&gt; is trying to invite you to their group, but you cannot join because you have conflicting group phases with other members of this group. Reset your local phases.</text>
+		<text bitflag="321" id1="5366" id2="222239" version="1065353216">&lt;&lt;1&gt;&gt; is trying to invite you to an ops group, but you cannot join while you are inside a group phase.</text>
+		<text bitflag="321" id1="5367" id2="222239" version="1065353216">Your group leader has selected a different difficulty mode than you. You must have the same mission as the group leader to enter this flashpoint</text>
+		<text bitflag="321" id1="5368" id2="222239" version="1065353216">You have an active version of this flashpoint with a different difficulty mode than you have selected.  Reset the flashpoint or select a mission with the same difficulty mode.</text>
+		<text bitflag="321" id1="5369" id2="222239" version="1065353216">You are not eligible to name your legacy!</text>
+		<text bitflag="321" id1="5370" id2="222239" version="1065353216">You are not eligible to rename your legacy!</text>
+		<text bitflag="321" id1="5371" id2="222239" version="1065353216">You cannot switch instances while engaged in combat.</text>
+		<text bitflag="321" id1="5372" id2="222239" version="1065353216">You cannot switch area instances while in a story area.</text>
+		<text bitflag="321" id1="5373" id2="222239" version="1065353216">You cannot switch instances while falling.</text>
+		<text bitflag="321" id1="5374" id2="222239" version="1065353216">You cannot switch instances while in an unsafe location.</text>
+		<text bitflag="321" id1="5375" id2="222239" version="1065353216">You cannot switch instances while in a PvP Objective Zone.</text>
+		<text bitflag="321" id1="5376" id2="222239" version="1065353216">You cannot switch instances while in a flashpoint.</text>
+		<text bitflag="321" id1="5377" id2="222239" version="1065353216">You cannot switch instances while in a warzone.</text>
+		<text bitflag="321" id1="5378" id2="222239" version="1065353216">You cannot switch instances while in a space combat mission.</text>
+		<text bitflag="321" id1="5379" id2="222239" version="1065353216">You cannot switch instances while in an operation.</text>
+		<text bitflag="321" id1="5380" id2="222239" version="1065353216">You cannot switch instances while in a player's ship.</text>
+		<text bitflag="321" id1="5381" id2="222239" version="1065353216">You cannot switch instances until &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="5382" id2="222239" version="1065353216">You must be level &lt;&lt;1&gt;&gt; to enter an Operation.</text>
+		<text bitflag="321" id1="5383" id2="222239" version="1065353216">That Legacy name is not valid!  Please try a different name.</text>
+		<text bitflag="321" id1="5384" id2="222239" version="1065353216">That Legacy name is already in use. Please try a different name.</text>
+		<text bitflag="321" id1="5389" id2="222239" version="1065353216">You have reached the character limit for this server.  To create a new character, you must delete &lt;&lt;1[/$d character/$d characters]&gt;&gt;.</text>
+		<text bitflag="321" id1="5390" id2="222239" version="1065353216">DISCONNECTED FROM SERVER</text>
+		<text bitflag="321" id1="5391" id2="222239" version="1065353216">You have been logged out due to inactivity. Follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="5392" id2="222239" version="1065353216">Unable to authenticate, please restart the game. Follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="5393" id2="222239" version="1065353216">Unable to retrieve server list. Please follow the Help Center link below for more information.  If the problem persists, the game client will be closed.</text>
+		<text bitflag="321" id1="5394" id2="222239" version="1065353216">MAXIMUM CHARACTERS REACHED</text>
+		<text bitflag="321" id1="5395" id2="222239" version="1065353216">MAXIMUM CHARACTERS EXCEEDED</text>
+		<text bitflag="321" id1="5396" id2="222239" version="1065353216">You have characters in excess of the character limit for your account across all servers. To create a new character, you must first delete &lt;&lt;1[/$d character/$d characters]&gt;&gt;.</text>
+		<text bitflag="321" id1="5397" id2="222239" version="1065353216">You have characters in excess of the character limit for your account across all servers. To create a new character, you must first delete &lt;&lt;1[/$d character/$d characters]&gt;&gt;.</text>
+		<text bitflag="321" id1="5398" id2="222239" version="1065353216">You cannot enter while in an ops group.</text>
+		<text bitflag="321" id1="5399" id2="222239" version="1065353216">Are you sure you want to abandon this mission? You may not be able to re-obtain it in the future.</text>
+		<text bitflag="321" id1="5400" id2="222239" version="1065353216">Are you sure you would like to make this purchase for the following cost:&lt;br&gt;&lt;br&gt;&lt;&lt;1&gt;&gt; Credits&lt;br&gt;&lt;br&gt;This transaction is final, do you want to proceed?</text>
+		<text bitflag="321" id1="5401" id2="222239" version="1065353216">CONFIRM PURCHASE</text>
+		<text bitflag="321" id1="5402" id2="222239" version="1065353216">The guild cannot be disbanded while items or credits remain in the guild bank.</text>
+		<text bitflag="321" id1="5403" id2="222239" version="1065353216">You have characters in excess of the character limit for this server.  To create a new character, you must first delete &lt;&lt;1[/$d character/$d characters]&gt;&gt;.</text>
+		<text bitflag="321" id1="5404" id2="222239" version="1065353216">Looking to explore more exotic worlds in The Old Republic™ universe?  Visit &lt;hl lid=&quot;BFBB&quot; &gt;  to change from a trial account to an active  account and start exploring today!</text>
+		<text bitflag="321" id1="5405" id2="222239" version="1065353216">DOWNLOAD IN PROGRESS</text>
+		<text bitflag="321" id1="5406" id2="222239" version="1065353216">NOTIFICATION</text>
+		<text bitflag="321" id1="5407" id2="222239" version="1065353216">Master Mode is not yet available for this instance.</text>
+		<text bitflag="321" id1="5415" id2="222239" version="1065353216">Channel Invite</text>
+		<text bitflag="321" id1="5416" id2="222239" version="1065353216">&lt;&lt;1&gt;&gt; has invited you to join the chat channel &quot;&lt;&lt;2&gt;&gt;&quot;. Would you like to join?</text>
+		<text bitflag="321" id1="5417" id2="222239" version="1065353216">Channel Join</text>
+		<text bitflag="321" id1="5418" id2="222239" version="1065353216">Enter Password:</text>
+		<text bitflag="321" id1="5419" id2="222239" version="1065353216">This will permanently bind &lt;&lt;1&gt;&gt; to you. Proceed?</text>
+		<text bitflag="321" id1="5420" id2="222239" version="1065353216">This will permanently bind &lt;&lt;1&gt;&gt; and &lt;&lt;2&gt;&gt; to you. Proceed?</text>
+		<text bitflag="321" id1="5421" id2="222239" version="1065353216">Listing &lt;&lt;1&gt;&gt; on the Global Trade Network will prevent the item from being sold for the original purchase price. Proceed?</text>
+		<text bitflag="321" id1="5422" id2="222239" version="1065353216">Mailing &lt;&lt;1&gt;&gt; will prevent it from being sold for the original purchase price. Proceed?</text>
+		<text bitflag="321" id1="5423" id2="222239" version="1065353216">Mailing &lt;&lt;1&gt;&gt; will prevent it from being traded to other eligible characters. Proceed?</text>
+		<text bitflag="321" id1="5424" id2="222239" version="1065353216">Trading &lt;&lt;1&gt;&gt; will prevent it from being sold for the original purchase price. Proceed?</text>
+		<text bitflag="321" id1="5425" id2="222239" version="1065353216">Opening &lt;&lt;1&gt;&gt; will prevent you from selling the item for the original purchase price. Proceed?</text>
+		<text bitflag="321" id1="5426" id2="222239" version="1065353216">Opening &lt;&lt;1&gt;&gt; will prevent you from trading the item to other eligible characters. Proceed?</text>
+		<text bitflag="321" id1="5427" id2="222239" version="1065353216">Extracting this item will cost &lt;&lt;1&gt;&gt; and permanently bind &lt;&lt;2&gt;&gt; to you. Proceed?</text>
+		<text bitflag="321" id1="5429" id2="222239" version="1065353216">Placing &lt;&lt;1&gt;&gt; in the Guild Bank will prevent it from being sold for the original purchase price. Proceed?</text>
+		<text bitflag="321" id1="5430" id2="222239" version="1065353216">Selling &lt;&lt;1&gt;&gt; will result in the following currencies exceeding their maximum cap: &lt;&lt;2&gt;&gt; 
+
+Any currency over the cap will be lost. Proceed?</text>
+		<text bitflag="321" id1="5431" id2="222239" version="1065353216">The action you are about to perform will bind this item to you. Are you sure you want to continue?</text>
+		<text bitflag="321" id1="5432" id2="222239" version="1065353216">Your characters on this server are currently unavailable due to maintenance. Please try again at a later time.</text>
+		<text bitflag="321" id1="5433" id2="222239" version="1065353216">Your account has been disconnected due to an active character transfer. Please follow the Help Center link below for more information.</text>
+		<text bitflag="321" id1="5434" id2="222239" version="1065353216">NOTICE</text>
+		<text bitflag="321" id1="5435" id2="222239" version="1065353216">With the implementation of higher population tech for our servers and the merging of origin server characters to destination servers, there will now be many more players on each of the new High Population Servers. This allows for us to provide the best gameplay experience for our players. 
+
+If you have been moved from an Origin server, your new server will be noted in the name plate above. As a result of this migration, some characters may need to be renamed in order to prevent naming conflicts. If one of your characters requires a name change, you will see a red exclamation point by your character's name. 
+
+We apologize for any inconvenience that this may cause, but rest assured that several factors have been taken into consideration where naming conflicts occur. For more information on our new High Population Servers, please visit www.swtor.com/transfer .</text>
+		<text bitflag="321" id1="5436" id2="222239" version="1065353216">You have reached the limit for Activated Characters and cannot create additional characters.</text>
+		<text bitflag="321" id1="5438" id2="222239" version="1065353216">Cannot reset or abandon mission - you have reached the maximum number of times you are allowed to do this for the day.</text>
+		<text bitflag="321" id1="5439" id2="222239" version="1065353216">Free-to-Play Players may not send mail. Subscribers and Players with Preferred Status can send mail to other players.</text>
+		<text bitflag="321" id1="5444" id2="222239" version="1065353216">Are you sure you want to transfer leadership of the guild to &lt;&lt;1&gt;&gt;? 
+
+The guild will be downgraded to a Free-to-Play Player Guild with &lt;&lt;1&gt;&gt; as Leader.</text>
+		<text bitflag="321" id1="5445" id2="222239" version="1065353216">Space Battle</text>
+		<text bitflag="321" id1="5446" id2="222239" version="1065353216">You have reached your weekly allowance of Space Battles.</text>
+		<text bitflag="321" id1="5447" id2="222239" version="1065353216">A weekly pass for unlimited Space Battle access is found in the Cartel Market.</text>
+		<text bitflag="321" id1="5448" id2="222239" version="1065353216">Operation</text>
+		<text bitflag="321" id1="5449" id2="222239" version="1065353216">Free-to-Play Players are not authorized to participate in Operations.</text>
+		<text bitflag="321" id1="5450" id2="222239" version="1065353216">A pass to access Operations for a week is available in the Cartel Market.</text>
+		<text bitflag="321" id1="5451" id2="222239" version="1065353216">Warzone</text>
+		<text bitflag="321" id1="5452" id2="222239" version="1065353216">You have reached your weekly allowance of Warzones.</text>
+		<text bitflag="321" id1="5453" id2="222239" version="1065353216">A pass to access unlimited non-ranked Warzones for a week is available in the Cartel Market.</text>
+		<text bitflag="321" id1="5454" id2="222239" version="1065353216">Ranked Warzone</text>
+		<text bitflag="321" id1="5455" id2="222239" version="1065353216">You have reached your weekly allowance of Ranked Warzones.</text>
+		<text bitflag="321" id1="5456" id2="222239" version="1065353216">A pass to access unlimited non-ranked Warzones for a week is available in the Cartel Market.</text>
+		<text bitflag="321" id1="5457" id2="222239" version="1065353216">Loot</text>
+		<text bitflag="321" id1="5458" id2="222239" version="1065353216">You have reached your weekly allowance of Flashpoint loot, and will automatically pass on this loot.</text>
+		<text bitflag="321" id1="5459" id2="222239" version="1065353216">A weekly pass for unlimited Flashpoint loot rolls is found in the Cartel Market.</text>
+		<text bitflag="321" id1="5460" id2="222239" version="1065353216">You have reached your weekly allowance of Flashpoint loot, and will be skipped in the Round Robin loot distribution.</text>
+		<text bitflag="321" id1="5461" id2="222239" version="1065353216">A weekly pass for unlimited Flashpoint loot rolls is found in the Cartel Market.</text>
+		<text bitflag="321" id1="5462" id2="222239" version="1065353216">A browser window will be opened to SWTOR.com to finalize your Cartel Coin purchase.&lt;br&gt;&lt;br&gt;If your game window is fullscreen, it will minimize.</text>
+		<text bitflag="321" id1="5463" id2="222239" version="1065353216">A browser window will be opened to SWTOR.com.&lt;br&gt;&lt;br&gt;If your game window is fullscreen, it will minimize.</text>
+		<text bitflag="321" id1="5464" id2="222239" version="1065353216">EXTERNAL WEB PAGE</text>
+		<text bitflag="321" id1="5466" id2="222239" version="1065353216">The price of this item is increased for Free-to-Play Players.</text>
+		<text bitflag="321" id1="5467" id2="222239" version="1065353216">To continue playing this character, you must validate an email address for your account. You may validate your email by visiting &lt;hl lid=&quot;BFBH&quot; &gt;.</text>
+		<text bitflag="321" id1="5471" id2="222239" version="1065353216">Experience Changes</text>
+		<text bitflag="321" id1="5472" id2="222239" version="1065353216">Free-to-Play Players begin gaining reduced Experience and Valor Points at level 20. Experience reductions can be offset using Experience Boost items found in the Cartel Market.</text>
+		<text bitflag="321" id1="5473" id2="222239" version="1065353216">Subscribers gain Experience Points faster!</text>
+		<text bitflag="321" id1="5475" id2="222239" version="1065353216">Click here for information on the benefits of becoming a Subscriber.</text>
+		<text bitflag="321" id1="5476" id2="222239" version="1065353216">Your skill points have been refunded at no cost because you are a Subscriber.</text>
+		<text bitflag="321" id1="5477" id2="222239" version="1065353216">Set Bonus Notification</text>
+		<text bitflag="321" id1="5478" id2="222239" version="1065353216">Applying enhancement will destroy the set bonus that is currently on the item.</text>
+		<text bitflag="321" id1="5479" id2="222239" version="1065353216">Please go to &lt;hl lid=&quot;BFBK&quot; &gt; to purchase the Rise of the Hutt Cartel Expansion</text>
+		<text bitflag="321" id1="5480" id2="222239" version="1065353216">CHARACTER RENAME</text>
+		<text bitflag="321" id1="5481" id2="222239" version="1065353216">Enter a new name for your character.
+
+NOTE: Changes may not be reflected in chat until this character logs out.</text>
+		<text bitflag="321" id1="5482" id2="222239" version="1065353216">CONFIRM</text>
+		<text bitflag="321" id1="5483" id2="222239" version="1065353216">LEGACY RENAME</text>
+		<text bitflag="321" id1="5484" id2="222239" version="1065353216">Enter a new name for your Legacy. Legacy names do not have to be unique.</text>
+		<text bitflag="321" id1="5485" id2="222239" version="1065353216">GUILD RENAME</text>
+		<text bitflag="321" id1="5486" id2="222239" version="1065353216">Enter a new name for you guild.</text>
+		<text bitflag="321" id1="5487" id2="222239" version="1065353216">There is no cost to remove this modification, however the modification will be DESTROYED.&lt;br&gt;&lt;br&gt;Would you like to proceed?</text>
+		<text bitflag="321" id1="5488" id2="222239" version="1065353216">There is no cost to remove this modification, however the modification will be DESTROYED and permanently bind &lt;&lt;1&gt;&gt; to you. Would you like to proceed?</text>
+		<text bitflag="321" id1="5489" id2="222239" version="1065353216">CONFIRM</text>
+		<text bitflag="321" id1="5490" id2="222239" version="1065353216">View in Market</text>
+		<text bitflag="321" id1="5491" id2="222239" version="1065353216">Select the amount of Credits to transfer from your Escrow:</text>
+		<text bitflag="321" id1="5492" id2="222239" version="1065353216">SELECT TRANSFER AMOUNT</text>
+		<text bitflag="321" id1="5493" id2="222239" version="1065353216">CONFIRM TRANSFER</text>
+		<text bitflag="321" id1="5494" id2="222239" version="1065353216">Are you sure you wish to purchase this Escrow transfer?&lt;br&gt;&lt;br&gt;You are selecting to transfer more Credits than you currently have in Escrow.&lt;br&gt;Only your current Escrow balance of &lt;&lt;1&gt;&gt; Credits will be transferred.</text>
+		<text bitflag="321" id1="5496" id2="222239" version="1065353216">Until the game download is complete, you cannot travel to other planets. You may start a new character and play one of the other 7 class stories. (To create a new character press ESC, then Logout.)</text>
+		<text bitflag="321" id1="5497" id2="222239" version="1065353216">Are you sure you want to rename your character to &lt;&lt;1&gt;&gt;?</text>
+		<text bitflag="321" id1="5498" id2="222239" version="1065353216">Are you sure you want to rename your legacy to &lt;&lt;1&gt;&gt;?</text>
+		<text bitflag="321" id1="5499" id2="222239" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="5500" id2="222239" version="1065353216">To purchase Cartel Coins in-game, you must first enable your account by clicking the &lt;&lt;1&gt;&gt; button below. You may also click the &lt;&lt;2&gt;&gt;  button below to add Cartel Coins from the website.</text>
+		<text bitflag="321" id1="5501" id2="222239" version="1065353216">ADD COINS</text>
+		<text bitflag="321" id1="5502" id2="222239" version="1065353216">BUY COINS</text>
+		<text bitflag="321" id1="5503" id2="222239" version="1065353216">OPT IN</text>
+		<text bitflag="321" id1="5504" id2="222239" version="1065353216">BUY NOW</text>
+		<text bitflag="321" id1="5505" id2="222239" version="1065353216">CONFIRM</text>
+		<text bitflag="321" id1="5506" id2="222239" version="1065353216">Complete this purchase using: &lt;br&gt;</text>
+		<text bitflag="321" id1="5507" id2="222239" version="1065353216">ORDER PROCESSING</text>
+		<text bitflag="321" id1="5508" id2="222239" version="1065353216">I have read and accept the &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="5509" id2="222239" version="1065353216">SUCCESSFUL PURCHASE!</text>
+		<text bitflag="321" id1="5510" id2="222239" version="1065353216">MAKE ADDITIONAL PURCHASE</text>
+		<text bitflag="321" id1="5511" id2="222239" version="1065353216">Your purchase has completed successfully.  Cartel Coins have been added to your account.</text>
+		<text bitflag="321" id1="5513" id2="222239" version="1065353216">You must accept the terms of the Digital Service Agreement before continuing.</text>
+		<text bitflag="321" id1="5514" id2="222239" version="1065353216">Prices include tax</text>
+		<text bitflag="321" id1="5515" id2="222239" version="1065353216">REQUESTING DATA</text>
+		<text bitflag="321" id1="5522" id2="222239" version="1065353216">PURCHASE ERROR</text>
+		<text bitflag="321" id1="5523" id2="222239" version="1065353216">TRY PURCHASE AGAIN</text>
+		<text bitflag="321" id1="5524" id2="222239" version="1065353216">ENABLE</text>
+		<text bitflag="321" id1="5581" id2="222239" version="1065353216">&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;#B2EAFF&quot;&gt;In order to better serve you and help maintain the security of your account, all players must supply a valid email address to play high level characters.  An email validation can help you recover your account if you lose your password, and protect against account theft.   Entering a valid email address can be done at any time at your convenience, but is a requirement to play any character of &lt;font color=&quot;#FFBB29&quot;&gt;level 20&lt;/font&gt; or higher.
+
+To validate your email address, enter your email address below, click Validate, and then check your email and follow the instructions given there.  You may also do this later on your account page at &lt;hl lid=&quot;BFBH&quot; &gt;. 
+&lt;font color=&quot;#FFBB29&quot;&gt;&lt;p align=&quot;center&quot;&gt;Please enter your email address&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;</text>
+		<text bitflag="321" id1="5582" id2="222239" version="1065353216">If you have entered a valid and unused email then you will receive a verification email soon. Please check your email and follow the instructions before playing your character again</text>
+		<text bitflag="321" id1="5583" id2="222239" version="1065353216">VALIDATE</text>
+		<text bitflag="321" id1="5584" id2="222239" version="1065353216">SKIP</text>
+		<text bitflag="321" id1="5585" id2="222239" version="1065353216">EMAIL VALIDATION</text>
+		<text bitflag="321" id1="5588" id2="222239" version="1065353216">Exit Battle</text>
+		<text bitflag="321" id1="5589" id2="222239" version="1065353216">Are you sure you want to exit the battle?</text>
+		<text bitflag="321" id1="5592" id2="222239" version="1065353216">As a subscriber, you may abandon your discipline for free.</text>
+		<text bitflag="321" id1="5593" id2="222239" version="1065353216">YES</text>
+		<text bitflag="321" id1="5594" id2="222239" version="1065353216">NO</text>
+		<text bitflag="321" id1="5595" id2="222239" version="1065353216">GUILD DONATION</text>
+		<text bitflag="321" id1="5596" id2="222239" version="1065353216">Do you wish to donate this decoration to the guild?  This will only make this available in guild-owned Strongholds and Flagships.</text>
+		<text bitflag="321" id1="5597" id2="222239" version="1065353216">You cannot change ops size or difficulty while in a groupfinder group.</text>
+		<text bitflag="321" id1="5604" id2="222239" version="1065353216">The following items have less than the recommended amount of expertise on them:</text>
+		<text bitflag="321" id1="5605" id2="222239" version="1065353216">Underpowered PvP Gear</text>
+		<text bitflag="321" id1="5606" id2="222239" version="1065353216">GUILD FLAGSHIP TRANSPORT REQUEST</text>
+		<text bitflag="321" id1="5607" id2="222239" version="1065353216">&lt;&lt;1&gt;&gt; has offered you transportation to their coordinates on &lt;&lt;2&gt;&gt; aboard a &lt;&lt;3&gt;&gt;, &lt;&lt;4&gt;&gt;.
+
+The location may be dangerous. By clicking &quot;TRAVEL&quot; you are acknowledging that you accept this risk.</text>
+		<text bitflag="321" id1="5608" id2="222239" version="1065353216">TRAVEL TO &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5609" id2="222239" version="1065353216">Are you sure you wish to commit your flagship to &lt;&lt;1&gt;&gt;?  This will commit the flagship for the week.</text>
+		<text bitflag="321" id1="5610" id2="222239" version="1065353216">Are you sure you wish to purchase a copy of this decoration for your guild?
+
+Purchase cost is: &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="5611" id2="222239" version="1065353216">You cannot switch instances while in a Stronghold.</text>
+		<text bitflag="321" id1="5612" id2="222239" version="1065353216">Please &lt;hl lid=&quot;BFBa&quot; &gt;  to purchase the Shadow of Revan Expansion</text>
+		<text bitflag="321" id1="5614" id2="222239" version="1065353216">Cost:</text>
+		<text bitflag="321" id1="5615" id2="222239" version="1065353216">Unbound</text>
+		<text bitflag="321" id1="5616" id2="222239" version="1065353216">GROUP TRANSPORT REQUEST</text>
+		<text bitflag="321" id1="5617" id2="222239" version="1065353216">&lt;&lt;1&gt;&gt; has offered you transportation to their coordinates on &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="5618" id2="222239" version="1065353216">TRAVEL TO &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5621" id2="222239" version="1065353216">CONTINUE</text>
+		<text bitflag="321" id1="5622" id2="222239" version="1065353216">EXIT</text>
+		<text bitflag="321" id1="5623" id2="222239" version="1065353216">Warning! You are about to progress beyond a critical story point and begin Knights of the Fallen Empire. Any class content or companion stories you have not completed will become unavailable to you. It also means your crew of available companions will dramatically change.
+
+Are you ready to continue?</text>
+		<text bitflag="321" id1="5624" id2="222239" version="1065353216">Are you sure you are ready to begin Knights of the Fallen Empire?</text>
+		<text bitflag="321" id1="5625" id2="222239" version="1065353216">SACRIFICE</text>
+		<text bitflag="321" id1="5626" id2="222239" version="1065353216">UNABLE TO LAUNCH</text>
+		<text bitflag="321" id1="5627" id2="222239" version="1065353216">Subscribe today to access this chapter and experience the full storylines of Knights of the Eternal Throne, Knights of the Fallen Empire, and more! To learn more about subscribing, click &quot;SUBSCRIBE&quot; below.</text>
+		<text bitflag="321" id1="5628" id2="222239" version="1065353216">You cannot switch instances or focus until &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="5629" id2="222239" version="1065353216">You cannot launch a Chapter while actively engaged in another Chapter. To play another Chapter, please exit your current Chapter.</text>
+		<text bitflag="321" id1="5630" id2="222239" version="1065353216">EXIT CHAPTER</text>
+		<text bitflag="321" id1="5631" id2="222239" version="1065353216">Downscaling the difficulty of this mission will respawn any enemies still active in the current phase and will reduce the quality of rewards you recieve at the end.</text>
+		<text bitflag="321" id1="5632" id2="222239" version="1065353216">Upscaling the difficulty of this mission will reset mission progress and if in a phase, will eject all players.</text>
+		<text bitflag="321" id1="5633" id2="222239" version="1065353216">ADVANCED CLASS SELECTION</text>
+		<text bitflag="321" id1="5634" id2="222239" version="1065353216">Please choose an Advanced Class.</text>
+		<text bitflag="321" id1="5635" id2="222239" version="1065353216">BETRAYED</text>
+		<text bitflag="321" id1="5636" id2="222239" version="1065353216">Warning! You are about to progress beyond a critical story point and begin Knights of the Eternal Throne. Any class content or companion stories you have not completed will become unavailable to you. It also means your crew of available companions will dramatically change.
+
+Are you ready to continue?</text>
+		<text bitflag="321" id1="5637" id2="222239" version="1065353216">Are you sure you are ready to begin Knights of the Eternal Throne?</text>
+		<text bitflag="321" id1="5638" id2="222239" version="1065353216">Do not show this dialog again.</text>
+		<text bitflag="321" id1="5639" id2="222239" version="1065353216">Are you sure?</text>
+		<text bitflag="321" id1="5640" id2="222239" version="1065353216">This will abandon any main story chapters you are currently on and replace them with &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="5641" id2="222239" version="1065353216">SUBSCRIBE</text>
+		<text bitflag="321" id1="5642" id2="222239" version="1065353216">Sync Preference?</text>
+		<text bitflag="321" id1="5643" id2="222239" version="1065353216">Your selected scaled difficulty preference is different then the difficulty just set would you like to sync them?</text>
+		<text bitflag="321" id1="5644" id2="222239" version="1065353216">Are &lt;&lt;cp2:1&gt;&gt; sure &lt;&lt;cp2:1&gt;&gt; are ready to begin &lt;&lt;2&gt;&gt;?&lt;br&gt;&lt;br&gt;&lt;&lt;Cp2:1&gt;&gt; will be transported to this mission's location as soon as &lt;&lt;cp2:1&gt;&gt; accept.</text>
+		<text bitflag="321" id1="5645" id2="222239" version="1065353216">You are about to boost this character to level 70. No mission progress will be advanced, allowing you to complete the entire story at max level. This process is irreversible.
+
+Are you ready to continue?</text>
+		<text bitflag="321" id1="5646" id2="222239" version="1065353216">Are you sure you wish to continue?</text>
+		<text bitflag="321" id1="5647" id2="222239" version="1065353216">You are currently level 68. Are you sure you want to boost this character to level 70?</text>
+		<text bitflag="321" id1="5648" id2="222239" version="1065353216">You are currently level 69. Are you sure you want to boost this character to level 70?</text>
+		<text bitflag="321" id1="5649" id2="222239" version="1065353216">ERROR</text>
+		<text bitflag="321" id1="5650" id2="222239" version="1065353216">Unassembled Consumption</text>
+		<text bitflag="321" id1="5651" id2="222239" version="1065353216">This Unassembled Piece will be converted into an equippable item of your Disciplines Role (Healer). 
+
+Are you sure you wish to continue?</text>
+		<text bitflag="321" id1="5652" id2="222239" version="1065353216">This Unassembled Piece will be converted into an equippable item of your Disciplines Role (DPS). 
+
+Are you sure you wish to continue?</text>
+		<text bitflag="321" id1="5653" id2="222239" version="1065353216">This Unassembled Piece will be converted into an equippable item of your Disciplines Role (TANK). 
+
+Are you sure you wish to continue?</text>
+		<text bitflag="321" id1="5654" id2="222239" version="1065353216">An error has occured, the Unassmbled Piece has been returned to you unscathed.</text>
+		<text bitflag="321" id1="5658" id2="222239" version="1065353216">Promotion may not be processed at this time</text>
+		<text bitflag="321" id1="5659" id2="222239" version="1065353216">GROUP PROMOTE</text>
+		<text bitflag="321" id1="5660" id2="222239" version="1065353216">You are about to promote your active Companion to influence level 50. This process cannot be reversed by Customer Support. Are you sure you wish to continue?</text>
+		<text bitflag="321" id1="5661" id2="222239" version="1065353216">You are about to donate 10 War Supplies: Invasion Force to complete a conquest Objective. Once commited, this donation is irreversible. Are you sure you wish to continue?</text>
+		<text bitflag="321" id1="5662" id2="222239" version="1065353216">Are you sure you want to end the active training scenario?</text>
+		<text bitflag="321" id1="5663" id2="222239" version="1065353216">&lt;&lt;1&gt;&gt; has disabled the shields. Training Scenario has ended.</text>
+		<text bitflag="321" id1="5664" id2="222239" version="1065353216">GUILD MAIL</text>
+		<text bitflag="321" id1="5665" id2="222239" version="1065353216">You do not have permission to send guild mail.</text>
+		<text bitflag="321" id1="5666" id2="222239" version="1065353216">You are about to send a mail to your guild, are you sure you wish to send this to all guild members?</text>
+		<text bitflag="321" id1="5668" id2="222239" version="1065353216">You are about to convert 10 Reinforcment Components into a Reinforcment Module. This is irreversible. Are you sure you wish to continue?</text>
+		<text bitflag="321" id1="5669" id2="222239" version="1065353216">GUILD BAN</text>
+		<text bitflag="321" id1="5670" id2="222239" version="1065353216">Enter the name of the player you wish to ban from the Guild.</text>
+		<text bitflag="321" id1="5671" id2="222239" version="1065353216">MODIFY GUILD BAN COMMENT</text>
+		<text bitflag="321" id1="5672" id2="222239" version="1065353216">Enter reason for guild ban of &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="5673" id2="222239" version="1065353216">Player Name:</text>
+		<text bitflag="321" id1="5674" id2="222239" version="1065353216">Comment:</text>
+	</file_content>
+</stb_file>

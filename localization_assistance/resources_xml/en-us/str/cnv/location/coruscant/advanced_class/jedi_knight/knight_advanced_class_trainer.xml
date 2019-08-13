@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/advanced_class/jedi_knight/knight_advanced_class_trainer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1360" id1="220801" id2="17" version="1065353216">I will become a Jedi Sentinel.</text>
+		<text bitflag="1360" id1="220804" id2="17" version="1065353216">I will become a Jedi Guardian.</text>
+		<text bitflag="3393" id1="690208" id2="17" version="1065353216">You have chosen your path. To discover where it leads, you must follow it. May the Force guide your steps.</text>
+		<text bitflag="3393" id1="690209" id2="17" version="1065353216">I am Master Cassa. Two paths lay before you. Choose carefully, for once you start down one, the other is forever closed.</text>
+		<text bitflag="3393" id1="690211" id2="17" version="1065353216">Sentinels are the lightsaber masters of our order. Wearing lighter armor and striking with two lightsabers, Sentinels can master the aggressive Juyo form, the acrobatic Ataru form, or the balanced Shii-Cho form.</text>
+		<text bitflag="3393" id1="690213" id2="17" version="1065353216">Knights who become Guardians use heavier armor and generators to empower their defensive capabilities. A Guardian uses the powerful Shien form, the balanced Shii-Cho form, or the resilient Soresu form.</text>
+		<text bitflag="3393" id1="690214" id2="17" version="1065353216">You have chosen to walk the path of a Jedi Sentinel. May the Force guide your steps.</text>
+		<text bitflag="3393" id1="690215" id2="17" version="1065353216">You have chosen to walk the path of a Jedi Guardian. May the Force guide your steps.</text>
+		<text bitflag="1360" id1="690216" id2="17" version="1065353216">I need more time to decide.</text>
+		<text bitflag="3393" id1="690217" id2="17" version="1065353216">We have nothing to discuss.</text>
+		<text bitflag="3393" id1="986261" id2="17" version="1065353216">You must choose now and choose wisely.</text>
+	</file_content>
+</stb_file>

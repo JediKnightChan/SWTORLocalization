@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>24</strs>
+		<file_name>/resources/en-us/str/cnv/location/nar_shaddaa/class/bounty_hunter/scientist.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="656412" id2="17" version="1065353216">Stop! I've been watching you on the surveillance monitors! I know what you're doing! You've got to stop!</text>
+		<text bitflag="1345" id1="656414" id2="17" version="1065353216">Please! There are dozens of civilian technicians and engineers working here! If you blow up this facility, they'll all be killed!</text>
+		<text bitflag="1345" id1="656415" id2="17" version="1065353216">It's called collateral damage.</text>
+		<text bitflag="1360" id1="656415" id2="17" version="1065353216">True enough.</text>
+		<text bitflag="1345" id1="656416" id2="17" version="1065353216">Maybe they should be getting out of here, then.</text>
+		<text bitflag="1360" id1="656416" id2="17" version="1065353216">They should run.</text>
+		<text bitflag="1345" id1="656417" id2="17" version="1065353216">Our security chief disabled the evacuation alarm! They don't want this attack made public!</text>
+		<text bitflag="1360" id1="656418" id2="17" version="1065353216">And?</text>
+		<text bitflag="1345" id1="656419" id2="17" version="1065353216">Please! I don't care what you do to this facility, just give me time to evacuate my people!</text>
+		<text bitflag="1345" id1="656421" id2="17" version="1065353216">I only need a few minutes to round up my crew and get them out of here! Do what you will afterwards!</text>
+		<text bitflag="1345" id1="656422" id2="17" version="1065353216">Every merc in here wants my hide.</text>
+		<text bitflag="1360" id1="656422" id2="17" version="1065353216">Too risky.</text>
+		<text bitflag="1345" id1="656423" id2="17" version="1065353216">These people are innocent employees! They have families! Show some compassion! I'm begging you!</text>
+		<text bitflag="1345" id1="656424" id2="17" version="1065353216">Well, don't just stand there. Go!</text>
+		<text bitflag="1360" id1="656424" id2="17" version="1065353216">Fine, stop talking and run!</text>
+		<text bitflag="1345" id1="656425" id2="17" version="1065353216">Compassion won't get my job done.</text>
+		<text bitflag="1360" id1="656425" id2="17" version="1065353216">Don't beg. [Kill scientist]</text>
+		<text bitflag="1360" id1="656426" id2="17" version="1065353216">Ugh. Guilt overload. Okay.</text>
+		<text bitflag="1345" id1="656427" id2="17" version="1065353216">Do it. Hurry!</text>
+		<text bitflag="1360" id1="656427" id2="17" version="1065353216">Sure.</text>
+		<text bitflag="1345" id1="656428" id2="17" version="1065353216">Thank you!</text>
+		<text bitflag="1345" id1="656432" id2="17" version="1065353216">That's the price of working for an assassin.</text>
+		<text bitflag="1360" id1="656432" id2="17" version="1065353216">Hmm. No. [Kill scientist]</text>
+		<text bitflag="1345" id1="656435" id2="17" version="1065353216">You... animal....</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/republic/revan/deck_officer_bessel.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="200915" id2="17" version="1065353216">We'll keep the Empire's defenses busy as long as we can. Take the shuttle and free the Jedi prisoner.</text>
+		<text bitflag="3393" id1="200918" id2="17" version="1065353216">We're heading into the Maelstrom Nebula to attack that Imperial prison. Your assault shuttle is ready for launch. Are you?</text>
+		<text bitflag="1360" id1="200919" id2="17" version="1065353216">[Start Tactical Flashpoint]</text>
+		<text bitflag="3393" id1="200920" id2="17" version="1065353216">Shuttle locks are open. Good hunting.</text>
+		<text bitflag="1360" id1="200922" id2="17" version="1065353216">Not yet, no. [Refuse Mission]</text>
+		<text bitflag="3393" id1="200923" id2="17" version="1065353216">We won't start the fight without you.</text>
+		<text bitflag="3393" id1="200925" id2="17" version="1065353216">Sorry, the shuttle bay is off-limits. Admiral Oteg's orders.</text>
+		<text bitflag="1360" id1="987655" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="987657" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987658" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="987660" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="3393" id1="1170371" id2="17" version="1065353216">We'll keep the Empire's defenses busy as long as we can. Take the shuttle and free the Jedi prisoner.</text>
+		<text bitflag="1360" id1="1170372" id2="17" version="1065353216">[Start Solo Flashpoint]</text>
+		<text bitflag="3393" id1="1170373" id2="17" version="1065353216">Shuttle locks are open. Good hunting.</text>
+		<text bitflag="1360" id1="1219964" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1219965" id2="17" version="1065353216">[Start Story Mode]</text>
+	</file_content>
+</stb_file>

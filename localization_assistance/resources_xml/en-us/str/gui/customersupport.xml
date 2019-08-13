@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>139</strs>
+		<file_name>/resources/en-us/str/gui/customersupport.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="480093" version="1065353216">IN-GAME HELP CENTER</text>
+		<text bitflag="321" id1="2" id2="480093" version="1065353216">REQUEST HELP</text>
+		<text bitflag="321" id1="3" id2="480093" version="1065353216">LIVE AGENT CHAT</text>
+		<text bitflag="321" id1="4" id2="480093" version="1065353216">Customer Service Help Request</text>
+		<text bitflag="321" id1="5" id2="480093" version="1065353216">Ticket:</text>
+		<text bitflag="321" id1="6" id2="480093" version="1065353216">Status:</text>
+		<text bitflag="321" id1="7" id2="480093" version="1065353216">Date Created:</text>
+		<text bitflag="321" id1="8" id2="480093" version="1065353216">Last Modified:</text>
+		<text bitflag="321" id1="9" id2="480093" version="1065353216">Screen Capture:</text>
+		<text bitflag="321" id1="10" id2="480093" version="1065353216">Loading...</text>
+		<text bitflag="321" id1="11" id2="480093" version="1065353216">UPDATE TICKET</text>
+		<text bitflag="321" id1="12" id2="480093" version="1065353216">CREATE TICKET</text>
+		<text bitflag="321" id1="13" id2="480093" version="1065353216">Please complete this form and include all relevant information to help us address your issue as quickly as possible. Max character limit is &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="14" id2="480093" version="1065353216">Details:(Please provide any details that would help us find and diagnose your issue.) &lt;&lt;1&gt;&gt; character limit.</text>
+		<text bitflag="321" id1="15" id2="480093" version="1065353216">Screen Capture: (Taken before the help panel was opened.)</text>
+		<text bitflag="321" id1="16" id2="480093" version="1065353216">Attach Screen Capture</text>
+		<text bitflag="321" id1="17" id2="480093" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="18" id2="480093" version="1065353216">UPDATE</text>
+		<text bitflag="321" id1="19" id2="480093" version="1065353216">PREVIEW</text>
+		<text bitflag="321" id1="20" id2="480093" version="1065353216">CREATE</text>
+		<text bitflag="321" id1="21" id2="480093" version="1065353216">Date Created</text>
+		<text bitflag="321" id1="22" id2="480093" version="1065353216">Date Modifed</text>
+		<text bitflag="321" id1="23" id2="480093" version="1065353216">Date Read</text>
+		<text bitflag="321" id1="24" id2="480093" version="1065353216">Summary</text>
+		<text bitflag="321" id1="25" id2="480093" version="1065353216">Ticket Number</text>
+		<text bitflag="321" id1="26" id2="480093" version="1065353216">Status</text>
+		<text bitflag="321" id1="27" id2="480093" version="1065353216">CLOSE TICKET</text>
+		<text bitflag="321" id1="28" id2="480093" version="1065353216">UPDATE TICKET</text>
+		<text bitflag="321" id1="29" id2="480093" version="1065353216">CREATE TICKET</text>
+		<text bitflag="321" id1="30" id2="480093" version="1065353216">Help ticket history:</text>
+		<text bitflag="321" id1="31" id2="480093" version="1065353216">Summary:</text>
+		<text bitflag="321" id1="32" id2="480093" version="1065353216">Updating...</text>
+		<text bitflag="321" id1="33" id2="480093" version="1065353216">&lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="34" id2="480093" version="1065353216">Open</text>
+		<text bitflag="321" id1="35" id2="480093" version="1065353216">Closed</text>
+		<text bitflag="321" id1="36" id2="480093" version="1065353216">Expedited</text>
+		<text bitflag="321" id1="37" id2="480093" version="1065353216">Send</text>
+		<text bitflag="321" id1="38" id2="480093" version="1065353216">Thank you for submitting your ticket. A Customer Service Representative will respond to your help request as soon as possible.</text>
+		<text bitflag="321" id1="39" id2="480093" version="1065353216">There was a problem submitting your ticket. Please try again later.</text>
+		<text bitflag="321" id1="40" id2="480093" version="1065353216">Your ticket has been updated.</text>
+		<text bitflag="321" id1="41" id2="480093" version="1065353216">There was a problem updating your ticket. Please try again later.</text>
+		<text bitflag="321" id1="42" id2="480093" version="1065353216">Your ticket is now closed.</text>
+		<text bitflag="321" id1="43" id2="480093" version="1065353216">There was a problem closing your ticket. Please try again later.</text>
+		<text bitflag="321" id1="44" id2="480093" version="1065353216">Max number of open tickets.</text>
+		<text bitflag="321" id1="45" id2="480093" version="1065353216">You have exceeded the maximum number of tickets that can be open at a time.</text>
+		<text bitflag="321" id1="46" id2="480093" version="1065353216">OK</text>
+		<text bitflag="321" id1="47" id2="480093" version="1065353216">Insert Input</text>
+		<text bitflag="321" id1="48" id2="480093" version="1065353216">Error</text>
+		<text bitflag="321" id1="49" id2="480093" version="1065353216">Locked</text>
+		<text bitflag="321" id1="257" id2="480093" version="1065353216">Times viewed:</text>
+		<text bitflag="321" id1="260" id2="480093" version="1065353216">Message Of The Day</text>
+		<text bitflag="321" id1="261" id2="480093" version="1065353216">Hot Topics</text>
+		<text bitflag="321" id1="262" id2="480093" version="1065353216">Search Articles and Issues</text>
+		<text bitflag="321" id1="263" id2="480093" version="1065353216">SEARCH KNOWLEDGE BASE</text>
+		<text bitflag="321" id1="264" id2="480093" version="1065353216">&lt;&lt;1&gt;&gt; Results</text>
+		<text bitflag="321" id1="265" id2="480093" version="1065353216">Search Terms:</text>
+		<text bitflag="321" id1="266" id2="480093" version="1065353216">Search Term Legend TBD</text>
+		<text bitflag="321" id1="267" id2="480093" version="1065353216">Searching...</text>
+		<text bitflag="321" id1="268" id2="480093" version="1065353216">No Results - try a less specific search term.</text>
+		<text bitflag="321" id1="271" id2="480093" version="1065353216">CLOSE</text>
+		<text bitflag="321" id1="272" id2="480093" version="1065353216">Help Center Article</text>
+		<text bitflag="321" id1="273" id2="480093" version="1065353216">Welcome to SWTOR!</text>
+		<text bitflag="321" id1="274" id2="480093" version="1065353216">Do you really want to close this ticket permanently?</text>
+		<text bitflag="321" id1="275" id2="480093" version="1065353216">TICKET CLOSE CONFIRMATION</text>
+		<text bitflag="321" id1="276" id2="480093" version="1065353216">POSSIBLE SOLUTIONS FROM THE IN-GAME HELP CENTER</text>
+		<text bitflag="321" id1="277" id2="480093" version="1065353216">SUBMIT TICKET</text>
+		<text bitflag="321" id1="278" id2="480093" version="1065353216">CANCEL TICKET</text>
+		<text bitflag="321" id1="279" id2="480093" version="1065353216">Articles and Issues</text>
+		<text bitflag="321" id1="280" id2="480093" version="1065353216">Were you able to find a solution within the above suggestion?</text>
+		<text bitflag="321" id1="281" id2="480093" version="1065353216">I found a solution</text>
+		<text bitflag="321" id1="282" id2="480093" version="1065353216">I didn't find a solution</text>
+		<text bitflag="321" id1="283" id2="480093" version="1065353216">CANCEL CREATING A TICKET?</text>
+		<text bitflag="321" id1="284" id2="480093" version="1065353216">CANCEL UPDATING A TICKET?</text>
+		<text bitflag="321" id1="285" id2="480093" version="1065353216">Do you want to cancel creating this ticket?</text>
+		<text bitflag="321" id1="286" id2="480093" version="1065353216">Do you want to cancel updating your ticket?</text>
+		<text bitflag="321" id1="287" id2="480093" version="1065353216">YES</text>
+		<text bitflag="321" id1="288" id2="480093" version="1065353216">NO</text>
+		<text bitflag="321" id1="289" id2="480093" version="1065353216">TICKET IS TOO SHORT</text>
+		<text bitflag="321" id1="290" id2="480093" version="1065353216">Your ticket is too short. A ticket must contain at least a few words before it can be submitted.</text>
+		<text bitflag="321" id1="291" id2="480093" version="1065353216">Description</text>
+		<text bitflag="321" id1="292" id2="480093" version="1065353216">Category</text>
+		<text bitflag="321" id1="293" id2="480093" version="1065353216">Report Inappropriate Player Behavior</text>
+		<text bitflag="321" id1="294" id2="480093" version="1065353216">Report Player/Guild Name</text>
+		<text bitflag="321" id1="295" id2="480093" version="1065353216">Mission</text>
+		<text bitflag="321" id1="296" id2="480093" version="1065353216">Character/Companion</text>
+		<text bitflag="321" id1="297" id2="480093" version="1065353216">Bug Report</text>
+		<text bitflag="321" id1="298" id2="480093" version="1065353216">Video/Sound/Crashing</text>
+		<text bitflag="321" id1="299" id2="480093" version="1065353216">Connection/Lag</text>
+		<text bitflag="321" id1="300" id2="480093" version="1065353216">Item/Loot</text>
+		<text bitflag="321" id1="301" id2="480093" version="1065353216">Account/Billing/Subscription</text>
+		<text bitflag="321" id1="302" id2="480093" version="1065353216">General/Other</text>
+		<text bitflag="321" id1="303" id2="480093" version="1065353216">Your account and character have been frozen by BioWare Customer Service. You must talk to a BioWare CSR for your account and character to become unfrozen.</text>
+		<text bitflag="321" id1="304" id2="480093" version="1065353216">Your account is now unfrozen. Thank you for your time.</text>
+		<text bitflag="321" id1="305" id2="480093" version="1065353216">RENAME</text>
+		<text bitflag="321" id1="306" id2="480093" version="1065353216">Your character name &lt;&lt;1&gt;&gt; has been deemed unfit by BioWare Customer Service. In order to play this character again, you must provide another name.</text>
+		<text bitflag="321" id1="307" id2="480093" version="1065353216">RENAME</text>
+		<text bitflag="321" id1="308" id2="480093" version="1065353216">Your character name has been changed from &lt;&lt;1&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="309" id2="480093" version="1065353216">RENAME &lt;&lt;1&gt;&gt; of &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="310" id2="480093" version="1065353216">LIVE AGENT CHAT [PENDING]</text>
+		<text bitflag="321" id1="311" id2="480093" version="1065353216">You may now set a last name for your characters. This will appear to other players.</text>
+		<text bitflag="321" id1="312" id2="480093" version="1065353216">You must change the last name your characters are using, &lt;&lt;1&gt;&gt;, before logging in.</text>
+		<text bitflag="321" id1="313" id2="480093" version="1065353216">The last name of your characters has been changed from &lt;&lt;1&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="314" id2="480093" version="1065353216">The last name of your characters has been changed to &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="316" id2="480093" version="1065353216">CSR</text>
+		<text bitflag="321" id1="317" id2="480093" version="1065353216">Spam Reported</text>
+		<text bitflag="321" id1="318" id2="480093" version="1065353216">Your spam report has been sent. Thank you.</text>
+		<text bitflag="321" id1="319" id2="480093" version="1065353216">No possible solutions were found. Please continue with submitting your ticket.</text>
+		<text bitflag="321" id1="320" id2="480093" version="1065353216">You have been stunned by a CSR. Please wait until the situation is resolved.</text>
+		<text bitflag="321" id1="321" id2="480093" version="1065353216">Ticket Locked for Editing</text>
+		<text bitflag="321" id1="322" id2="480093" version="1065353216">Your ticket is currently locked for editing by a CSR.  This lock is only temporary and you will be able to append your ticket shortly.</text>
+		<text bitflag="321" id1="323" id2="480093" version="1065353216">Your help request has been updated.</text>
+		<text bitflag="321" id1="324" id2="480093" version="1065353216">Customer Service Help Center</text>
+		<text bitflag="321" id1="325" id2="480093" version="1065353216">Please Select a Category</text>
+		<text bitflag="321" id1="326" id2="480093" version="1065353216">Category Required</text>
+		<text bitflag="321" id1="327" id2="480093" version="1065353216">A category is required to submit a ticket. Please select it from the category pull down.</text>
+		<text bitflag="321" id1="328" id2="480093" version="1065353216">Report Harassment</text>
+		<text bitflag="321" id1="329" id2="480093" version="1065353216">Harassment Reported</text>
+		<text bitflag="321" id1="330" id2="480093" version="1065353216">Your harassment report has been sent. Thank you.</text>
+		<text bitflag="321" id1="331" id2="480093" version="1065353216">Report Mail</text>
+		<text bitflag="321" id1="332" id2="480093" version="1065353216">Do you want to report this mail as spam or harassment?</text>
+		<text bitflag="321" id1="333" id2="480093" version="1065353216">Spam</text>
+		<text bitflag="321" id1="334" id2="480093" version="1065353216">Harassment</text>
+		<text bitflag="321" id1="335" id2="480093" version="1065353216">CHARACTER STUCK</text>
+		<text bitflag="321" id1="336" id2="480093" version="1065353216">Press this button if your character is stuck</text>
+		<text bitflag="321" id1="337" id2="480093" version="1065353216">STUCK</text>
+		<text bitflag="321" id1="338" id2="480093" version="1065353216">By selecting stuck, the game will attempt to move you a few yards from your current location.  If the game is unable to move you it will kill you and your gear will take damage.</text>
+		<text bitflag="321" id1="339" id2="480093" version="1065353216">Our Help Center is searching for a solution...If this response takes too long just click the &quot;Create Ticket&quot; button below.</text>
+		<text bitflag="321" id1="340" id2="480093" version="1065353216">Customer Service:</text>
+		<text bitflag="321" id1="341" id2="480093" version="1065353216">New Mail</text>
+		<text bitflag="321" id1="342" id2="480093" version="1065353216">Recent changes to the server require that your character, &lt;&lt;1&gt;&gt; from server &lt;&lt;2&gt;&gt; be changed. Please provide a new name to continue playing this character.</text>
+		<text bitflag="321" id1="343" id2="480093" version="1065353216">Certain character names have been reclaimed.  Your character &lt;&lt;1&gt;&gt; is one of them, and must be renamed.  For more information on your character's name reclamation, please visit &lt;hl lid=&quot;BFBY&quot; &gt;.</text>
+		<text bitflag="321" id1="345" id2="480093" version="1065353216">Welcome to &lt;i&gt;STAR WARS™&lt;/i&gt;: THE OLD REPUBLIC™ Customer Service</text>
+		<text bitflag="321" id1="346" id2="480093" version="1065353216">Thank you for contacting &lt;i&gt;STAR WARS™&lt;/i&gt;: THE OLD REPUBLIC™ Customer Service. This chat session has been closed by our Customer Service Representative</text>
+		<text bitflag="321" id1="347" id2="480093" version="1065353216">Thank you for submitting a bug report! The development team will be notified.</text>
+		<text bitflag="321" id1="348" id2="480093" version="1065353216">REPORT BUG</text>
+		<text bitflag="321" id1="349" id2="480093" version="1065353216">SUBMIT</text>
+		<text bitflag="321" id1="350" id2="480093" version="1065353216">CANCEL SUBMITTING A BUG?</text>
+		<text bitflag="321" id1="351" id2="480093" version="1065353216">Do you want to cancel submitting a bug?</text>
+		<text bitflag="321" id1="352" id2="480093" version="1065353216">Note: This form is only for notifying the development team of bugs. Reporting a bug will not generate a ticket and you will not be contacted by a customer service representative.</text>
+	</file_content>
+</stb_file>

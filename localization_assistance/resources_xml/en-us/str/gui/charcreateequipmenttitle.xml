@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>24</strs>
+		<file_name>/resources/en-us/str/gui/charcreateequipmenttitle.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="482763" version="1065353216">WARRIOR EQUIPMENT</text>
+		<text bitflag="321" id1="2" id2="482763" version="1065353216">INQUISITOR EQUIPMENT</text>
+		<text bitflag="321" id1="3" id2="482763" version="1065353216">BOUNTY HUNTER EQUIPMENT</text>
+		<text bitflag="321" id1="4" id2="482763" version="1065353216">AGENT EQUIPMENT</text>
+		<text bitflag="321" id1="5" id2="482763" version="1065353216">KNIGHT EQUIPMENT</text>
+		<text bitflag="321" id1="6" id2="482763" version="1065353216">CONSULAR EQUIPMENT</text>
+		<text bitflag="321" id1="7" id2="482763" version="1065353216">SMUGGLER EQUIPMENT</text>
+		<text bitflag="321" id1="8" id2="482763" version="1065353216">TROOPER EQUIPMENT</text>
+		<text bitflag="321" id1="100" id2="482763" version="1065353216">MARAUDER EQUIPMENT</text>
+		<text bitflag="321" id1="101" id2="482763" version="1065353216">JUGGERNAUT EQUIPMENT</text>
+		<text bitflag="321" id1="200" id2="482763" version="1065353216">ASSASSIN EQUIPMENT</text>
+		<text bitflag="321" id1="201" id2="482763" version="1065353216">SORCERER EQUIPMENT</text>
+		<text bitflag="321" id1="300" id2="482763" version="1065353216">MERCENARY EQUIPMENT</text>
+		<text bitflag="321" id1="301" id2="482763" version="1065353216">POWERTECH EQUIPMENT</text>
+		<text bitflag="321" id1="400" id2="482763" version="1065353216">SNIPER EQUIPMENT</text>
+		<text bitflag="321" id1="401" id2="482763" version="1065353216">OPERATIVE EQUIPMENT</text>
+		<text bitflag="321" id1="500" id2="482763" version="1065353216">GUARDIAN EQUIPMENT</text>
+		<text bitflag="321" id1="501" id2="482763" version="1065353216">SENTINEL EQUIPMENT</text>
+		<text bitflag="321" id1="600" id2="482763" version="1065353216">SAGE EQUIPMENT</text>
+		<text bitflag="321" id1="601" id2="482763" version="1065353216">SHADOW EQUIPMENT</text>
+		<text bitflag="321" id1="700" id2="482763" version="1065353216">GUNSLINGER EQUIPMENT</text>
+		<text bitflag="321" id1="701" id2="482763" version="1065353216">SCOUNDREL EQUIPMENT</text>
+		<text bitflag="321" id1="800" id2="482763" version="1065353216">COMMANDO EQUIPMENT</text>
+		<text bitflag="321" id1="801" id2="482763" version="1065353216">VANGUARD EQUIPMENT</text>
+	</file_content>
+</stb_file>

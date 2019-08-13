@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>416</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/class/jedi_knight/tala_reh.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="490508" id2="17" version="1065353216">Good luck, Jedi. My thoughts are with you.</text>
+		<text bitflag="1345" id1="490510" id2="17" version="1065353216">I've completed the purifying ritual of Ki-Da. I'm ready to enter the Dark Heart.</text>
+		<text bitflag="1345" id1="490511" id2="17" version="1065353216">I studied the maps. Found the location described in Valen-Da's vision. We confront Lord Fulminiss there.</text>
+		<text bitflag="1345" id1="490513" id2="17" version="1065353216">The Dark Heart crawls with predators. We split up. Small groups draw less attention.</text>
+		<text bitflag="1345" id1="490514" id2="17" version="1065353216">Just tell me how to get there.</text>
+		<text bitflag="1360" id1="490514" id2="17" version="1065353216">Sounds good.</text>
+		<text bitflag="1345" id1="490515" id2="17" version="1065353216">Your Mystic and the Mystic who discovered the purifying ritual have the same last name.</text>
+		<text bitflag="1360" id1="490515" id2="17" version="1065353216">Is Valen-Da related to Ki-Da?</text>
+		<text bitflag="1345" id1="490516" id2="17" version="1065353216">Da is a common Voss name. Valen-Da is defined by his visions, not family history.</text>
+		<text bitflag="1345" id1="490518" id2="17" version="1065353216">He waits for us. Hurry.</text>
+		<text bitflag="1345" id1="490519" id2="17" version="1065353216">Yes, we shouldn't waste any more time.</text>
+		<text bitflag="1360" id1="490519" id2="17" version="1065353216">Let's go.</text>
+		<text bitflag="1345" id1="490520" id2="17" version="1065353216">Splitting up leaves us vulnerable. We should stick together.</text>
+		<text bitflag="1360" id1="490520" id2="17" version="1065353216">That's a bad idea.</text>
+		<text bitflag="1345" id1="490521" id2="17" version="1065353216">Beasts of the Dark Heart are cunning. Attack in unison. Coordinate their efforts.</text>
+		<text bitflag="1345" id1="490523" id2="17" version="1065353216">Small groups pose less threat. Monsters attack individually. Seek a quick meal. This we can survive.</text>
+		<text bitflag="1345" id1="490524" id2="17" version="1065353216">Okay, we'll split up.</text>
+		<text bitflag="1360" id1="490524" id2="17" version="1065353216">Makes sense.</text>
+		<text bitflag="1345" id1="490525" id2="17" version="1065353216">You said yourself how dangerous the Dark Heart is. I don't want you to get hurt.</text>
+		<text bitflag="1360" id1="490525" id2="17" version="1065353216">I'm worried about you.</text>
+		<text bitflag="1345" id1="490526" id2="17" version="1065353216">Nor I you. We must both be careful.</text>
+		<text bitflag="1345" id1="490528" id2="17" version="1065353216">You'll never survive the Dark Heart without me watching out for you.</text>
+		<text bitflag="1360" id1="490528" id2="17" version="1065353216">You're too weak for this.</text>
+		<text bitflag="1345" id1="490529" id2="17" version="1065353216">You underestimate me. I am a commando.</text>
+		<text bitflag="1345" id1="490531" id2="17" version="1065353216">I will mark the chamber on your map. Meet there. Valen-Da has foreseen it.</text>
+		<text bitflag="1345" id1="490533" id2="17" version="1065353216">Talan-De will prepare you to enter the Dark Heart. Speak to me when you are done.</text>
+		<text bitflag="1345" id1="490536" id2="17" version="1065353216">The maps reveal the location described in Valen-Da's vision. We confront Lord Fulminiss there.</text>
+		<text bitflag="1345" id1="490538" id2="17" version="1065353216">The Dark Heart corrupts. Commandos are trained to resist. But you will be driven mad if unprepared.</text>
+		<text bitflag="1345" id1="490540" id2="17" version="1065353216">Speak to Talan-De. Here in the camp. He will prepare you for the journey.</text>
+		<text bitflag="1345" id1="490541" id2="17" version="1065353216">Every second, Fulminiss gets closer to his goal. I'll go speak with Talan-De right now.</text>
+		<text bitflag="1360" id1="490541" id2="17" version="1065353216">The sooner, the better.</text>
+		<text bitflag="1345" id1="490542" id2="17" version="1065353216">A creature at the Gormak vault spoke to me. It said it was created in the Dark Heart by a being called Sel-Makor.</text>
+		<text bitflag="1360" id1="490542" id2="17" version="1065353216">Have you heard of Sel-Makor?</text>
+		<text bitflag="1345" id1="490543" id2="17" version="1065353216">During the purification ritual, I fought a being, the avatar of someone named Sel-Makor. It said he lives inside the Dark Heart.</text>
+		<text bitflag="1360" id1="490543" id2="17" version="1065353216">Have you heard of Sel-Makor?</text>
+		<text bitflag="1345" id1="490544" id2="17" version="1065353216">I do not know the name. Valen-Da made no mention of this entity. Sel-Makor is not our concern.</text>
+		<text bitflag="1345" id1="490546" id2="17" version="1065353216">Maybe you don't realize how strong I am.</text>
+		<text bitflag="1360" id1="490546" id2="17" version="1065353216">I don't need his help.</text>
+		<text bitflag="1345" id1="490547" id2="17" version="1065353216">The Dark Heart is a place of an ancient evil. Its power created the Nightmare Lands. Do not underestimate it.</text>
+		<text bitflag="1345" id1="490549" id2="17" version="1065353216">I will study the Gormak maps. We must find the exact location described in Valen-Da's vision.</text>
+		<text bitflag="1345" id1="490551" id2="17" version="1065353216">Return after Talan-De has prepared you to enter the Dark Heart.</text>
+		<text bitflag="1345" id1="490557" id2="17" version="1065353216">I have the maps. These should help us find the Dark Heart so we can stop Lord Fulminiss.</text>
+		<text bitflag="1345" id1="490558" id2="17" version="1065353216">You ordered my squad to retreat. Braved the Gormak reinforcements. We owe you our lives.</text>
+		<text bitflag="1345" id1="490559" id2="17" version="1065353216">I wasn't alone. You risked your lives to help me. I appreciate that.</text>
+		<text bitflag="1360" id1="490559" id2="17" version="1065353216">You did your part, too.</text>
+		<text bitflag="1345" id1="490560" id2="17" version="1065353216">Gracious. And a great warrior. You killed many Gormak. Like my husband.</text>
+		<text bitflag="1345" id1="490562" id2="17" version="1065353216">The Gormak never posed any real threat to me. I didn't see any point in your squad throwing their lives away.</text>
+		<text bitflag="1360" id1="490562" id2="17" version="1065353216">I knew I could handle it.</text>
+		<text bitflag="1345" id1="490563" id2="17" version="1065353216">My squad was slaughtered. It is good their sacrifice was not in vain.</text>
+		<text bitflag="1345" id1="490564" id2="17" version="1065353216">I'm here for one reason: to stop Lord Fulminiss from destroying Voss.</text>
+		<text bitflag="1360" id1="490564" id2="17" version="1065353216">I did what I had to.</text>
+		<text bitflag="1345" id1="490565" id2="17" version="1065353216">Many Gormak fell at your hand. You are a great warrior. Like my husband.</text>
+		<text bitflag="1345" id1="490567" id2="17" version="1065353216">I didn't want your friends to die. But I needed them to hold off the reinforcements.</text>
+		<text bitflag="1360" id1="490567" id2="17" version="1065353216">I'm sorry for your loss.</text>
+		<text bitflag="1345" id1="490568" id2="17" version="1065353216">I do not blame you. They died serving the will of Valen-Da. Like my husband.</text>
+		<text bitflag="1345" id1="490570" id2="17" version="1065353216">The rest of your squad gave their lives. But you retreated.</text>
+		<text bitflag="1360" id1="490570" id2="17" version="1065353216">Yet somehow you survived. Odd.</text>
+		<text bitflag="1345" id1="490571" id2="17" version="1065353216">Valen-Da's vision saw us standing together. My fate is to live. Theirs, to die. Like my husband.</text>
+		<text bitflag="1345" id1="490573" id2="17" version="1065353216">You are female. An outsider. Yet you remind me of him. A great warrior. An instrument of Mystic will.</text>
+		<text bitflag="1345" id1="490575" id2="17" version="1065353216">You remind me of him. Strong. Fierce. An instrument of Mystic will.</text>
+		<text bitflag="1345" id1="490577" id2="17" version="1065353216">Behold the patron of glory! Eyes afire with righteous might; skin bathed in the warm blood of the enemy--witness the glory and blazing fury!</text>
+		<text bitflag="1345" id1="490578" id2="17" version="1065353216">The sooner we get to the Dark Heart, the sooner we can stop Fulminiss.</text>
+		<text bitflag="1360" id1="490578" id2="17" version="1065353216">We should get going.</text>
+		<text bitflag="1345" id1="490579" id2="17" version="1065353216">From the way you normally talk, I would have never guessed your species could be so expressive.</text>
+		<text bitflag="1360" id1="490579" id2="17" version="1065353216">Is that poetry?</text>
+		<text bitflag="1345" id1="490580" id2="17" version="1065353216">We know great depth of emotion. We reveal true feelings through poetry.</text>
+		<text bitflag="1345" id1="490582" id2="17" version="1065353216">Although you didn't see me fighting the Gormak, you've captured it quite nicely.</text>
+		<text bitflag="1360" id1="490582" id2="17" version="1065353216">Yep. That sounds like me.</text>
+		<text bitflag="1345" id1="490583" id2="17" version="1065353216">This verse honors my husband. Many songs were written celebrating his death.</text>
+		<text bitflag="1345" id1="490584" id2="17" version="1065353216">The songs will have to wait.</text>
+		<text bitflag="1360" id1="490584" id2="17" version="1065353216">Words won't stop Fulminiss.</text>
+		<text bitflag="1345" id1="490585" id2="17" version="1065353216">Agreed. Not the time for poetry. Apologies.</text>
+		<text bitflag="1345" id1="490587" id2="17" version="1065353216">Can you recite another verse?</text>
+		<text bitflag="1360" id1="490587" id2="17" version="1065353216">I'd like to hear more.</text>
+		<text bitflag="1345" id1="490588" id2="17" version="1065353216">His wrath rains down like fire from above. Bodies encircle him like a pyre. His hand never falters; his courage never wanes as the hordes overwhelm him.</text>
+		<text bitflag="1345" id1="490590" id2="17" version="1065353216">His last thoughts turn to his true love. He feels no fear. No pain. The chill of death cannot cool his passion. The hero burns eternal.</text>
+		<text bitflag="1345" id1="490592" id2="17" version="1065353216">Sounds better in Voss. Basic lacks nuance.</text>
+		<text bitflag="1345" id1="490593" id2="17" version="1065353216">I prefer the direct approach, myself.</text>
+		<text bitflag="1360" id1="490593" id2="17" version="1065353216">I'm not into nuance.</text>
+		<text bitflag="1345" id1="490594" id2="17" version="1065353216">Of course. Time for action.</text>
+		<text bitflag="1345" id1="490596" id2="17" version="1065353216">Thank you for sharing that with me.</text>
+		<text bitflag="1360" id1="490596" id2="17" version="1065353216">That was beautiful.</text>
+		<text bitflag="1345" id1="490597" id2="17" version="1065353216">My honor. We must go. Valen-Da waits.</text>
+		<text bitflag="1345" id1="490599" id2="17" version="1065353216">I... you are welcome. We must go. Valen-Da waits for us.</text>
+		<text bitflag="1345" id1="490601" id2="17" version="1065353216">The Mystics want blind obedience. These songs glorify pointless suicide missions.</text>
+		<text bitflag="1360" id1="490601" id2="17" version="1065353216">That poem celebrates failure.</text>
+		<text bitflag="1345" id1="490602" id2="17" version="1065353216">Outsiders do not understand the Voss.</text>
+		<text bitflag="1345" id1="490604" id2="17" version="1065353216">Will they write a song about me if I live?</text>
+		<text bitflag="1360" id1="490604" id2="17" version="1065353216">I don't plan on dying.</text>
+		<text bitflag="1345" id1="490605" id2="17" version="1065353216">We remember those who are worthy.</text>
+		<text bitflag="1345" id1="490608" id2="17" version="1065353216">I've destroyed all the generators. The shields around the king's vault are down.</text>
+		<text bitflag="1345" id1="490609" id2="17" version="1065353216">We suffered many casualties. We will occupy the Gormak as long as possible.</text>
+		<text bitflag="1345" id1="490610" id2="17" version="1065353216">Get your squad out of there before you lose any more people.</text>
+		<text bitflag="1360" id1="490610" id2="17" version="1065353216">You've done enough. Fall back.</text>
+		<text bitflag="1345" id1="490611" id2="17" version="1065353216">No. We leave, you'll fight Gormak reinforcements.</text>
+		<text bitflag="1345" id1="490612" id2="17" version="1065353216">We can't fail. Buy me as much time as you can then pull out.</text>
+		<text bitflag="1360" id1="490612" id2="17" version="1065353216">You're right. Keep fighting.</text>
+		<text bitflag="1345" id1="490613" id2="17" version="1065353216">How long can you last?</text>
+		<text bitflag="1360" id1="490613" id2="17" version="1065353216">Will you be able to make it?</text>
+		<text bitflag="1345" id1="490614" id2="17" version="1065353216">Long enough. We will not let the Gormak send reinforcements.</text>
+		<text bitflag="1345" id1="490615" id2="17" version="1065353216">Don't throw your lives away!</text>
+		<text bitflag="1360" id1="490615" id2="17" version="1065353216">Get your squad to safety.</text>
+		<text bitflag="1345" id1="490616" id2="17" version="1065353216">We will begin a fighting retreat. Get the maps. Rendezvous at the Voss camp on the border of the Nightmare Lands.</text>
+		<text bitflag="1345" id1="490618" id2="17" version="1065353216">I'm about to enter the king's vault. Hold out as long as you can, then pull out.</text>
+		<text bitflag="1360" id1="490618" id2="17" version="1065353216">I'll try to hurry.</text>
+		<text bitflag="1345" id1="490619" id2="17" version="1065353216">You have to buy me time. We need those maps to stop Fulminiss.</text>
+		<text bitflag="1360" id1="490619" id2="17" version="1065353216">This mission can't fail.</text>
+		<text bitflag="1345" id1="490620" id2="17" version="1065353216">I don't care how many people you lose - keep fighting!</text>
+		<text bitflag="1360" id1="490620" id2="17" version="1065353216">Just do your job!</text>
+		<text bitflag="1345" id1="490621" id2="17" version="1065353216">We will battle until the end.</text>
+		<text bitflag="1345" id1="490623" id2="17" version="1065353216">Get the maps. Rendezvous at the Voss camp on the border of the Nightmare Lands.</text>
+		<text bitflag="1345" id1="490625" id2="17" version="1065353216">Go to Gorma-Koss. My squad will distract the Gormak. Destroy the shield generators. Get the maps from the vault.</text>
+		<text bitflag="1345" id1="490628" id2="17" version="1065353216">Outsider. Your mission is done. Go now.</text>
+		<text bitflag="1345" id1="490630" id2="17" version="1065353216">Wait. He helped us. We may need help again.</text>
+		<text bitflag="1345" id1="490632" id2="17" version="1065353216">Wait. She helped us. We may need help again.</text>
+		<text bitflag="1345" id1="490634" id2="17" version="1065353216">Tala-Reh. Know my vision. Lord Fulminiss in a dark cave. Strange symbols adorn the walls. A corrupted ritual unleashes a plague of madness that drowns Voss in blood.</text>
+		<text bitflag="1345" id1="490636" id2="17" version="1065353216">You and the Jedi stand with us. Against him. Meet us in the Nightmare Lands. The Dark Heart.</text>
+		<text bitflag="1345" id1="490637" id2="17" version="1065353216">The Dark Heart! Let's go as soon as possible.</text>
+		<text bitflag="1360" id1="490637" id2="17" version="1065353216">Let's not keep them waiting.</text>
+		<text bitflag="1345" id1="490638" id2="17" version="1065353216">Do you know this place he's talking about?</text>
+		<text bitflag="1360" id1="490638" id2="17" version="1065353216">What's the Dark Heart?</text>
+		<text bitflag="1345" id1="490639" id2="17" version="1065353216">The center of the Nightmare Lands. A legendary place of danger and evil.</text>
+		<text bitflag="1345" id1="490641" id2="17" version="1065353216">I'm sick of chasing after these two. Let's go to the Dark Heart and end this!</text>
+		<text bitflag="1360" id1="490641" id2="17" version="1065353216">Good. This is almost over.</text>
+		<text bitflag="1345" id1="490642" id2="17" version="1065353216">The Dark Heart is hidden. We have no maps. The Voss shun the Nightmare Lands.</text>
+		<text bitflag="1345" id1="490644" id2="17" version="1065353216">The Gormak know the Nightmare Lands. They have maps. The king is dead. The Gormak are vulnerable.</text>
+		<text bitflag="1345" id1="490645" id2="17" version="1065353216">Even without their king, the Gormak are fierce warriors. We need a plan.</text>
+		<text bitflag="1360" id1="490645" id2="17" version="1065353216">They're still dangerous.</text>
+		<text bitflag="1345" id1="490646" id2="17" version="1065353216">The Gormak know the Nightmare Lands. The Gormak king has maps.</text>
+		<text bitflag="1345" id1="490647" id2="17" version="1065353216">I doubt the Gormak will want to share. We need a plan.</text>
+		<text bitflag="1360" id1="490647" id2="17" version="1065353216">We have to get those maps.</text>
+		<text bitflag="1345" id1="490648" id2="17" version="1065353216">I thought they were primitive savages living in small, warring tribes.</text>
+		<text bitflag="1360" id1="490648" id2="17" version="1065353216">The Gormak have a king?</text>
+		<text bitflag="1345" id1="490649" id2="17" version="1065353216">The Gormak king explored the Nightmare Lands. It made him strong. Now many tribes follow him.</text>
+		<text bitflag="1345" id1="490651" id2="17" version="1065353216">I was just thinking I was in the mood to kill something.</text>
+		<text bitflag="1360" id1="490651" id2="17" version="1065353216">Time to slaughter some Gormak!</text>
+		<text bitflag="1345" id1="490652" id2="17" version="1065353216">Scouts watch the Gormak. I will speak with them. Wait here, Outsider.</text>
+		<text bitflag="1345" id1="490654" id2="17" version="1065353216">Phraken-Nal is right to be cautious. Gormak are dangerous. They killed my husband.</text>
+		<text bitflag="1345" id1="490655" id2="17" version="1065353216">That must make this hard for you.</text>
+		<text bitflag="1360" id1="490655" id2="17" version="1065353216">I'm sorry. I didn't know.</text>
+		<text bitflag="1345" id1="490656" id2="17" version="1065353216">He was a commando. He died serving the will of the Mystics.</text>
+		<text bitflag="1345" id1="490657" id2="17" version="1065353216">Was your husband a commando, too?</text>
+		<text bitflag="1360" id1="490657" id2="17" version="1065353216">You were married?</text>
+		<text bitflag="1345" id1="490658" id2="17" version="1065353216">He was. He died serving the will of the Mystics.</text>
+		<text bitflag="1345" id1="490659" id2="17" version="1065353216">He wasn't much of a soldier, then.</text>
+		<text bitflag="1360" id1="490659" id2="17" version="1065353216">He must have been weak.</text>
+		<text bitflag="1345" id1="490660" id2="17" version="1065353216">He was a great warrior! He sacrificed himself to serve the will of the Mystics!</text>
+		<text bitflag="1345" id1="490661" id2="17" version="1065353216">Your love for your husband musn't impair your judgment on this mission. You have to set your feelings aside.</text>
+		<text bitflag="1360" id1="490661" id2="17" version="1065353216">Let go of your grief.</text>
+		<text bitflag="1345" id1="490662" id2="17" version="1065353216">I'd like to hear how he died.</text>
+		<text bitflag="1360" id1="490662" id2="17" version="1065353216">What happened?</text>
+		<text bitflag="1345" id1="490663" id2="17" version="1065353216">Valen-Da had a vision. He sent my husband to Gorma-Koss. Alone. There he met his fate.</text>
+		<text bitflag="1345" id1="490665" id2="17" version="1065353216">He challenged the Gormak king to a duel. The king refused. A hundred Gormak warriors fell on him.</text>
+		<text bitflag="1345" id1="490667" id2="17" version="1065353216">Twenty died before he fell. The king sent my husband's head back to Voss-Ka. Just as Valen-Da foresaw.</text>
+		<text bitflag="1345" id1="490668" id2="17" version="1065353216">If I saw a vision of someone's severed head, I think I'd tell them.</text>
+		<text bitflag="1360" id1="490668" id2="17" version="1065353216">Valen-Da should've warned him.</text>
+		<text bitflag="1345" id1="490669" id2="17" version="1065353216">He did. My husband knew his fate.</text>
+		<text bitflag="1345" id1="490671" id2="17" version="1065353216">Why would someone throw his life away like that?</text>
+		<text bitflag="1360" id1="490671" id2="17" version="1065353216">His death seems pointless.</text>
+		<text bitflag="1345" id1="490672" id2="17" version="1065353216">I think your Mystic wanted you all to himself.</text>
+		<text bitflag="1360" id1="490672" id2="17" version="1065353216">Valen-Da got rid of him.</text>
+		<text bitflag="1345" id1="490673" id2="17" version="1065353216">You do not understand the Mystics. Valen-Da did not know me then.</text>
+		<text bitflag="1345" id1="490675" id2="17" version="1065353216">His death was honored in song. Poems were written. Many were inspired. The commando ranks swelled.</text>
+		<text bitflag="1345" id1="490677" id2="17" version="1065353216">I enlisted. Now I protect Valen-Da.</text>
+		<text bitflag="1345" id1="490678" id2="17" version="1065353216">If your husband hadn't died, you wouldn't be here to help me stop Fulminiss.</text>
+		<text bitflag="1360" id1="490678" id2="17" version="1065353216">The vision served its purpose.</text>
+		<text bitflag="1345" id1="490679" id2="17" version="1065353216">Valen-Da's vision caused your husband to die!</text>
+		<text bitflag="1360" id1="490679" id2="17" version="1065353216">How can you not hate him?</text>
+		<text bitflag="1345" id1="490680" id2="17" version="1065353216">The Gormak killed my husband. Not Valen-Da's vision. They must pay.</text>
+		<text bitflag="1345" id1="490682" id2="17" version="1065353216">Enough stories of your dead husband. We need to focus on stopping Fulminiss, remember?</text>
+		<text bitflag="1360" id1="490682" id2="17" version="1065353216">We don't have time for this.</text>
+		<text bitflag="1345" id1="490683" id2="17" version="1065353216">I'm not interested in your dead husband. I'm trying to stop Fulminiss from destroying Voss. Remember?</text>
+		<text bitflag="1360" id1="490683" id2="17" version="1065353216">I don't care.</text>
+		<text bitflag="1345" id1="490684" id2="17" version="1065353216">I understand. My husband is of the past.</text>
+		<text bitflag="1345" id1="490686" id2="17" version="1065353216">Tala-Reh. Outsider. I have spoken with the scouts.</text>
+		<text bitflag="1345" id1="490688" id2="17" version="1065353216">The maps are in the king's vault at Gorma-Koss. The king is dead, but an army of Gormak still guard it.</text>
+		<text bitflag="1345" id1="490690" id2="17" version="1065353216">The maps are in the king's vault at Gorma-Koss. The vault is unassailable. An army of Gormak protect it.</text>
+		<text bitflag="1345" id1="490692" id2="17" version="1065353216">Commandos entering Gormak territory would draw them away. Thin their numbers.</text>
+		<text bitflag="1345" id1="490693" id2="17" version="1065353216">Commander, send your troops into Gormak territory as a distraction. That will give me a chance to get into the vault and steal those maps.</text>
+		<text bitflag="1360" id1="490693" id2="17" version="1065353216">Sounds like a plan.</text>
+		<text bitflag="1345" id1="490694" id2="17" version="1065353216">Tala-Reh's right. If you create a distraction, I can get inside the Vault and get those maps.</text>
+		<text bitflag="1360" id1="490694" id2="17" version="1065353216">We need to work together.</text>
+		<text bitflag="1345" id1="490695" id2="17" version="1065353216">I don't care how many Gormak are in my way--I'm going to get those maps!</text>
+		<text bitflag="1360" id1="490695" id2="17" version="1065353216">I don't need your help.</text>
+		<text bitflag="1345" id1="490696" id2="17" version="1065353216">Alone you will fail.</text>
+		<text bitflag="1345" id1="490698" id2="17" version="1065353216">Valen-Da has decreed you must go to the Dark Heart. I must heed his words.</text>
+		<text bitflag="1345" id1="490700" id2="17" version="1065353216">Tala-Reh will lead a squad of Commandos against the Gormak. You will infiltrate the King's Vault at Gorma-Koss.</text>
+		<text bitflag="1345" id1="490701" id2="17" version="1065353216">If you can draw away some of the Gormak soldiers, I can get that map.</text>
+		<text bitflag="1360" id1="490701" id2="17" version="1065353216">That should work.</text>
+		<text bitflag="1345" id1="490702" id2="17" version="1065353216">Put someone else in charge of the squad.</text>
+		<text bitflag="1360" id1="490702" id2="17" version="1065353216">Tala-Reh should come with me.</text>
+		<text bitflag="1345" id1="490703" id2="17" version="1065353216">Tala-Reh knows our enemy. With her some Commandos may survive.</text>
+		<text bitflag="1345" id1="490705" id2="17" version="1065353216">You better not screw this up.</text>
+		<text bitflag="1360" id1="490705" id2="17" version="1065353216">Just do your part.</text>
+		<text bitflag="1345" id1="490706" id2="17" version="1065353216">I will assemble the squad. Tala-Reh, explain the details.</text>
+		<text bitflag="1345" id1="490708" id2="17" version="1065353216">The vault is protected by an impregnable shield. Shield generators are scattered through Gorma-Koss.</text>
+		<text bitflag="1345" id1="490710" id2="17" version="1065353216">Find all the generators protecting the king's vault. Destroy them. We will speak when it is done.</text>
+		<text bitflag="1345" id1="490714" id2="17" version="1065353216">Outsider. I am Commander Phraken-Nal. Tala-Reh told me your mission.</text>
+		<text bitflag="1345" id1="490715" id2="17" version="1065353216">It's worse than we thought. Fulminiss used a Sith ritual to drive his apprentices insane. At the shrine, he learned a technique to make it even more powerful.</text>
+		<text bitflag="1345" id1="490716" id2="17" version="1065353216">This is known. We have reports. You killed the priests at the Shrine of Healing.</text>
+		<text bitflag="1345" id1="490717" id2="17" version="1065353216">They attacked me. I had no choice.</text>
+		<text bitflag="1360" id1="490717" id2="17" version="1065353216">Fulminiss drove them insane.</text>
+		<text bitflag="1345" id1="490718" id2="17" version="1065353216">Valen-Da knew I would be at the temple. Their blood is on his hands.</text>
+		<text bitflag="1360" id1="490718" id2="17" version="1065353216">Your Mystic let this happen.</text>
+		<text bitflag="1345" id1="490719" id2="17" version="1065353216">The Mystics are guided by visions. There is a purpose.</text>
+		<text bitflag="1345" id1="490721" id2="17" version="1065353216">Anybody who attacks me suffers the same fate.</text>
+		<text bitflag="1360" id1="490721" id2="17" version="1065353216">They got what they deserved.</text>
+		<text bitflag="1345" id1="490722" id2="17" version="1065353216">We do not blame you. You walk the path of Valen-Da's vision.</text>
+		<text bitflag="1345" id1="490723" id2="17" version="1065353216">This recording was left behind. It's coded so only you can play it.</text>
+		<text bitflag="1360" id1="490723" id2="17" version="1065353216">Valen-Da left you a message.</text>
+		<text bitflag="1345" id1="490724" id2="17" version="1065353216">The Sith could be twisting Valen-Da's visions to his own dark purpose.</text>
+		<text bitflag="1360" id1="490724" id2="17" version="1065353216">Fulminiss is using him.</text>
+		<text bitflag="1345" id1="490725" id2="17" version="1065353216">The truth of the Mystics cannot be bent.</text>
+		<text bitflag="1345" id1="490727" id2="17" version="1065353216">You may believe everything is predestined, but I don't.</text>
+		<text bitflag="1360" id1="490727" id2="17" version="1065353216">I'm not his puppet.</text>
+		<text bitflag="1345" id1="490728" id2="17" version="1065353216">Denial is not truth.</text>
+		<text bitflag="1345" id1="490730" id2="17" version="1065353216">In time, all will be clear.</text>
+		<text bitflag="1345" id1="490731" id2="17" version="1065353216">After all that's happened, you still believe. Maybe this message from Valen-Da will help us understand what's going on.</text>
+		<text bitflag="1360" id1="490731" id2="17" version="1065353216">I admire your faith.</text>
+		<text bitflag="1345" id1="490732" id2="17" version="1065353216">Valen-Da left a message behind. It's coded so only you can play it.</text>
+		<text bitflag="1360" id1="490732" id2="17" version="1065353216">We'll have to wait and see.</text>
+		<text bitflag="1345" id1="490733" id2="17" version="1065353216">I don't put much faith in your Mystics. But Valen-Da did leave a message. It's coded so only you can play it.</text>
+		<text bitflag="1360" id1="490733" id2="17" version="1065353216">I'm not holding my breath.</text>
+		<text bitflag="1345" id1="490736" id2="17" version="1065353216">Only the chosen can make the pilgrimage. The Mystics have decreed it. I must wait here.</text>
+		<text bitflag="1345" id1="490737" id2="17" version="1065353216">Hopefully this won't take long.</text>
+		<text bitflag="1360" id1="490737" id2="17" version="1065353216">I'll be back when I'm done.</text>
+		<text bitflag="1345" id1="490738" id2="17" version="1065353216">Hurry. Go to the Shrine of Healing. I must wait here.</text>
+		<text bitflag="1345" id1="490740" id2="17" version="1065353216">Your pilgrimage awaits. Speak with Suva-Rak.</text>
+		<text bitflag="1345" id1="490742" id2="17" version="1065353216">I'm here. Ready to enter the Shrine of Healing and stop Lord Fulminiss?</text>
+		<text bitflag="1345" id1="490743" id2="17" version="1065353216">I cannot. The shrine is forbidden to me.</text>
+		<text bitflag="1345" id1="490745" id2="17" version="1065353216">Make the pilgrimage alone. The guardians will open the shrine.</text>
+		<text bitflag="1345" id1="490746" id2="17" version="1065353216">I will honor your customs. Tell me what to do.</text>
+		<text bitflag="1360" id1="490746" id2="17" version="1065353216">If that's what I have to do.</text>
+		<text bitflag="1345" id1="490747" id2="17" version="1065353216">If Fulminiss seeks to destroy all life on Voss, what at the Shrine would help him do that?</text>
+		<text bitflag="1360" id1="490747" id2="17" version="1065353216">What do the Sith want there?</text>
+		<text bitflag="1345" id1="490748" id2="17" version="1065353216">I do not know. Only those chosen may go to the shrine.</text>
+		<text bitflag="1345" id1="490750" id2="17" version="1065353216">I thought you were sworn to protect your Mystic. Now you're going to sit by and do nothing?</text>
+		<text bitflag="1360" id1="490750" id2="17" version="1065353216">So I do all the work?</text>
+		<text bitflag="1345" id1="490751" id2="17" version="1065353216">Only those chosen may make the pilgrimage.</text>
+		<text bitflag="1345" id1="490753" id2="17" version="1065353216">The Mystics have decreed it.</text>
+		<text bitflag="1345" id1="490755" id2="17" version="1065353216">Speak to Suva-Rak. He will tell you how to enter the shrine.</text>
+		<text bitflag="1345" id1="490756" id2="17" version="1065353216">He told me what I need to do.</text>
+		<text bitflag="1360" id1="490756" id2="17" version="1065353216">I already spoke with him.</text>
+		<text bitflag="1345" id1="490757" id2="17" version="1065353216">Just tell me where to find him.</text>
+		<text bitflag="1360" id1="490757" id2="17" version="1065353216">I'll go see him now.</text>
+		<text bitflag="1345" id1="490758" id2="17" version="1065353216">You're sworn to protect Valen-Da, but all these laws and traditions stand in your way. Doesn't that make you angry?</text>
+		<text bitflag="1360" id1="490758" id2="17" version="1065353216">That doesn't bother you?</text>
+		<text bitflag="1345" id1="490759" id2="17" version="1065353216">You can't let a law handed down by some Mystic centuries ago stop you from doing your duty!</text>
+		<text bitflag="1360" id1="490759" id2="17" version="1065353216">Bend the rules. Come with me.</text>
+		<text bitflag="1345" id1="490760" id2="17" version="1065353216">We obey the Mystics.</text>
+		<text bitflag="1360" id1="490761" id2="17" version="1065353216">Okay, you've made your point.</text>
+		<text bitflag="1345" id1="490763" id2="17" version="1065353216">What if they're wrong?</text>
+		<text bitflag="1360" id1="490763" id2="17" version="1065353216">They're not infallible.</text>
+		<text bitflag="1345" id1="490764" id2="17" version="1065353216">You can't just let others control your life like that!</text>
+		<text bitflag="1360" id1="490764" id2="17" version="1065353216">Blind obedience is stupid.</text>
+		<text bitflag="1345" id1="490765" id2="17" version="1065353216">The Mystics are never wrong.</text>
+		<text bitflag="1345" id1="490766" id2="17" version="1065353216">It's obvious I can't change your mind. But we can still work together.</text>
+		<text bitflag="1360" id1="490766" id2="17" version="1065353216">There's no point arguing this.</text>
+		<text bitflag="1345" id1="490767" id2="17" version="1065353216">We've seen what kind of man Lord Fulminiss is. Surely you don't think Valen-Da is right to help him?</text>
+		<text bitflag="1360" id1="490767" id2="17" version="1065353216">Valen-Da trusted the Sith.</text>
+		<text bitflag="1345" id1="490768" id2="17" version="1065353216">A Mystic is always right.</text>
+		<text bitflag="1345" id1="490770" id2="17" version="1065353216">Are all Voss this stupid, or is it just you?</text>
+		<text bitflag="1360" id1="490770" id2="17" version="1065353216">This whole planet is insane!</text>
+		<text bitflag="1345" id1="490771" id2="17" version="1065353216">All Voss obey the Mystics.</text>
+		<text bitflag="1345" id1="490773" id2="17" version="1065353216">Suva-Rak is in the camp. Speak with him to begin your pilgrimage.</text>
+		<text bitflag="1345" id1="490774" id2="17" version="1065353216">We will speak when you return from the shrine.</text>
+		<text bitflag="1345" id1="490782" id2="17" version="1065353216">The journey to the shrine is arduous. I will make preparations.</text>
+		<text bitflag="1345" id1="490784" id2="17" version="1065353216">Here. The location of my supply camp. Meet me there. We will continue our mission.</text>
+		<text bitflag="1345" id1="490790" id2="17" version="1065353216">Called us monsters. Mad with terror.</text>
+		<text bitflag="1345" id1="490791" id2="17" version="1065353216">You know how to handle yourself in combat.</text>
+		<text bitflag="1360" id1="490791" id2="17" version="1065353216">You fight well.</text>
+		<text bitflag="1345" id1="490792" id2="17" version="1065353216">As do you. Your martial skill is impressive.</text>
+		<text bitflag="1345" id1="490794" id2="17" version="1065353216">Lord Fulminiss must have done something to destroy their minds.</text>
+		<text bitflag="1360" id1="490794" id2="17" version="1065353216">That's the dark side.</text>
+		<text bitflag="1345" id1="490795" id2="17" version="1065353216">He may not be to blame. Many who enter the wilds go mad.</text>
+		<text bitflag="1345" id1="490797" id2="17" version="1065353216">Those Sith apprentices would have killed you if it wasn't for me.</text>
+		<text bitflag="1360" id1="490797" id2="17" version="1065353216">You're lucky I was here.</text>
+		<text bitflag="1345" id1="490798" id2="17" version="1065353216">Doubtful. I am a commando.</text>
+		<text bitflag="1345" id1="490800" id2="17" version="1065353216">Here. A holorecorder.</text>
+		<text bitflag="1345" id1="490802" id2="17" version="1065353216">Welcome back, Lord Fulminiss. The ritual preparations are complete. Is this Voss going to be our first test subject?</text>
+		<text bitflag="1345" id1="490804" id2="17" version="1065353216">Valen-Da is still useful to me. The same cannot be said of you.</text>
+		<text bitflag="1345" id1="490806" id2="17" version="1065353216">No! Please, don't! Ugh! Aaaaah!</text>
+		<text bitflag="1345" id1="490808" id2="17" version="1065353216">The monsters. I see them. They're everywhere. They're all around me. No! No!</text>
+		<text bitflag="1345" id1="490809" id2="17" version="1065353216">So, your Mystic was still alive when this holo was made.</text>
+		<text bitflag="1360" id1="490809" id2="17" version="1065353216">Valen-Da is with him.</text>
+		<text bitflag="1345" id1="490810" id2="17" version="1065353216">That's grim, even for a Sith Lord.</text>
+		<text bitflag="1360" id1="490810" id2="17" version="1065353216">He turned on his own people?</text>
+		<text bitflag="1345" id1="490811" id2="17" version="1065353216">The dark side's all about grim. I bet the Emperor loves this guy.</text>
+		<text bitflag="1345" id1="490813" id2="17" version="1065353216">Fulminiss often pleased the Emperor with his ruthless cruelty.</text>
+		<text bitflag="1345" id1="490815" id2="17" version="1065353216">Fulminiss destroyed the minds of his own apprentices. Now do you understand why he has to be stopped?</text>
+		<text bitflag="1360" id1="490815" id2="17" version="1065353216">See what the Sith are like?</text>
+		<text bitflag="1345" id1="490816" id2="17" version="1065353216">There is more.</text>
+		<text bitflag="1345" id1="490818" id2="17" version="1065353216">We're done here. Take me to the Shrine of Healing.</text>
+		<text bitflag="1345" id1="490820" id2="17" version="1065353216">The journey is long. We must go now.</text>
+		<text bitflag="1345" id1="490821" id2="17" version="1065353216">Tell me where I can find the Shrine of Healing, so I can stop Fulminiss.</text>
+		<text bitflag="1360" id1="490821" id2="17" version="1065353216">We know where they're going.</text>
+		<text bitflag="1345" id1="490822" id2="17" version="1065353216">This clue seems a little too convenient to have been dropped by accident.</text>
+		<text bitflag="1360" id1="490822" id2="17" version="1065353216">Where did this holo come from?</text>
+		<text bitflag="1345" id1="490823" id2="17" version="1065353216">Valen-Da left the holo for me to find.</text>
+		<text bitflag="1345" id1="490825" id2="17" version="1065353216">Valen-Da saw what Fulminiss is capable of, and he's still willing to help him.</text>
+		<text bitflag="1360" id1="490825" id2="17" version="1065353216">Your Mystic is a traitor.</text>
+		<text bitflag="1345" id1="490826" id2="17" version="1065353216">Mystics are beyond reproach.</text>
+		<text bitflag="1345" id1="490828" id2="17" version="1065353216">Fulminiss is dangerous. We must work together.</text>
+		<text bitflag="1345" id1="490829" id2="17" version="1065353216">We'll have a better chance if we team up.</text>
+		<text bitflag="1360" id1="490829" id2="17" version="1065353216">Good idea.</text>
+		<text bitflag="1345" id1="490830" id2="17" version="1065353216">First you ordered me to leave, now you want to team up?</text>
+		<text bitflag="1360" id1="490830" id2="17" version="1065353216">Suddenly you want my help?</text>
+		<text bitflag="1345" id1="490831" id2="17" version="1065353216">The situation changed.</text>
+		<text bitflag="1345" id1="490833" id2="17" version="1065353216">I can handle this on my own. You'll just get in the way.</text>
+		<text bitflag="1360" id1="490833" id2="17" version="1065353216">I don't need you.</text>
+		<text bitflag="1345" id1="490834" id2="17" version="1065353216">You will fail without me.</text>
+		<text bitflag="1345" id1="490836" id2="17" version="1065353216">The Shrine of Healing is sacred. A place of ancient power. Fulminiss can cause great harm there.</text>
+		<text bitflag="1345" id1="490838" id2="17" version="1065353216">Not during battle!</text>
+		<text bitflag="1345" id1="490841" id2="17" version="1065353216">Outsider. Why are you here?</text>
+		<text bitflag="1345" id1="490842" id2="17" version="1065353216">I came here in search of a man named Lord Fulminiss.</text>
+		<text bitflag="1360" id1="490842" id2="17" version="1065353216">I'm looking for a Sith.</text>
+		<text bitflag="1345" id1="490843" id2="17" version="1065353216">We have the same goal. This is a problem.</text>
+		<text bitflag="1345" id1="490845" id2="17" version="1065353216">I'm not going to answer any questions until you tell me your name.</text>
+		<text bitflag="1360" id1="490845" id2="17" version="1065353216">Who are you?</text>
+		<text bitflag="1345" id1="490846" id2="17" version="1065353216">I'm not going to answer your questions.</text>
+		<text bitflag="1360" id1="490846" id2="17" version="1065353216">None of your business.</text>
+		<text bitflag="1345" id1="490847" id2="17" version="1065353216">You do not trust me. This will not help.</text>
+		<text bitflag="1345" id1="490849" id2="17" version="1065353216">I am Tala-Reh. You wear Jedi garb. Sith's sworn enemy.</text>
+		<text bitflag="1345" id1="490851" id2="17" version="1065353216">We want none of your war. I search for Fulminiss. Do not interfere.</text>
+		<text bitflag="1345" id1="490852" id2="17" version="1065353216">We both want the same thing. Maybe we should team up.</text>
+		<text bitflag="1360" id1="490852" id2="17" version="1065353216">We should work together.</text>
+		<text bitflag="1345" id1="490853" id2="17" version="1065353216">What business do you have with him?</text>
+		<text bitflag="1360" id1="490853" id2="17" version="1065353216">Why are you looking for him?</text>
+		<text bitflag="1345" id1="490854" id2="17" version="1065353216">You fear I am his ally. I am not.</text>
+		<text bitflag="1345" id1="490856" id2="17" version="1065353216">If I don't find Fulminiss, all of Voss will be destroyed.</text>
+		<text bitflag="1360" id1="490856" id2="17" version="1065353216">My mission is more important.</text>
+		<text bitflag="1345" id1="490857" id2="17" version="1065353216">You are Jedi. He is Sith. Say anything to turn the Voss against him.</text>
+		<text bitflag="1345" id1="490859" id2="17" version="1065353216">I seek Valen-Da. He is a powerful Mystic. I am sworn to protect him.</text>
+		<text bitflag="1345" id1="490861" id2="17" version="1065353216">Three days ago Valen-Da left the Mystic temple with Lord Fulminiss. Neither have been seen since.</text>
+		<text bitflag="1345" id1="490862" id2="17" version="1065353216">I tracked a comm signal from Lord Fulminiss to here. He could be hiding deeper inside.</text>
+		<text bitflag="1360" id1="490862" id2="17" version="1065353216">They might be in this cave.</text>
+		<text bitflag="1345" id1="490863" id2="17" version="1065353216">Did Lord Fulminiss take Valen-Da hostage?</text>
+		<text bitflag="1360" id1="490863" id2="17" version="1065353216">He must be a prisoner.</text>
+		<text bitflag="1345" id1="490864" id2="17" version="1065353216">Jedi prejudice. Valen-Da left the temple willingly.</text>
+		<text bitflag="1345" id1="490866" id2="17" version="1065353216">I don't care about a single Mystic. I'm trying to save the life of everyone on Voss!</text>
+		<text bitflag="1360" id1="490866" id2="17" version="1065353216">That's not my problem.</text>
+		<text bitflag="1345" id1="490867" id2="17" version="1065353216">Wild claims. Say anything to disparage Sith.</text>
+		<text bitflag="1345" id1="490869" id2="17" version="1065353216">You wish violence upon Lord Fulminiss.</text>
+		<text bitflag="1345" id1="490870" id2="17" version="1065353216">Fulminiss has one goal - to wipe out all life on Voss. I will do what I must to stop him.</text>
+		<text bitflag="1360" id1="490870" id2="17" version="1065353216">Only as a last resort.</text>
+		<text bitflag="1345" id1="490871" id2="17" version="1065353216">Listen to me: all Voss are in danger. Fulminiss intends to kill everyone on this planet. I won't let that happen.</text>
+		<text bitflag="1360" id1="490871" id2="17" version="1065353216">He wishes violence on you.</text>
+		<text bitflag="1345" id1="490872" id2="17" version="1065353216">The Sith seek to wipe out all life on this planet. You and your people are dead if I don't stop Fulminiss.</text>
+		<text bitflag="1360" id1="490872" id2="17" version="1065353216">It's what he deserves.</text>
+		<text bitflag="1345" id1="490873" id2="17" version="1065353216">Your actions may harm Valen-Da. That must not be. Leave.</text>
+		<text bitflag="1345" id1="490875" id2="17" version="1065353216">No! Get back, you foul monsters! You want to peel the flesh from our bones!</text>
+		<text bitflag="1345" id1="490876" id2="17" version="1065353216">This doesn't have to end in violence.</text>
+		<text bitflag="1360" id1="490876" id2="17" version="1065353216">Peace! Drop your weapons!</text>
+		<text bitflag="1345" id1="490877" id2="17" version="1065353216">It's okay. Calm down. Nobody's here to peel off your flesh.</text>
+		<text bitflag="1360" id1="490877" id2="17" version="1065353216">We're not here to hurt you.</text>
+		<text bitflag="1345" id1="490878" id2="17" version="1065353216">That's right--I'll skin you alive if you don't tell me where to find your master!</text>
+		<text bitflag="1360" id1="490878" id2="17" version="1065353216">Where's Fulminiss? Or else!</text>
+		<text bitflag="1345" id1="490879" id2="17" version="1065353216">The beasts want to feast on our innards! Kill them before they chew out our guts!</text>
+		<text bitflag="1345" id1="490881" id2="17" version="1065353216">Aaaaah!</text>
+		<text bitflag="1345" id1="490885" id2="17" version="1065353216">You came. I'm glad. We must speak. Alone.</text>
+		<text bitflag="1345" id1="490886" id2="17" version="1065353216">Can you give us some privacy?</text>
+		<text bitflag="1345" id1="490887" id2="17" version="1065353216">Remember--you're a Jedi. That comes with certain responsibilities. And certain restrictions.</text>
+		<text bitflag="1345" id1="490889" id2="17" version="1065353216">I'll be right over there if you need me. Just over there... really close by....</text>
+		<text bitflag="1345" id1="490891" id2="17" version="1065353216">Don't do anything I wouldn't do. Actually, I can't think of what that might be.</text>
+		<text bitflag="1345" id1="490893" id2="17" version="1065353216">I'll wait over there.</text>
+		<text bitflag="1345" id1="490895" id2="17" version="1065353216">Is that an order, sir?</text>
+		<text bitflag="3393" id1="490897" id2="17" version="1065353216">T7 = nearby // Jedi = call if needed</text>
+		<text bitflag="1345" id1="490899" id2="17" version="1065353216">You came alone. Good.</text>
+		<text bitflag="1345" id1="490901" id2="17" version="1065353216">This is difficult. You are an Outsider. But you saved me from Sel-Makor. We are connected.</text>
+		<text bitflag="1345" id1="490902" id2="17" version="1065353216">My order has rules against this. Personal relationships are forbidden.</text>
+		<text bitflag="1360" id1="490902" id2="17" version="1065353216">A Jedi must resist emotion.</text>
+		<text bitflag="1345" id1="490903" id2="17" version="1065353216">Relationships bring healing. My husband died. Inside, I also died. Now feelings are reborn.</text>
+		<text bitflag="1345" id1="490905" id2="17" version="1065353216">We stopped Fulminiss together. Destroyed Sel-Makor. You don't go through that without developing some kind of friendship.</text>
+		<text bitflag="1360" id1="490905" id2="17" version="1065353216">We make a good team.</text>
+		<text bitflag="1345" id1="490906" id2="17" version="1065353216">This is something more.</text>
+		<text bitflag="1345" id1="490908" id2="17" version="1065353216">I know what you mean. There is a bond between us.</text>
+		<text bitflag="1360" id1="490908" id2="17" version="1065353216">I feel it too.</text>
+		<text bitflag="1345" id1="490909" id2="17" version="1065353216">My husband died. Inside, I died. Now feelings are reborn. I live again.</text>
+		<text bitflag="1345" id1="490911" id2="17" version="1065353216">Come with me. I need you. You heal the wounds of grief. One night. That is all I ask.</text>
+		<text bitflag="1345" id1="490912" id2="17" version="1065353216">Will you leave Voss? Join my quest to stop the Emperor?</text>
+		<text bitflag="1360" id1="490912" id2="17" version="1065353216">What happens after that?</text>
+		<text bitflag="1345" id1="490913" id2="17" version="1065353216">I cannot leave. I serve the Mystics. But tonight, I will serve you.</text>
+		<text bitflag="1360" id1="490914" id2="17" version="1065353216">I'm sorry. No.</text>
+		<text bitflag="1345" id1="490916" id2="17" version="1065353216">You're lonely, I know that. So, it's understandable that our friendship feels like something more than it is.</text>
+		<text bitflag="1360" id1="490916" id2="17" version="1065353216">I see your pain, but I can't.</text>
+		<text bitflag="1345" id1="490917" id2="17" version="1065353216">You feel only friendship? I thought... no. You are right. I was blinded by grief.</text>
+		<text bitflag="1345" id1="490919" id2="17" version="1065353216">My husband is gone. I still live. Clinging to the pain does not honor him.</text>
+		<text bitflag="1345" id1="490921" id2="17" version="1065353216">You are wise. Thank you, Jedi. I will remember you. Always.</text>
+		<text bitflag="1345" id1="490923" id2="17" version="1065353216">Can't believe you passed that up. Remind me never to become a Jedi.</text>
+		<text bitflag="1345" id1="490924" id2="17" version="1065353216">You did the right thing. And what did you say to her? She actually looks happy for a change.</text>
+		<text bitflag="1345" id1="490925" id2="17" version="1065353216">I know the Jedi like to help others, but we can't waste time like this.</text>
+		<text bitflag="1345" id1="490926" id2="17" version="1065353216">Helping her wasn't part of our mission, but I guess it didn't hurt. Sir.</text>
+		<text bitflag="3393" id1="490927" id2="17" version="1065353216">Tala-Reh = happier // Jedi = helped her</text>
+		<text bitflag="1345" id1="490930" id2="17" version="1065353216">You aren't the only one with emotional wounds. We can help each other.</text>
+		<text bitflag="1360" id1="490930" id2="17" version="1065353216">We both need this.</text>
+		<text bitflag="1345" id1="490931" id2="17" version="1065353216">Sounds good. I'm in.</text>
+		<text bitflag="1360" id1="490931" id2="17" version="1065353216">You've convinced me.</text>
+		<text bitflag="1345" id1="490932" id2="17" version="1065353216">Do you have somewhere more private?</text>
+		<text bitflag="1360" id1="490932" id2="17" version="1065353216">Let's go.</text>
+		<text bitflag="1345" id1="490933" id2="17" version="1065353216">I know a place. Come.</text>
+		<text bitflag="1345" id1="490935" id2="17" version="1065353216">I am sorry you must leave. Last night I was at peace. I am whole.</text>
+		<text bitflag="1345" id1="490936" id2="17" version="1065353216">And now we have to go back to our lives.</text>
+		<text bitflag="1360" id1="490936" id2="17" version="1065353216">It was. But I have to go.</text>
+		<text bitflag="1345" id1="490937" id2="17" version="1065353216">This doesn't have to end. You could join me.</text>
+		<text bitflag="1360" id1="490937" id2="17" version="1065353216">Come with me.</text>
+		<text bitflag="1345" id1="490938" id2="17" version="1065353216">I serve the Mystics. My place is here.</text>
+		<text bitflag="1345" id1="490940" id2="17" version="1065353216">I doubt you'll ever meet another man like me.</text>
+		<text bitflag="1360" id1="490940" id2="17" version="1065353216">I am pretty amazing.</text>
+		<text bitflag="1345" id1="490941" id2="17" version="1065353216">That, I am sure of.</text>
+		<text bitflag="1345" id1="490943" id2="17" version="1065353216">You will be remembered, Jedi. Not just in song.</text>
+		<text bitflag="1345" id1="490945" id2="17" version="1065353216">About time! I was waiting here all night. Alone. I guess the Voss only go for you Jedi types.</text>
+		<text bitflag="1345" id1="490946" id2="17" version="1065353216">I hope that was worth it. The Jedi Code exists for a reason, you know.</text>
+		<text bitflag="1345" id1="490947" id2="17" version="1065353216">Did you have fun with your little blue friend? I hope it was worth it.</text>
+		<text bitflag="1345" id1="490950" id2="17" version="1065353216">If you're done satisfying your physical needs, we should get back to stopping the Emperor.</text>
+		<text bitflag="1345" id1="490951" id2="17" version="1065353216">Sir. Now that you've, uh, &quot;achieved your objective,&quot; I suggest we get back to our primary mission.</text>
+		<text bitflag="3393" id1="490952" id2="17" version="1065353216">T7 = getting worried // Jedi = gone a long time</text>
+	</file_content>
+</stb_file>

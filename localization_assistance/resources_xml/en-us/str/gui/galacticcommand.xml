@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>54</strs>
+		<file_name>/resources/en-us/str/gui/galacticcommand.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="927959" version="1065353216">LAUNCH HEROIC</text>
+		<text bitflag="321" id1="257" id2="927959" version="1065353216">LAUNCH UPRISING</text>
+		<text bitflag="321" id1="258" id2="927959" version="1065353216">LAUNCH FLASHPOINT</text>
+		<text bitflag="321" id1="259" id2="927959" version="1065353216">TRAVEL</text>
+		<text bitflag="321" id1="260" id2="927959" version="1065353216">DECLINE</text>
+		<text bitflag="321" id1="261" id2="927959" version="1065353216">You must be subscribed to earn command points.</text>
+		<text bitflag="321" id1="283" id2="927959" version="1065353216">GALACTIC COMMAND</text>
+		<text bitflag="321" id1="284" id2="927959" version="1065353216">UPRISINGS</text>
+		<text bitflag="321" id1="285" id2="927959" version="1065353216">Rebellious forces sow chaos throughout the Galaxy, and it's up to you to stop them. Story Uprisings are short, intense missions designed for solo players looking for quick fun.</text>
+		<text bitflag="321" id1="286" id2="927959" version="1065353216">CHAPTERS</text>
+		<text bitflag="321" id1="287" id2="927959" version="1065353216">Play the episodic story of Knights of the Fallen Empire and Knights of the Eternal Throne. Replay previous chapters on higher difficulty levels for greater rewards!</text>
+		<text bitflag="321" id1="288" id2="927959" version="1065353216">FLASHPOINTS</text>
+		<text bitflag="321" id1="289" id2="927959" version="1065353216">Action-packed, story-driven adventures that pit players against difficult foes in volatile situations.</text>
+		<text bitflag="321" id1="290" id2="927959" version="1065353216">PLANETARY MISSIONS</text>
+		<text bitflag="321" id1="291" id2="927959" version="1065353216">Repeatable missions designed to challenge new and veteran players alike.</text>
+		<text bitflag="321" id1="292" id2="927959" version="1065353216">OPERATIONS</text>
+		<text bitflag="321" id1="293" id2="927959" version="1065353216">Operations are challenging, large-scale multi-group missions in which players confront the most dangerous threats to the Galaxy.</text>
+		<text bitflag="321" id1="294" id2="927959" version="1065353216">STARFIGHTER</text>
+		<text bitflag="321" id1="295" id2="927959" version="1065353216">Join a Starfighter match for thrilling, 12v12 free-flight aerial team combat.</text>
+		<text bitflag="321" id1="296" id2="927959" version="1065353216">WARZONES</text>
+		<text bitflag="321" id1="297" id2="927959" version="1065353216">Join a Warzone to engage in frantic 4v4 objective-based arena warfare.</text>
+		<text bitflag="321" id1="298" id2="927959" version="1065353216">DARK SIDE</text>
+		<text bitflag="321" id1="299" id2="927959" version="1065353216">LIGHT SIDE</text>
+		<text bitflag="321" id1="300" id2="927959" version="1065353216">YOU FIGHT FOR THE\n&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="301" id2="927959" version="1065353216">YOUR ALLEGIENCE\nYour actions currently accumulate points for the &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="302" id2="927959" version="1065353216">JOIN THE\n&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="303" id2="927959" version="1065353216">CHANGE ALLEGIANCE&lt;br&gt;Your actions will accumulate alignment points for the &lt;&lt;1&gt;&gt; instead.</text>
+		<text bitflag="321" id1="304" id2="927959" version="1065353216">You must be a subscriber to access this content</text>
+		<text bitflag="321" id1="305" id2="927959" version="1065353216">COMMAND RANK</text>
+		<text bitflag="321" id1="306" id2="927959" version="1065353216">COMMAND POINTS
+&lt;&lt;1&gt;&gt;
+NEXT RANK
+&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="307" id2="927959" version="1065353216">ROLE OPTIONS</text>
+		<text bitflag="321" id1="308" id2="927959" version="1065353216">Story</text>
+		<text bitflag="321" id1="309" id2="927959" version="1065353216">Veteran</text>
+		<text bitflag="321" id1="310" id2="927959" version="1065353216">Master</text>
+		<text bitflag="321" id1="311" id2="927959" version="1065353216">LAUNCH</text>
+		<text bitflag="321" id1="312" id2="927959" version="1065353216">&lt;&lt;1&gt;&gt;, &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="313" id2="927959" version="1065353216">GALACTIC ALIGNMENT</text>
+		<text bitflag="321" id1="314" id2="927959" version="1065353216">BONUS</text>
+		<text bitflag="321" id1="315" id2="927959" version="1065353216">Select your preferred playstyle for activities:</text>
+		<text bitflag="321" id1="316" id2="927959" version="1065353216">ROLE</text>
+		<text bitflag="321" id1="317" id2="927959" version="1065353216">FINDING PLAYERS...</text>
+		<text bitflag="321" id1="318" id2="927959" version="1065353216">Subscribe today to access Uprisings, Galactic Command, and more! Click here for more information on becoming a Subscriber.</text>
+		<text bitflag="321" id1="319" id2="927959" version="1065353216">Galactic Command and Uprisings are available at level 70.</text>
+		<text bitflag="321" id1="320" id2="927959" version="1065353216">Galactic Command and Uprisings are available to subscribers at level 70. Click here for more information on becoming a Subscriber.</text>
+		<text bitflag="321" id1="321" id2="927959" version="1065353216">You may only have one planetary mission active at a time.</text>
+		<text bitflag="321" id1="322" id2="927959" version="1065353216">You are ineligible for planetary missions.</text>
+		<text bitflag="321" id1="323" id2="927959" version="1065353216">You may only have one solo flashpoint mission active at a time.</text>
+		<text bitflag="321" id1="324" id2="927959" version="1065353216">You are ineligible for solo flashpoints.</text>
+		<text bitflag="321" id1="325" id2="927959" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; have reached Command Rank &lt;&lt;2&gt;&gt;!</text>
+		<text bitflag="321" id1="326" id2="927959" version="1065353216">Received &lt;&lt;1&gt;&gt; x&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="327" id2="927959" version="1065353216">You cannot queue for this activity while dead.</text>
+		<text bitflag="321" id1="328" id2="927959" version="1065353216">You cannot queue for this activity while BitRaider is active.</text>
+		<text bitflag="321" id1="329" id2="927959" version="1065353216">You cannot queue for this activity while in combat.</text>
+		<text bitflag="321" id1="330" id2="927959" version="1065353216">You cannot queue for this activity while Quick Travel is forbidden.</text>
+	</file_content>
+</stb_file>

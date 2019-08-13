@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>10</strs>
+		<file_name>/resources/en-us/str/cnv/event/bounty_hunting/shared/transmissions/broker_droid_transmissions.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1113754" id2="17" version="1065353216">Your investigatory skills are most impressive!</text>
+		<text bitflag="1345" id1="1113755" id2="17" version="1065353216">Thank you for accepting a contract from the Bounty Brokers Association!</text>
+		<text bitflag="1345" id1="1113757" id2="17" version="1065353216">Proceed to the planet specified in the contract to meet the client and gather the details of the bounty. Good hunting!</text>
+		<text bitflag="1345" id1="1113758" id2="17" version="1065353216">With the client's information, you should be able to find local miscreants who can provide more details.</text>
+		<text bitflag="1345" id1="1113760" id2="17" version="1065353216">Please do not hesitate to question them aggressively!</text>
+		<text bitflag="1345" id1="1113765" id2="17" version="1065353216">You have all that you need--neutralize the target!</text>
+		<text bitflag="1345" id1="1113766" id2="17" version="1065353216">Impressive lethality. Notify the client of your success!</text>
+		<text bitflag="1345" id1="1113767" id2="17" version="1065353216">A nonlethal approach? Intriguing. A fine prize for the client!</text>
+		<text bitflag="1345" id1="1113768" id2="17" version="1065353216">Your investigations would be more effective if you carried them out on the planet specified in the contract....</text>
+		<text bitflag="1345" id1="1113769" id2="17" version="1065353216">The Bounty Brokers Association is quite impressed with the efficiency and skill displayed in your contract resolutions! Well done!</text>
+	</file_content>
+</stb_file>

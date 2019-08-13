@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/zakuul/nico/mixer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1187066" id2="17" version="1065353216">[You can use this mixer to make your drink for Nico Okarr out of the ingredients you've selected.]</text>
+		<text bitflag="321" id1="1187068" id2="17" version="1065353216">[Do you wish to mix the ingredients you've chosen?]</text>
+		<text bitflag="321" id1="1187069" id2="17" version="1065353216">[However, you must select at least three ingredients before you can mix a drink]</text>
+		<text bitflag="321" id1="1187070" id2="17" version="1065353216">[Mix the selected ingredients and make a drink for Nico]</text>
+		<text bitflag="321" id1="1187071" id2="17" version="1065353216">[Return to the bar to reconsider]</text>
+	</file_content>
+</stb_file>

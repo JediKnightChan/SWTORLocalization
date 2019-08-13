@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>80</strs>
+		<file_name>/resources/en-us/str/prf/subtypes.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="225110" version="1065353216">Misc</text>
+		<text bitflag="321" id1="2" id2="225110" version="1065353216">Medium Armor</text>
+		<text bitflag="321" id1="3" id2="225110" version="1065353216">Heavy Armor</text>
+		<text bitflag="321" id1="4" id2="225110" version="1065353216">Blaster Pistol</text>
+		<text bitflag="321" id1="5" id2="225110" version="1065353216">Blaster Rifle</text>
+		<text bitflag="321" id1="6" id2="225110" version="1065353216">Sniper Rifle</text>
+		<text bitflag="321" id1="7" id2="225110" version="1065353216">Assault Cannon</text>
+		<text bitflag="321" id1="8" id2="225110" version="1065353216">Power Crystal</text>
+		<text bitflag="321" id1="9" id2="225110" version="1065353216">Color Crystal</text>
+		<text bitflag="321" id1="10" id2="225110" version="1065353216">Wieldable</text>
+		<text bitflag="321" id1="11" id2="225110" version="1065353216">Stimulant</text>
+		<text bitflag="321" id1="12" id2="225110" version="1065353216">Adrenal</text>
+		<text bitflag="321" id1="13" id2="225110" version="1065353216">Medical</text>
+		<text bitflag="321" id1="14" id2="225110" version="1065353216">Implant</text>
+		<text bitflag="321" id1="15" id2="225110" version="1065353216">Repair Kit</text>
+		<text bitflag="321" id1="16" id2="225110" version="1065353216">Droid</text>
+		<text bitflag="321" id1="17" id2="225110" version="1065353216">Electro Weapon</text>
+		<text bitflag="321" id1="18" id2="225110" version="1065353216">Earpiece</text>
+		<text bitflag="321" id1="19" id2="225110" version="1065353216">Gadget</text>
+		<text bitflag="321" id1="20" id2="225110" version="1065353216">Light Armor</text>
+		<text bitflag="321" id1="21" id2="225110" version="1065353216">Medium Armor</text>
+		<text bitflag="321" id1="22" id2="225110" version="1065353216">Heavy Armor</text>
+		<text bitflag="321" id1="23" id2="225110" version="1065353216">Blaster Barrel</text>
+		<text bitflag="321" id1="24" id2="225110" version="1065353216">Scope</text>
+		<text bitflag="321" id1="25" id2="225110" version="1065353216">Augment</text>
+		<text bitflag="321" id1="26" id2="225110" version="1065353216">Color Cartridge</text>
+		<text bitflag="321" id1="27" id2="225110" version="1065353216">Emitter Matrix</text>
+		<text bitflag="321" id1="28" id2="225110" version="1065353216">Focus Lens</text>
+		<text bitflag="321" id1="29" id2="225110" version="1065353216">Overlay</text>
+		<text bitflag="321" id1="30" id2="225110" version="1065353216">Circuitry</text>
+		<text bitflag="321" id1="31" id2="225110" version="1065353216">Enhancements</text>
+		<text bitflag="321" id1="32" id2="225110" version="1065353216">Harness</text>
+		<text bitflag="321" id1="33" id2="225110" version="1065353216">Overlay</text>
+		<text bitflag="321" id1="34" id2="225110" version="1065353216">Circuitry</text>
+		<text bitflag="321" id1="35" id2="225110" version="1065353216">Underlay</text>
+		<text bitflag="321" id1="36" id2="225110" version="1065353216">Harness</text>
+		<text bitflag="321" id1="37" id2="225110" version="1065353216">Augment</text>
+		<text bitflag="321" id1="38" id2="225110" version="1065353216">Wieldable</text>
+		<text bitflag="321" id1="39" id2="225110" version="1065353216">Misc</text>
+		<text bitflag="321" id1="40" id2="225110" version="1065353216">Misc</text>
+		<text bitflag="321" id1="41" id2="225110" version="1065353216">Misc</text>
+		<text bitflag="321" id1="42" id2="225110" version="1065353216">Augment</text>
+		<text bitflag="321" id1="43" id2="225110" version="1065353216">Lightsaber Hilt</text>
+		<text bitflag="321" id1="44" id2="225110" version="1065353216">Light Armor</text>
+		<text bitflag="321" id1="45" id2="225110" version="1065353216">Mod</text>
+		<text bitflag="321" id1="46" id2="225110" version="1065353216">Medium Armor</text>
+		<text bitflag="321" id1="47" id2="225110" version="1065353216">Enhancement</text>
+		<text bitflag="321" id1="48" id2="225110" version="1065353216">Armoring</text>
+		<text bitflag="321" id1="49" id2="225110" version="1065353216">Mod</text>
+		<text bitflag="321" id1="50" id2="225110" version="1065353216">Medium Armor</text>
+		<text bitflag="321" id1="51" id2="225110" version="1065353216">Enhancement</text>
+		<text bitflag="321" id1="52" id2="225110" version="1065353216">Armoring</text>
+		<text bitflag="321" id1="53" id2="225110" version="1065353216">Heavy Armor</text>
+		<text bitflag="321" id1="54" id2="225110" version="1065353216">Heavy Armor</text>
+		<text bitflag="321" id1="55" id2="225110" version="1065353216">Grenade</text>
+		<text bitflag="321" id1="56" id2="225110" version="1065353216">Offhand</text>
+		<text bitflag="321" id1="57" id2="225110" version="1065353216">Space</text>
+		<text bitflag="321" id1="58" id2="225110" version="1065353216">Strongholds &amp; Conquests</text>
+		<text bitflag="321" id1="59" id2="225110" version="1065353216">Adaptive Armor</text>
+		<text bitflag="321" id1="60" id2="225110" version="1065353216">Adaptive Armor</text>
+		<text bitflag="321" id1="61" id2="225110" version="1065353216">Archive</text>
+		<text bitflag="321" id1="62" id2="225110" version="1065353216">Archive</text>
+		<text bitflag="321" id1="63" id2="225110" version="1065353216">Archive</text>
+		<text bitflag="321" id1="64" id2="225110" version="1065353216">Archive</text>
+		<text bitflag="321" id1="65" id2="225110" version="1065353216">Archive</text>
+		<text bitflag="321" id1="66" id2="225110" version="1065353216">Archive</text>
+		<text bitflag="321" id1="67" id2="225110" version="1065353216">Assembly Components</text>
+		<text bitflag="321" id1="68" id2="225110" version="1065353216">Armorings</text>
+		<text bitflag="321" id1="69" id2="225110" version="1065353216">Augments</text>
+		<text bitflag="321" id1="70" id2="225110" version="1065353216">Bonded Attachments</text>
+		<text bitflag="321" id1="71" id2="225110" version="1065353216">Armorings</text>
+		<text bitflag="321" id1="72" id2="225110" version="1065353216">Augments</text>
+		<text bitflag="321" id1="73" id2="225110" version="1065353216">Assembly Components</text>
+		<text bitflag="321" id1="74" id2="225110" version="1065353216">Augments</text>
+		<text bitflag="321" id1="75" id2="225110" version="1065353216">Bonded Attachments</text>
+		<text bitflag="321" id1="76" id2="225110" version="1065353216">Relics</text>
+		<text bitflag="321" id1="77" id2="225110" version="1065353216">Dye Modules</text>
+		<text bitflag="321" id1="78" id2="225110" version="1065353216">Lightsabers</text>
+		<text bitflag="321" id1="79" id2="225110" version="1065353216">Assembly Components</text>
+		<text bitflag="321" id1="80" id2="225110" version="1065353216">Cell Grafts</text>
+	</file_content>
+</stb_file>

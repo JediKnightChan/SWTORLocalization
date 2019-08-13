@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>87</strs>
+		<file_name>/resources/en-us/str/cnv/location/raid/shared/hutt_hospitality/rl_4.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="985122" id2="17" version="1065353216">Captain Hardin is ready to deploy to Karagga's palace on Hutta--good luck!</text>
+		<text bitflag="1345" id1="985123" id2="17" version="1065353216">Thank you for your valuable assistance!</text>
+		<text bitflag="1345" id1="985124" id2="17" version="1065353216">Good luck!</text>
+		<text bitflag="1345" id1="985127" id2="17" version="1065353216">Hello! I am RL-4, special envoy of the Chancellor's office. Please remain still for a brief identity scan.</text>
+		<text bitflag="1345" id1="985129" id2="17" version="1065353216">Excellent! Your skill and discretion during the Dromund Kaas operation has qualified you for a special assignment. Please hold while I connect you to Supreme Chancellor Saresh.</text>
+		<text bitflag="1345" id1="985130" id2="17" version="1065353216">It's always an honor to help defend the Republic.</text>
+		<text bitflag="1360" id1="985130" id2="17" version="1065353216">Gladly.</text>
+		<text bitflag="1345" id1="985131" id2="17" version="1065353216">You carried out a mission into the very heart of the Sith? Incredible.</text>
+		<text bitflag="1360" id1="985131" id2="17" version="1065353216">That's quite an achievement.</text>
+		<text bitflag="1345" id1="985132" id2="17" version="1065353216">You got to invade Dromund Kaas? General Garza's been holding out on me....</text>
+		<text bitflag="1360" id1="985132" id2="17" version="1065353216">You hit the Imperial capital?</text>
+		<text bitflag="1345" id1="985133" id2="17" version="1065353216">That's not where we're going this time, is it? I might need a bigger insurance policy.</text>
+		<text bitflag="1360" id1="985133" id2="17" version="1065353216">Sounds dangerous.</text>
+		<text bitflag="1345" id1="985134" id2="17" version="1065353216">Splendid! Your diplomatic achievements with the Rift Alliance have qualified you for a top secret operation. Please hold while I connect you to Supreme Chancellor Saresh.</text>
+		<text bitflag="1345" id1="985135" id2="17" version="1065353216">You must have been quite successful for the Chancellor to select you personally.</text>
+		<text bitflag="1360" id1="985135" id2="17" version="1065353216">You should be honored.</text>
+		<text bitflag="1345" id1="985136" id2="17" version="1065353216">It's always good to win more allies for the Republic.</text>
+		<text bitflag="1360" id1="985136" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="985137" id2="17" version="1065353216">&quot;Diplomacy&quot; isn't the first thing I think of when I hear &quot;top secret operation.&quot;</text>
+		<text bitflag="1360" id1="985137" id2="17" version="1065353216">Sounds unusual.</text>
+		<text bitflag="1345" id1="985138" id2="17" version="1065353216">Sounds like the Republic is trying to make some embarrassing friends.</text>
+		<text bitflag="1360" id1="985138" id2="17" version="1065353216">Secret diplomacy, huh?</text>
+		<text bitflag="1345" id1="985139" id2="17" version="1065353216">Perfect. You are hereby ordered to postpone all operations and hold for an urgent assignment from Supreme Chancellor Saresh. I will connect you directly.</text>
+		<text bitflag="1345" id1="985140" id2="17" version="1065353216">If this mission is so urgent, I'd be proud to lend a hand.</text>
+		<text bitflag="1360" id1="985140" id2="17" version="1065353216">Let me help.</text>
+		<text bitflag="1345" id1="985141" id2="17" version="1065353216">Hold for scan... complete. You are authorized to assist, Master Jedi! Establishing secure connection now.</text>
+		<text bitflag="1345" id1="985143" id2="17" version="1065353216">This can't be the usual chain of command for new orders.</text>
+		<text bitflag="1360" id1="985143" id2="17" version="1065353216">What's going on here?</text>
+		<text bitflag="1345" id1="985144" id2="17" version="1065353216">Havoc Squad is always available for the Chancellor.</text>
+		<text bitflag="1360" id1="985144" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="985145" id2="17" version="1065353216">Even droids give you orders? I thought you were supposed to be important?</text>
+		<text bitflag="1360" id1="985145" id2="17" version="1065353216">You put up with this?</text>
+		<text bitflag="1345" id1="985146" id2="17" version="1065353216">I am merely relaying the orders of the Chancellor.</text>
+		<text bitflag="1345" id1="985148" id2="17" version="1065353216">Splendid. Your dismantling of Grand Admiral Kirill's &quot;Voidwolf&quot; operation has qualified you for a unique assignment. Please hold while I connect you to the Supreme Chancellor.</text>
+		<text bitflag="1345" id1="985149" id2="17" version="1065353216">Sounds like you might become a hero yet, Captain.</text>
+		<text bitflag="1360" id1="985149" id2="17" version="1065353216">That's quite an achievement.</text>
+		<text bitflag="1345" id1="985150" id2="17" version="1065353216">Is it a common military practice to send freighter captains after grand admirals?</text>
+		<text bitflag="1360" id1="985150" id2="17" version="1065353216">That sounds unusual.</text>
+		<text bitflag="1345" id1="985151" id2="17" version="1065353216">Military policies are not in my programming.</text>
+		<text bitflag="1345" id1="985153" id2="17" version="1065353216">I take it this is a naval operation, then?</text>
+		<text bitflag="1360" id1="985153" id2="17" version="1065353216">Sounds like navy business.</text>
+		<text bitflag="1345" id1="985154" id2="17" version="1065353216">I'd best allow the Chancellor to explain.</text>
+		<text bitflag="1345" id1="985156" id2="17" version="1065353216">If I'd known I'd be speaking with the Chancellor, I'd have looked even better.</text>
+		<text bitflag="1360" id1="985156" id2="17" version="1065353216">I should've dressed up.</text>
+		<text bitflag="1345" id1="985157" id2="17" version="1065353216">Your experience has qualified you for a special, top secret assignment. Please hold while I connect you to Supreme Chancellor Saresh.</text>
+		<text bitflag="336" id1="985158" id2="17" version="1065353216">Interesting.</text>
+		<text bitflag="1345" id1="985159" id2="17" version="1065353216">Secure link established.</text>
+		<text bitflag="1345" id1="985161" id2="17" version="1065353216">Couldn't she have just called directly?</text>
+		<text bitflag="1360" id1="985161" id2="17" version="1065353216">This seems very indirect.</text>
+		<text bitflag="1345" id1="985162" id2="17" version="1065353216">The Chancellor is a public figure--contacting someone like you directly would be noticed. This situation requires maximum discretion.</text>
+		<text bitflag="1345" id1="985164" id2="17" version="1065353216">I have places to be--let's keep this short.</text>
+		<text bitflag="1360" id1="985164" id2="17" version="1065353216">Make it quick.</text>
+		<text bitflag="1345" id1="985165" id2="17" version="1065353216">I assure you, there is no task more urgent.</text>
+		<text bitflag="1345" id1="985167" id2="17" version="1065353216">Greetings. I'm glad I could catch you--we've got a dangerous situation developing with the Hutt Cartel, and I want our best people involved.</text>
+		<text bitflag="1345" id1="985169" id2="17" version="1065353216">The Hutts have carried out a series of brutal invasions into neutral territories along our borders. Attacking Republic forces could be their next move.</text>
+		<text bitflag="1345" id1="985170" id2="17" version="1065353216">We should intervene before the Hutts can do more harm.</text>
+		<text bitflag="1360" id1="985170" id2="17" version="1065353216">These attacks must stop.</text>
+		<text bitflag="1345" id1="985171" id2="17" version="1065353216">I agree. But we need to be judicious, or we might create the conflict we're hoping to avoid.</text>
+		<text bitflag="1345" id1="985173" id2="17" version="1065353216">We should find out why the Hutts are suddenly striking out.</text>
+		<text bitflag="1360" id1="985173" id2="17" version="1065353216">There must be an explanation.</text>
+		<text bitflag="1345" id1="985174" id2="17" version="1065353216">I'm hoping you'll be able to do so.</text>
+		<text bitflag="1345" id1="985176" id2="17" version="1065353216">We should hit the Hutts now, before they become a direct threat.</text>
+		<text bitflag="1360" id1="985176" id2="17" version="1065353216">Time for a preemptive strike.</text>
+		<text bitflag="1345" id1="985177" id2="17" version="1065353216">We can't afford to add another front to this war--not until we have more facts.</text>
+		<text bitflag="1345" id1="985179" id2="17" version="1065353216">There must be something valuable in those territories--not much profit in attacking the Republic.</text>
+		<text bitflag="1360" id1="985179" id2="17" version="1065353216">Hutts only move for credits.</text>
+		<text bitflag="1345" id1="985180" id2="17" version="1065353216">Perhaps their goals have changed.</text>
+		<text bitflag="1345" id1="985182" id2="17" version="1065353216">If the Hutts are becoming a threat, why are you hiding it?</text>
+		<text bitflag="1360" id1="985182" id2="17" version="1065353216">Why all of the secrecy?</text>
+		<text bitflag="1345" id1="985183" id2="17" version="1065353216">We don't know if they're a threat or not. We need to get the facts before we let this information out.</text>
+		<text bitflag="1345" id1="985185" id2="17" version="1065353216">As you said, they haven't attacked Republic forces. Why the concern?</text>
+		<text bitflag="1360" id1="985185" id2="17" version="1065353216">Sounds like paranoia to me.</text>
+		<text bitflag="1345" id1="985186" id2="17" version="1065353216">I refuse to sit back and let a potential enemy ready themselves on our doorstep. We need to know what the Hutts are planning.</text>
+		<text bitflag="1345" id1="985188" id2="17" version="1065353216">It's possible these invasions are just a few Hutts getting greedy, not an organized Cartel war plan. We need to find out.</text>
+		<text bitflag="1345" id1="985190" id2="17" version="1065353216">Another Cartel fleet is heading into the neutral territories as we speak. I'm dispatching a warship to intercept and investigate their actions. You're going to oversee the mission.</text>
+		<text bitflag="1345" id1="985191" id2="17" version="1065353216">We'll get to the bottom of this, Chancellor.</text>
+		<text bitflag="1360" id1="985191" id2="17" version="1065353216">It'll be an honor.</text>
+		<text bitflag="1345" id1="985192" id2="17" version="1065353216">How far are we allowed to go to get answers?</text>
+		<text bitflag="1360" id1="985192" id2="17" version="1065353216">What if things get violent?</text>
+		<text bitflag="1345" id1="985193" id2="17" version="1065353216">You have my full authorization--do whatever is necessary to find out the reason for these attacks.</text>
+		<text bitflag="1345" id1="985195" id2="17" version="1065353216">What are you offering in return?</text>
+		<text bitflag="1360" id1="985195" id2="17" version="1065353216">Make it worth my time.</text>
+		<text bitflag="1345" id1="985196" id2="17" version="1065353216">I believe I've made it clear how important this operation is to the Republic. I will compensate accordingly.</text>
+		<text bitflag="1345" id1="985198" id2="17" version="1065353216">You'll be working with Captain Hardin, from the Outrider. He and his crew have already been briefed--they launch as soon as you board.</text>
+		<text bitflag="1345" id1="985200" id2="17" version="1065353216">With your help, the Republic can end this threat before it begins--and keep our strength focused on our true enemies. Good luck.</text>
+		<text bitflag="1345" id1="985202" id2="17" version="1065353216">Travel safely, gentlebeings!</text>
+		<text bitflag="1345" id1="985204" id2="17" version="1065353216">Greetings!</text>
+	</file_content>
+</stb_file>

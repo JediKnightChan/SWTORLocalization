@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>9</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/world/the_war_machine/console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="674353" id2="17" version="1065353216">[You can't do anything else with this console.]</text>
+		<text bitflag="321" id1="674355" id2="17" version="1065353216">[You can't do anything else with this console.]</text>
+		<text bitflag="321" id1="674356" id2="17" version="1065353216">[You can't do anything else with this console.]</text>
+		<text bitflag="321" id1="674357" id2="17" version="1065353216">[Using this console, you can disable the OHK-99 droid units or set them to report back to the Empire.]</text>
+		<text bitflag="336" id1="674358" id2="17" version="1065353216">[Disable the droids]</text>
+		<text bitflag="321" id1="674359" id2="17" version="1065353216">[Done.]</text>
+		<text bitflag="336" id1="674361" id2="17" version="1065353216">[Send droids to the Empire]</text>
+		<text bitflag="321" id1="674362" id2="17" version="1065353216">[Done.]</text>
+		<text bitflag="321" id1="674364" id2="17" version="1065353216">[You're not sure what purpose this console serves.]</text>
+	</file_content>
+</stb_file>

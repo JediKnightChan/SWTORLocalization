@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/human_male_sith_imperial.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63592" id2="17" version="1065353216">Try your best!</text>
+		<text bitflag="1345" id1="63594" id2="17" version="1065353216">Submit, worm!</text>
+		<text bitflag="1345" id1="63596" id2="17" version="1065353216">Good. A challenge!</text>
+		<text bitflag="1345" id1="63598" id2="17" version="1065353216">I'll crush you!</text>
+		<text bitflag="1345" id1="63600" id2="17" version="1065353216">Victory will be mine!</text>
+		<text bitflag="1345" id1="63602" id2="17" version="1065353216">You'll never strike me down!</text>
+	</file_content>
+</stb_file>

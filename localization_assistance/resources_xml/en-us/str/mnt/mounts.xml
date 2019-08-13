@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/mnt/mounts.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="2" id2="393851" version="1065353216">You do not meet the level requirement for this vehicle.</text>
+		<text bitflag="321" id1="3" id2="393851" version="1065353216">You do not have the required speeder piloting skill for this vehicle.</text>
+		<text bitflag="321" id1="5" id2="393851" version="1065353216">You already have this vehicle.</text>
+		<text bitflag="321" id1="256" id2="393851" version="1065353216">You failed to protect the Tauntaun.</text>
+		<text bitflag="321" id1="257" id2="393851" version="1065353216">You failed to lure a Tauntaun to the nest.</text>
+		<text bitflag="321" id1="258" id2="393851" version="1065353216">You successfully lured a Tauntaun to the nest.</text>
+		<text bitflag="321" id1="259" id2="393851" version="1065353216">The nest was successfully defended.</text>
+	</file_content>
+</stb_file>

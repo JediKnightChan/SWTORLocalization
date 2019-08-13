@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/war_world/quesh/world/republic/the_defense_of_quesh/medical_console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="598071" id2="17" version="1065353216">[This console dispenses venom neutralizer, but it is now empty.]</text>
+		<text bitflag="1345" id1="598072" id2="17" version="1065353216">[The console automatically inoculates the user against the effects of Quesh venom.]</text>
+		<text bitflag="1345" id1="598074" id2="17" version="1065353216">[It also dispenses emergency venom neutralizers, which counteract the effects of Quesh venom and venom-based adrenals.]</text>
+		<text bitflag="1345" id1="598077" id2="17" version="1065353216">I'm sure I'll find a use for these.</text>
+		<text bitflag="1345" id1="598078" id2="17" version="1065353216">I'll just leave this thing alone.</text>
+		<text bitflag="1360" id1="598078" id2="17" version="1065353216">[Leave the console]</text>
+		<text bitflag="1360" id1="754852" id2="17" version="1065353216">[Take some neutralizers]</text>
+	</file_content>
+</stb_file>

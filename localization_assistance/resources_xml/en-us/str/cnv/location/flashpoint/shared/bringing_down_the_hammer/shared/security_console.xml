@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/bringing_down_the_hammer/shared/security_console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="973945" id2="17" version="1065353216">[You slice the computer and disengage the security locks that bar entry to Section Zero.]</text>
+		<text bitflag="321" id1="973947" id2="17" version="1065353216">[While searching the mainframe, you notice an administrative control labeled &quot;Power to Engineering Level.&quot;]</text>
+		<text bitflag="321" id1="973949" id2="17" version="1065353216">[Overloading or disabling the power conduits on the engineering level might distract the Advozse forces while you infiltrate Section Zero. Overloading will make a much bigger impact but will also certainly kill many of the Advozse working on that level.]</text>
+		<text bitflag="321" id1="973964" id2="17" version="1065353216">[You disable the power conduits, cutting power to the engineering level.]</text>
+		<text bitflag="336" id1="973964" id2="17" version="1065353216">[Disable the power conduits]</text>
+		<text bitflag="321" id1="973965" id2="17" version="1065353216">[You sabotage the power conduits, wreaking havoc on the engineering level.]</text>
+		<text bitflag="336" id1="973965" id2="17" version="1065353216">[Sabotage the power conduits]</text>
+		<text bitflag="321" id1="976001" id2="17" version="1065353216">[The console is offline.]</text>
+		<text bitflag="321" id1="976007" id2="17" version="1065353216">[The console is offline.]</text>
+		<text bitflag="321" id1="976017" id2="17" version="1065353216">[You slice the computer and disengage the security locks that bar entry to Section Zero.]</text>
+		<text bitflag="321" id1="976019" id2="17" version="1065353216">[While searching the mainframe, you notice an administrative control labeled &quot;Power to Engineering Level.&quot;]</text>
+		<text bitflag="321" id1="976021" id2="17" version="1065353216">[Overloading or disabling the power conduits on the engineering level might distract the Advozse forces while you infiltrate Section Zero. Overloading will make a much bigger impact but will also certainly kill many of the Advozse working on that level.]</text>
+		<text bitflag="321" id1="976022" id2="17" version="1065353216">[You disable the power conduits, cutting power to the engineering level.]</text>
+		<text bitflag="336" id1="976022" id2="17" version="1065353216">[Disable the power conduits]</text>
+		<text bitflag="321" id1="976024" id2="17" version="1065353216">[You sabotage the power conduits, wreaking havoc on the engineering level.]</text>
+		<text bitflag="336" id1="976024" id2="17" version="1065353216">[Sabotage the power conduits]</text>
+	</file_content>
+</stb_file>

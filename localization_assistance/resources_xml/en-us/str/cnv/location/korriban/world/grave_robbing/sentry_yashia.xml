@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>66</strs>
+		<file_name>/resources/en-us/str/cnv/location/korriban/world/grave_robbing/sentry_yashia.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="658484" id2="17" version="1065353216">Good day, my lord.</text>
+		<text bitflag="1345" id1="658487" id2="17" version="1065353216">I hope Naman Fal took the news well.</text>
+		<text bitflag="1345" id1="658488" id2="17" version="1065353216">You should go. Talk to Naman Fal.</text>
+		<text bitflag="1345" id1="658489" id2="17" version="1065353216">You found him? That poor acolyte.</text>
+		<text bitflag="1345" id1="658490" id2="17" version="1065353216">He got torn up pretty badly in there.</text>
+		<text bitflag="1360" id1="658490" id2="17" version="1065353216">It wasn't pretty.</text>
+		<text bitflag="1345" id1="658491" id2="17" version="1065353216">Ah--he was so brave and ready to prove himself to his father.</text>
+		<text bitflag="1345" id1="658493" id2="17" version="1065353216">Yes, yes--one dead acolyte.</text>
+		<text bitflag="1360" id1="658493" id2="17" version="1065353216">Here it is.</text>
+		<text bitflag="1360" id1="658494" id2="17" version="1065353216">Yeah, was that all?</text>
+		<text bitflag="1345" id1="658495" id2="17" version="1065353216">His father is--was--Naman Fal. As I said before, he's one of the dark honor guards in the Academy.</text>
+		<text bitflag="1345" id1="658497" id2="17" version="1065353216">If you take the acolyte's remains to his father, I'm sure he'll be grateful.</text>
+		<text bitflag="1345" id1="658498" id2="17" version="1065353216">What exactly is a &quot;dark honor guard,&quot; anyway?</text>
+		<text bitflag="1360" id1="658498" id2="17" version="1065353216">Remind me about his father.</text>
+		<text bitflag="1345" id1="658499" id2="17" version="1065353216">They are the Sith chosen from the most loyal and brutal shock troops to defend the Dark Council and the Emperor himself.</text>
+		<text bitflag="1345" id1="658501" id2="17" version="1065353216">I suppose it's always good to make powerful friends.</text>
+		<text bitflag="1360" id1="658501" id2="17" version="1065353216">Hopefully this will pay off.</text>
+		<text bitflag="1360" id1="658502" id2="17" version="1065353216">A good idea.</text>
+		<text bitflag="1345" id1="658503" id2="17" version="1065353216">Thank you. It's good to see that there are more feelings embraced by the Sith than just hate and fury.</text>
+		<text bitflag="1345" id1="658505" id2="17" version="1065353216">You can find the acolyte's father outside the Chamber of the Dark Council. That's where he stands guard.</text>
+		<text bitflag="1345" id1="658507" id2="17" version="1065353216">Good luck.</text>
+		<text bitflag="1345" id1="658510" id2="17" version="1065353216">My lord, may I speak to you for a moment?</text>
+		<text bitflag="1345" id1="658511" id2="17" version="1065353216">Acolyte, may I speak to you for a moment?</text>
+		<text bitflag="1345" id1="658512" id2="17" version="1065353216">Sure, why not, sentry? Go ahead.</text>
+		<text bitflag="1360" id1="658512" id2="17" version="1065353216">Fine by me.</text>
+		<text bitflag="1360" id1="658513" id2="17" version="1065353216">[Flirt] Oh, you're attractive.</text>
+		<text bitflag="1345" id1="658514" id2="17" version="1065353216">Oh, yes. Um, thank you. You're too kind. Really.</text>
+		<text bitflag="1360" id1="658516" id2="17" version="1065353216">Go ahead.</text>
+		<text bitflag="1345" id1="658517" id2="17" version="1065353216">Thank you. I am honored that you would do me the courtesy.</text>
+		<text bitflag="1360" id1="658519" id2="17" version="1065353216">Begone.</text>
+		<text bitflag="1345" id1="658520" id2="17" version="1065353216">Please, I didn't mean to offend. I just... wanted to....</text>
+		<text bitflag="1345" id1="658522" id2="17" version="1065353216">There was an acolyte. Not long ago, he entered this tomb and did not come back. He... he died in there.</text>
+		<text bitflag="1345" id1="658523" id2="17" version="1065353216">There was another acolyte--not long ago, who entered this tomb and did not come back. He... he died in there.</text>
+		<text bitflag="1360" id1="658524" id2="17" version="1065353216">So what happened?</text>
+		<text bitflag="1345" id1="658525" id2="17" version="1065353216">I don't know, but I could tell he was dying. I heard him scream even through the great tomb doors.</text>
+		<text bitflag="1345" id1="658526" id2="17" version="1065353216">And you were worried to see a handsome man like me die too?</text>
+		<text bitflag="1360" id1="658526" id2="17" version="1065353216">[Flirt] You're sweet.</text>
+		<text bitflag="1345" id1="658527" id2="17" version="1065353216">No! I mean, not that--but that's not what I meant... I mean, it's just that....</text>
+		<text bitflag="1345" id1="658528" id2="17" version="1065353216">And you were worried I might die as well? That's sweet.</text>
+		<text bitflag="1360" id1="658528" id2="17" version="1065353216">You're a softie!</text>
+		<text bitflag="1345" id1="658529" id2="17" version="1065353216">No! I mean, of course you would survive if you went in there. It's just....</text>
+		<text bitflag="1360" id1="658530" id2="17" version="1065353216">Weak acolytes fall.</text>
+		<text bitflag="1345" id1="658531" id2="17" version="1065353216">That seems even more true on Korriban, I'm afraid.</text>
+		<text bitflag="1345" id1="658533" id2="17" version="1065353216">The acolyte who went in there, he--he was a good sort. Friendly and talkative. He said he was entering the tomb to prove himself to his father.</text>
+		<text bitflag="1345" id1="658535" id2="17" version="1065353216">I just thought it would be nice if somebody took his body back and told his father he didn't make it.</text>
+		<text bitflag="1345" id1="658536" id2="17" version="1065353216">Yes, the father should be told that his son has fallen.</text>
+		<text bitflag="1360" id1="658536" id2="17" version="1065353216">That makes sense.</text>
+		<text bitflag="1360" id1="658537" id2="17" version="1065353216">Are all sentries this stupid?</text>
+		<text bitflag="1345" id1="658538" id2="17" version="1065353216">If you have no pity for the boy, think of the father then and the prestige you could gain from doing this. His father is a powerful man.</text>
+		<text bitflag="1345" id1="658540" id2="17" version="1065353216">So go do it, you useless woman.</text>
+		<text bitflag="1360" id1="658540" id2="17" version="1065353216">You've got legs.</text>
+		<text bitflag="1345" id1="658541" id2="17" version="1065353216">So go do it already, you useless woman.</text>
+		<text bitflag="1360" id1="658541" id2="17" version="1065353216">You've got legs.</text>
+		<text bitflag="1345" id1="658542" id2="17" version="1065353216">So go do it already, you useless woman.</text>
+		<text bitflag="1360" id1="658542" id2="17" version="1065353216">You've got legs.</text>
+		<text bitflag="1345" id1="658543" id2="17" version="1065353216">I'd never survive in there, and even if I did, I wouldn't be allowed to see his father.</text>
+		<text bitflag="1345" id1="658545" id2="17" version="1065353216">He is a dark honor guard stationed in the Academy. None but Sith can ever set foot on the sacred ground where he stands watch.</text>
+		<text bitflag="1345" id1="658547" id2="17" version="1065353216">But you could find the body and bring it to his father. Please, do this and honor the fallen?</text>
+		<text bitflag="1345" id1="658548" id2="17" version="1065353216">If I see the acolyte's body, I will try to retrieve it.</text>
+		<text bitflag="1360" id1="658548" id2="17" version="1065353216">I'll give it a shot.</text>
+		<text bitflag="1345" id1="658549" id2="17" version="1065353216">This dark honor guard better make it worth my while.</text>
+		<text bitflag="1360" id1="658549" id2="17" version="1065353216">I expect a reward.</text>
+		<text bitflag="1360" id1="658550" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="658551" id2="17" version="1065353216">Thank you so much. If you find the acolyte's remains inside the tomb, let me know--I can tell you where to find his father in the Academy. Good luck.</text>
+		<text bitflag="1345" id1="658553" id2="17" version="1065353216">This is the tomb where acolytes take their final trials--I'm sure you'll be seeing it soon.</text>
+		<text bitflag="1345" id1="658554" id2="17" version="1065353216">Good day to you.</text>
+	</file_content>
+</stb_file>

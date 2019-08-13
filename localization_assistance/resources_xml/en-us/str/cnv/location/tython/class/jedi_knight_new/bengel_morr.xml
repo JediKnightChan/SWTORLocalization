@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>65</strs>
+		<file_name>/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/bengel_morr.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="457266" id2="17" version="1065353216">The weak will be sacrificed here to make the Forge stronger.</text>
+		<text bitflag="1345" id1="457463" id2="17" version="1065353216">You've won--why has the Force guided me to this defeat?</text>
+		<text bitflag="1345" id1="457465" id2="17" version="1065353216">The darkness at your core makes you powerful. Strong enough to destroy the Sith.</text>
+		<text bitflag="1345" id1="457467" id2="17" version="1065353216">You're stronger than any Jedi I've known. You could redeem the order and destroy the Sith.</text>
+		<text bitflag="1345" id1="457469" id2="17" version="1065353216">I understand. You are the weapon I came to forge.</text>
+		<text bitflag="1345" id1="457470" id2="17" version="1065353216">You don't have a destiny, Bengel. You're sick. You need help.</text>
+		<text bitflag="1360" id1="457470" id2="17" version="1065353216">You're misguided.</text>
+		<text bitflag="1345" id1="457471" id2="17" version="1065353216">Don't deny the truth. Think--how else could you have beaten me?</text>
+		<text bitflag="1345" id1="457473" id2="17" version="1065353216">You think I'm destined to defeat the Empire?</text>
+		<text bitflag="1360" id1="457473" id2="17" version="1065353216">Me?</text>
+		<text bitflag="1345" id1="457474" id2="17" version="1065353216">I'm certain of it. I found my purpose, at last.</text>
+		<text bitflag="1345" id1="457476" id2="17" version="1065353216">I hope you'll appreciate the irony of me killing you.</text>
+		<text bitflag="1360" id1="457476" id2="17" version="1065353216">Wonderful--now die.</text>
+		<text bitflag="1345" id1="457477" id2="17" version="1065353216">You don't have to strike me down. I am your servant now.</text>
+		<text bitflag="1345" id1="457479" id2="17" version="1065353216">I have spent a lifetime learning the paths to power. That knowledge is now yours.</text>
+		<text bitflag="1345" id1="457481" id2="17" version="1065353216">Let me leave Tython and prepare the galaxy for your ascendance. I will deliver the gifts you need to claim your destiny.</text>
+		<text bitflag="1345" id1="457482" id2="17" version="1065353216">You'll get the help you need, Bengel--but you can't leave here.</text>
+		<text bitflag="1360" id1="457482" id2="17" version="1065353216">Rest now. [Knock him out]</text>
+		<text bitflag="1345" id1="457484" id2="17" version="1065353216">Give me the things I'll need to defeat my enemies, and you can live.</text>
+		<text bitflag="1360" id1="457484" id2="17" version="1065353216">We have a deal.</text>
+		<text bitflag="1345" id1="457485" id2="17" version="1065353216">My first gift lies inside the Forge, where Force users created their lightsabers millennia ago.</text>
+		<text bitflag="1345" id1="457487" id2="17" version="1065353216">I have learned their forgotten ways--discovered how to create a truly powerful weapon. I will show you....</text>
+		<text bitflag="1345" id1="457489" id2="17" version="1065353216">Use my knowledge to make your lightsaber, and the Force will be with you.</text>
+		<text bitflag="1345" id1="457491" id2="17" version="1065353216">I must leave, but I will find you when the time is right. Farewell....</text>
+		<text bitflag="3393" id1="457493" id2="17" version="1065353216">T7 = let Bengel Morr go // Decision = against Jedi Council orders</text>
+		<text bitflag="1345" id1="457494" id2="17" version="1065353216">What the Council doesn't know won't hurt it. Hold still....</text>
+		<text bitflag="1345" id1="457496" id2="17" version="1065353216">There. How do you feel?</text>
+		<text bitflag="3393" id1="457497" id2="17" version="1065353216">T7 memory logs = corrupted // Last data = entering Forge</text>
+		<text bitflag="3393" id1="457499" id2="17" version="1065353216">T7 + Jedi = save Master Orgus + defeat Bengel Morr?</text>
+		<text bitflag="1345" id1="457500" id2="17" version="1065353216">We did it, my little friend.</text>
+		<text bitflag="1360" id1="457500" id2="17" version="1065353216">[Lie] That's right.</text>
+		<text bitflag="3393" id1="457501" id2="17" version="1065353216">T7 + Jedi = heroes!</text>
+		<text bitflag="1345" id1="457503" id2="17" version="1065353216">You took a hit in the fight--must have short-circuited. But we defeated Bengel Morr.</text>
+		<text bitflag="1360" id1="457503" id2="17" version="1065353216">You don't remember?</text>
+		<text bitflag="3393" id1="457504" id2="17" version="1065353216">Jedi report = good news // T7 = fully functioning again</text>
+		<text bitflag="1345" id1="457506" id2="17" version="1065353216">You got hit when we entered the clearing. I did all the hard work.</text>
+		<text bitflag="1360" id1="457506" id2="17" version="1065353216">[Lie] You were shot.</text>
+		<text bitflag="3393" id1="457507" id2="17" version="1065353216">T7 = sorry for missing Jedi victory // T7 = dodge better next time</text>
+		<text bitflag="3393" id1="457509" id2="17" version="1065353216">Master Orgus = unconscious // Jedi = help him?</text>
+		<text bitflag="1345" id1="457510" id2="17" version="1065353216">I'll make my own destiny--and you need to die.</text>
+		<text bitflag="1360" id1="457510" id2="17" version="1065353216">No thanks. [Kill him]</text>
+		<text bitflag="1345" id1="457515" id2="17" version="1065353216">I sensed you coming. Your fear betrayed you.</text>
+		<text bitflag="1345" id1="457517" id2="17" version="1065353216">You're weak, like my old Master. You will fall. With him.</text>
+		<text bitflag="1345" id1="457518" id2="17" version="1065353216">What happened to you on Coruscant? Why have you turned against the Jedi?</text>
+		<text bitflag="1360" id1="457518" id2="17" version="1065353216">Tell me why you hate us.</text>
+		<text bitflag="1345" id1="457519" id2="17" version="1065353216">Not the Jedi--the sick, spineless cowards that have taken their place. The traitors who let the Sith slaughter millions.</text>
+		<text bitflag="1345" id1="457521" id2="17" version="1065353216">You're not hurting anyone else, Bengel. It's over.</text>
+		<text bitflag="1360" id1="457521" id2="17" version="1065353216">No, I'll stop you.</text>
+		<text bitflag="1345" id1="457522" id2="17" version="1065353216">No. The will of the Force guided me here for justice, to restore what the Jedi lost.</text>
+		<text bitflag="1345" id1="457524" id2="17" version="1065353216">You weren't on Coruscant. You never saw our greatest cut down or watched the temple burn.</text>
+		<text bitflag="1345" id1="457526" id2="17" version="1065353216">I escaped that destruction to see my own Master surrender to the Sith. They exterminated us, and he gave up.</text>
+		<text bitflag="1345" id1="457527" id2="17" version="1065353216">You're wrong about Master Orgus. He's training me to defeat the Sith.</text>
+		<text bitflag="1360" id1="457527" id2="17" version="1065353216">We'll never give up.</text>
+		<text bitflag="1345" id1="457528" id2="17" version="1065353216">The dark side has already taken root in you. I sense it.</text>
+		<text bitflag="1345" id1="457530" id2="17" version="1065353216">Weapons are only as strong as those who created them.</text>
+		<text bitflag="1345" id1="457532" id2="17" version="1065353216">That's why you brought Master Orgus here? To make him pay?</text>
+		<text bitflag="1360" id1="457532" id2="17" version="1065353216">This is about revenge?</text>
+		<text bitflag="1345" id1="457533" id2="17" version="1065353216">If what you say is true, Orgus should die.</text>
+		<text bitflag="1360" id1="457533" id2="17" version="1065353216">Then he deserves death.</text>
+		<text bitflag="1345" id1="457534" id2="17" version="1065353216">This isn't about revenge. One death changes nothing.</text>
+		<text bitflag="1345" id1="457536" id2="17" version="1065353216">The Jedi Order must be reborn from ashes....</text>
+		<text bitflag="1345" id1="457537" id2="17" version="1065353216">Spare me the speeches. I'm here to end you.</text>
+		<text bitflag="1360" id1="457537" id2="17" version="1065353216">Enough. [Attack]</text>
+		<text bitflag="1345" id1="457538" id2="17" version="1065353216">So be it.</text>
+		<text bitflag="1345" id1="457540" id2="17" version="1065353216">Tython belongs to the true Jedi. Leave, or you will die.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>1461</strs>
+		<file_name>/resources/en-us/str/svy.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="65" id1="0" id2="120550" version="1065353216">Quest Abandoned</text>
+		<text bitflag="65" id1="1" id2="120550" version="1065353216">Please give us some information about the quest you just abandoned. (%questName) Thank you!</text>
+		<text bitflag="65" id1="2" id2="120550" version="1065353216">I didn't like it.</text>
+		<text bitflag="65" id1="3" id2="120550" version="1065353216">It was bugged or broken.</text>
+		<text bitflag="65" id1="4" id2="120550" version="1065353216">I had too many quests.</text>
+		<text bitflag="65" id1="6" id2="120550" version="1065353216">Other</text>
+		<text bitflag="65" id1="7" id2="120550" version="1065353216">Other comments about your abandoned quest?</text>
+		<text bitflag="65" id1="258" id2="120550" version="1065353216">Why did you abandon this quest?</text>
+		<text bitflag="65" id1="0" id2="176873" version="1065353216">Companion Survey</text>
+		<text bitflag="65" id1="1" id2="176873" version="1065353216">Thank you for playtesting!  Please take the time to answer a couple of questions about your companion character.</text>
+		<text bitflag="65" id1="2" id2="176873" version="1065353216">How often do you use your companion's ability?</text>
+		<text bitflag="65" id1="3" id2="176873" version="1065353216">How often do you equip items on your companion?</text>
+		<text bitflag="65" id1="4" id2="176873" version="1065353216">Overall, how much do you enjoy your companion?</text>
+		<text bitflag="65" id1="5" id2="176873" version="1065353216">Comments?</text>
+		<text bitflag="65" id1="6" id2="176873" version="1065353216">1 - I don't enjoy my companion.</text>
+		<text bitflag="65" id1="7" id2="176873" version="1065353216">2</text>
+		<text bitflag="65" id1="8" id2="176873" version="1065353216">3 - I find my companion frustrating.</text>
+		<text bitflag="65" id1="9" id2="176873" version="1065353216">4</text>
+		<text bitflag="65" id1="10" id2="176873" version="1065353216">5 - I don't mind my companion.</text>
+		<text bitflag="65" id1="11" id2="176873" version="1065353216">6</text>
+		<text bitflag="65" id1="12" id2="176873" version="1065353216">7 - I enjoy playing with my companion.</text>
+		<text bitflag="65" id1="13" id2="176873" version="1065353216">8</text>
+		<text bitflag="65" id1="14" id2="176873" version="1065353216">9 - I love playing with my companion.</text>
+		<text bitflag="65" id1="15" id2="176873" version="1065353216">1 - Useless.</text>
+		<text bitflag="65" id1="16" id2="176873" version="1065353216">2</text>
+		<text bitflag="65" id1="17" id2="176873" version="1065353216">3 - Not very useful.</text>
+		<text bitflag="65" id1="18" id2="176873" version="1065353216">4</text>
+		<text bitflag="65" id1="19" id2="176873" version="1065353216">5 - Moderately useful.</text>
+		<text bitflag="65" id1="20" id2="176873" version="1065353216">6</text>
+		<text bitflag="65" id1="21" id2="176873" version="1065353216">7 - Useful.</text>
+		<text bitflag="65" id1="22" id2="176873" version="1065353216">8</text>
+		<text bitflag="65" id1="23" id2="176873" version="1065353216">9 - Extremely useful.</text>
+		<text bitflag="65" id1="24" id2="176873" version="1065353216">1 - Never,</text>
+		<text bitflag="65" id1="25" id2="176873" version="1065353216">2</text>
+		<text bitflag="65" id1="26" id2="176873" version="1065353216">3 - Not very often.</text>
+		<text bitflag="65" id1="27" id2="176873" version="1065353216">4</text>
+		<text bitflag="65" id1="28" id2="176873" version="1065353216">5 - Sometimes.</text>
+		<text bitflag="65" id1="29" id2="176873" version="1065353216">6</text>
+		<text bitflag="65" id1="30" id2="176873" version="1065353216">7 - Frequently.</text>
+		<text bitflag="65" id1="31" id2="176873" version="1065353216">8</text>
+		<text bitflag="65" id1="32" id2="176873" version="1065353216">9 - All the time.</text>
+		<text bitflag="65" id1="33" id2="176873" version="1065353216">1 - Never.</text>
+		<text bitflag="65" id1="34" id2="176873" version="1065353216">2</text>
+		<text bitflag="65" id1="35" id2="176873" version="1065353216">3 - Not very often.</text>
+		<text bitflag="65" id1="36" id2="176873" version="1065353216">4</text>
+		<text bitflag="65" id1="37" id2="176873" version="1065353216">5 - Sometimes.</text>
+		<text bitflag="65" id1="38" id2="176873" version="1065353216">6</text>
+		<text bitflag="65" id1="39" id2="176873" version="1065353216">7 - Frequently.</text>
+		<text bitflag="65" id1="40" id2="176873" version="1065353216">8</text>
+		<text bitflag="65" id1="41" id2="176873" version="1065353216">9 - All the time.</text>
+		<text bitflag="65" id1="258" id2="176873" version="1065353216">How useful is your companion in combat?</text>
+		<text bitflag="65" id1="0" id2="176876" version="1065353216">Maps Survey</text>
+		<text bitflag="65" id1="1" id2="176876" version="1065353216">Thank you for playtesting!  Please take the time to answer a couple of questions about the world map (the map accessible by hitting the 'M' key).</text>
+		<text bitflag="65" id1="2" id2="176876" version="1065353216">How easy or hard is it to navigate using your world map?</text>
+		<text bitflag="65" id1="3" id2="176876" version="1065353216">How easy or hard is it to find quest objectives and other goals on your world map?</text>
+		<text bitflag="65" id1="4" id2="176876" version="1065353216">1 - Never.</text>
+		<text bitflag="65" id1="5" id2="176876" version="1065353216">2</text>
+		<text bitflag="65" id1="6" id2="176876" version="1065353216">3 - Not very often.</text>
+		<text bitflag="65" id1="7" id2="176876" version="1065353216">4</text>
+		<text bitflag="65" id1="8" id2="176876" version="1065353216">5 - Sometimes.</text>
+		<text bitflag="65" id1="9" id2="176876" version="1065353216">6</text>
+		<text bitflag="65" id1="10" id2="176876" version="1065353216">7 - Frequently.</text>
+		<text bitflag="65" id1="11" id2="176876" version="1065353216">8</text>
+		<text bitflag="65" id1="12" id2="176876" version="1065353216">9 - All the time.</text>
+		<text bitflag="65" id1="13" id2="176876" version="1065353216">1 - Impossible.</text>
+		<text bitflag="65" id1="14" id2="176876" version="1065353216">2</text>
+		<text bitflag="65" id1="15" id2="176876" version="1065353216">3 - Difficult.</text>
+		<text bitflag="65" id1="16" id2="176876" version="1065353216">4</text>
+		<text bitflag="65" id1="17" id2="176876" version="1065353216">5 - Acceptable.</text>
+		<text bitflag="65" id1="18" id2="176876" version="1065353216">6</text>
+		<text bitflag="65" id1="19" id2="176876" version="1065353216">7 - Easy.</text>
+		<text bitflag="65" id1="20" id2="176876" version="1065353216">8</text>
+		<text bitflag="65" id1="21" id2="176876" version="1065353216">9 - Very Easy.</text>
+		<text bitflag="65" id1="22" id2="176876" version="1065353216">1 - Impossible.</text>
+		<text bitflag="65" id1="23" id2="176876" version="1065353216">2</text>
+		<text bitflag="65" id1="24" id2="176876" version="1065353216">3 - Difficult.</text>
+		<text bitflag="65" id1="25" id2="176876" version="1065353216">4</text>
+		<text bitflag="65" id1="26" id2="176876" version="1065353216">5 - Acceptable</text>
+		<text bitflag="65" id1="27" id2="176876" version="1065353216">6</text>
+		<text bitflag="65" id1="28" id2="176876" version="1065353216">7 - Easy.</text>
+		<text bitflag="65" id1="29" id2="176876" version="1065353216">8</text>
+		<text bitflag="65" id1="30" id2="176876" version="1065353216">9 - Very easy.</text>
+		<text bitflag="65" id1="32" id2="176876" version="1065353216">Comments?</text>
+		<text bitflag="65" id1="258" id2="176876" version="1065353216">How frequently do you use your world map?</text>
+		<text bitflag="65" id1="0" id2="374185" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="2" id2="374185" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="3" id2="374185" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="4" id2="374185" version="1065353216">Average</text>
+		<text bitflag="65" id1="5" id2="374185" version="1065353216">Easy</text>
+		<text bitflag="65" id1="6" id2="374185" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="7" id2="374185" version="1065353216">How difficult was it to update the items your character used?</text>
+		<text bitflag="65" id1="8" id2="374185" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="9" id2="374185" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="10" id2="374185" version="1065353216">Average</text>
+		<text bitflag="65" id1="11" id2="374185" version="1065353216">Easy</text>
+		<text bitflag="65" id1="12" id2="374185" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="13" id2="374185" version="1065353216">Are you currently playing the class you are most interested in playing at release?</text>
+		<text bitflag="65" id1="14" id2="374185" version="1065353216">I was, but switched - didn't like the class</text>
+		<text bitflag="65" id1="15" id2="374185" version="1065353216">I'm not - I want to save the experience for live</text>
+		<text bitflag="65" id1="16" id2="374185" version="1065353216">I have not decided</text>
+		<text bitflag="65" id1="17" id2="374185" version="1065353216">I am - but not really enjoying it</text>
+		<text bitflag="65" id1="18" id2="374185" version="1065353216">I am - and I love it!</text>
+		<text bitflag="65" id1="20" id2="374185" version="1065353216">Comments</text>
+		<text bitflag="65" id1="258" id2="374185" version="1065353216">How easy was it to kill your first enemy / monster?</text>
+		<text bitflag="65" id1="0" id2="374188" version="1065353216">Advanced Class Survey</text>
+		<text bitflag="65" id1="2" id2="374188" version="1065353216">Did you select your advanced class already?</text>
+		<text bitflag="65" id1="3" id2="374188" version="1065353216">Yes - I selected one</text>
+		<text bitflag="65" id1="4" id2="374188" version="1065353216">No - I am still deciding</text>
+		<text bitflag="65" id1="5" id2="374188" version="1065353216">I do not know how to select an advanced class</text>
+		<text bitflag="65" id1="6" id2="374188" version="1065353216">What information did you use to select your advanced class?</text>
+		<text bitflag="65" id1="7" id2="374188" version="1065353216">Information provided by the advanced class tutor</text>
+		<text bitflag="65" id1="8" id2="374188" version="1065353216">Information from the website</text>
+		<text bitflag="65" id1="9" id2="374188" version="1065353216">Information from a friend or other player</text>
+		<text bitflag="65" id1="10" id2="374188" version="1065353216">A combination of various sources</text>
+		<text bitflag="65" id1="11" id2="374188" version="1065353216">How easy was it for you to find your skill tree?</text>
+		<text bitflag="65" id1="12" id2="374188" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="13" id2="374188" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="14" id2="374188" version="1065353216">Average</text>
+		<text bitflag="65" id1="15" id2="374188" version="1065353216">Easy</text>
+		<text bitflag="65" id1="16" id2="374188" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="17" id2="374188" version="1065353216">Comments</text>
+		<text bitflag="321" id1="0" id2="374192" version="1065353216">Flashpoint Survey</text>
+		<text bitflag="321" id1="2" id2="374192" version="1065353216">How would you rate the directions provided for this Flashpoint?</text>
+		<text bitflag="321" id1="3" id2="374192" version="1065353216">Poor</text>
+		<text bitflag="321" id1="4" id2="374192" version="1065353216">Below average</text>
+		<text bitflag="321" id1="5" id2="374192" version="1065353216">Average</text>
+		<text bitflag="321" id1="6" id2="374192" version="1065353216">Good</text>
+		<text bitflag="321" id1="7" id2="374192" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="8" id2="374192" version="1065353216">How would you rate the story provided for this Flashpoint?</text>
+		<text bitflag="321" id1="9" id2="374192" version="1065353216">Poor</text>
+		<text bitflag="321" id1="10" id2="374192" version="1065353216">Below average</text>
+		<text bitflag="321" id1="11" id2="374192" version="1065353216">Average</text>
+		<text bitflag="321" id1="12" id2="374192" version="1065353216">Good</text>
+		<text bitflag="321" id1="13" id2="374192" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="14" id2="374192" version="1065353216">How would you rate the content provided for this Flashpoint?</text>
+		<text bitflag="321" id1="15" id2="374192" version="1065353216">Poor</text>
+		<text bitflag="321" id1="16" id2="374192" version="1065353216">Below average</text>
+		<text bitflag="321" id1="17" id2="374192" version="1065353216">Average</text>
+		<text bitflag="321" id1="18" id2="374192" version="1065353216">Good</text>
+		<text bitflag="321" id1="19" id2="374192" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="21" id2="374192" version="1065353216">How would you rate the item drops you received in this Flashpoint?</text>
+		<text bitflag="321" id1="22" id2="374192" version="1065353216">Poor</text>
+		<text bitflag="321" id1="23" id2="374192" version="1065353216">Below average</text>
+		<text bitflag="321" id1="24" id2="374192" version="1065353216">Average</text>
+		<text bitflag="321" id1="25" id2="374192" version="1065353216">Good</text>
+		<text bitflag="321" id1="26" id2="374192" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="27" id2="374192" version="1065353216">Did you participate in a group within this Flashpoint?</text>
+		<text bitflag="321" id1="28" id2="374192" version="1065353216">I completed it solo</text>
+		<text bitflag="321" id1="29" id2="374192" version="1065353216">I was in a group of 2</text>
+		<text bitflag="321" id1="30" id2="374192" version="1065353216">I was in a group of 3</text>
+		<text bitflag="321" id1="31" id2="374192" version="1065353216">I was in a full group 4</text>
+		<text bitflag="321" id1="32" id2="374192" version="1065353216">Not sure</text>
+		<text bitflag="321" id1="33" id2="374192" version="1065353216">How would you rate this Flashpoint overall?</text>
+		<text bitflag="321" id1="34" id2="374192" version="1065353216">Poor</text>
+		<text bitflag="321" id1="35" id2="374192" version="1065353216">Below average</text>
+		<text bitflag="321" id1="36" id2="374192" version="1065353216">Average</text>
+		<text bitflag="321" id1="37" id2="374192" version="1065353216">Good</text>
+		<text bitflag="321" id1="38" id2="374192" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="39" id2="374192" version="1065353216">Additional Comments</text>
+		<text bitflag="321" id1="40" id2="374192" version="1065353216">What are your opinions and/or feedback regarding the current group size (4 players/companions)?</text>
+		<text bitflag="321" id1="41" id2="374192" version="1065353216">What are your opinions and/or feedback on counting companions as group members?</text>
+		<text bitflag="65" id1="0" id2="374196" version="1065353216">Heroic Quest Survey</text>
+		<text bitflag="65" id1="1" id2="374196" version="1065353216">%questName%</text>
+		<text bitflag="65" id1="2" id2="374196" version="1065353216">Did you initially attempt to complete this Heroic Quest solo?</text>
+		<text bitflag="65" id1="3" id2="374196" version="1065353216">Yes, completed this solo</text>
+		<text bitflag="65" id1="4" id2="374196" version="1065353216">Yes, attempted to complete, but abandone</text>
+		<text bitflag="65" id1="5" id2="374196" version="1065353216">No, did not attempt to complete this solo</text>
+		<text bitflag="65" id1="6" id2="374196" version="1065353216">No, I grouped before attempting this quest</text>
+		<text bitflag="65" id1="7" id2="374196" version="1065353216">Not sure</text>
+		<text bitflag="65" id1="8" id2="374196" version="1065353216">How many players did you complete this Heroic Quest with?</text>
+		<text bitflag="65" id1="9" id2="374196" version="1065353216">I completed it solo</text>
+		<text bitflag="65" id1="10" id2="374196" version="1065353216">I was in a group of 2</text>
+		<text bitflag="65" id1="11" id2="374196" version="1065353216">I was in a group of 3</text>
+		<text bitflag="65" id1="12" id2="374196" version="1065353216">I was in a full group of 4</text>
+		<text bitflag="65" id1="13" id2="374196" version="1065353216">Not sure</text>
+		<text bitflag="65" id1="14" id2="374196" version="1065353216">How challenging was this Heroic quest for your group?</text>
+		<text bitflag="65" id1="15" id2="374196" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="16" id2="374196" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="17" id2="374196" version="1065353216">Average</text>
+		<text bitflag="65" id1="18" id2="374196" version="1065353216">Easy</text>
+		<text bitflag="65" id1="19" id2="374196" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="20" id2="374196" version="1065353216">How would you rate the effectiveness of your class's role while in a group?</text>
+		<text bitflag="65" id1="21" id2="374196" version="1065353216">Poor</text>
+		<text bitflag="65" id1="22" id2="374196" version="1065353216">Below average</text>
+		<text bitflag="65" id1="23" id2="374196" version="1065353216">Average</text>
+		<text bitflag="65" id1="24" id2="374196" version="1065353216">Good</text>
+		<text bitflag="65" id1="25" id2="374196" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="26" id2="374196" version="1065353216">How many abilities do you use while fighting more difficult mobs in a group?</text>
+		<text bitflag="65" id1="27" id2="374196" version="1065353216">1-2</text>
+		<text bitflag="65" id1="28" id2="374196" version="1065353216">3-4</text>
+		<text bitflag="65" id1="29" id2="374196" version="1065353216">5-6</text>
+		<text bitflag="65" id1="30" id2="374196" version="1065353216">7-8</text>
+		<text bitflag="65" id1="31" id2="374196" version="1065353216">9+</text>
+		<text bitflag="65" id1="32" id2="374196" version="1065353216">Describe how difficult it was to get a group together for this Heroic quest:</text>
+		<text bitflag="65" id1="33" id2="374196" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="34" id2="374196" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="35" id2="374196" version="1065353216">Average</text>
+		<text bitflag="65" id1="36" id2="374196" version="1065353216">Easy</text>
+		<text bitflag="65" id1="37" id2="374196" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="39" id2="374196" version="1065353216">Additional Comments</text>
+		<text bitflag="65" id1="40" id2="374196" version="1065353216">What are your opinions and/or feedback regarding the current group size (4 players/companions)?</text>
+		<text bitflag="65" id1="41" id2="374196" version="1065353216">What are your opinions and/or feedback on counting companions as group members?</text>
+		<text bitflag="321" id1="0" id2="374198" version="1065353216">Performance Survey</text>
+		<text bitflag="321" id1="2" id2="374198" version="1065353216">While playing, how many CTD's (crashes to desktop) do you generally experience?</text>
+		<text bitflag="65" id1="3" id2="374198" version="1065353216">At Least Once Every Hour</text>
+		<text bitflag="65" id1="4" id2="374198" version="1065353216">At Least Once Every 1 to 2 Hours</text>
+		<text bitflag="65" id1="5" id2="374198" version="1065353216">At Least Once Every 2 to 3 Hours</text>
+		<text bitflag="65" id1="6" id2="374198" version="1065353216">Very Rarely (Maybe once per game session)</text>
+		<text bitflag="65" id1="7" id2="374198" version="1065353216">Never have crashed to desktop</text>
+		<text bitflag="321" id1="9" id2="374198" version="1065353216">Please rate your Frame Rate performance:</text>
+		<text bitflag="65" id1="10" id2="374198" version="1065353216">Poor/Unplayable</text>
+		<text bitflag="65" id1="11" id2="374198" version="1065353216">Below expectations</text>
+		<text bitflag="65" id1="12" id2="374198" version="1065353216">Acceptable</text>
+		<text bitflag="65" id1="13" id2="374198" version="1065353216">Above expectations</text>
+		<text bitflag="65" id1="14" id2="374198" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="15" id2="374198" version="1065353216">Please rate the severity of Lag:</text>
+		<text bitflag="65" id1="16" id2="374198" version="1065353216">Unplayable/Intolerable</text>
+		<text bitflag="65" id1="17" id2="374198" version="1065353216">Not enjoyable</text>
+		<text bitflag="65" id1="18" id2="374198" version="1065353216">Acceptable</text>
+		<text bitflag="65" id1="19" id2="374198" version="1065353216">Minimal lag</text>
+		<text bitflag="65" id1="20" id2="374198" version="1065353216">No lag</text>
+		<text bitflag="321" id1="21" id2="374198" version="1065353216">Comments</text>
+		<text bitflag="65" id1="0" id2="374200" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="2" id2="374200" version="1065353216">How would you rate the difficulty of learning how to play your class?</text>
+		<text bitflag="65" id1="3" id2="374200" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="4" id2="374200" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="5" id2="374200" version="1065353216">Average</text>
+		<text bitflag="65" id1="6" id2="374200" version="1065353216">Easy</text>
+		<text bitflag="65" id1="7" id2="374200" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="8" id2="374200" version="1065353216">How enjoyable has your experience been with gaining levels so far?</text>
+		<text bitflag="65" id1="9" id2="374200" version="1065353216">Terrible</text>
+		<text bitflag="65" id1="10" id2="374200" version="1065353216">Not fun</text>
+		<text bitflag="65" id1="11" id2="374200" version="1065353216">Indifferent</text>
+		<text bitflag="65" id1="12" id2="374200" version="1065353216">Slightly fun</text>
+		<text bitflag="65" id1="13" id2="374200" version="1065353216">Very fun</text>
+		<text bitflag="65" id1="14" id2="374200" version="1065353216">How would you rate the quantity of experience (XP) you are gaining from quest completions?</text>
+		<text bitflag="65" id1="15" id2="374200" version="1065353216">Barely noticing gain from quests</text>
+		<text bitflag="65" id1="16" id2="374200" version="1065353216">Need to award a bit more</text>
+		<text bitflag="65" id1="17" id2="374200" version="1065353216">Perfect amount</text>
+		<text bitflag="65" id1="18" id2="374200" version="1065353216">Little bit too much</text>
+		<text bitflag="65" id1="19" id2="374200" version="1065353216">Way too much - needs to be lowered</text>
+		<text bitflag="65" id1="20" id2="374200" version="1065353216">How would you rate the quantity of experience (XP) you are gaining from monsters?</text>
+		<text bitflag="65" id1="21" id2="374200" version="1065353216">Barely noticing gain from monsters</text>
+		<text bitflag="65" id1="22" id2="374200" version="1065353216">Need to award a bit more</text>
+		<text bitflag="65" id1="23" id2="374200" version="1065353216">Perfect amount</text>
+		<text bitflag="65" id1="24" id2="374200" version="1065353216">Little bit too much</text>
+		<text bitflag="65" id1="25" id2="374200" version="1065353216">Way too much - needs to be lowered</text>
+		<text bitflag="65" id1="26" id2="374200" version="1065353216">What did you feel gave you the most experience?</text>
+		<text bitflag="65" id1="27" id2="374200" version="1065353216">Completing Quests</text>
+		<text bitflag="65" id1="28" id2="374200" version="1065353216">Killing Monsters</text>
+		<text bitflag="65" id1="29" id2="374200" version="1065353216">Other</text>
+		<text bitflag="65" id1="31" id2="374200" version="1065353216">Are you still playing the original class you started with?</text>
+		<text bitflag="65" id1="32" id2="374200" version="1065353216">I was, but switched - didn't like the class</text>
+		<text bitflag="65" id1="33" id2="374200" version="1065353216">I'm not - I want to save the experience for live</text>
+		<text bitflag="65" id1="34" id2="374200" version="1065353216">I have not decided</text>
+		<text bitflag="65" id1="35" id2="374200" version="1065353216">I am - but not really enjoying it</text>
+		<text bitflag="65" id1="36" id2="374200" version="1065353216">I am - and I love it!</text>
+		<text bitflag="65" id1="37" id2="374200" version="1065353216">Comments</text>
+		<text bitflag="65" id1="0" id2="374205" version="1065353216">Quest Survey</text>
+		<text bitflag="65" id1="1" id2="374205" version="1065353216">%questName%</text>
+		<text bitflag="65" id1="2" id2="374205" version="1065353216">How would you rate the directions provided for the objectives of this quest?</text>
+		<text bitflag="65" id1="3" id2="374205" version="1065353216">Poor</text>
+		<text bitflag="65" id1="4" id2="374205" version="1065353216">Below average</text>
+		<text bitflag="65" id1="5" id2="374205" version="1065353216">Average</text>
+		<text bitflag="65" id1="6" id2="374205" version="1065353216">Good</text>
+		<text bitflag="65" id1="7" id2="374205" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="8" id2="374205" version="1065353216">How would you rate this quest's story?</text>
+		<text bitflag="65" id1="9" id2="374205" version="1065353216">Poor</text>
+		<text bitflag="65" id1="10" id2="374205" version="1065353216">Below average</text>
+		<text bitflag="65" id1="11" id2="374205" version="1065353216">Average</text>
+		<text bitflag="65" id1="12" id2="374205" version="1065353216">Good</text>
+		<text bitflag="65" id1="13" id2="374205" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="14" id2="374205" version="1065353216">How well did this story fit in the overall Star Wars Universe?</text>
+		<text bitflag="65" id1="15" id2="374205" version="1065353216">Poor</text>
+		<text bitflag="65" id1="16" id2="374205" version="1065353216">Below average</text>
+		<text bitflag="65" id1="17" id2="374205" version="1065353216">Average</text>
+		<text bitflag="65" id1="18" id2="374205" version="1065353216">Good</text>
+		<text bitflag="65" id1="19" id2="374205" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="20" id2="374205" version="1065353216">How would you rate the reward you received from this quest?</text>
+		<text bitflag="65" id1="21" id2="374205" version="1065353216">Poor</text>
+		<text bitflag="65" id1="22" id2="374205" version="1065353216">Below average</text>
+		<text bitflag="65" id1="23" id2="374205" version="1065353216">Average</text>
+		<text bitflag="65" id1="24" id2="374205" version="1065353216">Good</text>
+		<text bitflag="65" id1="25" id2="374205" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="26" id2="374205" version="1065353216">How difficult was this quest to complete solo?</text>
+		<text bitflag="65" id1="27" id2="374205" version="1065353216">Too difficult for solo, I had to group</text>
+		<text bitflag="65" id1="28" id2="374205" version="1065353216">Very difficult, but I was able to complete</text>
+		<text bitflag="65" id1="29" id2="374205" version="1065353216">A well-balanced challenge or engaging</text>
+		<text bitflag="65" id1="30" id2="374205" version="1065353216">Too easy and overly simplistic</text>
+		<text bitflag="65" id1="31" id2="374205" version="1065353216">Not Applicable - Never attempted to solo quest</text>
+		<text bitflag="65" id1="33" id2="374205" version="1065353216">Comments</text>
+		<text bitflag="65" id1="0" id2="374689" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="2" id2="374689" version="1065353216">How often do you group up with other players to complete tasks?</text>
+		<text bitflag="65" id1="3" id2="374689" version="1065353216">Never</text>
+		<text bitflag="65" id1="4" id2="374689" version="1065353216">Rarely</text>
+		<text bitflag="65" id1="5" id2="374689" version="1065353216">Sometimes</text>
+		<text bitflag="65" id1="6" id2="374689" version="1065353216">Often</text>
+		<text bitflag="65" id1="7" id2="374689" version="1065353216">Always</text>
+		<text bitflag="65" id1="8" id2="374689" version="1065353216">How did you find a group?</text>
+		<text bitflag="65" id1="9" id2="374689" version="1065353216">I used the social window / looking for option</text>
+		<text bitflag="65" id1="10" id2="374689" version="1065353216">I asked people questing near me</text>
+		<text bitflag="65" id1="11" id2="374689" version="1065353216">I asked people that I already knew / met</text>
+		<text bitflag="65" id1="12" id2="374689" version="1065353216">I could not find a group</text>
+		<text bitflag="65" id1="13" id2="374689" version="1065353216">I never looked for a group</text>
+		<text bitflag="65" id1="14" id2="374689" version="1065353216">How would you rate the effectiveness of your class's role while solo?</text>
+		<text bitflag="65" id1="15" id2="374689" version="1065353216">Poor</text>
+		<text bitflag="65" id1="16" id2="374689" version="1065353216">Below average</text>
+		<text bitflag="65" id1="17" id2="374689" version="1065353216">Average</text>
+		<text bitflag="65" id1="18" id2="374689" version="1065353216">Good</text>
+		<text bitflag="65" id1="19" id2="374689" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="20" id2="374689" version="1065353216">How many abilities do you use in a single solo mob fight?</text>
+		<text bitflag="65" id1="21" id2="374689" version="1065353216">1-2</text>
+		<text bitflag="65" id1="22" id2="374689" version="1065353216">3-4</text>
+		<text bitflag="65" id1="23" id2="374689" version="1065353216">5-6</text>
+		<text bitflag="65" id1="24" id2="374689" version="1065353216">7-8</text>
+		<text bitflag="65" id1="25" id2="374689" version="1065353216">9+</text>
+		<text bitflag="65" id1="26" id2="374689" version="1065353216">What quantities of your class abilities feel useful in a solo setting?</text>
+		<text bitflag="65" id1="27" id2="374689" version="1065353216">Less than 25% of the abilities</text>
+		<text bitflag="65" id1="28" id2="374689" version="1065353216">25-50% of the abilities</text>
+		<text bitflag="65" id1="29" id2="374689" version="1065353216">50-75% of the abilities</text>
+		<text bitflag="65" id1="30" id2="374689" version="1065353216">75% or higher</text>
+		<text bitflag="65" id1="31" id2="374689" version="1065353216">How easy was it to find quests to complete?</text>
+		<text bitflag="65" id1="32" id2="374689" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="33" id2="374689" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="34" id2="374689" version="1065353216">Average</text>
+		<text bitflag="65" id1="35" id2="374689" version="1065353216">Easy</text>
+		<text bitflag="65" id1="36" id2="374689" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="37" id2="374689" version="1065353216">Comments</text>
+		<text bitflag="65" id1="0" id2="374691" version="1065353216">Quest Survey</text>
+		<text bitflag="65" id1="1" id2="374691" version="1065353216">%questName%</text>
+		<text bitflag="65" id1="3" id2="374691" version="1065353216">How would you rate the directions provided for the objectives of this quest?</text>
+		<text bitflag="65" id1="4" id2="374691" version="1065353216">Poor</text>
+		<text bitflag="65" id1="5" id2="374691" version="1065353216">Below average</text>
+		<text bitflag="65" id1="6" id2="374691" version="1065353216">Average</text>
+		<text bitflag="65" id1="7" id2="374691" version="1065353216">Good</text>
+		<text bitflag="65" id1="8" id2="374691" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="16" id2="374691" version="1065353216">How well did this story fit in the overall Star Wars Universe?</text>
+		<text bitflag="65" id1="17" id2="374691" version="1065353216">Poor</text>
+		<text bitflag="65" id1="18" id2="374691" version="1065353216">Below average</text>
+		<text bitflag="65" id1="19" id2="374691" version="1065353216">Average</text>
+		<text bitflag="65" id1="20" id2="374691" version="1065353216">Good</text>
+		<text bitflag="65" id1="21" id2="374691" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="22" id2="374691" version="1065353216">How would you rate the reward you received from this quest?</text>
+		<text bitflag="65" id1="23" id2="374691" version="1065353216">Poor</text>
+		<text bitflag="65" id1="24" id2="374691" version="1065353216">Below average</text>
+		<text bitflag="65" id1="25" id2="374691" version="1065353216">Average</text>
+		<text bitflag="65" id1="26" id2="374691" version="1065353216">Good</text>
+		<text bitflag="65" id1="27" id2="374691" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="28" id2="374691" version="1065353216">How difficult was this quest to complete solo?</text>
+		<text bitflag="65" id1="29" id2="374691" version="1065353216">Too difficult for solo, I had to group</text>
+		<text bitflag="65" id1="30" id2="374691" version="1065353216">Very difficult, but I was able to complete</text>
+		<text bitflag="65" id1="31" id2="374691" version="1065353216">A well-balanced challenge or engaging</text>
+		<text bitflag="65" id1="32" id2="374691" version="1065353216">Did you use the Multiplayer Conversation System in a group for this quest?</text>
+		<text bitflag="65" id1="33" id2="374691" version="1065353216">Yes</text>
+		<text bitflag="65" id1="34" id2="374691" version="1065353216">No</text>
+		<text bitflag="65" id1="35" id2="374691" version="1065353216">What's the Multiplayer Conversation System?</text>
+		<text bitflag="65" id1="36" id2="374691" version="1065353216">If you used the Multiplayer Conversation System in a group, how easy was it to use?</text>
+		<text bitflag="65" id1="37" id2="374691" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="38" id2="374691" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="39" id2="374691" version="1065353216">Average</text>
+		<text bitflag="65" id1="40" id2="374691" version="1065353216">Easy</text>
+		<text bitflag="65" id1="41" id2="374691" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="42" id2="374691" version="1065353216">Please rate your experience with the Multiplayer Conversation System:</text>
+		<text bitflag="65" id1="43" id2="374691" version="1065353216">Poor</text>
+		<text bitflag="65" id1="44" id2="374691" version="1065353216">Below average</text>
+		<text bitflag="65" id1="45" id2="374691" version="1065353216">Average</text>
+		<text bitflag="65" id1="46" id2="374691" version="1065353216">Good</text>
+		<text bitflag="65" id1="47" id2="374691" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="48" id2="374691" version="1065353216">Comments</text>
+		<text bitflag="65" id1="49" id2="374691" version="1065353216">Too easy and overly simplistic</text>
+		<text bitflag="65" id1="50" id2="374691" version="1065353216">Not Applicable - Never attempted to solo quest</text>
+		<text bitflag="65" id1="51" id2="374691" version="1065353216">I did not use the Multiplayer Conversation System</text>
+		<text bitflag="65" id1="52" id2="374691" version="1065353216">I did not use the Multiplayer Conversation System</text>
+		<text bitflag="65" id1="53" id2="374691" version="1065353216">How would you rate this quest's story?</text>
+		<text bitflag="65" id1="54" id2="374691" version="1065353216">Poor</text>
+		<text bitflag="65" id1="55" id2="374691" version="1065353216">Below average</text>
+		<text bitflag="65" id1="56" id2="374691" version="1065353216">Average</text>
+		<text bitflag="65" id1="57" id2="374691" version="1065353216">Good</text>
+		<text bitflag="65" id1="58" id2="374691" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="0" id2="378095" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="2" id2="378095" version="1065353216">How often did you find an item drop that you or your companion needed?</text>
+		<text bitflag="65" id1="3" id2="378095" version="1065353216">Never</text>
+		<text bitflag="65" id1="4" id2="378095" version="1065353216">Rarely</text>
+		<text bitflag="65" id1="5" id2="378095" version="1065353216">Sometimes</text>
+		<text bitflag="65" id1="6" id2="378095" version="1065353216">Often</text>
+		<text bitflag="65" id1="7" id2="378095" version="1065353216">Always</text>
+		<text bitflag="65" id1="8" id2="378095" version="1065353216">Where do you get the majority of the items you use?</text>
+		<text bitflag="65" id1="9" id2="378095" version="1065353216">Where do you get the majority of the items your companion uses?</text>
+		<text bitflag="65" id1="10" id2="378095" version="1065353216">How often do you upgrade or switch items you are using?</text>
+		<text bitflag="65" id1="11" id2="378095" version="1065353216">How often do you group up with other players to complete tasks?</text>
+		<text bitflag="65" id1="12" id2="378095" version="1065353216">If you are in a group, do you change the loot mechanic?</text>
+		<text bitflag="65" id1="13" id2="378095" version="1065353216">How easy was it to find quests to complete?</text>
+		<text bitflag="65" id1="14" id2="378095" version="1065353216">Comments</text>
+		<text bitflag="65" id1="15" id2="378095" version="1065353216">Monster drops</text>
+		<text bitflag="65" id1="16" id2="378095" version="1065353216">Quest Rewards</text>
+		<text bitflag="65" id1="17" id2="378095" version="1065353216">Vendors using commendations</text>
+		<text bitflag="65" id1="18" id2="378095" version="1065353216">Vendors using credits</text>
+		<text bitflag="65" id1="19" id2="378095" version="1065353216">Crafted items</text>
+		<text bitflag="65" id1="20" id2="378095" version="1065353216">Monster drops</text>
+		<text bitflag="65" id1="21" id2="378095" version="1065353216">Quest Rewards</text>
+		<text bitflag="65" id1="22" id2="378095" version="1065353216">Vendors using commendations</text>
+		<text bitflag="65" id1="23" id2="378095" version="1065353216">Vendors using credits</text>
+		<text bitflag="65" id1="24" id2="378095" version="1065353216">Crafted items</text>
+		<text bitflag="65" id1="25" id2="378095" version="1065353216">Before the next level</text>
+		<text bitflag="65" id1="26" id2="378095" version="1065353216">Every Level</text>
+		<text bitflag="65" id1="27" id2="378095" version="1065353216">Every 2 Levels</text>
+		<text bitflag="65" id1="28" id2="378095" version="1065353216">Rarely</text>
+		<text bitflag="65" id1="29" id2="378095" version="1065353216">Never</text>
+		<text bitflag="65" id1="30" id2="378095" version="1065353216">Rarely</text>
+		<text bitflag="65" id1="31" id2="378095" version="1065353216">Sometimes</text>
+		<text bitflag="65" id1="32" id2="378095" version="1065353216">Often</text>
+		<text bitflag="65" id1="33" id2="378095" version="1065353216">Always</text>
+		<text bitflag="65" id1="34" id2="378095" version="1065353216">No - I did not know you can change it</text>
+		<text bitflag="65" id1="35" id2="378095" version="1065353216">No - Round Robin is the fairest form of loot distribution</text>
+		<text bitflag="65" id1="36" id2="378095" version="1065353216">Yes - Free for All is the fairest form of loot distribution</text>
+		<text bitflag="65" id1="37" id2="378095" version="1065353216">Yes - I alternate between Round Robin and Free for All depending on the group</text>
+		<text bitflag="65" id1="38" id2="378095" version="1065353216">Very Difficult</text>
+		<text bitflag="65" id1="39" id2="378095" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="40" id2="378095" version="1065353216">Average</text>
+		<text bitflag="65" id1="41" id2="378095" version="1065353216">Easy</text>
+		<text bitflag="65" id1="42" id2="378095" version="1065353216">Very Easy</text>
+		<text bitflag="321" id1="0" id2="378147" version="1065353216">Crew Skills Survey</text>
+		<text bitflag="321" id1="2" id2="378147" version="1065353216">How would you rate the instructions provided for Crew Skills?</text>
+		<text bitflag="321" id1="3" id2="378147" version="1065353216">Poor</text>
+		<text bitflag="321" id1="4" id2="378147" version="1065353216">Below average</text>
+		<text bitflag="321" id1="5" id2="378147" version="1065353216">Average</text>
+		<text bitflag="321" id1="6" id2="378147" version="1065353216">Good</text>
+		<text bitflag="321" id1="7" id2="378147" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="8" id2="378147" version="1065353216">How easy was it to obtain materials needed to gather?</text>
+		<text bitflag="321" id1="9" id2="378147" version="1065353216">Very difficult</text>
+		<text bitflag="321" id1="10" id2="378147" version="1065353216">Difficult</text>
+		<text bitflag="321" id1="11" id2="378147" version="1065353216">Average</text>
+		<text bitflag="321" id1="12" id2="378147" version="1065353216">Easy</text>
+		<text bitflag="321" id1="13" id2="378147" version="1065353216">Very easy</text>
+		<text bitflag="321" id1="14" id2="378147" version="1065353216">What will you use the materials you gathered for?</text>
+		<text bitflag="321" id1="15" id2="378147" version="1065353216">Save Materials to Craft an Item I want</text>
+		<text bitflag="321" id1="16" id2="378147" version="1065353216">Save Materials to Use Later</text>
+		<text bitflag="321" id1="17" id2="378147" version="1065353216">Sell materials to other players or vendors for profit</text>
+		<text bitflag="321" id1="18" id2="378147" version="1065353216">Sell materials because I do not know what to do with them</text>
+		<text bitflag="321" id1="19" id2="378147" version="1065353216">How would you rate the Crew Skill system overall?</text>
+		<text bitflag="321" id1="20" id2="378147" version="1065353216">Poor</text>
+		<text bitflag="321" id1="21" id2="378147" version="1065353216">Below average</text>
+		<text bitflag="321" id1="22" id2="378147" version="1065353216">Average</text>
+		<text bitflag="321" id1="23" id2="378147" version="1065353216">Good</text>
+		<text bitflag="321" id1="24" id2="378147" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="25" id2="378147" version="1065353216">Comments</text>
+		<text bitflag="321" id1="0" id2="378160" version="1065353216">Crew Skills Survey</text>
+		<text bitflag="321" id1="2" id2="378160" version="1065353216">How would you rate the instructions provided for Crew Skills?</text>
+		<text bitflag="321" id1="3" id2="378160" version="1065353216">Poor</text>
+		<text bitflag="321" id1="4" id2="378160" version="1065353216">Below average</text>
+		<text bitflag="321" id1="5" id2="378160" version="1065353216">Average</text>
+		<text bitflag="321" id1="6" id2="378160" version="1065353216">Good</text>
+		<text bitflag="321" id1="7" id2="378160" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="8" id2="378160" version="1065353216">How easy was it to obtain materials needed to craft?</text>
+		<text bitflag="321" id1="9" id2="378160" version="1065353216">Very difficult</text>
+		<text bitflag="321" id1="10" id2="378160" version="1065353216">Difficult</text>
+		<text bitflag="321" id1="11" id2="378160" version="1065353216">Average</text>
+		<text bitflag="321" id1="12" id2="378160" version="1065353216">Easy</text>
+		<text bitflag="321" id1="13" id2="378160" version="1065353216">Very easy</text>
+		<text bitflag="321" id1="14" id2="378160" version="1065353216">Please rate the usefulness of the items you crafted:</text>
+		<text bitflag="321" id1="15" id2="378160" version="1065353216">Poor</text>
+		<text bitflag="321" id1="16" id2="378160" version="1065353216">Below average</text>
+		<text bitflag="321" id1="17" id2="378160" version="1065353216">Average</text>
+		<text bitflag="321" id1="18" id2="378160" version="1065353216">Good</text>
+		<text bitflag="321" id1="19" id2="378160" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="20" id2="378160" version="1065353216">How would you rate the Crew Skill system overall?</text>
+		<text bitflag="321" id1="21" id2="378160" version="1065353216">Poor</text>
+		<text bitflag="321" id1="22" id2="378160" version="1065353216">Below average</text>
+		<text bitflag="321" id1="23" id2="378160" version="1065353216">Average</text>
+		<text bitflag="321" id1="24" id2="378160" version="1065353216">Good</text>
+		<text bitflag="321" id1="25" id2="378160" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="26" id2="378160" version="1065353216">Comments</text>
+		<text bitflag="65" id1="0" id2="378174" version="1065353216">Galactic Trade Network</text>
+		<text bitflag="65" id1="2" id2="378174" version="1065353216">Did you make use of the Auction House during this play session?</text>
+		<text bitflag="65" id1="3" id2="378174" version="1065353216">No - didn't locate one yet</text>
+		<text bitflag="65" id1="4" id2="378174" version="1065353216">No - wasn't interested</text>
+		<text bitflag="65" id1="5" id2="378174" version="1065353216">Yes - I browsed</text>
+		<text bitflag="65" id1="6" id2="378174" version="1065353216">Yes - I put items up for Auction</text>
+		<text bitflag="65" id1="7" id2="378174" version="1065353216">Yes - I made a purchase</text>
+		<text bitflag="65" id1="8" id2="378174" version="1065353216">How difficult was it to locate the Auction House?</text>
+		<text bitflag="65" id1="9" id2="378174" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="10" id2="378174" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="11" id2="378174" version="1065353216">Average</text>
+		<text bitflag="65" id1="12" id2="378174" version="1065353216">Easy</text>
+		<text bitflag="65" id1="13" id2="378174" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="14" id2="378174" version="1065353216">How would rate the functionality/usability of the UI for the Auction House?</text>
+		<text bitflag="65" id1="15" id2="378174" version="1065353216">Poor</text>
+		<text bitflag="65" id1="16" id2="378174" version="1065353216">Below average</text>
+		<text bitflag="65" id1="17" id2="378174" version="1065353216">Average</text>
+		<text bitflag="65" id1="18" id2="378174" version="1065353216">Good</text>
+		<text bitflag="65" id1="19" id2="378174" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="20" id2="378174" version="1065353216">Comments</text>
+		<text bitflag="65" id1="0" id2="378184" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="2" id2="378184" version="1065353216">How would you rate the effectiveness of your class while solo?</text>
+		<text bitflag="65" id1="3" id2="378184" version="1065353216">Poor</text>
+		<text bitflag="65" id1="4" id2="378184" version="1065353216">Below average</text>
+		<text bitflag="65" id1="5" id2="378184" version="1065353216">Average</text>
+		<text bitflag="65" id1="6" id2="378184" version="1065353216">Good</text>
+		<text bitflag="65" id1="7" id2="378184" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="8" id2="378184" version="1065353216">How many abilities do you use in a single solo mob fight?</text>
+		<text bitflag="65" id1="9" id2="378184" version="1065353216">1-2</text>
+		<text bitflag="65" id1="10" id2="378184" version="1065353216">3-4</text>
+		<text bitflag="65" id1="11" id2="378184" version="1065353216">5-6</text>
+		<text bitflag="65" id1="12" id2="378184" version="1065353216">7-8</text>
+		<text bitflag="65" id1="13" id2="378184" version="1065353216">9+</text>
+		<text bitflag="65" id1="14" id2="378184" version="1065353216">What quantities of your class abilities feel useful in a solo setting?</text>
+		<text bitflag="65" id1="15" id2="378184" version="1065353216">Less than 25% of the abilities</text>
+		<text bitflag="65" id1="16" id2="378184" version="1065353216">25-50% of the abilities</text>
+		<text bitflag="65" id1="17" id2="378184" version="1065353216">50-75% of the abilities</text>
+		<text bitflag="65" id1="18" id2="378184" version="1065353216">75% or higher</text>
+		<text bitflag="65" id1="19" id2="378184" version="1065353216">How would you rate the overall effectiveness of your Companion Characters?</text>
+		<text bitflag="65" id1="20" id2="378184" version="1065353216">Poor</text>
+		<text bitflag="65" id1="21" id2="378184" version="1065353216">Below average</text>
+		<text bitflag="65" id1="22" id2="378184" version="1065353216">Average</text>
+		<text bitflag="65" id1="23" id2="378184" version="1065353216">Good</text>
+		<text bitflag="65" id1="24" id2="378184" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="25" id2="378184" version="1065353216">Please rate your overall enjoyment of the Companion Characters:</text>
+		<text bitflag="65" id1="26" id2="378184" version="1065353216">I really dislike them</text>
+		<text bitflag="65" id1="27" id2="378184" version="1065353216">They do not add to my enjoyment of the game</text>
+		<text bitflag="65" id1="28" id2="378184" version="1065353216">I am indifferent about them</text>
+		<text bitflag="65" id1="29" id2="378184" version="1065353216">I really enjoy using them</text>
+		<text bitflag="65" id1="30" id2="378184" version="1065353216">I feel they are an asset to the class</text>
+		<text bitflag="65" id1="31" id2="378184" version="1065353216">Did you switch companion characters?</text>
+		<text bitflag="65" id1="32" id2="378184" version="1065353216">I do not have a Companion Character yet</text>
+		<text bitflag="65" id1="33" id2="378184" version="1065353216">I only have one Companion Character</text>
+		<text bitflag="65" id1="34" id2="378184" version="1065353216">I did not know how to select another Companion Character</text>
+		<text bitflag="65" id1="35" id2="378184" version="1065353216">I like the one I am currently using and do not want to select another</text>
+		<text bitflag="65" id1="36" id2="378184" version="1065353216">Yes, I have switched Companions</text>
+		<text bitflag="65" id1="37" id2="378184" version="1065353216">Comments</text>
+		<text bitflag="65" id1="38" id2="378184" version="1065353216">How would you rate the controllability of your Companion Characters:</text>
+		<text bitflag="65" id1="39" id2="378184" version="1065353216">Poor</text>
+		<text bitflag="65" id1="40" id2="378184" version="1065353216">Below average</text>
+		<text bitflag="65" id1="41" id2="378184" version="1065353216">Average</text>
+		<text bitflag="65" id1="42" id2="378184" version="1065353216">Good</text>
+		<text bitflag="65" id1="43" id2="378184" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="0" id2="378214" version="1065353216">Class Quest Survey</text>
+		<text bitflag="65" id1="1" id2="378214" version="1065353216">%questName%</text>
+		<text bitflag="65" id1="2" id2="378214" version="1065353216">How would you rate this Class quest's storyline?</text>
+		<text bitflag="65" id1="3" id2="378214" version="1065353216">Poor</text>
+		<text bitflag="65" id1="4" id2="378214" version="1065353216">Below average</text>
+		<text bitflag="65" id1="5" id2="378214" version="1065353216">Average</text>
+		<text bitflag="65" id1="7" id2="378214" version="1065353216">Good</text>
+		<text bitflag="65" id1="8" id2="378214" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="9" id2="378214" version="1065353216">How would you rate the content in this Class quest?</text>
+		<text bitflag="65" id1="10" id2="378214" version="1065353216">Poor</text>
+		<text bitflag="65" id1="11" id2="378214" version="1065353216">Below average</text>
+		<text bitflag="65" id1="12" id2="378214" version="1065353216">Average</text>
+		<text bitflag="65" id1="13" id2="378214" version="1065353216">Good</text>
+		<text bitflag="65" id1="14" id2="378214" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="15" id2="378214" version="1065353216">How would you rate this Class quest's Voice Acting?</text>
+		<text bitflag="65" id1="16" id2="378214" version="1065353216">Poor</text>
+		<text bitflag="65" id1="17" id2="378214" version="1065353216">Below average</text>
+		<text bitflag="65" id1="18" id2="378214" version="1065353216">Average</text>
+		<text bitflag="65" id1="19" id2="378214" version="1065353216">Good</text>
+		<text bitflag="65" id1="20" id2="378214" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="21" id2="378214" version="1065353216">How would you rate this Class quest's Dark Side/Light Side options?</text>
+		<text bitflag="65" id1="22" id2="378214" version="1065353216">Poor</text>
+		<text bitflag="65" id1="23" id2="378214" version="1065353216">Below average</text>
+		<text bitflag="65" id1="24" id2="378214" version="1065353216">Average</text>
+		<text bitflag="65" id1="25" id2="378214" version="1065353216">Good</text>
+		<text bitflag="65" id1="26" id2="378214" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="27" id2="378214" version="1065353216">How would you rate the reward you received from this quest's completion?</text>
+		<text bitflag="65" id1="28" id2="378214" version="1065353216">Poor</text>
+		<text bitflag="65" id1="29" id2="378214" version="1065353216">Below average</text>
+		<text bitflag="65" id1="30" id2="378214" version="1065353216">Average</text>
+		<text bitflag="65" id1="31" id2="378214" version="1065353216">Good</text>
+		<text bitflag="65" id1="32" id2="378214" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="33" id2="378214" version="1065353216">Comments</text>
+		<text bitflag="321" id1="0" id2="387907" version="1065353216">Survey</text>
+		<text bitflag="321" id1="2" id2="387907" version="1065353216">Based on your experience today, how likely are you to recommend The Old Republic to a friend?</text>
+		<text bitflag="321" id1="3" id2="387907" version="1065353216">10 - Definitely will recommend to a friend</text>
+		<text bitflag="321" id1="4" id2="387907" version="1065353216">9</text>
+		<text bitflag="321" id1="5" id2="387907" version="1065353216">8</text>
+		<text bitflag="321" id1="6" id2="387907" version="1065353216">7</text>
+		<text bitflag="321" id1="7" id2="387907" version="1065353216">6</text>
+		<text bitflag="321" id1="8" id2="387907" version="1065353216">5 - Neutral</text>
+		<text bitflag="321" id1="9" id2="387907" version="1065353216">4</text>
+		<text bitflag="321" id1="10" id2="387907" version="1065353216">3</text>
+		<text bitflag="321" id1="11" id2="387907" version="1065353216">2</text>
+		<text bitflag="321" id1="12" id2="387907" version="1065353216">1 - Definitely will not recommend to a friend</text>
+		<text bitflag="65" id1="0" id2="392652" version="1065353216">Group Survey</text>
+		<text bitflag="65" id1="2" id2="392652" version="1065353216">How do you feel about participating in groups?</text>
+		<text bitflag="65" id1="3" id2="392652" version="1065353216">I prefer to play solo</text>
+		<text bitflag="65" id1="4" id2="392652" version="1065353216">I participate in groups only when I have to</text>
+		<text bitflag="65" id1="5" id2="392652" version="1065353216">I participate in groups to play with friends or colleagues</text>
+		<text bitflag="65" id1="6" id2="392652" version="1065353216">I participate in groups to make new friends</text>
+		<text bitflag="65" id1="7" id2="392652" version="1065353216">I prefer to only play in a group</text>
+		<text bitflag="65" id1="8" id2="392652" version="1065353216">When you are in a group what role do you prefer?</text>
+		<text bitflag="65" id1="9" id2="392652" version="1065353216">I prefer to heal</text>
+		<text bitflag="65" id1="10" id2="392652" version="1065353216">I prefer to tank</text>
+		<text bitflag="65" id1="11" id2="392652" version="1065353216">I prefer to deal damage</text>
+		<text bitflag="65" id1="12" id2="392652" version="1065353216">I prefer to do anything that supports the group</text>
+		<text bitflag="65" id1="13" id2="392652" version="1065353216">I prefer to do whatever I want</text>
+		<text bitflag="65" id1="14" id2="392652" version="1065353216">What is your ideal group make up for SW:TOR?</text>
+		<text bitflag="65" id1="15" id2="392652" version="1065353216">1 Real Player + 1 Companion or play by myself</text>
+		<text bitflag="65" id1="16" id2="392652" version="1065353216">2 Real Player + 2 Companion</text>
+		<text bitflag="65" id1="17" id2="392652" version="1065353216">3 Real Player + 1 Companion</text>
+		<text bitflag="65" id1="18" id2="392652" version="1065353216">4 Real Player + 0 Companion</text>
+		<text bitflag="65" id1="19" id2="392652" version="1065353216">How does your companion's performance in a group compare to yours or other players?</text>
+		<text bitflag="65" id1="20" id2="392652" version="1065353216">Poor</text>
+		<text bitflag="65" id1="21" id2="392652" version="1065353216">Below average</text>
+		<text bitflag="65" id1="22" id2="392652" version="1065353216">Average</text>
+		<text bitflag="65" id1="23" id2="392652" version="1065353216">Good</text>
+		<text bitflag="65" id1="24" id2="392652" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="25" id2="392652" version="1065353216">If your group is full with 2 players and 2 companions, what would your typical response be if a player asks to join your group?</text>
+		<text bitflag="65" id1="26" id2="392652" version="1065353216">Do not invite that player, my group is full</text>
+		<text bitflag="65" id1="27" id2="392652" version="1065353216">Do not invite that player, I only play with people I know</text>
+		<text bitflag="65" id1="28" id2="392652" version="1065353216">Invite that player, a real player can help more than a companion</text>
+		<text bitflag="65" id1="29" id2="392652" version="1065353216">Invite that player, the player may need help</text>
+		<text bitflag="65" id1="30" id2="392652" version="1065353216">Invite that player, I want to meet more people</text>
+		<text bitflag="65" id1="31" id2="392652" version="1065353216">How would you feel about this statement, &quot;Companions play as well as real players?&quot;</text>
+		<text bitflag="65" id1="32" id2="392652" version="1065353216">Poor</text>
+		<text bitflag="65" id1="33" id2="392652" version="1065353216">Below average</text>
+		<text bitflag="65" id1="34" id2="392652" version="1065353216">Average</text>
+		<text bitflag="65" id1="35" id2="392652" version="1065353216">Good</text>
+		<text bitflag="65" id1="36" id2="392652" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="37" id2="392652" version="1065353216">Comments</text>
+		<text bitflag="65" id1="0" id2="411042" version="1065353216">Enter your issue report</text>
+		<text bitflag="65" id1="1" id2="411042" version="1065353216">Thank you for your feedback. Please fill out all sections, to help ensure this issue gets promptly reviewed and resolved.</text>
+		<text bitflag="65" id1="8" id2="411042" version="1065353216">Topic</text>
+		<text bitflag="65" id1="9" id2="411042" version="1065353216">Details (Please give all available information to find and reproduce this issue).</text>
+		<text bitflag="65" id1="20" id2="411042" version="1065353216">General (Default)</text>
+		<text bitflag="65" id1="21" id2="411042" version="1065353216">Art</text>
+		<text bitflag="65" id1="22" id2="411042" version="1065353216">Combat</text>
+		<text bitflag="65" id1="23" id2="411042" version="1065353216">Spawning / Creatures/ Itemization</text>
+		<text bitflag="65" id1="24" id2="411042" version="1065353216">Conversations / Quests</text>
+		<text bitflag="65" id1="25" id2="411042" version="1065353216">Sound / Voiceover</text>
+		<text bitflag="65" id1="26" id2="411042" version="1065353216">Performance</text>
+		<text bitflag="65" id1="27" id2="411042" version="1065353216">User Interface</text>
+		<text bitflag="65" id1="28" id2="411042" version="1065353216">Screenshot</text>
+		<text bitflag="65" id1="29" id2="411042" version="1065353216">Attach Screenshot  (Default)</text>
+		<text bitflag="65" id1="30" id2="411042" version="1065353216">No screenshot</text>
+		<text bitflag="65" id1="0" id2="411044" version="1065353216">Congratulations</text>
+		<text bitflag="65" id1="1" id2="411044" version="1065353216">Congratulations on reaching another level!  Please take a couple of seconds to respond to these questions about your recent experience playing this class, so we can make The Old Republic better.</text>
+		<text bitflag="65" id1="2" id2="411044" version="1065353216">1 - Way Too Slow</text>
+		<text bitflag="65" id1="3" id2="411044" version="1065353216">2 - Slow</text>
+		<text bitflag="65" id1="4" id2="411044" version="1065353216">3 - Perfect</text>
+		<text bitflag="65" id1="5" id2="411044" version="1065353216">4 - Fast</text>
+		<text bitflag="65" id1="6" id2="411044" version="1065353216">5- Way Too Fast</text>
+		<text bitflag="65" id1="7" id2="411044" version="1065353216">How powerful was your character for your level?</text>
+		<text bitflag="65" id1="8" id2="411044" version="1065353216">1 - Way Too Weak</text>
+		<text bitflag="65" id1="9" id2="411044" version="1065353216">2 - Too Weak</text>
+		<text bitflag="65" id1="10" id2="411044" version="1065353216">3 - Perfect</text>
+		<text bitflag="65" id1="11" id2="411044" version="1065353216">4 - Too Powerful</text>
+		<text bitflag="65" id1="12" id2="411044" version="1065353216">5 - Way Too Powerful</text>
+		<text bitflag="65" id1="14" id2="411044" version="1065353216">How fun was playing your class at this level?</text>
+		<text bitflag="65" id1="25" id2="411044" version="1065353216">Did you get loot and quest rewards often enough?</text>
+		<text bitflag="65" id1="26" id2="411044" version="1065353216">1- Almost Never</text>
+		<text bitflag="65" id1="27" id2="411044" version="1065353216">2 - Barely Ever</text>
+		<text bitflag="65" id1="28" id2="411044" version="1065353216">3 - Perfect</text>
+		<text bitflag="65" id1="29" id2="411044" version="1065353216">4 - Too Often</text>
+		<text bitflag="65" id1="30" id2="411044" version="1065353216">5 - Far Too Often</text>
+		<text bitflag="65" id1="35" id2="411044" version="1065353216">Comments</text>
+		<text bitflag="65" id1="36" id2="411044" version="1065353216">1 - Terrible</text>
+		<text bitflag="65" id1="37" id2="411044" version="1065353216">2 - Not Fun</text>
+		<text bitflag="65" id1="38" id2="411044" version="1065353216">3 - Okay</text>
+		<text bitflag="65" id1="39" id2="411044" version="1065353216">4 - Fun</text>
+		<text bitflag="65" id1="40" id2="411044" version="1065353216">5 - Extremely Fun</text>
+		<text bitflag="65" id1="258" id2="411044" version="1065353216">How quickly did you level up?</text>
+		<text bitflag="65" id1="0" id2="411045" version="1065353216">Quest completed!</text>
+		<text bitflag="65" id1="1" id2="411045" version="1065353216">Congratulations on completing a quest.  Please take some time to offer your feedback on the quest, so we can make The Old Republic better!</text>
+		<text bitflag="65" id1="2" id2="411045" version="1065353216">1 -Terrible</text>
+		<text bitflag="65" id1="3" id2="411045" version="1065353216">2 - Not Great</text>
+		<text bitflag="65" id1="4" id2="411045" version="1065353216">3 - Okay</text>
+		<text bitflag="65" id1="5" id2="411045" version="1065353216">4 - Good</text>
+		<text bitflag="65" id1="6" id2="411045" version="1065353216">5 - Awesome</text>
+		<text bitflag="65" id1="11" id2="411045" version="1065353216">Comments</text>
+		<text bitflag="65" id1="14" id2="411045" version="1065353216">What did you think about the story and dialogue for this quest?</text>
+		<text bitflag="65" id1="15" id2="411045" version="1065353216">1 - Terrible</text>
+		<text bitflag="65" id1="16" id2="411045" version="1065353216">2 - Not Great</text>
+		<text bitflag="65" id1="17" id2="411045" version="1065353216">3 - Okay</text>
+		<text bitflag="65" id1="18" id2="411045" version="1065353216">4 - Good</text>
+		<text bitflag="65" id1="19" id2="411045" version="1065353216">5 - Awesome</text>
+		<text bitflag="65" id1="34" id2="411045" version="1065353216">Was the activity to complete this quest fun?  (An activity is a player action like killing creatures, finding items, or destroying objects).</text>
+		<text bitflag="65" id1="35" id2="411045" version="1065353216">1 - Terrible</text>
+		<text bitflag="65" id1="36" id2="411045" version="1065353216">2 - Not Fun</text>
+		<text bitflag="65" id1="37" id2="411045" version="1065353216">3 - Okay</text>
+		<text bitflag="65" id1="38" id2="411045" version="1065353216">4 - Fun</text>
+		<text bitflag="65" id1="39" id2="411045" version="1065353216">5 - Extremely Fun</text>
+		<text bitflag="65" id1="258" id2="411045" version="1065353216">What did you think about the quest you just completed?</text>
+		<text bitflag="65" id1="0" id2="411047" version="1065353216">Thanks for playing!</text>
+		<text bitflag="65" id1="1" id2="411047" version="1065353216">Thank you for playing The Old Republic today.  Before you go, please answer these brief questions.</text>
+		<text bitflag="65" id1="3" id2="411047" version="1065353216">How was game performance (framerate/lag) on a scale of 1 to 5?</text>
+		<text bitflag="65" id1="4" id2="411047" version="1065353216">1 - Unplayable</text>
+		<text bitflag="65" id1="5" id2="411047" version="1065353216">2 - Pretty Bad</text>
+		<text bitflag="65" id1="6" id2="411047" version="1065353216">3 - Okay</text>
+		<text bitflag="65" id1="7" id2="411047" version="1065353216">4 - Pretty Good</text>
+		<text bitflag="65" id1="8" id2="411047" version="1065353216">5 - Great</text>
+		<text bitflag="65" id1="13" id2="411047" version="1065353216">Would you buy The Old Republic?</text>
+		<text bitflag="65" id1="14" id2="411047" version="1065353216">Comments</text>
+		<text bitflag="65" id1="16" id2="411047" version="1065353216">1 - Never</text>
+		<text bitflag="65" id1="17" id2="411047" version="1065353216">2 - Unlikely</text>
+		<text bitflag="65" id1="18" id2="411047" version="1065353216">3 - Maybe</text>
+		<text bitflag="65" id1="19" id2="411047" version="1065353216">4 - Most Likely</text>
+		<text bitflag="65" id1="20" id2="411047" version="1065353216">5 - Absolutely</text>
+		<text bitflag="65" id1="34" id2="411047" version="1065353216">What was the most frustrating part of the game?</text>
+		<text bitflag="65" id1="35" id2="411047" version="1065353216">Would you recommend The Old Republic to your friends?</text>
+		<text bitflag="65" id1="36" id2="411047" version="1065353216">1 - Never</text>
+		<text bitflag="65" id1="37" id2="411047" version="1065353216">2 - Unlikely</text>
+		<text bitflag="65" id1="38" id2="411047" version="1065353216">3 - Maybe</text>
+		<text bitflag="65" id1="39" id2="411047" version="1065353216">4 - Most Likely</text>
+		<text bitflag="65" id1="40" id2="411047" version="1065353216">5 - Absolutely</text>
+		<text bitflag="65" id1="0" id2="475744" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="3" id2="475744" version="1065353216">Poor</text>
+		<text bitflag="65" id1="4" id2="475744" version="1065353216">Below average</text>
+		<text bitflag="65" id1="5" id2="475744" version="1065353216">Average</text>
+		<text bitflag="65" id1="6" id2="475744" version="1065353216">Good</text>
+		<text bitflag="65" id1="7" id2="475744" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="9" id2="475744" version="1065353216">How would you compare the new user interface to the old?</text>
+		<text bitflag="65" id1="10" id2="475744" version="1065353216">How would you rate the new Character Creation process?</text>
+		<text bitflag="65" id1="11" id2="475744" version="1065353216">How would you compare the new character creation process to the old?</text>
+		<text bitflag="65" id1="12" id2="475744" version="1065353216">Comment</text>
+		<text bitflag="65" id1="14" id2="475744" version="1065353216">I prefer the old user interface</text>
+		<text bitflag="65" id1="15" id2="475744" version="1065353216">I prefer the new user interface</text>
+		<text bitflag="65" id1="16" id2="475744" version="1065353216">I do not prefer one over the other</text>
+		<text bitflag="65" id1="18" id2="475744" version="1065353216">Poor</text>
+		<text bitflag="65" id1="19" id2="475744" version="1065353216">Below average</text>
+		<text bitflag="65" id1="20" id2="475744" version="1065353216">Average</text>
+		<text bitflag="65" id1="21" id2="475744" version="1065353216">Good</text>
+		<text bitflag="65" id1="22" id2="475744" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="24" id2="475744" version="1065353216">I prefer the old character creation process</text>
+		<text bitflag="65" id1="25" id2="475744" version="1065353216">I prefer the new character creation process</text>
+		<text bitflag="65" id1="26" id2="475744" version="1065353216">I do not prefer on over the other</text>
+		<text bitflag="65" id1="258" id2="475744" version="1065353216">How would you rate your experience with the new user interface?</text>
+		<text bitflag="65" id1="0" id2="475752" version="1065353216">Quest Survey</text>
+		<text bitflag="65" id1="1" id2="475752" version="1065353216">%questName</text>
+		<text bitflag="65" id1="3" id2="475752" version="1065353216">Poor</text>
+		<text bitflag="65" id1="4" id2="475752" version="1065353216">Below average</text>
+		<text bitflag="65" id1="5" id2="475752" version="1065353216">Average</text>
+		<text bitflag="65" id1="6" id2="475752" version="1065353216">Good</text>
+		<text bitflag="65" id1="7" id2="475752" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="8" id2="475752" version="1065353216">How would you rate the reward you received from this quest?</text>
+		<text bitflag="65" id1="9" id2="475752" version="1065353216">How difficult was it to complete this quest?</text>
+		<text bitflag="65" id1="10" id2="475752" version="1065353216">Did you complete this quest solo, or in a group?</text>
+		<text bitflag="65" id1="11" id2="475752" version="1065353216">Comment:</text>
+		<text bitflag="65" id1="31" id2="475752" version="1065353216">Poor</text>
+		<text bitflag="65" id1="32" id2="475752" version="1065353216">Below average</text>
+		<text bitflag="65" id1="33" id2="475752" version="1065353216">Average</text>
+		<text bitflag="65" id1="34" id2="475752" version="1065353216">Good</text>
+		<text bitflag="65" id1="35" id2="475752" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="37" id2="475752" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="38" id2="475752" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="39" id2="475752" version="1065353216">Average</text>
+		<text bitflag="65" id1="40" id2="475752" version="1065353216">Easy</text>
+		<text bitflag="65" id1="41" id2="475752" version="1065353216">Very Easy</text>
+		<text bitflag="65" id1="42" id2="475752" version="1065353216">I completed it while solo</text>
+		<text bitflag="65" id1="44" id2="475752" version="1065353216">I completed it in a group of 2-3 players</text>
+		<text bitflag="65" id1="45" id2="475752" version="1065353216">I completed it in a full group</text>
+		<text bitflag="65" id1="258" id2="475752" version="1065353216">How would you rate the directions that described how to complete this quest's objectives?</text>
+		<text bitflag="65" id1="0" id2="475756" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="5" id2="475756" version="1065353216">How challenging is your progression through this planet's content?</text>
+		<text bitflag="65" id1="6" id2="475756" version="1065353216">There isn't enough of a challenge</text>
+		<text bitflag="65" id1="7" id2="475756" version="1065353216">It is appropriately challenging</text>
+		<text bitflag="65" id1="29" id2="475756" version="1065353216">Comments</text>
+		<text bitflag="65" id1="30" id2="475756" version="1065353216">It is too challenging</text>
+		<text bitflag="65" id1="0" id2="475763" version="1065353216">Heroic Quest Survey</text>
+		<text bitflag="65" id1="1" id2="475763" version="1065353216">%questName</text>
+		<text bitflag="65" id1="3" id2="475763" version="1065353216">How many other players did you complete this Heroic quest with?</text>
+		<text bitflag="65" id1="4" id2="475763" version="1065353216">Did you use any Companion Characters to complete this Heroic quest?</text>
+		<text bitflag="65" id1="5" id2="475763" version="1065353216">Was the group size recommendation for this Heroic quest appropriate for the actual difficulty?</text>
+		<text bitflag="65" id1="6" id2="475763" version="1065353216">Rate how difficult it was to get a group together for this Heroic quest:</text>
+		<text bitflag="65" id1="7" id2="475763" version="1065353216">How would you rate this Heroic quest overall?</text>
+		<text bitflag="65" id1="8" id2="475763" version="1065353216">Comments</text>
+		<text bitflag="65" id1="10" id2="475763" version="1065353216">I completed it solo</text>
+		<text bitflag="65" id1="11" id2="475763" version="1065353216">I was in a group of 2</text>
+		<text bitflag="65" id1="12" id2="475763" version="1065353216">I was in a group of 3</text>
+		<text bitflag="65" id1="13" id2="475763" version="1065353216">I was in a full group of 4</text>
+		<text bitflag="65" id1="15" id2="475763" version="1065353216">Yes, we used 1</text>
+		<text bitflag="65" id1="16" id2="475763" version="1065353216">Yes, we used 2</text>
+		<text bitflag="65" id1="17" id2="475763" version="1065353216">No, we did not use any Companion Characters</text>
+		<text bitflag="65" id1="19" id2="475763" version="1065353216">Yes, the suggested group size was appropriate</text>
+		<text bitflag="65" id1="20" id2="475763" version="1065353216">No, the suggested group size was too low</text>
+		<text bitflag="65" id1="21" id2="475763" version="1065353216">No, the suggested group size was too high</text>
+		<text bitflag="65" id1="22" id2="475763" version="1065353216">I didn't know what the suggested group size was</text>
+		<text bitflag="65" id1="24" id2="475763" version="1065353216">Very Difficult</text>
+		<text bitflag="65" id1="25" id2="475763" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="26" id2="475763" version="1065353216">Average</text>
+		<text bitflag="65" id1="27" id2="475763" version="1065353216">Easy</text>
+		<text bitflag="65" id1="28" id2="475763" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="30" id2="475763" version="1065353216">Poor</text>
+		<text bitflag="65" id1="31" id2="475763" version="1065353216">Below average</text>
+		<text bitflag="65" id1="32" id2="475763" version="1065353216">Average</text>
+		<text bitflag="65" id1="33" id2="475763" version="1065353216">Good</text>
+		<text bitflag="65" id1="34" id2="475763" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="0" id2="475783" version="1065353216">Advanced Class Survey</text>
+		<text bitflag="65" id1="2" id2="475783" version="1065353216">Did you select your &quot;Advanced Class&quot; already?</text>
+		<text bitflag="65" id1="3" id2="475783" version="1065353216">What information did you use to select your advanced class?</text>
+		<text bitflag="65" id1="4" id2="475783" version="1065353216">How easy was it for you to find your skill tree?</text>
+		<text bitflag="65" id1="5" id2="475783" version="1065353216">Comments</text>
+		<text bitflag="65" id1="7" id2="475783" version="1065353216">Yes - I selected one</text>
+		<text bitflag="65" id1="8" id2="475783" version="1065353216">No - I am still deciding</text>
+		<text bitflag="65" id1="9" id2="475783" version="1065353216">I do not know how to select an Advanced Class</text>
+		<text bitflag="65" id1="11" id2="475783" version="1065353216">Information provided by the Advanced Class tutor</text>
+		<text bitflag="65" id1="12" id2="475783" version="1065353216">Information in the Codex</text>
+		<text bitflag="65" id1="13" id2="475783" version="1065353216">Information from the website</text>
+		<text bitflag="65" id1="14" id2="475783" version="1065353216">Information from a friend or other player</text>
+		<text bitflag="65" id1="15" id2="475783" version="1065353216">A combination of various sources</text>
+		<text bitflag="65" id1="17" id2="475783" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="18" id2="475783" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="19" id2="475783" version="1065353216">Average</text>
+		<text bitflag="65" id1="20" id2="475783" version="1065353216">Easy</text>
+		<text bitflag="65" id1="21" id2="475783" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="0" id2="475797" version="1065353216">Flashpoint Survey</text>
+		<text bitflag="65" id1="2" id2="475797" version="1065353216">How would you rate the directions provided for this Flashpoint?</text>
+		<text bitflag="65" id1="3" id2="475797" version="1065353216">How would you rate the story in this Flashpoint?</text>
+		<text bitflag="65" id1="4" id2="475797" version="1065353216">How would you rate the item drops you received in this Flashpoint?</text>
+		<text bitflag="65" id1="5" id2="475797" version="1065353216">Did you participate in a group within this Flashpoint?</text>
+		<text bitflag="65" id1="6" id2="475797" version="1065353216">How would you rate this Flashpoint overall?</text>
+		<text bitflag="65" id1="7" id2="475797" version="1065353216">Comments</text>
+		<text bitflag="65" id1="9" id2="475797" version="1065353216">Poor</text>
+		<text bitflag="65" id1="10" id2="475797" version="1065353216">Below average</text>
+		<text bitflag="65" id1="11" id2="475797" version="1065353216">Average</text>
+		<text bitflag="65" id1="12" id2="475797" version="1065353216">Good</text>
+		<text bitflag="65" id1="13" id2="475797" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="15" id2="475797" version="1065353216">Poor</text>
+		<text bitflag="65" id1="16" id2="475797" version="1065353216">Below average</text>
+		<text bitflag="65" id1="17" id2="475797" version="1065353216">Average</text>
+		<text bitflag="65" id1="18" id2="475797" version="1065353216">Good</text>
+		<text bitflag="65" id1="19" id2="475797" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="21" id2="475797" version="1065353216">Poor</text>
+		<text bitflag="65" id1="22" id2="475797" version="1065353216">Below average</text>
+		<text bitflag="65" id1="23" id2="475797" version="1065353216">Average</text>
+		<text bitflag="65" id1="24" id2="475797" version="1065353216">Good</text>
+		<text bitflag="65" id1="25" id2="475797" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="27" id2="475797" version="1065353216">Yes, a group of 2 or 3</text>
+		<text bitflag="65" id1="28" id2="475797" version="1065353216">Yes, a full group</text>
+		<text bitflag="65" id1="29" id2="475797" version="1065353216">No, I was able to complete it solo</text>
+		<text bitflag="65" id1="30" id2="475797" version="1065353216">No, but it was very difficult to solo</text>
+		<text bitflag="65" id1="32" id2="475797" version="1065353216">Poor</text>
+		<text bitflag="65" id1="33" id2="475797" version="1065353216">Below average</text>
+		<text bitflag="65" id1="34" id2="475797" version="1065353216">Average</text>
+		<text bitflag="65" id1="35" id2="475797" version="1065353216">Good</text>
+		<text bitflag="65" id1="36" id2="475797" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="0" id2="475804" version="1065353216">Thanks for playing!</text>
+		<text bitflag="65" id1="1" id2="475804" version="1065353216">Thank you for playing The Old Republic today.  Before you go, please answer these brief questions.</text>
+		<text bitflag="65" id1="3" id2="475804" version="1065353216">While playing, how many &quot;crashes to desktop&quot; do you generally experience?</text>
+		<text bitflag="65" id1="4" id2="475804" version="1065353216">Please rate your Frame Rate performance:</text>
+		<text bitflag="65" id1="5" id2="475804" version="1065353216">Please rate the severity of Lag:</text>
+		<text bitflag="65" id1="6" id2="475804" version="1065353216">Comments</text>
+		<text bitflag="65" id1="26" id2="475804" version="1065353216">At least once every hour</text>
+		<text bitflag="65" id1="27" id2="475804" version="1065353216">At least once every 1 to 2 hours</text>
+		<text bitflag="65" id1="28" id2="475804" version="1065353216">At least once every 2 to 3 hours</text>
+		<text bitflag="65" id1="29" id2="475804" version="1065353216">Very rarely (maybe once per game session)</text>
+		<text bitflag="65" id1="30" id2="475804" version="1065353216">Never have crashed to desktop</text>
+		<text bitflag="65" id1="32" id2="475804" version="1065353216">Poor/Unplayable</text>
+		<text bitflag="65" id1="33" id2="475804" version="1065353216">Below expectations</text>
+		<text bitflag="65" id1="34" id2="475804" version="1065353216">Acceptable</text>
+		<text bitflag="65" id1="35" id2="475804" version="1065353216">Above expectations</text>
+		<text bitflag="65" id1="36" id2="475804" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="38" id2="475804" version="1065353216">Unplayable/Intolerable</text>
+		<text bitflag="65" id1="39" id2="475804" version="1065353216">Not enjoyable</text>
+		<text bitflag="65" id1="40" id2="475804" version="1065353216">Acceptable</text>
+		<text bitflag="65" id1="41" id2="475804" version="1065353216">Minimal lag</text>
+		<text bitflag="65" id1="42" id2="475804" version="1065353216">No lag</text>
+		<text bitflag="65" id1="0" id2="477176" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="2" id2="477176" version="1065353216">Poor</text>
+		<text bitflag="65" id1="3" id2="477176" version="1065353216">Below average</text>
+		<text bitflag="65" id1="4" id2="477176" version="1065353216">Average</text>
+		<text bitflag="65" id1="5" id2="477176" version="1065353216">Good</text>
+		<text bitflag="65" id1="6" id2="477176" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="7" id2="477176" version="1065353216">How would you rate the usability of the Quest Inventory?</text>
+		<text bitflag="65" id1="8" id2="477176" version="1065353216">Poor</text>
+		<text bitflag="65" id1="9" id2="477176" version="1065353216">Below average</text>
+		<text bitflag="65" id1="10" id2="477176" version="1065353216">Average</text>
+		<text bitflag="65" id1="11" id2="477176" version="1065353216">Good</text>
+		<text bitflag="65" id1="12" id2="477176" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="13" id2="477176" version="1065353216">How would you rate the usability of the Guild Interface?</text>
+		<text bitflag="65" id1="14" id2="477176" version="1065353216">Poor</text>
+		<text bitflag="65" id1="15" id2="477176" version="1065353216">Below average</text>
+		<text bitflag="65" id1="16" id2="477176" version="1065353216">Average</text>
+		<text bitflag="65" id1="17" id2="477176" version="1065353216">Good</text>
+		<text bitflag="65" id1="18" id2="477176" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="19" id2="477176" version="1065353216">I haven't used the Mission Log</text>
+		<text bitflag="65" id1="20" id2="477176" version="1065353216">I haven't used the Quest Inventory</text>
+		<text bitflag="65" id1="21" id2="477176" version="1065353216">I haven't used the Guild Interface</text>
+		<text bitflag="65" id1="22" id2="477176" version="1065353216">Comments</text>
+		<text bitflag="65" id1="258" id2="477176" version="1065353216">How would you rate the usability of the Mission Log?</text>
+		<text bitflag="65" id1="0" id2="478269" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="2" id2="478269" version="1065353216">Yes, it was easy to find</text>
+		<text bitflag="65" id1="3" id2="478269" version="1065353216">Yes, but it wasn't easy to locate</text>
+		<text bitflag="65" id1="4" id2="478269" version="1065353216">No, I haven't found it</text>
+		<text bitflag="65" id1="5" id2="478269" version="1065353216">No, but I didn't look for it</text>
+		<text bitflag="65" id1="7" id2="478269" version="1065353216">How would you rate the usability of the Codex?</text>
+		<text bitflag="65" id1="8" id2="478269" version="1065353216">Poor</text>
+		<text bitflag="65" id1="9" id2="478269" version="1065353216">Below average</text>
+		<text bitflag="65" id1="10" id2="478269" version="1065353216">Average</text>
+		<text bitflag="65" id1="11" id2="478269" version="1065353216">Good</text>
+		<text bitflag="65" id1="12" id2="478269" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="13" id2="478269" version="1065353216">Comments</text>
+		<text bitflag="65" id1="14" id2="478269" version="1065353216">I haven't used the Codex</text>
+		<text bitflag="65" id1="258" id2="478269" version="1065353216">Did you find the Codex?</text>
+		<text bitflag="65" id1="0" id2="478272" version="1065353216">Heroic Quest Survey</text>
+		<text bitflag="65" id1="1" id2="478272" version="1065353216">%questName</text>
+		<text bitflag="65" id1="2" id2="478272" version="1065353216">Yes</text>
+		<text bitflag="65" id1="3" id2="478272" version="1065353216">No</text>
+		<text bitflag="65" id1="7" id2="478272" version="1065353216">Did you find it to be successful in finding a group?</text>
+		<text bitflag="65" id1="8" id2="478272" version="1065353216">Yes, it was helpful</text>
+		<text bitflag="65" id1="9" id2="478272" version="1065353216">No, it did not seem to help</text>
+		<text bitflag="65" id1="10" id2="478272" version="1065353216">I didn't use the &quot;Looking for Group&quot; tool</text>
+		<text bitflag="65" id1="13" id2="478272" version="1065353216">How would you rate the overall usability of the &quot;Looking for Group&quot; tool?</text>
+		<text bitflag="65" id1="14" id2="478272" version="1065353216">Poor</text>
+		<text bitflag="65" id1="15" id2="478272" version="1065353216">Below average</text>
+		<text bitflag="65" id1="16" id2="478272" version="1065353216">Average</text>
+		<text bitflag="65" id1="17" id2="478272" version="1065353216">Good</text>
+		<text bitflag="65" id1="18" id2="478272" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="19" id2="478272" version="1065353216">Rate the Social Points feature:</text>
+		<text bitflag="65" id1="20" id2="478272" version="1065353216">Poor</text>
+		<text bitflag="65" id1="21" id2="478272" version="1065353216">Below average</text>
+		<text bitflag="65" id1="22" id2="478272" version="1065353216">Average</text>
+		<text bitflag="65" id1="23" id2="478272" version="1065353216">Good</text>
+		<text bitflag="65" id1="24" id2="478272" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="25" id2="478272" version="1065353216">Comments</text>
+		<text bitflag="65" id1="26" id2="478272" version="1065353216">I haven't used the &quot;Looking for Group&quot; tool</text>
+		<text bitflag="65" id1="27" id2="478272" version="1065353216">I haven't used the Social Points feature</text>
+		<text bitflag="65" id1="28" id2="478272" version="1065353216">I don't know what the &quot;Looking for Group&quot; tool is</text>
+		<text bitflag="65" id1="258" id2="478272" version="1065353216">Did you use the &quot;Looking for Group&quot; tool to find a group for this Heroic?</text>
+		<text bitflag="65" id1="0" id2="490909" version="1065353216">Space Combat Survey</text>
+		<text bitflag="65" id1="2" id2="490909" version="1065353216">Acceptably challenging</text>
+		<text bitflag="65" id1="3" id2="490909" version="1065353216">Too challenging</text>
+		<text bitflag="65" id1="4" id2="490909" version="1065353216">Need to be more challenging</text>
+		<text bitflag="65" id1="5" id2="490909" version="1065353216">No challenge at all</text>
+		<text bitflag="65" id1="7" id2="490909" version="1065353216">Do you feel that Space Combat mission rewards are appropriate to the effort?</text>
+		<text bitflag="65" id1="8" id2="490909" version="1065353216">No, the rewards are too little for the effort</text>
+		<text bitflag="65" id1="9" id2="490909" version="1065353216">No, the rewards are too much for the effort</text>
+		<text bitflag="65" id1="10" id2="490909" version="1065353216">Yes, the rewards are equal/appropriate to the effort</text>
+		<text bitflag="65" id1="13" id2="490909" version="1065353216">How do you rate Space Combat overall?</text>
+		<text bitflag="65" id1="14" id2="490909" version="1065353216">Poor</text>
+		<text bitflag="65" id1="15" id2="490909" version="1065353216">Below average</text>
+		<text bitflag="65" id1="16" id2="490909" version="1065353216">Average</text>
+		<text bitflag="65" id1="17" id2="490909" version="1065353216">Good</text>
+		<text bitflag="65" id1="18" id2="490909" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="20" id2="490909" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="258" id2="490909" version="1065353216">How do you feel about the challenge level of Space Combat missions?</text>
+		<text bitflag="65" id1="0" id2="490913" version="1065353216">Warzone Survey</text>
+		<text bitflag="65" id1="2" id2="490913" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="3" id2="490913" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="4" id2="490913" version="1065353216">Average</text>
+		<text bitflag="65" id1="5" id2="490913" version="1065353216">Easy</text>
+		<text bitflag="65" id1="6" id2="490913" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="7" id2="490913" version="1065353216">How would you rate overall content of this Warzone?</text>
+		<text bitflag="65" id1="8" id2="490913" version="1065353216">Poor</text>
+		<text bitflag="65" id1="9" id2="490913" version="1065353216">Below average</text>
+		<text bitflag="65" id1="10" id2="490913" version="1065353216">Average</text>
+		<text bitflag="65" id1="11" id2="490913" version="1065353216">Good</text>
+		<text bitflag="65" id1="12" id2="490913" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="13" id2="490913" version="1065353216">Rate your enjoyment of the Warzone:</text>
+		<text bitflag="65" id1="14" id2="490913" version="1065353216">Not enjoyable at all</text>
+		<text bitflag="65" id1="15" id2="490913" version="1065353216">Slightly unlikable</text>
+		<text bitflag="65" id1="16" id2="490913" version="1065353216">Indifferent</text>
+		<text bitflag="65" id1="17" id2="490913" version="1065353216">Slightly fun</text>
+		<text bitflag="65" id1="18" id2="490913" version="1065353216">Very fun</text>
+		<text bitflag="65" id1="20" id2="490913" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="258" id2="490913" version="1065353216">How easy was it to understand the objectives of this Warzone?</text>
+		<text bitflag="65" id1="0" id2="499029" version="1065353216">Level-up Survey</text>
+		<text bitflag="65" id1="3" id2="499029" version="1065353216">How often do you group up with other players to complete tasks?</text>
+		<text bitflag="65" id1="4" id2="499029" version="1065353216">Never</text>
+		<text bitflag="65" id1="5" id2="499029" version="1065353216">Rarely</text>
+		<text bitflag="65" id1="6" id2="499029" version="1065353216">Sometimes</text>
+		<text bitflag="65" id1="7" id2="499029" version="1065353216">Often</text>
+		<text bitflag="65" id1="8" id2="499029" version="1065353216">Always</text>
+		<text bitflag="65" id1="9" id2="499029" version="1065353216">How do you find a group?</text>
+		<text bitflag="65" id1="10" id2="499029" version="1065353216">I use the social window / looking for group option</text>
+		<text bitflag="65" id1="11" id2="499029" version="1065353216">I ask people questing near me</text>
+		<text bitflag="65" id1="12" id2="499029" version="1065353216">I ask people that I already know</text>
+		<text bitflag="65" id1="13" id2="499029" version="1065353216">I cannot find a group</text>
+		<text bitflag="65" id1="14" id2="499029" version="1065353216">I never looked for a group</text>
+		<text bitflag="65" id1="15" id2="499029" version="1065353216">Have you used the Multiplayer Conversation System in a group?</text>
+		<text bitflag="65" id1="16" id2="499029" version="1065353216">Yes</text>
+		<text bitflag="65" id1="17" id2="499029" version="1065353216">No</text>
+		<text bitflag="65" id1="18" id2="499029" version="1065353216">What's the Multiplayer Conversation System?</text>
+		<text bitflag="65" id1="21" id2="499029" version="1065353216">If you used the Multiplayer Conversation System in a group, how easy was it to use?</text>
+		<text bitflag="65" id1="22" id2="499029" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="23" id2="499029" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="24" id2="499029" version="1065353216">Average</text>
+		<text bitflag="65" id1="25" id2="499029" version="1065353216">Easy</text>
+		<text bitflag="65" id1="26" id2="499029" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="27" id2="499029" version="1065353216">Please rate your experience with the Multiplayer Conversation System:</text>
+		<text bitflag="65" id1="28" id2="499029" version="1065353216">Poor</text>
+		<text bitflag="65" id1="29" id2="499029" version="1065353216">Below average</text>
+		<text bitflag="65" id1="30" id2="499029" version="1065353216">Average</text>
+		<text bitflag="65" id1="31" id2="499029" version="1065353216">Good</text>
+		<text bitflag="65" id1="32" id2="499029" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="33" id2="499029" version="1065353216">I did not use the Multiplayer Conversation System</text>
+		<text bitflag="65" id1="34" id2="499029" version="1065353216">I did not use the Multiplayer Conversation System</text>
+		<text bitflag="65" id1="35" id2="499029" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="499031" version="1065353216">Heroic Quest Survey</text>
+		<text bitflag="65" id1="1" id2="499031" version="1065353216">%questName</text>
+		<text bitflag="65" id1="3" id2="499031" version="1065353216">How many players did you complete this heroic quest with?</text>
+		<text bitflag="65" id1="4" id2="499031" version="1065353216">I completed it solo</text>
+		<text bitflag="65" id1="5" id2="499031" version="1065353216">I was in a group of 2</text>
+		<text bitflag="65" id1="6" id2="499031" version="1065353216">I was in a group of 3</text>
+		<text bitflag="65" id1="7" id2="499031" version="1065353216">I was in a full group of 4</text>
+		<text bitflag="65" id1="9" id2="499031" version="1065353216">How challenging was this Heroic quest for your group?</text>
+		<text bitflag="65" id1="10" id2="499031" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="11" id2="499031" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="12" id2="499031" version="1065353216">Average</text>
+		<text bitflag="65" id1="13" id2="499031" version="1065353216">Easy</text>
+		<text bitflag="65" id1="14" id2="499031" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="15" id2="499031" version="1065353216">Describe how difficult it was to get a group together for this Heroic quest:</text>
+		<text bitflag="65" id1="16" id2="499031" version="1065353216">Very difficult</text>
+		<text bitflag="65" id1="17" id2="499031" version="1065353216">Difficult</text>
+		<text bitflag="65" id1="18" id2="499031" version="1065353216">Average</text>
+		<text bitflag="65" id1="19" id2="499031" version="1065353216">Easy</text>
+		<text bitflag="65" id1="20" id2="499031" version="1065353216">Very easy</text>
+		<text bitflag="65" id1="21" id2="499031" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="499455" version="1065353216">The Jedi Prisoner Survey</text>
+		<text bitflag="65" id1="2" id2="499455" version="1065353216">How would you rate this story overall?</text>
+		<text bitflag="65" id1="3" id2="499455" version="1065353216">Poor</text>
+		<text bitflag="65" id1="4" id2="499455" version="1065353216">Below average</text>
+		<text bitflag="65" id1="5" id2="499455" version="1065353216">Average</text>
+		<text bitflag="65" id1="6" id2="499455" version="1065353216">Good</text>
+		<text bitflag="65" id1="7" id2="499455" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="8" id2="499455" version="1065353216">Do you feel it is appropriately challenging for a group?</text>
+		<text bitflag="65" id1="9" id2="499455" version="1065353216">Acceptably challenging</text>
+		<text bitflag="65" id1="10" id2="499455" version="1065353216">Too challenging</text>
+		<text bitflag="65" id1="11" id2="499455" version="1065353216">Need to be more challenging</text>
+		<text bitflag="65" id1="12" id2="499455" version="1065353216">No challenge at all</text>
+		<text bitflag="65" id1="14" id2="499455" version="1065353216">How well did this storyline fit in the overall Star Wars universe?</text>
+		<text bitflag="65" id1="15" id2="499455" version="1065353216">Poor</text>
+		<text bitflag="65" id1="16" id2="499455" version="1065353216">Below average</text>
+		<text bitflag="65" id1="17" id2="499455" version="1065353216">Average</text>
+		<text bitflag="65" id1="18" id2="499455" version="1065353216">Good</text>
+		<text bitflag="65" id1="19" id2="499455" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="20" id2="499455" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="499457" version="1065353216">Call to Arms Survey</text>
+		<text bitflag="65" id1="2" id2="499457" version="1065353216">How would you rate this story overall?</text>
+		<text bitflag="65" id1="3" id2="499457" version="1065353216">Poor</text>
+		<text bitflag="65" id1="4" id2="499457" version="1065353216">Below average</text>
+		<text bitflag="65" id1="5" id2="499457" version="1065353216">Average</text>
+		<text bitflag="65" id1="6" id2="499457" version="1065353216">Good</text>
+		<text bitflag="65" id1="7" id2="499457" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="8" id2="499457" version="1065353216">Do you feel it is appropriately challenging for a group?</text>
+		<text bitflag="65" id1="9" id2="499457" version="1065353216">Acceptably challenging</text>
+		<text bitflag="65" id1="10" id2="499457" version="1065353216">Too challenging</text>
+		<text bitflag="65" id1="11" id2="499457" version="1065353216">Need to be more challenging</text>
+		<text bitflag="65" id1="12" id2="499457" version="1065353216">No challenge at all</text>
+		<text bitflag="65" id1="14" id2="499457" version="1065353216">How well did this storyline fit in the overall Star Wars universe?</text>
+		<text bitflag="65" id1="15" id2="499457" version="1065353216">Poor</text>
+		<text bitflag="65" id1="16" id2="499457" version="1065353216">Below average</text>
+		<text bitflag="65" id1="17" id2="499457" version="1065353216">Average</text>
+		<text bitflag="65" id1="18" id2="499457" version="1065353216">Good</text>
+		<text bitflag="65" id1="19" id2="499457" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="20" id2="499457" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="510900" version="1065353216">Companion Survey</text>
+		<text bitflag="65" id1="2" id2="510900" version="1065353216">How would you rate the overall effectiveness of your Companion Characters?</text>
+		<text bitflag="65" id1="3" id2="510900" version="1065353216">Poor</text>
+		<text bitflag="65" id1="4" id2="510900" version="1065353216">Below average</text>
+		<text bitflag="65" id1="5" id2="510900" version="1065353216">Average</text>
+		<text bitflag="65" id1="6" id2="510900" version="1065353216">Good</text>
+		<text bitflag="65" id1="7" id2="510900" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="8" id2="510900" version="1065353216">How would you rate the combat controllability of your Companion Characters?</text>
+		<text bitflag="65" id1="9" id2="510900" version="1065353216">Poor</text>
+		<text bitflag="65" id1="10" id2="510900" version="1065353216">Below average</text>
+		<text bitflag="65" id1="11" id2="510900" version="1065353216">Average</text>
+		<text bitflag="65" id1="12" id2="510900" version="1065353216">Good</text>
+		<text bitflag="65" id1="13" id2="510900" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="14" id2="510900" version="1065353216">Please rate your overall enjoyment of the Companion Characters:</text>
+		<text bitflag="65" id1="15" id2="510900" version="1065353216">I really dislike them</text>
+		<text bitflag="65" id1="16" id2="510900" version="1065353216">They do not add to my enjoyment of the game</text>
+		<text bitflag="65" id1="17" id2="510900" version="1065353216">I am indifferent about them</text>
+		<text bitflag="65" id1="18" id2="510900" version="1065353216">I really enjoy using them</text>
+		<text bitflag="65" id1="19" id2="510900" version="1065353216">I feel they are an asset to the classes</text>
+		<text bitflag="65" id1="20" id2="510900" version="1065353216">Did you switch Companion Characters?</text>
+		<text bitflag="65" id1="21" id2="510900" version="1065353216">I only have one Companion Character</text>
+		<text bitflag="65" id1="22" id2="510900" version="1065353216">I did not know how to select another Companion Character</text>
+		<text bitflag="65" id1="23" id2="510900" version="1065353216">I like the one I am currently using and do not want to select another</text>
+		<text bitflag="65" id1="24" id2="510900" version="1065353216">I have too much time invested in my current Companion Character to switch to another one</text>
+		<text bitflag="65" id1="26" id2="510900" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="510913" version="1065353216">Advanced Class Survey</text>
+		<text bitflag="65" id1="2" id2="510913" version="1065353216">How would you rate your Advanced Class?</text>
+		<text bitflag="65" id1="3" id2="510913" version="1065353216">1- Not Fun</text>
+		<text bitflag="65" id1="4" id2="510913" version="1065353216">2</text>
+		<text bitflag="65" id1="5" id2="510913" version="1065353216">3 - Ok</text>
+		<text bitflag="65" id1="6" id2="510913" version="1065353216">4</text>
+		<text bitflag="65" id1="7" id2="510913" version="1065353216">5 - Very Fun</text>
+		<text bitflag="65" id1="8" id2="510913" version="1065353216">How clear was the choice between the 2 Advanced Classes?</text>
+		<text bitflag="65" id1="9" id2="510913" version="1065353216">1 - Very Confusing</text>
+		<text bitflag="65" id1="10" id2="510913" version="1065353216">2</text>
+		<text bitflag="65" id1="11" id2="510913" version="1065353216">3 - Ok</text>
+		<text bitflag="65" id1="12" id2="510913" version="1065353216">4</text>
+		<text bitflag="65" id1="13" id2="510913" version="1065353216">5 - Very Clear</text>
+		<text bitflag="65" id1="14" id2="510913" version="1065353216">Did the Advanced Class you picked meet your expectations?</text>
+		<text bitflag="65" id1="15" id2="510913" version="1065353216">Nothing like I expected</text>
+		<text bitflag="65" id1="16" id2="510913" version="1065353216">Below expectations</text>
+		<text bitflag="65" id1="17" id2="510913" version="1065353216">Exactly what I was expecting</text>
+		<text bitflag="65" id1="18" id2="510913" version="1065353216">Above expectations</text>
+		<text bitflag="65" id1="19" id2="510913" version="1065353216">Surpassed expectations in every way</text>
+		<text bitflag="65" id1="20" id2="510913" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="510919" version="1065353216">Abilities Survey</text>
+		<text bitflag="65" id1="2" id2="510919" version="1065353216">How fun are your abilities?</text>
+		<text bitflag="65" id1="3" id2="510919" version="1065353216">1 - Not Fun</text>
+		<text bitflag="65" id1="4" id2="510919" version="1065353216">2</text>
+		<text bitflag="65" id1="5" id2="510919" version="1065353216">3 - Ok</text>
+		<text bitflag="65" id1="6" id2="510919" version="1065353216">4</text>
+		<text bitflag="65" id1="7" id2="510919" version="1065353216">5 - Very Fun</text>
+		<text bitflag="65" id1="8" id2="510919" version="1065353216">How interesting are your ability choices in each combat?</text>
+		<text bitflag="65" id1="9" id2="510919" version="1065353216">1 - Not interesting</text>
+		<text bitflag="65" id1="10" id2="510919" version="1065353216">2</text>
+		<text bitflag="65" id1="11" id2="510919" version="1065353216">3 - Ok</text>
+		<text bitflag="65" id1="12" id2="510919" version="1065353216">4</text>
+		<text bitflag="65" id1="13" id2="510919" version="1065353216">5 - Very Interesting</text>
+		<text bitflag="65" id1="14" id2="510919" version="1065353216">How fun is your standard sequence of attacks?</text>
+		<text bitflag="65" id1="15" id2="510919" version="1065353216">1 - Not Fun</text>
+		<text bitflag="65" id1="16" id2="510919" version="1065353216">2</text>
+		<text bitflag="65" id1="17" id2="510919" version="1065353216">3 - Ok</text>
+		<text bitflag="65" id1="18" id2="510919" version="1065353216">4</text>
+		<text bitflag="65" id1="19" id2="510919" version="1065353216">5 - Very Fun</text>
+		<text bitflag="65" id1="20" id2="510919" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="510923" version="1065353216">Skill Tree Survey</text>
+		<text bitflag="65" id1="2" id2="510923" version="1065353216">How would you rate your Skill Trees overall?</text>
+		<text bitflag="65" id1="3" id2="510923" version="1065353216">1 - Very Low</text>
+		<text bitflag="65" id1="4" id2="510923" version="1065353216">2</text>
+		<text bitflag="65" id1="5" id2="510923" version="1065353216">3 - Ok</text>
+		<text bitflag="65" id1="6" id2="510923" version="1065353216">4</text>
+		<text bitflag="65" id1="7" id2="510923" version="1065353216">5 - Very High</text>
+		<text bitflag="65" id1="8" id2="510923" version="1065353216">How interesting are your skill choices in your Skill Trees?</text>
+		<text bitflag="65" id1="9" id2="510923" version="1065353216">1 - Not Interesting</text>
+		<text bitflag="65" id1="10" id2="510923" version="1065353216">2</text>
+		<text bitflag="65" id1="11" id2="510923" version="1065353216">3 - Ok</text>
+		<text bitflag="65" id1="12" id2="510923" version="1065353216">4</text>
+		<text bitflag="65" id1="13" id2="510923" version="1065353216">5 - Very Interesting</text>
+		<text bitflag="65" id1="14" id2="510923" version="1065353216">How interesting are the individual Skill Trees?</text>
+		<text bitflag="65" id1="15" id2="510923" version="1065353216">1 - Not Interesting</text>
+		<text bitflag="65" id1="16" id2="510923" version="1065353216">2</text>
+		<text bitflag="65" id1="17" id2="510923" version="1065353216">3 - Ok</text>
+		<text bitflag="65" id1="18" id2="510923" version="1065353216">4</text>
+		<text bitflag="65" id1="19" id2="510923" version="1065353216">5 - Very Interesting</text>
+		<text bitflag="65" id1="20" id2="510923" version="1065353216">How easy is it to understand your Skill Tree choices?</text>
+		<text bitflag="65" id1="21" id2="510923" version="1065353216">1 - Very Hard</text>
+		<text bitflag="65" id1="22" id2="510923" version="1065353216">2</text>
+		<text bitflag="65" id1="23" id2="510923" version="1065353216">3 - Ok</text>
+		<text bitflag="65" id1="24" id2="510923" version="1065353216">4</text>
+		<text bitflag="65" id1="25" id2="510923" version="1065353216">5 - Very Easy</text>
+		<text bitflag="65" id1="26" id2="510923" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="510932" version="1065353216">Thanks for Playing!</text>
+		<text bitflag="65" id1="1" id2="510932" version="1065353216">Thank you for playing Star Wars: The Old Repbulic today. Before you go, please answer these brief questions.</text>
+		<text bitflag="65" id1="3" id2="510932" version="1065353216">While playing, how many &quot;crashes to desktop&quot; do you generally experience?</text>
+		<text bitflag="65" id1="4" id2="510932" version="1065353216">Greater than 1 per hour</text>
+		<text bitflag="65" id1="5" id2="510932" version="1065353216">One per hour</text>
+		<text bitflag="65" id1="6" id2="510932" version="1065353216">One every 2 hours</text>
+		<text bitflag="65" id1="7" id2="510932" version="1065353216">One every 4 hours</text>
+		<text bitflag="65" id1="8" id2="510932" version="1065353216">Never have crashed to desktop, or too few to notice</text>
+		<text bitflag="65" id1="9" id2="510932" version="1065353216">How many disconnections from the game server do you generally experience?</text>
+		<text bitflag="65" id1="10" id2="510932" version="1065353216">Greater than 1 per hour</text>
+		<text bitflag="65" id1="11" id2="510932" version="1065353216">One per hour</text>
+		<text bitflag="65" id1="12" id2="510932" version="1065353216">One every 2 hours</text>
+		<text bitflag="65" id1="13" id2="510932" version="1065353216">One every 4 hours</text>
+		<text bitflag="65" id1="14" id2="510932" version="1065353216">Never been disconnected, or too few to notice</text>
+		<text bitflag="65" id1="21" id2="510932" version="1065353216">Please rate your Frame Rate performance:</text>
+		<text bitflag="65" id1="22" id2="510932" version="1065353216">Poor / Unplayable</text>
+		<text bitflag="65" id1="23" id2="510932" version="1065353216">Below expectations</text>
+		<text bitflag="65" id1="24" id2="510932" version="1065353216">Acceptable</text>
+		<text bitflag="65" id1="25" id2="510932" version="1065353216">Above expectations</text>
+		<text bitflag="65" id1="26" id2="510932" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="27" id2="510932" version="1065353216">Please rate the severity of Lag:</text>
+		<text bitflag="65" id1="28" id2="510932" version="1065353216">Unplayable / Intolerable</text>
+		<text bitflag="65" id1="29" id2="510932" version="1065353216">Not enjoyable</text>
+		<text bitflag="65" id1="30" id2="510932" version="1065353216">Acceptable</text>
+		<text bitflag="65" id1="31" id2="510932" version="1065353216">Minimal Lag</text>
+		<text bitflag="65" id1="32" id2="510932" version="1065353216">No Lag</text>
+		<text bitflag="65" id1="33" id2="510932" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="531686" version="1065353216">Quest Survey</text>
+		<text bitflag="65" id1="1" id2="531686" version="1065353216">%questName</text>
+		<text bitflag="321" id1="3" id2="531686" version="1065353216">How would you rate the directions that described how to complete this quest's objectives?</text>
+		<text bitflag="321" id1="4" id2="531686" version="1065353216">Poor</text>
+		<text bitflag="321" id1="5" id2="531686" version="1065353216">Below average</text>
+		<text bitflag="321" id1="6" id2="531686" version="1065353216">Average</text>
+		<text bitflag="321" id1="7" id2="531686" version="1065353216">Good</text>
+		<text bitflag="321" id1="8" id2="531686" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="9" id2="531686" version="1065353216">How would you rate the reward you received from this quest?</text>
+		<text bitflag="321" id1="10" id2="531686" version="1065353216">Poor</text>
+		<text bitflag="321" id1="11" id2="531686" version="1065353216">Below average</text>
+		<text bitflag="321" id1="12" id2="531686" version="1065353216">Average</text>
+		<text bitflag="321" id1="13" id2="531686" version="1065353216">Good</text>
+		<text bitflag="321" id1="14" id2="531686" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="15" id2="531686" version="1065353216">How difficult was it to complete this quest?</text>
+		<text bitflag="321" id1="16" id2="531686" version="1065353216">Very difficult</text>
+		<text bitflag="321" id1="17" id2="531686" version="1065353216">Difficult</text>
+		<text bitflag="321" id1="18" id2="531686" version="1065353216">Average</text>
+		<text bitflag="321" id1="19" id2="531686" version="1065353216">Easy</text>
+		<text bitflag="321" id1="20" id2="531686" version="1065353216">Very easy</text>
+		<text bitflag="321" id1="21" id2="531686" version="1065353216">Did you complete this quest solo, or in a group?</text>
+		<text bitflag="321" id1="22" id2="531686" version="1065353216">I completed it while solo</text>
+		<text bitflag="321" id1="23" id2="531686" version="1065353216">I completed it in a group of 2-3 players</text>
+		<text bitflag="321" id1="24" id2="531686" version="1065353216">I completed it in a full group</text>
+		<text bitflag="321" id1="27" id2="531686" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="531723" version="1065353216">Class Quest Survey</text>
+		<text bitflag="65" id1="1" id2="531723" version="1065353216">%questName</text>
+		<text bitflag="321" id1="3" id2="531723" version="1065353216">How would you rate this Class quest's storyline?</text>
+		<text bitflag="321" id1="4" id2="531723" version="1065353216">Poor</text>
+		<text bitflag="321" id1="5" id2="531723" version="1065353216">Below average</text>
+		<text bitflag="321" id1="6" id2="531723" version="1065353216">Average</text>
+		<text bitflag="321" id1="7" id2="531723" version="1065353216">Good</text>
+		<text bitflag="321" id1="8" id2="531723" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="9" id2="531723" version="1065353216">How would you rate the content in this Class quest?</text>
+		<text bitflag="321" id1="10" id2="531723" version="1065353216">Poor</text>
+		<text bitflag="321" id1="11" id2="531723" version="1065353216">Below average</text>
+		<text bitflag="321" id1="12" id2="531723" version="1065353216">Average</text>
+		<text bitflag="321" id1="13" id2="531723" version="1065353216">Good</text>
+		<text bitflag="321" id1="14" id2="531723" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="15" id2="531723" version="1065353216">How would you rate this Class quest's Voice Acting?</text>
+		<text bitflag="321" id1="16" id2="531723" version="1065353216">Poor</text>
+		<text bitflag="321" id1="17" id2="531723" version="1065353216">Below average</text>
+		<text bitflag="321" id1="18" id2="531723" version="1065353216">Average</text>
+		<text bitflag="321" id1="19" id2="531723" version="1065353216">Good</text>
+		<text bitflag="321" id1="20" id2="531723" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="21" id2="531723" version="1065353216">How would you rate this Class quest's Dark Side / Light Side options?</text>
+		<text bitflag="321" id1="22" id2="531723" version="1065353216">Poor</text>
+		<text bitflag="321" id1="23" id2="531723" version="1065353216">Below average</text>
+		<text bitflag="321" id1="24" id2="531723" version="1065353216">Average</text>
+		<text bitflag="321" id1="25" id2="531723" version="1065353216">Good</text>
+		<text bitflag="321" id1="26" id2="531723" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="27" id2="531723" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="531730" version="1065353216">Heroic Quest Survey</text>
+		<text bitflag="65" id1="1" id2="531730" version="1065353216">%questName</text>
+		<text bitflag="321" id1="3" id2="531730" version="1065353216">How many players did you complete this Heroic quest with?</text>
+		<text bitflag="321" id1="4" id2="531730" version="1065353216">I completed it solo</text>
+		<text bitflag="321" id1="5" id2="531730" version="1065353216">I was in a group of 2</text>
+		<text bitflag="321" id1="6" id2="531730" version="1065353216">I was in a group of 3</text>
+		<text bitflag="321" id1="7" id2="531730" version="1065353216">I was in a full group of 4</text>
+		<text bitflag="321" id1="9" id2="531730" version="1065353216">Describe how difficult it was to get a group together for this Heroic quest:</text>
+		<text bitflag="321" id1="10" id2="531730" version="1065353216">Very difficult</text>
+		<text bitflag="321" id1="11" id2="531730" version="1065353216">Difficult</text>
+		<text bitflag="321" id1="12" id2="531730" version="1065353216">Average</text>
+		<text bitflag="321" id1="13" id2="531730" version="1065353216">Easy</text>
+		<text bitflag="321" id1="14" id2="531730" version="1065353216">Very easy</text>
+		<text bitflag="321" id1="15" id2="531730" version="1065353216">How did you look for/find a group?</text>
+		<text bitflag="321" id1="16" id2="531730" version="1065353216">I used the social window / looking for group option</text>
+		<text bitflag="321" id1="17" id2="531730" version="1065353216">I asked people questing near me</text>
+		<text bitflag="321" id1="18" id2="531730" version="1065353216">I asked people that I already knew / met</text>
+		<text bitflag="321" id1="19" id2="531730" version="1065353216">I asked in &quot;General&quot; chat channel</text>
+		<text bitflag="321" id1="20" id2="531730" version="1065353216">I never looked for a group</text>
+		<text bitflag="321" id1="21" id2="531730" version="1065353216">I completed it solo</text>
+		<text bitflag="321" id1="22" id2="531730" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="531740" version="1065353216">Thanks for playing!</text>
+		<text bitflag="321" id1="1" id2="531740" version="1065353216">Thank you for playing The Old Republic today. Before you go, please answer these brief questions:</text>
+		<text bitflag="321" id1="3" id2="531740" version="1065353216">While playing, how many &quot;crashes to desktop&quot; do you generally experience?</text>
+		<text bitflag="321" id1="4" id2="531740" version="1065353216">Greater than 1 per hour</text>
+		<text bitflag="321" id1="5" id2="531740" version="1065353216">One per hour</text>
+		<text bitflag="321" id1="6" id2="531740" version="1065353216">One every 2 hours</text>
+		<text bitflag="321" id1="7" id2="531740" version="1065353216">One every 4 hours</text>
+		<text bitflag="321" id1="8" id2="531740" version="1065353216">Never have crashed to desktop, or too few to notice</text>
+		<text bitflag="321" id1="9" id2="531740" version="1065353216">How many disconnections from the game server do you generally experience?</text>
+		<text bitflag="321" id1="10" id2="531740" version="1065353216">Greater than 1 per hour</text>
+		<text bitflag="321" id1="11" id2="531740" version="1065353216">One per hour</text>
+		<text bitflag="321" id1="12" id2="531740" version="1065353216">One every 2 hours</text>
+		<text bitflag="321" id1="13" id2="531740" version="1065353216">One every 4 hours</text>
+		<text bitflag="321" id1="14" id2="531740" version="1065353216">Never been disconnected, or too few to notice</text>
+		<text bitflag="321" id1="15" id2="531740" version="1065353216">Please rate your Frame Rate performance:</text>
+		<text bitflag="321" id1="16" id2="531740" version="1065353216">Poor / Unplayable</text>
+		<text bitflag="321" id1="17" id2="531740" version="1065353216">Below expectations</text>
+		<text bitflag="321" id1="18" id2="531740" version="1065353216">Acceptable</text>
+		<text bitflag="321" id1="19" id2="531740" version="1065353216">Above expectations</text>
+		<text bitflag="321" id1="20" id2="531740" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="21" id2="531740" version="1065353216">Please rate the severity of Lag:</text>
+		<text bitflag="321" id1="22" id2="531740" version="1065353216">Unplayable / Intolerable</text>
+		<text bitflag="321" id1="23" id2="531740" version="1065353216">Not enjoyable</text>
+		<text bitflag="321" id1="24" id2="531740" version="1065353216">Acceptable</text>
+		<text bitflag="321" id1="25" id2="531740" version="1065353216">Minimal Lag</text>
+		<text bitflag="321" id1="26" id2="531740" version="1065353216">No Lag</text>
+		<text bitflag="321" id1="27" id2="531740" version="1065353216">Please rate your in-game loading time:</text>
+		<text bitflag="321" id1="28" id2="531740" version="1065353216">Poor - Very slow</text>
+		<text bitflag="321" id1="29" id2="531740" version="1065353216">Below expectations - Slow</text>
+		<text bitflag="321" id1="30" id2="531740" version="1065353216">Acceptable</text>
+		<text bitflag="321" id1="31" id2="531740" version="1065353216">Above expectations - Quick</text>
+		<text bitflag="321" id1="32" id2="531740" version="1065353216">Excellent - Very quick</text>
+		<text bitflag="321" id1="33" id2="531740" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="568666" version="1065353216">Planet Instance Survey</text>
+		<text bitflag="65" id1="2" id2="568666" version="1065353216">Did you have any experience with the planet instancing feature?</text>
+		<text bitflag="65" id1="3" id2="568666" version="1065353216">Yes, I switched to meet up with another player</text>
+		<text bitflag="65" id1="4" id2="568666" version="1065353216">Yes, I elected to switch instances via the Map dropdown</text>
+		<text bitflag="65" id1="5" id2="568666" version="1065353216">No, I have not used it yet</text>
+		<text bitflag="65" id1="6" id2="568666" version="1065353216">I do not know what planet instances are</text>
+		<text bitflag="65" id1="8" id2="568666" version="1065353216">Please rate your experience with the planet instance feature:</text>
+		<text bitflag="65" id1="9" id2="568666" version="1065353216">Poor</text>
+		<text bitflag="65" id1="10" id2="568666" version="1065353216">Below average</text>
+		<text bitflag="65" id1="11" id2="568666" version="1065353216">Average</text>
+		<text bitflag="65" id1="12" id2="568666" version="1065353216">Good</text>
+		<text bitflag="65" id1="13" id2="568666" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="14" id2="568666" version="1065353216">I did not use this feature</text>
+		<text bitflag="65" id1="15" id2="568666" version="1065353216">Comments:</text>
+		<text bitflag="65" id1="0" id2="568671" version="1065353216">Origin World Survey</text>
+		<text bitflag="65" id1="4" id2="568671" version="1065353216">Please rate your leveling experience playing on the Origin World (starter planets):</text>
+		<text bitflag="65" id1="5" id2="568671" version="1065353216">Poor</text>
+		<text bitflag="65" id1="6" id2="568671" version="1065353216">Below average</text>
+		<text bitflag="65" id1="7" id2="568671" version="1065353216">Average</text>
+		<text bitflag="65" id1="8" id2="568671" version="1065353216">Good</text>
+		<text bitflag="65" id1="9" id2="568671" version="1065353216">Excellent</text>
+		<text bitflag="65" id1="10" id2="568671" version="1065353216">Describe questing/killing mobs with the current population on the planet:</text>
+		<text bitflag="65" id1="11" id2="568671" version="1065353216">Impossible to complete quests/get monster kills</text>
+		<text bitflag="65" id1="12" id2="568671" version="1065353216">Difficult to complete quests/get monster kills</text>
+		<text bitflag="65" id1="13" id2="568671" version="1065353216">Average - crowded but doable</text>
+		<text bitflag="65" id1="14" id2="568671" version="1065353216">Easy to complete quests/get mob kills</text>
+		<text bitflag="65" id1="15" id2="568671" version="1065353216">Very easy, no competition</text>
+		<text bitflag="65" id1="16" id2="568671" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="568872" version="1065353216">Fun-Factor Survey</text>
+		<text bitflag="321" id1="4" id2="568872" version="1065353216">Please describe your current activity:</text>
+		<text bitflag="321" id1="5" id2="568872" version="1065353216">I am killing monsters</text>
+		<text bitflag="321" id1="6" id2="568872" version="1065353216">I am accepting/turning in quests</text>
+		<text bitflag="321" id1="7" id2="568872" version="1065353216">I am reading the Codex</text>
+		<text bitflag="321" id1="8" id2="568872" version="1065353216">I am reading the Map</text>
+		<text bitflag="321" id1="9" id2="568872" version="1065353216">I am training skills</text>
+		<text bitflag="321" id1="10" id2="568872" version="1065353216">I am selling/buying at merchants</text>
+		<text bitflag="321" id1="11" id2="568872" version="1065353216">I am exploring the planet</text>
+		<text bitflag="321" id1="12" id2="568872" version="1065353216">I am chatting with players</text>
+		<text bitflag="321" id1="13" id2="568872" version="1065353216">I am just hanging out</text>
+		<text bitflag="321" id1="14" id2="568872" version="1065353216">Rate your current enjoyment of the activity:</text>
+		<text bitflag="321" id1="15" id2="568872" version="1065353216">Poor - Not enjoyable at all</text>
+		<text bitflag="321" id1="16" id2="568872" version="1065353216">Below average</text>
+		<text bitflag="321" id1="17" id2="568872" version="1065353216">Average - just &quot;ok&quot;</text>
+		<text bitflag="321" id1="18" id2="568872" version="1065353216">Good - Enjoyable</text>
+		<text bitflag="321" id1="19" id2="568872" version="1065353216">Excellent - Very enjoyable</text>
+		<text bitflag="321" id1="21" id2="568872" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="568926" version="1065353216">Fun-Factor Survey</text>
+		<text bitflag="321" id1="2" id2="568926" version="1065353216">Please describe your current activity:</text>
+		<text bitflag="321" id1="3" id2="568926" version="1065353216">I am fighting enemies</text>
+		<text bitflag="321" id1="4" id2="568926" version="1065353216">I am questing</text>
+		<text bitflag="321" id1="5" id2="568926" version="1065353216">I am playing a Flashpoint</text>
+		<text bitflag="321" id1="6" id2="568926" version="1065353216">I am fighting in a Warzone</text>
+		<text bitflag="321" id1="8" id2="568926" version="1065353216">Rate your current enjoyment of the activity:</text>
+		<text bitflag="321" id1="9" id2="568926" version="1065353216">Poor - Not enjoyable at all</text>
+		<text bitflag="321" id1="10" id2="568926" version="1065353216">Below average</text>
+		<text bitflag="321" id1="11" id2="568926" version="1065353216">Average - just &quot;ok&quot;</text>
+		<text bitflag="321" id1="12" id2="568926" version="1065353216">Good - Enjoyable</text>
+		<text bitflag="321" id1="13" id2="568926" version="1065353216">Excellent - Very enjoyable</text>
+		<text bitflag="321" id1="18" id2="568926" version="1065353216">Comment:</text>
+		<text bitflag="321" id1="20" id2="568926" version="1065353216">I am buying/selling items at the Galactic Trade Network</text>
+		<text bitflag="321" id1="21" id2="568926" version="1065353216">I am reading the Codex</text>
+		<text bitflag="321" id1="22" id2="568926" version="1065353216">I am reading the Map</text>
+		<text bitflag="321" id1="23" id2="568926" version="1065353216">I am selling/buying at merchants</text>
+		<text bitflag="321" id1="24" id2="568926" version="1065353216">I am crafting items</text>
+		<text bitflag="321" id1="25" id2="568926" version="1065353216">I am exploring the planet</text>
+		<text bitflag="321" id1="0" id2="585092" version="1065353216">Planet Instances</text>
+		<text bitflag="321" id1="2" id2="585092" version="1065353216">Did you have any experience with the planet instancing feature?</text>
+		<text bitflag="321" id1="3" id2="585092" version="1065353216">Yes, I switched to meet up with another player</text>
+		<text bitflag="321" id1="4" id2="585092" version="1065353216">Yes, I elected to switch instances via the Map dropdown</text>
+		<text bitflag="321" id1="5" id2="585092" version="1065353216">No, I have not used it yet</text>
+		<text bitflag="321" id1="7" id2="585092" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="8" id2="585092" version="1065353216">Please rate your experience with the planet instancing feature:</text>
+		<text bitflag="321" id1="9" id2="585092" version="1065353216">Poor</text>
+		<text bitflag="321" id1="10" id2="585092" version="1065353216">Below average</text>
+		<text bitflag="321" id1="11" id2="585092" version="1065353216">Average</text>
+		<text bitflag="321" id1="12" id2="585092" version="1065353216">Good</text>
+		<text bitflag="321" id1="13" id2="585092" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="14" id2="585092" version="1065353216">I did not use this feature</text>
+		<text bitflag="321" id1="15" id2="585092" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="585097" version="1065353216">Origin World Enjoyment Survey</text>
+		<text bitflag="321" id1="2" id2="585097" version="1065353216">Please rate your leveling experience playing on the Origin World (starter planets):</text>
+		<text bitflag="321" id1="3" id2="585097" version="1065353216">Poor</text>
+		<text bitflag="321" id1="4" id2="585097" version="1065353216">Below average</text>
+		<text bitflag="321" id1="5" id2="585097" version="1065353216">Average</text>
+		<text bitflag="321" id1="6" id2="585097" version="1065353216">Good</text>
+		<text bitflag="321" id1="7" id2="585097" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="8" id2="585097" version="1065353216">Describe questing/killing mobs with the current population on the planet:</text>
+		<text bitflag="321" id1="9" id2="585097" version="1065353216">Impossible to complete quests/get monster kills</text>
+		<text bitflag="321" id1="10" id2="585097" version="1065353216">Difficult to complete quests/get monster kills</text>
+		<text bitflag="321" id1="11" id2="585097" version="1065353216">Average - crowded but doable</text>
+		<text bitflag="321" id1="12" id2="585097" version="1065353216">Easy to complete quests/get mob kills</text>
+		<text bitflag="321" id1="13" id2="585097" version="1065353216">Very easy, no competition</text>
+		<text bitflag="321" id1="15" id2="585097" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="585101" version="1065353216">Quit Survey</text>
+		<text bitflag="321" id1="2" id2="585101" version="1065353216">While playing, how many &quot;crashes to desktop&quot; do you generally experience?</text>
+		<text bitflag="321" id1="3" id2="585101" version="1065353216">Greater than 1 per hour</text>
+		<text bitflag="321" id1="4" id2="585101" version="1065353216">One per hour</text>
+		<text bitflag="321" id1="5" id2="585101" version="1065353216">One every 2 hours</text>
+		<text bitflag="321" id1="6" id2="585101" version="1065353216">One every 4 hours</text>
+		<text bitflag="321" id1="7" id2="585101" version="1065353216">Never have crashed to desktop, or too few to notice</text>
+		<text bitflag="321" id1="8" id2="585101" version="1065353216">How many disconnections from the game server do you generally experience?</text>
+		<text bitflag="321" id1="9" id2="585101" version="1065353216">Greater than 1 per hour</text>
+		<text bitflag="321" id1="10" id2="585101" version="1065353216">One per hour</text>
+		<text bitflag="321" id1="11" id2="585101" version="1065353216">One every 2 hours</text>
+		<text bitflag="321" id1="12" id2="585101" version="1065353216">One every 4 hours</text>
+		<text bitflag="321" id1="13" id2="585101" version="1065353216">Never have been disconnected, or too few to notice</text>
+		<text bitflag="321" id1="14" id2="585101" version="1065353216">Please rate your Frame Rate performance:</text>
+		<text bitflag="321" id1="15" id2="585101" version="1065353216">Poor/Unplayable</text>
+		<text bitflag="321" id1="16" id2="585101" version="1065353216">Below Expectations</text>
+		<text bitflag="321" id1="17" id2="585101" version="1065353216">Acceptable</text>
+		<text bitflag="321" id1="18" id2="585101" version="1065353216">Above Expectations</text>
+		<text bitflag="321" id1="19" id2="585101" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="20" id2="585101" version="1065353216">Please rate the severity of Lag:</text>
+		<text bitflag="321" id1="21" id2="585101" version="1065353216">Unplayable/Intolerable</text>
+		<text bitflag="321" id1="22" id2="585101" version="1065353216">Not enjoyable</text>
+		<text bitflag="321" id1="23" id2="585101" version="1065353216">Acceptable</text>
+		<text bitflag="321" id1="24" id2="585101" version="1065353216">Minimal Lag</text>
+		<text bitflag="321" id1="25" id2="585101" version="1065353216">No Lag</text>
+		<text bitflag="321" id1="26" id2="585101" version="1065353216">Please rate your in-game loading time:</text>
+		<text bitflag="321" id1="27" id2="585101" version="1065353216">Poor - Very Slow</text>
+		<text bitflag="321" id1="28" id2="585101" version="1065353216">Below Expectations - Slow</text>
+		<text bitflag="321" id1="29" id2="585101" version="1065353216">Acceptable</text>
+		<text bitflag="321" id1="30" id2="585101" version="1065353216">Above Expectations</text>
+		<text bitflag="321" id1="31" id2="585101" version="1065353216">Excellent - Very quick</text>
+		<text bitflag="321" id1="32" id2="585101" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="585109" version="1065353216">Fun Factor Survey</text>
+		<text bitflag="321" id1="2" id2="585109" version="1065353216">Please describe your current activity:</text>
+		<text bitflag="321" id1="3" id2="585109" version="1065353216">I am killing monsters</text>
+		<text bitflag="321" id1="4" id2="585109" version="1065353216">I am accepting / turning in quests</text>
+		<text bitflag="321" id1="5" id2="585109" version="1065353216">I am reading the Codex</text>
+		<text bitflag="321" id1="6" id2="585109" version="1065353216">I am reading the Map</text>
+		<text bitflag="321" id1="7" id2="585109" version="1065353216">I am training skills</text>
+		<text bitflag="321" id1="8" id2="585109" version="1065353216">I am selling/buying at merchants</text>
+		<text bitflag="321" id1="9" id2="585109" version="1065353216">I am exploring the planet</text>
+		<text bitflag="321" id1="10" id2="585109" version="1065353216">I am chatting with players</text>
+		<text bitflag="321" id1="11" id2="585109" version="1065353216">I am just hanging out</text>
+		<text bitflag="321" id1="12" id2="585109" version="1065353216">Rate your current enjoyment of the activity:</text>
+		<text bitflag="321" id1="13" id2="585109" version="1065353216">Poor - Not enjoyable at all</text>
+		<text bitflag="321" id1="14" id2="585109" version="1065353216">Below average</text>
+		<text bitflag="321" id1="15" id2="585109" version="1065353216">Average - just &quot;ok&quot;</text>
+		<text bitflag="321" id1="16" id2="585109" version="1065353216">Good - Enjoyable</text>
+		<text bitflag="321" id1="17" id2="585109" version="1065353216">Excellent - Very enjoyable</text>
+		<text bitflag="321" id1="18" id2="585109" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="585111" version="1065353216">Fun Factor Survey</text>
+		<text bitflag="321" id1="2" id2="585111" version="1065353216">Please describe your current activity:</text>
+		<text bitflag="321" id1="3" id2="585111" version="1065353216">I am fighting enemies</text>
+		<text bitflag="321" id1="4" id2="585111" version="1065353216">I am questing</text>
+		<text bitflag="321" id1="5" id2="585111" version="1065353216">I am playing a Flashpoint</text>
+		<text bitflag="321" id1="6" id2="585111" version="1065353216">I am fighting in a Warzone</text>
+		<text bitflag="321" id1="7" id2="585111" version="1065353216">I am buying/selling items at the Galactic Trade Network</text>
+		<text bitflag="321" id1="8" id2="585111" version="1065353216">I am reading the Codex</text>
+		<text bitflag="321" id1="9" id2="585111" version="1065353216">I am reading the Map</text>
+		<text bitflag="321" id1="10" id2="585111" version="1065353216">I am buying/selling at merchants</text>
+		<text bitflag="321" id1="11" id2="585111" version="1065353216">I am crafting items</text>
+		<text bitflag="321" id1="12" id2="585111" version="1065353216">I am exploring the planet</text>
+		<text bitflag="321" id1="13" id2="585111" version="1065353216">Rate your current enjoyment of the activity</text>
+		<text bitflag="321" id1="14" id2="585111" version="1065353216">Poor - Not enjoyable at all</text>
+		<text bitflag="321" id1="15" id2="585111" version="1065353216">Below average</text>
+		<text bitflag="321" id1="16" id2="585111" version="1065353216">Average - just &quot;ok&quot;</text>
+		<text bitflag="321" id1="17" id2="585111" version="1065353216">Good - Enjoyable</text>
+		<text bitflag="321" id1="18" id2="585111" version="1065353216">Excellent - Very enjoyable</text>
+		<text bitflag="321" id1="19" id2="585111" version="1065353216">Comments:</text>
+		<text bitflag="321" id1="0" id2="588887" version="1065353216">Performance Survey</text>
+		<text bitflag="321" id1="2" id2="588887" version="1065353216">While playing, how many &quot;crashed to desktop&quot; do you generally experience?</text>
+		<text bitflag="321" id1="3" id2="588887" version="1065353216">Greater than 1 per hour</text>
+		<text bitflag="321" id1="4" id2="588887" version="1065353216">One per hour</text>
+		<text bitflag="321" id1="5" id2="588887" version="1065353216">One every 2 hours</text>
+		<text bitflag="321" id1="6" id2="588887" version="1065353216">One every 4 hours</text>
+		<text bitflag="321" id1="7" id2="588887" version="1065353216">Never have crashed to desktop, or too few to notice</text>
+		<text bitflag="321" id1="8" id2="588887" version="1065353216">How many disconnects from the game server do you generally experience?</text>
+		<text bitflag="321" id1="9" id2="588887" version="1065353216">Greater than 1 per hour</text>
+		<text bitflag="321" id1="10" id2="588887" version="1065353216">One per hour</text>
+		<text bitflag="321" id1="11" id2="588887" version="1065353216">One every 2 hours</text>
+		<text bitflag="321" id1="12" id2="588887" version="1065353216">One every 4 hours</text>
+		<text bitflag="321" id1="13" id2="588887" version="1065353216">Never been disconnected, or too few to notice</text>
+		<text bitflag="321" id1="14" id2="588887" version="1065353216">Please rate your Frame Rate performance:</text>
+		<text bitflag="321" id1="15" id2="588887" version="1065353216">Poor/Unplayable</text>
+		<text bitflag="321" id1="16" id2="588887" version="1065353216">Below Expectations</text>
+		<text bitflag="321" id1="17" id2="588887" version="1065353216">Acceptable</text>
+		<text bitflag="321" id1="18" id2="588887" version="1065353216">Above Expectations</text>
+		<text bitflag="321" id1="19" id2="588887" version="1065353216">Excellent</text>
+		<text bitflag="321" id1="20" id2="588887" version="1065353216">Please rate the severity of Lag:</text>
+		<text bitflag="321" id1="21" id2="588887" version="1065353216">Unplayable/Intolerable</text>
+		<text bitflag="321" id1="22" id2="588887" version="1065353216">Not enjoyable</text>
+		<text bitflag="321" id1="23" id2="588887" version="1065353216">Acceptable</text>
+		<text bitflag="321" id1="24" id2="588887" version="1065353216">Minimal Lag</text>
+		<text bitflag="321" id1="25" id2="588887" version="1065353216">No Lag</text>
+		<text bitflag="321" id1="26" id2="588887" version="1065353216">Please rate your in-game loading time:</text>
+		<text bitflag="321" id1="27" id2="588887" version="1065353216">Poor - Very slow</text>
+		<text bitflag="321" id1="28" id2="588887" version="1065353216">Below Expectations - Slow</text>
+		<text bitflag="321" id1="29" id2="588887" version="1065353216">Acceptable</text>
+		<text bitflag="321" id1="30" id2="588887" version="1065353216">Above Expectations - Quick</text>
+		<text bitflag="321" id1="31" id2="588887" version="1065353216">Excellent - Very quick</text>
+		<text bitflag="321" id1="38" id2="588887" version="1065353216">Comments:</text>
+	</file_content>
+</stb_file>

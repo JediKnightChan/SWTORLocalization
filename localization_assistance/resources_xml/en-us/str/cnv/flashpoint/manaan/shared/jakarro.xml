@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>106</strs>
+		<file_name>/resources/en-us/str/cnv/flashpoint/manaan/shared/jakarro.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1126420" id2="17" version="1065353216">We're rescued!</text>
+		<text bitflag="3393" id1="1126422" id2="17" version="1065353216">Stupid droid! This one does not look like any liberator!</text>
+		<text bitflag="3393" id1="1126424" id2="17" version="1065353216">Stupid droid! This does not look like a rescue squad!</text>
+		<text bitflag="1345" id1="1126426" id2="17" version="1065353216">Jakarro! My most sincere apologies for his outburst. Please don't leave us here to rot; I implore you!</text>
+		<text bitflag="3393" id1="1126428" id2="17" version="1065353216">Do not speak for me when I have not spoken, or I will shut you off forever!</text>
+		<text bitflag="1345" id1="1126429" id2="17" version="1065353216">I want to know who you are and why you've been imprisoned.</text>
+		<text bitflag="1360" id1="1126429" id2="17" version="1065353216">Give me answers.</text>
+		<text bitflag="1345" id1="1126430" id2="17" version="1065353216">I'm guessing you two have no choice but to stick together?</text>
+		<text bitflag="1360" id1="1126430" id2="17" version="1065353216">You're quite the pair.</text>
+		<text bitflag="3393" id1="1126431" id2="17" version="1065353216">He is an annoyance, but he is my droid! Introduce us!</text>
+		<text bitflag="1345" id1="1126433" id2="17" version="1065353216">I didn't come here to listen to you bicker. Now say something useful or lose the ability to speak.</text>
+		<text bitflag="1360" id1="1126433" id2="17" version="1065353216">Stop arguing. [Threaten them]</text>
+		<text bitflag="3393" id1="1126434" id2="17" version="1065353216">You negotiate like I negotiate! I like that. Droid! Introduce us!</text>
+		<text bitflag="1345" id1="1126436" id2="17" version="1065353216">I am Ceetoo Deefour, former translator to Her Imminence, Queen Lina of Onderon; and this is my current master, the renowned illicit-transport specialist Jakarro.</text>
+		<text bitflag="1345" id1="1126437" id2="17" version="1065353216">A smuggler, in other words.</text>
+		<text bitflag="1345" id1="1126438" id2="17" version="1065353216">Jakarro was hired, quite innocuously, by a Selkath geneticist named Gorima. We delivered a large shipment of perfectly legal medical supplies here, to this facility.</text>
+		<text bitflag="1345" id1="1126440" id2="17" version="1065353216">Imagine our consternation when Gorima then had us imprisoned and interrogated most harshly by two awful creatures!</text>
+		<text bitflag="3393" id1="1126442" id2="17" version="1065353216">An Imp Sith and a Pub. I told them the truth, but they scheduled us for Gorima's experiments anyway.</text>
+		<text bitflag="1345" id1="1126443" id2="17" version="1065353216">So it's true: Darth Arkous and Colonel Darok are working together.</text>
+		<text bitflag="1360" id1="1126443" id2="17" version="1065353216">Arkous and Darok.</text>
+		<text bitflag="1345" id1="1126444" id2="17" version="1065353216">Is that significant?</text>
+		<text bitflag="3393" id1="1126446" id2="17" version="1065353216">Imps and Pubs in a secret alliance, droid! I have a bad feeling about this. So does this Imp here.</text>
+		<text bitflag="3393" id1="1126448" id2="17" version="1065353216">Imps and Pubs in a secret alliance, droid! I have a bad feeling about this. So do these Imps.</text>
+		<text bitflag="1345" id1="1126450" id2="17" version="1065353216">What sort of experiments would benefit from a Wookiee and a droid?</text>
+		<text bitflag="1360" id1="1126450" id2="17" version="1065353216">Experiments?</text>
+		<text bitflag="1345" id1="1126451" id2="17" version="1065353216">We don't know what Gorima is doing! I can only assume they mean to turn me to scrap and melt my processors!</text>
+		<text bitflag="3393" id1="1126453" id2="17" version="1065353216">I do not care about Selkath experiments. Maybe you care, but that is not all you are here for.</text>
+		<text bitflag="1345" id1="1126455" id2="17" version="1065353216">I saved you, meaning you owe me a life debt, Wookiee. From here on out, you do as I say.</text>
+		<text bitflag="1360" id1="1126455" id2="17" version="1065353216">I own you now.</text>
+		<text bitflag="3393" id1="1126456" id2="17" version="1065353216">I am my own Wookiee! I do not adhere to the life debt tradition! No matter who you are, you cannot tell me what to do!</text>
+		<text bitflag="1345" id1="1126458" id2="17" version="1065353216">Don't you think it would be best if we compromised just a bit in this instance? After all, we are, in a manner of speaking, indebted....</text>
+		<text bitflag="3393" id1="1126460" id2="17" version="1065353216">Do not be so weak, droid! Have some dignity!</text>
+		<text bitflag="3393" id1="1126462" id2="17" version="1065353216">I will not submit, but I think I have another reason to help you.</text>
+		<text bitflag="3393" id1="1126464" id2="17" version="1065353216">You have come to stop the Pub and the Imp, have you not?</text>
+		<text bitflag="1345" id1="1126465" id2="17" version="1065353216">Those who conspire against the Empire conspire against me.</text>
+		<text bitflag="1360" id1="1126465" id2="17" version="1065353216">Absolutely.</text>
+		<text bitflag="1345" id1="1126466" id2="17" version="1065353216">Darth Arkous has much to answer for.</text>
+		<text bitflag="1360" id1="1126466" id2="17" version="1065353216">The &quot;Imp&quot;, if nothing else.</text>
+		<text bitflag="1345" id1="1126467" id2="17" version="1065353216">That's why they pay me the big credits.</text>
+		<text bitflag="1360" id1="1126467" id2="17" version="1065353216">You bet.</text>
+		<text bitflag="1345" id1="1126468" id2="17" version="1065353216">They thought I wouldn't discover their conspiracy. I'm going to show them exactly how wrong they were.</text>
+		<text bitflag="1360" id1="1126468" id2="17" version="1065353216">I've come to teach them.</text>
+		<text bitflag="1360" id1="1126469" id2="17" version="1065353216">Join me.</text>
+		<text bitflag="1360" id1="1126471" id2="17" version="1065353216">Join us.</text>
+		<text bitflag="1345" id1="1126473" id2="17" version="1065353216">An extra hand wouldn't be entirely unwelcome. Interested?</text>
+		<text bitflag="1345" id1="1126474" id2="17" version="1065353216">I want to know exactly what they're up to before I make any decisions.</text>
+		<text bitflag="1360" id1="1126474" id2="17" version="1065353216">We'll see.</text>
+		<text bitflag="1345" id1="1126475" id2="17" version="1065353216">A sound policy in my experience. Are we to assist them, Jakarro?</text>
+		<text bitflag="3393" id1="1126477" id2="17" version="1065353216">I want a chance at revenge on my captors, but I must first gather my weapons and see that my ship is intact!</text>
+		<text bitflag="1345" id1="1126479" id2="17" version="1065353216">We shall endeavor to hurry and regroup with you at our earliest opportunity!</text>
+		<text bitflag="3393" id1="1127267" id2="17" version="1065353216">It's our lucky day, droid! Convince these saps to let us out of here!</text>
+		<text bitflag="1345" id1="1127269" id2="17" version="1065353216">Uh... Greetings! My master compliments your impressive skill, and would like to share his appreciation for this noble rescue!</text>
+		<text bitflag="1345" id1="1127270" id2="17" version="1065353216">This is hardly the time for... &quot;embellished&quot; translations. I'm sure your master would agree.</text>
+		<text bitflag="1345" id1="1127271" id2="17" version="1065353216">You don't need to clarify your master's words--I understand them perfectly well.</text>
+		<text bitflag="1345" id1="1127272" id2="17" version="1065353216">Most people don't realize just how broad the SpecForce language training really is. Want to try that again?</text>
+		<text bitflag="1345" id1="1127273" id2="17" version="1065353216">Sorry, not the first Wookiee I've met. Try again.</text>
+		<text bitflag="1345" id1="1127274" id2="17" version="1065353216">Oh, dear. Please let us out of here! We beg you!</text>
+		<text bitflag="3393" id1="1127276" id2="17" version="1065353216">I beg for nothing, droid!</text>
+		<text bitflag="3393" id1="1127278" id2="17" version="1065353216">You--release us! We can slaughter the rest of these backstabbers together!</text>
+		<text bitflag="1345" id1="1127279" id2="17" version="1065353216">Why don't we start with who you are and how you got here in the first place?</text>
+		<text bitflag="1360" id1="1127279" id2="17" version="1065353216">I need some answers first.</text>
+		<text bitflag="1345" id1="1127280" id2="17" version="1065353216">Your droid seems to be missing a few pieces.</text>
+		<text bitflag="1360" id1="1127280" id2="17" version="1065353216">What happened to the droid?</text>
+		<text bitflag="1345" id1="1127281" id2="17" version="1065353216">The security here is a joke. If you were bad enough to get caught, you'll just get in the way.</text>
+		<text bitflag="1360" id1="1127281" id2="17" version="1065353216">You'd just slow me down.</text>
+		<text bitflag="3393" id1="1127282" id2="17" version="1065353216">I was not caught! I was betrayed! Droid, explain!</text>
+		<text bitflag="1345" id1="1127284" id2="17" version="1065353216">My esteemed master, Jakarro, is a specialist in discreet cargo delivery. I am his translator, Ceetwo Deefour, former servant of her Imminence, Queen Lina of--</text>
+		<text bitflag="3393" id1="1127286" id2="17" version="1065353216">No one cares, droid! Get to the point!</text>
+		<text bitflag="1345" id1="1127288" id2="17" version="1065353216">...Yes. Well. Jakarro was contracted by a Selkath geneticist, Gorima, to deliver certain medical equipment--perfectly legal!--to this facility.</text>
+		<text bitflag="1345" id1="1127290" id2="17" version="1065353216">But once the delivery was made, payment was never rendered--instead, we were imprisoned and interrogated by two very unpleasant individuals!</text>
+		<text bitflag="3393" id1="1127292" id2="17" version="1065353216">A Pub soldier and an Imp Sith. They asked us questions--whether we had told others about the job. Insulting!</text>
+		<text bitflag="1345" id1="1127293" id2="17" version="1065353216">Colonel Darok and Darth Arkous?</text>
+		<text bitflag="1345" id1="1127294" id2="17" version="1065353216">We were never introduced. Very rude, to be perfectly honest. After the interrogation, they told Gorima to use us as fodder for some kind of experiments!</text>
+		<text bitflag="1345" id1="1127295" id2="17" version="1065353216">The Sith rarely take prisoners. These experiments must be very important to them.</text>
+		<text bitflag="1360" id1="1127295" id2="17" version="1065353216">You're lucky to be alive.</text>
+		<text bitflag="1345" id1="1127296" id2="17" version="1065353216">Is it possible they thought you might have more to reveal, if they just frightened you enough?</text>
+		<text bitflag="1360" id1="1127296" id2="17" version="1065353216">Perhaps it was just a ploy.</text>
+		<text bitflag="1345" id1="1127297" id2="17" version="1065353216">What kind of genetic experiments would call for a Wookiee and a droid?</text>
+		<text bitflag="1360" id1="1127297" id2="17" version="1065353216">Experiments?</text>
+		<text bitflag="1345" id1="1127298" id2="17" version="1065353216">Thanks to your timely intervention, I hope we'll never have to find out!</text>
+		<text bitflag="3393" id1="1127300" id2="17" version="1065353216">Enough! You are here for the Pub soldier, yes? To punish his betrayal? We were betrayed too--we can be allies!</text>
+		<text bitflag="1345" id1="1127302" id2="17" version="1065353216">Their story checks out--just did a little digging on these two. Charges against them both for smuggling, disorderly conduct, assault....</text>
+		<text bitflag="1345" id1="1127303" id2="17" version="1065353216">...Even the droid?</text>
+		<text bitflag="1345" id1="1127306" id2="17" version="1065353216">Whatever they may have done, my contact has a good feeling about them--thinks they might come in handy. Let's see if she's right.</text>
+		<text bitflag="1345" id1="1127307" id2="17" version="1065353216">All right--we're in this together. Ready?</text>
+		<text bitflag="1360" id1="1127307" id2="17" version="1065353216">Sounds good.</text>
+		<text bitflag="1345" id1="1127309" id2="17" version="1065353216">You'd better not betray us. I'll be watching you.</text>
+		<text bitflag="1360" id1="1127309" id2="17" version="1065353216">Don't make me regret this.</text>
+		<text bitflag="3393" id1="1127310" id2="17" version="1065353216">I will secure my weapons and meet you! Revenge will be ours!</text>
+		<text bitflag="1345" id1="1127312" id2="17" version="1065353216">Thank you!</text>
+		<text bitflag="1345" id1="1127836" id2="17" version="1065353216">Those... modifications... occurred before our imprisonment here.</text>
+		<text bitflag="3393" id1="1127838" id2="17" version="1065353216">You get them back when you learn respect, droid!</text>
+		<text bitflag="1345" id1="1127840" id2="17" version="1065353216">The possibilities are... troubling, to say the least.</text>
+		<text bitflag="1345" id1="1127842" id2="17" version="1065353216">A psychological manipulation? Intriguing! I hadn't even considered that possibility....</text>
+		<text bitflag="1345" id1="1127844" id2="17" version="1065353216">Did they ask you any other questions? Anything that might explain what they're up to?</text>
+		<text bitflag="1360" id1="1127844" id2="17" version="1065353216">Did they say anything useful?</text>
+		<text bitflag="1345" id1="1127845" id2="17" version="1065353216">I'm afraid not. They were only concerned with what we knew.</text>
+		<text bitflag="1345" id1="1127847" id2="17" version="1065353216">I feel for you, buddy. Of course, I've only been caught once, and that was on purpose. I was on this total backwater planet called Voss....</text>
+		<text bitflag="1360" id1="1127847" id2="17" version="1065353216">Getting caught is no fun.</text>
+		<text bitflag="1345" id1="1127848" id2="17" version="1065353216">I doubt Gorima could do anything to make you stranger than you already are.</text>
+		<text bitflag="1360" id1="1127848" id2="17" version="1065353216">You're already weird.</text>
+		<text bitflag="1345" id1="1127849" id2="17" version="1065353216">I'm not sure how to interpret that remark.</text>
+		<text bitflag="1345" id1="1127851" id2="17" version="1065353216">Yeah. Why do you ask?</text>
+		<text bitflag="1345" id1="1127852" id2="17" version="1065353216">Nevermind.</text>
+		<text bitflag="1345" id1="1127853" id2="17" version="1065353216">Oh, you have nothing at all to worry about!</text>
+		<text bitflag="3393" id1="1127862" id2="17" version="1065353216">I want Darok's throat in one hand, and Arkous's throat in the other!</text>
+	</file_content>
+</stb_file>

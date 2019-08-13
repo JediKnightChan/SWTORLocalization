@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra/ambient/sobrik/citizen_and_officer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="305715" id2="17" version="1065353216">You don't understand. This isn't just my shop, it's my home!</text>
+		<text bitflag="1345" id1="305717" id2="17" version="1065353216">As I've explained, the Empire is appropriating all privately owned buildings for military use.</text>
+		<text bitflag="1345" id1="305719" id2="17" version="1065353216">If we are to keep the people of Balmorra safe during this transition, we need your cooperation.</text>
+		<text bitflag="1345" id1="305721" id2="17" version="1065353216">But I've lived in Sobrik my whole life. Everything I have is here.</text>
+		<text bitflag="1345" id1="305723" id2="17" version="1065353216">And the Empire has compensated you accordingly. It's time you move on.</text>
+	</file_content>
+</stb_file>

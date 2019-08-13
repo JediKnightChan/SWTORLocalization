@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/kuat/imperial/z2_b3.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1125794" id2="17" version="1065353216">Kuat travel = restricted // You = try again later</text>
+		<text bitflag="3393" id1="1125796" id2="17" version="1065353216">Your success = certain!</text>
+		<text bitflag="3393" id1="1125797" id2="17" version="1065353216">Kuat fleet transport = ready for departure // You = boarding?</text>
+		<text bitflag="3393" id1="1125798" id2="17" version="1065353216">Z2-B3 = greeting you</text>
+		<text bitflag="1360" id1="1125806" id2="17" version="1065353216">[Start Flashpoint]</text>
+		<text bitflag="1360" id1="1125807" id2="17" version="1065353216">[Refuse Mission]</text>
+		<text bitflag="3393" id1="1125808" id2="17" version="1065353216">Your choice = acknowledged // Z2-B3 = your loyal servant</text>
+	</file_content>
+</stb_file>

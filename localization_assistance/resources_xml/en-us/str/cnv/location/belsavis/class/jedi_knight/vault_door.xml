@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>57</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/class/jedi_knight/vault_door.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="708830" id2="17" version="1065353216">[The warfare prototypes are hidden inside this unlocked containment vault.]</text>
+		<text bitflag="1345" id1="708831" id2="17" version="1065353216">That should stop any prisoners from getting their hands on these weapons.</text>
+		<text bitflag="1360" id1="708831" id2="17" version="1065353216">[Seal the vault.]</text>
+		<text bitflag="1345" id1="708834" id2="17" version="1065353216">Thanks, I know some prisoners who would do a lot of damage with those things.</text>
+		<text bitflag="1345" id1="708836" id2="17" version="1065353216">I never really believed the stories about Jedi, until now.</text>
+		<text bitflag="1345" id1="708837" id2="17" version="1065353216">I still need to get to the research vault and rescue Doctor Gantrell.</text>
+		<text bitflag="1360" id1="708837" id2="17" version="1065353216">My work isn't done yet.</text>
+		<text bitflag="1345" id1="708838" id2="17" version="1065353216">We Jedi seek to let the Force work through us. And the Force is a powerful ally.</text>
+		<text bitflag="1360" id1="708838" id2="17" version="1065353216">I am a servant of the light.</text>
+		<text bitflag="1345" id1="708839" id2="17" version="1065353216">I don't know what that means, but it sounds good.</text>
+		<text bitflag="1345" id1="708841" id2="17" version="1065353216">I couldn't ignore this; it would go against the Jedi Code.</text>
+		<text bitflag="1360" id1="708841" id2="17" version="1065353216">I just did my duty.</text>
+		<text bitflag="1345" id1="708842" id2="17" version="1065353216">I think you just went above and beyond any code.</text>
+		<text bitflag="1345" id1="708846" id2="17" version="1065353216">I don't have comm access to the lower levels. You'll be on your own.</text>
+		<text bitflag="1345" id1="708848" id2="17" version="1065353216">Good luck, Jedi. We're all counting on you.</text>
+		<text bitflag="1345" id1="708850" id2="17" version="1065353216">I need to think about this.</text>
+		<text bitflag="1360" id1="708850" id2="17" version="1065353216">[Do nothing for now.]</text>
+		<text bitflag="1345" id1="708852" id2="17" version="1065353216">Some of this equipment could come in handy.</text>
+		<text bitflag="1360" id1="708852" id2="17" version="1065353216">[Loot the vault.]</text>
+		<text bitflag="1345" id1="708855" id2="17" version="1065353216">Wait a minute! What do you think you're doing?</text>
+		<text bitflag="1345" id1="708856" id2="17" version="1065353216">You know what I'm up against. I need all the help I can get.</text>
+		<text bitflag="1360" id1="708856" id2="17" version="1065353216">I need this for my mission.</text>
+		<text bitflag="1345" id1="708857" id2="17" version="1065353216">The prisoners shouldn't get their hands on these prototypes, right? Best if I take them.</text>
+		<text bitflag="1360" id1="708857" id2="17" version="1065353216">I'll keep this stuff safe.</text>
+		<text bitflag="1345" id1="708858" id2="17" version="1065353216">Don't give me that. I know a thief when I see one!</text>
+		<text bitflag="1345" id1="708860" id2="17" version="1065353216">I don't like people looking over my shoulder.</text>
+		<text bitflag="1360" id1="708860" id2="17" version="1065353216">Are you spying on me?</text>
+		<text bitflag="1345" id1="708861" id2="17" version="1065353216">I was monitoring in case you needed help. I didn't realize you're a thief!</text>
+		<text bitflag="1345" id1="708863" id2="17" version="1065353216">I've stolen plenty--even killed for things--but I expected better from a Jedi!</text>
+		<text bitflag="1345" id1="708865" id2="17" version="1065353216">A guard who's committed theft and murder? Which side of the cell door is he on?</text>
+		<text bitflag="1345" id1="708866" id2="17" version="1065353216">Hang on. He's supposed to be a guard.</text>
+		<text bitflag="1345" id1="708867" id2="17" version="1065353216">That explains it. He isn't a guard. He's a prisoner.</text>
+		<text bitflag="1345" id1="708868" id2="17" version="1065353216">The Republic doesn't hire criminals as prison guards. That man isn't who he says.</text>
+		<text bitflag="3393" id1="708869" id2="17" version="1065353216">T7 = confused // Pak = guard or prisoner?</text>
+		<text bitflag="1345" id1="708870" id2="17" version="1065353216">I want the truth. Are you one of the inmates?</text>
+		<text bitflag="1360" id1="708870" id2="17" version="1065353216">Time to come clean, Pak.</text>
+		<text bitflag="1345" id1="708871" id2="17" version="1065353216">You're supposed to always do what's right. You're not supposed to be like the rest of us!</text>
+		<text bitflag="1345" id1="708872" id2="17" version="1065353216">I don't care about your personal issues, Pak. I need to find Executor Krannus.</text>
+		<text bitflag="1360" id1="708872" id2="17" version="1065353216">We don't have time for this.</text>
+		<text bitflag="1345" id1="708873" id2="17" version="1065353216">You're as greedy as I ever was. Go then, you dirty thief!</text>
+		<text bitflag="1345" id1="708875" id2="17" version="1065353216">What are you talking about? Were you one of the inmates here?</text>
+		<text bitflag="1360" id1="708875" id2="17" version="1065353216">You weren't always a guard?</text>
+		<text bitflag="1345" id1="708876" id2="17" version="1065353216">I'm a Jedi. You're a lousy prison guard... assuming that's even true.</text>
+		<text bitflag="1360" id1="708876" id2="17" version="1065353216">How dare you judge me!</text>
+		<text bitflag="1345" id1="708877" id2="17" version="1065353216">I came here a decade ago as a prisoner. Being on Belsavis--surrounded by scum just like me--it opened my eyes.</text>
+		<text bitflag="1345" id1="708879" id2="17" version="1065353216">I decided to change. Took a lot of years, but I finally did it.</text>
+		<text bitflag="1345" id1="708881" id2="17" version="1065353216">A few months ago, the warden made me an honorary guard. Gave me a second chance.</text>
+		<text bitflag="1345" id1="708882" id2="17" version="1065353216">Why should I fall for a story like that?</text>
+		<text bitflag="1360" id1="708882" id2="17" version="1065353216">I don't believe you.</text>
+		<text bitflag="1345" id1="708883" id2="17" version="1065353216">You worked hard to turn your life around, Pak. You deserved to be rewarded.</text>
+		<text bitflag="1360" id1="708883" id2="17" version="1065353216">Sounds like you earned it.</text>
+		<text bitflag="1345" id1="708884" id2="17" version="1065353216">I thought being a guard meant I'd work with good people. You're as greedy as I ever was.</text>
+		<text bitflag="1345" id1="708886" id2="17" version="1065353216">I looked up to you. Now you make me sick.</text>
+		<text bitflag="1345" id1="708887" id2="17" version="1065353216">The warden made a mistake. Sooner or later, you'll go back to being a criminal.</text>
+		<text bitflag="1360" id1="708887" id2="17" version="1065353216">People don't change.</text>
+		<text bitflag="1345" id1="708888" id2="17" version="1065353216">I don't care what you think! You're a dirty hypocrite!</text>
+		<text bitflag="1345" id1="708890" id2="17" version="1065353216">Just do a better job saving Doctor Gantrell than you did here!</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/republic/revan/pd_44.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="201419" id2="17" version="1065353216">Intruders detected. Initiating perimeter defense protocol.</text>
+		<text bitflag="1345" id1="201420" id2="17" version="1065353216">Engaging intruders. Primary weapons locked.</text>
+		<text bitflag="1345" id1="201421" id2="17" version="1065353216">Adding target profile to kill database.</text>
+		<text bitflag="1345" id1="201422" id2="17" version="1065353216">Target appears to be non-sentient.</text>
+		<text bitflag="1345" id1="201423" id2="17" version="1065353216">Secondary weapon charged. Deploying....</text>
+		<text bitflag="1345" id1="201424" id2="17" version="1065353216">Power systems failing. Requesting immediate repair....</text>
+	</file_content>
+</stb_file>

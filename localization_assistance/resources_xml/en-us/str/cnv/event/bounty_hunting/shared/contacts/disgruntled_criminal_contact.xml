@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>22</strs>
+		<file_name>/resources/en-us/str/cnv/event/bounty_hunting/shared/contacts/disgruntled_criminal_contact.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1113271" id2="17" version="1065353216">Look, I'd love nothing more than to see that no-good scum taken down a peg, but there's no way I'm talking.</text>
+		<text bitflag="1345" id1="1113291" id2="17" version="1065353216">What's the problem?</text>
+		<text bitflag="1345" id1="1113292" id2="17" version="1065353216">Any idea what happens to snitches around here? Don't know about you, but I kinda like not being dead.</text>
+		<text bitflag="1345" id1="1113293" id2="17" version="1065353216">What sort of life is that, when you never stand up for your own convictions?</text>
+		<text bitflag="1360" id1="1113293" id2="17" version="1065353216">Follow your conscience.</text>
+		<text bitflag="1345" id1="1113294" id2="17" version="1065353216">None of that matters. You will give me the information I seek.</text>
+		<text bitflag="1360" id1="1113294" id2="17" version="1065353216">[Force Persuade] Talk.</text>
+		<text bitflag="1345" id1="1113295" id2="17" version="1065353216">You obviously want to help--so help.</text>
+		<text bitflag="1360" id1="1113295" id2="17" version="1065353216">Come on....</text>
+		<text bitflag="1345" id1="1113296" id2="17" version="1065353216">And what do you think I'll do to you if you don't squeal?</text>
+		<text bitflag="1360" id1="1113296" id2="17" version="1065353216">Then speak. [Threaten him]</text>
+		<text bitflag="1345" id1="1113297" id2="17" version="1065353216">None of that matters. I'll give you the information you seek....</text>
+		<text bitflag="1345" id1="1113299" id2="17" version="1065353216">Not much of one, I guess.</text>
+		<text bitflag="1345" id1="1113300" id2="17" version="1065353216">So it's gonna be like that, huh? Why am I not surprised?</text>
+		<text bitflag="1345" id1="1113301" id2="17" version="1065353216">Would you get off my back already? Wow, do I hate this life. Shoulda been a speeder vendor.</text>
+		<text bitflag="1345" id1="1113303" id2="17" version="1065353216">I'm about to start talking, but let's be clear--none of this came from me....</text>
+		<text bitflag="1345" id1="1113304" id2="17" version="1065353216">What sort of life is that, when you never stand up for your own convictions?</text>
+		<text bitflag="1360" id1="1113304" id2="17" version="1065353216">Follow your conscience.</text>
+		<text bitflag="1345" id1="1113305" id2="17" version="1065353216">And what do you think I'll do to you if you don't squeal?</text>
+		<text bitflag="1360" id1="1113305" id2="17" version="1065353216">Then speak. [Threaten him]</text>
+		<text bitflag="1345" id1="1113606" id2="17" version="1065353216">Alright, point taken. I'll tell you what you wanna know....</text>
+		<text bitflag="1345" id1="1113608" id2="17" version="1065353216">Ma wanted me to be a geologist. Why I never listened....</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/jedi_consular/chapter_2/an_alliance_of_opposites/ship_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="641983" id2="17" version="1065353216">Caution. Navigational computer illegally locked. Fail-safe systems have been disabled.</text>
+		<text bitflag="1345" id1="641985" id2="17" version="1065353216">Collision with Deralia's surface is imminent. Recommend immediate course change to avoid casualties.</text>
+		<text bitflag="3393" id1="641989" id2="17" version="1065353216">Sith are taking no chances.</text>
+		<text bitflag="1345" id1="641990" id2="17" version="1065353216">Oh, wonderful. My genius is about to be snuffed out thanks to some Imperial grunt's ham-handed sabotage.</text>
+	</file_content>
+</stb_file>

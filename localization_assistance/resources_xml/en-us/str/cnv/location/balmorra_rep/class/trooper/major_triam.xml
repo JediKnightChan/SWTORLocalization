@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>51</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/class/trooper/major_triam.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="538703" id2="17" version="1065353216">The scans of Sobrik are coming in clear as crystal. You did a fine job, Captain.</text>
+		<text bitflag="1345" id1="538705" id2="17" version="1065353216">The jammers have been destroyed, Major. I repeat, the jammers are down.</text>
+		<text bitflag="1345" id1="538706" id2="17" version="1065353216">That's good to hear, Captain. I was starting to sweat.</text>
+		<text bitflag="1345" id1="538708" id2="17" version="1065353216">All right, the aerial scans are coming in now... let's see if we can find that Weequay. Hmm.</text>
+		<text bitflag="1345" id1="538710" id2="17" version="1065353216">I'm seeing signs of an explosive entry at the Imperial HQ, near the administrative offices. We don't have any people in the area, so it's got to be Vik's handiwork.</text>
+		<text bitflag="1345" id1="538711" id2="17" version="1065353216">I'll proceed to the area immediately.</text>
+		<text bitflag="1360" id1="538711" id2="17" version="1065353216">Copy that.</text>
+		<text bitflag="1345" id1="538712" id2="17" version="1065353216">Why would Vik attack Imperial headquarters?</text>
+		<text bitflag="1360" id1="538712" id2="17" version="1065353216">What's he doing there?</text>
+		<text bitflag="1345" id1="538713" id2="17" version="1065353216">Your guess is as good as mine. Somehow I doubt it's as heroic as it sounds.</text>
+		<text bitflag="1345" id1="538715" id2="17" version="1065353216">If Vik isn't where you say he is, I'm going to be very unhappy, Major.</text>
+		<text bitflag="1360" id1="538715" id2="17" version="1065353216">You'd better be right.</text>
+		<text bitflag="1345" id1="538716" id2="17" version="1065353216">Save your &quot;scary&quot; face for the enemy, Captain. I'm a busy man.</text>
+		<text bitflag="1345" id1="538718" id2="17" version="1065353216">I'm sending you the coordinates now. When you run into Vik, pass on my thanks for all his help. Triam out.</text>
+		<text bitflag="1345" id1="538720" id2="17" version="1065353216">Get those jammers down ASAP.</text>
+		<text bitflag="1345" id1="538721" id2="17" version="1065353216">Captain. I'm Major Triam, Thirty-fifth Recon. You can stand at ease.</text>
+		<text bitflag="1345" id1="538722" id2="17" version="1065353216">I appreciate your time, Major. I'm hoping you can help me find a Weequay named Tanno Vik.</text>
+		<text bitflag="1360" id1="538722" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1345" id1="538723" id2="17" version="1065353216">I'll bet I can.</text>
+		<text bitflag="1345" id1="538725" id2="17" version="1065353216">I'm looking for a Weequay named Tanno Vik. Have you seen him?</text>
+		<text bitflag="1360" id1="538725" id2="17" version="1065353216">Let's get down to business.</text>
+		<text bitflag="1345" id1="538726" id2="17" version="1065353216">Yeah. I've seen him.</text>
+		<text bitflag="1345" id1="538728" id2="17" version="1065353216">Get me everyone you have, Triam--I want a wide-area search for a Weequay named Tanno Vik.</text>
+		<text bitflag="1360" id1="538728" id2="17" version="1065353216">Make yourself useful.</text>
+		<text bitflag="1345" id1="538729" id2="17" version="1065353216">I said you could stand at ease, not bark orders at a superior officer. You're lucky I want to find Vik, too.</text>
+		<text bitflag="1345" id1="538731" id2="17" version="1065353216">That lying filth &quot;volunteered&quot; to destroy some Imperial jammers in Sobrik. They're blocking the scan data from all of our high-altitude probe droids.</text>
+		<text bitflag="1345" id1="538733" id2="17" version="1065353216">Vik took the explosives, but never did the job. The resistance needs the data from those probes to avoid patrols and conduct raids.</text>
+		<text bitflag="1345" id1="538734" id2="17" version="1065353216">Just give me the target coordinates, and I'll move out.</text>
+		<text bitflag="1360" id1="538734" id2="17" version="1065353216">I can disable the jammers.</text>
+		<text bitflag="1345" id1="538735" id2="17" version="1065353216">It's not that simple, unfortunately.</text>
+		<text bitflag="1345" id1="538737" id2="17" version="1065353216">Where'd he go with the explosives?</text>
+		<text bitflag="1360" id1="538737" id2="17" version="1065353216">What happened to Vik?</text>
+		<text bitflag="1345" id1="538738" id2="17" version="1065353216">Don't know, but once the data from the probes is flowing again, we can track him down in an instant.</text>
+		<text bitflag="1345" id1="538740" id2="17" version="1065353216">I'm getting sick of cleaning up Vik's messes.</text>
+		<text bitflag="1360" id1="538740" id2="17" version="1065353216">Not again!</text>
+		<text bitflag="1345" id1="538741" id2="17" version="1065353216">Aiding the resistance is a priority objective--we've got no choice.</text>
+		<text bitflag="1345" id1="538743" id2="17" version="1065353216">You'll need detonite charges to bring the jammers down. Vik took the last of mine, so you'll have to do a bit of scrounging.</text>
+		<text bitflag="1345" id1="538745" id2="17" version="1065353216">The Imps have checkpoints scattered through Sobrik--they'll have explosives. Once you have enough charges, hit those jammers hard.</text>
+		<text bitflag="1345" id1="538746" id2="17" version="1065353216">Consider the jammers scrap, sir.</text>
+		<text bitflag="1360" id1="538746" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="538747" id2="17" version="1065353216">Be sure the resistance knows who helped them.</text>
+		<text bitflag="1360" id1="538747" id2="17" version="1065353216">As long as I get credit.</text>
+		<text bitflag="1345" id1="538748" id2="17" version="1065353216">I'm sure your name will come up in the after-action reports.</text>
+		<text bitflag="1345" id1="538750" id2="17" version="1065353216">Don't you have personnel that could deal with the cannon, Major?</text>
+		<text bitflag="1360" id1="538750" id2="17" version="1065353216">Can't you do this?</text>
+		<text bitflag="1345" id1="538751" id2="17" version="1065353216">We're a recon team, not commandos. It's you or it's nobody.</text>
+		<text bitflag="1345" id1="538753" id2="17" version="1065353216">Slow down, Major. I already have a mission.</text>
+		<text bitflag="1360" id1="538753" id2="17" version="1065353216">I never said I'd help.</text>
+		<text bitflag="1345" id1="538754" id2="17" version="1065353216">You'll do what I order you to, Captain. It will work out better for you in the end anyway.</text>
+		<text bitflag="1345" id1="538756" id2="17" version="1065353216">Once the jammers are down and we start getting full aerial scans of Sobrik, we can pinpoint exactly where Vik took my explosives.</text>
+		<text bitflag="1345" id1="538758" id2="17" version="1065353216">Contact me via holo as soon as the jammers are down. Dismissed, Captain.</text>
+	</file_content>
+</stb_file>

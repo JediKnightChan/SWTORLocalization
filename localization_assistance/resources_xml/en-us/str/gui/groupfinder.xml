@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>148</strs>
+		<file_name>/resources/en-us/str/gui/groupfinder.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="690324" version="1065353216">ACTIVITY FINDER</text>
+		<text bitflag="321" id1="2" id2="690324" version="1065353216">LEAVE QUEUE</text>
+		<text bitflag="321" id1="3" id2="690324" version="1065353216">UPDATE ROLES</text>
+		<text bitflag="321" id1="4" id2="690324" version="1065353216">Select Your Role:</text>
+		<text bitflag="321" id1="5" id2="690324" version="1065353216">Select Destinations:</text>
+		<text bitflag="321" id1="6" id2="690324" version="1065353216">DAMAGE</text>
+		<text bitflag="321" id1="7" id2="690324" version="1065353216">HEAL</text>
+		<text bitflag="321" id1="8" id2="690324" version="1065353216">TANK</text>
+		<text bitflag="321" id1="9" id2="690324" version="1065353216">JOIN QUEUE</text>
+		<text bitflag="321" id1="10" id2="690324" version="1065353216">QUEUE GROUP</text>
+		<text bitflag="321" id1="11" id2="690324" version="1065353216">IN QUEUE</text>
+		<text bitflag="321" id1="12" id2="690324" version="1065353216">IN GROUP</text>
+		<text bitflag="321" id1="13" id2="690324" version="1065353216">CANNOT QUEUE</text>
+		<text bitflag="321" id1="14" id2="690324" version="1065353216">FILTER &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="15" id2="690324" version="1065353216">Filter Destinations:</text>
+		<text bitflag="321" id1="16" id2="690324" version="1065353216">Match With In-progress Groups</text>
+		<text bitflag="321" id1="17" id2="690324" version="1065353216">ACTIVITY FINDER</text>
+		<text bitflag="321" id1="18" id2="690324" version="1065353216">READY</text>
+		<text bitflag="321" id1="19" id2="690324" version="1065353216">EXIT</text>
+		<text bitflag="321" id1="20" id2="690324" version="1065353216">Not Ready. &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="21" id2="690324" version="1065353216">Ready. &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="22" id2="690324" version="1065353216">Waiting on &lt;&lt;1[$d player/$d players]&gt;&gt;.</text>
+		<text bitflag="321" id1="23" id2="690324" version="1065353216">Group matched for: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="24" id2="690324" version="1065353216">You have suggested kicking &lt;&lt;1&gt;&gt; from your group.</text>
+		<text bitflag="321" id1="25" id2="690324" version="1065353216">Enter your reason for kicking this player from the group:</text>
+		<text bitflag="321" id1="26" id2="690324" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="27" id2="690324" version="1065353216">Kick</text>
+		<text bitflag="321" id1="28" id2="690324" version="1065353216">Don't Kick</text>
+		<text bitflag="321" id1="29" id2="690324" version="1065353216">Reason given for removal:</text>
+		<text bitflag="321" id1="30" id2="690324" version="1065353216">&lt;&lt;1&gt;&gt; suggests &lt;&lt;2&gt;&gt; should be kicked from the group.</text>
+		<text bitflag="321" id1="31" id2="690324" version="1065353216">&lt;&lt;1&gt;&gt; suggests you should be kicked from the group.</text>
+		<text bitflag="321" id1="32" id2="690324" version="1065353216">VOTE KICK</text>
+		<text bitflag="321" id1="33" id2="690324" version="1065353216">Reason Provided</text>
+		<text bitflag="321" id1="34" id2="690324" version="1065353216">The Activity Finder can place you in a QUEUE for destinations that you specify:
+
+   -First, 'Select Your Role' to specify which Role you wish to play as in a group.
+   -Next, select the 'Destination' that you want to consider for a match.
+   -Finally, press 'JOIN QUEUE' to enter the queue.   
+
+Note: You will not be matched with players on your Ignore List.</text>
+		<text bitflag="321" id1="35" id2="690324" version="1065353216">Your group is currently paused in the queue because of an invalid group composition.</text>
+		<text bitflag="321" id1="36" id2="690324" version="1065353216">You are currently locked out of Flashpoints, Uprisings and Operations for leaving. You may not enter the queue until the lock out timer expires.</text>
+		<text bitflag="321" id1="37" id2="690324" version="1065353216">Cannot enter queue because you have the maximum number of allowed missions in your mission log.</text>
+		<text bitflag="321" id1="38" id2="690324" version="1065353216">Group members are currently offline.</text>
+		<text bitflag="321" id1="39" id2="690324" version="1065353216">Role: Damage. This role focuses on lowering the health of enemies.</text>
+		<text bitflag="321" id1="40" id2="690324" version="1065353216">Role: Heal. This role focuses on sustaining group health.</text>
+		<text bitflag="321" id1="41" id2="690324" version="1065353216">Role: Tank. This role focuses on keeping enemy attention.</text>
+		<text bitflag="321" id1="42" id2="690324" version="1065353216">Choose selections for the activity finder queue.</text>
+		<text bitflag="321" id1="43" id2="690324" version="1065353216">FIND REPLACEMENT</text>
+		<text bitflag="321" id1="44" id2="690324" version="1065353216">[&lt;&lt;1&gt;&gt;]</text>
+		<text bitflag="321" id1="45" id2="690324" version="1065353216">Toggle all selections</text>
+		<text bitflag="321" id1="46" id2="690324" version="1065353216">Toggle consideration to join groups already progressing through the selected destinations.</text>
+		<text bitflag="321" id1="47" id2="690324" version="1065353216">Group role selections may need adjustment to enter the Activity Finder queue.</text>
+		<text bitflag="321" id1="48" id2="690324" version="1065353216">Your group configuration is currently: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="49" id2="690324" version="1065353216">INVALID</text>
+		<text bitflag="321" id1="50" id2="690324" version="1065353216">VALID</text>
+		<text bitflag="321" id1="51" id2="690324" version="1065353216">Lockouts</text>
+		<text bitflag="321" id1="52" id2="690324" version="1065353216">OPERATION LEADER</text>
+		<text bitflag="321" id1="53" id2="690324" version="1065353216">PLAYER</text>
+		<text bitflag="321" id1="54" id2="690324" version="1065353216">Daily reward bonus is available.</text>
+		<text bitflag="321" id1="55" id2="690324" version="1065353216">Daily reward bonus is unavailable with current filtered selections.</text>
+		<text bitflag="321" id1="56" id2="690324" version="1065353216">Daily reward already claimed.</text>
+		<text bitflag="321" id1="57" id2="690324" version="1065353216">Current Role: Damage</text>
+		<text bitflag="321" id1="58" id2="690324" version="1065353216">Current Role: Heal</text>
+		<text bitflag="321" id1="59" id2="690324" version="1065353216">Current Role: Tank</text>
+		<text bitflag="321" id1="60" id2="690324" version="1065353216">Lockout Expires: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="61" id2="690324" version="1065353216">DECLINE</text>
+		<text bitflag="321" id1="62" id2="690324" version="1065353216">The Activity Window is not available until level 10.</text>
+		<text bitflag="321" id1="63" id2="690324" version="1065353216">You currently have a conflicting phase.</text>
+		<text bitflag="321" id1="64" id2="690324" version="1065353216">This action is not available while you are in a pvp match.</text>
+		<text bitflag="321" id1="65" id2="690324" version="1065353216">DECLINED</text>
+		<text bitflag="321" id1="66" id2="690324" version="1065353216">When the group is formed, you will be removed from your current phase.</text>
+		<text bitflag="321" id1="67" id2="690324" version="1065353216">When the group is formed, you will be removed from your current warzone.</text>
+		<text bitflag="321" id1="68" id2="690324" version="1065353216">Destinations Selected By The Group Leader:</text>
+		<text bitflag="321" id1="69" id2="690324" version="1065353216">Group Leader: Select Destinations:</text>
+		<text bitflag="321" id1="70" id2="690324" version="1065353216">Available Destinations:</text>
+		<text bitflag="321" id1="71" id2="690324" version="1065353216">When the group is formed, you will be removed from your current warzone queue.</text>
+		<text bitflag="321" id1="72" id2="690324" version="1065353216">When the group is formed, you will be removed from your current phase and warzone queues.</text>
+		<text bitflag="321" id1="257" id2="690324" version="1065353216">You are not in a queue for an activity.</text>
+		<text bitflag="321" id1="258" id2="690324" version="1065353216">You are in a queue with the activity finder.</text>
+		<text bitflag="321" id1="259" id2="690324" version="1065353216">Your group is in a queue with the activity finder.</text>
+		<text bitflag="321" id1="260" id2="690324" version="1065353216">You cannot enter the queue because you have recently left a group destination. Please wait until your lock out timer expires.</text>
+		<text bitflag="321" id1="261" id2="690324" version="1065353216">Your group is queued with the activity finder but progress is paused because of an invalid configuration.</text>
+		<text bitflag="321" id1="262" id2="690324" version="1065353216">Your group is eligible to find a replacement player. Re-queue your group to quickly replace the lost group member.</text>
+		<text bitflag="321" id1="263" id2="690324" version="1065353216">Activity Finder will consider you for the selected Roles when finding a group.</text>
+		<text bitflag="321" id1="264" id2="690324" version="1065353216">You are ineligible for this selection.</text>
+		<text bitflag="321" id1="265" id2="690324" version="1065353216">Toggle selected destinations for queue.</text>
+		<text bitflag="321" id1="266" id2="690324" version="1065353216">&lt;&lt;1&gt;&gt;
+Level: &lt;&lt;2&gt;&gt;
+&lt;&lt;3&gt;&gt;
+&lt;&lt;4&gt;&gt;</text>
+		<text bitflag="321" id1="269" id2="690324" version="1065353216">When all members select 'Ready' for the group, you will be removed from your Warzone.</text>
+		<text bitflag="321" id1="270" id2="690324" version="1065353216">When all members select 'Ready' for the group, you will be removed from your Phase.</text>
+		<text bitflag="321" id1="271" id2="690324" version="1065353216">You may not perform this action while a group invitation is pending.</text>
+		<text bitflag="321" id1="272" id2="690324" version="1065353216">...FLASHPOINT CURRENTLY IN PROGRESS...</text>
+		<text bitflag="321" id1="273" id2="690324" version="1065353216">...OPERATION CURRENTLY IN PROGRESS...</text>
+		<text bitflag="321" id1="274" id2="690324" version="1065353216">Your current role selections:</text>
+		<text bitflag="321" id1="275" id2="690324" version="1065353216">Your group members current role selections:</text>
+		<text bitflag="321" id1="276" id2="690324" version="1065353216">If valid roles are not selected within the timelimit, your group will be removed from the queue.</text>
+		<text bitflag="321" id1="277" id2="690324" version="1065353216">Time remaining until group is removed from queue.</text>
+		<text bitflag="321" id1="278" id2="690324" version="1065353216">Operations are complex, challenging missions that require 8 players to complete. Operations require greater player skill and coordination for success.
+
+Queueing for an Operation through Activity Finder will place you in a group for the currently active Operation and Bolster your equipment to the required rating.
+
+Be sure to pick up the following missions on the Fleet for additional experience and credits:
+
+[WEEKLY] The Ravagers
+[WEEKLY] Temple of Sacrifice
+[WEEKLY] The Dread Fortress
+[WEEKLY] The Dread Palace
+[WEEKLY] Terror From Beyond
+[WEEKLY] Scum and Villainy
+[WEEKLY] The Eternity Vault
+[WEEKLY] Karagga's Palace
+[WEEKLY] Explosive Conflict
+[WEEKLY] Gods from the Machine</text>
+		<text bitflag="321" id1="279" id2="690324" version="1065353216">Master Mode Flashpoints are challenging, group-focused missions that will test your mettle in combat as well as your ability to coordinate with a team of four players.</text>
+		<text bitflag="321" id1="280" id2="690324" version="1065353216">Master Mode Flashpoints are challenging, group-focused missions that will test your mettle in combat as well as your ability to coordinate with a team of four players.
+
+Be sure to pick up the following mission on the Fleet for additional experience and credits.
+
+[WEEKLY] Galactic Conflicts</text>
+		<text bitflag="321" id1="281" id2="690324" version="1065353216">Veteran Mode Flashpoints are story-driven, group endeavors that provide both challenge and reward.  
+
+Flashpoint availability and daily rewards will change as you increase in level. This category does not enforce any specific group roles, although includes limits of 2 Healers or 3 Tanks maximum.
+
+Be sure to pick up the following mission on the Fleet for additional experience and credits.
+
+[DAILY] Emerging Conflicts</text>
+		<text bitflag="321" id1="282" id2="690324" version="1065353216">You may not enter the activity finder queue while in a group pvp queue.</text>
+		<text bitflag="321" id1="283" id2="690324" version="1065353216">Planetary Destinations offer a quick way to find other people pursuing group missions on a particular planet.
+
+Some destinations are tailored towards the Bonus Series missions for a planet while others for the Daily missions.
+
+Note: Planetary destinations do not currently offer shuttle service.</text>
+		<text bitflag="321" id1="284" id2="690324" version="1065353216">Your group is currently in queue. Only the group leader may exit the queue.</text>
+		<text bitflag="321" id1="285" id2="690324" version="1065353216">Your selected Roles have changed. Please select 'Update Roles' below to confirm these changes.</text>
+		<text bitflag="321" id1="10284" id2="690324" version="1065353216">Flashpoint Weekly Pass time remaining: &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="10285" id2="690324" version="1065353216">&lt;&lt;1&gt;&gt; of &lt;&lt;2&gt;&gt; weekly flashpoint loot rolls remaining.</text>
+		<text bitflag="321" id1="10286" id2="690324" version="1065353216">Free-to-Play Players have access to three (3) rolls on the loot from flashpoint final bosses per week. 
+
+A Weekly Pass may be purchased from the Cartel Market, which allows unlimited rolls for seven (7) days.</text>
+		<text bitflag="321" id1="10288" id2="690324" version="1065353216">Operations Weekly Pass time remaining: &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="10289" id2="690324" version="1065353216">Weekly Operation Passes are available in the Cartel Market.</text>
+		<text bitflag="321" id1="10290" id2="690324" version="1065353216">Free-to-Play Players do not have access to Operations without a Weekly Pass. 
+
+A Weekly Pass may be purchased from the Cartel Market, which allows Operations access for seven (7) days.</text>
+		<text bitflag="321" id1="10291" id2="690324" version="1065353216">Activities are disabled until the full version of the game has been fully downloaded.</text>
+		<text bitflag="321" id1="10292" id2="690324" version="1065353216">Veteran Mode Uprisings are fast, action-packed instances for a group of experienced players who seek a greater challenge.</text>
+		<text bitflag="321" id1="10294" id2="690324" version="1065353216">Damage</text>
+		<text bitflag="321" id1="10295" id2="690324" version="1065353216">Heal</text>
+		<text bitflag="321" id1="10296" id2="690324" version="1065353216">Tank</text>
+		<text bitflag="321" id1="10297" id2="690324" version="1065353216">Veteran Mode Flashpoints are tactical, role-neutral missions balanced for a group of four players. Players below the maximum level will be bolstered to the appropriate item level.</text>
+		<text bitflag="321" id1="10300" id2="690324" version="1065353216">Next Operation: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="10301" id2="690324" version="1065353216">&lt;&lt;1[/$d Day/$d Days]&gt;&gt; &lt;&lt;2[&lt; Hour/$d Hour/$d Hours]&gt;&gt;</text>
+		<text bitflag="321" id1="10305" id2="690324" version="1065353216">Cannot enter queue because you have the maximum number of allowed pending mission rewards.</text>
+		<text bitflag="321" id1="10306" id2="690324" version="1065353216">DAILY REWARD</text>
+		<text bitflag="321" id1="10307" id2="690324" version="1065353216">Filter</text>
+		<text bitflag="321" id1="10308" id2="690324" version="1065353216">Level: &lt;&lt;1&gt;&gt; - &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="10309" id2="690324" version="1065353216">Uprisings</text>
+		<text bitflag="321" id1="10310" id2="690324" version="1065353216">&lt;&lt;1&gt;&gt;, &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="10316" id2="690324" version="1065353216">Story Mode Uprisings are fast, role-neutral instances balanced for a group of four players.</text>
+		<text bitflag="321" id1="10317" id2="690324" version="1065353216">Master Mode Uprisings are fast, action-packed instances for an advanced group of players who wish to test their considerable skill.</text>
+		<text bitflag="321" id1="10318" id2="690324" version="1065353216">Uprisings</text>
+		<text bitflag="321" id1="10319" id2="690324" version="1065353216">Uprisings</text>
+		<text bitflag="321" id1="10320" id2="690324" version="1065353216">Only the group leader can queue for groupfinder activities.</text>
+		<text bitflag="321" id1="10321" id2="690324" version="1065353216">You are ineligible for PvE Activity Finder.</text>
+		<text bitflag="321" id1="10322" id2="690324" version="1065353216">You cannot queue for an activity while you have an active phase.</text>
+		<text bitflag="321" id1="10323" id2="690324" version="1065353216">You cannot queue for this activity while you have an active phase.</text>
+		<text bitflag="321" id1="10325" id2="690324" version="1065353216">&lt;&lt;1&gt;&gt;: Requires Item Rating &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="10326" id2="690324" version="1065353216">&lt;&lt;1&gt;&gt;: Recommended for characters at level &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="10327" id2="690324" version="1065353216">&lt;&lt;1&gt;&gt;: Recommended for characters level &lt;&lt;2&gt;&gt; through &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="10328" id2="690324" version="1065353216">Repeatable reward available.</text>
+		<text bitflag="321" id1="10329" id2="690324" version="1065353216">Repeatable reward unavailable with current filtered selections.</text>
+		<text bitflag="321" id1="10330" id2="690324" version="1065353216">REPEATABLE REWARD</text>
+		<text bitflag="321" id1="10331" id2="690324" version="1065353216">ROLE IN NEED</text>
+		<text bitflag="321" id1="10333" id2="690324" version="1065353216">ACTIVITY FINDER FILTER</text>
+		<text bitflag="321" id1="10335" id2="690324" version="1065353216">Role-In-Need reward available.</text>
+		<text bitflag="321" id1="10336" id2="690324" version="1065353216">Role-In-Need reward unavailable with current selections. Please ensure you are queued for all eligible content and are the specified role-in-need.</text>
+		<text bitflag="321" id1="10337" id2="690324" version="1065353216">Operations are complex, challenging missions that require 8 players to complete. Operations require greater player skill and coordination for success.</text>
+		<text bitflag="321" id1="10338" id2="690324" version="1065353216">Only the group leader may queue for an activity</text>
+		<text bitflag="321" id1="10339" id2="690324" version="1065353216">You are currently searching for a replacement.</text>
+		<text bitflag="321" id1="10340" id2="690324" version="1065353216">Only the group leader can perform this action.</text>
+		<text bitflag="321" id1="10341" id2="690324" version="1065353216">Travel will be available as soon as the group leader requests to backfill the group.</text>
+		<text bitflag="321" id1="10342" id2="690324" version="1065353216">BACKFILL GROUP</text>
+		<text bitflag="321" id1="10343" id2="690324" version="1065353216">Would you like to backfill your group?</text>
+		<text bitflag="321" id1="10344" id2="690324" version="1065353216">Your queue is currently pending.</text>
+		<text bitflag="321" id1="10345" id2="690324" version="1065353216">Reset Phase</text>
+		<text bitflag="321" id1="10346" id2="690324" version="1065353216">This group is engaged in content and can only be backfilled using the Activity Window</text>
+		<text bitflag="321" id1="10348" id2="690324" version="1065353216">This activity requires you or a group member to select a Discipline from the Combat Proficiencies Window</text>
+	</file_content>
+</stb_file>

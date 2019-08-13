@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/vendor/human_f_military_imp2.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="962930" id2="17" version="1065353216">At your service, my lord.</text>
+		<text bitflag="1345" id1="962931" id2="17" version="1065353216">At your service, sir.</text>
+		<text bitflag="1345" id1="962932" id2="17" version="1065353216">Any ally of the Empire is an ally of mine.</text>
+		<text bitflag="1345" id1="962933" id2="17" version="1065353216">All items are subsidized by the Empire to help your mission.</text>
+		<text bitflag="1345" id1="962934" id2="17" version="1065353216">We've just received some new items you might be interested in.</text>
+		<text bitflag="1345" id1="962939" id2="17" version="1065353216">For the Emperor.</text>
+	</file_content>
+</stb_file>

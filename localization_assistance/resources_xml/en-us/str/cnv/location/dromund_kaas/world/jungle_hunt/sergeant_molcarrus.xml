@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>46</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/world/jungle_hunt/sergeant_molcarrus.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="676076" id2="17" version="1065353216">Things have calmed down a lot. You must have really done a number on our predator population.</text>
+		<text bitflag="1345" id1="676077" id2="17" version="1065353216">Every one of those jungle predators you can kill is a big help to this camp.</text>
+		<text bitflag="1345" id1="676078" id2="17" version="1065353216">Useless bureaucrats! Let them come here and do my job for a while....</text>
+		<text bitflag="1345" id1="676080" id2="17" version="1065353216">Uh, forgive me, my lord. I--I didn't see you there.</text>
+		<text bitflag="1345" id1="676082" id2="17" version="1065353216">Sorry for the outburst, sir. Tensions are, uh, running high.</text>
+		<text bitflag="1345" id1="676084" id2="17" version="1065353216">You're a hunter, right? You look like one, anyway.</text>
+		<text bitflag="1345" id1="676086" id2="17" version="1065353216">Excuse me. I was just... going over my orders.</text>
+		<text bitflag="1345" id1="676088" id2="17" version="1065353216">I'm Sergeant Molcarrus, Third Recon Company. Are you here about the bounty on the jungle predators?</text>
+		<text bitflag="1345" id1="676089" id2="17" version="1065353216">Do I look like a bounty hunter to you?</text>
+		<text bitflag="1360" id1="676089" id2="17" version="1065353216">Why would I be?</text>
+		<text bitflag="1345" id1="676090" id2="17" version="1065353216">No. Definitely not, my lord. No offense intended.</text>
+		<text bitflag="1345" id1="676092" id2="17" version="1065353216">You're not terribly insightful are you, little Imperial?</text>
+		<text bitflag="1360" id1="676092" id2="17" version="1065353216">You guess wrongly, fool.</text>
+		<text bitflag="1345" id1="676093" id2="17" version="1065353216">Sorry, my lord. I was hoping someone in your order had heard about our situation.</text>
+		<text bitflag="1345" id1="676095" id2="17" version="1065353216">I'm here on my own business, Sergeant--and it's none of yours.</text>
+		<text bitflag="1360" id1="676095" id2="17" version="1065353216">Don't ask me questions.</text>
+		<text bitflag="1345" id1="676096" id2="17" version="1065353216">Understood, sir. Pardon my mistake.</text>
+		<text bitflag="1345" id1="676098" id2="17" version="1065353216">I don't know what you're talking about, but I'm always for hire.</text>
+		<text bitflag="1360" id1="676098" id2="17" version="1065353216">I could be.</text>
+		<text bitflag="1345" id1="676099" id2="17" version="1065353216">I guess it's lucky you happened to wander through here.</text>
+		<text bitflag="1360" id1="676101" id2="17" version="1065353216">I know nothing about that.</text>
+		<text bitflag="1345" id1="676102" id2="17" version="1065353216">The slaves are being slaughtered, and nobody's doing anything about it.</text>
+		<text bitflag="1360" id1="676104" id2="17" version="1065353216">What's your game, Sergeant?</text>
+		<text bitflag="1345" id1="676105" id2="17" version="1065353216">I'm not selling anything. I'm just trying to fulfill my orders.</text>
+		<text bitflag="1345" id1="676107" id2="17" version="1065353216">I've been in charge of protecting the slaves from predators since my superior was gored by one. There are too many beasts for us to handle.</text>
+		<text bitflag="1345" id1="676109" id2="17" version="1065353216">I requested assistance from Kaas City, but all they did was put a bounty on the jungle creatures, which hasn't helped us at all.</text>
+		<text bitflag="1360" id1="676110" id2="17" version="1065353216">Really?</text>
+		<text bitflag="1345" id1="676111" id2="17" version="1065353216">The only people who responded to the bounty were a pair of Mandalorians who promptly got themselves eaten.</text>
+		<text bitflag="1360" id1="676113" id2="17" version="1065353216">I'm willing to assist.</text>
+		<text bitflag="1345" id1="676114" id2="17" version="1065353216">I'll take any help you're willing to give. I can't do this job with the resources they've given me.</text>
+		<text bitflag="1360" id1="676116" id2="17" version="1065353216">You're flat out of luck.</text>
+		<text bitflag="1345" id1="676117" id2="17" version="1065353216">This isn't about me. I knew what I was signing on for when I took this post.</text>
+		<text bitflag="1345" id1="676119" id2="17" version="1065353216">Poor slaves... I hear their screams when the creatures drag them away. Even offworlders don't deserve to die like that.</text>
+		<text bitflag="1345" id1="676121" id2="17" version="1065353216">The slaves can't do their jobs until these attacks stop. Work at the camp has ground to a halt.</text>
+		<text bitflag="1345" id1="676123" id2="17" version="1065353216">If you could thin out the predator population, it would make a huge difference for us.</text>
+		<text bitflag="1360" id1="676124" id2="17" version="1065353216">Very well.</text>
+		<text bitflag="1360" id1="676125" id2="17" version="1065353216">Anything could happen.</text>
+		<text bitflag="1345" id1="676126" id2="17" version="1065353216">Somebody has to do something.</text>
+		<text bitflag="1345" id1="676128" id2="17" version="1065353216">If you kill the jungle predators, take the proof to Administrator Reese in Kaas City. She's paying the bounties on them.</text>
+		<text bitflag="1360" id1="676130" id2="17" version="1065353216">I think not. [Refuse quest]</text>
+		<text bitflag="1345" id1="676131" id2="17" version="1065353216">I'd better pull together a detail to sweep the jungle around here. Goodbye.</text>
+		<text bitflag="1345" id1="676133" id2="17" version="1065353216">Blasted predators ate two more slaves today. This is getting out of hand!</text>
+		<text bitflag="1345" id1="676136" id2="17" version="1065353216">I'm just saying keep your eyes open. You might come face-to-face with some beasts by accident.</text>
+		<text bitflag="1345" id1="676138" id2="17" version="1065353216">I thought you hunters were always up for a challenge. This jungle is full of chances for you to earn some credits.</text>
+		<text bitflag="1345" id1="676140" id2="17" version="1065353216">Understood, sir. I just hope you'll keep your eyes open while you're in the jungle.</text>
+		<text bitflag="1345" id1="676142" id2="17" version="1065353216">I understand, my lord--but you never know what might happen while you're walking back to civilization.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/tython/data_holocron/datacron_matrix_tython.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="572876" id2="17" version="1065353216">You are no longer able to access this datacron.</text>
+		<text bitflag="321" id1="572880" id2="17" version="1065353216">You have located another datacron.</text>
+		<text bitflag="321" id1="572884" id2="17" version="1065353216">You have located a datacron, an ancient technology once used by the Infinite Empire.</text>
+		<text bitflag="321" id1="572886" id2="17" version="1065353216">This datacron contains a Blue Matrix Shard. You can combine it with other matrix shards at a Matrix Shard Assembler, such as the one on Coruscant.</text>
+		<text bitflag="321" id1="572888" id2="17" version="1065353216">This one is still active; use it to collect the Blue Matrix Shard. Once removed, you will no longer be able to access this datacron.</text>
+		<text bitflag="321" id1="572889" id2="17" version="1065353216">[ Matrix Shard Collected ]</text>
+		<text bitflag="321" id1="572892" id2="17" version="1065353216">You have collected the Blue Matrix Shard. Perhaps there are more to be found....</text>
+	</file_content>
+</stb_file>

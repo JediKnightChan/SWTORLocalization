@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/droid_male_assassin_republic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63469" id2="17" version="1065353216">Target acquired.</text>
+		<text bitflag="1345" id1="63471" id2="17" version="1065353216">Powering weapons.</text>
+		<text bitflag="1345" id1="63473" id2="17" version="1065353216">Eliminating hostiles.</text>
+		<text bitflag="1345" id1="63475" id2="17" version="1065353216">Closing to attack range.</text>
+		<text bitflag="1345" id1="63477" id2="17" version="1065353216">Analyzing battlefield.</text>
+		<text bitflag="1345" id1="63479" id2="17" version="1065353216">Beginning initial assault.</text>
+	</file_content>
+</stb_file>

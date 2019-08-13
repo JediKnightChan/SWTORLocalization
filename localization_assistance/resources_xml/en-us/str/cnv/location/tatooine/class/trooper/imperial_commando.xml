@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/class/trooper/imperial_commando.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="609794" id2="17" version="1065353216">Halt! Identify yourself, immediately!</text>
+		<text bitflag="1345" id1="609795" id2="17" version="1065353216">Havoc Squad--pleased to meet you.</text>
+		<text bitflag="1360" id1="609795" id2="17" version="1065353216">Gladly.</text>
+		<text bitflag="1345" id1="609796" id2="17" version="1065353216">What the--I thought Havoc Squad was on our side now, Sarge!</text>
+		<text bitflag="1345" id1="609798" id2="17" version="1065353216">We'll figure it out when they're dead--open fire!</text>
+		<text bitflag="1345" id1="609799" id2="17" version="1065353216">We'll sort it out when she's dead--open fire!</text>
+		<text bitflag="1345" id1="609800" id2="17" version="1065353216">We'll sort it out when he's dead--open fire!</text>
+		<text bitflag="1345" id1="609801" id2="17" version="1065353216">In the name of the Republic, I order you to surrender!</text>
+		<text bitflag="1360" id1="609801" id2="17" version="1065353216">Drop your weapons!</text>
+		<text bitflag="1345" id1="609802" id2="17" version="1065353216">If you want to live, you'll surrender right now.</text>
+		<text bitflag="1360" id1="609802" id2="17" version="1065353216">Don't be stupid.</text>
+		<text bitflag="1345" id1="609803" id2="17" version="1065353216">Enemy contact--open fire!</text>
+	</file_content>
+</stb_file>

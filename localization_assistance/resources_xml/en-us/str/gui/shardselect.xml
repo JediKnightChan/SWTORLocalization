@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>86</strs>
+		<file_name>/resources/en-us/str/gui/shardselect.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="229096" version="1065353216">SELECT</text>
+		<text bitflag="321" id1="2" id2="229096" version="1065353216">GO BACK</text>
+		<text bitflag="321" id1="4" id2="229096" version="1065353216">SELECT SERVER</text>
+		<text bitflag="321" id1="5" id2="229096" version="1065353216">Name</text>
+		<text bitflag="321" id1="6" id2="229096" version="1065353216">Characters</text>
+		<text bitflag="321" id1="7" id2="229096" version="1065353216">Type</text>
+		<text bitflag="321" id1="8" id2="229096" version="1065353216">Friends</text>
+		<text bitflag="321" id1="9" id2="229096" version="1065353216">Location</text>
+		<text bitflag="321" id1="10" id2="229096" version="1065353216">Guild</text>
+		<text bitflag="321" id1="11" id2="229096" version="1065353216">Population</text>
+		<text bitflag="321" id1="12" id2="229096" version="1065353216">No special rules for this server.</text>
+		<text bitflag="321" id1="13" id2="229096" version="1065353216">Player versus Player server.</text>
+		<text bitflag="321" id1="14" id2="229096" version="1065353216">Roleplaying server.</text>
+		<text bitflag="321" id1="15" id2="229096" version="1065353216">Roleplaying - Player versus Player server.</text>
+		<text bitflag="321" id1="16" id2="229096" version="1065353216">Should offer best play experience.</text>
+		<text bitflag="321" id1="17" id2="229096" version="1065353216">Balanced number of players on the server.</text>
+		<text bitflag="321" id1="18" id2="229096" version="1065353216">May experience a wait time to play.</text>
+		<text bitflag="321" id1="19" id2="229096" version="1065353216">Locked from character creation.</text>
+		<text bitflag="321" id1="20" id2="229096" version="1065353216">is full</text>
+		<text bitflag="321" id1="21" id2="229096" version="1065353216">you have been placed into a queue</text>
+		<text bitflag="321" id1="22" id2="229096" version="1065353216">Position in Queue</text>
+		<text bitflag="321" id1="23" id2="229096" version="1065353216">Select Server</text>
+		<text bitflag="321" id1="24" id2="229096" version="1065353216">Back to Character Select.</text>
+		<text bitflag="321" id1="26" id2="229096" version="1065353216">Select a Server</text>
+		<text bitflag="321" id1="27" id2="229096" version="1065353216">ASIA PACIFIC</text>
+		<text bitflag="321" id1="200" id2="229096" version="1065353216">PLAYER VERSUS ENVIRONMENT SERVER</text>
+		<text bitflag="321" id1="201" id2="229096" version="1065353216">PLAYER VERSUS PLAYER SERVER</text>
+		<text bitflag="321" id1="202" id2="229096" version="1065353216">ROLEPLAY SERVER</text>
+		<text bitflag="321" id1="203" id2="229096" version="1065353216">ROLEPLAY PLAYER VERSUS PLAYER SERVER</text>
+		<text bitflag="321" id1="257" id2="229096" version="1065353216">STANDARD</text>
+		<text bitflag="321" id1="258" id2="229096" version="1065353216">LIGHT</text>
+		<text bitflag="321" id1="259" id2="229096" version="1065353216">HEAVY</text>
+		<text bitflag="321" id1="260" id2="229096" version="1065353216">FULL</text>
+		<text bitflag="321" id1="261" id2="229096" version="1065353216">Language</text>
+		<text bitflag="321" id1="262" id2="229096" version="1065353216">NORTH AMERICA</text>
+		<text bitflag="321" id1="263" id2="229096" version="1065353216">Europe</text>
+		<text bitflag="321" id1="264" id2="229096" version="1065353216">North America</text>
+		<text bitflag="321" id1="265" id2="229096" version="1065353216">North America</text>
+		<text bitflag="321" id1="266" id2="229096" version="1065353216">English</text>
+		<text bitflag="321" id1="267" id2="229096" version="1065353216">German</text>
+		<text bitflag="321" id1="268" id2="229096" version="1065353216">French</text>
+		<text bitflag="321" id1="269" id2="229096" version="1065353216">Server is Offline</text>
+		<text bitflag="321" id1="270" id2="229096" version="1065353216">This is the standard environment where players compete against computer-controlled opponents. However, if you want a chance to fight other players (PvP), fights must be consensual and in designated areas of the world. There will be no special rules enforcement for naming or chat on this server.</text>
+		<text bitflag="321" id1="271" id2="229096" version="1065353216">This environment allows players to attack other players in many areas of the game. If you are looking for a taste of direct intergalactic conflict against other players, this may be the server type for you. Please be advised that interactions and activities that occur as part of player versus player combat on this type of server are not considered a form of harassment or actionable behavior by Customer Service.</text>
+		<text bitflag="321" id1="272" id2="229096" version="1065353216">If you enjoy roleplaying with other characters, this is a recommended server for your play style. Please be aware that we encourage players to take a mature stance and respect the gameplay preference of other players on this server. There will be no special rules enforcement for naming or chat on this server.</text>
+		<text bitflag="321" id1="273" id2="229096" version="1065353216">If you enjoy roleplaying but want the spontaneity of competing against other players, this may be the server for you. However, please bear in mind that actions and situations that can be resolved through PvP are not considered harassment and will not be enforced as such.</text>
+		<text bitflag="321" id1="274" id2="229096" version="1065353216">The guild that you signed up for on the web is on this server.</text>
+		<text bitflag="321" id1="275" id2="229096" version="1065353216">To play with other people, they all need to be playing on the server with the same name.</text>
+		<text bitflag="321" id1="276" id2="229096" version="1065353216">The number of characters you currently have on this server.</text>
+		<text bitflag="321" id1="277" id2="229096" version="1065353216">Some servers allow for other players to attack members of the opposite faction, and others do not.</text>
+		<text bitflag="321" id1="278" id2="229096" version="1065353216">You will probably have better performance if you choose a server near your physical location.</text>
+		<text bitflag="321" id1="279" id2="229096" version="1065353216">All languages are available, but most people in the world will use the primary language.</text>
+		<text bitflag="321" id1="280" id2="229096" version="1065353216">Note: More populated servers may have queues blocking entry and suffer some performance degradation.</text>
+		<text bitflag="321" id1="281" id2="229096" version="1065353216">The name of the server.</text>
+		<text bitflag="321" id1="282" id2="229096" version="1065353216">The ruleset of the server.</text>
+		<text bitflag="321" id1="283" id2="229096" version="1065353216">The location of the server that runs this world.</text>
+		<text bitflag="321" id1="284" id2="229096" version="1065353216">The primary language used on this server.</text>
+		<text bitflag="321" id1="285" id2="229096" version="1065353216">The general population level of this server.</text>
+		<text bitflag="321" id1="286" id2="229096" version="1065353216">Calculating...</text>
+		<text bitflag="321" id1="287" id2="229096" version="1065353216">[Estimated Wait: &amp;lt; &lt;&lt;1&gt;&gt; ]</text>
+		<text bitflag="321" id1="288" id2="229096" version="1065353216">PVP SERVER</text>
+		<text bitflag="321" id1="289" id2="229096" version="1065353216">RP-PVP SERVER</text>
+		<text bitflag="321" id1="290" id2="229096" version="1065353216">This server is a player vs. player server.  This means that you may engage with and be attacked by other players frequently while adventuring.  Are you sure?</text>
+		<text bitflag="321" id1="291" id2="229096" version="1065353216">This server is a player vs. player server (as well as a roleplaying server).  This means that you may engage with and be attacked by other players frequently while adventuring.  Are you sure?</text>
+		<text bitflag="321" id1="292" id2="229096" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="294" id2="229096" version="1065353216">DISCONNECTING</text>
+		<text bitflag="321" id1="295" id2="229096" version="1065353216">Disconnecting from queue...</text>
+		<text bitflag="321" id1="296" id2="229096" version="1065353216">LOGGING IN</text>
+		<text bitflag="321" id1="297" id2="229096" version="1065353216">Logging into selected server...</text>
+		<text bitflag="321" id1="298" id2="229096" version="1065353216">Logging In...</text>
+		<text bitflag="321" id1="299" id2="229096" version="1065353216">NO SERVER SELECTED</text>
+		<text bitflag="321" id1="300" id2="229096" version="1065353216">Please select a server</text>
+		<text bitflag="321" id1="301" id2="229096" version="1065353216">OK</text>
+		<text bitflag="321" id1="302" id2="229096" version="1065353216">Server is currently offline</text>
+		<text bitflag="321" id1="303" id2="229096" version="1065353216">[Estimated Wait: &lt;&lt;1&gt;&gt; +]</text>
+		<text bitflag="321" id1="304" id2="229096" version="1065353216">VERY HEAVY</text>
+		<text bitflag="321" id1="305" id2="229096" version="1065353216">Server is locked</text>
+		<text bitflag="321" id1="306" id2="229096" version="1065353216">This server is locked - you may only create characters on this server if you have a character on this server already.</text>
+		<text bitflag="321" id1="307" id2="229096" version="1065353216">As a Subscriber, you enjoy the highest login priority for a Full Server.</text>
+		<text bitflag="321" id1="308" id2="229096" version="1065353216">Subscribers get the highest priority when queued for a Full Server!</text>
+		<text bitflag="321" id1="309" id2="229096" version="1065353216">Subscribers ahead of you: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="310" id2="229096" version="1065353216">You have been placed at the head of the queue and will be connected as soon as space is available.</text>
+		<text bitflag="321" id1="311" id2="229096" version="1065353216">Select a server upon which to begin your Star Wars adventure.
+You can create multiple characters across different servers.</text>
+		<text bitflag="321" id1="312" id2="229096" version="1065353216">Location</text>
+		<text bitflag="321" id1="313" id2="229096" version="1065353216">Characters</text>
+		<text bitflag="321" id1="314" id2="229096" version="1065353216">Server</text>
+	</file_content>
+</stb_file>

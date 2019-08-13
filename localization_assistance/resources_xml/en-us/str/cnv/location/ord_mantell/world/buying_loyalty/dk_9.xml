@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>31</strs>
+		<file_name>/resources/en-us/str/cnv/location/ord_mantell/world/buying_loyalty/dk_9.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="628993" id2="17" version="1065353216">[The droid appears to be shut down.]</text>
+		<text bitflag="321" id1="628994" id2="17" version="1065353216">[The droid appears to be shut down.]</text>
+		<text bitflag="321" id1="628995" id2="17" version="1065353216">[The droid appears to be shut down.]</text>
+		<text bitflag="1345" id1="628996" id2="17" version="1065353216">Protocol failure. Cannot complete mission. Cannot complete shipment delivery, Oradam village. Protocol failure.</text>
+		<text bitflag="1345" id1="628997" id2="17" version="1065353216">Are you the droid with the supply shipment?</text>
+		<text bitflag="1360" id1="628997" id2="17" version="1065353216">You Gizmel's droid?</text>
+		<text bitflag="1345" id1="628998" id2="17" version="1065353216">I have the supplies. They are safe.</text>
+		<text bitflag="1345" id1="629000" id2="17" version="1065353216">What was your mission, droid?</text>
+		<text bitflag="1360" id1="629000" id2="17" version="1065353216">Mission?</text>
+		<text bitflag="1345" id1="629001" id2="17" version="1065353216">I have been entrusted with the delivery of spice to one Gizmel Gam, Ord Mantell government.</text>
+		<text bitflag="1360" id1="629003" id2="17" version="1065353216">What happened?</text>
+		<text bitflag="1345" id1="629004" id2="17" version="1065353216">Delivery failed due to protocol failure. Coordinates to destination unreadable. Attacked by species savrip, a hulking beast. Movement failure.</text>
+		<text bitflag="1345" id1="629006" id2="17" version="1065353216">However, shipment is intact. Item: contraband drug known only as &quot;spice.&quot; Origin: Kessel. Destination: Gizmel Gam, Ord Mantell.</text>
+		<text bitflag="1345" id1="629007" id2="17" version="1065353216">What does Gizmel Gam want with spice?</text>
+		<text bitflag="1360" id1="629007" id2="17" version="1065353216">Why spice?</text>
+		<text bitflag="1345" id1="629008" id2="17" version="1065353216">The shipment is filed under &quot;village relief.&quot;</text>
+		<text bitflag="1345" id1="629010" id2="17" version="1065353216">That guy was receiving spice? That's illegal!</text>
+		<text bitflag="1360" id1="629010" id2="17" version="1065353216">Spice is evil.</text>
+		<text bitflag="1345" id1="629011" id2="17" version="1065353216">I do not know about sentient laws. I  know my mission.</text>
+		<text bitflag="1345" id1="629013" id2="17" version="1065353216">No, I'm not looking for spice. I'm looking for supplies.</text>
+		<text bitflag="1360" id1="629013" id2="17" version="1065353216">No, it's supplies.</text>
+		<text bitflag="1345" id1="629014" id2="17" version="1065353216">This is the only shipment in my databanks. One container of spice, filed under &quot;village relief.&quot;</text>
+		<text bitflag="1345" id1="629016" id2="17" version="1065353216">The mission must be completed. Will you take the shipment to Gizmel Gam?</text>
+		<text bitflag="1345" id1="629017" id2="17" version="1065353216">Yes, I will take the shipment to Gizmel.</text>
+		<text bitflag="1360" id1="629017" id2="17" version="1065353216">I'll do it.</text>
+		<text bitflag="1345" id1="629018" id2="17" version="1065353216">Good. Mission complete. Shutdown in--five, four, three, two, one.</text>
+		<text bitflag="1345" id1="629020" id2="17" version="1065353216">No, the mission has changed. Destroy the shipment.</text>
+		<text bitflag="1360" id1="629020" id2="17" version="1065353216">No. Destroy it.</text>
+		<text bitflag="1345" id1="629021" id2="17" version="1065353216">I must obey.</text>
+		<text bitflag="1345" id1="629023" id2="17" version="1065353216">Mission complete. Shipment destroyed. Commence shutdown. Five, four, three, two, one.</text>
+		<text bitflag="1345" id1="629025" id2="17" version="1065353216">Protocol failure. Cannot complete mission. Cause: movement failure.</text>
+	</file_content>
+</stb_file>

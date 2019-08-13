@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>36</strs>
+		<file_name>/resources/en-us/str/cnv/location/hutta/world/unfinished_business/nemro_agent.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="662300" id2="17" version="1065353216">You really saved my hide. I can't wait to get out of here.</text>
+		<text bitflag="1345" id1="662301" id2="17" version="1065353216">You made it! Good work. The transmitters are all broadcasting beautifully. Once I've got all the data, I can finally get out of here.</text>
+		<text bitflag="1345" id1="662303" id2="17" version="1065353216">Here, your payment. Everything I've got, just like I promised. Small price to pay to keep breathing, right? Thanks for your help.</text>
+		<text bitflag="1345" id1="662305" id2="17" version="1065353216">The droids are in the palace, not out here!</text>
+		<text bitflag="1345" id1="662306" id2="17" version="1065353216">Psst! Hey, you! I wanna talk to you. You headed into Fa'athra's palace?</text>
+		<text bitflag="1345" id1="662308" id2="17" version="1065353216">If you're crazy enough to go in there, we might be able to help each other out. Interested in making a few credits?</text>
+		<text bitflag="1345" id1="662309" id2="17" version="1065353216">I'm always up for something crazy. What do you need?</text>
+		<text bitflag="1360" id1="662309" id2="17" version="1065353216">If it's crazy, I'm in.</text>
+		<text bitflag="1360" id1="662310" id2="17" version="1065353216">Credits, you say?</text>
+		<text bitflag="1345" id1="662311" id2="17" version="1065353216">You look a little shady to me--who are you?</text>
+		<text bitflag="1360" id1="662311" id2="17" version="1065353216">Hmm, I dunno....</text>
+		<text bitflag="1345" id1="662312" id2="17" version="1065353216">I work for Nem'ro. My partner did too, until he bought it--there, in the palace. He snuck in as a maintenance worker to plant transmitters on the cleaning droids.</text>
+		<text bitflag="1345" id1="662314" id2="17" version="1065353216">The idea was we'd use these transmitters to track the movements of the droids.</text>
+		<text bitflag="1345" id1="662316" id2="17" version="1065353216">As the droids cleaned the floors and walls, they'd map out every nook and cranny. We were hoping to find secret entrances or hidden chambers in the palace.</text>
+		<text bitflag="1345" id1="662317" id2="17" version="1065353216">So your partner wasn't able to plant the transmitters?</text>
+		<text bitflag="1360" id1="662317" id2="17" version="1065353216">The plan didn't work?</text>
+		<text bitflag="1345" id1="662318" id2="17" version="1065353216">Actually, he was.</text>
+		<text bitflag="1345" id1="662320" id2="17" version="1065353216">So what do you expect me to do, exactly? Go undercover as a cleaning droid?</text>
+		<text bitflag="1360" id1="662320" id2="17" version="1065353216">Where do I come in?</text>
+		<text bitflag="1345" id1="662321" id2="17" version="1065353216">No, no, nothing like that. Although... no, nevermind. Look, here's the deal:</text>
+		<text bitflag="1345" id1="662323" id2="17" version="1065353216">That's the stupidest thing I've ever heard.</text>
+		<text bitflag="1360" id1="662323" id2="17" version="1065353216">That's ridiculous.</text>
+		<text bitflag="1345" id1="662324" id2="17" version="1065353216">It would have worked. It still can work.</text>
+		<text bitflag="1345" id1="662326" id2="17" version="1065353216">My partner was able to plant the transmitters on the droids, but his cover was blown before he could activate them.</text>
+		<text bitflag="1345" id1="662328" id2="17" version="1065353216">Me, I'd be dead if I tried to go in there and finish the job. But if those transmitters don't get activated, I'm dead anyway. Nem'ro doesn't tolerate failure.</text>
+		<text bitflag="1345" id1="662330" id2="17" version="1065353216">So I'll pay you everything I've got to activate those transmitters for me.</text>
+		<text bitflag="1345" id1="662331" id2="17" version="1065353216">No problem. I'll have those transmitters activated in no time.</text>
+		<text bitflag="1360" id1="662331" id2="17" version="1065353216">I'm on it.</text>
+		<text bitflag="1345" id1="662332" id2="17" version="1065353216">Well, I'm gonna be storming the palace anyway. I'll see what I can do.</text>
+		<text bitflag="1360" id1="662332" id2="17" version="1065353216">Guess I'll give it a shot.</text>
+		<text bitflag="1345" id1="662333" id2="17" version="1065353216">All you have to do is find the cleaning droids and flip a little switch on the attached transmitter. Simple as that.</text>
+		<text bitflag="1345" id1="662335" id2="17" version="1065353216">I'll wait for you here. Good luck.</text>
+		<text bitflag="1345" id1="662337" id2="17" version="1065353216">Do it yourself, coward.</text>
+		<text bitflag="1360" id1="662337" id2="17" version="1065353216">No chance. [Refuse quest]</text>
+		<text bitflag="1345" id1="662338" id2="17" version="1065353216">Blast. All right, I'll be here if you change your mind.</text>
+		<text bitflag="1345" id1="662340" id2="17" version="1065353216">I don't think you can help me right now. Quick, get out of here before Fa'athra's guards see us talking.</text>
+	</file_content>
+</stb_file>

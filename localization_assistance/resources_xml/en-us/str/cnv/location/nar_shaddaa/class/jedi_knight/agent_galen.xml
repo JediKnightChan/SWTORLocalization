@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>97</strs>
+		<file_name>/resources/en-us/str/cnv/location/nar_shaddaa/class/jedi_knight/agent_galen.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="496773" id2="17" version="1065353216">At least the Sith is dead. Whatever I've become, he was definitely a monster.</text>
+		<text bitflag="1345" id1="496774" id2="17" version="1065353216">I'm not ready to face those agents. You handle them.</text>
+		<text bitflag="1345" id1="496775" id2="17" version="1065353216">Mark Threes are tougher than I thought. Not much left of me, is there?</text>
+		<text bitflag="1345" id1="496777" id2="17" version="1065353216">Galen, these wounds... there's nothing we can do for you.</text>
+		<text bitflag="3393" id1="496779" id2="17" version="1065353216">Agent Galen = heavily damaged // Repair = impossible</text>
+		<text bitflag="1345" id1="496781" id2="17" version="1065353216">I've got no regrets. This was my choice.</text>
+		<text bitflag="1345" id1="496782" id2="17" version="1065353216">You'll be remembered as a hero, Galen. That's a promise.</text>
+		<text bitflag="1360" id1="496782" id2="17" version="1065353216">You fought bravely.</text>
+		<text bitflag="1345" id1="496783" id2="17" version="1065353216">I didn't take this job for the glory.</text>
+		<text bitflag="1345" id1="496785" id2="17" version="1065353216">If you'd stayed at the factory, you'd still be alive.</text>
+		<text bitflag="1360" id1="496785" id2="17" version="1065353216">I wish you hadn't done this.</text>
+		<text bitflag="1345" id1="496786" id2="17" version="1065353216">Not worth it. Better this way.</text>
+		<text bitflag="1345" id1="496788" id2="17" version="1065353216">You wanted to die. I hope you're happy.</text>
+		<text bitflag="1360" id1="496788" id2="17" version="1065353216">Pleased with yourself?</text>
+		<text bitflag="1345" id1="496789" id2="17" version="1065353216">You're a hard Jedi to like.</text>
+		<text bitflag="1345" id1="496791" id2="17" version="1065353216">Find Sadic and destroy the Power Guard project. I'm counting on you....</text>
+		<text bitflag="1345" id1="496793" id2="17" version="1065353216">Sadic's building his army in Shadow Town, an Imperial-controlled sector. Nastiest people on Nar Shaddaa, and that's saying a lot.</text>
+		<text bitflag="1345" id1="496795" id2="17" version="1065353216">I'll give you the coordinates--aaaaah! Neural overrides restarting. There's nothing else to do--kill me.</text>
+		<text bitflag="1345" id1="496796" id2="17" version="1065353216">There must be a way to free you. Give me time to defeat Sadic.</text>
+		<text bitflag="1360" id1="496796" id2="17" version="1065353216">I can't do that.</text>
+		<text bitflag="1345" id1="496797" id2="17" version="1065353216">Free me? From this?</text>
+		<text bitflag="1345" id1="496799" id2="17" version="1065353216">Even without Sadic controlling me, I won't live like this.</text>
+		<text bitflag="1345" id1="496800" id2="17" version="1065353216">You're absolutely certain this is the only way?</text>
+		<text bitflag="1360" id1="496800" id2="17" version="1065353216">Are you sure?</text>
+		<text bitflag="1345" id1="496801" id2="17" version="1065353216">I can't--won't--live like this. Not even human, anymore.</text>
+		<text bitflag="1345" id1="496802" id2="17" version="1065353216">I'm sorry, but it's not my place to kill you.</text>
+		<text bitflag="1360" id1="496802" id2="17" version="1065353216">I won't execute you.</text>
+		<text bitflag="1345" id1="496803" id2="17" version="1065353216">Blast your Jedi morals! I'm a threat--to you, to the Republic!</text>
+		<text bitflag="1345" id1="496805" id2="17" version="1065353216">If you won't do what's right, I'll do it myself.</text>
+		<text bitflag="1345" id1="496807" id2="17" version="1065353216">Beg the stars you don't see me again....</text>
+		<text bitflag="1345" id1="496809" id2="17" version="1065353216">I don't like the sound of that. We'd better hurry and find this base.</text>
+		<text bitflag="3393" id1="496810" id2="17" version="1065353216">Agent Galen = in pain // Jedi + T7  = go to Sith base + help him?</text>
+		<text bitflag="1345" id1="496812" id2="17" version="1065353216">Hold on, Galen. We need to face Sadic together.</text>
+		<text bitflag="1360" id1="496812" id2="17" version="1065353216">Help me defeat the Sith.</text>
+		<text bitflag="1345" id1="496814" id2="17" version="1065353216">We're the only people who can bring him to justice for what he's done. Are you with me?</text>
+		<text bitflag="1345" id1="496815" id2="17" version="1065353216">Don't know how long I can resist his commands, but I'll try.</text>
+		<text bitflag="1345" id1="496817" id2="17" version="1065353216">Safer if we don't travel together, just in case. I'll meet you inside Sadic's base in Shadow Town.</text>
+		<text bitflag="1345" id1="496819" id2="17" version="1065353216">Hurry. We don't have much time.</text>
+		<text bitflag="1345" id1="496820" id2="17" version="1065353216">You'll be avenged, Galen. I promise.</text>
+		<text bitflag="1360" id1="496820" id2="17" version="1065353216">As you wish. [Kill him]</text>
+		<text bitflag="1345" id1="496821" id2="17" version="1065353216">I don't plan to fight you twice. Goodbye, Galen.</text>
+		<text bitflag="1360" id1="496821" id2="17" version="1065353216">Gladly. [Kill him]</text>
+		<text bitflag="1345" id1="496822" id2="17" version="1065353216">I can't watch this....</text>
+		<text bitflag="3393" id1="496824" id2="17" version="1065353216">T7 = commit Agent Galen to permanent memory files</text>
+		<text bitflag="1345" id1="496828" id2="17" version="1065353216">Stop... I'm... I'm in control....</text>
+		<text bitflag="1345" id1="496830" id2="17" version="1065353216">All that damage you did finally spread to the neural overrides. Only temporary, though.</text>
+		<text bitflag="1345" id1="496832" id2="17" version="1065353216">I can already feel my systems repairing themselves.</text>
+		<text bitflag="1345" id1="496833" id2="17" version="1065353216">Tell me how to free you from the Sith's control.</text>
+		<text bitflag="1360" id1="496833" id2="17" version="1065353216">No, I'll help you.</text>
+		<text bitflag="1345" id1="496834" id2="17" version="1065353216">Can't remove the machines without killing me, but I don't matter anymore.</text>
+		<text bitflag="1345" id1="496836" id2="17" version="1065353216">Will you attack me again?</text>
+		<text bitflag="1360" id1="496836" id2="17" version="1065353216">What happens after that?</text>
+		<text bitflag="1345" id1="496837" id2="17" version="1065353216">I'll keep trying to fulfill my last command until I succeed--but we have bigger problems.</text>
+		<text bitflag="1345" id1="496839" id2="17" version="1065353216">Tell me everything you know about the enemy.</text>
+		<text bitflag="1360" id1="496839" id2="17" version="1065353216">Then hurry up.</text>
+		<text bitflag="1345" id1="496840" id2="17" version="1065353216">The Sith--Lord Sadic--has the Republic's Mark Three Power Guards. Cybernetically enhanced soldiers armed with advanced weapons.</text>
+		<text bitflag="1345" id1="496842" id2="17" version="1065353216">Sadic plans to build hundreds more, all controlled by him. An army to conquer Nar Shaddaa.</text>
+		<text bitflag="1345" id1="496843" id2="17" version="1065353216">The Sith could make thousands--millions--of Power Guards.</text>
+		<text bitflag="1360" id1="496843" id2="17" version="1065353216">And then the Republic.</text>
+		<text bitflag="1345" id1="496844" id2="17" version="1065353216">I doubt the locals will lay down without a fight.</text>
+		<text bitflag="1360" id1="496844" id2="17" version="1065353216">He'd war with the Hutts?</text>
+		<text bitflag="1345" id1="496845" id2="17" version="1065353216">The Hutts are cowards. In the end, they'll surrender to save their fat hides.</text>
+		<text bitflag="1345" id1="496847" id2="17" version="1065353216">From what I've seen, you Power Guards aren't so tough.</text>
+		<text bitflag="1360" id1="496847" id2="17" version="1065353216">That doesn't scare me.</text>
+		<text bitflag="1345" id1="496848" id2="17" version="1065353216">The Mark Ones and Twos you fought were early experiments. Mark Threes? Practically unstoppable.</text>
+		<text bitflag="1345" id1="496852" id2="17" version="1065353216">You shouldn't have come. He'll make me hurt you.</text>
+		<text bitflag="1345" id1="496854" id2="17" version="1065353216">He already forced me to give up my fellow agents. Now they're all dead.</text>
+		<text bitflag="1345" id1="496856" id2="17" version="1065353216">Agent Galen? What happened to you?</text>
+		<text bitflag="3393" id1="496858" id2="17" version="1065353216">Agent Galen = changed // 68.3 percent biological mass = replaced by cybernetics + synthetic materials</text>
+		<text bitflag="1345" id1="496860" id2="17" version="1065353216">When I resist, the pain... he always wins.</text>
+		<text bitflag="1345" id1="496861" id2="17" version="1065353216">I'll break his control over you, I promise.</text>
+		<text bitflag="1360" id1="496861" id2="17" version="1065353216">Let me help you.</text>
+		<text bitflag="1345" id1="496862" id2="17" version="1065353216">Too late. He's here....</text>
+		<text bitflag="1345" id1="496863" id2="17" version="1065353216">The other Power Guards are mindless machines. Why aren't you?</text>
+		<text bitflag="1360" id1="496863" id2="17" version="1065353216">You're alive?</text>
+		<text bitflag="1345" id1="496864" id2="17" version="1065353216">He wanted me this way. And he knows you're here....</text>
+		<text bitflag="1345" id1="496865" id2="17" version="1065353216">Don't make me kill you, Galen.</text>
+		<text bitflag="1360" id1="496865" id2="17" version="1065353216">Fight harder, or die.</text>
+		<text bitflag="1345" id1="496866" id2="17" version="1065353216">He won't let you destroy me....</text>
+		<text bitflag="1345" id1="496868" id2="17" version="1065353216">Nothing more irritating than a Jedi who won't die. Your constant interruptions must end.</text>
+		<text bitflag="1345" id1="496870" id2="17" version="1065353216">Your former ally will be your executioner. The new Agent Galen's power is matched only by his obedience.</text>
+		<text bitflag="1345" id1="496871" id2="17" version="1065353216">He could've attacked me and didn't. His will is greater than yours.</text>
+		<text bitflag="1360" id1="496871" id2="17" version="1065353216">He'll resist you.</text>
+		<text bitflag="1345" id1="496872" id2="17" version="1065353216">He hasn't been properly motivated yet.</text>
+		<text bitflag="1345" id1="496874" id2="17" version="1065353216">Face me yourself--or are you scared you'll wind up like Tarnis?</text>
+		<text bitflag="1360" id1="496874" id2="17" version="1065353216">You're a coward.</text>
+		<text bitflag="1345" id1="496875" id2="17" version="1065353216">Tarnis was a child, like you. Beneath me.</text>
+		<text bitflag="1345" id1="496877" id2="17" version="1065353216">I've been carving up your little machines all day. He won't be any different.</text>
+		<text bitflag="1360" id1="496877" id2="17" version="1065353216">I'll destroy him.</text>
+		<text bitflag="1345" id1="496878" id2="17" version="1065353216">He's no machine. His mind is intact--even if his spirit isn't.</text>
+		<text bitflag="1345" id1="496880" id2="17" version="1065353216">Galen, destroy my enemy.</text>
+		<text bitflag="1345" id1="496882" id2="17" version="1065353216">No. I'd rather die.</text>
+		<text bitflag="1345" id1="496884" id2="17" version="1065353216">Control factor six initiated....</text>
+		<text bitflag="1345" id1="496886" id2="17" version="1065353216">Aaaaah!</text>
+		<text bitflag="5441" id1="496888" id2="17" version="1065353216">Neural override complete. Launching elimination protocol. Target: Jedi.</text>
+		<text bitflag="1345" id1="496890" id2="17" version="1065353216">I told you. He always wins.</text>
+		<text bitflag="1345" id1="496892" id2="17" version="1065353216">Stay back. I don't want to hurt you.</text>
+	</file_content>
+</stb_file>

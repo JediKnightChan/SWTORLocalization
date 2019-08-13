@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>98</strs>
+		<file_name>/resources/en-us/str/gui/badges.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194647" version="1065353216">Combatant Medal awarded for dealing 600k total damage!</text>
+		<text bitflag="321" id1="2" id2="194647" version="1065353216">Destroyer Medal awarded for dealing 1.2M total damage!</text>
+		<text bitflag="321" id1="3" id2="194647" version="1065353216">Demolisher Medal awarded for dealing 6k damage in a single blow!</text>
+		<text bitflag="321" id1="4" id2="194647" version="1065353216">Annihilator Medal awarded for dealing 12k damage in a single blow!</text>
+		<text bitflag="321" id1="5" id2="194647" version="1065353216">Soldier Medal awarded for slaying 4 enemies!</text>
+		<text bitflag="321" id1="6" id2="194647" version="1065353216">Commando Medal awarded for slaying 8 enemies!</text>
+		<text bitflag="321" id1="7" id2="194647" version="1065353216">Quick Draw Medal awarded for delivering a killing blow!</text>
+		<text bitflag="321" id1="8" id2="194647" version="1065353216">Assassin Medal awarded for slaying an enemy player in a one-on-one fight!</text>
+		<text bitflag="321" id1="9" id2="194647" version="1065353216">Healer Medal awarded for delivering 1M total healing!</text>
+		<text bitflag="321" id1="10" id2="194647" version="1065353216">Savior Medal awarded for delivering 1.75M total healing!</text>
+		<text bitflag="321" id1="11" id2="194647" version="1065353216">Medic Medal awarded for a 12k heal!</text>
+		<text bitflag="321" id1="12" id2="194647" version="1065353216">Trauma Surgeon Medal awarded for an 21k heal!</text>
+		<text bitflag="321" id1="13" id2="194647" version="1065353216">Shield Medal awarded for preventing 260k damage to your allies!</text>
+		<text bitflag="321" id1="14" id2="194647" version="1065353216">Protector Medal awarded for preventing 518k damage to your allies!</text>
+		<text bitflag="321" id1="15" id2="194647" version="1065353216">Guardian Medal awarded for preventing 21k damage to your allies without dying once!</text>
+		<text bitflag="321" id1="16" id2="194647" version="1065353216">Paladin Medal awarded for preventing 83k damage to your allies without dying once!</text>
+		<text bitflag="321" id1="17" id2="194647" version="1065353216">Offense Basic Medal awarded for gaining attacker points!</text>
+		<text bitflag="321" id1="18" id2="194647" version="1065353216">Defense Basic Medal awarded for gaining defender points!</text>
+		<text bitflag="321" id1="257" id2="194647" version="1065353216">Offense Bronze Medal awarded for gaining 3k attacker points!</text>
+		<text bitflag="321" id1="258" id2="194647" version="1065353216">Offense Silver Medal awarded for gaining 5k attacker points!</text>
+		<text bitflag="321" id1="259" id2="194647" version="1065353216">Offense Gold Medal awarded for gaining 7.5k attacker points!</text>
+		<text bitflag="321" id1="260" id2="194647" version="1065353216">Offense Platinum Medal awarded for gaining 10k attacker points!</text>
+		<text bitflag="321" id1="261" id2="194647" version="1065353216">Offense Diamond Medal awarded for gaining 15k attacker points!</text>
+		<text bitflag="321" id1="262" id2="194647" version="1065353216">Defense Bronze Medal awarded for gaining 3k defender points!</text>
+		<text bitflag="321" id1="263" id2="194647" version="1065353216">Defense Silver Medal awarded for gaining 5k defender points!</text>
+		<text bitflag="321" id1="264" id2="194647" version="1065353216">Defense Gold Medal awarded for gaining 7.5k defender points!</text>
+		<text bitflag="321" id1="265" id2="194647" version="1065353216">Defense Platinum Medal awarded for gaining 10k defender points!</text>
+		<text bitflag="321" id1="266" id2="194647" version="1065353216">Defense Diamond Medal awarded for gaining 15k defender points!</text>
+		<text bitflag="321" id1="267" id2="194647" version="1065353216">Dauntless VI Medal awarded for winning in less than 5 Minutes!</text>
+		<text bitflag="321" id1="268" id2="194647" version="1065353216">Dauntless V Medal awarded for winning in less than 6 Minutes!</text>
+		<text bitflag="321" id1="269" id2="194647" version="1065353216">Dauntless IV Medal awarded for winning in less than 7 Minutes!</text>
+		<text bitflag="321" id1="270" id2="194647" version="1065353216">Dauntless III Medal awarded for winning in less than 8 Minutes!</text>
+		<text bitflag="321" id1="271" id2="194647" version="1065353216">Dauntless II Medal awarded for winning in less than 9 Minutes!</text>
+		<text bitflag="321" id1="272" id2="194647" version="1065353216">Dauntless I Medal awarded for winning in less than 10 Minutes!</text>
+		<text bitflag="321" id1="273" id2="194647" version="1065353216">Dauntless IV Medal awarded for winning in less than 11 Minutes!</text>
+		<text bitflag="321" id1="274" id2="194647" version="1065353216">Dauntless III Medal awarded for winning in less than 12 Minutes!</text>
+		<text bitflag="321" id1="275" id2="194647" version="1065353216">Dauntless II Medal awarded for winning in less than 13 Minutes!</text>
+		<text bitflag="321" id1="276" id2="194647" version="1065353216">Reinforcement Medal awarded for reinforcing your allies!</text>
+		<text bitflag="321" id1="277" id2="194647" version="1065353216">Dauntless VI Medal awarded for winning and downloading the Core in less than 3 minutes!</text>
+		<text bitflag="321" id1="278" id2="194647" version="1065353216">Dauntless V Medal awarded for winning and downloading the Core in less than 3 minutes and 30 seconds!</text>
+		<text bitflag="321" id1="279" id2="194647" version="1065353216">Dauntless IV Medal awarded for winning and downloading the Core in less than 4 minutes!</text>
+		<text bitflag="321" id1="280" id2="194647" version="1065353216">Dauntless III Medal awarded for winning and downloading the Core in less than 4 minutes and 30 seconds!</text>
+		<text bitflag="321" id1="281" id2="194647" version="1065353216">Dauntless II Medal awarded for winning and downloading the Core in less than 5 minutes!</text>
+		<text bitflag="321" id1="282" id2="194647" version="1065353216">Dauntless I Medal awarded for winning and downloading the Core in less than 5 minutes and 30 seconds!</text>
+		<text bitflag="321" id1="283" id2="194647" version="1065353216">Dauntless III Medal awarded for winning and downloading the Core in less than 6 minutes!</text>
+		<text bitflag="321" id1="284" id2="194647" version="1065353216">Dauntless II Medal awarded for winning and downloading the Core in less than 6 minutes and 30 seconds!</text>
+		<text bitflag="321" id1="285" id2="194647" version="1065353216">Survivor Medal awarded for surviving a round.</text>
+		<text bitflag="321" id1="286" id2="194647" version="1065353216">Champion Medal awarded for being victorious in an Arena.</text>
+		<text bitflag="321" id1="287" id2="194647" version="1065353216">First Blood Medal awarded for your team getting the first kill in Round 1.</text>
+		<text bitflag="321" id1="288" id2="194647" version="1065353216">First Blood Medal awarded for your team getting the first kill in Round 2.</text>
+		<text bitflag="321" id1="289" id2="194647" version="1065353216">First Blood Medal awarded for your team getting the first kill in Round 3.</text>
+		<text bitflag="321" id1="290" id2="194647" version="1065353216">Winning Medal awarded for being victorious in Round 1.</text>
+		<text bitflag="321" id1="291" id2="194647" version="1065353216">Winning Medal awarded for being victorious in Round 2.</text>
+		<text bitflag="321" id1="292" id2="194647" version="1065353216">Winning Medal awarded for being victorious in Round 3.</text>
+		<text bitflag="321" id1="293" id2="194647" version="1065353216">Winning Medal awarded for being victorious in Round 4.</text>
+		<text bitflag="321" id1="294" id2="194647" version="1065353216">Winning Medal awarded for being victorious in Round 5.</text>
+		<text bitflag="321" id1="295" id2="194647" version="1065353216">Swiftness Medal awarded for winning Round 1 in the first minute.</text>
+		<text bitflag="321" id1="296" id2="194647" version="1065353216">Swiftness Medal awarded for winning Round 2 in the first minute.</text>
+		<text bitflag="321" id1="297" id2="194647" version="1065353216">Swiftness Medal awarded for winning Round 3 in the first minute.</text>
+		<text bitflag="321" id1="298" id2="194647" version="1065353216">Swiftness Medal awarded for winning Round 4 in the first minute.</text>
+		<text bitflag="321" id1="299" id2="194647" version="1065353216">Swiftness Medal awarded for winning Round 5 in the first minute.</text>
+		<text bitflag="321" id1="300" id2="194647" version="1065353216">First Blood Medal awarded for your team getting the first kill in Round 4.</text>
+		<text bitflag="321" id1="301" id2="194647" version="1065353216">First Blood Medal awarded for your team getting the first kill in Round 5.</text>
+		<text bitflag="321" id1="302" id2="194647" version="1065353216">Annihilator Medal awarded for dealing 30k total damage!</text>
+		<text bitflag="321" id1="303" id2="194647" version="1065353216">Assassin Medal awarded for slaying an enemy player in a one-on-one dog fight!</text>
+		<text bitflag="321" id1="304" id2="194647" version="1065353216">Combatant Medal awarded for dealing 10k total damage!</text>
+		<text bitflag="321" id1="305" id2="194647" version="1065353216">Fighter Medal awarded for assisting other players in slaying 8 enemies!</text>
+		<text bitflag="321" id1="306" id2="194647" version="1065353216">Defense Basic Medal awarded for defending objectives for 1 minute!</text>
+		<text bitflag="321" id1="307" id2="194647" version="1065353216">Defense Bronze Medal awarded for defending objectives for 2 minutes!</text>
+		<text bitflag="321" id1="308" id2="194647" version="1065353216">Defense Silver Medal awarded for defending objectives for 4 minutes!</text>
+		<text bitflag="321" id1="309" id2="194647" version="1065353216">Defense Gold Medal awarded for defending objectives for 6 minutes!</text>
+		<text bitflag="321" id1="310" id2="194647" version="1065353216">Defense Platinum Medal awarded for defending objectives for 8 minutes!</text>
+		<text bitflag="321" id1="311" id2="194647" version="1065353216">Defense Diamond Medal awarded for defending objectives for 10 minutes!</text>
+		<text bitflag="321" id1="312" id2="194647" version="1065353216">Demolisher Medal awarded for destroying 8 defense turrets!</text>
+		<text bitflag="321" id1="313" id2="194647" version="1065353216">Destroyer Medal awarded for dealing 20k total damage!</text>
+		<text bitflag="321" id1="314" id2="194647" version="1065353216">Ravage Medal awarded for delivering 8 killing blows!</text>
+		<text bitflag="321" id1="315" id2="194647" version="1065353216">Mechanic Medal awarded for delivering 2k in ship repairs!</text>
+		<text bitflag="321" id1="316" id2="194647" version="1065353216">Offense Basic Medal awarded for capturing a control point!</text>
+		<text bitflag="321" id1="317" id2="194647" version="1065353216">Offense Bronze Medal awarded for capturing 2 control points!</text>
+		<text bitflag="321" id1="318" id2="194647" version="1065353216">Offense Silver Medal awarded for capturing 3 control points!</text>
+		<text bitflag="321" id1="319" id2="194647" version="1065353216">Offense Gold Medal awarded for capturing 4 control points!</text>
+		<text bitflag="321" id1="320" id2="194647" version="1065353216">Assault Medal awarded for destroying 2 defense turrets!</text>
+		<text bitflag="321" id1="321" id2="194647" version="1065353216">Siege Medal awarded for destroying 6 defense turrets!</text>
+		<text bitflag="321" id1="322" id2="194647" version="1065353216">Support Medal awarded for assisting other players in slaying 4 enemies!</text>
+		<text bitflag="321" id1="323" id2="194647" version="1065353216">Eradicate Medal awarded for earning 800 destroy objective points!</text>
+		<text bitflag="321" id1="324" id2="194647" version="1065353216">Quick Draw Medal awarded for delivering 2 killing blows!</text>
+		<text bitflag="321" id1="325" id2="194647" version="1065353216">Savior Medal awarded for delivering 4k in ship repairs!</text>
+		<text bitflag="321" id1="326" id2="194647" version="1065353216">Dismantle Medal awarded for earning 350 destroy objective points!</text>
+		<text bitflag="321" id1="327" id2="194647" version="1065353216">Ace Medal awarded for delivering 5 killing blows!</text>
+		<text bitflag="321" id1="328" id2="194647" version="1065353216">Wingman Medal awarded for assisting other players in slaying 12 enemies!</text>
+		<text bitflag="321" id1="335" id2="194647" version="1065353216">Soldier Medal awarded for slaying 4 enemies!</text>
+		<text bitflag="321" id1="336" id2="194647" version="1065353216">Commando Medal awarded for slaying 8 enemies!!</text>
+		<text bitflag="321" id1="337" id2="194647" version="1065353216">Healer Medal awarded for delivering 730k total healing!</text>
+		<text bitflag="321" id1="338" id2="194647" version="1065353216">Savior Medal awarded for delivering 2.15M total healing!</text>
+		<text bitflag="321" id1="339" id2="194647" version="1065353216">Shield Medal awarded for preventing 105k damage to your allies!</text>
+		<text bitflag="321" id1="340" id2="194647" version="1065353216">Protector Medal awarded for preventing 560k damage to your allies!</text>
+		<text bitflag="321" id1="346" id2="194647" version="1065353216">Combatant Medal awarded for dealing 300k total damage!</text>
+		<text bitflag="321" id1="347" id2="194647" version="1065353216">Destroyer Medal awarded for dealing 800k total damage!</text>
+	</file_content>
+</stb_file>

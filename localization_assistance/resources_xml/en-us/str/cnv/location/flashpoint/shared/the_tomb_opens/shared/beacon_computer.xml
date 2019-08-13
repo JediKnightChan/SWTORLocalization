@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/the_tomb_opens/shared/beacon_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="973989" id2="17" version="1065353216">[You use the console to switch off power to the ray shield blocking the exit.]</text>
+		<text bitflag="321" id1="973991" id2="17" version="1065353216">[It appears the Republic explorers fashioned an improvised distress beacon from scavenged equipment.]</text>
+		<text bitflag="321" id1="973993" id2="17" version="1065353216">[The surviving explorers are in bad shape and will never make it off of Athiss unless the beacon is activated.]</text>
+		<text bitflag="321" id1="973994" id2="17" version="1065353216">[You activate the distress beacon, ensuring that the surviving explorers will be rescued.]</text>
+		<text bitflag="336" id1="973994" id2="17" version="1065353216">[Activate the beacon]</text>
+		<text bitflag="321" id1="973995" id2="17" version="1065353216">[You destroy the distress beacon, ensuring that the corruption affecting the explorers never leaves Athiss and the Republic explorers are never heard from again.]</text>
+		<text bitflag="336" id1="973995" id2="17" version="1065353216">[Destroy the beacon]</text>
+		<text bitflag="321" id1="976005" id2="17" version="1065353216">[The console is offline.]</text>
+		<text bitflag="321" id1="976006" id2="17" version="1065353216">[The console is offline.]</text>
+		<text bitflag="321" id1="976033" id2="17" version="1065353216">[You use the console to switch off power to the ray shield blocking the exit.]</text>
+		<text bitflag="321" id1="976035" id2="17" version="1065353216">[It appears the Republic explorers fashioned an improvised distress beacon from scavenged equipment.]</text>
+		<text bitflag="321" id1="976037" id2="17" version="1065353216">[The surviving explorers are in bad shape and will never make it off of Athiss unless the beacon is activated. If they leave the planet, however, it risks the corruption that infects them spreading across the galaxy.]</text>
+		<text bitflag="321" id1="976038" id2="17" version="1065353216">[You activate the distress beacon, ensuring that the surviving explorers will be rescued.]</text>
+		<text bitflag="336" id1="976038" id2="17" version="1065353216">[Activate the beacon]</text>
+		<text bitflag="321" id1="976040" id2="17" version="1065353216">[You destroy the distress beacon, ensuring that the corruption affecting the explorers never leaves Athiss.]</text>
+		<text bitflag="336" id1="976040" id2="17" version="1065353216">[Destroy the beacon]</text>
+	</file_content>
+</stb_file>

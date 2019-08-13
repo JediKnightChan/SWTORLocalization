@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/bronze/republic/baiting_the_trap/datapad.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="508048" id2="17" version="1065353216">[You find a datapad on the body with a recorded message.]</text>
+		<text bitflag="321" id1="743210" id2="17" version="1065353216">The mysterious Voss transmissions Doctor Forrod sent us to investigate are a hoax. No wonder we couldn't decipher them.</text>
+		<text bitflag="321" id1="743212" id2="17" version="1065353216">We don't know who put the transmitters here, but we're going to destroy them so nobody else falls for this trick.</text>
+	</file_content>
+</stb_file>

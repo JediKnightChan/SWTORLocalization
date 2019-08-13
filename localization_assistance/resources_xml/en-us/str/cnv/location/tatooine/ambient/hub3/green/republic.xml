@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/ambient/hub3/green/republic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="105051" id2="17" version="1065353216">So? What's the damage?</text>
+		<text bitflag="1345" id1="105053" id2="17" version="1065353216">The vaporator's scrap. Cooling tubes are fried. No choice but to order replacements.</text>
+		<text bitflag="1345" id1="105055" id2="17" version="1065353216">How long before they get here?</text>
+		<text bitflag="1345" id1="105057" id2="17" version="1065353216">Couple days, maybe more.</text>
+		<text bitflag="1345" id1="105059" id2="17" version="1065353216">Tell 'em they've got a day. It's not getting any cooler out here. People are thirsty.</text>
+	</file_content>
+</stb_file>

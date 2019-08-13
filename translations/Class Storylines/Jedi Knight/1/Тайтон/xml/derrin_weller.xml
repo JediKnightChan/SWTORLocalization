@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="68">
+	<unit bitflag="1345" id1="482922" id2="17" version="1065353216">
+		<source>Welcome to Tython, Padawan. Everyone at the temple is looking forward to meeting you.</source>
+		<target>Добро пожаловать на Тайтон, падаван. Все в Храме с нетерпением ждут встречи с тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="482924" id2="17" version="1065353216">
+		<source>You're unharmed--good. Flesh Raider shot me in the leg while I was rescuing some Padawans.</source>
+		<target>Тебя не ранили - хорошо. Раздиратели подстрелили меня в ногу, когда мы спасали падаванов.</target>
+	</unit>
+	<unit bitflag="1345" id1="482926" id2="17" version="1065353216">
+		<source>Don't know where these things got blasters, but they know how to use them.</source>
+		<target>Не знаю, откуда у этих тварей бластеры, но они знают, как из них стрелять.</target>
+	</unit>
+	<unit bitflag="1345" id1="482928" id2="17" version="1065353216">
+		<source>I've been evacuated to a medcenter, but the fighting isn't over.</source>
+		<target>Меня эвакуировали в медпункт, но сражение не окончено.</target>
+	</unit>
+	<unit bitflag="1345" id1="482929" id2="17" version="1065353216">
+		<source>I'll push back the enemy, whatever it takes.</source>
+		<target>Я оттесню врага, чего бы это ни стоило.</target>
+	</unit>
+	<unit bitflag="1360" id1="482929" id2="17" version="1065353216">
+		<source>I'll stand my ground.</source>
+		<target>Буду держать оборону.</target>
+	</unit>
+	<unit bitflag="1345" id1="482930" id2="17" version="1065353216">
+		<source>We need to stop them at the source.</source>
+		<target>Мы должны пресечь их вторжение на корню.</target>
+	</unit>
+	<unit bitflag="1345" id1="482932" id2="17" version="1065353216">
+		<source>I was expecting reinforcements by now.</source>
+		<target>Я ожидал, что подкрепления уже прибудут.</target>
+	</unit>
+	<unit bitflag="1360" id1="482932" id2="17" version="1065353216">
+		<source>Where's the Jedi Council?</source>
+		<target>Где Совет джедаев?</target>
+	</unit>
+	<unit bitflag="1345" id1="482933" id2="17" version="1065353216">
+		<source>Some are already here, but Flesh Raiders keep pouring in. That's why I'm calling.</source>
+		<target>Некоторые уже здесь, но раздиратели всё продолжают прибывать. Потому и звоню.</target>
+	</unit>
+	<unit bitflag="1345" id1="482935" id2="17" version="1065353216">
+		<source>I'm up to my neck in monsters, here.</source>
+		<target>Я тут по уши в чудовищах.</target>
+	</unit>
+	<unit bitflag="1360" id1="482935" id2="17" version="1065353216">
+		<source>Get to the point.</source>
+		<target>Перейдите к сути.</target>
+	</unit>
+	<unit bitflag="1345" id1="482936" id2="17" version="1065353216">
+		<source>Another Padawan found a cave tunnel the Flesh Raiders use to enter this valley.</source>
+		<target>Другой падаван нашёл туннель в пещере, через который раздиратели проникают долину.</target>
+	</unit>
+	<unit bitflag="1345" id1="482938" id2="17" version="1065353216">
+		<source>I need you at that tunnel, making sure the Flesh Raiders don't get any more reinforcements through it.</source>
+		<target>Тебе нужно отправиться туда и перекрыть путь подкреплениям раздирателей через этот проход.</target>
+	</unit>
+	<unit bitflag="1345" id1="482939" id2="17" version="1065353216">
+		<source>I'll find this cave tunnel and seal it.</source>
+		<target>Я найду этот туннель и перекрою его.</target>
+	</unit>
+	<unit bitflag="1360" id1="482939" id2="17" version="1065353216">
+		<source>Consider it closed.</source>
+		<target>Считайте, он уже перекрыт.</target>
+	</unit>
+	<unit bitflag="1345" id1="482940" id2="17" version="1065353216">
+		<source>Not sure what you expect me to do by myself.</source>
+		<target>Не уверен, что мне удастся сделать это в одиночку.</target>
+	</unit>
+	<unit bitflag="1360" id1="482940" id2="17" version="1065353216">
+		<source>Alone?</source>
+		<target>Отправиться одному?</target>
+	</unit>
+	<unit bitflag="1345" id1="482941" id2="17" version="1065353216">
+		<source>You won't be alone long. Master Orgus Din is on his way there, too.</source>
+		<target>Ненадолго. Мастер Оргус Дин тоже направляется туда.</target>
+	</unit>
+	<unit bitflag="1345" id1="482943" id2="17" version="1065353216">
+		<source>Apparently, I'm the only competent warrior on the whole planet.</source>
+		<target>Видимо, я единственный умелый воин на всей планете.</target>
+	</unit>
+	<unit bitflag="1360" id1="482943" id2="17" version="1065353216">
+		<source>Because no one else can.</source>
+		<target>Потому что больше некому.</target>
+	</unit>
+	<unit bitflag="1345" id1="482944" id2="17" version="1065353216">
+		<source>Arrogance is unbecoming of a Jedi--as are petty insults.</source>
+		<target>Высокомерие не подобает джедаю - как и мелкие оскорбления.</target>
+	</unit>
+	<unit bitflag="1345" id1="482946" id2="17" version="1065353216">
+		<source>We need to end this conflict before anyone else gets hurt. Find the tunnel along the mountain range.</source>
+		<target>Нам нужно положить конец этому конфликту прежде, чем кто-то ещё пострадает. Найди этот туннель в горном хребте.</target>
+	</unit>
+	<unit bitflag="1345" id1="482948" id2="17" version="1065353216">
+		<source>May the Force be with you.</source>
+		<target>Да пребудет с тобой Сила.</target>
+	</unit>
+	<unit bitflag="1345" id1="482950" id2="17" version="1065353216">
+		<source>I'm contacting the Jedi Council. Head to the training grounds. I'll join you soon.</source>
+		<target>Я свяжусь с Советом джедаев. Отправляйся на территории тренировок. Я скоро прибуду.</target>
+	</unit>
+	<unit bitflag="1345" id1="482954" id2="17" version="1065353216">
+		<source>Your former Masters praise your combat skills. They say you're becoming an expert duelist.</source>
+		<target>Твои прошлые учителя хвалят твои боевые навыки. Говорят, ты становишься умелым дуэлянтом.</target>
+	</unit>
+	<unit bitflag="1345" id1="482955" id2="17" version="1065353216">
+		<source>It's easy to excel when you're trained by the best.</source>
+		<target>Легко преуспевать, когда учишься у лучших.</target>
+	</unit>
+	<unit bitflag="1360" id1="482955" id2="17" version="1065353216">
+		<source>I had good teachers.</source>
+		<target>У меня были хорошие учителя.</target>
+	</unit>
+	<unit bitflag="1360" id1="482956" id2="17" version="1065353216">
+		<source>Who are you?</source>
+		<target>Кто вы?</target>
+	</unit>
+	<unit bitflag="1345" id1="482957" id2="17" version="1065353216">
+		<source>Sorry--Derrin Weller, watchman of the training grounds. I greet new arrivals, show them around.</source>
+		<target>Прости - Деррин Уэллер, страж тренировочных площадок. Я приветствую новоприбывших, показываю им местность.</target>
+	</unit>
+	<unit bitflag="1345" id1="482959" id2="17" version="1065353216">
+		<source>I've never fought anyone I couldn't beat, including my Masters.</source>
+		<target>Я ещё не встречал противника, равного мне - даже среди учителей.</target>
+	</unit>
+	<unit bitflag="1360" id1="482959" id2="17" version="1065353216">
+		<source>I defeated all of them.</source>
+		<target>Я победил их всех.</target>
+	</unit>
+	<unit bitflag="1345" id1="482960" id2="17" version="1065353216">
+		<source>Impressive claim. If you're seeking fresh challenges, you'll find them.</source>
+		<target>Впечатляющее заявление. Если ты ищешь новых испытаний, ты их найдёшь.</target>
+	</unit>
+	<unit bitflag="1345" id1="482962" id2="17" version="1065353216">
+		<source>The Jedi Council will assign you a new Master to oversee your final trials. You'll be tested in ways you can't imagine.</source>
+		<target>Совет назначит нового учителя наблюдать за твоими последними испытаниями. Тебя будут проверять так, как ты и представить не можешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="482964" id2="17" version="1065353216">
+		<source>But when you leave Tython, you'll know what it means to be a Jedi Knight. More importantly, you'll know yourself.</source>
+		<target>Но, когда ты покинешь Тайтон, ты будешь знать, что значит быть рыцарем-джедаем. Что важнее, ты познаешь себя.</target>
+	</unit>
+	<unit bitflag="1345" id1="482965" id2="17" version="1065353216">
+		<source>I'm eager to face these trials. Where do I start?</source>
+		<target>Я жажду пройти эти испытания. С чего начать?</target>
+	</unit>
+	<unit bitflag="1360" id1="482965" id2="17" version="1065353216">
+		<source>Let's get started.</source>
+		<target>Давайте начнём.</target>
+	</unit>
+	<unit bitflag="1345" id1="482966" id2="17" version="1065353216">
+		<source>Being a Jedi Knight is my calling. What else can the Masters tell me?</source>
+		<target>Быть рыцарем-джедаем - моё призвание. Что ещё мне могут рассказать учителя?</target>
+	</unit>
+	<unit bitflag="1360" id1="482966" id2="17" version="1065353216">
+		<source>I already know all that.</source>
+		<target>Я уже знаю это всё.</target>
+	</unit>
+	<unit bitflag="1345" id1="482967" id2="17" version="1065353216">
+		<source>Many Padawans feel the same way until they face the trials. That's why releasing preconceived notions is part of the Jedi Code.</source>
+		<target>Многие падаваны думают так же, пока не начинаются испытания. Поэтому отпустить предвзятые мнения - часть учения Кодекса джедаев.</target>
+	</unit>
+	<unit bitflag="1345" id1="482969" id2="17" version="1065353216">
+		<source>&quot;There is no ignorance, there is knowledge.&quot; Enter your training with an open mind. You might surprise yourself.</source>
+		<target>«Нет невежества, есть знание». Начинай своё обучение с открытым разумом. Ты можешь удивить себя.</target>
+	</unit>
+	<unit bitflag="1345" id1="482971" id2="17" version="1065353216">
+		<source>I didn't come here to meditate and learn boring lessons.</source>
+		<target>Я здесь не для медитации и скучных занятий.</target>
+	</unit>
+	<unit bitflag="1360" id1="482971" id2="17" version="1065353216">
+		<source>Sounds dull.</source>
+		<target>Звучит тупо.</target>
+	</unit>
+	<unit bitflag="1345" id1="482972" id2="17" version="1065353216">
+		<source>These final trials will test your limits. Boredom is the least of your worries.</source>
+		<target>Последние испытания проверят тебя до предела. Скучать точно не придётся.</target>
+	</unit>
+	<unit bitflag="1345" id1="482974" id2="17" version="1065353216">
+		<source>There's a speeder here that will take you--hang on. Getting an emergency signal....</source>
+		<target>Здесь есть спидер, который доставит тебя... погоди. Сигнал тревоги...</target>
+	</unit>
+	<unit bitflag="3393" id1="482976" id2="17" version="1065353216">
+		<source>--under attack, repeat, under attack! Flesh Raiders are invading the Padawan training grounds! They have blasters! Send help!</source>
+		<target>...атакованы, повторяю, атакованы! Раздиратели вторглись на тренировочные площадки падаванов! У них бластеры! Пришлите подмогу!</target>
+	</unit>
+	<unit bitflag="1345" id1="482978" id2="17" version="1065353216">
+		<source>Flesh Raiders, armed with blasters? He must be mistaken.</source>
+		<target>Раздиратели, вооружённые бластерами? Быть не может.</target>
+	</unit>
+	<unit bitflag="1345" id1="482979" id2="17" version="1065353216">
+		<source>Mistaken or not, that Padawan is under attack.</source>
+		<target>Может, не может, а падавана атакуют.</target>
+	</unit>
+	<unit bitflag="1360" id1="482979" id2="17" version="1065353216">
+		<source>Regardless, it's trouble.</source>
+		<target>Это всё равно проблема.</target>
+	</unit>
+	<unit bitflag="1345" id1="482980" id2="17" version="1065353216">
+		<source>They've never come this close before....</source>
+		<target>Они раньше не подходили так близко...</target>
+	</unit>
+	<unit bitflag="1345" id1="482982" id2="17" version="1065353216">
+		<source>What are these things? Animals?</source>
+		<target>Они что? Животные?</target>
+	</unit>
+	<unit bitflag="1360" id1="482982" id2="17" version="1065353216">
+		<source>Why do you say that?</source>
+		<target>Почему вы так говорите?</target>
+	</unit>
+	<unit bitflag="1345" id1="482983" id2="17" version="1065353216">
+		<source>You could hear the blaster fire. Go help!</source>
+		<target>Ты слышал бластерный огонь. Отправляйся на помощь!</target>
+	</unit>
+	<unit bitflag="1360" id1="482983" id2="17" version="1065353216">
+		<source>Obviously not--do something!</source>
+		<target>Очевидно, может - действуйте!</target>
+	</unit>
+	<unit bitflag="1345" id1="482984" id2="17" version="1065353216">
+		<source>Calm down, Padawan. Never rush into a fight before knowing your enemy.</source>
+		<target>Успокойся, падаван. Никогда не вступай в бой, не узнав врага.</target>
+	</unit>
+	<unit bitflag="1345" id1="482986" id2="17" version="1065353216">
+		<source>Flesh Raiders are a species of hostile natives. They're smart enough to use tools and violent beyond reason.</source>
+		<target>Раздиратели - враждебная раса туземцев. Они достаточно умны, чтобы использовать орудия труда, и жестоки сверх меры.</target>
+	</unit>
+	<unit bitflag="1345" id1="482988" id2="17" version="1065353216">
+		<source>I'm sending every able-bodied Jedi down to the Padawan training grounds right away--especially you.</source>
+		<target>Я посылаю всех способных сражаться джедаев на тренировочные площадки падаванов сейчас же - и прежде всего тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="482989" id2="17" version="1065353216">
+		<source>Just point the way. I'll handle the rest.</source>
+		<target>Просто укажите путь. С остальным я разберусь.</target>
+	</unit>
+	<unit bitflag="1360" id1="482989" id2="17" version="1065353216">
+		<source>It's an honor to help.</source>
+		<target>Будет честью помочь.</target>
+	</unit>
+	<unit bitflag="1345" id1="482990" id2="17" version="1065353216">
+		<source>What makes me any better than the others?</source>
+		<target>Что делает меня лучше других?</target>
+	</unit>
+	<unit bitflag="1360" id1="482990" id2="17" version="1065353216">
+		<source>&quot;Especially&quot; me? Why's that?</source>
+		<target>«Особенно» меня? С чего это?</target>
+	</unit>
+	<unit bitflag="1345" id1="482991" id2="17" version="1065353216">
+		<source>You've been trained for dangers like this. I know I can count on you.</source>
+		<target>Тебя подготавливали к таким опасностям. Я знаю, что могу положиться на тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="482993" id2="17" version="1065353216">
+		<source>You planning to stay up here and watch?</source>
+		<target>Вы планируете остаться и наблюдать?</target>
+	</unit>
+	<unit bitflag="1360" id1="482993" id2="17" version="1065353216">
+		<source>And what about you?</source>
+		<target>А что насчёт вас?</target>
+	</unit>
+	<unit bitflag="1345" id1="482994" id2="17" version="1065353216">
+		<source>I'm warning the others. I'll be right behind you.</source>
+		<target>Я предупреждаю остальных. Прибуду сразу за тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="482996" id2="17" version="1065353216">
+		<source>Take the speeder outside to the training grounds. Push back the Flesh Raiders--and find out if they're really using advanced weapons.</source>
+		<target>Доберись на спидере до тренировочных площадок. Оттесни раздирателей - и узнай, правда ли они используют продвинутое оружие.</target>
+	</unit>
+	<unit bitflag="1345" id1="482998" id2="17" version="1065353216">
+		<source>Go. I'll catch up after I alert the Jedi Council. May the Force be with you.</source>
+		<target>Иди. Я догоню, когда предупрежу Совет джедаев. Да пребудет с тобой Сила.</target>
+	</unit>
+	<unit bitflag="1345" id1="483002" id2="17" version="1065353216">
+		<source>Welcome to Tython. Please take care in your explorations. This world is dangerous for the unprepared.</source>
+		<target>Добро пожаловать на Тайтон. Пожалуйста, соблюдай осторожность при его исследовании. Этот мир опасен для неподготовленных.</target>
+	</unit>
+</dialogue_file>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/cnv/location/ord_mantell/bronze/unsafe_safe_houses/separatist_satellite_dish_control.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="126716" id2="17" version="1065353216">[This safe house is equipped with a military-grade listening device, tapping into transmissions sent from Fort Garnik.]</text>
+		<text bitflag="321" id1="126718" id2="17" version="1065353216">[The separatists must listen in on Fort Garnik from here, then distribute information to the other safe houses. You should let the communications officers at Fort Garnik know.]</text>
+	</file_content>
+</stb_file>

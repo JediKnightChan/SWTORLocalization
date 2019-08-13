@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/flashpoint/rakata_prime/republic/r0_p6.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1143861" id2="17" version="1065353216">Shuttle = ready // You + Theron Shan = meet on Rakata Prime</text>
+		<text bitflag="3393" id1="1143864" id2="17" version="1065353216">Clearance = granted // Theron Shan = waiting // You = ready to shuttle to Rakata Prime?</text>
+		<text bitflag="1360" id1="1143865" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1143867" id2="17" version="1065353216">[Refuse Mission]</text>
+		<text bitflag="3393" id1="1143868" id2="17" version="1065353216">Shuttle = at the ready // R0 = awaits your potential return!</text>
+		<text bitflag="3393" id1="1143871" id2="17" version="1065353216">Mission parameters = unclear at present // R0 = awaiting word // You = check back another time</text>
+		<text bitflag="1360" id1="1143874" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="1143883" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="1143886" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1148022" id2="17" version="1065353216">[Start Story Mode]</text>
+		<text bitflag="1360" id1="1148023" id2="17" version="1065353216">[Start Solo Mode]</text>
+	</file_content>
+</stb_file>

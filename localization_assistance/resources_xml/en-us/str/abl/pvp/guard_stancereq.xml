@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/abl/pvp/guard_stancereq.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="65" id1="0" id2="309360" version="1065353216">Guard</text>
+		<text bitflag="65" id1="1" id2="309360" version="1065353216">50% of target party member's incoming damage is transfered to you.</text>
+	</file_content>
+</stb_file>

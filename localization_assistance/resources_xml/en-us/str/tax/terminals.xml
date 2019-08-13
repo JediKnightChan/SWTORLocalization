@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>296</strs>
+		<file_name>/resources/en-us/str/tax/terminals.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="2" id2="513541" version="1065353216">Fort Garnik Speeder</text>
+		<text bitflag="321" id1="3" id2="513541" version="1065353216">Oradam Village Speeder</text>
+		<text bitflag="321" id1="4" id2="513541" version="1065353216">Master's Retreat Taxi</text>
+		<text bitflag="321" id1="5" id2="513541" version="1065353216">Jedi Temple Speeder</text>
+		<text bitflag="321" id1="6" id2="513541" version="1065353216">Gnarls Outpost Speeder</text>
+		<text bitflag="321" id1="7" id2="513541" version="1065353216">Forward Camp Speeder</text>
+		<text bitflag="321" id1="8" id2="513541" version="1065353216">Kalikori Village Speeder</text>
+		<text bitflag="321" id1="9" id2="513541" version="1065353216">Imperial Outpost Speeder</text>
+		<text bitflag="321" id1="10" id2="513541" version="1065353216">Remote Thranta</text>
+		<text bitflag="321" id1="11" id2="513541" version="1065353216">Bugtown Outpost Skyhopper</text>
+		<text bitflag="321" id1="12" id2="513541" version="1065353216">Sundari Imperial Outpost</text>
+		<text bitflag="321" id1="13" id2="513541" version="1065353216">Remote Gorinth Outpost Speeder</text>
+		<text bitflag="321" id1="14" id2="513541" version="1065353216">Markaran Imperial Outpost Speeder</text>
+		<text bitflag="321" id1="15" id2="513541" version="1065353216">Sobrik Speeder</text>
+		<text bitflag="321" id1="16" id2="513541" version="1065353216">Remote Markaran Outpost Speeder</text>
+		<text bitflag="321" id1="17" id2="513541" version="1065353216">Gorinth Imperial Outpost Skyhopper</text>
+		<text bitflag="321" id1="18" id2="513541" version="1065353216">Olaris Reclamation Base Speeder</text>
+		<text bitflag="321" id1="19" id2="513541" version="1065353216">Waypoint Station Aurek Speeder</text>
+		<text bitflag="321" id1="20" id2="513541" version="1065353216">Waypoint Station Draay Speeder</text>
+		<text bitflag="321" id1="21" id2="513541" version="1065353216">Waypoint Station Morne Speeder</text>
+		<text bitflag="321" id1="22" id2="513541" version="1065353216">Kanner Outpost Speeder</text>
+		<text bitflag="321" id1="23" id2="513541" version="1065353216">Dreviad Outpost Speeder</text>
+		<text bitflag="321" id1="24" id2="513541" version="1065353216">Anchorhead Speeder</text>
+		<text bitflag="321" id1="25" id2="513541" version="1065353216">Mos Ila Speeder</text>
+		<text bitflag="321" id1="26" id2="513541" version="1065353216">Outpost Largona Speeder</text>
+		<text bitflag="321" id1="27" id2="513541" version="1065353216">Outpost Varath Speeder</text>
+		<text bitflag="321" id1="28" id2="513541" version="1065353216">Outpost Rennar Speeder</text>
+		<text bitflag="321" id1="29" id2="513541" version="1065353216">Outpost Salara Speeder</text>
+		<text bitflag="321" id1="30" id2="513541" version="1065353216">Mos Anek Speeder</text>
+		<text bitflag="321" id1="31" id2="513541" version="1065353216">Outpost Zaroshe Speeder</text>
+		<text bitflag="321" id1="32" id2="513541" version="1065353216">Outpost Thorazan Speeder</text>
+		<text bitflag="321" id1="33" id2="513541" version="1065353216">Galactic Market Taxi</text>
+		<text bitflag="321" id1="34" id2="513541" version="1065353216">Black Sun Territory Taxi</text>
+		<text bitflag="321" id1="35" id2="513541" version="1065353216">Justicar Territory Taxi</text>
+		<text bitflag="321" id1="36" id2="513541" version="1065353216">The Works Taxi</text>
+		<text bitflag="321" id1="37" id2="513541" version="1065353216">Jedi Temple Taxi</text>
+		<text bitflag="321" id1="38" id2="513541" version="1065353216">Tularan Recon Outpost Speeder</text>
+		<text bitflag="321" id1="39" id2="513541" version="1065353216">Lytle Research Outpost Speeder</text>
+		<text bitflag="321" id1="40" id2="513541" version="1065353216">Brejik's Run Outpost Speeder</text>
+		<text bitflag="321" id1="41" id2="513541" version="1065353216">Senate Plaza Taxi</text>
+		<text bitflag="321" id1="42" id2="513541" version="1065353216">Mezenti Spaceport Taxi</text>
+		<text bitflag="321" id1="43" id2="513541" version="1065353216">Upper Promenade Taxi</text>
+		<text bitflag="321" id1="44" id2="513541" version="1065353216">Corellian Sector Taxi</text>
+		<text bitflag="321" id1="45" id2="513541" version="1065353216">Duros Sector Taxi</text>
+		<text bitflag="321" id1="46" id2="513541" version="1065353216">Upper Industrial Sector Taxi</text>
+		<text bitflag="321" id1="47" id2="513541" version="1065353216">Network Access Taxi</text>
+		<text bitflag="321" id1="48" id2="513541" version="1065353216">Deucalon Spaceport Taxi</text>
+		<text bitflag="321" id1="49" id2="513541" version="1065353216">Upper Promenade Taxi</text>
+		<text bitflag="321" id1="50" id2="513541" version="1065353216">Nikto Sector Taxi</text>
+		<text bitflag="321" id1="51" id2="513541" version="1065353216">Red Light Sector Taxi</text>
+		<text bitflag="321" id1="52" id2="513541" version="1065353216">Lower Industrial Sector Taxi</text>
+		<text bitflag="321" id1="53" id2="513541" version="1065353216">Shadow Town Taxi</text>
+		<text bitflag="321" id1="54" id2="513541" version="1065353216">High Profile Ward Taxi</text>
+		<text bitflag="321" id1="55" id2="513541" version="1065353216">House Thul Taxi</text>
+		<text bitflag="321" id1="56" id2="513541" version="1065353216">Outpost Bolym Thranta</text>
+		<text bitflag="321" id1="57" id2="513541" version="1065353216">Outpost Talarn Thranta</text>
+		<text bitflag="321" id1="58" id2="513541" version="1065353216">Outpost Ghrent Thranta</text>
+		<text bitflag="321" id1="59" id2="513541" version="1065353216">House Organa Taxi</text>
+		<text bitflag="321" id1="60" id2="513541" version="1065353216">Wardpost Duvaal Thranta</text>
+		<text bitflag="321" id1="61" id2="513541" version="1065353216">Wardpost Landa Thranta</text>
+		<text bitflag="321" id1="62" id2="513541" version="1065353216">Wardpost Hurne Thranta</text>
+		<text bitflag="321" id1="63" id2="513541" version="1065353216">Ghost Cell Training Speeder</text>
+		<text bitflag="321" id1="64" id2="513541" version="1065353216">Voss-Ka Republic District Skyhopper</text>
+		<text bitflag="321" id1="65" id2="513541" version="1065353216">Ken-La Outpost Skyhopper</text>
+		<text bitflag="321" id1="66" id2="513541" version="1065353216">Kri-Ta Outpost Skyhopper</text>
+		<text bitflag="321" id1="67" id2="513541" version="1065353216">Camp Talanis Skyhopper</text>
+		<text bitflag="321" id1="68" id2="513541" version="1065353216">Shad-Ka Outpost Skyhopper</text>
+		<text bitflag="321" id1="69" id2="513541" version="1065353216">Outpost Zenta Speeder</text>
+		<text bitflag="321" id1="70" id2="513541" version="1065353216">Wardpost Jakavin Speeder</text>
+		<text bitflag="321" id1="71" id2="513541" version="1065353216">Elysium Thranta</text>
+		<text bitflag="321" id1="72" id2="513541" version="1065353216">Jiguuna Speeder</text>
+		<text bitflag="321" id1="73" id2="513541" version="1065353216">Trodden Grounds Speeder</text>
+		<text bitflag="321" id1="74" id2="513541" version="1065353216">Rust Yards Speeder</text>
+		<text bitflag="321" id1="75" id2="513541" version="1065353216">Forward Operating Base Speeder</text>
+		<text bitflag="321" id1="76" id2="513541" version="1065353216">Assault Trench Speeder</text>
+		<text bitflag="321" id1="77" id2="513541" version="1065353216">Spaceport Speeder</text>
+		<text bitflag="321" id1="78" id2="513541" version="1065353216">Kaas City Entrance Speeder</text>
+		<text bitflag="321" id1="79" id2="513541" version="1065353216">Outpost Tempest Speeder</text>
+		<text bitflag="321" id1="80" id2="513541" version="1065353216">The Wall Speeder</text>
+		<text bitflag="321" id1="81" id2="513541" version="1065353216">Kaas City Central Taxi</text>
+		<text bitflag="321" id1="82" id2="513541" version="1065353216">Sith Sanctum Taxi</text>
+		<text bitflag="321" id1="83" id2="513541" version="1065353216">Mandalorian Enclave Taxi</text>
+		<text bitflag="321" id1="84" id2="513541" version="1065353216">Intelligence Headquarters Taxi</text>
+		<text bitflag="321" id1="85" id2="513541" version="1065353216">Outpost Warden Speeder</text>
+		<text bitflag="321" id1="86" id2="513541" version="1065353216">Empire Landing</text>
+		<text bitflag="321" id1="87" id2="513541" version="1065353216">Empire Dropship</text>
+		<text bitflag="321" id1="88" id2="513541" version="1065353216">Republic Landing</text>
+		<text bitflag="321" id1="89" id2="513541" version="1065353216">Republic Dropship</text>
+		<text bitflag="321" id1="90" id2="513541" version="1065353216">Kaas City Expansion Speeder</text>
+		<text bitflag="321" id1="91" id2="513541" version="1065353216">Lower Promenade Taxi</text>
+		<text bitflag="321" id1="92" id2="513541" version="1065353216">Club Vertica Casino Taxi</text>
+		<text bitflag="321" id1="93" id2="513541" version="1065353216">Lower Promenade Taxi</text>
+		<text bitflag="321" id1="94" id2="513541" version="1065353216">Star Cluster Casino Taxi</text>
+		<text bitflag="321" id1="95" id2="513541" version="1065353216">Star Cluster Casino Test Taxi</text>
+		<text bitflag="321" id1="96" id2="513541" version="1065353216">Rhu Caenus Spaceport Taxi</text>
+		<text bitflag="321" id1="97" id2="513541" version="1065353216">Thul Palace Taxi</text>
+		<text bitflag="321" id1="98" id2="513541" version="1065353216">Incorporation Islands Tram</text>
+		<text bitflag="321" id1="99" id2="513541" version="1065353216">Blastfield Shipyards Tram</text>
+		<text bitflag="321" id1="100" id2="513541" version="1065353216">Imperial War Camp Tram</text>
+		<text bitflag="321" id1="101" id2="513541" version="1065353216">Axial Park South Tram</text>
+		<text bitflag="321" id1="102" id2="513541" version="1065353216">Republic Base Tram</text>
+		<text bitflag="321" id1="103" id2="513541" version="1065353216">Axial Park North Tram</text>
+		<text bitflag="321" id1="104" id2="513541" version="1065353216">Uptown Tram</text>
+		<text bitflag="321" id1="105" id2="513541" version="1065353216">Business Sector Tram</text>
+		<text bitflag="321" id1="106" id2="513541" version="1065353216">Lower Qel-Droma Ruins Thranta</text>
+		<text bitflag="321" id1="107" id2="513541" version="1065353216">Upper Qel-Droma Ruins Thranta</text>
+		<text bitflag="321" id1="108" id2="513541" version="1065353216">Outpost Eudor Thranta</text>
+		<text bitflag="321" id1="109" id2="513541" version="1065353216">House Traders' Circle Thranta</text>
+		<text bitflag="321" id1="110" id2="513541" version="1065353216">Wardpost Luurdes Thranta</text>
+		<text bitflag="321" id1="111" id2="513541" version="1065353216">Republic Dropship2</text>
+		<text bitflag="321" id1="112" id2="513541" version="1065353216">Empire Dropship2</text>
+		<text bitflag="321" id1="113" id2="513541" version="1065353216">Vanguard Outpost Skyhopper</text>
+		<text bitflag="321" id1="114" id2="513541" version="1065353216">Troida Taxi</text>
+		<text bitflag="321" id1="115" id2="513541" version="1065353216">Espelar Settlement Speeder</text>
+		<text bitflag="321" id1="116" id2="513541" version="1065353216">EmpireSpawnEast</text>
+		<text bitflag="321" id1="117" id2="513541" version="1065353216">EmpireSpawnEastEnd</text>
+		<text bitflag="321" id1="118" id2="513541" version="1065353216">EmpireSpawnWest</text>
+		<text bitflag="321" id1="119" id2="513541" version="1065353216">EmpireSpawnWestEnd</text>
+		<text bitflag="321" id1="120" id2="513541" version="1065353216">RepublicSpawnEast</text>
+		<text bitflag="321" id1="121" id2="513541" version="1065353216">RepublicSpawnEastEnd</text>
+		<text bitflag="321" id1="122" id2="513541" version="1065353216">RepublicSpawnWest</text>
+		<text bitflag="321" id1="123" id2="513541" version="1065353216">RepublicSpawnWestEnd</text>
+		<text bitflag="321" id1="124" id2="513541" version="1065353216">Ridgeside Sentry Post Speeder</text>
+		<text bitflag="321" id1="125" id2="513541" version="1065353216">Shining Star Taxi</text>
+		<text bitflag="321" id1="126" id2="513541" version="1065353216">Thul Research Camp Thranta</text>
+		<text bitflag="321" id1="127" id2="513541" version="1065353216">Poison Pit Speeder</text>
+		<text bitflag="321" id1="128" id2="513541" version="1065353216">Nemro's Palace Speeder</text>
+		<text bitflag="321" id1="129" id2="513541" version="1065353216">Republic Base Speeder</text>
+		<text bitflag="321" id1="130" id2="513541" version="1065353216">War Outpost Speeder</text>
+		<text bitflag="321" id1="131" id2="513541" version="1065353216">Imperial Base Speeder</text>
+		<text bitflag="321" id1="132" id2="513541" version="1065353216">Imperial Waystation Speeder</text>
+		<text bitflag="321" id1="133" id2="513541" version="1065353216">Lower Elysium Nest</text>
+		<text bitflag="321" id1="134" id2="513541" version="1065353216">Upper Elysium Nest</text>
+		<text bitflag="321" id1="135" id2="513541" version="1065353216">Aurek Base Speeder</text>
+		<text bitflag="321" id1="136" id2="513541" version="1065353216">Outpost Cresh Speeder</text>
+		<text bitflag="321" id1="137" id2="513541" version="1065353216">Outpost Senth Speeder</text>
+		<text bitflag="321" id1="138" id2="513541" version="1065353216">Outpost Zerek Speeder</text>
+		<text bitflag="321" id1="139" id2="513541" version="1065353216">Farnel Skyhopper</text>
+		<text bitflag="321" id1="140" id2="513541" version="1065353216">Lower Markaran Outpost Skyhopper</text>
+		<text bitflag="321" id1="141" id2="513541" version="1065353216">Upper Markaran Outpost Skyhopper</text>
+		<text bitflag="321" id1="142" id2="513541" version="1065353216">Gorinth Outpost Skyhopper</text>
+		<text bitflag="321" id1="143" id2="513541" version="1065353216">Lower Sundari Outpost Skyhopper</text>
+		<text bitflag="321" id1="144" id2="513541" version="1065353216">Upper Sundari Outpost Skyhopper</text>
+		<text bitflag="321" id1="145" id2="513541" version="1065353216">Dorn Base Speeder</text>
+		<text bitflag="321" id1="146" id2="513541" version="1065353216">Forward Bunker Speeder</text>
+		<text bitflag="321" id1="147" id2="513541" version="1065353216">Leth Outpost Speeder</text>
+		<text bitflag="321" id1="148" id2="513541" version="1065353216">Thesh Outpost Speeder</text>
+		<text bitflag="321" id1="149" id2="513541" version="1065353216">Frostwake Outpost Speeder</text>
+		<text bitflag="321" id1="150" id2="513541" version="1065353216">Pallista Spaceport Taxi</text>
+		<text bitflag="321" id1="151" id2="513541" version="1065353216">Voss-Ka Imperial District Skyhopper</text>
+		<text bitflag="321" id1="152" id2="513541" version="1065353216">Gehn's Overlook Skyhopper</text>
+		<text bitflag="321" id1="153" id2="513541" version="1065353216">Outpost Skyline Skyhopper</text>
+		<text bitflag="321" id1="154" id2="513541" version="1065353216">Outpost Overseer Skyhopper</text>
+		<text bitflag="321" id1="155" id2="513541" version="1065353216">Fort Kodentha Skyhopper</text>
+		<text bitflag="321" id1="156" id2="513541" version="1065353216">Toxic Lake Garrison Speeder</text>
+		<text bitflag="321" id1="157" id2="513541" version="1065353216">Bomber Command Post Speeder</text>
+		<text bitflag="321" id1="158" id2="513541" version="1065353216">Border Assault Post Speeder</text>
+		<text bitflag="321" id1="159" id2="513541" version="1065353216">Tower Command Station Speeder</text>
+		<text bitflag="321" id1="160" id2="513541" version="1065353216">Crater Command Base Speeder</text>
+		<text bitflag="321" id1="161" id2="513541" version="1065353216">Forward Outpost Alpha Speeder</text>
+		<text bitflag="321" id1="162" id2="513541" version="1065353216">75th Legion Forward Camp Speeder</text>
+		<text bitflag="321" id1="163" id2="513541" version="1065353216">New Tarisian Dawn Speeder</text>
+		<text bitflag="321" id1="164" id2="513541" version="1065353216">Drift Hills Republic Depot Speeder</text>
+		<text bitflag="321" id1="165" id2="513541" version="1065353216">Jagged Hills Republic Outpost Speeder</text>
+		<text bitflag="321" id1="166" id2="513541" version="1065353216">Drift Hills Imperial Outpost Speeder</text>
+		<text bitflag="321" id1="167" id2="513541" version="1065353216">Jagged Hills Imperial Garrison Speeder</text>
+		<text bitflag="321" id1="168" id2="513541" version="1065353216">Sith Academy Taxi</text>
+		<text bitflag="321" id1="169" id2="513541" version="1065353216">Lower Wilds Taxi</text>
+		<text bitflag="321" id1="170" id2="513541" version="1065353216">Field Research Area Taxi</text>
+		<text bitflag="321" id1="171" id2="513541" version="1065353216">Imperial Lodgement Speeder</text>
+		<text bitflag="321" id1="172" id2="513541" version="1065353216">Imperial Command Post Speeder</text>
+		<text bitflag="321" id1="173" id2="513541" version="1065353216">Prison Administration Center Speeder</text>
+		<text bitflag="321" id1="174" id2="513541" version="1065353216">Republic Watchtower Speeder</text>
+		<text bitflag="321" id1="175" id2="513541" version="1065353216">Imperial Frontline Camp Speeder</text>
+		<text bitflag="321" id1="176" id2="513541" version="1065353216">Ops Center Speeder</text>
+		<text bitflag="321" id1="177" id2="513541" version="1065353216">Imperial Domination Outpost Speeder</text>
+		<text bitflag="321" id1="178" id2="513541" version="1065353216">Republic Wilderness Outpost Speeder</text>
+		<text bitflag="321" id1="179" id2="513541" version="1065353216">Incorporation Islands Taxi</text>
+		<text bitflag="321" id1="180" id2="513541" version="1065353216">Occupied Corporate Tower Taxi</text>
+		<text bitflag="321" id1="181" id2="513541" version="1065353216">Islands Outpost Taxi</text>
+		<text bitflag="321" id1="182" id2="513541" version="1065353216">Corporate Council Tower Taxi</text>
+		<text bitflag="321" id1="183" id2="513541" version="1065353216">Republic Base Camp Speeder</text>
+		<text bitflag="321" id1="184" id2="513541" version="1065353216">Republic Waystation Speeder</text>
+		<text bitflag="321" id1="185" id2="513541" version="1065353216">Imperial Base Camp Speeder</text>
+		<text bitflag="321" id1="186" id2="513541" version="1065353216">Imperial Waystation Speeder</text>
+		<text bitflag="321" id1="187" id2="513541" version="1065353216">Pilgrim Retreat Speeder</text>
+		<text bitflag="321" id1="188" id2="513541" version="1065353216">Pelath Point Speeder</text>
+		<text bitflag="321" id1="189" id2="513541" version="1065353216">Aegis Base Taxi</text>
+		<text bitflag="321" id1="190" id2="513541" version="1065353216">Private Landing Pad Taxi</text>
+		<text bitflag="321" id1="191" id2="513541" version="1065353216">Antenna Module Taxi</text>
+		<text bitflag="321" id1="192" id2="513541" version="1065353216">House Alde Speeder</text>
+		<text bitflag="321" id1="193" id2="513541" version="1065353216">Volcano Camp Speeder</text>
+		<text bitflag="321" id1="194" id2="513541" version="1065353216">Falks Reach Speeder</text>
+		<text bitflag="321" id1="195" id2="513541" version="1065353216">Outpost Ghrent Thranta</text>
+		<text bitflag="321" id1="196" id2="513541" version="1065353216">Force Carry</text>
+		<text bitflag="321" id1="197" id2="513541" version="1065353216">Escape Pod</text>
+		<text bitflag="321" id1="198" id2="513541" version="1065353216">Abandoned Speeder</text>
+		<text bitflag="321" id1="199" id2="513541" version="1065353216">Moraine Outpost Skyhopper</text>
+		<text bitflag="321" id1="200" id2="513541" version="1065353216">Vaiken Spacedock Shuttle</text>
+		<text bitflag="321" id1="201" id2="513541" version="1065353216">White Nova Shuttle</text>
+		<text bitflag="321" id1="202" id2="513541" version="1065353216">Ziost Shadow Shuttle</text>
+		<text bitflag="321" id1="203" id2="513541" version="1065353216">Carrick Station Shuttle</text>
+		<text bitflag="321" id1="204" id2="513541" version="1065353216">Telos Shuttle</text>
+		<text bitflag="321" id1="205" id2="513541" version="1065353216">Gav Daragon Shuttle</text>
+		<text bitflag="321" id1="206" id2="513541" version="1065353216">Introduction Taxi Path</text>
+		<text bitflag="321" id1="207" id2="513541" version="1065353216">Crashed Ship Speeder</text>
+		<text bitflag="321" id1="208" id2="513541" version="1065353216">Desert Valley Speeder</text>
+		<text bitflag="321" id1="209" id2="513541" version="1065353216">House Cortess Taxi</text>
+		<text bitflag="321" id1="210" id2="513541" version="1065353216">Revanite Compound Speeder</text>
+		<text bitflag="321" id1="211" id2="513541" version="1065353216">Panteer Refuge Thranta</text>
+		<text bitflag="321" id1="212" id2="513541" version="1065353216">Panteer Hideout Thranta</text>
+		<text bitflag="321" id1="213" id2="513541" version="1065353216">House Alde Library Thranta</text>
+		<text bitflag="321" id1="214" id2="513541" version="1065353216">Imperial Fray Landing Zone Speeder</text>
+		<text bitflag="321" id1="215" id2="513541" version="1065353216">Republic Fray Landing Zone Speeder</text>
+		<text bitflag="321" id1="216" id2="513541" version="1065353216">Republic Guardpost Beta Speeder</text>
+		<text bitflag="321" id1="217" id2="513541" version="1065353216">Resettlement Camps Speeder</text>
+		<text bitflag="321" id1="225" id2="513541" version="1065353216">Lower Transport Center</text>
+		<text bitflag="321" id1="226" id2="513541" version="1065353216">Upper Transport Center</text>
+		<text bitflag="321" id1="227" id2="513541" version="1065353216">Western Rakata Transport</text>
+		<text bitflag="321" id1="228" id2="513541" version="1065353216">Frozen Transport Center</text>
+		<text bitflag="321" id1="229" id2="513541" version="1065353216">Excavated Transport Center</text>
+		<text bitflag="321" id1="230" id2="513541" version="1065353216">Outer Tomb Transport Center</text>
+		<text bitflag="321" id1="231" id2="513541" version="1065353216">Republic Power Center Transport</text>
+		<text bitflag="321" id1="232" id2="513541" version="1065353216">Ancient Transport Center</text>
+		<text bitflag="321" id1="233" id2="513541" version="1065353216">Rakata Transport Center</text>
+		<text bitflag="321" id1="234" id2="513541" version="1065353216">Imperial Power Center Transport</text>
+		<text bitflag="321" id1="235" id2="513541" version="1065353216">Lower Prison Outer Transport</text>
+		<text bitflag="321" id1="236" id2="513541" version="1065353216">Lower Prison Magma Transport</text>
+		<text bitflag="321" id1="237" id2="513541" version="1065353216">Southern Rakata Transport</text>
+		<text bitflag="321" id1="238" id2="513541" version="1065353216">Deep Launchpoint Transport</text>
+		<text bitflag="321" id1="239" id2="513541" version="1065353216">Remote Skyhopper</text>
+		<text bitflag="321" id1="240" id2="513541" version="1065353216">Remote Thranta</text>
+		<text bitflag="321" id1="277" id2="513541" version="1065353216">Residential District Transport</text>
+		<text bitflag="321" id1="278" id2="513541" version="1065353216">Spaceport Docks Transport</text>
+		<text bitflag="321" id1="279" id2="513541" version="1065353216">Residential District Transport</text>
+		<text bitflag="321" id1="280" id2="513541" version="1065353216">Spaceport Docks Transport</text>
+		<text bitflag="321" id1="281" id2="513541" version="1065353216">(Undiscovered)</text>
+		<text bitflag="321" id1="282" id2="513541" version="1065353216">&lt;Unknown Taxi Terminal&gt;</text>
+		<text bitflag="321" id1="283" id2="513541" version="1065353216">Republic Fray Southwestern Speeder</text>
+		<text bitflag="321" id1="284" id2="513541" version="1065353216">Republic Fray Northeastern Speeder</text>
+		<text bitflag="321" id1="285" id2="513541" version="1065353216">Imperial Fray Northwestern Speeder</text>
+		<text bitflag="321" id1="286" id2="513541" version="1065353216">Imperial Fray Southeastern Speeder</text>
+		<text bitflag="321" id1="287" id2="513541" version="1065353216">Avesta's Plantation Shuttle</text>
+		<text bitflag="321" id1="288" id2="513541" version="1065353216">Frinn Mesa Shuttle</text>
+		<text bitflag="321" id1="289" id2="513541" version="1065353216">Talaos City Shuttle</text>
+		<text bitflag="321" id1="290" id2="513541" version="1065353216">The Giant's Spear Shuttle</text>
+		<text bitflag="321" id1="291" id2="513541" version="1065353216">Aboro Mesa Shuttle</text>
+		<text bitflag="321" id1="292" id2="513541" version="1065353216">The Storm Carrier Shuttle</text>
+		<text bitflag="321" id1="293" id2="513541" version="1065353216">Tarlam Settlements Shuttle</text>
+		<text bitflag="321" id1="294" id2="513541" version="1065353216">The Giant's Spear Command Post Shuttle</text>
+		<text bitflag="321" id1="295" id2="513541" version="1065353216">The Sanctuary Shuttle</text>
+		<text bitflag="321" id1="296" id2="513541" version="1065353216">Telemur Mesa Shuttle</text>
+		<text bitflag="321" id1="297" id2="513541" version="1065353216">Mining Mesa Shuttle</text>
+		<text bitflag="321" id1="298" id2="513541" version="1065353216">Hutt Stronghold Shuttle</text>
+		<text bitflag="321" id1="299" id2="513541" version="1065353216">Gravity Hook 7 Shuttle</text>
+		<text bitflag="321" id1="300" id2="513541" version="1065353216">The Third Eye Shuttle</text>
+		<text bitflag="321" id1="301" id2="513541" version="1065353216">Solida Hesk's Estate Shuttle</text>
+		<text bitflag="321" id1="302" id2="513541" version="1065353216">Civilian Settlements Shuttle</text>
+		<text bitflag="321" id1="303" id2="513541" version="1065353216">Volcanic Mesa Shuttle</text>
+		<text bitflag="321" id1="304" id2="513541" version="1065353216">Drill Site Control Center Shuttle</text>
+		<text bitflag="321" id1="305" id2="513541" version="1065353216">Gravity Hook 4 Shuttle</text>
+		<text bitflag="321" id1="306" id2="513541" version="1065353216">Abandoned Drill Site Shuttle</text>
+		<text bitflag="321" id1="307" id2="513541" version="1065353216">Perekta Mesa Shuttle</text>
+		<text bitflag="321" id1="308" id2="513541" version="1065353216">Satellite Control Center Shuttle</text>
+		<text bitflag="321" id1="309" id2="513541" version="1065353216">Archon's Estates Shuttle</text>
+		<text bitflag="321" id1="311" id2="513541" version="1065353216">Drill Site Shuttle</text>
+		<text bitflag="321" id1="312" id2="513541" version="1065353216">Tarlam Settlements Shuttle</text>
+		<text bitflag="321" id1="313" id2="513541" version="1065353216">Talaos City Shuttle</text>
+		<text bitflag="321" id1="315" id2="513541" version="1065353216">Abandoned Mining Mesa Shuttle</text>
+		<text bitflag="321" id1="316" id2="513541" version="1065353216">Imperial Firebase 3 Speeder</text>
+		<text bitflag="321" id1="317" id2="513541" version="1065353216">Republic Recon Post Speeder</text>
+		<text bitflag="321" id1="318" id2="513541" version="1065353216">Westwater Settlements Shuttle</text>
+		<text bitflag="321" id1="319" id2="513541" version="1065353216">Transport Speeder Bike Rack</text>
+		<text bitflag="321" id1="321" id2="513541" version="1065353216">Raider's Cove</text>
+		<text bitflag="321" id1="322" id2="513541" version="1065353216">Rishii Village</text>
+		<text bitflag="321" id1="323" id2="513541" version="1065353216">South Ridge Beach</text>
+		<text bitflag="321" id1="324" id2="513541" version="1065353216">Landing Area Speeder</text>
+		<text bitflag="321" id1="326" id2="513541" version="1065353216">Imperial Recon Camp Speeder</text>
+		<text bitflag="321" id1="327" id2="513541" version="1065353216">Republic Recon Camp Speeder</text>
+		<text bitflag="321" id1="328" id2="513541" version="1065353216">Temple Ruins Speeder</text>
+		<text bitflag="321" id1="329" id2="513541" version="1065353216">Undercity Central</text>
+		<text bitflag="321" id1="330" id2="513541" version="1065353216">Endless Swamp</text>
+		<text bitflag="321" id1="331" id2="513541" version="1065353216">Separatist Volcano Base</text>
+		<text bitflag="321" id1="332" id2="513541" version="1065353216">Kaas City Expanse</text>
+		<text bitflag="321" id1="333" id2="513541" version="1065353216">Sith Empress Private Shuttle</text>
+		<text bitflag="321" id1="334" id2="513541" version="1065353216">Superweapon Compound Transporter</text>
+		<text bitflag="321" id1="335" id2="513541" version="1065353216">Expanse Transporter</text>
+		<text bitflag="321" id1="336" id2="513541" version="1065353216">Central Transporter East</text>
+		<text bitflag="321" id1="337" id2="513541" version="1065353216">Central Transporter West</text>
+		<text bitflag="321" id1="338" id2="513541" version="1065353216">Jedi Colony</text>
+		<text bitflag="321" id1="339" id2="513541" version="1065353216">Ossus Farms</text>
+		<text bitflag="321" id1="340" id2="513541" version="1065353216">Jedi Library</text>
+		<text bitflag="321" id1="341" id2="513541" version="1065353216">Strike Base XR-484</text>
+		<text bitflag="321" id1="342" id2="513541" version="1065353216">Ancient Ruins Outpost</text>
+		<text bitflag="321" id1="343" id2="513541" version="1065353216">Ossus Canyons Camp</text>
+		<text bitflag="321" id1="344" id2="513541" version="1065353216">Ancient Catacombs</text>
+	</file_content>
+</stb_file>

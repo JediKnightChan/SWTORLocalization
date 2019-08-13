@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/tython/data_holocron/datacron_a_tython.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="604344" id2="17" version="1065353216">This datacron is no longer active.</text>
+		<text bitflag="321" id1="604348" id2="17" version="1065353216">You've located another datacron.</text>
+		<text bitflag="321" id1="604352" id2="17" version="1065353216">You've located a datacron, an ancient technology once used by the Infinite Empire that can improve your natural attributes.</text>
+		<text bitflag="321" id1="604354" id2="17" version="1065353216">Some datacrons were created for a singular purpose; this one can improve the Endurance Attribute.</text>
+		<text bitflag="321" id1="604356" id2="17" version="1065353216">The datacron is still active; use it to improve your Endurance Attribute. Once used, its power can no longer be accessed.</text>
+		<text bitflag="321" id1="604357" id2="17" version="1065353216">[ Endurance +2 ]</text>
+		<text bitflag="321" id1="604360" id2="17" version="1065353216">You can feel the increased power coursing through your body; perhaps there are more to be found.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/gui/itm/loot/quality.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="357390" version="1065353216">Cheap</text>
+		<text bitflag="321" id1="2" id2="357390" version="1065353216">Standard</text>
+		<text bitflag="321" id1="3" id2="357390" version="1065353216">Premium</text>
+		<text bitflag="321" id1="4" id2="357390" version="1065353216">Prototype</text>
+		<text bitflag="321" id1="5" id2="357390" version="1065353216">Artifact</text>
+		<text bitflag="321" id1="6" id2="357390" version="1065353216">Legendary</text>
+		<text bitflag="321" id1="7" id2="357390" version="1065353216">Legacy</text>
+	</file_content>
+</stb_file>

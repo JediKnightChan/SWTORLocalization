@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>23</strs>
+		<file_name>/resources/en-us/str/cnv/location/alderaan/class/trooper/warning_system.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="511862" id2="17" version="1065353216">Notice to all personnel: Warning! Unscheduled main generator shutdown sequence initiated. Repeat: Main generator shutdown sequence initiated.</text>
+		<text bitflag="1345" id1="511864" id2="17" version="1065353216">Main generator functionality will cease unless shutdown sequence is aborted before completion.</text>
+		<text bitflag="1345" id1="511866" id2="17" version="1065353216">Warning: Main generator reactivation requires three-week overhaul, to be carried out by trained Imperial Power Bureau officials only.</text>
+		<text bitflag="1345" id1="511868" id2="17" version="1065353216">If main generator shutdown sequence has been initiated in error, proceed immediately to Generator Command to abort the sequence.</text>
+		<text bitflag="1345" id1="511870" id2="17" version="1065353216">Uh-oh. Guess we can expect a lot of company heading our way.</text>
+		<text bitflag="1345" id1="511871" id2="17" version="1065353216">All personnel in the facility will have heard that command, Lieutenant. We should anticipate heavy reinforcements.</text>
+		<text bitflag="1345" id1="511872" id2="17" version="1065353216">Nobody listens to those things, Sergeant.</text>
+		<text bitflag="1360" id1="511872" id2="17" version="1065353216">Don't be paranoid.</text>
+		<text bitflag="1345" id1="511873" id2="17" version="1065353216">Might want to rethink that, sir.</text>
+		<text bitflag="1345" id1="511875" id2="17" version="1065353216">I can tell you firsthand, sir: Reinforcements will come.</text>
+		<text bitflag="5456" id1="511877" id2="17" version="1065353216">Yeah, I gathered that.</text>
+		<text bitflag="1345" id1="511878" id2="17" version="1065353216">Here they come!</text>
+		<text bitflag="1345" id1="511879" id2="17" version="1065353216">Incoming!</text>
+		<text bitflag="1345" id1="511880" id2="17" version="1065353216">Excellent! Every Imperial in the facility will respond to that alarm--we can make our stand here, and slaughter them all in one glorious stroke!</text>
+		<text bitflag="1345" id1="511881" id2="17" version="1065353216">Havoc Squad--stand to!</text>
+		<text bitflag="1360" id1="511881" id2="17" version="1065353216">Defensive positions!</text>
+		<text bitflag="1345" id1="511882" id2="17" version="1065353216">Nobody listens to those things, Forex.</text>
+		<text bitflag="1360" id1="511882" id2="17" version="1065353216">I wouldn't bet on it.</text>
+		<text bitflag="1360" id1="511883" id2="17" version="1065353216">Bring 'em on.</text>
+		<text bitflag="1345" id1="511884" id2="17" version="1065353216">Targets identified! Initiating slaughter protocols!</text>
+		<text bitflag="1345" id1="511885" id2="17" version="1065353216">That is all.</text>
+		<text bitflag="1345" id1="511888" id2="17" version="1065353216">Notice to all personnel: Main generator shutdown sequence completed successfully! All generator function has been terminated.</text>
+		<text bitflag="1345" id1="511890" id2="17" version="1065353216">That is all.</text>
+	</file_content>
+</stb_file>

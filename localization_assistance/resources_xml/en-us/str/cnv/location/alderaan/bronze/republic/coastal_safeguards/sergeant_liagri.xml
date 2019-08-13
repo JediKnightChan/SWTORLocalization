@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/cnv/location/alderaan/bronze/republic/coastal_safeguards/sergeant_liagri.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="318223" id2="17" version="1065353216">Yes, that's what I'm saying--House Thul troops are running rampant down here, and they're all coming from the coast!</text>
+		<text bitflag="1345" id1="318225" id2="17" version="1065353216">If you don't send me more men, we'll never get sensors down there--the Thuls will just keep coming until it's too late.</text>
+		<text bitflag="1345" id1="318227" id2="17" version="1065353216">Two weeks! In two weeks we'll be dead or singing the Imperial anthem! Blast it....</text>
+		<text bitflag="1345" id1="318229" id2="17" version="1065353216">Heard that, did you? Yeah, I could really use a hand here.</text>
+		<text bitflag="1345" id1="318232" id2="17" version="1065353216">Yeah, you can say that again. If you think you could lend me a hand, I'd definitely appreciate it.</text>
+		<text bitflag="1345" id1="318234" id2="17" version="1065353216">We need to get our sensors working along the coastline--simple repairs, but it's the only way we'll see these Thul invaders coming.</text>
+		<text bitflag="1345" id1="318236" id2="17" version="1065353216">Once the sensors are active again, fire this flare from the bridge to alert our forces. And be on your guard... Thul commandos are everywhere.</text>
+		<text bitflag="1345" id1="318239" id2="17" version="1065353216">There's got to be some way to get this done....</text>
+		<text bitflag="3393" id1="727885" id2="17" version="1065353216">Nice work on those sensors. House Thul won't surprise us again.</text>
+		<text bitflag="3393" id1="727886" id2="17" version="1065353216">Duke Brant's men are on the move. He wants to speak with you.</text>
+		<text bitflag="3393" id1="727887" id2="17" version="1065353216">Duke Brant's men are waiting for your signal. Fire that flare!</text>
+		<text bitflag="3393" id1="727888" id2="17" version="1065353216">Get those sensors back online before House Thul wipes us all out.</text>
+		<text bitflag="3393" id1="727891" id2="17" version="1065353216">Say again, Duke Brant-- the sensor repairs failed? This is our fourth attempt. You say it was House Thul forces again?</text>
+		<text bitflag="3393" id1="727895" id2="17" version="1065353216">I'm doing my best, but the Republic's stretched thin. Command tells me two weeks--</text>
+		<text bitflag="1360" id1="727897" id2="17" version="1065353216">You need assistance?</text>
+		<text bitflag="1360" id1="727899" id2="17" version="1065353216">Things must be bad here.</text>
+		<text bitflag="3393" id1="727903" id2="17" version="1065353216">Here, you'll need the coordinates of the sensors. Be careful down there-- Thul's taking no prisoners.</text>
+		<text bitflag="1360" id1="727905" id2="17" version="1065353216">[Ignore him - Refuse quest]</text>
+		<text bitflag="3393" id1="727907" id2="17" version="1065353216">Duke Brant Organa? Come in, Duke Brant? Blast this comm signal!</text>
+	</file_content>
+</stb_file>

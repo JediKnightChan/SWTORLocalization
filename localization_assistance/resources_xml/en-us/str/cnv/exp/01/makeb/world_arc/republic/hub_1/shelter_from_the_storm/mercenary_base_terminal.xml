@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>95</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/world_arc/republic/hub_1/shelter_from_the_storm/mercenary_base_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1009444" id2="17" version="1065353216">Prosk, do you read? Another camp down and still no Lemda. Any luck on your end?</text>
+		<text bitflag="1345" id1="1009445" id2="17" version="1065353216">Hang on--getting a distress call... It's her! Patching through...</text>
+		<text bitflag="1345" id1="1009447" id2="17" version="1065353216">We read you, Lemda. Your uncle sent a rescue team. The Republic's here--look!</text>
+		<text bitflag="1345" id1="1009449" id2="17" version="1065353216">Shalim didn't send... more?</text>
+		<text bitflag="1345" id1="1009450" id2="17" version="1065353216">We're enough. Give us your coordinates, and we'll get you to safety.</text>
+		<text bitflag="1360" id1="1009450" id2="17" version="1065353216">Tell us where you are.</text>
+		<text bitflag="1345" id1="1009451" id2="17" version="1065353216">He told us you're a respected geophysicist. You look like a student. How old are you?</text>
+		<text bitflag="1360" id1="1009451" id2="17" version="1065353216">You're a kid, not a scientist!</text>
+		<text bitflag="1345" id1="1009452" id2="17" version="1065353216">I received my doctorate eight years ago. I was sixteen. Intimidated yet?</text>
+		<text bitflag="1345" id1="1009454" id2="17" version="1065353216">The mercenaries thought the same thing, and they got a nasty surprise.</text>
+		<text bitflag="1360" id1="1009454" id2="17" version="1065353216">Don't underestimate us.</text>
+		<text bitflag="1345" id1="1009455" id2="17" version="1065353216">If you say so.</text>
+		<text bitflag="1345" id1="1009457" id2="17" version="1065353216">My guards abandoned their posts and left me alone. You must be the &quot;murdering scum&quot; they went after.</text>
+		<text bitflag="1345" id1="1009459" id2="17" version="1065353216">I broke free and ran to the nearest quake shelter. I'm the only person here. Sending you coordinates....</text>
+		<text bitflag="1345" id1="1009460" id2="17" version="1065353216">It's always nice when prisoners help with their own rescues.</text>
+		<text bitflag="1360" id1="1009460" id2="17" version="1065353216">Well done.</text>
+		<text bitflag="1345" id1="1009461" id2="17" version="1065353216">Didn't have anything to lose by trying.</text>
+		<text bitflag="1345" id1="1009463" id2="17" version="1065353216">If you'd tried anything but getting to safety, you might have been captured again--or worse.</text>
+		<text bitflag="1360" id1="1009463" id2="17" version="1065353216">You did the smart thing.</text>
+		<text bitflag="1345" id1="1009464" id2="17" version="1065353216">Figured this was the safest place.</text>
+		<text bitflag="1345" id1="1009466" id2="17" version="1065353216">Get out of there. If the Regulators surround that shelter, you'll be trapped inside.</text>
+		<text bitflag="1360" id1="1009466" id2="17" version="1065353216">Enclosed spaces aren't safe.</text>
+		<text bitflag="1345" id1="1009467" id2="17" version="1065353216">I see your point.</text>
+		<text bitflag="1345" id1="1009469" id2="17" version="1065353216">I love a good prison breakout story. Did you use the old &quot;fork in the door circuits&quot; trick?</text>
+		<text bitflag="1360" id1="1009469" id2="17" version="1065353216">How did you escape?</text>
+		<text bitflag="1345" id1="1009470" id2="17" version="1065353216">Can we do this later?</text>
+		<text bitflag="1345" id1="1009472" id2="17" version="1065353216">Don't move--the mesa is crawling with Regulators. Stay put and let us come get you.</text>
+		<text bitflag="1360" id1="1009472" id2="17" version="1065353216">I'm on my way.</text>
+		<text bitflag="1345" id1="1009473" id2="17" version="1065353216">I'm not setting foot out there.</text>
+		<text bitflag="1345" id1="1009475" id2="17" version="1065353216">For all we know, the Regulators let you go. Maybe we're walking right into an ambush....</text>
+		<text bitflag="1360" id1="1009475" id2="17" version="1065353216">This feels like a trap.</text>
+		<text bitflag="1345" id1="1009476" id2="17" version="1065353216">Do I have to save myself?</text>
+		<text bitflag="1345" id1="1009478" id2="17" version="1065353216">Wait, what was that noise? Is that on your end?</text>
+		<text bitflag="1345" id1="1009480" id2="17" version="1065353216">Lost her! They're blocking her signal. My team's close to that quake shelter. Meet you there!</text>
+		<text bitflag="1345" id1="1009485" id2="17" version="1065353216">Prosk, come in. We've taken out multiple Regulator camps. Still no sign of Lemda.</text>
+		<text bitflag="1345" id1="1009486" id2="17" version="1065353216">Scouts report you've got those mercenaries chasing their own tails.</text>
+		<text bitflag="1345" id1="1009488" id2="17" version="1065353216">Lemda has to be nearby. I'll take some men out and cover more ground.</text>
+		<text bitflag="1345" id1="1009490" id2="17" version="1065353216">Think you're clever? Killing my people, slicing our comm channel?</text>
+		<text bitflag="1345" id1="1009492" id2="17" version="1065353216">Every time you hit us, the Hutts crack down even harder on the nice people of Makeb. They're dying because of you.</text>
+		<text bitflag="1360" id1="1009493" id2="17" version="1065353216">Stop making things worse.</text>
+		<text bitflag="1345" id1="1009495" id2="17" version="1065353216">You can end this any time. You know my terms for your surrender.</text>
+		<text bitflag="1345" id1="1009496" id2="17" version="1065353216">I'm not the one who's about to die.</text>
+		<text bitflag="1345" id1="1009498" id2="17" version="1065353216">Misdirected rage won't save you. Peace is your only option.</text>
+		<text bitflag="1345" id1="1009499" id2="17" version="1065353216">Typical smug Jedi. Well, I tried.</text>
+		<text bitflag="1345" id1="1009501" id2="17" version="1065353216">If that's true, you're guilty of war crimes. Surrender, and maybe you'll avoid a firing squad.</text>
+		<text bitflag="1345" id1="1009502" id2="17" version="1065353216">That's generous, Major--but I'll pass.</text>
+		<text bitflag="1345" id1="1009504" id2="17" version="1065353216">If there's any justice, I'll get to drop you naked into an angry mob of those &quot;nice people&quot; you're killing.</text>
+		<text bitflag="1345" id1="1009505" id2="17" version="1065353216">There's no justice, Captain. You of all people know that.</text>
+		<text bitflag="1345" id1="1009507" id2="17" version="1065353216">You're supposed to protect Makeb, but you sold out to the Hutts. How much are they paying you to execute innocent people?</text>
+		<text bitflag="1360" id1="1009507" id2="17" version="1065353216">The responsibility is yours.</text>
+		<text bitflag="1345" id1="1009508" id2="17" version="1065353216">Enough, obviously.</text>
+		<text bitflag="1345" id1="1009510" id2="17" version="1065353216">Those deaths are on your head, not mine.</text>
+		<text bitflag="1360" id1="1009510" id2="17" version="1065353216">Not my problem.</text>
+		<text bitflag="1345" id1="1009511" id2="17" version="1065353216">Make your peace while you can.</text>
+		<text bitflag="1345" id1="1009517" id2="17" version="1065353216">You should've taken the hint. I command the Regulators, and I've got plenty of reinforcements to throw your way. Now they're angry.</text>
+		<text bitflag="1360" id1="1009518" id2="17" version="1065353216">We don't have to fight.</text>
+		<text bitflag="1345" id1="1009520" id2="17" version="1065353216">This won't end well for you. Surrender and turn over the scientist.</text>
+		<text bitflag="1345" id1="1009521" id2="17" version="1065353216">Regulators don't take orders from Jedi.</text>
+		<text bitflag="1345" id1="1009522" id2="17" version="1065353216">All I want is Lemda. I have no desire to inflict casualties.</text>
+		<text bitflag="1345" id1="1009523" id2="17" version="1065353216">My Regulators don't share that sentiment, Master Jedi.</text>
+		<text bitflag="1345" id1="1009524" id2="17" version="1065353216">You'll never have enough men. Let the scientist go--now.</text>
+		<text bitflag="1345" id1="1009525" id2="17" version="1065353216">And deny my Regulators a shot at revenge? No.</text>
+		<text bitflag="1345" id1="1009526" id2="17" version="1065353216">I know you have a hearing problem, but seriously... give up the scientist.</text>
+		<text bitflag="1345" id1="1009527" id2="17" version="1065353216">Hear this, you low-rent spacer: You're dead. My Regulators will hunt you down.</text>
+		<text bitflag="1345" id1="1009528" id2="17" version="1065353216">Whatever the Hutts are paying, it's not enough. Quit while you're behind.</text>
+		<text bitflag="1360" id1="1009528" id2="17" version="1065353216">This is a losing deal for you.</text>
+		<text bitflag="1345" id1="1009529" id2="17" version="1065353216">This op will be profitable long after you're gone.</text>
+		<text bitflag="1345" id1="1009530" id2="17" version="1065353216">The longer you waste my time, the worse it'll be when I find you.</text>
+		<text bitflag="1360" id1="1009530" id2="17" version="1065353216">Don't make me angry.</text>
+		<text bitflag="1345" id1="1009531" id2="17" version="1065353216">Good luck with that. My Regulators get double pay to bring me your head.</text>
+		<text bitflag="1345" id1="1009533" id2="17" version="1065353216">It's Prosk. You read? We sliced the mercs' comm network. Hearing all kinds of interesting chatter.</text>
+		<text bitflag="1345" id1="1009535" id2="17" version="1065353216">Whatever you're doing, it's paying off. The mercs have pulled back--the landing zone's all ours.</text>
+		<text bitflag="1345" id1="1009537" id2="17" version="1065353216">Dig in and be ready, in case they come back.</text>
+		<text bitflag="1360" id1="1009537" id2="17" version="1065353216">Hold your position.</text>
+		<text bitflag="1345" id1="1009538" id2="17" version="1065353216">Take the battle to them. Chase that scum off the nearest cliff.</text>
+		<text bitflag="1360" id1="1009538" id2="17" version="1065353216">Pursue and destroy.</text>
+		<text bitflag="1345" id1="1009539" id2="17" version="1065353216">Understood. We'll keep listening to the mercs bellyache, too. Might learn something we can use. Keep up the pressure!</text>
+		<text bitflag="1345" id1="1009545" id2="17" version="1065353216">Red Team, come in. This is Vice Commandant Grevin. We scanned heavy fire in your zone. Status report.</text>
+		<text bitflag="1360" id1="1009546" id2="17" version="1065353216">Let Lemda go free.</text>
+		<text bitflag="1345" id1="1009548" id2="17" version="1065353216">You kidnapped a harmless scientist. If you want to avoid another fight, let her go.</text>
+		<text bitflag="1345" id1="1009549" id2="17" version="1065353216">We didn't kidnap anyone, Jedi. We arrested a subversive.</text>
+		<text bitflag="1345" id1="1009551" id2="17" version="1065353216">Your men chose fighting over negotiating. Be reasonable and free the geophysicist.</text>
+		<text bitflag="1345" id1="1009552" id2="17" version="1065353216">You have no authority here, Jedi. That girl is our legal prisoner.</text>
+		<text bitflag="1345" id1="1009554" id2="17" version="1065353216">The battle's over. Your team lost. Hand over the scientist you captured.</text>
+		<text bitflag="1345" id1="1009555" id2="17" version="1065353216">Save it, soldier. I have a legal arrest warrant for Lemda Avesta, signed by the Hutt Cartel leaders.</text>
+		<text bitflag="1345" id1="1009557" id2="17" version="1065353216">Everything's jolly. Give up the lady scientist, and it'll stay that way.</text>
+		<text bitflag="1345" id1="1009558" id2="17" version="1065353216">The girl's charged with treason against Makeb's rightful government. You just proved her guilty.</text>
+		<text bitflag="1345" id1="1009560" id2="17" version="1065353216">That's a real fancy title, Grevin. Did you make it up yourself?</text>
+		<text bitflag="1360" id1="1009560" id2="17" version="1065353216">Who are you, scum?</text>
+		<text bitflag="1345" id1="1009561" id2="17" version="1065353216">I command Regulator forces on this whole hemisphere. You've got two choices: surrender now, or die.</text>
+		<text bitflag="1345" id1="1009563" id2="17" version="1065353216">Start running now. You might get out alive.</text>
+		<text bitflag="1360" id1="1009563" id2="17" version="1065353216">You're going to die.</text>
+		<text bitflag="1345" id1="1009564" id2="17" version="1065353216">You're outnumbered by troops who have run ops in thirty systems. Our victory rate is one hundred percent.</text>
+		<text bitflag="1345" id1="1009566" id2="17" version="1065353216">You got lucky this time. It won't happen again.</text>
+		<text bitflag="1345" id1="1048516" id2="17" version="1065353216">Blast! Is this stupid thing working? Hello? Hello!</text>
+	</file_content>
+</stb_file>

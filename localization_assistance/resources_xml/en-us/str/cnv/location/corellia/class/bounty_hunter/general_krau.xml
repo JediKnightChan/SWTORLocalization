@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>50</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/bounty_hunter/general_krau.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="493328" id2="17" version="1065353216">Um, hello?</text>
+		<text bitflag="1345" id1="493330" id2="17" version="1065353216">Warm welcome.</text>
+		<text bitflag="1345" id1="493332" id2="17" version="1065353216">What're you lookin' at?</text>
+		<text bitflag="1345" id1="493334" id2="17" version="1065353216">What?</text>
+		<text bitflag="1345" id1="493336" id2="17" version="1065353216">Friendly.</text>
+		<text bitflag="1345" id1="493340" id2="17" version="1065353216">At ease, they're here at our lord's request.</text>
+		<text bitflag="1345" id1="493342" id2="17" version="1065353216">At ease, he's here at our lord's request.</text>
+		<text bitflag="1345" id1="493344" id2="17" version="1065353216">At ease, she's here at our lord's request.</text>
+		<text bitflag="1345" id1="493346" id2="17" version="1065353216">Let's get on with this, bounty hunter. I've troops to deploy.</text>
+		<text bitflag="1345" id1="493348" id2="17" version="1065353216">Darth Tormen demands that I dispatch you to capture Chairman Harlon Fane of the Corellian Corporate Council.</text>
+		<text bitflag="1345" id1="493349" id2="17" version="1065353216">Where can I find Chairman Fane?</text>
+		<text bitflag="1360" id1="493349" id2="17" version="1065353216">Just point the way.</text>
+		<text bitflag="1345" id1="493350" id2="17" version="1065353216">They some kind of governing body?</text>
+		<text bitflag="1360" id1="493350" id2="17" version="1065353216">What is the Corporate Council?</text>
+		<text bitflag="1345" id1="493351" id2="17" version="1065353216">The council is the political face of the business sector, representing every major corporation operating in the Corellian system.</text>
+		<text bitflag="1345" id1="493353" id2="17" version="1065353216">What's Tormen's interest in a corporate fat cat?</text>
+		<text bitflag="1360" id1="493353" id2="17" version="1065353216">I thought I was after rebels.</text>
+		<text bitflag="1345" id1="493354" id2="17" version="1065353216">Harlon Fane is the face of the Corporate Council. His presence at the treaty signing is vital to Darth Tormen's plans.</text>
+		<text bitflag="1345" id1="493356" id2="17" version="1065353216">Fane and the other representatives have locked themselves up in their council tower in defiance of Imperial rule.</text>
+		<text bitflag="1345" id1="493358" id2="17" version="1065353216">His exact location isn't known, but it is likely that he and the other senior representatives are holed up in the tower's upper executive offices.</text>
+		<text bitflag="1345" id1="493359" id2="17" version="1065353216">Get me a shuttle and I'll take things from the top.</text>
+		<text bitflag="1360" id1="493359" id2="17" version="1065353216">Drop me on the roof.</text>
+		<text bitflag="1345" id1="493360" id2="17" version="1065353216">The anti-aircraft coverage over Incorporation Island would atomize you immediately. Ground assault is the only option.</text>
+		<text bitflag="1345" id1="493362" id2="17" version="1065353216">I imagine there's more than a few locked doors involved.</text>
+		<text bitflag="1360" id1="493362" id2="17" version="1065353216">Where's the challenge?</text>
+		<text bitflag="1345" id1="493363" id2="17" version="1065353216">Weapon emplacements, prototype droids and a private security force of ex-military contractors armed with the best equipment money can't buy.</text>
+		<text bitflag="1345" id1="493365" id2="17" version="1065353216">These other reps worth anything to you?</text>
+		<text bitflag="1360" id1="493365" id2="17" version="1065353216">Targets of opportunity?</text>
+		<text bitflag="1345" id1="493366" id2="17" version="1065353216">If you are able to capture other members of the Corporate Council, do so, but Chairman Fane is the absolute priority.</text>
+		<text bitflag="1345" id1="493368" id2="17" version="1065353216">Resistance will be heavy, but the council tower has several structural weaknesses we can exploit.</text>
+		<text bitflag="1345" id1="493370" id2="17" version="1065353216">The only thing stopping you from accessing the tower through the main lobby is sheer manpower.</text>
+		<text bitflag="1345" id1="493371" id2="17" version="1065353216">I hope you're not suggesting I take the stairs.</text>
+		<text bitflag="1360" id1="493371" id2="17" version="1065353216">That's a long hike to the top.</text>
+		<text bitflag="1345" id1="493372" id2="17" version="1065353216">For now, you have another option.</text>
+		<text bitflag="1345" id1="493374" id2="17" version="1065353216">I'll expect a warm welcome.</text>
+		<text bitflag="1360" id1="493374" id2="17" version="1065353216">The more, the merrier.</text>
+		<text bitflag="1345" id1="493375" id2="17" version="1065353216">You'll have their undivided attention. I hope you're prepared for it.</text>
+		<text bitflag="1345" id1="493377" id2="17" version="1065353216">So what you mean is nothing's preventing me from accessing the tower.</text>
+		<text bitflag="1360" id1="493377" id2="17" version="1065353216">Guards aren't an obstacle.</text>
+		<text bitflag="1345" id1="493378" id2="17" version="1065353216">If battling heavily entrenched soldiers one flight of stairs at a time is no trouble, be my guest.</text>
+		<text bitflag="1345" id1="493380" id2="17" version="1065353216">The executive suites have a private lift that will bypass most of the intervening levels. It'll require an access key used by senior staff.</text>
+		<text bitflag="1345" id1="493382" id2="17" version="1065353216">Also, unless you'd like to be trapped inside a lift shaft, you'll need to attack the tower's security center and disable their lift override controls.</text>
+		<text bitflag="1345" id1="493383" id2="17" version="1065353216">If there's nothing else, General, I'd like to get started.</text>
+		<text bitflag="1360" id1="493383" id2="17" version="1065353216">That everything?</text>
+		<text bitflag="1345" id1="493384" id2="17" version="1065353216">Solid plan, General. I've got it from here.</text>
+		<text bitflag="1360" id1="493384" id2="17" version="1065353216">Thanks for the advice.</text>
+		<text bitflag="1345" id1="493385" id2="17" version="1065353216">Once those objectives have been completed, you should have a straight shot to the upper levels.</text>
+		<text bitflag="1360" id1="493387" id2="17" version="1065353216">Doesn't sound complicated.</text>
+		<text bitflag="1345" id1="493388" id2="17" version="1065353216">Hope so, no one will be coming to your rescue.</text>
+		<text bitflag="1345" id1="493390" id2="17" version="1065353216">And remember, you're to deliver Chairman Fane alive and intact. Dismissed.</text>
+	</file_content>
+</stb_file>

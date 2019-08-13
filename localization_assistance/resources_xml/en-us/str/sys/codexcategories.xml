@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/sys/codexcategories.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1002" id2="194680" version="1065353216">Locations</text>
+		<text bitflag="1345" id1="2002" id2="194680" version="1065353216">Species</text>
+		<text bitflag="1345" id1="3002" id2="194680" version="1065353216">Achievement: Datacrons</text>
+		<text bitflag="1345" id1="4002" id2="194680" version="1065353216">Bestiary</text>
+		<text bitflag="1345" id1="5002" id2="194680" version="1065353216">Organizations</text>
+		<text bitflag="1345" id1="5015" id2="194680" version="1065353216">Colors</text>
+		<text bitflag="1345" id1="6002" id2="194680" version="1065353216">Lore</text>
+		<text bitflag="1345" id1="7002" id2="194680" version="1065353216">Persons of Note</text>
+		<text bitflag="1345" id1="8002" id2="194680" version="1065353216">Ships</text>
+		<text bitflag="1345" id1="8015" id2="194680" version="1065353216">Planets</text>
+		<text bitflag="1345" id1="9002" id2="194680" version="1065353216">Crew Skills</text>
+		<text bitflag="321" id1="15017" id2="194680" version="1065353216">Achievement: Epic Enemies</text>
+		<text bitflag="321" id1="15018" id2="194680" version="1065353216">Achievement: Titles</text>
+		<text bitflag="321" id1="15019" id2="194680" version="1065353216">Game Rules</text>
+		<text bitflag="321" id1="15022" id2="194680" version="1065353216">Achievement: PvP</text>
+		<text bitflag="321" id1="15024" id2="194680" version="1065353216">Events</text>
+		<text bitflag="321" id1="15025" id2="194680" version="1065353216">Achievement: Space</text>
+		<text bitflag="321" id1="15027" id2="194680" version="1065353216">Lost Knowledge</text>
+		<text bitflag="321" id1="15028" id2="194680" version="1065353216">Blood Hunt</text>
+	</file_content>
+</stb_file>

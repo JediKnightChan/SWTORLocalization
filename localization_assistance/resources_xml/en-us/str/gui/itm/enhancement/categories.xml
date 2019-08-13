@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/gui/itm/enhancement/categories.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1" id2="273212" version="1065353216">None</text>
+		<text bitflag="1345" id1="2" id2="273212" version="1065353216">Lightsaber, Double-Bladed Lightsaber</text>
+		<text bitflag="1345" id1="3" id2="273212" version="1065353216">Head, Chest, Legs, Hands, Feet, Wrists, Waist</text>
+		<text bitflag="1345" id1="4" id2="273212" version="1065353216">Pistol, Rifle, Sniper, Assault Cannon</text>
+		<text bitflag="1345" id1="5" id2="273212" version="1065353216">Vibroblade, Electrostaff</text>
+		<text bitflag="1345" id1="6" id2="273212" version="1065353216">Miscellaneous Items</text>
+	</file_content>
+</stb_file>

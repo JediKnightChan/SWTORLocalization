@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>80</strs>
+		<file_name>/resources/en-us/str/cnv/location/ord_mantell/world/mercy/yael.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="628495" id2="17" version="1065353216">I'm sorry--I can't talk right now.</text>
+		<text bitflag="1345" id1="628498" id2="17" version="1065353216">You--you came back. Do you have the medicine?</text>
+		<text bitflag="1345" id1="628499" id2="17" version="1065353216">That's every last medkit--seems the separatists didn't live long enough to make much use of them.</text>
+		<text bitflag="1360" id1="628499" id2="17" version="1065353216">Here you go.</text>
+		<text bitflag="1345" id1="628500" id2="17" version="1065353216">This is going to make a huge difference. Really, it's nice to find someone with a good heart here on Ord Mantell. Thank you.</text>
+		<text bitflag="1345" id1="628502" id2="17" version="1065353216">I was starting to lose faith that there were any good people left.</text>
+		<text bitflag="1360" id1="628503" id2="17" version="1065353216">It was nothing.</text>
+		<text bitflag="1345" id1="628504" id2="17" version="1065353216">A little bit goes a long way.</text>
+		<text bitflag="1345" id1="628506" id2="17" version="1065353216">There are still lots of good people in the galaxy.</text>
+		<text bitflag="1360" id1="628506" id2="17" version="1065353216">Don't give up hope.</text>
+		<text bitflag="1345" id1="628507" id2="17" version="1065353216">Maybe. It just seems like there aren't very many on Ord Mantell, I guess.</text>
+		<text bitflag="1345" id1="628509" id2="17" version="1065353216">I know. We're a rare breed.</text>
+		<text bitflag="1360" id1="628509" id2="17" version="1065353216">I am special.</text>
+		<text bitflag="1345" id1="628510" id2="17" version="1065353216">Uh, right.</text>
+		<text bitflag="1345" id1="628512" id2="17" version="1065353216">Thank you again.</text>
+		<text bitflag="1345" id1="628514" id2="17" version="1065353216">Uh, no, not yet. But you'll be the first to know when I do.</text>
+		<text bitflag="1360" id1="628514" id2="17" version="1065353216">[Lie] Not yet.</text>
+		<text bitflag="1345" id1="628515" id2="17" version="1065353216">Please hurry. This is a matter of life and death!</text>
+		<text bitflag="1345" id1="628517" id2="17" version="1065353216">I know, Ryso. We're all hurting, but it's going to be okay.</text>
+		<text bitflag="1345" id1="628518" id2="17" version="1065353216">I'm sorry, Ryso. I don't have any medicine for you today.</text>
+		<text bitflag="1345" id1="628520" id2="17" version="1065353216">It hurts!</text>
+		<text bitflag="1345" id1="628522" id2="17" version="1065353216">I know, but there's nothing I can do right now. I'm sorry, honey.</text>
+		<text bitflag="1345" id1="628524" id2="17" version="1065353216">Hi. Sorry, I didn't mean to ignore you, it's just crazy around here right now. What brings you to the camp?</text>
+		<text bitflag="1345" id1="628525" id2="17" version="1065353216">Someone stole some medicine. I'm looking for the thief.</text>
+		<text bitflag="1360" id1="628525" id2="17" version="1065353216">Thief hunting.</text>
+		<text bitflag="1345" id1="628526" id2="17" version="1065353216">We're looking for some medicine that was stolen from the fort. You wouldn't happen to know anything about that, would you?</text>
+		<text bitflag="1360" id1="628526" id2="17" version="1065353216">Republic business.</text>
+		<text bitflag="1345" id1="628527" id2="17" version="1065353216">Just doing what we all do, working for credits. Today's job: medicine retrieval and delivery.</text>
+		<text bitflag="1360" id1="628527" id2="17" version="1065353216">Making money.</text>
+		<text bitflag="1345" id1="628528" id2="17" version="1065353216">I work as a Republic doctor up in Fort Garnik, and we have an unexpected shortage of medicine.</text>
+		<text bitflag="1360" id1="628528" id2="17" version="1065353216">[Lie] I'm a doctor.</text>
+		<text bitflag="1345" id1="628529" id2="17" version="1065353216">You don't look much like a doctor. Can I see some credentials?</text>
+		<text bitflag="1345" id1="628530" id2="17" version="1065353216">Just let me get them. I know they're in here somewhere.</text>
+		<text bitflag="1360" id1="628530" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="628531" id2="17" version="1065353216">I serve the Republic, ma'am. I don't need credentials.</text>
+		<text bitflag="1360" id1="628531" id2="17" version="1065353216">I'm a Republic soldier.</text>
+		<text bitflag="1345" id1="628532" id2="17" version="1065353216">Credentials? Well, that's a funny story, see. Shortly after I landed here, my ship was stolen and my credentials were on board. So....</text>
+		<text bitflag="1360" id1="628532" id2="17" version="1065353216">They were in my ship.</text>
+		<text bitflag="1345" id1="628533" id2="17" version="1065353216">Nevermind, I know the real reason you're here. The sleeping guard sent you... yeah, I took the medicine.</text>
+		<text bitflag="1345" id1="628535" id2="17" version="1065353216">I'm looking for stolen medicine.</text>
+		<text bitflag="1360" id1="628535" id2="17" version="1065353216">I'll be honest with you.</text>
+		<text bitflag="1345" id1="628536" id2="17" version="1065353216">Ah, the sleeping guard must have sent you. Yeah, I saw the guard sleeping at his post--and I took the medicine, too.</text>
+		<text bitflag="1345" id1="628538" id2="17" version="1065353216">It's no use trying to cover it up. See, I took the supplies to help the refugees. More and more of them are dying everyday. The Republic won't help.</text>
+		<text bitflag="1345" id1="628540" id2="17" version="1065353216">So when I saw the guard sleeping, I helped myself, but then the separatists took the medicine from me. Now they have it, and we don't.</text>
+		<text bitflag="1360" id1="628543" id2="17" version="1065353216">What now?</text>
+		<text bitflag="1345" id1="628544" id2="17" version="1065353216">I'm not sure. See, I can tell you where the separatists went, but I need to know that you'll bring the medicine to me.</text>
+		<text bitflag="1360" id1="628546" id2="17" version="1065353216">Fantastic.</text>
+		<text bitflag="1345" id1="628547" id2="17" version="1065353216">Hey, look, I--I didn't start this war. I didn't leave these kids orphaned. I'm just trying to make the best of it.</text>
+		<text bitflag="1345" id1="628549" id2="17" version="1065353216">So the thief got a taste of her own, er, medicine.</text>
+		<text bitflag="1360" id1="628549" id2="17" version="1065353216">What comes around....</text>
+		<text bitflag="1345" id1="628550" id2="17" version="1065353216">Haha. Funny.</text>
+		<text bitflag="1345" id1="628552" id2="17" version="1065353216">So here's the deal: You agree to bring the supplies to me so I can give them to the refugees, and I'll tell you which way the separatists went.</text>
+		<text bitflag="1345" id1="628554" id2="17" version="1065353216">Unless, of course, you'd rather the separatists keep the medicine.</text>
+		<text bitflag="1360" id1="628555" id2="17" version="1065353216">You wouldn't.</text>
+		<text bitflag="1345" id1="628556" id2="17" version="1065353216">This isn't a game. I'm serious.</text>
+		<text bitflag="1360" id1="628558" id2="17" version="1065353216">What's in it for me?</text>
+		<text bitflag="1345" id1="628559" id2="17" version="1065353216">If I could pay you to bring the medicine back, I wouldn't have stolen it in the first place.</text>
+		<text bitflag="1345" id1="628561" id2="17" version="1065353216">How about you tell me where they went and I don't kill you?</text>
+		<text bitflag="1360" id1="628561" id2="17" version="1065353216">Don't make this hard.</text>
+		<text bitflag="1345" id1="628562" id2="17" version="1065353216">I told you--your threats will have no effect on me.</text>
+		<text bitflag="1345" id1="628564" id2="17" version="1065353216">I'm tired of being bullied because I don't carry a gun. If the war doesn't drive people out of their homes, the soldiers come and extort money out of them.</text>
+		<text bitflag="1345" id1="628566" id2="17" version="1065353216">Sometimes, someone's driven out only to be robbed--&quot;taxed,&quot; they call it--on the way here. But they won't suffer for lack of medicine. Not if I can help it.</text>
+		<text bitflag="1345" id1="628567" id2="17" version="1065353216">I'll bring you the medicine.</text>
+		<text bitflag="1360" id1="628567" id2="17" version="1065353216">Okay, you win.</text>
+		<text bitflag="1345" id1="628568" id2="17" version="1065353216">Sorry for the guilt trip, but I hope you realize you're doing the right thing. Ryso here, at least, will be grateful.</text>
+		<text bitflag="1345" id1="628570" id2="17" version="1065353216">The separatists fled to Talloran village. Please hurry, there are people here in critical condition.</text>
+		<text bitflag="1360" id1="628571" id2="17" version="1065353216">Be right back.</text>
+		<text bitflag="1360" id1="628572" id2="17" version="1065353216">This should be easy.</text>
+		<text bitflag="1345" id1="628573" id2="17" version="1065353216">Good. I look forward to your arrival. Thank you.</text>
+		<text bitflag="1360" id1="628574" id2="17" version="1065353216">Let's get this over with.</text>
+		<text bitflag="1345" id1="628575" id2="17" version="1065353216">I'll take what I can get.</text>
+		<text bitflag="1345" id1="628576" id2="17" version="1065353216">Tell me where the medicine is or the kid dies.</text>
+		<text bitflag="1360" id1="628576" id2="17" version="1065353216">No deal. [Threaten the child]</text>
+		<text bitflag="1345" id1="628577" id2="17" version="1065353216">Damn you, you butchers.</text>
+		<text bitflag="1345" id1="628579" id2="17" version="1065353216">Fine. The separatists who ambushed me fled to Talloran village. They usually gather at the town center. Have the damn medicine.</text>
+		<text bitflag="1360" id1="628580" id2="17" version="1065353216">Thanks.</text>
+		<text bitflag="1360" id1="628581" id2="17" version="1065353216">You did the right thing.</text>
+		<text bitflag="1360" id1="628582" id2="17" version="1065353216">I did what I had to.</text>
+		<text bitflag="1345" id1="628583" id2="17" version="1065353216">Just get out of here. You've caused enough trouble.</text>
+		<text bitflag="1345" id1="628585" id2="17" version="1065353216">How can the Republic expect us to get by with so few supplies?</text>
+	</file_content>
+</stb_file>

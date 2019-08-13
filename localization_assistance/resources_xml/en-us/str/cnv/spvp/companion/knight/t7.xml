@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>48</strs>
+		<file_name>/resources/en-us/str/cnv/spvp/companion/knight/t7.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1121055" id2="17" version="1065353216">Enemy systems = damaged</text>
+		<text bitflag="3393" id1="1121056" id2="17" version="1065353216">Accuracy = impressive!</text>
+		<text bitflag="3393" id1="1121057" id2="17" version="1065353216">Precision strike = achieved</text>
+		<text bitflag="3393" id1="1121059" id2="17" version="1065353216">Primary weapons = malfunctioning!</text>
+		<text bitflag="3393" id1="1121061" id2="17" version="1065353216">Secondary weapons = damaged!</text>
+		<text bitflag="3393" id1="1121063" id2="17" version="1065353216">Auxiliary systems = crippled!</text>
+		<text bitflag="3393" id1="1121065" id2="17" version="1065353216">Defensive systems = damaged!</text>
+		<text bitflag="3393" id1="1121067" id2="17" version="1065353216">Tactical subsystems + enemy attack = functionality lost</text>
+		<text bitflag="3393" id1="1121069" id2="17" version="1065353216">Engine output = reduced!</text>
+		<text bitflag="3393" id1="1121071" id2="17" version="1065353216">Enemy = destroyed</text>
+		<text bitflag="3393" id1="1121072" id2="17" version="1065353216">Target = shot down</text>
+		<text bitflag="3393" id1="1121073" id2="17" version="1065353216">Hostile ship = space dust</text>
+		<text bitflag="3393" id1="1121075" id2="17" version="1065353216">Enemy fire = hit!</text>
+		<text bitflag="3393" id1="1121076" id2="17" version="1065353216">Enemy = attacking us!</text>
+		<text bitflag="3393" id1="1121077" id2="17" version="1065353216">External damage = detected</text>
+		<text bitflag="3393" id1="1121079" id2="17" version="1065353216">T7 = on it!</text>
+		<text bitflag="3393" id1="1121081" id2="17" version="1065353216">Disabled enemy = easy victory</text>
+		<text bitflag="3393" id1="1121083" id2="17" version="1065353216">Teamwork = victory!</text>
+		<text bitflag="3393" id1="1121085" id2="17" version="1065353216">Enemy = going down!</text>
+		<text bitflag="3393" id1="1121087" id2="17" version="1065353216">Shields = failing!</text>
+		<text bitflag="3393" id1="1121088" id2="17" version="1065353216">Shield failure = imminent + bad</text>
+		<text bitflag="3393" id1="1121089" id2="17" version="1065353216">Enemy fire = overwhelming shields!</text>
+		<text bitflag="3393" id1="1121091" id2="17" version="1065353216">Hull = compromised!</text>
+		<text bitflag="3393" id1="1121092" id2="17" version="1065353216">Crash = imminent!</text>
+		<text bitflag="3393" id1="1121093" id2="17" version="1065353216">Damage = extensive // T7 = long repair list</text>
+		<text bitflag="3393" id1="1121095" id2="17" version="1065353216">Enemy missile = detected!</text>
+		<text bitflag="3393" id1="1121096" id2="17" version="1065353216">Missile = incoming!</text>
+		<text bitflag="3393" id1="1121097" id2="17" version="1065353216">Enemy missiles = bad for ship</text>
+		<text bitflag="3393" id1="1121099" id2="17" version="1065353216">Missiles = locked on enemy!</text>
+		<text bitflag="3393" id1="1121100" id2="17" version="1065353216">Missile lock = confirmed // T7 = ready to fire!</text>
+		<text bitflag="3393" id1="1121101" id2="17" version="1065353216">Missiles = locked on // Enemy = toast</text>
+		<text bitflag="3393" id1="1121103" id2="17" version="1065353216">Enemy missile lock = watch out!</text>
+		<text bitflag="3393" id1="1121104" id2="17" version="1065353216">Enemy missiles = locked on!</text>
+		<text bitflag="3393" id1="1121105" id2="17" version="1065353216">Evasion = recommended</text>
+		<text bitflag="3393" id1="1121107" id2="17" version="1065353216">Piloting skills = excellent!</text>
+		<text bitflag="3393" id1="1121109" id2="17" version="1065353216">T7 = very impressed!</text>
+		<text bitflag="3393" id1="1121111" id2="17" version="1065353216">Victory = certain!</text>
+		<text bitflag="3393" id1="1121113" id2="17" version="1065353216">Enemy ship = out to get us!</text>
+		<text bitflag="3393" id1="1121115" id2="17" version="1065353216">Problem = solved</text>
+		<text bitflag="3393" id1="1121117" id2="17" version="1065353216">Enemy frustration level = high</text>
+		<text bitflag="3393" id1="1121119" id2="17" version="1065353216">Stealth systems = disrupted!</text>
+		<text bitflag="3393" id1="1121121" id2="17" version="1065353216">T7 stabilizers = active!</text>
+		<text bitflag="3393" id1="1121123" id2="17" version="1065353216">Trajectory change = impressive</text>
+		<text bitflag="3393" id1="1121125" id2="17" version="1065353216">Maneuvering thrusters = full power!</text>
+		<text bitflag="3393" id1="1121127" id2="17" version="1065353216">Enemy = no chance of keeping up</text>
+		<text bitflag="3393" id1="1121129" id2="17" version="1065353216">T7 = ready to go!</text>
+		<text bitflag="3393" id1="1124432" id2="17" version="1065353216">T7 + ship = in good hands</text>
+		<text bitflag="3393" id1="1124433" id2="17" version="1065353216">Odds of success = substantially improved!</text>
+	</file_content>
+</stb_file>

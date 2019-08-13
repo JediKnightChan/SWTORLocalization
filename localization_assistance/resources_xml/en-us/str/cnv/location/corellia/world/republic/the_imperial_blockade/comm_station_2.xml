@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/world/republic/the_imperial_blockade/comm_station_2.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="495550" id2="17" version="1065353216">This place is a maze. I could use some local help.</text>
+		<text bitflag="1360" id1="495550" id2="17" version="1065353216">CorSec officers.</text>
+		<text bitflag="1345" id1="690405" id2="17" version="1065353216">Contacting Captain Cantarus. CorSec is tracking you now.</text>
+	</file_content>
+</stb_file>

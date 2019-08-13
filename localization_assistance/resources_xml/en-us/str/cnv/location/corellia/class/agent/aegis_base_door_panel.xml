@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>24</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/agent/aegis_base_door_panel.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="478288" id2="17" version="1065353216">--respond? Adjust frequency to match.</text>
+		<text bitflag="1345" id1="478289" id2="17" version="1065353216">You keep trying to contact me. Who is this?</text>
+		<text bitflag="1345" id1="478290" id2="17" version="1065353216">I'm a friend.</text>
+		<text bitflag="1345" id1="478292" id2="17" version="1065353216">The invisible enemy is still out there. We still need you to stop them.</text>
+		<text bitflag="1345" id1="478293" id2="17" version="1065353216">Talk to me. What's your plan?</text>
+		<text bitflag="1360" id1="478293" id2="17" version="1065353216">I'm listening.</text>
+		<text bitflag="1345" id1="478294" id2="17" version="1065353216">There is no &quot;invisible enemy,&quot; and you're not my friend.</text>
+		<text bitflag="1360" id1="478294" id2="17" version="1065353216">I don't know what you mean.</text>
+		<text bitflag="1345" id1="478295" id2="17" version="1065353216">I can't call them by their name. They monitor all channels, flag combinations in every language, but listen to me:</text>
+		<text bitflag="1345" id1="478297" id2="17" version="1065353216">If you're my friend, give me your name.</text>
+		<text bitflag="1360" id1="478297" id2="17" version="1065353216">Sorry, but answers come first.</text>
+		<text bitflag="1345" id1="478298" id2="17" version="1065353216">They monitor all channels. Even this call is a risk, but listen to me:</text>
+		<text bitflag="1345" id1="478300" id2="17" version="1065353216">Aegis Base maintains a secure linkup to Republic headquarters on Corellia.</text>
+		<text bitflag="1345" id1="478302" id2="17" version="1065353216">Go to the terminal and give me access--we need data on Republic troop reinforcements.</text>
+		<text bitflag="1345" id1="478303" id2="17" version="1065353216">Send me coordinates if you have them. I'll take a look.</text>
+		<text bitflag="1360" id1="478303" id2="17" version="1065353216">I'll see what I can do.</text>
+		<text bitflag="1345" id1="478304" id2="17" version="1065353216">Coordinates sent.</text>
+		<text bitflag="1345" id1="478306" id2="17" version="1065353216">What does troop data have to do with anything?</text>
+		<text bitflag="1360" id1="478306" id2="17" version="1065353216">Troop reinforcements? Why?</text>
+		<text bitflag="1345" id1="478307" id2="17" version="1065353216">If I'm right, it will help clarify the pattern. If I'm wrong, you can give the data to Lord Razer and the Moffs.</text>
+		<text bitflag="1345" id1="478309" id2="17" version="1065353216">Why should I give you that kind of access?</text>
+		<text bitflag="1360" id1="478309" id2="17" version="1065353216">I don't trust you.</text>
+		<text bitflag="1345" id1="478310" id2="17" version="1065353216">You can watch everything I do and pull the plug at any time. You can even give the data to Lord Razer.</text>
+		<text bitflag="1345" id1="478312" id2="17" version="1065353216">Be careful, Cipher. I'll be watching.</text>
+	</file_content>
+</stb_file>

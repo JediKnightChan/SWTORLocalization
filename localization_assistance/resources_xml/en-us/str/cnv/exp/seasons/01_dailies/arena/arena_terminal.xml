@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/01_dailies/arena/arena_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1196808" id2="17" version="1065353216">Enter Mayhem at the Arena Grand as a solo contender and battle for your chance to claim the Eternal Championship.</text>
+		<text bitflag="1345" id1="1197688" id2="17" version="1065353216">Enter Mayhem at the Arena Grand with the option of bringing along a group and battle for your chance to claim the Eternal Championship.</text>
+		<text bitflag="1345" id1="1201108" id2="17" version="1065353216">Defeat Supreme Vindicator Lanos during round 5 of Mayhem at the Arena Grand.
+
+NOTE: This mission can only be completed while on [Solo] The Eternal Championship</text>
+		<text bitflag="1345" id1="1201109" id2="17" version="1065353216">Defeat Nocturno and Drake Raven during round 7 of Mayhem at the Arena Grand.
+
+NOTE: This mission can only be completed while on [Solo] The Eternal Championship</text>
+		<text bitflag="1345" id1="1201110" id2="17" version="1065353216">Defeat Eternal Champion Zotar during round 10 of Mayhem at the Arena Grand.
+
+NOTE: This mission can only be completed while on [Solo] The Eternal Championship</text>
+	</file_content>
+</stb_file>

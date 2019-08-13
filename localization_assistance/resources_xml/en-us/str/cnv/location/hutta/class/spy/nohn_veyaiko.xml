@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>75</strs>
+		<file_name>/resources/en-us/str/cnv/location/hutta/class/spy/nohn_veyaiko.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="664987" id2="17" version="1065353216">So, Nem'ro's little servants are here to raid the archives.</text>
+		<text bitflag="3393" id1="664989" id2="17" version="1065353216">A pity. If you'd raided the armory instead, you might have a chance of surviving.</text>
+		<text bitflag="1345" id1="664991" id2="17" version="1065353216">Hello, Nohn. What brings you down here? Fa'athra finally order you to check out the shooting?</text>
+		<text bitflag="3393" id1="664993" id2="17" version="1065353216">You misunderstand. While lowly thugs sapped your strength, I waited with these men--</text>
+		<text bitflag="1345" id1="664997" id2="17" version="1065353216">I like that about you, Nohn. You only bet on a sure thing.</text>
+		<text bitflag="3393" id1="664999" id2="17" version="1065353216">I like much about you, too. I am sorry the Hutts came between us. The Hutts--and Mistress Blade here, I presume.</text>
+		<text bitflag="3393" id1="665000" id2="17" version="1065353216">I like much about you, too. I am sorry the Hutts came between us. The Hutts--and Master Blade here, I presume.</text>
+		<text bitflag="1345" id1="665001" id2="17" version="1065353216">I take it you two know each other?</text>
+		<text bitflag="1360" id1="665001" id2="17" version="1065353216">You've met before?</text>
+		<text bitflag="1345" id1="665002" id2="17" version="1065353216">No need for formality--really. Just &quot;Blade&quot; is fine.</text>
+		<text bitflag="1360" id1="665002" id2="17" version="1065353216">Let's keep it casual.</text>
+		<text bitflag="3393" id1="665003" id2="17" version="1065353216">I see. It is a pleasure to meet you, then, Blade. I am Nohn Veyaiko, one of Fa'athra's most trusted lieutenants.</text>
+		<text bitflag="1345" id1="665005" id2="17" version="1065353216">Nohn wanted me for himself when I got to Hutta. He couldn't afford me.</text>
+		<text bitflag="3393" id1="665007" id2="17" version="1065353216">Unfortunately, she refused to join with Fa'athra--so now both of you must die. I will make certain your heads are sent to your homeworlds.</text>
+		<text bitflag="1345" id1="665008" id2="17" version="1065353216">I'll tell you what--why don't we make a deal instead?</text>
+		<text bitflag="1360" id1="665008" id2="17" version="1065353216">Let's bargain.</text>
+		<text bitflag="3393" id1="665009" id2="17" version="1065353216">How generous. But Fa'athra pays me very well for my services. What could you possibly provide?</text>
+		<text bitflag="1345" id1="665011" id2="17" version="1065353216">You've got to be kidding. We can kill Nohn--even make it past his guards, if we're lucky.</text>
+		<text bitflag="1345" id1="665012" id2="17" version="1065353216">I'd rather not count on luck. If we can negotiate, let's negotiate.</text>
+		<text bitflag="1360" id1="665012" id2="17" version="1065353216">I'm not kidding.</text>
+		<text bitflag="1345" id1="665013" id2="17" version="1065353216">Work with me, Kaliyo. I want to resolve this peacefully, if possible.</text>
+		<text bitflag="1360" id1="665013" id2="17" version="1065353216">Are you going to help or not?</text>
+		<text bitflag="1345" id1="665014" id2="17" version="1065353216">Eh, fine.</text>
+		<text bitflag="1345" id1="665016" id2="17" version="1065353216">The Blade does have a point, Nohn. Fa'athra doesn't really trust you. Did he warn you he was going to kill Karrels Javis?</text>
+		<text bitflag="3393" id1="665018" id2="17" version="1065353216">Javis is dead? Interesting--but irrelevant. Fa'athra does not share all his plans with me.</text>
+		<text bitflag="1345" id1="665020" id2="17" version="1065353216">Don't be stupid. Fa'athra set you up to take the blame. He kills Karrels; Nem'ro kills... guess who?</text>
+		<text bitflag="3393" id1="665022" id2="17" version="1065353216">Fa'athra would never trade my life away in such a gambit!</text>
+		<text bitflag="1345" id1="665023" id2="17" version="1065353216">Would you bet your life on that?</text>
+		<text bitflag="1360" id1="665023" id2="17" version="1065353216">You sure?</text>
+		<text bitflag="3393" id1="665024" id2="17" version="1065353216">You may... you may have a point.</text>
+		<text bitflag="1345" id1="665026" id2="17" version="1065353216">Drag yourself over to Nem'ro, help him out, and the Hutt might spare you. Probably not, but he might.</text>
+		<text bitflag="1345" id1="665028" id2="17" version="1065353216">With Karrels Javis dead, Nem'ro's going to need a new advisor. Why not abandon Fa'athra and join the other side?</text>
+		<text bitflag="1360" id1="665028" id2="17" version="1065353216">Come work for Nem'ro.</text>
+		<text bitflag="3393" id1="665029" id2="17" version="1065353216">Intriguing. If you speak truly, Fa'athra has concealed much from me. Nem'ro might be a better master after all.</text>
+		<text bitflag="3393" id1="665031" id2="17" version="1065353216">I will give your proposal... due consideration. Perhaps it is best if I withdraw for now.</text>
+		<text bitflag="1345" id1="665032" id2="17" version="1065353216">You won't regret it.</text>
+		<text bitflag="1360" id1="665032" id2="17" version="1065353216">Excellent.</text>
+		<text bitflag="1345" id1="665033" id2="17" version="1065353216">I'm glad we could settle this. Nice meeting you, Nohn Veyaiko.</text>
+		<text bitflag="1360" id1="665033" id2="17" version="1065353216">A pleasure doing business.</text>
+		<text bitflag="1345" id1="665034" id2="17" version="1065353216">You're not leaving me any choice. If you won't bargain, we fight.</text>
+		<text bitflag="1360" id1="665034" id2="17" version="1065353216">Then I have to kill you.</text>
+		<text bitflag="3393" id1="665035" id2="17" version="1065353216">You will die now, Blade. Let the violence commence!</text>
+		<text bitflag="1345" id1="665036" id2="17" version="1065353216">Have it your way, Kaliyo--let's start this fight.</text>
+		<text bitflag="1360" id1="665036" id2="17" version="1065353216">Fine. [Attack]</text>
+		<text bitflag="3393" id1="665037" id2="17" version="1065353216">I agree. Let the violence commence!</text>
+		<text bitflag="1345" id1="665039" id2="17" version="1065353216">While we're making promises, I'll try not to step on your corpse.</text>
+		<text bitflag="1360" id1="665039" id2="17" version="1065353216">I'll still kill you.</text>
+		<text bitflag="3393" id1="665040" id2="17" version="1065353216">Your offer is most generous--but unnecessary. Please kill the Blade, men.</text>
+		<text bitflag="3393" id1="665042" id2="17" version="1065353216">I am Nohn Veyaiko, one of Fa'athra's most trusted lieutenants. These men are Fa'athra's elite. And you, Blade, have no chance of winning this fight.</text>
+		<text bitflag="1345" id1="665043" id2="17" version="1065353216">Why don't we make a deal?</text>
+		<text bitflag="1360" id1="665043" id2="17" version="1065353216">Maybe we can bargain.</text>
+		<text bitflag="3393" id1="665044" id2="17" version="1065353216">Because I am a loyal servant of Fa'athra. And because while you are weak from fighting through this palace, I am at the peak of my strength.</text>
+		<text bitflag="3393" id1="665046" id2="17" version="1065353216">Please kill the Blade, men.</text>
+		<text bitflag="1345" id1="665047" id2="17" version="1065353216">I've already marched across the swamps, fought Fa'athra's army of thugs and invaded your palace. You really think you can stop me now?</text>
+		<text bitflag="1360" id1="665047" id2="17" version="1065353216">You can't beat me.</text>
+		<text bitflag="3393" id1="665048" id2="17" version="1065353216">You are... confident, aren't you? Perhaps I should have waited longer before striking.</text>
+		<text bitflag="3393" id1="665050" id2="17" version="1065353216">I... propose a deal. I will turn my back on this scene and depart the archives, and you will not shoot me on your way out. I will mention none of this to Fa'athra.</text>
+		<text bitflag="1345" id1="665052" id2="17" version="1065353216">Hmm... aren't you forgetting something, Nohn? Seems like you're getting off light, and there was that game of pazaak we never finished....</text>
+		<text bitflag="3393" id1="665054" id2="17" version="1065353216">Ah, yes. I would... also be willing to transfer a sum of credits to your accounts. Old debts paid, and a symbol of my gratitude.</text>
+		<text bitflag="3393" id1="665055" id2="17" version="1065353216">I... propose a deal. I will turn my back on this scene and depart the archives, and you will not shoot me on your way out. I will mention none of this to Fa'athra.</text>
+		<text bitflag="1345" id1="665056" id2="17" version="1065353216">I'll accept those terms.</text>
+		<text bitflag="1360" id1="665056" id2="17" version="1065353216">All right.</text>
+		<text bitflag="1345" id1="665057" id2="17" version="1065353216">Just get out of here and don't cause me any trouble.</text>
+		<text bitflag="1360" id1="665057" id2="17" version="1065353216">Whatever.</text>
+		<text bitflag="3393" id1="665058" id2="17" version="1065353216">Come then, men. Let us leave the Blade to her work.</text>
+		<text bitflag="3393" id1="665059" id2="17" version="1065353216">Come then, men. Let us leave the Blade to his work.</text>
+		<text bitflag="1345" id1="665061" id2="17" version="1065353216">No deal. I can't let you walk away.</text>
+		<text bitflag="1360" id1="665061" id2="17" version="1065353216">I don't think so.</text>
+		<text bitflag="3393" id1="665062" id2="17" version="1065353216">We shall see if your luck holds, then. Let the violence commence!</text>
+		<text bitflag="1345" id1="665063" id2="17" version="1065353216">If you're with Fa'athra, you're dead. Simple as that.</text>
+		<text bitflag="1360" id1="665063" id2="17" version="1065353216">I'm not backing down.</text>
+		<text bitflag="3393" id1="665064" id2="17" version="1065353216">We shall see. Let the violence commence!</text>
+		<text bitflag="1345" id1="665068" id2="17" version="1065353216">I knew coming here would be a good time.</text>
+		<text bitflag="3393" id1="665071" id2="17" version="1065353216">A moment, please. I am otherwise engaged.</text>
+		<text bitflag="3393" id1="760190" id2="17" version="1065353216">Fa'athra's elite. Now, you are too weak to fight us.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>699</strs>
+		<file_name>/resources/en-us/str/cnv/location/companion_characters/jedi_consular/felix_iresso/felix_iresso.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="67674" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="67676" id2="17" version="1065353216">Got it.</text>
+		<text bitflag="1345" id1="502456" id2="17" version="1065353216">What's with the look? Is there something behind me?</text>
+		<text bitflag="1345" id1="502457" id2="17" version="1065353216">Nice armor, I know, but this staring thing's getting weird.</text>
+		<text bitflag="1345" id1="528318" id2="17" version="1065353216">Now we can talk without sub-zero wind in our ears--thank you.</text>
+		<text bitflag="1345" id1="528320" id2="17" version="1065353216">Not just for saving my guys. You got me out of Hoth. You have no idea how much I was starting to hate that planet.</text>
+		<text bitflag="1345" id1="528321" id2="17" version="1065353216">I hope you feel welcome here.</text>
+		<text bitflag="1360" id1="528321" id2="17" version="1065353216">It's not a problem.</text>
+		<text bitflag="1345" id1="528322" id2="17" version="1065353216">If your shower doesn't freeze solid halfway through, I like it here already.</text>
+		<text bitflag="1345" id1="528324" id2="17" version="1065353216">I found Hoth rather picturesque, actually.</text>
+		<text bitflag="1360" id1="528324" id2="17" version="1065353216">You didn't enjoy the scenery?</text>
+		<text bitflag="1345" id1="528325" id2="17" version="1065353216">Digging graves out there takes the bloom off, I'm afraid.</text>
+		<text bitflag="1345" id1="528327" id2="17" version="1065353216">There'll be plenty of opportunities for you to repay the favor.</text>
+		<text bitflag="1360" id1="528327" id2="17" version="1065353216">You'll pay me back.</text>
+		<text bitflag="1345" id1="528328" id2="17" version="1065353216">That, I will. Count on it.</text>
+		<text bitflag="1345" id1="528330" id2="17" version="1065353216">You know, I miss the rest of the unit already. Even Kree.</text>
+		<text bitflag="1345" id1="528332" id2="17" version="1065353216">But they're going home, and that's the important thing. They've earned it.</text>
+		<text bitflag="1360" id1="528333" id2="17" version="1065353216">Haven't you?</text>
+		<text bitflag="1345" id1="528336" id2="17" version="1065353216">You ever think about the future?</text>
+		<text bitflag="1345" id1="528338" id2="17" version="1065353216">I refuse to believe a Jedi doesn't have plans.</text>
+		<text bitflag="1345" id1="528339" id2="17" version="1065353216">There must be so much forgotten lore out there, waiting to be discovered.</text>
+		<text bitflag="1360" id1="528339" id2="17" version="1065353216">I'll expand my knowledge.</text>
+		<text bitflag="1345" id1="528340" id2="17" version="1065353216">Whatever my future, I'd like you to be in it.</text>
+		<text bitflag="1360" id1="528340" id2="17" version="1065353216">I want to stay with you.</text>
+		<text bitflag="1345" id1="528341" id2="17" version="1065353216">That could be arranged.</text>
+		<text bitflag="1345" id1="528343" id2="17" version="1065353216">What we have is so rare, we should make the most of it. Think about making... a real commitment to each other.</text>
+		<text bitflag="1345" id1="528344" id2="17" version="1065353216">What we call &quot;the future&quot; is countless threads of cause and consequence, waiting to come to fruition.</text>
+		<text bitflag="1360" id1="528344" id2="17" version="1065353216">The future is unknowable.</text>
+		<text bitflag="1345" id1="528345" id2="17" version="1065353216">I should have learned by now...</text>
+		<text bitflag="1345" id1="528347" id2="17" version="1065353216">I always try to think a few steps ahead. If you want things to turn out right, you've got to make it happen.</text>
+		<text bitflag="1345" id1="528349" id2="17" version="1065353216">That's what we're fighting for. People being free to make plans, and live however they want.</text>
+		<text bitflag="1345" id1="528351" id2="17" version="1065353216">Like, settling down somewhere, with their beautiful Jedi Master.</text>
+		<text bitflag="1345" id1="528352" id2="17" version="1065353216">I like the sound of this.</text>
+		<text bitflag="1360" id1="528352" id2="17" version="1065353216">Keep going.</text>
+		<text bitflag="1345" id1="528353" id2="17" version="1065353216">Are you proposing?</text>
+		<text bitflag="1360" id1="528353" id2="17" version="1065353216">You mean marriage?</text>
+		<text bitflag="1345" id1="528354" id2="17" version="1065353216">Yes. I am.</text>
+		<text bitflag="1345" id1="528356" id2="17" version="1065353216">I love you. I want to spend my life with you... if you'll have me.</text>
+		<text bitflag="1345" id1="528357" id2="17" version="1065353216">There's nothing I'd like more.</text>
+		<text bitflag="1360" id1="528357" id2="17" version="1065353216">Yes, I will.</text>
+		<text bitflag="1345" id1="528358" id2="17" version="1065353216">Then... then one day we'll have a huge ceremony. On Tython. Or wherever you'd like. And invite everyone.</text>
+		<text bitflag="1345" id1="528360" id2="17" version="1065353216">But for now, take my promise. I'm yours, Barsen'thor of the Jedi. Forever.</text>
+		<text bitflag="1345" id1="528361" id2="17" version="1065353216">May we always cherish each other, remembering the lives we now leave behind, and joyful for the life we begin together.</text>
+		<text bitflag="1360" id1="528361" id2="17" version="1065353216">And I, yours.</text>
+		<text bitflag="1345" id1="528362" id2="17" version="1065353216">I hope you appreciate what's involved in a Jedi wedding....</text>
+		<text bitflag="1360" id1="528362" id2="17" version="1065353216">A huge ceremony, you said?</text>
+		<text bitflag="1345" id1="528363" id2="17" version="1065353216">I'll take my chances.</text>
+		<text bitflag="1345" id1="528364" id2="17" version="1065353216">We have all night to whisper promises to each other.</text>
+		<text bitflag="1360" id1="528364" id2="17" version="1065353216">Just kiss me.</text>
+		<text bitflag="1345" id1="528365" id2="17" version="1065353216">You always know just what to say.</text>
+		<text bitflag="1345" id1="528366" id2="17" version="1065353216">I need some time to think this over.</text>
+		<text bitflag="1360" id1="528366" id2="17" version="1065353216">I can't answer right away.</text>
+		<text bitflag="1345" id1="528367" id2="17" version="1065353216">Sorry. My fault for springing this on you.</text>
+		<text bitflag="1345" id1="528369" id2="17" version="1065353216">Don't worry about it, for now. We've got all the time we need to make plans.</text>
+		<text bitflag="1345" id1="528370" id2="17" version="1065353216">I'm sorry. I can't.</text>
+		<text bitflag="1360" id1="528370" id2="17" version="1065353216">I have to say no.</text>
+		<text bitflag="1345" id1="528371" id2="17" version="1065353216">I care for you, but... I can't. I'm sorry.</text>
+		<text bitflag="1360" id1="528371" id2="17" version="1065353216">No. I can't do that.</text>
+		<text bitflag="1345" id1="528372" id2="17" version="1065353216">It's because of the order, isn't it?</text>
+		<text bitflag="1345" id1="528374" id2="17" version="1065353216">But I'm still here for you. And who knows? Maybe one day, things will be different.</text>
+		<text bitflag="1345" id1="528377" id2="17" version="1065353216">Like, where you'd want to end up when all this is over.</text>
+		<text bitflag="1345" id1="528378" id2="17" version="1065353216">The Jedi Temple will always be a home to me.</text>
+		<text bitflag="1360" id1="528378" id2="17" version="1065353216">I'll return to Tython.</text>
+		<text bitflag="1345" id1="528379" id2="17" version="1065353216">What about you? Are you planning to retire somewhere?</text>
+		<text bitflag="1360" id1="528379" id2="17" version="1065353216">You first.</text>
+		<text bitflag="1345" id1="528380" id2="17" version="1065353216">The order, and the Republic, need all the help they can get. I won't have the luxury of retirement.</text>
+		<text bitflag="1360" id1="528380" id2="17" version="1065353216">Jedi never retire.</text>
+		<text bitflag="1345" id1="528381" id2="17" version="1065353216">My guys on Hoth always talked about going home, but for me, &quot;home&quot; was some refugee camp they closed years back.</text>
+		<text bitflag="1345" id1="528383" id2="17" version="1065353216">Besides, who could settle on just one world? There's always more to see.</text>
+		<text bitflag="1345" id1="528385" id2="17" version="1065353216">Maybe that's my retirement. Swap the blaster for a ship, start seeing the galaxy. Assuming this Sith data in my head doesn't start leaking.</text>
+		<text bitflag="1345" id1="528386" id2="17" version="1065353216">Even if it becomes a problem, I'm sure we could find a way to help you.</text>
+		<text bitflag="1360" id1="528386" id2="17" version="1065353216">Don't worry about that.</text>
+		<text bitflag="1345" id1="528387" id2="17" version="1065353216">I'd be concerned about this too, but you can't let it take over your life.</text>
+		<text bitflag="1360" id1="528387" id2="17" version="1065353216">Be positive.</text>
+		<text bitflag="1345" id1="528388" id2="17" version="1065353216">Losing a good soldier to a Sith experiment would be a real victory for the Empire.</text>
+		<text bitflag="1360" id1="528388" id2="17" version="1065353216">An unfortunate prospect.</text>
+		<text bitflag="1345" id1="528389" id2="17" version="1065353216">We'll figure it out, we always do. It's good to know there's someone I can always count on.</text>
+		<text bitflag="1345" id1="528395" id2="17" version="1065353216">So, I was doing some thinking.</text>
+		<text bitflag="1345" id1="528397" id2="17" version="1065353216">And my thinking is: This is the best posting I've ever had.</text>
+		<text bitflag="1345" id1="528398" id2="17" version="1065353216">We'd never have come so far without your help.</text>
+		<text bitflag="1360" id1="528398" id2="17" version="1065353216">That's due to your efforts.</text>
+		<text bitflag="1345" id1="528399" id2="17" version="1065353216">So you'd say this mission has been... uniquely memorable?</text>
+		<text bitflag="1360" id1="528399" id2="17" version="1065353216">[Flirt] The very best?</text>
+		<text bitflag="1345" id1="528400" id2="17" version="1065353216">Absolutely.</text>
+		<text bitflag="1345" id1="528402" id2="17" version="1065353216">What's at the other end of the spectrum?</text>
+		<text bitflag="1360" id1="528402" id2="17" version="1065353216">And the worst?</text>
+		<text bitflag="1345" id1="528403" id2="17" version="1065353216">A five-week rotation on a planetoid that smelled like sewage, but that's beside the point.</text>
+		<text bitflag="1345" id1="528405" id2="17" version="1065353216">Don't rest on your laurels, there's still much to be done.</text>
+		<text bitflag="1360" id1="528405" id2="17" version="1065353216">Let's keep it that way.</text>
+		<text bitflag="1345" id1="528406" id2="17" version="1065353216">That's sort of where I'm going with this.</text>
+		<text bitflag="1345" id1="528408" id2="17" version="1065353216">I want you to know I'm with you to the end. Win or lose.</text>
+		<text bitflag="1345" id1="528410" id2="17" version="1065353216">I'd rather be your lieutenant than a Republic colonel. Doesn't matter what comes next for us, I've got your back.</text>
+		<text bitflag="1345" id1="528416" id2="17" version="1065353216">I need to talk to you.</text>
+		<text bitflag="1345" id1="528418" id2="17" version="1065353216">What we have... I've never felt this way about anyone.</text>
+		<text bitflag="1345" id1="528420" id2="17" version="1065353216">I can't stop thinking about you. Your scent, your smile... I want you to be mine.</text>
+		<text bitflag="1345" id1="528421" id2="17" version="1065353216">It's alright, Felix. I sensed your feelings long before. And returned them.</text>
+		<text bitflag="1360" id1="528421" id2="17" version="1065353216">I know, and I feel the same.</text>
+		<text bitflag="1345" id1="528422" id2="17" version="1065353216">I love you, more than anything.</text>
+		<text bitflag="1360" id1="528422" id2="17" version="1065353216">I've waited to hear that.</text>
+		<text bitflag="1345" id1="528423" id2="17" version="1065353216">You're everything I want.</text>
+		<text bitflag="1345" id1="528427" id2="17" version="1065353216">We don't need words to express how we feel.</text>
+		<text bitflag="1360" id1="528427" id2="17" version="1065353216">Shh. I know.</text>
+		<text bitflag="1345" id1="528428" id2="17" version="1065353216">You want to stop me saying &quot;I love you,&quot; you'll have to do better than that.</text>
+		<text bitflag="1345" id1="528433" id2="17" version="1065353216">I got a letter from Milo Pellam. Kind of rambling, but still, sounds like he's getting better.</text>
+		<text bitflag="1345" id1="528435" id2="17" version="1065353216">Thing is, this letter has &quot;intel&quot; about the facility where we were held. He wants me to give the intel to SIS, but it's... you couldn't call it coherent.</text>
+		<text bitflag="1345" id1="528436" id2="17" version="1065353216">Coherent or not, Milo could have useful information. I'm sure SIS would be interested.</text>
+		<text bitflag="1360" id1="528436" id2="17" version="1065353216">Give it to them anyway.</text>
+		<text bitflag="1345" id1="528437" id2="17" version="1065353216">Fair enough. Milo's trying to be a soldier again, I should treat him like one.</text>
+		<text bitflag="1345" id1="528439" id2="17" version="1065353216">Start a dialogue with Milo. Ask him questions about the facility, see if he's consistent. Then decide.</text>
+		<text bitflag="1360" id1="528439" id2="17" version="1065353216">Write back. It might help him.</text>
+		<text bitflag="1345" id1="528440" id2="17" version="1065353216">Seems smart. Hey, it might even help him focus. I'll get to work on a reply.</text>
+		<text bitflag="1360" id1="528442" id2="17" version="1065353216">I wouldn't bother, then.</text>
+		<text bitflag="1345" id1="528443" id2="17" version="1065353216">I was thinking the same, I'm not sure this is worth bothering SIS with. Maybe when Milo's better.</text>
+		<text bitflag="1345" id1="528445" id2="17" version="1065353216">It's encouraging that he's able to write at all. Maybe there's hope for me too.</text>
+		<text bitflag="1345" id1="528451" id2="17" version="1065353216">This must be torture for you, huh?</text>
+		<text bitflag="1345" id1="528453" id2="17" version="1065353216">A library of ancient knowledge in my head, and no way to reach it without me going crazy.</text>
+		<text bitflag="1345" id1="528454" id2="17" version="1065353216">The teachings of madmen, murderers or cantankerous old ghosts have little appeal for me.</text>
+		<text bitflag="1360" id1="528454" id2="17" version="1065353216">I don't need Sith knowledge.</text>
+		<text bitflag="1345" id1="528455" id2="17" version="1065353216">So nothing you're planning to rummage for. Good to know.</text>
+		<text bitflag="1345" id1="528457" id2="17" version="1065353216">Felix, we don't know what the holocron's knowledge could do to you.</text>
+		<text bitflag="1360" id1="528457" id2="17" version="1065353216">I'm worried for you.</text>
+		<text bitflag="1345" id1="528458" id2="17" version="1065353216">Hey, hey. It's alright. Nothing's changed, okay?</text>
+		<text bitflag="1345" id1="528460" id2="17" version="1065353216">This isn't funny.</text>
+		<text bitflag="1360" id1="528460" id2="17" version="1065353216">Be serious.</text>
+		<text bitflag="1345" id1="528461" id2="17" version="1065353216">A ground-pounding soldier getting the wisdom of the ages? Come on, that's a little funny.</text>
+		<text bitflag="1345" id1="528463" id2="17" version="1065353216">Think of what I could learn from a holocron belonging to the Dark Council itself.</text>
+		<text bitflag="1360" id1="528463" id2="17" version="1065353216">Yes, it's infuriating.</text>
+		<text bitflag="1345" id1="528464" id2="17" version="1065353216">Hey, don't get any ideas, this is the only brain I've got.</text>
+		<text bitflag="1345" id1="528466" id2="17" version="1065353216">I won't pretend I like this. It's a massive risk for both of us. But, I've carried this data for years and never knew a thing.</text>
+		<text bitflag="1345" id1="528468" id2="17" version="1065353216">And, I have you. If anyone could keep me from madness, it's you.</text>
+		<text bitflag="1345" id1="528469" id2="17" version="1065353216">Thank you for having such faith in me.</text>
+		<text bitflag="1360" id1="528469" id2="17" version="1065353216">That means a lot.</text>
+		<text bitflag="1345" id1="528470" id2="17" version="1065353216">I trust you with my life.</text>
+		<text bitflag="1345" id1="528472" id2="17" version="1065353216">Whatever's ahead, I love you, and we can work through it.</text>
+		<text bitflag="1360" id1="528472" id2="17" version="1065353216">I love you.</text>
+		<text bitflag="1345" id1="528473" id2="17" version="1065353216">I love you, too.</text>
+		<text bitflag="1345" id1="528475" id2="17" version="1065353216">If you did become unhinged, would I really notice the difference?</text>
+		<text bitflag="1360" id1="528475" id2="17" version="1065353216">Ha, you're crazy already.</text>
+		<text bitflag="1345" id1="528476" id2="17" version="1065353216">I thought--well, that's the spirit. I guess.</text>
+		<text bitflag="1345" id1="528478" id2="17" version="1065353216">However this turns out, I'm still yours. I swear.</text>
+		<text bitflag="1345" id1="528479" id2="17" version="1065353216">Besides, if anything does go wrong, I have your expertise on hand.</text>
+		<text bitflag="1345" id1="528480" id2="17" version="1065353216">I'm always here if you need me.</text>
+		<text bitflag="1360" id1="528480" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="528481" id2="17" version="1065353216">I'm afraid we're in uncharted territory here, Lieutenant.</text>
+		<text bitflag="1360" id1="528481" id2="17" version="1065353216">Nobody's an expert on this.</text>
+		<text bitflag="1345" id1="528482" id2="17" version="1065353216">It's probably best if the others don't know about your condition.</text>
+		<text bitflag="1360" id1="528482" id2="17" version="1065353216">It should be our secret.</text>
+		<text bitflag="1345" id1="528483" id2="17" version="1065353216">Right. Tharan might suddenly decide he's a brain surgeon and &quot;help.&quot;</text>
+		<text bitflag="1345" id1="528485" id2="17" version="1065353216">I doubt Republic Command will have a change of heart if I report this. My career's still going nowhere.</text>
+		<text bitflag="1345" id1="528487" id2="17" version="1065353216">But... so what? You have a cause worth fighting for. I want to see it through.</text>
+		<text bitflag="1345" id1="528493" id2="17" version="1065353216">You're not gonna believe this. Remember Milo's talk about a &quot;glowing box&quot;? And the lady doctor he was chasing?</text>
+		<text bitflag="1345" id1="528495" id2="17" version="1065353216">That &quot;lady doctor&quot; turns out to be real. She sent me a message.</text>
+		<text bitflag="1345" id1="528497" id2="17" version="1065353216">Lieutenant Iresso, my name is Doctor Sera Fray. I hear you've been looking for me.</text>
+		<text bitflag="1345" id1="528499" id2="17" version="1065353216">I have fled the Empire; your search has put me in grave danger. But I imagine you won't be satisfied until you have answers.</text>
+		<text bitflag="1345" id1="528501" id2="17" version="1065353216">I am responsible for Milo Pellam's... instability. And your suffering. I could not refuse a Darth's orders.</text>
+		<text bitflag="1345" id1="528502" id2="17" version="1065353216">It sounds like the Sith are involved in this.</text>
+		<text bitflag="1360" id1="528502" id2="17" version="1065353216">A Darth's orders?</text>
+		<text bitflag="1345" id1="528503" id2="17" version="1065353216">No dissembling, I see.</text>
+		<text bitflag="1360" id1="528503" id2="17" version="1065353216">At least she admits it.</text>
+		<text bitflag="1345" id1="528504" id2="17" version="1065353216">Those who do evil have a thousand excuses. Those who do what's right need none.</text>
+		<text bitflag="1360" id1="528504" id2="17" version="1065353216">A feeble defense.</text>
+		<text bitflag="1345" id1="528505" id2="17" version="1065353216">The Sith Lord I... once served, Darth Ouzal, is a great scholar. He even advises the Dark Council. His specialty is ancient holocrons.</text>
+		<text bitflag="1345" id1="528507" id2="17" version="1065353216">What's a holocron?</text>
+		<text bitflag="1345" id1="528508" id2="17" version="1065353216">It's short for &quot;holographic chronicle.&quot; Both the Jedi and the Sith use them to store ancient knowledge.</text>
+		<text bitflag="1360" id1="528508" id2="17" version="1065353216">They store information.</text>
+		<text bitflag="1345" id1="528509" id2="17" version="1065353216">Holocrons contain ancient knowledge. To the untrained eye, they match Milo's description.</text>
+		<text bitflag="1360" id1="528509" id2="17" version="1065353216">A &quot;glowing box.&quot;</text>
+		<text bitflag="1345" id1="528510" id2="17" version="1065353216">Artifacts containing knowledge and rituals. Sith holocrons have been the downfall of many unwary Jedi.</text>
+		<text bitflag="1360" id1="528510" id2="17" version="1065353216">A dangerous relic.</text>
+		<text bitflag="1345" id1="528511" id2="17" version="1065353216">The Dark Council trusted Darth Ouzal to decipher a rare holocron for them. But, Ouzal saw a chance to keep its knowledge for himself.</text>
+		<text bitflag="1345" id1="528513" id2="17" version="1065353216">He wanted to copy the holocron into a person's mind.</text>
+		<text bitflag="1345" id1="528514" id2="17" version="1065353216">The matrix of a holocron is far too complex to be mapped onto a person's brain.</text>
+		<text bitflag="1360" id1="528514" id2="17" version="1065353216">I thought that was impossible.</text>
+		<text bitflag="1345" id1="528515" id2="17" version="1065353216">I think I see where this is leading.</text>
+		<text bitflag="1360" id1="528515" id2="17" version="1065353216">So that's what was done.</text>
+		<text bitflag="1345" id1="528516" id2="17" version="1065353216">The ingenuity of the Sith never ceases to amaze me.</text>
+		<text bitflag="1360" id1="528516" id2="17" version="1065353216">Unethical, but impressive.</text>
+		<text bitflag="1345" id1="528517" id2="17" version="1065353216">Darth Ouzal requisitioned two prisoners from the Empire. You, Lieutenant Iresso, and your friend.</text>
+		<text bitflag="1345" id1="528519" id2="17" version="1065353216">The initial procedure was... imperfect. Milo Pellam's mind simply collapsed under so much knowledge. But you were a great success.</text>
+		<text bitflag="1345" id1="528521" id2="17" version="1065353216">A great success? She hid a Sith library in my head!</text>
+		<text bitflag="1345" id1="528522" id2="17" version="1065353216">Doctor Fray must have sealed the holocron's data from your conscious mind, somehow.</text>
+		<text bitflag="1360" id1="528522" id2="17" version="1065353216">And, you didn't go insane.</text>
+		<text bitflag="1345" id1="528523" id2="17" version="1065353216">The recording hasn't finished.</text>
+		<text bitflag="1360" id1="528523" id2="17" version="1065353216">Let's keep listening.</text>
+		<text bitflag="1345" id1="528524" id2="17" version="1065353216">You possess more Sith knowledge than a graduate of their Academy. Ironic.</text>
+		<text bitflag="1360" id1="528524" id2="17" version="1065353216">You outsmart our enemy.</text>
+		<text bitflag="1345" id1="528525" id2="17" version="1065353216">Any Sith would kill for that holocron's knowledge. But no one will know it's there, unless you tell them.</text>
+		<text bitflag="1345" id1="528527" id2="17" version="1065353216">All I have said is the truth. Now, please, remove my image from the Republic database. I won't be safe until then.</text>
+		<text bitflag="1345" id1="528529" id2="17" version="1065353216">Lieutenant--Felix. That's your name, isn't it? I'm... I'm sorry.</text>
+		<text bitflag="1345" id1="528531" id2="17" version="1065353216">She's asking me to keep her safe? At least she's got a blasted sense of humor.</text>
+		<text bitflag="1345" id1="528532" id2="17" version="1065353216">She obviously regrets her actions. Show the compassion she couldn't, and help her.</text>
+		<text bitflag="1360" id1="528532" id2="17" version="1065353216">You should remove her picture.</text>
+		<text bitflag="1345" id1="528533" id2="17" version="1065353216">You're way more forgiving than I am. Okay, I'll see it gone.</text>
+		<text bitflag="1345" id1="528535" id2="17" version="1065353216">Doctor Fray's lucky I've got a Jedi to be my conscience. Okay, I'll see it gone.</text>
+		<text bitflag="1360" id1="528537" id2="17" version="1065353216">What will you do?</text>
+		<text bitflag="1345" id1="528538" id2="17" version="1065353216">Doctor Fray broke Milo's mind and ruined your life. Let her fend for herself.</text>
+		<text bitflag="1360" id1="528538" id2="17" version="1065353216">Leave her picture where it is.</text>
+		<text bitflag="1345" id1="528539" id2="17" version="1065353216">Right. I'm not helping an Imperial fugitive. Not after she...</text>
+		<text bitflag="1345" id1="528541" id2="17" version="1065353216">I need to think. 'Scuse me.</text>
+		<text bitflag="1345" id1="528547" id2="17" version="1065353216">That's quite the fighting style you have.</text>
+		<text bitflag="1345" id1="528549" id2="17" version="1065353216">Looks like you sneaked a few combat manuals in amongst the history texts.</text>
+		<text bitflag="1345" id1="528550" id2="17" version="1065353216">There is poetry and logic in battle.</text>
+		<text bitflag="1360" id1="528550" id2="17" version="1065353216">I embrace all learning.</text>
+		<text bitflag="1345" id1="528551" id2="17" version="1065353216">Some things cannot be taught, only improved.</text>
+		<text bitflag="1360" id1="528551" id2="17" version="1065353216">No, it's a natural talent.</text>
+		<text bitflag="1345" id1="528552" id2="17" version="1065353216">I can't help the Republic if I can't protect myself.</text>
+		<text bitflag="1360" id1="528552" id2="17" version="1065353216">A Jedi must know defense.</text>
+		<text bitflag="1345" id1="528553" id2="17" version="1065353216">I'm used to fighting in squads. Constant redeployment's taught me to sync fast with whoever's at my shoulder.</text>
+		<text bitflag="1345" id1="528555" id2="17" version="1065353216">Now you--you know your tactics, but you're not afraid of your gut instinct either.</text>
+		<text bitflag="1345" id1="528557" id2="17" version="1065353216">I've tightened down my style to match. Might make the Imperials think twice the next time we're cornered.</text>
+		<text bitflag="1345" id1="528563" id2="17" version="1065353216">Hey.</text>
+		<text bitflag="1345" id1="528565" id2="17" version="1065353216">I have a surprise for you. Four hours, thirty-four minutes and eleven seconds.</text>
+		<text bitflag="1345" id1="528566" id2="17" version="1065353216">And to what do I owe this surprise?</text>
+		<text bitflag="1360" id1="528566" id2="17" version="1065353216">What's the occasion?</text>
+		<text bitflag="1345" id1="528567" id2="17" version="1065353216">No reason.</text>
+		<text bitflag="1345" id1="528569" id2="17" version="1065353216">All right, you have me hooked.</text>
+		<text bitflag="1360" id1="528569" id2="17" version="1065353216">Go on....</text>
+		<text bitflag="1345" id1="528570" id2="17" version="1065353216">You may be misunderstanding the concepts at work here.</text>
+		<text bitflag="1360" id1="528570" id2="17" version="1065353216">I'm confused, not surprised.</text>
+		<text bitflag="1345" id1="528571" id2="17" version="1065353216">Let this be a practice, then. I'll eventually get the hang of it.</text>
+		<text bitflag="1345" id1="528573" id2="17" version="1065353216">I thought you could use some R &amp; R, so I arranged a little circuitry fault in the ship's doors.</text>
+		<text bitflag="1345" id1="528575" id2="17" version="1065353216">You'll have about four hours of peace and quiet in your quarters. Time to read, or meditate, or... whatever you like.</text>
+		<text bitflag="1345" id1="528576" id2="17" version="1065353216">I think we should take this time for ourselves.</text>
+		<text bitflag="1360" id1="528576" id2="17" version="1065353216">Then come with me.</text>
+		<text bitflag="1345" id1="528577" id2="17" version="1065353216">Good choice.</text>
+		<text bitflag="1345" id1="528579" id2="17" version="1065353216">You wouldn't leave me with just my studies for company, would you?</text>
+		<text bitflag="1360" id1="528579" id2="17" version="1065353216">But I'd be lonely....</text>
+		<text bitflag="1345" id1="528580" id2="17" version="1065353216">I'd never want you to feel lonely.</text>
+		<text bitflag="1345" id1="528582" id2="17" version="1065353216">How thoughtful of you. There's a copy of the Vordegen Codex I've been sorely neglecting.</text>
+		<text bitflag="1360" id1="528582" id2="17" version="1065353216">Finally, study time!</text>
+		<text bitflag="1345" id1="528583" id2="17" version="1065353216">I did have a few... strategies to help you unwind. If you're interested.</text>
+		<text bitflag="1345" id1="528584" id2="17" version="1065353216">I'm not a fool. I just wanted to be certain of your meaning.</text>
+		<text bitflag="1360" id1="528584" id2="17" version="1065353216">I am, I was teasing.</text>
+		<text bitflag="1345" id1="528585" id2="17" version="1065353216">You got my attention, that's for sure.</text>
+		<text bitflag="1345" id1="528587" id2="17" version="1065353216">Actions speak louder than words.</text>
+		<text bitflag="1360" id1="528587" id2="17" version="1065353216">Show me.</text>
+		<text bitflag="1345" id1="528588" id2="17" version="1065353216">Maybe I won't use words at all next time.</text>
+		<text bitflag="1345" id1="528590" id2="17" version="1065353216">You're so beautiful.</text>
+		<text bitflag="1345" id1="528594" id2="17" version="1065353216">All that emotional control. It was just--waiting for the right moment.</text>
+		<text bitflag="1345" id1="528596" id2="17" version="1065353216">I'm glad I was here for it.</text>
+		<text bitflag="1345" id1="528597" id2="17" version="1065353216">Thank you, for my surprise vacation.</text>
+		<text bitflag="1360" id1="528597" id2="17" version="1065353216">I like your surprises.</text>
+		<text bitflag="1345" id1="528598" id2="17" version="1065353216">You're very welcome.</text>
+		<text bitflag="1345" id1="528600" id2="17" version="1065353216">Better stay on your guard, though. The next ambush might be right around the corner.</text>
+		<text bitflag="1345" id1="528601" id2="17" version="1065353216">Sometimes those &quot;right moments&quot; can arrive in quick succession.</text>
+		<text bitflag="1360" id1="528601" id2="17" version="1065353216">Who says it's over?</text>
+		<text bitflag="1345" id1="528602" id2="17" version="1065353216">Hold that thought. Just for now.</text>
+		<text bitflag="1345" id1="528604" id2="17" version="1065353216">Give me a chance to surprise you all over again.</text>
+		<text bitflag="1345" id1="528605" id2="17" version="1065353216">Fun's fun, but we have business to attend to.</text>
+		<text bitflag="1360" id1="528605" id2="17" version="1065353216">Well, duty calls.</text>
+		<text bitflag="1345" id1="528606" id2="17" version="1065353216">Just &quot;fun,&quot; huh. Roger that.</text>
+		<text bitflag="1345" id1="528607" id2="17" version="1065353216">Don't worry. If I finish the codex, I have the writings of Master Q'Anilia, and a volume of Khilese poetry.</text>
+		<text bitflag="1360" id1="528607" id2="17" version="1065353216">No, reading will suit me fine.</text>
+		<text bitflag="1345" id1="528608" id2="17" version="1065353216">Ha. Okay, okay. Go on, enjoy yourself. I'll... be around.</text>
+		<text bitflag="1345" id1="528611" id2="17" version="1065353216">I've been meaning to ask. Have you been in any major battles? Apart from Hoth, I mean.</text>
+		<text bitflag="1345" id1="528612" id2="17" version="1065353216">A Jedi's role is less about being on the front lines, and more about stopping the battle before it starts.</text>
+		<text bitflag="1360" id1="528612" id2="17" version="1065353216">Jedi aren't soldiers.</text>
+		<text bitflag="1345" id1="528613" id2="17" version="1065353216">When the Republic has needed my help, I've always been ready.</text>
+		<text bitflag="1360" id1="528613" id2="17" version="1065353216">I've seen my share.</text>
+		<text bitflag="1345" id1="528614" id2="17" version="1065353216">My battles have mostly been behind the scenes, with enemies few would recognize.</text>
+		<text bitflag="1360" id1="528614" id2="17" version="1065353216">Not ones you'd know about.</text>
+		<text bitflag="1345" id1="528615" id2="17" version="1065353216">Standard for a Jedi, I guess.</text>
+		<text bitflag="1345" id1="528617" id2="17" version="1065353216">My postings haven't exactly been stellar, but I was there for the Eight Hour Invasion. Did my part, watched the Imperials slink away.</text>
+		<text bitflag="1345" id1="528619" id2="17" version="1065353216">I'm proud of that. Though what we're doing seems more important. Even if the historians never know.</text>
+		<text bitflag="1345" id1="528625" id2="17" version="1065353216">Still no luck with the doctor's picture. I think it's time to admit defeat.</text>
+		<text bitflag="1345" id1="528626" id2="17" version="1065353216">You must be the judge of that.</text>
+		<text bitflag="1360" id1="528626" id2="17" version="1065353216">If you think it best.</text>
+		<text bitflag="1345" id1="528627" id2="17" version="1065353216">You said yourself, this may be your best lead.</text>
+		<text bitflag="1360" id1="528627" id2="17" version="1065353216">Are you sure?</text>
+		<text bitflag="1345" id1="528628" id2="17" version="1065353216">Admitting defeat isn't becoming of a Republic soldier.</text>
+		<text bitflag="1360" id1="528628" id2="17" version="1065353216">You're giving up.</text>
+		<text bitflag="1345" id1="528629" id2="17" version="1065353216">I won't give up looking for her, but I don't want to turn into Milo, either.</text>
+		<text bitflag="1345" id1="528631" id2="17" version="1065353216">Her picture's in the Republic database. So I'm going to delete my copy. I've done all I can.</text>
+		<text bitflag="1345" id1="528633" id2="17" version="1065353216">Sorry I haven't been giving you the attention you deserve.</text>
+		<text bitflag="1345" id1="528635" id2="17" version="1065353216">Are we okay?</text>
+		<text bitflag="1345" id1="528636" id2="17" version="1065353216">Don't give it another thought.</text>
+		<text bitflag="1360" id1="528636" id2="17" version="1065353216">Of course we are.</text>
+		<text bitflag="1345" id1="528637" id2="17" version="1065353216">You're sweet when you're worried.</text>
+		<text bitflag="1360" id1="528637" id2="17" version="1065353216">How could I resist that look?</text>
+		<text bitflag="1345" id1="528638" id2="17" version="1065353216">Careful. Give away your weaknesses, and who knows what might happen.</text>
+		<text bitflag="1345" id1="528639" id2="17" version="1065353216">As long as this doesn't happen again.</text>
+		<text bitflag="1360" id1="528639" id2="17" version="1065353216">I suppose so.</text>
+		<text bitflag="1345" id1="528640" id2="17" version="1065353216">I guess that's the best I can hope for.</text>
+		<text bitflag="1345" id1="528641" id2="17" version="1065353216">I have a good situation here. I won't let the past mess it up.</text>
+		<text bitflag="1345" id1="528647" id2="17" version="1065353216">Any chance I can use the ship's long-distance communication system, for about an hour?</text>
+		<text bitflag="1345" id1="528648" id2="17" version="1065353216">Is there somebody you're trying to reach?</text>
+		<text bitflag="1360" id1="528648" id2="17" version="1065353216">Looking for someone?</text>
+		<text bitflag="1345" id1="528649" id2="17" version="1065353216">Sort of.</text>
+		<text bitflag="1345" id1="528651" id2="17" version="1065353216">The ship is your home too, feel free.</text>
+		<text bitflag="1360" id1="528651" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="528652" id2="17" version="1065353216">Great! Thanks.</text>
+		<text bitflag="1345" id1="528654" id2="17" version="1065353216">Be sure you don't interrupt any important communications.</text>
+		<text bitflag="1360" id1="528654" id2="17" version="1065353216">If no one else is using it.</text>
+		<text bitflag="1345" id1="528655" id2="17" version="1065353216">Don't worry, any calls from the Council will kick me off.</text>
+		<text bitflag="1345" id1="528657" id2="17" version="1065353216">I want to put Milo's &quot;lady doctor&quot; into the Republic's database. I keep studying her picture, but... nothing.</text>
+		<text bitflag="1345" id1="528659" id2="17" version="1065353216">I'm hoping it can jog something about her or that &quot;glowing box.&quot; I'm close--practically seeing her in my sleep.</text>
+		<text bitflag="1345" id1="528660" id2="17" version="1065353216">Take care that you don't become obsessed with this woman.</text>
+		<text bitflag="1360" id1="528660" id2="17" version="1065353216">That's not healthy.</text>
+		<text bitflag="1345" id1="528661" id2="17" version="1065353216">I'm not obsessed. This is important. What if I just need one more day before I remember?</text>
+		<text bitflag="1345" id1="528662" id2="17" version="1065353216">Listen to yourself. You're losing perspective.</text>
+		<text bitflag="1360" id1="528662" id2="17" version="1065353216">You just proved my point.</text>
+		<text bitflag="1345" id1="528663" id2="17" version="1065353216">If you've tried this hard already, one more day won't make a difference.</text>
+		<text bitflag="1360" id1="528663" id2="17" version="1065353216">It might be time to move on.</text>
+		<text bitflag="1345" id1="528664" id2="17" version="1065353216">So I should just give up?</text>
+		<text bitflag="1345" id1="528666" id2="17" version="1065353216">Given how little we know of what happened, this approach might bear fruit. Eventually.</text>
+		<text bitflag="1360" id1="528666" id2="17" version="1065353216">Perhaps you're right.</text>
+		<text bitflag="1345" id1="528667" id2="17" version="1065353216">I hoped I had pride of place in your dreams.</text>
+		<text bitflag="1360" id1="528667" id2="17" version="1065353216">Her, but not me?</text>
+		<text bitflag="1345" id1="528668" id2="17" version="1065353216">Hold on. Are you jealous?</text>
+		<text bitflag="1345" id1="528669" id2="17" version="1065353216">Jealousy is a base emotion. I'm concerned about you.</text>
+		<text bitflag="1360" id1="528669" id2="17" version="1065353216">No, I'm worried.</text>
+		<text bitflag="1345" id1="528670" id2="17" version="1065353216">Why? I'm trying to get some answers.</text>
+		<text bitflag="1345" id1="528672" id2="17" version="1065353216">I think you need to get some perspective on this.</text>
+		<text bitflag="1360" id1="528672" id2="17" version="1065353216">Don't be ridiculous.</text>
+		<text bitflag="1345" id1="528673" id2="17" version="1065353216">You don't understand.</text>
+		<text bitflag="1345" id1="528675" id2="17" version="1065353216">You could be a bit more attentive, that's all.</text>
+		<text bitflag="1360" id1="528675" id2="17" version="1065353216">Maybe a little.</text>
+		<text bitflag="1345" id1="528676" id2="17" version="1065353216">Getting captured ruined Milo's life, and destroyed my career. I'll never be anything more than a lieutenant. I deserve to know why.</text>
+		<text bitflag="1345" id1="528678" id2="17" version="1065353216">I know you're looking out for me, but imagine how you'd feel. I can't miss this chance.</text>
+		<text bitflag="1345" id1="528679" id2="17" version="1065353216">Has her face triggered anything?</text>
+		<text bitflag="1360" id1="528679" id2="17" version="1065353216">Is it working?</text>
+		<text bitflag="1345" id1="528680" id2="17" version="1065353216">No. Everything between Althir and waking up in that cell is still a big fat blank.</text>
+		<text bitflag="1345" id1="528682" id2="17" version="1065353216">You said she seems familiar. Don't give up now.</text>
+		<text bitflag="1360" id1="528682" id2="17" version="1065353216">Keep trying, you'll get there.</text>
+		<text bitflag="1345" id1="528683" id2="17" version="1065353216">Right. Thanks for understanding.</text>
+		<text bitflag="1345" id1="528685" id2="17" version="1065353216">I owe it to Milo to find her.</text>
+		<text bitflag="1345" id1="528687" id2="17" version="1065353216">I'll let you know if anything comes back to me.</text>
+		<text bitflag="1345" id1="528693" id2="17" version="1065353216">I got Milo off Tatooine okay. But--heck, I don't even know where to start.</text>
+		<text bitflag="1345" id1="528695" id2="17" version="1065353216">Milo was trying to talk to me, but he couldn't get the words out. He kept using other languages. Equations, even. Like his mind was shattered.</text>
+		<text bitflag="1345" id1="528696" id2="17" version="1065353216">Does he know what the Imperials did while you were held prisoner?</text>
+		<text bitflag="1360" id1="528696" id2="17" version="1065353216">What happened to him?</text>
+		<text bitflag="1360" id1="528697" id2="17" version="1065353216">That's terrible. Poor Milo.</text>
+		<text bitflag="1345" id1="528698" id2="17" version="1065353216">Regrettably, I have experience in this area.</text>
+		<text bitflag="1360" id1="528698" id2="17" version="1065353216">Madness. Sounds familiar.</text>
+		<text bitflag="1345" id1="528699" id2="17" version="1065353216">I tried asking him about when we were captured, if he knew anything.</text>
+		<text bitflag="1345" id1="528701" id2="17" version="1065353216">If I understood him right, Milo said a doctor came into his cell. She showed him a &quot;glowing box&quot;. That's when it all went wrong inside his head.</text>
+		<text bitflag="1345" id1="528703" id2="17" version="1065353216">Thing is... Milo said this doctor used that box on me, too.</text>
+		<text bitflag="1345" id1="528704" id2="17" version="1065353216">The doctor, this &quot;box&quot; she had--none of it seems familiar?</text>
+		<text bitflag="1360" id1="528704" id2="17" version="1065353216">You don't remember?</text>
+		<text bitflag="1345" id1="528705" id2="17" version="1065353216">Nope, and I'm guessing that box is the reason why.</text>
+		<text bitflag="1360" id1="528707" id2="17" version="1065353216">This is troubling.</text>
+		<text bitflag="1345" id1="528708" id2="17" version="1065353216">And you didn't see Milo. How d'you think I feel?</text>
+		<text bitflag="1345" id1="528710" id2="17" version="1065353216">With respect, Milo is hardly a reliable witness.</text>
+		<text bitflag="1360" id1="528710" id2="17" version="1065353216">Don't trust a madman's word.</text>
+		<text bitflag="1345" id1="528711" id2="17" version="1065353216">You trust a man with your life, you learn to read him. He thought he was telling the truth.</text>
+		<text bitflag="1345" id1="528713" id2="17" version="1065353216">So, Milo's lady doctor used a glowing box on both of us. I lose seven days of memory, and Milo loses his mind.</text>
+		<text bitflag="1345" id1="528715" id2="17" version="1065353216">A glowing box. Maybe a new Imperial torture device.</text>
+		<text bitflag="1345" id1="528716" id2="17" version="1065353216">There are ancient relics that fit that description, too.</text>
+		<text bitflag="1360" id1="528716" id2="17" version="1065353216">Or it could be an artifact.</text>
+		<text bitflag="1345" id1="528717" id2="17" version="1065353216">You're the expert. But me and Milo were nobodies. Why use an artifact on us?</text>
+		<text bitflag="1345" id1="528719" id2="17" version="1065353216">If it was experimental, that may explain why it had such drastically different effects on you and Milo.</text>
+		<text bitflag="1360" id1="528719" id2="17" version="1065353216">An experiment? That fits.</text>
+		<text bitflag="1345" id1="528720" id2="17" version="1065353216">But unless we find one and take it apart, there's no way to be sure.</text>
+		<text bitflag="1345" id1="528722" id2="17" version="1065353216">It might not be important. The woman who did this to you and Milo; she's the one we need to find.</text>
+		<text bitflag="1360" id1="528722" id2="17" version="1065353216">That doctor is the key.</text>
+		<text bitflag="1345" id1="528723" id2="17" version="1065353216">I think Milo tracked the doctor to Tatooine. He thought the starship he blew up was hers.</text>
+		<text bitflag="1345" id1="528725" id2="17" version="1065353216">He gave me a picture. Assuming it's actually her, that might give us a lead. I'll see what I can find out.</text>
+		<text bitflag="1345" id1="528731" id2="17" version="1065353216">I got word from Tatooine.</text>
+		<text bitflag="1345" id1="528733" id2="17" version="1065353216">Six holocalls, a few payments to the right people, and Milo's a free man.</text>
+		<text bitflag="1345" id1="528735" id2="17" version="1065353216">All I need to do is meet him and his security escort at Anchorhead. But Milo's still in a bad way.</text>
+		<text bitflag="1345" id1="528736" id2="17" version="1065353216">So his time in isolation didn't help.</text>
+		<text bitflag="1360" id1="528736" id2="17" version="1065353216">I'm sorry to hear that.</text>
+		<text bitflag="1345" id1="528737" id2="17" version="1065353216">He's getting worse. They had to sedate him.</text>
+		<text bitflag="1345" id1="528739" id2="17" version="1065353216">We shouldn't keep him waiting.</text>
+		<text bitflag="1360" id1="528739" id2="17" version="1065353216">Then let's go together.</text>
+		<text bitflag="1345" id1="528740" id2="17" version="1065353216">I appreciate it, but I should probably take this one. If Milo's really this unstable, too many people might scare him.</text>
+		<text bitflag="1345" id1="528742" id2="17" version="1065353216">Be aware, I have enough passengers to handle without taking on a charity case.</text>
+		<text bitflag="1360" id1="528742" id2="17" version="1065353216">I'm not bringing him aboard.</text>
+		<text bitflag="1345" id1="528743" id2="17" version="1065353216">Then it's a good thing I made arrangements already.</text>
+		<text bitflag="1345" id1="528745" id2="17" version="1065353216">I'll take a shuttle to Tatooine and see Milo gets somewhere safe. Shouldn't risk him hurting himself, or blowing up someone else's starship.</text>
+		<text bitflag="1345" id1="528747" id2="17" version="1065353216">Thinking he was dead... it was almost easier than this.</text>
+		<text bitflag="1345" id1="528748" id2="17" version="1065353216">Milo could know what happened to you when you were captured.</text>
+		<text bitflag="1360" id1="528748" id2="17" version="1065353216">Still, he may have answers.</text>
+		<text bitflag="1345" id1="528749" id2="17" version="1065353216">Attros Finn, a Jedi researcher on Coruscant, once treated my Master. His experience may be useful.</text>
+		<text bitflag="1360" id1="528749" id2="17" version="1065353216">Jedi treatment might help.</text>
+		<text bitflag="1345" id1="528750" id2="17" version="1065353216">It's worth a shot.</text>
+		<text bitflag="1345" id1="528752" id2="17" version="1065353216">If the man who lost his ship is still around, he may want revenge. Don't give him an opening.</text>
+		<text bitflag="1360" id1="528752" id2="17" version="1065353216">Watch your back.</text>
+		<text bitflag="1345" id1="528753" id2="17" version="1065353216">I hear that.</text>
+		<text bitflag="1345" id1="528755" id2="17" version="1065353216">Don't worry, I'll make sure I'm ready for trouble before I move out. See you soon.</text>
+		<text bitflag="1345" id1="528761" id2="17" version="1065353216">Remember I told you about Milo Pellam? Who vanished when we were captured by the Empire?</text>
+		<text bitflag="1345" id1="528763" id2="17" version="1065353216">After we talked, I put his name out, in case he had a wife or kids he hadn't mentioned.</text>
+		<text bitflag="1345" id1="528765" id2="17" version="1065353216">Instead, I find out he was arrested on Tatooine a few weeks ago. He actually made it!</text>
+		<text bitflag="1345" id1="528766" id2="17" version="1065353216">I didn't think Tatooine had any laws to break.</text>
+		<text bitflag="1360" id1="528766" id2="17" version="1065353216">Arrested for what?</text>
+		<text bitflag="1360" id1="528767" id2="17" version="1065353216">I'm glad he's alright.</text>
+		<text bitflag="1345" id1="528768" id2="17" version="1065353216">I can't believe he's alive. But....</text>
+		<text bitflag="1345" id1="528770" id2="17" version="1065353216">He may have escaped the Empire, but it appears his situation is little improved.</text>
+		<text bitflag="1360" id1="528770" id2="17" version="1065353216">And... now he's in prison.</text>
+		<text bitflag="1345" id1="528771" id2="17" version="1065353216">Milo's being held for &quot;destruction of private property.&quot;</text>
+		<text bitflag="1345" id1="528773" id2="17" version="1065353216">Anchorhead authorities said he's been acting nutty since he was arrested. They had to isolate him.</text>
+		<text bitflag="1345" id1="528775" id2="17" version="1065353216">Milo was a rock. Something's wrong.</text>
+		<text bitflag="1345" id1="528776" id2="17" version="1065353216">Perhaps he was badly treated when the Empire captured him.</text>
+		<text bitflag="1360" id1="528776" id2="17" version="1065353216">He may have been tortured.</text>
+		<text bitflag="1345" id1="528777" id2="17" version="1065353216">I have to see him myself.</text>
+		<text bitflag="1345" id1="528779" id2="17" version="1065353216">If we spoke to him, there might be something I could do.</text>
+		<text bitflag="1360" id1="528779" id2="17" version="1065353216">Can we help him?</text>
+		<text bitflag="1345" id1="528780" id2="17" version="1065353216">You read my mind again.</text>
+		<text bitflag="1345" id1="528782" id2="17" version="1065353216">Took the question right out of my mouth.</text>
+		<text bitflag="1345" id1="528784" id2="17" version="1065353216">Tatooine's authorities are hardly reliable. They may have the wrong person.</text>
+		<text bitflag="1360" id1="528784" id2="17" version="1065353216">Mistaken identity, perhaps.</text>
+		<text bitflag="1345" id1="528785" id2="17" version="1065353216">No, the picture they sent is definitely him.</text>
+		<text bitflag="1345" id1="528787" id2="17" version="1065353216">I can get him out, but there's a hitch. The property Milo destroyed was a starship.</text>
+		<text bitflag="1345" id1="528789" id2="17" version="1065353216">Owner's a gangster, and he's a little upset. So the authorities aren't too happy about setting Milo free.</text>
+		<text bitflag="1345" id1="528790" id2="17" version="1065353216">Gangsters tend to spread their anger around.</text>
+		<text bitflag="1360" id1="528790" id2="17" version="1065353216">In case of a gang war.</text>
+		<text bitflag="1345" id1="528791" id2="17" version="1065353216">Exactly.</text>
+		<text bitflag="1345" id1="528793" id2="17" version="1065353216">He'll have all the protection he needs once we arrive.</text>
+		<text bitflag="1360" id1="528793" id2="17" version="1065353216">He'll be safe with us.</text>
+		<text bitflag="1345" id1="528794" id2="17" version="1065353216">You may need to accept that Milo's changed, and that he belongs behind bars.</text>
+		<text bitflag="1360" id1="528794" id2="17" version="1065353216">Prison might be best for him.</text>
+		<text bitflag="1345" id1="528795" id2="17" version="1065353216">I can't abandon him, not if there's anything I can do.</text>
+		<text bitflag="1345" id1="528797" id2="17" version="1065353216">I wrote up a signed character reference for Milo.</text>
+		<text bitflag="1345" id1="528799" id2="17" version="1065353216">Could you sign it, too? A Jedi Master's endorsement would really speed things along.</text>
+		<text bitflag="1345" id1="528800" id2="17" version="1065353216">This situation's precarious enough. We should go by the book.</text>
+		<text bitflag="1360" id1="528800" id2="17" version="1065353216">No. Let's do this right.</text>
+		<text bitflag="1345" id1="528801" id2="17" version="1065353216">It's my duty to help anyone who's been unjustly imprisoned.</text>
+		<text bitflag="1360" id1="528801" id2="17" version="1065353216">Of course I'll sign it.</text>
+		<text bitflag="1345" id1="528804" id2="17" version="1065353216">Thank you. This means a lot.</text>
+		<text bitflag="1345" id1="528806" id2="17" version="1065353216">I'll send it to Tatooine, along with Milo's bail.</text>
+		<text bitflag="1345" id1="528808" id2="17" version="1065353216">Sorry, I can't vouch for a man I've never met.</text>
+		<text bitflag="1360" id1="528808" id2="17" version="1065353216">But I don't know Milo.</text>
+		<text bitflag="1345" id1="528809" id2="17" version="1065353216">That makes sense. Milo's release should be ironclad. I'll have a quiet word with the authorities.</text>
+		<text bitflag="1345" id1="528811" id2="17" version="1065353216">All these years I thought he was dead. What happened to him out there?</text>
+		<text bitflag="1345" id1="528817" id2="17" version="1065353216">I've been thinking.</text>
+		<text bitflag="1345" id1="528819" id2="17" version="1065353216">If we take this any further--the Jedi Council's going to find out.</text>
+		<text bitflag="1345" id1="528821" id2="17" version="1065353216">Jedi aren't supposed to get involved, right? Will you get a reprimand?</text>
+		<text bitflag="1345" id1="528822" id2="17" version="1065353216">If the Jedi is trustworthy and shows good judgment, the Council tends to be lenient.</text>
+		<text bitflag="1360" id1="528822" id2="17" version="1065353216">Relationships are tolerated.</text>
+		<text bitflag="1345" id1="528823" id2="17" version="1065353216">Not a ringing endorsement, but better than I thought.</text>
+		<text bitflag="1345" id1="528825" id2="17" version="1065353216">I think this is worth taking the chance, if you agree.</text>
+		<text bitflag="1360" id1="528825" id2="17" version="1065353216">I'll risk it if you will.</text>
+		<text bitflag="1345" id1="528826" id2="17" version="1065353216">Discretion, valor, better part of. Got it.</text>
+		<text bitflag="1345" id1="528828" id2="17" version="1065353216">Jedi are usually disciplined for having relationships, if they get caught.</text>
+		<text bitflag="1360" id1="528828" id2="17" version="1065353216">It's more than likely.</text>
+		<text bitflag="1345" id1="528829" id2="17" version="1065353216">We could stop, if you want. Go back to the way things were.</text>
+		<text bitflag="1345" id1="528830" id2="17" version="1065353216">I can't see you as just &quot;Lieutenant Iresso&quot; anymore.</text>
+		<text bitflag="1360" id1="528830" id2="17" version="1065353216">I don't think I can.</text>
+		<text bitflag="1345" id1="528831" id2="17" version="1065353216">I don't care what the Council thinks.</text>
+		<text bitflag="1360" id1="528831" id2="17" version="1065353216">Not a chance.</text>
+		<text bitflag="1345" id1="528832" id2="17" version="1065353216">Okay. If we're discreet, maybe we'll escape with a four-hour lecture.</text>
+		<text bitflag="1345" id1="528834" id2="17" version="1065353216">Jedi decisions are kind of a mystery to me. For a while, I couldn't understand why you let Valon go.</text>
+		<text bitflag="1345" id1="528835" id2="17" version="1065353216">I saw your face when he went free. I hated doing that to you.</text>
+		<text bitflag="1360" id1="528835" id2="17" version="1065353216">I'm sorry.</text>
+		<text bitflag="1345" id1="528836" id2="17" version="1065353216">That's command sometimes; you swallow your medicine.</text>
+		<text bitflag="1345" id1="528838" id2="17" version="1065353216">You have to leave Hoth eventually, Felix.</text>
+		<text bitflag="1360" id1="528838" id2="17" version="1065353216">You're still dwelling on that?</text>
+		<text bitflag="1345" id1="528839" id2="17" version="1065353216">That decision was about what was best for the Republic.</text>
+		<text bitflag="1360" id1="528839" id2="17" version="1065353216">It wasn't about you.</text>
+		<text bitflag="1345" id1="528840" id2="17" version="1065353216">No, I get why you recruited him. I just really hate the guy.</text>
+		<text bitflag="1345" id1="528842" id2="17" version="1065353216">I know a part of you will always belong to the Republic.</text>
+		<text bitflag="1345" id1="528844" id2="17" version="1065353216">But the rest of you is safe with me.</text>
+		<text bitflag="1345" id1="528845" id2="17" version="1065353216">That's what people always focus on about the Jedi. Being alone.</text>
+		<text bitflag="1345" id1="528847" id2="17" version="1065353216">Truth is, I don't know much about the Jedi. But I'd like to.</text>
+		<text bitflag="1345" id1="528848" id2="17" version="1065353216">Wherever we go, we know the Force is living and growing all around us. It gives you a great appreciation for life.</text>
+		<text bitflag="1360" id1="528848" id2="17" version="1065353216">We see connections everywhere.</text>
+		<text bitflag="1345" id1="528849" id2="17" version="1065353216">You sound so... I wish I could see what you see.</text>
+		<text bitflag="1345" id1="528851" id2="17" version="1065353216">Studying the Force takes discipline and vigilance. We have to be selfless. Sometimes it's hard.</text>
+		<text bitflag="1360" id1="528851" id2="17" version="1065353216">We make many sacrifices.</text>
+		<text bitflag="1345" id1="528852" id2="17" version="1065353216">Come on. You need to be selfish every now and then.</text>
+		<text bitflag="1345" id1="528854" id2="17" version="1065353216">We face challenges few can comprehend, but the rewards are greater than a lifetime of living safely.</text>
+		<text bitflag="1360" id1="528854" id2="17" version="1065353216">A risky life, but worthwhile.</text>
+		<text bitflag="1345" id1="528855" id2="17" version="1065353216">Risk, and reward. A little like what we're doing right now.</text>
+		<text bitflag="1345" id1="528857" id2="17" version="1065353216">Don't give up your secrets all at once. I want to find some out for myself.</text>
+		<text bitflag="1345" id1="528858" id2="17" version="1065353216">Considering the repercussions, that might be best.</text>
+		<text bitflag="1360" id1="528858" id2="17" version="1065353216">Yes, perhaps we should.</text>
+		<text bitflag="1345" id1="528859" id2="17" version="1065353216">Okay. Then one kiss will have to be enough.</text>
+		<text bitflag="1345" id1="528860" id2="17" version="1065353216">The Republic's holding up, but we're still taking a real beating against the Empire.</text>
+		<text bitflag="1345" id1="528862" id2="17" version="1065353216">I'm in this to win. No question of that. But d'you ever wonder what would happen if we lost?</text>
+		<text bitflag="1345" id1="528863" id2="17" version="1065353216">We've suffered defeats and setbacks before, and always survived to rebuild.</text>
+		<text bitflag="1360" id1="528863" id2="17" version="1065353216">The Republic will prevail.</text>
+		<text bitflag="1345" id1="528864" id2="17" version="1065353216">Makes you wonder; just what do we have that the Empire doesn't?</text>
+		<text bitflag="1345" id1="528866" id2="17" version="1065353216">Slavery, fear, living at the whim of some Imperial overseer... not a prospect I want to dwell on.</text>
+		<text bitflag="1360" id1="528866" id2="17" version="1065353216">I try not to.</text>
+		<text bitflag="1345" id1="528867" id2="17" version="1065353216">Me neither. But you know me, like to think ahead.</text>
+		<text bitflag="1345" id1="528869" id2="17" version="1065353216">Command will have some kind of contingency plan. If the time comes to use it, I hope we're leading the charge.</text>
+		<text bitflag="1345" id1="528870" id2="17" version="1065353216">Thinking like that is defeatist. If you're here to win, do it.</text>
+		<text bitflag="1360" id1="528870" id2="17" version="1065353216">No, and neither should you.</text>
+		<text bitflag="1345" id1="528871" id2="17" version="1065353216">If you never plan for a defeat, you stay defeated when it happens.</text>
+		<text bitflag="1345" id1="528873" id2="17" version="1065353216">Just wanted some input. Forget I asked.</text>
+		<text bitflag="1345" id1="528879" id2="17" version="1065353216">Uh, can we talk for a minute?</text>
+		<text bitflag="1345" id1="528881" id2="17" version="1065353216">There's something I think you should know about me.</text>
+		<text bitflag="1345" id1="528882" id2="17" version="1065353216">You don't need to tell me anything you don't want to.</text>
+		<text bitflag="1360" id1="528882" id2="17" version="1065353216">That's not necessary.</text>
+		<text bitflag="1345" id1="528883" id2="17" version="1065353216">I know. But I'd like to be straight with you.</text>
+		<text bitflag="1345" id1="528885" id2="17" version="1065353216">I'd like to know everything about you.</text>
+		<text bitflag="1360" id1="528885" id2="17" version="1065353216">[Flirt] How fascinating.</text>
+		<text bitflag="1345" id1="528886" id2="17" version="1065353216">I'd better start here, then.</text>
+		<text bitflag="1360" id1="528888" id2="17" version="1065353216">Go ahead.</text>
+		<text bitflag="1345" id1="528889" id2="17" version="1065353216">You once dressed up as a Hutt to get an insanity discharge?</text>
+		<text bitflag="1360" id1="528889" id2="17" version="1065353216">Wait, let me guess.</text>
+		<text bitflag="1345" id1="528890" id2="17" version="1065353216">Glorious mental images aside, this is kind of important.</text>
+		<text bitflag="1345" id1="528892" id2="17" version="1065353216">A few years ago, I was captured by the Empire. I was scouting on Althir with my friend Milo, and we ran into an Imperial strike team.</text>
+		<text bitflag="1345" id1="528894" id2="17" version="1065353216">I woke up in an Imperial cell with a headache.</text>
+		<text bitflag="1345" id1="528895" id2="17" version="1065353216">I remember Private Kree saying something about you being captured.</text>
+		<text bitflag="1360" id1="528895" id2="17" version="1065353216">Your men mentioned this.</text>
+		<text bitflag="1345" id1="528896" id2="17" version="1065353216">Yeah. Once he found out, he never got tired of needling me about it.</text>
+		<text bitflag="1345" id1="528898" id2="17" version="1065353216">Was Milo with you?</text>
+		<text bitflag="1360" id1="528898" id2="17" version="1065353216">What about your friend?</text>
+		<text bitflag="1345" id1="528899" id2="17" version="1065353216">There was no sign of him.</text>
+		<text bitflag="1345" id1="528901" id2="17" version="1065353216">Better to die than risk capture and interrogation.</text>
+		<text bitflag="1360" id1="528901" id2="17" version="1065353216">You should have fought back.</text>
+		<text bitflag="1345" id1="528902" id2="17" version="1065353216">We tried, but two against a dozen isn't good odds.</text>
+		<text bitflag="1345" id1="528904" id2="17" version="1065353216">When I managed to escape and reach a Republic ship, I realized I'd lost time. Seven days. Whatever happened to me is still a blank.</text>
+		<text bitflag="1345" id1="528905" id2="17" version="1065353216">There are Jedi techniques to recall lost or repressed memories.</text>
+		<text bitflag="1360" id1="528905" id2="17" version="1065353216">I could help you remember.</text>
+		<text bitflag="1345" id1="528906" id2="17" version="1065353216">They tried, but all I got was... stuff I've tried to forget.</text>
+		<text bitflag="1345" id1="528908" id2="17" version="1065353216">What do you think happened to you?</text>
+		<text bitflag="1360" id1="528908" id2="17" version="1065353216">Any theories?</text>
+		<text bitflag="1345" id1="528909" id2="17" version="1065353216">I have no idea. Nothing I come up with fits all the facts.</text>
+		<text bitflag="1345" id1="528911" id2="17" version="1065353216">Medically I'm fine, but my commanders don't like it. So I get shuffled around, wherever they need an extra blaster.</text>
+		<text bitflag="1345" id1="528913" id2="17" version="1065353216">That's why I keep being reassigned. I just thought you should know.</text>
+		<text bitflag="1345" id1="528914" id2="17" version="1065353216">I appreciate knowing this.</text>
+		<text bitflag="1360" id1="528914" id2="17" version="1065353216">Thank you for telling me.</text>
+		<text bitflag="1345" id1="528915" id2="17" version="1065353216">Better you hear it from me than someone else.</text>
+		<text bitflag="1345" id1="528917" id2="17" version="1065353216">So your career has stalled, and you have to live with those lost days.</text>
+		<text bitflag="1360" id1="528917" id2="17" version="1065353216">This must be difficult.</text>
+		<text bitflag="1345" id1="528918" id2="17" version="1065353216">I got captured by the Empire and survived. Thousands don't.</text>
+		<text bitflag="1345" id1="528920" id2="17" version="1065353216">I hope you'll understand if I keep a close eye on you.</text>
+		<text bitflag="1360" id1="528920" id2="17" version="1065353216">I'll be watching you.</text>
+		<text bitflag="1345" id1="528921" id2="17" version="1065353216">As you wish. But I'm no danger to anyone, especially you.</text>
+		<text bitflag="1345" id1="528923" id2="17" version="1065353216">Okay. But it's not necessary.</text>
+		<text bitflag="1345" id1="528925" id2="17" version="1065353216">So you're a liability to the Republic and everyone you serve with.</text>
+		<text bitflag="1360" id1="528925" id2="17" version="1065353216">This makes you a risk.</text>
+		<text bitflag="1345" id1="528926" id2="17" version="1065353216">Someday I'll find a commander who gives me the benefit of the doubt. I was just trying to keep you apprised.</text>
+		<text bitflag="1345" id1="528928" id2="17" version="1065353216">You know what bothers me most? Milo Pellam, the guy who was with me on Althir, got captured too. But no one ever saw him again.</text>
+		<text bitflag="1345" id1="528930" id2="17" version="1065353216">I guess I was the lucky one.</text>
+		<text bitflag="1345" id1="528936" id2="17" version="1065353216">I was hoping you'd have time for a quick strategy session.</text>
+		<text bitflag="1345" id1="528938" id2="17" version="1065353216">I was running a few scenarios--repelling a boarding party, what if someone gets captured, stuff like that.</text>
+		<text bitflag="1345" id1="528940" id2="17" version="1065353216">I was wondering what your... preferred tactics are.</text>
+		<text bitflag="1345" id1="528941" id2="17" version="1065353216">Time and patience usually reveal a weakness to exploit.</text>
+		<text bitflag="1360" id1="528941" id2="17" version="1065353216">A careful study of the foe.</text>
+		<text bitflag="1345" id1="528942" id2="17" version="1065353216">So, what if patience won't cut it?</text>
+		<text bitflag="1345" id1="528944" id2="17" version="1065353216">Why waste time, Lieutenant? Better to strike to the heart of the matter.</text>
+		<text bitflag="1360" id1="528944" id2="17" version="1065353216">[Flirt] Being direct.</text>
+		<text bitflag="1345" id1="528945" id2="17" version="1065353216">There is another scenario I haven't solved yet.</text>
+		<text bitflag="1345" id1="528947" id2="17" version="1065353216">Say a soldier found himself... captivated, by a superior force. What should he do?</text>
+		<text bitflag="1345" id1="528948" id2="17" version="1065353216">If he truly wanted the upper hand, he would have to exploit any chance he was given.</text>
+		<text bitflag="1360" id1="528948" id2="17" version="1065353216">Attack.</text>
+		<text bitflag="1345" id1="528949" id2="17" version="1065353216">Ascertain the intentions of the other party, and adjust his disposition to match.</text>
+		<text bitflag="1360" id1="528949" id2="17" version="1065353216">Defend.</text>
+		<text bitflag="1345" id1="528950" id2="17" version="1065353216">He'd have to give in to the inevitable, and hope for mercy.</text>
+		<text bitflag="1360" id1="528950" id2="17" version="1065353216">Surrender.</text>
+		<text bitflag="1345" id1="528951" id2="17" version="1065353216">I... you know what? It was pretty disrespectful of me to say that.</text>
+		<text bitflag="1345" id1="528953" id2="17" version="1065353216">I'm sorry. I keep forgetting you're a Jedi Master.</text>
+		<text bitflag="1345" id1="528954" id2="17" version="1065353216">A female Jedi Master, who has thoughts and feelings that have nothing to do with the Force.</text>
+		<text bitflag="1360" id1="528954" id2="17" version="1065353216">And a woman.</text>
+		<text bitflag="1345" id1="528955" id2="17" version="1065353216">Can't you put that aside, and be honest?</text>
+		<text bitflag="1360" id1="528955" id2="17" version="1065353216">Then forget, and talk to me.</text>
+		<text bitflag="1345" id1="528956" id2="17" version="1065353216">I don't know if I can say it right.</text>
+		<text bitflag="1345" id1="528958" id2="17" version="1065353216">Too late. You already have my undivided attention.</text>
+		<text bitflag="1360" id1="528958" id2="17" version="1065353216">Don't back down now.</text>
+		<text bitflag="1345" id1="528959" id2="17" version="1065353216">I thought, maybe I felt this way because I was still dealing with Hoth. But Hoth's over, and that feeling's still here.</text>
+		<text bitflag="1345" id1="528961" id2="17" version="1065353216">I look at you, and it's like I can see the places you've been, the mark you've left. I want to know more.</text>
+		<text bitflag="1345" id1="528963" id2="17" version="1065353216">It's not right to see a Jedi that way, but I do.</text>
+		<text bitflag="1345" id1="528964" id2="17" version="1065353216">The Force binds all things. Does acknowledging that bond make it evil?</text>
+		<text bitflag="1360" id1="528964" id2="17" version="1065353216">Why is it wrong?</text>
+		<text bitflag="1345" id1="528965" id2="17" version="1065353216">Well. Let's see.</text>
+		<text bitflag="1345" id1="528969" id2="17" version="1065353216">Something new for you to meditate on.</text>
+		<text bitflag="1345" id1="528970" id2="17" version="1065353216">Then try closing your eyes.</text>
+		<text bitflag="1360" id1="528970" id2="17" version="1065353216">Easily solved. [Kiss him.]</text>
+		<text bitflag="1345" id1="528973" id2="17" version="1065353216">You know how to make a point.</text>
+		<text bitflag="1345" id1="528975" id2="17" version="1065353216">I'll be seeing things differently from now on.</text>
+		<text bitflag="1345" id1="528976" id2="17" version="1065353216">I am flattered, but we can't afford to be selfish. Too many people depend on us.</text>
+		<text bitflag="1360" id1="528976" id2="17" version="1065353216">We should stop this, here.</text>
+		<text bitflag="1345" id1="528977" id2="17" version="1065353216">You make a lot of sense. As always.</text>
+		<text bitflag="1345" id1="528979" id2="17" version="1065353216">We still make a world-class team. Let's put this behind us and move on, okay?</text>
+		<text bitflag="1345" id1="528980" id2="17" version="1065353216">Tactics are less important than destroying the enemy and accomplishing your goal.</text>
+		<text bitflag="1360" id1="528980" id2="17" version="1065353216">Enough stupid games.</text>
+		<text bitflag="1345" id1="528981" id2="17" version="1065353216">Okay. I guess it wasn't as important as I thought.</text>
+		<text bitflag="1345" id1="528982" id2="17" version="1065353216">I have to ask. What do you want us to do if you're taken by the Empire?</text>
+		<text bitflag="1345" id1="528983" id2="17" version="1065353216">Get yourselves to safety, and send word to Tython. The Jedi have emergency procedures in place.</text>
+		<text bitflag="1360" id1="528983" id2="17" version="1065353216">Notify the Jedi Council.</text>
+		<text bitflag="1345" id1="528984" id2="17" version="1065353216">I bet they've had to use them, too. Okay, I'll log the order.</text>
+		<text bitflag="1345" id1="528986" id2="17" version="1065353216">I'm sure I could rely on my friends to bring me home.</text>
+		<text bitflag="1360" id1="528986" id2="17" version="1065353216">I'd hope to be rescued.</text>
+		<text bitflag="1345" id1="528987" id2="17" version="1065353216">Heh, no problem; I'd break an arm if I tried to stop Qyzen going after you.</text>
+		<text bitflag="1345" id1="528989" id2="17" version="1065353216">I'm far more valuable to the Empire dead. If I'm captured, assume the worst.</text>
+		<text bitflag="1360" id1="528989" id2="17" version="1065353216">Alive? That won't happen.</text>
+		<text bitflag="1345" id1="528990" id2="17" version="1065353216">Cheery, aren't you? Okay, if those are your orders, I'll make sure they're logged.</text>
+		<text bitflag="1345" id1="528992" id2="17" version="1065353216">Not a pleasant topic, I know. But it never hurts to plan in advance.</text>
+		<text bitflag="1345" id1="528998" id2="17" version="1065353216">Good news. One of my guys from Hoth got a promotion. Private Lavik made it to specialist.</text>
+		<text bitflag="1345" id1="528999" id2="17" version="1065353216">Please send him my congratulations.</text>
+		<text bitflag="1360" id1="528999" id2="17" version="1065353216">Good for him.</text>
+		<text bitflag="1345" id1="529000" id2="17" version="1065353216">Thanks, I'll let him know.</text>
+		<text bitflag="1345" id1="529002" id2="17" version="1065353216">Regrettably, there was little time on Hoth for introductions.</text>
+		<text bitflag="1360" id1="529002" id2="17" version="1065353216">Who was he?</text>
+		<text bitflag="1345" id1="529003" id2="17" version="1065353216">He was one of our runners, a Twi'lek. Good guy.</text>
+		<text bitflag="1345" id1="529005" id2="17" version="1065353216">You had my attention and lost it, Lieutenant.</text>
+		<text bitflag="1360" id1="529005" id2="17" version="1065353216">I had hoped for better news.</text>
+		<text bitflag="1345" id1="529006" id2="17" version="1065353216">Okay, but Lavik deserves someone getting excited.</text>
+		<text bitflag="1345" id1="529008" id2="17" version="1065353216">He's gone to Ord Mantell for training. I was there right after my transfer from... Felucia? No, Dantooine.</text>
+		<text bitflag="1345" id1="529010" id2="17" version="1065353216">Ord Mantell. That posting was lousy.</text>
+		<text bitflag="1345" id1="529011" id2="17" version="1065353216">I imagine it seems rather trivial since facing Captain Valon.</text>
+		<text bitflag="1360" id1="529011" id2="17" version="1065353216">Surely not worse than Hoth.</text>
+		<text bitflag="1345" id1="529012" id2="17" version="1065353216">Hoth was a bad mission in good company; this was the other way around.</text>
+		<text bitflag="1345" id1="529014" id2="17" version="1065353216">I was in a unit scattering a separatist training camp. Setting noise charges, ambushes, that sort of thing.</text>
+		<text bitflag="1345" id1="529016" id2="17" version="1065353216">What were you doing there?</text>
+		<text bitflag="1360" id1="529016" id2="17" version="1065353216">How so?</text>
+		<text bitflag="1345" id1="529017" id2="17" version="1065353216">We'd discovered a separatist training camp--me and another lieutenant were trying to break it up.</text>
+		<text bitflag="1345" id1="529019" id2="17" version="1065353216">But Lieutenant Jorgan had seniority, and he let me know it. Snap inspections, status reports... every day he was up in arms about something.</text>
+		<text bitflag="1345" id1="529020" id2="17" version="1065353216">Discipline is the shield of both a soldier and a Jedi.</text>
+		<text bitflag="1360" id1="529020" id2="17" version="1065353216">Sometimes that's necessary.</text>
+		<text bitflag="1345" id1="529021" id2="17" version="1065353216">I guess that's true.</text>
+		<text bitflag="1345" id1="529023" id2="17" version="1065353216">Did you get used to it eventually?</text>
+		<text bitflag="1360" id1="529023" id2="17" version="1065353216">How did you cope with him?</text>
+		<text bitflag="1345" id1="529024" id2="17" version="1065353216">I said &quot;Yes, sir&quot; when he ranted, then did what was best for the unit.</text>
+		<text bitflag="1345" id1="529026" id2="17" version="1065353216">Maybe I'm being too hard on Jorgan. He was a good soldier. He's probably a general by now.</text>
+		<text bitflag="1345" id1="529028" id2="17" version="1065353216">Perhaps you gave Jorgan good reason to keep rebuking you.</text>
+		<text bitflag="1360" id1="529028" id2="17" version="1065353216">Sounds like you were sloppy.</text>
+		<text bitflag="1345" id1="529029" id2="17" version="1065353216">I did right by my unit. It wasn't status reports or drills that kept them alive.</text>
+		<text bitflag="1345" id1="529031" id2="17" version="1065353216">I think Jorgan knew that. He was a jerk, but there was a good soldier underneath.</text>
+		<text bitflag="1345" id1="529033" id2="17" version="1065353216">We did the job and didn't lose a single man. Jorgan got a commendation. I got transferred to Serroco, then to Duro, then Hoth.</text>
+		<text bitflag="1345" id1="529034" id2="17" version="1065353216">It sounds like you're constantly being reassigned. Is that normal?</text>
+		<text bitflag="1360" id1="529034" id2="17" version="1065353216">Why so many transfers?</text>
+		<text bitflag="1345" id1="529035" id2="17" version="1065353216">Army life isn't easy.</text>
+		<text bitflag="1345" id1="529037" id2="17" version="1065353216">If it had been up to me, you'd have been properly compensated for your efforts.</text>
+		<text bitflag="1360" id1="529037" id2="17" version="1065353216">[Flirt] I'd have rewarded you.</text>
+		<text bitflag="1345" id1="529038" id2="17" version="1065353216">With you in charge, I'd have been too distracted to earn any reward.</text>
+		<text bitflag="1345" id1="529040" id2="17" version="1065353216">Glad I'm not being transferred this time. I hope.</text>
+		<text bitflag="1345" id1="529041" id2="17" version="1065353216">If you shared responsibility with Jorgan, you should have been recognized for your achievement.</text>
+		<text bitflag="1360" id1="529041" id2="17" version="1065353216">You weren't commended?</text>
+		<text bitflag="1345" id1="529042" id2="17" version="1065353216">Thanks, but I don't get commendations. I get a &quot;well done&quot; written on the back of my transfer orders.</text>
+		<text bitflag="1345" id1="529044" id2="17" version="1065353216">And everyone lived long and wisely afterwards?</text>
+		<text bitflag="1360" id1="529044" id2="17" version="1065353216">So, a happy ending for all.</text>
+		<text bitflag="1345" id1="529045" id2="17" version="1065353216">Apart from the separatists. Plus I got a brand new scar on Serroco.</text>
+		<text bitflag="1345" id1="529047" id2="17" version="1065353216">I hope Private--sorry, Specialist Lavik--appreciates what he's got.</text>
+		<text bitflag="1345" id1="529048" id2="17" version="1065353216">Thank you, but war stories have little appeal for me.</text>
+		<text bitflag="1360" id1="529048" id2="17" version="1065353216">I'm really not interested.</text>
+		<text bitflag="1345" id1="529049" id2="17" version="1065353216">Sure, didn't mean to bore you. Back to work.</text>
+		<text bitflag="1345" id1="529055" id2="17" version="1065353216">You know, I did some numbers. This could wind up being the longest assignment I've had in three years.</text>
+		<text bitflag="1345" id1="529057" id2="17" version="1065353216">Scary how time flies when your mind's on other things.</text>
+		<text bitflag="1345" id1="529058" id2="17" version="1065353216">Your mood does seem much brighter.</text>
+		<text bitflag="1360" id1="529058" id2="17" version="1065353216">I'm glad you're happy.</text>
+		<text bitflag="1345" id1="529059" id2="17" version="1065353216">I have my reasons.</text>
+		<text bitflag="1345" id1="529061" id2="17" version="1065353216">Being around a fetching hologram must be distracting indeed.</text>
+		<text bitflag="1360" id1="529061" id2="17" version="1065353216">[Flirt] Oh, you mean Holiday.</text>
+		<text bitflag="1345" id1="529062" id2="17" version="1065353216">Uh, women I can literally see through don't do a lot for me.</text>
+		<text bitflag="1345" id1="529064" id2="17" version="1065353216">Meantime, I was hoping to get better acquainted with... the ship. It's got a lot of potential. A little mystery, too. I'm curious.</text>
+		<text bitflag="1345" id1="529065" id2="17" version="1065353216">If you're going to indulge your curiosity, perhaps I'll do the same.</text>
+		<text bitflag="1360" id1="529065" id2="17" version="1065353216">[Flirt] I like mysteries, too.</text>
+		<text bitflag="1345" id1="529066" id2="17" version="1065353216">Who knows? We might even meet in the middle.</text>
+		<text bitflag="1345" id1="529068" id2="17" version="1065353216">Let me know if your investigations get anywhere.</text>
+		<text bitflag="1360" id1="529068" id2="17" version="1065353216">[Flirt] Sounds intriguing.</text>
+		<text bitflag="1345" id1="529069" id2="17" version="1065353216">I'm sure you'll know before I do.</text>
+		<text bitflag="1345" id1="529071" id2="17" version="1065353216">Time might end up flying faster than I thought.</text>
+		<text bitflag="1345" id1="529072" id2="17" version="1065353216">All Padawans know curiosity can lead to disaster.</text>
+		<text bitflag="1360" id1="529072" id2="17" version="1065353216">I'm not comfortable with this.</text>
+		<text bitflag="1345" id1="529073" id2="17" version="1065353216">Then I'll trust your judgment, and admire the ship for what it is.</text>
+		<text bitflag="1345" id1="529074" id2="17" version="1065353216">If you're distracted from your duties, Lieutenant, I trust you'll remedy the situation.</text>
+		<text bitflag="1360" id1="529074" id2="17" version="1065353216">If that's all, I should go.</text>
+		<text bitflag="1345" id1="529075" id2="17" version="1065353216">Roger that.</text>
+		<text bitflag="1345" id1="529076" id2="17" version="1065353216">Still feel fresh, though. On Hoth, all I could think about was shore leave. Somewhere sunny, or maybe going a little crazy on Nar Shaddaa....</text>
+		<text bitflag="1345" id1="529078" id2="17" version="1065353216">Where would you go on leave, if you had the time?</text>
+		<text bitflag="1345" id1="529079" id2="17" version="1065353216">Jedi don't take &quot;leave&quot;; we have too many responsibilities.</text>
+		<text bitflag="1360" id1="529079" id2="17" version="1065353216">I can't, I'm always on duty.</text>
+		<text bitflag="1345" id1="529080" id2="17" version="1065353216">Hedonism can be liberating, and Nar Shaddaa is overflowing with it.</text>
+		<text bitflag="1360" id1="529080" id2="17" version="1065353216">Nar Shaddaa is fun....</text>
+		<text bitflag="1345" id1="529081" id2="17" version="1065353216">I'm not sure even Nar Shaddaa could handle a Jedi who wants to feel &quot;liberated.&quot;</text>
+		<text bitflag="1345" id1="529083" id2="17" version="1065353216">At least you can see there's life beyond duty. I'll keep that in mind.</text>
+		<text bitflag="1345" id1="529084" id2="17" version="1065353216">We have a vital mission. I don't want to turn around and find out you've wandered off on vacation.</text>
+		<text bitflag="1360" id1="529084" id2="17" version="1065353216">Just focus on the job.</text>
+		<text bitflag="1345" id1="529085" id2="17" version="1065353216">I know, I know, you need all hands on deck.</text>
+		<text bitflag="1345" id1="529087" id2="17" version="1065353216">Still, there's more to life than work, even for Jedi.</text>
+		<text bitflag="1345" id1="529093" id2="17" version="1065353216">Your friend Qyzen's something else. He was asking how many kills I've made.</text>
+		<text bitflag="1345" id1="529094" id2="17" version="1065353216">In Trandoshan society, an individual's status is determined by hunting.</text>
+		<text bitflag="1360" id1="529094" id2="17" version="1065353216">It's part of his culture.</text>
+		<text bitflag="1345" id1="529095" id2="17" version="1065353216">Oh. Wonder what your status is if you say &quot;I don't keep count.&quot;</text>
+		<text bitflag="1345" id1="529097" id2="17" version="1065353216">What did you tell him?</text>
+		<text bitflag="1360" id1="529097" id2="17" version="1065353216">So, how many, Lieutenant?</text>
+		<text bitflag="1345" id1="529098" id2="17" version="1065353216">I don't keep count. He seemed a bit offended by that.</text>
+		<text bitflag="1345" id1="529100" id2="17" version="1065353216">It's a Trandoshan thing; it doesn't really matter what you say.</text>
+		<text bitflag="1360" id1="529100" id2="17" version="1065353216">Just ignore him.</text>
+		<text bitflag="1345" id1="529101" id2="17" version="1065353216">He's odd company for a Jedi Master.</text>
+		<text bitflag="1345" id1="529103" id2="17" version="1065353216">I've been posted all over, but I haven't met many Trandoshans. Or Jedi.</text>
+		<text bitflag="1345" id1="529105" id2="17" version="1065353216">I always think of Jedi Masters as being stationed on Tython. And being... well, you're more hands-on than I expected.</text>
+		<text bitflag="1345" id1="529106" id2="17" version="1065353216">The Force can't dig a garden or build a city's defenses. Sometimes you must get your hands dirty.</text>
+		<text bitflag="1360" id1="529106" id2="17" version="1065353216">One must work to succeed.</text>
+		<text bitflag="1345" id1="529107" id2="17" version="1065353216">I hear that.</text>
+		<text bitflag="1345" id1="529109" id2="17" version="1065353216">Do you object to someone adding a personal touch, Lieutenant?</text>
+		<text bitflag="1360" id1="529109" id2="17" version="1065353216">[Flirt] Is that a bad thing?</text>
+		<text bitflag="1345" id1="529110" id2="17" version="1065353216">If you find that more satisfying, who am I to argue with a Jedi?</text>
+		<text bitflag="1345" id1="529112" id2="17" version="1065353216">Did you think I would stand back and reason our opponents to death?</text>
+		<text bitflag="1360" id1="529112" id2="17" version="1065353216">What were you expecting, then?</text>
+		<text bitflag="1345" id1="529113" id2="17" version="1065353216">Not sure, but I'd pay good credits to see that.</text>
+		<text bitflag="1345" id1="529115" id2="17" version="1065353216">At least your missions aren't as hair-raising as mine were. It's been years since I slept through the night without some crisis coming up.</text>
+		<text bitflag="1345" id1="529117" id2="17" version="1065353216">I'd rather be protecting the galaxy than be shackled to the Jedi Temple.</text>
+		<text bitflag="1360" id1="529117" id2="17" version="1065353216">Tython's dull.</text>
+		<text bitflag="1345" id1="529118" id2="17" version="1065353216">Absolutely. Safe gets dull.</text>
+		<text bitflag="1345" id1="529120" id2="17" version="1065353216">Don't get me wrong, it's nice to not have blaster shots parting my hair. And I haven't had a billet this good in... oh. Years.</text>
+		<text bitflag="1345" id1="529122" id2="17" version="1065353216">Trandoshans, Jedi, it's all good. I'm glad to be here.</text>
+		<text bitflag="1345" id1="529126" id2="17" version="1065353216">Can I have a word, when we're back at the ship?</text>
+		<text bitflag="1345" id1="529127" id2="17" version="1065353216">When you're free, can I talk to you?</text>
+		<text bitflag="1345" id1="529128" id2="17" version="1065353216">Hey there.</text>
+		<text bitflag="1345" id1="988248" id2="17" version="1065353216">Okay, I've caught my breath. Ready to go?</text>
+		<text bitflag="1345" id1="988249" id2="17" version="1065353216">Don't push your luck.</text>
+		<text bitflag="1345" id1="988250" id2="17" version="1065353216">Hey.</text>
+		<text bitflag="1345" id1="988251" id2="17" version="1065353216">Roger that.</text>
+		<text bitflag="1345" id1="988253" id2="17" version="1065353216">Glad we're on the same page. So, what do I do?</text>
+	</file_content>
+</stb_file>

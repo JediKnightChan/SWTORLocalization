@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>57</strs>
+		<file_name>/resources/en-us/str/gui/equipslot.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="482687" version="1065353216">Main Hand (Melee)</text>
+		<text bitflag="321" id1="2" id2="482687" version="1065353216">Offhand (Melee)</text>
+		<text bitflag="321" id1="3" id2="482687" version="1065353216">Chest</text>
+		<text bitflag="321" id1="4" id2="482687" version="1065353216">Legs</text>
+		<text bitflag="321" id1="5" id2="482687" version="1065353216">Wrists</text>
+		<text bitflag="321" id1="6" id2="482687" version="1065353216">Waist</text>
+		<text bitflag="321" id1="7" id2="482687" version="1065353216">Hands</text>
+		<text bitflag="321" id1="8" id2="482687" version="1065353216">Feet</text>
+		<text bitflag="321" id1="9" id2="482687" version="1065353216">Head</text>
+		<text bitflag="321" id1="10" id2="482687" version="1065353216">Ear</text>
+		<text bitflag="321" id1="11" id2="482687" version="1065353216">Implant</text>
+		<text bitflag="321" id1="12" id2="482687" version="1065353216">Gadget</text>
+		<text bitflag="321" id1="13" id2="482687" version="1065353216">Main Hand (Ranged)</text>
+		<text bitflag="321" id1="14" id2="482687" version="1065353216">Shotgun</text>
+		<text bitflag="321" id1="15" id2="482687" version="1065353216">Knife</text>
+		<text bitflag="321" id1="16" id2="482687" version="1065353216">Offhand (General)</text>
+		<text bitflag="321" id1="17" id2="482687" version="1065353216">Customization</text>
+		<text bitflag="321" id1="18" id2="482687" version="1065353216">Actuators</text>
+		<text bitflag="321" id1="19" id2="482687" version="1065353216">Locomotors</text>
+		<text bitflag="321" id1="20" id2="482687" version="1065353216">Chassis</text>
+		<text bitflag="321" id1="21" id2="482687" version="1065353216">Frame</text>
+		<text bitflag="321" id1="22" id2="482687" version="1065353216">Manipulators</text>
+		<text bitflag="321" id1="23" id2="482687" version="1065353216">Offhand (Ranged)</text>
+		<text bitflag="321" id1="24" id2="482687" version="1065353216">Main Hand (Melee)</text>
+		<text bitflag="321" id1="25" id2="482687" version="1065353216">Relic</text>
+		<text bitflag="321" id1="26" id2="482687" version="1065353216">Offhand (General)</text>
+		<text bitflag="321" id1="27" id2="482687" version="1065353216">Relic</text>
+		<text bitflag="321" id1="28" id2="482687" version="1065353216">Relic</text>
+		<text bitflag="321" id1="29" id2="482687" version="1065353216">Ship Armor</text>
+		<text bitflag="321" id1="30" id2="482687" version="1065353216">Beam Charger</text>
+		<text bitflag="321" id1="31" id2="482687" version="1065353216">Beam Generator</text>
+		<text bitflag="321" id1="32" id2="482687" version="1065353216">Energy Shield</text>
+		<text bitflag="321" id1="33" id2="482687" version="1065353216">Shield Regenerator</text>
+		<text bitflag="321" id1="34" id2="482687" version="1065353216">Missile Magazine</text>
+		<text bitflag="321" id1="35" id2="482687" version="1065353216">Proton Torpedoes</text>
+		<text bitflag="321" id1="36" id2="482687" version="1065353216">Sensor Unit</text>
+		<text bitflag="321" id1="37" id2="482687" version="1065353216">Chassis</text>
+		<text bitflag="321" id1="38" id2="482687" version="1065353216">Core</text>
+		<text bitflag="321" id1="39" id2="482687" version="1065353216">Core</text>
+		<text bitflag="321" id1="40" id2="482687" version="1065353216">Motor</text>
+		<text bitflag="321" id1="41" id2="482687" version="1065353216">Motor</text>
+		<text bitflag="321" id1="42" id2="482687" version="1065353216">Parts</text>
+		<text bitflag="321" id1="43" id2="482687" version="1065353216">Parts</text>
+		<text bitflag="321" id1="299" id2="482687" version="1065353216">Electronic Warfare Pod</text>
+		<text bitflag="321" id1="300" id2="482687" version="1065353216">EMP Generator</text>
+		<text bitflag="321" id1="301" id2="482687" version="1065353216">Power Conversion Module</text>
+		<text bitflag="321" id1="302" id2="482687" version="1065353216">Primary Weapons</text>
+		<text bitflag="321" id1="303" id2="482687" version="1065353216">Secondary Weapons</text>
+		<text bitflag="321" id1="304" id2="482687" version="1065353216">Systems</text>
+		<text bitflag="321" id1="305" id2="482687" version="1065353216">Engines</text>
+		<text bitflag="321" id1="306" id2="482687" version="1065353216">Shields</text>
+		<text bitflag="321" id1="307" id2="482687" version="1065353216">Capacitor</text>
+		<text bitflag="321" id1="308" id2="482687" version="1065353216">Magazine</text>
+		<text bitflag="321" id1="309" id2="482687" version="1065353216">Sensors</text>
+		<text bitflag="321" id1="310" id2="482687" version="1065353216">Thrusters</text>
+		<text bitflag="321" id1="311" id2="482687" version="1065353216">Reactor</text>
+		<text bitflag="321" id1="312" id2="482687" version="1065353216">Armor</text>
+	</file_content>
+</stb_file>

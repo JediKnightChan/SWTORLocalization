@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x3/pvp/warzone/voidstar/republic_cinematic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1040083" id2="17" version="1065353216">Welcome! Today's live-fire exercise takes place aboard a replica of the Imperial Starship Voidstar. You will start as the attacking team.</text>
+		<text bitflag="1345" id1="1040085" id2="17" version="1065353216">Fight through the defenders to claim the ship's datacore. To clear your path, plant explosives on a blast door and guard the bomb until it detonates!</text>
+	</file_content>
+</stb_file>

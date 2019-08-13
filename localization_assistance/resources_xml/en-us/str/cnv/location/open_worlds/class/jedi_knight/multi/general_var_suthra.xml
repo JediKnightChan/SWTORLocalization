@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>373</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/multi/general_var_suthra.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="639130" id2="17" version="1065353216">General? We got a little scorched, but we're inside Angral's battle cruiser.</text>
+		<text bitflag="1345" id1="639131" id2="17" version="1065353216">Yes! I knew you could do it. Now to end that Sith for good.</text>
+		<text bitflag="1345" id1="639133" id2="17" version="1065353216">Won't be that simple. The sensor logs of Angral's warship reveal he's amplified the vessel's reactors.</text>
+		<text bitflag="1345" id1="639135" id2="17" version="1065353216">That's a little trick he learned from me, when I was interrogated by his spy on Taris. Blast his truth serums and mind probes....</text>
+		<text bitflag="1345" id1="639137" id2="17" version="1065353216">Disarming the Desolator weapon will necessitate overloading at least three shielded reactor relays. No simple task.</text>
+		<text bitflag="3393" id1="639139" id2="17" version="1065353216">Jedi + Kira = go to reactor relays // T7 = interface with warship computers + disrupt security protocols</text>
+		<text bitflag="1345" id1="639140" id2="17" version="1065353216">Luck is with us. The refit to Angral's warship was... crude.</text>
+		<text bitflag="1345" id1="639142" id2="17" version="1065353216">Knocking out any reactor relay will disrupt the Desolator's charge and shut it down.</text>
+		<text bitflag="1345" id1="639144" id2="17" version="1065353216">Of course, those relays are certain to be well-guarded.</text>
+		<text bitflag="3393" id1="639146" id2="17" version="1065353216">Jedi + Kira = go to reactor relay // T7 = interface with warship computers + disrupt security protocols</text>
+		<text bitflag="1345" id1="639147" id2="17" version="1065353216">General, doctor... my team's moving out. We'll save Tython or die trying.</text>
+		<text bitflag="1360" id1="639147" id2="17" version="1065353216">Sounds like a plan.</text>
+		<text bitflag="1345" id1="639148" id2="17" version="1065353216">Don't even think that. I expect us all to reach a ripe old age.</text>
+		<text bitflag="1345" id1="639149" id2="17" version="1065353216">I'd much rather have you at my side, Teeseven.</text>
+		<text bitflag="1360" id1="639149" id2="17" version="1065353216">But I want you with me.</text>
+		<text bitflag="1345" id1="639150" id2="17" version="1065353216">The feeling's mutual.</text>
+		<text bitflag="1345" id1="639152" id2="17" version="1065353216">Me too, but I'll settle for you.</text>
+		<text bitflag="1345" id1="639154" id2="17" version="1065353216">All three of us against Darth Angral? Sounds like fun.</text>
+		<text bitflag="3393" id1="639156" id2="17" version="1065353216">Kira = not equipped to override Imperial security // T7 = logical choice</text>
+		<text bitflag="1345" id1="639157" id2="17" version="1065353216">If this is an excuse to stay behind where it's safe, I'll have your memory wiped.</text>
+		<text bitflag="1360" id1="639157" id2="17" version="1065353216">Don't disappoint me, droid.</text>
+		<text bitflag="3393" id1="639158" id2="17" version="1065353216">T7 = get to work right away</text>
+		<text bitflag="1345" id1="639160" id2="17" version="1065353216">Your signal's breaking up. May the--</text>
+		<text bitflag="1345" id1="639162" id2="17" version="1065353216">Angral's jamming our transmissions. He's coming for us.</text>
+		<text bitflag="3393" id1="639164" id2="17" version="1065353216">T7 = find computer access // Jedi + Kira = disable Desolator weapon + defeat Darth Angral</text>
+		<text bitflag="3393" id1="639166" id2="17" version="1065353216">T7 = calculate 100 percent chance total success</text>
+		<text bitflag="1345" id1="639167" id2="17" version="1065353216">Thanks for the vote of confidence, Teeseven. Be careful out there.</text>
+		<text bitflag="1360" id1="639167" id2="17" version="1065353216">Good luck, buddy.</text>
+		<text bitflag="3393" id1="639168" id2="17" version="1065353216">The Force = be with Jedi + T7 too</text>
+		<text bitflag="1360" id1="639169" id2="17" version="1065353216">Let's hope so.</text>
+		<text bitflag="1345" id1="639170" id2="17" version="1065353216">I don't need any false encouragement from you.</text>
+		<text bitflag="1360" id1="639170" id2="17" version="1065353216">Don't patronize me.</text>
+		<text bitflag="1345" id1="639171" id2="17" version="1065353216">I do. Thanks, Teeseven.</text>
+		<text bitflag="3393" id1="639173" id2="17" version="1065353216">The Force = be with Kira + Jedi too</text>
+		<text bitflag="1345" id1="639178" id2="17" version="1065353216">We're getting another emergency alert--from Tython. Relaying it now....</text>
+		<text bitflag="1345" id1="639180" id2="17" version="1065353216">...under attack by Darth Angral. Launching defense fighters....</text>
+		<text bitflag="1345" id1="639182" id2="17" version="1065353216">...Angral's battle cruiser... deploying... energy weapon... our ships can't escape Tython's atmosphere... we're trapped....</text>
+		<text bitflag="1345" id1="639184" id2="17" version="1065353216">That explains why Angral left Uphrades so quickly. He's already chosen his next target.</text>
+		<text bitflag="1345" id1="639185" id2="17" version="1065353216">Angral's going to incinerate Tython just like he did Uphrades.</text>
+		<text bitflag="1360" id1="639185" id2="17" version="1065353216">The Jedi homeworld.</text>
+		<text bitflag="1345" id1="639186" id2="17" version="1065353216">And finish what he started years ago--the annihilation of the Jedi.</text>
+		<text bitflag="1345" id1="639188" id2="17" version="1065353216">Send everything you've got to Tython! Now, General!</text>
+		<text bitflag="1360" id1="639188" id2="17" version="1065353216">Alert the fleet!</text>
+		<text bitflag="1345" id1="639189" id2="17" version="1065353216">With all that tactical intelligence, how could you not see this coming?</text>
+		<text bitflag="1360" id1="639189" id2="17" version="1065353216">You failed us, General.</text>
+		<text bitflag="1345" id1="639190" id2="17" version="1065353216">There are more tactically advantageous targets to strike. Angral's acting from emotion, not logic.</text>
+		<text bitflag="1345" id1="639192" id2="17" version="1065353216">The Republic fleet's in hyperspace. By the time it's redirected to Tython, it'll be too late.</text>
+		<text bitflag="1345" id1="639194" id2="17" version="1065353216">The Desolator needs time to work. The Jedi may be trapped on Tython, but you're not.</text>
+		<text bitflag="1345" id1="639196" id2="17" version="1065353216">You could board Angral's battle cruiser. Disable the weapon before it fires.</text>
+		<text bitflag="1345" id1="639197" id2="17" version="1065353216">I'll disable that weapon--and Darth Angral will answer for his crimes.</text>
+		<text bitflag="1360" id1="639197" id2="17" version="1065353216">I'm on my way.</text>
+		<text bitflag="1345" id1="639198" id2="17" version="1065353216">There are other Jedi not on Tython. Send them to help me.</text>
+		<text bitflag="1360" id1="639198" id2="17" version="1065353216">Tell the other Jedi.</text>
+		<text bitflag="1345" id1="639199" id2="17" version="1065353216">I'll gather all the reinforcements I can find, but it'll take time.</text>
+		<text bitflag="1345" id1="639201" id2="17" version="1065353216">We should take the Desolator intact. Turning it against the Empire seems only fair.</text>
+		<text bitflag="1360" id1="639201" id2="17" version="1065353216">That weapon should be ours.</text>
+		<text bitflag="1345" id1="639202" id2="17" version="1065353216">I agree--but one mission at a time.</text>
+		<text bitflag="1345" id1="639204" id2="17" version="1065353216">I'll use the sensor logs to find the Desolator's weak point. Contact us when you're aboard Angral's warship.</text>
+		<text bitflag="1345" id1="639206" id2="17" version="1065353216">May the Force be with you.</text>
+		<text bitflag="1345" id1="639214" id2="17" version="1065353216">The Daybreaker is secured, General. The crew witnessed what Angral did here.</text>
+		<text bitflag="1345" id1="639215" id2="17" version="1065353216">The ship's captain just transmitted sensor logs to the fleet. We've seen what we're up against.</text>
+		<text bitflag="1345" id1="639217" id2="17" version="1065353216">I rescued the Daybreaker, General. I have sensor logs of Angral's attack.</text>
+		<text bitflag="1345" id1="639219" id2="17" version="1065353216">However, the crew landed on Uphrades to help possible survivors. They're trapped.</text>
+		<text bitflag="1345" id1="639220" id2="17" version="1065353216">We'll get them back somehow, but Angral's our first priority.</text>
+		<text bitflag="1345" id1="639222" id2="17" version="1065353216">Transmitting sensor logs now....</text>
+		<text bitflag="1345" id1="639224" id2="17" version="1065353216">My initial analysis indicates the Desolator has a similar flaw to the Planet Prison.</text>
+		<text bitflag="1345" id1="639226" id2="17" version="1065353216">The weapon's excessive power requirements demand a lengthy charging period before it can fire.</text>
+		<text bitflag="1345" id1="639228" id2="17" version="1065353216">Small consolation. Angral's next attack will undoubtedly be more direct.</text>
+		<text bitflag="1345" id1="639229" id2="17" version="1065353216">The entire Republic should be warned about this.</text>
+		<text bitflag="1360" id1="639229" id2="17" version="1065353216">We need to alert everyone.</text>
+		<text bitflag="1345" id1="639230" id2="17" version="1065353216">Coruscant needs to begin food rationing immediately.</text>
+		<text bitflag="1345" id1="639232" id2="17" version="1065353216">If he uses it on one of the Core Worlds, it will be catastrophic.</text>
+		<text bitflag="1360" id1="639232" id2="17" version="1065353216">More damaging, as well.</text>
+		<text bitflag="1345" id1="639233" id2="17" version="1065353216">An understatement. He could murder trillions.</text>
+		<text bitflag="1345" id1="639235" id2="17" version="1065353216">You think he'll attack Coruscant again?</text>
+		<text bitflag="1360" id1="639235" id2="17" version="1065353216">But where will it be?</text>
+		<text bitflag="1345" id1="639236" id2="17" version="1065353216">Anything's possible. How do we defend against such careless hatred?</text>
+		<text bitflag="1345" id1="639238" id2="17" version="1065353216">I'll contact the Galactic Senate and put every Republic world on--wait....</text>
+		<text bitflag="1345" id1="639242" id2="17" version="1065353216">We've just picked up the tracking beacon's signal in the Uphrades system.</text>
+		<text bitflag="1345" id1="639244" id2="17" version="1065353216">Tatooine is safe, but Darth Angral's warship has entered the Uphrades system.</text>
+		<text bitflag="1345" id1="639246" id2="17" version="1065353216">That agriworld supplies nearly half of Coruscant's food. I'm scrambling the fleet, but you're closer.</text>
+		<text bitflag="1345" id1="639247" id2="17" version="1065353216">My ship isn't equipped to fight a battle cruiser, but I'll think of something.</text>
+		<text bitflag="1360" id1="639247" id2="17" version="1065353216">I'm already on my way.</text>
+		<text bitflag="1345" id1="639248" id2="17" version="1065353216">Maybe the Empire will send forces to help us take down Angral?</text>
+		<text bitflag="1360" id1="639248" id2="17" version="1065353216">What about the Imperial Navy?</text>
+		<text bitflag="1345" id1="639249" id2="17" version="1065353216">The Empire's disavowed Darth Angral--but that doesn't mean they'll help us.</text>
+		<text bitflag="1345" id1="639251" id2="17" version="1065353216">I'll handle Angral. By the time your ships arrive, there won't be anything left.</text>
+		<text bitflag="1360" id1="639251" id2="17" version="1065353216">Your fleet won't be needed.</text>
+		<text bitflag="1345" id1="639252" id2="17" version="1065353216">Angral's dreadnaught has a slight turbolaser advantage over your gunship.</text>
+		<text bitflag="1345" id1="639254" id2="17" version="1065353216">Any damage to Uphrades's food production could cripple the Republic.</text>
+		<text bitflag="1345" id1="639256" id2="17" version="1065353216">One warship can only destroy so much.</text>
+		<text bitflag="1345" id1="639258" id2="17" version="1065353216">Tell that to Taris.</text>
+		<text bitflag="1345" id1="639260" id2="17" version="1065353216">Transmitting Uphrades's coordinates. Good hunting.</text>
+		<text bitflag="1345" id1="639267" id2="17" version="1065353216">General, the Death Mark has been destroyed--and I have news about Master Orgus.</text>
+		<text bitflag="1345" id1="639268" id2="17" version="1065353216">Darth Angral broadcasted Orgus's execution over the HoloNet. Left the body floating in space for us to find.</text>
+		<text bitflag="1345" id1="639270" id2="17" version="1065353216">A Republic shuttle just recovered the remains from the edge of the Alderaan system. I'm sorry.</text>
+		<text bitflag="1345" id1="639271" id2="17" version="1065353216">Orgus taught me everything I know about being a Jedi.</text>
+		<text bitflag="1360" id1="639271" id2="17" version="1065353216">He was a great teacher.</text>
+		<text bitflag="1345" id1="639272" id2="17" version="1065353216">Darth Angral has no idea what he's brought on himself.</text>
+		<text bitflag="1345" id1="639274" id2="17" version="1065353216">Your Master is dead, but he left us a gift.</text>
+		<text bitflag="1345" id1="639276" id2="17" version="1065353216">You were friends a long time.</text>
+		<text bitflag="1360" id1="639276" id2="17" version="1065353216">You have my sympathies.</text>
+		<text bitflag="1345" id1="639277" id2="17" version="1065353216">Not many of us left from the old days. Orgus was... he was the best.</text>
+		<text bitflag="1345" id1="639279" id2="17" version="1065353216">He sacrificed himself for a purpose.</text>
+		<text bitflag="1345" id1="639281" id2="17" version="1065353216">I can't help feeling Orgus planned all this.</text>
+		<text bitflag="1360" id1="639281" id2="17" version="1065353216">Orgus was up to something.</text>
+		<text bitflag="1345" id1="639282" id2="17" version="1065353216">Somehow, he planted a tracking beacon on Angral's cruiser without the Sith realizing it.</text>
+		<text bitflag="1345" id1="639284" id2="17" version="1065353216">Every time Angral's ship drops out of hyperspace, we know where. Orgus got the last laugh.</text>
+		<text bitflag="1345" id1="639285" id2="17" version="1065353216">It was a brilliant strategy, but I wonder if the cost was too great.</text>
+		<text bitflag="1360" id1="639285" id2="17" version="1065353216">A high price for victory.</text>
+		<text bitflag="1345" id1="639286" id2="17" version="1065353216">He paid it so others wouldn't have to.</text>
+		<text bitflag="1345" id1="639287" id2="17" version="1065353216">What if Angral finds the beacon Orgus planted?</text>
+		<text bitflag="1360" id1="639287" id2="17" version="1065353216">You're sure?</text>
+		<text bitflag="1345" id1="639288" id2="17" version="1065353216">By the time he realizes we can find him, it'll be too late. We'll make sure of that.</text>
+		<text bitflag="1345" id1="639289" id2="17" version="1065353216">If Orgus had let me go with him, he'd still be alive. I could've killed Angral.</text>
+		<text bitflag="1360" id1="639289" id2="17" version="1065353216">What a waste.</text>
+		<text bitflag="1345" id1="639290" id2="17" version="1065353216">Maybe, maybe not. Regardless, the odds favor us next time.</text>
+		<text bitflag="1345" id1="639294" id2="17" version="1065353216">Stand by... report coming through. Angral is on the move.</text>
+		<text bitflag="1345" id1="639296" id2="17" version="1065353216">Until Angral shows himself, all we can do is secure our facility on Tatooine. Contact me when you're there. Var Suthra out.</text>
+		<text bitflag="1345" id1="639302" id2="17" version="1065353216">General, doctor... good news. Master Kiwiiks and Seismologist Hare'en are safe. Even better, the Shock Drum was destroyed.</text>
+		<text bitflag="1345" id1="639303" id2="17" version="1065353216">Destroyed? Blast. I wanted to inspect that prototype. Such a promising design.</text>
+		<text bitflag="1345" id1="639305" id2="17" version="1065353216">The only thing it promised was to destroy planets. Honestly, I'm relieved it's gone.</text>
+		<text bitflag="1345" id1="639307" id2="17" version="1065353216">General, I've secured your Shock Drum prototype. Send a recovery team to pick it up, along with Seismologist Hare'en and Master Kiwiiks.</text>
+		<text bitflag="1345" id1="639308" id2="17" version="1065353216">Wonderful news. I have some thoughts for modifying the Shock Drum into an aerial bombardment device.</text>
+		<text bitflag="1345" id1="639310" id2="17" version="1065353216">I'll send a transport to Tatooine immediately--but don't get ahead of yourself, doctor.</text>
+		<text bitflag="1345" id1="639312" id2="17" version="1065353216">General, I've secured the Shock Drum's prototype. Master Kiwiiks and Seismologist Hare'en are watching over it. I told them you'd decide what to do.</text>
+		<text bitflag="1345" id1="639313" id2="17" version="1065353216">We must preserve the prototype, obviously. It's a brilliant design. Many applications.</text>
+		<text bitflag="1345" id1="639315" id2="17" version="1065353216">If we &quot;apply&quot; a planet-killing weapon, then we're as bad as the Empire.</text>
+		<text bitflag="1345" id1="639317" id2="17" version="1065353216">Who wouldn't hesitate to use it against us.</text>
+		<text bitflag="1345" id1="639319" id2="17" version="1065353216">Enough, doctor. I'm placing the prototype in deep storage. That's the end of it.</text>
+		<text bitflag="1345" id1="639321" id2="17" version="1065353216">I've just received a surprising report from one of my cruisers in the area. A pure-blooded Sith Lord named Praven surrendered to it.</text>
+		<text bitflag="1345" id1="639323" id2="17" version="1065353216">He mentioned your name. Anything I should know?</text>
+		<text bitflag="1345" id1="639324" id2="17" version="1065353216">He was one of Darth Angral's apprentices, but he's joining our side. I promised we wouldn't hurt him.</text>
+		<text bitflag="1360" id1="639324" id2="17" version="1065353216">Treat him well.</text>
+		<text bitflag="1345" id1="639325" id2="17" version="1065353216">You keep finding new ways to impress me.</text>
+		<text bitflag="1345" id1="639327" id2="17" version="1065353216">I wasn't sure he'd go through with it.</text>
+		<text bitflag="1360" id1="639327" id2="17" version="1065353216">He actually surrendered?</text>
+		<text bitflag="1345" id1="639328" id2="17" version="1065353216">This is almost unprecedented. It's only happened once before, and that was years ago.</text>
+		<text bitflag="1345" id1="639330" id2="17" version="1065353216">He says he wants to join our side, but Sith lie all the time.</text>
+		<text bitflag="1360" id1="639330" id2="17" version="1065353216">Keep an eye on him.</text>
+		<text bitflag="1345" id1="639331" id2="17" version="1065353216">If it's a trick, he's going to be very disappointed.</text>
+		<text bitflag="1345" id1="639333" id2="17" version="1065353216">I'll order my people to hand the Sith over to the Jedi Council. They'll know what to do.</text>
+		<text bitflag="1345" id1="639339" id2="17" version="1065353216">Let's hope your mission to Alderaan goes as well as it did here. Var Suthra out.</text>
+		<text bitflag="1345" id1="639347" id2="17" version="1065353216">The admiral was never here, General. This was a trap.</text>
+		<text bitflag="1345" id1="639348" id2="17" version="1065353216">Blast... I'm sorry for putting you in harm's way on a lie. It won't happen again.</text>
+		<text bitflag="1345" id1="639350" id2="17" version="1065353216">I'm afraid there's more bad news. Your Jedi Masters both missed their last two comm checks.</text>
+		<text bitflag="1345" id1="639352" id2="17" version="1065353216">That isn't like Master Kiwiiks. What planet did you send her to?</text>
+		<text bitflag="1345" id1="639354" id2="17" version="1065353216">Tatooine. Master Orgus went to Alderaan. I need you to find out what's happened to them and our weapon labs.</text>
+		<text bitflag="1345" id1="639355" id2="17" version="1065353216">Understood, General--but there's more to the situation. This trap was meant for my Padawan. Kira is a fugitive from the Sith.</text>
+		<text bitflag="1360" id1="639355" id2="17" version="1065353216">You should know about Kira.</text>
+		<text bitflag="1345" id1="639357" id2="17" version="1065353216">I've just learned she's a &quot;Child of the Emperor.&quot; Does that term mean anything to you?</text>
+		<text bitflag="1345" id1="639358" id2="17" version="1065353216">It means even you Jedi aren't immune to Sith infiltration.</text>
+		<text bitflag="1345" id1="639360" id2="17" version="1065353216">Your mission's too important to be compromised. That Padawan needs to go.</text>
+		<text bitflag="1345" id1="639361" id2="17" version="1065353216">We're reporting to the Jedi Council immediately. They'll know what to do.</text>
+		<text bitflag="1360" id1="639361" id2="17" version="1065353216">I'm taking her to Tython.</text>
+		<text bitflag="1345" id1="639362" id2="17" version="1065353216">All due respect, this is a Jedi matter. The Council will decide how to handle it.</text>
+		<text bitflag="1360" id1="639362" id2="17" version="1065353216">Your concerns are noted.</text>
+		<text bitflag="1345" id1="639363" id2="17" version="1065353216">I trust they'll do the right thing. She should be locked up.</text>
+		<text bitflag="1345" id1="639365" id2="17" version="1065353216">See? This is why I kept it secret.</text>
+		<text bitflag="1345" id1="639367" id2="17" version="1065353216">Watch your tone. I'm not one of your little soldiers.</text>
+		<text bitflag="1360" id1="639367" id2="17" version="1065353216">Don't bark orders at me.</text>
+		<text bitflag="1345" id1="639368" id2="17" version="1065353216">No, you're a Jedi--and I expect you to treat me with some respect.</text>
+		<text bitflag="1345" id1="639370" id2="17" version="1065353216">Children of the Emperor... what's next, armies of durasteel-plated rancors dropping out of the sky?</text>
+		<text bitflag="1345" id1="639372" id2="17" version="1065353216">Understood, General--but first, I need to consult with the Jedi Council on an important matter.</text>
+		<text bitflag="1360" id1="639372" id2="17" version="1065353216">I have business on Tython.</text>
+		<text bitflag="1345" id1="639373" id2="17" version="1065353216">More important than saving the galaxy from Darth Angral? I'd like to know what that is.</text>
+		<text bitflag="1345" id1="639374" id2="17" version="1065353216">The Sith are after my Padawan. It's a long story.</text>
+		<text bitflag="1360" id1="639374" id2="17" version="1065353216">Kira's in trouble.</text>
+		<text bitflag="1345" id1="639375" id2="17" version="1065353216">I'm sure it is, but we have no time to waste. Finish this business quickly.</text>
+		<text bitflag="1345" id1="639377" id2="17" version="1065353216">Sorry, General. Jedi business.</text>
+		<text bitflag="1360" id1="639377" id2="17" version="1065353216">It's classified.</text>
+		<text bitflag="1345" id1="639378" id2="17" version="1065353216">Fine, if that's how you want to play it. But Angral's still out there.</text>
+		<text bitflag="1345" id1="639380" id2="17" version="1065353216">I don't owe you any explanations.</text>
+		<text bitflag="1360" id1="639380" id2="17" version="1065353216">Mind your own business.</text>
+		<text bitflag="1345" id1="639381" id2="17" version="1065353216">Whatever your problem is, solve it fast. Our enemy could strike at any time.</text>
+		<text bitflag="1345" id1="639383" id2="17" version="1065353216">May the Force be with us all. Var Suthra out.</text>
+		<text bitflag="1345" id1="639385" id2="17" version="1065353216">Let's get this over with. Master Kiwiiks and Orgus need our help.</text>
+		<text bitflag="1345" id1="639387" id2="17" version="1065353216">I could already be helping them if you hadn't sent me on a wild bantha chase.</text>
+		<text bitflag="1360" id1="639387" id2="17" version="1065353216">Then don't delay me again.</text>
+		<text bitflag="1345" id1="639388" id2="17" version="1065353216">It was a calculated risk. If the admiral had defected, we stood to gain so much.</text>
+		<text bitflag="1345" id1="639390" id2="17" version="1065353216">Contact me as soon as you reach Tatooine or Alderaan. Var Suthra out.</text>
+		<text bitflag="1345" id1="639392" id2="17" version="1065353216">You didn't tell him you were taking me to Tython.</text>
+		<text bitflag="1345" id1="639393" id2="17" version="1065353216">What the general doesn't know won't hurt him. Figured you'd prefer if I kept this quiet.</text>
+		<text bitflag="1360" id1="639393" id2="17" version="1065353216">That's Jedi business.</text>
+		<text bitflag="1345" id1="639394" id2="17" version="1065353216">Don't do me any favors now. You'll ruin your perfect streak.</text>
+		<text bitflag="1345" id1="639396" id2="17" version="1065353216">What I tell the general is my business. You still have an appointment with the Council.</text>
+		<text bitflag="1360" id1="639396" id2="17" version="1065353216">Doesn't mean we're not going.</text>
+		<text bitflag="1345" id1="639397" id2="17" version="1065353216">Wouldn't miss it for anything.</text>
+		<text bitflag="1345" id1="639399" id2="17" version="1065353216">I figured you'd want to see the Jedi Council, first. Tell them about me.</text>
+		<text bitflag="1345" id1="639400" id2="17" version="1065353216">The general doesn't need to know about you. Only the Council does.</text>
+		<text bitflag="1360" id1="639400" id2="17" version="1065353216">That's the plan.</text>
+		<text bitflag="1345" id1="639401" id2="17" version="1065353216">You don't have to keep secrets. I don't care who knows what I am.</text>
+		<text bitflag="1345" id1="639403" id2="17" version="1065353216">Wasn't sure if you were prepared to face them yet.</text>
+		<text bitflag="1360" id1="639403" id2="17" version="1065353216">Are you ready?</text>
+		<text bitflag="1345" id1="639404" id2="17" version="1065353216">The sooner the Council knows about me, the sooner we can help Master Kiwiiks and Orgus.</text>
+		<text bitflag="1345" id1="639406" id2="17" version="1065353216">I've decided no one else needs to know about you. Not the general, not the Council.</text>
+		<text bitflag="1360" id1="639406" id2="17" version="1065353216">I'm keeping your secret.</text>
+		<text bitflag="1345" id1="639407" id2="17" version="1065353216">Just you and the Emperor... and whoever he sends after me next.</text>
+		<text bitflag="1345" id1="639409" id2="17" version="1065353216">You were ready to dump me. Now you're keeping my secret. What's the catch?</text>
+		<text bitflag="1345" id1="639410" id2="17" version="1065353216">Everyone deserves a second chance, Kira. Even you.</text>
+		<text bitflag="1360" id1="639410" id2="17" version="1065353216">There's no catch.</text>
+		<text bitflag="1345" id1="639411" id2="17" version="1065353216">Just when I think I've got you pegged, you go and change. It's kind of infuriating.</text>
+		<text bitflag="1345" id1="639412" id2="17" version="1065353216">You can have your little secret--but if you make one move against me, you're done.</text>
+		<text bitflag="1360" id1="639412" id2="17" version="1065353216">Don't betray me.</text>
+		<text bitflag="1345" id1="639413" id2="17" version="1065353216">Glad to see we're still friends.</text>
+		<text bitflag="1345" id1="639414" id2="17" version="1065353216">Unless you want every Jedi knowing you're a traitor, do exactly what I tell you from now on.</text>
+		<text bitflag="1360" id1="639414" id2="17" version="1065353216">Obey my every order.</text>
+		<text bitflag="1345" id1="639415" id2="17" version="1065353216">As you wish... Master.</text>
+		<text bitflag="1345" id1="639416" id2="17" version="1065353216">You're sure that's for the best? Keeping secrets isn't the Jedi way.</text>
+		<text bitflag="1345" id1="639417" id2="17" version="1065353216">We're not so different, Kira. We follow our own paths, regardless of what the Council thinks.</text>
+		<text bitflag="1360" id1="639417" id2="17" version="1065353216">It's my way.</text>
+		<text bitflag="1345" id1="639419" id2="17" version="1065353216">Orgus and Kiwiiks need our help, and we're running out of time.</text>
+		<text bitflag="1345" id1="639420" id2="17" version="1065353216">No point stirring things up when we've got a galaxy to save.</text>
+		<text bitflag="1345" id1="639421" id2="17" version="1065353216">If you feel that strongly about it, we'll go tell the Council.</text>
+		<text bitflag="1360" id1="639421" id2="17" version="1065353216">Then we'll go to Tython.</text>
+		<text bitflag="1345" id1="639422" id2="17" version="1065353216">It's for the best. After all you've done for me, I don't want you getting in trouble.</text>
+		<text bitflag="1345" id1="639424" id2="17" version="1065353216">What can I tell you? Guess I'm finally learning how to be a Jedi.</text>
+		<text bitflag="1345" id1="639426" id2="17" version="1065353216">I'll be meditating in my quarters. Let me know when we're at Tython.</text>
+		<text bitflag="1345" id1="639428" id2="17" version="1065353216">You're in no position to question my ethics.</text>
+		<text bitflag="1360" id1="639428" id2="17" version="1065353216">Don't lecture me.</text>
+		<text bitflag="1345" id1="639429" id2="17" version="1065353216">Sorry. I thought... never mind. Let's go find Master Kiwiiks.</text>
+		<text bitflag="1345" id1="639430" id2="17" version="1065353216">I'm trying to be a good Jedi. You don't make it easy.</text>
+		<text bitflag="1345" id1="639434" id2="17" version="1065353216">Let me know when we reach Tatooine or Alderaan. I'll be in my quarters.</text>
+		<text bitflag="1345" id1="639447" id2="17" version="1065353216">A major tactical advantage has just opened up, but you have to act quickly.</text>
+		<text bitflag="1345" id1="639449" id2="17" version="1065353216">One of Darth Angral's closest advisors--Admiral Hacklin--asked us for asylum. He wants to defect.</text>
+		<text bitflag="1345" id1="639451" id2="17" version="1065353216">Hacklin was with Angral when he interrogated me on Ord Mantell. They seemed chummy. What changed?</text>
+		<text bitflag="1345" id1="639453" id2="17" version="1065353216">Not sure, but the admiral is on the run. There are unconfirmed reports Hacklin's earned a death mark.</text>
+		<text bitflag="1345" id1="639454" id2="17" version="1065353216">Let's help him. Anyone who earns a death mark from the Empire can't be all bad.</text>
+		<text bitflag="1360" id1="639454" id2="17" version="1065353216">He needs protection.</text>
+		<text bitflag="1345" id1="639455" id2="17" version="1065353216">Wouldn't go that far, but his tactical knowledge could prove invaluable.</text>
+		<text bitflag="1345" id1="639457" id2="17" version="1065353216">One of Darth Angral's top men turned traitor? It's too convenient.</text>
+		<text bitflag="1360" id1="639457" id2="17" version="1065353216">Sounds suspicious.</text>
+		<text bitflag="1345" id1="639458" id2="17" version="1065353216">Exactly. This is obviously a trap.</text>
+		<text bitflag="1345" id1="639460" id2="17" version="1065353216">Hacklin wouldn't be the first high-ranking Imperial to switch sides. Until we know otherwise, we have to believe this is real.</text>
+		<text bitflag="1345" id1="639462" id2="17" version="1065353216">We shouldn't risk our necks to save some Imperial traitor.</text>
+		<text bitflag="1360" id1="639462" id2="17" version="1065353216">Let him die.</text>
+		<text bitflag="1345" id1="639463" id2="17" version="1065353216">Even a traitor who could give us everything on our enemy's operation? We need to bring him in.</text>
+		<text bitflag="1345" id1="639465" id2="17" version="1065353216">Kira obviously made an impression on the admiral at Ord Mantell. He says he'll only surrender to her.</text>
+		<text bitflag="1345" id1="639467" id2="17" version="1065353216">I have a bad feeling about this....</text>
+		<text bitflag="1345" id1="639469" id2="17" version="1065353216">There's no time to negotiate. Admiral Hacklin's expecting you two--and no one else.</text>
+		<text bitflag="1345" id1="639471" id2="17" version="1065353216">I told him to wait for you at an old asteroid mining facility. I'm uploading the coordinates now....</text>
+		<text bitflag="1345" id1="639472" id2="17" version="1065353216">We'll bring the admiral in safely.</text>
+		<text bitflag="1360" id1="639472" id2="17" version="1065353216">We're on our way.</text>
+		<text bitflag="1345" id1="639473" id2="17" version="1065353216">What can you tell me about this place?</text>
+		<text bitflag="1360" id1="639473" id2="17" version="1065353216">Asteroid mine?</text>
+		<text bitflag="1345" id1="639474" id2="17" version="1065353216">The mining facility's abandoned, and well off standard hyperspace routes. It's the safest place we could find for the admiral.</text>
+		<text bitflag="1345" id1="639476" id2="17" version="1065353216">Surround this asteroid mine with Republic cruisers. If this is a trap, I don't want the enemy escaping.</text>
+		<text bitflag="1360" id1="639476" id2="17" version="1065353216">Send warships, too.</text>
+		<text bitflag="1345" id1="639477" id2="17" version="1065353216">Too risky. The admiral might mistake it for hostile action and bolt.</text>
+		<text bitflag="1345" id1="639479" id2="17" version="1065353216">The mining facility is small. If this is a trap, you won't be facing more enemies than you can handle.</text>
+		<text bitflag="1345" id1="639481" id2="17" version="1065353216">Be careful out there.</text>
+		<text bitflag="1345" id1="639486" id2="17" version="1065353216">General. Doctor Godera's on his way to you.</text>
+		<text bitflag="1345" id1="639487" id2="17" version="1065353216">I can only imagine what the Empire would've done with him if you hadn't been there.</text>
+		<text bitflag="1345" id1="639489" id2="17" version="1065353216">I'm also told you saved a Republic settlement from a Sith assassin.</text>
+		<text bitflag="1345" id1="639491" id2="17" version="1065353216">Those colonists were lucky you showed up. How did you wind up there, anyway?</text>
+		<text bitflag="1345" id1="639492" id2="17" version="1065353216">The Imperial spymaster warned me what the Sith was planning.</text>
+		<text bitflag="1360" id1="639492" id2="17" version="1065353216">Watcher One tipped me off.</text>
+		<text bitflag="1345" id1="639493" id2="17" version="1065353216">Division in the enemy ranks? Interesting. Let's hope there's more to come.</text>
+		<text bitflag="1360" id1="639495" id2="17" version="1065353216">The Force guided me.</text>
+		<text bitflag="1345" id1="639496" id2="17" version="1065353216">Wish I could see things before they happen. We wouldn't be in this mess.</text>
+		<text bitflag="1360" id1="639498" id2="17" version="1065353216">It's my little secret.</text>
+		<text bitflag="1345" id1="639499" id2="17" version="1065353216">Hmph. I'll take your word for it.</text>
+		<text bitflag="1345" id1="639501" id2="17" version="1065353216">We've suffered enough today as it is. An entire bunker of colonists was slaughtered.</text>
+		<text bitflag="1345" id1="639503" id2="17" version="1065353216">Women, children--no one was spared. Early reports indicate a lone Sith killed them.</text>
+		<text bitflag="1345" id1="639504" id2="17" version="1065353216">Watcher One warned me about the attack. My only concern was rescuing Doctor Godera.</text>
+		<text bitflag="1360" id1="639504" id2="17" version="1065353216">I knew it was happening.</text>
+		<text bitflag="1345" id1="639505" id2="17" version="1065353216">That's... troubling. But I understand your decision. Don't envy you having to make that call.</text>
+		<text bitflag="1345" id1="639507" id2="17" version="1065353216">The Imperial spymaster warned me that was going to happen. I didn't believe him.</text>
+		<text bitflag="1360" id1="639507" id2="17" version="1065353216">Watcher One wasn't lying?</text>
+		<text bitflag="1345" id1="639508" id2="17" version="1065353216">I wouldn't have, either. Don't blame yourself.</text>
+		<text bitflag="1345" id1="639510" id2="17" version="1065353216">Get me the killer's name, and I'll remove that piece of filth from the galaxy.</text>
+		<text bitflag="1360" id1="639510" id2="17" version="1065353216">Find this Sith.</text>
+		<text bitflag="1345" id1="639511" id2="17" version="1065353216">We'll look into it, but I'm not hopeful of finding the killer.</text>
+		<text bitflag="1345" id1="639513" id2="17" version="1065353216">Your work here may be done, but this isn't over.</text>
+		<text bitflag="1345" id1="639518" id2="17" version="1065353216">We narrowly escaped a major disaster, General--but a lot of good people died.</text>
+		<text bitflag="1345" id1="639519" id2="17" version="1065353216">Chief Rieekan and his agents are a terrible loss. What happened to Galen... well, at least he's alive.</text>
+		<text bitflag="1345" id1="639521" id2="17" version="1065353216">Bad enough losing Chief Rieekan and so many agents. But Galen... we'd worked together for years.</text>
+		<text bitflag="1345" id1="639523" id2="17" version="1065353216">Just heard from Special Agent Tander. His team eradicated all trace of what happened at that Sith base.</text>
+		<text bitflag="1345" id1="639525" id2="17" version="1065353216">Thank you for destroying the Power Guard files. Approving that project was the biggest mistake of my career.</text>
+		<text bitflag="1345" id1="639526" id2="17" version="1065353216">Never let fear compromise your ideals.</text>
+		<text bitflag="1360" id1="639526" id2="17" version="1065353216">Learn from what happened.</text>
+		<text bitflag="1345" id1="639527" id2="17" version="1065353216">If only it were that simple.</text>
+		<text bitflag="1345" id1="639529" id2="17" version="1065353216">Dwelling on the past achieves nothing. Focus on the present.</text>
+		<text bitflag="1360" id1="639529" id2="17" version="1065353216">Put it behind you.</text>
+		<text bitflag="1345" id1="639530" id2="17" version="1065353216">It's the future that worries me right now.</text>
+		<text bitflag="1345" id1="639532" id2="17" version="1065353216">The research was a failure. The Power Guards were no match for a Sith--or Jedi.</text>
+		<text bitflag="1360" id1="639532" id2="17" version="1065353216">To say the least.</text>
+		<text bitflag="1345" id1="639533" id2="17" version="1065353216">Another reason to put all this behind us.</text>
+		<text bitflag="1345" id1="639535" id2="17" version="1065353216">But I told you to bury the Power Guard project. Why did you have him save the data files?</text>
+		<text bitflag="1345" id1="639536" id2="17" version="1065353216">Maybe I just don't want you sweeping all this under the rug.</text>
+		<text bitflag="1360" id1="639536" id2="17" version="1065353216">I'm keeping you honest.</text>
+		<text bitflag="1345" id1="639537" id2="17" version="1065353216">Sometimes, honesty creates more problems than it solves.</text>
+		<text bitflag="1345" id1="639539" id2="17" version="1065353216">Who knows what uses we might find for that technology?</text>
+		<text bitflag="1360" id1="639539" id2="17" version="1065353216">Just in case.</text>
+		<text bitflag="1345" id1="639540" id2="17" version="1065353216">If there's a way to make up for all that's happened, I hope we find it.</text>
+		<text bitflag="1345" id1="639542" id2="17" version="1065353216">I believe in the Power Guard project. Anything we can use to kill Sith is worthwhile.</text>
+		<text bitflag="1360" id1="639542" id2="17" version="1065353216">The research has merit.</text>
+		<text bitflag="1345" id1="639543" id2="17" version="1065353216">If we do continue the research, it can't be there.</text>
+		<text bitflag="1345" id1="639545" id2="17" version="1065353216">Not sure about this plan of yours to sabotage the Empire. It could blow up in our faces.</text>
+		<text bitflag="1345" id1="639546" id2="17" version="1065353216">We'll give the Empire just enough information to get itself in trouble.</text>
+		<text bitflag="1360" id1="639546" id2="17" version="1065353216">Not if we're careful.</text>
+		<text bitflag="1345" id1="639547" id2="17" version="1065353216">It would be nice to see them on thin ice, for once.</text>
+		<text bitflag="1345" id1="639549" id2="17" version="1065353216">If you're that worried, we don't have to do it.</text>
+		<text bitflag="1360" id1="639549" id2="17" version="1065353216">It was only an idea.</text>
+		<text bitflag="1345" id1="639550" id2="17" version="1065353216">It's worth pursuing. We'll just have to be extra careful.</text>
+		<text bitflag="1345" id1="639552" id2="17" version="1065353216">I'm trying to salvage this mess you made. Support me, or stay out of my way.</text>
+		<text bitflag="1360" id1="639552" id2="17" version="1065353216">Don't question my decision.</text>
+		<text bitflag="1345" id1="639553" id2="17" version="1065353216">I'm sorry. Just feels risky, under the circumstances.</text>
+		<text bitflag="1345" id1="639555" id2="17" version="1065353216">The Republic's position on Nar Shaddaa is precarious at best. Better for everyone if this operation remains classified.</text>
+		<text bitflag="1345" id1="639557" id2="17" version="1065353216">I'm sealing all records of what happened here. You, me and the SIS are the only ones who know the full story.</text>
+		<text bitflag="1345" id1="639558" id2="17" version="1065353216">Keeping secrets got people killed. The reason they died can't stay hidden.</text>
+		<text bitflag="1360" id1="639558" id2="17" version="1065353216">The truth must come out.</text>
+		<text bitflag="1345" id1="639559" id2="17" version="1065353216">I'll file a full report with my superiors--and hope they don't drum me out of the service.</text>
+		<text bitflag="1345" id1="639561" id2="17" version="1065353216">If anyone else confronts me about this, I won't lie for you.</text>
+		<text bitflag="1360" id1="639561" id2="17" version="1065353216">Jedi don't deceive others.</text>
+		<text bitflag="1345" id1="639562" id2="17" version="1065353216">I'm not asking you to lie. Just use some discretion.</text>
+		<text bitflag="1345" id1="639564" id2="17" version="1065353216">Don't worry, I'm not planning to discuss this with the Jedi Council.</text>
+		<text bitflag="1360" id1="639564" id2="17" version="1065353216">Excellent plan.</text>
+		<text bitflag="1345" id1="639565" id2="17" version="1065353216">It's for the best. Thank you.</text>
+		<text bitflag="1345" id1="639567" id2="17" version="1065353216">I know you're probably exhausted, but the enemy hasn't given up. Neither can we.</text>
+		<text bitflag="1345" id1="639572" id2="17" version="1065353216">I still need you on Taris. Set course for there immediately. Var Suthra out....</text>
+		<text bitflag="1345" id1="639580" id2="17" version="1065353216">Bad news, General. We found Darth Angral's spy base, but an Imperial soldier destroyed the hyperspace data transceiver.</text>
+		<text bitflag="1345" id1="639582" id2="17" version="1065353216">T7 did manage to download several messages from Angral's son--including the designs for a planet-killing weapon.</text>
+		<text bitflag="3393" id1="639583" id2="17" version="1065353216">T7 = transmitting files now</text>
+		<text bitflag="1345" id1="639584" id2="17" version="1065353216">Looks like Tarnis was combining all your weapon projects to create something code-named &quot;Desolator.&quot; We believe Angral's arming his battle cruiser with it.</text>
+		<text bitflag="1345" id1="639585" id2="17" version="1065353216">Then it's no coincidence I've lost contact with Agent Galen. The enemy is raiding our weapon research facilities to build that device.</text>
+		<text bitflag="1345" id1="639586" id2="17" version="1065353216">Darth Angral already has the other weapons under his control. Agent Galen walked into a trap.</text>
+		<text bitflag="1360" id1="639586" id2="17" version="1065353216">The enemy got Agent Galen.</text>
+		<text bitflag="1345" id1="639587" id2="17" version="1065353216">What about Master Orgus and Kiwiiks? Have they checked-in?</text>
+		<text bitflag="1360" id1="639587" id2="17" version="1065353216">Warn the Jedi Masters.</text>
+		<text bitflag="1345" id1="639588" id2="17" version="1065353216">They went on comm-silence after leaving Coruscant. They're due to check in soon.</text>
+		<text bitflag="1345" id1="639590" id2="17" version="1065353216">What planet was Agent Galen assigned to?</text>
+		<text bitflag="1360" id1="639590" id2="17" version="1065353216">Where did the agent go?</text>
+		<text bitflag="1345" id1="639591" id2="17" version="1065353216">Nar Shaddaa. It's Hutt territory--neutral--but the Empire has a strong presence there.</text>
+		<text bitflag="1345" id1="639593" id2="17" version="1065353216">We can't let Darth Angral complete this Desolator weapon, whatever it is. I need your help stopping him.</text>
+		<text bitflag="1345" id1="639595" id2="17" version="1065353216">Securing Nar Shaddaa is vital, but there's another target just as important on Taris.</text>
+		<text bitflag="1345" id1="639597" id2="17" version="1065353216">You have another super-weapon on Taris you didn't tell us about?</text>
+		<text bitflag="1345" id1="639599" id2="17" version="1065353216">I'd rather not say more until you're there.</text>
+		<text bitflag="1345" id1="639600" id2="17" version="1065353216">How can I make an informed choice without information?</text>
+		<text bitflag="1360" id1="639600" id2="17" version="1065353216">You're sending me in blind.</text>
+		<text bitflag="1345" id1="639601" id2="17" version="1065353216">I can only do one mission at a time, General. What's more important--securing Nar Shaddaa or Taris?</text>
+		<text bitflag="1360" id1="639601" id2="17" version="1065353216">Which planet matters more?</text>
+		<text bitflag="1345" id1="639602" id2="17" version="1065353216">Nar Shaddaa is the immediate danger, but Taris holds the key to all of this. I'm trusting your Jedi instincts on this.</text>
+		<text bitflag="1345" id1="639604" id2="17" version="1065353216">What else are you hiding, General?</text>
+		<text bitflag="1360" id1="639604" id2="17" version="1065353216">Don't play games with me.</text>
+		<text bitflag="1345" id1="639605" id2="17" version="1065353216">I'm not the one doing the hiding. You'll understand later.</text>
+		<text bitflag="1345" id1="639607" id2="17" version="1065353216">Too many security breaches here; I won't risk the enemy finding out about this.</text>
+		<text bitflag="1345" id1="639609" id2="17" version="1065353216">When you reach Taris or Nar Shaddaa, contact me. And good luck.</text>
+		<text bitflag="1345" id1="639618" id2="17" version="1065353216">General, I've arrived at Ord Mantell.</text>
+		<text bitflag="1345" id1="639619" id2="17" version="1065353216">Perfect timing. I've just finished coordinating things with my man on the ground there.</text>
+		<text bitflag="1345" id1="639621" id2="17" version="1065353216">SIS Agent Ottau followed the enemy transmissions to a specific location planetside. He'll give you the full details.</text>
+		<text bitflag="1345" id1="639623" id2="17" version="1065353216">Your T7 unit can interface with Darth Angral's hyperspace data transceiver and download his communications. Take the droid with you.</text>
+		<text bitflag="3393" id1="639625" id2="17" version="1065353216">T7 = oiled + charged + ready for action!</text>
+		<text bitflag="1345" id1="639627" id2="17" version="1065353216">Hmph. Guess I'll be playing dejarik against myself while you have all the fun.</text>
+		<text bitflag="1345" id1="639628" id2="17" version="1065353216">I'm ready to go, General.</text>
+		<text bitflag="1360" id1="639628" id2="17" version="1065353216">We have our orders.</text>
+		<text bitflag="1345" id1="639629" id2="17" version="1065353216">This sounds dangerous. I want Kira as backup, not Teeseven.</text>
+		<text bitflag="1360" id1="639629" id2="17" version="1065353216">You should come instead.</text>
+		<text bitflag="1345" id1="639630" id2="17" version="1065353216">I'm afraid there's no choice. The droid is essential to mission success.</text>
+		<text bitflag="1345" id1="639632" id2="17" version="1065353216">He's right. Scanning a hyperspace data transceiver is a little over my head. Besides, Teeseven can handle himself.</text>
+		<text bitflag="1360" id1="639634" id2="17" version="1065353216">It's what you deserve.</text>
+		<text bitflag="1345" id1="639635" id2="17" version="1065353216">I get that lesson a lot from you.</text>
+		<text bitflag="1345" id1="639637" id2="17" version="1065353216">Take a shuttle to the surface and meet Agent Ottau. Good hunting. Var Suthra out....</text>
+		<text bitflag="1345" id1="639639" id2="17" version="1065353216">I've visited my share of seedy ports, but this one's the seediest.</text>
+		<text bitflag="1345" id1="639641" id2="17" version="1065353216">Just as well I'm staying behind. I'll make sure nobody steals our landing thrusters.</text>
+		<text bitflag="1345" id1="639642" id2="17" version="1065353216">Take care of things here. We'll return soon.</text>
+		<text bitflag="1360" id1="639642" id2="17" version="1065353216">Good plan.</text>
+		<text bitflag="1345" id1="639643" id2="17" version="1065353216">Check out the spaceport while we're gone. If this place is as bad as you say, Darth Angral may have a presence here.</text>
+		<text bitflag="1360" id1="639643" id2="17" version="1065353216">Investigate this place.</text>
+		<text bitflag="1345" id1="639644" id2="17" version="1065353216">Wouldn't surprise me. I'll poke around and see what's what.</text>
+		<text bitflag="1360" id1="639646" id2="17" version="1065353216">Don't pout.</text>
+		<text bitflag="1345" id1="639647" id2="17" version="1065353216">Thanks for the vote of confidence.</text>
+		<text bitflag="1345" id1="639649" id2="17" version="1065353216">Have fun down there.</text>
+	</file_content>
+</stb_file>

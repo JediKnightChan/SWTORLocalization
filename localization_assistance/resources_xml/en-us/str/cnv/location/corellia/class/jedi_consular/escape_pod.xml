@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>98</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/jedi_consular/escape_pod.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="537580" id2="17" version="1065353216">[The impact of landing has jammed the escape pod's hatch.]</text>
+		<text bitflag="1345" id1="537586" id2="17" version="1065353216">Ack! Ack!</text>
+		<text bitflag="1345" id1="537587" id2="17" version="1065353216">Everything's alright, Nadia. Breathe easy.</text>
+		<text bitflag="1360" id1="537587" id2="17" version="1065353216">You're safe.</text>
+		<text bitflag="1345" id1="537588" id2="17" version="1065353216">Oh, it's so good to feel the breeze again!</text>
+		<text bitflag="1360" id1="537590" id2="17" version="1065353216">Are you okay?</text>
+		<text bitflag="1345" id1="537591" id2="17" version="1065353216">I knew I'd see you again. I knew we'd both be alright.</text>
+		<text bitflag="1345" id1="537593" id2="17" version="1065353216">I got a bit singed running for the pod, but I'm okay.</text>
+		<text bitflag="3393" id1="537595" id2="17" version="1065353216">Will be stronger for this, small thing.</text>
+		<text bitflag="1345" id1="537597" id2="17" version="1065353216">Dearest Nadia, we were quite heartbroken without you.</text>
+		<text bitflag="1345" id1="537599" id2="17" version="1065353216">We would have got here sooner, but the Imperials were making some noise.</text>
+		<text bitflag="1345" id1="537601" id2="17" version="1065353216">Welcome back.</text>
+		<text bitflag="1345" id1="537603" id2="17" version="1065353216">It was worth it. I got all the data I could find from the Javelin's computers. Mission reports, plans, details--it's all here!</text>
+		<text bitflag="1345" id1="537604" id2="17" version="1065353216">There are Republic generals who desperately need this information.</text>
+		<text bitflag="1360" id1="537604" id2="17" version="1065353216">We should pass it along.</text>
+		<text bitflag="1345" id1="537605" id2="17" version="1065353216">Wait. There's something we need to do first.</text>
+		<text bitflag="1345" id1="537607" id2="17" version="1065353216">If I'd lost you, none of it would matter.</text>
+		<text bitflag="1360" id1="537607" id2="17" version="1065353216">It's nothing compared to you.</text>
+		<text bitflag="1345" id1="537608" id2="17" version="1065353216">It's okay. We're together again. We can talk later.</text>
+		<text bitflag="1345" id1="537610" id2="17" version="1065353216">I'll make sure the Jedi Council hears of this.</text>
+		<text bitflag="1360" id1="537610" id2="17" version="1065353216">Excellent work, Padawan.</text>
+		<text bitflag="1345" id1="537611" id2="17" version="1065353216">Someone had to do it, and I was there.</text>
+		<text bitflag="1345" id1="537613" id2="17" version="1065353216">A Jedi stays calm and rational at all times. And we don't know if there's anything useful.</text>
+		<text bitflag="1360" id1="537613" id2="17" version="1065353216">Don't get overexcited.</text>
+		<text bitflag="1345" id1="537614" id2="17" version="1065353216">I'm sorry, Master. But, if I may speak?</text>
+		<text bitflag="1345" id1="537616" id2="17" version="1065353216">Pull yourself together, Padawan. Did you complete your mission?</text>
+		<text bitflag="1360" id1="537616" id2="17" version="1065353216">Where's the data?</text>
+		<text bitflag="1345" id1="537617" id2="17" version="1065353216">I... am sorry, Master. I have your data safe. Can I please ask something?</text>
+		<text bitflag="1345" id1="537619" id2="17" version="1065353216">Before we pass them on, I need Holiday to fix one of these files. It's badly corrupted but some of the audio still works.</text>
+		<text bitflag="1345" id1="537623" id2="17" version="1065353216">But honey, we're right out in the open. And I'd need a holotransmitter.</text>
+		<text bitflag="1345" id1="537625" id2="17" version="1065353216">Is there somewhere safe we can fix this? I... I think it has information about the First Son.</text>
+		<text bitflag="1345" id1="537626" id2="17" version="1065353216">The Corellian resistance has a shelter. If this concerns the First Son, we should go immediately.</text>
+		<text bitflag="1360" id1="537626" id2="17" version="1065353216">Then follow me.</text>
+		<text bitflag="1345" id1="537627" id2="17" version="1065353216">A friend of ours with the Corellian resistance is nearby.</text>
+		<text bitflag="1360" id1="537627" id2="17" version="1065353216">Drizan's shelter is safe.</text>
+		<text bitflag="5441" id1="537628" id2="17" version="1065353216">We could go to Captain Drizan's shelter, but this area's full of Imperial forces.</text>
+		<text bitflag="5456" id1="537628" id2="17" version="1065353216">I hope you're ready to fight.</text>
+		<text bitflag="1345" id1="537629" id2="17" version="1065353216">I'm still a bit shaky.</text>
+		<text bitflag="1345" id1="537633" id2="17" version="1065353216">Uhhh. I'm sorry. I don't know how far I can walk.</text>
+		<text bitflag="1345" id1="537634" id2="17" version="1065353216">Fortunately, we made some new friends while you were away.</text>
+		<text bitflag="3393" id1="537639" id2="17" version="1065353216">You call, we come to repay debts. As Quil ordered. This is friend? Seems very small.</text>
+		<text bitflag="3393" id1="537641" id2="17" version="1065353216">Huh. Easier to smuggle through tunnels, to Drizan's shelter.</text>
+		<text bitflag="1345" id1="537642" id2="17" version="1065353216">Nadia is injured. Go as carefully as you can.</text>
+		<text bitflag="1360" id1="537642" id2="17" version="1065353216">Take good care of her.</text>
+		<text bitflag="1345" id1="537643" id2="17" version="1065353216">Two Jedi might be better than one, if you run into trouble.</text>
+		<text bitflag="1360" id1="537643" id2="17" version="1065353216">Should I go with you?</text>
+		<text bitflag="3393" id1="537644" id2="17" version="1065353216">Too many takes too long. Risks Empire's attention. We'll get friend back, very quick.</text>
+		<text bitflag="1345" id1="537646" id2="17" version="1065353216">The sooner you stop talking and leave, the safer she'll be.</text>
+		<text bitflag="1360" id1="537646" id2="17" version="1065353216">Just make it fast.</text>
+		<text bitflag="5441" id1="537647" id2="17" version="1065353216">I get to see the Selonian tunnels? This might even be fun. I'll meet you at this shelter.</text>
+		<text bitflag="1345" id1="537652" id2="17" version="1065353216">Ack! Ack!</text>
+		<text bitflag="1345" id1="537653" id2="17" version="1065353216">Give yourself a moment to recover.</text>
+		<text bitflag="1360" id1="537653" id2="17" version="1065353216">Slowly. Deep breaths.</text>
+		<text bitflag="1345" id1="537654" id2="17" version="1065353216">Just give me five minutes under this beautiful sky.</text>
+		<text bitflag="1360" id1="537656" id2="17" version="1065353216">Are you alright?</text>
+		<text bitflag="1345" id1="537657" id2="17" version="1065353216">You're alive. I should have guessed you'd be okay.</text>
+		<text bitflag="1345" id1="537661" id2="17" version="1065353216">I hit some chop on the way down, but I'll survive.</text>
+		<text bitflag="3393" id1="537663" id2="17" version="1065353216">Is good to free you. Better to die on battlefield than in steel box.</text>
+		<text bitflag="1345" id1="537665" id2="17" version="1065353216">I trust you held on to our data during your absence, Lieutenant?</text>
+		<text bitflag="1345" id1="537667" id2="17" version="1065353216">Hello again.</text>
+		<text bitflag="1345" id1="537669" id2="17" version="1065353216">Sorry about the wait. We came as fast as we could.</text>
+		<text bitflag="1345" id1="537671" id2="17" version="1065353216">Here. One Imperial dreadnaught's complete tactical database, safe and sound.</text>
+		<text bitflag="1345" id1="537672" id2="17" version="1065353216">We should share this with Republic Command and the Jedi Council at once.</text>
+		<text bitflag="1360" id1="537672" id2="17" version="1065353216">This must go to the Republic.</text>
+		<text bitflag="1345" id1="537673" id2="17" version="1065353216">Uh, not right away.</text>
+		<text bitflag="1345" id1="537675" id2="17" version="1065353216">I would hate to have risked losing you for nothing.</text>
+		<text bitflag="1360" id1="537675" id2="17" version="1065353216">I'm glad you're safe, too.</text>
+		<text bitflag="1345" id1="537676" id2="17" version="1065353216">I told you we'd make it. I wish--sorry, we'll have to talk later.</text>
+		<text bitflag="1345" id1="537678" id2="17" version="1065353216">I think this may warrant a medal.</text>
+		<text bitflag="1360" id1="537678" id2="17" version="1065353216">You deserve a reward.</text>
+		<text bitflag="1345" id1="537679" id2="17" version="1065353216">If you're offering, I won't say no. Just one thing, first.</text>
+		<text bitflag="1345" id1="537681" id2="17" version="1065353216">Let's see what's in those files before we get overexcited.</text>
+		<text bitflag="1360" id1="537681" id2="17" version="1065353216">It's too early to celebrate.</text>
+		<text bitflag="1345" id1="537682" id2="17" version="1065353216">Is the tactical data safe?</text>
+		<text bitflag="1360" id1="537682" id2="17" version="1065353216">Report, Lieutenant.</text>
+		<text bitflag="1345" id1="537683" id2="17" version="1065353216">Mission complete. I got the Javelin's entire tactical database. Hardly bled on the datapad at all.</text>
+		<text bitflag="1345" id1="537685" id2="17" version="1065353216">One of these files is corrupted. Deliberately, maybe. I need Holiday to fix it, before we pass it on.</text>
+		<text bitflag="1345" id1="537689" id2="17" version="1065353216">Here? It's not very safe. Besides, I need a holotransmitter.</text>
+		<text bitflag="1345" id1="537691" id2="17" version="1065353216">Is there somewhere secure we can go to fix the file? Its audio is broken up, but I heard... It might have intel about the First Son.</text>
+		<text bitflag="1345" id1="537692" id2="17" version="1065353216">There's a resistance shelter nearby; if this is about the First Son I need to see this file immediately.</text>
+		<text bitflag="1360" id1="537692" id2="17" version="1065353216">Then we must act quickly.</text>
+		<text bitflag="1345" id1="537693" id2="17" version="1065353216">A friend of ours, Captain Drizan, has a safe position.</text>
+		<text bitflag="1360" id1="537693" id2="17" version="1065353216">Drizan's shelter would do.</text>
+		<text bitflag="1345" id1="537694" id2="17" version="1065353216">We can commandeer a small resistance shelter, though there's Imperial forces in between.</text>
+		<text bitflag="1360" id1="537694" id2="17" version="1065353216">I know a place. Can you fight?</text>
+		<text bitflag="1345" id1="537695" id2="17" version="1065353216">That... uhhh. That may be a problem.</text>
+		<text bitflag="1345" id1="537699" id2="17" version="1065353216">I'm... not sure I can keep up. I got bounced around pretty hard.</text>
+		<text bitflag="1345" id1="537700" id2="17" version="1065353216">Perhaps this would be a good time for you to meet our new friends.</text>
+		<text bitflag="3393" id1="537705" id2="17" version="1065353216">You call, we answer, as Quil orders. To repay our debt.</text>
+		<text bitflag="3393" id1="537707" id2="17" version="1065353216">This is friend? Bit messy. We will take to Drizan's shelter. Smuggle through tunnels, very quick.</text>
+		<text bitflag="1345" id1="537708" id2="17" version="1065353216">Don't rush if it'll make his injuries worse.</text>
+		<text bitflag="1360" id1="537708" id2="17" version="1065353216">Go carefully, he's hurt.</text>
+		<text bitflag="1345" id1="537709" id2="17" version="1065353216">Do you need me to come along? I could watch your backs.</text>
+		<text bitflag="1360" id1="537709" id2="17" version="1065353216">Maybe I should go with you.</text>
+		<text bitflag="3393" id1="537710" id2="17" version="1065353216">Is safer for us with fewer. And faster. Friend will be fine, you'll see.</text>
+		<text bitflag="1345" id1="537712" id2="17" version="1065353216">We have urgent business at Drizan's shelter, so no dawdling.</text>
+		<text bitflag="1360" id1="537712" id2="17" version="1065353216">Be sure it's quick.</text>
+		<text bitflag="1345" id1="537713" id2="17" version="1065353216">More dark enclosed spaces? If there's a kolto pack at the end, I'm game. See you at this shelter.</text>
+	</file_content>
+</stb_file>

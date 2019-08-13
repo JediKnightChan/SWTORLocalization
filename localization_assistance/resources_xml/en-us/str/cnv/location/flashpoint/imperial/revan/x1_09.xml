@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/imperial/revan/x1_09.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="202175" id2="17" version="1065353216">Maintenance subroutines = active // Priority commands = unavailable</text>
+		<text bitflag="3393" id1="202176" id2="17" version="1065353216">Identification = verified // Moff Phennir + Darth Malgus = waiting to begin</text>
+		<text bitflag="1360" id1="202177" id2="17" version="1065353216">Fine. [Accept]</text>
+		<text bitflag="3393" id1="202178" id2="17" version="1065353216">New arrivals = proceed to Moff Phennir</text>
+		<text bitflag="1360" id1="202180" id2="17" version="1065353216">Silence, droid. [Refuse quest]</text>
+		<text bitflag="3393" id1="202183" id2="17" version="1065353216">Messages = unavailable</text>
+	</file_content>
+</stb_file>

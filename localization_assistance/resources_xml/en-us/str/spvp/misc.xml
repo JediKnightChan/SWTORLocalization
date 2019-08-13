@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>95</strs>
+		<file_name>/resources/en-us/str/spvp/misc.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="764909" version="1065353216">No Target</text>
+		<text bitflag="321" id1="257" id2="764909" version="1065353216">Cooldown</text>
+		<text bitflag="321" id1="258" id2="764909" version="1065353216">Not Enough Power</text>
+		<text bitflag="321" id1="259" id2="764909" version="1065353216">You have gained &lt;&lt;1&gt;&gt; fleet requisition points for completing the battle.</text>
+		<text bitflag="321" id1="260" id2="764909" version="1065353216">You have gained &lt;&lt;1&gt;&gt; ship requisition points for &lt;&lt;2&gt;&gt; for completing the battle.</text>
+		<text bitflag="321" id1="261" id2="764909" version="1065353216">You have gained item &lt;&lt;1&gt;&gt; for completing the battle.</text>
+		<text bitflag="321" id1="262" id2="764909" version="1065353216">Respawn: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="263" id2="764909" version="1065353216">Not Enough Ammo</text>
+		<text bitflag="321" id1="264" id2="764909" version="1065353216">FR-05 Republic Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="265" id2="764909" version="1065353216">FI-05 Imperial Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="266" id2="764909" version="1065353216">BR-05 Republic Bomber Paint Job</text>
+		<text bitflag="321" id1="268" id2="764909" version="1065353216">Stock Republic Scout Paint Job</text>
+		<text bitflag="321" id1="269" id2="764909" version="1065353216">Valiant Republic Scout Paint Job</text>
+		<text bitflag="321" id1="270" id2="764909" version="1065353216">YR-02 Republic Scout Paint Job</text>
+		<text bitflag="321" id1="271" id2="764909" version="1065353216">SR-01 Republic Scout Paint Job</text>
+		<text bitflag="321" id1="272" id2="764909" version="1065353216">SR-02 Republic Scout Paint Job</text>
+		<text bitflag="321" id1="273" id2="764909" version="1065353216">Stock Republic Bomber Paint Job</text>
+		<text bitflag="321" id1="274" id2="764909" version="1065353216">BR-01 Republic Bomber Paint Job</text>
+		<text bitflag="321" id1="275" id2="764909" version="1065353216">BR-02 Republic Bomber Paint Job</text>
+		<text bitflag="321" id1="276" id2="764909" version="1065353216">BR-03 Republic Bomber Paint Job</text>
+		<text bitflag="321" id1="277" id2="764909" version="1065353216">BR-04 Republic Bomber Paint Job</text>
+		<text bitflag="321" id1="278" id2="764909" version="1065353216">Stock Republic Gunship Paint Job</text>
+		<text bitflag="321" id1="279" id2="764909" version="1065353216">GR-01 Republic Gunship Paint Job</text>
+		<text bitflag="321" id1="280" id2="764909" version="1065353216">GR-02 Republic Gunship Paint Job</text>
+		<text bitflag="321" id1="281" id2="764909" version="1065353216">GR-03 Republic Gunship Paint Job</text>
+		<text bitflag="321" id1="282" id2="764909" version="1065353216">GR-04 Republic Gunship Paint Job</text>
+		<text bitflag="321" id1="283" id2="764909" version="1065353216">GR-05 Republic Gunship Paint Job</text>
+		<text bitflag="321" id1="284" id2="764909" version="1065353216">GR-06 Republic Gunship Paint Job</text>
+		<text bitflag="321" id1="285" id2="764909" version="1065353216">Stock Republic Infiltrator Paint Job</text>
+		<text bitflag="321" id1="286" id2="764909" version="1065353216">IR-01 Republic Infiltrator Paint Job</text>
+		<text bitflag="321" id1="287" id2="764909" version="1065353216">IR-02 Republic Infiltrator Paint Job</text>
+		<text bitflag="321" id1="288" id2="764909" version="1065353216">IR-03 Republic Infiltrator Paint Job</text>
+		<text bitflag="321" id1="289" id2="764909" version="1065353216">IR-04 Republic Infiltrator Paint Job</text>
+		<text bitflag="321" id1="290" id2="764909" version="1065353216">IR-04 Republic Infiltrator Paint Job</text>
+		<text bitflag="321" id1="291" id2="764909" version="1065353216">Stock Republic Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="292" id2="764909" version="1065353216">FR-01 Republic Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="293" id2="764909" version="1065353216">FR-02 Republic Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="294" id2="764909" version="1065353216">FR-03 Republic Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="295" id2="764909" version="1065353216">Valiant Republic Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="296" id2="764909" version="1065353216">FR-04 Republic Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="297" id2="764909" version="1065353216">Stock Imperial Bomber Paint Job</text>
+		<text bitflag="321" id1="298" id2="764909" version="1065353216">BI-01 Imperial Bomber Paint Job</text>
+		<text bitflag="321" id1="299" id2="764909" version="1065353216">BI-02 Imperial Bomber Paint Job</text>
+		<text bitflag="321" id1="300" id2="764909" version="1065353216">BI-03 Imperial Bomber Paint Job</text>
+		<text bitflag="321" id1="301" id2="764909" version="1065353216">BI-04 Imperial Bomber Paint Job</text>
+		<text bitflag="321" id1="302" id2="764909" version="1065353216">Stock Imperial Scout Paint Job</text>
+		<text bitflag="321" id1="303" id2="764909" version="1065353216">SI-01 Imperial Scout Paint Job</text>
+		<text bitflag="321" id1="304" id2="764909" version="1065353216">SI-02 Imperial Scout Paint Job</text>
+		<text bitflag="321" id1="305" id2="764909" version="1065353216">YR-02 Imperial Scout Paint Job</text>
+		<text bitflag="321" id1="306" id2="764909" version="1065353216">Valiant Imperial Scout Paint Job</text>
+		<text bitflag="321" id1="307" id2="764909" version="1065353216">Stock Imperial Gunship Paint Job</text>
+		<text bitflag="321" id1="308" id2="764909" version="1065353216">GI-01 Imperial Gunship Paint Job</text>
+		<text bitflag="321" id1="309" id2="764909" version="1065353216">GI-02 Imperial Gunship Paint Job</text>
+		<text bitflag="321" id1="310" id2="764909" version="1065353216">GI-03 Gunship Paint Job</text>
+		<text bitflag="321" id1="311" id2="764909" version="1065353216">GI-04 Imperial Gunship Paint Job</text>
+		<text bitflag="321" id1="312" id2="764909" version="1065353216">GI-05 Imperial Gunship Paint Job</text>
+		<text bitflag="321" id1="313" id2="764909" version="1065353216">Daring Imperial Gunship Paint Job</text>
+		<text bitflag="321" id1="314" id2="764909" version="1065353216">Stock Imperial Infiltrator Paint Job</text>
+		<text bitflag="321" id1="315" id2="764909" version="1065353216">II-01 Imperial Infiltrator Paint Job</text>
+		<text bitflag="321" id1="316" id2="764909" version="1065353216">II-02 Imperial Infiltrator Paint Job</text>
+		<text bitflag="321" id1="317" id2="764909" version="1065353216">II-03 Imperial Infiltrator Paint Job</text>
+		<text bitflag="321" id1="318" id2="764909" version="1065353216">II-04 Imperial Infiltrator Paint Job</text>
+		<text bitflag="321" id1="319" id2="764909" version="1065353216">II-05 Imperial Infiltrator Paint Job</text>
+		<text bitflag="321" id1="320" id2="764909" version="1065353216">Stock Imperial Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="321" id2="764909" version="1065353216">FI-01 Imperial Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="322" id2="764909" version="1065353216">Valiant Imperial Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="323" id2="764909" version="1065353216">FI-02 Imperial Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="324" id2="764909" version="1065353216">FI-03 Imperial Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="325" id2="764909" version="1065353216">FI-04 Imperial Strike Fighter Paint Job</text>
+		<text bitflag="321" id1="326" id2="764909" version="1065353216">SI-03 Imperial Scout Paint Job</text>
+		<text bitflag="321" id1="327" id2="764909" version="1065353216">The C2-N2 steward droid represents the latest advances in both starship maintenance and personal service. Drawing from a vast library of technical readouts, blueprints, and manuals, C2-N2 was designed by Automata Galactica to keep his master's starship in top shape. Joint articulation and servos provide for extended service with minimal maintenance, and an intelligent multi-tasking design allows for constant and simultaneous engagement in several starship tasks.
+
+Some C2 models, including C2-N2, have been programmed with basic first aid and self-defense protocols, making them useful in certain field-combat scenarios. C2-N2 is also well versed in the binary languages of modern starship engines, making him invaluable on long flights and in ship emergencies.</text>
+		<text bitflag="321" id1="328" id2="764909" version="1065353216">2V-R8 is an Imperial factotum droid specializing in personal etiquette and starship upkeep. Programmed with extensive knowledge of Imperial starship design and oversize optics for enhanced detail observation, 2V-R8 can perform advanced maintenance and upkeep, including everything from cleaning the ship's fuel injectors to configuring propulsion systems for maximum operational efficiency to immaculately dusting cockpits and private quarters.
+
+Developed and manufactured by Imperial DroidWorks, the 2V series of ship droids have also been programmed for limited use outside the ship. Elementary first aid protocols allow 2V-R8 to tend to minor wounds and injuries on the field, while his flared shoulders present a regal appearance, providing an added air of prominence when standing at his master's side.</text>
+		<text bitflag="321" id1="329" id2="764909" version="1065353216">You have been granted &lt;&lt;1&gt;&gt; requisition.</text>
+		<text bitflag="321" id1="350" id2="764909" version="1065353216">Kuat Mesas</text>
+		<text bitflag="321" id1="351" id2="764909" version="1065353216">Lost Shipyards</text>
+		<text bitflag="321" id1="353" id2="764909" version="1065353216">The three control point satellites on the map continually increase your team's score when captured. To capture a satellite, remain close until the visual indicator appears on your ship. Be sure there are no enemy defense turrets or enemy players around the control point, or the satellites cannot be captured!</text>
+		<text bitflag="321" id1="355" id2="764909" version="1065353216">Daring Republic Gunship Paint Job</text>
+		<text bitflag="321" id1="358" id2="764909" version="1065353216">Engine Overcharge acquired!</text>
+		<text bitflag="321" id1="359" id2="764909" version="1065353216">&lt;&lt;1&gt;&gt; has Damage Overcharge!</text>
+		<text bitflag="321" id1="360" id2="764909" version="1065353216">Weapon Overcharge acquired!</text>
+		<text bitflag="321" id1="361" id2="764909" version="1065353216">Shield Overcharge acquired!</text>
+		<text bitflag="321" id1="362" id2="764909" version="1065353216">Damage Overcharge acquired!</text>
+		<text bitflag="321" id1="364" id2="764909" version="1065353216">Galactic Starfighter Tutorial</text>
+		<text bitflag="321" id1="365" id2="764909" version="1065353216">Overall</text>
+		<text bitflag="321" id1="366" id2="764909" version="1065353216">Battlerecord: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="367" id2="764909" version="1065353216">Not Enough Weapon Charge</text>
+		<text bitflag="321" id1="368" id2="764909" version="1065353216">Your goal in a Team Deathmatch battle is to ensure that your team reaches the score limit before the other team or before time runs out. Points in Team Deathmatch battles are gained in one way only: Defeating enemy Starfighters! A number of power-ups are scattered throughout the map. Flying through these give your ship powerful bonuses!</text>
+		<text bitflag="321" id1="369" id2="764909" version="1065353216">You have gained &lt;&lt;1&gt;&gt; fleet requisition points for completing the achievement.</text>
+		<text bitflag="321" id1="372" id2="764909" version="1065353216">Denon Exosphere</text>
+		<text bitflag="321" id1="373" id2="764909" version="1065353216">BI-05 Imperial Bomber Paint Job</text>
+		<text bitflag="321" id1="374" id2="764909" version="1065353216">SR-03 Republic Scout Paint Job</text>
+		<text bitflag="321" id1="375" id2="764909" version="1065353216">GI-06 Imperial Gunship Paint Job</text>
+		<text bitflag="321" id1="376" id2="764909" version="1065353216">GR-07 Republic Gunship Paint Job</text>
+		<text bitflag="321" id1="377" id2="764909" version="1065353216">BR-06 Republic Bomber Paint Job</text>
+		<text bitflag="321" id1="378" id2="764909" version="1065353216">SI-04 Imperial Scout Paint Job</text>
+	</file_content>
+</stb_file>

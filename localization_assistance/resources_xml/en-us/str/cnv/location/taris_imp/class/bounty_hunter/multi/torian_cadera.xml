@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>313</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris_imp/class/bounty_hunter/multi/torian_cadera.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="465539" id2="17" version="1065353216">Like father, like son.</text>
+		<text bitflag="1345" id1="465541" id2="17" version="1065353216">Couldn't convince him to stop. Sorry.</text>
+		<text bitflag="1345" id1="465542" id2="17" version="1065353216">One of you actually here to pick up Jicoln, or you all here to gawk?</text>
+		<text bitflag="1360" id1="465542" id2="17" version="1065353216">Are we done wasting my time?</text>
+		<text bitflag="1345" id1="465543" id2="17" version="1065353216">Sorry, ma'am. Double-time!</text>
+		<text bitflag="1345" id1="465545" id2="17" version="1065353216">Sorry, sir. Double-time!</text>
+		<text bitflag="1345" id1="465547" id2="17" version="1065353216">I didn't come for my father.</text>
+		<text bitflag="1345" id1="465549" id2="17" version="1065353216">I didn't come for the traitor.</text>
+		<text bitflag="1345" id1="465551" id2="17" version="1065353216">I'm used to this sort of thing by now.</text>
+		<text bitflag="1360" id1="465551" id2="17" version="1065353216">Don't sweat it.</text>
+		<text bitflag="1345" id1="465552" id2="17" version="1065353216">One for the road.</text>
+		<text bitflag="1360" id1="465552" id2="17" version="1065353216">I was between killings anyway.</text>
+		<text bitflag="1345" id1="465553" id2="17" version="1065353216">I didn't come for the fight. I've a favor to ask.</text>
+		<text bitflag="1345" id1="465555" id2="17" version="1065353216">I want to come with you.</text>
+		<text bitflag="1345" id1="465556" id2="17" version="1065353216">I don't take on passengers.</text>
+		<text bitflag="1360" id1="465556" id2="17" version="1065353216">This isn't a shuttle.</text>
+		<text bitflag="1345" id1="465557" id2="17" version="1065353216">Didn't get enough of me yet?</text>
+		<text bitflag="1360" id1="465557" id2="17" version="1065353216">[Flirt] I'll bet you do.</text>
+		<text bitflag="1345" id1="465558" id2="17" version="1065353216">Guess not.</text>
+		<text bitflag="1345" id1="465560" id2="17" version="1065353216">I don't mind you tagging along.</text>
+		<text bitflag="1360" id1="465560" id2="17" version="1065353216">Always room for one more.</text>
+		<text bitflag="1345" id1="465561" id2="17" version="1065353216">I'm not along for the ride.</text>
+		<text bitflag="1345" id1="465563" id2="17" version="1065353216">You're gonna end up in front of a firing squad if you keep leaving your post.</text>
+		<text bitflag="1360" id1="465563" id2="17" version="1065353216">You running off again?</text>
+		<text bitflag="1345" id1="465564" id2="17" version="1065353216">Commander Fett agreed.</text>
+		<text bitflag="1345" id1="465566" id2="17" version="1065353216">I mean to serve, join your hunts, earn respect for my clan.</text>
+		<text bitflag="1345" id1="465570" id2="17" version="1065353216">Well, at least he's not a chatterbox like the little snow rat.</text>
+		<text bitflag="1345" id1="465572" id2="17" version="1065353216">I'm for it. Ship's pretty boring when you're off doing your thing.</text>
+		<text bitflag="1345" id1="465576" id2="17" version="1065353216">Be nice to have a man on the ship, besides Gault.</text>
+		<text bitflag="1345" id1="465578" id2="17" version="1065353216">How could you say no to a face like that?</text>
+		<text bitflag="1345" id1="465580" id2="17" version="1065353216">What do you say, big guy?</text>
+		<text bitflag="3393" id1="465584" id2="17" version="1065353216">New friend can share room with Blizz. Blizz move scrap pile to Gault room.</text>
+		<text bitflag="3393" id1="465586" id2="17" version="1065353216">New friend want to share room with Blizz? Blizz give new friend top bunk.</text>
+		<text bitflag="1345" id1="465588" id2="17" version="1065353216">Give me this honor.</text>
+		<text bitflag="1345" id1="465589" id2="17" version="1065353216">Keep pace, or I'll leave you behind. Got it?</text>
+		<text bitflag="1360" id1="465589" id2="17" version="1065353216">Be ready to work.</text>
+		<text bitflag="1345" id1="465590" id2="17" version="1065353216">I'm ready.</text>
+		<text bitflag="1345" id1="465592" id2="17" version="1065353216">I'm flattered, kid. Welcome aboard.</text>
+		<text bitflag="1360" id1="465592" id2="17" version="1065353216">The honor's mine.</text>
+		<text bitflag="1345" id1="465593" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1345" id1="465595" id2="17" version="1065353216">Do what I tell you and we won't have a problem.</text>
+		<text bitflag="1360" id1="465595" id2="17" version="1065353216">Just follow orders, or else.</text>
+		<text bitflag="1345" id1="465596" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="465598" id2="17" version="1065353216">We're finished.</text>
+		<text bitflag="1345" id1="465600" id2="17" version="1065353216">Tell the commander I'm not returning.</text>
+		<text bitflag="1345" id1="465602" id2="17" version="1065353216">We're done. Coming, Torian?</text>
+		<text bitflag="1345" id1="465604" id2="17" version="1065353216">Nope.</text>
+		<text bitflag="1345" id1="465606" id2="17" version="1065353216">Tch. You can finally show your face, and now you're running off. Try to make something of yourself, arue'tal.</text>
+		<text bitflag="1345" id1="465608" id2="17" version="1065353216">Ready when you are.</text>
+		<text bitflag="1345" id1="465616" id2="17" version="1065353216">Almost missed you, shabuir. It was kind of fate to keep you here.</text>
+		<text bitflag="1345" id1="465617" id2="17" version="1065353216">The traitor's in cargo. Don't keep me waiting.</text>
+		<text bitflag="1360" id1="465617" id2="17" version="1065353216">Just take what you came for.</text>
+		<text bitflag="1345" id1="465618" id2="17" version="1065353216">I'm not here for the traitor.</text>
+		<text bitflag="1345" id1="465620" id2="17" version="1065353216">This guy have a reason to be in my face?</text>
+		<text bitflag="1360" id1="465620" id2="17" version="1065353216">What's his problem, Torian?</text>
+		<text bitflag="1345" id1="465621" id2="17" version="1065353216">You got something you want to say to me?</text>
+		<text bitflag="1360" id1="465621" id2="17" version="1065353216">I don't like your tone.</text>
+		<text bitflag="1345" id1="465622" id2="17" version="1065353216">You killed my boy. Now you're going to answer for that.</text>
+		<text bitflag="1345" id1="465623" id2="17" version="1065353216">I gave your boy every opportunity to walk away.</text>
+		<text bitflag="1360" id1="465623" id2="17" version="1065353216">So you're Jogo's father.</text>
+		<text bitflag="1345" id1="465624" id2="17" version="1065353216">There's only one way for this to end. With you, dead at my feet.</text>
+		<text bitflag="1360" id1="465626" id2="17" version="1065353216">Did I?</text>
+		<text bitflag="1345" id1="465627" id2="17" version="1065353216">His name was Jogo. And I'll carve it into your skull so you never forget.</text>
+		<text bitflag="1345" id1="465629" id2="17" version="1065353216">Shoulda taught him to shoot with his blaster instead of his mouth.</text>
+		<text bitflag="1360" id1="465629" id2="17" version="1065353216">That brat was asking for it.</text>
+		<text bitflag="1345" id1="465630" id2="17" version="1065353216">You should take your own advice.</text>
+		<text bitflag="1345" id1="465632" id2="17" version="1065353216">I challenge you to a blood duel.</text>
+		<text bitflag="1345" id1="465633" id2="17" version="1065353216">It's your funeral.</text>
+		<text bitflag="1360" id1="465633" id2="17" version="1065353216">If that's what you want.</text>
+		<text bitflag="1345" id1="465634" id2="17" version="1065353216">I can't really refuse, now can I?</text>
+		<text bitflag="1360" id1="465634" id2="17" version="1065353216">You leave me no choice.</text>
+		<text bitflag="1345" id1="465635" id2="17" version="1065353216">I wouldn't let you, even if you did.</text>
+		<text bitflag="1345" id1="465637" id2="17" version="1065353216">Any other relatives I should lay to rest while I'm at it?</text>
+		<text bitflag="1360" id1="465637" id2="17" version="1065353216">You're so dead.</text>
+		<text bitflag="1345" id1="465638" id2="17" version="1065353216">If you weren't Mando, I'd have half my clan take you apart one piece at a time.</text>
+		<text bitflag="1345" id1="465640" id2="17" version="1065353216">Marn, you're my second.</text>
+		<text bitflag="1345" id1="465642" id2="17" version="1065353216">Is this weakling going to act as yours?</text>
+		<text bitflag="1345" id1="465644" id2="17" version="1065353216">Darn right!</text>
+		<text bitflag="1345" id1="465646" id2="17" version="1065353216">Of course, wouldn't want someone to cheat.</text>
+		<text bitflag="3393" id1="465648" id2="17" version="1065353216">Blizz always be second to boss!</text>
+		<text bitflag="1345" id1="465650" id2="17" version="1065353216">No, I am.</text>
+		<text bitflag="1345" id1="465651" id2="17" version="1065353216">Torian's my second.</text>
+		<text bitflag="1360" id1="465651" id2="17" version="1065353216">Suits me fine.</text>
+		<text bitflag="1345" id1="465652" id2="17" version="1065353216">Glad to see you've still got my back.</text>
+		<text bitflag="1360" id1="465652" id2="17" version="1065353216">Thanks, kid.</text>
+		<text bitflag="1345" id1="465653" id2="17" version="1065353216">We've got it covered. Just stay out of the way.</text>
+		<text bitflag="1360" id1="465653" id2="17" version="1065353216">No, you're not.</text>
+		<text bitflag="1345" id1="465654" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="465656" id2="17" version="1065353216">Guess you're all alone here.</text>
+		<text bitflag="1345" id1="465658" id2="17" version="1065353216">I'm her second.</text>
+		<text bitflag="1345" id1="465660" id2="17" version="1065353216">I'm his second.</text>
+		<text bitflag="1345" id1="465662" id2="17" version="1065353216">Hmph. Like father, like son. Always picking the wrong side.</text>
+		<text bitflag="1345" id1="465664" id2="17" version="1065353216">Par Jogo!</text>
+		<text bitflag="1345" id1="465666" id2="17" version="1065353216">Kill this trash.</text>
+		<text bitflag="1345" id1="465668" id2="17" version="1065353216">Burc'ya. Wasting no time earning new honors, I see. We've been sent to collect the traitor from you.</text>
+		<text bitflag="1360" id1="465669" id2="17" version="1065353216">Nothing else on my plate.</text>
+		<text bitflag="1345" id1="465670" id2="17" version="1065353216">You won't be sitting idle for long. Times are about to get interesting.</text>
+		<text bitflag="1345" id1="465672" id2="17" version="1065353216">Let's get something straight. Just because you're a Mandalorian doesn't make us buddies.</text>
+		<text bitflag="1360" id1="465672" id2="17" version="1065353216">We aren't friends.</text>
+		<text bitflag="1345" id1="465673" id2="17" version="1065353216">Never liked you anyway, champion.</text>
+		<text bitflag="1345" id1="465675" id2="17" version="1065353216">Champion. I hear you're still catching big game. We've been sent to collect the traitor from you.</text>
+		<text bitflag="1345" id1="465676" id2="17" version="1065353216">He's in the cargo bay.</text>
+		<text bitflag="1360" id1="465676" id2="17" version="1065353216">Help yourself.</text>
+		<text bitflag="1360" id1="465677" id2="17" version="1065353216">I only do things big.</text>
+		<text bitflag="1345" id1="465678" id2="17" version="1065353216">You're good at what you do, no one can argue that.</text>
+		<text bitflag="1345" id1="465680" id2="17" version="1065353216">Carrying my honors suits you.</text>
+		<text bitflag="1360" id1="465680" id2="17" version="1065353216">Whatever, errand boy.</text>
+		<text bitflag="1345" id1="465681" id2="17" version="1065353216">You--I have my orders.</text>
+		<text bitflag="1345" id1="465683" id2="17" version="1065353216">We'll make this quick.</text>
+		<text bitflag="1345" id1="465685" id2="17" version="1065353216">Need to ask you a favor, champion.</text>
+		<text bitflag="1345" id1="465696" id2="17" version="1065353216">All right, kid, the kolto's treated most of the major damage.</text>
+		<text bitflag="1345" id1="465697" id2="17" version="1065353216">Should have left me. You've given the traitor too much time.</text>
+		<text bitflag="1345" id1="465698" id2="17" version="1065353216">There's only so far he can go. We'll find him eventually.</text>
+		<text bitflag="1360" id1="465698" id2="17" version="1065353216">Time isn't a factor.</text>
+		<text bitflag="1345" id1="465699" id2="17" version="1065353216">Better keep at him. He'll be easier to track on the run.</text>
+		<text bitflag="1360" id1="465701" id2="17" version="1065353216">Saving you was the priority.</text>
+		<text bitflag="1345" id1="465702" id2="17" version="1065353216">At least I get another crack at him.</text>
+		<text bitflag="1360" id1="465704" id2="17" version="1065353216">A &quot;thank you&quot; might be nice.</text>
+		<text bitflag="1345" id1="465705" id2="17" version="1065353216">Sorry. Thanks.</text>
+		<text bitflag="1345" id1="465707" id2="17" version="1065353216">The traitor sacrificed his stockpile to escape. He'll be scavenging now.</text>
+		<text bitflag="1345" id1="465709" id2="17" version="1065353216">Most likely, he'll steal from nearby outposts.</text>
+		<text bitflag="1345" id1="465710" id2="17" version="1065353216">This is a battlefield, who knows how many outposts have been thrown up and torn down around here.</text>
+		<text bitflag="1360" id1="465710" id2="17" version="1065353216">That doesn't narrow it down.</text>
+		<text bitflag="1345" id1="465711" id2="17" version="1065353216">We'll make do.</text>
+		<text bitflag="1360" id1="465713" id2="17" version="1065353216">Sounds right.</text>
+		<text bitflag="1345" id1="465714" id2="17" version="1065353216">He'll be looking to put as much distance between me and him as possible.</text>
+		<text bitflag="1360" id1="465714" id2="17" version="1065353216">I gotta disagree.</text>
+		<text bitflag="1345" id1="465715" id2="17" version="1065353216">Not with his wounds. In this swamp, he'd go septic in a day.</text>
+		<text bitflag="1345" id1="465717" id2="17" version="1065353216">We should update our tactical maps at an Imperial outpost. Then search for signs of the traitor at any outposts nearby.</text>
+		<text bitflag="1345" id1="465722" id2="17" version="1065353216">This should help stop the bleeding.</text>
+		<text bitflag="1345" id1="465723" id2="17" version="1065353216">T--thanks... I can staunch this.</text>
+		<text bitflag="1345" id1="465725" id2="17" version="1065353216">Save my honor.</text>
+		<text bitflag="3393" id1="465731" id2="17" version="1065353216">Smell like Blizz workshop--uh-oh.</text>
+		<text bitflag="1345" id1="465732" id2="17" version="1065353216">So much for that plan.</text>
+		<text bitflag="1345" id1="465733" id2="17" version="1065353216">Torian!</text>
+		<text bitflag="1345" id1="465735" id2="17" version="1065353216">Torian. Where's Jicoln?</text>
+		<text bitflag="1345" id1="465736" id2="17" version="1065353216">Got cocky. He's tricky.</text>
+		<text bitflag="1345" id1="465738" id2="17" version="1065353216">Electro-net put him down, but--used it to cook off his munition cache.</text>
+		<text bitflag="1345" id1="465740" id2="17" version="1065353216">He's running. Don't let the trail go cold.</text>
+		<text bitflag="1345" id1="465741" id2="17" version="1065353216">Does Jicoln have another hideaway?</text>
+		<text bitflag="1360" id1="465741" id2="17" version="1065353216">Where could he be going?</text>
+		<text bitflag="1345" id1="465742" id2="17" version="1065353216">Didn't see one. Doesn't matter, you can catch him.</text>
+		<text bitflag="1345" id1="465744" id2="17" version="1065353216">What trail? Jicoln's long gone.</text>
+		<text bitflag="1360" id1="465744" id2="17" version="1065353216">You let him get away.</text>
+		<text bitflag="1345" id1="465745" id2="17" version="1065353216">No. He won't be covering his tracks.</text>
+		<text bitflag="1345" id1="465747" id2="17" version="1065353216">Better the trail goes cold than you.</text>
+		<text bitflag="1360" id1="465747" id2="17" version="1065353216">I'm not leaving you like this.</text>
+		<text bitflag="1345" id1="465748" id2="17" version="1065353216">I'll be fine... just get him!</text>
+		<text bitflag="1345" id1="465750" id2="17" version="1065353216">He's hurt, bleeding, running. Deep tracks, bloody mud, straight lines... even you could follow.</text>
+		<text bitflag="1345" id1="465751" id2="17" version="1065353216">We're finishing this together, Torian. It's not up for discussion.</text>
+		<text bitflag="1360" id1="465751" id2="17" version="1065353216">No. I won't leave you behind.</text>
+		<text bitflag="1345" id1="465752" id2="17" version="1065353216">So close....</text>
+		<text bitflag="1345" id1="465759" id2="17" version="1065353216">He's not getting away from me this time.</text>
+		<text bitflag="1360" id1="465759" id2="17" version="1065353216">On my way.</text>
+		<text bitflag="1345" id1="465765" id2="17" version="1065353216">I'm at the coordinates. No sign of Jicoln. Just some sort of marker.</text>
+		<text bitflag="1345" id1="465766" id2="17" version="1065353216">Not good.</text>
+		<text bitflag="1345" id1="465768" id2="17" version="1065353216">Holy--hey... hey, if you want me to steal your ship and run, then just lie still and don't move....</text>
+		<text bitflag="3393" id1="465770" id2="17" version="1065353216">Boss! It be okay! Blizz shield you!</text>
+		<text bitflag="1345" id1="465772" id2="17" version="1065353216">Oh! Hey, are you alright?</text>
+		<text bitflag="1345" id1="465778" id2="17" version="1065353216">You okay? What happ--</text>
+		<text bitflag="1345" id1="465780" id2="17" version="1065353216">Challenge accepted.</text>
+		<text bitflag="1345" id1="465781" id2="17" version="1065353216">Jicoln's taking potshots at me; I need to know where I'm headed. Now.</text>
+		<text bitflag="1360" id1="465781" id2="17" version="1065353216">I need directions, Torian.</text>
+		<text bitflag="1345" id1="465782" id2="17" version="1065353216">If that's how you want to play, Jicoln....</text>
+		<text bitflag="1360" id1="465782" id2="17" version="1065353216">Oh, he's dead.</text>
+		<text bitflag="1345" id1="465783" id2="17" version="1065353216">That was a cheap shot, Jicoln!</text>
+		<text bitflag="1360" id1="465783" id2="17" version="1065353216">Hey, I wasn't ready!</text>
+		<text bitflag="1345" id1="465784" id2="17" version="1065353216">Transmission cut out.</text>
+		<text bitflag="1345" id1="465786" id2="17" version="1065353216">Transmitting coordinates. Should be all of the traitor's honors.</text>
+		<text bitflag="1345" id1="465788" id2="17" version="1065353216">Contact you when I've found his bolt hole. Torian out.</text>
+		<text bitflag="1345" id1="465790" id2="17" version="1065353216">Nasty trap. You okay?</text>
+		<text bitflag="1345" id1="465791" id2="17" version="1065353216">Low on ammo!</text>
+		<text bitflag="1345" id1="465793" id2="17" version="1065353216">Torian. I've cleared a path to some kind of vault.</text>
+		<text bitflag="1345" id1="465794" id2="17" version="1065353216">On my way.</text>
+		<text bitflag="1345" id1="465796" id2="17" version="1065353216">Ah! What is that?</text>
+		<text bitflag="1345" id1="465797" id2="17" version="1065353216">My communicator must be picking something up down here.</text>
+		<text bitflag="1360" id1="465797" id2="17" version="1065353216">Feedback, I think.</text>
+		<text bitflag="1345" id1="465798" id2="17" version="1065353216">Something's emitting high or low frequency sound.</text>
+		<text bitflag="1345" id1="465800" id2="17" version="1065353216">How should I know? I thought it was you.</text>
+		<text bitflag="1360" id1="465800" id2="17" version="1065353216">You sure it's not on your end?</text>
+		<text bitflag="1345" id1="465801" id2="17" version="1065353216">Hold on, Torian! Stupid communicator's on the fritz.</text>
+		<text bitflag="1360" id1="465801" id2="17" version="1065353216">Hunk of junk!</text>
+		<text bitflag="1345" id1="465802" id2="17" version="1065353216">Don't think it's our equipment. Something's going on down there.</text>
+		<text bitflag="3393" id1="465804" id2="17" version="1065353216">Blizz think it coming from this thing.</text>
+		<text bitflag="1345" id1="465806" id2="17" version="1065353216">It's whipping the rakghouls into a frenzy.</text>
+		<text bitflag="1345" id1="465808" id2="17" version="1065353216">They're coming out of the woodwork. Moving on your position!</text>
+		<text bitflag="1345" id1="465810" id2="17" version="1065353216">I--I think I hear them... a lot of them!</text>
+		<text bitflag="1345" id1="465811" id2="17" version="1065353216">Let's bolt before they corner... too late.</text>
+		<text bitflag="3393" id1="465812" id2="17" version="1065353216">Blizz got it! Uh-oh....</text>
+		<text bitflag="1345" id1="465815" id2="17" version="1065353216">It's been a while--</text>
+		<text bitflag="1345" id1="465817" id2="17" version="1065353216">Ah! Hear that?</text>
+		<text bitflag="3393" id1="465819" id2="17" version="1065353216">Blizz hear it too.</text>
+		<text bitflag="1345" id1="465820" id2="17" version="1065353216">Nothing?</text>
+		<text bitflag="1345" id1="465821" id2="17" version="1065353216">I don't hear anything.</text>
+		<text bitflag="1360" id1="465821" id2="17" version="1065353216">No, what?</text>
+		<text bitflag="1360" id1="465822" id2="17" version="1065353216">Well, what's the matter?</text>
+		<text bitflag="1345" id1="465823" id2="17" version="1065353216">High-pitched whine.</text>
+		<text bitflag="1345" id1="465825" id2="17" version="1065353216">This is bad.</text>
+		<text bitflag="1360" id1="465827" id2="17" version="1065353216">Something's not right.</text>
+		<text bitflag="1345" id1="465828" id2="17" version="1065353216">You ain't the only one.</text>
+		<text bitflag="1345" id1="465830" id2="17" version="1065353216">Trap!</text>
+		<text bitflag="3393" id1="465832" id2="17" version="1065353216">Blizz got it! Uh-oh....</text>
+		<text bitflag="1345" id1="465833" id2="17" version="1065353216">I really don't like the sound of that...!</text>
+		<text bitflag="1345" id1="465834" id2="17" version="1065353216">I hate always being right....</text>
+		<text bitflag="1345" id1="465837" id2="17" version="1065353216">Mind your distance.</text>
+		<text bitflag="1345" id1="465838" id2="17" version="1065353216">Hey. Smelled you coming.</text>
+		<text bitflag="1345" id1="465839" id2="17" version="1065353216">I've got the rakghoul byproducts you asked for.</text>
+		<text bitflag="1360" id1="465839" id2="17" version="1065353216">Here are the materials.</text>
+		<text bitflag="1360" id1="465840" id2="17" version="1065353216">You're not funny.</text>
+		<text bitflag="1345" id1="465841" id2="17" version="1065353216">No joke.</text>
+		<text bitflag="1345" id1="465843" id2="17" version="1065353216">Next time, you're the one digging through sewage.</text>
+		<text bitflag="1360" id1="465843" id2="17" version="1065353216">I'm not doing this again.</text>
+		<text bitflag="1345" id1="465844" id2="17" version="1065353216">You know botany? Didn't think so. I got everything else.</text>
+		<text bitflag="1345" id1="465846" id2="17" version="1065353216">Let me. This'll take a minute.</text>
+		<text bitflag="1345" id1="465848" id2="17" version="1065353216">Stuff'll throw a rakghoul off my trail, but in their den? Keep your blaster ready.</text>
+		<text bitflag="1345" id1="465849" id2="17" version="1065353216">If these things attack, I'm going to open up with everything I've got.</text>
+		<text bitflag="1360" id1="465849" id2="17" version="1065353216">Noted.</text>
+		<text bitflag="1345" id1="465850" id2="17" version="1065353216">I'll keep behind you.</text>
+		<text bitflag="1345" id1="465852" id2="17" version="1065353216">So what's this gunk supposed to do, exactly?</text>
+		<text bitflag="1360" id1="465852" id2="17" version="1065353216">How's this stuff work?</text>
+		<text bitflag="1345" id1="465853" id2="17" version="1065353216">Mask our scent, tranquilize.</text>
+		<text bitflag="1345" id1="465855" id2="17" version="1065353216">Ugh, that stuff's burning a hole through my helmet's air filters.</text>
+		<text bitflag="1360" id1="465855" id2="17" version="1065353216">That smells awful.</text>
+		<text bitflag="1345" id1="465856" id2="17" version="1065353216">Worst case, you'll gag.</text>
+		<text bitflag="1345" id1="465858" id2="17" version="1065353216">Smear it thick. If the fumes put the rakghouls out, we might sneak through.</text>
+		<text bitflag="1345" id1="465860" id2="17" version="1065353216">Oh no, no way. I'm not getting that... whatever, all over--this is my best shirt!</text>
+		<text bitflag="1345" id1="465862" id2="17" version="1065353216">Nice knowing you.</text>
+		<text bitflag="1345" id1="465864" id2="17" version="1065353216">Wait, wait, wait... just do it. Ugh, now I'm gonna have to burn these.</text>
+		<text bitflag="3393" id1="465865" id2="17" version="1065353216">Smell like when Blizz fall in old refresher tank.</text>
+		<text bitflag="1345" id1="465866" id2="17" version="1065353216">Wow, that's a smell... if I pass out, please don't leave me behind.</text>
+		<text bitflag="1345" id1="465869" id2="17" version="1065353216">Got a way to throw off rakghouls, but I'll need help. Materials.</text>
+		<text bitflag="1345" id1="465870" id2="17" version="1065353216">What sort of materials am I looking for?</text>
+		<text bitflag="1360" id1="465870" id2="17" version="1065353216">Just tell me what you need.</text>
+		<text bitflag="1360" id1="465871" id2="17" version="1065353216">Good as done.</text>
+		<text bitflag="1345" id1="465872" id2="17" version="1065353216">Fresh rakghoul bodily fluids--both blood and waste--and a decomposing rakghoul. Least a week old.</text>
+		<text bitflag="1345" id1="465874" id2="17" version="1065353216">Check these waypoints. We'll rendezvous at the transport station.</text>
+		<text bitflag="1345" id1="465876" id2="17" version="1065353216">I'm pressed for time; I'll just go in guns blazing.</text>
+		<text bitflag="1360" id1="465876" id2="17" version="1065353216">Let's just shoot them.</text>
+		<text bitflag="1345" id1="465877" id2="17" version="1065353216">You're the expert.</text>
+		<text bitflag="1345" id1="465879" id2="17" version="1065353216">I'll catch up. Here's the hive's coordinates and my holofrequency.</text>
+		<text bitflag="1345" id1="465885" id2="17" version="1065353216">I don't like thi--yup, definitely don't like this.</text>
+		<text bitflag="3393" id1="465889" id2="17" version="1065353216">Don't shoot Blizz! Only looking!</text>
+		<text bitflag="1345" id1="465893" id2="17" version="1065353216">Aw, crud.</text>
+		<text bitflag="1345" id1="465897" id2="17" version="1065353216">Thought you'd be harder to get the drop on.</text>
+		<text bitflag="1345" id1="465898" id2="17" version="1065353216">Put that away, before we have a problem.</text>
+		<text bitflag="1360" id1="465898" id2="17" version="1065353216">Lower that weapon.</text>
+		<text bitflag="1345" id1="465899" id2="17" version="1065353216">I see you're doing well, and here I was worried about you.</text>
+		<text bitflag="1360" id1="465899" id2="17" version="1065353216">That how you treat a friend?</text>
+		<text bitflag="1345" id1="465900" id2="17" version="1065353216">Just having a little fun.</text>
+		<text bitflag="1345" id1="465902" id2="17" version="1065353216">You were one of those kids hunting Sithspawn on Dromund Kaas.</text>
+		<text bitflag="1360" id1="465902" id2="17" version="1065353216">Hey, I know you.</text>
+		<text bitflag="1345" id1="465903" id2="17" version="1065353216">You remembered.</text>
+		<text bitflag="1345" id1="465905" id2="17" version="1065353216">I was just eager to see you again after Dromund Kaas.</text>
+		<text bitflag="1360" id1="465905" id2="17" version="1065353216">[Flirt] Hi cutie. [Disarm him]</text>
+		<text bitflag="1345" id1="465906" id2="17" version="1065353216">You what--</text>
+		<text bitflag="1345" id1="465907" id2="17" version="1065353216">Men.... Time to tell me what you're doing out here.</text>
+		<text bitflag="1345" id1="465908" id2="17" version="1065353216">Ow... I deserved that.</text>
+		<text bitflag="1345" id1="465910" id2="17" version="1065353216">You must like him. If I tried that, I'd be wearing my face on the back wall.</text>
+		<text bitflag="1345" id1="465912" id2="17" version="1065353216">Oh, yeah you did.</text>
+		<text bitflag="1345" id1="465914" id2="17" version="1065353216">Bad idea, kid.</text>
+		<text bitflag="1360" id1="465914" id2="17" version="1065353216">It is. [Disarm him.]</text>
+		<text bitflag="1345" id1="465916" id2="17" version="1065353216">Now you're gonna tell me what you're doing out here.</text>
+		<text bitflag="1345" id1="465917" id2="17" version="1065353216">Ahh. Hst... more what I had in mind.</text>
+		<text bitflag="1345" id1="465919" id2="17" version="1065353216">If a bloody nose is the worst you take out of here, you're ahead of most.</text>
+		<text bitflag="3393" id1="465921" id2="17" version="1065353216">You not mess with boss. Boss beat up people better than anybody!</text>
+		<text bitflag="1345" id1="465923" id2="17" version="1065353216">Won't do that again, I'll bet.</text>
+		<text bitflag="1345" id1="465925" id2="17" version="1065353216">You're not here for me. Who, then?</text>
+		<text bitflag="1345" id1="465926" id2="17" version="1065353216">I'm hunting Jicoln Cadera.</text>
+		<text bitflag="1360" id1="465926" id2="17" version="1065353216">Your father.</text>
+		<text bitflag="1345" id1="465927" id2="17" version="1065353216">You won't like the answer to that.</text>
+		<text bitflag="1360" id1="465927" id2="17" version="1065353216">Better you don't know.</text>
+		<text bitflag="1345" id1="465928" id2="17" version="1065353216">The traitor....</text>
+		<text bitflag="1345" id1="465930" id2="17" version="1065353216">Same person I bet you're looking for. Dear old dad.</text>
+		<text bitflag="1360" id1="465930" id2="17" version="1065353216">Who do you think, traitor?</text>
+		<text bitflag="1345" id1="465931" id2="17" version="1065353216">Thought I'd lead you to him?</text>
+		<text bitflag="1345" id1="465933" id2="17" version="1065353216">I'm looking too, but not for a reunion. To reclaim my clan's honor.</text>
+		<text bitflag="1345" id1="465934" id2="17" version="1065353216">You found any sign of Jicoln?</text>
+		<text bitflag="1360" id1="465934" id2="17" version="1065353216">Had any luck?</text>
+		<text bitflag="1345" id1="465935" id2="17" version="1065353216">We'll restore your honor, Torian. You've got my word.</text>
+		<text bitflag="1360" id1="465935" id2="17" version="1065353216">I'll help you.</text>
+		<text bitflag="1345" id1="465936" id2="17" version="1065353216">Thanks.</text>
+		<text bitflag="1345" id1="465938" id2="17" version="1065353216">That could be a conflict of interest. It's my job to kill him.</text>
+		<text bitflag="1360" id1="465938" id2="17" version="1065353216">You better not be a problem.</text>
+		<text bitflag="1345" id1="465939" id2="17" version="1065353216">Won't get in your way. Just have to face him.</text>
+		<text bitflag="1345" id1="465941" id2="17" version="1065353216">I promise you, I can find him. I already know where to start.</text>
+		<text bitflag="1345" id1="465943" id2="17" version="1065353216">Someone's erected dew collectors, beast traps, around an old transport station. Have to be the traitor's.</text>
+		<text bitflag="1345" id1="465944" id2="17" version="1065353216">I'll judge for myself.</text>
+		<text bitflag="1360" id1="465944" id2="17" version="1065353216">Show me.</text>
+		<text bitflag="1345" id1="465945" id2="17" version="1065353216">What's so special about dew collectors and traps?</text>
+		<text bitflag="1360" id1="465945" id2="17" version="1065353216">How's that any indication?</text>
+		<text bitflag="1345" id1="465946" id2="17" version="1065353216">That junk could belong to anybody.</text>
+		<text bitflag="1360" id1="465946" id2="17" version="1065353216">You're wasting my time.</text>
+		<text bitflag="1345" id1="465947" id2="17" version="1065353216">Even scavengers can bring in supplies. They're Jicoln's.</text>
+		<text bitflag="1345" id1="465949" id2="17" version="1065353216">I've only found one entrance into the station. It's thick with rakghouls. Risky.</text>
+		<text bitflag="1360" id1="465952" id2="17" version="1065353216">If that's how you want it.</text>
+		<text bitflag="1345" id1="465954" id2="17" version="1065353216">You'll need me to pick up the traitor's trail again.</text>
+		<text bitflag="1345" id1="465956" id2="17" version="1065353216">It'll be easier with one less set of feet. No offense.</text>
+		<text bitflag="1345" id1="465957" id2="17" version="1065353216">Torian, you're with me.</text>
+		<text bitflag="1360" id1="465957" id2="17" version="1065353216">All right, come with me now.</text>
+		<text bitflag="1345" id1="465958" id2="17" version="1065353216">Ready when you are.</text>
+		<text bitflag="1360" id1="465959" id2="17" version="1065353216">All right, come with me now.</text>
+		<text bitflag="1345" id1="465960" id2="17" version="1065353216">You better be up for this.</text>
+		<text bitflag="1360" id1="465960" id2="17" version="1065353216">Just don't slow me down.</text>
+		<text bitflag="1345" id1="465961" id2="17" version="1065353216">I've fought through worse.</text>
+		<text bitflag="1360" id1="465962" id2="17" version="1065353216">Why should I count on you?</text>
+		<text bitflag="1345" id1="465963" id2="17" version="1065353216">I'll find him.</text>
+		<text bitflag="1345" id1="465966" id2="17" version="1065353216">Mako, head back to the ship but keep an ear out for word on Jicoln.</text>
+		<text bitflag="1345" id1="465967" id2="17" version="1065353216">On it. Be careful, you two.</text>
+		<text bitflag="1345" id1="465970" id2="17" version="1065353216">Take a break, Gault. You're looking like a half-drowned Cathar.</text>
+		<text bitflag="1345" id1="465971" id2="17" version="1065353216">Great. I'm gonna take a nice long bath, or twelve.</text>
+		<text bitflag="1345" id1="465974" id2="17" version="1065353216">Good work, Blizz. We've got it from here.</text>
+		<text bitflag="3393" id1="465975" id2="17" version="1065353216">Blizz glad to help. Blizz had fun in soggy place!</text>
+		<text bitflag="1360" id1="758299" id2="17" version="1065353216">I'll get you some kolto first.</text>
+	</file_content>
+</stb_file>

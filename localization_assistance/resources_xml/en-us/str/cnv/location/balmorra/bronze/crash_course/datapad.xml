@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra/bronze/crash_course/datapad.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="720057" id2="17" version="1065353216">[Instead of the stolen walker plans, the datapad contains a short message.]</text>
+		<text bitflag="321" id1="720059" id2="17" version="1065353216">[&quot;We have the location of a friendly training facility, hidden at the following coordinates.&quot;]</text>
+		<text bitflag="321" id1="720061" id2="17" version="1065353216">[&quot;All survivors able to travel should head to the facility for shelter. It has Jedi protection so we can transmit the plans from there.&quot;]</text>
+	</file_content>
+</stb_file>

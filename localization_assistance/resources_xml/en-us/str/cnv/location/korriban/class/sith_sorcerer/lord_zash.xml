@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>178</strs>
+		<file_name>/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/lord_zash.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="660531" id2="17" version="1065353216">Hurry to Dromund Kaas, apprentice. We can talk more there.</text>
+		<text bitflag="1345" id1="660532" id2="17" version="1065353216">You must meet me on Dromund Kaas. There we can talk more.</text>
+		<text bitflag="1345" id1="660533" id2="17" version="1065353216">Dromund Kaas. Got it.</text>
+		<text bitflag="1360" id1="660533" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="660534" id2="17" version="1065353216">Yes, the map guides us there... to the capital of the Sith Empire.</text>
+		<text bitflag="1345" id1="660536" id2="17" version="1065353216">Why must we go there?</text>
+		<text bitflag="1360" id1="660536" id2="17" version="1065353216">Dromund Kaas?</text>
+		<text bitflag="1345" id1="660537" id2="17" version="1065353216">That is where the map leads--though I likely would have taken you there anyway. The capital of the Sith Empire is a good place for an apprentice to start.</text>
+		<text bitflag="1345" id1="660539" id2="17" version="1065353216">I don't think I've ever heard of it.</text>
+		<text bitflag="1360" id1="660539" id2="17" version="1065353216">That's new to me.</text>
+		<text bitflag="1345" id1="660540" id2="17" version="1065353216">Dromund Kaas is the capital of the Sith Empire. It is a dark place, charged with dark energy. It's also the first location on the map.</text>
+		<text bitflag="1345" id1="660542" id2="17" version="1065353216">I must finish some things here first, but you should board the shuttle to Dromund Kaas as soon as possible. You've made enemies here on Korriban.</text>
+		<text bitflag="1345" id1="660544" id2="17" version="1065353216">I will meet you in my chambers in the Citadel in Kaas City. There we can speak more freely of the work ahead--without the fear of unfriendly ears.</text>
+		<text bitflag="1345" id1="660547" id2="17" version="1065353216">I'll go just as soon as I finish up here.</text>
+		<text bitflag="1360" id1="660547" id2="17" version="1065353216">I still have work here.</text>
+		<text bitflag="1345" id1="660548" id2="17" version="1065353216">Good. Do what you must, then meet me there.</text>
+		<text bitflag="1360" id1="660550" id2="17" version="1065353216">On my way.</text>
+		<text bitflag="1345" id1="660551" id2="17" version="1065353216">If anyone's listening, I'll cut their ears off.</text>
+		<text bitflag="1360" id1="660551" id2="17" version="1065353216">Eavesdroppers will suffer.</text>
+		<text bitflag="1345" id1="660552" id2="17" version="1065353216">No need for that. My chambers on Dromund Kaas are well-guarded against that sort of thing.</text>
+		<text bitflag="1345" id1="660554" id2="17" version="1065353216">Oh--and one more thing. You're Sith now, which means you get your own lightsaber.</text>
+		<text bitflag="5441" id1="660556" id2="17" version="1065353216">This is the lightsaber I had as an apprentice. I want you to have it.</text>
+		<text bitflag="1360" id1="660559" id2="17" version="1065353216">My pleasure.</text>
+		<text bitflag="1345" id1="660560" id2="17" version="1065353216">And what a fine weapon of murder it is. I've always wanted one of these.</text>
+		<text bitflag="1360" id1="660560" id2="17" version="1065353216">Great.</text>
+		<text bitflag="1345" id1="660561" id2="17" version="1065353216">Excellent. I'm glad you like it. It served me well.</text>
+		<text bitflag="1345" id1="660563" id2="17" version="1065353216">I shall wreak havoc with it wherever I go.</text>
+		<text bitflag="1360" id1="660563" id2="17" version="1065353216">I'll use it well.</text>
+		<text bitflag="1345" id1="660564" id2="17" version="1065353216">Magnificent. No doubt you will.</text>
+		<text bitflag="1345" id1="660566" id2="17" version="1065353216">Now, remember. My chambers. The Citadel. Dromund Kaas. It's imperative that we get to work on this as soon as possible.</text>
+		<text bitflag="1345" id1="660568" id2="17" version="1065353216">Stop right there, alien scum. Darth Skotia has a message for you.</text>
+		<text bitflag="1345" id1="660569" id2="17" version="1065353216">Stop right there, slave. Darth Skotia has a message for you.</text>
+		<text bitflag="1345" id1="660570" id2="17" version="1065353216">I am a Sith apprentice. Show some respect or I'll smash your face in.</text>
+		<text bitflag="1360" id1="660570" id2="17" version="1065353216">You're asking for trouble.</text>
+		<text bitflag="1345" id1="660571" id2="17" version="1065353216">Shut up, you insignificant worm.</text>
+		<text bitflag="1345" id1="660573" id2="17" version="1065353216">Who is this Darth Skotia?</text>
+		<text bitflag="1360" id1="660573" id2="17" version="1065353216">Darth Skotia?</text>
+		<text bitflag="1345" id1="660574" id2="17" version="1065353216">Darth Skotia is Lord Zash's superior and your worst nightmare.</text>
+		<text bitflag="1345" id1="660576" id2="17" version="1065353216">Give me the message.</text>
+		<text bitflag="1360" id1="660576" id2="17" version="1065353216">Speak.</text>
+		<text bitflag="1345" id1="660577" id2="17" version="1065353216">The message is this: You will not go to Dromund Kaas.</text>
+		<text bitflag="1345" id1="660582" id2="17" version="1065353216">Who said anything about going to Dromund Kaas?</text>
+		<text bitflag="1360" id1="660582" id2="17" version="1065353216">I'm not going.</text>
+		<text bitflag="1345" id1="660583" id2="17" version="1065353216">Everything you've done here, everyone you dealt with--Lord Zash included--is insignificant.</text>
+		<text bitflag="1345" id1="660585" id2="17" version="1065353216">Darth Skotia has eyes and ears on Korriban. He knows what your master is up to, and he is displeased to say the least.</text>
+		<text bitflag="1345" id1="660587" id2="17" version="1065353216">On Korriban, Lord Zash may have her way. But on Dromund Kaas, it's a different story. So you see, you have to die.</text>
+		<text bitflag="1345" id1="660588" id2="17" version="1065353216">Khem, what is it you do to Force users again?</text>
+		<text bitflag="1360" id1="660588" id2="17" version="1065353216">Khem, show him your talent.</text>
+		<text bitflag="1345" id1="660591" id2="17" version="1065353216">Um, Ortosin--is that a Dashade? Maybe this isn't such a good idea.</text>
+		<text bitflag="1345" id1="660593" id2="17" version="1065353216">Coward! Fight, you fool!</text>
+		<text bitflag="1345" id1="660594" id2="17" version="1065353216">Actually, you're the one who's going to die.</text>
+		<text bitflag="1360" id1="660594" id2="17" version="1065353216">You will suffer.</text>
+		<text bitflag="1345" id1="660596" id2="17" version="1065353216">I've been waiting to give my new lightsaber a try!</text>
+		<text bitflag="1360" id1="660596" id2="17" version="1065353216">This'll be fun!</text>
+		<text bitflag="1345" id1="660597" id2="17" version="1065353216">Oh, slave, I'm going to enjoy tearing you to bits.</text>
+		<text bitflag="1345" id1="660601" id2="17" version="1065353216">Ah, my magnificent new apprentice. Congratulations are in order, I believe.</text>
+		<text bitflag="1345" id1="660602" id2="17" version="1065353216">You know, I could have taken Ffon. You didn't need to kill him for me.</text>
+		<text bitflag="1360" id1="660602" id2="17" version="1065353216">I didn't need your help.</text>
+		<text bitflag="1345" id1="660603" id2="17" version="1065353216">You know, I could have taken Ffon. I didn't need you to kill him for me.</text>
+		<text bitflag="1360" id1="660603" id2="17" version="1065353216">I didn't need your help.</text>
+		<text bitflag="1345" id1="660604" id2="17" version="1065353216">Yes, of course, but it wouldn't have made that stubborn overseer respect your power. So I reminded him of mine instead.</text>
+		<text bitflag="1360" id1="660606" id2="17" version="1065353216">I'm grateful.</text>
+		<text bitflag="1345" id1="660607" id2="17" version="1065353216">You've earned it, my apprentice.</text>
+		<text bitflag="1345" id1="660609" id2="17" version="1065353216">Was killing Ffon really necessary? He couldn't help it that Harkun was a jerk.</text>
+		<text bitflag="1360" id1="660609" id2="17" version="1065353216">I feel bad for Ffon.</text>
+		<text bitflag="1345" id1="660610" id2="17" version="1065353216">Was killing Ffon really necessary? He couldn't help it that Harkun is a fool.</text>
+		<text bitflag="1360" id1="660610" id2="17" version="1065353216">I feel bad for Ffon.</text>
+		<text bitflag="1345" id1="660611" id2="17" version="1065353216">Of course it was. I can only have one apprentice.</text>
+		<text bitflag="1345" id1="660613" id2="17" version="1065353216">Now, I was just looking over this astonishing map you brought back, and I can tell we have a lot of work ahead of us.</text>
+		<text bitflag="1345" id1="660614" id2="17" version="1065353216">What is this map of, exactly?</text>
+		<text bitflag="1360" id1="660614" id2="17" version="1065353216">Map?</text>
+		<text bitflag="1345" id1="660615" id2="17" version="1065353216">What is this a map of, exactly?</text>
+		<text bitflag="1360" id1="660615" id2="17" version="1065353216">Map?</text>
+		<text bitflag="1345" id1="660616" id2="17" version="1065353216">We can't talk about it here--too many unfriendly ears.</text>
+		<text bitflag="1360" id1="660618" id2="17" version="1065353216">Oh boy!</text>
+		<text bitflag="1345" id1="660619" id2="17" version="1065353216">Patience, my apprentice. We must go about this with tact. All in good time.</text>
+		<text bitflag="1345" id1="660621" id2="17" version="1065353216">You mean I have a lot of work ahead of me.</text>
+		<text bitflag="1360" id1="660621" id2="17" version="1065353216">Us? You mean &quot;me.&quot;</text>
+		<text bitflag="1345" id1="660622" id2="17" version="1065353216">You think I don't work, apprentice? I'd remind you that there is more to being Sith than crushing tuk'ata skulls and mulling about dark tombs.</text>
+		<text bitflag="1345" id1="660624" id2="17" version="1065353216">You and I are a special breed. We reach beyond the mere momentary passion of combat into the very heart of the dark side.</text>
+		<text bitflag="1345" id1="660626" id2="17" version="1065353216">We are masters of secrets. Even our own shadows don't know our next move. Do you understand?</text>
+		<text bitflag="1360" id1="660627" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="1345" id1="660628" id2="17" version="1065353216">But what's the point of having all this power if you can't kill things?</text>
+		<text bitflag="1360" id1="660628" id2="17" version="1065353216">But I like causing trouble.</text>
+		<text bitflag="1345" id1="660629" id2="17" version="1065353216">There will be plenty of time for that.</text>
+		<text bitflag="1345" id1="660631" id2="17" version="1065353216">Yes, I am darkness!</text>
+		<text bitflag="1360" id1="660631" id2="17" version="1065353216">I am powerful!</text>
+		<text bitflag="1345" id1="660632" id2="17" version="1065353216">Excellent. This is positively thrilling.</text>
+		<text bitflag="1345" id1="660634" id2="17" version="1065353216">Please, please--I must work now. This text--so exciting!</text>
+		<text bitflag="1345" id1="660635" id2="17" version="1065353216">Remarkable. Magni--oh, hello again, acolyte.</text>
+		<text bitflag="1345" id1="660637" id2="17" version="1065353216">I was just in the midst of decoding the marvelous text you brought back from the tomb of Tulak Hord.</text>
+		<text bitflag="1345" id1="660639" id2="17" version="1065353216">I can't say for sure, but it looks every bit as promising as the holocron.</text>
+		<text bitflag="1360" id1="660640" id2="17" version="1065353216">Good.</text>
+		<text bitflag="1345" id1="660641" id2="17" version="1065353216">You've been an immense help. This is--well, it's beyond my wildest imagination, and I've only skimmed the surface.</text>
+		<text bitflag="1345" id1="660643" id2="17" version="1065353216">I'd have thought you would have read it by now, if it's so exciting.</text>
+		<text bitflag="1360" id1="660643" id2="17" version="1065353216">You haven't read it?</text>
+		<text bitflag="1345" id1="660644" id2="17" version="1065353216">Oh, I've read it hundreds of times by now. It's a very pretty verse in the ancient Sith tongue--but it's nonsense.</text>
+		<text bitflag="1345" id1="660646" id2="17" version="1065353216">My research suggested that the text was important--that's why I sent you for it. That the text and the holocron were connected wasn't clear until I used the holocron.</text>
+		<text bitflag="1345" id1="660648" id2="17" version="1065353216">But it's true--there's a second text buried in the first, one which I never would have seen without the holocron! And I am nearly finished decoding it!</text>
+		<text bitflag="1345" id1="660649" id2="17" version="1065353216">Amazing. I never would have imagined it.</text>
+		<text bitflag="1360" id1="660649" id2="17" version="1065353216">Fascinating.</text>
+		<text bitflag="1345" id1="660650" id2="17" version="1065353216">So the text is some sort of code?</text>
+		<text bitflag="1360" id1="660650" id2="17" version="1065353216">Decoding?</text>
+		<text bitflag="1345" id1="660651" id2="17" version="1065353216">Yes! It's absolutely magnificent. Ingenious, even.</text>
+		<text bitflag="1345" id1="660653" id2="17" version="1065353216">Now, if you'll excuse me, I must get back to it immediately--and you have business to go about, certainly.</text>
+		<text bitflag="1360" id1="660654" id2="17" version="1065353216">Good luck.</text>
+		<text bitflag="1345" id1="660655" id2="17" version="1065353216">Thank you very much, acolyte.</text>
+		<text bitflag="1345" id1="660657" id2="17" version="1065353216">Will you let me know how it turns out?</text>
+		<text bitflag="1360" id1="660657" id2="17" version="1065353216">Keep me informed.</text>
+		<text bitflag="1345" id1="660658" id2="17" version="1065353216">Absolutely! Your help has been invaluable. It's the least I can do.</text>
+		<text bitflag="1345" id1="660660" id2="17" version="1065353216">And good luck dealing with Harkun--best not to keep him waiting, I think.</text>
+		<text bitflag="1345" id1="660661" id2="17" version="1065353216">That fool Harkun can wait.</text>
+		<text bitflag="1360" id1="660661" id2="17" version="1065353216">I have time.</text>
+		<text bitflag="1345" id1="660662" id2="17" version="1065353216">The trial is nothing. It can wait.</text>
+		<text bitflag="1360" id1="660662" id2="17" version="1065353216">I have time.</text>
+		<text bitflag="1345" id1="660663" id2="17" version="1065353216">Well, I don't think you should keep him waiting. You'd best go.</text>
+		<text bitflag="1360" id1="660664" id2="17" version="1065353216">Boring.</text>
+		<text bitflag="1345" id1="660665" id2="17" version="1065353216">Your interests may lie elsewhere, acolyte, but you would do well to remember that knowledge is also a form of strength for the Sith.</text>
+		<text bitflag="1345" id1="660667" id2="17" version="1065353216">I won't delay you longer.</text>
+		<text bitflag="1345" id1="660668" id2="17" version="1065353216">I have to get back to Harkun now.</text>
+		<text bitflag="1360" id1="660668" id2="17" version="1065353216">I must leave.</text>
+		<text bitflag="1345" id1="660669" id2="17" version="1065353216">Well, I have to go to the training grounds now.</text>
+		<text bitflag="1360" id1="660669" id2="17" version="1065353216">I must leave.</text>
+		<text bitflag="1345" id1="660670" id2="17" version="1065353216">All right--better not keep Overseer Harkun waiting. He has a nasty temper.</text>
+		<text bitflag="1345" id1="660672" id2="17" version="1065353216">I'll be sure to find you when I have the text fully decoded.</text>
+		<text bitflag="1345" id1="660674" id2="17" version="1065353216">Yes--yes. Remarkable. Magnificent.</text>
+		<text bitflag="1345" id1="660676" id2="17" version="1065353216">You--you, slave. Wai--no, acolyte, you're the one who brought me this magnificent holocron from the tomb of Marka Ragnos, yes?</text>
+		<text bitflag="1345" id1="660677" id2="17" version="1065353216">Yes, my lord. I found the holocron.</text>
+		<text bitflag="1360" id1="660677" id2="17" version="1065353216">Indeed, Lord Zash.</text>
+		<text bitflag="1360" id1="660678" id2="17" version="1065353216">It was nothing.</text>
+		<text bitflag="1345" id1="660679" id2="17" version="1065353216">Is there something wrong?</text>
+		<text bitflag="1360" id1="660679" id2="17" version="1065353216">Why do you ask?</text>
+		<text bitflag="1345" id1="660680" id2="17" version="1065353216">Unbelievable. One thousand years, buried in that tomb. Sith Lords passing it by. And then--the most unlikely person comes along.</text>
+		<text bitflag="1345" id1="660682" id2="17" version="1065353216">Tell me--how did you manage it?</text>
+		<text bitflag="1345" id1="660683" id2="17" version="1065353216">I shot lightning at it, and it opened.</text>
+		<text bitflag="1360" id1="660683" id2="17" version="1065353216">It was easy.</text>
+		<text bitflag="1345" id1="660684" id2="17" version="1065353216">Such a simple solution--why did none of us think of that?</text>
+		<text bitflag="1345" id1="660686" id2="17" version="1065353216">We must have thought too deeply on it, believed too strongly that it could not be done. Or perhaps we were simply not meant to open it.</text>
+		<text bitflag="1360" id1="660688" id2="17" version="1065353216">I'm not telling.</text>
+		<text bitflag="1345" id1="660689" id2="17" version="1065353216">Good. You guard your secrets well. This is a credit to you and a source of power. Though I personally prefer to be more open.</text>
+		<text bitflag="1345" id1="660691" id2="17" version="1065353216">I had to sacrifice seven tuk'ata and eat their hearts.</text>
+		<text bitflag="1360" id1="660691" id2="17" version="1065353216">[Lie] It was quite the ritual.</text>
+		<text bitflag="1345" id1="660692" id2="17" version="1065353216">Really? How strange. It didn't work when I tried it.</text>
+		<text bitflag="1345" id1="660694" id2="17" version="1065353216">Do you realize what a truly magnificent discovery this holocron is?</text>
+		<text bitflag="1345" id1="660695" id2="17" version="1065353216">Judging from your reaction, I'd say I have a good guess.</text>
+		<text bitflag="1360" id1="660695" id2="17" version="1065353216">Maybe.</text>
+		<text bitflag="1360" id1="660696" id2="17" version="1065353216">You're going to tell me?</text>
+		<text bitflag="1345" id1="660697" id2="17" version="1065353216">Why wouldn't I tell you? This is far too remarkable a discovery to be kept secret--especially from the person who made it!</text>
+		<text bitflag="1345" id1="660699" id2="17" version="1065353216">Well, if I did it, it must be great.</text>
+		<text bitflag="1360" id1="660699" id2="17" version="1065353216">I am amazing.</text>
+		<text bitflag="1345" id1="660700" id2="17" version="1065353216">I always believed this holocron contained some small secret of Marka Ragnos--an arcane philosophy or an incantation perhaps. It is much bigger than that.</text>
+		<text bitflag="1345" id1="660702" id2="17" version="1065353216">This isn't Marka Ragnos's holocron. It belonged to Tulak Hord! The most mysterious Dark Lord of them all. It is the key to his long sought-after power!</text>
+		<text bitflag="1345" id1="660704" id2="17" version="1065353216">It means Tulak Hord must have built the tombs himself, long before Marka Ragnos or Naga Sadow were even born! And his power is finally in reach!</text>
+		<text bitflag="1360" id1="660705" id2="17" version="1065353216">I'm happy to help.</text>
+		<text bitflag="1345" id1="660706" id2="17" version="1065353216">I look forward to seeing more of the wonderful fruits of your labor, acolyte.</text>
+		<text bitflag="1345" id1="660708" id2="17" version="1065353216">Well aren't you the lucky one?</text>
+		<text bitflag="1360" id1="660708" id2="17" version="1065353216">Good for you.</text>
+		<text bitflag="1345" id1="660709" id2="17" version="1065353216">And you as well, if my estimation of Harkun's trials is correct.</text>
+		<text bitflag="1345" id1="660711" id2="17" version="1065353216">Look, I've got to get back to Harkun.</text>
+		<text bitflag="1360" id1="660711" id2="17" version="1065353216">I have to go.</text>
+		<text bitflag="1345" id1="660712" id2="17" version="1065353216">I won't delay you longer, but you must know--</text>
+		<text bitflag="1345" id1="660714" id2="17" version="1065353216">Your work so far--in bringing back this holocron and now the text from Tulak Hord's tomb--has me intrigued.</text>
+		<text bitflag="1345" id1="660716" id2="17" version="1065353216">I am watching your progress eagerly. I have high hopes for you, acolyte. Sky high.</text>
+		<text bitflag="1345" id1="660717" id2="17" version="1065353216">Really? Harkun seems to favor Ffon.</text>
+		<text bitflag="1360" id1="660717" id2="17" version="1065353216">That overseer disagrees.</text>
+		<text bitflag="1345" id1="660718" id2="17" version="1065353216">Harkun's only purpose is to weed out the weak. Beyond that, his opinion means nothing.</text>
+		<text bitflag="1345" id1="660720" id2="17" version="1065353216">I hope I live up to them.</text>
+		<text bitflag="1360" id1="660720" id2="17" version="1065353216">I'm honored.</text>
+		<text bitflag="1360" id1="660721" id2="17" version="1065353216">Anything to do my part.</text>
+		<text bitflag="1345" id1="660722" id2="17" version="1065353216">Yes--yes. Remarkable. Magnificent.</text>
+		<text bitflag="1345" id1="660724" id2="17" version="1065353216">Good luck, acolyte. Good luck.</text>
+		<text bitflag="1345" id1="660726" id2="17" version="1065353216">Sorry, can't stop to talk. Too much to plan, too much to do.</text>
+		<text bitflag="1345" id1="660730" id2="17" version="1065353216">Sorry, I've no time to talk.</text>
+		<text bitflag="1345" id1="660731" id2="17" version="1065353216">Now, I am eager to discuss this map with you further, but we can't do it here. There are too many unfriendly ears on Korriban.</text>
+		<text bitflag="1360" id1="759969" id2="17" version="1065353216">I'm confused.</text>
+		<text bitflag="1360" id1="759970" id2="17" version="1065353216">Step aside.</text>
+		<text bitflag="3393" id1="759973" id2="17" version="1065353216">I consume them and spit out their bones.</text>
+		<text bitflag="1360" id1="759976" id2="17" version="1065353216">Let's not fight.</text>
+	</file_content>
+</stb_file>

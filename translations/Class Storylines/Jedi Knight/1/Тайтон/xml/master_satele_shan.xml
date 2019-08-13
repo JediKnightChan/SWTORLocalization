@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="36">
+	<unit bitflag="1345" id1="605125" id2="17" version="1065353216">
+		<source>Your mission to Coruscant must not fail. I have faith in you.</source>
+		<target>Ты не должен потерпеть неудачу на Корусанте. Я верю в тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605126" id2="17" version="1065353216">
+		<source>Master Orgus has been telling us of your heroism. We're all in your debt.</source>
+		<target>Мастер Оргус рассказывал нам о твоём героизме. Мы все у тебя в долгу.</target>
+	</unit>
+	<unit bitflag="1345" id1="605127" id2="17" version="1065353216">
+		<source>You should obey Master Orgus's instructions. May the Force be with you.</source>
+		<target>Тебе следует подчиняться указаниям мастера Оргуса. Да пребудет с тобой Сила.</target>
+	</unit>
+	<unit bitflag="1345" id1="605128" id2="17" version="1065353216">
+		<source>And take this. The code is a source of strength, but some backup never hurts. I'll see you soon in the Council chambers.</source>
+		<target>И возьми это. Кодекс - источник Силы, но резерв никогда не повредит. Скоро увидимся в чертогах Совета.</target>
+	</unit>
+	<unit bitflag="1345" id1="605132" id2="17" version="1065353216">
+		<source>Welcome, Padawan. The temple is already buzzing with accounts of your heroism in the training grounds.</source>
+		<target>Добро пожаловать, падаван. Храм уже полон рассказов о твоём героизме на тренировочных площадках.</target>
+	</unit>
+	<unit bitflag="1345" id1="605134" id2="17" version="1065353216">
+		<source>Master Orgus told me you battled Flesh Raiders--and a Force user armed with a lightsaber.</source>
+		<target>Мастер Оргус рассказал о твоих сражениях с раздирателями - и адепте Силы со световым мечом.</target>
+	</unit>
+	<unit bitflag="1345" id1="605136" id2="17" version="1065353216">
+		<source>That must have been a disturbing confrontation. Are you alright?</source>
+		<target>Это, вероятно, было тревожным столкновением. Ты в порядке?</target>
+	</unit>
+	<unit bitflag="1345" id1="605137" id2="17" version="1065353216">
+		<source>I'm sorry things ended in violence, but I'm glad to be alive.</source>
+		<target>Мне жаль, что всё кончилось насилием, но радует, что удалось выжить.</target>
+	</unit>
+	<unit bitflag="1360" id1="605137" id2="17" version="1065353216">
+		<source>Shaken but solid.</source>
+		<target>Потрёпан, но цел.</target>
+	</unit>
+	<unit bitflag="1360" id1="605138" id2="17" version="1065353216">
+		<source>I'll be fine.</source>
+		<target>Я буду в порядке.</target>
+	</unit>
+	<unit bitflag="1345" id1="605139" id2="17" version="1065353216">
+		<source>I admire your composure, but have you truly searched your feelings about this?</source>
+		<target>Я уважаю твоё хладнокровие, но впрямь ли ты изучил твои чувства?</target>
+	</unit>
+	<unit bitflag="1345" id1="605141" id2="17" version="1065353216">
+		<source>I won the fight. What else matters?</source>
+		<target>Я победил. Что ещё может быть важно?</target>
+	</unit>
+	<unit bitflag="1360" id1="605141" id2="17" version="1065353216">
+		<source>Better than ever.</source>
+		<target>Лучше обычного.</target>
+	</unit>
+	<unit bitflag="1345" id1="605142" id2="17" version="1065353216">
+		<source>Even the most experienced Jedi can be unbalanced by violence.</source>
+		<target>Даже самых опытных джедаев может пошатнуть насилие.</target>
+	</unit>
+	<unit bitflag="1345" id1="605144" id2="17" version="1065353216">
+		<source>Taking a life affects the Living Force--and the one who does the killing.</source>
+		<target>Лишение человека жизни влияет на Живую Силу - и на совершающего убийство.</target>
+	</unit>
+	<unit bitflag="1345" id1="605146" id2="17" version="1065353216">
+		<source>This is why Jedi enter battles calmly, with reason. Emotions like fear and anger lead to the dark side.</source>
+		<target>Поэтому-то джедаи вступают в бой спокойно, обоснованно. Эмоции вроде страха и гнева ведут на Тёмную сторону.</target>
+	</unit>
+	<unit bitflag="1345" id1="605147" id2="17" version="1065353216">
+		<source>I can control my feelings, no matter what I'm facing.</source>
+		<target>Я могу контролировать свои чувства, с чем бы я ни столкнулся.</target>
+	</unit>
+	<unit bitflag="1360" id1="605147" id2="17" version="1065353216">
+		<source>I'm strong enough to resist.</source>
+		<target>Мне хватает сил сопротивляться.</target>
+	</unit>
+	<unit bitflag="1345" id1="605148" id2="17" version="1065353216">
+		<source>The man I fought wasn't angry or fearful.</source>
+		<target>Мой враг был не зол и не напуган.</target>
+	</unit>
+	<unit bitflag="1360" id1="605148" id2="17" version="1065353216">
+		<source>My enemy seemed calm.</source>
+		<target>Мой враг казался спокойным.</target>
+	</unit>
+	<unit bitflag="1345" id1="605149" id2="17" version="1065353216">
+		<source>Not on the surface, perhaps.</source>
+		<target>Возможно, внешне.</target>
+	</unit>
+	<unit bitflag="1345" id1="605151" id2="17" version="1065353216">
+		<source>You can't expect me to be reasonable in the heat of battle.</source>
+		<target>Вы не можете ожидать от меня обоснованности посреди боя.</target>
+	</unit>
+	<unit bitflag="1360" id1="605151" id2="17" version="1065353216">
+		<source>Sounds impossible.</source>
+		<target>Звучит невероятно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605152" id2="17" version="1065353216">
+		<source>That's the paradox all Jedi face when they fight. You will find a way. You must.</source>
+		<target>С этим парадоксом сталкиваются все джедаи в бою. Ты найдёшь способ. Ты должен.</target>
+	</unit>
+	<unit bitflag="1345" id1="605158" id2="17" version="1065353216">
+		<source>As the Jedi Code teaches us, &quot;There is no emotion, there is peace.&quot; Remember those words when times are darkest.</source>
+		<target>Как нас учит Кодекс джедаев: «Нет эмоций, есть покой». Помни эти слова в самые тёмные времена.</target>
+	</unit>
+	<unit bitflag="1345" id1="605160" id2="17" version="1065353216">
+		<source>Padawan--I'm Satele Shan, leader of the Jedi Council. I'd like to speak privately with you before we meet with the others.</source>
+		<target>Падаван, я Сатил Шан, глава Совета джедаев. Я хочу поговорить с тобой наедине, прежде чем мы встретимся с остальными.</target>
+	</unit>
+	<unit bitflag="1345" id1="605161" id2="17" version="1065353216">
+		<source>You have my full attention, Master. What do you need?</source>
+		<target>Я весь во внимании, мастер. Что вам угодно?</target>
+	</unit>
+	<unit bitflag="1360" id1="605161" id2="17" version="1065353216">
+		<source>Go ahead, I'm listening.</source>
+		<target>Продолжайте, я слушаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="605162" id2="17" version="1065353216">
+		<source>This isn't a discussion for a comm channel.</source>
+		<target>Это не разговор для комлинка.</target>
+	</unit>
+	<unit bitflag="1345" id1="605164" id2="17" version="1065353216">
+		<source>Have I done something wrong?</source>
+		<target>Я что-то сделал не так?</target>
+	</unit>
+	<unit bitflag="1360" id1="605164" id2="17" version="1065353216">
+		<source>Am I in trouble?</source>
+		<target>У меня проблемы?</target>
+	</unit>
+	<unit bitflag="1345" id1="605165" id2="17" version="1065353216">
+		<source>No, and don't worry, this will be an informal meeting.</source>
+		<target>Нет, и не волнуйся, это неофициальная встреча.</target>
+	</unit>
+	<unit bitflag="1345" id1="605167" id2="17" version="1065353216">
+		<source>Let me guess--my reputation precedes me.</source>
+		<target>Дайте догадаться: моя репутация опережает меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="605167" id2="17" version="1065353216">
+		<source>I'm famous already, eh?</source>
+		<target>Я уже знаменитость, а?</target>
+	</unit>
+	<unit bitflag="1345" id1="605168" id2="17" version="1065353216">
+		<source>Your reputation is not my concern.</source>
+		<target>Твоя репутация меня не касается.</target>
+	</unit>
+	<unit bitflag="1345" id1="605170" id2="17" version="1065353216">
+		<source>Come to my meditation room in the temple. We'll talk there.</source>
+		<target>Приди в мою комнату для медитаций в Храме. Поговорим там.</target>
+	</unit>
+</dialogue_file>

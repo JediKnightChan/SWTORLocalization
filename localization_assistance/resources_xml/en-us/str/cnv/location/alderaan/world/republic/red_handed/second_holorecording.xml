@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/alderaan/world/republic/red_handed/second_holorecording.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="721317" id2="17" version="1065353216">[You have managed to repair the damaged holorecording. You are now able to view the missing second portion.]</text>
+		<text bitflag="321" id1="721321" id2="17" version="1065353216">[The holorecording ends here. The Rist assassin appears to have been dealing with a member of House Ulgo.]</text>
+		<text bitflag="321" id1="721323" id2="17" version="1065353216">[This should be all the evidence House Organa needs to prove House Ulgo was behind the assassination.]</text>
+	</file_content>
+</stb_file>

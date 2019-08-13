@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>10</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/bronze/imperial/a_last_stand/datapad.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="86229" id2="17" version="1065353216">[This datapad is too damaged to play Evoc-Ra's message again.]</text>
+		<text bitflag="321" id1="86230" id2="17" version="1065353216">[This datapad has very little power left. It appears to belong to the dead Voss commando.]</text>
+		<text bitflag="1345" id1="86232" id2="17" version="1065353216">Evoc-Ra... of the commandos. Came to escort scholars... they were gone.</text>
+		<text bitflag="1345" id1="86234" id2="17" version="1065353216">Gormak clever... took scholars prisoner. Left clear trail.</text>
+		<text bitflag="1345" id1="86236" id2="17" version="1065353216">A trap, of course. Squad dead, scholars still in danger....</text>
+		<text bitflag="321" id1="86238" id2="17" version="1065353216">[There are coordinates on the datapad leading to a cave nearby. If the scholars are being held there, freeing them may impress the Voss.]</text>
+		<text bitflag="1360" id1="86239" id2="17" version="1065353216">[Download the coordinates]</text>
+		<text bitflag="321" id1="86240" id2="17" version="1065353216">[You download the coordinates from Evoc-Ra's datapad. The datapad immediately shuts down.]</text>
+		<text bitflag="1360" id1="86242" id2="17" version="1065353216">[Refuse quest]</text>
+		<text bitflag="321" id1="86244" id2="17" version="1065353216">[The datapad's screen flickers and dies. It cannot be used at this time.]</text>
+	</file_content>
+</stb_file>

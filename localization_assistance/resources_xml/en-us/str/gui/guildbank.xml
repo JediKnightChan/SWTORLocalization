@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>78</strs>
+		<file_name>/resources/en-us/str/gui/guildbank.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="654958" version="1065353216">Vaults</text>
+		<text bitflag="321" id1="2" id2="654958" version="1065353216">Log</text>
+		<text bitflag="321" id1="3" id2="654958" version="1065353216">Manage</text>
+		<text bitflag="321" id1="4" id2="654958" version="1065353216">Withdraw</text>
+		<text bitflag="321" id1="5" id2="654958" version="1065353216">Deposit</text>
+		<text bitflag="321" id1="6" id2="654958" version="1065353216">Items: &lt;&lt;1&gt;&gt; / &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="7" id2="654958" version="1065353216">Credits: &lt;&lt;1&gt;&gt; / &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="8" id2="654958" version="1065353216">per week</text>
+		<text bitflag="321" id1="10" id2="654958" version="1065353216">Refresh: &lt;&lt;1[&lt; 1 day/$d day/$d days]&gt;&gt;</text>
+		<text bitflag="321" id1="11" id2="654958" version="1065353216">Unlimited</text>
+		<text bitflag="321" id1="12" id2="654958" version="1065353216">-</text>
+		<text bitflag="321" id1="13" id2="654958" version="1065353216">You do not have permissions to view this vault</text>
+		<text bitflag="321" id1="14" id2="654958" version="1065353216">Vault Permissions for Rank</text>
+		<text bitflag="321" id1="15" id2="654958" version="1065353216">Credit Allowance</text>
+		<text bitflag="321" id1="16" id2="654958" version="1065353216">Repair</text>
+		<text bitflag="321" id1="17" id2="654958" version="1065353216">Vault Appearance:</text>
+		<text bitflag="321" id1="18" id2="654958" version="1065353216">Manage Permissions:</text>
+		<text bitflag="321" id1="19" id2="654958" version="1065353216">Add Bank Vault</text>
+		<text bitflag="321" id1="20" id2="654958" version="1065353216">Apply Permissions</text>
+		<text bitflag="321" id1="21" id2="654958" version="1065353216">Pending Changes</text>
+		<text bitflag="321" id1="22" id2="654958" version="1065353216">You have pending changes that will be reverted.</text>
+		<text bitflag="321" id1="23" id2="654958" version="1065353216">Accept</text>
+		<text bitflag="321" id1="24" id2="654958" version="1065353216">Cancel</text>
+		<text bitflag="321" id1="25" id2="654958" version="1065353216">Viewable</text>
+		<text bitflag="321" id1="26" id2="654958" version="1065353216">Allow to Add</text>
+		<text bitflag="321" id1="27" id2="654958" version="1065353216">Stack Separately</text>
+		<text bitflag="321" id1="28" id2="654958" version="1065353216">Withdraws Per Week</text>
+		<text bitflag="321" id1="29" id2="654958" version="1065353216">Edit Name</text>
+		<text bitflag="321" id1="30" id2="654958" version="1065353216">Change Vault Name</text>
+		<text bitflag="321" id1="31" id2="654958" version="1065353216">EDIT VAULT NAME</text>
+		<text bitflag="321" id1="32" id2="654958" version="1065353216">Accept</text>
+		<text bitflag="321" id1="33" id2="654958" version="1065353216">Cancel</text>
+		<text bitflag="321" id1="34" id2="654958" version="1065353216">Name</text>
+		<text bitflag="321" id1="35" id2="654958" version="1065353216">Transaction</text>
+		<text bitflag="321" id1="36" id2="654958" version="1065353216">Item</text>
+		<text bitflag="321" id1="37" id2="654958" version="1065353216">Vault</text>
+		<text bitflag="321" id1="38" id2="654958" version="1065353216">Time</text>
+		<text bitflag="321" id1="39" id2="654958" version="1065353216">Deposit</text>
+		<text bitflag="321" id1="41" id2="654958" version="1065353216">Unknown</text>
+		<text bitflag="321" id1="42" id2="654958" version="1065353216">Credits</text>
+		<text bitflag="321" id1="43" id2="654958" version="1065353216">Repair</text>
+		<text bitflag="321" id1="45" id2="654958" version="1065353216">Respec</text>
+		<text bitflag="321" id1="46" id2="654958" version="1065353216">Respec</text>
+		<text bitflag="321" id1="47" id2="654958" version="1065353216">Refund</text>
+		<text bitflag="321" id1="48" id2="654958" version="1065353216">Permissions Error</text>
+		<text bitflag="321" id1="49" id2="654958" version="1065353216">Couldn't apply general permissions due to error:</text>
+		<text bitflag="321" id1="50" id2="654958" version="1065353216">Must set general permissions if putting a credit allowance for a rank.</text>
+		<text bitflag="321" id1="51" id2="654958" version="1065353216">Must give a credit allowance if setting general permissions.</text>
+		<text bitflag="321" id1="52" id2="654958" version="1065353216">Ledger</text>
+		<text bitflag="321" id1="53" id2="654958" version="1065353216">Current Week</text>
+		<text bitflag="321" id1="54" id2="654958" version="1065353216">Previous Week</text>
+		<text bitflag="321" id1="55" id2="654958" version="1065353216">Name</text>
+		<text bitflag="321" id1="57" id2="654958" version="1065353216">Deposit</text>
+		<text bitflag="321" id1="58" id2="654958" version="1065353216">Total</text>
+		<text bitflag="321" id1="59" id2="654958" version="1065353216">Toggles whether guild members of the selected rank may withdraw credits from the guild bank, up to this rank's maximum credit allowance.</text>
+		<text bitflag="321" id1="60" id2="654958" version="1065353216">Toggles whether guild members of the selected rank may pay for class respecialization from the guild bank, assuming they have not exceeded this rank's maximum credit allowance.</text>
+		<text bitflag="321" id1="61" id2="654958" version="1065353216">Toggles whether guild members of the selected rank may pay for item repair from the guild bank, assuming they have not exceeded this rank's maximum credit allowance.</text>
+		<text bitflag="321" id1="62" id2="654958" version="1065353216">Toggles whether guild members of the selected rank may view items in this vault of the guild bank.</text>
+		<text bitflag="321" id1="63" id2="654958" version="1065353216">Toggles whether guild members of the selected rank may add items to this vault of the guild bank.</text>
+		<text bitflag="321" id1="64" id2="654958" version="1065353216">Toggles whether stackable items should count as one item or multiple items when compared to the weekly withdraw limits for the rank.</text>
+		<text bitflag="321" id1="65" id2="654958" version="1065353216">Disclose Ledger</text>
+		<text bitflag="321" id1="66" id2="654958" version="1065353216">Toggles whether guild members of the selected rank may view the guild bank credits ledger for all guild members.</text>
+		<text bitflag="321" id1="67" id2="654958" version="1065353216">Allowance Permissions:</text>
+		<text bitflag="321" id1="256" id2="654958" version="1065353216">Guild Bank</text>
+		<text bitflag="321" id1="257" id2="654958" version="1065353216">Use Cartel Coins to permanently access your Guild's Bank!</text>
+		<text bitflag="321" id1="258" id2="654958" version="1065353216">Guild Members can store and share items using a Guild Bank!&lt;br&gt;&lt;br&gt;Subscribe today to access your Guild's Bank!</text>
+		<text bitflag="321" id1="259" id2="654958" version="1065353216">Free-to-Play Players may not deposit or withdraw credits from the Guild Bank.</text>
+		<text bitflag="321" id1="260" id2="654958" version="1065353216">You do not have permission to make a withdrawl at this time.</text>
+		<text bitflag="321" id1="262" id2="654958" version="1065353216">Free-to-Play Players may not deposit or withdraw credits from the Guild Bank.</text>
+		<text bitflag="321" id1="263" id2="654958" version="1065353216">Bank Vaults</text>
+		<text bitflag="321" id1="265" id2="654958" version="1065353216">Decoration Donation</text>
+		<text bitflag="321" id1="266" id2="654958" version="1065353216">Drag decoration to donate.</text>
+		<text bitflag="321" id1="267" id2="654958" version="1065353216">Drag a donation item here to donate it to your guild's Flagship.</text>
+		<text bitflag="321" id1="268" id2="654958" version="1065353216">Add permission required.</text>
+		<text bitflag="321" id1="269" id2="654958" version="1065353216">Room Expansion</text>
+		<text bitflag="321" id1="270" id2="654958" version="1065353216">Duplicated</text>
+		<text bitflag="321" id1="271" id2="654958" version="1065353216">Donation</text>
+		<text bitflag="321" id1="272" id2="654958" version="1065353216">You have reached the maximum credit allowance.</text>
+	</file_content>
+</stb_file>

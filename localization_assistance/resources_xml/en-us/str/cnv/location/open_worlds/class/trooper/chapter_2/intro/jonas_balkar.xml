@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>74</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/trooper/chapter_2/intro/jonas_balkar.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="633462" id2="17" version="1065353216">Head for Coruscant. Garza will want to see you ASAP.</text>
+		<text bitflag="1345" id1="633463" id2="17" version="1065353216">Welcome back to the loving arms of the Republic, Prellon. It's good to see you.</text>
+		<text bitflag="1345" id1="633465" id2="17" version="1065353216">Good to see you, too, Jonas. Your friend got me out with all limbs intact--guess that means I owe you twenty credits, huh?</text>
+		<text bitflag="1345" id1="633467" id2="17" version="1065353216">Ah, Captain... you brighten my day, fatten my bank account and gun down Imps like maimed banthas. Marry me when this war is over.</text>
+		<text bitflag="1345" id1="633468" id2="17" version="1065353216">We'll stick to drinks for now. You know how to find me.</text>
+		<text bitflag="1360" id1="633468" id2="17" version="1065353216">[Flirt] Not so fast.</text>
+		<text bitflag="1345" id1="633469" id2="17" version="1065353216">Sounds like a plan.</text>
+		<text bitflag="1345" id1="633471" id2="17" version="1065353216">Don't get your hopes up, Jonas.</text>
+		<text bitflag="1360" id1="633471" id2="17" version="1065353216">You're ridiculous.</text>
+		<text bitflag="1345" id1="633472" id2="17" version="1065353216">You know me--nothing but dreams and aspirations.</text>
+		<text bitflag="1345" id1="633474" id2="17" version="1065353216">All right, all right. Knock it off, kids--we've got business to discuss.</text>
+		<text bitflag="1345" id1="633476" id2="17" version="1065353216">That's what you get for betting against the best, Prellon.</text>
+		<text bitflag="1345" id1="633477" id2="17" version="1065353216">We can chat later. I want to know about the Gauntlet.</text>
+		<text bitflag="1360" id1="633477" id2="17" version="1065353216">Let's get to the intel.</text>
+		<text bitflag="1345" id1="633478" id2="17" version="1065353216">Yeah, we'd better get down to business.</text>
+		<text bitflag="1345" id1="633480" id2="17" version="1065353216">I appreciate the vote of confidence.</text>
+		<text bitflag="1360" id1="633480" id2="17" version="1065353216">Thanks, Jonas.</text>
+		<text bitflag="1345" id1="633481" id2="17" version="1065353216">It was hardly fair, really, since I'd already seen you in action. Now why don't you tell us what this is all about, Prellon?</text>
+		<text bitflag="1345" id1="633483" id2="17" version="1065353216">I think I earned those credits, Jonas.</text>
+		<text bitflag="1360" id1="633483" id2="17" version="1065353216">Where's my cut of the profit?</text>
+		<text bitflag="1345" id1="633484" id2="17" version="1065353216">Fine, fine, I'll share the wealth. Now, Prellon, why don't you tell us what we went to all of this trouble to learn?</text>
+		<text bitflag="1345" id1="633486" id2="17" version="1065353216">The Gauntlet--the Empire's new superweapon. It's a massive cannon, built into the frame of an Imperial battle cruiser.</text>
+		<text bitflag="1345" id1="633488" id2="17" version="1065353216">But it's no ordinary cannon. The Gauntlet can fire on ships traveling through hyperspace, where they're completely helpless. Warships go down in one shot.</text>
+		<text bitflag="1345" id1="633489" id2="17" version="1065353216">A weapon that powerful could win the war by itself.</text>
+		<text bitflag="1360" id1="633489" id2="17" version="1065353216">That's a serious threat.</text>
+		<text bitflag="1345" id1="633490" id2="17" version="1065353216">Exactly. We have to move fast to stop this thing.</text>
+		<text bitflag="1345" id1="633492" id2="17" version="1065353216">Do you know the effective range? Is it mobile?</text>
+		<text bitflag="1360" id1="633492" id2="17" version="1065353216">What else did you learn?</text>
+		<text bitflag="1345" id1="633493" id2="17" version="1065353216">Range is high, but not infinite--it can hit anything in the same star system. And it isn't mobile yet, but that's their goal.</text>
+		<text bitflag="1345" id1="633495" id2="17" version="1065353216">How do we attack a weapon that can hit ships in hyperspace?</text>
+		<text bitflag="1360" id1="633495" id2="17" version="1065353216">We're doomed.</text>
+		<text bitflag="1345" id1="633496" id2="17" version="1065353216">Beats me. Let's just hope the people up top figure out something fast.</text>
+		<text bitflag="1345" id1="633498" id2="17" version="1065353216">I've got a full report ready. Once Jonas gets me to a terminal, I'll send the details to General Garza.</text>
+		<text bitflag="1345" id1="633500" id2="17" version="1065353216">You'd better head back to Coruscant, Captain. Garza will have Prellon's report by the time you get there, and I'm sure she'll want to keep Havoc Squad in the loop.</text>
+		<text bitflag="1345" id1="633501" id2="17" version="1065353216">I'll head for Coruscant immediately.</text>
+		<text bitflag="1360" id1="633501" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1360" id1="633502" id2="17" version="1065353216">Nothing is ever simple, is it?</text>
+		<text bitflag="1345" id1="633503" id2="17" version="1065353216">This is one party I won't mind seeing the end of.</text>
+		<text bitflag="1345" id1="633505" id2="17" version="1065353216">The Imps have a gun that can shoot me right out of hyperspace! I'm not going anywhere!</text>
+		<text bitflag="1360" id1="633505" id2="17" version="1065353216">I can't risk traveling!</text>
+		<text bitflag="1345" id1="633506" id2="17" version="1065353216">The Gauntlet is being hidden in a remote star system until it's completely operational. You're okay for travel from here to Coruscant.</text>
+		<text bitflag="1345" id1="633508" id2="17" version="1065353216">Take care, Captain.</text>
+		<text bitflag="1345" id1="633512" id2="17" version="1065353216">Best of luck, Captain.</text>
+		<text bitflag="1345" id1="633513" id2="17" version="1065353216">Captain, good to see you. It was a big relief to hear that Havoc could make it out for this one.</text>
+		<text bitflag="1345" id1="633515" id2="17" version="1065353216">Congratulations on the promotion, by the way. How's it feel to be so big and important?</text>
+		<text bitflag="1345" id1="633516" id2="17" version="1065353216">If being a captain lets me do more for the Republic, that's all that matters.</text>
+		<text bitflag="1360" id1="633516" id2="17" version="1065353216">Just part of the job.</text>
+		<text bitflag="1345" id1="633517" id2="17" version="1065353216">Well, you look good. Authoritative.</text>
+		<text bitflag="1345" id1="633519" id2="17" version="1065353216">I tell people what I want, and they do it. Just the way I like it.</text>
+		<text bitflag="1360" id1="633519" id2="17" version="1065353216">[Flirt] I like being the boss.</text>
+		<text bitflag="1345" id1="633520" id2="17" version="1065353216">I knew I should've signed up for the army.</text>
+		<text bitflag="1345" id1="633522" id2="17" version="1065353216">Any way to skip the flirting and tell us what we're here for, Balkar?</text>
+		<text bitflag="1345" id1="633524" id2="17" version="1065353216">You may be jealous... but you're also right. We need to get moving on this one.</text>
+		<text bitflag="1345" id1="633526" id2="17" version="1065353216">With respect, Captain, couldn't this private discussion continue after our mission is complete?</text>
+		<text bitflag="1345" id1="633528" id2="17" version="1065353216">I hate to say it, but you're probably right. Time isn't exactly on our side on this one.</text>
+		<text bitflag="1345" id1="633530" id2="17" version="1065353216">If you are interested in transferring to a career that more directly defends our freedoms, any nearby recruitment station could provide the necessary documents!</text>
+		<text bitflag="1345" id1="633532" id2="17" version="1065353216">I'll definitely think about it, Forex. But we'd better get this op out of the way, first.</text>
+		<text bitflag="1345" id1="633534" id2="17" version="1065353216">More pay, more people I can order around--there's no downside.</text>
+		<text bitflag="1360" id1="633534" id2="17" version="1065353216">I like being the boss.</text>
+		<text bitflag="1345" id1="633535" id2="17" version="1065353216">Well, when you're at the top of the Republic military someday, feel free to have me stationed somewhere cushy.</text>
+		<text bitflag="1345" id1="633537" id2="17" version="1065353216">Spare me the chit-chat, Jonas. We've got work to do.</text>
+		<text bitflag="1360" id1="633537" id2="17" version="1065353216">Like you're wasting my time.</text>
+		<text bitflag="1345" id1="633538" id2="17" version="1065353216">So, you know that you're extracting an undercover agent who has intel on the Empire's new superweapon, code-named &quot;Gauntlet.&quot;</text>
+		<text bitflag="1345" id1="633540" id2="17" version="1065353216">The agent's name is Prellon Garn. He's done his part. The transport he's riding just made an emergency landing in the desert under &quot;mysterious circumstances.&quot;</text>
+		<text bitflag="1345" id1="633541" id2="17" version="1065353216">I'll find the landing site and pull our man out ASAP.</text>
+		<text bitflag="1360" id1="633541" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="633542" id2="17" version="1065353216">I don't follow you. Is the agent alright?</text>
+		<text bitflag="1360" id1="633542" id2="17" version="1065353216">Huh?</text>
+		<text bitflag="1345" id1="633543" id2="17" version="1065353216">He's fine. He sabotaged the ship so that they'd have to touch down and to give us an opportunity to pull him out.</text>
+		<text bitflag="1345" id1="633545" id2="17" version="1065353216">If your guy is already on the ground, why doesn't he just come here?</text>
+		<text bitflag="1360" id1="633545" id2="17" version="1065353216">So what do you need me for?</text>
+		<text bitflag="1345" id1="633546" id2="17" version="1065353216">I think the Imperials might wonder why one of their people wants to wander off into the desert alone.</text>
+		<text bitflag="1345" id1="633548" id2="17" version="1065353216">Garn's ride was an Imperial troop transport, so expect plenty of security as you approach.</text>
+		<text bitflag="1345" id1="633550" id2="17" version="1065353216">Once our agent is secure, be sure the scene is clear and make your way back. Good luck.</text>
+	</file_content>
+</stb_file>

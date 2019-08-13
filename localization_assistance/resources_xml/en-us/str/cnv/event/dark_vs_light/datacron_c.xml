@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/event/dark_vs_light/datacron_c.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1211339" id2="17" version="1065353216">You have located a Datacron, an ancient technology once used by the Infinite Empire.</text>
+		<text bitflag="321" id1="1211387" id2="17" version="1065353216">This one is still active, but it seems different from others you have encountered.</text>
+		<text bitflag="321" id1="1211395" id2="17" version="1065353216">Perhaps there are more to be found....</text>
+		<text bitflag="321" id1="1211646" id2="17" version="1065353216">You have found all of the Datacrons.</text>
+		<text bitflag="321" id1="1211747" id2="17" version="1065353216">Perhaps there are more to be found....</text>
+	</file_content>
+</stb_file>

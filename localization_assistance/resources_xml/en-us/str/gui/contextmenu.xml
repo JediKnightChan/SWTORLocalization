@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>103</strs>
+		<file_name>/resources/en-us/str/gui/contextmenu.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="221429" version="1065353216">Sell Trash Items</text>
+		<text bitflag="321" id1="2" id2="221429" version="1065353216">Dismiss Companion</text>
+		<text bitflag="321" id1="3" id2="221429" version="1065353216">Solo</text>
+		<text bitflag="321" id1="4" id2="221429" version="1065353216">Multiplayer</text>
+		<text bitflag="321" id1="5" id2="221429" version="1065353216">Conversation Mode</text>
+		<text bitflag="321" id1="6" id2="221429" version="1065353216">Reset All Active Flashpoints</text>
+		<text bitflag="321" id1="7" id2="221429" version="1065353216">Inspect Player</text>
+		<text bitflag="321" id1="8" id2="221429" version="1065353216">Invite to Group</text>
+		<text bitflag="321" id1="9" id2="221429" version="1065353216">Whisper</text>
+		<text bitflag="321" id1="10" id2="221429" version="1065353216">Ignore</text>
+		<text bitflag="321" id1="11" id2="221429" version="1065353216">Add to Friends List</text>
+		<text bitflag="321" id1="12" id2="221429" version="1065353216">Stop Ignoring</text>
+		<text bitflag="321" id1="13" id2="221429" version="1065353216">Remove from Friends List</text>
+		<text bitflag="321" id1="14" id2="221429" version="1065353216">Cancel Trade</text>
+		<text bitflag="321" id1="15" id2="221429" version="1065353216">Trade</text>
+		<text bitflag="321" id1="16" id2="221429" version="1065353216">Accept Invite</text>
+		<text bitflag="321" id1="17" id2="221429" version="1065353216">Decline Invite</text>
+		<text bitflag="321" id1="18" id2="221429" version="1065353216">Set Looting to Free For All</text>
+		<text bitflag="321" id1="19" id2="221429" version="1065353216">Set Looting to Round Robin</text>
+		<text bitflag="321" id1="20" id2="221429" version="1065353216">Quit Group</text>
+		<text bitflag="321" id1="21" id2="221429" version="1065353216">Challenge to a Duel</text>
+		<text bitflag="321" id1="22" id2="221429" version="1065353216">Cancel Invite</text>
+		<text bitflag="321" id1="23" id2="221429" version="1065353216">Promote to Leader</text>
+		<text bitflag="321" id1="24" id2="221429" version="1065353216">Remove from Group</text>
+		<text bitflag="321" id1="25" id2="221429" version="1065353216">Loot: Free For All</text>
+		<text bitflag="321" id1="26" id2="221429" version="1065353216">Loot: Free For All</text>
+		<text bitflag="321" id1="27" id2="221429" version="1065353216">Loot: Round Robin</text>
+		<text bitflag="321" id1="28" id2="221429" version="1065353216">Invite to Guild</text>
+		<text bitflag="321" id1="29" id2="221429" version="1065353216">Loot Rule: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="30" id2="221429" version="1065353216">Remove Companion from Group</text>
+		<text bitflag="321" id1="31" id2="221429" version="1065353216">Invite to Ops Group</text>
+		<text bitflag="321" id1="32" id2="221429" version="1065353216">Remove from Ops Group</text>
+		<text bitflag="321" id1="33" id2="221429" version="1065353216">Promote to Assistant Lead</text>
+		<text bitflag="321" id1="34" id2="221429" version="1065353216">Demote from Assistant Lead</text>
+		<text bitflag="321" id1="35" id2="221429" version="1065353216">Reset All Active Operations</text>
+		<text bitflag="321" id1="36" id2="221429" version="1065353216">Operations Challenge Mode</text>
+		<text bitflag="321" id1="37" id2="221429" version="1065353216">8 Player Story</text>
+		<text bitflag="321" id1="38" id2="221429" version="1065353216">8 Player Veteran</text>
+		<text bitflag="321" id1="39" id2="221429" version="1065353216">16 Player Story</text>
+		<text bitflag="321" id1="40" id2="221429" version="1065353216">16 Player Veteran</text>
+		<text bitflag="321" id1="41" id2="221429" version="1065353216">Guild</text>
+		<text bitflag="321" id1="42" id2="221429" version="1065353216">Remove from Guild</text>
+		<text bitflag="321" id1="43" id2="221429" version="1065353216">Set Rank</text>
+		<text bitflag="321" id1="44" id2="221429" version="1065353216">Group</text>
+		<text bitflag="321" id1="45" id2="221429" version="1065353216">Convert to an Ops Group</text>
+		<text bitflag="321" id1="46" id2="221429" version="1065353216">Follow Player</text>
+		<text bitflag="321" id1="47" id2="221429" version="1065353216">Reset Local Phases</text>
+		<text bitflag="321" id1="48" id2="221429" version="1065353216">Public Group</text>
+		<text bitflag="321" id1="49" id2="221429" version="1065353216">Private Group</text>
+		<text bitflag="321" id1="50" id2="221429" version="1065353216">Join Group</text>
+		<text bitflag="321" id1="51" id2="221429" version="1065353216">Shuttle To &lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt;)</text>
+		<text bitflag="321" id1="52" id2="221429" version="1065353216">Set Member Note</text>
+		<text bitflag="321" id1="53" id2="221429" version="1065353216">Set Officer Note</text>
+		<text bitflag="321" id1="54" id2="221429" version="1065353216">Phase</text>
+		<text bitflag="321" id1="55" id2="221429" version="1065353216">Flashpoint Difficulty</text>
+		<text bitflag="321" id1="56" id2="221429" version="1065353216">Normal</text>
+		<text bitflag="321" id1="57" id2="221429" version="1065353216">Veteran</text>
+		<text bitflag="321" id1="58" id2="221429" version="1065353216">8 Player Master</text>
+		<text bitflag="321" id1="59" id2="221429" version="1065353216">16 Player Master</text>
+		<text bitflag="321" id1="60" id2="221429" version="1065353216">Report Spam</text>
+		<text bitflag="321" id1="62" id2="221429" version="1065353216">Take Items</text>
+		<text bitflag="321" id1="63" id2="221429" version="1065353216">Random Winner</text>
+		<text bitflag="321" id1="64" id2="221429" version="1065353216">Additional Commands</text>
+		<text bitflag="321" id1="261" id2="221429" version="1065353216">Target Marker</text>
+		<text bitflag="321" id1="262" id2="221429" version="1065353216">Vote to Kick from Warzone</text>
+		<text bitflag="321" id1="263" id2="221429" version="1065353216">Remove Vote to Kick from Warzone</text>
+		<text bitflag="321" id1="264" id2="221429" version="1065353216">Vote to Kick Player</text>
+		<text bitflag="321" id1="265" id2="221429" version="1065353216">Operation</text>
+		<text bitflag="321" id1="285" id2="221429" version="1065353216">Report</text>
+		<text bitflag="321" id1="286" id2="221429" version="1065353216">Report Character Name</text>
+		<text bitflag="321" id1="287" id2="221429" version="1065353216">Report Guild Name</text>
+		<text bitflag="321" id1="288" id2="221429" version="1065353216">Report Legacy Name</text>
+		<text bitflag="321" id1="289" id2="221429" version="1065353216">Report Harassment</text>
+		<text bitflag="321" id1="290" id2="221429" version="1065353216">Report Real Life Threat/Suicide Threat</text>
+		<text bitflag="321" id1="291" id2="221429" version="1065353216">Inspect Achievements</text>
+		<text bitflag="321" id1="292" id2="221429" version="1065353216">Initiate Ready Check</text>
+		<text bitflag="321" id1="293" id2="221429" version="1065353216">Ready</text>
+		<text bitflag="321" id1="294" id2="221429" version="1065353216">Not Ready</text>
+		<text bitflag="321" id1="295" id2="221429" version="1065353216">Ban from Stronghold</text>
+		<text bitflag="321" id1="296" id2="221429" version="1065353216">Kick from Stronghold</text>
+		<text bitflag="321" id1="297" id2="221429" version="1065353216">Report Flagship Name</text>
+		<text bitflag="321" id1="302" id2="221429" version="1065353216">Summon Group via Guild Flagship</text>
+		<text bitflag="321" id1="303" id2="221429" version="1065353216">Stronghold</text>
+		<text bitflag="321" id1="304" id2="221429" version="1065353216">Invite</text>
+		<text bitflag="321" id1="305" id2="221429" version="1065353216">Summon Group For Story Quest</text>
+		<text bitflag="321" id1="306" id2="221429" version="1065353216">&lt;img src='img://gfx/symbols/icon_tank.dds' width='20' height='20' vspace='-12'/&gt; Tank</text>
+		<text bitflag="321" id1="307" id2="221429" version="1065353216">&lt;img src='img://gfx/symbols/icon_heal.dds' width='20' height='20' vspace='-12'/&gt; Heal</text>
+		<text bitflag="321" id1="308" id2="221429" version="1065353216">&lt;img src='img://gfx/symbols/icon_dps.dds' width='20' height='20' vspace='-12'/&gt; Damage</text>
+		<text bitflag="321" id1="309" id2="221429" version="1065353216">Role Selection</text>
+		<text bitflag="321" id1="310" id2="221429" version="1065353216">Summon Companion</text>
+		<text bitflag="321" id1="311" id2="221429" version="1065353216">Reset Story Phases</text>
+		<text bitflag="321" id1="312" id2="221429" version="1065353216">Guild (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="313" id2="221429" version="1065353216">Set As Primary</text>
+		<text bitflag="321" id1="314" id2="221429" version="1065353216">Mission Difficulty Preference</text>
+		<text bitflag="321" id1="315" id2="221429" version="1065353216">Story</text>
+		<text bitflag="321" id1="316" id2="221429" version="1065353216">Veteran</text>
+		<text bitflag="321" id1="317" id2="221429" version="1065353216">Master</text>
+		<text bitflag="321" id1="318" id2="221429" version="1065353216">Suggest Invite</text>
+		<text bitflag="321" id1="319" id2="221429" version="1065353216">Enable companion auto-summoning</text>
+		<text bitflag="321" id1="320" id2="221429" version="1065353216">Disable companion auto-summoning</text>
+		<text bitflag="321" id1="321" id2="221429" version="1065353216">Issue PvP Challenge</text>
+		<text bitflag="321" id1="322" id2="221429" version="1065353216">Ban From Guild</text>
+		<text bitflag="321" id1="323" id2="221429" version="1065353216">Inspect Guild</text>
+	</file_content>
+</stb_file>

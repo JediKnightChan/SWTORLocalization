@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/01/ep_06/scene_07_valkorion.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1159982" id2="17" version="1065353216">His argument with you is pointless and destructive. I can end this without any more bloodshed if you accept the gift of my power.</text>
+		<text bitflag="1345" id1="1159983" id2="17" version="1065353216">Offer accepted.</text>
+		<text bitflag="1360" id1="1159983" id2="17" version="1065353216">[Wield Valkorion's power.]</text>
+		<text bitflag="1345" id1="1159984" id2="17" version="1065353216">I'll handle him myself.</text>
+		<text bitflag="1360" id1="1159984" id2="17" version="1065353216">[Refuse Valkorion's power.]</text>
+		<text bitflag="1345" id1="1159985" id2="17" version="1065353216">Then stop wasting time. Reveal his fate.</text>
+		<text bitflag="1345" id1="1159986" id2="17" version="1065353216">As you wish.</text>
+	</file_content>
+</stb_file>

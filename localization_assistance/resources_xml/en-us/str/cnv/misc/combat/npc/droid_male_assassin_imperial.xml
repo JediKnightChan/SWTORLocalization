@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/droid_male_assassin_imperial.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63456" id2="17" version="1065353216">Target identified.</text>
+		<text bitflag="1345" id1="63458" id2="17" version="1065353216">Hostile detected.</text>
+		<text bitflag="1345" id1="63460" id2="17" version="1065353216">Weapons activated.</text>
+		<text bitflag="1345" id1="63462" id2="17" version="1065353216">Extermination in progress.</text>
+		<text bitflag="1345" id1="63464" id2="17" version="1065353216">Calibrating attack systems.</text>
+		<text bitflag="1345" id1="63466" id2="17" version="1065353216">Scanning for weakness.</text>
+	</file_content>
+</stb_file>

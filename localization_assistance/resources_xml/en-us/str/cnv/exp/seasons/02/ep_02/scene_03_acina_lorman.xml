@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>28</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/02/ep_02/scene_03_acina_lorman.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1201602" id2="17" version="1065353216">Your skills are impressive, Commander. It is good to know your reputation is not exaggerated.</text>
+		<text bitflag="1345" id1="1201603" id2="17" version="1065353216">That crash was no accident.</text>
+		<text bitflag="1360" id1="1201603" id2="17" version="1065353216">Someone wants us dead.</text>
+		<text bitflag="1345" id1="1201604" id2="17" version="1065353216">My vessel was sabotaged.</text>
+		<text bitflag="1345" id1="1201606" id2="17" version="1065353216">Probably the same person jamming our comm signals.</text>
+		<text bitflag="1345" id1="1201607" id2="17" version="1065353216">Lorman's behind this. I know it.</text>
+		<text bitflag="1360" id1="1201607" id2="17" version="1065353216">This is the minister's doing.</text>
+		<text bitflag="1345" id1="1201608" id2="17" version="1065353216">Lorman lacks both the courage and competence to orchestrate a direct attempt on my life.</text>
+		<text bitflag="1345" id1="1201610" id2="17" version="1065353216">My shuttle has an emergency beacon. The signal should cut through any interference. If help is coming, that's where they'll be.</text>
+		<text bitflag="1345" id1="1201614" id2="17" version="1065353216">Just about into the main network...</text>
+		<text bitflag="1345" id1="1201616" id2="17" version="1065353216">Someone's coming.</text>
+		<text bitflag="1345" id1="1201620" id2="17" version="1065353216">Forgive the intrusion, but I come bearing tragic news. The Empress's shuttle has crashed.</text>
+		<text bitflag="1345" id1="1201622" id2="17" version="1065353216">Crashed? Where?</text>
+		<text bitflag="1345" id1="1201624" id2="17" version="1065353216">Somewhere in the jungle. Unfortunately, the emergency locator is not transmitting.</text>
+		<text bitflag="1345" id1="1201626" id2="17" version="1065353216">That's--that's impossible.</text>
+		<text bitflag="1345" id1="1201628" id2="17" version="1065353216">Not if the shuttle disintegrated. I'm afraid there's only one logical conclusion: the Empress and Commander are dead.</text>
+		<text bitflag="1345" id1="1202003" id2="17" version="1065353216">Give me one reason I shouldn't kill you here and now.</text>
+		<text bitflag="1360" id1="1202003" id2="17" version="1065353216">You betrayed me.</text>
+		<text bitflag="1345" id1="1202004" id2="17" version="1065353216">You handle yourself well in a fight.</text>
+		<text bitflag="1360" id1="1202004" id2="17" version="1065353216">Not bad yourself.</text>
+		<text bitflag="1345" id1="1202008" id2="17" version="1065353216">We both nearly died in that crash. I wouldn't put myself in such danger.</text>
+		<text bitflag="1345" id1="1202009" id2="17" version="1065353216">If you wanted to get me all alone in the wilderness, you could've just asked.</text>
+		<text bitflag="1360" id1="1202009" id2="17" version="1065353216">[Flirt] Did you plan this?</text>
+		<text bitflag="1345" id1="1202010" id2="17" version="1065353216">If I find out you arranged this...</text>
+		<text bitflag="1360" id1="1202010" id2="17" version="1065353216">You'd better be innocent.</text>
+		<text bitflag="1345" id1="1202011" id2="17" version="1065353216">I am aware of the consequences, and I promise you, I am not behind it... but I am eager to learn who is.</text>
+		<text bitflag="1345" id1="1202012" id2="17" version="1065353216">Normally, I arrange a more romantic setting for my crashes.</text>
+		<text bitflag="1345" id1="1202069" id2="17" version="1065353216">I can pilot a shuttle too... unless someone sabotages it.</text>
+	</file_content>
+</stb_file>

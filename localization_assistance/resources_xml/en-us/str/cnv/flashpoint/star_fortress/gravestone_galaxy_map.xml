@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>27</strs>
+		<file_name>/resources/en-us/str/cnv/flashpoint/star_fortress/gravestone_galaxy_map.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1171784" id2="17" version="1065353216">Alderaan.</text>
+		<text bitflag="321" id1="1171785" id2="17" version="1065353216">Belsavis.</text>
+		<text bitflag="321" id1="1171788" id2="17" version="1065353216">[Displaying list of known unshielded Star Fortresses. Please input destination]</text>
+		<text bitflag="321" id1="1171789" id2="17" version="1065353216">[Displaying list of known Star Fortresses. Please input destination]</text>
+		<text bitflag="321" id1="1171790" id2="17" version="1065353216">Voss.</text>
+		<text bitflag="321" id1="1171791" id2="17" version="1065353216">Hoth.</text>
+		<text bitflag="321" id1="1171792" id2="17" version="1065353216">Tatooine.</text>
+		<text bitflag="321" id1="1171793" id2="17" version="1065353216">Nar Shaddaa.</text>
+		<text bitflag="321" id1="1171794" id2="17" version="1065353216">Alderaan.</text>
+		<text bitflag="321" id1="1171795" id2="17" version="1065353216">Belsavis.</text>
+		<text bitflag="321" id1="1171796" id2="17" version="1065353216">Hoth.</text>
+		<text bitflag="321" id1="1171797" id2="17" version="1065353216">Nar Shaddaa.</text>
+		<text bitflag="321" id1="1171798" id2="17" version="1065353216">Tatooine.</text>
+		<text bitflag="321" id1="1171799" id2="17" version="1065353216">Voss.</text>
+		<text bitflag="321" id1="1171807" id2="17" version="1065353216">[Commencing travel to Voss.]</text>
+		<text bitflag="321" id1="1171808" id2="17" version="1065353216">[Commencing travel to Tatooine.]</text>
+		<text bitflag="321" id1="1171809" id2="17" version="1065353216">[Commencing travel to Nar Shaddaa.]</text>
+		<text bitflag="321" id1="1171810" id2="17" version="1065353216">[Commencing travel to Hoth.]</text>
+		<text bitflag="321" id1="1171811" id2="17" version="1065353216">[Commencing travel to Belsavis.]</text>
+		<text bitflag="321" id1="1171812" id2="17" version="1065353216">[Commencing travel to Alderaan.]</text>
+		<text bitflag="321" id1="1171815" id2="17" version="1065353216">[Currently in orbit over Odessen.]</text>
+		<text bitflag="321" id1="1171817" id2="17" version="1065353216">[Currently in orbit over Alderaan.]</text>
+		<text bitflag="321" id1="1171818" id2="17" version="1065353216">[Currently in orbit over Hoth.]</text>
+		<text bitflag="321" id1="1171819" id2="17" version="1065353216">[Currently in orbit over Belsavis.]</text>
+		<text bitflag="321" id1="1171820" id2="17" version="1065353216">[Currently in orbit over Tatooine.]</text>
+		<text bitflag="321" id1="1171821" id2="17" version="1065353216">[Currently in orbit over Nar Shaddaa.]</text>
+		<text bitflag="321" id1="1171822" id2="17" version="1065353216">[Currently in orbit over Voss.]</text>
+	</file_content>
+</stb_file>

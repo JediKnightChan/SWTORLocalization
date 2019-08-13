@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>74</strs>
+		<file_name>/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/aleyna_hark.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="518209" id2="17" version="1065353216">Think you've won, don't you? Hmph.</text>
+		<text bitflag="1345" id1="518210" id2="17" version="1065353216">Be reasonable, Duke. Your calls for peace are misguided, unnecessary.</text>
+		<text bitflag="1345" id1="518212" id2="17" version="1065353216">Lord Nefarid wants what's best for House Thul: unconditional victory.</text>
+		<text bitflag="1345" id1="518214" id2="17" version="1065353216">And all he asks is that I betray Organa... who the skies are you?</text>
+		<text bitflag="1345" id1="518215" id2="17" version="1065353216">I'm the Jedi who's here to rescue you from Aleyna.</text>
+		<text bitflag="1360" id1="518215" id2="17" version="1065353216">A friend.</text>
+		<text bitflag="1345" id1="518216" id2="17" version="1065353216">You invaded my home. How many guards did you kill getting inside?</text>
+		<text bitflag="1345" id1="518218" id2="17" version="1065353216">All of them--and now she means to kill you.</text>
+		<text bitflag="1345" id1="518220" id2="17" version="1065353216">All of them--and now he's going to kill you.</text>
+		<text bitflag="1345" id1="518222" id2="17" version="1065353216">That woman isn't your ally. She's marking you for death.</text>
+		<text bitflag="1360" id1="518222" id2="17" version="1065353216">Your life is in danger.</text>
+		<text bitflag="1345" id1="518223" id2="17" version="1065353216">Marking me? I don't understand.</text>
+		<text bitflag="1345" id1="518225" id2="17" version="1065353216">It's a trick. Organa sent her to kill you.</text>
+		<text bitflag="1345" id1="518227" id2="17" version="1065353216">It's a trick. Organa sent him to kill you.</text>
+		<text bitflag="1345" id1="518229" id2="17" version="1065353216">Get out of my way. I need to kill that assassin next to you.</text>
+		<text bitflag="1360" id1="518229" id2="17" version="1065353216">Aleyna's worst nightmare.</text>
+		<text bitflag="1345" id1="518230" id2="17" version="1065353216">Assassin? What are you talking about?</text>
+		<text bitflag="1345" id1="518232" id2="17" version="1065353216">Don't listen to her. She wants to confuse you.</text>
+		<text bitflag="1345" id1="518234" id2="17" version="1065353216">Ignore him. He's trying to confuse you.</text>
+		<text bitflag="1345" id1="518236" id2="17" version="1065353216">Be warned... I am prepared to kill you. Lord Nefarid trained me to fight a Jedi.</text>
+		<text bitflag="1345" id1="518238" id2="17" version="1065353216">What about two Jedi?</text>
+		<text bitflag="3393" id1="518240" id2="17" version="1065353216">Jedi + T7 = double threat!</text>
+		<text bitflag="1345" id1="518242" id2="17" version="1065353216">Guards! Defend the duke!</text>
+		<text bitflag="1345" id1="518244" id2="17" version="1065353216">Be careful out there. My life is in your hands.</text>
+		<text bitflag="1345" id1="518245" id2="17" version="1065353216">Here are the coordinates to the research facility--what's left of it. I hope you find something useful. Take care, Master Jedi.</text>
+		<text bitflag="1345" id1="518250" id2="17" version="1065353216">That was the Death Mark laser. It killed Count Alde.</text>
+		<text bitflag="1345" id1="518252" id2="17" version="1065353216">Happened so fast, I never felt the danger....</text>
+		<text bitflag="3393" id1="518254" id2="17" version="1065353216">Attack trajectory = untraceable // Odds of locating laser = zero</text>
+		<text bitflag="1345" id1="518256" id2="17" version="1065353216">Have to get out of here. It's not safe. We're all going to die!</text>
+		<text bitflag="1345" id1="518258" id2="17" version="1065353216">The count... you there, hands up! Men, take their weapons. Lock down this building!</text>
+		<text bitflag="1345" id1="518259" id2="17" version="1065353216">We didn't kill him. We're here to help.</text>
+		<text bitflag="1360" id1="518259" id2="17" version="1065353216">Take it easy. We're friends.</text>
+		<text bitflag="1345" id1="518260" id2="17" version="1065353216">The count was killed by a long-range laser, not a lightsaber.</text>
+		<text bitflag="1360" id1="518260" id2="17" version="1065353216">You're accusing me?</text>
+		<text bitflag="1345" id1="518261" id2="17" version="1065353216">You can explain after you surrender.</text>
+		<text bitflag="1345" id1="518263" id2="17" version="1065353216">I need to find the count's killer. Anyone who gets in my way will regret it.</text>
+		<text bitflag="1360" id1="518263" id2="17" version="1065353216">Don't try to stop me.</text>
+		<text bitflag="1345" id1="518264" id2="17" version="1065353216">Men--lethal force authorized.</text>
+		<text bitflag="1345" id1="518266" id2="17" version="1065353216">Back against the wall and put your hands up. This is your final warning!</text>
+		<text bitflag="1345" id1="518268" id2="17" version="1065353216">Are you insane? She's a Jedi Knight! We had nothing to do with this.</text>
+		<text bitflag="1345" id1="518270" id2="17" version="1065353216">Are you insane? He's a Jedi Knight! We had nothing to do with this.</text>
+		<text bitflag="1345" id1="518272" id2="17" version="1065353216">We'll verify your identities and alibis. If what you say is true, you'll be released.</text>
+		<text bitflag="1345" id1="518274" id2="17" version="1065353216">Long-range communications have been restored. Should only take a few days to sort this out.</text>
+		<text bitflag="1345" id1="518275" id2="17" version="1065353216">Long-range communications are down. May take weeks to sort this out, but I promise you fair treatment.</text>
+		<text bitflag="1345" id1="518276" id2="17" version="1065353216">There's a Sith trying to destroy Alderaan. I have to stop him.</text>
+		<text bitflag="1360" id1="518276" id2="17" version="1065353216">We can't afford the delay.</text>
+		<text bitflag="1345" id1="518277" id2="17" version="1065353216">Please, let the Jedi go. You... you can arrest me. Will that be enough?</text>
+		<text bitflag="1345" id1="518279" id2="17" version="1065353216">If you are a Jedi, we obviously can't stop you from leaving....</text>
+		<text bitflag="1345" id1="518281" id2="17" version="1065353216">I'll release you on your own recognizance. This woman will remain in a secure area until you return.</text>
+		<text bitflag="1345" id1="518282" id2="17" version="1065353216">I appreciate your understanding.</text>
+		<text bitflag="1360" id1="518282" id2="17" version="1065353216">Thank you, Captain.</text>
+		<text bitflag="1345" id1="518283" id2="17" version="1065353216">&quot;Understanding&quot;... that's one word for it.</text>
+		<text bitflag="1345" id1="518285" id2="17" version="1065353216">I need her knowledge to complete my mission. She's coming with me.</text>
+		<text bitflag="1360" id1="518285" id2="17" version="1065353216">Release her, too.</text>
+		<text bitflag="1345" id1="518286" id2="17" version="1065353216">I'm safer here. You can reach me by holo, if necessary.</text>
+		<text bitflag="1345" id1="518288" id2="17" version="1065353216">We've been more than fair. Don't push us.</text>
+		<text bitflag="1345" id1="518290" id2="17" version="1065353216">You made the right choice. The alternative would've been unpleasant.</text>
+		<text bitflag="1360" id1="518290" id2="17" version="1065353216">Smart move.</text>
+		<text bitflag="1345" id1="518291" id2="17" version="1065353216">I'm aware of that.</text>
+		<text bitflag="1345" id1="518293" id2="17" version="1065353216">Don't make me regret this.</text>
+		<text bitflag="1345" id1="518295" id2="17" version="1065353216">Lives are in danger. You'll do anything to help me save Alderaan.</text>
+		<text bitflag="1360" id1="518295" id2="17" version="1065353216">[Force Persuade] Let me go.</text>
+		<text bitflag="1345" id1="518296" id2="17" version="1065353216">Lives are in danger. I'll do anything to help you save Alderaan.</text>
+		<text bitflag="1345" id1="518298" id2="17" version="1065353216">You look under-equipped. Here, take some of my gear....</text>
+		<text bitflag="1345" id1="518300" id2="17" version="1065353216">Men, secure the building. I'll contact Organa security and inform them of the situation.</text>
+		<text bitflag="1345" id1="518302" id2="17" version="1065353216">You've got to find the Death Mark before that Sith kills again.</text>
+		<text bitflag="1345" id1="518304" id2="17" version="1065353216">I don't have time for this. Out of my way!</text>
+		<text bitflag="1360" id1="518304" id2="17" version="1065353216">Stand aside, or else! [Attack]</text>
+		<text bitflag="1345" id1="518305" id2="17" version="1065353216">That's it--take her down!</text>
+		<text bitflag="1345" id1="518306" id2="17" version="1065353216">That's it--take him down!</text>
+		<text bitflag="1345" id1="518308" id2="17" version="1065353216">Please, stop fighting. You... you can lock me up. Just let the Jedi go.</text>
+		<text bitflag="1345" id1="518310" id2="17" version="1065353216">I'll probably lose my commission over this, but... very well.</text>
+		<text bitflag="1345" id1="518312" id2="17" version="1065353216">You should speak to the count.</text>
+		<text bitflag="1345" id1="518313" id2="17" version="1065353216">No one on Alderaan is safe. Anyone could be a target.</text>
+	</file_content>
+</stb_file>

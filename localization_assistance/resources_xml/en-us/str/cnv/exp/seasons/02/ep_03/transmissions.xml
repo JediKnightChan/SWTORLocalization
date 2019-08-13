@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/02/ep_03/transmissions.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1205963" id2="17" version="1065353216">You got one! Now hit the rest!</text>
+		<text bitflag="1345" id1="1205991" id2="17" version="1065353216">The shield's still up! Kill more power relays!</text>
+		<text bitflag="1345" id1="1205992" id2="17" version="1065353216">We're halfway there! Keep it up!</text>
+		<text bitflag="1345" id1="1205993" id2="17" version="1065353216">Almost got it! Destroy the last relay!</text>
+		<text bitflag="1345" id1="1205994" id2="17" version="1065353216">We're running out of time!</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>230</strs>
+		<file_name>/resources/en-us/str/gui/guildwindow.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="221631" version="1065353216">Enter Guild Name Here</text>
+		<text bitflag="321" id1="2" id2="221631" version="1065353216">Name:</text>
+		<text bitflag="321" id1="3" id2="221631" version="1065353216">Name: Unavailable</text>
+		<text bitflag="321" id1="4" id2="221631" version="1065353216">Enter a name for your guild below and click 'Create' to create a guild consisting of your group members.</text>
+		<text bitflag="321" id1="5" id2="221631" version="1065353216">Founding Members:</text>
+		<text bitflag="321" id1="6" id2="221631" version="1065353216">Guild Leader</text>
+		<text bitflag="321" id1="7" id2="221631" version="1065353216">Already in a guild</text>
+		<text bitflag="321" id1="8" id2="221631" version="1065353216">Must be group leader</text>
+		<text bitflag="321" id1="9" id2="221631" version="1065353216">Disconnected</text>
+		<text bitflag="321" id1="10" id2="221631" version="1065353216">Requires additional group member</text>
+		<text bitflag="321" id1="11" id2="221631" version="1065353216">Creation Processing Fee</text>
+		<text bitflag="321" id1="12" id2="221631" version="1065353216">A one-time processing fee is required to start a guild in The Old Republic.</text>
+		<text bitflag="321" id1="13" id2="221631" version="1065353216">Guild creation status:</text>
+		<text bitflag="321" id1="14" id2="221631" version="1065353216">Creating Guild...</text>
+		<text bitflag="321" id1="15" id2="221631" version="1065353216">CREATE GUILD</text>
+		<text bitflag="321" id1="16" id2="221631" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="17" id2="221631" version="1065353216">Info</text>
+		<text bitflag="321" id1="18" id2="221631" version="1065353216">Roster</text>
+		<text bitflag="321" id1="19" id2="221631" version="1065353216">Manage</text>
+		<text bitflag="321" id1="20" id2="221631" version="1065353216">Create Guild</text>
+		<text bitflag="321" id1="21" id2="221631" version="1065353216">GUILD</text>
+		<text bitflag="321" id1="22" id2="221631" version="1065353216">Member Notes</text>
+		<text bitflag="321" id1="23" id2="221631" version="1065353216">Officer Notes</text>
+		<text bitflag="321" id1="24" id2="221631" version="1065353216">Member Profile</text>
+		<text bitflag="321" id1="25" id2="221631" version="1065353216">REMOVE FROM GUILD</text>
+		<text bitflag="321" id1="26" id2="221631" version="1065353216">Level</text>
+		<text bitflag="321" id1="27" id2="221631" version="1065353216">You are currently not in a guild.</text>
+		<text bitflag="321" id1="28" id2="221631" version="1065353216">Guilds in The Old Republic</text>
+		<text bitflag="321" id1="29" id2="221631" version="1065353216">A guild is a group of like-minded players that come together to socialize and progress forward in the game.</text>
+		<text bitflag="321" id1="30" id2="221631" version="1065353216">How to create or join a Guild</text>
+		<text bitflag="321" id1="31" id2="221631" version="1065353216">Visit your Regional Guild Registrar on the fleet to create a new guild.
+
+Formation of a Guild requires four players to be in the same party and a small one-time processing fee.</text>
+		<text bitflag="321" id1="32" id2="221631" version="1065353216">Visit your Regional Guild Administration Office at</text>
+		<text bitflag="321" id1="33" id2="221631" version="1065353216">to create a new guild.</text>
+		<text bitflag="321" id1="34" id2="221631" version="1065353216">Notes</text>
+		<text bitflag="321" id1="35" id2="221631" version="1065353216">Rank Profile</text>
+		<text bitflag="321" id1="36" id2="221631" version="1065353216">DELETE RANK</text>
+		<text bitflag="321" id1="37" id2="221631" version="1065353216">DEMOTE</text>
+		<text bitflag="321" id1="38" id2="221631" version="1065353216">PROMOTE</text>
+		<text bitflag="321" id1="39" id2="221631" version="1065353216">Rank</text>
+		<text bitflag="321" id1="40" id2="221631" version="1065353216">Members</text>
+		<text bitflag="321" id1="41" id2="221631" version="1065353216">Name</text>
+		<text bitflag="321" id1="42" id2="221631" version="1065353216">Level</text>
+		<text bitflag="321" id1="43" id2="221631" version="1065353216">Class</text>
+		<text bitflag="321" id1="44" id2="221631" version="1065353216">Location</text>
+		<text bitflag="321" id1="45" id2="221631" version="1065353216">Guild Rank</text>
+		<text bitflag="321" id1="46" id2="221631" version="1065353216">Last Played</text>
+		<text bitflag="321" id1="47" id2="221631" version="1065353216">Member Note</text>
+		<text bitflag="321" id1="48" id2="221631" version="1065353216">Officer Note</text>
+		<text bitflag="321" id1="49" id2="221631" version="1065353216">Online</text>
+		<text bitflag="321" id1="50" id2="221631" version="1065353216">&lt;&lt;1[/$d Year/$d Years]&gt;&gt; Ago</text>
+		<text bitflag="321" id1="51" id2="221631" version="1065353216">&lt;&lt;1[/$d Day/$d Days]&gt;&gt; Ago</text>
+		<text bitflag="321" id1="52" id2="221631" version="1065353216">&lt;&lt;1[&amp;lt; 1 Hour/$d Hour/$d Hours]&gt;&gt; Ago</text>
+		<text bitflag="321" id1="53" id2="221631" version="1065353216">Day Ago</text>
+		<text bitflag="321" id1="54" id2="221631" version="1065353216">1 Hour Ago</text>
+		<text bitflag="321" id1="55" id2="221631" version="1065353216">Hours Ago</text>
+		<text bitflag="321" id1="56" id2="221631" version="1065353216">Hour Ago</text>
+		<text bitflag="321" id1="57" id2="221631" version="1065353216">Guild Name</text>
+		<text bitflag="321" id1="58" id2="221631" version="1065353216">Message of the Day</text>
+		<text bitflag="321" id1="59" id2="221631" version="1065353216">Description</text>
+		<text bitflag="321" id1="60" id2="221631" version="1065353216">Guild Characteristics</text>
+		<text bitflag="321" id1="61" id2="221631" version="1065353216">Searching For</text>
+		<text bitflag="321" id1="62" id2="221631" version="1065353216">Members</text>
+		<text bitflag="321" id1="63" id2="221631" version="1065353216">January</text>
+		<text bitflag="321" id1="64" id2="221631" version="1065353216">February</text>
+		<text bitflag="321" id1="65" id2="221631" version="1065353216">March</text>
+		<text bitflag="321" id1="66" id2="221631" version="1065353216">April</text>
+		<text bitflag="321" id1="67" id2="221631" version="1065353216">May</text>
+		<text bitflag="321" id1="68" id2="221631" version="1065353216">June</text>
+		<text bitflag="321" id1="69" id2="221631" version="1065353216">July</text>
+		<text bitflag="321" id1="70" id2="221631" version="1065353216">August</text>
+		<text bitflag="321" id1="71" id2="221631" version="1065353216">September</text>
+		<text bitflag="321" id1="72" id2="221631" version="1065353216">October</text>
+		<text bitflag="321" id1="73" id2="221631" version="1065353216">November</text>
+		<text bitflag="321" id1="74" id2="221631" version="1065353216">December</text>
+		<text bitflag="321" id1="75" id2="221631" version="1065353216">Established</text>
+		<text bitflag="321" id1="76" id2="221631" version="1065353216">ADD RANK</text>
+		<text bitflag="321" id1="77" id2="221631" version="1065353216">Show Offline Members</text>
+		<text bitflag="321" id1="78" id2="221631" version="1065353216">INFO</text>
+		<text bitflag="321" id1="79" id2="221631" version="1065353216">CHAT</text>
+		<text bitflag="321" id1="80" id2="221631" version="1065353216">NOTES</text>
+		<text bitflag="321" id1="81" id2="221631" version="1065353216">MANAGE</text>
+		<text bitflag="321" id1="82" id2="221631" version="1065353216">View</text>
+		<text bitflag="321" id1="83" id2="221631" version="1065353216">Edit</text>
+		<text bitflag="321" id1="84" id2="221631" version="1065353216">Send</text>
+		<text bitflag="321" id1="85" id2="221631" version="1065353216">Invite</text>
+		<text bitflag="321" id1="86" id2="221631" version="1065353216">Set Rank</text>
+		<text bitflag="321" id1="87" id2="221631" version="1065353216">Remove</text>
+		<text bitflag="321" id1="88" id2="221631" version="1065353216">Edit MOTD</text>
+		<text bitflag="321" id1="89" id2="221631" version="1065353216">Edit Description</text>
+		<text bitflag="321" id1="90" id2="221631" version="1065353216">Guild</text>
+		<text bitflag="321" id1="91" id2="221631" version="1065353216">Officer</text>
+		<text bitflag="321" id1="92" id2="221631" version="1065353216">Member</text>
+		<text bitflag="321" id1="93" id2="221631" version="1065353216">Member Management</text>
+		<text bitflag="321" id1="94" id2="221631" version="1065353216">Information</text>
+		<text bitflag="321" id1="95" id2="221631" version="1065353216">Each guild has a hierarchy of leadership, with the Guild Master at the top. The different layers of leadership manage the guild using the provided Guild tools.</text>
+		<text bitflag="321" id1="96" id2="221631" version="1065353216">To join an existing guild, you will need to be offered an invitation from a member of that guild.</text>
+		<text bitflag="321" id1="97" id2="221631" version="1065353216">Open the Guild Window.</text>
+		<text bitflag="321" id1="98" id2="221631" version="1065353216">Guild Window</text>
+		<text bitflag="321" id1="99" id2="221631" version="1065353216">Guild Officers</text>
+		<text bitflag="321" id1="100" id2="221631" version="1065353216">MESSAGE OF THE DAY</text>
+		<text bitflag="321" id1="101" id2="221631" version="1065353216">Enter your Message Of The Day (MOTD). The MOTD is a general message that is displayed to all your guild members.</text>
+		<text bitflag="321" id1="102" id2="221631" version="1065353216">GUILD DESCRIPTION</text>
+		<text bitflag="321" id1="103" id2="221631" version="1065353216">Enter your Guild Description. The Guild Description is a message describing your guild that is displayed to all your guild members.</text>
+		<text bitflag="321" id1="104" id2="221631" version="1065353216">Cancel</text>
+		<text bitflag="321" id1="105" id2="221631" version="1065353216">Update</text>
+		<text bitflag="321" id1="106" id2="221631" version="1065353216">Edit</text>
+		<text bitflag="321" id1="107" id2="221631" version="1065353216">Details</text>
+		<text bitflag="321" id1="108" id2="221631" version="1065353216">OK</text>
+		<text bitflag="321" id1="109" id2="221631" version="1065353216">Edit Rank Description</text>
+		<text bitflag="321" id1="110" id2="221631" version="1065353216">Remove Rank</text>
+		<text bitflag="321" id1="111" id2="221631" version="1065353216">You cannot delete this rank because there are still members of that rank.</text>
+		<text bitflag="321" id1="112" id2="221631" version="1065353216">Add Rank</text>
+		<text bitflag="321" id1="113" id2="221631" version="1065353216">You cannot remove the Guild Master rank.</text>
+		<text bitflag="321" id1="115" id2="221631" version="1065353216">Guild Chat</text>
+		<text bitflag="321" id1="116" id2="221631" version="1065353216">Officer Chat</text>
+		<text bitflag="321" id1="117" id2="221631" version="1065353216">Message Of The Day</text>
+		<text bitflag="321" id1="118" id2="221631" version="1065353216">Guild Description</text>
+		<text bitflag="321" id1="119" id2="221631" version="1065353216">Member Note</text>
+		<text bitflag="321" id1="120" id2="221631" version="1065353216">Officer Note</text>
+		<text bitflag="321" id1="121" id2="221631" version="1065353216">Member Management</text>
+		<text bitflag="321" id1="122" id2="221631" version="1065353216">Create</text>
+		<text bitflag="321" id1="123" id2="221631" version="1065353216">(Offline)</text>
+		<text bitflag="321" id1="124" id2="221631" version="1065353216">(Already in a guild)</text>
+		<text bitflag="321" id1="125" id2="221631" version="1065353216">(Guild Leader)</text>
+		<text bitflag="321" id1="126" id2="221631" version="1065353216">(Required member)</text>
+		<text bitflag="321" id1="127" id2="221631" version="1065353216">(You must be a group leader)</text>
+		<text bitflag="321" id1="128" id2="221631" version="1065353216">GENERAL</text>
+		<text bitflag="321" id1="129" id2="221631" version="1065353216">RANKS</text>
+		<text bitflag="321" id1="130" id2="221631" version="1065353216">Promote Rank</text>
+		<text bitflag="321" id1="131" id2="221631" version="1065353216">Demote Rank</text>
+		<text bitflag="321" id1="132" id2="221631" version="1065353216">Security Key</text>
+		<text bitflag="321" id1="133" id2="221631" version="1065353216">Edit Rank Name</text>
+		<text bitflag="321" id1="134" id2="221631" version="1065353216">Edit name for rank
+'&lt;&lt;1&gt;&gt;'</text>
+		<text bitflag="321" id1="135" id2="221631" version="1065353216">RENAME</text>
+		<text bitflag="321" id1="257" id2="221631" version="1065353216">Your Guild will be a Free-to-Play Player Guild and have restrictions placed on it.</text>
+		<text bitflag="321" id1="258" id2="221631" version="1065353216">Your Guild is currently a Free-to-Play Player Guild.</text>
+		<text bitflag="321" id1="259" id2="221631" version="1065353216">Guilds led by a Subscribing Player gain additional options including display of your Guild Name and custom Ranks.</text>
+		<text bitflag="321" id1="260" id2="221631" version="1065353216">Free-to-Play Player Guilds cannot adjust Rank permissions.</text>
+		<text bitflag="321" id1="261" id2="221631" version="1065353216">Create Free-to-Play Player Guild</text>
+		<text bitflag="321" id1="262" id2="221631" version="1065353216">&lt;p align='center'&gt;&lt;font size='18'&gt;Free-to-Play Player Guild&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p align='justify' size='14'&gt;&lt;font size='14'&gt;You are creating a Free-to-Play Player Guild. Free-to-Play Player Guilds have the following restrictions:&lt;br&gt;&lt;br&gt;&lt;li&gt;Members cannot display the Guild Tag.&lt;/li&gt;&lt;li&gt;Guild Leaders cannot adjust rank permissions.&lt;/li&gt;&lt;li&gt;Members purchase Guild Bank access with Cartel Coins.&lt;/li&gt;&lt;br&gt;These restrictions are removed when a Subscriber is promoted to Guild Leader.&lt;/font&gt;&lt;/p&gt;</text>
+		<text bitflag="321" id1="263" id2="221631" version="1065353216">Your Guild is eligible for a rename. 
+
+Click here to rename your guild.</text>
+		<text bitflag="321" id1="264" id2="221631" version="1065353216">XP Bonus</text>
+		<text bitflag="321" id1="265" id2="221631" version="1065353216">You earn +5% to all Experience gained while you are in a Guild!  Guilds can earn up to +10% Experience and +10% Reputation based on the number of players who join.</text>
+		<text bitflag="321" id1="266" id2="221631" version="1065353216">XP Bonus: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="267" id2="221631" version="1065353216">+&lt;&lt;1&gt;&gt;%</text>
+		<text bitflag="321" id1="268" id2="221631" version="1065353216">Reputation Bonus: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="269" id2="221631" version="1065353216">All members of your Guild get an Experience and Reputation bonus based on the number of unique accounts with either preferred or subscriber status that have shown recent activity. The Experience and Reputation bonuses each cap at 10%.
+
+Qualifying accounts: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="270" id2="221631" version="1065353216">Conquest Points</text>
+		<text bitflag="321" id1="271" id2="221631" version="1065353216">Guild Conquest</text>
+		<text bitflag="321" id1="272" id2="221631" version="1065353216">Invade Planet</text>
+		<text bitflag="321" id1="273" id2="221631" version="1065353216">Legacy</text>
+		<text bitflag="321" id1="274" id2="221631" version="1065353216">Primary</text>
+		<text bitflag="321" id1="275" id2="221631" version="1065353216">Set Primary</text>
+		<text bitflag="321" id1="276" id2="221631" version="1065353216">Joining a guild allows you to participate in exciting guild activities like Galactic Conquests Invasions. Plus, all guild members receive an Experience, CXP and Reputation bonus based off of Guild Level.
+
+Thats not all! A guild upgraded with a Flagship may take of exciting Guild Perks.</text>
+		<text bitflag="321" id1="277" id2="221631" version="1065353216">Why Join A Guild?</text>
+		<text bitflag="321" id1="278" id2="221631" version="1065353216">Maximum number of guild ranks reached.</text>
+		<text bitflag="321" id1="280" id2="221631" version="1065353216">Create a Guild</text>
+		<text bitflag="321" id1="281" id2="221631" version="1065353216">Customization Tab</text>
+		<text bitflag="321" id1="282" id2="221631" version="1065353216">Guild Mail</text>
+		<text bitflag="321" id1="283" id2="221631" version="1065353216">ROSTER</text>
+		<text bitflag="321" id1="284" id2="221631" version="1065353216">PERKS</text>
+		<text bitflag="321" id1="285" id2="221631" version="1065353216">Guild Perks</text>
+		<text bitflag="321" id1="286" id2="221631" version="1065353216">Guild Leader:</text>
+		<text bitflag="321" id1="287" id2="221631" version="1065353216">Guild Funds:</text>
+		<text bitflag="321" id1="288" id2="221631" version="1065353216">XP Bonus:</text>
+		<text bitflag="321" id1="289" id2="221631" version="1065353216">Reputation Bonus:</text>
+		<text bitflag="321" id1="290" id2="221631" version="1065353216">CXP Bonus:</text>
+		<text bitflag="321" id1="291" id2="221631" version="1065353216">Guild</text>
+		<text bitflag="321" id1="292" id2="221631" version="1065353216">Total</text>
+		<text bitflag="321" id1="293" id2="221631" version="1065353216">Conquest Leaders</text>
+		<text bitflag="321" id1="294" id2="221631" version="1065353216">Challenge Records</text>
+		<text bitflag="321" id1="295" id2="221631" version="1065353216">Galatic Starfighter</text>
+		<text bitflag="321" id1="296" id2="221631" version="1065353216">Arena</text>
+		<text bitflag="321" id1="297" id2="221631" version="1065353216">Warzones</text>
+		<text bitflag="321" id1="298" id2="221631" version="1065353216">Win - Loss Record: &lt;&lt;1&gt;&gt; - &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="299" id2="221631" version="1065353216">Win Rate: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="300" id2="221631" version="1065353216">Online: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="301" id2="221631" version="1065353216">Previous Leaders</text>
+		<text bitflag="321" id1="302" id2="221631" version="1065353216">Current Leaders</text>
+		<text bitflag="321" id1="303" id2="221631" version="1065353216">Flagship:</text>
+		<text bitflag="321" id1="304" id2="221631" version="1065353216">Flagship Location:</text>
+		<text bitflag="321" id1="305" id2="221631" version="1065353216">Invasion Target:</text>
+		<text bitflag="321" id1="306" id2="221631" version="1065353216">Conquest Points:</text>
+		<text bitflag="321" id1="307" id2="221631" version="1065353216">Edit Guild Info</text>
+		<text bitflag="321" id1="308" id2="221631" version="1065353216">Guild Info</text>
+		<text bitflag="321" id1="309" id2="221631" version="1065353216">Ship Info</text>
+		<text bitflag="321" id1="310" id2="221631" version="1065353216">Recruiting</text>
+		<text bitflag="321" id1="311" id2="221631" version="1065353216">Current XP / Next level:</text>
+		<text bitflag="321" id1="312" id2="221631" version="1065353216">No Guild Flagship</text>
+		<text bitflag="321" id1="316" id2="221631" version="1065353216">Primary Character</text>
+		<text bitflag="321" id1="317" id2="221631" version="1065353216">Use the right-click menu to set a member's primary character.</text>
+		<text bitflag="321" id1="318" id2="221631" version="1065353216">Permissions</text>
+		<text bitflag="321" id1="319" id2="221631" version="1065353216">Find Member:</text>
+		<text bitflag="321" id1="320" id2="221631" version="1065353216">Guild Bans</text>
+		<text bitflag="321" id1="321" id2="221631" version="1065353216">Set Bonus:</text>
+		<text bitflag="321" id1="322" id2="221631" version="1065353216">GUILD BAN WINDOW</text>
+		<text bitflag="321" id1="323" id2="221631" version="1065353216">Player Name</text>
+		<text bitflag="321" id1="324" id2="221631" version="1065353216">Comment</text>
+		<text bitflag="321" id1="325" id2="221631" version="1065353216">Add Guild Ban</text>
+		<text bitflag="321" id1="326" id2="221631" version="1065353216">Remove Guild Ban</text>
+		<text bitflag="321" id1="327" id2="221631" version="1065353216">Modify Comment</text>
+		<text bitflag="321" id1="328" id2="221631" version="1065353216">Locked</text>
+		<text bitflag="321" id1="329" id2="221631" version="1065353216">Available</text>
+		<text bitflag="321" id1="330" id2="221631" version="1065353216">Guild Inspect</text>
+		<text bitflag="321" id1="331" id2="221631" version="1065353216">Contact Recruiter</text>
+		<text bitflag="321" id1="332" id2="221631" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;1[Member/Members]&gt;&gt;</text>
+		<text bitflag="321" id1="333" id2="221631" version="1065353216">Guild Tags</text>
+		<text bitflag="321" id1="334" id2="221631" version="1065353216">Guild Inspect/Recruiting</text>
+		<text bitflag="321" id1="335" id2="221631" version="1065353216">Recruitment</text>
+		<text bitflag="321" id1="336" id2="221631" version="1065353216">Private</text>
+		<text bitflag="321" id1="337" id2="221631" version="1065353216">Enable or Disable Certain Data From Guild Inspect</text>
+		<text bitflag="321" id1="338" id2="221631" version="1065353216">Enable or Disable The Public Recruiting Flag</text>
+		<text bitflag="321" id1="339" id2="221631" version="1065353216">Guild Level:</text>
+		<text bitflag="321" id1="340" id2="221631" version="1065353216">Next Level:</text>
+		<text bitflag="321" id1="341" id2="221631" version="1065353216">Weekly Earned XP / Weekly XP Remaining:</text>
+		<text bitflag="321" id1="342" id2="221631" version="1065353216">Guild Commendations:</text>
+		<text bitflag="321" id1="343" id2="221631" version="1065353216">CXP Bonus: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="344" id2="221631" version="1065353216">Preview Inspect</text>
+		<text bitflag="321" id1="345" id2="221631" version="1065353216">Link Guild Info</text>
+		<text bitflag="321" id1="346" id2="221631" version="1065353216">Add a hyperlink for your guild inspect to chat.</text>
+		<text bitflag="321" id1="348" id2="221631" version="1065353216">Invasion Progress: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="349" id2="221631" version="1065353216">Purchase Flagship</text>
+		<text bitflag="321" id1="350" id2="221631" version="1065353216">View Guild Invasion Status</text>
+		<text bitflag="321" id1="351" id2="221631" version="1065353216">Inspect Guild Public Profile</text>
+		<text bitflag="321" id1="352" id2="221631" version="1065353216">Edit Guild Profile</text>
+		<text bitflag="321" id1="355" id2="221631" version="1065353216">There is no set bonus active</text>
+		<text bitflag="321" id1="356" id2="221631" version="1065353216">Players who inspect your Guild profile will see that your Guild is actively recruiting new members</text>
+		<text bitflag="321" id1="357" id2="221631" version="1065353216">Recruiting</text>
+		<text bitflag="321" id1="358" id2="221631" version="1065353216">View full guild log</text>
+		<text bitflag="321" id1="359" id2="221631" version="1065353216">Search guild log</text>
+	</file_content>
+</stb_file>

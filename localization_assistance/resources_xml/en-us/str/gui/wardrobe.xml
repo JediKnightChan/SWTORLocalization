@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>36</strs>
+		<file_name>/resources/en-us/str/gui/wardrobe.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="823943" version="1065353216">OUTFIT DESIGNER
+
+Drag items into the outfit slots to stamp them into an outfit. Once you are satisfied, save the outfit by clicking 'Commit Changes.'  You can switch outfits at any time.</text>
+		<text bitflag="321" id1="257" id2="823943" version="1065353216">Currently Applied:</text>
+		<text bitflag="321" id1="258" id2="823943" version="1065353216">Currently Selected:</text>
+		<text bitflag="321" id1="259" id2="823943" version="1065353216">Gear</text>
+		<text bitflag="321" id1="260" id2="823943" version="1065353216">Outfit &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="261" id2="823943" version="1065353216">Commit Changes</text>
+		<text bitflag="321" id1="262" id2="823943" version="1065353216">Discard Changes</text>
+		<text bitflag="321" id1="263" id2="823943" version="1065353216">Apply</text>
+		<text bitflag="321" id1="264" id2="823943" version="1065353216">Active</text>
+		<text bitflag="321" id1="265" id2="823943" version="1065353216">Stamped Dye</text>
+		<text bitflag="321" id1="266" id2="823943" version="1065353216">You do not have enough credits to make the requested modifications.</text>
+		<text bitflag="321" id1="267" id2="823943" version="1065353216">Outfit build cost:</text>
+		<text bitflag="321" id1="268" id2="823943" version="1065353216">You cannot afford the outfit modifications</text>
+		<text bitflag="321" id1="269" id2="823943" version="1065353216">STAMP DYE</text>
+		<text bitflag="321" id1="270" id2="823943" version="1065353216">REMOVE</text>
+		<text bitflag="321" id1="271" id2="823943" version="1065353216">Current Dye:</text>
+		<text bitflag="321" id1="272" id2="823943" version="1065353216">Replace With:</text>
+		<text bitflag="321" id1="273" id2="823943" version="1065353216">This item/color combination has already been stamped on this outfit.</text>
+		<text bitflag="321" id1="274" id2="823943" version="1065353216">Outfits Unlocked:</text>
+		<text bitflag="321" id1="275" id2="823943" version="1065353216">Confirm Outfit Modification</text>
+		<text bitflag="321" id1="276" id2="823943" version="1065353216">The following items will become bound to you:</text>
+		<text bitflag="321" id1="277" id2="823943" version="1065353216">Are you sure you wish to modify this outfit?</text>
+		<text bitflag="321" id1="278" id2="823943" version="1065353216">Items that are locked may not be stamped to an outfit.</text>
+		<text bitflag="321" id1="279" id2="823943" version="1065353216">Successfully Unlocked Outfit!</text>
+		<text bitflag="321" id1="280" id2="823943" version="1065353216">Currently Equipped Gear</text>
+		<text bitflag="321" id1="281" id2="823943" version="1065353216">This type of item cannot be placed in an outfit.</text>
+		<text bitflag="321" id1="282" id2="823943" version="1065353216">REMOVE DYE</text>
+		<text bitflag="321" id1="283" id2="823943" version="1065353216">There is no cost to removing this dye, however the dye will be DESTROYED.
+
+Would you like to proceed?</text>
+		<text bitflag="321" id1="284" id2="823943" version="1065353216">OVERRIDE DYE</text>
+		<text bitflag="321" id1="285" id2="823943" version="1065353216">This will replace the currently slotted dye, the currently slotted dye will be DESTROYED in the process.
+
+Would you like to proceed?</text>
+		<text bitflag="321" id1="286" id2="823943" version="1065353216">Active Outfit</text>
+		<text bitflag="321" id1="287" id2="823943" version="1065353216">Unlock additional outfits</text>
+		<text bitflag="321" id1="288" id2="823943" version="1065353216">WARNING: Any dyes attached to removed stamps will be destroyed.</text>
+		<text bitflag="321" id1="289" id2="823943" version="1065353216">&lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="292" id2="823943" version="1065353216">You must have a chest piece stamped in order to unify colors for this outfit.  Only stamped slots will be unified.</text>
+		<text bitflag="321" id1="293" id2="823943" version="1065353216">You must have a chest piece equipped to unify colors.</text>
+	</file_content>
+</stb_file>

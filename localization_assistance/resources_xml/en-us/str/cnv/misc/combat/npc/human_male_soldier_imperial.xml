@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/human_male_soldier_imperial.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63605" id2="17" version="1065353216">Stop right there!</text>
+		<text bitflag="1345" id1="63607" id2="17" version="1065353216">Send backup!</text>
+		<text bitflag="1345" id1="63609" id2="17" version="1065353216">Give it up!</text>
+		<text bitflag="1345" id1="63611" id2="17" version="1065353216">Die, scum!</text>
+		<text bitflag="1345" id1="63613" id2="17" version="1065353216">For the Empire!</text>
+		<text bitflag="1345" id1="63615" id2="17" version="1065353216">You're finished!</text>
+	</file_content>
+</stb_file>

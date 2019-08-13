@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/nar_shaddaa/zenith/dead_drop_location.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1188096" id2="17" version="1065353216">[This is the dead drop location that Zenith gave you. You can turn in War Supplies to him here.]</text>
+		<text bitflag="321" id1="1188097" id2="17" version="1065353216">[Turn in Starship Weapons]</text>
+		<text bitflag="336" id1="1188097" id2="17" version="1065353216">[War Supplies: Starship Weapons]</text>
+		<text bitflag="321" id1="1188098" id2="17" version="1065353216">[Turn in Armored Vehicles]</text>
+		<text bitflag="336" id1="1188098" id2="17" version="1065353216">[War Supplies: Armored Vehicles]</text>
+		<text bitflag="321" id1="1189193" id2="17" version="1065353216">[Do Nothing]</text>
+		<text bitflag="336" id1="1189193" id2="17" version="1065353216">[Step away]</text>
+		<text bitflag="321" id1="1189195" id2="17" version="1065353216">[Turn in Invasion Force]</text>
+		<text bitflag="336" id1="1189195" id2="17" version="1065353216">[War Supplies: Invasion Force]</text>
+		<text bitflag="321" id1="1189196" id2="17" version="1065353216">[Turn in Infantry Supply Kit]</text>
+		<text bitflag="336" id1="1189196" id2="17" version="1065353216">[War Supplies: Infantry Supply Kits]</text>
+		<text bitflag="321" id1="1189197" id2="17" version="1065353216">[Turn in Crystal Capacitors]</text>
+		<text bitflag="336" id1="1189197" id2="17" version="1065353216">[War Supplies: Crystal Capacitors]</text>
+		<text bitflag="321" id1="1189198" id2="17" version="1065353216">[Turn in Holocron of Strategy]</text>
+		<text bitflag="336" id1="1189198" id2="17" version="1065353216">[War Supplies: Holocron of Strategy]</text>
+		<text bitflag="321" id1="1196179" id2="17" version="1065353216">[As you deposit the War Supplies you hear something behind you...]</text>
+		<text bitflag="321" id1="1196181" id2="17" version="1065353216">[This dead drop location is no longer secure!]</text>
+		<text bitflag="321" id1="1196184" id2="17" version="1065353216">[A secret compart in the Commboth opens and accepts your War Supplies]</text>
+		<text bitflag="321" id1="1196472" id2="17" version="1065353216">[Coordinates of a nearby location flash across your datapad. It would seem that Zenith wants to meet.]</text>
+	</file_content>
+</stb_file>

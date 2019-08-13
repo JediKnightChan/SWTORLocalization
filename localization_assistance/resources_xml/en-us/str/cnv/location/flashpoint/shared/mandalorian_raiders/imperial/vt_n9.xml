@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>18</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/mandalorian_raiders/imperial/vt_n9.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="513338" id2="17" version="1065353216">VT-N9 = observation + relay unit // Messages = not available</text>
+		<text bitflag="3393" id1="513339" id2="17" version="1065353216">VT-N9 = requesting voice authorization // Encrypted message = ready for delivery</text>
+		<text bitflag="1345" id1="513340" id2="17" version="1065353216">Authorization granted. Begin playback.</text>
+		<text bitflag="3393" id1="513341" id2="17" version="1065353216">Message = decrypted // Recording = begins</text>
+		<text bitflag="1345" id1="513343" id2="17" version="1065353216">This is Darth Malgus to designated strike teams. You are within range of a priority target.</text>
+		<text bitflag="1345" id1="513345" id2="17" version="1065353216">Clan Varad, of the Mandalorian mercenary clans, has declared war against the Empire and attacked three of our colonies.</text>
+		<text bitflag="1345" id1="513347" id2="17" version="1065353216">The Mandalorian warriors have proven valued Imperial allies, but Clan Varad's rebellion must be answered in blood; for this, I call upon you.</text>
+		<text bitflag="1345" id1="513348" id2="17" version="1065353216">Signal Lord Malgus to expect my assistance. Resume.</text>
+		<text bitflag="1360" id1="513348" id2="17" version="1065353216">I'm on my way.</text>
+		<text bitflag="1345" id1="513349" id2="17" version="1065353216">Display everything you have on the Mandalorian clans.</text>
+		<text bitflag="1360" id1="513349" id2="17" version="1065353216">Who are these mercenaries?</text>
+		<text bitflag="3393" id1="513350" id2="17" version="1065353216">Full report = currently inaccessible // Mandalorian (summary) = warrior society + multiple species + clan-based + mercenary focus</text>
+		<text bitflag="3393" id1="513352" id2="17" version="1065353216">Imperial relations = positive // Mandalorian clans + long-term contract = alliance</text>
+		<text bitflag="1360" id1="513354" id2="17" version="1065353216">[Listen to the message]</text>
+		<text bitflag="1345" id1="513355" id2="17" version="1065353216">We have located Clan Varad's battle cruiser. The attack begins shortly. But there are... complications.</text>
+		<text bitflag="1345" id1="513357" id2="17" version="1065353216">Report to Vaiken Spacedock and we will finalize the assault.</text>
+		<text bitflag="3393" id1="513359" id2="17" version="1065353216">Message = terminated // Rendezvous coordinates = attached</text>
+		<text bitflag="3393" id1="513361" id2="17" version="1065353216">VT-N9 = observation + relay unit</text>
+	</file_content>
+</stb_file>

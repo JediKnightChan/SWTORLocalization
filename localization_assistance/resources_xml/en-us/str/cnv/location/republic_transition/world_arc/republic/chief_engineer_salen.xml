@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>62</strs>
+		<file_name>/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/chief_engineer_salen.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="627154" id2="17" version="1065353216">Thanks for talking her down. We owe you.</text>
+		<text bitflag="1345" id1="627159" id2="17" version="1065353216">Is that... are you a soldier? Chief! Look, sir--reinforcements are here!</text>
+		<text bitflag="1345" id1="627161" id2="17" version="1065353216">Whoa--you're a Jedi! Chief! Hey, Chief! Look, there's a Jedi out there!</text>
+		<text bitflag="1345" id1="627163" id2="17" version="1065353216">Hey! Hey, Chief, come here! Look, there's someone out there, on the other side of the door!</text>
+		<text bitflag="1345" id1="627165" id2="17" version="1065353216">You must be crazy, coming all the way down here with the Imps everywhere.</text>
+		<text bitflag="1345" id1="627166" id2="17" version="1065353216">Commander Narlock said that you might know of a way to unlock the bridge. The Imperials have it sealed off.</text>
+		<text bitflag="1360" id1="627166" id2="17" version="1065353216">I need your help.</text>
+		<text bitflag="1345" id1="627167" id2="17" version="1065353216">The Imperials have the bridge locked down. You're getting us in there.</text>
+		<text bitflag="1360" id1="627167" id2="17" version="1065353216">Shut up and listen.</text>
+		<text bitflag="1345" id1="627168" id2="17" version="1065353216">The Imps pulled the lockdown? You've got to be kidding me.</text>
+		<text bitflag="1345" id1="627170" id2="17" version="1065353216">I don't hide from my enemies. I kill them.</text>
+		<text bitflag="1360" id1="627170" id2="17" version="1065353216">I'm not running away.</text>
+		<text bitflag="1345" id1="627171" id2="17" version="1065353216">Well, you won't take many Imps down standing here talking to me, will you?</text>
+		<text bitflag="1345" id1="627173" id2="17" version="1065353216">You really cleared this place out. I didn't run into a single Imperial on my way down here.</text>
+		<text bitflag="1345" id1="627175" id2="17" version="1065353216">Listen--there's no time to waste. Commander Narlock and his men are being overrun--we have to get the bridge unlocked now.</text>
+		<text bitflag="1345" id1="627177" id2="17" version="1065353216">What, the Imps pulled the lockdown? Perfect, just perfect. Men, looks like we really are stuck in here!</text>
+		<text bitflag="1345" id1="627178" id2="17" version="1065353216">So I've heard. I'd invite you in, but the lockdown has our doors sealed, too.</text>
+		<text bitflag="1345" id1="627179" id2="17" version="1065353216">Are you going to be safe in there? Do you need help getting out?</text>
+		<text bitflag="1360" id1="627179" id2="17" version="1065353216">Is everything alright?</text>
+		<text bitflag="1345" id1="627180" id2="17" version="1065353216">Getting the bridge back in our control is much more important. Now let's see....</text>
+		<text bitflag="1345" id1="627182" id2="17" version="1065353216">Can you get the bridge open from there?</text>
+		<text bitflag="1360" id1="627182" id2="17" version="1065353216">What about the bridge?</text>
+		<text bitflag="1345" id1="627183" id2="17" version="1065353216">Depends on how we go about it. Just let me think a minute.</text>
+		<text bitflag="1345" id1="627185" id2="17" version="1065353216">I'm not interested in your problems, I just want to get into the bridge!</text>
+		<text bitflag="1360" id1="627185" id2="17" version="1065353216">I don't care.</text>
+		<text bitflag="1345" id1="627186" id2="17" version="1065353216">All right, all right! Calm down and let me think, would you?</text>
+		<text bitflag="1345" id1="627188" id2="17" version="1065353216">What about a reactor reset? That would disengage the security locks, wouldn't it, sir?</text>
+		<text bitflag="1345" id1="627190" id2="17" version="1065353216">Yeah, but a reactor reset vents the engineering compartment--we'd be blown into space. Besides, controls are on the other side of the door.</text>
+		<text bitflag="1345" id1="627191" id2="17" version="1065353216">What else could we do to open up the bridge?</text>
+		<text bitflag="1360" id1="627191" id2="17" version="1065353216">Any other ideas?</text>
+		<text bitflag="1345" id1="627192" id2="17" version="1065353216">Tell your lackeys to shut up unless they have ideas we can actually use.</text>
+		<text bitflag="1360" id1="627192" id2="17" version="1065353216">Useful plans only, please.</text>
+		<text bitflag="1345" id1="627193" id2="17" version="1065353216">He was just trying to help. Besides, he gave me an idea.</text>
+		<text bitflag="1345" id1="627195" id2="17" version="1065353216">So resetting the reactor would unlock the bridge?</text>
+		<text bitflag="1360" id1="627195" id2="17" version="1065353216">But it would get the job done?</text>
+		<text bitflag="1345" id1="627196" id2="17" version="1065353216">Yeah, but my team and I would get launched into deep space! There are alternatives!</text>
+		<text bitflag="1345" id1="627198" id2="17" version="1065353216">The secondary conduits. They're spread around a bit, but if you shut them all down, the security will go down, too. Then we'll be in business.</text>
+		<text bitflag="1345" id1="627199" id2="17" version="1065353216">I'll get the conduits shut down right away.</text>
+		<text bitflag="1360" id1="627199" id2="17" version="1065353216">Sounds good.</text>
+		<text bitflag="1360" id1="627200" id2="17" version="1065353216">I don't know.</text>
+		<text bitflag="1360" id1="627201" id2="17" version="1065353216">You call that a plan?</text>
+		<text bitflag="1345" id1="627202" id2="17" version="1065353216">Who's the chief engineer here? Shutting down all of the secondary conduits will get the bridge open, no doubt about it.</text>
+		<text bitflag="1345" id1="627204" id2="17" version="1065353216">There's no time to go running all over the ship. If we don't act now, the Imperials will overwhelm us.</text>
+		<text bitflag="1345" id1="627206" id2="17" version="1065353216">I'm sorry, Salen. We need to unlock the bridge while we have the chance. We have to reset the reactor. You and your men will be remembered.</text>
+		<text bitflag="1345" id1="627207" id2="17" version="1065353216">We can't send these people to their deaths! Not when there's an alternative!</text>
+		<text bitflag="1360" id1="627207" id2="17" version="1065353216">We're not killing people.</text>
+		<text bitflag="1345" id1="627208" id2="17" version="1065353216">Fine. But you're dooming everyone on this ship. Sometimes, sacrifices have to be made for the greater good.</text>
+		<text bitflag="1345" id1="627209" id2="17" version="1065353216">We're trying to save the people on this ship, not kill them.</text>
+		<text bitflag="1360" id1="627209" id2="17" version="1065353216">The price is too high.</text>
+		<text bitflag="1360" id1="627210" id2="17" version="1065353216">I thought diplomats were nice.</text>
+		<text bitflag="1345" id1="627211" id2="17" version="1065353216">I'm practical. Nothing more.</text>
+		<text bitflag="1345" id1="627213" id2="17" version="1065353216">I make the decisions, Ambassador. Not you.</text>
+		<text bitflag="1360" id1="627213" id2="17" version="1065353216">Who's in charge here?</text>
+		<text bitflag="1345" id1="627214" id2="17" version="1065353216">Fine. Who am I to argue?</text>
+		<text bitflag="1345" id1="627216" id2="17" version="1065353216">Crazy witch! Shutting down the secondary conduits will work, I promise.</text>
+		<text bitflag="1345" id1="627218" id2="17" version="1065353216">If you're going to do it, go now. The longer you wait, the more Imperials you'll have after you.</text>
+		<text bitflag="1345" id1="627220" id2="17" version="1065353216">Resetting the reactor is the only way to be sure.</text>
+		<text bitflag="1360" id1="627220" id2="17" version="1065353216">Engineers die, the rest live.</text>
+		<text bitflag="1345" id1="627221" id2="17" version="1065353216">No! Get away from that control! Have you lost your mind?</text>
+		<text bitflag="1345" id1="627223" id2="17" version="1065353216">I'm sorry. But sometimes sacrifices have to be made for the greater good.</text>
+		<text bitflag="1345" id1="627227" id2="17" version="1065353216">Ahh!</text>
+		<text bitflag="1345" id1="627229" id2="17" version="1065353216">We're busy right now, all right?</text>
+	</file_content>
+</stb_file>

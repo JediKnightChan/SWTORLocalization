@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>81</strs>
+		<file_name>/resources/en-us/str/gui/instance.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="221632" version="1065353216">You are not allowed in this instance</text>
+		<text bitflag="321" id1="2" id2="221632" version="1065353216">This instance is busy - try again later</text>
+		<text bitflag="321" id1="3" id2="221632" version="1065353216">The owner of this instance has left</text>
+		<text bitflag="321" id1="4" id2="221632" version="1065353216">You have left the instance</text>
+		<text bitflag="321" id1="5" id2="221632" version="1065353216">Ejected for unknown reason</text>
+		<text bitflag="321" id1="6" id2="221632" version="1065353216">Only one &lt;&lt;1&gt;&gt; is allowed in this phase.</text>
+		<text bitflag="321" id1="7" id2="221632" version="1065353216">You must be on the appropriate &lt;&lt;1&gt;&gt; mission to enter.</text>
+		<text bitflag="321" id1="8" id2="221632" version="1065353216">Anyone can enter.</text>
+		<text bitflag="321" id1="9" id2="221632" version="1065353216">You can help &lt;&lt;1&gt;&gt; by going in.</text>
+		<text bitflag="321" id1="10" id2="221632" version="1065353216">You can help &lt;&lt;1&gt;&gt; or &lt;&lt;2&gt;&gt; by going in.</text>
+		<text bitflag="321" id1="11" id2="221632" version="1065353216">You can help &lt;&lt;1&gt;&gt;, &lt;&lt;2&gt;&gt; or &lt;&lt;3&gt;&gt; by going in.</text>
+		<text bitflag="321" id1="12" id2="221632" version="1065353216">You can enter a new instance to progress your missions. You may also help &lt;&lt;1&gt;&gt; by joining them.</text>
+		<text bitflag="321" id1="13" id2="221632" version="1065353216">You can enter a new instance to progress your missions. You may also help &lt;&lt;1&gt;&gt; or &lt;&lt;2&gt;&gt; by joining them.</text>
+		<text bitflag="321" id1="14" id2="221632" version="1065353216">You can enter a new instance to progress your missions. You may also help &lt;&lt;1&gt;&gt;, &lt;&lt;2&gt;&gt; or &lt;&lt;3&gt;&gt; by joining them.</text>
+		<text bitflag="321" id1="15" id2="221632" version="1065353216">Only one &lt;&lt;1&gt;&gt; is allowed to advance their missions in this phase.</text>
+		<text bitflag="321" id1="16" id2="221632" version="1065353216">&lt;&lt;1&gt;&gt; Phase</text>
+		<text bitflag="321" id1="17" id2="221632" version="1065353216">Group Phase</text>
+		<text bitflag="321" id1="18" id2="221632" version="1065353216">Estimated average time to complete is &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="100" id2="221632" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; contains no friends, guildmates or group members.&lt;br&gt;&lt;br&gt;Do you want to shuttle there?</text>
+		<text bitflag="321" id1="101" id2="221632" version="1065353216">&lt;&lt;1&gt;&gt; is on your planet but in another instance. You will be able to travel there when out of combat.</text>
+		<text bitflag="321" id1="102" id2="221632" version="1065353216">Travel when out of combat</text>
+		<text bitflag="321" id1="103" id2="221632" version="1065353216">&lt;&lt;1&gt;&gt; is on your planet but in another instance. Do you want to shuttle there?</text>
+		<text bitflag="321" id1="104" id2="221632" version="1065353216">Your group leader is on your planet but in another instance. You will be able to travel there when out of combat.</text>
+		<text bitflag="321" id1="105" id2="221632" version="1065353216">Your group leader is on your planet but in another instance. Do you want to shuttle there?</text>
+		<text bitflag="321" id1="106" id2="221632" version="1065353216">Many members of your guild are on your planet but in another instance. You will be able to travel there when out of combat.</text>
+		<text bitflag="321" id1="107" id2="221632" version="1065353216">Many members of your guild are on your planet but in another instance. Do you want to shuttle there?</text>
+		<text bitflag="321" id1="108" id2="221632" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; contains:&lt;br&gt;</text>
+		<text bitflag="321" id1="109" id2="221632" version="1065353216">&lt;&lt;1&gt;&gt; Guildmates&lt;br&gt;</text>
+		<text bitflag="321" id1="110" id2="221632" version="1065353216">&lt;&lt;1&gt;&gt; Groupmates&lt;br&gt;</text>
+		<text bitflag="321" id1="111" id2="221632" version="1065353216">&lt;&lt;1&gt;&gt; Friends&lt;br&gt;</text>
+		<text bitflag="321" id1="112" id2="221632" version="1065353216">&lt;br&gt;Do you want to shuttle there?</text>
+		<text bitflag="321" id1="113" id2="221632" version="1065353216">Instance is full. You may not travel there at this time.</text>
+		<text bitflag="321" id1="114" id2="221632" version="1065353216">You may not travel to that instance at this time.</text>
+		<text bitflag="321" id1="115" id2="221632" version="1065353216">You may not travel while in combat.</text>
+		<text bitflag="321" id1="116" id2="221632" version="1065353216">You may not travel right now.</text>
+		<text bitflag="321" id1="117" id2="221632" version="1065353216">&lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt;)</text>
+		<text bitflag="321" id1="118" id2="221632" version="1065353216">Your instance is not accepting new players, but your new group member is in another instance on your planet. You will be able to travel to them when out of combat.</text>
+		<text bitflag="321" id1="119" id2="221632" version="1065353216">Your instance is not accepting new players, but your new group member is in another instance on your planet. Do you want to shuttle there?</text>
+		<text bitflag="321" id1="120" id2="221632" version="1065353216">This instance will be shut down in &lt;&lt;1&gt;&gt;. Please choose a new instance from the world map.</text>
+		<text bitflag="321" id1="121" id2="221632" version="1065353216">TRAVEL</text>
+		<text bitflag="321" id1="122" id2="221632" version="1065353216">You are no longer allowed in this phase. You will be ejected in &lt;&lt;1&gt;&gt; seconds.</text>
+		<text bitflag="321" id1="123" id2="221632" version="1065353216">CHANGE INSTANCE?</text>
+		<text bitflag="321" id1="124" id2="221632" version="1065353216">YES</text>
+		<text bitflag="321" id1="125" id2="221632" version="1065353216">NO</text>
+		<text bitflag="321" id1="126" id2="221632" version="1065353216">Taking this shuttle to &lt;&lt;1&gt;&gt;[&lt;&lt;2&gt;&gt;] will transport your character to this instance and start a cooldown for this feature.</text>
+		<text bitflag="321" id1="127" id2="221632" version="1065353216">Adventuring on &lt;&lt;1&gt;&gt;[&lt;&lt;2&gt;&gt;]:</text>
+		<text bitflag="321" id1="128" id2="221632" version="1065353216">Guildmates:</text>
+		<text bitflag="321" id1="129" id2="221632" version="1065353216">Group Members:</text>
+		<text bitflag="321" id1="130" id2="221632" version="1065353216">Friends:</text>
+		<text bitflag="321" id1="131" id2="221632" version="1065353216">You are currently adventuring on the selected instance.</text>
+		<text bitflag="321" id1="132" id2="221632" version="1065353216">Requesting transfer to area instance &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="133" id2="221632" version="1065353216">usage: /transfer travel [instance] - Transfer to the instance number specified.</text>
+		<text bitflag="321" id1="134" id2="221632" version="1065353216">Cannot enter phase while in combat.</text>
+		<text bitflag="321" id1="135" id2="221632" version="1065353216">Enemy reinforcements arriving.</text>
+		<text bitflag="321" id1="136" id2="221632" version="1065353216">This flashpoint does not support Veteran Difficulty Mode.</text>
+		<text bitflag="321" id1="137" id2="221632" version="1065353216">You are not eligible to enter at this time.</text>
+		<text bitflag="321" id1="138" id2="221632" version="1065353216">Instance depopulating. You may not travel there at this time.</text>
+		<text bitflag="321" id1="257" id2="221632" version="1065353216">You are about to be taken to &lt;&lt;1&gt;&gt;'s ship</text>
+		<text bitflag="321" id1="258" id2="221632" version="1065353216">You need to own your own ship before you can visit &lt;&lt;1&gt;&gt;'s ship</text>
+		<text bitflag="321" id1="259" id2="221632" version="1065353216">You are no longer allowed in this phase.</text>
+		<text bitflag="321" id1="260" id2="221632" version="1065353216">Imperial Phase</text>
+		<text bitflag="321" id1="261" id2="221632" version="1065353216">Republic Phase</text>
+		<text bitflag="321" id1="262" id2="221632" version="1065353216">You must be the appropriate faction to enter.</text>
+		<text bitflag="321" id1="263" id2="221632" version="1065353216">Personal Phase for &lt;&lt;1&gt;&gt; or &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="264" id2="221632" version="1065353216">Personal Phase for &lt;&lt;1&gt;&gt;, &lt;&lt;2&gt;&gt;, or &lt;&lt;3&gt;&gt;.</text>
+		<text bitflag="321" id1="265" id2="221632" version="1065353216">Personal Phase</text>
+		<text bitflag="321" id1="266" id2="221632" version="1065353216">You must be on the appropriate mission to enter.</text>
+		<text bitflag="321" id1="267" id2="221632" version="1065353216">Only one player is allowed to advance their quests in this phase.</text>
+		<text bitflag="321" id1="268" id2="221632" version="1065353216">Any other player with the same class requirements will not be allowed in this phase.</text>
+		<text bitflag="321" id1="269" id2="221632" version="1065353216">Grouped players will have the choice of either entering their own phase or joining an existing phase as a spectator.</text>
+		<text bitflag="321" id1="272" id2="221632" version="1065353216">Joining a group member's phase will not progress your own quest.</text>
+		<text bitflag="321" id1="273" id2="221632" version="1065353216">The owner of this instance has left. You will be removed in &lt;&lt;1&gt;&gt; seconds</text>
+		<text bitflag="321" id1="274" id2="221632" version="1065353216">You may not change your focus while in combat.</text>
+		<text bitflag="321" id1="275" id2="221632" version="1065353216">You are choosing to set your focus to PVP. Are you sure you want to travel to a PVP instance?</text>
+		<text bitflag="321" id1="276" id2="221632" version="1065353216">You are choosing to set your focus to PVE. Are you sure you want to travel to a PVE instance?</text>
+		<text bitflag="321" id1="277" id2="221632" version="1065353216">Taking this shuttle to &lt;&lt;1&gt;&gt;[&lt;&lt;2&gt;&gt;] will transport your character to this instance, change your focus to PVP, and start a cooldown for this feature.  Are you sure you want to enter a PVP area?</text>
+		<text bitflag="321" id1="278" id2="221632" version="1065353216">- PVP</text>
+		<text bitflag="321" id1="279" id2="221632" version="1065353216">This is a PVP instance. You may be attacked by other players.</text>
+		<text bitflag="321" id1="280" id2="221632" version="1065353216">Your group leader is on your planet but in another instance. Do you want to shuttle there? &lt;br&gt; This will change your focus to PVP and place you in a PVP area.</text>
+		<text bitflag="321" id1="281" id2="221632" version="1065353216">Your instance is not accepting new players, but your new group member is in another instance on your planet. Do you want to shuttle there?  &lt;br&gt; This will change your focus to PVP and place you in a PVP area.</text>
+		<text bitflag="321" id1="282" id2="221632" version="1065353216">Many members of your guild are on your planet but in another instance. Do you want to shuttle there?  &lt;br&gt; This will change your focus to PVP, and place you in a PVP instance.</text>
+	</file_content>
+</stb_file>

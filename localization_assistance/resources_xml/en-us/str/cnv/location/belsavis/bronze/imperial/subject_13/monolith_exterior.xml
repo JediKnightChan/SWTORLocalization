@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/bronze/imperial/subject_13/monolith_exterior.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="552469" id2="17" version="1065353216">[The monolith pulses with an unknown energy. Do you wish to touch it?]</text>
+		<text bitflag="336" id1="552470" id2="17" version="1065353216">[Yes]</text>
+		<text bitflag="321" id1="552471" id2="17" version="1065353216">[You reach forward and touch the monolith.]</text>
+		<text bitflag="321" id1="552472" id2="17" version="1065353216">[Together, you lay your hands upon the monolith.]</text>
+		<text bitflag="336" id1="552476" id2="17" version="1065353216">[No]</text>
+		<text bitflag="321" id1="552477" id2="17" version="1065353216">[You step back from the monolith.]</text>
+	</file_content>
+</stb_file>

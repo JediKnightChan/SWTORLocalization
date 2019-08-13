@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/world/breakthrough/sis_agent.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="710191" id2="17" version="1065353216">Mayday! Mayday! Can anyone read me?</text>
+		<text bitflag="1345" id1="710193" id2="17" version="1065353216">Comm's blocked. That blasted satellite! Wasn't enough to shoot me down....</text>
+		<text bitflag="1345" id1="710195" id2="17" version="1065353216">The Empire's on the ground already. They'll search the ship, find the intel....</text>
+		<text bitflag="1345" id1="710197" id2="17" version="1065353216">I'm blasting the intel out with the garbage. That ought to keep the Imperials busy.</text>
+		<text bitflag="1345" id1="710199" id2="17" version="1065353216">The intel's away! I'm going down--</text>
+		<text bitflag="321" id1="710207" id2="17" version="1065353216">[The distress call cuts off abruptly.]</text>
+		<text bitflag="321" id1="710208" id2="17" version="1065353216">[The decrypter has activated a recorded distress call from the dead SIS agent.]</text>
+		<text bitflag="321" id1="710209" id2="17" version="1065353216">[There is a recording on this SIS agent's body, but the message is garbled and unintelligible.]</text>
+		<text bitflag="1345" id1="764379" id2="17" version="1065353216">[This data recorder seems to have come from Agent Jago's ship. The decrypter activates a recorded distress call.]</text>
+		<text bitflag="1345" id1="764380" id2="17" version="1065353216">[The distress call ends abruptly. There is nothing you can do for Agent Jago, but his intel may still be in the area.]</text>
+		<text bitflag="1345" id1="764381" id2="17" version="1065353216">[This data recorder seems to have come from the crashed ship nearby. It cannot be activated at this time.]</text>
+	</file_content>
+</stb_file>

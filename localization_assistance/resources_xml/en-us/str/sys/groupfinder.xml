@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>93</strs>
+		<file_name>/resources/en-us/str/sys/groupfinder.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="257" id2="683198" version="1065353216">Activity finder has found a match for your group. Would you like to join?</text>
+		<text bitflag="321" id1="258" id2="683198" version="1065353216">Activity Finder</text>
+		<text bitflag="321" id1="260" id2="683198" version="1065353216">A potential group member has declined the invite. You will be placed at the top of the activity finder queue.</text>
+		<text bitflag="321" id1="261" id2="683198" version="1065353216">Your activity finder invite has expired. You have been removed from the queue.</text>
+		<text bitflag="321" id1="262" id2="683198" version="1065353216">A potential group member did not respond to the activity finder invitation. You will be placed at the top of the activity finder queue.</text>
+		<text bitflag="321" id1="263" id2="683198" version="1065353216">A shuttle to your destination is available.
+
+Would you like to travel now?</text>
+		<text bitflag="321" id1="264" id2="683198" version="1065353216">The activity finder invitation has expired. Your group has been removed from the queue.</text>
+		<text bitflag="321" id1="265" id2="683198" version="1065353216">A group member did not respond to the activity finder invitation. Your group has been removed from the queue.</text>
+		<text bitflag="321" id1="266" id2="683198" version="1065353216">You declined the activity finder invitation and have been removed from the queue.</text>
+		<text bitflag="321" id1="267" id2="683198" version="1065353216">You have declined the activity finder invitation for your group. Your group has been removed from the activity finder queue.</text>
+		<text bitflag="321" id1="268" id2="683198" version="1065353216">A group member has declined the activity finder invitation. Your group has been removed from the queue.</text>
+		<text bitflag="321" id1="269" id2="683198" version="1065353216">Your group has been removed from the activity finder queue.</text>
+		<text bitflag="321" id1="270" id2="683198" version="1065353216">You are no longer in the activity finder queue.</text>
+		<text bitflag="321" id1="271" id2="683198" version="1065353216">Your group has been added to the activity finder queue.</text>
+		<text bitflag="321" id1="272" id2="683198" version="1065353216">You have been added to the activity finder queue.</text>
+		<text bitflag="321" id1="273" id2="683198" version="1065353216">You are ineligible for the selected activity finder destination.</text>
+		<text bitflag="321" id1="274" id2="683198" version="1065353216">Your group is ineligible for the selected activity finder destination.</text>
+		<text bitflag="321" id1="275" id2="683198" version="1065353216">You cannot enter the queue while your group is actively progressing through your current location.</text>
+		<text bitflag="321" id1="276" id2="683198" version="1065353216">Your group cannot enter or leave the queue while there are outstanding group member invites.</text>
+		<text bitflag="321" id1="277" id2="683198" version="1065353216">Flashpoints</text>
+		<text bitflag="321" id1="278" id2="683198" version="1065353216">Operations</text>
+		<text bitflag="321" id1="279" id2="683198" version="1065353216">Flashpoints</text>
+		<text bitflag="321" id1="280" id2="683198" version="1065353216">Planetary Destination</text>
+		<text bitflag="321" id1="281" id2="683198" version="1065353216">Currently unable to join the activity finder queue.</text>
+		<text bitflag="321" id1="282" id2="683198" version="1065353216">Your group is not valid for the selected destination.</text>
+		<text bitflag="321" id1="283" id2="683198" version="1065353216">A shuttle to your destination is available.
+
+Would you like to travel now?</text>
+		<text bitflag="321" id1="284" id2="683198" version="1065353216">You have completed the location matched through activity finder.</text>
+		<text bitflag="321" id1="285" id2="683198" version="1065353216">The activity finder destination is available.</text>
+		<text bitflag="321" id1="286" id2="683198" version="1065353216">A group has been matched to your selected destination.</text>
+		<text bitflag="321" id1="288" id2="683198" version="1065353216">You may not enter the activity finder queue because you have the maximum number of allowed missions in your mission log.</text>
+		<text bitflag="321" id1="289" id2="683198" version="1065353216">Heal</text>
+		<text bitflag="321" id1="290" id2="683198" version="1065353216">Damage</text>
+		<text bitflag="321" id1="291" id2="683198" version="1065353216">Tank</text>
+		<text bitflag="321" id1="292" id2="683198" version="1065353216">You may not enter the activity finder queue while group members are offline.</text>
+		<text bitflag="321" id1="293" id2="683198" version="1065353216">A member has abandoned your group. As group leader, you can re-queue your group and quickly replace the lost group member.</text>
+		<text bitflag="321" id1="294" id2="683198" version="1065353216">A potential group member was offline when the activity finder group was ready to begin. You have been returned to the activity finder queue at your previous position.</text>
+		<text bitflag="321" id1="295" id2="683198" version="1065353216">A group member was offline when the activity finder destination was ready. Your group has been removed from the queue.</text>
+		<text bitflag="321" id1="296" id2="683198" version="1065353216">You currently have an active phase and may not queue for activity finder until it is reset. You can reset your active phases from your portrait menu.</text>
+		<text bitflag="321" id1="297" id2="683198" version="1065353216">Master Mode Flashpoints</text>
+		<text bitflag="321" id1="298" id2="683198" version="1065353216">You have left a group while it was in-progress and have been locked out of activity finder . You may not queue again until your lockout timer expires.</text>
+		<text bitflag="321" id1="299" id2="683198" version="1065353216">You have not been added to the activity finder queue.</text>
+		<text bitflag="321" id1="300" id2="683198" version="1065353216">Your group has not been added to the activity finder queue.</text>
+		<text bitflag="321" id1="301" id2="683198" version="1065353216">Your group member &lt;&lt;1&gt;&gt; has a full mission log. You may not queue for a activity finder destination while the mission log is full.</text>
+		<text bitflag="321" id1="302" id2="683198" version="1065353216">Your group member &lt;&lt;1&gt;&gt; is ineligible for this location: &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="303" id2="683198" version="1065353216">You are ineligible for this location: &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="304" id2="683198" version="1065353216">Your group member &lt;&lt;1&gt;&gt; is locked out of activity finder for leaving. The group cannot queue until the lock out expires or the group member leaves the group.</text>
+		<text bitflag="321" id1="305" id2="683198" version="1065353216">You have left a group while it was in-progress and have been locked out of activity finder. You may not queue again until your lock out timer expires.</text>
+		<text bitflag="321" id1="306" id2="683198" version="1065353216">[MASTER]</text>
+		<text bitflag="321" id1="307" id2="683198" version="1065353216">Your group has been placed into the activity finder queue to find replacement players. Your group is in queue at a higher priority.</text>
+		<text bitflag="321" id1="308" id2="683198" version="1065353216">Your activity finder role is now set to:</text>
+		<text bitflag="321" id1="309" id2="683198" version="1065353216">Your activity finder roles are now set to:</text>
+		<text bitflag="321" id1="311" id2="683198" version="1065353216">You are ineligible for this selection.</text>
+		<text bitflag="321" id1="312" id2="683198" version="1065353216">You have conflicting missions for this destination: &lt;&lt;1&gt;&gt;. Activity Finder can remove the conflict so that you may queue for the selected destination.
+
+Note: Any removed mission can be obtained from the original mission giver.</text>
+		<text bitflag="321" id1="314" id2="683198" version="1065353216">Travel Now</text>
+		<text bitflag="321" id1="315" id2="683198" version="1065353216">Travel Later</text>
+		<text bitflag="321" id1="316" id2="683198" version="1065353216">The shuttle to your destination can be accessed at any time by clicking on the activity finder button.</text>
+		<text bitflag="321" id1="317" id2="683198" version="1065353216">Currently in queue for: &lt;&lt;1&gt;&gt;(&lt;&lt;2&gt;&gt;), &lt;&lt;3&gt;&gt;(&lt;&lt;4&gt;&gt;), &lt;&lt;5&gt;&gt;(&lt;&lt;6&gt;&gt;), &lt;&lt;7&gt;&gt;(&lt;&lt;8&gt;&gt;), &lt;&lt;9&gt;&gt;(&lt;&lt;10&gt;&gt;)</text>
+		<text bitflag="321" id1="318" id2="683198" version="1065353216">Shuttle to &lt;&lt;1&gt;&gt; is now available.
+Selected Role: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="320" id2="683198" version="1065353216">Your group member &lt;&lt;1&gt;&gt; is in a warzone. You may not enter the activity finder queue.</text>
+		<text bitflag="321" id1="321" id2="683198" version="1065353216">You may not enter the activity finder queue while in a warzone.</text>
+		<text bitflag="321" id1="322" id2="683198" version="1065353216">A shuttle to your destination is available.You may travel when combat has ended.</text>
+		<text bitflag="321" id1="323" id2="683198" version="1065353216">Activity Finder is searching for a replacement group member.</text>
+		<text bitflag="321" id1="324" id2="683198" version="1065353216">Your position in the activity finder queue is paused while a groupmate is disconnected.</text>
+		<text bitflag="321" id1="325" id2="683198" version="1065353216">Your position in the activity finder queue is no longer paused.</text>
+		<text bitflag="321" id1="326" id2="683198" version="1065353216">Your position in the activity finder queue is no longer paused.</text>
+		<text bitflag="321" id1="328" id2="683198" version="1065353216">FLASHPOINT</text>
+		<text bitflag="321" id1="330" id2="683198" version="1065353216">You may not invite another player to your group while you are in a activity finder queue. Please leave the queue to invite someone to your group.</text>
+		<text bitflag="321" id1="331" id2="683198" version="1065353216">You may not convert your group to an Operations group while in a activity finder queue. Please leave the queue to convert to an Operations group.</text>
+		<text bitflag="321" id1="332" id2="683198" version="1065353216">The player you are trying to invite is currently in the activity finder queue. Please ask them to leave the activity finder queue and then send the invitation again.</text>
+		<text bitflag="321" id1="333" id2="683198" version="1065353216">You may not invite players to join a groupfinder formed group.</text>
+		<text bitflag="321" id1="334" id2="683198" version="1065353216">If you leave the queue, you will be unable to search for a replacement. To find a replacement you will need to enter the queue for a new version of your destination.</text>
+		<text bitflag="321" id1="336" id2="683198" version="1065353216">You have left the groupfinder destination. You may return to the destination quickly via the groupfinder button.</text>
+		<text bitflag="321" id1="337" id2="683198" version="1065353216">Exiting Activity Finder Destination</text>
+		<text bitflag="321" id1="338" id2="683198" version="1065353216">You are leaving the Activity Finder destination. Would you like to return to your previous location, or to the exit location for the destination?</text>
+		<text bitflag="321" id1="339" id2="683198" version="1065353216">Previous Location</text>
+		<text bitflag="321" id1="340" id2="683198" version="1065353216">Exit Location</text>
+		<text bitflag="321" id1="341" id2="683198" version="1065353216">You may not travel while in combat.</text>
+		<text bitflag="321" id1="342" id2="683198" version="1065353216">You cannot accept an invite to an ops group while in this region.</text>
+		<text bitflag="321" id1="343" id2="683198" version="1065353216">One of the potential group members was restricted from joining the ops group. You have been returned to the activity finder queue.</text>
+		<text bitflag="321" id1="344" id2="683198" version="1065353216">You could not join an ops group in your current region. You have been removed from the activity finder queue.</text>
+		<text bitflag="321" id1="345" id2="683198" version="1065353216">Travel to your selected destination has failed, please try again. If you continue to have difficulties, please rejoin the Activity Finder queue.</text>
+		<text bitflag="321" id1="348" id2="683198" version="1065353216">Flashpoints</text>
+		<text bitflag="321" id1="349" id2="683198" version="1065353216">Veteran Mode Flashpoints are action-packed, role-neutral instances balanced for a group of four players.  Players below the maximum level will be bolstered to the appropriate power level.</text>
+		<text bitflag="321" id1="350" id2="683198" version="1065353216">&lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt; - &lt;&lt;3&gt;&gt;)</text>
+		<text bitflag="321" id1="351" id2="683198" version="1065353216">&lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt;)</text>
+		<text bitflag="321" id1="352" id2="683198" version="1065353216">Cannot enter queue because you have the maximum number of allowed pending mission rewards.</text>
+		<text bitflag="321" id1="353" id2="683198" version="1065353216">Your group member &lt;&lt;1&gt;&gt; is at the pending mission rewards cap . You may not queue for the activity finder destination while at the pending mission rewards cap.</text>
+		<text bitflag="321" id1="354" id2="683198" version="1065353216">[VETERAN] Flashpoint</text>
+		<text bitflag="321" id1="355" id2="683198" version="1065353216">[MASTER] Flashpoint</text>
+		<text bitflag="321" id1="356" id2="683198" version="1065353216">[VETERAN] Uprising</text>
+		<text bitflag="321" id1="357" id2="683198" version="1065353216">[STORY] Uprising</text>
+		<text bitflag="321" id1="358" id2="683198" version="1065353216">[MASTER] Uprising</text>
+		<text bitflag="321" id1="359" id2="683198" version="1065353216">&lt;&lt;1&gt;&gt;: Requires Item Rating &lt;&lt;2&gt;&gt;</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>48</strs>
+		<file_name>/resources/en-us/str/cnv/spvp/companion/trooper/elara.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1122133" id2="17" version="1065353216">Perfect hit!</text>
+		<text bitflag="1345" id1="1122134" id2="17" version="1065353216">Excellent shot!</text>
+		<text bitflag="1345" id1="1122135" id2="17" version="1065353216">Enemy system disabled!</text>
+		<text bitflag="1345" id1="1122137" id2="17" version="1065353216">Primary weapons have been damaged!</text>
+		<text bitflag="1345" id1="1122139" id2="17" version="1065353216">Our secondary weapons are failing!</text>
+		<text bitflag="1345" id1="1122141" id2="17" version="1065353216">Auxiliary systems malfunctioning!</text>
+		<text bitflag="1345" id1="1122143" id2="17" version="1065353216">Defensive systems are losing power!</text>
+		<text bitflag="1345" id1="1122145" id2="17" version="1065353216">Tactical systems non-responsive!</text>
+		<text bitflag="1345" id1="1122147" id2="17" version="1065353216">Engine power is failing!</text>
+		<text bitflag="1345" id1="1122149" id2="17" version="1065353216">Target destroyed.</text>
+		<text bitflag="1345" id1="1122150" id2="17" version="1065353216">Enemy down.</text>
+		<text bitflag="1345" id1="1122151" id2="17" version="1065353216">Hostile neutralized.</text>
+		<text bitflag="1345" id1="1122153" id2="17" version="1065353216">We've been hit!</text>
+		<text bitflag="1345" id1="1122154" id2="17" version="1065353216">Taking fire!</text>
+		<text bitflag="1345" id1="1122155" id2="17" version="1065353216">We're hit!</text>
+		<text bitflag="1345" id1="1122157" id2="17" version="1065353216">Right away!</text>
+		<text bitflag="1345" id1="1122159" id2="17" version="1065353216">Understood!</text>
+		<text bitflag="1345" id1="1122161" id2="17" version="1065353216">Copy that!</text>
+		<text bitflag="1345" id1="1122163" id2="17" version="1065353216">Acknowledged!</text>
+		<text bitflag="1345" id1="1122165" id2="17" version="1065353216">Shield power is low!</text>
+		<text bitflag="1345" id1="1122166" id2="17" version="1065353216">We're about to lose shields!</text>
+		<text bitflag="1345" id1="1122167" id2="17" version="1065353216">Shields are near failure!</text>
+		<text bitflag="1345" id1="1122169" id2="17" version="1065353216">Hull damage is extensive!</text>
+		<text bitflag="1345" id1="1122170" id2="17" version="1065353216">We've sustained heavy damage!</text>
+		<text bitflag="1345" id1="1122171" id2="17" version="1065353216">The ship is barely holding together!</text>
+		<text bitflag="1345" id1="1122173" id2="17" version="1065353216">Enemy missile detected!</text>
+		<text bitflag="1345" id1="1122174" id2="17" version="1065353216">Incoming missile!</text>
+		<text bitflag="1345" id1="1122175" id2="17" version="1065353216">Enemy missile, incoming!</text>
+		<text bitflag="1345" id1="1122177" id2="17" version="1065353216">We have lock!</text>
+		<text bitflag="1345" id1="1122178" id2="17" version="1065353216">Missiles locked!</text>
+		<text bitflag="1345" id1="1122179" id2="17" version="1065353216">Locked on!</text>
+		<text bitflag="1345" id1="1122181" id2="17" version="1065353216">Enemy lock-on detected!</text>
+		<text bitflag="1345" id1="1122182" id2="17" version="1065353216">The enemy has missile lock!</text>
+		<text bitflag="1345" id1="1122183" id2="17" version="1065353216">Hostile missiles locked on!</text>
+		<text bitflag="1345" id1="1122185" id2="17" version="1065353216">Well done!</text>
+		<text bitflag="1345" id1="1122187" id2="17" version="1065353216">Impressive!</text>
+		<text bitflag="1345" id1="1122189" id2="17" version="1065353216">Exceptional!</text>
+		<text bitflag="1345" id1="1122191" id2="17" version="1065353216">Priority target identified!</text>
+		<text bitflag="1345" id1="1122193" id2="17" version="1065353216">Priority target destroyed!</text>
+		<text bitflag="1345" id1="1122195" id2="17" version="1065353216">The enemy won't forget this....</text>
+		<text bitflag="1345" id1="1122197" id2="17" version="1065353216">Stealth systems have failed!</text>
+		<text bitflag="1345" id1="1122199" id2="17" version="1065353216">Rolling!</text>
+		<text bitflag="1345" id1="1122201" id2="17" version="1065353216">Turning!</text>
+		<text bitflag="1345" id1="1122203" id2="17" version="1065353216">Diving!</text>
+		<text bitflag="1345" id1="1122205" id2="17" version="1065353216">Beginning maneuvers....</text>
+		<text bitflag="1345" id1="1122207" id2="17" version="1065353216">That should be useful.</text>
+		<text bitflag="1345" id1="1123132" id2="17" version="1065353216">Perfect.</text>
+		<text bitflag="1345" id1="1123133" id2="17" version="1065353216">Excellent.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>331</strs>
+		<file_name>/resources/en-us/str/gui/macrobinoculars.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="713795" version="1065353216">IDENTIFICATION: Encrypted Multiphasic Data Relay</text>
+		<text bitflag="321" id1="257" id2="713795" version="1065353216">IDENTIFICATION: MCR-99 Espionage Droid</text>
+		<text bitflag="321" id1="258" id2="713795" version="1065353216">Evie Bo: Hey--that's one of the Shroud's spy droids. Won't help us triangulate anything, but keep an eye out for more of them suckers.</text>
+		<text bitflag="321" id1="259" id2="713795" version="1065353216">Deena Riss: That won't help us triangulate anything--but, you know, that is one of the Shroud's spy droids. Keep an eye out for more of those--they'll be worth tracking.</text>
+		<text bitflag="321" id1="260" id2="713795" version="1065353216">OBJECTIVE CONFIRMATION: Target identified as Shroud espionage droid and flagged for further observation.</text>
+		<text bitflag="321" id1="261" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+-- wavelength patterns suggest shielding deficiencies --</text>
+		<text bitflag="321" id1="262" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded: 
+-- checking all political chatter against known code words --</text>
+		<text bitflag="321" id1="263" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded: 
+-- sleeper agents scheduled for reawakening --</text>
+		<text bitflag="321" id1="264" id2="713795" version="1065353216">Deena Riss: There you go. That's just what we're looking for. Good work.</text>
+		<text bitflag="321" id1="265" id2="713795" version="1065353216">Evie Bo: Yep, that's it--that's exactly what you're looking for. Keep at it.</text>
+		<text bitflag="321" id1="266" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--wavelength patterns suggest shielding deficiencies--</text>
+		<text bitflag="321" id1="267" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--checking all political chatter against known code words--</text>
+		<text bitflag="321" id1="268" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--sleeper agents scheduled for reawakening--</text>
+		<text bitflag="321" id1="269" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--cantina on Coruscant has been compromised--</text>
+		<text bitflag="321" id1="270" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--EV-2 Macrobinoculars acquired and utilized--</text>
+		<text bitflag="321" id1="271" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--confirm rumors of Hutt activities on Corellia--</text>
+		<text bitflag="321" id1="272" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--rakghoul intelligence quotient increasing steadily--</text>
+		<text bitflag="321" id1="273" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--cantina on Coruscant has been compromised--</text>
+		<text bitflag="321" id1="274" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--EV-2 Macrobinoculars acquired and utilized--</text>
+		<text bitflag="321" id1="275" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--confirm rumors of Hutt activities on Corellia--</text>
+		<text bitflag="321" id1="276" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--rakghoul intelligence quotient increasing steadily--</text>
+		<text bitflag="321" id1="277" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--tracking Czerka invoices for deviations from standard operations--</text>
+		<text bitflag="321" id1="278" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--checking local network hubs for signs of unauthorized access--</text>
+		<text bitflag="321" id1="279" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--proceed on schedule despite interference--</text>
+		<text bitflag="321" id1="280" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--reports obtained from area cantinas do confirm--</text>
+		<text bitflag="321" id1="281" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--Sandpeople genetic links investigated for potential exploitation--</text>
+		<text bitflag="321" id1="282" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--Jawa balloons too slow for weaponization--</text>
+		<text bitflag="321" id1="283" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--security measures at full strength--</text>
+		<text bitflag="321" id1="284" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--leave no evidence of purchases made--</text>
+		<text bitflag="321" id1="285" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--panic among officials but populace remains unaware--</text>
+		<text bitflag="321" id1="286" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--minimum casualty estimate in low eight figures--</text>
+		<text bitflag="321" id1="287" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--reconstruction will provide opportunities for surveillance installations--</text>
+		<text bitflag="321" id1="288" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--corporate destabilizations must be monitored--</text>
+		<text bitflag="321" id1="289" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded
+:--multiple government credit transfers logged--</text>
+		<text bitflag="321" id1="290" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--insecure comm channels detected throughout--</text>
+		<text bitflag="321" id1="291" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--increased starship traffic introducing difficulties--</text>
+		<text bitflag="321" id1="292" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--transferred to storage location determined by structural weaknesses--</text>
+		<text bitflag="321" id1="293" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--hyperroute logs retrieved without notice--</text>
+		<text bitflag="321" id1="294" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--Umbra encryption now easily accessible--</text>
+		<text bitflag="321" id1="295" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--redistributed probes yielding unexpected data from--</text>
+		<text bitflag="321" id1="296" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--outside vendor required for unique operational requirements--</text>
+		<text bitflag="321" id1="297" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--cross-check against statistics from Tatooine--</text>
+		<text bitflag="321" id1="298" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--immediate recording of all sensitive data--</text>
+		<text bitflag="321" id1="299" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--prisoner records offer many questions regarding--</text>
+		<text bitflag="321" id1="300" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--attempts to search the wreckage have been repelled--</text>
+		<text bitflag="321" id1="301" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--no truth to Hutt presence on Corellia--</text>
+		<text bitflag="321" id1="302" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--successful infiltration of House Organa has revealed--</text>
+		<text bitflag="321" id1="303" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--Rist operatives no longer available--</text>
+		<text bitflag="321" id1="304" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--continue observation of Panteer service staff--</text>
+		<text bitflag="321" id1="305" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--effect of weather conditions on attack remain inconclusive--</text>
+		<text bitflag="321" id1="306" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--operatives on Hoth eliminated as preventative measure--</text>
+		<text bitflag="321" id1="307" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--former Okara employees living under assumed names on--</text>
+		<text bitflag="321" id1="308" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--stakeout of Arcanum has proved difficult due to--</text>
+		<text bitflag="321" id1="309" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--effect of weather conditions on attack remain inconclusive--</text>
+		<text bitflag="321" id1="310" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--operatives on Hoth eliminated as preventative measure--</text>
+		<text bitflag="321" id1="311" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--former Okara employees living under assumed names on--</text>
+		<text bitflag="321" id1="312" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--stakeout of Arcanum has proved difficult due to--</text>
+		<text bitflag="321" id1="313" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--operative last spotted outside the Nightmare Lands--</text>
+		<text bitflag="321" id1="314" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--ruins provide confirmation of observational theories--</text>
+		<text bitflag="321" id1="315" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--Gormak has accepted payment for information regarding--</text>
+		<text bitflag="321" id1="316" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--questions surrounding unknown sample designated &quot;isotope-5&quot;--</text>
+		<text bitflag="321" id1="317" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--cannot be allowed to proceed any further--</text>
+		<text bitflag="321" id1="318" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--full stop on interplanetary communications--</text>
+		<text bitflag="321" id1="319" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--execute final stage upon receipt of authorization--</text>
+		<text bitflag="321" id1="320" id2="713795" version="1065353216">IDENTIFICATION: Artillery Storage Bunker</text>
+		<text bitflag="321" id1="321" id2="713795" version="1065353216">INTERNAL SCAN: Heavy weapon signatures detected, all matching Regulator equipment profiles.</text>
+		<text bitflag="321" id1="337" id2="713795" version="1065353216">IDENTIFICATION: Ray Shield Generator</text>
+		<text bitflag="321" id1="338" id2="713795" version="1065353216">SENSOR ANALYSIS: Energy flow pattern traced to nearby security door ray shields.</text>
+		<text bitflag="321" id1="339" id2="713795" version="1065353216">IDENTIFICATION: Ray-Shielded Security Door Controls</text>
+		<text bitflag="321" id1="340" id2="713795" version="1065353216">INTERNAL SCAN: Panel circuitry consistent with security locking systems. 
+
+WARNING: Ray shielding protects the entire mechanism.</text>
+		<text bitflag="321" id1="341" id2="713795" version="1065353216">IDENTIFICATION: Security Console</text>
+		<text bitflag="321" id1="342" id2="713795" version="1065353216">INTERNAL SCAN: Circuitry consistent with door control mechanisms.</text>
+		<text bitflag="321" id1="343" id2="713795" version="1065353216">IDENTIFICATION: Staged Generator Controls</text>
+		<text bitflag="321" id1="344" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Console controls incrementally adjust output of the surrounding Rakatan Generator.
+
+SENSOR ANALYSIS: Power flow traced to nearby laser defense grid.</text>
+		<text bitflag="321" id1="345" id2="713795" version="1065353216">IDENTIFICATION: Overload Inhibitor Panel</text>
+		<text bitflag="321" id1="346" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Safeguard mechanism preventing generator output levels from increasing above material tolerances.</text>
+		<text bitflag="321" id1="347" id2="713795" version="1065353216">IDENTIFICATION: Emergency Heat Sink</text>
+		<text bitflag="321" id1="348" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Failsafe device that vents excess thermal energy from the generator, preventing its output from overloading the system.</text>
+		<text bitflag="321" id1="349" id2="713795" version="1065353216">IDENTIFICATION: Red-Coded Security Sequencer</text>
+		<text bitflag="321" id1="350" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Input device for a color-coded security sequence.
+
+INFRARED ANALYSIS: Surface handprint consistent with Ortolan species.
+
+THERMAL SCAN--HANDPRINT: 20 degrees standard.</text>
+		<text bitflag="321" id1="351" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Input device for a color-coded security sequence.
+
+INFRARED ANALYSIS: Surface handprint consistent with Ortolan species.
+
+THERMAL SCAN--HANDPRINT: 31 degrees standard.</text>
+		<text bitflag="321" id1="352" id2="713795" version="1065353216">IDENTIFICATION: Green-Coded Security Sequencer</text>
+		<text bitflag="321" id1="353" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Input device for a color-coded security sequence.
+
+INFRARED ANALYSIS: Surface handprints consistent with Ortolan species. Two handprints identified.
+
+THERMAL SCAN--HANDPRINT 1: 27 degrees standard.
+
+THERMAL SCAN--HANDPRINT 2: 38 degrees standard.</text>
+		<text bitflag="321" id1="354" id2="713795" version="1065353216">IDENTIFICATION: Manual Security Override Panel</text>
+		<text bitflag="321" id1="355" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Console enabling direct manual override of the security lockdown.
+
+WARNING: Input of correct code sequence is required for operation.</text>
+		<text bitflag="321" id1="356" id2="713795" version="1065353216">IDENTIFICATION: Empty Cryoban Barrel</text>
+		<text bitflag="321" id1="357" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Industrial-grade chemical containment barrel.
+
+INTERNAL SCAN: Empty. Interior surface coated with cold-resistant materials.</text>
+		<text bitflag="321" id1="358" id2="713795" version="1065353216">IDENTIFICATION: Cryoban Storage Tank Controls</text>
+		<text bitflag="321" id1="359" id2="713795" version="1065353216">INTERNAL SCAN: Tank contains supercooled cryoban chemical solution.
+
+STRUCTURAL ANALYSIS: Tank connects to a series of pipes designed to carry cryoban liquid throughout the facility.</text>
+		<text bitflag="321" id1="360" id2="713795" version="1065353216">IDENTIFICATION: Reinforced Door</text>
+		<text bitflag="321" id1="361" id2="713795" version="1065353216">STRUCTURAL SCAN: Composed of a durasteel/cortosis alloy. Impervious to all known small arms.</text>
+		<text bitflag="321" id1="362" id2="713795" version="1065353216">IDENTIFICATION: Cryoban Barrel</text>
+		<text bitflag="321" id1="363" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Industrial-grade chemical containment barrel.
+
+INTERNAL SCAN: Contains cryoban chemical solution.
+
+REFERENCE--&quot;CRYOBAN&quot;: A supercooled liquid used for industrial and combat purposes. Capable of flash-freezing most materials instantly.</text>
+		<text bitflag="321" id1="364" id2="713795" version="1065353216">IDENTIFICATION: Transport Antenna</text>
+		<text bitflag="321" id1="365" id2="713795" version="1065353216">STRUCTURAL SCAN: Reinforced durasteel construction. Capable of serving as an anchor point for grapple guns, jetpack targeting relays, and Force-sensitive individuals.</text>
+		<text bitflag="321" id1="366" id2="713795" version="1065353216">IDENTIFICATION: Ray-Shielded Electrostatic Generator</text>
+		<text bitflag="321" id1="367" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Powers the ceiling-mounted electrostatic discharge array nearby.
+
+WARNING: Ray shielding protects the entire device.</text>
+		<text bitflag="321" id1="368" id2="713795" version="1065353216">IDENTIFICATION: Laser Grid Kinetic Override Switch</text>
+		<text bitflag="321" id1="369" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Manually deactivates one of the laser grids protecting the nearby elevator.
+
+WARNING: Deactivation is temporary!</text>
+		<text bitflag="321" id1="370" id2="713795" version="1065353216">IDENTIFICATION: Kinetic Override Switch</text>
+		<text bitflag="321" id1="371" id2="713795" version="1065353216">INTERNAL SCAN: Circuitry consistent with door locking systems.</text>
+		<text bitflag="321" id1="372" id2="713795" version="1065353216">IDENTIFICATION: Detached Lever</text>
+		<text bitflag="321" id1="373" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Manual pull-lever used to operate a mechanical switch.
+
+STRUCTURAL SCAN: Microfractures and material stresses indicate that this lever was forcibly removed from its intended mechanism.</text>
+		<text bitflag="321" id1="374" id2="713795" version="1065353216">IDENTIFICATION: Security Management Station</text>
+		<text bitflag="321" id1="375" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Operates most of the factory level security systems, doors, and defenses.</text>
+		<text bitflag="321" id1="376" id2="713795" version="1065353216">IDENTIFICATION: Loose Boulder</text>
+		<text bitflag="321" id1="377" id2="713795" version="1065353216">PETROLOGICAL ANALYSIS: 82% regotite, 18% chalcopyrite
+
+WARNING: Object is precariously balanced, and could fall if disturbed.</text>
+		<text bitflag="321" id1="378" id2="713795" version="1065353216">IDENTIFICATION: Ray-Shielded Defense Grid Generator</text>
+		<text bitflag="321" id1="379" id2="713795" version="1065353216">SENSOR ANALYSIS: Energy flow pattern traced to nearby laser defense grid.
+
+WARNING: Ray shielding protects the entire device.</text>
+		<text bitflag="321" id1="380" id2="713795" version="1065353216">IDENTIFICATION: Defense Grid Generator</text>
+		<text bitflag="321" id1="381" id2="713795" version="1065353216">SENSOR ANALYSIS: Energy flow pattern traced to nearby laser defense grid.</text>
+		<text bitflag="321" id1="382" id2="713795" version="1065353216">IDENTIFICATION: Ray-Shielded Security Holocamera</text>
+		<text bitflag="321" id1="383" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Security surveillance device.
+
+SIGNAL INTERCEPT: This holocamera is tracking your movements.
+
+WARNING: Ray shielding protects the entire device.</text>
+		<text bitflag="321" id1="384" id2="713795" version="1065353216">IDENTIFICATION: Pressure Valve Cap</text>
+		<text bitflag="321" id1="385" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Controls release of superheated steam through area pipe system.</text>
+		<text bitflag="321" id1="386" id2="713795" version="1065353216">IDENTIFICATION: Fragrant Sewer Fruit</text>
+		<text bitflag="321" id1="387" id2="713795" version="1065353216">BIOANALYSIS: Fruit growth. Toxic when consumed by most human and near-human species. Steadily releases non-toxic spores which carry a noticeable odor.
+
+REFERENCE--&quot;FRAGRANT SEWER FRUIT&quot;: Found only in the sewer ecosystems of the planet Quesh. Considered a delicacy by many Hutts.</text>
+		<text bitflag="321" id1="388" id2="713795" version="1065353216">IDENTIFICATION: Electrostatic Capacitor</text>
+		<text bitflag="321" id1="389" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Controls the storage and release of electricity into nearby control station's defenses.</text>
+		<text bitflag="321" id1="390" id2="713795" version="1065353216">IDENTIFICATION: Ray-Shielded Master Laser Grid Controls</text>
+		<text bitflag="321" id1="391" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Controls the large laser defense grid nearby.
+
+WARNING: Ray shielding protects the entire device.</text>
+		<text bitflag="321" id1="394" id2="713795" version="1065353216">IDENTIFICATION: Crushed Corpse</text>
+		<text bitflag="321" id1="395" id2="713795" version="1065353216">BIOANALYSIS: Human (Deceased)
+
+MORTALITY ASSESSMENT: Crushed to death by falling debris due to partial ceiling collapse.
+
+POSITIONAL SUPPOSITION: Subject may have been attempting to bypass the nearby laser defense grid at the time of death.</text>
+		<text bitflag="321" id1="396" id2="713795" version="1065353216">IDENTIFICATION: Alderaanian Weather Tower</text>
+		<text bitflag="321" id1="397" id2="713795" version="1065353216">SIGNAL INTERCEPT: Device is constantly collecting and relaying data on regional atmospheric conditions, including air chemical composition and ambient ionization.</text>
+		<text bitflag="321" id1="398" id2="713795" version="1065353216">IDENTIFICATION: House Thul Transmitter</text>
+		<text bitflag="321" id1="399" id2="713795" version="1065353216">IDENTIFICATION: House Alde Transmitter</text>
+		<text bitflag="321" id1="400" id2="713795" version="1065353216">IDENTIFICATION: House Organa Transmitter</text>
+		<text bitflag="321" id1="401" id2="713795" version="1065353216">IDENTIFICATION: House Rist Transmitter</text>
+		<text bitflag="321" id1="402" id2="713795" version="1065353216">SIGNAL INTERCEPT: Device is relaying holosignal traffic to and from the Great House.</text>
+		<text bitflag="321" id1="404" id2="713795" version="1065353216">IDENTIFICATION: Giant Red Thranta</text>
+		<text bitflag="321" id1="405" id2="713795" version="1065353216">SIGNAL DETECTION: This creature is carrying GSI surveillance equipment.</text>
+		<text bitflag="321" id1="406" id2="713795" version="1065353216">Click To Return</text>
+		<text bitflag="321" id1="407" id2="713795" version="1065353216">Click To Zoom</text>
+		<text bitflag="321" id1="408" id2="713795" version="1065353216">IDENTIFICATION: Crashed Ship</text>
+		<text bitflag="321" id1="409" id2="713795" version="1065353216">DAMAGE EXTRAPOLATION: This starship crashed at least in part due to unusual planetary factors.</text>
+		<text bitflag="321" id1="410" id2="713795" version="1065353216">IDENTIFICATION: Crashed Escape Pod</text>
+		<text bitflag="321" id1="411" id2="713795" version="1065353216">DATA ANALYSIS: This escape pod's logs contain detailed crash data.</text>
+		<text bitflag="321" id1="412" id2="713795" version="1065353216">IDENTIFICATION: Crashed Ship Debris</text>
+		<text bitflag="321" id1="413" id2="713795" version="1065353216">SENSOR ANALYSIS: Equipment scattered through this debris contains stolen GSI data.</text>
+		<text bitflag="321" id1="414" id2="713795" version="1065353216">INTERNAL SCAN: Panel circuitry consistent with security door locking systems.</text>
+		<text bitflag="321" id1="415" id2="713795" version="1065353216">IDENTIFICATION: Security Door Controls</text>
+		<text bitflag="321" id1="416" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Security surveillance device.
+
+SIGNAL INTERCEPT: This holocamera is tracking your movements.
+
+WARNING: Ray shielding protects the entire device.
+
+SENSOR ANALYSIS: Energy flow pattern traced to nearby room.</text>
+		<text bitflag="321" id1="417" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Controls nearby sewer gate.
+
+WARNING: Ray shielding protects the entire device.</text>
+		<text bitflag="321" id1="418" id2="713795" version="1065353216">IDENTIFICATION: Ray-Shielded Gate Controls</text>
+		<text bitflag="321" id1="419" id2="713795" version="1065353216">IDENTIFICATION: Power Conduit Access Panel</text>
+		<text bitflag="321" id1="420" id2="713795" version="1065353216">INTERNAL SCAN: Cables and circuitry for the facility's non-critical subsystems.
+
+ELECTROMAGNETIC ANALYSIS: Electrically active, but unconnected to nearby electrostatic defense array.</text>
+		<text bitflag="321" id1="421" id2="713795" version="1065353216">IDENTIFICATION: Electrostatic Generator</text>
+		<text bitflag="321" id1="422" id2="713795" version="1065353216">SENSOR ANALYSIS: Energy flow pattern traced to nearby electrostatic defense array.</text>
+		<text bitflag="321" id1="423" id2="713795" version="1065353216">IDENTIFICATION: Electrostatic Defense Array</text>
+		<text bitflag="321" id1="424" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Emits timed bursts of lethal electricity to deter potential intruders.</text>
+		<text bitflag="321" id1="425" id2="713795" version="1065353216">IDENTIFICATION: Yellow-Coded Security Sequencer</text>
+		<text bitflag="321" id1="426" id2="713795" version="1065353216">IDENTIFICATION: Electrical Junction Box</text>
+		<text bitflag="321" id1="427" id2="713795" version="1065353216">INTERNAL SCAN: Circuitry consistent with laser defense grid security systems.</text>
+		<text bitflag="321" id1="428" id2="713795" version="1065353216">IDENTIFICATION: Cryoban Flow Control Junction</text>
+		<text bitflag="321" id1="429" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Valve directing the flow of supercooled cryoban liquid through area storage system.
+
+INTERNAL SCAN: A light impact could toggle the internal flow control valve.</text>
+		<text bitflag="321" id1="430" id2="713795" version="1065353216">IDENTIFICATION: Weakened Cryoban Pipe</text>
+		<text bitflag="321" id1="431" id2="713795" version="1065353216">STRUCTURAL ANALYSIS: High internal pressure has placed significant material strain on this pipe.
+
+WARNING: Considerable risk of structural failure.</text>
+		<text bitflag="321" id1="432" id2="713795" version="1065353216">IDENTIFICATION: Reinforced Security Bulkhead</text>
+		<text bitflag="321" id1="433" id2="713795" version="1065353216">STRUCTURAL SCAN: Composed of a durasteel/cortosis alloy. Impervious to all known small arms.</text>
+		<text bitflag="321" id1="434" id2="713795" version="1065353216">IDENTIFICATION: Meteorite Fragment</text>
+		<text bitflag="321" id1="435" id2="713795" version="1065353216">SENSOR ANALYSIS: This meteorite contains a rare, extremely dense phobium variant.</text>
+		<text bitflag="321" id1="436" id2="713795" version="1065353216">IDENTIFICATION: Sandcrawler</text>
+		<text bitflag="321" id1="437" id2="713795" version="1065353216">VEHICULAR CROSS-REFERENCE: This sandcrawler matches the description of the one containing GSI's lost droids.</text>
+		<text bitflag="321" id1="438" id2="713795" version="1065353216">IDENTIFICATION: Light Bridge Control Console</text>
+		<text bitflag="321" id1="439" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Activates and deactivates nearby light bridge.</text>
+		<text bitflag="321" id1="440" id2="713795" version="1065353216">IDENTIFICATION: Maintenance Access Gate</text>
+		<text bitflag="321" id1="441" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Provides access to a maintenance corridor.
+
+SECURITY ANALYSIS: This gate is locked.</text>
+		<text bitflag="321" id1="442" id2="713795" version="1065353216">IDENTIFICATION: Light Bridge Energy Generator</text>
+		<text bitflag="321" id1="443" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Generator capable of providing half of the energy necessary to sustain nearby light bridge.</text>
+		<text bitflag="321" id1="444" id2="713795" version="1065353216">IDENTIFICATION: Light Bridge Security Lockout Station</text>
+		<text bitflag="321" id1="445" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: While active, console prevents access to any light bridge systems.</text>
+		<text bitflag="321" id1="446" id2="713795" version="1065353216">IDENTIFICATION: Lockout Station Maintenance Panel</text>
+		<text bitflag="321" id1="447" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Provides remote access to nearby security lockout station.</text>
+		<text bitflag="321" id1="448" id2="713795" version="1065353216">IDENTIFICATION: Open Pressure Release Valve</text>
+		<text bitflag="321" id1="449" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Vents excess system pressure.
+
+WARNING: This valve is generating a tremendous amount of upward force.</text>
+		<text bitflag="321" id1="450" id2="713795" version="1065353216">IDENTIFICATION: Ray Shield Control Console</text>
+		<text bitflag="321" id1="451" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Regulates power input to the Shroud's ray shield system.</text>
+		<text bitflag="321" id1="452" id2="713795" version="1065353216">IDENTIFICATION: Moisture Vaporator</text>
+		<text bitflag="321" id1="453" id2="713795" version="1065353216">SENSOR ANALYSIS: This moisture vaporator is significantly smaller than standard models.</text>
+		<text bitflag="321" id1="454" id2="713795" version="1065353216">SIGNAL INTERCEPT--FAILED: The encryption used for this tower's transmissions is highly sophisticated.</text>
+		<text bitflag="321" id1="455" id2="713795" version="1065353216">IDENTIFICATION: Sanctuary Transmission Tower</text>
+		<text bitflag="321" id1="456" id2="713795" version="1065353216">IDENTIFICATION: Seed of Rage Corruption Site</text>
+		<text bitflag="321" id1="457" id2="713795" version="1065353216">SENSOR ANALYSIS: Unidentified energy field detected. Exposure effects unknown--caution is advised.</text>
+		<text bitflag="321" id1="458" id2="713795" version="1065353216">IDENTIFICATION: GSI Dig Site</text>
+		<text bitflag="321" id1="459" id2="713795" version="1065353216">OBJECTIVE CONFIRMATION: This area matches objective data provided by GSI.</text>
+		<text bitflag="321" id1="460" id2="713795" version="1065353216">IDENTIFICATION: Potentially Valuable Excavation Zone</text>
+		<text bitflag="321" id1="461" id2="713795" version="1065353216">PROFIT ANALYSIS: GSI survey probe data indicates that something of value may be buried in this area.
+
+RECOMMENDATION: GSI Seeker Droids are an excellent choice for even the toughest excavations!</text>
+		<text bitflag="321" id1="462" id2="713795" version="1065353216">IDENTIFICATION: Regulator Anti-Aircraft Gun</text>
+		<text bitflag="321" id1="463" id2="713795" version="1065353216">TARGET ACQUISITION: Objective coordinates confirmed.
+
+WARNING: Incoming missile attack!</text>
+		<text bitflag="321" id1="468" id2="713795" version="1065353216">IDENTIFICATION: Communications Satellite Dish</text>
+		<text bitflag="321" id1="469" id2="713795" version="1065353216">SENSOR SCAN: Design profile matches known mercenary configuration.
+
+DATAFLOW EXTRAPOLATION: This device could facilitate triangulation of droid schematics requested by GSI.</text>
+		<text bitflag="321" id1="470" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Ancient technology capable of increasing natural attributes.
+
+INTERNAL SCAN: This datacron contains a colored Matrix Shard.
+
+REFERENCE--&quot;MATRIX SHARD&quot;: Colored crystalline shards which can be combined to produce beneficial effects to the user.</text>
+		<text bitflag="321" id1="471" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Ancient technology capable of increasing natural attributes.
+ 
+ATTRIBUTE CLASSIFICATION: Mastery</text>
+		<text bitflag="321" id1="472" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Ancient technology capable of increasing natural attributes.
+
+ATTRIBUTE CLASSIFICATION: Mastery</text>
+		<text bitflag="321" id1="473" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Ancient technology capable of increasing natural attributes.
+
+ATTRIBUTE CLASSIFICATION: Presence</text>
+		<text bitflag="321" id1="474" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Ancient technology capable of increasing natural attributes.
+
+ATTRIBUTE CLASSIFICATION: Endurance</text>
+		<text bitflag="321" id1="475" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Ancient technology capable of increasing natural attributes.
+
+ATTRIBUTE CLASSIFICATION: Mastery</text>
+		<text bitflag="321" id1="476" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Ancient technology capable of increasing natural attributes.
+
+ATTRIBUTE CLASSIFICATION: Mastery</text>
+		<text bitflag="321" id1="477" id2="713795" version="1065353216">IDENTIFICATION: Datacron</text>
+		<text bitflag="321" id1="478" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Ancient technology capable of increasing natural attributes.
+
+ATTRIBUTE CLASSIFICATION: Mastery</text>
+		<text bitflag="321" id1="479" id2="713795" version="1065353216">IDENTIFICATION: Lore Object</text>
+		<text bitflag="321" id1="480" id2="713795" version="1065353216">DATA ANALYSIS: This object contains potentially valuable educational data.</text>
+		<text bitflag="321" id1="481" id2="713795" version="1065353216">:: SCAN DATA ::</text>
+		<text bitflag="321" id1="482" id2="713795" version="1065353216">Current Position X: &lt;&lt;1&gt;&gt; Y: &lt;&lt;2&gt;&gt; Z: &lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="484" id2="713795" version="1065353216">N</text>
+		<text bitflag="321" id1="485" id2="713795" version="1065353216">S</text>
+		<text bitflag="321" id1="486" id2="713795" version="1065353216">E</text>
+		<text bitflag="321" id1="487" id2="713795" version="1065353216">W</text>
+		<text bitflag="321" id1="488" id2="713795" version="1065353216">IDENTIFICATION: Bio-Containment Canister</text>
+		<text bitflag="321" id1="489" id2="713795" version="1065353216">CONTENTS ASSESSMENT: Contains a potent bio-electrical gel effective known to temporarily stun biological beings on contact.
+
+MARKING ANALYSIS: Consistent with containers seen suppressing prisoners inside of the Arcanum.</text>
+		<text bitflag="321" id1="490" id2="713795" version="1065353216">IDENTIFICATION: Field Turret Power Generator</text>
+		<text bitflag="321" id1="491" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Capable of sustaining numerous sentry turrets once fully charged.
+
+ENERGY LEVEL ANALYSIS: Currently under-powered. Requires 8 fully-charged Universal Power Cells to operate.</text>
+		<text bitflag="321" id1="492" id2="713795" version="1065353216">IDENTIFICATION: Power Cell Charging Station</text>
+		<text bitflag="321" id1="493" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Recharges and dispenses Universal Power Cells that can be used to power many types of devices.</text>
+		<text bitflag="321" id1="494" id2="713795" version="1065353216">IDENTIFICATION: Portable Force Field Generator</text>
+		<text bitflag="321" id1="495" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Capable of producing a defensive force field. Requires Universal Power Cells to function.
+
+DEFENSIVE ANALYSIS: Damage taken by the forcefield will drain the generator's power cells. Power cells will need to be replaced if damage is critical.</text>
+		<text bitflag="321" id1="496" id2="713795" version="1065353216">IDENTIFICATION: Kathracite Force Crystal</text>
+		<text bitflag="321" id1="498" id2="713795" version="1065353216">IDENTIFICATION: Mephite Force Crystal</text>
+		<text bitflag="321" id1="500" id2="713795" version="1065353216">IDENTIFICATION: Pontite Force Crystal</text>
+		<text bitflag="321" id1="501" id2="713795" version="1065353216">DATALOG ANALYSIS: These crystals are documented as possessing an unusually high attunement to the Force. 
+
+WARNING: Crystals of the same color and wavelength can be used to cancel one another's energy.</text>
+		<text bitflag="321" id1="504" id2="713795" version="1065353216">IDENTIFICATION: Regulator Signal Jammer</text>
+		<text bitflag="321" id1="505" id2="713795" version="1065353216">TARGET ACQUISITION: Objective coordinates confirmed.
+
+WARNING: Incoming orbital strike!</text>
+		<text bitflag="321" id1="517" id2="713795" version="1065353216">IDENTIFICATION: Tangled Grove - Corrupted Tentacle Root Detected</text>
+		<text bitflag="321" id1="518" id2="713795" version="1065353216">DATA ANALYSIS: Seed-root responsible for corrupted tentacle growth detected within subsurface soil.</text>
+		<text bitflag="321" id1="519" id2="713795" version="1065353216">IDENTIFICATION: Corrupted Obelisk</text>
+		<text bitflag="321" id1="520" id2="713795" version="1065353216">ANALYSIS: Unnatural skyward outgrowth of crustal rock and hardwood roots. Phenomenon likely due to prolonged exposure to dark bioenergies.
+
+ASSESSMENT: Soil likely contains corrupted tentacle seed-root samples suitable for scientific analysis. Excavation highly recommended.</text>
+		<text bitflag="321" id1="521" id2="713795" version="1065353216">Bounty Seeker Probe</text>
+		<text bitflag="321" id1="522" id2="713795" version="1065353216">==SCAN REPORT==
+
+RESULT: POSITIVE
+
+-Probe data matching target parameters isolated.
+-Data insufficient to confirm target location.
+-Additional probe scans required to triangulate target location.
+-Data downloaded to tracking scanner.
+-Probe returning to base....</text>
+		<text bitflag="321" id1="523" id2="713795" version="1065353216">==SCAN REPORT==
+
+RESULT: POSITIVE
+
+-Probe data matching target parameters isolated.
+-Data confirms target location.
+-Coordinates downloaded to tracking scanner.
+-Probe returning to base....</text>
+		<text bitflag="321" id1="524" id2="713795" version="1065353216">==SCAN REPORT==
+
+RESULT: NEGATIVE
+
+-No target match found.
+-Scanning additional probes may yield better results.
+-Probe returning to base....</text>
+		<text bitflag="321" id1="534" id2="713795" version="1065353216">Czerka Email Datareader</text>
+		<text bitflag="321" id1="535" id2="713795" version="1065353216">TO: Czerka Sentient Resources
+FROM: Brendan Hillin
+SUBJECT: Formal Complaint FC-2A-8775
+
+I stored a tin of freshly baked warra nut cookies in the EMPLOYEE-ONLY refrigeration unit today. When I opened the tin this afternoon it was empty save for a holo of Doctor Faye, mouth full of my cookies. THIS IS THEFT. We cannot entrust vital biological research to a THIEF. FIRE HIM IMMEDIATELY.</text>
+		<text bitflag="321" id1="536" id2="713795" version="1065353216">TO: Czerka Sentient Resources
+FROM: Coro Lanra
+SUBJECT: Formal Complaint FC-2A-8798
+
+I left my security badge at my desk last week and got locked out of the lab. Fifteen years I've been working for Czerka, and the security guard acted like he didn't even know me. They had to call the director to verify my security clearance ON THE INTERCOM. I used to get adoring interns asking about my CZ-X32 Sublimation Matrix, but now they think it's funny to ask for my security badge when they see me getting a cup of caf.</text>
+		<text bitflag="321" id1="537" id2="713795" version="1065353216">TO: Czerka Staff - CZ-198
+FROM: Sentient Resources Department
+SUBJECT: Company Etiquette
+
+As Czerka is a professional company, I would not have expected this to be an issue, but apparently it needs to be stated. Please do not enter and use the refresher in front of our cleaning staff. If you see the cleaning sign, then please either locate another facility or just wait.
+
+Thanks,
+Hawek Yellip</text>
+		<text bitflag="321" id1="538" id2="713795" version="1065353216">TO: Hawek Yellip
+FROM: Chief Zokar
+SUBJECT: Request for transfer
+
+Consider this my formal request for transfer back to a security operations position. After that thing with Tatooine, I accepted that I'd have to take my licks. I think I've proven with this assignment that I am a team player and I want back into the show. With my training and experience, I should be back out there in the field where I can be most valuable for Czerka.</text>
+		<text bitflag="321" id1="539" id2="713795" version="1065353216">TO: Czerka Sentient Resources
+FROM: Thon Reemus
+SUBJECT: New posting
+
+My latest assignment is completely unacceptable. I have years of training, millions of credits of Czerka implants and six years of experience in the field. After what I've given this company, I deserve better than to be a glorified zoo keeper. Keeping these creatures from eating the environmental monitors is a waste of my talents.</text>
+		<text bitflag="321" id1="540" id2="713795" version="1065353216">LOG ENTRY 43983
+SUBMITTED BY: Foreman Gragov
+
+Refurbished the magnetizers on cargo units seven and eighteen. Crane three is pulling a bit slow, have to order a new motivator. Heard more noises down in waste disposal, but the administrators won't give me clearance to check it out. They'd better not whine to me when the 'freshers stop working.</text>
+		<text bitflag="321" id1="541" id2="713795" version="1065353216">TO: Alara Galir
+FROM: Enok Galir
+SUBJECT: I'm so sorry
+
+My Dearest Alara,
+
+I joined Czerka to try and make the galaxy a better place, but I fear that I may have helped to do the opposite. These monstrosities we've created haunt my dreams every night, and Rasmus wants us to take them further. I will likely never see you and your mother again, but the one hope I have is that you will never learn of what we've done. And if you do, then please forgive me.
+
+-Your loving father</text>
+		<text bitflag="321" id1="542" id2="713795" version="1065353216">LOG ENTRY 84657
+SUBMITTED BY: Doctor Kisadran
+
+The Flesh Raider has been integrated successfully into the network. The results are astounding and the possibilities are extraordinary. Unfortunately the specimen has killed three janitors and two technicians, so finding expendable staff to work on it directly is difficult. Rasmus has suggested Doctor Teak for the task, at least until he is inevitably terminated.</text>
+		<text bitflag="321" id1="543" id2="713795" version="1065353216">IDENTIFICATION: Drilling Beam</text>
+		<text bitflag="321" id1="544" id2="713795" version="1065353216">SCANNING DATA: Drill beam emitter contains data on the status of the core. Downloading data now.</text>
+		<text bitflag="321" id1="549" id2="713795" version="1065353216">IDENTIFICATION: Coded Transmitter</text>
+		<text bitflag="321" id1="550" id2="713795" version="1065353216">ANALYSIS: System consistent with fleet logistics coordination. Decryption of data requires cyclic code provided via secure antenna arrays.</text>
+		<text bitflag="321" id1="551" id2="713795" version="1065353216">IDENTIFICATION: Antenna Array</text>
+		<text bitflag="321" id1="552" id2="713795" version="1065353216">DATA ANALYSIS: Cyclic code segment recorded and acquired. Security signal source partially triangulated.</text>
+		<text bitflag="321" id1="553" id2="713795" version="1065353216">IDENTIFICATION: Tauntaun Nest</text>
+		<text bitflag="321" id1="554" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: Tauntauns keep their fawns in nests in order to protect them from the elements and from roaming predators. Animal trainers use nectar-rich fruits to befriend and study Tauntauns for the purpose of domestication.</text>
+		<text bitflag="321" id1="555" id2="713795" version="1065353216">IDENTIFICATION: THORN Navigation Beacon</text>
+		<text bitflag="321" id1="556" id2="713795" version="1065353216">RECONNECTED: Re-established connection between this beacon and THORN's tunnel navigation network.</text>
+		<text bitflag="321" id1="557" id2="713795" version="1065353216">IDENTIFICATION: Launch Staging Logistics - Coded Transmitter Detected</text>
+		<text bitflag="321" id1="558" id2="713795" version="1065353216">DATA ANALYSIS: Encrypted data transmission in progress. Closer inspection required for further analysis.</text>
+		<text bitflag="321" id1="559" id2="713795" version="1065353216">IDENTIFICATION: Narrow-Beam, Burst-Delivery Datastream.</text>
+		<text bitflag="321" id1="560" id2="713795" version="1065353216">DATA ANALYSIS: A coded set of coordinates delivered via extremely narrow beam to a specific region in three-dimensional space.</text>
+		<text bitflag="321" id1="561" id2="713795" version="1065353216">IDENTIFICATION: Republic Fighter with Revanite FF codes.</text>
+		<text bitflag="321" id1="562" id2="713795" version="1065353216">TARGET LOCKED: Firing!</text>
+		<text bitflag="321" id1="563" id2="713795" version="1065353216">IDENTIFICATION: Encrypted Multiphasic Data Relay</text>
+		<text bitflag="321" id1="564" id2="713795" version="1065353216">::Shroud Transmitter Identified::
+
+Partial Transmission Decoded:
+--nonviolent convergence of Imperial/Republic assets observed. Analysis Priority Level: Expedited. MCR-99 report detail to follow--</text>
+		<text bitflag="321" id1="565" id2="713795" version="1065353216">Revanite Signal Transmitter</text>
+		<text bitflag="321" id1="566" id2="713795" version="1065353216">Revanite transmission confirmed: Revanite Commander presence highly likely.
+
+Power source detected!</text>
+		<text bitflag="321" id1="567" id2="713795" version="1065353216">K'lor'Slug Eggs</text>
+		<text bitflag="321" id1="568" id2="713795" version="1065353216">BIOANALYSIS: Destruction of eggs will cause K'lor'Slugs to emerge and become hostile.</text>
+		<text bitflag="321" id1="569" id2="713795" version="1065353216">Claw Marks</text>
+		<text bitflag="321" id1="570" id2="713795" version="1065353216">BIOANALYSIS: DNA Analysis indicates the presence of the grassland species of Tonitran. A highly aggressive and territorial creature.</text>
+		<text bitflag="321" id1="571" id2="713795" version="1065353216">Lurker Enclave</text>
+		<text bitflag="321" id1="572" id2="713795" version="1065353216">COMPOSITION ANALYSIS: Provides ample shade. Hollow trunk suggests lurker habitation.
+
+LURKER WARNING: Protective amphibious bipeds. Typically led in packs by largest member.</text>
+		<text bitflag="321" id1="573" id2="713795" version="1065353216">Cave</text>
+		<text bitflag="321" id1="574" id2="713795" version="1065353216">DATALOG ANALYSIS: Caves of this type and size are favored by the Rancor species. Approach with extreme caution. Rancors are extremely dangerous and aggressive.</text>
+		<text bitflag="321" id1="575" id2="713795" version="1065353216">Moisture Rich Environment</text>
+		<text bitflag="321" id1="576" id2="713795" version="1065353216">SENSOR ANALYSIS: This environment is similar to and favored by creatures native to Dromund Kaas</text>
+		<text bitflag="321" id1="577" id2="713795" version="1065353216">Krakjya</text>
+		<text bitflag="321" id1="578" id2="713795" version="1065353216">IDENTIFICATION: KRAKJYA - Powerful back muscles allow krakjyas to leap great distances and pin down quarry several times their own weight long enough to render it lifeless with their long, sharp teeth. Great honor is to be had by any Mandolarian strong enough to bring one down.</text>
+		<text bitflag="321" id1="579" id2="713795" version="1065353216">Distress Beacon</text>
+		<text bitflag="321" id1="580" id2="713795" version="1065353216">SIGNAL RECEIVED: Survivor location successfully recorded.</text>
+		<text bitflag="321" id1="581" id2="713795" version="1065353216">Automated Air Defense Gun</text>
+		<text bitflag="321" id1="582" id2="713795" version="1065353216">CONNECTION ESTABLISHED: Unique defense turret ID code received.</text>
+		<text bitflag="321" id1="583" id2="713795" version="1065353216">Data Archive</text>
+		<text bitflag="321" id1="584" id2="713795" version="1065353216">DATA ACCESSED: Playback of holorecording commencing.</text>
+		<text bitflag="321" id1="585" id2="713795" version="1065353216">STRUCTURAL ANALYSIS: Ancient Massassi Temple</text>
+		<text bitflag="321" id1="586" id2="713795" version="1065353216">This temple was built by Massassi servants hundreds of years ago. Archival records accessed. Details recorded to codex for convenient access.</text>
+		<text bitflag="321" id1="587" id2="713795" version="1065353216">IDENTIFICATION: MCR-X Stealth Recon Probe
+
+::Incoming transmission received::
+::Decoding message::
+
+-- &quot;Nice to have you back. I'll be watching.&quot; --
+
+::MCR-X unit re-engaging stealth field::</text>
+		<text bitflag="321" id1="588" id2="713795" version="1065353216">CONTENT SCAN RESULTS: This datapad contains religious passages referencing Zakuulan Deities pre-dating Emperor Valkorian.
+
+SENSOR ANALYSIS: Residual thermal imprints suggest recent use.</text>
+		<text bitflag="321" id1="589" id2="713795" version="1065353216">IDENTIFICATION: Portable Data Storage Device</text>
+		<text bitflag="321" id1="590" id2="713795" version="1065353216">**ANOMALY DETECTED**</text>
+		<text bitflag="321" id1="591" id2="713795" version="1065353216">Shield Bunker</text>
+		<text bitflag="321" id1="592" id2="713795" version="1065353216">This Eternal Empire bunker provides remote shielding to the Star Fortress' sun generator power core. Although the facility exhibits minimal external defenses, heat signatures suggest a formidable defense network below ground.</text>
+		<text bitflag="321" id1="593" id2="713795" version="1065353216">STRUCTURAL FUNCTIONALITY ASSESSMENT: Molecular vibration frequency suggests pressure sensitive plates.
+
+-Plate function indeterminate.</text>
+		<text bitflag="321" id1="594" id2="713795" version="1065353216">Pressure Sensitive Plates</text>
+		<text bitflag="321" id1="595" id2="713795" version="1065353216">Blade Rack</text>
+		<text bitflag="321" id1="596" id2="713795" version="1065353216">Decorative Stone Podium</text>
+		<text bitflag="321" id1="597" id2="713795" version="1065353216">STRUCTURAL FUNCTIONALITY ASSESSMENT: Electrical field frequency code detected.
+
+-Frequency function: Sensor analysis has determined an object emitting the correct electrical code would unlock the generated dampener field.</text>
+		<text bitflag="321" id1="598" id2="713795" version="1065353216">Decorative Blade Relic</text>
+		<text bitflag="321" id1="599" id2="713795" version="1065353216">Stone Relic</text>
+		<text bitflag="321" id1="600" id2="713795" version="1065353216">STRUCTURAL FUNCTIONALITY ASSESSMENT: This decorative sword relic has individual electronic resistors connected by traces that could allow electric currents to flow.
+
+Alternate Function: Locking Mechanism</text>
+		<text bitflag="321" id1="601" id2="713795" version="1065353216">STRUCTURAL FUNCTIONALITY ASSESSMENT: This stone relic has special markings and groove sets that would allow it to connect into the correct receptacle.
+
+Alternate Function: Locking Mechanism</text>
+		<text bitflag="321" id1="602" id2="713795" version="1065353216">Unknown Structure</text>
+		<text bitflag="321" id1="603" id2="713795" version="1065353216">Transport Station</text>
+		<text bitflag="321" id1="604" id2="713795" version="1065353216">Transporter Power Source</text>
+		<text bitflag="321" id1="605" id2="713795" version="1065353216">Unexplored Biome</text>
+		<text bitflag="321" id1="606" id2="713795" version="1065353216">Storage Tower</text>
+		<text bitflag="321" id1="607" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: This structure appears similar to others that have been encountered on Iokath.  However, previous instances of similar structures have had varied purposes.  
+
+RECOMMENDATION:  Further investigation needed.</text>
+		<text bitflag="321" id1="608" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: This structure appears to be part of the transportation network for this region of Iokath. 
+
+RECOMMENDATION:  Control of the transportation system would greatly benefit the Alliance in any efforts in this area.  This should be a high priority target.</text>
+		<text bitflag="321" id1="609" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: This structure appears to be housing the power source for the local transporter system.
+
+RECOMMENDATION:  There are many unknowns regarding the technology that is being used here.  Further investigation is needed by an engeneering corps.</text>
+		<text bitflag="321" id1="610" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: This structure appears to be a biome of some sort.
+
+RECOMMENDATION:  Investigate what this biome contains and what its purpose was.</text>
+		<text bitflag="321" id1="611" id2="713795" version="1065353216">FUNCTIONALITY ASSESSMENT: This appears to be a storage tower.  It is uncertain what is being stored at this location.
+
+RECOMMENDATION:  Send a team to investigate the contents of the tower and see if there is any tactical significance to it.</text>
+		<text bitflag="321" id1="612" id2="713795" version="1065353216">Sabacc Cheating Device</text>
+		<text bitflag="321" id1="613" id2="713795" version="1065353216">This device is sold by the Hutt Cartels for use by high rollers with their luxury sabacc tables. They are connected to the table's card manipulation device and will always allow the house to win in the long run.</text>
+		<text bitflag="321" id1="615" id2="713795" version="1065353216">This device is unsanctioned and allows the player an unfair advantage over the table's built-in card manipulation device. The user's winnings have been flagged and will not be allowed to leave the casino.</text>
+		<text bitflag="321" id1="622" id2="713795" version="1065353216">Floor Tile</text>
+		<text bitflag="321" id1="623" id2="713795" version="1065353216">ANALYSIS: Weakened by microfractures, likely due to the presence of a nearby intermittent heat source.</text>
+		<text bitflag="321" id1="624" id2="713795" version="1065353216">Steam Pipe</text>
+		<text bitflag="321" id1="625" id2="713795" version="1065353216">ANALYSIS: Flow is intact. Valve is in functioning order</text>
+		<text bitflag="321" id1="626" id2="713795" version="1065353216">ANALYSIS: Fractures in the pipe due to exposure to extreme cold.</text>
+		<text bitflag="321" id1="627" id2="713795" version="1065353216">IDENTIFICATION: Supply Crate</text>
+		<text bitflag="321" id1="628" id2="713795" version="1065353216">SENSOR ANALYSIS: Metallurgical analysis suggests Republic manufacturing. INTERNAL SCAN:  Fertilizer with high levels of nutrients.</text>
+		<text bitflag="321" id1="629" id2="713795" version="1065353216">IDENTIFICATION: Power Generator</text>
+		<text bitflag="321" id1="630" id2="713795" version="1065353216">FUNCTIONALITY ANALYSIS: This power generator appears to harness the energy from the many electrical storms that sweep across Ossus to generate power.</text>
+		<text bitflag="321" id1="631" id2="713795" version="1065353216">IDENTIFICATION: Sensor Antenna</text>
+		<text bitflag="321" id1="632" id2="713795" version="1065353216">FUNCTIONALITY ANALYSIS: This sensor system provides very long-range weather tracking to help the Jedi anticipate the powerful storms that plague the surface of Ossus.</text>
+		<text bitflag="321" id1="633" id2="713795" version="1065353216">IDENTIFICATION: Storage Tanks</text>
+		<text bitflag="321" id1="634" id2="713795" version="1065353216">SENSOR ANALYSIS: Contains a liquid fertilizer with high nutritional content. DATA: Chemical composition downloaded.</text>
+		<text bitflag="321" id1="635" id2="713795" version="1065353216">IDENTIFICATION: Ossus Crops</text>
+		<text bitflag="321" id1="636" id2="713795" version="1065353216">SENSOR ANALYSIS: Genetically modified crop strains. Designed specifically to survive harsh storms and able to be planted in barren dirt. DATA: Gene sequences downloaded.</text>
+		<text bitflag="321" id1="637" id2="713795" version="1065353216">IDENTIFICATION: Ancient Jedi Library</text>
+		<text bitflag="321" id1="638" id2="713795" version="1065353216">DATALOG ANALYSIS: The largest Jedi Library ever built, it was the center of knowledge and artifacts for the Jedi Order until Ossus was hit by the supernova. It is extremely structurally strong, with the entirety of it built inside a mountain, so much of it has survived the supernova.</text>
+		<text bitflag="321" id1="639" id2="713795" version="1065353216">IDENTIFICATION: Jedi Master Monument</text>
+		<text bitflag="321" id1="640" id2="713795" version="1065353216">DATALOG ANALYSIS: This statue dates back to the original settlers of Ossus and depicts a Jedi Master in the standard dress of that era.</text>
+		<text bitflag="321" id1="641" id2="713795" version="1065353216">IDENTIFICATION: Jedi Padawan Monument</text>
+		<text bitflag="321" id1="642" id2="713795" version="1065353216">DATALOG ANALYSIS: This statue dates back to the founding of the original settlers of Ossus and depicts a Jedi Padawan in the standard dress of that era.</text>
+		<text bitflag="321" id1="643" id2="713795" version="1065353216">IDENTIFICATION: Ossus Jedi Temple</text>
+		<text bitflag="321" id1="644" id2="713795" version="1065353216">DATALOG ANALYSIS: This Jedi temple is one of the oldest recorded, second only to the temple on Tython. The Jedi Order made their home here after first leaving Tython centuries ago.</text>
+	</file_content>
+</stb_file>

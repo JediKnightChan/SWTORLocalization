@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/raid/shared/eternity_vault/ship_republic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="768499" id2="17" version="1065353216">Warning: Incoming fire from Eternity Vault defenses. Rakata energy signature.</text>
+		<text bitflag="1345" id1="768501" id2="17" version="1065353216">Shields failing. Proceed to escape pods and prepare for emergency landing.</text>
+		<text bitflag="1345" id1="768606" id2="17" version="1065353216">Nav systems fully functional. Entering Belsavis atmosphere.</text>
+	</file_content>
+</stb_file>

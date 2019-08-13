@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>37</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/bronze/imperial/tapping_what_is_ours/lieutenant_rajiss.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="196582" id2="17" version="1065353216">Now my superiors want to know when our generator repairs will be done. Why me?</text>
+		<text bitflag="1345" id1="196584" id2="17" version="1065353216">The pirates were responsible for tapping the generator. They've been eliminated.</text>
+		<text bitflag="3393" id1="196585" id2="17" version="1065353216">Thank you, my lord. My superiors were pleased to hear a Sith was involved.</text>
+		<text bitflag="3393" id1="196587" id2="17" version="1065353216">Please accept this, my lord. It won't repay your help, but I hope you'll find it useful.</text>
+		<text bitflag="1345" id1="196588" id2="17" version="1065353216">The pirates were stealing power for their own uses. They won't be doing it anymore.</text>
+		<text bitflag="3393" id1="196589" id2="17" version="1065353216">Thank you. My superiors have been demanding reports on the hour.</text>
+		<text bitflag="3393" id1="196591" id2="17" version="1065353216">Here. My pay packet for this month. I'd have lost much more if this went unresolved on my watch.</text>
+		<text bitflag="3393" id1="196593" id2="17" version="1065353216">Those generator readouts should lead you to the thieves, and whatever they're powering.</text>
+		<text bitflag="3393" id1="196594" id2="17" version="1065353216">There! Those lights are flickering again, why can no one else see it? There's another power fluctuation on the way.</text>
+		<text bitflag="3393" id1="196596" id2="17" version="1065353216">I keep telling my superiors it's not our fault; someone is tapping our main generator, but they just think we're being incompetent!</text>
+		<text bitflag="3393" id1="196598" id2="17" version="1065353216">Idiots. They'll take all the power. Then all the Imperial outposts are going to be left in the dark.</text>
+		<text bitflag="1345" id1="196599" id2="17" version="1065353216">Perhaps this is part of some plan to overwhelm our outposts.</text>
+		<text bitflag="1360" id1="196599" id2="17" version="1065353216">A prelude to an attack?</text>
+		<text bitflag="3393" id1="196600" id2="17" version="1065353216">My superiors have a few theories, my lord, but nothing concrete.</text>
+		<text bitflag="1345" id1="196602" id2="17" version="1065353216">If you can't handle simple power fluctuations, Lieutenant, maybe you don't belong here.</text>
+		<text bitflag="1360" id1="196602" id2="17" version="1065353216">You need to do better.</text>
+		<text bitflag="3393" id1="196603" id2="17" version="1065353216">My superiors ordered me to trace the problem, my lord--I'm trying.</text>
+		<text bitflag="1345" id1="196605" id2="17" version="1065353216">It takes guts to steal from the Empire.</text>
+		<text bitflag="1360" id1="196605" id2="17" version="1065353216">Someone's taking a risk.</text>
+		<text bitflag="3393" id1="196606" id2="17" version="1065353216">And my superiors are blaming me for it!</text>
+		<text bitflag="1345" id1="196608" id2="17" version="1065353216">These power fluctuations could also damage the outpost's systems beyond repair.</text>
+		<text bitflag="1360" id1="196608" id2="17" version="1065353216">And we waste equipment.</text>
+		<text bitflag="3393" id1="196609" id2="17" version="1065353216">That's what I keep trying to tell my superiors!</text>
+		<text bitflag="1360" id1="196611" id2="17" version="1065353216">Do you know who's doing it?</text>
+		<text bitflag="1360" id1="196612" id2="17" version="1065353216">Then stop them.</text>
+		<text bitflag="3393" id1="196613" id2="17" version="1065353216">Our generator readout console might have some answers, but I can't check; naturally, I'm being held responsible for keeping our systems from blowing out.</text>
+		<text bitflag="3393" id1="196615" id2="17" version="1065353216">Whoever's behind it--pirates, the Republic--we need to know who it is, and give them what they deserve. My superiors expect nothing less.</text>
+		<text bitflag="1360" id1="196616" id2="17" version="1065353216">Leave this to me.</text>
+		<text bitflag="1360" id1="196617" id2="17" version="1065353216">I can help.</text>
+		<text bitflag="1360" id1="196618" id2="17" version="1065353216">You asked the right person.</text>
+		<text bitflag="1360" id1="196619" id2="17" version="1065353216">Sabotage? Count me in.</text>
+		<text bitflag="1360" id1="196620" id2="17" version="1065353216">Where is your generator?</text>
+		<text bitflag="3393" id1="196621" id2="17" version="1065353216">I've isolated the power tap; our generator's not too far. Its readouts should show who's doing this and where.</text>
+		<text bitflag="3393" id1="196623" id2="17" version="1065353216">Once you find who's responsible, wipe them out, along with whatever they're powering with our energy. I'll be waiting to pass on the good news.</text>
+		<text bitflag="1360" id1="196625" id2="17" version="1065353216">Do it yourself. [Refuse quest]</text>
+		<text bitflag="3393" id1="196626" id2="17" version="1065353216">A dozen outposts at risk, and my neck's on the line for it.</text>
+		<text bitflag="3393" id1="196628" id2="17" version="1065353216">Just watch. Any minute now, our lights will go out again.</text>
+	</file_content>
+</stb_file>

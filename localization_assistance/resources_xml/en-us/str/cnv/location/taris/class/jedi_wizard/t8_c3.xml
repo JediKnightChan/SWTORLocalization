@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>21</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris/class/jedi_wizard/t8_c3.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="574346" id2="17" version="1065353216">T8 = self-repairing // T8 = cannot talk</text>
+		<text bitflag="3393" id1="574347" id2="17" version="1065353216">T8-C3 = greets Jedi</text>
+		<text bitflag="3393" id1="574349" id2="17" version="1065353216">Damage report = major power loss // T8 = unable to help expedition // Query = Jedi seeks Master Tykan?</text>
+		<text bitflag="1360" id1="574350" id2="17" version="1065353216">You were with the expedition?</text>
+		<text bitflag="3393" id1="574351" id2="17" version="1065353216">T8 = expedition survey droid // Parameters = analysis + records + general assistance // T8 = happy to help</text>
+		<text bitflag="1360" id1="574353" id2="17" version="1065353216">Tell me everything you saw.</text>
+		<text bitflag="3393" id1="574354" id2="17" version="1065353216">Expedition = 0.5 kilometers off-course // This area = unsafe // Expedition = attacked by hostiles</text>
+		<text bitflag="1360" id1="574356" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="3393" id1="574357" id2="17" version="1065353216">Master Tykan = left before attack // Master Tykan + scout team = surveying area // Master Tykan = lost = finding landmarks</text>
+		<text bitflag="1360" id1="574358" id2="17" version="1065353216">Which way did he go?</text>
+		<text bitflag="1360" id1="574359" id2="17" version="1065353216">I'll bring Tykan home.</text>
+		<text bitflag="1360" id1="574360" id2="17" version="1065353216">Lost? He's an expert tracker.</text>
+		<text bitflag="3393" id1="574361" id2="17" version="1065353216">T8 = always honest // Jedi = can check memory core</text>
+		<text bitflag="3393" id1="574363" id2="17" version="1065353216">Master Tykan + scout team = not far // T8 = has coordinates</text>
+		<text bitflag="3393" id1="574365" id2="17" version="1065353216">Master Tykan + scout team = carrying expedition finds // Finds = medical holocrons + relics // Master Tykan + scout team = target to hostiles</text>
+		<text bitflag="1360" id1="574366" id2="17" version="1065353216">What about you?</text>
+		<text bitflag="3393" id1="574367" id2="17" version="1065353216">T8 = doing self-repair // T8 = not valuable to hostiles // T8 = will return to base</text>
+		<text bitflag="1360" id1="574369" id2="17" version="1065353216">I can protect them.</text>
+		<text bitflag="1360" id1="574370" id2="17" version="1065353216">Then I should be going.</text>
+		<text bitflag="3393" id1="574371" id2="17" version="1065353216">T8 = likes Jedi // T8 = hopes Master Tykan + scout team still functioning</text>
+		<text bitflag="3393" id1="574373" id2="17" version="1065353216">T8-C3 = sorry // Program = doesn't talk to strangers</text>
+	</file_content>
+</stb_file>

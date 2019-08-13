@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>20</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/world_arc/imperial/hub_2/revenge_of_the_archon/guard_station_holoterminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1030872" id2="17" version="1065353216">Sergeant Bedareux here. The outer guard station's nearby; if you can take control, I can get you more intel.</text>
+		<text bitflag="1345" id1="1033691" id2="17" version="1065353216">We have control of the guard station, but there's heavy opposition. Recommendations?</text>
+		<text bitflag="1345" id1="1033692" id2="17" version="1065353216">Biggest problem is the force fields. Archon's got his manor sealed tight inside those things.</text>
+		<text bitflag="3393" id1="1033694" id2="17" version="1065353216">Apologies! I am continuing efforts to keep all tremors in check. Unfortunately, half the planet's mesas are on the verge of collapsing.</text>
+		<text bitflag="1345" id1="1033696" id2="17" version="1065353216">Right.</text>
+		<text bitflag="1345" id1="1033698" id2="17" version="1065353216">Anyway, there are laser turrets all around the compound. Turn them on the manor, might be enough firepower to down the force fields.</text>
+		<text bitflag="1345" id1="1033699" id2="17" version="1065353216">Stay in communication. The force fields will be down shortly.</text>
+		<text bitflag="1360" id1="1033699" id2="17" version="1065353216">I'll head to the turrets.</text>
+		<text bitflag="1345" id1="1033700" id2="17" version="1065353216">Yes, my lord.</text>
+		<text bitflag="1345" id1="1033702" id2="17" version="1065353216">Yes, sir.</text>
+		<text bitflag="1345" id1="1033704" id2="17" version="1065353216">Nadrin? How difficult would it be to collapse the manor with a groundquake?</text>
+		<text bitflag="1360" id1="1033704" id2="17" version="1065353216">Let the quakes bury the place.</text>
+		<text bitflag="3393" id1="1033705" id2="17" version="1065353216">Without collapsing everything else in a hundred-kilometer radius? Extremely difficult.</text>
+		<text bitflag="1345" id1="1033707" id2="17" version="1065353216">And we'd be short on leads if it turned out our hostages weren't in there.</text>
+		<text bitflag="1345" id1="1033709" id2="17" version="1065353216">This way, we can interrogate the Archon ourselves if we have to. Once the force fields are down, should be a straight line to him.</text>
+		<text bitflag="1345" id1="1033710" id2="17" version="1065353216">And if it's not enough firepower? What then?</text>
+		<text bitflag="1360" id1="1033710" id2="17" version="1065353216">You don't sound certain.</text>
+		<text bitflag="1345" id1="1033711" id2="17" version="1065353216">Sorry, my lord. I'll work on a backup plan, but I wouldn't suggest the turrets if they didn't seem the best bet.</text>
+		<text bitflag="1345" id1="1033713" id2="17" version="1065353216">Sorry, sir. Doing my best, but I've only got so much data to work from. I'll keep at it.</text>
+		<text bitflag="1345" id1="1033715" id2="17" version="1065353216">Once you're inside, it'll be a straight line to the Archon--and with a bit of luck, the people he took. Let's hope they're alive.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/jedi_consular/chapter_2/an_alliance_of_opposites/engine_control.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="641765" id2="17" version="1065353216">We did it! The Fortitude's in a safe orbit over Deralia!</text>
+		<text bitflag="1345" id1="641767" id2="17" version="1065353216">Everyone's okay--we're all heading back to your starship. I'll meet you there.</text>
+		<text bitflag="321" id1="641771" id2="17" version="1065353216">[These appear to be the engine controls for the Fortitude.]</text>
+	</file_content>
+</stb_file>

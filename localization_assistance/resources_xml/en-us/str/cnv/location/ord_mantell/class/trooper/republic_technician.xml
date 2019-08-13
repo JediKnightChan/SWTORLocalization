@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/ord_mantell/class/trooper/republic_technician.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="630029" id2="17" version="1065353216">Good luck, Sergeant.</text>
+		<text bitflag="1345" id1="630030" id2="17" version="1065353216">Hello, Sergeant.</text>
+		<text bitflag="1345" id1="630031" id2="17" version="1065353216">I'm sorry. I'm too busy to talk right now.</text>
+	</file_content>
+</stb_file>

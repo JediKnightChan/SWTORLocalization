@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>8</strs>
+		<file_name>/resources/en-us/str/cnv/exp/02/yavin_4/the_enemy_within/shared/strategic_console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1151054" id2="17" version="1065353216">[Countless Revanites and powerful creatures stand between you and Revan within the Temple of Sacrifice. You will need help, but the coalition forces are divided and uneasy.]</text>
+		<text bitflag="321" id1="1151056" id2="17" version="1065353216">[You could galvanize the coalition forces by invoking a spirit of cooperation and helping them prepare for a joint military attack on the temple...]</text>
+		<text bitflag="321" id1="1151058" id2="17" version="1065353216">[...or you could gather a large strike team of elite heroes from within your faction to storm the Temple of Sacrifice.]</text>
+		<text bitflag="336" id1="1151059" id2="17" version="1065353216">[SOLO] Galvanize Coalition Forces</text>
+		<text bitflag="336" id1="1151060" id2="17" version="1065353216">[OPERATION] Raid Revan's Temple</text>
+		<text bitflag="336" id1="1151061" id2="17" version="1065353216">I haven't decided yet.</text>
+		<text bitflag="321" id1="1151062" id2="17" version="1065353216">[You may return to this console to make your choice at any time.]</text>
+		<text bitflag="321" id1="1151064" id2="17" version="1065353216">[You may reset this mission at any time to alter your choice.]</text>
+	</file_content>
+</stb_file>

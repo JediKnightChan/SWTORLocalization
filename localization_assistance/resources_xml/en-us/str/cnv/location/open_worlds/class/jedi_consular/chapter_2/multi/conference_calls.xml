@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>412</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/jedi_consular/chapter_2/multi/conference_calls.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="459938" id2="17" version="1065353216">The monitoring device, the messages, Lord Kyrus' inside knowledge. Our traitor can work our communications system.</text>
+		<text bitflag="1345" id1="459939" id2="17" version="1065353216">Perhaps someone has communications experience they haven't disclosed.</text>
+		<text bitflag="1360" id1="459939" id2="17" version="1065353216">Is anyone a comm expert?</text>
+		<text bitflag="1345" id1="459940" id2="17" version="1065353216">Alauni can handle a dozen messages at once, maybe it's her.</text>
+		<text bitflag="1345" id1="459942" id2="17" version="1065353216">So who uses the comm system the most?</text>
+		<text bitflag="1360" id1="459942" id2="17" version="1065353216">We look for a frequent user.</text>
+		<text bitflag="1345" id1="459943" id2="17" version="1065353216">I can't stake out the comm system and hope to catch them in the act.</text>
+		<text bitflag="1360" id1="459943" id2="17" version="1065353216">That's not very helpful.</text>
+		<text bitflag="1345" id1="459944" id2="17" version="1065353216">Perhaps not, but if we knew who used the system the most, that would be a start.</text>
+		<text bitflag="1345" id1="459946" id2="17" version="1065353216">Alauni! She's always getting news from her world.</text>
+		<text bitflag="1345" id1="459948" id2="17" version="1065353216">No, no, Alauni sticks to her personal channel. Tai only got a call or two before he left; Duin never speaks to anyone....</text>
+		<text bitflag="1345" id1="459949" id2="17" version="1065353216">A Selkath could easily avoid suspicion, after what the Empire did to them.</text>
+		<text bitflag="1360" id1="459949" id2="17" version="1065353216">Maybe Shuuru? The Selkath?</text>
+		<text bitflag="1345" id1="459950" id2="17" version="1065353216">Mmm. Maybe before Attis Station, but now Shuuru won't hear a word against you.</text>
+		<text bitflag="1360" id1="459952" id2="17" version="1065353216">I'm drawing a blank.</text>
+		<text bitflag="1345" id1="459953" id2="17" version="1065353216">You know, Blaesus gets an awful lot of work from the Erigorm Bureaucracy. And a lot of calls.</text>
+		<text bitflag="1345" id1="459955" id2="17" version="1065353216">Come to think of it, what does Blaesus do with his free time?</text>
+		<text bitflag="1360" id1="459955" id2="17" version="1065353216">Does Blaesus?</text>
+		<text bitflag="1345" id1="459956" id2="17" version="1065353216">He's always busy; the Erigorm Bureaucracy sends him a lot of work... through our communications array.</text>
+		<text bitflag="1345" id1="459958" id2="17" version="1065353216">Wait. When you were on Hoth and someone leaked those messages, Blaesus was sending reports everywhere. What if he alerted the Empire then?</text>
+		<text bitflag="1345" id1="459959" id2="17" version="1065353216">Even if Blaesus isn't responsible, he could point us in the right direction.</text>
+		<text bitflag="1360" id1="459959" id2="17" version="1065353216">We should talk to him.</text>
+		<text bitflag="1345" id1="459960" id2="17" version="1065353216">Wait here, I'll see where he's got to.</text>
+		<text bitflag="1345" id1="459962" id2="17" version="1065353216">We can't condemn a man on such tenuous evidence.</text>
+		<text bitflag="1360" id1="459962" id2="17" version="1065353216">That isn't proof.</text>
+		<text bitflag="1345" id1="459963" id2="17" version="1065353216">No, but shouldn't we at least talk to him before we go anywhere else?</text>
+		<text bitflag="1345" id1="459965" id2="17" version="1065353216">Blaesus couldn't conspire to tie someone's shoelaces together.</text>
+		<text bitflag="1360" id1="459965" id2="17" version="1065353216">Blaesus? Seriously?</text>
+		<text bitflag="1345" id1="459966" id2="17" version="1065353216">Most people think I'm completely harmless, too.</text>
+		<text bitflag="1345" id1="459968" id2="17" version="1065353216">No. It... it couldn't be Blaesus. I just sent him on a mission.</text>
+		<text bitflag="1345" id1="459970" id2="17" version="1065353216">I meant to surprise you, Nadia. King Sethun and Queen Nyscha themselves are donating a regiment to the Republic.</text>
+		<text bitflag="1345" id1="459971" id2="17" version="1065353216">This king and queen are your homeworld's rulers?</text>
+		<text bitflag="1360" id1="459971" id2="17" version="1065353216">Your planet's royal family?</text>
+		<text bitflag="1345" id1="459972" id2="17" version="1065353216">Yes, yes, that's right.</text>
+		<text bitflag="1345" id1="459974" id2="17" version="1065353216">What does Blaesus have to do with this?</text>
+		<text bitflag="1360" id1="459974" id2="17" version="1065353216">How is Blaesus connected?</text>
+		<text bitflag="1360" id1="459975" id2="17" version="1065353216">Snap out of it and explain!</text>
+		<text bitflag="1345" id1="459976" id2="17" version="1065353216">The royal family wanted to heal relations between the Rift Alliance and the Republic, they thought donating troops would help.</text>
+		<text bitflag="1345" id1="459978" id2="17" version="1065353216">They planned a ceremony on Waypoint Station Three to present you with the soldiers.</text>
+		<text bitflag="1345" id1="459980" id2="17" version="1065353216">But you were needed on Hoth... so I sent Blaesus as our envoy. He's with the king and queen right now.</text>
+		<text bitflag="1345" id1="459981" id2="17" version="1065353216">Tell the royals to stay with their soldiers until I arrive.</text>
+		<text bitflag="1360" id1="459981" id2="17" version="1065353216">Warn the royal family.</text>
+		<text bitflag="1345" id1="459982" id2="17" version="1065353216">Put me through to Blaesus at once.</text>
+		<text bitflag="1360" id1="459982" id2="17" version="1065353216">Call him.</text>
+		<text bitflag="1345" id1="459983" id2="17" version="1065353216">There's no answer. Jedi, what have I done?</text>
+		<text bitflag="1345" id1="459985" id2="17" version="1065353216">Someone has to protect those people.</text>
+		<text bitflag="1360" id1="459985" id2="17" version="1065353216">I have to save them.</text>
+		<text bitflag="1345" id1="459986" id2="17" version="1065353216">Captain Valon has ships; I can tell him to guard the royal family until we arrive.</text>
+		<text bitflag="1345" id1="459987" id2="17" version="1065353216">I'll contact Tai. His droids could guard the royal family until we get there.</text>
+		<text bitflag="1345" id1="459988" id2="17" version="1065353216">Be sure he knows our suspicions, just in case.</text>
+		<text bitflag="1360" id1="459988" id2="17" version="1065353216">And tell him about Blaesus.</text>
+		<text bitflag="1345" id1="459989" id2="17" version="1065353216">Hurry. Everyone on that station could be in danger.</text>
+		<text bitflag="1360" id1="459989" id2="17" version="1065353216">Do it fast.</text>
+		<text bitflag="1345" id1="459990" id2="17" version="1065353216">Will do, Jedi. Let's go.</text>
+		<text bitflag="1345" id1="459991" id2="17" version="1065353216">If I've harbored a serpent aboard my ship, I'll be the one to kill it.</text>
+		<text bitflag="1360" id1="459991" id2="17" version="1065353216">No. Blaesus is mine.</text>
+		<text bitflag="1345" id1="459992" id2="17" version="1065353216">I understand, Jedi. We should hurry.</text>
+		<text bitflag="1345" id1="459996" id2="17" version="1065353216">Quite... quite a story, Jedi.</text>
+		<text bitflag="1345" id1="460003" id2="17" version="1065353216">If we'd known the pirates had such technology... At least you were there to make the mission a success.</text>
+		<text bitflag="1345" id1="460007" id2="17" version="1065353216">A &quot;success&quot;? You not only recruited this Captain Valon--you let him run free!</text>
+		<text bitflag="1345" id1="460008" id2="17" version="1065353216">I had the chance to spare him and make him useful, so I took it.</text>
+		<text bitflag="1360" id1="460008" id2="17" version="1065353216">Jedi do not kill the helpless.</text>
+		<text bitflag="1345" id1="460009" id2="17" version="1065353216">But now you command a powerful privateer, and Valon gets to keep his life.</text>
+		<text bitflag="1360" id1="460009" id2="17" version="1065353216">This way, everybody wins.</text>
+		<text bitflag="1360" id1="460010" id2="17" version="1065353216">Don't question me!</text>
+		<text bitflag="1345" id1="460011" id2="17" version="1065353216">Alauni, we've got a pirate king fighting the Empire for us! Isn't that better than killing him?</text>
+		<text bitflag="3393" id1="460015" id2="17" version="1065353216">We appreciate what you've done, but to be honest, I would have preferred this &quot;Valon&quot; dead rather than imprisoned.</text>
+		<text bitflag="1345" id1="460016" id2="17" version="1065353216">He was at my mercy. The Jedi Code required I spare him for judgment.</text>
+		<text bitflag="1360" id1="460016" id2="17" version="1065353216">Jedi do not kill the helpless.</text>
+		<text bitflag="1345" id1="460017" id2="17" version="1065353216">Regardless, the pirate threat is eliminated and your soldiers are safe.</text>
+		<text bitflag="1360" id1="460017" id2="17" version="1065353216">But my task is complete.</text>
+		<text bitflag="1345" id1="460018" id2="17" version="1065353216">I rescued your men, stopped the pirates and handed Valon to you. What more do you want?</text>
+		<text bitflag="1360" id1="460018" id2="17" version="1065353216">You're never happy, are you?</text>
+		<text bitflag="3393" id1="460019" id2="17" version="1065353216">True. And our soldiers are safe because of you. That's all that matters.</text>
+		<text bitflag="1345" id1="460021" id2="17" version="1065353216">We're forgetting someone. Good work, Lieutenant Iresso. We'll make sure the Republic rewards you before you're reassigned.</text>
+		<text bitflag="1345" id1="460023" id2="17" version="1065353216">Actually, sir, as a reward, you could persuade my superiors to assign me here. If that's okay.</text>
+		<text bitflag="1345" id1="460025" id2="17" version="1065353216">It'd be an honor to serve with you. Plus an extra blaster never goes amiss, right?</text>
+		<text bitflag="1345" id1="460026" id2="17" version="1065353216">There's most certainly a place for you here, Lieutenant.</text>
+		<text bitflag="1360" id1="460026" id2="17" version="1065353216">I'd welcome you.</text>
+		<text bitflag="1345" id1="460027" id2="17" version="1065353216">Thanks. That's a... warmer reception than I've had in a while.</text>
+		<text bitflag="1345" id1="460029" id2="17" version="1065353216">Thanks. I like the way you get things done.</text>
+		<text bitflag="1345" id1="460031" id2="17" version="1065353216">This isn't exactly a career-building mission.</text>
+		<text bitflag="1360" id1="460031" id2="17" version="1065353216">You won't get promoted here...</text>
+		<text bitflag="1345" id1="460032" id2="17" version="1065353216">Uh, heh. That's okay. I think my career is... I'll survive.</text>
+		<text bitflag="1345" id1="460034" id2="17" version="1065353216">Won't your superior officers get angry if you start picking your own assignments?</text>
+		<text bitflag="1360" id1="460034" id2="17" version="1065353216">The Republic might object.</text>
+		<text bitflag="1345" id1="460035" id2="17" version="1065353216">You mean the same superior officers who stuck me on Hoth? Hey, I'll risk it!</text>
+		<text bitflag="1345" id1="460037" id2="17" version="1065353216">Excellent, it's settled then. I'm sorry, could you all excuse us for a moment?</text>
+		<text bitflag="1345" id1="460039" id2="17" version="1065353216">You mentioned someone on Hoth was sending the Empire information about you.</text>
+		<text bitflag="1345" id1="460040" id2="17" version="1065353216">Perhaps Private Kree was just desperate enough to alert the Empire.</text>
+		<text bitflag="1360" id1="460040" id2="17" version="1065353216">We did have a mutineer...</text>
+		<text bitflag="1345" id1="460041" id2="17" version="1065353216">Have you discovered who it was?</text>
+		<text bitflag="1360" id1="460041" id2="17" version="1065353216">You have a lead?</text>
+		<text bitflag="1345" id1="460042" id2="17" version="1065353216">I think it was someone on board.</text>
+		<text bitflag="1345" id1="460044" id2="17" version="1065353216">It meant the enemy was always one step ahead.</text>
+		<text bitflag="1360" id1="460044" id2="17" version="1065353216">And it nearly got me killed.</text>
+		<text bitflag="1345" id1="460045" id2="17" version="1065353216">Since I found that monitoring device, I've been watching our communications.</text>
+		<text bitflag="1345" id1="460047" id2="17" version="1065353216">I spotted a message to the Empire, in amongst other messages while the channels were busy! But I can't trace who sent it.</text>
+		<text bitflag="1345" id1="460051" id2="17" version="1065353216">We're just getting clearance for Hoth, Jedi. Won't be a minute.</text>
+		<text bitflag="3393" id1="460053" id2="17" version="1065353216">Clearance! Republic bureaucracy. Do we look like pirates?</text>
+		<text bitflag="1345" id1="460055" id2="17" version="1065353216">The Republic has a right to be careful. The White Maw is cunning, and a vast, frozen wasteland is quite the place to hide.</text>
+		<text bitflag="1345" id1="460056" id2="17" version="1065353216">Who or what is the &quot;White Maw&quot;?</text>
+		<text bitflag="1360" id1="460056" id2="17" version="1065353216">The White Maw?</text>
+		<text bitflag="1345" id1="460057" id2="17" version="1065353216">The Jedi Archives say Hoth is the coldest inhabited planet in the galaxy. Nothing but ice and snow.</text>
+		<text bitflag="1360" id1="460057" id2="17" version="1065353216">&quot;Wasteland&quot; is correct.</text>
+		<text bitflag="1345" id1="460058" id2="17" version="1065353216">They forgot pirates, s-scavengers and monsters.</text>
+		<text bitflag="1345" id1="460060" id2="17" version="1065353216">If the Republic were more welcoming, they might get allies to handle their pirate problem.</text>
+		<text bitflag="1360" id1="460060" id2="17" version="1065353216">The Republic's overcautious.</text>
+		<text bitflag="1345" id1="460061" id2="17" version="1065353216">The White Maw is the largest pirate band in the galaxy. A splinter group has been attacking the shipping lanes to our worlds.</text>
+		<text bitflag="3393" id1="460063" id2="17" version="1065353216">We sent a coalition force of our best soldiers to fight them, but somehow, our men have suffered defeat after defeat.</text>
+		<text bitflag="1345" id1="460065" id2="17" version="1065353216">And the Republic won't &quot;waste&quot; more men to save them. Fools. Now there's a risk of mutiny; our coalition might abandon Hoth altogether.</text>
+		<text bitflag="1345" id1="460066" id2="17" version="1065353216">How is it this &quot;White Maw&quot; is giving your soldiers so much trouble?</text>
+		<text bitflag="1360" id1="460066" id2="17" version="1065353216">But pirates aren't that tough.</text>
+		<text bitflag="1345" id1="460067" id2="17" version="1065353216">The reports we've had are very s-strange. None of them make sense.</text>
+		<text bitflag="1360" id1="460069" id2="17" version="1065353216">And my role is...?</text>
+		<text bitflag="1345" id1="460070" id2="17" version="1065353216">They've already failed. Your soldiers should get out while they can.</text>
+		<text bitflag="1360" id1="460070" id2="17" version="1065353216">Just let the coalition leave.</text>
+		<text bitflag="3393" id1="460071" id2="17" version="1065353216">That's not an option, Jedi. Hoth's a vital strategic position.</text>
+		<text bitflag="1345" id1="460073" id2="17" version="1065353216">We're giving you command of our coalition force. Find out what's happening, and get rid of those pirates so our men can come home.</text>
+		<text bitflag="1345" id1="460075" id2="17" version="1065353216">The only soldier still bothering to send a daily report is Lieutenant Felix Iresso, the officer in charge. He's at the Republic base.</text>
+		<text bitflag="1345" id1="460076" id2="17" version="1065353216">With a little help, your coalition will finish those pirates and get out safely.</text>
+		<text bitflag="1360" id1="460076" id2="17" version="1065353216">Together, we will succeed.</text>
+		<text bitflag="1345" id1="460077" id2="17" version="1065353216">There. That's what we've been hoping to hear.</text>
+		<text bitflag="1360" id1="460079" id2="17" version="1065353216">I'll begin there.</text>
+		<text bitflag="1345" id1="460080" id2="17" version="1065353216">Your soldiers might need a little Jedi discipline.</text>
+		<text bitflag="1360" id1="460080" id2="17" version="1065353216">I'll get your men in line.</text>
+		<text bitflag="1345" id1="460081" id2="17" version="1065353216">Ah, there's our clearance.</text>
+		<text bitflag="1345" id1="460083" id2="17" version="1065353216">Be careful, Jedi. Quite aside from the White Maw, Hoth's cold enough to freeze you solid.</text>
+		<text bitflag="3393" id1="460089" id2="17" version="1065353216">Jedi, we... can already guess what this is about.</text>
+		<text bitflag="1345" id1="460091" id2="17" version="1065353216">We'd like to formally apologize for keeping Attis Station classified from you.</text>
+		<text bitflag="1345" id1="460092" id2="17" version="1065353216">Mistrust is a luxury we cannot afford.</text>
+		<text bitflag="1360" id1="460092" id2="17" version="1065353216">We must learn from this.</text>
+		<text bitflag="1345" id1="460093" id2="17" version="1065353216">I... regret not taking that to heart sooner.</text>
+		<text bitflag="1345" id1="460095" id2="17" version="1065353216">There's no shame in doing what you believe to be right.</text>
+		<text bitflag="1360" id1="460095" id2="17" version="1065353216">It's okay.</text>
+		<text bitflag="1345" id1="460096" id2="17" version="1065353216">We were still wrong.</text>
+		<text bitflag="1345" id1="460098" id2="17" version="1065353216">Because of your stubbornness, the chance to save many lives was lost.</text>
+		<text bitflag="1360" id1="460098" id2="17" version="1065353216">You failed your own people.</text>
+		<text bitflag="1345" id1="460099" id2="17" version="1065353216">Don't you think--we can never forget it.</text>
+		<text bitflag="1345" id1="460101" id2="17" version="1065353216">P--please don't be angry with us. We're very grateful you saved the, um, station.</text>
+		<text bitflag="1345" id1="460103" id2="17" version="1065353216">And think of the m--military funding we can get with that weapons program!</text>
+		<text bitflag="1345" id1="460105" id2="17" version="1065353216">Though if we're working for peace, better not invest too heavily in war.</text>
+		<text bitflag="1345" id1="460107" id2="17" version="1065353216">Though we'll need, um... twice the guards to protect that medical research from the Empire.</text>
+		<text bitflag="1345" id1="460109" id2="17" version="1065353216">Spend the credits and hire them. Those medicines could be an investment for years.</text>
+		<text bitflag="1345" id1="460111" id2="17" version="1065353216">If you've all quite finished, the Jedi and I have matters to discuss. Alone.</text>
+		<text bitflag="1345" id1="460113" id2="17" version="1065353216">Thank you, for protecting my Nadia.</text>
+		<text bitflag="1345" id1="460115" id2="17" version="1065353216">She told me you saw her... outburst. I imagine you want an explanation.</text>
+		<text bitflag="1345" id1="460116" id2="17" version="1065353216">Her talents appear... unique. What is she?</text>
+		<text bitflag="1360" id1="460116" id2="17" version="1065353216">Please enlighten me.</text>
+		<text bitflag="1345" id1="460117" id2="17" version="1065353216">I was almost hoping you could tell me.</text>
+		<text bitflag="1345" id1="460119" id2="17" version="1065353216">She uses her powers instinctively, when she becomes emotional.</text>
+		<text bitflag="1360" id1="460119" id2="17" version="1065353216">I saw she can't control it.</text>
+		<text bitflag="1345" id1="460120" id2="17" version="1065353216">Yes, yes. But Nadia's gotten better at controlling herself.</text>
+		<text bitflag="1345" id1="460122" id2="17" version="1065353216">You condemn the others for hiding Attis Station, but you were hiding Nadia's abilities from me.</text>
+		<text bitflag="1360" id1="460122" id2="17" version="1065353216">Everyone's keeping secrets!</text>
+		<text bitflag="1345" id1="460123" id2="17" version="1065353216">I know, I know. There's no excuse.</text>
+		<text bitflag="1345" id1="460125" id2="17" version="1065353216">The Republic calls them &quot;Force abilities,&quot; but to me they're &quot;Nadia's gifts.&quot; Her powers are stronger than many Jedi, but... unpredictable.</text>
+		<text bitflag="1345" id1="460127" id2="17" version="1065353216">I hoped she would learn from you. From your experience.</text>
+		<text bitflag="1345" id1="460128" id2="17" version="1065353216">I know what Nadia's going through. My own Force abilities manifested quite early.</text>
+		<text bitflag="1360" id1="460128" id2="17" version="1065353216">I was a prodigy myself.</text>
+		<text bitflag="1345" id1="460129" id2="17" version="1065353216">Yes, yes, exactly, so I knew you'd understand.</text>
+		<text bitflag="1345" id1="460131" id2="17" version="1065353216">It's not uncommon for powerful Force sensitivity to run in families.</text>
+		<text bitflag="1360" id1="460131" id2="17" version="1065353216">Are you &quot;gifted&quot; too?</text>
+		<text bitflag="1345" id1="460132" id2="17" version="1065353216">Me? No, no, I don't have these powers, nor anyone we know back home. Nadia's special.</text>
+		<text bitflag="1345" id1="460134" id2="17" version="1065353216">Nadia might benefit from some basic Jedi instruction.</text>
+		<text bitflag="1360" id1="460134" id2="17" version="1065353216">Perhaps I could train her.</text>
+		<text bitflag="1345" id1="460135" id2="17" version="1065353216">In time, certainly. But for now, I think she has some growing up to do.</text>
+		<text bitflag="1345" id1="460137" id2="17" version="1065353216">An untrained Force adept is incredibly dangerous. You've endangered everyone by keeping her aboard.</text>
+		<text bitflag="1360" id1="460137" id2="17" version="1065353216">She's a threat.</text>
+		<text bitflag="1345" id1="460138" id2="17" version="1065353216">No, Nadia would never hurt someone close to her. I swear.</text>
+		<text bitflag="1345" id1="460140" id2="17" version="1065353216">My daughter looks up to you. Please, keep being her example.</text>
+		<text bitflag="1345" id1="460142" id2="17" version="1065353216">Nadia's very fond of you. Please, be there for her as she gets through this.</text>
+		<text bitflag="1345" id1="460144" id2="17" version="1065353216">Now. Attis Station's researchers said a &quot;Lord Kyrus&quot; contacted you. Didn't he order the attack on the Fortitude, where we all met?</text>
+		<text bitflag="1345" id1="460145" id2="17" version="1065353216">Lord Kyrus has been monitoring us since we we left the Fortitude.</text>
+		<text bitflag="1360" id1="460145" id2="17" version="1065353216">And has watched ever since.</text>
+		<text bitflag="1345" id1="460146" id2="17" version="1065353216">The Sith claimed he knew everything we've done here.</text>
+		<text bitflag="1360" id1="460146" id2="17" version="1065353216">Kyrus has been spying.</text>
+		<text bitflag="1345" id1="460147" id2="17" version="1065353216">Somehow Kyrus knew exactly what you said to me before I left.</text>
+		<text bitflag="1360" id1="460147" id2="17" version="1065353216">He could quote you.</text>
+		<text bitflag="1345" id1="460148" id2="17" version="1065353216">That monitoring device Nadia found. It seems we do have a traitor on board.</text>
+		<text bitflag="1345" id1="460149" id2="17" version="1065353216">I should be able to sense any treachery through the Force.</text>
+		<text bitflag="1360" id1="460149" id2="17" version="1065353216">But I feel no deceit here.</text>
+		<text bitflag="1345" id1="460150" id2="17" version="1065353216">Naturally. Still, the evidence is there.</text>
+		<text bitflag="1345" id1="460152" id2="17" version="1065353216">If they've stayed hidden this long, we'll need more evidence to determine who they are.</text>
+		<text bitflag="1360" id1="460152" id2="17" version="1065353216">We must be vigilant, and wait.</text>
+		<text bitflag="1345" id1="460153" id2="17" version="1065353216">Yes, yes, that seems very sensible.</text>
+		<text bitflag="1345" id1="460155" id2="17" version="1065353216">If you've seen any of the diplomats acting suspiciously, tell me now.</text>
+		<text bitflag="1360" id1="460155" id2="17" version="1065353216">Any idea who it could be?</text>
+		<text bitflag="1345" id1="460156" id2="17" version="1065353216">I'm sorry, Jedi, but to me, everyone aboard acts strangely.</text>
+		<text bitflag="1345" id1="460158" id2="17" version="1065353216">Perhaps if we act normally, our &quot;guest&quot; will leave another clue.</text>
+		<text bitflag="1345" id1="460160" id2="17" version="1065353216">In the meantime, there may be another way for you to help the Rift Alliance. A group of our soldiers on Hoth has run into a... difficult situation.</text>
+		<text bitflag="1345" id1="460161" id2="17" version="1065353216">If you believe I can help, then please, go on.</text>
+		<text bitflag="1360" id1="460161" id2="17" version="1065353216">I'm at your service.</text>
+		<text bitflag="1345" id1="460162" id2="17" version="1065353216">What do you mean by &quot;difficult situation&quot;?</text>
+		<text bitflag="1360" id1="460162" id2="17" version="1065353216">Are these soldiers alright?</text>
+		<text bitflag="1345" id1="460163" id2="17" version="1065353216">It seems I can't earn the Rift Alliance's respect no matter what I do.</text>
+		<text bitflag="1360" id1="460163" id2="17" version="1065353216">Nothing will earn their trust.</text>
+		<text bitflag="1345" id1="460164" id2="17" version="1065353216">Didn't you see the others' faces? Don't lose hope now!</text>
+		<text bitflag="1345" id1="460166" id2="17" version="1065353216">Hoth is infested with pirates who harass our shipping lanes. So we formed a coalition force to handle them.</text>
+		<text bitflag="1345" id1="460168" id2="17" version="1065353216">A quick mission, we thought. But those pirates just can't be defeated, and the Republic won't spare any help.</text>
+		<text bitflag="1345" id1="460169" id2="17" version="1065353216">How could a group of pirates survive against a powerful coalition force?</text>
+		<text bitflag="1360" id1="460169" id2="17" version="1065353216">The pirates are that good?</text>
+		<text bitflag="1345" id1="460170" id2="17" version="1065353216">We're not sure. The reports we have from Hoth are... odd.</text>
+		<text bitflag="1345" id1="460172" id2="17" version="1065353216">I think this bears investigation.</text>
+		<text bitflag="1360" id1="460172" id2="17" version="1065353216">An intriguing situation.</text>
+		<text bitflag="1345" id1="460173" id2="17" version="1065353216">I'll help, but the other diplomats had better appreciate it.</text>
+		<text bitflag="1360" id1="460173" id2="17" version="1065353216">As long as this gets results.</text>
+		<text bitflag="1345" id1="460174" id2="17" version="1065353216">We can explain more when we arrive at Hoth. Until then, watch your back, Jedi.</text>
+		<text bitflag="1345" id1="460179" id2="17" version="1065353216">I'd better keep this brief. What do you know of a world called Quesh?</text>
+		<text bitflag="1345" id1="460180" id2="17" version="1065353216">Are you hiding something from the other diplomats?</text>
+		<text bitflag="1360" id1="460180" id2="17" version="1065353216">Wait, why the secrecy?</text>
+		<text bitflag="1345" id1="460181" id2="17" version="1065353216">Not, er, not exactly.</text>
+		<text bitflag="1360" id1="460183" id2="17" version="1065353216">Virtually nothing.</text>
+		<text bitflag="1360" id1="460184" id2="17" version="1065353216">Hurry this up.</text>
+		<text bitflag="1345" id1="460185" id2="17" version="1065353216">Quesh is a contested planet, simply overflowing with valuable chemicals. So the Rift Alliance built a research facility there. Attis Station.</text>
+		<text bitflag="1345" id1="460187" id2="17" version="1065353216">The station has developed amazing healing technology. Some new weapons, too.</text>
+		<text bitflag="1345" id1="460189" id2="17" version="1065353216">But they've dropped out of contact--and Imperial troops were sighted nearby. The others... didn't want you to know.</text>
+		<text bitflag="1345" id1="460190" id2="17" version="1065353216">Thank you for bringing this information to me.</text>
+		<text bitflag="1360" id1="460190" id2="17" version="1065353216">I'm glad you disagreed.</text>
+		<text bitflag="1345" id1="460191" id2="17" version="1065353216">They're still &quot;deciding the best course of action.&quot; Hmph. Isn't that what they accuse the Republic of always doing?</text>
+		<text bitflag="1345" id1="460193" id2="17" version="1065353216">I hoped I'd proven myself by helping Balmorra.</text>
+		<text bitflag="1360" id1="460193" id2="17" version="1065353216">Don't they trust me?</text>
+		<text bitflag="1345" id1="460194" id2="17" version="1065353216">Unfortunately, their &quot;we've been neglected&quot; attitude is hard to shake off.</text>
+		<text bitflag="1345" id1="460196" id2="17" version="1065353216">They chose to hide Attis Station's existence from me. Why should I concern myself with its fate?</text>
+		<text bitflag="1360" id1="460196" id2="17" version="1065353216">Then let them handle this.</text>
+		<text bitflag="1345" id1="460197" id2="17" version="1065353216">Please, Jedi, this facility must be saved.</text>
+		<text bitflag="1345" id1="460199" id2="17" version="1065353216">Attis Station houses the Rift Alliance's finest minds. And the technology and weapons they've developed mustn't fall into Imperial hands.</text>
+		<text bitflag="1345" id1="460200" id2="17" version="1065353216">What was the situation before Attis Station went silent?</text>
+		<text bitflag="1360" id1="460200" id2="17" version="1065353216">Do you know what happened?</text>
+		<text bitflag="1345" id1="460201" id2="17" version="1065353216">They sent a routine update, then we heard Imperial soldiers were in the area. Nothing more.</text>
+		<text bitflag="1360" id1="460203" id2="17" version="1065353216">I will ensure it doesn't.</text>
+		<text bitflag="1345" id1="460204" id2="17" version="1065353216">Thank you, thank you. I just wish I knew more about the situation there.</text>
+		<text bitflag="1345" id1="460206" id2="17" version="1065353216">If I do this, I hope Attis Station will be ready to share its knowledge.</text>
+		<text bitflag="1360" id1="460206" id2="17" version="1065353216">I'll expect a share.</text>
+		<text bitflag="1345" id1="460207" id2="17" version="1065353216">We'll find out when we arrive, won't we, Jedi?</text>
+		<text bitflag="1345" id1="460209" id2="17" version="1065353216">&quot;We&quot;? Young lady, you are not setting foot on Quesh! It's far too dangerous.</text>
+		<text bitflag="1345" id1="460211" id2="17" version="1065353216">But, Father, Attis Station was built with our world's technology. If someone's using the defenses, I can get inside.</text>
+		<text bitflag="1345" id1="460212" id2="17" version="1065353216">The faster I get in, the sooner I can protect the scientists there.</text>
+		<text bitflag="1360" id1="460212" id2="17" version="1065353216">She has a point.</text>
+		<text bitflag="1345" id1="460213" id2="17" version="1065353216">See, Father, we stand the best chance of saving everyone if I help.</text>
+		<text bitflag="1345" id1="460215" id2="17" version="1065353216">If anything happened to you, I'd never forgive myself.</text>
+		<text bitflag="1360" id1="460215" id2="17" version="1065353216">I don't want you hurt, Nadia.</text>
+		<text bitflag="1345" id1="460216" id2="17" version="1065353216">You won't have to protect me, promise. Just focus on saving the station and our scientists.</text>
+		<text bitflag="1345" id1="460218" id2="17" version="1065353216">As you wish, Nadia. Apparently, responsibility is a lesson you don't need.</text>
+		<text bitflag="1345" id1="460220" id2="17" version="1065353216">Don't be so disobedient, child. It's his decision.</text>
+		<text bitflag="1360" id1="460220" id2="17" version="1065353216">Listen to your father.</text>
+		<text bitflag="1345" id1="460221" id2="17" version="1065353216">I'm not a child. It's our station too, and I want to help. I won't get in your way.</text>
+		<text bitflag="1345" id1="460223" id2="17" version="1065353216">My daughter seems determined to help you, Jedi, like it or not.</text>
+		<text bitflag="1345" id1="460225" id2="17" version="1065353216">Then it's settled. Once you're on Quesh's surface, I'll catch up with you. If our station's even scratched, I'll teach those Imperials a lesson.</text>
+		<text bitflag="1345" id1="460229" id2="17" version="1065353216">A remarkable achievement. Balmorra couldn't ask for a better leader. Here, Jedi, I'll authorize Tai's request for Republic membership.</text>
+		<text bitflag="1345" id1="460231" id2="17" version="1065353216">Hey, Tai, you'd better get started on an heir. Presidents have heirs, right?</text>
+		<text bitflag="1345" id1="460233" id2="17" version="1065353216">You know, Nadia, I'm really going to miss you.</text>
+		<text bitflag="1345" id1="460235" id2="17" version="1065353216">Jedi has what she wanted, Tai--Balmorra in the Republic. Now I want a seat in your government.</text>
+		<text bitflag="1345" id1="460236" id2="17" version="1065353216">Tai, Jedi got his reward--Balmorra in the Republic. Mine? A seat in the new government, please.</text>
+		<text bitflag="1345" id1="460237" id2="17" version="1065353216">I can't imagine you settling down to paperwork and election campaigning.</text>
+		<text bitflag="1360" id1="460237" id2="17" version="1065353216">You, a politician?</text>
+		<text bitflag="1345" id1="460238" id2="17" version="1065353216">I have fresh ideas.</text>
+		<text bitflag="1360" id1="460240" id2="17" version="1065353216">I'm not sure about that.</text>
+		<text bitflag="1345" id1="460241" id2="17" version="1065353216">It's the least you owe him.</text>
+		<text bitflag="1360" id1="460241" id2="17" version="1065353216">Zenith deserves it, Tai.</text>
+		<text bitflag="1345" id1="460242" id2="17" version="1065353216">I'm sorry, Zenith. You've proved your loyalty, but I won't have you in my government.</text>
+		<text bitflag="1345" id1="460244" id2="17" version="1065353216">To truly free Balmorra, we must purge the ideas the Empire forced on us. You've learned too much from them.</text>
+		<text bitflag="1345" id1="460245" id2="17" version="1065353216">Any shadow of the dark side could doom Balmorra before this rebirth has begun.</text>
+		<text bitflag="1360" id1="460245" id2="17" version="1065353216">Tai is right.</text>
+		<text bitflag="1345" id1="460246" id2="17" version="1065353216">Jedi speak. Always useful.</text>
+		<text bitflag="1345" id1="460248" id2="17" version="1065353216">His dedication to your cause merits a reward.</text>
+		<text bitflag="1360" id1="460248" id2="17" version="1065353216">So he gets nothing?</text>
+		<text bitflag="1345" id1="460249" id2="17" version="1065353216">He's still an ally; he's not going away empty-handed.</text>
+		<text bitflag="1345" id1="460251" id2="17" version="1065353216">That's not what you said when you needed Zenith's followers to die for you.</text>
+		<text bitflag="1360" id1="460251" id2="17" version="1065353216">Quite the turnaround, Tai.</text>
+		<text bitflag="1345" id1="460252" id2="17" version="1065353216">You become president. My men get unmarked graves.</text>
+		<text bitflag="1345" id1="460254" id2="17" version="1065353216">I can compromise. I need a liaison between Balmorra and the Rift Alliance--and a berth here just opened up.</text>
+		<text bitflag="1345" id1="460256" id2="17" version="1065353216">You'll have political pull and input on my decisions. Just not on Balmorra. Is that acceptable?</text>
+		<text bitflag="1345" id1="460258" id2="17" version="1065353216">Huh. Jedi keeps a long view, makes tough choices. Might work.</text>
+		<text bitflag="1345" id1="460259" id2="17" version="1065353216">Hmm. Jedi does what's necessary. Could work out.</text>
+		<text bitflag="1345" id1="460260" id2="17" version="1065353216">Well, Jedi stays flexible. Smart. Might be interesting.</text>
+		<text bitflag="1345" id1="460262" id2="17" version="1065353216">I've ordered thousands of new battle droids for the Republic. I'll stay in touch over holo.</text>
+		<text bitflag="1345" id1="460264" id2="17" version="1065353216">Balmorra is waiting. I--and my planet--will never forget what you both did. Thank you.</text>
+		<text bitflag="1345" id1="460266" id2="17" version="1065353216">My apologies, everyone, could you excuse us for a moment?</text>
+		<text bitflag="1345" id1="460268" id2="17" version="1065353216">Jedi, I found something under our communications array. Look.</text>
+		<text bitflag="1345" id1="460269" id2="17" version="1065353216">I don't recognize that. Did Tharan install it?</text>
+		<text bitflag="1360" id1="460269" id2="17" version="1065353216">What is it?</text>
+		<text bitflag="1345" id1="460270" id2="17" version="1065353216">Nadia, I know you're new to space travel, but you can't go around pulling pieces off a starship.</text>
+		<text bitflag="1360" id1="460270" id2="17" version="1065353216">Don't dismantle my ship!</text>
+		<text bitflag="1345" id1="460271" id2="17" version="1065353216">It just came off in my hand.</text>
+		<text bitflag="1345" id1="460273" id2="17" version="1065353216">Please, it's been a long day.</text>
+		<text bitflag="1360" id1="460273" id2="17" version="1065353216">Not now, Nadia.</text>
+		<text bitflag="1345" id1="460274" id2="17" version="1065353216">I'm sorry, Jedi, but this is important.</text>
+		<text bitflag="1345" id1="460276" id2="17" version="1065353216">The Republic database says it's an Imperial monitoring device.</text>
+		<text bitflag="1345" id1="460278" id2="17" version="1065353216">Only someone on board would know where to plant it, right?</text>
+		<text bitflag="1345" id1="460279" id2="17" version="1065353216">If someone was plotting against us, I would feel it.</text>
+		<text bitflag="1360" id1="460279" id2="17" version="1065353216">I don't sense a traitor.</text>
+		<text bitflag="1345" id1="460280" id2="17" version="1065353216">With so many people coming and going, anyone could have put it there.</text>
+		<text bitflag="1360" id1="460280" id2="17" version="1065353216">Not necessarily.</text>
+		<text bitflag="1345" id1="460281" id2="17" version="1065353216">The Empire knows a communications array when it sees one.</text>
+		<text bitflag="1360" id1="460281" id2="17" version="1065353216">Imperial agents would too.</text>
+		<text bitflag="1345" id1="460282" id2="17" version="1065353216">Maybe, but... I thought you should know. It deactivated itself when I picked it up, so it's safe now.</text>
+		<text bitflag="1345" id1="460284" id2="17" version="1065353216">That, er, isn't our only concern.</text>
+		<text bitflag="1345" id1="460286" id2="17" version="1065353216">You shoot anyone without my order, and there will be trouble.</text>
+		<text bitflag="1360" id1="460286" id2="17" version="1065353216">Okay, but behave yourself.</text>
+		<text bitflag="1345" id1="460287" id2="17" version="1065353216">Think the rebellion's out of my system.</text>
+		<text bitflag="1345" id1="460289" id2="17" version="1065353216">I'm sure your skills and experience will continue to serve us well.</text>
+		<text bitflag="1360" id1="460289" id2="17" version="1065353216">I'd welcome your help.</text>
+		<text bitflag="1345" id1="460290" id2="17" version="1065353216">Sure, since Jedi attract fighting.</text>
+		<text bitflag="1345" id1="460294" id2="17" version="1065353216">Balmorra. Home. I never wanted to see it like this.</text>
+		<text bitflag="1345" id1="460296" id2="17" version="1065353216">I am--was--Balmorra's trade secretary. I was offworld when the Imperial occupation began, and my colleagues were exiled or killed. Our president....</text>
+		<text bitflag="1345" id1="460298" id2="17" version="1065353216">...he was taken, and who knows what he's suffered? Hiding or not, I now have seniority. If we free Balmorra, I become president.</text>
+		<text bitflag="1345" id1="460299" id2="17" version="1065353216">Balmorra's not a Republic world. Why is the Empire here?</text>
+		<text bitflag="1360" id1="460299" id2="17" version="1065353216">What do the Imperials want?</text>
+		<text bitflag="1345" id1="460300" id2="17" version="1065353216">Our droid manufacturing plants are fueling the Imperial war machine. They must be liberated!</text>
+		<text bitflag="1345" id1="460302" id2="17" version="1065353216">The Empire must know that you're next in line. You're lucky to be alive.</text>
+		<text bitflag="1360" id1="460302" id2="17" version="1065353216">You risk assassination.</text>
+		<text bitflag="1345" id1="460303" id2="17" version="1065353216">Several Republic worlds protected me. I owe them everything.</text>
+		<text bitflag="1345" id1="460305" id2="17" version="1065353216">The Imperial occupation has helped your career considerably.</text>
+		<text bitflag="1360" id1="460305" id2="17" version="1065353216">How fortunate for you.</text>
+		<text bitflag="1345" id1="460306" id2="17" version="1065353216">I never wanted this, but any other candidate may have been tainted by the Empire.</text>
+		<text bitflag="1345" id1="460308" id2="17" version="1065353216">And once our government is restored, I want Balmorra to join the Republic.</text>
+		<text bitflag="1345" id1="460309" id2="17" version="1065353216">As a Jedi, I must stop the suffering of your people.</text>
+		<text bitflag="1360" id1="460309" id2="17" version="1065353216">A noble goal. Let me help.</text>
+		<text bitflag="1345" id1="460310" id2="17" version="1065353216">Restoring the government will be no easy matter.</text>
+		<text bitflag="1360" id1="460310" id2="17" version="1065353216">We need a strategy.</text>
+		<text bitflag="1345" id1="460311" id2="17" version="1065353216">I have a plan. It's a little... unconventional.</text>
+		<text bitflag="1345" id1="460313" id2="17" version="1065353216">And Balmorra's weapons and droids would then help the Republic Army, correct?</text>
+		<text bitflag="1360" id1="460313" id2="17" version="1065353216">Along with your droid army.</text>
+		<text bitflag="1345" id1="460314" id2="17" version="1065353216">Naturally. I don't expect you to help me for free.</text>
+		<text bitflag="1345" id1="460316" id2="17" version="1065353216">Tai, this--it's madness! You d--don't have any supporters or soldiers, anything!</text>
+		<text bitflag="1345" id1="460318" id2="17" version="1065353216">That will change. Meanwhile, I have a contact who can help us: a revolutionary calling himself &quot;Zenith.&quot;</text>
+		<text bitflag="1345" id1="460320" id2="17" version="1065353216">Zenith and his followers have been sabotaging the Empire's operations. Assassination, sneak attacks--he's something of a blunt instrument.</text>
+		<text bitflag="1345" id1="460321" id2="17" version="1065353216">How can we place our trust in such a man?</text>
+		<text bitflag="1360" id1="460321" id2="17" version="1065353216">He sounds dangerous.</text>
+		<text bitflag="1345" id1="460322" id2="17" version="1065353216">Zenith is connected and he hates the Empire. I don't have the luxury of being judgmental.</text>
+		<text bitflag="1345" id1="460324" id2="17" version="1065353216">How does Zenith fit into your plans?</text>
+		<text bitflag="1360" id1="460324" id2="17" version="1065353216">What do you intend?</text>
+		<text bitflag="1345" id1="460325" id2="17" version="1065353216">At least this Zenith is standing up to the Empire.</text>
+		<text bitflag="1360" id1="460325" id2="17" version="1065353216">I like him already.</text>
+		<text bitflag="1345" id1="460326" id2="17" version="1065353216">I need his knowledge and resources. But first, we have to find him.</text>
+		<text bitflag="1345" id1="460328" id2="17" version="1065353216">When you're on the surface, go to this location and enter the phrase &quot;two perspectives are aligned&quot; into the computer there.</text>
+		<text bitflag="1345" id1="460330" id2="17" version="1065353216">It'll get Zenith's attention. Hopefully, he'll be amenable.</text>
+		<text bitflag="1345" id1="460331" id2="17" version="1065353216">Is there anything in particular you want me to tell him?</text>
+		<text bitflag="1360" id1="460331" id2="17" version="1065353216">Do you have a message?</text>
+		<text bitflag="1345" id1="460332" id2="17" version="1065353216">Say whatever you need to, just get him on our side.</text>
+		<text bitflag="1360" id1="460334" id2="17" version="1065353216">I'll talk him around.</text>
+		<text bitflag="1345" id1="460335" id2="17" version="1065353216">I will handle him according to my judgment, not yours.</text>
+		<text bitflag="1360" id1="460335" id2="17" version="1065353216">I'll see when I meet him.</text>
+		<text bitflag="1345" id1="460336" id2="17" version="1065353216">Best of luck. I've been... waiting to return for so long.</text>
+		<text bitflag="1345" id1="460343" id2="17" version="1065353216">L--looks like we're safe. But, um, what happens now?</text>
+		<text bitflag="1345" id1="460345" id2="17" version="1065353216">As I understand it, we've been given a Jedi Master to address our every need. Right?</text>
+		<text bitflag="1345" id1="460346" id2="17" version="1065353216">My role is to take care of your problems, and prove the Republic respects and values you.</text>
+		<text bitflag="1360" id1="460346" id2="17" version="1065353216">Something like that.</text>
+		<text bitflag="1345" id1="460347" id2="17" version="1065353216">&quot;Every need&quot; may be a little strong. I'm here to secure your place in the Republic.</text>
+		<text bitflag="1360" id1="460347" id2="17" version="1065353216">Not exactly....</text>
+		<text bitflag="1345" id1="460348" id2="17" version="1065353216">Excellent, excellent. Shall I introduce everyone? First....</text>
+		<text bitflag="1345" id1="460350" id2="17" version="1065353216">The Chancellor's seen you growing away from the Republic. I'm here to ensure that doesn't happen.</text>
+		<text bitflag="1360" id1="460350" id2="17" version="1065353216">Wrong.</text>
+		<text bitflag="1345" id1="460351" id2="17" version="1065353216">Er, yes, yes. I should introduce everyone. First, we have....</text>
+		<text bitflag="1345" id1="460353" id2="17" version="1065353216">Representative Alauni, who can introduce herself.</text>
+		<text bitflag="1345" id1="460355" id2="17" version="1065353216">This is Diab Duin. He represents a planet rich in... &quot;lightsaber&quot; crystals, you call them?</text>
+		<text bitflag="3393" id1="460357" id2="17" version="1065353216">Yes. Beautiful things. Break easily.</text>
+		<text bitflag="1345" id1="460359" id2="17" version="1065353216">Hello. Tai Cordan, trade secretary for Balmorra. You're the &quot;Barsen'thor,&quot; the Warden of the Jedi Order, right?</text>
+		<text bitflag="1345" id1="460360" id2="17" version="1065353216">Being a Jedi is honor enough. Barsen'thor is merely a ceremonial rank.</text>
+		<text bitflag="1360" id1="460360" id2="17" version="1065353216">I'm no one special.</text>
+		<text bitflag="1345" id1="460361" id2="17" version="1065353216">Yes. I didn't know my rank was common knowledge in the Republic.</text>
+		<text bitflag="1360" id1="460361" id2="17" version="1065353216">You're very well informed.</text>
+		<text bitflag="1345" id1="460362" id2="17" version="1065353216">You should feel honored, that someone of my rank would see to your grievances.</text>
+		<text bitflag="1360" id1="460362" id2="17" version="1065353216">And you're lucky to have me.</text>
+		<text bitflag="1345" id1="460363" id2="17" version="1065353216">Next is Shuuru. He's from a water planet called, er....</text>
+		<text bitflag="3393" id1="460365" id2="17" version="1065353216">Manaan! Good to know my devastated world is so memorable!</text>
+		<text bitflag="1345" id1="460367" id2="17" version="1065353216">I--I'm Blaesus. If you need any help from... not that you'd need... um, hello.</text>
+		<text bitflag="1345" id1="460369" id2="17" version="1065353216">And I'm Senator Tobas Grell. My daughter and I are from Sarkhai; we've, ah, only just joined the Republic.</text>
+		<text bitflag="1345" id1="460371" id2="17" version="1065353216">But we were invited to join this Rift Alliance almost right away. Wasn't that nice?</text>
+		<text bitflag="1345" id1="460372" id2="17" version="1065353216">I'd love to hear all about your planet and culture, when we have time.</text>
+		<text bitflag="1360" id1="460372" id2="17" version="1065353216">Newcomers? How fascinating.</text>
+		<text bitflag="1360" id1="460373" id2="17" version="1065353216">Nice to meet everyone.</text>
+		<text bitflag="1345" id1="460374" id2="17" version="1065353216">We certainly don't lack for diversity.</text>
+		<text bitflag="1360" id1="460374" id2="17" version="1065353216">Quite the menagerie....</text>
+		<text bitflag="1345" id1="460375" id2="17" version="1065353216">Ah, the Republic. Good at words, but nothing else. If you're really here to help us, prove it.</text>
+		<text bitflag="1345" id1="460377" id2="17" version="1065353216">What about Tai? His world's under Imperial occupation, and the Republic's utterly failed to liberate them. Twice!</text>
+		<text bitflag="1345" id1="460379" id2="17" version="1065353216">Alauni, there were good reasons for the Republic to pull out. Even I see that.</text>
+		<text bitflag="1345" id1="460381" id2="17" version="1065353216">Although, if you did help to free Balmorra, Jedi, you'd certainly prove the Republic isn't a &quot;failure&quot;...</text>
+		<text bitflag="1345" id1="460382" id2="17" version="1065353216">An Imperial occupation is reason enough to assist you.</text>
+		<text bitflag="1360" id1="460382" id2="17" version="1065353216">I'd help you regardless.</text>
+		<text bitflag="1345" id1="460383" id2="17" version="1065353216">No simple task, even for a Jedi.</text>
+		<text bitflag="1360" id1="460383" id2="17" version="1065353216">Liberate an entire planet?</text>
+		<text bitflag="1345" id1="460384" id2="17" version="1065353216">True, but I've had years to plan.</text>
+		<text bitflag="1345" id1="460386" id2="17" version="1065353216">Technically Balmorra's not a Republic world, just a Republic ally. But the Empire didn't care.</text>
+		<text bitflag="1345" id1="460388" id2="17" version="1065353216">Balmorra has never been part of the Republic. It's just an ally.</text>
+		<text bitflag="1360" id1="460388" id2="17" version="1065353216">You're not a Republic world.</text>
+		<text bitflag="1345" id1="460389" id2="17" version="1065353216">You know your politics. But things change.</text>
+		<text bitflag="1345" id1="460391" id2="17" version="1065353216">Since the occupation, Balmorra's government has been in exile, myself included, and our droid factories are under Imperial control.</text>
+		<text bitflag="1345" id1="460393" id2="17" version="1065353216">But, if Balmorra's liberated, I'll see we join the Republic. And bring our droid armies with us.</text>
+		<text bitflag="1345" id1="460394" id2="17" version="1065353216">The Republic would be honored to have you.</text>
+		<text bitflag="1360" id1="460394" id2="17" version="1065353216">We'd certainly welcome you.</text>
+		<text bitflag="1345" id1="460395" id2="17" version="1065353216">In that case, I will see what I can do.</text>
+		<text bitflag="1360" id1="460395" id2="17" version="1065353216">A fair exchange.</text>
+		<text bitflag="1345" id1="460396" id2="17" version="1065353216">I shall hold you to that promise after we celebrate victory.</text>
+		<text bitflag="1360" id1="460396" id2="17" version="1065353216">Droid armies sound promising.</text>
+		<text bitflag="1345" id1="460397" id2="17" version="1065353216">The Republic actually helping Balmorra? That would be... a start.</text>
+		<text bitflag="1345" id1="460398" id2="17" version="1065353216">Now more than ever, we must stand together. And I will prove how much the Republic cares about you.</text>
+		<text bitflag="1360" id1="460398" id2="17" version="1065353216">We must work as one.</text>
+		<text bitflag="1345" id1="460399" id2="17" version="1065353216">If Balmorra's people are suffering under the Empire, we shouldn't waste time.</text>
+		<text bitflag="1360" id1="460399" id2="17" version="1065353216">Then I should begin.</text>
+		<text bitflag="1345" id1="460400" id2="17" version="1065353216">Either we work together, or the Empire will destroy us. You'll see the Republic's true strength, but we expect your full support in return.</text>
+		<text bitflag="1360" id1="460400" id2="17" version="1065353216">You have to cooperate with me.</text>
+		<text bitflag="3393" id1="460401" id2="17" version="1065353216">Well, the Fortitude's done for. It seems we're stuck here. At least we can keep an eye on things.</text>
+		<text bitflag="1345" id1="460403" id2="17" version="1065353216">Yes, that s-sounds like a good idea.</text>
+		<text bitflag="1345" id1="460405" id2="17" version="1065353216">On a Jedi's ship! I never dreamed I'd--I can't wait to see everything!</text>
+		<text bitflag="1345" id1="460409" id2="17" version="1065353216">I choose who does or does not travel on my ship, and Zenith doesn't.</text>
+		<text bitflag="1360" id1="460409" id2="17" version="1065353216">No. I'm not taking him.</text>
+		<text bitflag="1345" id1="460410" id2="17" version="1065353216">I apologize. In that case... maybe a field position fighting the Empire?</text>
+		<text bitflag="1345" id1="460412" id2="17" version="1065353216">Acceptable. For now.</text>
+		<text bitflag="1345" id1="460414" id2="17" version="1065353216">We should go. Thank you, Jedi. I--and Balmorra--owe you everything.</text>
+		<text bitflag="1360" id1="759196" id2="17" version="1065353216">We'll see, Zenith.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/spvp/roles.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="764835" version="1065353216">Bomber</text>
+		<text bitflag="321" id1="257" id2="764835" version="1065353216">Gunship</text>
+		<text bitflag="321" id1="258" id2="764835" version="1065353216">Strike Fighter</text>
+		<text bitflag="321" id1="259" id2="764835" version="1065353216">Infiltrator</text>
+		<text bitflag="321" id1="260" id2="764835" version="1065353216">Scout</text>
+	</file_content>
+</stb_file>

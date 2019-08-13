@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>27</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/bronze/republic/trapped/dead_republic_soldier.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="233948" id2="17" version="1065353216">Your men are relying on you to get them through this. Be their example.</text>
+		<text bitflag="1360" id1="233948" id2="17" version="1065353216">Stay strong, Sergeant.</text>
+		<text bitflag="1345" id1="233957" id2="17" version="1065353216">Your walker must have tools or spare oxygen, something you could improvise with.</text>
+		<text bitflag="1360" id1="233957" id2="17" version="1065353216">No emergency gear?</text>
+		<text bitflag="1345" id1="233961" id2="17" version="1065353216">I found this datapad on a soldier's body. The rescue team didn't make it.</text>
+		<text bitflag="1360" id1="233961" id2="17" version="1065353216">Your rescuers are dead.</text>
+		<text bitflag="1345" id1="233968" id2="17" version="1065353216">If there's Imperials around, you'll need to move as soon as you're out.</text>
+		<text bitflag="1360" id1="233968" id2="17" version="1065353216">Get your men ready to go.</text>
+		<text bitflag="3393" id1="692786" id2="17" version="1065353216">Oh, at last! We're running out of air, the door's jammed too tight to--</text>
+		<text bitflag="3393" id1="692788" id2="17" version="1065353216">Wait, who're you? Where's our rescue team?</text>
+		<text bitflag="3393" id1="692790" id2="17" version="1065353216">Wait, who are you people? Where's our rescue team?</text>
+		<text bitflag="3393" id1="692792" id2="17" version="1065353216">Our walker was attacked by Imperials, all systems are disabled--we're trapped in here, we need help!</text>
+		<text bitflag="3393" id1="692793" id2="17" version="1065353216">Y--yessir. But I don't know how much longer we can hold out.</text>
+		<text bitflag="1360" id1="692795" id2="17" version="1065353216">Panicking won't help.</text>
+		<text bitflag="3393" id1="692796" id2="17" version="1065353216">All right. Okay. Let me think.</text>
+		<text bitflag="1360" id1="692798" id2="17" version="1065353216">Give me a status report.</text>
+		<text bitflag="3393" id1="692799" id2="17" version="1065353216">The Imperial squad that attacked us is still around. I can hear people outside, but no one's trying to get us out.</text>
+		<text bitflag="3393" id1="692801" id2="17" version="1065353216">We used our backup gear getting civilians out of the rubble. Please, we don't have a lot of time!</text>
+		<text bitflag="1360" id1="692803" id2="17" version="1065353216">Where's your walker?</text>
+		<text bitflag="3393" id1="692804" id2="17" version="1065353216">Then you're the only chance we have!</text>
+		<text bitflag="3393" id1="692806" id2="17" version="1065353216">The rescue team should have been carrying cutting gear. The door's jammed, there's no power. Those tools are our only way out.</text>
+		<text bitflag="3393" id1="692808" id2="17" version="1065353216">Our coordinates will be in that datapad. Please, the Imperials could finish us off any minute now.</text>
+		<text bitflag="1360" id1="692809" id2="17" version="1065353216">I'm coming to help.</text>
+		<text bitflag="3393" id1="692810" id2="17" version="1065353216">Trust me, we're more than ready to get out of here!</text>
+		<text bitflag="3393" id1="692812" id2="17" version="1065353216">Make sure you bring the tools. We'll be waiting!</text>
+		<text bitflag="1360" id1="692814" id2="17" version="1065353216">I can't. [Refuse quest]</text>
+		<text bitflag="3393" id1="692815" id2="17" version="1065353216">But what could be more important than--no, the signal's failing! Help! Someone--anyone!</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>71</strs>
+		<file_name>/resources/en-us/str/gui/facialreconstruction.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="514535" version="1065353216">CHANGE APPEARANCE</text>
+		<text bitflag="321" id1="2" id2="514535" version="1065353216">Commit all appearance changes.</text>
+		<text bitflag="321" id1="3" id2="514535" version="1065353216">RESET APPEARANCE</text>
+		<text bitflag="321" id1="4" id2="514535" version="1065353216">Discard all appearance changes.</text>
+		<text bitflag="321" id1="5" id2="514535" version="1065353216">CHARACTER CUSTOMIZATION</text>
+		<text bitflag="321" id1="6" id2="514535" version="1065353216">Adjust Appearance:</text>
+		<text bitflag="321" id1="256" id2="514535" version="1065353216">Customization Cost</text>
+		<text bitflag="321" id1="257" id2="514535" version="1065353216">Cartel Coin Balance</text>
+		<text bitflag="321" id1="260" id2="514535" version="1065353216">When changing your species, additional customization options are free.</text>
+		<text bitflag="321" id1="261" id2="514535" version="1065353216">&lt;&lt;1&gt;&gt;% off &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="262" id2="514535" version="1065353216">You do not have enough Cartel Coins to make this purchase.</text>
+		<text bitflag="321" id1="263" id2="514535" version="1065353216">&lt;&lt;3&gt;&gt;: &lt;&lt;1&gt;&gt;% off &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="264" id2="514535" version="1065353216">Species</text>
+		<text bitflag="321" id1="265" id2="514535" version="1065353216">DISCOUNTS</text>
+		<text bitflag="321" id1="268" id2="514535" version="1065353216">EXIT</text>
+		<text bitflag="321" id1="269" id2="514535" version="1065353216">Exit without changing character appearance.</text>
+		<text bitflag="321" id1="270" id2="514535" version="1065353216">Unlock Cost</text>
+		<text bitflag="321" id1="271" id2="514535" version="1065353216">Credits Balance</text>
+		<text bitflag="321" id1="272" id2="514535" version="1065353216">Are you sure you wish to make these changes?  Your appearance will be updated.</text>
+		<text bitflag="321" id1="273" id2="514535" version="1065353216">Species</text>
+		<text bitflag="321" id1="274" id2="514535" version="1065353216">Select a species. You may purchase the Legacy species unlock as well.</text>
+		<text bitflag="321" id1="275" id2="514535" version="1065353216">Body Type</text>
+		<text bitflag="321" id1="276" id2="514535" version="1065353216">Select a body type.</text>
+		<text bitflag="321" id1="277" id2="514535" version="1065353216">Head</text>
+		<text bitflag="321" id1="278" id2="514535" version="1065353216">Select a head shape.</text>
+		<text bitflag="321" id1="279" id2="514535" version="1065353216">Scars</text>
+		<text bitflag="321" id1="280" id2="514535" version="1065353216">Change facial scarring.</text>
+		<text bitflag="321" id1="281" id2="514535" version="1065353216">Complexion</text>
+		<text bitflag="321" id1="282" id2="514535" version="1065353216">Change skin complexion.</text>
+		<text bitflag="321" id1="283" id2="514535" version="1065353216">Eye Color</text>
+		<text bitflag="321" id1="284" id2="514535" version="1065353216">Select an eye color.</text>
+		<text bitflag="321" id1="285" id2="514535" version="1065353216">Select a hair style.</text>
+		<text bitflag="321" id1="286" id2="514535" version="1065353216">Cybernetics</text>
+		<text bitflag="321" id1="287" id2="514535" version="1065353216">Select a cybernetic style.</text>
+		<text bitflag="321" id1="288" id2="514535" version="1065353216">Complexion</text>
+		<text bitflag="321" id1="289" id2="514535" version="1065353216">Select a complexion.</text>
+		<text bitflag="321" id1="290" id2="514535" version="1065353216">Skin Color</text>
+		<text bitflag="321" id1="291" id2="514535" version="1065353216">Select a skin color.</text>
+		<text bitflag="321" id1="292" id2="514535" version="1065353216">Hair Color</text>
+		<text bitflag="321" id1="293" id2="514535" version="1065353216">Select a hair color.</text>
+		<text bitflag="321" id1="294" id2="514535" version="1065353216">Hair</text>
+		<text bitflag="321" id1="295" id2="514535" version="1065353216">Select a beard style.</text>
+		<text bitflag="321" id1="296" id2="514535" version="1065353216">Beards</text>
+		<text bitflag="321" id1="297" id2="514535" version="1065353216">Select a cosmetics style.</text>
+		<text bitflag="321" id1="298" id2="514535" version="1065353216">Cosmetics</text>
+		<text bitflag="321" id1="299" id2="514535" version="1065353216">Select jewelry.</text>
+		<text bitflag="321" id1="300" id2="514535" version="1065353216">Jewelry</text>
+		<text bitflag="321" id1="301" id2="514535" version="1065353216">Select mask style.</text>
+		<text bitflag="321" id1="302" id2="514535" version="1065353216">Masks</text>
+		<text bitflag="321" id1="303" id2="514535" version="1065353216">Select a combination of patterns and cosmetics.</text>
+		<text bitflag="321" id1="304" id2="514535" version="1065353216">Patterns and Cosmetics</text>
+		<text bitflag="321" id1="305" id2="514535" version="1065353216">Select a pattern style.</text>
+		<text bitflag="321" id1="306" id2="514535" version="1065353216">Patterns</text>
+		<text bitflag="321" id1="307" id2="514535" version="1065353216">Select a tattoo style.</text>
+		<text bitflag="321" id1="308" id2="514535" version="1065353216">Tattoos</text>
+		<text bitflag="321" id1="309" id2="514535" version="1065353216">Select a style of horns and hair.</text>
+		<text bitflag="321" id1="310" id2="514535" version="1065353216">Horns and Hair</text>
+		<text bitflag="321" id1="311" id2="514535" version="1065353216">Select a headband.</text>
+		<text bitflag="321" id1="312" id2="514535" version="1065353216">Headbands</text>
+		<text bitflag="321" id1="313" id2="514535" version="1065353216">Select a fur color.</text>
+		<text bitflag="321" id1="314" id2="514535" version="1065353216">Fur Color</text>
+		<text bitflag="321" id1="315" id2="514535" version="1065353216">Select a pattern of slave brands.</text>
+		<text bitflag="321" id1="316" id2="514535" version="1065353216">Slave Brands</text>
+		<text bitflag="321" id1="318" id2="514535" version="1065353216">Cartel Market Option</text>
+		<text bitflag="321" id1="319" id2="514535" version="1065353216">Legacy Option</text>
+		<text bitflag="321" id1="320" id2="514535" version="1065353216">Montrals</text>
+		<text bitflag="321" id1="321" id2="514535" version="1065353216">Select a style and pattern of Montrals and Lekku</text>
+		<text bitflag="321" id1="322" id2="514535" version="1065353216">Montrals and Lekku Pattern Color</text>
+		<text bitflag="321" id1="323" id2="514535" version="1065353216">Select a color for your montrals and lekku pattern.</text>
+		<text bitflag="321" id1="324" id2="514535" version="1065353216">Face Pattern</text>
+		<text bitflag="321" id1="325" id2="514535" version="1065353216">Select a pattern for your facial markings.</text>
+	</file_content>
+</stb_file>

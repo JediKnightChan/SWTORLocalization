@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>42</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/bounty_hunter/chapter_3/event_and_finale/captain_evlen.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="461699" id2="17" version="1065353216">I am Captain Evlen, commanding officer of the Tyrant. You are Darth Tormen's bounty hunter?</text>
+		<text bitflag="1345" id1="461700" id2="17" version="1065353216">Darth Tormen instructed me to rendezvous with the Tyrant here.</text>
+		<text bitflag="1360" id1="461700" id2="17" version="1065353216">That's correct.</text>
+		<text bitflag="1345" id1="461701" id2="17" version="1065353216">Good. Pay attention, we don't have much time.</text>
+		<text bitflag="1345" id1="461703" id2="17" version="1065353216">What's with the blaster fire in the background?</text>
+		<text bitflag="1360" id1="461703" id2="17" version="1065353216">Who's shooting?</text>
+		<text bitflag="1345" id1="461704" id2="17" version="1065353216">We've been boarded. The situation is bad.</text>
+		<text bitflag="1345" id1="461706" id2="17" version="1065353216">I don't answer to Tormen, or you.</text>
+		<text bitflag="1360" id1="461706" id2="17" version="1065353216">I'm not &quot;his&quot; anything.</text>
+		<text bitflag="1345" id1="461707" id2="17" version="1065353216">Then consider this an urgent request.</text>
+		<text bitflag="1345" id1="461709" id2="17" version="1065353216">Republic special forces slipped on board during our troop withdrawal. They've completely overrun the command decks.</text>
+		<text bitflag="1345" id1="461711" id2="17" version="1065353216">It won't be long before we lose the bridge. If you act quickly, we might be able to turn things around.</text>
+		<text bitflag="1345" id1="461712" id2="17" version="1065353216">What do you need me to do, Captain?</text>
+		<text bitflag="1360" id1="461712" id2="17" version="1065353216">How can I help?</text>
+		<text bitflag="1345" id1="461713" id2="17" version="1065353216">Darth Tormen can't handle this himself?</text>
+		<text bitflag="1360" id1="461713" id2="17" version="1065353216">What about the Sith Lord?</text>
+		<text bitflag="1345" id1="461714" id2="17" version="1065353216">He went to deal with the attackers personally, but his soldiers are sealed off from the bulk of the fighting.</text>
+		<text bitflag="1360" id1="461716" id2="17" version="1065353216">I won't do it for free.</text>
+		<text bitflag="1345" id1="461717" id2="17" version="1065353216">You'll get whatever I can give you, but not if we lose this ship!</text>
+		<text bitflag="1345" id1="461719" id2="17" version="1065353216">The boarders initiated a complete lockdown, trapping our defenders in the sub-decks. I need you to undo their tampering.</text>
+		<text bitflag="1345" id1="461721" id2="17" version="1065353216">With their overrides disabled, we can unseal the locked decks from the bridge, so Darth Tormen and his soldiers can retake control.</text>
+		<text bitflag="1345" id1="461722" id2="17" version="1065353216">Give me the where and how.</text>
+		<text bitflag="1360" id1="461722" id2="17" version="1065353216">What's the plan?</text>
+		<text bitflag="1360" id1="461723" id2="17" version="1065353216">You're in good hands.</text>
+		<text bitflag="1345" id1="461724" id2="17" version="1065353216">If I didn't believe that, I wouldn't have asked.</text>
+		<text bitflag="1360" id1="461726" id2="17" version="1065353216">This'll be a cakewalk.</text>
+		<text bitflag="1345" id1="461727" id2="17" version="1065353216">The boarders are not your primary concern. No unnecessary risks.</text>
+		<text bitflag="1345" id1="461729" id2="17" version="1065353216">I'm transmitting the location of the ship's network junctions; restore the systems and we can handle the rest.</text>
+		<text bitflag="1345" id1="461731" id2="17" version="1065353216">I've opened the docking bays and disabled our weapons, you can make a safe landing if you hurry. The window of opportunity is--</text>
+		<text bitflag="1345" id1="461733" id2="17" version="1065353216">Now or never.</text>
+		<text bitflag="1345" id1="461735" id2="17" version="1065353216">If we're going to land, we'd better do it before the boarders get the turbolasers back online.</text>
+		<text bitflag="1345" id1="461736" id2="17" version="1065353216">We're in for a rough landing.</text>
+		<text bitflag="1360" id1="461736" id2="17" version="1065353216">Strap in.</text>
+		<text bitflag="1345" id1="461737" id2="17" version="1065353216">Business as usual then.</text>
+		<text bitflag="1345" id1="461738" id2="17" version="1065353216">Figures I'd have a big lunch.</text>
+		<text bitflag="1345" id1="461739" id2="17" version="1065353216">The Imperials aren't gonna save themselves.</text>
+		<text bitflag="1360" id1="461739" id2="17" version="1065353216">Guess we should help.</text>
+		<text bitflag="1345" id1="461740" id2="17" version="1065353216">Never do.</text>
+		<text bitflag="1345" id1="461741" id2="17" version="1065353216">Can't wait to rub this rescue in Tormen's face.</text>
+		<text bitflag="1360" id1="461741" id2="17" version="1065353216">The Sith won't live this down.</text>
+		<text bitflag="1345" id1="461742" id2="17" version="1065353216">If you're gonna rub his face in somethin', make it the dirt.</text>
+		<text bitflag="1345" id1="461743" id2="17" version="1065353216">Please don't....</text>
+	</file_content>
+</stb_file>

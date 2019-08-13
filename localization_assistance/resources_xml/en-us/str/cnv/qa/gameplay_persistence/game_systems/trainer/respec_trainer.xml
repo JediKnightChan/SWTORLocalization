@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/qa/gameplay_persistence/game_systems/trainer/respec_trainer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1104" id1="1058589" id2="17" version="1065353216">[Reset all training points in skill tree]</text>
+		<text bitflag="3137" id1="1058590" id2="17" version="1065353216">Close your eyes and free your mind.</text>
+		<text bitflag="1104" id1="1058594" id2="17" version="1065353216">[Do not reset skill points]</text>
+	</file_content>
+</stb_file>

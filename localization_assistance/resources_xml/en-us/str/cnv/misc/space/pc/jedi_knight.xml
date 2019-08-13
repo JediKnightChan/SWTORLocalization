@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>58</strs>
+		<file_name>/resources/en-us/str/cnv/misc/space/pc/jedi_knight.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="570214" id2="17" version="1065353216">Hang on tight!</text>
+		<text bitflag="1345" id1="570216" id2="17" version="1065353216">Thrusters at max.</text>
+		<text bitflag="1345" id1="570218" id2="17" version="1065353216">Keep our shields up.</text>
+		<text bitflag="1345" id1="570220" id2="17" version="1065353216">Getting power fluctuations.</text>
+		<text bitflag="1345" id1="570222" id2="17" version="1065353216">Engines can't take this....</text>
+		<text bitflag="1345" id1="570224" id2="17" version="1065353216">Prep the defense grid.</text>
+		<text bitflag="1345" id1="570226" id2="17" version="1065353216">That was easy enough.</text>
+		<text bitflag="1345" id1="570228" id2="17" version="1065353216">What happened?</text>
+		<text bitflag="1345" id1="570230" id2="17" version="1065353216">All systems nominal.</text>
+		<text bitflag="1345" id1="570232" id2="17" version="1065353216">All crew to your stations!</text>
+		<text bitflag="1345" id1="570234" id2="17" version="1065353216">This is getting rough....</text>
+		<text bitflag="1345" id1="570237" id2="17" version="1065353216">Damage minimal.</text>
+		<text bitflag="1345" id1="570239" id2="17" version="1065353216">Is anyone hurt?</text>
+		<text bitflag="1345" id1="570241" id2="17" version="1065353216">Stabilize the reactor!</text>
+		<text bitflag="1345" id1="570243" id2="17" version="1065353216">Weapons online!</text>
+		<text bitflag="1345" id1="570245" id2="17" version="1065353216">We're almost there....</text>
+		<text bitflag="1345" id1="570247" id2="17" version="1065353216">Inertial dampeners failing!</text>
+		<text bitflag="1345" id1="570250" id2="17" version="1065353216">Enemy destroyed.</text>
+		<text bitflag="1345" id1="570252" id2="17" version="1065353216">Target down.</text>
+		<text bitflag="1345" id1="570254" id2="17" version="1065353216">Ouch. Sorry, friend....</text>
+		<text bitflag="1345" id1="570256" id2="17" version="1065353216">The Force is with us!</text>
+		<text bitflag="1345" id1="570258" id2="17" version="1065353216">Who needs targeting computers?</text>
+		<text bitflag="1345" id1="570260" id2="17" version="1065353216">Make way for the Jedi!</text>
+		<text bitflag="1345" id1="570262" id2="17" version="1065353216">Retreat is their only option!</text>
+		<text bitflag="1345" id1="570265" id2="17" version="1065353216">Shuttle located. Moving to intercept.</text>
+		<text bitflag="1345" id1="570267" id2="17" version="1065353216">Why are we moving toward them?</text>
+		<text bitflag="1345" id1="570270" id2="17" version="1065353216">I found the shuttle.</text>
+		<text bitflag="1345" id1="570272" id2="17" version="1065353216">That pilot must be crazy.</text>
+		<text bitflag="1345" id1="570274" id2="17" version="1065353216">That looks dangerous.</text>
+		<text bitflag="1345" id1="570277" id2="17" version="1065353216">Attack run initiated.</text>
+		<text bitflag="1345" id1="570280" id2="17" version="1065353216">Defend the station!</text>
+		<text bitflag="1345" id1="570283" id2="17" version="1065353216">Enemy destroyer detected!</text>
+		<text bitflag="1345" id1="570286" id2="17" version="1065353216">Target in view!</text>
+		<text bitflag="1345" id1="570289" id2="17" version="1065353216">That must be the mine tender.</text>
+		<text bitflag="1345" id1="1043036" id2="17" version="1065353216">Blow the shield generators!</text>
+		<text bitflag="1345" id1="1043039" id2="17" version="1065353216">Where are they all coming from?</text>
+		<text bitflag="1345" id1="1043056" id2="17" version="1065353216">Hit the satellites. Blow those shields!</text>
+		<text bitflag="1345" id1="1043073" id2="17" version="1065353216">May the Force be with us.</text>
+		<text bitflag="1345" id1="1043090" id2="17" version="1065353216">We should have brought a fleet.</text>
+		<text bitflag="1345" id1="1043107" id2="17" version="1065353216">There's our target!</text>
+		<text bitflag="1345" id1="1043124" id2="17" version="1065353216">We're in for a fight.</text>
+		<text bitflag="1345" id1="1043141" id2="17" version="1065353216">Knock that cargo loose. Carefully...</text>
+		<text bitflag="1345" id1="1043395" id2="17" version="1065353216">These are no rookies...</text>
+		<text bitflag="1345" id1="1043413" id2="17" version="1065353216">We can't last against those satellites.</text>
+		<text bitflag="1345" id1="1043545" id2="17" version="1065353216">We can't let the bombers reach that station.</text>
+		<text bitflag="1345" id1="1043563" id2="17" version="1065353216">Target the bridge of every ship!</text>
+		<text bitflag="1345" id1="1043581" id2="17" version="1065353216">There's the mine tender. Take him down!</text>
+		<text bitflag="1345" id1="1043599" id2="17" version="1065353216">Is he using the Force?</text>
+		<text bitflag="1345" id1="1043617" id2="17" version="1065353216">This will be tight.</text>
+		<text bitflag="1345" id1="1043635" id2="17" version="1065353216">Someone's after revenge...</text>
+		<text bitflag="1345" id1="1043653" id2="17" version="1065353216">You've got an opening. We'll cover you!</text>
+		<text bitflag="1345" id1="1043671" id2="17" version="1065353216">The Republic cavalry arrives. Just in time.</text>
+		<text bitflag="1345" id1="1043689" id2="17" version="1065353216">Don't lose that shuttle. I'll deal with their friend.</text>
+		<text bitflag="1345" id1="1043707" id2="17" version="1065353216">Knock out the bridge!</text>
+		<text bitflag="1345" id1="1043725" id2="17" version="1065353216">Aim for the shield generators. It's our only chance!</text>
+		<text bitflag="1345" id1="1043743" id2="17" version="1065353216">The fleet will arrive any minute. We've got to hit those cannons!</text>
+		<text bitflag="1345" id1="1043761" id2="17" version="1065353216">No reason to stop now. Let's get everything we can.</text>
+		<text bitflag="1345" id1="1043779" id2="17" version="1065353216">Incoming reinforcements. Look out!</text>
+	</file_content>
+</stb_file>

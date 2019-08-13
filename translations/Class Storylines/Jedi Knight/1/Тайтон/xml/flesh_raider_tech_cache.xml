@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="40">
+	<unit bitflag="321" id1="604561" id2="17" version="1065353216">
+		<source>[This cache contains weapons and technology the Flesh Raiders use to raid and hunt the Twi'leks.]</source>
+		<target>[Этот тайник содержит оружие и технологии, с помощью которой раздиратели атакуют тви'леков]</target>
+	</unit>
+	<unit bitflag="1345" id1="604562" id2="17" version="1065353216">
+		<source>Once they have all this, the Twi'leks can defend themselves....</source>
+		<target>Получив это, тви'леки смогут защитить себя...</target>
+	</unit>
+	<unit bitflag="1360" id1="604562" id2="17" version="1065353216">
+		<source>[Take it for the villagers]</source>
+		<target>[Взять их для поселенцев]</target>
+	</unit>
+	<unit bitflag="1345" id1="604564" id2="17" version="1065353216">
+		<source>Wish I could see the Flesh Raiders' faces when this stuff blows up on them....</source>
+		<target>Жаль, я не увижу лиц раздирателей, когда это взорвётся у них в руках...</target>
+	</unit>
+	<unit bitflag="1360" id1="604564" id2="17" version="1065353216">
+		<source>[Sabotage it to kill enemies]</source>
+		<target>[Испортить их, чтобы убить врагов]</target>
+	</unit>
+	<unit bitflag="3393" id1="604567" id2="17" version="1065353216">
+		<source>T7 = glad to see Jedi! // T7 = captured by Flesh Raiders + needs rescuing</source>
+		<target>T7 = рад видеть джедая! // T7 = пойман раздирателями + нуждается в спасении</target>
+	</unit>
+	<unit bitflag="1345" id1="604568" id2="17" version="1065353216">
+		<source>Don't worry, little guy. I'll get you out of here.</source>
+		<target>Не волнуйся, малыш. Я вытащу тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="604568" id2="17" version="1065353216">
+		<source>Consider yourself rescued.</source>
+		<target>Считай, ты уже спасён.</target>
+	</unit>
+	<unit bitflag="3393" id1="604569" id2="17" version="1065353216">
+		<source>Jedi = T7's hero</source>
+		<target>Джедай = герой T7</target>
+	</unit>
+	<unit bitflag="1360" id1="604571" id2="17" version="1065353216">
+		<source>Captured?</source>
+		<target>Пойман?</target>
+	</unit>
+	<unit bitflag="1345" id1="604572" id2="17" version="1065353216">
+		<source>I didn't come here for you, droid.</source>
+		<target>Я пришёл сюда не за тобой, дроид.</target>
+	</unit>
+	<unit bitflag="1360" id1="604572" id2="17" version="1065353216">
+		<source>That's your problem, not mine.</source>
+		<target>Твои проблемы.</target>
+	</unit>
+	<unit bitflag="3393" id1="604573" id2="17" version="1065353216">
+		<source>Serving Jedi Order = T7's primary programming</source>
+		<target>Служить Ордену джедаев = основное задание T7</target>
+	</unit>
+	<unit bitflag="3393" id1="604575" id2="17" version="1065353216">
+		<source>T7 = Jedi reconnaissance droid // Mission parameters = scout wilderness + identify hazards</source>
+		<target>T7 = разведывательный дроид джедаев // Цели задания = изучать дикую местность + выявлять опасности</target>
+	</unit>
+	<unit bitflag="3393" id1="604577" id2="17" version="1065353216">
+		<source>T7's restraining bolt = faulty + malfunctioning // T7's sensors = unable to detect Flesh Raider ambush</source>
+		<target>Сдерживающий стержень T7 = повреждён + неисправен // Сенсоры T7 = неспособны засечь засаду раздирателей</target>
+	</unit>
+	<unit bitflag="1345" id1="604578" id2="17" version="1065353216">
+		<source>Good thing the Flesh Raiders don't eat droids.</source>
+		<target>Хорошо, что раздиратели не едят дроидов.</target>
+	</unit>
+	<unit bitflag="1360" id1="604578" id2="17" version="1065353216">
+		<source>I'm glad you're in one piece.</source>
+		<target>Я рад, что ты цел.</target>
+	</unit>
+	<unit bitflag="1345" id1="604579" id2="17" version="1065353216">
+		<source>What made the Flesh Raiders bring you back here?</source>
+		<target>Из-за чего раздиратели привели тебя сюда?</target>
+	</unit>
+	<unit bitflag="1360" id1="604579" id2="17" version="1065353216">
+		<source>Why did they capture you?</source>
+		<target>Почему они поймали тебя?</target>
+	</unit>
+	<unit bitflag="3393" id1="604580" id2="17" version="1065353216">
+		<source>Flesh Raiders = interested in technology // T7 = advanced astromech droid + very valuable</source>
+		<target>Раздиратели  = заинтересованы в технологиях // T7 = передовой астромеханик + очень ценен</target>
+	</unit>
+	<unit bitflag="1345" id1="604582" id2="17" version="1065353216">
+		<source>Right, the old &quot;restraining bolt&quot; excuse. Admit it--you're just incompetent.</source>
+		<target>Мда, старая отговорка про сдерживающий стержень. Признай, ты просто некомпетентен.</target>
+	</unit>
+	<unit bitflag="1360" id1="604582" id2="17" version="1065353216">
+		<source>You useless bucket of bolts.</source>
+		<target>Ты бесполезное ведро с гайками.</target>
+	</unit>
+	<unit bitflag="3393" id1="604583" id2="17" version="1065353216">
+		<source>T7 = well maintained + always loyal // Restraining bolt = unnecessary</source>
+		<target>T7 = в хорошем состоянии + всегда верен // Сдерживающий стержень = не нужен</target>
+	</unit>
+	<unit bitflag="3393" id1="604585" id2="17" version="1065353216">
+		<source>T7 = simulated deactivation + used spy camera // T7 = recorded Flesh Raider allies</source>
+		<target>T7 = изобразил отключение + использовал камеру // T7 = записал союзников раздирателей</target>
+	</unit>
+	<unit bitflag="1345" id1="604587" id2="17" version="1065353216">
+		<source>Teach our soldiers how to use these weapons. Train them on the Twi'lek invaders.</source>
+		<target>Научи наших солдат, как использовать это. Потренируй их на захватчиках-тви'леках.</target>
+	</unit>
+	<unit bitflag="1345" id1="604589" id2="17" version="1065353216">
+		<source>When will we strike against the Jedi?</source>
+		<target>Когда мы нанесём удар по джедаям?</target>
+	</unit>
+	<unit bitflag="1345" id1="604591" id2="17" version="1065353216">
+		<source>Patience, Callef. The Jedi will fall when our army reaches full strength.</source>
+		<target>Терпение, Каллеф. Джедаи падут, когда наша армия достигнет полной силы.</target>
+	</unit>
+	<unit bitflag="3393" id1="604593" id2="17" version="1065353216">
+		<source>T7 recording = useful // Jedi = take T7 to safety + remove restraining bolt</source>
+		<target>Записи T7 = полезны // Джедай = доставить T7 в укрытие + убрать сдерживающий стержень</target>
+	</unit>
+	<unit bitflag="1345" id1="604594" id2="17" version="1065353216">
+		<source>Never understood the need for restraining bolts, anyway....</source>
+		<target>Никогда не понимал, зачем нужны сдерживающие стержни...</target>
+	</unit>
+	<unit bitflag="1360" id1="604594" id2="17" version="1065353216">
+		<source>Of course I'll remove it.</source>
+		<target>Конечно, я уберу его.</target>
+	</unit>
+	<unit bitflag="1345" id1="604595" id2="17" version="1065353216">
+		<source>I expect you to obey my orders, understand?</source>
+		<target>Я ожидаю от тебя подчинения, ясно?</target>
+	</unit>
+	<unit bitflag="1360" id1="604595" id2="17" version="1065353216">
+		<source>Don't make me regret this.</source>
+		<target>Не заставь меня пожалеть об этом.</target>
+	</unit>
+	<unit bitflag="3393" id1="604596" id2="17" version="1065353216">
+		<source>Restraining bolt removed = increased T7 scanning range // Flesh Raiders = in big trouble now</source>
+		<target>Удалённый сдерживающий стержень = увеличенный радиус обзора T7 // Раздиратели  = серьёзные неприятности</target>
+	</unit>
+	<unit bitflag="1345" id1="604598" id2="17" version="1065353216">
+		<source>You can come with me, but I'm not removing anything.</source>
+		<target>Можешь пойти со мной, но я ничего не уберу.</target>
+	</unit>
+	<unit bitflag="1360" id1="604598" id2="17" version="1065353216">
+		<source>The restraining bolt stays.</source>
+		<target>Сдерживающий стержень остаётся.</target>
+	</unit>
+	<unit bitflag="3393" id1="604599" id2="17" version="1065353216">
+		<source>T7 prediction = fifty percent survival chance until next maintenance</source>
+		<target>Прогноз T7 = шанс выживания 50 процентов до следующего техосмотра</target>
+	</unit>
+	<unit bitflag="3393" id1="604601" id2="17" version="1065353216">
+		<source>T7 = ready to roll!</source>
+		<target>T7 = готов ехать!</target>
+	</unit>
+	<unit bitflag="1345" id1="604607" id2="17" version="1065353216">
+		<source>I need to think this through.</source>
+		<target>Мне нужно это обдумать.</target>
+	</unit>
+	<unit bitflag="1360" id1="604607" id2="17" version="1065353216">
+		<source>[Leave it alone]</source>
+		<target>[Оставить их]</target>
+	</unit>
+	<unit bitflag="321" id1="604608" id2="17" version="1065353216">
+		<source>[You step back from the tech cache, leaving it undisturbed.]</source>
+		<target>[Вы отходите от тайника, оставив его нетронутым]</target>
+	</unit>
+</dialogue_file>

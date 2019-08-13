@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/world/breakthrough/brig_elevator.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="709324" id2="17" version="1065353216">It's no use. You need an Extractor's ID card to operate that elevator.</text>
+		<text bitflag="1345" id1="709325" id2="17" version="1065353216">Don't worry about the elevator. Tell me how to open this cell.</text>
+		<text bitflag="1360" id1="709325" id2="17" version="1065353216">Let's free you first.</text>
+		<text bitflag="1345" id1="709326" id2="17" version="1065353216">I have Imperial access keys.</text>
+		<text bitflag="1360" id1="709326" id2="17" version="1065353216">I came prepared.</text>
+		<text bitflag="1345" id1="709327" id2="17" version="1065353216">The Imperials only bring prisoners here, to receiving. It's the Extractors who take us below for interrogation.</text>
+		<text bitflag="1360" id1="709329" id2="17" version="1065353216">How would you know?</text>
+		<text bitflag="1345" id1="709330" id2="17" version="1065353216">I'm a Balmorran who should have kept his mouth shut.</text>
+		<text bitflag="1345" id1="709332" id2="17" version="1065353216">Get out of here while you still can. The Extractors will be back any....</text>
+		<text bitflag="1345" id1="709334" id2="17" version="1065353216">Not very chatty now, are you, old man?</text>
+		<text bitflag="1345" id1="709336" id2="17" version="1065353216">Looks like we have a security breach. And some new prisoners.</text>
+		<text bitflag="1345" id1="709340" id2="17" version="1065353216">Looks like we have a security breach. And a couple new prisoners.</text>
+	</file_content>
+</stb_file>

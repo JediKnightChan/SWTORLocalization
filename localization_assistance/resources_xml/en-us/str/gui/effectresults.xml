@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>86</strs>
+		<file_name>/resources/en-us/str/gui/effectresults.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="227102" version="1065353216">Unknown Effect Result</text>
+		<text bitflag="321" id1="2" id2="227102" version="1065353216">Cannot Do That While Dead</text>
+		<text bitflag="321" id1="3" id2="227102" version="1065353216">Cannot Do That While Stunned</text>
+		<text bitflag="321" id1="4" id2="227102" version="1065353216">Target Is Dead</text>
+		<text bitflag="321" id1="5" id2="227102" version="1065353216">Invalid Target</text>
+		<text bitflag="321" id1="6" id2="227102" version="1065353216">Cannot See Target</text>
+		<text bitflag="321" id1="7" id2="227102" version="1065353216">Too Close</text>
+		<text bitflag="321" id1="8" id2="227102" version="1065353216">Out Of Range: Move Closer</text>
+		<text bitflag="321" id1="9" id2="227102" version="1065353216">Not Facing Target</text>
+		<text bitflag="321" id1="10" id2="227102" version="1065353216">Not Ready Yet</text>
+		<text bitflag="321" id1="11" id2="227102" version="1065353216">Energy Level Too Low</text>
+		<text bitflag="321" id1="12" id2="227102" version="1065353216">Insufficient Force</text>
+		<text bitflag="321" id1="13" id2="227102" version="1065353216">Not Enough Action Points</text>
+		<text bitflag="321" id1="14" id2="227102" version="1065353216">Health Level Too Low</text>
+		<text bitflag="321" id1="15" id2="227102" version="1065353216">Already Performing An Action</text>
+		<text bitflag="321" id1="16" id2="227102" version="1065353216">Cannot Do That While Moving</text>
+		<text bitflag="321" id1="17" id2="227102" version="1065353216">Required Weapon Not Equipped</text>
+		<text bitflag="321" id1="18" id2="227102" version="1065353216">Required Effect Not Present</text>
+		<text bitflag="321" id1="19" id2="227102" version="1065353216">Cannot Do That While Fighting</text>
+		<text bitflag="321" id1="20" id2="227102" version="1065353216">Effect operation successful.</text>
+		<text bitflag="321" id1="21" id2="227102" version="1065353216">Effect Error</text>
+		<text bitflag="321" id1="22" id2="227102" version="1065353216">A more powerful effect is already active.</text>
+		<text bitflag="321" id1="23" id2="227102" version="1065353216">No more effects can be placed on the target.</text>
+		<text bitflag="321" id1="24" id2="227102" version="1065353216">Effect Condition Failed</text>
+		<text bitflag="321" id1="25" id2="227102" version="1065353216">Effect Target Override Failed</text>
+		<text bitflag="321" id1="26" id2="227102" version="1065353216">Effect Trigger Failed</text>
+		<text bitflag="321" id1="27" id2="227102" version="1065353216">Effect Action Failed</text>
+		<text bitflag="321" id1="28" id2="227102" version="1065353216">Target Resisted Effect</text>
+		<text bitflag="321" id1="29" id2="227102" version="1065353216">Target Is Immune</text>
+		<text bitflag="321" id1="30" id2="227102" version="1065353216">Not Possible</text>
+		<text bitflag="321" id1="31" id2="227102" version="1065353216">Invalid Ability</text>
+		<text bitflag="321" id1="32" id2="227102" version="1065353216">No Cover Point Selected</text>
+		<text bitflag="321" id1="33" id2="227102" version="1065353216">You must be stealthed.</text>
+		<text bitflag="321" id1="34" id2="227102" version="1065353216">You must be dead to do that.</text>
+		<text bitflag="321" id1="35" id2="227102" version="1065353216">You must be stunned to do that.</text>
+		<text bitflag="321" id1="36" id2="227102" version="1065353216">Target Not Dead</text>
+		<text bitflag="321" id1="37" id2="227102" version="1065353216">Target Not Companion</text>
+		<text bitflag="321" id1="38" id2="227102" version="1065353216">Target Not Friendly</text>
+		<text bitflag="321" id1="39" id2="227102" version="1065353216">Target Not Enemy</text>
+		<text bitflag="321" id1="40" id2="227102" version="1065353216">You must leave cover to do that.</text>
+		<text bitflag="321" id1="41" id2="227102" version="1065353216">You must be in cover to do that.</text>
+		<text bitflag="321" id1="42" id2="227102" version="1065353216">Target Not Group Member</text>
+		<text bitflag="321" id1="43" id2="227102" version="1065353216">Target Not Player</text>
+		<text bitflag="321" id1="44" id2="227102" version="1065353216">No Target</text>
+		<text bitflag="321" id1="45" id2="227102" version="1065353216">You already have a companion.</text>
+		<text bitflag="321" id1="46" id2="227102" version="1065353216">You are not bound to a rez point.</text>
+		<text bitflag="321" id1="47" id2="227102" version="1065353216">You do not have permission to loot that.</text>
+		<text bitflag="321" id1="48" id2="227102" version="1065353216">In Conversation</text>
+		<text bitflag="321" id1="49" id2="227102" version="1065353216">Must be behind</text>
+		<text bitflag="321" id1="50" id2="227102" version="1065353216">Quick travel does not work here.</text>
+		<text bitflag="321" id1="51" id2="227102" version="1065353216">Cannot do that while in a vehicle.</text>
+		<text bitflag="321" id1="52" id2="227102" version="1065353216">You do not have a current companion.</text>
+		<text bitflag="321" id1="53" id2="227102" version="1065353216">Evaded</text>
+		<text bitflag="321" id1="54" id2="227102" version="1065353216">Overheated</text>
+		<text bitflag="321" id1="55" id2="227102" version="1065353216">Heat Level Too High</text>
+		<text bitflag="321" id1="56" id2="227102" version="1065353216">Your target is in a duel.</text>
+		<text bitflag="321" id1="57" id2="227102" version="1065353216">Cannot Do That Here</text>
+		<text bitflag="321" id1="58" id2="227102" version="1065353216">Already &lt;&lt;1&gt;&gt; group members - you may not summon your companion at this time.</text>
+		<text bitflag="321" id1="59" id2="227102" version="1065353216">Your target is not PvP flagged.</text>
+		<text bitflag="321" id1="60" id2="227102" version="1065353216">You cannot target a PvP flagged player while in a sanctuary.</text>
+		<text bitflag="321" id1="61" id2="227102" version="1065353216">Insufficient Focus</text>
+		<text bitflag="321" id1="62" id2="227102" version="1065353216">Insufficient Rage</text>
+		<text bitflag="321" id1="63" id2="227102" version="1065353216">Insufficient Energy Cells</text>
+		<text bitflag="321" id1="260" id2="227102" version="1065353216">You are already mounted.</text>
+		<text bitflag="321" id1="261" id2="227102" version="1065353216">You can't mount here.</text>
+		<text bitflag="321" id1="262" id2="227102" version="1065353216">You can't do that while stealthed.</text>
+		<text bitflag="321" id1="263" id2="227102" version="1065353216">You do not own this mount.</text>
+		<text bitflag="321" id1="264" id2="227102" version="1065353216">You do not have the riding skill to use this mount.</text>
+		<text bitflag="321" id1="265" id2="227102" version="1065353216">Target Is Companion</text>
+		<text bitflag="321" id1="266" id2="227102" version="1065353216">This ability is disabled.</text>
+		<text bitflag="321" id1="5269" id2="227102" version="1065353216">This ability requires an active Companion.</text>
+		<text bitflag="321" id1="5270" id2="227102" version="1065353216">You must be behind your target.</text>
+		<text bitflag="321" id1="5271" id2="227102" version="1065353216">You must be in front of your target.</text>
+		<text bitflag="321" id1="5272" id2="227102" version="1065353216">BIND WARNING</text>
+		<text bitflag="321" id1="5273" id2="227102" version="1065353216">That action is not available to your Player class.</text>
+		<text bitflag="321" id1="5282" id2="227102" version="1065353216">Not usable in air</text>
+		<text bitflag="321" id1="5283" id2="227102" version="1065353216">Cannot do that while immobilized</text>
+		<text bitflag="321" id1="5284" id2="227102" version="1065353216">You may not use this ability until the game has been fully downloaded.</text>
+		<text bitflag="321" id1="5285" id2="227102" version="1065353216">Not enough shield power.</text>
+		<text bitflag="321" id1="5286" id2="227102" version="1065353216">Not enough blaster power.</text>
+		<text bitflag="321" id1="5287" id2="227102" version="1065353216">Not enough engine power.</text>
+		<text bitflag="321" id1="5288" id2="227102" version="1065353216">Not Moving</text>
+		<text bitflag="321" id1="5290" id2="227102" version="1065353216">Cannot Do That While Silenced</text>
+		<text bitflag="321" id1="5291" id2="227102" version="1065353216">You have not learned any abilities of this type yet.</text>
+		<text bitflag="321" id1="5292" id2="227102" version="1065353216">You cannot summon a random mount without first favoriting a mount.</text>
+		<text bitflag="321" id1="5293" id2="227102" version="1065353216">Your target is in a team PvP match.</text>
+	</file_content>
+</stb_file>

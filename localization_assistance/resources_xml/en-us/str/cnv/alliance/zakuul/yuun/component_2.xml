@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/zakuul/yuun/component_2.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1169700" id2="17" version="1065353216">(Force Sensitive Background) [This device also reacts to your presence in a similar, yet subtly unique, manner.]</text>
+		<text bitflag="321" id1="1169701" id2="17" version="1065353216">[Similarly, this device also seems to turn on as you approach]</text>
+		<text bitflag="321" id1="1169710" id2="17" version="1065353216">(Force Sensitive Background) [As you approach the device, it activates. You can barely sense that this device is somehow responding to your presence.]</text>
+		<text bitflag="321" id1="1169711" id2="17" version="1065353216">[The device seems to turn on as you approach]</text>
+		<text bitflag="321" id1="1169712" id2="17" version="1065353216">[Pick up the device]</text>
+		<text bitflag="321" id1="1169715" id2="17" version="1065353216">[Leave the device alone]</text>
+		<text bitflag="321" id1="1169716" id2="17" version="1065353216">[You decide to leave the device alone for now]</text>
+	</file_content>
+</stb_file>

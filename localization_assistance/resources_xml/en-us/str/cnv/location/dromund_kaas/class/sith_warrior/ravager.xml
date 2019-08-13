@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/class/sith_warrior/ravager.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="679898" id2="17" version="1065353216">[Here the Ravager is housed. By the looks of the device, it's clear that scavengers have recently dismantled key pieces from it.]</text>
+		<text bitflag="1345" id1="679900" id2="17" version="1065353216">[You will have to reclaim the missing pieces in order to repair the Ravager.]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x2/raid/explosive_conflict/shared/tank_pilot_barks.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1027601" id2="17" version="1065353216">Targets acquired! All systems at full power!</text>
+		<text bitflag="1345" id1="1027602" id2="17" version="1065353216">Engaging hostiles--for the masters!</text>
+		<text bitflag="1345" id1="1027603" id2="17" version="1065353216">Charging pulse cannon!</text>
+		<text bitflag="1345" id1="1027604" id2="17" version="1065353216">Charging beam cannon!</text>
+		<text bitflag="1345" id1="1027605" id2="17" version="1065353216">Engaging defensive systems!</text>
+		<text bitflag="1345" id1="1027606" id2="17" version="1065353216">Engaging offensive systems!</text>
+		<text bitflag="1345" id1="1027607" id2="17" version="1065353216">Repositioning!</text>
+		<text bitflag="1345" id1="1027608" id2="17" version="1065353216">Repulsion system charged and ready!</text>
+		<text bitflag="1345" id1="1027609" id2="17" version="1065353216">Charge!</text>
+		<text bitflag="1345" id1="1027610" id2="17" version="1065353216">Overdrive system activated! No more playing around!</text>
+		<text bitflag="1345" id1="1027611" id2="17" version="1065353216">Got you!</text>
+		<text bitflag="1345" id1="1027612" id2="17" version="1065353216">Back off!</text>
+		<text bitflag="1345" id1="1027613" id2="17" version="1065353216">All too easy.</text>
+		<text bitflag="1345" id1="1027614" id2="17" version="1065353216">You're mine.</text>
+		<text bitflag="1345" id1="1027615" id2="17" version="1065353216">Target neutralized.</text>
+		<text bitflag="1345" id1="1027616" id2="17" version="1065353216">Reactor overload! Eject, eject!</text>
+	</file_content>
+</stb_file>

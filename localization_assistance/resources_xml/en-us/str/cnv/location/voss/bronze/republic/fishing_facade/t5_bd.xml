@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>9</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/bronze/republic/fishing_facade/t5_bd.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="572846" id2="17" version="1065353216">T5-BD = received message from scout Kelnu Velus // T5 = thanks Republic friends for help</text>
+		<text bitflag="3393" id1="572847" id2="17" version="1065353216">T5-BD = received message from scout Kelnu Velus // T5 = thanks Republic friend for help</text>
+		<text bitflag="3393" id1="572850" id2="17" version="1065353216">T5-BD = glad Republic has so many friends // T5 = has important message</text>
+		<text bitflag="3393" id1="572852" id2="17" version="1065353216">T5-BD = pleased to see more Jedi in camp // T5 = has important message</text>
+		<text bitflag="3393" id1="572854" id2="17" version="1065353216">T5-BD = recognizes Republic uniform &quot;Havoc Squad&quot; = trustworthy // T5 = has important message</text>
+		<text bitflag="3393" id1="572856" id2="17" version="1065353216">T5-BD = not valuable salvage = hopes to find Republic friend // T5 = has important message</text>
+		<text bitflag="3393" id1="572858" id2="17" version="1065353216">T5 = survey droid for Republic scout Kelnu Velus + Voss commando Adban-Sho // Kelnu Velus = needs help = sent request for reinforcements</text>
+		<text bitflag="3393" id1="572860" id2="17" version="1065353216">T5 = brings coordinates of Kelnu Velnus current location // T5 = Republic friends provide reinforcements = query?</text>
+		<text bitflag="3393" id1="572864" id2="17" version="1065353216">T5-BD = doing diagnostics // T5 = begs pardon</text>
+	</file_content>
+</stb_file>

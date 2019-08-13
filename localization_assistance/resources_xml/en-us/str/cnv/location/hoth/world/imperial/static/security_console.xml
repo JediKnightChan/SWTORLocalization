@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>14</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/world/imperial/static/security_console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="669214" id2="17" version="1065353216">[Using the security console triggers a holorecording dated several days past.]</text>
+		<text bitflag="1345" id1="669216" id2="17" version="1065353216">What--who are you? Who let you in here?</text>
+		<text bitflag="3393" id1="669218" id2="17" version="1065353216">Nobody let us in. I'm afraid this isn't your day, Captain. I'm taking over.</text>
+		<text bitflag="1345" id1="669220" id2="17" version="1065353216">Don't be absurd. Guards!</text>
+		<text bitflag="3393" id1="669222" id2="17" version="1065353216">Your guards are dead. I'm in charge now. Now I'm going to give you a choice, and how you respond will determine whether you live or whether you die.</text>
+		<text bitflag="3393" id1="669224" id2="17" version="1065353216">The choice is this--give up your weapons, in which case you will live and I will ransom you back to your superiors... or refuse my instructions and die.</text>
+		<text bitflag="5441" id1="669226" id2="17" version="1065353216">How dare--</text>
+		<text bitflag="3393" id1="669228" id2="17" version="1065353216">Wrong answer.</text>
+		<text bitflag="321" id1="669230" id2="17" version="1065353216">[The console controls access to the cells. The prisoners can be released from here. Anyone left in the cells will likely die of exposure with the guards gone.]</text>
+		<text bitflag="321" id1="669231" id2="17" version="1065353216">There's no reason to send enemy soldiers back to the battle.</text>
+		<text bitflag="336" id1="669231" id2="17" version="1065353216">[Free Imperials only.]</text>
+		<text bitflag="321" id1="669232" id2="17" version="1065353216">Nobody deserves to be treated this way.</text>
+		<text bitflag="336" id1="669232" id2="17" version="1065353216">[Free all prisoners.]</text>
+		<text bitflag="321" id1="669233" id2="17" version="1065353216">Cells unlocked.</text>
+	</file_content>
+</stb_file>

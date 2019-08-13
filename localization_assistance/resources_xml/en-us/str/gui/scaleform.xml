@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>284</strs>
+		<file_name>/resources/en-us/str/gui/scaleform.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194674" version="1065353216">PLAY</text>
+		<text bitflag="321" id1="2" id2="194674" version="1065353216">DELETE</text>
+		<text bitflag="321" id1="3" id2="194674" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="4" id2="194674" version="1065353216">CREATE NEW CHARACTER</text>
+		<text bitflag="321" id1="11" id2="194674" version="1065353216">Galactic Credits</text>
+		<text bitflag="321" id1="12" id2="194674" version="1065353216">The currency used throughout the galaxy</text>
+		<text bitflag="321" id1="13" id2="194674" version="1065353216">Rotate character to the right.</text>
+		<text bitflag="321" id1="14" id2="194674" version="1065353216">Rotate character to the left.</text>
+		<text bitflag="321" id1="97" id2="194674" version="1065353216">Really Delete</text>
+		<text bitflag="321" id1="98" id2="194674" version="1065353216">Yes</text>
+		<text bitflag="321" id1="99" id2="194674" version="1065353216">No</text>
+		<text bitflag="321" id1="1000" id2="194674" version="1065353216">MAP FILTERS</text>
+		<text bitflag="321" id1="1001" id2="194674" version="1065353216">Vendor</text>
+		<text bitflag="321" id1="1002" id2="194674" version="1065353216">Taxi</text>
+		<text bitflag="321" id1="1003" id2="194674" version="1065353216">Trainer</text>
+		<text bitflag="321" id1="1004" id2="194674" version="1065353216">Shuttle point</text>
+		<text bitflag="321" id1="1005" id2="194674" version="1065353216">World Map</text>
+		<text bitflag="321" id1="1006" id2="194674" version="1065353216">Minimap</text>
+		<text bitflag="321" id1="1007" id2="194674" version="1065353216">Magnification</text>
+		<text bitflag="321" id1="1008" id2="194674" version="1065353216">Harvestable</text>
+		<text bitflag="321" id1="2000" id2="194674" version="1065353216">Melee Damage:</text>
+		<text bitflag="321" id1="2001" id2="194674" version="1065353216">Glance Absorption:</text>
+		<text bitflag="321" id1="2002" id2="194674" version="1065353216">Ranged Damage:</text>
+		<text bitflag="321" id1="2003" id2="194674" version="1065353216">Ranged Critical Chance:</text>
+		<text bitflag="321" id1="2004" id2="194674" version="1065353216">Health:</text>
+		<text bitflag="321" id1="2005" id2="194674" version="1065353216">Health Regen:</text>
+		<text bitflag="321" id1="2006" id2="194674" version="1065353216">Tech Damage:</text>
+		<text bitflag="321" id1="2007" id2="194674" version="1065353216">Tech Critical Chance:</text>
+		<text bitflag="321" id1="2008" id2="194674" version="1065353216">Elemental Dmg Reduction:</text>
+		<text bitflag="321" id1="2009" id2="194674" version="1065353216">Internal Dmg Reduction:</text>
+		<text bitflag="321" id1="2010" id2="194674" version="1065353216">Healing:</text>
+		<text bitflag="321" id1="2011" id2="194674" version="1065353216">Companion Health:</text>
+		<text bitflag="321" id1="2012" id2="194674" version="1065353216">Companion Damage:</text>
+		<text bitflag="321" id1="2013" id2="194674" version="1065353216">Energy Dmg Reduction:</text>
+		<text bitflag="321" id1="2014" id2="194674" version="1065353216">Kinetic Dmg Reduction:</text>
+		<text bitflag="321" id1="2015" id2="194674" version="1065353216">Bonus Damage:</text>
+		<text bitflag="321" id1="2016" id2="194674" version="1065353216">Agility</text>
+		<text bitflag="321" id1="2017" id2="194674" version="1065353216">Attack Power Rating</text>
+		<text bitflag="321" id1="2018" id2="194674" version="1065353216">Critical Rating</text>
+		<text bitflag="321" id1="2019" id2="194674" version="1065353216">Cunning</text>
+		<text bitflag="321" id1="2020" id2="194674" version="1065353216">Tech Power Rating</text>
+		<text bitflag="321" id1="2021" id2="194674" version="1065353216">Presence</text>
+		<text bitflag="321" id1="2022" id2="194674" version="1065353216">Energy Regen Rating</text>
+		<text bitflag="321" id1="2023" id2="194674" version="1065353216">Accuracy Rating</text>
+		<text bitflag="321" id1="2024" id2="194674" version="1065353216">Armor Bonus (En/Kin):</text>
+		<text bitflag="321" id1="2025" id2="194674" version="1065353216">Willpower Bonus (Ele/Int):</text>
+		<text bitflag="321" id1="2026" id2="194674" version="1065353216">vs Melee:</text>
+		<text bitflag="321" id1="2027" id2="194674" version="1065353216">vs Ranged:</text>
+		<text bitflag="321" id1="2028" id2="194674" version="1065353216">Defense Rating</text>
+		<text bitflag="321" id1="2029" id2="194674" version="1065353216">Glance Rating</text>
+		<text bitflag="321" id1="2030" id2="194674" version="1065353216">Absorption Rating</text>
+		<text bitflag="321" id1="2031" id2="194674" version="1065353216">Expertise Rating</text>
+		<text bitflag="321" id1="2032" id2="194674" version="1065353216">Triage Rating</text>
+		<text bitflag="321" id1="2033" id2="194674" version="1065353216">Hardiness Rating</text>
+		<text bitflag="321" id1="2034" id2="194674" version="1065353216">Willpower</text>
+		<text bitflag="321" id1="2035" id2="194674" version="1065353216">Force Power Rating</text>
+		<text bitflag="321" id1="2036" id2="194674" version="1065353216">In combat:</text>
+		<text bitflag="321" id1="2037" id2="194674" version="1065353216">Out of combat:</text>
+		<text bitflag="321" id1="2038" id2="194674" version="1065353216">Accuracy:</text>
+		<text bitflag="321" id1="2039" id2="194674" version="1065353216">Critical Chance:</text>
+		<text bitflag="321" id1="2040" id2="194674" version="1065353216">Bonus Healing:</text>
+		<text bitflag="321" id1="2041" id2="194674" version="1065353216">Force Regen:</text>
+		<text bitflag="321" id1="2042" id2="194674" version="1065353216">Damage Reduction:</text>
+		<text bitflag="321" id1="2043" id2="194674" version="1065353216">Defense Chance:</text>
+		<text bitflag="321" id1="2044" id2="194674" version="1065353216">Glance Chance:</text>
+		<text bitflag="321" id1="2045" id2="194674" version="1065353216">Resistance:</text>
+		<text bitflag="321" id1="2046" id2="194674" version="1065353216">Trauma Ignore:</text>
+		<text bitflag="321" id1="2047" id2="194674" version="1065353216">Critical Damage Reduction:</text>
+		<text bitflag="321" id1="2048" id2="194674" version="1065353216">Critical Chance Reduction:</text>
+		<text bitflag="321" id1="2049" id2="194674" version="1065353216">Damage Reduction:</text>
+		<text bitflag="321" id1="2050" id2="194674" version="1065353216">Damage (Pri):</text>
+		<text bitflag="321" id1="2051" id2="194674" version="1065353216">Damage (Sec):</text>
+		<text bitflag="321" id1="2052" id2="194674" version="1065353216">Melee</text>
+		<text bitflag="321" id1="2053" id2="194674" version="1065353216">Defense</text>
+		<text bitflag="321" id1="2054" id2="194674" version="1065353216">Force</text>
+		<text bitflag="321" id1="2055" id2="194674" version="1065353216">PvP</text>
+		<text bitflag="321" id1="2056" id2="194674" version="1065353216">Ranged</text>
+		<text bitflag="321" id1="2057" id2="194674" version="1065353216">Tech</text>
+		<text bitflag="321" id1="2058" id2="194674" version="1065353216">Strength</text>
+		<text bitflag="321" id1="2059" id2="194674" version="1065353216">Endurance</text>
+		<text bitflag="321" id1="2060" id2="194674" version="1065353216">Willpower</text>
+		<text bitflag="321" id1="2061" id2="194674" version="1065353216">Armor</text>
+		<text bitflag="321" id1="2062" id2="194674" version="1065353216">Alignment</text>
+		<text bitflag="321" id1="2063" id2="194674" version="1065353216">LEVEL</text>
+		<text bitflag="321" id1="2064" id2="194674" version="1065353216">Social Tier</text>
+		<text bitflag="321" id1="2065" id2="194674" version="1065353216">CC Protection:</text>
+		<text bitflag="321" id1="2501" id2="194674" version="1065353216">Locked.</text>
+		<text bitflag="321" id1="2502" id2="194674" version="1065353216">Right-click to unlock.</text>
+		<text bitflag="321" id1="2503" id2="194674" version="1065353216">Right-click to open.</text>
+		<text bitflag="321" id1="3000" id2="194674" version="1065353216">Rendering</text>
+		<text bitflag="321" id1="3001" id2="194674" version="1065353216">Gameplay</text>
+		<text bitflag="321" id1="3002" id2="194674" version="1065353216">Sound</text>
+		<text bitflag="321" id1="3003" id2="194674" version="1065353216">Nameplate On Self</text>
+		<text bitflag="321" id1="3004" id2="194674" version="1065353216">Nameplate On Friendly Players</text>
+		<text bitflag="321" id1="3005" id2="194674" version="1065353216">Nameplate On Enemy Players</text>
+		<text bitflag="321" id1="3006" id2="194674" version="1065353216">Nameplate On My Companion</text>
+		<text bitflag="321" id1="3007" id2="194674" version="1065353216">Nameplate On Friendly Players' Companions</text>
+		<text bitflag="321" id1="3008" id2="194674" version="1065353216">Nameplate On Enemy Players' Companions</text>
+		<text bitflag="321" id1="3009" id2="194674" version="1065353216">Nameplate On Friendly NPCs</text>
+		<text bitflag="321" id1="3010" id2="194674" version="1065353216">Nameplate On Enemy NPCs</text>
+		<text bitflag="321" id1="3011" id2="194674" version="1065353216">Automatically ignore group invites</text>
+		<text bitflag="321" id1="3012" id2="194674" version="1065353216">Automatically ignore guild invites</text>
+		<text bitflag="321" id1="3013" id2="194674" version="1065353216">Automatically ignore trade invites</text>
+		<text bitflag="321" id1="3014" id2="194674" version="1065353216">Hide guild login and logoff messages</text>
+		<text bitflag="321" id1="3015" id2="194674" version="1065353216">Flytext Enabled</text>
+		<text bitflag="321" id1="3028" id2="194674" version="1065353216">Invert Mouse Vertical</text>
+		<text bitflag="321" id1="3029" id2="194674" version="1065353216">Mouse Sensitivity</text>
+		<text bitflag="321" id1="3030" id2="194674" version="1065353216">Camera Rotation Speed</text>
+		<text bitflag="321" id1="3031" id2="194674" version="1065353216">Camera Max Distance</text>
+		<text bitflag="321" id1="3032" id2="194674" version="1065353216">Deselect target upon clicking on the terrain</text>
+		<text bitflag="321" id1="3033" id2="194674" version="1065353216">Display subtitles for conversations</text>
+		<text bitflag="321" id1="3034" id2="194674" version="1065353216">Map fades while moving</text>
+		<text bitflag="321" id1="3035" id2="194674" version="1065353216">Map flashes red while being attacked</text>
+		<text bitflag="321" id1="3036" id2="194674" version="1065353216">Auto Self-targeting</text>
+		<text bitflag="321" id1="3037" id2="194674" version="1065353216">Resolution</text>
+		<text bitflag="321" id1="3038" id2="194674" version="1065353216">Refresh rate</text>
+		<text bitflag="321" id1="3039" id2="194674" version="1065353216">Windowed Mode</text>
+		<text bitflag="321" id1="3040" id2="194674" version="1065353216">Multisampling</text>
+		<text bitflag="321" id1="3041" id2="194674" version="1065353216">Gamma</text>
+		<text bitflag="321" id1="3042" id2="194674" version="1065353216">Ground Clutter</text>
+		<text bitflag="321" id1="3043" id2="194674" version="1065353216">Particle Density</text>
+		<text bitflag="321" id1="3044" id2="194674" version="1065353216">Clip Distance</text>
+		<text bitflag="321" id1="3045" id2="194674" version="1065353216">Filter Profanity</text>
+		<text bitflag="321" id1="3046" id2="194674" version="1065353216">Auto-loot on right-click</text>
+		<text bitflag="321" id1="3047" id2="194674" version="1065353216">Display health of target</text>
+		<text bitflag="321" id1="3048" id2="194674" version="1065353216">Enable additional action bar</text>
+		<text bitflag="321" id1="3049" id2="194674" version="1065353216">Enable color-blind mode</text>
+		<text bitflag="321" id1="3050" id2="194674" version="1065353216">Shadow Quality</text>
+		<text bitflag="321" id1="3051" id2="194674" version="1065353216">Vertical Sync</text>
+		<text bitflag="321" id1="3052" id2="194674" version="1065353216">Specular Lighting</text>
+		<text bitflag="321" id1="3053" id2="194674" version="1065353216">Cloth Simulation</text>
+		<text bitflag="321" id1="3054" id2="194674" version="1065353216">Invert Mouse Horizontal</text>
+		<text bitflag="321" id1="3055" id2="194674" version="1065353216">FlyText:  Miscellaneous</text>
+		<text bitflag="321" id1="3056" id2="194674" version="1065353216">FlyText:  Heal from self</text>
+		<text bitflag="321" id1="3057" id2="194674" version="1065353216">FlyText:  Damage from self</text>
+		<text bitflag="321" id1="3058" id2="194674" version="1065353216">FlyText:  Heal from companion</text>
+		<text bitflag="321" id1="3059" id2="194674" version="1065353216">FlyText:  Damage from companion</text>
+		<text bitflag="321" id1="3060" id2="194674" version="1065353216">FlyText:  Heal from group</text>
+		<text bitflag="321" id1="3061" id2="194674" version="1065353216">FlyText:  Heal from other</text>
+		<text bitflag="321" id1="3062" id2="194674" version="1065353216">FlyText:  Damage on self</text>
+		<text bitflag="321" id1="3063" id2="194674" version="1065353216">FlyText:  Damage on companion</text>
+		<text bitflag="321" id1="3064" id2="194674" version="1065353216">FlyText:  Screenspace</text>
+		<text bitflag="321" id1="3065" id2="194674" version="1065353216">FlyText:  Mitigation self</text>
+		<text bitflag="321" id1="3066" id2="194674" version="1065353216">FlyText:  Mitigation companion</text>
+		<text bitflag="321" id1="3067" id2="194674" version="1065353216">FlyText:  Mitigation other</text>
+		<text bitflag="321" id1="3068" id2="194674" version="1065353216">FlyText:  Effect gained positive</text>
+		<text bitflag="321" id1="3069" id2="194674" version="1065353216">FlyText:  Effect lost positive</text>
+		<text bitflag="321" id1="3070" id2="194674" version="1065353216">FlyText:  Low health self</text>
+		<text bitflag="321" id1="3071" id2="194674" version="1065353216">FlyText:  Low health companion</text>
+		<text bitflag="321" id1="3072" id2="194674" version="1065353216">FlyText:  Experience</text>
+		<text bitflag="321" id1="3073" id2="194674" version="1065353216">FlyText:  Effect gained negative</text>
+		<text bitflag="321" id1="3074" id2="194674" version="1065353216">FlyText:  Effect lost negative</text>
+		<text bitflag="321" id1="3075" id2="194674" version="1065353216">FlyText:  Ability damage from self</text>
+		<text bitflag="321" id1="3076" id2="194674" version="1065353216">FlyText:  Ability damage from companion</text>
+		<text bitflag="321" id1="3077" id2="194674" version="1065353216">FlyText:  Ability damage on self</text>
+		<text bitflag="321" id1="3078" id2="194674" version="1065353216">FlyText:  Ability damage on companion</text>
+		<text bitflag="321" id1="3079" id2="194674" version="1065353216">FlyText:  Combat miss from self</text>
+		<text bitflag="321" id1="3080" id2="194674" version="1065353216">FlyText:  Combat miss from companion</text>
+		<text bitflag="321" id1="3081" id2="194674" version="1065353216">FlyText:  Combat miss from other</text>
+		<text bitflag="321" id1="3082" id2="194674" version="1065353216">Enable Action Bar 2</text>
+		<text bitflag="321" id1="3083" id2="194674" version="1065353216">Enable Action Bar 3</text>
+		<text bitflag="321" id1="3084" id2="194674" version="1065353216">Enable Action Bar 4</text>
+		<text bitflag="321" id1="3085" id2="194674" version="1065353216">Enable Action Bar 5</text>
+		<text bitflag="321" id1="3086" id2="194674" version="1065353216">Nameplate Options</text>
+		<text bitflag="321" id1="3087" id2="194674" version="1065353216">Social Options</text>
+		<text bitflag="321" id1="3088" id2="194674" version="1065353216">FlyText Options</text>
+		<text bitflag="321" id1="3089" id2="194674" version="1065353216">Control Options</text>
+		<text bitflag="321" id1="3090" id2="194674" version="1065353216">GUI Options</text>
+		<text bitflag="321" id1="3091" id2="194674" version="1065353216">Rendering Options</text>
+		<text bitflag="321" id1="3092" id2="194674" version="1065353216">Automatically pick up all loot on right-click</text>
+		<text bitflag="321" id1="3093" id2="194674" version="1065353216">Automatically target yourself with spells when applicable</text>
+		<text bitflag="321" id1="3094" id2="194674" version="1065353216">The maximum distance you can pull the camera away from your character</text>
+		<text bitflag="321" id1="3095" id2="194674" version="1065353216">Modifies how fast the camera rotates around your character</text>
+		<text bitflag="321" id1="3096" id2="194674" version="1065353216">If enabled, you will deselect your target when you click on the terrain</text>
+		<text bitflag="321" id1="3097" id2="194674" version="1065353216">Invert the direction your mouse moves the camera horizontally</text>
+		<text bitflag="321" id1="3098" id2="194674" version="1065353216">Invert the direction your mouse moves the camera vertically</text>
+		<text bitflag="321" id1="3099" id2="194674" version="1065353216">Modify your mouse sensitivity</text>
+		<text bitflag="321" id1="3100" id2="194674" version="1065353216">Enable all flytext</text>
+		<text bitflag="321" id1="3101" id2="194674" version="1065353216">Display flytext for ability damage that you have caused</text>
+		<text bitflag="321" id1="3102" id2="194674" version="1065353216">Display flytext for ability damage that has hit your companions</text>
+		<text bitflag="321" id1="3103" id2="194674" version="1065353216">Display flytext for ability damage that has hit you</text>
+		<text bitflag="321" id1="3104" id2="194674" version="1065353216">Display flytext for your companion's misses</text>
+		<text bitflag="321" id1="3105" id2="194674" version="1065353216">Display flytext for misses from people not in your group or your companions</text>
+		<text bitflag="321" id1="3106" id2="194674" version="1065353216">Display flytext for your misses</text>
+		<text bitflag="321" id1="3107" id2="194674" version="1065353216">Display flytext for your companion's damage</text>
+		<text bitflag="321" id1="3108" id2="194674" version="1065353216">Display flytext for your damage</text>
+		<text bitflag="321" id1="3109" id2="194674" version="1065353216">Display flytext for damage inflicted on your companion</text>
+		<text bitflag="321" id1="3110" id2="194674" version="1065353216">Display flytext for damage inflicted on you</text>
+		<text bitflag="321" id1="3111" id2="194674" version="1065353216">Display flytext for miscellaneous events</text>
+		<text bitflag="321" id1="3112" id2="194674" version="1065353216">Display flytext for negative effects you have gained</text>
+		<text bitflag="321" id1="3113" id2="194674" version="1065353216">Display flytext for positive effects you have gained</text>
+		<text bitflag="321" id1="3114" id2="194674" version="1065353216">Display flytext for negative effects you have lost</text>
+		<text bitflag="321" id1="3115" id2="194674" version="1065353216">Display flytext for positive effects you have lost</text>
+		<text bitflag="321" id1="3116" id2="194674" version="1065353216">Display flytext for ability damage that your companion has caused</text>
+		<text bitflag="321" id1="3117" id2="194674" version="1065353216">Display flytext for healing that your companion has caused</text>
+		<text bitflag="321" id1="3118" id2="194674" version="1065353216">Display flytext for healing that people not in your group has caused</text>
+		<text bitflag="321" id1="3119" id2="194674" version="1065353216">Display flytext for healing that someone in your group has caused</text>
+		<text bitflag="321" id1="3120" id2="194674" version="1065353216">Display flytext for healing that you have caused</text>
+		<text bitflag="321" id1="3121" id2="194674" version="1065353216">Display flytext showing a low health warning for your companion</text>
+		<text bitflag="321" id1="3122" id2="194674" version="1065353216">Display flytext showing a low health warning for yourself</text>
+		<text bitflag="321" id1="3123" id2="194674" version="1065353216">Display flytext for damage mitigation by your companion</text>
+		<text bitflag="321" id1="3124" id2="194674" version="1065353216">Display flytext for damage mitigation by people not in your group</text>
+		<text bitflag="321" id1="3125" id2="194674" version="1065353216">Display flytext for damage you have mitigated</text>
+		<text bitflag="321" id1="3126" id2="194674" version="1065353216">Display screentext flytext for in-game events</text>
+		<text bitflag="321" id1="3127" id2="194674" version="1065353216">Display flytext for experience you have gained</text>
+		<text bitflag="321" id1="3128" id2="194674" version="1065353216">Specify your far clip distance</text>
+		<text bitflag="321" id1="3129" id2="194674" version="1065353216">Turn on and off the cloth physics simulation</text>
+		<text bitflag="321" id1="3130" id2="194674" version="1065353216">Adjust gamma correction</text>
+		<text bitflag="321" id1="3131" id2="194674" version="1065353216">Enable ground clutter rendering</text>
+		<text bitflag="321" id1="3132" id2="194674" version="1065353216">Change multisampling settings</text>
+		<text bitflag="321" id1="3133" id2="194674" version="1065353216">Specify particle density for effects</text>
+		<text bitflag="321" id1="3134" id2="194674" version="1065353216">Specify your monitor refresh rate</text>
+		<text bitflag="321" id1="3135" id2="194674" version="1065353216">Specify your graphics resolution</text>
+		<text bitflag="321" id1="3136" id2="194674" version="1065353216">Adjust your shadow quality</text>
+		<text bitflag="321" id1="3137" id2="194674" version="1065353216">Turn on or off specular lighting</text>
+		<text bitflag="321" id1="3138" id2="194674" version="1065353216">Turn on or off vertical sync</text>
+		<text bitflag="321" id1="3139" id2="194674" version="1065353216">Turn on or off windowed mode</text>
+		<text bitflag="321" id1="3140" id2="194674" version="1065353216">Turn on or off color blind mode</text>
+		<text bitflag="321" id1="3141" id2="194674" version="1065353216">Display the extra action bar five</text>
+		<text bitflag="321" id1="3142" id2="194674" version="1065353216">Display the extra action bar four</text>
+		<text bitflag="321" id1="3143" id2="194674" version="1065353216">Display the extra action bar three</text>
+		<text bitflag="321" id1="3144" id2="194674" version="1065353216">Display the extra action bar two</text>
+		<text bitflag="321" id1="3145" id2="194674" version="1065353216">Display your target's health</text>
+		<text bitflag="321" id1="3146" id2="194674" version="1065353216">Enable subtitles for non-alien conversation participants</text>
+		<text bitflag="321" id1="3147" id2="194674" version="1065353216">Turn on or off the map fading while you are moving</text>
+		<text bitflag="321" id1="3148" id2="194674" version="1065353216">Turn on or off the map flashing when you get hit</text>
+		<text bitflag="321" id1="3149" id2="194674" version="1065353216">Display nameplates on enemy NPCs</text>
+		<text bitflag="321" id1="3150" id2="194674" version="1065353216">Display nameplates on enemy players</text>
+		<text bitflag="321" id1="3151" id2="194674" version="1065353216">Display nameplates on enemy player companions</text>
+		<text bitflag="321" id1="3152" id2="194674" version="1065353216">Display nameplates on friendly NPCs</text>
+		<text bitflag="321" id1="3153" id2="194674" version="1065353216">Display nameplates on friendly players</text>
+		<text bitflag="321" id1="3154" id2="194674" version="1065353216">Display nameplates on friendly player companions</text>
+		<text bitflag="321" id1="3155" id2="194674" version="1065353216">Display nameplates on your companions</text>
+		<text bitflag="321" id1="3156" id2="194674" version="1065353216">Display a nameplate on your character</text>
+		<text bitflag="321" id1="3157" id2="194674" version="1065353216">Automatically decline all group invites</text>
+		<text bitflag="321" id1="3158" id2="194674" version="1065353216">Automatically decline all guild invites</text>
+		<text bitflag="321" id1="3159" id2="194674" version="1065353216">Automatically decline all trade invites</text>
+		<text bitflag="321" id1="3160" id2="194674" version="1065353216">Filter all profanity out of player chats</text>
+		<text bitflag="321" id1="3161" id2="194674" version="1065353216">Conversation Mode</text>
+		<text bitflag="321" id1="3162" id2="194674" version="1065353216">Is the player playing in multiplayer, solo or ask conversation modes.</text>
+		<text bitflag="321" id1="3163" id2="194674" version="1065353216">Multiplayer</text>
+		<text bitflag="321" id1="3164" id2="194674" version="1065353216">Solo</text>
+		<text bitflag="321" id1="3165" id2="194674" version="1065353216">Ask</text>
+		<text bitflag="321" id1="3166" id2="194674" version="1065353216">Request Companion to Harvest</text>
+		<text bitflag="321" id1="3167" id2="194674" version="1065353216">Right-click</text>
+		<text bitflag="321" id1="3168" id2="194674" version="1065353216">SHIFT + Right-click</text>
+		<text bitflag="321" id1="3169" id2="194674" version="1065353216">Disabled</text>
+		<text bitflag="321" id1="3170" id2="194674" version="1065353216">Right-click: Right-clicking sends your companion to gather a resource. When SHIFT + right-clicking, your character attempts to gather a resource.</text>
+		<text bitflag="321" id1="3171" id2="194674" version="1065353216">Show Effects and Abilities</text>
+		<text bitflag="321" id1="3172" id2="194674" version="1065353216">Show Point Spending and Restoration</text>
+		<text bitflag="321" id1="3173" id2="194674" version="1065353216">Display time stamps on all combat log messages</text>
+		<text bitflag="321" id1="3174" id2="194674" version="1065353216">Include messages about nearby action in the combat log.</text>
+		<text bitflag="321" id1="3175" id2="194674" version="1065353216">Include messages about actions benefiting you in the combat log.</text>
+		<text bitflag="321" id1="3176" id2="194674" version="1065353216">Include messages about actions harming you in the combat log.</text>
+		<text bitflag="321" id1="3177" id2="194674" version="1065353216">Include messages about effects and abilities in the combat log.</text>
+		<text bitflag="321" id1="3178" id2="194674" version="1065353216">Include messages about your point (Force, rage, etc.) spending and restoration actions in the combat log.</text>
+		<text bitflag="321" id1="3179" id2="194674" version="1065353216">Combat Log</text>
+		<text bitflag="321" id1="3180" id2="194674" version="1065353216">Show Time Stamp</text>
+		<text bitflag="321" id1="3181" id2="194674" version="1065353216">Show Nearby Action</text>
+		<text bitflag="321" id1="3182" id2="194674" version="1065353216">Show Positive Action</text>
+		<text bitflag="321" id1="3183" id2="194674" version="1065353216">Show Negative Action</text>
+		<text bitflag="321" id1="3184" id2="194674" version="1065353216">Map opens to world map</text>
+		<text bitflag="321" id1="3185" id2="194674" version="1065353216">If you are outside, open the world map instead of the local map.</text>
+		<text bitflag="321" id1="3200" id2="194674" version="1065353216">Texture Quality</text>
+		<text bitflag="321" id1="3201" id2="194674" version="1065353216">Adjust your texture quality</text>
+		<text bitflag="321" id1="3202" id2="194674" version="1065353216">View Overhead Chat</text>
+		<text bitflag="321" id1="3203" id2="194674" version="1065353216">Allow the display of chat messages over a character's head.</text>
+		<text bitflag="321" id1="3204" id2="194674" version="1065353216">Over Self</text>
+		<text bitflag="321" id1="3205" id2="194674" version="1065353216">Display chat over your own head.</text>
+		<text bitflag="321" id1="4000" id2="194674" version="1065353216">Eligible</text>
+		<text bitflag="321" id1="4001" id2="194674" version="1065353216">Player is out of range.</text>
+		<text bitflag="321" id1="4002" id2="194674" version="1065353216">Too low level</text>
+		<text bitflag="321" id1="4003" id2="194674" version="1065353216">Already completed</text>
+		<text bitflag="321" id1="4004" id2="194674" version="1065353216">Ineligible class</text>
+		<text bitflag="321" id1="4005" id2="194674" version="1065353216">Declined</text>
+		<text bitflag="321" id1="4006" id2="194674" version="1065353216">Missing mission requirement</text>
+		<text bitflag="321" id1="4007" id2="194674" version="1065353216">Solo mode</text>
+		<text bitflag="321" id1="4008" id2="194674" version="1065353216">AFK</text>
+		<text bitflag="321" id1="4009" id2="194674" version="1065353216">Offline</text>
+		<text bitflag="321" id1="4010" id2="194674" version="1065353216">In another conversation</text>
+		<text bitflag="321" id1="4011" id2="194674" version="1065353216">In Conversation</text>
+		<text bitflag="321" id1="5000" id2="194674" version="1065353216">Cargo Hold</text>
+		<text bitflag="321" id1="5001" id2="194674" version="1065353216">Bay</text>
+		<text bitflag="321" id1="5002" id2="194674" version="1065353216">BUY ADDITIONAL BAY</text>
+	</file_content>
+</stb_file>

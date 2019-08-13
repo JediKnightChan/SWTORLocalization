@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>17</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/class/smuggler/security_panel.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="686118" id2="17" version="1065353216">[To access secure station, insert clearance pass.]</text>
+		<text bitflag="1345" id1="686119" id2="17" version="1065353216">Awfully nice of the guild to leave a clearance pass with their security patrol.</text>
+		<text bitflag="1360" id1="686119" id2="17" version="1065353216">Good thing I found one.</text>
+		<text bitflag="1345" id1="686120" id2="17" version="1065353216">Let's find that slicer and see what she knows about Skavak.</text>
+		<text bitflag="1360" id1="686120" id2="17" version="1065353216">Time for some answers.</text>
+		<text bitflag="1345" id1="686121" id2="17" version="1065353216">Open up, you stupid door.</text>
+		<text bitflag="1360" id1="686121" id2="17" version="1065353216">Yeah, yeah.</text>
+		<text bitflag="321" id1="686122" id2="17" version="1065353216">[Clearance pass detected. Secure station access granted.]</text>
+		<text bitflag="321" id1="686128" id2="17" version="1065353216">[To access secure station, insert clearance pass.]</text>
+		<text bitflag="1345" id1="686129" id2="17" version="1065353216">I must need some blasted data card to open this thing.</text>
+		<text bitflag="1360" id1="686129" id2="17" version="1065353216">Clearance pass?</text>
+		<text bitflag="1345" id1="686130" id2="17" version="1065353216">Kixi better be worth all this extra trouble.</text>
+		<text bitflag="1360" id1="686130" id2="17" version="1065353216">I hate complications.</text>
+		<text bitflag="1345" id1="686131" id2="17" version="1065353216">Wish I had a couple dozen thermal detonators right now.</text>
+		<text bitflag="1360" id1="686131" id2="17" version="1065353216">Stupid door.</text>
+		<text bitflag="1345" id1="686132" id2="17" version="1065353216">There's bound to be somebody around here with a clearance pass. You ready for some more action, Captain?</text>
+		<text bitflag="321" id1="686135" id2="17" version="1065353216">[Clearance pass not detected. Access denied.]</text>
+	</file_content>
+</stb_file>

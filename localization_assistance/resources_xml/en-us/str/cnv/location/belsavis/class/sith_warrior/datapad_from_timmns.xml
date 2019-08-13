@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/class/sith_warrior/datapad_from_timmns.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="553441" id2="17" version="1065353216">[This datapad glows softly and flickers to life when you pick it up.]</text>
+		<text bitflag="1345" id1="553443" id2="17" version="1065353216">I will attempt to head them off, but you must proceed immediately.</text>
+		<text bitflag="1345" id1="553445" id2="17" version="1065353216">Darth Ekkage is in cell block 77-Z. Lord Melicoste has already arrived there. If I survive, I will join you, otherwise you'll be flanked.</text>
+		<text bitflag="1345" id1="553447" id2="17" version="1065353216">It amuses me to me think you'll be happy to see me. Good luck.</text>
+		<text bitflag="1345" id1="553448" id2="17" version="1065353216">Sith, I regret that I am unable to rendezvous. I intercepted a communication from Lord Melicoste--his forces have regrouped and are on their way to your location.</text>
+	</file_content>
+</stb_file>

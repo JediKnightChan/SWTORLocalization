@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/ambient/spaceport.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="211395" id2="17" version="1065353216">Please, I have kids to feed!</text>
+		<text bitflag="1345" id1="211397" id2="17" version="1065353216">Imperial law bends for no man.</text>
+		<text bitflag="1345" id1="211399" id2="17" version="1065353216">I--I have credits...?</text>
+		<text bitflag="1345" id1="211401" id2="17" version="1065353216">You dare bribe a servant of the Empire?</text>
+		<text bitflag="1345" id1="211403" id2="17" version="1065353216">I didn't--</text>
+		<text bitflag="1345" id1="211405" id2="17" version="1065353216">Enough! Officer, show our friend some Dromund Kaas hospitality.</text>
+	</file_content>
+</stb_file>

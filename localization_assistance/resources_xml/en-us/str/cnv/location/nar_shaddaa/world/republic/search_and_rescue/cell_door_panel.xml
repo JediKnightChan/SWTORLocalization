@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>15</strs>
+		<file_name>/resources/en-us/str/cnv/location/nar_shaddaa/world/republic/search_and_rescue/cell_door_panel.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="647801" id2="17" version="1065353216">[The cell is already unlocked.]</text>
+		<text bitflag="1345" id1="647802" id2="17" version="1065353216">[You enter Jax Dumont's code and release the Republic agent Phalanx from his cell.]</text>
+		<text bitflag="3393" id1="647804" id2="17" version="1065353216">What's going on? What kind of uniform is that?</text>
+		<text bitflag="1345" id1="647805" id2="17" version="1065353216">Special Forces. It's the latest fashion for jailbreaks. Let's get out of here.</text>
+		<text bitflag="1360" id1="647805" id2="17" version="1065353216">A Republic one.</text>
+		<text bitflag="1345" id1="647806" id2="17" version="1065353216">The lightsaber didn't give me away? Come, we have little time and we need to get moving.</text>
+		<text bitflag="1360" id1="647806" id2="17" version="1065353216">A Jedi one.</text>
+		<text bitflag="1345" id1="647807" id2="17" version="1065353216">I try to rescue you and you make fun of my clothes? Just move already!</text>
+		<text bitflag="1360" id1="647807" id2="17" version="1065353216">I thought it looked nice!</text>
+		<text bitflag="1345" id1="647808" id2="17" version="1065353216">An agent named Jax Dumont sent me. Get ready to run.</text>
+		<text bitflag="1360" id1="647808" id2="17" version="1065353216">You're Phalanx, right?</text>
+		<text bitflag="1345" id1="647809" id2="17" version="1065353216">The important thing is, you're not getting a bomb put in your skull. Follow me.</text>
+		<text bitflag="1360" id1="647809" id2="17" version="1065353216">I'm on your side.</text>
+		<text bitflag="3393" id1="647810" id2="17" version="1065353216">All right, but I hope you're ready for a noisy exit. The guards here know what they're doing.</text>
+		<text bitflag="1345" id1="647813" id2="17" version="1065353216">[This cell door is heavily reinforced. Whoever is inside isn't getting out.]</text>
+	</file_content>
+</stb_file>

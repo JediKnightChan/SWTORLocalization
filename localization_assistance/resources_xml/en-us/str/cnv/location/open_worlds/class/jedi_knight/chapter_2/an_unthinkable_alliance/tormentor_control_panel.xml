@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>31</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_2/an_unthinkable_alliance/tormentor_control_panel.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="640666" id2="17" version="1065353216">[The tormentor device is deactivated.]</text>
+		<text bitflag="1345" id1="640668" id2="17" version="1065353216">I thought he'd never leave. You're free. Let's get going.</text>
+		<text bitflag="1345" id1="640669" id2="17" version="1065353216">Not to sound ungrateful, but it's about time!</text>
+		<text bitflag="1345" id1="640671" id2="17" version="1065353216">You're free. Are you alright?</text>
+		<text bitflag="1345" id1="640672" id2="17" version="1065353216">I'd kiss you if we weren't in the middle of Sith central.</text>
+		<text bitflag="1345" id1="640674" id2="17" version="1065353216">I am now. I knew you'd come back.</text>
+		<text bitflag="1345" id1="640676" id2="17" version="1065353216">This place is crawling with Sith who don't know you're back to normal, but you won't fool them forever. We need to leave--quick.</text>
+		<text bitflag="1345" id1="640678" id2="17" version="1065353216">Teeseven and the others are still in the docking bay, locked in cages. We can free everyone and take back the ship.</text>
+		<text bitflag="1345" id1="640679" id2="17" version="1065353216">We have to warn the Jedi Council about what's happened.</text>
+		<text bitflag="1360" id1="640679" id2="17" version="1065353216">Then, we fly home.</text>
+		<text bitflag="1345" id1="640680" id2="17" version="1065353216">One thing at a time. First, let's get out of here alive.</text>
+		<text bitflag="1345" id1="640681" id2="17" version="1065353216">How many Sith are in the docking bay?</text>
+		<text bitflag="1360" id1="640681" id2="17" version="1065353216">What about the guards?</text>
+		<text bitflag="1345" id1="640682" id2="17" version="1065353216">A dozen, give or take. Never said this was gonna be easy.</text>
+		<text bitflag="1345" id1="640683" id2="17" version="1065353216">We aren't leaving until I kill every Sith on the station--especially the Emperor.</text>
+		<text bitflag="1360" id1="640683" id2="17" version="1065353216">I'm destroying this place.</text>
+		<text bitflag="1345" id1="640684" id2="17" version="1065353216">Are you crazy? We barely survived the last fight. We need to get out of here.</text>
+		<text bitflag="1345" id1="640688" id2="17" version="1065353216">Let's begin. It's a simple device. Three inducement settings, each inflicting greater pain on the subject.</text>
+		<text bitflag="1345" id1="640690" id2="17" version="1065353216">The tormentor monitors the subject's vital signs, stopping just short of delivering lethal damage. Still quite agonizing, however.</text>
+		<text bitflag="1345" id1="640692" id2="17" version="1065353216">I know you're still in there. You're not one of them. If I beat him, you can too.</text>
+		<text bitflag="1345" id1="640694" id2="17" version="1065353216">Proceed with the lowest inducement setting. Get your subject focused.</text>
+		<text bitflag="1345" id1="640695" id2="17" version="1065353216">I'm sorry, overseer. There appears to be a problem with the controls.</text>
+		<text bitflag="1360" id1="640695" id2="17" version="1065353216">[Lie] I can't make it work.</text>
+		<text bitflag="1345" id1="640696" id2="17" version="1065353216">Blasted technicians... step aside. I'll have a look.</text>
+		<text bitflag="1345" id1="640698" id2="17" version="1065353216">Well, it's about time. Get me out of this thing.</text>
+		<text bitflag="1345" id1="640699" id2="17" version="1065353216">The tormentor isn't functioning, overseer. It needs repair.</text>
+		<text bitflag="1360" id1="640699" id2="17" version="1065353216">[Force Persuade] It's broken.</text>
+		<text bitflag="1345" id1="640700" id2="17" version="1065353216">The tormentor isn't functioning. It needs repair.</text>
+		<text bitflag="1345" id1="640702" id2="17" version="1065353216">Stay here while I sort this out. If the containment field fails, the subject may attempt to escape.</text>
+		<text bitflag="1345" id1="640705" id2="17" version="1065353216">Bad news, overseer. I don't work for the Emperor anymore--and neither do you.</text>
+		<text bitflag="1360" id1="640705" id2="17" version="1065353216">Focus on this. [Kill him]</text>
+	</file_content>
+</stb_file>

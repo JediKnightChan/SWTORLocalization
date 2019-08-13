@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris/world/missing_link/rakghoul_corpses.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="574232" id2="17" version="1065353216">There is nothing more to be learned from this corpse.</text>
+		<text bitflag="321" id1="574233" id2="17" version="1065353216">[This rakghoul was crushed bodily, as though pressed beneath a very heavy weight. There are no such objects in the area.]</text>
+		<text bitflag="1345" id1="574234" id2="17" version="1065353216">There is nothing more you can learn from this corpse.</text>
+		<text bitflag="321" id1="574235" id2="17" version="1065353216">[This rakghoul's throat was crushed, but there are no signs of bruising or other marks.]</text>
+	</file_content>
+</stb_file>

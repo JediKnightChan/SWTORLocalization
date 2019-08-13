@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x2/achievement/imperial/mission_board_1.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1040080" id2="17" version="1065353216">ACHIEVEMENT MISSION
+Reward: Aratech Ice
+
+Complete the following missions in Master difficulty mode:
+
+[MASTER] Flashpoint: Black Talon
+[MASTER] Flashpoint: Boarding Party
+[MASTER] Flashpoint: The Foundry
+[MASTER] Flashpoint: Directive 7
+[MASTER] Flashpoint: The Battle of Ilum
+[MASTER] Flashpoint: The False Emperor
+[MASTER] Flashpoint: Kaon Under Siege
+[MASTER] Flashpoint: Lost Island</text>
+		<text bitflag="321" id1="1045019" id2="17" version="1065353216">ACHIEVEMENT MISSION
+Reward: Aratech Nightscythe
+
+Defeat the following operations bosses in Veteran difficulty mode:
+
+Annihilation Droid XRR-3, Gharj, Soa, Bonethrasher, G4-B3 Heavy Fabricator, Karagga, Zorn and Toth, Colonel Vorgath, and Kephess.</text>
+		<text bitflag="321" id1="1045021" id2="17" version="1065353216">ACHIEVEMENT MISSION
+Reward: Praxon Firaxa
+
+Defeat the following Operations bosses in Master difficulty mode:
+
+Annihilation Droid XRR-3, Gharj, Soa, Bonethrasher, G4-B3 Heavy Fabricator, Karagga, Zorn and Toth, Colonel Vorgath, and Kephess.</text>
+		<text bitflag="321" id1="1045022" id2="17" version="1065353216">ACHIEVEMENT MISSION
+Reward: Aratech Fire
+
+Defeat the following operations bosses in Story mode:
+
+Annihilation Droid XRR-3, Gharj, Soa, Bonethrasher, G4-B3 Heavy Fabricator, Karagga, Zorn and Toth, Colonel Vorgath, and Kephess.</text>
+		<text bitflag="321" id1="1045071" id2="17" version="1065353216">ACHIEVEMENT MISSION
+Reward: Aratech Coral
+
+Defeat the following world bosses:
+
+Snowblind, Gargath, Primal Destroyer, and Nightmare Pilgrim.</text>
+	</file_content>
+</stb_file>

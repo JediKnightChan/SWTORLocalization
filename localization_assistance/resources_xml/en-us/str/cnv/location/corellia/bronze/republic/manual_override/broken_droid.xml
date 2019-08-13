@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>8</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/bronze/republic/manual_override/broken_droid.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="234208" id2="17" version="1065353216">[This droid is damaged beyond repair, but with some work, you manage to access its memory core. The droid's last orders read:]</text>
+		<text bitflag="321" id1="234210" id2="17" version="1065353216">It's done, B3-RD. The new turret targeting program. Any Imperial bombers near our residential zones are in for a surprise!</text>
+		<text bitflag="321" id1="234212" id2="17" version="1065353216">Now, I need you to upload the targeting program directly into the turret placement down the street; it'll propagate from there.</text>
+		<text bitflag="321" id1="234214" id2="17" version="1065353216">Be careful, B3. The military's talking about snipers in that area. Upload the targeting program and come right back, understand?</text>
+		<text bitflag="336" id1="234215" id2="17" version="1065353216">[Download the program]</text>
+		<text bitflag="321" id1="234216" id2="17" version="1065353216">[You download the targeting program. Uploading it to the turret should make Corellia's skies much safer.]</text>
+		<text bitflag="336" id1="234218" id2="17" version="1065353216">Leave. [Refuse quest]</text>
+		<text bitflag="321" id1="234220" id2="17" version="1065353216">[Someone shot this droid clean through its power unit, leaving it beyond repair.]</text>
+	</file_content>
+</stb_file>

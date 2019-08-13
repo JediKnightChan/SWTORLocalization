@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/ilum/imperial/xt_9t.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="507968" id2="17" version="1065353216">Weapon systems = online // Bunker = secure</text>
+		<text bitflag="3393" id1="507969" id2="17" version="1065353216">Darth Malgus = critical threat // Grand Moff Regus + war council = request your immediate presence</text>
+		<text bitflag="1360" id1="507970" id2="17" version="1065353216">Let's go.</text>
+		<text bitflag="3393" id1="507971" id2="17" version="1065353216">Access = granted // Galaxy - Darth Malgus = top priority</text>
+		<text bitflag="1360" id1="507973" id2="17" version="1065353216">They can wait. [Refuse Mission]</text>
+		<text bitflag="3393" id1="507976" id2="17" version="1065353216">Sentry mode = scanning for hostiles</text>
+	</file_content>
+</stb_file>

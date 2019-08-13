@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>8</strs>
+		<file_name>/resources/en-us/str/sys/factions.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1" id2="273246" version="1065353216">Empire</text>
+		<text bitflag="1345" id1="2" id2="273246" version="1065353216">Republic</text>
+		<text bitflag="1345" id1="3" id2="273246" version="1065353216">Anarchy</text>
+		<text bitflag="1345" id1="4" id2="273246" version="1065353216">Neutral</text>
+		<text bitflag="1345" id1="5" id2="273246" version="1065353216">Hostile</text>
+		<text bitflag="1345" id1="7" id2="273246" version="1065353216">Friendly</text>
+		<text bitflag="321" id1="258" id2="273246" version="1065353216">Interactive research plan compiled. Participant Species may initiate experiment at their leisure.</text>
+		<text bitflag="321" id1="259" id2="273246" version="1065353216">Please donate temporal moments while I attempt to advance a suitable interactive research plan.</text>
+	</file_content>
+</stb_file>

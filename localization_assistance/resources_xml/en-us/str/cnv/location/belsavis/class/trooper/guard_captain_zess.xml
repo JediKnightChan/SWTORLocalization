@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>41</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/class/trooper/guard_captain_zess.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="708490" id2="17" version="1065353216">Help is on the way, Harlan. Zess out.</text>
+		<text bitflag="1345" id1="708492" id2="17" version="1065353216">We're out of medpacs, but there are some caches you can raid on your way to Harlan. Here are the coordinates.</text>
+		<text bitflag="1345" id1="708495" id2="17" version="1065353216">I'll grab the medpacs and back Harlan up right away.</text>
+		<text bitflag="1360" id1="708495" id2="17" version="1065353216">Agreed.</text>
+		<text bitflag="1360" id1="708496" id2="17" version="1065353216">I already have a medic.</text>
+		<text bitflag="1345" id1="708498" id2="17" version="1065353216">Captain Dorne can treat Harlan's wounded men.</text>
+		<text bitflag="1345" id1="708499" id2="17" version="1065353216">Lieutenant Dorne can handle a few blaster wounds--no need for supplies.</text>
+		<text bitflag="1345" id1="708500" id2="17" version="1065353216">Not knowing the condition of the wounded, sir, I still recommend collecting additional medical supplies.</text>
+		<text bitflag="1360" id1="708502" id2="17" version="1065353216">Watch and learn, Zess.</text>
+		<text bitflag="1345" id1="708503" id2="17" version="1065353216">I'm sure Harlan will be impressed at the backup he's getting.</text>
+		<text bitflag="1345" id1="708505" id2="17" version="1065353216">If the situation is as bad as Harlan says, I could use an extra gun.</text>
+		<text bitflag="1360" id1="708505" id2="17" version="1065353216">You're not coming?</text>
+		<text bitflag="1345" id1="708506" id2="17" version="1065353216">Me? I'm good in a fight, but I'm not Havoc Squad material. I'd just get in your way.</text>
+		<text bitflag="1345" id1="708508" id2="17" version="1065353216">Stay on your toes out there. This place is a madhouse.</text>
+		<text bitflag="1345" id1="708511" id2="17" version="1065353216">Power packs... check. Stun baton... check. Binders... check.</text>
+		<text bitflag="1345" id1="708512" id2="17" version="1065353216">Excuse me, Captain. I was told you could help me locate Dagger Wing's CO.</text>
+		<text bitflag="1345" id1="708513" id2="17" version="1065353216">Hmm? Ah, Major, glad you caught me. Was just heading out to round up another wave of runners.</text>
+		<text bitflag="1345" id1="708515" id2="17" version="1065353216">The Imps are springing everyone they can. The Daggers volunteered to help get things under control--so they're spread out across the prison.</text>
+		<text bitflag="1345" id1="708516" id2="17" version="1065353216">Can you put me in contact with Conrad Gall?</text>
+		<text bitflag="1360" id1="708516" id2="17" version="1065353216">What about their leader?</text>
+		<text bitflag="1345" id1="708517" id2="17" version="1065353216">Gall's in one of the higher-security zones, so my comm won't reach him. The Daggers' XO is closer, though, let's give him a shot.</text>
+		<text bitflag="1345" id1="708519" id2="17" version="1065353216">What do you know about these pilots, Captain?</text>
+		<text bitflag="1360" id1="708519" id2="17" version="1065353216">Tell me about the Daggers.</text>
+		<text bitflag="1345" id1="708520" id2="17" version="1065353216">I know they got a raw deal. Those pilots were just doing their job, and they got locked up for it. Shameful.</text>
+		<text bitflag="1345" id1="708522" id2="17" version="1065353216">Do you really trust inmates to round up other inmates?</text>
+		<text bitflag="1360" id1="708522" id2="17" version="1065353216">You accept prisoners' help?</text>
+		<text bitflag="1345" id1="708523" id2="17" version="1065353216">Far as I'm concerned, those pilots aren't inmates. Talk to any of 'em for five seconds, you'll know they never should've been sent here.</text>
+		<text bitflag="1345" id1="708525" id2="17" version="1065353216">Their leader, Gall, is in a high-security zone, so I can't raise him on the holo for you. The XO isn't far, though--here.</text>
+		<text bitflag="1345" id1="708527" id2="17" version="1065353216">Harlan? Harlan, come in, this is Zess, over.</text>
+		<text bitflag="1345" id1="708529" id2="17" version="1065353216">Zess? Heh, good timing, pal. We need backup, ASAP--the Imps are opening the vaults!</text>
+		<text bitflag="1345" id1="708531" id2="17" version="1065353216">Are they insane? We'll get you backup, Harlan, just hang in there!</text>
+		<text bitflag="1345" id1="708532" id2="17" version="1065353216">Give me coordinates and I'll double-time it to your position.</text>
+		<text bitflag="1360" id1="708532" id2="17" version="1065353216">Let me help.</text>
+		<text bitflag="1345" id1="708533" id2="17" version="1065353216">Who is that? Forget it, I'll take anyone you've got.</text>
+		<text bitflag="1345" id1="708535" id2="17" version="1065353216">What are these vaults you're talking about?</text>
+		<text bitflag="1360" id1="708535" id2="17" version="1065353216">Vaults?</text>
+		<text bitflag="1345" id1="708536" id2="17" version="1065353216">They were here on Belsavis when the prison was built. All we know is, what's in there is bad. We never open them.</text>
+		<text bitflag="1345" id1="708538" id2="17" version="1065353216">Assemble all Dagger Wing personnel and report to me immediately, Harlan!</text>
+		<text bitflag="1360" id1="708538" id2="17" version="1065353216">Drop everything and come back!</text>
+		<text bitflag="1345" id1="708539" id2="17" version="1065353216">Who is that? Look, I'd love to get my people out of here, but that's not happening unless we get some backup.</text>
+		<text bitflag="1345" id1="708541" id2="17" version="1065353216">We've got some Imps cornered in one of the vault entrances, but we're shot up pretty bad. We need medpacs and manpower, and we need them yesterday.</text>
+	</file_content>
+</stb_file>

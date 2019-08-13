@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>50</strs>
+		<file_name>/resources/en-us/str/cnv/spvp/announcers/domination.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1124357" id2="17" version="1065353216">Satellite defenses powering up. This battle is about to end.</text>
+		<text bitflag="1345" id1="1124360" id2="17" version="1065353216">The enemy has nearly complete control. We need those satellites!</text>
+		<text bitflag="1345" id1="1124364" id2="17" version="1065353216">The defense network is almost ours. Maintain control!</text>
+		<text bitflag="1345" id1="1124367" id2="17" version="1065353216">Satellite secured.</text>
+		<text bitflag="1345" id1="1124370" id2="17" version="1065353216">Enemy has taken a satellite!</text>
+		<text bitflag="1345" id1="1124379" id2="17" version="1065353216">Fleet Admiral Aygo to attack squadron: You're approaching a critical repair outpost for enemy forces in this region. Your objective is to capture and hold.</text>
+		<text bitflag="1345" id1="1124381" id2="17" version="1065353216">Fleet Admiral Aygo to wargame participants: This exercise simulates an assault on an enemy repair outpost. Objective is to capture the outpost's defensive satellites.</text>
+		<text bitflag="1345" id1="1124397" id2="17" version="1065353216">We have satellite access.</text>
+		<text bitflag="1345" id1="1124398" id2="17" version="1065353216">Satellite captured.</text>
+		<text bitflag="1345" id1="1124399" id2="17" version="1065353216">Satellite lost.</text>
+		<text bitflag="1345" id1="1124400" id2="17" version="1065353216">We have lost a satellite.</text>
+		<text bitflag="1345" id1="1124402" id2="17" version="1065353216">We're running out of time! The network's almost at full power!</text>
+		<text bitflag="1345" id1="1124404" id2="17" version="1065353216">Don't quit fighting. We can still win this!</text>
+		<text bitflag="1345" id1="1124406" id2="17" version="1065353216">We can win this one--just maintain control!</text>
+		<text bitflag="1345" id1="1124408" id2="17" version="1065353216">Satellite secured!</text>
+		<text bitflag="1345" id1="1124409" id2="17" version="1065353216">Defense satellite active.</text>
+		<text bitflag="1345" id1="1124410" id2="17" version="1065353216">Satellite defended.</text>
+		<text bitflag="1345" id1="1124412" id2="17" version="1065353216">We just lost a satellite!</text>
+		<text bitflag="1345" id1="1124413" id2="17" version="1065353216">The enemy's taking control!</text>
+		<text bitflag="1345" id1="1124414" id2="17" version="1065353216">Satellite lost!</text>
+		<text bitflag="1345" id1="1124415" id2="17" version="1065353216">Admiral Ranken to all ships. This repair outpost is critical to our operations in this region. It must not fall into enemy hands.</text>
+		<text bitflag="1345" id1="1124416" id2="17" version="1065353216">Admiral Ranken to all ships. This is a live fire wargame simulating the defense of a critical repair outpost.</text>
+		<text bitflag="1345" id1="1124475" id2="17" version="1065353216">Each of the outpost's defensive satellites must be secured and patrolled until our technicians have activated their systems. Watchwords are &quot;swift&quot; and &quot;absolute.&quot;</text>
+		<text bitflag="1345" id1="1124477" id2="17" version="1065353216">Republic forces are in-system and will attempt to intercept. Break formation, fire at will, and hold this outpost for the Empire.</text>
+		<text bitflag="1345" id1="1124479" id2="17" version="1065353216">Your objective is to secure each of the outpost's defensive satellites and remain in proximity while our technicians activate them. A second squadron will oppose you.</text>
+		<text bitflag="1345" id1="1124481" id2="17" version="1065353216">This exercise will yield invaluable tactical data. Do not hold back or show mercy. You'll only skew the results.</text>
+		<text bitflag="1345" id1="1124483" id2="17" version="1065353216">Satellite weapons online! Targeting Republic starfighters. Stand down, squadron--victory is ours!</text>
+		<text bitflag="1345" id1="1124486" id2="17" version="1065353216">Satellite weapons online! The wargame is over, and victory is yours. Well done.</text>
+		<text bitflag="1345" id1="1124490" id2="17" version="1065353216">The Republic has activated the satellites! We must withdraw! Repeat, withdraw!</text>
+		<text bitflag="1345" id1="1124493" id2="17" version="1065353216">The opposing squadron has activated the satellites. The wargame is over, and you're dead. Something to learn from.</text>
+		<text bitflag="1345" id1="1124495" id2="17" version="1065353216">Secure each of the outpost's defensive satellites and stay in range until our technicians have captured their systems.</text>
+		<text bitflag="1345" id1="1124497" id2="17" version="1065353216">Imperial reinforcements are already inbound. They're going to try to activate the satellites for themselves--but they aren't counting on pilots like you!</text>
+		<text bitflag="1345" id1="1124499" id2="17" version="1065353216">Each squadron will send fighters toward the satellites. Stay in range and intercept all foes while a satellite powers up.</text>
+		<text bitflag="1345" id1="1124501" id2="17" version="1065353216">Your performance today will mean lives saved tomorrow. Fly your best, and may the Force be with us.</text>
+		<text bitflag="1345" id1="1124505" id2="17" version="1065353216">Defense network fully powered and under control. Good work, squadron--now watch those Imps run!</text>
+		<text bitflag="1345" id1="1124508" id2="17" version="1065353216">Well played, squadron--the defense network is yours, thanks to teamwork and tactics.</text>
+		<text bitflag="1345" id1="1124512" id2="17" version="1065353216">The Imps have taken the defense network. Retreat! We'll fight another day.</text>
+		<text bitflag="1345" id1="1124515" id2="17" version="1065353216">The defense network has fallen to the enemy. Good fight, but it wasn't your day.</text>
+		<text bitflag="1345" id1="1124712" id2="17" version="1065353216">Satellite A captured!</text>
+		<text bitflag="1345" id1="1124713" id2="17" version="1065353216">We've taken Satellite B!</text>
+		<text bitflag="1345" id1="1124714" id2="17" version="1065353216">Satellite C is ours!</text>
+		<text bitflag="1345" id1="1124715" id2="17" version="1065353216">We've lost Satellite A!</text>
+		<text bitflag="1345" id1="1124716" id2="17" version="1065353216">Enemy just took Satellite B!</text>
+		<text bitflag="1345" id1="1124717" id2="17" version="1065353216">The enemy captured Satellite C!</text>
+		<text bitflag="1345" id1="1124720" id2="17" version="1065353216">We have taken Satellite A.</text>
+		<text bitflag="1345" id1="1124721" id2="17" version="1065353216">Satellite B secured.</text>
+		<text bitflag="1345" id1="1124722" id2="17" version="1065353216">Satellite C is under our control.</text>
+		<text bitflag="1345" id1="1124723" id2="17" version="1065353216">Satellite A has fallen to the enemy.</text>
+		<text bitflag="1345" id1="1124724" id2="17" version="1065353216">We have lost Satellite B.</text>
+		<text bitflag="1345" id1="1124725" id2="17" version="1065353216">The enemy has taken Satellite C.</text>
+	</file_content>
+</stb_file>

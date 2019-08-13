@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>20</strs>
+		<file_name>/resources/en-us/str/gui/spacecombat_items.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1" id2="229095" version="1065353216">Equip: Ship toughness is set to &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="1345" id1="2" id2="229095" version="1065353216">Equip: Ship blasters fire &lt;&lt;1&gt;&gt; shots per second.</text>
+		<text bitflag="1345" id1="3" id2="229095" version="1065353216">Equip: Ship blasters deliver &lt;&lt;1&gt;&gt; damage per bolt.</text>
+		<text bitflag="1345" id1="4" id2="229095" version="1065353216">Equip: Ship has shields that absorb &lt;&lt;1&gt;&gt; damage.</text>
+		<text bitflag="1345" id1="5" id2="229095" version="1065353216">Equip: Ship shields regenerate &lt;&lt;1&gt;&gt; toughness per second.</text>
+		<text bitflag="1345" id1="6" id2="229095" version="1065353216">Equip: Ship missile bay now holds &lt;&lt;1&gt;&gt; missiles.</text>
+		<text bitflag="1345" id1="7" id2="229095" version="1065353216">Equip: Ship now holds &lt;&lt;1&gt;&gt; proton torpedoes. 
+Use: Right-click and hold reticle over target until target-lock, then release.</text>
+		<text bitflag="321" id1="8" id2="229095" version="1065353216">Use: Blast cannons deal more damage, but shield regeneration is cut in half.</text>
+		<text bitflag="321" id1="9" id2="229095" version="1065353216">Use: Shield regeneration is boosted significantly, but blast cannons deal very little damage.</text>
+		<text bitflag="321" id1="10" id2="229095" version="1065353216">Use: Deliver a large amount of damage to nearby enemies and allies.</text>
+		<text bitflag="321" id1="11" id2="229095" version="1065353216">Use: Enemies cannot target you for 10 seconds.</text>
+		<text bitflag="321" id1="12" id2="229095" version="1065353216">Use: Deliver a massive amount of damage to nearby enemies and allies. The blast will remove all shields.</text>
+		<text bitflag="321" id1="13" id2="229095" version="1065353216">Use: Enemies cannot target you for 15 seconds.</text>
+		<text bitflag="321" id1="257" id2="229095" version="1065353216">Equip: Increases ship toughness by &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="258" id2="229095" version="1065353216">Equip: Increases blaster shots per second by &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="259" id2="229095" version="1065353216">Equip: Increases blaster damage per bolt by &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="260" id2="229095" version="1065353216">Equip: Increases shield absorption by &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="261" id2="229095" version="1065353216">Equip: Increases shield regeneration by &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="262" id2="229095" version="1065353216">Equip: Increases missile bay capacity by &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="263" id2="229095" version="1065353216">Equip: Increases missile damage to 500.</text>
+	</file_content>
+</stb_file>

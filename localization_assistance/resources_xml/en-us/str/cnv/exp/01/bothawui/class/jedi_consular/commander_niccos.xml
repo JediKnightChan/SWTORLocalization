@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>166</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/bothawui/class/jedi_consular/commander_niccos.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="65" id1="1022107" id2="17" version="1065353216">[You use your intercom to gather your shipmates and report to Commander Niccos.]</text>
+		<text bitflag="65" id1="1022109" id2="17" version="1065353216">[You have now completed Bothawui.]</text>
+		<text bitflag="1089" id1="1022111" id2="17" version="1065353216">Anything you can do about those beast lures would be appreciated.</text>
+		<text bitflag="1089" id1="1022112" id2="17" version="1065353216">We're still fielding reports of those beasts, Master Jedi; but, the generator is no longer a threat. You even rescued my lieutenant.</text>
+		<text bitflag="1089" id1="1022114" id2="17" version="1065353216">Just one thing: How did you deal with that woman?</text>
+		<text bitflag="1089" id1="1022116" id2="17" version="1065353216">I'll keep the heat on the SIS for information; you take care of the Nar'less Bunker.</text>
+		<text bitflag="1089" id1="1022117" id2="17" version="1065353216">Can you get me the comm intercept log? --Thank you. You're here just in time, Master Jedi.</text>
+		<text bitflag="1089" id1="1022119" id2="17" version="1065353216">Master Jedi! Good, I had a gap in my schedule... I'm Commander Niccos, overseeing the Bothawui liberation efforts.</text>
+		<text bitflag="1089" id1="1022121" id2="17" version="1065353216">It'll take more than fire to drive us off Bothawui.</text>
+		<text bitflag="1089" id1="1043157" id2="17" version="1065353216">I was told a member of the Jedi Council was about to arrive; it's truly an honor to meet you.</text>
+		<text bitflag="1089" id1="1043159" id2="17" version="1065353216">I'm at your disposal, of course. But we're stretched; Bothawui has been under Imperial occupation for a long time, and the Imps aren't leaving quietly.</text>
+		<text bitflag="1089" id1="1043160" id2="17" version="1065353216">Your arrival was posted. I've read your strategic briefings; inspired work, I've used several of your ideas myself.</text>
+		<text bitflag="1089" id1="1043162" id2="17" version="1065353216">My focus isn't Bothawui's liberation. I have to find a Bothan named Zah'lis.</text>
+		<text bitflag="1104" id1="1043162" id2="17" version="1065353216">I'm looking for someone.</text>
+		<text bitflag="1089" id1="1043163" id2="17" version="1065353216">Zah'lis. Hmm... let my staff run some checks. I can give you our standard briefing in the meantime.</text>
+		<text bitflag="1089" id1="1043165" id2="17" version="1065353216">So, the Bothans are helping you fight back.</text>
+		<text bitflag="1104" id1="1043165" id2="17" version="1065353216">The Bothan resistance?</text>
+		<text bitflag="1089" id1="1043166" id2="17" version="1065353216">If the Empire razes Bothawui to the ground, we're looking at starvation across this entire sector.</text>
+		<text bitflag="1104" id1="1043166" id2="17" version="1065353216">That will cause a food crisis.</text>
+		<text bitflag="1089" id1="1043167" id2="17" version="1065353216">We had Voss commandos on loan to us, but I hear they might be sent home; it's all very political.</text>
+		<text bitflag="1089" id1="1043168" id2="17" version="1065353216">I'd like a briefing on the ground situation first, Commander.</text>
+		<text bitflag="1104" id1="1043168" id2="17" version="1065353216">What Imperial occupation?</text>
+		<text bitflag="1089" id1="1043169" id2="17" version="1065353216">By my understanding, the Empire isn't quite the power it once was. The Imperials are on the run.</text>
+		<text bitflag="1104" id1="1043169" id2="17" version="1065353216">The Empire's falling apart.</text>
+		<text bitflag="1089" id1="1043173" id2="17" version="1065353216">Bothawui's a valuable agricultural world, feeding millions of people. It was ceded to the Empire in the Treaty of Coruscant.</text>
+		<text bitflag="1089" id1="1043176" id2="17" version="1065353216">Now we've driven the Imperials into retreat, but they're taking Bothawui with them. The Empire's burning the fields and murdering the Bothan resistance fighters.</text>
+		<text bitflag="1089" id1="1043177" id2="17" version="1065353216">The Imperials have decided that if they can't have Bothawui, nobody will. Next they'll be smashing their own fleets out of spite.</text>
+		<text bitflag="1104" id1="1043177" id2="17" version="1065353216">A petty revenge, nothing more.</text>
+		<text bitflag="1089" id1="1043178" id2="17" version="1065353216">They're running on Bothawui, all right, and throwing firebombs as they go.</text>
+		<text bitflag="1089" id1="1043183" id2="17" version="1065353216">We have some support from Voss commandos--very talented people--but it's an uphill struggle.</text>
+		<text bitflag="1089" id1="1043184" id2="17" version="1065353216">The Bothans have been quietly undermining the Imperials for years. Some sabotage here, a little grain theft there....</text>
+		<text bitflag="1089" id1="1043186" id2="17" version="1065353216">Good for them.</text>
+		<text bitflag="1089" id1="1043195" id2="17" version="1065353216">I'm looking for information on a Bothan called Zah'lis.</text>
+		<text bitflag="1089" id1="1043197" id2="17" version="1065353216">But that's our concern, not yours. What can I help you with?</text>
+		<text bitflag="1089" id1="1043198" id2="17" version="1065353216">Even if he's not the Zah'lis I'm looking for, he might know who is.</text>
+		<text bitflag="1104" id1="1043198" id2="17" version="1065353216">It's somewhere to begin.</text>
+		<text bitflag="1089" id1="1043199" id2="17" version="1065353216">But you were asking about someone called Zah'lis, weren't you?</text>
+		<text bitflag="1089" id1="1043200" id2="17" version="1065353216">He might be the one. If so, Zah'lis and I have very urgent matters to discuss.</text>
+		<text bitflag="1104" id1="1043200" id2="17" version="1065353216">I'd like to speak with him.</text>
+		<text bitflag="1089" id1="1043201" id2="17" version="1065353216">Master Jedi, right now, every Bothan is a target.</text>
+		<text bitflag="1089" id1="1043203" id2="17" version="1065353216">Let me see what we have.</text>
+		<text bitflag="1089" id1="1043204" id2="17" version="1065353216">If he's still alive, he isn't safe. I have... information that Dray Zah'lis might be a target for the Sith.</text>
+		<text bitflag="1104" id1="1043204" id2="17" version="1065353216">I envisioned him in danger.</text>
+		<text bitflag="3137" id1="1043206" id2="17" version="1065353216">Fire, and disaster. Perhaps an echo of your sight, Herald.</text>
+		<text bitflag="1089" id1="1043209" id2="17" version="1065353216">Apparently, Zah'lis is at the Ser'feya Farmstead, out in the hills.</text>
+		<text bitflag="1089" id1="1043213" id2="17" version="1065353216">That farmstead was a safe house, but it was hit by an Imperial droid pod. Hostiles everywhere, like spiders from an eggcase. Dray Zah'lis is supervising the rescue of civilians.</text>
+		<text bitflag="1089" id1="1043214" id2="17" version="1065353216">We can only hope.</text>
+		<text bitflag="1089" id1="1043218" id2="17" version="1065353216">Send word to Zah'lis that I'm coming. I'll put a dent in those Imperial droids along the way.</text>
+		<text bitflag="1104" id1="1043218" id2="17" version="1065353216">I'll meet him there, and help.</text>
+		<text bitflag="1089" id1="1043219" id2="17" version="1065353216">What's a droid pod? Some new Imperial tactic?</text>
+		<text bitflag="1104" id1="1043219" id2="17" version="1065353216">A droid pod?</text>
+		<text bitflag="1089" id1="1043220" id2="17" version="1065353216">It sounds like the resistance has their hands full. But, I need to speak to Zah'lis before I do anything else.</text>
+		<text bitflag="1104" id1="1043220" id2="17" version="1065353216">My vision is my priority.</text>
+		<text bitflag="1089" id1="1043221" id2="17" version="1065353216">We all have our missions.</text>
+		<text bitflag="1089" id1="1043228" id2="17" version="1065353216">War droids are cheap. The Imperials pack them into a pod, fire them into suburban areas from orbit.... Hundreds die before we can respond.</text>
+		<text bitflag="1089" id1="1043390" id2="17" version="1065353216">Tread lightly. The Imperial forces on Bothawui are desperate, and those droids can overwhelm a walker. The death of a Jedi Master would be a major victory.</text>
+		<text bitflag="1089" id1="1044271" id2="17" version="1065353216">I'm afraid it's not pretty.</text>
+		<text bitflag="1089" id1="1045325" id2="17" version="1065353216">Those reports I mentioned are multiplying like gizka. Our scouts are talking about beasts with bizarre powers, roaming the countryside.</text>
+		<text bitflag="1089" id1="1045334" id2="17" version="1065353216">These creatures aren't naturally Force sensitive. Someone did this to them deliberately, and I believe a Sith is responsible.</text>
+		<text bitflag="1104" id1="1045334" id2="17" version="1065353216">I think a Sith created them.</text>
+		<text bitflag="1089" id1="1045335" id2="17" version="1065353216">Is there some pattern to the reports? That could tell us where these beasts are coming from.</text>
+		<text bitflag="1104" id1="1045335" id2="17" version="1065353216">Can we track the creatures?</text>
+		<text bitflag="1089" id1="1045336" id2="17" version="1065353216">These creatures are dangerous and unpredictable; keep your men out of the way, and I'll deal with this.</text>
+		<text bitflag="1104" id1="1045336" id2="17" version="1065353216">You should let me handle it.</text>
+		<text bitflag="1089" id1="1045337" id2="17" version="1065353216">I hope you'll be able to make a difference.</text>
+		<text bitflag="1089" id1="1045340" id2="17" version="1065353216">Sadly no, they're scattered all over the place.</text>
+		<text bitflag="1089" id1="1045341" id2="17" version="1065353216">Why doesn't it surprise me that the Sith are making things worse?</text>
+		<text bitflag="1089" id1="1045348" id2="17" version="1065353216">We've got Dray Zah'lis somewhere quiet, until those Jedi arrive. I still can't believe what he did. This whole planet's gone mad.</text>
+		<text bitflag="1089" id1="1045352" id2="17" version="1065353216">I had the SIS start looking into this Torwin Vehl you mentioned. I'm expecting the report soon. Who is he?</text>
+		<text bitflag="1089" id1="1045354" id2="17" version="1065353216">This is Lieutenant Kaley at the Nar'less Bunker, requesting immediate assistance!</text>
+		<text bitflag="1089" id1="1045356" id2="17" version="1065353216">Commander, we're being overrun by... they look like animals, but they're tearing my men apart. There's Imperial commandos backing them up. Please, sir, we can't--</text>
+		<text bitflag="1089" id1="1045358" id2="17" version="1065353216">Those beasts reached Kaley's position? Blast! If the Imperials get control of the Nar'less Bunker, we're finished!</text>
+		<text bitflag="1089" id1="1045397" id2="17" version="1065353216">What exactly is this bunker? And how is getting control of it going to help the Empire?</text>
+		<text bitflag="1104" id1="1045397" id2="17" version="1065353216">The Nar'less Bunker?</text>
+		<text bitflag="1089" id1="1045398" id2="17" version="1065353216">I've come across mentions of the Nar'less Bunker in tactical manuals, and Jedi histories.</text>
+		<text bitflag="1104" id1="1045398" id2="17" version="1065353216">That's a historical site.</text>
+		<text bitflag="1089" id1="1045399" id2="17" version="1065353216">Commander, I feel for your men, but you must focus. Finding Torwin Vehl is a matter of life or death for the entire galaxy.</text>
+		<text bitflag="1104" id1="1045399" id2="17" version="1065353216">I need that SIS report.</text>
+		<text bitflag="1089" id1="1045400" id2="17" version="1065353216">Maybe this is a chance for you to learn more.</text>
+		<text bitflag="1089" id1="1045403" id2="17" version="1065353216">Agreed. Perhaps the Imperials' interest in the Nar'less Bunker will shed some light on the purpose of these beasts.</text>
+		<text bitflag="1104" id1="1045403" id2="17" version="1065353216">I was thinking the same.</text>
+		<text bitflag="1089" id1="1045404" id2="17" version="1065353216">Right. Master Belth Allusis fought his last stand there, during the first Battle of Bothawui.</text>
+		<text bitflag="1089" id1="1045406" id2="17" version="1065353216">The Nar'less Bunker was a shield generator facility during the last war. The bunker's generator is chemically powered--pretty unstable.</text>
+		<text bitflag="1089" id1="1045407" id2="17" version="1065353216">If the Imperials destroy the generator, it'll release toxic vapor over hundreds of kilometers. Can you help? If those beasts are there, it's your investigation, your responsibility.</text>
+		<text bitflag="1089" id1="1045408" id2="17" version="1065353216">That's true. But investigation or not, stopping this explosion--and those creatures--seems like a worthy endeavor. I'll head to the bunker.</text>
+		<text bitflag="1104" id1="1045408" id2="17" version="1065353216">I would help regardless.</text>
+		<text bitflag="1089" id1="1045409" id2="17" version="1065353216">Protecting Bothawui is your job--I'm only here for answers. This bunker had better not be a waste of time.</text>
+		<text bitflag="1104" id1="1045409" id2="17" version="1065353216">I'd better learn something.</text>
+		<text bitflag="3137" id1="1045412" id2="17" version="1065353216">Hmph, is great shame. To track such prey would be worthy hunting.</text>
+		<text bitflag="1089" id1="1045415" id2="17" version="1065353216">Because you possess basic pattern recognition?</text>
+		<text bitflag="1089" id1="1045417" id2="17" version="1065353216">Yeah, that one's kind of a no-brainer.</text>
+		<text bitflag="1089" id1="1045419" id2="17" version="1065353216">We usually do.</text>
+		<text bitflag="1089" id1="1045420" id2="17" version="1065353216">You have two Jedi on your side, Commander, I'm sure we can help.</text>
+		<text bitflag="1089" id1="1045423" id2="17" version="1065353216">Suggestion: If we allowed these beasts to attack a major population center, we could extrapolate from there.</text>
+		<text bitflag="1089" id1="1045430" id2="17" version="1065353216">I can coordinate from here. And breathe down the SIS's neck, so we get you that report as soon as possible.</text>
+		<text bitflag="1089" id1="1045433" id2="17" version="1065353216">Good luck. I hope Kaley can hold out a little longer.</text>
+		<text bitflag="1089" id1="1048182" id2="17" version="1065353216">I wish you'd listened to me. I lost a squad securing those Imperial prisoners, another in an ambush....</text>
+		<text bitflag="1089" id1="1048183" id2="17" version="1065353216">I cannot control the actions or morals of the Empire, only my own. I stand by my decision.</text>
+		<text bitflag="1104" id1="1048183" id2="17" version="1065353216">I still made the right choice.</text>
+		<text bitflag="1089" id1="1048184" id2="17" version="1065353216">That's unfortunate, but how many Imperials were you able to capture?</text>
+		<text bitflag="1104" id1="1048184" id2="17" version="1065353216">How many prisoners were saved?</text>
+		<text bitflag="1089" id1="1048185" id2="17" version="1065353216">The situation at the bunker is over, and so is this discussion.</text>
+		<text bitflag="1104" id1="1048185" id2="17" version="1065353216">Enough, Lieutenant.</text>
+		<text bitflag="1089" id1="1048186" id2="17" version="1065353216">The Imperials are getting cozy in the Nar'less Bunker. The gas will take them before they know what's happening.</text>
+		<text bitflag="1089" id1="1048187" id2="17" version="1065353216">I never turn down an opportunity to strike at the Empire.</text>
+		<text bitflag="1104" id1="1048187" id2="17" version="1065353216">Glad I could help.</text>
+		<text bitflag="1089" id1="1048188" id2="17" version="1065353216">It's unfortunate, but the Empire isn't leaving us any other choice.</text>
+		<text bitflag="1104" id1="1048188" id2="17" version="1065353216">A necessary evil.</text>
+		<text bitflag="1089" id1="1048189" id2="17" version="1065353216">One crisis is averted, but we still have these creatures and their creator to deal with.</text>
+		<text bitflag="1104" id1="1048189" id2="17" version="1065353216">Let's move on.</text>
+		<text bitflag="1089" id1="1048191" id2="17" version="1065353216">When we were leaving the bunker, some woman in a mask kept following us. Looked like a Sith; I thought she might be a scout.</text>
+		<text bitflag="1089" id1="1048192" id2="17" version="1065353216">When I was at the Ser'feya Farmstead, I saw a woman matching that description.</text>
+		<text bitflag="1104" id1="1048192" id2="17" version="1065353216">I saw a masked Sith before.</text>
+		<text bitflag="1089" id1="1048193" id2="17" version="1065353216">So long as this woman stays out of my way, I don't care who she is. Only Torwin Vehl matters.</text>
+		<text bitflag="1104" id1="1048193" id2="17" version="1065353216">I have bigger concerns.</text>
+		<text bitflag="1089" id1="1048194" id2="17" version="1065353216">With those fumes from the generator swirling about, you could have seen anything. Masked women, bright purple banthas....</text>
+		<text bitflag="1104" id1="1048194" id2="17" version="1065353216">Probably a hallucination.</text>
+		<text bitflag="1089" id1="1048195" id2="17" version="1065353216">I'd take that over having some Sith in the corner of my eye.</text>
+		<text bitflag="1089" id1="1048196" id2="17" version="1065353216">And I managed to get you that SIS report I promised.</text>
+		<text bitflag="1089" id1="1048199" id2="17" version="1065353216">Apparently, Torwin Vehl is no Sith Lord; he's not even an apprentice. He was involved in some local Imperial excavations, but nothing else.</text>
+		<text bitflag="1089" id1="1048520" id2="17" version="1065353216">I... maybe a hundred and fifty. They were weak from the gas; their faces were... anyway, mission accomplished.</text>
+		<text bitflag="1089" id1="1048593" id2="17" version="1065353216">Forget them, Master Jedi; it's a better death than they deserve.</text>
+		<text bitflag="1089" id1="1048595" id2="17" version="1065353216">So maybe she was looking for you? What's going on around here?</text>
+		<text bitflag="1089" id1="1048597" id2="17" version="1065353216">Speaking of Sith, the SIS sent a report on the one you were looking for, Torwin Vehl.</text>
+		<text bitflag="3137" id1="1048599" id2="17" version="1065353216">Seems soft thing. But, krayt dragon begins as egg.</text>
+		<text bitflag="1089" id1="1048601" id2="17" version="1065353216">As galaxy-destroying menaces go, I've seen worse.</text>
+		<text bitflag="1089" id1="1048603" id2="17" version="1065353216">Doesn't look threatening. Bad sign in a Sith.</text>
+		<text bitflag="1089" id1="1048605" id2="17" version="1065353216">Whoa, wait. That's the Sith you saw? He's just a kid.</text>
+		<text bitflag="1089" id1="1048607" id2="17" version="1065353216">That's Torwin Vehl? He looks younger than me.</text>
+		<text bitflag="1089" id1="1048609" id2="17" version="1065353216">He seems like a pleasant young man.</text>
+		<text bitflag="1089" id1="1048611" id2="17" version="1065353216">Tactical: Deleting a troublemaker of this stature should not be difficult, master.</text>
+		<text bitflag="1089" id1="1048612" id2="17" version="1065353216">What is the Empire excavating on Bothawui? Something from the last war?</text>
+		<text bitflag="1104" id1="1048612" id2="17" version="1065353216">What excavations are these?</text>
+		<text bitflag="1089" id1="1048613" id2="17" version="1065353216">It's almost impossible for a Sith to survive without a strong master, or political power. Yet Torwin Vehl has neither.</text>
+		<text bitflag="1104" id1="1048613" id2="17" version="1065353216">So he has no rank. Strange.</text>
+		<text bitflag="1089" id1="1048614" id2="17" version="1065353216">Regardless, Commander, if my... sources are correct, you may be looking at one of the most dangerous people in the galaxy.</text>
+		<text bitflag="1104" id1="1048614" id2="17" version="1065353216">My vision says he's a danger.</text>
+		<text bitflag="1089" id1="1048615" id2="17" version="1065353216">I have trouble believing that. But, I'm not paid for what I believe.</text>
+		<text bitflag="1089" id1="1048617" id2="17" version="1065353216">SIS visited the site, but there was only a crater. Whatever the Imperials discovered, they shipped it away.</text>
+		<text bitflag="1089" id1="1048621" id2="17" version="1065353216">That's more your department than mine, Master Jedi.</text>
+		<text bitflag="1089" id1="1048623" id2="17" version="1065353216">Maybe he has family connections. Or his powers make him a special case.</text>
+		<text bitflag="1089" id1="1051466" id2="17" version="1065353216">Looks like your best bet would be Dray Zah'lis. He's down as being a senior member of the Bothan resistance.</text>
+		<text bitflag="1089" id1="1051468" id2="17" version="1065353216">Are you talking about Dray Zah'lis? He's a senior member of the Bothan resistance.</text>
+		<text bitflag="1089" id1="1051995" id2="17" version="1065353216">Zah'lis said he's a Sith. I believe Torwin's extremely powerful, and a threat to the entire galaxy.</text>
+		<text bitflag="1104" id1="1051995" id2="17" version="1065353216">A Sith, and dangerous.</text>
+		<text bitflag="1089" id1="1051996" id2="17" version="1065353216">Those creatures we've been seeing? I believe he's the one who made them.</text>
+		<text bitflag="1104" id1="1051996" id2="17" version="1065353216">He's connected to the beasts.</text>
+		<text bitflag="1089" id1="1051997" id2="17" version="1065353216">I shouldn't discuss it until I've learned more.</text>
+		<text bitflag="1104" id1="1051997" id2="17" version="1065353216">That's classified, for now.</text>
+		<text bitflag="1089" id1="1051998" id2="17" version="1065353216">Your investigation, Master Jedi, your rules.</text>
+		<text bitflag="1089" id1="1052037" id2="17" version="1065353216">Maybe I should put a rush on that SIS report.</text>
+		<text bitflag="3137" id1="1052039" id2="17" version="1065353216">You have devoured toxic explosions before, Herald; recall Taris and Junction?</text>
+		<text bitflag="1089" id1="1052041" id2="17" version="1065353216">Besides, you've faced toxic annihilation before. Remember the Junction on Taris?</text>
+		<text bitflag="1089" id1="1053453" id2="17" version="1065353216">That &quot;beast-lure&quot; you found at the bunker got me thinking. Our defense satellites pinpointed several more, on the flooded plains nearby.</text>
+		<text bitflag="1089" id1="1053455" id2="17" version="1065353216">While we were focused on that area, we got a sighting. Torwin Vehl is there, Master Jedi. Or he was, less than an hour ago.</text>
+		<text bitflag="1089" id1="1053456" id2="17" version="1065353216">That's everything I need. You and your people have done well, Commander; thank you.</text>
+		<text bitflag="1104" id1="1053456" id2="17" version="1065353216">Excellent work.</text>
+		<text bitflag="1089" id1="1053457" id2="17" version="1065353216">What was in the satellite footage? Do we know why Torwin was there?</text>
+		<text bitflag="1104" id1="1053457" id2="17" version="1065353216">What was he doing?</text>
+		<text bitflag="1089" id1="1053458" id2="17" version="1065353216">I can't waste any more time. This is my best chance to catch him.</text>
+		<text bitflag="1104" id1="1053458" id2="17" version="1065353216">Then I'm leaving, right now.</text>
+		<text bitflag="1089" id1="1053460" id2="17" version="1065353216">Just doing our job. Besides, if you hadn't saved that generator, and my men, we'd never have found the lure.</text>
+		<text bitflag="1089" id1="1053462" id2="17" version="1065353216">We lost sight of Torwin when he went into a flooded homestead. The area's infested with those beasts, gorging themselves on the lures.</text>
+		<text bitflag="1089" id1="1053463" id2="17" version="1065353216">He was showing the Imps where to set those lures. He didn't seem to be in charge, though.</text>
+		<text bitflag="1089" id1="1053466" id2="17" version="1065353216">If you can destroy the lures before you reach Torwin, you'd keep a horde of those things off our flank. But please, be careful.</text>
+		<text bitflag="1089" id1="1057841" id2="17" version="1065353216">Dray Zah'lis is in the brig awaiting sentencing; I still can't believe he attacked you. More insanity for the pile.</text>
+	</file_content>
+</stb_file>

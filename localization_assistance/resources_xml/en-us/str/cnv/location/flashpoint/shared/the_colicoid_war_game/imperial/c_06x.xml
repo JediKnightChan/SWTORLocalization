@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/the_colicoid_war_game/imperial/c_06x.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="499828" id2="17" version="1065353216">C-06X = analyzing // Interaction = not required</text>
+		<text bitflag="3393" id1="499829" id2="17" version="1065353216">Facial recognition = in process // Target = acquired</text>
+		<text bitflag="3393" id1="499831" id2="17" version="1065353216">C-06X = Colicoid Creation Nest hunter unit // Payload = encrypted message from Darth Malgus</text>
+		<text bitflag="1345" id1="499832" id2="17" version="1065353216">I met the Colicoids on Balmorra, but I've never heard of a Creation Nest.</text>
+		<text bitflag="1360" id1="499832" id2="17" version="1065353216">Colicoid Creation Nest?</text>
+		<text bitflag="3393" id1="499833" id2="17" version="1065353216">Balmorran Colicoids = nonsentient bioweapons // Colicoid Creation Nest = Colicoid &quot;corporation&quot; [translation warning!]</text>
+		<text bitflag="1360" id1="499835" id2="17" version="1065353216">Go ahead.</text>
+		<text bitflag="1360" id1="499836" id2="17" version="1065353216">If you're wasting my time....</text>
+		<text bitflag="3393" id1="499837" id2="17" version="1065353216">Message = decrypting // Playback = begins</text>
+		<text bitflag="1345" id1="499839" id2="17" version="1065353216">This is Darth Malgus of the Expeditionary Fleet. If you can access this droid's message, I require your services.</text>
+		<text bitflag="1345" id1="499841" id2="17" version="1065353216">The Colicoids have put a challenge before the Empire. You will compete in the name of the Emperor, and you will win.</text>
+		<text bitflag="1345" id1="499842" id2="17" version="1065353216">Download all relevant information and resume message.</text>
+		<text bitflag="1360" id1="499842" id2="17" version="1065353216">I'll gladly test myself.</text>
+		<text bitflag="1360" id1="499843" id2="17" version="1065353216">I don't jump hoops for bugs.</text>
+		<text bitflag="1360" id1="499844" id2="17" version="1065353216">[Listen to the message]</text>
+		<text bitflag="1345" id1="499845" id2="17" version="1065353216">In this contest, the losers will not survive. But should you succeed, both you and the Empire will benefit substantially.</text>
+		<text bitflag="3393" id1="499847" id2="17" version="1065353216">Message = ends // Lord Malgus's rendezvous coordinates = enclosed</text>
+		<text bitflag="3393" id1="499849" id2="17" version="1065353216">Colicoid Creation Nest = hopes you will join us</text>
+		<text bitflag="3393" id1="499851" id2="17" version="1065353216">C-06X = analyzing // Interaction = not required</text>
+	</file_content>
+</stb_file>

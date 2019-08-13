@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/bronze/imperial/tapping_what_is_ours/readout_console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="196629" id2="17" version="1065353216">[The console shows the generator's readings are back in normal ranges.]</text>
+		<text bitflag="321" id1="196630" id2="17" version="1065353216">[This console is showing a massive drain on the generator. Clearly, the pirates are responsible for siphoning the power.]</text>
+		<text bitflag="321" id1="196632" id2="17" version="1065353216">[The readings show a spike at coordinates a short distance away.]</text>
+		<text bitflag="321" id1="196634" id2="17" version="1065353216">[This console shows the current status of the generator.]</text>
+	</file_content>
+</stb_file>

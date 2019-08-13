@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/class/jedi_consular/computer_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="711678" id2="17" version="1065353216">I heard that &quot;two perspectives are aligned.&quot;</text>
+		<text bitflag="321" id1="711679" id2="17" version="1065353216">[The computer terminal lights up and a recorded message plays.]</text>
+		<text bitflag="1345" id1="711681" id2="17" version="1065353216">Zenith only speaks in private, and the Empire is always watching.</text>
+		<text bitflag="1345" id1="711683" id2="17" version="1065353216">There are privacy scramblers throughout this area, relics from a freer time. Switch them on and you will be contacted.</text>
+	</file_content>
+</stb_file>

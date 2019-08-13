@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>26</strs>
+		<file_name>/resources/en-us/str/gui/vendor.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="250179" version="1065353216">Sort by Name</text>
+		<text bitflag="321" id1="2" id2="250179" version="1065353216">Sort by Price</text>
+		<text bitflag="321" id1="3" id2="250179" version="1065353216">Sort by Quality</text>
+		<text bitflag="321" id1="4" id2="250179" version="1065353216">Show All</text>
+		<text bitflag="321" id1="5" id2="250179" version="1065353216">Show Affordable</text>
+		<text bitflag="321" id1="6" id2="250179" version="1065353216">Show Usable</text>
+		<text bitflag="321" id1="7" id2="250179" version="1065353216">FOR SALE</text>
+		<text bitflag="321" id1="8" id2="250179" version="1065353216">BUY BACK</text>
+		<text bitflag="321" id1="9" id2="250179" version="1065353216">REPAIR</text>
+		<text bitflag="321" id1="10" id2="250179" version="1065353216">Repair all damaged items in your inventory and equipped by you and your companion.</text>
+		<text bitflag="321" id1="11" id2="250179" version="1065353216">Repair All</text>
+		<text bitflag="321" id1="12" id2="250179" version="1065353216">&lt;&lt;2&gt;&gt; &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="13" id2="250179" version="1065353216">Credits</text>
+		<text bitflag="321" id1="14" id2="250179" version="1065353216">Guild Repair Funds</text>
+		<text bitflag="321" id1="15" id2="250179" version="1065353216">You are about to purchase&lt;br&gt;[&lt;&lt;1&gt;&gt;] * &lt;&lt;2&gt;&gt;&lt;br&gt;for the following cost:&lt;br&gt;&lt;br&gt;&lt;&lt;4&gt;&gt; &lt;&lt;3&gt;&gt;&lt;br&gt;&lt;br&gt;This transaction is final, do you want to proceed?</text>
+		<text bitflag="321" id1="16" id2="250179" version="1065353216">You are about to purchase&lt;br&gt;&lt;&lt;1&gt;&gt;&lt;br&gt;for the following cost:&lt;br&gt;&lt;br&gt;&lt;&lt;3&gt;&gt; &lt;&lt;2&gt;&gt;&lt;br&gt;&lt;br&gt;This transaction is final, do you want to proceed?</text>
+		<text bitflag="321" id1="257" id2="250179" version="1065353216">The item you just purchased can be found in the Mission Items tab.</text>
+		<text bitflag="321" id1="258" id2="250179" version="1065353216">You are about to purchase&lt;br&gt;[&lt;&lt;1&gt;&gt;] * &lt;&lt;2&gt;&gt;&lt;br&gt;for the following cost:&lt;br&gt;&lt;br&gt;&lt;&lt;4&gt;&gt; &lt;&lt;3&gt;&gt;&lt;br&gt;&lt;&lt;6&gt;&gt; &lt;&lt;5&gt;&gt;&lt;br&gt;&lt;br&gt;This transaction is final, do you want to proceed?</text>
+		<text bitflag="321" id1="259" id2="250179" version="1065353216">You are about to purchase&lt;br&gt;&lt;&lt;1&gt;&gt;&lt;br&gt;for the following cost:&lt;br&gt;&lt;br&gt;&lt;&lt;3&gt;&gt; &lt;&lt;2&gt;&gt;&lt;br&gt;&lt;&lt;5&gt;&gt; &lt;&lt;4&gt;&gt;&lt;br&gt;&lt;br&gt;This transaction is final, do you want to proceed?</text>
+		<text bitflag="321" id1="260" id2="250179" version="1065353216">Free-to-Play Players have a cap on Credits. Credits earned above this cap are placed into an escrow account visible in the Currency section of your Inventory. Subscribe today to remove the limit!</text>
+		<text bitflag="321" id1="261" id2="250179" version="1065353216">Vendor prices are increased for Free-to-Play Players.</text>
+		<text bitflag="321" id1="262" id2="250179" version="1065353216">Sell Junk</text>
+		<text bitflag="321" id1="263" id2="250179" version="1065353216">All</text>
+		<text bitflag="321" id1="264" id2="250179" version="1065353216">You do not meet the requirements to purchase this item.</text>
+		<text bitflag="321" id1="265" id2="250179" version="1065353216">Item requirements met.</text>
+		<text bitflag="321" id1="267" id2="250179" version="1065353216">Guild Commendations</text>
+	</file_content>
+</stb_file>

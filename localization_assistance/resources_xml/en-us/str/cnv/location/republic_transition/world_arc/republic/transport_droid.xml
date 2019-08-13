@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/transport_droid.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="574864" id2="17" version="1065353216">[Sensors show no hostile contacts. Resume course to Coruscant?]</text>
+		<text bitflag="1360" id1="574865" id2="17" version="1065353216">Yes. [Go to Coruscant]</text>
+		<text bitflag="1360" id1="574868" id2="17" version="1065353216">No. [Return to space station]</text>
+		<text bitflag="321" id1="574871" id2="17" version="1065353216">[This terminal appears to be inoperative at this time.]</text>
+	</file_content>
+</stb_file>

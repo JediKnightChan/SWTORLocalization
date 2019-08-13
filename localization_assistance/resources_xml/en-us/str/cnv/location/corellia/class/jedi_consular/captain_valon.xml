@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/jedi_consular/captain_valon.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="691958" id2="17" version="1065353216">I'm coordinating our forces. I'll decide when your services are required.</text>
+		<text bitflag="1360" id1="691958" id2="17" version="1065353216">I don't need you yet.</text>
+		<text bitflag="1345" id1="691959" id2="17" version="1065353216">You're the boss. Send us any hostile coordinates you have, and we'll turn 'em into a hole in the ground.</text>
+	</file_content>
+</stb_file>

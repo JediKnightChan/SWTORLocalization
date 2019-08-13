@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/human_male_soldier_republic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63618" id2="17" version="1065353216">Engaging the enemy!</text>
+		<text bitflag="1345" id1="63620" id2="17" version="1065353216">Requesting backup!</text>
+		<text bitflag="1345" id1="63622" id2="17" version="1065353216">Stand down or fight!</text>
+		<text bitflag="1345" id1="63624" id2="17" version="1065353216">For the Republic!</text>
+		<text bitflag="1345" id1="63626" id2="17" version="1065353216">Locked and loaded!</text>
+		<text bitflag="1345" id1="63628" id2="17" version="1065353216">Forward charge!</text>
+	</file_content>
+</stb_file>

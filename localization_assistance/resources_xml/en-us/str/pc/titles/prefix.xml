@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>29</strs>
+		<file_name>/resources/en-us/str/pc/titles/prefix.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1016" id2="194686" version="1065353216">Darth</text>
+		<text bitflag="321" id1="2000" id2="194686" version="1065353216">Sergeant</text>
+		<text bitflag="321" id1="2001" id2="194686" version="1065353216">Lieutenant</text>
+		<text bitflag="321" id1="2002" id2="194686" version="1065353216">Captain</text>
+		<text bitflag="321" id1="2003" id2="194686" version="1065353216">Major</text>
+		<text bitflag="321" id1="2100" id2="194686" version="1065353216">Padawan</text>
+		<text bitflag="321" id1="2102" id2="194686" version="1065353216">Master</text>
+		<text bitflag="321" id1="2103" id2="194686" version="1065353216">General</text>
+		<text bitflag="321" id1="2201" id2="194686" version="1065353216">Master</text>
+		<text bitflag="321" id1="2204" id2="194686" version="1065353216">Jedi</text>
+		<text bitflag="321" id1="2300" id2="194686" version="1065353216">Captain</text>
+		<text bitflag="321" id1="2301" id2="194686" version="1065353216">The Outlaw</text>
+		<text bitflag="321" id1="2400" id2="194686" version="1065353216">Acolyte</text>
+		<text bitflag="321" id1="2401" id2="194686" version="1065353216">Apprentice</text>
+		<text bitflag="321" id1="2402" id2="194686" version="1065353216">Lord</text>
+		<text bitflag="321" id1="2500" id2="194686" version="1065353216">Apprentice</text>
+		<text bitflag="321" id1="2501" id2="194686" version="1065353216">Lord</text>
+		<text bitflag="321" id1="2503" id2="194686" version="1065353216">Darth</text>
+		<text bitflag="321" id1="2604" id2="194686" version="1065353216">Grand Champion</text>
+		<text bitflag="321" id1="2606" id2="194686" version="1065353216">Baroness</text>
+		<text bitflag="321" id1="2607" id2="194686" version="1065353216">Homewrecker</text>
+		<text bitflag="321" id1="2700" id2="194686" version="1065353216">Agent</text>
+		<text bitflag="321" id1="2701" id2="194686" version="1065353216">Cipher Agent</text>
+		<text bitflag="321" id1="3010" id2="194686" version="1065353216">Friendly</text>
+		<text bitflag="321" id1="3011" id2="194686" version="1065353216">Party Time</text>
+		<text bitflag="321" id1="3012" id2="194686" version="1065353216">Chatterbox</text>
+		<text bitflag="321" id1="3013" id2="194686" version="1065353216">Big Time</text>
+		<text bitflag="321" id1="50000" id2="194686" version="1065353216">Flyboy</text>
+		<text bitflag="321" id1="50001" id2="194686" version="1065353216">Flygirl</text>
+	</file_content>
+</stb_file>

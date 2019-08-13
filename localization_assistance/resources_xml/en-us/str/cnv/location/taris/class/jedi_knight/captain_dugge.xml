@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>43</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris/class/jedi_knight/captain_dugge.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="625640" id2="17" version="1065353216">You win--you win! Never wanted to fight you anyway.</text>
+		<text bitflag="1345" id1="625642" id2="17" version="1065353216">Just... pay me what the Sith promised for the relics, and they're yours!</text>
+		<text bitflag="1345" id1="625643" id2="17" version="1065353216">You're lucky to be alive. Don't push it.</text>
+		<text bitflag="1360" id1="625643" id2="17" version="1065353216">You just tried to kill me.</text>
+		<text bitflag="1345" id1="625644" id2="17" version="1065353216">But you're a Jedi! I thought you people had integrity.</text>
+		<text bitflag="1345" id1="625645" id2="17" version="1065353216">If I didn't have to be someplace important, I'd haul you off to Republic security. Consider yourself lucky.</text>
+		<text bitflag="1360" id1="625645" id2="17" version="1065353216">I could put you in prison.</text>
+		<text bitflag="1360" id1="625646" id2="17" version="1065353216">You win.</text>
+		<text bitflag="1345" id1="625647" id2="17" version="1065353216">My integrity is the only thing keeping you alive. Get out of here. Now.</text>
+		<text bitflag="1360" id1="625647" id2="17" version="1065353216">Be thankful I don't kill you.</text>
+		<text bitflag="1345" id1="625648" id2="17" version="1065353216">Yeah... yeah, all right. We're good.</text>
+		<text bitflag="1345" id1="625650" id2="17" version="1065353216">Last time I do business with you people....</text>
+		<text bitflag="1360" id1="625653" id2="17" version="1065353216">It's a deal.</text>
+		<text bitflag="1345" id1="625654" id2="17" version="1065353216">And my old crew won't even need their share. Guess I'll need a new one, though....</text>
+		<text bitflag="1345" id1="625656" id2="17" version="1065353216">Pleasure doing business, Jedi. See you around.</text>
+		<text bitflag="1345" id1="625659" id2="17" version="1065353216">You crossed the wrong Jedi today.</text>
+		<text bitflag="1360" id1="625659" id2="17" version="1065353216">No. [Kill him]</text>
+		<text bitflag="1345" id1="625662" id2="17" version="1065353216">These Jedi relics are remarkably well preserved, Captain. Quite worth your ridiculous asking price.</text>
+		<text bitflag="1345" id1="625663" id2="17" version="1065353216">Except they're not yours to purchase. Step away from them.</text>
+		<text bitflag="1345" id1="625664" id2="17" version="1065353216">What is this, Captain? A trick?</text>
+		<text bitflag="1345" id1="625666" id2="17" version="1065353216">You're the only person I told about it. I swear.</text>
+		<text bitflag="1345" id1="625667" id2="17" version="1065353216">I heard about your deal from an Imperial spy named Watcher One. Hand over the artifacts.</text>
+		<text bitflag="1360" id1="625667" id2="17" version="1065353216">That's the truth.</text>
+		<text bitflag="1345" id1="625668" id2="17" version="1065353216">See? The problem's on your end.</text>
+		<text bitflag="1345" id1="625670" id2="17" version="1065353216">Darth Angral will hear of this betrayal. But first things first.</text>
+		<text bitflag="1345" id1="625672" id2="17" version="1065353216">My master is generous. Help me kill this Jedi, and he'll double your fee.</text>
+		<text bitflag="1345" id1="625674" id2="17" version="1065353216">Double? Sorry, Jedi. A job's a job.</text>
+		<text bitflag="1345" id1="625676" id2="17" version="1065353216">You can't win. Surrender is your only option.</text>
+		<text bitflag="1360" id1="625676" id2="17" version="1065353216">[Force Persuade] Die for me.</text>
+		<text bitflag="1345" id1="625677" id2="17" version="1065353216">I... I cannot defeat you. I must submit, or die.</text>
+		<text bitflag="1345" id1="625679" id2="17" version="1065353216">Wait a second. What's going on?</text>
+		<text bitflag="1345" id1="625680" id2="17" version="1065353216">Give me your weapons. You'll be treated fairly.</text>
+		<text bitflag="1345" id1="625683" id2="17" version="1065353216">My weapons are yours. I am your prisoner.</text>
+		<text bitflag="1345" id1="625685" id2="17" version="1065353216">Uhh... you can have the relics--free of charge. Men... run away!</text>
+		<text bitflag="1345" id1="625687" id2="17" version="1065353216">Can't believe you just did that... but I'm not arguing. Wouldn't dream of it.</text>
+		<text bitflag="3393" id1="625688" id2="17" version="1065353216">Executing Sith = right thing to do? // T7 = confused</text>
+		<text bitflag="1345" id1="625691" id2="17" version="1065353216">You said I could have those artifacts if I killed the Sith.</text>
+		<text bitflag="1360" id1="625691" id2="17" version="1065353216">[Lie] We had a deal, Captain.</text>
+		<text bitflag="1345" id1="625692" id2="17" version="1065353216">That's a lie! I've never met this Jedi!</text>
+		<text bitflag="1345" id1="625694" id2="17" version="1065353216">Unless you pirates want to share your captain's fate, help me kill this Jedi.</text>
+		<text bitflag="1345" id1="625696" id2="17" version="1065353216">You will not deny Darth Angral his prize.</text>
+		<text bitflag="1345" id1="625698" id2="17" version="1065353216">Make any trouble, and you won't be walking out of here. Guaranteed.</text>
+		<text bitflag="336" id1="768332" id2="17" version="1065353216">I'm not here to talk. [Attack]</text>
+	</file_content>
+</stb_file>

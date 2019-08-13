@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>430</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/trooper/chapter_1/multi/garza_endings_events.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="634536" id2="17" version="1065353216">You should return immediately to Special Forces Command on Coruscant. It's time we finished this.</text>
+		<text bitflag="1345" id1="634537" id2="17" version="1065353216">I'll return to base immediately, General.</text>
+		<text bitflag="1360" id1="634537" id2="17" version="1065353216">Copy that.</text>
+		<text bitflag="1345" id1="634538" id2="17" version="1065353216">I'll see you soon, Lieutenant.</text>
+		<text bitflag="1345" id1="634540" id2="17" version="1065353216">Do we have a lead on Tavus's position?</text>
+		<text bitflag="1360" id1="634540" id2="17" version="1065353216">You mean Tavus?</text>
+		<text bitflag="1345" id1="634541" id2="17" version="1065353216">I'm only coming back if it means putting a hole in Tavus's head.</text>
+		<text bitflag="1360" id1="634541" id2="17" version="1065353216">This better be good.</text>
+		<text bitflag="1345" id1="634542" id2="17" version="1065353216">We'll discuss the relevant intelligence when you arrive, Lieutenant. Do not delay.</text>
+		<text bitflag="1345" id1="634544" id2="17" version="1065353216">Garza out.</text>
+		<text bitflag="1345" id1="634546" id2="17" version="1065353216">Lieutenant, this is General Garza. Report: What is the status of your mission on Alderaan?</text>
+		<text bitflag="1345" id1="634547" id2="17" version="1065353216">Everything's taken care of.</text>
+		<text bitflag="1360" id1="634547" id2="17" version="1065353216">Mission accomplished, General.</text>
+		<text bitflag="1345" id1="634548" id2="17" version="1065353216">You're just in time to congratulate me on a job well done, General.</text>
+		<text bitflag="1360" id1="634548" id2="17" version="1065353216">Successful, as always.</text>
+		<text bitflag="1345" id1="634549" id2="17" version="1065353216">I'm pleased to hear that, Lieutenant. Congratulations.</text>
+		<text bitflag="1345" id1="634551" id2="17" version="1065353216">And what of Gearbox? What is his current status?</text>
+		<text bitflag="1345" id1="634552" id2="17" version="1065353216">Gearbox has been dealt with, as ordered.</text>
+		<text bitflag="1360" id1="634552" id2="17" version="1065353216">Objective neutralized.</text>
+		<text bitflag="1345" id1="634553" id2="17" version="1065353216">Gearbox refused to surrender--I had to kill him.</text>
+		<text bitflag="1360" id1="634553" id2="17" version="1065353216">I'm afraid he's dead.</text>
+		<text bitflag="1345" id1="634554" id2="17" version="1065353216">Understood--if you had no choice, then you had no choice.</text>
+		<text bitflag="1345" id1="634556" id2="17" version="1065353216">I took that old man out without breaking a sweat.</text>
+		<text bitflag="1360" id1="634556" id2="17" version="1065353216">He was an easy kill.</text>
+		<text bitflag="1345" id1="634557" id2="17" version="1065353216">If your given task wasn't challenging enough, more difficult ones can easily be found.</text>
+		<text bitflag="1345" id1="634559" id2="17" version="1065353216">Let's just say you can cross Gearbox off the list.</text>
+		<text bitflag="1360" id1="634559" id2="17" version="1065353216">Another day, another kill.</text>
+		<text bitflag="1345" id1="634560" id2="17" version="1065353216">Excellent, Lieutenant. Top-notch work.</text>
+		<text bitflag="1345" id1="634562" id2="17" version="1065353216">Now, regarding your secondary objective--assisting House Organa wherever possible.</text>
+		<text bitflag="1345" id1="634564" id2="17" version="1065353216">A very angry young man named Pallos claims that you caused House Organa a great deal of trouble. Please elaborate.</text>
+		<text bitflag="1345" id1="634565" id2="17" version="1065353216">Pallos repeatedly interfered with my mission, General. I did nothing to provoke him.</text>
+		<text bitflag="1360" id1="634565" id2="17" version="1065353216">That's a lie!</text>
+		<text bitflag="1345" id1="634566" id2="17" version="1065353216">Really, Lieutenant? I suspected he wasn't being entirely accurate, but perhaps there was some kernel of truth in what he said...?</text>
+		<text bitflag="1345" id1="634568" id2="17" version="1065353216">Pallos didn't like me cutting deals with his prisoner.</text>
+		<text bitflag="1360" id1="634568" id2="17" version="1065353216">Just ignore him.</text>
+		<text bitflag="1345" id1="634569" id2="17" version="1065353216">Yes, he made that much quite clear.</text>
+		<text bitflag="1345" id1="634571" id2="17" version="1065353216">That idiot impeded my mission from the beginning, General.</text>
+		<text bitflag="1360" id1="634571" id2="17" version="1065353216">Pallos is a fool.</text>
+		<text bitflag="1345" id1="634572" id2="17" version="1065353216">You struck him, Lieutenant! An unarmed civilian ally of the Republic!</text>
+		<text bitflag="1345" id1="634574" id2="17" version="1065353216">Perhaps so, Lieutenant, but there are certain niceties to be observed when dealing with our allies.</text>
+		<text bitflag="1345" id1="634576" id2="17" version="1065353216">You got Gearbox, as ordered. Your success is undisputed.</text>
+		<text bitflag="1345" id1="634578" id2="17" version="1065353216">But our allies are critical to the war effort. You will be more diplomatic in the future. Understood?</text>
+		<text bitflag="1345" id1="634579" id2="17" version="1065353216">This won't happen again, sir--I promise.</text>
+		<text bitflag="1360" id1="634579" id2="17" version="1065353216">Understood, General.</text>
+		<text bitflag="1345" id1="634580" id2="17" version="1065353216">I would appreciate that very much.</text>
+		<text bitflag="1345" id1="634581" id2="17" version="1065353216">Cut me a break, all right?</text>
+		<text bitflag="1360" id1="634581" id2="17" version="1065353216">Take it easy.</text>
+		<text bitflag="1345" id1="634582" id2="17" version="1065353216">The enemy will never &quot;cut us a break,&quot; Lieutenant. That is why our allies are so important.</text>
+		<text bitflag="1345" id1="634583" id2="17" version="1065353216">You want diplomacy, send a diplomat.</text>
+		<text bitflag="1360" id1="634583" id2="17" version="1065353216">What am I, an ambassador?</text>
+		<text bitflag="1345" id1="634584" id2="17" version="1065353216">You are an officer in the Army of the Galactic Republic, Lieutenant. You must learn to be more than a simple grunt.</text>
+		<text bitflag="1345" id1="634585" id2="17" version="1065353216">Pallos Organa tells me you conducted yourself with utmost courtesy and were an invaluable operative on his house's behalf.</text>
+		<text bitflag="1345" id1="634586" id2="17" version="1065353216">I'm glad to hear Pallos was so pleased.</text>
+		<text bitflag="1360" id1="634586" id2="17" version="1065353216">I do my best.</text>
+		<text bitflag="1345" id1="634587" id2="17" version="1065353216">So was I.</text>
+		<text bitflag="1345" id1="634588" id2="17" version="1065353216">Pallos is just happy I let him keep his prisoner.</text>
+		<text bitflag="1360" id1="634588" id2="17" version="1065353216">We came to an understanding.</text>
+		<text bitflag="1345" id1="634589" id2="17" version="1065353216">Then doing so was a wise move on your part, Lieutenant. Well done.</text>
+		<text bitflag="1345" id1="634590" id2="17" version="1065353216">Do me a favor--never make me work with any nobles again.</text>
+		<text bitflag="1360" id1="634590" id2="17" version="1065353216">These nobles were ridiculous.</text>
+		<text bitflag="1345" id1="634591" id2="17" version="1065353216">No promises, Lieutenant. Especially since you seem to be quite good at it.</text>
+		<text bitflag="1345" id1="634593" id2="17" version="1065353216">With Gearbox eliminated, you have officially dealt with every Havoc traitor outpost we are aware of. But, as you know, our task is not yet complete.</text>
+		<text bitflag="1345" id1="634595" id2="17" version="1065353216">I believe there is work to be done elsewhere. I'll not delay you any further.</text>
+		<text bitflag="1345" id1="634597" id2="17" version="1065353216">Garza out.</text>
+		<text bitflag="1345" id1="634600" id2="17" version="1065353216">Lieutenant, thank you for calling. From what I hear, you've been very busy. We have quite a bit to discuss.</text>
+		<text bitflag="1345" id1="634602" id2="17" version="1065353216">First, congratulations on stopping the bombings in Anchorhead. Mayor Klerren was both impressed and grateful. Well done.</text>
+		<text bitflag="1345" id1="634603" id2="17" version="1065353216">Glad I could make a difference.</text>
+		<text bitflag="1360" id1="634603" id2="17" version="1065353216">Thank you, General.</text>
+		<text bitflag="1345" id1="634604" id2="17" version="1065353216">You've represented the Republic very well in this. Good job.</text>
+		<text bitflag="1345" id1="634606" id2="17" version="1065353216">These Rim-rats are easy to impress.</text>
+		<text bitflag="1360" id1="634606" id2="17" version="1065353216">It was no big deal.</text>
+		<text bitflag="1345" id1="634607" id2="17" version="1065353216">True. But good work is good work, regardless.</text>
+		<text bitflag="1345" id1="634609" id2="17" version="1065353216">This whole town would be gone if not for me.</text>
+		<text bitflag="1360" id1="634609" id2="17" version="1065353216">The mayor is lucky I was here.</text>
+		<text bitflag="1345" id1="634610" id2="17" version="1065353216">So I heard.</text>
+		<text bitflag="1345" id1="634612" id2="17" version="1065353216">I also understand that you not only located Fuse, but routed an entire Imperial research facility in the process.</text>
+		<text bitflag="1345" id1="634614" id2="17" version="1065353216">Lieutenant Tasser filed his report only moments ago, actually. I'm sorry he and his men couldn't arrive sooner.</text>
+		<text bitflag="1345" id1="634615" id2="17" version="1065353216">Lieutenant Tasser was very helpful, General.</text>
+		<text bitflag="1360" id1="634615" id2="17" version="1065353216">No problem.</text>
+		<text bitflag="1345" id1="634616" id2="17" version="1065353216">I'm glad to hear it.</text>
+		<text bitflag="1345" id1="634618" id2="17" version="1065353216">I can handle these missions on my own.</text>
+		<text bitflag="1360" id1="634618" id2="17" version="1065353216">Their help wasn't necessary.</text>
+		<text bitflag="1345" id1="634619" id2="17" version="1065353216">That was Lieutenant Tasser's estimation as well. Still, I prefer to have backup available to you whenever possible.</text>
+		<text bitflag="1345" id1="634621" id2="17" version="1065353216">Recon punks. Give me real fighting men or don't bother.</text>
+		<text bitflag="1360" id1="634621" id2="17" version="1065353216">Next time, send real soldiers.</text>
+		<text bitflag="1345" id1="634622" id2="17" version="1065353216">The Forty-third are an exemplary squad.</text>
+		<text bitflag="1345" id1="634624" id2="17" version="1065353216">Tasser described the Imperial facility as a &quot;flaming graveyard.&quot; And I understand Fuse was among the deceased.</text>
+		<text bitflag="1345" id1="634626" id2="17" version="1065353216">I'll admit, I'm a bit confused by that turn of events. According to Mayor Klerren, Fuse cooperated and was instrumental in your operation.</text>
+		<text bitflag="1345" id1="634627" id2="17" version="1065353216">The Imperial base was rigged to detonate. Fuse insisted I leave him behind to stop Gorik.</text>
+		<text bitflag="1360" id1="634627" id2="17" version="1065353216">Fuse sacrificed himself.</text>
+		<text bitflag="1345" id1="634628" id2="17" version="1065353216">That was... very noble of him.</text>
+		<text bitflag="1345" id1="634630" id2="17" version="1065353216">Fuse gave his life so that I could stop Gorik. And... he asked me to tell you he was sorry.</text>
+		<text bitflag="1360" id1="634630" id2="17" version="1065353216">He felt awful for his actions.</text>
+		<text bitflag="1345" id1="634631" id2="17" version="1065353216">I... see.</text>
+		<text bitflag="1345" id1="634633" id2="17" version="1065353216">It's all such a pity. He was a good soldier.</text>
+		<text bitflag="1345" id1="634635" id2="17" version="1065353216">You didn't send me here to make friends. I did my job--nothing more.</text>
+		<text bitflag="1360" id1="634635" id2="17" version="1065353216">Orders are orders.</text>
+		<text bitflag="1345" id1="634636" id2="17" version="1065353216">I couldn't risk that guy walking around.</text>
+		<text bitflag="1360" id1="634636" id2="17" version="1065353216">Fuse was too dangerous.</text>
+		<text bitflag="1345" id1="634637" id2="17" version="1065353216">You are permitted to take prisoners, Lieutenant. Fuse might have been useful to have alive.</text>
+		<text bitflag="1345" id1="634639" id2="17" version="1065353216">You shouldn't take some civi's word over mine.</text>
+		<text bitflag="1360" id1="634639" id2="17" version="1065353216">Klerren was easily duped.</text>
+		<text bitflag="1345" id1="634640" id2="17" version="1065353216">I'm not, Lieutenant--and I'd appreciate a more respectful tone. A superior officer is permitted to question her soldiers regarding mission outcomes.</text>
+		<text bitflag="1345" id1="634642" id2="17" version="1065353216">What about the bomb designs that Fuse created for the Imperials? Were you able to retrieve a copy?</text>
+		<text bitflag="1360" id1="634643" id2="17" version="1065353216">Yes, General.</text>
+		<text bitflag="1345" id1="634644" id2="17" version="1065353216">Fuse died to make sure we got these designs.</text>
+		<text bitflag="1360" id1="634644" id2="17" version="1065353216">These came at a heavy cost.</text>
+		<text bitflag="1345" id1="634645" id2="17" version="1065353216">Then we'd best make good use of them. I'll download them to Coruscant for review.</text>
+		<text bitflag="1345" id1="634646" id2="17" version="1065353216">Fuse's designs are pretty nasty--the Imps won't know what hit them.</text>
+		<text bitflag="1360" id1="634646" id2="17" version="1065353216">Let's put these bombs to use.</text>
+		<text bitflag="1345" id1="634647" id2="17" version="1065353216">Excellent, Lieutenant. I'll download them to Coruscant for review.</text>
+		<text bitflag="1345" id1="634648" id2="17" version="1065353216">The Imperials fled with the designs while I was saving Fuse.</text>
+		<text bitflag="1360" id1="634648" id2="17" version="1065353216">No, General, I couldn't.</text>
+		<text bitflag="1345" id1="634649" id2="17" version="1065353216">I'm glad you managed to bring Fuse in alive, Lieutenant, but letting those designs slip away will carry a heavy cost.</text>
+		<text bitflag="1345" id1="634650" id2="17" version="1065353216">The Imperials escaped with the designs.</text>
+		<text bitflag="1360" id1="634650" id2="17" version="1065353216">No, General, I couldn't.</text>
+		<text bitflag="1345" id1="634651" id2="17" version="1065353216">Disappointing. Those designs could be devastating in Imperial hands.</text>
+		<text bitflag="1345" id1="634652" id2="17" version="1065353216">You sent me to hunt traitors, not bomb designs.</text>
+		<text bitflag="1360" id1="634652" id2="17" version="1065353216">My objective was Fuse.</text>
+		<text bitflag="1345" id1="634653" id2="17" version="1065353216">Serving the Republic war effort is always a primary objective, Lieutenant.</text>
+		<text bitflag="1345" id1="634654" id2="17" version="1065353216">The designs took a hit during the fighting.</text>
+		<text bitflag="1360" id1="634654" id2="17" version="1065353216">[Lie.] They were destroyed.</text>
+		<text bitflag="1345" id1="634655" id2="17" version="1065353216">Try to shoot more carefully in the future, Lieutenant. Those designs would have been very useful.</text>
+		<text bitflag="1345" id1="634661" id2="17" version="1065353216">With Tatooine dealt with, you've now dealt with every Havoc traitor outpost we're aware of. But as you know, the task is still incomplete.</text>
+		<text bitflag="1345" id1="634663" id2="17" version="1065353216">Still, you've now successfully dealt with every Havoc traitor outpost we're aware of. But there is still work to be done.</text>
+		<text bitflag="1345" id1="634665" id2="17" version="1065353216">I have nothing further for you, Lieutenant. Carry on with your mission, and keep up the good work. Garza out.</text>
+		<text bitflag="1360" id1="634670" id2="17" version="1065353216">Copy that.</text>
+		<text bitflag="1345" id1="634671" id2="17" version="1065353216">Time to get off this worthless rock.</text>
+		<text bitflag="1360" id1="634671" id2="17" version="1065353216">It's good to be leaving.</text>
+		<text bitflag="1345" id1="634672" id2="17" version="1065353216">I'm still waiting for some kind of commendation, Garza.</text>
+		<text bitflag="1360" id1="634672" id2="17" version="1065353216">Why don't we talk advancement?</text>
+		<text bitflag="1345" id1="634673" id2="17" version="1065353216">A matter for another time, Lieutenant.</text>
+		<text bitflag="1345" id1="634675" id2="17" version="1065353216">Garza out.</text>
+		<text bitflag="1345" id1="634677" id2="17" version="1065353216">Still, your mission was largely successful; you are to be congratulated.</text>
+		<text bitflag="1345" id1="634679" id2="17" version="1065353216">Tasser reports that you brought Fuse in alive and without resistance.</text>
+		<text bitflag="1345" id1="634681" id2="17" version="1065353216">Kardan will be pleased. He had begun to doubt our commitment to bring the Havoc traitors in safely.</text>
+		<text bitflag="1345" id1="634682" id2="17" version="1065353216">Fuse's expertise will no doubt be very useful. Taking him alive was a smart move. Expertly done.</text>
+		<text bitflag="1345" id1="634683" id2="17" version="1065353216">I never could've pulled this off without him.</text>
+		<text bitflag="1360" id1="634683" id2="17" version="1065353216">Fuse was extremely helpful.</text>
+		<text bitflag="1345" id1="634684" id2="17" version="1065353216">Yes, Mayor Klerren indicated that as well. I'm pleased that Fuse could see the error of his ways.</text>
+		<text bitflag="1345" id1="634686" id2="17" version="1065353216">I wish I could've nailed that scum Gorik before he ran off.</text>
+		<text bitflag="1360" id1="634686" id2="17" version="1065353216">The Imps got away, though.</text>
+		<text bitflag="1345" id1="634687" id2="17" version="1065353216">Ah. That is troubling, Lieutenant. Still, Fuse was by far the most important objective.</text>
+		<text bitflag="1345" id1="634689" id2="17" version="1065353216">Not much we could've done with his corpse.</text>
+		<text bitflag="1360" id1="634689" id2="17" version="1065353216">He was just more useful alive.</text>
+		<text bitflag="1345" id1="634690" id2="17" version="1065353216">All too true, Lieutenant.</text>
+		<text bitflag="1345" id1="634698" id2="17" version="1065353216">Lieutenant! Report--were you able to neutralize Tavus?</text>
+		<text bitflag="1345" id1="634699" id2="17" version="1065353216">I'm afraid Tavus wasn't at the coordinates.</text>
+		<text bitflag="1360" id1="634699" id2="17" version="1065353216">Negative, General.</text>
+		<text bitflag="1345" id1="634700" id2="17" version="1065353216">I see. I take it he left you something for your trouble, though.</text>
+		<text bitflag="1345" id1="634702" id2="17" version="1065353216">No Tavus--just the Shadow Fist.</text>
+		<text bitflag="1360" id1="634702" id2="17" version="1065353216">It was all just a setup.</text>
+		<text bitflag="1345" id1="634703" id2="17" version="1065353216">Incredible. Ambushed by the Empire's best, and still standing.</text>
+		<text bitflag="1345" id1="634705" id2="17" version="1065353216">This whole thing was a trap, and you sent me straight into it!</text>
+		<text bitflag="1360" id1="634705" id2="17" version="1065353216">You got me ambushed!</text>
+		<text bitflag="1345" id1="634706" id2="17" version="1065353216">I sent you to do your job. Get ahold of yourself.</text>
+		<text bitflag="1345" id1="634708" id2="17" version="1065353216">I'm sorry, Lieutenant. I wouldn't have sent you if I'd known it was a ruse, but there was no way to be sure.</text>
+		<text bitflag="1345" id1="634709" id2="17" version="1065353216">Ambushes are just part of the job.</text>
+		<text bitflag="1360" id1="634709" id2="17" version="1065353216">No need to apologize, General.</text>
+		<text bitflag="1345" id1="634710" id2="17" version="1065353216">Tavus should've known his trap wouldn't kill me.</text>
+		<text bitflag="1360" id1="634710" id2="17" version="1065353216">This was a desperate attempt.</text>
+		<text bitflag="1345" id1="634711" id2="17" version="1065353216">Perhaps so. But the fact that he went to so much trouble to arrange a trap just for you says a great deal.</text>
+		<text bitflag="1345" id1="634713" id2="17" version="1065353216">I don't send people into dangerous situations lightly, Lieutenant. It's a relief to see you survive in spite of the odds against you.</text>
+		<text bitflag="1345" id1="634715" id2="17" version="1065353216">You'd better be more careful in the future.</text>
+		<text bitflag="1360" id1="634715" id2="17" version="1065353216">I don't want excuses.</text>
+		<text bitflag="1345" id1="634716" id2="17" version="1065353216">I am your commanding officer, Lieutenant--do not tell me how to do my job.</text>
+		<text bitflag="1345" id1="634718" id2="17" version="1065353216">What about the prototype cloaking device? Were you able to retrieve it, or did Tavus manage to sneak that away from us as well?</text>
+		<text bitflag="1345" id1="634719" id2="17" version="1065353216">The prototype is secure, General.</text>
+		<text bitflag="1360" id1="634719" id2="17" version="1065353216">I have the package.</text>
+		<text bitflag="1345" id1="634720" id2="17" version="1065353216">Excellent work. The people in R &amp; D would never have forgiven us if we hadn't retrieved it.</text>
+		<text bitflag="1345" id1="634722" id2="17" version="1065353216">This device would be very useful in my missions.</text>
+		<text bitflag="1360" id1="634722" id2="17" version="1065353216">Can I keep it?</text>
+		<text bitflag="1345" id1="634723" id2="17" version="1065353216">Forget it. That prototype will be transferred directly to R &amp; D as soon as you land in a Republic-friendly port.</text>
+		<text bitflag="1345" id1="634725" id2="17" version="1065353216">I almost died to get this stupid hunk of metal.</text>
+		<text bitflag="1360" id1="634725" id2="17" version="1065353216">You'd better appreciate this.</text>
+		<text bitflag="1345" id1="634726" id2="17" version="1065353216">You retrieved a military asset of incredible importance in the face of extreme danger. You did well.</text>
+		<text bitflag="1345" id1="634728" id2="17" version="1065353216">Our only choice now is to proceed as originally planned. Our technicians have determined your final two target locations: Tatooine and Alderaan.</text>
+		<text bitflag="1345" id1="634730" id2="17" version="1065353216">I'll give you a full briefing when you arrive at each mission zone. Move out immediately. Garza out.</text>
+		<text bitflag="1345" id1="634741" id2="17" version="1065353216">We've found another lead, regarding Tavus. Something very promising.</text>
+		<text bitflag="1345" id1="634743" id2="17" version="1065353216">At this point, we must carry on with your mission as originally planned. One world remains to be searched--proceed there immediately.</text>
+		<text bitflag="1345" id1="634746" id2="17" version="1065353216">Come in, Lieutenant--this is General Garza. I have a priority one assignment for you. It's Tavus.</text>
+		<text bitflag="1345" id1="634748" id2="17" version="1065353216">He and a team of commandos just raided a Republic research center on Cularin and stole a prototype cloaking device.</text>
+		<text bitflag="1345" id1="634750" id2="17" version="1065353216">But the prototype contains a tracking beacon. We now know the exact location of Tavus's ship. This is it, Lieutenant.</text>
+		<text bitflag="1345" id1="634751" id2="17" version="1065353216">I can move on Tavus's position immediately, General.</text>
+		<text bitflag="1360" id1="634751" id2="17" version="1065353216">I'm ready.</text>
+		<text bitflag="1345" id1="634752" id2="17" version="1065353216">Why would Tavus go after this cloaking device?</text>
+		<text bitflag="1360" id1="634752" id2="17" version="1065353216">Tell me about the prototype.</text>
+		<text bitflag="1345" id1="634753" id2="17" version="1065353216">The device renders an entire capital ship invisible--visually and to sensors. The advantage it would offer the Empire is obvious.</text>
+		<text bitflag="1360" id1="634755" id2="17" version="1065353216">I have doubts, sir.</text>
+		<text bitflag="1345" id1="634756" id2="17" version="1065353216">Let's hope the situation really is as simple as it appears.</text>
+		<text bitflag="1345" id1="634758" id2="17" version="1065353216">Tavus's ship is currently sitting alone in an empty sector of space--most likely waiting to rendezvous with a larger vessel. You have to get there before that happens, Lieutenant.</text>
+		<text bitflag="1360" id1="634759" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="634760" id2="17" version="1065353216">Do we have a backup plan in case I don't reach the coordinates in time?</text>
+		<text bitflag="1360" id1="634760" id2="17" version="1065353216">What if I don't make it?</text>
+		<text bitflag="1345" id1="634761" id2="17" version="1065353216">When I hear &quot;lone ship in empty space,&quot; I think &quot;trap.&quot;</text>
+		<text bitflag="1360" id1="634761" id2="17" version="1065353216">Sounds like an ambush to me.</text>
+		<text bitflag="1345" id1="634762" id2="17" version="1065353216">We'll deal with that situation if it occurs. But we have to take this chance.</text>
+		<text bitflag="1345" id1="634764" id2="17" version="1065353216">This is Harron Tavus himself, Lieutenant. Succeed here, and everything else becomes an afterthought.</text>
+		<text bitflag="1360" id1="634765" id2="17" version="1065353216">You can count on me, sir.</text>
+		<text bitflag="1345" id1="634766" id2="17" version="1065353216">That's why I'm sending you.</text>
+		<text bitflag="1345" id1="634768" id2="17" version="1065353216">What are my orders, General? Capture or neutralize?</text>
+		<text bitflag="1360" id1="634768" id2="17" version="1065353216">You want him alive or dead?</text>
+		<text bitflag="1345" id1="634769" id2="17" version="1065353216">He could be useful to us alive... but take no chances. We cannot afford to let Tavus escape.</text>
+		<text bitflag="1345" id1="634771" id2="17" version="1065353216">Get my medal ready. This is going to be one for the records.</text>
+		<text bitflag="1360" id1="634771" id2="17" version="1065353216">I'd better get recognition.</text>
+		<text bitflag="1345" id1="634772" id2="17" version="1065353216">You can worry about medals after the job is done.</text>
+		<text bitflag="1345" id1="634774" id2="17" version="1065353216">Be sure to secure the prototype cloaking device after you've dealt with Tavus. If it fell into the Empire's hands, it could be... disastrous.</text>
+		<text bitflag="1345" id1="634776" id2="17" version="1065353216">I'm transmitting the coordinates to you now. Effect entry to Tavus's ship, then do whatever is necessary to neutralize him and retrieve the prototype. Good hunting--Garza out.</text>
+		<text bitflag="1345" id1="634778" id2="17" version="1065353216">Ah. Lieutenant. There you are.</text>
+		<text bitflag="1345" id1="634780" id2="17" version="1065353216">Do I need to reiterate my disappointment in your decision to intentionally disobey orders and reveal the SpecForce defections to the SIS? Or has that been made suitably clear?</text>
+		<text bitflag="1345" id1="634781" id2="17" version="1065353216">Clear, General. It won't happen again.</text>
+		<text bitflag="1360" id1="634781" id2="17" version="1065353216">No need to repeat yourself.</text>
+		<text bitflag="1345" id1="634782" id2="17" version="1065353216">I'm glad to hear it.</text>
+		<text bitflag="1345" id1="634784" id2="17" version="1065353216">Jonas needed to know the full situation, General.</text>
+		<text bitflag="1360" id1="634784" id2="17" version="1065353216">I did the right thing.</text>
+		<text bitflag="1345" id1="634785" id2="17" version="1065353216">Agent Balkar knew all he needed to assist you.</text>
+		<text bitflag="1345" id1="634787" id2="17" version="1065353216">I accomplished my mission. That should be all that matters.</text>
+		<text bitflag="1360" id1="634787" id2="17" version="1065353216">I don't care if you're happy.</text>
+		<text bitflag="1345" id1="634788" id2="17" version="1065353216">I give orders for a reason, Lieutenant. Keeping these defections a secret is critical.</text>
+		<text bitflag="1345" id1="634790" id2="17" version="1065353216">As for the mission itself, I am satisfied. You've stopped Tavus's plans for the M1-4X and returned a valuable asset to Republic service. Well done.</text>
+		<text bitflag="1345" id1="634791" id2="17" version="1065353216">I'm pleased that you avoided revealing the defections to Agent Balkar. Hiding information from the SIS is hardly a simple task.</text>
+		<text bitflag="1345" id1="634792" id2="17" version="1065353216">Just following orders, General.</text>
+		<text bitflag="1360" id1="634792" id2="17" version="1065353216">It was no problem.</text>
+		<text bitflag="1345" id1="634793" id2="17" version="1065353216">We shouldn't be hiding the facts from our allies.</text>
+		<text bitflag="1360" id1="634793" id2="17" version="1065353216">I didn't like it.</text>
+		<text bitflag="1345" id1="634794" id2="17" version="1065353216">I understand, Lieutenant, but I gave the order for a good reason. You'll have to trust me.</text>
+		<text bitflag="1345" id1="634796" id2="17" version="1065353216">It wasn't easy stringing Jonas along, but I managed.</text>
+		<text bitflag="1360" id1="634796" id2="17" version="1065353216">That spy pushed hard.</text>
+		<text bitflag="1345" id1="634797" id2="17" version="1065353216">Yes, he was much more clever than I anticipated.</text>
+		<text bitflag="1345" id1="634799" id2="17" version="1065353216">I'm also very pleased with the outcome of the mission itself. M1-4X is back where he belongs--well done.</text>
+		<text bitflag="1345" id1="634800" id2="17" version="1065353216">I'm glad you approve, General.</text>
+		<text bitflag="1360" id1="634800" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1360" id1="634801" id2="17" version="1065353216">This was an easy one.</text>
+		<text bitflag="1345" id1="634802" id2="17" version="1065353216">Until I have Tavus in my sights, I won't be satisfied.</text>
+		<text bitflag="1360" id1="634802" id2="17" version="1065353216">It's still not Tavus himself.</text>
+		<text bitflag="1345" id1="634803" id2="17" version="1065353216">Neither will I, Lieutenant. But that's only a matter of time.</text>
+		<text bitflag="1345" id1="634805" id2="17" version="1065353216">I understand you also performed some skillful negotiating. Very impressive.</text>
+		<text bitflag="1345" id1="634806" id2="17" version="1065353216">I'm just glad we avoided any major incidents.</text>
+		<text bitflag="1360" id1="634806" id2="17" version="1065353216">It was a tense situation.</text>
+		<text bitflag="1345" id1="634807" id2="17" version="1065353216">You aren't the only one.</text>
+		<text bitflag="1345" id1="634808" id2="17" version="1065353216">Me and the Imps are all good buddies now.</text>
+		<text bitflag="1360" id1="634808" id2="17" version="1065353216">It was fun!</text>
+		<text bitflag="1345" id1="634809" id2="17" version="1065353216">Mm. It would be best if you didn't joke about that.</text>
+		<text bitflag="1345" id1="634810" id2="17" version="1065353216">Cutting deals with the enemy isn't what I signed up for.</text>
+		<text bitflag="1360" id1="634810" id2="17" version="1065353216">I won't be doing that again.</text>
+		<text bitflag="1345" id1="634811" id2="17" version="1065353216">The circumstances weren't right for a direct attack, so you adapted. That's good soldiering.</text>
+		<text bitflag="1345" id1="634812" id2="17" version="1065353216">Of course, you did almost plunge the entire galaxy into a war just to accomplish this mission. Please try to avoid that sort of thing in the future.</text>
+		<text bitflag="1345" id1="634813" id2="17" version="1065353216">I'll try to be more careful from now on.</text>
+		<text bitflag="1360" id1="634813" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="634815" id2="17" version="1065353216">Imperials are the enemy. I shoot the enemy.</text>
+		<text bitflag="1360" id1="634815" id2="17" version="1065353216">I don't negotiate.</text>
+		<text bitflag="1345" id1="634816" id2="17" version="1065353216">The Imperials shot first, General. I had to defend myself.</text>
+		<text bitflag="1360" id1="634816" id2="17" version="1065353216">It wasn't my fault!</text>
+		<text bitflag="1345" id1="634817" id2="17" version="1065353216">Ah. Well, next time, try not to defend yourself so extensively in such a public place.</text>
+		<text bitflag="1345" id1="634818" id2="17" version="1065353216">I signed up to fight, not to negotiate.</text>
+		<text bitflag="1360" id1="634818" id2="17" version="1065353216">Aw, you're no fun.</text>
+		<text bitflag="1345" id1="634819" id2="17" version="1065353216">The Treaty of Coruscant still stands, at least nominally. We can't be seen initiating public hostilities.</text>
+		<text bitflag="1345" id1="634821" id2="17" version="1065353216">Now--I've just received some intelligence that I want Havoc to act on immediately. It's Tavus.</text>
+		<text bitflag="1345" id1="634823" id2="17" version="1065353216">That's all I have for you, Lieutenant. You may proceed with your next assignment.</text>
+		<text bitflag="1345" id1="634825" id2="17" version="1065353216">Garza out.</text>
+		<text bitflag="1345" id1="634827" id2="17" version="1065353216">Unfortunately, Lieutenant, your work on Nar Shaddaa isn't done--another situation has developed.</text>
+		<text bitflag="1345" id1="634829" id2="17" version="1065353216">Lieutenant. I assume Sergeant Dorne took the news well?</text>
+		<text bitflag="1345" id1="634830" id2="17" version="1065353216">Sergeant Dorne is honored to be in Havoc Squad.</text>
+		<text bitflag="1360" id1="634830" id2="17" version="1065353216">That's right.</text>
+		<text bitflag="1345" id1="634831" id2="17" version="1065353216">She's joining the best unit in the galaxy. She was ecstatic.</text>
+		<text bitflag="1360" id1="634831" id2="17" version="1065353216">What do you think?</text>
+		<text bitflag="1345" id1="634832" id2="17" version="1065353216">Excellent. We'll have the squad fully restaffed in no time.</text>
+		<text bitflag="1345" id1="634834" id2="17" version="1065353216">I'm still not thrilled about having an Imp in my squad, General.</text>
+		<text bitflag="1360" id1="634834" id2="17" version="1065353216">Better than I did, at least.</text>
+		<text bitflag="1345" id1="634835" id2="17" version="1065353216">You don't have to be thrilled. And I think it might go better for you if you avoid calling her an &quot;Imp.&quot;</text>
+		<text bitflag="1345" id1="634837" id2="17" version="1065353216">One other detail: Were you able to retrieve a sample of the weaponized rakghoul disease that Needles was developing?</text>
+		<text bitflag="1360" id1="634838" id2="17" version="1065353216">I did.</text>
+		<text bitflag="1345" id1="634839" id2="17" version="1065353216">Excellent. Just leave it in the secured case beneath the holocommunicator. I'll see that it reaches research division.</text>
+		<text bitflag="1345" id1="634842" id2="17" version="1065353216">I'd hate to think of the Republic using it on anyone.</text>
+		<text bitflag="1360" id1="634842" id2="17" version="1065353216">We won't use this, will we?</text>
+		<text bitflag="1345" id1="634843" id2="17" version="1065353216">Enjoy your horrifying biological weapon, General.</text>
+		<text bitflag="1360" id1="634843" id2="17" version="1065353216">It's all yours.</text>
+		<text bitflag="1345" id1="634844" id2="17" version="1065353216">Research purposes only, I assure you. Just leave it in the secured case beneath the holocommunicator; I'll see it reaches the right people.</text>
+		<text bitflag="1345" id1="634847" id2="17" version="1065353216">No samples were retrieved, General.</text>
+		<text bitflag="1360" id1="634847" id2="17" version="1065353216">Negative.</text>
+		<text bitflag="1345" id1="634848" id2="17" version="1065353216">Needles' work was horrifying. No one will ever get their hands on it again.</text>
+		<text bitflag="1360" id1="634848" id2="17" version="1065353216">I destroyed the samples.</text>
+		<text bitflag="1345" id1="634849" id2="17" version="1065353216">That was foolish, Lieutenant. Those samples could've been invaluable for the war effort.</text>
+		<text bitflag="1345" id1="634850" id2="17" version="1065353216">The last sample took a stray blaster bolt while I was dealing with Needles.</text>
+		<text bitflag="1360" id1="634850" id2="17" version="1065353216">It was destroyed in the fight.</text>
+		<text bitflag="1345" id1="634851" id2="17" version="1065353216">That's too bad. Research division would've done anything to get their hands on a sample, and I could've used the favors.</text>
+		<text bitflag="1345" id1="634857" id2="17" version="1065353216">Now--a new situation has just developed that requires your immediate intervention. It's Tavus.</text>
+		<text bitflag="1345" id1="634859" id2="17" version="1065353216">That's all for now, Lieutenant. Congratulations once again. Garza out.</text>
+		<text bitflag="1345" id1="634861" id2="17" version="1065353216">Nothing further. Try not to be so wasteful of our opportunities in the future. Garza out.</text>
+		<text bitflag="1345" id1="634864" id2="17" version="1065353216">At any rate, another situation has developed on Nar Shaddaa that requires immediate intervention.</text>
+		<text bitflag="1345" id1="634866" id2="17" version="1065353216">In any event, another situation has developed on Nar Shaddaa that requires your immediate intervention.</text>
+		<text bitflag="1345" id1="634874" id2="17" version="1065353216">Ah, Lieutenant. I was just speaking with Sergeant Jaxo. Congratulations.</text>
+		<text bitflag="1345" id1="634876" id2="17" version="1065353216">Saving Senator Krasul will certainly help our affairs with the Senate. We needed someone to owe us a favor--well done.</text>
+		<text bitflag="1360" id1="634877" id2="17" version="1065353216">Thank you, General.</text>
+		<text bitflag="1345" id1="634878" id2="17" version="1065353216">You've accomplished something very important--something beyond even your assignment to hunt down Tavus and the other traitors.</text>
+		<text bitflag="1345" id1="634880" id2="17" version="1065353216">I'm not sure Krasul will be taking our side on anything.</text>
+		<text bitflag="1360" id1="634880" id2="17" version="1065353216">Don't get too excited.</text>
+		<text bitflag="1345" id1="634881" id2="17" version="1065353216">In the end, he will remember who saved his life--and that's very important for us.</text>
+		<text bitflag="1345" id1="634883" id2="17" version="1065353216">Don't waste my time with politics.</text>
+		<text bitflag="1360" id1="634883" id2="17" version="1065353216">Spare me.</text>
+		<text bitflag="1345" id1="634884" id2="17" version="1065353216">The politics come with the job--the sooner you get that through your head, the better.</text>
+		<text bitflag="1345" id1="634886" id2="17" version="1065353216">You're in the field, Lieutenant... you see how far the Empire is reaching. A full attack isn't far off, now.</text>
+		<text bitflag="1345" id1="634888" id2="17" version="1065353216">To keep the Empire's forces at bay, we need the Senate's support. We need allies.</text>
+		<text bitflag="1345" id1="634889" id2="17" version="1065353216">I'm glad I could help out the cause.</text>
+		<text bitflag="1360" id1="634889" id2="17" version="1065353216">Allies are good.</text>
+		<text bitflag="1345" id1="634890" id2="17" version="1065353216">Yes, you've done quite well in that regard.</text>
+		<text bitflag="1345" id1="634892" id2="17" version="1065353216">I only kept Krasul alive to get his support.</text>
+		<text bitflag="1360" id1="634892" id2="17" version="1065353216">That's why I saved him.</text>
+		<text bitflag="1345" id1="634893" id2="17" version="1065353216">I'm not sure I want to hear that, but I'm glad that you at least understand the situation.</text>
+		<text bitflag="1345" id1="634895" id2="17" version="1065353216">Why doesn't the Senate just let us do our job?</text>
+		<text bitflag="1360" id1="634895" id2="17" version="1065353216">I hate politics.</text>
+		<text bitflag="1345" id1="634896" id2="17" version="1065353216">Politicians meddle--it's in their nature. So it's up to us to limit that meddling as best we can.</text>
+		<text bitflag="1345" id1="634898" id2="17" version="1065353216">One thing, Lieutenant, I was disappointed to learn of Wraith's escape. She's capable of causing great turmoil.</text>
+		<text bitflag="1345" id1="634899" id2="17" version="1065353216">You have my apologies, General--it won't happen again.</text>
+		<text bitflag="1360" id1="634899" id2="17" version="1065353216">I'm sorry.</text>
+		<text bitflag="1345" id1="634900" id2="17" version="1065353216">No, I'm sure it won't.</text>
+		<text bitflag="1345" id1="634902" id2="17" version="1065353216">Catching Wraith would have meant leaving Krasul to die.</text>
+		<text bitflag="1360" id1="634902" id2="17" version="1065353216">There was nothing I could do.</text>
+		<text bitflag="1345" id1="634903" id2="17" version="1065353216">Then you probably made the best choice. The Senator is certainly more useful alive than dead.</text>
+		<text bitflag="1345" id1="634905" id2="17" version="1065353216">When I catch Wraith, she's going to wish she had died.</text>
+		<text bitflag="1360" id1="634905" id2="17" version="1065353216">She won't escape long.</text>
+		<text bitflag="1345" id1="634906" id2="17" version="1065353216">I have little doubt.</text>
+		<text bitflag="1345" id1="634908" id2="17" version="1065353216">Lieutenant--I'm glad you called. I'm not sure what to make of Sergeant Jaxo's report.</text>
+		<text bitflag="1345" id1="634910" id2="17" version="1065353216">Taking down Wraith was an important objective, and I'm glad you did so. But how could you fail to save Senator Krasul beforehand?</text>
+		<text bitflag="1345" id1="634911" id2="17" version="1065353216">I made a mistake, General. It won't happen again.</text>
+		<text bitflag="1360" id1="634911" id2="17" version="1065353216">I'm sorry.</text>
+		<text bitflag="1345" id1="634912" id2="17" version="1065353216">At least Wraith is no longer a threat.</text>
+		<text bitflag="1345" id1="634914" id2="17" version="1065353216">Defusing the bombs around Krasul would've tipped Wraith off and given her a chance to flee.</text>
+		<text bitflag="1360" id1="634914" id2="17" version="1065353216">I had to sacrifice him.</text>
+		<text bitflag="1345" id1="634915" id2="17" version="1065353216">Lieutenant, you let a Senator die just to complete an objective--this is a dangerous path to tread.</text>
+		<text bitflag="1345" id1="634917" id2="17" version="1065353216">I ran into Wraith before I found the Senator--that's it.</text>
+		<text bitflag="1360" id1="634917" id2="17" version="1065353216">[Lie.] It was just bad luck.</text>
+		<text bitflag="1345" id1="634918" id2="17" version="1065353216">I see. That's some very bad luck, indeed, Lieutenant.</text>
+		<text bitflag="1345" id1="634920" id2="17" version="1065353216">While I'm pleased you were able to neutralize Wraith, allowing a Senator to die... this is a very dangerous line to tread.</text>
+		<text bitflag="1345" id1="634921" id2="17" version="1065353216">I've failed you, General.</text>
+		<text bitflag="1360" id1="634921" id2="17" version="1065353216">I'm sorry.</text>
+		<text bitflag="1345" id1="634922" id2="17" version="1065353216">We'll see. You may have made the right choice, in the long run. It's difficult to know.</text>
+		<text bitflag="1345" id1="634924" id2="17" version="1065353216">Wraith was too dangerous to leave alive.</text>
+		<text bitflag="1360" id1="634924" id2="17" version="1065353216">There was no other choice.</text>
+		<text bitflag="1345" id1="634925" id2="17" version="1065353216">The life of a Senator of the Republic, against the innocent lives Wraith would have taken later. It's a tough call.</text>
+		<text bitflag="1345" id1="634927" id2="17" version="1065353216">Kill the Havoc traitors at any cost--that's my mission.</text>
+		<text bitflag="1360" id1="634927" id2="17" version="1065353216">Just following orders.</text>
+		<text bitflag="1345" id1="634928" id2="17" version="1065353216">True, but the ultimate purpose of the mission is to safeguard the Republic, and I'm not sure that letting a Senator die is in line with that.</text>
+		<text bitflag="1345" id1="634930" id2="17" version="1065353216">I won't claim to miss Senator Krasul's... involvement, in our affairs. But his death will not be easy to explain away.</text>
+		<text bitflag="1345" id1="634931" id2="17" version="1065353216">Why not tell the truth, General?</text>
+		<text bitflag="1360" id1="634931" id2="17" version="1065353216">Why explain it away?</text>
+		<text bitflag="1360" id1="634932" id2="17" version="1065353216">You always manage.</text>
+		<text bitflag="1345" id1="634933" id2="17" version="1065353216">Our secrecy is an absolute necessity. Do not dismiss it.</text>
+		<text bitflag="1345" id1="634935" id2="17" version="1065353216">We're Special Forces. We shouldn't have to explain ourselves, General.</text>
+		<text bitflag="1360" id1="634935" id2="17" version="1065353216">I don't care who knows.</text>
+		<text bitflag="1345" id1="634936" id2="17" version="1065353216">Politics are a necessary part of our greater goal.</text>
+		<text bitflag="1345" id1="634938" id2="17" version="1065353216">The Empire will eventually strike at us in force--probably sooner than later.</text>
+		<text bitflag="1345" id1="634940" id2="17" version="1065353216">SpecForce needs to be operating at its fullest. A large-scale Senate investigation would distract us. Waste resources. Cost lives.</text>
+		<text bitflag="1345" id1="634941" id2="17" version="1065353216">I'll be more careful in the future.</text>
+		<text bitflag="1360" id1="634941" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="634942" id2="17" version="1065353216">Be careful, but never be afraid to do your job.</text>
+		<text bitflag="1345" id1="634944" id2="17" version="1065353216">I'll do my job, you do yours, General.</text>
+		<text bitflag="1360" id1="634944" id2="17" version="1065353216">I don't need a lecture.</text>
+		<text bitflag="1345" id1="634945" id2="17" version="1065353216">Gladly. Just remember that recklessness on your part can render my job impossible.</text>
+		<text bitflag="1345" id1="634947" id2="17" version="1065353216">It's important to hide the truth, because the truth will get you fired. Isn't that right?</text>
+		<text bitflag="1360" id1="634947" id2="17" version="1065353216">You're just covering yourself.</text>
+		<text bitflag="1345" id1="634948" id2="17" version="1065353216">It might, and it might not. But any time I spend fighting for my position is time I could spend fighting the enemy.</text>
+		<text bitflag="1345" id1="634950" id2="17" version="1065353216">But this is a theoretical discussion. I still have my job, which means that you will still obey my orders.</text>
+		<text bitflag="1345" id1="634952" id2="17" version="1065353216">Now--our technicians have decoded the first two sets of data from the Coruscant relay. Your first two targets are on Taris and Nar Shaddaa.</text>
+		<text bitflag="1345" id1="634953" id2="17" version="1065353216">Taris and Nar Shaddaa--I'll move out right away.</text>
+		<text bitflag="1360" id1="634953" id2="17" version="1065353216">Copy that.</text>
+		<text bitflag="1345" id1="634954" id2="17" version="1065353216">Can you tell me anything beyond the destinations?</text>
+		<text bitflag="1360" id1="634954" id2="17" version="1065353216">Any details?</text>
+		<text bitflag="1345" id1="634955" id2="17" version="1065353216">Not at this time, I'm afraid. I'll try to collect more intelligence and give you a fuller briefing when you arrive at each location.</text>
+		<text bitflag="1345" id1="634957" id2="17" version="1065353216">Don't you think I'm due for some time off?</text>
+		<text bitflag="1360" id1="634957" id2="17" version="1065353216">More, already?</text>
+		<text bitflag="1345" id1="634958" id2="17" version="1065353216">Our enemies aren't taking time off, so neither can we.</text>
+		<text bitflag="1345" id1="634960" id2="17" version="1065353216">Good luck. Garza out.</text>
+		<text bitflag="1345" id1="634969" id2="17" version="1065353216">Now--our technicians have decoded more data from the Coruscant relay. Your next two targets are on Tatooine and Alderaan.</text>
+		<text bitflag="1345" id1="634970" id2="17" version="1065353216">Tatooine and Alderaan--I'll move out immediately, General.</text>
+		<text bitflag="1360" id1="634970" id2="17" version="1065353216">Copy that.</text>
+		<text bitflag="1345" id1="634971" id2="17" version="1065353216">Proceed to the given coordinates and intercept Tavus immediately, Lieutenant.</text>
+		<text bitflag="1345" id1="634972" id2="17" version="1065353216">A Republic Senator named Krasul has been taken hostage. You may remember Krasul from the &quot;informal hearing&quot; that you attended here on Coruscant.</text>
+		<text bitflag="1345" id1="634973" id2="17" version="1065353216">Krasul was the one who doubted everything I said.</text>
+		<text bitflag="1360" id1="634973" id2="17" version="1065353216">Yes, I remember him.</text>
+		<text bitflag="1345" id1="634974" id2="17" version="1065353216">Unsurprising. You aren't the first SpecForce operator to have had the pleasure of such a conversation.</text>
+		<text bitflag="1345" id1="634976" id2="17" version="1065353216">I'm afraid I don't remember him, sir.</text>
+		<text bitflag="1360" id1="634976" id2="17" version="1065353216">Not coming to mind.</text>
+		<text bitflag="1345" id1="634977" id2="17" version="1065353216">Male Cathar. Large, heavyset build. I'll have an image sent to you.</text>
+		<text bitflag="1345" id1="634979" id2="17" version="1065353216">Bureaucrats aren't worth remembering, sir.</text>
+		<text bitflag="1360" id1="634979" id2="17" version="1065353216">One of those jerks, huh?</text>
+		<text bitflag="1345" id1="634980" id2="17" version="1065353216">Ordinarily, I'd agree, but this bureaucrat is particularly significant.</text>
+		<text bitflag="1345" id1="634982" id2="17" version="1065353216">Senator Krasul and his oversight committee have been involved in the activities of SpecForce Division for years, so his kidnapper's identity comes as no surprise: Wraith.</text>
+		<text bitflag="1345" id1="634983" id2="17" version="1065353216">How do you know it's Wraith, sir?</text>
+		<text bitflag="1360" id1="634983" id2="17" version="1065353216">Are you sure?</text>
+		<text bitflag="1345" id1="634984" id2="17" version="1065353216">Of all the holocams on Coruscant, only two saw the kidnapping--but Wraith was easily identified.</text>
+		<text bitflag="1360" id1="634986" id2="17" version="1065353216">Who?</text>
+		<text bitflag="1345" id1="634987" id2="17" version="1065353216">Wraith. The former Havoc Squad assassin. One of your targets.</text>
+		<text bitflag="1345" id1="634989" id2="17" version="1065353216">If you ask me, Wraith is doing us a favor.</text>
+		<text bitflag="1360" id1="634989" id2="17" version="1065353216">Let her have the guy.</text>
+		<text bitflag="1345" id1="634990" id2="17" version="1065353216">Lieutenant, we may not always agree with the Senate, but they're still the sovereign body of the Republic.</text>
+		<text bitflag="1345" id1="634992" id2="17" version="1065353216">Wraith managed to slip Krasul offworld. Tracking her down has been very difficult.</text>
+		<text bitflag="1345" id1="634994" id2="17" version="1065353216">But luckily, you're still in the area. Wraith is holding the Senator hostage inside a warehouse in the Red Light Sector.</text>
+		<text bitflag="1345" id1="634995" id2="17" version="1065353216">Is Jonas going to be my contact for this assignment as well?</text>
+		<text bitflag="1360" id1="634995" id2="17" version="1065353216">Will I work with the SIS again?</text>
+		<text bitflag="1345" id1="634996" id2="17" version="1065353216">No. A SpecForce team carried out preliminary reconnaissance. They will rendezvous at your ship within a few minutes.</text>
+		<text bitflag="1345" id1="634998" id2="17" version="1065353216">However, a few moments ago we learned that she is holding the Senator in a warehouse on Nar Shaddaa--an area known as the Red Light Sector.</text>
+		<text bitflag="1345" id1="634999" id2="17" version="1065353216">Will I have any backup in the field? Supplies? Comms?</text>
+		<text bitflag="1360" id1="634999" id2="17" version="1065353216">What are my assets?</text>
+		<text bitflag="1345" id1="635000" id2="17" version="1065353216">A team is already in the field, Lieutenant. You'll be met at the spaceport with further details and support information.</text>
+		<text bitflag="1345" id1="635002" id2="17" version="1065353216">Is Wraith running solo, or does she have backup?</text>
+		<text bitflag="1360" id1="635002" id2="17" version="1065353216">Tell me about the opposition.</text>
+		<text bitflag="1345" id1="635003" id2="17" version="1065353216">Our team on the ground confirmed Imperial troops are guarding the warehouse.</text>
+		<text bitflag="1345" id1="635005" id2="17" version="1065353216">Sounds to me like Wraith just kidnapped the Senator to use as bait.</text>
+		<text bitflag="1360" id1="635005" id2="17" version="1065353216">I smell a trap.</text>
+		<text bitflag="1345" id1="635006" id2="17" version="1065353216">The possibility exists--especially given what we know about the warehouse itself.</text>
+		<text bitflag="1345" id1="635008" id2="17" version="1065353216">Aside from Wraith and Krasul, scans detected large amounts of baradium explosives inside the warehouse. Use great caution, Lieutenant.</text>
+		<text bitflag="1360" id1="635009" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="635010" id2="17" version="1065353216">All part of your mission parameters.</text>
+		<text bitflag="1360" id1="635012" id2="17" version="1065353216">I'll be very careful.</text>
+		<text bitflag="1345" id1="635013" id2="17" version="1065353216">I knew you'd be the best choice for this mission.</text>
+		<text bitflag="1345" id1="635015" id2="17" version="1065353216">I'm sure Sergeant Jorgan will scout things out thoroughly.</text>
+		<text bitflag="1360" id1="635015" id2="17" version="1065353216">Jorgan can go first!</text>
+		<text bitflag="1345" id1="635016" id2="17" version="1065353216">Great. What an honor.</text>
+		<text bitflag="1345" id1="635018" id2="17" version="1065353216">I'm sure it's nothing Sergeant Dorne can't handle.</text>
+		<text bitflag="1360" id1="635018" id2="17" version="1065353216">Elara can go first!</text>
+		<text bitflag="1345" id1="635019" id2="17" version="1065353216">With respect, sir, I lack the T-7A certification required to carry out a bomb defusal.</text>
+		<text bitflag="1345" id1="635021" id2="17" version="1065353216">This will be the perfect chance for M1-4X to show us what he's made of.</text>
+		<text bitflag="1360" id1="635021" id2="17" version="1065353216">Forex can go first!</text>
+		<text bitflag="1345" id1="635022" id2="17" version="1065353216">My layered durasteel-polymer plates are highly resistant to all manner of explosives. I will perform this task with great pride!</text>
+		<text bitflag="1345" id1="635024" id2="17" version="1065353216">Your subordinates do not exist to be fodder for the enemy, Lieutenant.</text>
+		<text bitflag="1345" id1="635026" id2="17" version="1065353216">Leave the op details to me, all right?</text>
+		<text bitflag="1360" id1="635026" id2="17" version="1065353216">Just let me do my job.</text>
+		<text bitflag="1345" id1="635027" id2="17" version="1065353216">If your mission plan is unaffected by the presence of volatile high explosives, then I have serious doubts about your mission plan.</text>
+		<text bitflag="1345" id1="635029" id2="17" version="1065353216">Now hurry. Senator Krasul must be rescued before Wraith can complete whatever it is she's hoping to achieve. Garza out.</text>
+	</file_content>
+</stb_file>

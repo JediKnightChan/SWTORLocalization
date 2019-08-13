@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/class/jedi_knight/t7_01.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="711654" id2="17" version="1065353216">T7 = sad // Balmorra war = never end?</text>
+		<text bitflag="3393" id1="711655" id2="17" version="1065353216">Imperial tactical operations base = hard target // Jedi + T7 = be careful</text>
+		<text bitflag="3393" id1="711656" id2="17" version="1065353216">Imperial forces = everywhere // Jedi + T7 = always in the middle</text>
+		<text bitflag="3393" id1="711657" id2="17" version="1065353216">Balmorra = not T7's first war zone // T7 = ready for combat</text>
+	</file_content>
+</stb_file>

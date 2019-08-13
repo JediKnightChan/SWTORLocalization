@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>40</strs>
+		<file_name>/resources/en-us/str/cnv/location/nar_shaddaa/bronze/republic/vescos_virus/abasi_vesco.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="656729" id2="17" version="1065353216">Where the heck did a virus like that come from anyway?</text>
+		<text bitflag="3393" id1="656730" id2="17" version="1065353216">There's reports of droids going berserk out there. Tell me you got those memory cores.</text>
+		<text bitflag="1360" id1="656731" id2="17" version="1065353216">Yes. Do you need more help?</text>
+		<text bitflag="3393" id1="656732" id2="17" version="1065353216">You've done plenty. Next part's up to me.</text>
+		<text bitflag="1360" id1="656734" id2="17" version="1065353216">And they're all intact.</text>
+		<text bitflag="1360" id1="656735" id2="17" version="1065353216">Of course I did.</text>
+		<text bitflag="3393" id1="656736" id2="17" version="1065353216">Nice work.</text>
+		<text bitflag="3393" id1="656738" id2="17" version="1065353216">With the data from the cores, I'll put together a signal to mutate the droid virus, keep it from spreading.</text>
+		<text bitflag="3393" id1="656740" id2="17" version="1065353216">That won't stop the virus--those droids are still a problem--but at least it won't be a moon-wide epidemic. Thanks to you.</text>
+		<text bitflag="3393" id1="656742" id2="17" version="1065353216">I need those memory cores, or we'll be seeing that droid virus all over Nar Shaddaa.</text>
+		<text bitflag="3393" id1="656743" id2="17" version="1065353216">If you're going outside this area, watch yourself. They're shooting at anything that moves, even each other.</text>
+		<text bitflag="3393" id1="656745" id2="17" version="1065353216">Hey, wait--they said some team was cleaning house around here. That must be you?</text>
+		<text bitflag="3393" id1="656747" id2="17" version="1065353216">Wait--they said a Jedi was helping out. I'm guessing that's you?</text>
+		<text bitflag="3393" id1="656749" id2="17" version="1065353216">Hey, I heard about you. They said Republic Special Forces was operating near here.</text>
+		<text bitflag="3393" id1="656751" id2="17" version="1065353216">Hey, wait, you must be that spacer captain. They said you were getting a name around here.</text>
+		<text bitflag="3393" id1="656753" id2="17" version="1065353216">Still, like I said, be careful. Those crazy droids don't care how famous their targets are.</text>
+		<text bitflag="1360" id1="656754" id2="17" version="1065353216">Who are you?</text>
+		<text bitflag="3393" id1="656755" id2="17" version="1065353216">Abasi Vesco. I'm nobody, just a droid engineer. Didn't stop the Empire from torturing me for schematics, though.</text>
+		<text bitflag="1360" id1="656757" id2="17" version="1065353216">Droids?</text>
+		<text bitflag="1360" id1="656758" id2="17" version="1065353216">Save it for someone weaker.</text>
+		<text bitflag="3393" id1="656759" id2="17" version="1065353216">Obviously you haven't seen the rest of this neighborhood.</text>
+		<text bitflag="3393" id1="656761" id2="17" version="1065353216">When we escaped the Imperials, I ran up toward Network Security. Thought I could bring some Republic droids back here, help protect this area.</text>
+		<text bitflag="3393" id1="656763" id2="17" version="1065353216">But when I got there, those droids--our droids!--started shooting at me. Typical. I survive Shadow Town, then walk right into friendly fire.</text>
+		<text bitflag="1360" id1="656764" id2="17" version="1065353216">That sounds suspicious.</text>
+		<text bitflag="1360" id1="656765" id2="17" version="1065353216">Did the droids hit you?</text>
+		<text bitflag="3393" id1="656766" id2="17" version="1065353216">I'm a bit singed, but I got lucky. Real lucky, as it turns out.</text>
+		<text bitflag="1360" id1="656768" id2="17" version="1065353216">It's probably just a glitch.</text>
+		<text bitflag="1360" id1="656769" id2="17" version="1065353216">It's probably just a glitch.</text>
+		<text bitflag="3393" id1="656770" id2="17" version="1065353216">No offense, but my droid engineering degree thinks otherwise.</text>
+		<text bitflag="3393" id1="656772" id2="17" version="1065353216">I managed to bag one of those droids; its memory core was riddled with some virus that drove it berserk. And it's spreading.</text>
+		<text bitflag="3393" id1="656774" id2="17" version="1065353216">If that virus gets loose, every droid on this moon could turn rogue. I... could find a way to contain it, maybe. But I'd need more memory cores to study.</text>
+		<text bitflag="1360" id1="656775" id2="17" version="1065353216">I'll get those memory cores.</text>
+		<text bitflag="3393" id1="656776" id2="17" version="1065353216">I won't turn away help. The droids are all over these coordinates. They might be crazy, but they still shoot straight.</text>
+		<text bitflag="1360" id1="656778" id2="17" version="1065353216">Contain it? Not cure it?</text>
+		<text bitflag="3393" id1="656779" id2="17" version="1065353216">That virus is nasty. Might take me months to crack it. But if we keep it confined to this area, that's a start.</text>
+		<text bitflag="3393" id1="656781" id2="17" version="1065353216">If you want to help, head to these coordinates and hit those crazy droids hard.</text>
+		<text bitflag="3393" id1="656783" id2="17" version="1065353216">Bring their memory cores back, and I'll see what I can do.</text>
+		<text bitflag="1360" id1="656785" id2="17" version="1065353216">Then get them. [Refuse quest]</text>
+		<text bitflag="3393" id1="656786" id2="17" version="1065353216">Okay. But if you get surrounded by rogue droids, don't say I didn't warn you.</text>
+		<text bitflag="3393" id1="656788" id2="17" version="1065353216">Never thought I'd miss that job at the droid factory. After Shadow Town, I'll take anything.</text>
+	</file_content>
+</stb_file>

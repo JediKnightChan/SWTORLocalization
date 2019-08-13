@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>23</strs>
+		<file_name>/resources/en-us/str/cnv/location/hutta/bronze/subtle_sabotage/rudd.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="666552" id2="17" version="1065353216">Good work. Now Peblak must wait for a time to act.</text>
+		<text bitflag="3393" id1="666553" id2="17" version="1065353216">Peblak is waiting for that datapad.</text>
+		<text bitflag="1345" id1="666555" id2="17" version="1065353216">Were you trying to get my attention?</text>
+		<text bitflag="3393" id1="666556" id2="17" version="1065353216">Of course. You do many great things for Nem'ro the Meritorious. Now everyone wants your attention.</text>
+		<text bitflag="3393" id1="666558" id2="17" version="1065353216">Nem'ro's engineering corps works long hours. Many days. Finds way to introduce random variances in hated Fa'athra's automated factories. All is here on datapad.</text>
+		<text bitflag="1345" id1="666559" id2="17" version="1065353216">Random variances in an automated factory structure. Untraceable because there's no pattern, but productivity comes to a screeching halt?</text>
+		<text bitflag="1360" id1="666559" id2="17" version="1065353216">You're talking about sabotage.</text>
+		<text bitflag="3393" id1="666560" id2="17" version="1065353216">You very smart pirate.</text>
+		<text bitflag="1345" id1="666562" id2="17" version="1065353216">I assume you need this datapad safely delivered somewhere?</text>
+		<text bitflag="1360" id1="666562" id2="17" version="1065353216">Who gets the information?</text>
+		<text bitflag="3393" id1="666563" id2="17" version="1065353216">Very perceptive. Nem'ro hires good talent.</text>
+		<text bitflag="1345" id1="666565" id2="17" version="1065353216">I lost you right about the time you started talking about the things and the stuff.</text>
+		<text bitflag="1360" id1="666565" id2="17" version="1065353216">Random what now?</text>
+		<text bitflag="3393" id1="666566" id2="17" version="1065353216">I make simple talk, then.</text>
+		<text bitflag="1360" id1="666568" id2="17" version="1065353216">Let's talk credits.</text>
+		<text bitflag="3393" id1="666569" id2="17" version="1065353216">Payment on delivery.</text>
+		<text bitflag="3393" id1="666571" id2="17" version="1065353216">This datapad goes into hands of Peblak in worker's camp outside Rust Yards. Datapad encrypted so only he can read. Then Peblak pay you.</text>
+		<text bitflag="1360" id1="666572" id2="17" version="1065353216">Sure. Sooner the better.</text>
+		<text bitflag="1360" id1="666573" id2="17" version="1065353216">I'll see this Peblak.</text>
+		<text bitflag="3393" id1="666574" id2="17" version="1065353216">Great, great. You will know Peblak. He ugliest Ugnaught on Hutta!</text>
+		<text bitflag="1360" id1="666576" id2="17" version="1065353216">No deliveries. [Refuse quest]</text>
+		<text bitflag="3393" id1="666577" id2="17" version="1065353216">Fine, fine. Go then.</text>
+		<text bitflag="3393" id1="666579" id2="17" version="1065353216">Engineering is not so dangerous as your work.</text>
+	</file_content>
+</stb_file>

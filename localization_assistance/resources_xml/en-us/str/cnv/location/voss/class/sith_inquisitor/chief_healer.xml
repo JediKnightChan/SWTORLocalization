@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>25</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/chief_healer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="509140" id2="17" version="1065353216">The chambers are open.</text>
+		<text bitflag="1345" id1="509141" id2="17" version="1065353216">You have passed the trials. You are not free to explore.</text>
+		<text bitflag="1345" id1="509143" id2="17" version="1065353216">The chambers are for dream-walkers.</text>
+		<text bitflag="1345" id1="509144" id2="17" version="1065353216">I am a dream-walker.</text>
+		<text bitflag="1360" id1="509144" id2="17" version="1065353216">Have a look. [Show insignia.]</text>
+		<text bitflag="1360" id1="509145" id2="17" version="1065353216">[Threaten] I warn you.</text>
+		<text bitflag="1345" id1="509146" id2="17" version="1065353216">Do not threaten a Voss.</text>
+		<text bitflag="1345" id1="509148" id2="17" version="1065353216">The chambers are for dream-walkers.</text>
+		<text bitflag="1345" id1="509149" id2="17" version="1065353216">I bear their insignia.</text>
+		<text bitflag="1360" id1="509149" id2="17" version="1065353216">I'm a dream-walker.</text>
+		<text bitflag="1345" id1="509152" id2="17" version="1065353216">Forgive me.</text>
+		<text bitflag="1345" id1="509154" id2="17" version="1065353216">Enjoy your research.</text>
+		<text bitflag="1345" id1="509155" id2="17" version="1065353216">I killed all the dream-walkers.</text>
+		<text bitflag="1360" id1="509155" id2="17" version="1065353216">They died as easily as you.</text>
+		<text bitflag="1345" id1="509156" id2="17" version="1065353216">That is not funny.</text>
+		<text bitflag="1345" id1="509158" id2="17" version="1065353216">I don't have to be as gentle next time.</text>
+		<text bitflag="1360" id1="509158" id2="17" version="1065353216">Out of my way. [Shock him.]</text>
+		<text bitflag="1345" id1="509159" id2="17" version="1065353216">Aggghhh. I relent.</text>
+		<text bitflag="1345" id1="509161" id2="17" version="1065353216">You will be watched closely.</text>
+		<text bitflag="1345" id1="509162" id2="17" version="1065353216">You will let me enter the chambers.</text>
+		<text bitflag="1360" id1="509162" id2="17" version="1065353216">[Force Persuade] Let me in.</text>
+		<text bitflag="1345" id1="509163" id2="17" version="1065353216">I will let you enter the chambers.</text>
+		<text bitflag="1345" id1="509165" id2="17" version="1065353216">Enjoy your research. Take what you wish.</text>
+		<text bitflag="1345" id1="509168" id2="17" version="1065353216">Excuse me. I am looking for the dream-walkers' chambers.</text>
+		<text bitflag="1345" id1="509169" id2="17" version="1065353216">Sorry. I'm busy.</text>
+	</file_content>
+</stb_file>

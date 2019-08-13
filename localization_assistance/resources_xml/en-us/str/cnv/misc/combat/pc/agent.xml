@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>65</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/pc/agent.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="62279" id2="17" version="1065353216">Apologies.</text>
+		<text bitflag="1345" id1="62281" id2="17" version="1065353216">Sorry.</text>
+		<text bitflag="1345" id1="62283" id2="17" version="1065353216">I take full responsibility.</text>
+		<text bitflag="1345" id1="62285" id2="17" version="1065353216">I am truly sorry.</text>
+		<text bitflag="1345" id1="62287" id2="17" version="1065353216">If there's anything I can do...</text>
+		<text bitflag="1345" id1="62290" id2="17" version="1065353216">[Wordless Cheer - Actor to improvise]</text>
+		<text bitflag="1345" id1="62292" id2="17" version="1065353216">[Wordless Cheer - Actor to improvise]</text>
+		<text bitflag="1345" id1="62294" id2="17" version="1065353216">[Wordless Cheer - Actor to improvise]</text>
+		<text bitflag="1345" id1="62296" id2="17" version="1065353216">[Wordless Cheer - Actor to improvise]</text>
+		<text bitflag="1345" id1="62298" id2="17" version="1065353216">[Wordless Cheer - Actor to improvise]</text>
+		<text bitflag="1345" id1="62301" id2="17" version="1065353216">Congratulations.</text>
+		<text bitflag="1345" id1="62303" id2="17" version="1065353216">Very well done.</text>
+		<text bitflag="1345" id1="62305" id2="17" version="1065353216">Terribly impressive.</text>
+		<text bitflag="1345" id1="62307" id2="17" version="1065353216">Excellent work.</text>
+		<text bitflag="1345" id1="62309" id2="17" version="1065353216">I can't believe you did that.</text>
+		<text bitflag="1345" id1="62312" id2="17" version="1065353216">Goodbye.</text>
+		<text bitflag="1345" id1="62314" id2="17" version="1065353216">I must be going.</text>
+		<text bitflag="1345" id1="62316" id2="17" version="1065353216">I'll be seeing you.</text>
+		<text bitflag="1345" id1="62318" id2="17" version="1065353216">Another time.</text>
+		<text bitflag="1345" id1="62320" id2="17" version="1065353216">Farewell.</text>
+		<text bitflag="1345" id1="62323" id2="17" version="1065353216">It's a pleasure, of course.</text>
+		<text bitflag="1345" id1="62325" id2="17" version="1065353216">Hello, there.</text>
+		<text bitflag="1345" id1="62327" id2="17" version="1065353216">How do you do?</text>
+		<text bitflag="1345" id1="62329" id2="17" version="1065353216">Charmed.</text>
+		<text bitflag="1345" id1="62331" id2="17" version="1065353216">Delighted to see you.</text>
+		<text bitflag="1345" id1="62334" id2="17" version="1065353216">Get me a medic!</text>
+		<text bitflag="1345" id1="62336" id2="17" version="1065353216">I've been hurt!</text>
+		<text bitflag="1345" id1="62338" id2="17" version="1065353216">I need a medpac!</text>
+		<text bitflag="1345" id1="62340" id2="17" version="1065353216">I'm bleeding--I need help.</text>
+		<text bitflag="1345" id1="62342" id2="17" version="1065353216">Need medical assistance!</text>
+		<text bitflag="1345" id1="62345" id2="17" version="1065353216">Requesting aid.</text>
+		<text bitflag="1345" id1="62347" id2="17" version="1065353216">Need immediate backup.</text>
+		<text bitflag="1345" id1="62349" id2="17" version="1065353216">Reinforcements to my position!</text>
+		<text bitflag="1345" id1="62351" id2="17" version="1065353216">I need help, here!</text>
+		<text bitflag="1345" id1="62353" id2="17" version="1065353216">Lend me a hand!</text>
+		<text bitflag="1345" id1="62356" id2="17" version="1065353216">[Single Kiss Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62358" id2="17" version="1065353216">[Single Kiss Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62360" id2="17" version="1065353216">[Single Kiss Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62362" id2="17" version="1065353216">[Single Kiss Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62364" id2="17" version="1065353216">[Single Kiss Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62367" id2="17" version="1065353216">[Single Laugh Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62369" id2="17" version="1065353216">[Single Laugh Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62371" id2="17" version="1065353216">[Single Laugh Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62373" id2="17" version="1065353216">[Single Laugh Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62375" id2="17" version="1065353216">[Single Laugh Noise - Actor to improvise]</text>
+		<text bitflag="1345" id1="62378" id2="17" version="1065353216">I'm afraid not.</text>
+		<text bitflag="1345" id1="62380" id2="17" version="1065353216">...No.</text>
+		<text bitflag="1345" id1="62382" id2="17" version="1065353216">You can't be serious.</text>
+		<text bitflag="1345" id1="62384" id2="17" version="1065353216">Sorry, but no.</text>
+		<text bitflag="1345" id1="62386" id2="17" version="1065353216">The answer is &quot;no.&quot;</text>
+		<text bitflag="1345" id1="62389" id2="17" version="1065353216">I'm very impressed.</text>
+		<text bitflag="1345" id1="62391" id2="17" version="1065353216">You are impressive.</text>
+		<text bitflag="1345" id1="62393" id2="17" version="1065353216">You should be proud.</text>
+		<text bitflag="1345" id1="62395" id2="17" version="1065353216">I'll make a note of that.</text>
+		<text bitflag="1345" id1="62397" id2="17" version="1065353216">You've done well.</text>
+		<text bitflag="1345" id1="62400" id2="17" version="1065353216">Much obliged.</text>
+		<text bitflag="1345" id1="62402" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1345" id1="62404" id2="17" version="1065353216">I do appreciate it.</text>
+		<text bitflag="1345" id1="62406" id2="17" version="1065353216">I owe you for this.</text>
+		<text bitflag="1345" id1="62408" id2="17" version="1065353216">You won't regret it.</text>
+		<text bitflag="1345" id1="62411" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="62413" id2="17" version="1065353216">Indeed.</text>
+		<text bitflag="1345" id1="62415" id2="17" version="1065353216">Why, yes.</text>
+		<text bitflag="1345" id1="62417" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="1345" id1="62419" id2="17" version="1065353216">Absolutely.</text>
+	</file_content>
+</stb_file>

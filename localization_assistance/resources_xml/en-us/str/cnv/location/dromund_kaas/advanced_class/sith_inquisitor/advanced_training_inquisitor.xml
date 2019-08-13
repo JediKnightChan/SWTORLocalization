@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/advanced_class/sith_inquisitor/advanced_training_inquisitor.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="211608" id2="17" version="1065353216">Your destiny is set. May the Force serve you.</text>
+		<text bitflag="3393" id1="211609" id2="17" version="1065353216">There are two paths open to you--that of the Sith Assassin or the Sith Sorcerer.</text>
+		<text bitflag="3393" id1="211611" id2="17" version="1065353216">An Assassin wields a double-bladed lightsaber and is a master of stealth, deception, and cunning. Lightning flows through the blade for damage and Darkness for defense.</text>
+		<text bitflag="3393" id1="211613" id2="17" version="1065353216">A Sorcerer destroys enemies from a distance, focusing on mastery of the Force.  They can fully control the destructive power of lighting, cripple foes and even restore allies.</text>
+		<text bitflag="3393" id1="211615" id2="17" version="1065353216">The choice is yours, but know this--once made, it cannot be unmade. Your destiny will be decided.</text>
+		<text bitflag="1360" id1="211616" id2="17" version="1065353216">I will become a Sith Assassin.</text>
+		<text bitflag="3393" id1="211617" id2="17" version="1065353216">The choice is made. You are now a Sith Assassin.</text>
+		<text bitflag="1360" id1="211619" id2="17" version="1065353216">I will become a Sith Sorcerer.</text>
+		<text bitflag="3393" id1="211620" id2="17" version="1065353216">The choice is made. You are now a Sith Sorcerer.</text>
+		<text bitflag="1360" id1="211622" id2="17" version="1065353216">I'm not ready to choose.</text>
+		<text bitflag="3393" id1="211623" id2="17" version="1065353216">Now is not the time.</text>
+	</file_content>
+</stb_file>

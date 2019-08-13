@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/event/bounty_hunting/shared/bounties/berserker_bounty.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1113230" id2="17" version="1065353216">Arrgh!</text>
+		<text bitflag="1345" id1="1113231" id2="17" version="1065353216">You call this a fight? I'll show you a fight!</text>
+		<text bitflag="1345" id1="1113232" id2="17" version="1065353216">Come get some!</text>
+		<text bitflag="1345" id1="1113426" id2="17" version="1065353216">You're mine!</text>
+		<text bitflag="1345" id1="1113427" id2="17" version="1065353216">Die!</text>
+		<text bitflag="1345" id1="1113428" id2="17" version="1065353216">You can't handle me!</text>
+		<text bitflag="1345" id1="1113429" id2="17" version="1065353216">Let's see what you're made of!</text>
+	</file_content>
+</stb_file>

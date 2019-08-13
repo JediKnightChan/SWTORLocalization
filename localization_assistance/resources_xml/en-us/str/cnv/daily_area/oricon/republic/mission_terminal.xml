@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/oricon/republic/mission_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1117222" id2="17" version="1065353216">GALACTIC REPUBLIC INITIATIVE
+Courtesy DX-M2, asst. to Master Ogan-Dei
+
+Rescue module analysis: Some Republic forces have miraculously survived our fleet's plunge to the surface of Oricon, but they are in need of assistance.
+
+Objective: Recover any trapped Republic soldiers found in the nearby wreckage so they may serve as reinforcements in our assault on the Dread Masters' fortress.</text>
+		<text bitflag="321" id1="1117223" id2="17" version="1065353216">GALACTIC REPUBLIC INITIATIVE
+Courtesy DX-M2, asst. to Master Ogan-Dei
+
+Investigation module analysis: High-power energy signatures nearby appear to be hostile in origin. One such energy signature emanates from an area that remains conspicuously untouched by the Dread Masters' dark corruption.
+
+Objective: Determine the disconcerting energy's source and neutralize it.</text>
+		<text bitflag="321" id1="1117224" id2="17" version="1065353216">GALACTIC REPUBLIC INITIATIVE
+Courtesy DX-M2, asst. to Master Ogan-Dei
+
+Investigation module analysis: One of two high-power energy signatures detected nearby is centered in an area that has been overcome with dark side corruption. This energy source somehow contributes to the madness-inducing phenomena observed on Oricon.
+
+Objective: Locate and disable the source of the dark-energy disturbance.</text>
+		<text bitflag="321" id1="1117225" id2="17" version="1065353216">GALACTIC REPUBLIC INITIATIVE
+Courtesy DX-M2, asst. to Master Ogan-Dei
+
+Slicer module analysis: The Dread Masters' fortress utilizes a combination of ancient technologies to control its security systems. Given access to the watchtower computer, I can extract the codes needed to unlock the fortress's outer gate.
+
+Objective: Retrieve the watchtower computer's core for examination.</text>
+		<text bitflag="321" id1="1117226" id2="17" version="1065353216">GALACTIC REPUBLIC INITIATIVE
+Courtesy DX-M2, asst. to Master Ogan-Dei
+
+Warlord module alert: The Dread Masters are prepared to launch an attack on the Galactic Republic. They have ordered their Dread Guard to scramble their starships and lay waste to civilian populations across the galaxy.
+
+Objective: Defeat the Dread Guard and disable their ships to ensure the citizens of the Republic remain safe from the Dread Masters' machinations.</text>
+		<text bitflag="321" id1="1117227" id2="17" version="1065353216">Aid the Republic by completing the following daily missions on Oricon:
+
+[DAILY] Fallen Forces
+[DAILY] False Paradise
+[DAILY] Dread Engines
+[DAILY] The Tower's Core
+[HEROIC 2+] Preemptive Strike
+[AREA] Oricon Decimation</text>
+		<text bitflag="321" id1="1125559" id2="17" version="1065353216">GALACTIC REPUBLIC INITIATIVE
+
+Please see courier droid O6-D5 on Carrick Station for important details regarding an urgent mission.
+
+For the Republic.
+
+[PRIORITY] This mission begins the story on Oricon. Advancing the story will unlock repeatable daily missions.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/human_male_underworldthug_republic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63631" id2="17" version="1065353216">Your luck's run out!</text>
+		<text bitflag="1345" id1="63633" id2="17" version="1065353216">Now I'm angry!</text>
+		<text bitflag="1345" id1="63635" id2="17" version="1065353216">Bad move, scum!</text>
+		<text bitflag="1345" id1="63637" id2="17" version="1065353216">This is gonna hurt!</text>
+		<text bitflag="1345" id1="63639" id2="17" version="1065353216">Start running now!</text>
+		<text bitflag="1345" id1="63641" id2="17" version="1065353216">You aren't so tough!</text>
+		<text bitflag="1345" id1="63643" id2="17" version="1065353216">You think you're good?</text>
+	</file_content>
+</stb_file>

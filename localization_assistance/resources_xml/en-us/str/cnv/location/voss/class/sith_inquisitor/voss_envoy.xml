@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>112</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/voss_envoy.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="508198" id2="17" version="1065353216">No Gormak may leave Voss. Control your people or leave, outsider.</text>
+		<text bitflag="1345" id1="508200" id2="17" version="1065353216">Please accept the Empire's sincere apologies. There must have been some misunderstanding.</text>
+		<text bitflag="3393" id1="508202" id2="17" version="1065353216">The dreaming one promised he would help the Gormak find the stars.</text>
+		<text bitflag="3393" id1="508203" id2="17" version="1065353216">The dreaming one promised she would help the Gormak find the stars.</text>
+		<text bitflag="1345" id1="508204" id2="17" version="1065353216">I promised this Gormak I would help him off-planet. I intend to keep my promise.</text>
+		<text bitflag="1360" id1="508204" id2="17" version="1065353216">Yes, I did.</text>
+		<text bitflag="1360" id1="508205" id2="17" version="1065353216">What's going on?</text>
+		<text bitflag="3393" id1="508206" id2="17" version="1065353216">Dreaming one! These corrupt Voss will not let me leave. They say I break their law and block my path.</text>
+		<text bitflag="1345" id1="508208" id2="17" version="1065353216">Pick someplace else for your argument. You're blocking my ship.</text>
+		<text bitflag="1360" id1="508208" id2="17" version="1065353216">Go away, all of you.</text>
+		<text bitflag="1345" id1="508209" id2="17" version="1065353216">The revered visionary Alor-Wan saw this.</text>
+		<text bitflag="1345" id1="508211" id2="17" version="1065353216">You have taken this creature off Voss. We can't allow this. The Voss reject your Empire.</text>
+		<text bitflag="1345" id1="508213" id2="17" version="1065353216">Let's not lose our heads. I'm sure there's a rational explanation. Right, my lord?</text>
+		<text bitflag="1345" id1="508214" id2="17" version="1065353216">I didn't realize it was in violation of your laws. I will send him away.</text>
+		<text bitflag="1360" id1="508214" id2="17" version="1065353216">I'm sorry. My mistake.</text>
+		<text bitflag="3393" id1="508215" id2="17" version="1065353216">No! You promised! I helped you, now you must help me. It is the right thing.</text>
+		<text bitflag="1345" id1="508216" id2="17" version="1065353216">I hadn't realized it was against Voss law. I'm sorry.</text>
+		<text bitflag="1360" id1="508216" id2="17" version="1065353216">I was wrong.</text>
+		<text bitflag="1345" id1="508217" id2="17" version="1065353216">He's telling the truth. I made him a promise, and I'm going to keep it.</text>
+		<text bitflag="1360" id1="508217" id2="17" version="1065353216">You're right.</text>
+		<text bitflag="1345" id1="508218" id2="17" version="1065353216">This will not stand. Consider our relationship dissolved.</text>
+		<text bitflag="1345" id1="508220" id2="17" version="1065353216">Come now. With all due respect, surely one Gormak cannot bring ruin to a civilization as illustrious as your own?</text>
+		<text bitflag="5441" id1="508222" id2="17" version="1065353216">We do not like repeating ourselves. The Gormak cannot go.</text>
+		<text bitflag="1345" id1="508223" id2="17" version="1065353216">Your great civilization flourishes despite near-constant warfare with the Gormak.</text>
+		<text bitflag="1360" id1="508223" id2="17" version="1065353216">Jophen is right.</text>
+		<text bitflag="1345" id1="508225" id2="17" version="1065353216">Imagine how it could flourish if there is peace.</text>
+		<text bitflag="5441" id1="508227" id2="17" version="1065353216">All this Gormak wants is to find peace for his people.</text>
+		<text bitflag="1345" id1="508228" id2="17" version="1065353216">You must let him go. Voss law demands it.</text>
+		<text bitflag="1360" id1="508228" id2="17" version="1065353216">[Force Persuade] Let him pass.</text>
+		<text bitflag="1345" id1="508229" id2="17" version="1065353216">We must let him go. Voss law demands it.</text>
+		<text bitflag="1345" id1="508231" id2="17" version="1065353216">Apologies. Accept this gift as a sign of our friendship. Safe journey.</text>
+		<text bitflag="1345" id1="508233" id2="17" version="1065353216">I have no choice. Someday you'll get a chance to leave, but not today.</text>
+		<text bitflag="1360" id1="508233" id2="17" version="1065353216">Fine. Sorry, Hadrik.</text>
+		<text bitflag="3393" id1="508234" id2="17" version="1065353216">The Gormak have no friends in the galaxy. The Voss corruption touches everyone.</text>
+		<text bitflag="1345" id1="508236" id2="17" version="1065353216">Quiet. You are in Voss custody.</text>
+		<text bitflag="1345" id1="508238" id2="17" version="1065353216">Do not let this happen again.</text>
+		<text bitflag="1360" id1="508240" id2="17" version="1065353216">Shut up. [Kill him.]</text>
+		<text bitflag="1345" id1="508244" id2="17" version="1065353216">There. No more Gormak off Voss. Happy?</text>
+		<text bitflag="1345" id1="508245" id2="17" version="1065353216">There. Heh. See. Just a misunderstanding. But I think we've cleaned that up nicely.</text>
+		<text bitflag="1345" id1="508247" id2="17" version="1065353216">I can personally assure it will not happen again.</text>
+		<text bitflag="1345" id1="508249" id2="17" version="1065353216">We accept this death as a sign of friendship. Do not test us.</text>
+		<text bitflag="1345" id1="508251" id2="17" version="1065353216">Whew. That was close. Thank you, my lord, for clearing that up.</text>
+		<text bitflag="1345" id1="508255" id2="17" version="1065353216">This Gormak wants peace for his people and yours.</text>
+		<text bitflag="1360" id1="508255" id2="17" version="1065353216">This is the right thing to do.</text>
+		<text bitflag="1345" id1="508257" id2="17" version="1065353216">Give the Gormak a chance to explore the galaxy and make allies.</text>
+		<text bitflag="1345" id1="508259" id2="17" version="1065353216">In time, they will leave you alone, and you will both be free to flourish.</text>
+		<text bitflag="5441" id1="508260" id2="17" version="1065353216">The visions are never wrong. They say the Gormak will disappear from Voss.</text>
+		<text bitflag="1345" id1="508262" id2="17" version="1065353216">Our allies must respect our laws.</text>
+		<text bitflag="1345" id1="508263" id2="17" version="1065353216">I assure you, it will not happen again.</text>
+		<text bitflag="1360" id1="508263" id2="17" version="1065353216">It was a one-time thing.</text>
+		<text bitflag="1345" id1="508264" id2="17" version="1065353216">We take you at your word.</text>
+		<text bitflag="1345" id1="508266" id2="17" version="1065353216">Whew. You're a smooth-talker, my lord. I don't know how you pulled that off.</text>
+		<text bitflag="1345" id1="508268" id2="17" version="1065353216">Might be best if you left now, though. The sooner the Voss forget about this little incident, the better.</text>
+		<text bitflag="1345" id1="508272" id2="17" version="1065353216">Forget this whole thing ever happened.</text>
+		<text bitflag="1360" id1="508272" id2="17" version="1065353216">[Force Persuade] Forget it.</text>
+		<text bitflag="1345" id1="508273" id2="17" version="1065353216">We will forget this. There are no grudges between friends.</text>
+		<text bitflag="1345" id1="508275" id2="17" version="1065353216">Exactly. That's what I always say.</text>
+		<text bitflag="1345" id1="508278" id2="17" version="1065353216">You can relax; I doubt I'll be returning to Voss any time soon.</text>
+		<text bitflag="1360" id1="508278" id2="17" version="1065353216">You needn't worry. I'm gone.</text>
+		<text bitflag="1345" id1="508279" id2="17" version="1065353216">What?</text>
+		<text bitflag="1345" id1="508281" id2="17" version="1065353216">What he means to say is, we all have the utmost respect for your laws.</text>
+		<text bitflag="1345" id1="508283" id2="17" version="1065353216">What she means to say is, we all have the utmost respect for your laws.</text>
+		<text bitflag="1345" id1="508285" id2="17" version="1065353216">Now it so happens that my brother is working at the factory where they've developed a new kind of droid....</text>
+		<text bitflag="3393" id1="508287" id2="17" version="1065353216">My master, let's leave this strange place behind us.</text>
+		<text bitflag="1345" id1="508288" id2="17" version="1065353216">Had enough of it, Khem? I don't blame you.</text>
+		<text bitflag="1360" id1="508288" id2="17" version="1065353216">Agreed.</text>
+		<text bitflag="1345" id1="508289" id2="17" version="1065353216">How about we get out of here while we still can, huh?</text>
+		<text bitflag="1345" id1="508290" id2="17" version="1065353216">That's the smartest thing you've ever said, Andronikos.</text>
+		<text bitflag="1360" id1="508290" id2="17" version="1065353216">Agreed.</text>
+		<text bitflag="1345" id1="508291" id2="17" version="1065353216">This would seem like an excellent time to pack up our tools and move site, don't you think?</text>
+		<text bitflag="1345" id1="508292" id2="17" version="1065353216">An excellent idea, Talos.</text>
+		<text bitflag="1360" id1="508292" id2="17" version="1065353216">Agreed.</text>
+		<text bitflag="1345" id1="508293" id2="17" version="1065353216">My lord, are we finished here?</text>
+		<text bitflag="1345" id1="508294" id2="17" version="1065353216">Yes, I think we are.</text>
+		<text bitflag="1360" id1="508294" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="508295" id2="17" version="1065353216">I got what I wanted. Let the Voss figure it out.</text>
+		<text bitflag="1360" id1="508295" id2="17" version="1065353216">I'm done with these people.</text>
+		<text bitflag="1345" id1="508296" id2="17" version="1065353216">The sooner we get off this world the better, I think.</text>
+		<text bitflag="1360" id1="508296" id2="17" version="1065353216">I can't wait to leave.</text>
+		<text bitflag="1345" id1="508299" id2="17" version="1065353216">Don't worry about these guys, my lord. I'll take care of them. Though, you might want to duck out until this whole thing dies down.</text>
+		<text bitflag="1345" id1="508301" id2="17" version="1065353216">I don't see any Gormak here. You came here to help me.</text>
+		<text bitflag="1360" id1="508301" id2="17" version="1065353216">[Force Persuade] What Gormak?</text>
+		<text bitflag="1345" id1="508302" id2="17" version="1065353216">I don't see any Gormak here. Strange. Ah. I came here to help.</text>
+		<text bitflag="1345" id1="508304" id2="17" version="1065353216">Accept this gift as a sign of friendship. Safe journey.</text>
+		<text bitflag="1345" id1="508306" id2="17" version="1065353216">Unbelievable. How did you do that?</text>
+		<text bitflag="1345" id1="508307" id2="17" version="1065353216">I am a Lord of the Sith. There is no limit to my power.</text>
+		<text bitflag="1360" id1="508307" id2="17" version="1065353216">Don't underestimate my power.</text>
+		<text bitflag="1345" id1="508308" id2="17" version="1065353216">Of course. How stupid of me.</text>
+		<text bitflag="1360" id1="508310" id2="17" version="1065353216">I have my charms.</text>
+		<text bitflag="1345" id1="508311" id2="17" version="1065353216">I didn't doubt that, of course, but that was very impressive.</text>
+		<text bitflag="1345" id1="508313" id2="17" version="1065353216">It was nothing special.</text>
+		<text bitflag="1360" id1="508313" id2="17" version="1065353216">[Force Persuade] Forget it.</text>
+		<text bitflag="1345" id1="508314" id2="17" version="1065353216">It was nothing special. Right. What was I thinking?</text>
+		<text bitflag="1345" id1="508316" id2="17" version="1065353216">Once again, it's been a pleasure. Good luck out there.</text>
+		<text bitflag="1345" id1="508321" id2="17" version="1065353216">The revered Mystic visionary Alor-Wan has seen your path.</text>
+		<text bitflag="1345" id1="508323" id2="17" version="1065353216">A vision says you will bring destruction to the Voss way of life. Turn back.</text>
+		<text bitflag="1345" id1="508324" id2="17" version="1065353216">You'll hardly notice I'm here, I assure you.</text>
+		<text bitflag="1360" id1="508324" id2="17" version="1065353216">Don't worry about me.</text>
+		<text bitflag="1360" id1="508325" id2="17" version="1065353216">I refuse.</text>
+		<text bitflag="1345" id1="508326" id2="17" version="1065353216">How do you know this vision is correct?</text>
+		<text bitflag="1360" id1="508326" id2="17" version="1065353216">You seem awfully convinced.</text>
+		<text bitflag="1345" id1="508327" id2="17" version="1065353216">The visionaries always see the truth.</text>
+		<text bitflag="1345" id1="508329" id2="17" version="1065353216">Outsiders are often confused. We ask once more: leave Voss be.</text>
+		<text bitflag="1345" id1="508330" id2="17" version="1065353216">Not that it'll make a difference, but what if I refuse?</text>
+		<text bitflag="1360" id1="508330" id2="17" version="1065353216">And if I don't leave?</text>
+		<text bitflag="1345" id1="508331" id2="17" version="1065353216">I am a Lord of the Sith. You will have to do more than scold me.</text>
+		<text bitflag="1360" id1="508331" id2="17" version="1065353216">Stop me.</text>
+		<text bitflag="1345" id1="508332" id2="17" version="1065353216">I, too, have seen the truth: I must complete my mission on Voss.</text>
+		<text bitflag="1360" id1="508332" id2="17" version="1065353216">I'm following my own vision.</text>
+		<text bitflag="1345" id1="508333" id2="17" version="1065353216">Outsiders do not receive visions.</text>
+		<text bitflag="1345" id1="508335" id2="17" version="1065353216">The revered Mystic visionary Alor-Wan has seen that we must not use force to dissuade you.</text>
+		<text bitflag="1345" id1="508337" id2="17" version="1065353216">You will not destroy Voss. There are other means of persuasion.</text>
+	</file_content>
+</stb_file>

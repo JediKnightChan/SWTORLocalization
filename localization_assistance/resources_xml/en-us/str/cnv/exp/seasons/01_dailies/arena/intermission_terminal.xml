@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>52</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/01_dailies/arena/intermission_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1196772" id2="17" version="1065353216">You are currently in the intermission between rounds. Would you like to continue or exit the competition?</text>
+		<text bitflag="1345" id1="1196773" id2="17" version="1065353216">[Continue] I'm ready to fight!</text>
+		<text bitflag="1360" id1="1196773" id2="17" version="1065353216">[Continue] Bring on the next round!</text>
+		<text bitflag="1345" id1="1196774" id2="17" version="1065353216">[Exit Competition] I've had enough fighting for today.</text>
+		<text bitflag="1360" id1="1196774" id2="17" version="1065353216">[Exit Competition] I've had enough fighting for today.</text>
+		<text bitflag="1345" id1="1196775" id2="17" version="1065353216">[Leave Conversation] I'm not sure, let me think about this first.</text>
+		<text bitflag="1360" id1="1196775" id2="17" version="1065353216">[Leave Conversation] I'm not sure, let me think about this first.</text>
+		<text bitflag="1345" id1="1196776" id2="17" version="1065353216">Prepare yourself to face the next arena combatant! Are you ready to proceed?</text>
+		<text bitflag="1345" id1="1196777" id2="17" version="1065353216">[Begin Round] Yes!</text>
+		<text bitflag="1360" id1="1196777" id2="17" version="1065353216">[Begin Next Round] Yes!</text>
+		<text bitflag="1345" id1="1196778" id2="17" version="1065353216">[Leave Conversation] I need a moment to prepare.</text>
+		<text bitflag="1360" id1="1196778" id2="17" version="1065353216">[Leave Conversation] I need a moment to prepare.</text>
+		<text bitflag="1345" id1="1196779" id2="17" version="1065353216">If you exit the competition now, you will only be rewarded for the rounds you have currently survived. Are you sure you wish to exit?</text>
+		<text bitflag="1345" id1="1196780" id2="17" version="1065353216">[Exit Competition] Yes.</text>
+		<text bitflag="1360" id1="1196780" id2="17" version="1065353216">[Exit Competition] Yes.</text>
+		<text bitflag="1345" id1="1196781" id2="17" version="1065353216">Wait, I'm not sure.</text>
+		<text bitflag="1360" id1="1196781" id2="17" version="1065353216">Wait, I'm not sure.</text>
+		<text bitflag="1345" id1="1196782" id2="17" version="1065353216">Would you like to continue or exit the competition?</text>
+		<text bitflag="1345" id1="1196783" id2="17" version="1065353216">Please return to the arena terminal in the cantina to claim your reward.</text>
+		<text bitflag="1345" id1="1196911" id2="17" version="1065353216">This terminal cannot be accessed outside of arena intermission.</text>
+		<text bitflag="1345" id1="1200914" id2="17" version="1065353216">[Scouting Report] Tell me about the next opponent.</text>
+		<text bitflag="1360" id1="1200914" id2="17" version="1065353216">[Scouting Report] Tell me about the next round.</text>
+		<text bitflag="1345" id1="1200915" id2="17" version="1065353216">Eternal Champion Zotar's current arena strategy is something of a mystery.</text>
+		<text bitflag="1345" id1="1200916" id2="17" version="1065353216">Arlaia Zayzen's Doom Droid is said to have an ability that can wipe out arena opponents instantly!</text>
+		<text bitflag="1345" id1="1200917" id2="17" version="1065353216">Ronum Minkus' Rancor Little Gut is a notorious terror in the arena.</text>
+		<text bitflag="1345" id1="1200918" id2="17" version="1065353216">No one has ever been able to take on both Nocturno and Drake Raven at once.</text>
+		<text bitflag="1345" id1="1200919" id2="17" version="1065353216">When the Breaktown Brawler and his pets decide to gang up on combatants, few if any survive. Splitting them up would be wise.</text>
+		<text bitflag="1345" id1="1200920" id2="17" version="1065353216">Vindicator Lanos is only as dangerous as the Reprogrammed Skytroopers he will call to fight alongside him throughout the round.</text>
+		<text bitflag="1345" id1="1200921" id2="17" version="1065353216">Conraad Om'wurt and his K'lor'slug Chompers are a tough package to take on. Both have been seen to become violently enraged when the other is defeated.</text>
+		<text bitflag="1345" id1="1200922" id2="17" version="1065353216">Gungus Boga has been known to get the arena fired up ... literally.</text>
+		<text bitflag="1345" id1="1200923" id2="17" version="1065353216">Daruula Grah is especially known for his toxic grenades and trained Iknayids. The Iknayids aren't so well trained that they won't get caught in the effect of Darrula's grenades however.</text>
+		<text bitflag="1345" id1="1201446" id2="17" version="1065353216">Prior combatants have found success by getting Daruula to target his pets, weakening them and leaving him open to attack.</text>
+		<text bitflag="1345" id1="1201448" id2="17" version="1065353216">When Gungus begins channeling his fire in the center of the area ... run! Also be sure to avoid the smaller fires afterward.</text>
+		<text bitflag="1345" id1="1201450" id2="17" version="1065353216">Common wisdom says to juggle attacks on both Conraad and Chompers until the K'lor'slug goes into his regeneration state, then concentrate on Conraad alone.</text>
+		<text bitflag="1345" id1="1201452" id2="17" version="1065353216">If Chompers calls in help however, deal with them quickly.</text>
+		<text bitflag="1345" id1="1201456" id2="17" version="1065353216">The only people to have success against Lanos so far have been those who learned when and how to interrupt the special attacks of his Reprogrammed Skytroopers.</text>
+		<text bitflag="1345" id1="1201457" id2="17" version="1065353216">These Skytroopers have been specifically augmented to perform devastating attacks as well as erect impenetrable defenses.</text>
+		<text bitflag="1345" id1="1202431" id2="17" version="1065353216">Only those who properly coordinate with their companion, knowing when to stand and when to move, have ever stood a chance.</text>
+		<text bitflag="1345" id1="1202451" id2="17" version="1065353216">There are whispers however that he has been asking around in order to determine if the arena entry is big enough to allow a Zakuul Walker.</text>
+		<text bitflag="1345" id1="1203047" id2="17" version="1065353216">Tackle one while finding a way to keep the other off your back and watch out for your companion. These two have been known to pull some dirty tricks in the past.</text>
+		<text bitflag="1345" id1="1203049" id2="17" version="1065353216">When this pulse begins charging one would be smart to destroy whatever is powering it before it's complete.</text>
+		<text bitflag="1345" id1="1203216" id2="17" version="1065353216">Be sure to watch out for Gungus' Herald of Zildrog followers too as they have been known to overwhelm opponents in the past.</text>
+		<text bitflag="1345" id1="1203923" id2="17" version="1065353216">You have been defeated, but defeat in the Arena Grand doesn't mean you're out of the fight.</text>
+		<text bitflag="1345" id1="1203925" id2="17" version="1065353216">Use this terminal to check the [Scouting Report] for hints on defeating your opponent and then choose to [Continue] in order to attempt the current round again.</text>
+		<text bitflag="1345" id1="1203926" id2="17" version="1065353216">[Scouting Report] Tell me about my opponent.</text>
+		<text bitflag="1345" id1="1203927" id2="17" version="1065353216">You'll need to take out Arlaia Zayzen's droids first, otherwise you'll never be able to defeat her.</text>
+		<text bitflag="1345" id1="1203929" id2="17" version="1065353216">Defeat the Combat Unit first, then the Medical Unit, then Arlaia herself.</text>
+		<text bitflag="1345" id1="1203931" id2="17" version="1065353216">Are you ready for more?</text>
+		<text bitflag="1345" id1="1203932" id2="17" version="1065353216">[Continue] I'm ready to try again!</text>
+		<text bitflag="1360" id1="1203932" id2="17" version="1065353216">[Continue] Bring on the next round!</text>
+		<text bitflag="1345" id1="1203933" id2="17" version="1065353216">Prepare yourself to face your opponent! Are you ready to proceed?</text>
+		<text bitflag="1345" id1="1207299" id2="17" version="1065353216">Mayhem at the Arena Grand will begin momentarily.</text>
+	</file_content>
+</stb_file>

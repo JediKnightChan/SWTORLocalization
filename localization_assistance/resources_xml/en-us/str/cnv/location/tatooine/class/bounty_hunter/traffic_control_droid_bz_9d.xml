@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>30</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/class/bounty_hunter/traffic_control_droid_bz_9d.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="615013" id2="17" version="1065353216">I hope you found my information useful.</text>
+		<text bitflag="1345" id1="615014" id2="17" version="1065353216">Freighter Mynock Fodder 62009, please stand by for landing clearance.</text>
+		<text bitflag="1345" id1="615015" id2="17" version="1065353216">I'm looking for a Devaronian named Tyresius Lokai. Got any record of him?</text>
+		<text bitflag="1345" id1="615016" id2="17" version="1065353216">Scanning databanks. One moment please....</text>
+		<text bitflag="1345" id1="615018" id2="17" version="1065353216">Records indicate only one Devaronian present at the spaceport--a merchant named Gellar Roing.</text>
+		<text bitflag="1345" id1="615020" id2="17" version="1065353216">Bet you anything Gellar Roing is an alias for Tyresius Lokai.</text>
+		<text bitflag="1360" id1="615021" id2="17" version="1065353216">Sounds right.</text>
+		<text bitflag="1345" id1="615022" id2="17" version="1065353216">Where can we find this &quot;Gellar Roing,&quot; droid?</text>
+		<text bitflag="1360" id1="615024" id2="17" version="1065353216">I don't need your help.</text>
+		<text bitflag="1345" id1="615025" id2="17" version="1065353216">It's not an opinion, it's a hunch--and you know I'm right.</text>
+		<text bitflag="1345" id1="615027" id2="17" version="1065353216">Perhaps Gellar Roing knows Tyresius Lokai?</text>
+		<text bitflag="1345" id1="615028" id2="17" version="1065353216">Where can I find this Devaronian merchant?</text>
+		<text bitflag="1360" id1="615028" id2="17" version="1065353216">Let's find out.</text>
+		<text bitflag="1345" id1="615029" id2="17" version="1065353216">The chances of two Devaronians on Tatooine are slim.</text>
+		<text bitflag="1360" id1="615029" id2="17" version="1065353216">I wouldn't bet against it.</text>
+		<text bitflag="1345" id1="615030" id2="17" version="1065353216">Given the rarity of the species, I calculate the odds as approximately one in twelve billion.</text>
+		<text bitflag="1360" id1="615032" id2="17" version="1065353216">You're an idiot.</text>
+		<text bitflag="1345" id1="615033" id2="17" version="1065353216">My apologies. Providing clues is not one of my functions.</text>
+		<text bitflag="1345" id1="615035" id2="17" version="1065353216">Gellar Roing's vessel is awaiting departure clearance in docking bay sixty-four. Do you wish for me to contact him?</text>
+		<text bitflag="1345" id1="615036" id2="17" version="1065353216">I want my visit to be a surprise.</text>
+		<text bitflag="1360" id1="615036" id2="17" version="1065353216">No, I'll handle it.</text>
+		<text bitflag="1345" id1="615037" id2="17" version="1065353216">Very well, but he is scheduled for takeoff soon.</text>
+		<text bitflag="1345" id1="615039" id2="17" version="1065353216">Where'd this guy get his starship?</text>
+		<text bitflag="1360" id1="615039" id2="17" version="1065353216">Tell me about the ship.</text>
+		<text bitflag="1345" id1="615040" id2="17" version="1065353216">The vessel was purchased today from a Rodian bounty hunter. Unfortunately, the transaction record is incomplete.</text>
+		<text bitflag="1345" id1="615042" id2="17" version="1065353216">That ship isn't going anywhere, got it?</text>
+		<text bitflag="1360" id1="615042" id2="17" version="1065353216">Don't let him leave.</text>
+		<text bitflag="1345" id1="615043" id2="17" version="1065353216">I cannot revoke Gellar Roing's flight clearance, but I do list six vessels in line ahead of him.</text>
+		<text bitflag="1345" id1="615045" id2="17" version="1065353216">If you hurry, you might catch him.</text>
+		<text bitflag="1345" id1="615047" id2="17" version="1065353216">Please excuse me, but monitoring space traffic requires all of my attention.</text>
+	</file_content>
+</stb_file>

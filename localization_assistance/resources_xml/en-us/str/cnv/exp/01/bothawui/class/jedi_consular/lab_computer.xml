@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/bothawui/class/jedi_consular/lab_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1089" id1="1056537" id2="17" version="1065353216">Alert. Unauthorized release of specimens. Deployment of emergency containment measures is recommended.</text>
+		<text bitflag="1089" id1="1056539" id2="17" version="1065353216">Alert. Detecting loose specimens in labs eight and twelve. Please activate emergency containment measures.</text>
+		<text bitflag="1089" id1="1056540" id2="17" version="1065353216">Alert. Specimens loose from containment levels two, four and five. Activate emergency containment measures.</text>
+		<text bitflag="1089" id1="1100971" id2="17" version="1065353216">Containment measures activated. Placing specimens in dormant state.</text>
+		<text bitflag="1089" id1="1100973" id2="17" version="1065353216">Staff prepped for extraction. Lab doors secured. Containment is complete.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>237</strs>
+		<file_name>/resources/en-us/str/gui/item_source.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="356" id2="803237" version="1065353216">Cartel Market: Utility Bundle</text>
+		<text bitflag="321" id1="357" id2="803237" version="1065353216">Vendor: Collectors Edition</text>
+		<text bitflag="321" id1="358" id2="803237" version="1065353216">Vendor: Manaan</text>
+		<text bitflag="321" id1="359" id2="803237" version="1065353216">Companion</text>
+		<text bitflag="321" id1="360" id2="803237" version="1065353216">PvP Season 2 Reward</text>
+		<text bitflag="321" id1="361" id2="803237" version="1065353216">Vendor: Cartel Certificate Decorations and Personnel</text>
+		<text bitflag="321" id1="362" id2="803237" version="1065353216">Datacron: Darkside</text>
+		<text bitflag="321" id1="363" id2="803237" version="1065353216">Datacron: Lightside</text>
+		<text bitflag="321" id1="364" id2="803237" version="1065353216">Achievements</text>
+		<text bitflag="321" id1="365" id2="803237" version="1065353216">Cartel Market: Certificates</text>
+		<text bitflag="321" id1="366" id2="803237" version="1065353216">Cartel Market: Gatekeeper's Pack</text>
+		<text bitflag="321" id1="367" id2="803237" version="1065353216">Cartel Market: Constable's Pack</text>
+		<text bitflag="321" id1="368" id2="803237" version="1065353216">Cartel Market: Seneschal's Pack</text>
+		<text bitflag="321" id1="369" id2="803237" version="1065353216">Cartel Market: Architect's Pack</text>
+		<text bitflag="321" id1="370" id2="803237" version="1065353216">Planetary Conquest Events</text>
+		<text bitflag="321" id1="371" id2="803237" version="1065353216">Vendor: Decoration Merchant (Credits)</text>
+		<text bitflag="321" id1="372" id2="803237" version="1065353216">Vendor: Crafted (Universal Prefabs)</text>
+		<text bitflag="321" id1="373" id2="803237" version="1065353216">Vendor: Crafted (Synthetic Prefabs)</text>
+		<text bitflag="321" id1="374" id2="803237" version="1065353216">Vendor: Crafted (Industrial Prefabs)</text>
+		<text bitflag="321" id1="375" id2="803237" version="1065353216">Vendor: Utility (Universal Prefabs)</text>
+		<text bitflag="321" id1="376" id2="803237" version="1065353216">Cartel Market: Cantina Bundle</text>
+		<text bitflag="321" id1="377" id2="803237" version="1065353216">Cartel Market: Luxury Bundle</text>
+		<text bitflag="321" id1="378" id2="803237" version="1065353216">Cartel Market: Spacer's Bundle</text>
+		<text bitflag="321" id1="379" id2="803237" version="1065353216">Flashpoint: Athiss</text>
+		<text bitflag="321" id1="380" id2="803237" version="1065353216">Flashpoint: Battle of Ilum</text>
+		<text bitflag="321" id1="381" id2="803237" version="1065353216">Flashpoint: Black Talon</text>
+		<text bitflag="321" id1="382" id2="803237" version="1065353216">Flashpoint: Boarding Party</text>
+		<text bitflag="321" id1="383" id2="803237" version="1065353216">Flashpoint: Cademimu</text>
+		<text bitflag="321" id1="384" id2="803237" version="1065353216">Flashpoint: Colicoid Wargame</text>
+		<text bitflag="321" id1="385" id2="803237" version="1065353216">Flashpoint: Czerka Core</text>
+		<text bitflag="321" id1="386" id2="803237" version="1065353216">Flashpoint: Czerka Labs</text>
+		<text bitflag="321" id1="387" id2="803237" version="1065353216">Flashpoint: Directive 7</text>
+		<text bitflag="321" id1="388" id2="803237" version="1065353216">Flashpoint: Esseles</text>
+		<text bitflag="321" id1="389" id2="803237" version="1065353216">Flashpoint: False Emperor</text>
+		<text bitflag="321" id1="390" id2="803237" version="1065353216">Flashpoint: Hammer Station</text>
+		<text bitflag="321" id1="391" id2="803237" version="1065353216">Flashpoint: Kaon Under Siege</text>
+		<text bitflag="321" id1="392" id2="803237" version="1065353216">Flashpoint: Korriban Incursion</text>
+		<text bitflag="321" id1="393" id2="803237" version="1065353216">Flashpoint: Kuat Drive Yards</text>
+		<text bitflag="321" id1="394" id2="803237" version="1065353216">Flashpoint: Lost Island</text>
+		<text bitflag="321" id1="395" id2="803237" version="1065353216">Flashpoint: Maelstrom Prison</text>
+		<text bitflag="321" id1="396" id2="803237" version="1065353216">Flashpoint: Manaan</text>
+		<text bitflag="321" id1="397" id2="803237" version="1065353216">Flashpoint: Mandolorian Raiders</text>
+		<text bitflag="321" id1="398" id2="803237" version="1065353216">Flashpoint: The Red Reaper</text>
+		<text bitflag="321" id1="399" id2="803237" version="1065353216">Flashpoint: Taral V</text>
+		<text bitflag="321" id1="400" id2="803237" version="1065353216">Flashpoint: The Foundry</text>
+		<text bitflag="321" id1="401" id2="803237" version="1065353216">Flashpoint: Assault on Tython</text>
+		<text bitflag="321" id1="402" id2="803237" version="1065353216">Operation: Toborro's Courtyard</text>
+		<text bitflag="321" id1="403" id2="803237" version="1065353216">Operation: Dread Fortress</text>
+		<text bitflag="321" id1="404" id2="803237" version="1065353216">Operation: Dread Palace</text>
+		<text bitflag="321" id1="405" id2="803237" version="1065353216">Operation: Eternity Vault</text>
+		<text bitflag="321" id1="406" id2="803237" version="1065353216">Operation: Explosive Conflict</text>
+		<text bitflag="321" id1="407" id2="803237" version="1065353216">Operation: Karagga's Palace</text>
+		<text bitflag="321" id1="408" id2="803237" version="1065353216">Operation: Scum and Villainy</text>
+		<text bitflag="321" id1="409" id2="803237" version="1065353216">Operation: Terror From Beyond</text>
+		<text bitflag="321" id1="410" id2="803237" version="1065353216">Rare Drop: Outlaw's Den</text>
+		<text bitflag="321" id1="411" id2="803237" version="1065353216">Rare Drop: Tonvarr Pirates</text>
+		<text bitflag="321" id1="412" id2="803237" version="1065353216">Planet: Alderaan</text>
+		<text bitflag="321" id1="413" id2="803237" version="1065353216">Planet: Balmorra</text>
+		<text bitflag="321" id1="414" id2="803237" version="1065353216">Planet: Belsavis</text>
+		<text bitflag="321" id1="415" id2="803237" version="1065353216">Planet: Makeb</text>
+		<text bitflag="321" id1="416" id2="803237" version="1065353216">Planet: Corellia</text>
+		<text bitflag="321" id1="417" id2="803237" version="1065353216">Planet: Hoth</text>
+		<text bitflag="321" id1="418" id2="803237" version="1065353216">Planet: Ilum</text>
+		<text bitflag="321" id1="419" id2="803237" version="1065353216">Planet: Nar Shaddaa</text>
+		<text bitflag="321" id1="420" id2="803237" version="1065353216">Planet: Quesh</text>
+		<text bitflag="321" id1="421" id2="803237" version="1065353216">Planet: Taris</text>
+		<text bitflag="321" id1="422" id2="803237" version="1065353216">Planet: Tatooine</text>
+		<text bitflag="321" id1="423" id2="803237" version="1065353216">Planet: Voss</text>
+		<text bitflag="321" id1="424" id2="803237" version="1065353216">Seeker Droid</text>
+		<text bitflag="321" id1="425" id2="803237" version="1065353216">Mission: Introduction Reward</text>
+		<text bitflag="321" id1="426" id2="803237" version="1065353216">Vendor: Darkside</text>
+		<text bitflag="321" id1="427" id2="803237" version="1065353216">Vendor: Lightside</text>
+		<text bitflag="321" id1="428" id2="803237" version="1065353216">Vendor: Dark Projects</text>
+		<text bitflag="321" id1="429" id2="803237" version="1065353216">Vendor: Flashpoints</text>
+		<text bitflag="321" id1="430" id2="803237" version="1065353216">Vendor: Fleet Commendations</text>
+		<text bitflag="321" id1="431" id2="803237" version="1065353216">Vendor: Flashpoints (Recovered Relics)</text>
+		<text bitflag="321" id1="432" id2="803237" version="1065353216">Vendor: Starfighter &amp; PvP Decorations (Warzone Commendations)</text>
+		<text bitflag="321" id1="433" id2="803237" version="1065353216">Reputation: Bounty Brokers Association</text>
+		<text bitflag="321" id1="434" id2="803237" version="1065353216">Reputation: CZ-198</text>
+		<text bitflag="321" id1="435" id2="803237" version="1065353216">Reputation: The Gree Enclave</text>
+		<text bitflag="321" id1="436" id2="803237" version="1065353216">Reputation: Galactic Solution Industries</text>
+		<text bitflag="321" id1="437" id2="803237" version="1065353216">Reputation: Kuat Drive Yards</text>
+		<text bitflag="321" id1="438" id2="803237" version="1065353216">Reputation: Makeb Imperial Forces</text>
+		<text bitflag="321" id1="439" id2="803237" version="1065353216">Reputation: Citizens of Makeb</text>
+		<text bitflag="321" id1="440" id2="803237" version="1065353216">Reputation: The Dread Executioners</text>
+		<text bitflag="321" id1="441" id2="803237" version="1065353216">Reputation: Strike Team Oricon</text>
+		<text bitflag="321" id1="442" id2="803237" version="1065353216">Reputation: Section X</text>
+		<text bitflag="321" id1="443" id2="803237" version="1065353216">Reputation: T.H.O.R.N.</text>
+		<text bitflag="321" id1="444" id2="803237" version="1065353216">Reputation: The Voss</text>
+		<text bitflag="321" id1="445" id2="803237" version="1065353216">Reputation: Binary Star Realty</text>
+		<text bitflag="321" id1="446" id2="803237" version="1065353216">Cartel Market</text>
+		<text bitflag="321" id1="447" id2="803237" version="1065353216">Shadow of Revan</text>
+		<text bitflag="321" id1="448" id2="803237" version="1065353216">Imperial Essentials Bundle</text>
+		<text bitflag="321" id1="449" id2="803237" version="1065353216">Republic Essentials Bundle</text>
+		<text bitflag="321" id1="450" id2="803237" version="1065353216">Underworld Essentials Bundle</text>
+		<text bitflag="321" id1="451" id2="803237" version="1065353216">Cartel Market: The Arneclin Masterpieces</text>
+		<text bitflag="321" id1="452" id2="803237" version="1065353216">Cartel Market: Pilgrim's Pack</text>
+		<text bitflag="321" id1="453" id2="803237" version="1065353216">Cartel Market: Acolyte's Pack</text>
+		<text bitflag="321" id1="454" id2="803237" version="1065353216">Cartel Market: Apprentice's Pack</text>
+		<text bitflag="321" id1="455" id2="803237" version="1065353216">Cartel Market: Master's Pack</text>
+		<text bitflag="321" id1="456" id2="803237" version="1065353216">Event: Life Day 2014</text>
+		<text bitflag="321" id1="457" id2="803237" version="1065353216">Reputation: Freebooter's Trade Union</text>
+		<text bitflag="321" id1="458" id2="803237" version="1065353216">Reputation: Coalition Forces on Yavin 4</text>
+		<text bitflag="321" id1="459" id2="803237" version="1065353216">Reputation: People of Rishi</text>
+		<text bitflag="321" id1="460" id2="803237" version="1065353216">Operation: The Ravagers</text>
+		<text bitflag="321" id1="461" id2="803237" version="1065353216">Operation: Temple of Sacrifice</text>
+		<text bitflag="321" id1="462" id2="803237" version="1065353216">Flashpoint: Battle of Rishi</text>
+		<text bitflag="321" id1="463" id2="803237" version="1065353216">Flashpoint: Blood Hunt</text>
+		<text bitflag="321" id1="464" id2="803237" version="1065353216">Vendor: 3rd Anniversary</text>
+		<text bitflag="321" id1="465" id2="803237" version="1065353216">Flashpoint: Legacy of the Rakata</text>
+		<text bitflag="321" id1="466" id2="803237" version="1065353216">Cartel Market: Life Day 2014 Bundle</text>
+		<text bitflag="321" id1="467" id2="803237" version="1065353216">PvP Season 3 Reward</text>
+		<text bitflag="321" id1="468" id2="803237" version="1065353216">Miscellaneous</text>
+		<text bitflag="321" id1="469" id2="803237" version="1065353216">Operation: Ziost</text>
+		<text bitflag="321" id1="470" id2="803237" version="1065353216">Vendor: Ziost</text>
+		<text bitflag="321" id1="471" id2="803237" version="1065353216">Community Cantina</text>
+		<text bitflag="321" id1="472" id2="803237" version="1065353216">Planet: Ziost</text>
+		<text bitflag="321" id1="473" id2="803237" version="1065353216">PvP Season 4 Reward</text>
+		<text bitflag="321" id1="474" id2="803237" version="1065353216">Cartel Market: Deep Core Pack</text>
+		<text bitflag="321" id1="475" id2="803237" version="1065353216">Cartel Market: Mid Rim Pack</text>
+		<text bitflag="321" id1="476" id2="803237" version="1065353216">Cartel Market: Outer Rim Pack</text>
+		<text bitflag="321" id1="477" id2="803237" version="1065353216">Cartel Market: Wild Space Pack</text>
+		<text bitflag="321" id1="478" id2="803237" version="1065353216">Reputation: Esstran Exports</text>
+		<text bitflag="321" id1="479" id2="803237" version="1065353216">Vendor: PvP Items</text>
+		<text bitflag="321" id1="480" id2="803237" version="1065353216">Vendor: Starfighter &amp; PvP Decorations (Dark Projects)</text>
+		<text bitflag="321" id1="481" id2="803237" version="1065353216">Vendor: Security Key</text>
+		<text bitflag="321" id1="482" id2="803237" version="1065353216">Cartel Market: Galactic Ace's Pack</text>
+		<text bitflag="321" id1="483" id2="803237" version="1065353216">Cartel Market: Supreme Mogul's Pack</text>
+		<text bitflag="321" id1="484" id2="803237" version="1065353216">Cartel Market: Archon's Pack</text>
+		<text bitflag="321" id1="485" id2="803237" version="1065353216">Cartel Market: Pursuer's Pack</text>
+		<text bitflag="321" id1="486" id2="803237" version="1065353216">Cartel Market: Skip Tracer's Pack</text>
+		<text bitflag="321" id1="487" id2="803237" version="1065353216">Cartel Market: Tracker's Pack</text>
+		<text bitflag="321" id1="488" id2="803237" version="1065353216">Vendor: Vehicles</text>
+		<text bitflag="321" id1="489" id2="803237" version="1065353216">Reputation: Contraband Resale Corporation</text>
+		<text bitflag="321" id1="490" id2="803237" version="1065353216">Cartel Market: Enforcer's Pack</text>
+		<text bitflag="321" id1="491" id2="803237" version="1065353216">Cartel Market: Space Jockey Pack</text>
+		<text bitflag="321" id1="492" id2="803237" version="1065353216">Cartel Market: Vice Commandant's Pack</text>
+		<text bitflag="321" id1="493" id2="803237" version="1065353216">Cartel Market: Star Cluster's Pack</text>
+		<text bitflag="321" id1="494" id2="803237" version="1065353216">Event: Life Day</text>
+		<text bitflag="321" id1="495" id2="803237" version="1065353216">Cartel Market: Hotshot's Pack</text>
+		<text bitflag="321" id1="496" id2="803237" version="1065353216">Cartel Market: Blockade Runner's Pack</text>
+		<text bitflag="321" id1="497" id2="803237" version="1065353216">Cartel Market: Underworld Alliance Pack</text>
+		<text bitflag="321" id1="498" id2="803237" version="1065353216">Cartel Market: Force Alliance Pack</text>
+		<text bitflag="321" id1="499" id2="803237" version="1065353216">Cartel Market: Strategy Alliance Pack</text>
+		<text bitflag="321" id1="500" id2="803237" version="1065353216">Cartel Market: Research Alliance Pack</text>
+		<text bitflag="321" id1="501" id2="803237" version="1065353216">PvP Season 5 Reward</text>
+		<text bitflag="65" id1="502" id2="803237" version="1065353216">**Decorations Bundle Pack**</text>
+		<text bitflag="321" id1="503" id2="803237" version="1065353216">Vendor: Decoration Merchant (Data Crystals)</text>
+		<text bitflag="321" id1="504" id2="803237" version="1065353216">Alliance Supply Crate</text>
+		<text bitflag="321" id1="505" id2="803237" version="1065353216">Fallen Empire</text>
+		<text bitflag="321" id1="506" id2="803237" version="1065353216">Event: Events Ambassador</text>
+		<text bitflag="321" id1="507" id2="803237" version="1065353216">Star Fortresses</text>
+		<text bitflag="321" id1="508" id2="803237" version="1065353216">Vendor: 4th Anniversary</text>
+		<text bitflag="321" id1="509" id2="803237" version="1065353216">Cartel Market: Anarchist Pack</text>
+		<text bitflag="321" id1="510" id2="803237" version="1065353216">Cartel Market: Disavowed Pack</text>
+		<text bitflag="321" id1="511" id2="803237" version="1065353216">Cartel Market: Visionary Pack</text>
+		<text bitflag="321" id1="512" id2="803237" version="1065353216">Cartel Market: Plunderer Pack</text>
+		<text bitflag="321" id1="513" id2="803237" version="1065353216">Cartel Market: Revenge Pack</text>
+		<text bitflag="321" id1="514" id2="803237" version="1065353216">Cartel Market: GEMINI Pack</text>
+		<text bitflag="321" id1="515" id2="803237" version="1065353216">Cartel Market: Battler Pack</text>
+		<text bitflag="321" id1="516" id2="803237" version="1065353216">Cartel Market: Manipulator Pack</text>
+		<text bitflag="321" id1="517" id2="803237" version="1065353216">PvP Season 6 Reward</text>
+		<text bitflag="321" id1="518" id2="803237" version="1065353216">Zakuul: The Eternal Championship</text>
+		<text bitflag="321" id1="519" id2="803237" version="1065353216">Subscriber Reward</text>
+		<text bitflag="321" id1="521" id2="803237" version="1065353216">Vendor: The Eternal Championship</text>
+		<text bitflag="321" id1="522" id2="803237" version="1065353216">STAR WARS Celebration</text>
+		<text bitflag="321" id1="523" id2="803237" version="1065353216">Cartel Market: Dark vs. Light Pack</text>
+		<text bitflag="321" id1="524" id2="803237" version="1065353216">Dark vs. Light Event</text>
+		<text bitflag="321" id1="525" id2="803237" version="1065353216">Cartel Market: Scavenger Pack</text>
+		<text bitflag="321" id1="526" id2="803237" version="1065353216">PvP Season 7 Reward</text>
+		<text bitflag="321" id1="528" id2="803237" version="1065353216">Uprising: Crimson Fang</text>
+		<text bitflag="321" id1="529" id2="803237" version="1065353216">Eternal Throne</text>
+		<text bitflag="321" id1="530" id2="803237" version="1065353216">Cartel Market: Eternal Command Pack</text>
+		<text bitflag="321" id1="531" id2="803237" version="1065353216">Cartel Market: Oppressor Pack</text>
+		<text bitflag="321" id1="532" id2="803237" version="1065353216">Uprising: Done and Dusted</text>
+		<text bitflag="321" id1="533" id2="803237" version="1065353216">Vendor: 5th Anniversary</text>
+		<text bitflag="321" id1="535" id2="803237" version="1065353216">Uprising: Inferno</text>
+		<text bitflag="321" id1="536" id2="803237" version="1065353216">Cartel Market: Stalwart Leader Pack</text>
+		<text bitflag="321" id1="537" id2="803237" version="1065353216">Dark Vendor</text>
+		<text bitflag="321" id1="538" id2="803237" version="1065353216">Light Vendor</text>
+		<text bitflag="321" id1="539" id2="803237" version="1065353216">Tier 1 Galactic Command Crate</text>
+		<text bitflag="321" id1="540" id2="803237" version="1065353216">Tier 2 Galactic Command Crate</text>
+		<text bitflag="321" id1="541" id2="803237" version="1065353216">Tier 3 Galactic Command Crate</text>
+		<text bitflag="321" id1="542" id2="803237" version="1065353216">Tier 4 Galactic Command Crate</text>
+		<text bitflag="321" id1="543" id2="803237" version="1065353216">Tier 5 Galactic Command Crate</text>
+		<text bitflag="321" id1="544" id2="803237" version="1065353216">Uprising: Fractured</text>
+		<text bitflag="321" id1="545" id2="803237" version="1065353216">Cartel Market: The Distant Worlds Decoration Bundle</text>
+		<text bitflag="321" id1="546" id2="803237" version="1065353216">Uprising: Landing Party</text>
+		<text bitflag="321" id1="547" id2="803237" version="1065353216">Uprising: Destroyer of Worlds</text>
+		<text bitflag="321" id1="548" id2="803237" version="1065353216">Uprising: Divided We Fall</text>
+		<text bitflag="321" id1="549" id2="803237" version="1065353216">Uprising: Trench Runner</text>
+		<text bitflag="321" id1="550" id2="803237" version="1065353216">Uprising: Trial and Error</text>
+		<text bitflag="321" id1="551" id2="803237" version="1065353216">Uprising: Firefrost</text>
+		<text bitflag="321" id1="552" id2="803237" version="1065353216">Cartel Market: Vigilant Defender Pack</text>
+		<text bitflag="321" id1="553" id2="803237" version="1065353216">Reputation: Republic Iokath Forces</text>
+		<text bitflag="321" id1="554" id2="803237" version="1065353216">Reputation: Imperial Iokath Forces</text>
+		<text bitflag="321" id1="555" id2="803237" version="1065353216">Cartel Market: Warbound Crusader Pack</text>
+		<text bitflag="321" id1="556" id2="803237" version="1065353216">Cartel Market: Steadfast Champion Pack</text>
+		<text bitflag="321" id1="557" id2="803237" version="1065353216">EA Play To Give</text>
+		<text bitflag="321" id1="558" id2="803237" version="1065353216">Twitch Prime</text>
+		<text bitflag="321" id1="559" id2="803237" version="1065353216">Cartel Market: Dread Warlord Pack</text>
+		<text bitflag="321" id1="560" id2="803237" version="1065353216">Operation: Gods from the Machine</text>
+		<text bitflag="321" id1="561" id2="803237" version="1065353216">Warzone Vendors &amp; Operation Bosses</text>
+		<text bitflag="321" id1="562" id2="803237" version="1065353216">Warzones &amp; Warzone Missions</text>
+		<text bitflag="321" id1="563" id2="803237" version="1065353216">Galactic Command Crates</text>
+		<text bitflag="321" id1="564" id2="803237" version="1065353216">Cartel Market: Armed Resistance Pack</text>
+		<text bitflag="321" id1="565" id2="803237" version="1065353216">Cartel Market: Deepwater Essentials Bundle</text>
+		<text bitflag="321" id1="566" id2="803237" version="1065353216">Flashpoint: Umbara</text>
+		<text bitflag="321" id1="567" id2="803237" version="1065353216">Cartel Market: Precious Cargo Pack</text>
+		<text bitflag="321" id1="568" id2="803237" version="1065353216">Vendor: Umbara</text>
+		<text bitflag="321" id1="569" id2="803237" version="1065353216">Development Hidden</text>
+		<text bitflag="321" id1="570" id2="803237" version="1065353216">PvP Season 8 Reward</text>
+		<text bitflag="321" id1="571" id2="803237" version="1065353216">PvP Season 9 Reward</text>
+		<text bitflag="321" id1="572" id2="803237" version="1065353216">Cartel Market: Singularity Pack</text>
+		<text bitflag="321" id1="574" id2="803237" version="1065353216">Cartel Market: Spoils of War Pack</text>
+		<text bitflag="321" id1="575" id2="803237" version="1065353216">Flashpoint: A Traitor Among the Chiss</text>
+		<text bitflag="321" id1="576" id2="803237" version="1065353216">Command Crates</text>
+		<text bitflag="321" id1="577" id2="803237" version="1065353216">Ranked PvP Missions</text>
+		<text bitflag="321" id1="578" id2="803237" version="1065353216">Master Mode Operations</text>
+		<text bitflag="321" id1="579" id2="803237" version="1065353216">Vendor: 6th Anniversary</text>
+		<text bitflag="321" id1="580" id2="803237" version="1065353216">Warzones, Master Mode Operations &amp; Galactic Command Disintegrate</text>
+		<text bitflag="321" id1="581" id2="803237" version="1065353216">Cartel Market: Discord Pack</text>
+		<text bitflag="321" id1="582" id2="803237" version="1065353216">Cartel Market: Force-User Personnel Bundle</text>
+		<text bitflag="321" id1="583" id2="803237" version="1065353216">Cartel Market: Ultimate Pack</text>
+		<text bitflag="321" id1="584" id2="803237" version="1065353216">Cartel Market: Cantina Performers Personnel Bundle</text>
+		<text bitflag="321" id1="585" id2="803237" version="1065353216">Cartel Market: Underworld Patrons Personnel Bundle</text>
+		<text bitflag="321" id1="586" id2="803237" version="1065353216">Cartel Market: Mandalorian's War Camp Decoration Bundle</text>
+		<text bitflag="321" id1="587" id2="803237" version="1065353216">Flashpoint: The Nathema Conspiracy</text>
+		<text bitflag="321" id1="588" id2="803237" version="1065353216">Cartel Market: Mandalorian Clan Personnel Bundle</text>
+		<text bitflag="321" id1="589" id2="803237" version="1065353216">Cartel Market: Criminal Underworld Personnel Bundle</text>
+		<text bitflag="321" id1="590" id2="803237" version="1065353216">Cartel Market: Sith Lord's Artifacts Decoration Bundle</text>
+		<text bitflag="321" id1="591" id2="803237" version="1065353216">Vendor: Martial Decoration Droid</text>
+		<text bitflag="321" id1="592" id2="803237" version="1065353216">Cartel Market: Republic Personnel Bundle</text>
+		<text bitflag="321" id1="593" id2="803237" version="1065353216">Cartel Market: Imperial Personnel Bundle</text>
+		<text bitflag="321" id1="594" id2="803237" version="1065353216">Cartel Market: Exotic Creatures Personnel Bundle</text>
+		<text bitflag="321" id1="595" id2="803237" version="1065353216">Reputation: Ossus</text>
+		<text bitflag="321" id1="596" id2="803237" version="1065353216">Vendor: 7th Anniversary</text>
+	</file_content>
+</stb_file>

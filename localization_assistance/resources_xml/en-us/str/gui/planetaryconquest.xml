@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>142</strs>
+		<file_name>/resources/en-us/str/gui/planetaryconquest.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="786888" version="1065353216">FLAGSHIP COMMAND CONSOLE</text>
+		<text bitflag="321" id1="257" id2="786888" version="1065353216">FLAGSHIP STATUS</text>
+		<text bitflag="321" id1="258" id2="786888" version="1065353216">REWARDS AND STATUS</text>
+		<text bitflag="321" id1="259" id2="786888" version="1065353216">MOVE FLAGSHIP</text>
+		<text bitflag="321" id1="260" id2="786888" version="1065353216">ORBITAL SUPPORT</text>
+		<text bitflag="321" id1="261" id2="786888" version="1065353216">CLAIM REWARD</text>
+		<text bitflag="321" id1="262" id2="786888" version="1065353216">COMMIT FLAGSHIP</text>
+		<text bitflag="321" id1="263" id2="786888" version="1065353216">Guild Conquest Score</text>
+		<text bitflag="321" id1="264" id2="786888" version="1065353216">Support Status:</text>
+		<text bitflag="321" id1="265" id2="786888" version="1065353216">Conquest Reward</text>
+		<text bitflag="321" id1="266" id2="786888" version="1065353216">&lt;&lt;1&gt;&gt; Controlled By</text>
+		<text bitflag="321" id1="267" id2="786888" version="1065353216">TRAVEL DESTINATION</text>
+		<text bitflag="321" id1="268" id2="786888" version="1065353216">CURRENT LOCATION</text>
+		<text bitflag="321" id1="269" id2="786888" version="1065353216">Planet:</text>
+		<text bitflag="321" id1="270" id2="786888" version="1065353216">Exit:</text>
+		<text bitflag="321" id1="272" id2="786888" version="1065353216">Fuel Cost:&lt;br&gt;
+&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="273" id2="786888" version="1065353216">Cost:&lt;br&gt;
+&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="274" id2="786888" version="1065353216">MOVE FLAGSHIP?</text>
+		<text bitflag="321" id1="275" id2="786888" version="1065353216">Are you sure you wish to move your flagship for &lt;&lt;1&gt;&gt;? This will be paid from your guild bank credit allotment.</text>
+		<text bitflag="321" id1="276" id2="786888" version="1065353216">Your flagship is already supporting this location.</text>
+		<text bitflag="321" id1="277" id2="786888" version="1065353216">Orbitally support the selected location.</text>
+		<text bitflag="321" id1="278" id2="786888" version="1065353216">Your flagship is already at this location.</text>
+		<text bitflag="321" id1="279" id2="786888" version="1065353216">Move your guild flagship to the selected destination.</text>
+		<text bitflag="321" id1="280" id2="786888" version="1065353216">Insufficient guild funds, or you have reached your withdraw limit.</text>
+		<text bitflag="321" id1="281" id2="786888" version="1065353216">ONLINE</text>
+		<text bitflag="321" id1="282" id2="786888" version="1065353216">OFFLINE</text>
+		<text bitflag="321" id1="283" id2="786888" version="1065353216">Are you sure you wish to provide orbital support for &lt;&lt;1&gt;&gt;? This will be paid from your guild bank credit allotment.</text>
+		<text bitflag="321" id1="284" id2="786888" version="1065353216">ORBITAL SUPPORT?</text>
+		<text bitflag="321" id1="287" id2="786888" version="1065353216">Invasion Multiplier Unknown</text>
+		<text bitflag="321" id1="288" id2="786888" version="1065353216">Default Exit (test)</text>
+		<text bitflag="321" id1="289" id2="786888" version="1065353216">Spaceport Exit (test string)</text>
+		<text bitflag="321" id1="290" id2="786888" version="1065353216">Mos Eisley Exit (test string)</text>
+		<text bitflag="321" id1="291" id2="786888" version="1065353216">City Center Exit (test string)</text>
+		<text bitflag="321" id1="292" id2="786888" version="1065353216">Port Landing Exit (test string)</text>
+		<text bitflag="321" id1="293" id2="786888" version="1065353216">NO GUILD CONTROLS THIS SECTOR</text>
+		<text bitflag="321" id1="294" id2="786888" version="1065353216">You are not authorized to move this flagship.</text>
+		<text bitflag="321" id1="295" id2="786888" version="1065353216">Moving your Flagship requires funds in the Guild Bank.</text>
+		<text bitflag="321" id1="296" id2="786888" version="1065353216">Your Flagship is already docked at the selected destination.</text>
+		<text bitflag="321" id1="297" id2="786888" version="1065353216">You cannot move your guild's flagship, because you have exhausted your credit allowance from the guild bank (or the guild bank has insufficient credits).</text>
+		<text bitflag="321" id1="298" id2="786888" version="1065353216">You must have a gold key to move the Guild Flagship.</text>
+		<text bitflag="321" id1="299" id2="786888" version="1065353216">You must wait at least &lt;&lt;1&gt;&gt; seconds before moving the Flagship.</text>
+		<text bitflag="321" id1="300" id2="786888" version="1065353216">Total Galactic War</text>
+		<text bitflag="321" id1="301" id2="786888" version="1065353216">Total war has broken out on worlds across the galaxy, with skirmishes taking place on dozens of battlefronts. Opportunities abound during this period of intense, widespread fighting.</text>
+		<text bitflag="321" id1="302" id2="786888" version="1065353216">The Balance of Power</text>
+		<text bitflag="321" id1="303" id2="786888" version="1065353216">Political struggles are mounting in the hearts of key worlds. The seats of power on Alderaan and Makeb may soon be changing hands.</text>
+		<text bitflag="321" id1="304" id2="786888" version="1065353216">The Dread War</text>
+		<text bitflag="321" id1="305" id2="786888" version="1065353216">A dark presence is growing on Oricon, threatening to engulf the galaxy in an endless night of fear.</text>
+		<text bitflag="321" id1="306" id2="786888" version="1065353216">The Trade Emporium</text>
+		<text bitflag="321" id1="307" id2="786888" version="1065353216">Merchants and crafters from across the galaxy have sponsored a massive trade emporium.</text>
+		<text bitflag="321" id1="308" id2="786888" version="1065353216">Relics of the Gree</text>
+		<text bitflag="321" id1="309" id2="786888" version="1065353216">Gray Secant has returned to Ilum, continuing its mysterious millennia-long mission to collect and study data on every sentient civilization.</text>
+		<text bitflag="321" id1="310" id2="786888" version="1065353216">The Rakghoul plague has broken out on Tatooine and must be contained once again.</text>
+		<text bitflag="321" id1="311" id2="786888" version="1065353216">Rakghoul Resurgence: Tatooine</text>
+		<text bitflag="321" id1="312" id2="786888" version="1065353216">The Rakghoul plague has broken out on Corellia and must be contained once again.</text>
+		<text bitflag="321" id1="313" id2="786888" version="1065353216">Rakghoul Resurgence: Corellia</text>
+		<text bitflag="321" id1="314" id2="786888" version="1065353216">Rakghoul Resurgence: Alderaan</text>
+		<text bitflag="321" id1="315" id2="786888" version="1065353216">The Rakghoul plague has broken out on Alderaan and must be contained once again.</text>
+		<text bitflag="321" id1="316" id2="786888" version="1065353216">Clash in Hyperspace</text>
+		<text bitflag="321" id1="317" id2="786888" version="1065353216">Republic and Imperial fleets have engaged in protracted battles in several major systems and require the assistance of all able-bodied starfighter pilots.</text>
+		<text bitflag="321" id1="318" id2="786888" version="1065353216">Titans of Industry</text>
+		<text bitflag="321" id1="319" id2="786888" version="1065353216">Major corporations have gone on an unchecked buying spree. Control of several sectors will be decided by the highest bidder!</text>
+		<text bitflag="321" id1="320" id2="786888" version="1065353216">Emergency Operations</text>
+		<text bitflag="321" id1="321" id2="786888" version="1065353216">Immensely powerful foes are preparing to launch devastating attacks on worlds across the galaxy. Strategic operations must be launched to battle the rise of these dangerous new enemies.</text>
+		<text bitflag="321" id1="322" id2="786888" version="1065353216">Death Mark</text>
+		<text bitflag="321" id1="323" id2="786888" version="1065353216">A sudden power shift in the underworld has resulted in thousands of death marks being issued for the galaxy's most influential sentients.</text>
+		<text bitflag="321" id1="324" id2="786888" version="1065353216">Flashpoint Havoc</text>
+		<text bitflag="321" id1="325" id2="786888" version="1065353216">High priority missions have shifted from the war front to emergency deployments in dozens of sectors, instigating power struggles within the Empire and the Republic.</text>
+		<text bitflag="321" id1="326" id2="786888" version="1065353216">The Hunter's Race</text>
+		<text bitflag="321" id1="327" id2="786888" version="1065353216">Bounties have been issued for criminals across the galaxy. Licensed hunters must race to take them down!</text>
+		<text bitflag="321" id1="328" id2="786888" version="1065353216">Invasion Bonus - Flashpoints, Warzones</text>
+		<text bitflag="321" id1="329" id2="786888" version="1065353216">Invasion Bonus - Flashpoints, War Supplies</text>
+		<text bitflag="321" id1="330" id2="786888" version="1065353216">Invasion Bonus - Warzones</text>
+		<text bitflag="321" id1="331" id2="786888" version="1065353216">Invasion Bonus - Warzones, War Supplies</text>
+		<text bitflag="321" id1="332" id2="786888" version="1065353216">Invasion Bonus - Operations, Warzones</text>
+		<text bitflag="321" id1="333" id2="786888" version="1065353216">Invasion Bonus - Operations</text>
+		<text bitflag="321" id1="334" id2="786888" version="1065353216">Invasion Bonus - Crafting, War Supplies</text>
+		<text bitflag="321" id1="335" id2="786888" version="1065353216">Invasion Bonus - Starfighter</text>
+		<text bitflag="321" id1="336" id2="786888" version="1065353216">Invasion Bonus - Flashpoints, Starfighter</text>
+		<text bitflag="321" id1="337" id2="786888" version="1065353216">Invasion Bonus - Warzones, Flashpoints, Operations, Starfighter</text>
+		<text bitflag="321" id1="338" id2="786888" version="1065353216">Invasion Bonus - Economy, War Supplies</text>
+		<text bitflag="321" id1="339" id2="786888" version="1065353216">You are not authorized to activate Orbital Support.</text>
+		<text bitflag="321" id1="340" id2="786888" version="1065353216">Revenge of the Revanites</text>
+		<text bitflag="321" id1="341" id2="786888" version="1065353216">The Revanites have risen up and claimed their place in the galaxy.  Their corrupt influence has spread like wild fire and must be stopped.</text>
+		<text bitflag="321" id1="342" id2="786888" version="1065353216">Invasion Bonus - Flashpoints, Operations</text>
+		<text bitflag="321" id1="343" id2="786888" version="1065353216">The Calm Before the Storm</text>
+		<text bitflag="321" id1="344" id2="786888" version="1065353216">No hostile actions reported.</text>
+		<text bitflag="321" id1="345" id2="786888" version="1065353216">The Recruitment Initiative</text>
+		<text bitflag="321" id1="347" id2="786888" version="1065353216">The Power of the Force</text>
+		<text bitflag="321" id1="349" id2="786888" version="1065353216">Invasion Bonus - Warzones, Flashpoints, Operations, Starfighter, War Supplies</text>
+		<text bitflag="321" id1="350" id2="786888" version="1065353216">Invasion Bonus - Flashpoints, Operations, War Supplies</text>
+		<text bitflag="321" id1="351" id2="786888" version="1065353216">Mechanical Warfare</text>
+		<text bitflag="321" id1="352" id2="786888" version="1065353216">Invasion Bonus - Uprisings</text>
+		<text bitflag="321" id1="353" id2="786888" version="1065353216">Battles for control of highlighy advanced technologies have erupted between Imperial and Republic forces in strategic locations across the galaxy.</text>
+		<text bitflag="321" id1="355" id2="786888" version="1065353216">Invasion Bonus - Flashpoints, Operations, Starfighter, War Supplies</text>
+		<text bitflag="321" id1="356" id2="786888" version="1065353216">&lt;&lt;1&gt;&gt;%</text>
+		<text bitflag="321" id1="357" id2="786888" version="1065353216">A Conquest is currently in review. Time until the next conquest begins: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="358" id2="786888" version="1065353216">You are currently not a member of a guild. Invasions and guild rewards are unavailable.</text>
+		<text bitflag="321" id1="359" id2="786888" version="1065353216">Guild Rewards</text>
+		<text bitflag="321" id1="360" id2="786888" version="1065353216">A Guild Flagship is required to participate toward the Guild Galactic Conquest.
+
+Visit the Guild Flagship Directory on the Fleet for details.</text>
+		<text bitflag="321" id1="362" id2="786888" version="1065353216">Invading</text>
+		<text bitflag="321" id1="363" id2="786888" version="1065353216">Guild: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="364" id2="786888" version="1065353216">Invasion Target: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="365" id2="786888" version="1065353216">Flagship: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="366" id2="786888" version="1065353216">Location: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="367" id2="786888" version="1065353216">None</text>
+		<text bitflag="321" id1="368" id2="786888" version="1065353216">Your flagship must be committed to invade a planet before your Guild can participate in the Galactic Conquest</text>
+		<text bitflag="321" id1="369" id2="786888" version="1065353216">Guild Flagship Required</text>
+		<text bitflag="321" id1="370" id2="786888" version="1065353216">Invasion Target Required</text>
+		<text bitflag="321" id1="371" id2="786888" version="1065353216">Guild Required</text>
+		<text bitflag="321" id1="372" id2="786888" version="1065353216">CONQUEST COMPLETE</text>
+		<text bitflag="321" id1="373" id2="786888" version="1065353216">In Review: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="374" id2="786888" version="1065353216">Space</text>
+		<text bitflag="321" id1="375" id2="786888" version="1065353216">Current Conquerors</text>
+		<text bitflag="321" id1="376" id2="786888" version="1065353216">Next Conquest: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="377" id2="786888" version="1065353216">Invasion Targets</text>
+		<text bitflag="321" id1="378" id2="786888" version="1065353216">&lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="379" id2="786888" version="1065353216">Large Yield</text>
+		<text bitflag="321" id1="380" id2="786888" version="1065353216">Medium Yield</text>
+		<text bitflag="321" id1="381" id2="786888" version="1065353216">Small Yield</text>
+		<text bitflag="321" id1="382" id2="786888" version="1065353216">Track Objective</text>
+		<text bitflag="321" id1="383" id2="786888" version="1065353216">CONQUEST</text>
+		<text bitflag="321" id1="384" id2="786888" version="1065353216">GUILD INVASIONS</text>
+		<text bitflag="321" id1="385" id2="786888" version="1065353216">Review Conquest</text>
+		<text bitflag="321" id1="386" id2="786888" version="1065353216">Planet Leaders</text>
+		<text bitflag="321" id1="387" id2="786888" version="1065353216">Current Points</text>
+		<text bitflag="321" id1="388" id2="786888" version="1065353216">Yield</text>
+		<text bitflag="321" id1="389" id2="786888" version="1065353216">Home Server</text>
+		<text bitflag="321" id1="390" id2="786888" version="1065353216">Conqueror</text>
+		<text bitflag="321" id1="391" id2="786888" version="1065353216">Planet</text>
+		<text bitflag="321" id1="392" id2="786888" version="1065353216">Small</text>
+		<text bitflag="321" id1="393" id2="786888" version="1065353216">Medium</text>
+		<text bitflag="321" id1="394" id2="786888" version="1065353216">Large</text>
+		<text bitflag="321" id1="395" id2="786888" version="1065353216">Current Leader: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="396" id2="786888" version="1065353216">Rank</text>
+		<text bitflag="321" id1="397" id2="786888" version="1065353216">Points Required: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="398" id2="786888" version="1065353216">Planet Leaders</text>
+		<text bitflag="321" id1="399" id2="786888" version="1065353216">Conqueror: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="400" id2="786888" version="1065353216">To qualify for a Guild Conquest reward, your guild must earn the required amount of points as defined by the planet, and also complete your Personal Conquest.</text>
+		<text bitflag="321" id1="401" id2="786888" version="1065353216">To qualify for a Personal Conquest reward, you must earn the required number of conquest points.</text>
+		<text bitflag="321" id1="402" id2="786888" version="1065353216">Invading &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="403" id2="786888" version="1065353216">&lt;&lt;1&gt;&gt;'s Conquest Complete</text>
+		<text bitflag="321" id1="404" id2="786888" version="1065353216">Invading: &lt;&lt;1&gt;&gt;</text>
+	</file_content>
+</stb_file>

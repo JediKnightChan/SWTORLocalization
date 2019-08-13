@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>82</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris_imp/class/spy/ardun_kothe.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="618501" id2="17" version="1065353216">This is base command to Legate.</text>
+		<text bitflag="1345" id1="618503" id2="17" version="1065353216">Agent Chance has failed to report in; therefore, I have to assume he's compromised. You are now primary on this mission.</text>
+		<text bitflag="1345" id1="618504" id2="17" version="1065353216">Chance was shot by Imperial scouts. By the time I found him, it was too late.</text>
+		<text bitflag="1360" id1="618504" id2="17" version="1065353216">He was killed.</text>
+		<text bitflag="1345" id1="618505" id2="17" version="1065353216">I see. Send me the coordinates later. His family will want the body.</text>
+		<text bitflag="1345" id1="618507" id2="17" version="1065353216">He probably got distracted by a shiny puddle.</text>
+		<text bitflag="1360" id1="618507" id2="17" version="1065353216">I'm sure he'll turn up.</text>
+		<text bitflag="1345" id1="618508" id2="17" version="1065353216">Have some respect. He's part of our team.</text>
+		<text bitflag="1345" id1="618510" id2="17" version="1065353216">I just heard from Agent Chance. His injuries are extensive. You are now primary on this mission.</text>
+		<text bitflag="1345" id1="618511" id2="17" version="1065353216">How do I proceed, sir?</text>
+		<text bitflag="1360" id1="618511" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="618512" id2="17" version="1065353216">Is Chance going to recover?</text>
+		<text bitflag="1360" id1="618512" id2="17" version="1065353216">How's Chance doing?</text>
+		<text bitflag="1345" id1="618513" id2="17" version="1065353216">He'll live. Whether he'll come back on duty, I don't know.</text>
+		<text bitflag="1345" id1="618515" id2="17" version="1065353216">Chance got what he deserved. I saved his life, but I shouldn't have had to.</text>
+		<text bitflag="1360" id1="618515" id2="17" version="1065353216">He was careless.</text>
+		<text bitflag="1345" id1="618516" id2="17" version="1065353216">I'm glad to have had your assessment. I'll talk to him when he's fit for duty.</text>
+		<text bitflag="1345" id1="618518" id2="17" version="1065353216">Keyword: onomatophobia. Your new objective is to retrieve the Ultrawave Transmitter from Ki Sazen.</text>
+		<text bitflag="1345" id1="618520" id2="17" version="1065353216">I still want the Jedi taken down if possible, but she can't be our priority.</text>
+		<text bitflag="1345" id1="618521" id2="17" version="1065353216">I'm on my way to Ki Sazen's hideout now. Consider the job done.</text>
+		<text bitflag="1360" id1="618521" id2="17" version="1065353216">I'll get the transmitter.</text>
+		<text bitflag="1345" id1="618522" id2="17" version="1065353216">What makes the Ultrawave Transmitter important?</text>
+		<text bitflag="1360" id1="618522" id2="17" version="1065353216">Why the change of objective?</text>
+		<text bitflag="1345" id1="618523" id2="17" version="1065353216">That's not your concern. Just get it back to me.</text>
+		<text bitflag="1345" id1="618525" id2="17" version="1065353216">Ki Sazen's hideout is behind Republic lines. I'll have to kill people to get there.</text>
+		<text bitflag="1360" id1="618525" id2="17" version="1065353216">I'll be fighting the Republic.</text>
+		<text bitflag="1345" id1="618526" id2="17" version="1065353216">I understand. But there aren't any other SIS agents on Taris. No other way to make this work.</text>
+		<text bitflag="1345" id1="618528" id2="17" version="1065353216">May the Force be with you. Base command out.</text>
+		<text bitflag="1345" id1="618531" id2="17" version="1065353216">Code name Legate calling base command. Come in, base command.</text>
+		<text bitflag="1345" id1="618532" id2="17" version="1065353216">Base command here. Patching secondary stream.</text>
+		<text bitflag="1345" id1="618534" id2="17" version="1065353216">Code name Chance here. Ready for mission briefing.</text>
+		<text bitflag="1345" id1="618536" id2="17" version="1065353216">You two met on Nar Shaddaa, so I'll skip the introductions. Welcome to Taris--a thousand years of civilization reduced to toxic muck.</text>
+		<text bitflag="1345" id1="618537" id2="17" version="1065353216">Fill me in on the operation.</text>
+		<text bitflag="1360" id1="618537" id2="17" version="1065353216">What's the situation?</text>
+		<text bitflag="1345" id1="618538" id2="17" version="1065353216">I'm glad we're getting the chance to work together.</text>
+		<text bitflag="1360" id1="618538" id2="17" version="1065353216">[Flirt] Hello, Chance.</text>
+		<text bitflag="1345" id1="618539" id2="17" version="1065353216">Thank you, sir. You... impressed us at the droid factory.</text>
+		<text bitflag="1345" id1="618541" id2="17" version="1065353216">Thank you, sir. Agent Chance.</text>
+		<text bitflag="1360" id1="618541" id2="17" version="1065353216">Good to see you both.</text>
+		<text bitflag="1345" id1="618542" id2="17" version="1065353216">It could be worse. I was assigned to Hutta--twice.</text>
+		<text bitflag="1360" id1="618542" id2="17" version="1065353216">This is where you send me?</text>
+		<text bitflag="1345" id1="618543" id2="17" version="1065353216">I spent a week in the Coruscant sewers once.</text>
+		<text bitflag="1345" id1="618545" id2="17" version="1065353216">A long time ago, Taris was a Republic world. A Sith Lord bombed it. Now we're trying to rebuild and the Empire's unhappy.</text>
+		<text bitflag="1345" id1="618547" id2="17" version="1065353216">Your people sent shock troops, devastator units.</text>
+		<text bitflag="1345" id1="618549" id2="17" version="1065353216">It's a mess. The last thing we need is a rogue element, but that's what we've got.</text>
+		<text bitflag="1345" id1="618551" id2="17" version="1065353216">Along with Sith and Republic troops, there's a corrupt Jedi down there. You're going to stop her.</text>
+		<text bitflag="1345" id1="618552" id2="17" version="1065353216">Who is she? What does she want?</text>
+		<text bitflag="1360" id1="618552" id2="17" version="1065353216">Tell me the details.</text>
+		<text bitflag="1345" id1="618553" id2="17" version="1065353216">I thought Jedi were supposed to be incorruptible.</text>
+		<text bitflag="1360" id1="618553" id2="17" version="1065353216">A corrupt Jedi? Really?</text>
+		<text bitflag="1345" id1="618554" id2="17" version="1065353216">They're not perfect. But they're supposed to know better.</text>
+		<text bitflag="1345" id1="618556" id2="17" version="1065353216">I've fought my share of Jedi. They're not as dangerous as the legends claim.</text>
+		<text bitflag="1360" id1="618556" id2="17" version="1065353216">She won't know what hit her.</text>
+		<text bitflag="1345" id1="618557" id2="17" version="1065353216">They're not pushovers, either.</text>
+		<text bitflag="1345" id1="618559" id2="17" version="1065353216">Ki Sazen--Jedi Knight and hero of Tas-La. Rising star in the Jedi Order, but she's rotten to the core.</text>
+		<text bitflag="1345" id1="618561" id2="17" version="1065353216">Half her missions end with someone dying. Technology and artifacts disappear from under her protection.</text>
+		<text bitflag="1345" id1="618563" id2="17" version="1065353216">Her last report said she'd come to Taris because &quot;the Force&quot; called her here.</text>
+		<text bitflag="1345" id1="618565" id2="17" version="1065353216">I believe Ki Sazen is building a power base. I need you to find out how and why, and bring me hard evidence.</text>
+		<text bitflag="1345" id1="618566" id2="17" version="1065353216">This sounds like an internal security matter.</text>
+		<text bitflag="1360" id1="618566" id2="17" version="1065353216">Why come to me?</text>
+		<text bitflag="1345" id1="618567" id2="17" version="1065353216">It would be, if the Jedi would let us pursue it. They won't, so it's up to you.</text>
+		<text bitflag="1345" id1="618569" id2="17" version="1065353216">You sound like you're taking this personally.</text>
+		<text bitflag="1360" id1="618569" id2="17" version="1065353216">This really bothers you.</text>
+		<text bitflag="1345" id1="618570" id2="17" version="1065353216">I'm disappointed, is all. But you're right--no good fretting.</text>
+		<text bitflag="1345" id1="618572" id2="17" version="1065353216">Why bother with evidence? I can solve your problem with one shot.</text>
+		<text bitflag="1360" id1="618572" id2="17" version="1065353216">I should just kill her.</text>
+		<text bitflag="1345" id1="618573" id2="17" version="1065353216">If it comes to that... do it. But I want her brought to justice if possible.</text>
+		<text bitflag="1345" id1="618575" id2="17" version="1065353216">Chance will be your contact. He'll take it from here.</text>
+		<text bitflag="1345" id1="618577" id2="17" version="1065353216">Yes, sir. Surveilling Ki Sazen has been difficult, but we believe she recently mounted a raid on an Empire-controlled laboratory.</text>
+		<text bitflag="1345" id1="618579" id2="17" version="1065353216">We'll begin our investigation there. You need to obtain access to the laboratory from Imperial Command.</text>
+		<text bitflag="1345" id1="618580" id2="17" version="1065353216">Get to the laboratory and find out what Ki Sazen was up to. Understood.</text>
+		<text bitflag="1360" id1="618580" id2="17" version="1065353216">Let's get to it.</text>
+		<text bitflag="1345" id1="618581" id2="17" version="1065353216">That's my girl. Base command out.</text>
+		<text bitflag="1345" id1="618583" id2="17" version="1065353216">That's my boy. Base command out.</text>
+		<text bitflag="1345" id1="618585" id2="17" version="1065353216">You said Ki Sazen is interested in technology. What exactly was she looking for?</text>
+		<text bitflag="1360" id1="618585" id2="17" version="1065353216">Why raid a laboratory?</text>
+		<text bitflag="1345" id1="618586" id2="17" version="1065353216">That's what I'd like you to find out.</text>
+		<text bitflag="1345" id1="618588" id2="17" version="1065353216">Suppose I refuse. Can Agent Chance force me to obey?</text>
+		<text bitflag="1360" id1="618588" id2="17" version="1065353216">It's not like I can say &quot;no.&quot;</text>
+		<text bitflag="1345" id1="618589" id2="17" version="1065353216">Chance may be young, but he has all the experience and authority he needs.</text>
+		<text bitflag="1345" id1="618591" id2="17" version="1065353216">Now get to work--both of you. Base command out.</text>
+		<text bitflag="1345" id1="618593" id2="17" version="1065353216">Sir--I'll monitor your holocalls to track the investigation. I'll be in touch soon.</text>
+	</file_content>
+</stb_file>

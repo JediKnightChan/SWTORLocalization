@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/imperial_officer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="620827" id2="17" version="1065353216">My lord, sorry to interrupt, but a Jedi Padawan has turned herself over to Imperial custody. She says she wants to speak with you.</text>
+		<text bitflag="1360" id1="620828" id2="17" version="1065353216">I'll be right there.</text>
+		<text bitflag="1360" id1="620829" id2="17" version="1065353216">I guess I can come by.</text>
+		<text bitflag="1360" id1="620830" id2="17" version="1065353216">This will be interesting.</text>
+		<text bitflag="1345" id1="620831" id2="17" version="1065353216">Yes, my lord. We're holding her in your chambers, the ones formerly occupied by Elios Maliss.</text>
+		<text bitflag="1345" id1="620833" id2="17" version="1065353216">We'll keep her there until you arrive.</text>
+	</file_content>
+</stb_file>

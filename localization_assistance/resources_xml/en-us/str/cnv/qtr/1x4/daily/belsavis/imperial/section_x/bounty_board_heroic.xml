@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x4/daily/belsavis/imperial/section_x/bounty_board_heroic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1059208" id2="17" version="1065353216">SECTION X TACTICAL DISPATCH / IMMEDIATE ACTION REQUIRED
+
+The goal of the Dread Masters' forces on Belsavis has been discovered: an ancient Rakata weapon known as the &quot;Aurora Cannon.&quot;
+
+This single device is capable of eliminating all Imperial forces on Belsavis in a single strike. It must be disabled before the Dread Masters' minions can capture it.
+
+Once the cannon is located, it should be immediately disabled via electromagnetic pulse munitions.
+
+WARNING: A massive Dread Guard deployment has been mobilized to retrieve the device. A full-size strike team is recommended before attempting to engage.</text>
+		<text bitflag="1345" id1="1059209" id2="17" version="1065353216">SECTION X TACTICAL UPDATE / VICTORY CONFIRMATION
+
+The Aurora Cannon has been disabled--a crushing defeat for the Dread Masters and their cowardly servants.
+
+Patrol teams will be dispatched to eliminate any remaining enemy forces within Section X. Glory to the Empire!</text>
+	</file_content>
+</stb_file>

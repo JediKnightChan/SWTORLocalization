@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>24</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/class/spy/sergeant_thent.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="467612" id2="17" version="1065353216">You live. It is good.</text>
+		<text bitflag="1345" id1="467614" id2="17" version="1065353216">You're still alive. Huh.</text>
+		<text bitflag="1345" id1="467616" id2="17" version="1065353216">Don't bother returning to base. Captain Furth is gone, and Admiral Davos bribed most of the others.</text>
+		<text bitflag="1345" id1="467617" id2="17" version="1065353216">Admiral Davos just tried to kill me. What's going on?</text>
+		<text bitflag="1360" id1="467617" id2="17" version="1065353216">What?</text>
+		<text bitflag="1345" id1="467618" id2="17" version="1065353216">You were with Search and Recovery.</text>
+		<text bitflag="1360" id1="467618" id2="17" version="1065353216">I recognize you...</text>
+		<text bitflag="1345" id1="467619" id2="17" version="1065353216">Correct.</text>
+		<text bitflag="1345" id1="467621" id2="17" version="1065353216">I want you to explain what's going on.</text>
+		<text bitflag="1360" id1="467621" id2="17" version="1065353216">I'm in no mood for games.</text>
+		<text bitflag="1345" id1="467622" id2="17" version="1065353216">No time. Transmission breaking up.</text>
+		<text bitflag="1345" id1="467624" id2="17" version="1065353216">There is a location beyond the frozen lake. You'll find answers. Coordinates sent.</text>
+		<text bitflag="1345" id1="467625" id2="17" version="1065353216">I'm on my way.</text>
+		<text bitflag="1360" id1="467625" id2="17" version="1065353216">Acknowledged.</text>
+		<text bitflag="1345" id1="467627" id2="17" version="1065353216">Have you been watching me?</text>
+		<text bitflag="1360" id1="467627" id2="17" version="1065353216">How did you know to call me?</text>
+		<text bitflag="1345" id1="467628" id2="17" version="1065353216">We've been watching the sensors. Picked up blaster fire, and assumed things had gone wrong.</text>
+		<text bitflag="1345" id1="467630" id2="17" version="1065353216">For the glory of the Ascendancy.</text>
+		<text bitflag="1345" id1="467631" id2="17" version="1065353216">Go. Thent out.</text>
+		<text bitflag="1345" id1="467632" id2="17" version="1065353216">How do I know this isn't another trap?</text>
+		<text bitflag="1360" id1="467632" id2="17" version="1065353216">I don't trust you.</text>
+		<text bitflag="1345" id1="467633" id2="17" version="1065353216">Chiss do not betray Chiss.</text>
+		<text bitflag="1345" id1="467634" id2="17" version="1065353216">You don't.</text>
+		<text bitflag="1345" id1="467636" id2="17" version="1065353216">I cannot speak now.</text>
+	</file_content>
+</stb_file>

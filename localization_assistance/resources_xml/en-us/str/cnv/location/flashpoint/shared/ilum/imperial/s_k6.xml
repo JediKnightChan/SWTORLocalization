@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/ilum/imperial/s_k6.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="200002" id2="17" version="1065353216">Hangar access granted.</text>
+		<text bitflag="1345" id1="200003" id2="17" version="1065353216">Please hold for clearance scan....</text>
+		<text bitflag="1345" id1="200005" id2="17" version="1065353216">Welcome, my lord. General Hesker awaits you within the hangar.</text>
+		<text bitflag="1345" id1="200007" id2="17" version="1065353216">Access granted. Please proceed into the hangar and speak with General Hesker.</text>
+		<text bitflag="1345" id1="200009" id2="17" version="1065353216">He will transport you to the front lines. Darth Malgus's invading force already encroaches on Imperial territory.</text>
+		<text bitflag="1360" id1="200010" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1345" id1="200011" id2="17" version="1065353216">Hangar access is restricted.</text>
+		<text bitflag="1360" id1="987516" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="987517" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987526" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="987530" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1169926" id2="17" version="1065353216">[Start Story Mode]</text>
+	</file_content>
+</stb_file>

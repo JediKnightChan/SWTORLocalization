@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/event/bounty_hunting/imperial/breadcrumb_turn_in.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1113613" id2="17" version="1065353216">Greetings, my lord. The Bounty Brokers Association welcomes you.</text>
+		<text bitflag="1345" id1="1113614" id2="17" version="1065353216">Greetings, hunter! The Bounty Brokers Association is honored to welcome a legend like yourself.</text>
+		<text bitflag="1345" id1="1113615" id2="17" version="1065353216">Greetings, Imperial citizen. The Bounty Brokers Association welcomes you.</text>
+		<text bitflag="1345" id1="1113619" id2="17" version="1065353216">If you are still interested in pursuing one of our bounty hunting contracts despite this... disappointing restriction, you may review available assignments at the terminal nearby.</text>
+		<text bitflag="1345" id1="1113621" id2="17" version="1065353216">Sadly, I am advised to inform all prospective hunters that disintegrations are no longer considered an acceptable method for bounty contract resolutions.</text>
+		<text bitflag="1345" id1="1113623" id2="17" version="1065353216">Good hunting!</text>
+	</file_content>
+</stb_file>

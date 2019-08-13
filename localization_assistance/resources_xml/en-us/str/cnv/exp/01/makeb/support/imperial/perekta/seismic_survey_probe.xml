@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>1</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/support/imperial/perekta/seismic_survey_probe.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1112658" id2="17" version="1065353216">Seismic Survey Probe X04 :: ONLINE
+
+Connectivity Reset
+Connectivity Test Complete
+Test Status :: FAILED
+Error Code 006 :: Network Probes Offline
+
+Survey Data Incomplete
+Recommended Action :: Reset Network Probes</text>
+	</file_content>
+</stb_file>

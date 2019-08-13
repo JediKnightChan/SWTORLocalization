@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>24</strs>
+		<file_name>/resources/en-us/str/gui/charcreatecombatroletitle.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="482859" version="1065353216">WARRIOR COMBAT ROLE</text>
+		<text bitflag="321" id1="2" id2="482859" version="1065353216">INQUISITOR COMBAT ROLE</text>
+		<text bitflag="321" id1="3" id2="482859" version="1065353216">BOUNTY HUNTER COMBAT ROLE</text>
+		<text bitflag="321" id1="4" id2="482859" version="1065353216">AGENT COMBAT ROLE</text>
+		<text bitflag="321" id1="5" id2="482859" version="1065353216">JEDI KNIGHT COMBAT ROLE</text>
+		<text bitflag="321" id1="6" id2="482859" version="1065353216">JEDI CONSULAR COMBAT ROLE</text>
+		<text bitflag="321" id1="7" id2="482859" version="1065353216">SMUGGLER COMBAT ROLE</text>
+		<text bitflag="321" id1="8" id2="482859" version="1065353216">TROOPER COMBAT ROLE</text>
+		<text bitflag="321" id1="100" id2="482859" version="1065353216">MARAUDER COMBAT ROLE</text>
+		<text bitflag="321" id1="101" id2="482859" version="1065353216">JUGGERNAUT COMBAT ROLE</text>
+		<text bitflag="321" id1="200" id2="482859" version="1065353216">ASSASSIN COMBAT ROLE</text>
+		<text bitflag="321" id1="201" id2="482859" version="1065353216">SORCERER COMBAT ROLE</text>
+		<text bitflag="321" id1="300" id2="482859" version="1065353216">MERCENARY COMBAT ROLE</text>
+		<text bitflag="321" id1="301" id2="482859" version="1065353216">POWERTECH COMBAT ROLE</text>
+		<text bitflag="321" id1="400" id2="482859" version="1065353216">SNIPER COMBAT ROLE</text>
+		<text bitflag="321" id1="401" id2="482859" version="1065353216">OPERATIVE COMBAT ROLE</text>
+		<text bitflag="321" id1="500" id2="482859" version="1065353216">GUARDIAN COMBAT ROLE</text>
+		<text bitflag="321" id1="501" id2="482859" version="1065353216">SENTINEL COMBAT ROLE</text>
+		<text bitflag="321" id1="600" id2="482859" version="1065353216">SAGE COMBAT ROLE</text>
+		<text bitflag="321" id1="601" id2="482859" version="1065353216">SHADOW COMBAT ROLE</text>
+		<text bitflag="321" id1="700" id2="482859" version="1065353216">GUNSLINGER COMBAT ROLE</text>
+		<text bitflag="321" id1="701" id2="482859" version="1065353216">SCOUNDREL COMBAT ROLE</text>
+		<text bitflag="321" id1="800" id2="482859" version="1065353216">COMMANDO COMBAT ROLE</text>
+		<text bitflag="321" id1="801" id2="482859" version="1065353216">VANGUARD COMBAT ROLE</text>
+	</file_content>
+</stb_file>

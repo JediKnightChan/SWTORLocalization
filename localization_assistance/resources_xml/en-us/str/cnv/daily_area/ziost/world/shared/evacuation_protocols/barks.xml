@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/ziost/world/shared/evacuation_protocols/barks.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1153698" id2="17" version="1065353216">Evacuation protocols are in effect. Civilian personnel may board an available shuttle at a designated landing site.</text>
+		<text bitflag="1345" id1="1153699" id2="17" version="1065353216">In the event of an emergency, civilians are permitted to seek a viable escape route in an orderly fashion.</text>
+		<text bitflag="1345" id1="1153700" id2="17" version="1065353216">If anyone can hear me: I have received clearance but air defenses are not reading me as friendly. I cannot land. Repeat: cannot land.</text>
+	</file_content>
+</stb_file>

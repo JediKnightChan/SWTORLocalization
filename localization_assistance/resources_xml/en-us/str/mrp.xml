@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>14</strs>
+		<file_name>/resources/en-us/str/mrp.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="0" id2="910853" version="1065353216">HK-55</text>
+		<text bitflag="321" id1="0" id2="911610" version="1065353216">Storm Rider</text>
+		<text bitflag="65" id1="0" id2="915440" version="1065353216">Asset 001</text>
+		<text bitflag="321" id1="0" id2="916562" version="1065353216">Mouse Droid</text>
+		<text bitflag="321" id1="0" id2="920681" version="1065353216">Colossus War Droid</text>
+		<text bitflag="321" id1="0" id2="921269" version="1065353216">Zakuul Knight</text>
+		<text bitflag="65" id1="0" id2="921921" version="1065353216">Eternal Empire Walker</text>
+		<text bitflag="65" id1="0" id2="926728" version="1065353216">Bunker Turret</text>
+		<text bitflag="65" id1="0" id2="934710" version="1065353216">Eternal Empire Walker Eject</text>
+		<text bitflag="65" id1="0" id2="936331" version="1065353216">Valkorion</text>
+		<text bitflag="65" id1="0" id2="936587" version="1065353216">Marr</text>
+		<text bitflag="65" id1="0" id2="936592" version="1065353216">Shan</text>
+		<text bitflag="65" id1="0" id2="936594" version="1065353216">Revan</text>
+		<text bitflag="65" id1="0" id2="942312" version="1065353216">Zakuul Knight Hints</text>
+	</file_content>
+</stb_file>

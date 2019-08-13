@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/library_guard.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="491877" id2="17" version="1065353216">Stop right there. Sorry, my lord, but you're not allowed in here.</text>
+		<text bitflag="1345" id1="491878" id2="17" version="1065353216">You will let me in. I'm welcome here.</text>
+		<text bitflag="1360" id1="491878" id2="17" version="1065353216">[Force persuade] Yes, I am.</text>
+		<text bitflag="1345" id1="491879" id2="17" version="1065353216">We will let you in. You're welcome here.</text>
+		<text bitflag="1345" id1="491881" id2="17" version="1065353216">Thanaton keeps his most useful holocrons on the far wall. I'm sure he wouldn't mind if you took one.</text>
+		<text bitflag="1345" id1="491882" id2="17" version="1065353216">I just exploded and rendered your master unconscious. You don't want to test my patience.</text>
+		<text bitflag="1360" id1="491882" id2="17" version="1065353216">Do you really want a fight?</text>
+		<text bitflag="1345" id1="491883" id2="17" version="1065353216">Darth Thanaton asked me to fetch some light reading for him.</text>
+		<text bitflag="1360" id1="491883" id2="17" version="1065353216">There must be some mistake.</text>
+		<text bitflag="1345" id1="491884" id2="17" version="1065353216">Thanaton wants you dead. Everyone knows it. You can't pull anything over on us.</text>
+		<text bitflag="1345" id1="491885" id2="17" version="1065353216">I just exploded and nearly killed your master. Do you want to take that chance?</text>
+		<text bitflag="1360" id1="491885" id2="17" version="1065353216">Don't make me blow up.</text>
+		<text bitflag="1345" id1="491886" id2="17" version="1065353216">Uh, um, yes my lord. Right. Just don't mess anything up. And don't tell Thanaton we let you in. He'll have our heads.</text>
+		<text bitflag="1345" id1="491888" id2="17" version="1065353216">You can't blame me for trying.</text>
+		<text bitflag="1360" id1="491888" id2="17" version="1065353216">All right, then. [Kill guards]</text>
+		<text bitflag="1345" id1="491889" id2="17" version="1065353216">Ugh!</text>
+		<text bitflag="1345" id1="491891" id2="17" version="1065353216">Whatever Thanaton's paying you, I'll double it. He never needs to know.</text>
+		<text bitflag="1360" id1="491891" id2="17" version="1065353216">Will you accept a bribe?</text>
+		<text bitflag="1345" id1="491892" id2="17" version="1065353216">Don't insult us. Our loyalty is not for sale. Draw your lightsaber.</text>
+	</file_content>
+</stb_file>

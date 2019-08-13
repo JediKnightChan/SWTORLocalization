@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>42</strs>
+		<file_name>/resources/en-us/str/cnv/location/hoth/bronze/imperial/tracking_the_republic/sergeant_ritter.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="196523" id2="17" version="1065353216">Enemy's running blind. Our troops are moving freely again. We're gonna melt this icicle good!</text>
+		<text bitflag="1345" id1="196526" id2="17" version="1065353216">Ya done great. Got the activation signal from the Republic data relay, and we're already jamming their comm!</text>
+		<text bitflag="1345" id1="196528" id2="17" version="1065353216">Thanks to you, things are gettin' hot 'round here!</text>
+		<text bitflag="1345" id1="196530" id2="17" version="1065353216">Once you get the codes from a Republic relay, we'll be able to make big strides on this ice cube.</text>
+		<text bitflag="1345" id1="196533" id2="17" version="1065353216">Nothin' but a bunch of namby-pamby cowards on this frozen rock.</text>
+		<text bitflag="1345" id1="196535" id2="17" version="1065353216">Think I like hearing my teeth chatter and knees knock? My sweat freeze and breath blind me?</text>
+		<text bitflag="1345" id1="196537" id2="17" version="1065353216">Not a scrap. But I got a job to do and by gum, I aim to do it!</text>
+		<text bitflag="1360" id1="196538" id2="17" version="1065353216">Need help?</text>
+		<text bitflag="1360" id1="196539" id2="17" version="1065353216">I have no sympathy.</text>
+		<text bitflag="1360" id1="196540" id2="17" version="1065353216">Calm down!</text>
+		<text bitflag="1345" id1="196541" id2="17" version="1065353216">Whoa, sorry about that, my lord, didn't see you. Kinda snow-blind, I guess.</text>
+		<text bitflag="1345" id1="196543" id2="17" version="1065353216">Whoa, sorry about that, didn't see you. Kinda snow-blind, I guess.</text>
+		<text bitflag="1345" id1="196545" id2="17" version="1065353216">None of those remarks were aimed at you. In fact, my mission calls for someone of your obvious capabilities.</text>
+		<text bitflag="1345" id1="196547" id2="17" version="1065353216">Colonel Vannis left orders to stop the Republic from tracking our deployments here. I figured out the enemy's MO, but need the firepower to squash it.</text>
+		<text bitflag="1345" id1="196548" id2="17" version="1065353216">Squashing the Republic is the Sith way.</text>
+		<text bitflag="1360" id1="196548" id2="17" version="1065353216">I can do that.</text>
+		<text bitflag="1345" id1="196549" id2="17" version="1065353216">Turn 'em into slush here, my lord.</text>
+		<text bitflag="1345" id1="196551" id2="17" version="1065353216">How exactly has the Republic managed to get the best of us?</text>
+		<text bitflag="1360" id1="196551" id2="17" version="1065353216">Tell me of this &quot;MO.&quot;</text>
+		<text bitflag="1345" id1="196552" id2="17" version="1065353216">Sneaky tricks and a lot of luck.</text>
+		<text bitflag="1345" id1="196554" id2="17" version="1065353216">If you can pay, today's your lucky day.</text>
+		<text bitflag="1360" id1="196554" id2="17" version="1065353216">I got firepower. For a price.</text>
+		<text bitflag="1345" id1="196555" id2="17" version="1065353216">I can unfreeze some funds for this. For sure.</text>
+		<text bitflag="1345" id1="196557" id2="17" version="1065353216">My gun's loaded.</text>
+		<text bitflag="1360" id1="196557" id2="17" version="1065353216">I can help with that.</text>
+		<text bitflag="1345" id1="196558" id2="17" version="1065353216">Heh. Most people 'round here complain their gun is frozen.</text>
+		<text bitflag="1360" id1="196560" id2="17" version="1065353216">Give me the details.</text>
+		<text bitflag="1345" id1="196561" id2="17" version="1065353216">Shouldn't be hard to find recruits around here.</text>
+		<text bitflag="1360" id1="196561" id2="17" version="1065353216">And you're having trouble?</text>
+		<text bitflag="1345" id1="196562" id2="17" version="1065353216">That's a laugh. Cold seems to have frozen everybody's guts.</text>
+		<text bitflag="1345" id1="196564" id2="17" version="1065353216">Republic scouts have set up a series of short-range relays. Need to activate one to jam their communications.</text>
+		<text bitflag="1345" id1="196566" id2="17" version="1065353216">Can't activate without a data card from one of the scouts. Gonna have to get one of them the old fashioned way. You game?</text>
+		<text bitflag="1360" id1="196567" id2="17" version="1065353216">I'm in.</text>
+		<text bitflag="1345" id1="196568" id2="17" version="1065353216">You're a lifesaver.</text>
+		<text bitflag="1360" id1="196570" id2="17" version="1065353216">Be my compass.</text>
+		<text bitflag="1345" id1="196571" id2="17" version="1065353216">Republic scouts range around the lower ruins. Spying on us and disappearing.</text>
+		<text bitflag="1345" id1="196573" id2="17" version="1065353216">Get a data card off one of them and then find one of their relay consoles in the outer edge.</text>
+		<text bitflag="1345" id1="196575" id2="17" version="1065353216">I'll be here and can jam their relays once you're done.</text>
+		<text bitflag="1360" id1="196577" id2="17" version="1065353216">Forget it. [Refuse quest]</text>
+		<text bitflag="1345" id1="196578" id2="17" version="1065353216">Heard that before. I'll probably be here if you change your mind.</text>
+		<text bitflag="1345" id1="196579" id2="17" version="1065353216">Heard that before. I'll probably be here if any of you change your mind.</text>
+		<text bitflag="1345" id1="196581" id2="17" version="1065353216">Cold feet is an understatement 'round here.</text>
+	</file_content>
+</stb_file>

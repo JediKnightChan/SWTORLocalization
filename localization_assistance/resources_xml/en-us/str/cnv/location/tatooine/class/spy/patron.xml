@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/class/spy/patron.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="610479" id2="17" version="1065353216">Perfect. Now, ask around at the bar and see who bites.</text>
+		<text bitflag="1345" id1="610480" id2="17" version="1065353216">I'm not looking for company.</text>
+		<text bitflag="321" id1="610485" id2="17" version="1065353216"># [You place a tracker on the patron - Missing Functionality]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/taris/multi/republic/ulla.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="673446" id2="17" version="1065353216">Transport's ready and waiting to take you to Ord Mantell. Climb aboard.</text>
+		<text bitflag="3393" id1="673449" id2="17" version="1065353216">Chief Rannos says you need a lift to Ord Mantell. My ship's ready to go if you are.</text>
+		<text bitflag="1360" id1="673450" id2="17" version="1065353216">Let's go. [Start flashpoint]</text>
+		<text bitflag="3393" id1="673451" id2="17" version="1065353216">Climb aboard and I'll have you there in no time.</text>
+		<text bitflag="1360" id1="673453" id2="17" version="1065353216">Forget it. [Refuse quest]</text>
+		<text bitflag="3393" id1="673454" id2="17" version="1065353216">Fair enough. I'll be here if you change your mind.</text>
+		<text bitflag="3393" id1="673456" id2="17" version="1065353216">Sorry - a pilot's gotta have her downtime. I won't be flying for a while.</text>
+		<text bitflag="1360" id1="1037546" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="1037548" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="1037549" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="1037726" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1220188" id2="17" version="1065353216">[Start Veteran Mode]</text>
+	</file_content>
+</stb_file>

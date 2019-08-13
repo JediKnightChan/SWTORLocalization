@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>76</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/cc/multi/hk_51.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="66794" id2="17" version="1065353216">Target acquired. Weapons armed.</text>
+		<text bitflag="1345" id1="66796" id2="17" version="1065353216">Hostile detected. Activating shields.</text>
+		<text bitflag="1345" id1="66798" id2="17" version="1065353216">These are not worthy targets.</text>
+		<text bitflag="1345" id1="66800" id2="17" version="1065353216">The crew is not prepared for a full assault.</text>
+		<text bitflag="1345" id1="66802" id2="17" version="1065353216">This target requires more firepower.</text>
+		<text bitflag="1345" id1="66804" id2="17" version="1065353216">I can be rebuilt. You will be destroyed.</text>
+		<text bitflag="1345" id1="66806" id2="17" version="1065353216">Our probability of success is not high.</text>
+		<text bitflag="1345" id1="66808" id2="17" version="1065353216">Isolate, eliminate, destroy.</text>
+		<text bitflag="1345" id1="66810" id2="17" version="1065353216">Organics are curiously reckless.</text>
+		<text bitflag="1345" id1="66812" id2="17" version="1065353216">We must improve our stealth, master.</text>
+		<text bitflag="1345" id1="66816" id2="17" version="1065353216">Yes, Master.</text>
+		<text bitflag="1345" id1="66818" id2="17" version="1065353216">Affirmative.</text>
+		<text bitflag="1345" id1="66820" id2="17" version="1065353216">As you wish.</text>
+		<text bitflag="1345" id1="66822" id2="17" version="1065353216">Executing commands.</text>
+		<text bitflag="1345" id1="66824" id2="17" version="1065353216">You are my master.</text>
+		<text bitflag="1345" id1="66828" id2="17" version="1065353216">Negative.</text>
+		<text bitflag="1345" id1="66830" id2="17" version="1065353216">Impossible.</text>
+		<text bitflag="1345" id1="66832" id2="17" version="1065353216">That is not in my programming.</text>
+		<text bitflag="1345" id1="66836" id2="17" version="1065353216">Shutting down.</text>
+		<text bitflag="1345" id1="66838" id2="17" version="1065353216">Deactivating now.</text>
+		<text bitflag="1345" id1="66840" id2="17" version="1065353216">Entering sleep mode.</text>
+		<text bitflag="1345" id1="66842" id2="17" version="1065353216">You are now less efficient.</text>
+		<text bitflag="1345" id1="66844" id2="17" version="1065353216">My skills are not needed here.</text>
+		<text bitflag="1345" id1="66848" id2="17" version="1065353216">Systems failing!</text>
+		<text bitflag="1345" id1="66850" id2="17" version="1065353216">Losing power!</text>
+		<text bitflag="1345" id1="66852" id2="17" version="1065353216">Maintenance required!</text>
+		<text bitflag="1345" id1="66854" id2="17" version="1065353216">Shutdown imminent!</text>
+		<text bitflag="1345" id1="66856" id2="17" version="1065353216">Repairs needed!</text>
+		<text bitflag="1345" id1="66860" id2="17" version="1065353216">Master.</text>
+		<text bitflag="1345" id1="66862" id2="17" version="1065353216">Systems ready.</text>
+		<text bitflag="1345" id1="66864" id2="17" version="1065353216">Weapons charged.</text>
+		<text bitflag="1345" id1="66866" id2="17" version="1065353216">I am at your command.</text>
+		<text bitflag="1345" id1="66868" id2="17" version="1065353216">Reactivation complete.</text>
+		<text bitflag="1345" id1="66872" id2="17" version="1065353216">Activating failsafe.</text>
+		<text bitflag="1345" id1="66874" id2="17" version="1065353216">Self-destruct engaged.</text>
+		<text bitflag="1345" id1="66876" id2="17" version="1065353216">Maximizing blast radius.</text>
+		<text bitflag="1345" id1="66878" id2="17" version="1065353216">Closing distance to target.</text>
+		<text bitflag="1345" id1="66880" id2="17" version="1065353216">Target will be eliminated.</text>
+		<text bitflag="1345" id1="66884" id2="17" version="1065353216">Medpac applied.</text>
+		<text bitflag="1345" id1="66886" id2="17" version="1065353216">Organic revived.</text>
+		<text bitflag="1345" id1="66888" id2="17" version="1065353216">Return to duty.</text>
+		<text bitflag="1345" id1="66892" id2="17" version="1065353216">Repaired.</text>
+		<text bitflag="1345" id1="66894" id2="17" version="1065353216">Powering up.</text>
+		<text bitflag="1345" id1="66896" id2="17" version="1065353216">Reactivation complete.</text>
+		<text bitflag="1345" id1="66900" id2="17" version="1065353216">Yes, Master.</text>
+		<text bitflag="1345" id1="66902" id2="17" version="1065353216">Mission parameters set.</text>
+		<text bitflag="1345" id1="66904" id2="17" version="1065353216">Restraining bolt disengaged.</text>
+		<text bitflag="1345" id1="66906" id2="17" version="1065353216">Tracking named targets.</text>
+		<text bitflag="1345" id1="66908" id2="17" version="1065353216">I will leave immediately.</text>
+		<text bitflag="1345" id1="66912" id2="17" version="1065353216">Optimal outcome achieved.</text>
+		<text bitflag="1345" id1="66914" id2="17" version="1065353216">Objective complete.</text>
+		<text bitflag="1345" id1="66916" id2="17" version="1065353216">Target found.</text>
+		<text bitflag="1345" id1="66918" id2="17" version="1065353216">Expedition end.</text>
+		<text bitflag="1345" id1="66920" id2="17" version="1065353216">Unexpected setbacks occurred.</text>
+		<text bitflag="1345" id1="66924" id2="17" version="1065353216">Observation: You ration supplies well, Master.</text>
+		<text bitflag="1345" id1="571551" id2="17" version="1065353216">Conclusion: This should improve my efficiency.</text>
+		<text bitflag="1345" id1="571555" id2="17" version="1065353216">Statement: I will enter this in my database.</text>
+		<text bitflag="1345" id1="571559" id2="17" version="1065353216">Admission: I do not understand this offering.</text>
+		<text bitflag="1345" id1="571561" id2="17" version="1065353216">Objection: I am an assassin droid, Master.</text>
+		<text bitflag="1345" id1="571565" id2="17" version="1065353216">I will cover you, master.</text>
+		<text bitflag="1345" id1="571568" id2="17" version="1065353216">Do not wait for me, master. I am right behind you.</text>
+		<text bitflag="1345" id1="571572" id2="17" version="1065353216">Additional firepower. Excellent.</text>
+		<text bitflag="1345" id1="571574" id2="17" version="1065353216">You found an advanced upgrade.</text>
+		<text bitflag="1345" id1="571576" id2="17" version="1065353216">I approve of your upgrades, master.</text>
+		<text bitflag="1345" id1="571578" id2="17" version="1065353216">Observation: You make unpleasantness look good.</text>
+		<text bitflag="1345" id1="571580" id2="17" version="1065353216">Charity. How inefficient.</text>
+		<text bitflag="1345" id1="571582" id2="17" version="1065353216">I agree, master. I am fascinating to look at.</text>
+		<text bitflag="1345" id1="571583" id2="17" version="1065353216">Warning: Please cease your incessant prodding, master. You might accidentally activate my assassination protocols.</text>
+		<text bitflag="1345" id1="571587" id2="17" version="1065353216">An upgrade? Thank you, master.</text>
+		<text bitflag="1345" id1="571590" id2="17" version="1065353216">Observation: You spoil me, master. Please continue.</text>
+		<text bitflag="1345" id1="571594" id2="17" version="1065353216">Query: Are you attempting to create a distraction with all that jumping, master?</text>
+		<text bitflag="1345" id1="571597" id2="17" version="1065353216">Judgment: Constant jumping is a highly inefficient mode of ambulation.</text>
+		<text bitflag="1345" id1="571601" id2="17" version="1065353216">Enhancements activating. Well done, master.</text>
+		<text bitflag="1345" id1="571604" id2="17" version="1065353216">Our efficiency increases exponentially.</text>
+		<text bitflag="1345" id1="571608" id2="17" version="1065353216">Target neutralized.</text>
+		<text bitflag="1345" id1="571611" id2="17" version="1065353216">That target was worthy of my protocols.</text>
+	</file_content>
+</stb_file>

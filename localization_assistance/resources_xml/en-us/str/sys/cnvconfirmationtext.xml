@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>81</strs>
+		<file_name>/resources/en-us/str/sys/cnvconfirmationtext.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="257" id2="856957" version="1065353216">Are you sure you want to continue with this choice?</text>
+		<text bitflag="321" id1="258" id2="856957" version="1065353216">This choice will kill Provost Marshal Rusk and make him permanently unavailable. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="259" id2="856957" version="1065353216">This choice will kill Skadge and make him permanently unavailable. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="260" id2="856957" version="1065353216">This choice will make Skadge permanently unavailable.  Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="261" id2="856957" version="1065353216">Proceed with this transaction?</text>
+		<text bitflag="321" id1="262" id2="856957" version="1065353216">This choice will end your hunt and you will no longer be able to turn trophies in to Qyzen Fess.</text>
+		<text bitflag="321" id1="263" id2="856957" version="1065353216">Using this terminal will have no impact on your story. Canonically speaking, your former companions will still be elsewhere in the galaxy until they return as part of future story events.
+
+Do you still wish to proceed?</text>
+		<text bitflag="321" id1="264" id2="856957" version="1065353216">Are you sure you wish to unlock this companion?</text>
+		<text bitflag="321" id1="265" id2="856957" version="1065353216">This choice will begin a romance with Lana Beniko. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="266" id2="856957" version="1065353216">This choice will begin a romance with Theron Shan. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="267" id2="856957" version="1065353216">This choice will begin a romance with Koth Vortena. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="268" id2="856957" version="1065353216">This choice will greatly anger Zenith and make him permanently unavailable. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="269" id2="856957" version="1065353216">Transaction Error</text>
+		<text bitflag="321" id1="270" id2="856957" version="1065353216">Not enough credits to complete transaction.</text>
+		<text bitflag="321" id1="271" id2="856957" version="1065353216">Not enough influence to complete transaction.</text>
+		<text bitflag="321" id1="272" id2="856957" version="1065353216">Missing required item(s) to complete transaction.</text>
+		<text bitflag="321" id1="273" id2="856957" version="1065353216">Not enough space in inventory to complete transaction.</text>
+		<text bitflag="321" id1="280" id2="856957" version="1065353216">This choice will reject Xalek as a companion, likely making him permanently unavailable. Are you sure you wish to proceed?</text>
+		<text bitflag="321" id1="281" id2="856957" version="1065353216">You have chosen to kill Xalek. This will make him permanently unavailable. Are you sure you wish to proceed?</text>
+		<text bitflag="321" id1="282" id2="856957" version="1065353216">You have chosen to reject Lokin as a companion. This will likely make him permanently unavailable. Are you sure you wish to proceed?</text>
+		<text bitflag="321" id1="283" id2="856957" version="1065353216">You have chosen to reject this companion, This will likely make them permanently unavailable. Are you sure you wish to proceed?</text>
+		<text bitflag="321" id1="284" id2="856957" version="1065353216">You have chosen to kill this companion. This will make them permanently unavailable. Are you sure you wish to proceed?</text>
+		<text bitflag="321" id1="285" id2="856957" version="1065353216">This choice will resume your romance with Aric Jorgan. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="286" id2="856957" version="1065353216">This choice will end your romance with Aric Jorgan. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="287" id2="856957" version="1065353216">This choice will resume your romance with Kaliyo Djannis. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="288" id2="856957" version="1065353216">This choice will end your romance with Kaliyo Djannis. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="289" id2="856957" version="1065353216">Are you sure you wish to kill this companion?</text>
+		<text bitflag="321" id1="290" id2="856957" version="1065353216">Reminder: Zenith holds a deep-seated hatred of the Empire. If you do not choose your words VERY carefully, Zenith may reject you outright, without warning, and become permanently unavailable.</text>
+		<text bitflag="321" id1="291" id2="856957" version="1065353216">This choice will resume your romance with Vette. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="292" id2="856957" version="1065353216">This choice will end your romance with Vette. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="293" id2="856957" version="1065353216">This choice will resume your romance with Torian Cadera. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="294" id2="856957" version="1065353216">This choice will end your romance with Torian Cadera. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="295" id2="856957" version="1065353216">This choice will make Guss permanently unavailable.  Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="296" id2="856957" version="1065353216">This choice will make Broonmark permanently unavailable.  Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="297" id2="856957" version="1065353216">This choice will kill Broonmark and make him permanently unavailable. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="298" id2="856957" version="1065353216">Using this terminal will have no impact on your story. Canonically speaking, your former companions will still be dead or unavailable.
+
+Do you still wish to proceed?</text>
+		<text bitflag="321" id1="299" id2="856957" version="1065353216">Using this terminal will have no impact on your story. Your choices will still be remembered, and companions who are dead or lost will still be absent from the story.
+
+Do you still wish to proceed?</text>
+		<text bitflag="321" id1="301" id2="856957" version="1065353216">You will need to use your wits if you're going to infiltrate Vaylin's palace and sabotage the security relays.
+
+Explore the environment, search for clues, and talk to people within the palace. If you need help, use the &quot;Hint&quot; ability.</text>
+		<text bitflag="321" id1="302" id2="856957" version="1065353216">This choice will resume your romance with Malavai Quinn. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="303" id2="856957" version="1065353216">This choice will resume your romance with Elara Dorne. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="304" id2="856957" version="1065353216">This choice will end your romance with Malavai Quinn. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="305" id2="856957" version="1065353216">This choice will end your romance with Elara Dorne. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="306" id2="856957" version="1065353216">Doing this will restore Elara Dorne to whatever you chose during the Iokath arc. If you recruited her, she will be restored. If you drove her away, she will be known, but unavailable. To bring her back from that, use the Companion Locator Terminal again.</text>
+		<text bitflag="321" id1="307" id2="856957" version="1065353216">Doing this will restore Malavai Quinn to whatever you chose during the Iokath arc. If you recruited him, he will be restored. If you drove him away, he will be known, but unavailable. If you chose to kill him, he will be listd as dead. To bring him back from that, use the Companion Locator Terminal again.</text>
+		<text bitflag="321" id1="308" id2="856957" version="1065353216">This choice will end your romance with Raina Temple. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="309" id2="856957" version="1065353216">This choice will resume your romance with Raina Temple. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="310" id2="856957" version="1065353216">This choice will resume your romance with Andronikos Revel. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="311" id2="856957" version="1065353216">This choice will resume your romance with Corso Riggs. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="312" id2="856957" version="1065353216">This choice will resume your romance with Risha Drayen. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="313" id2="856957" version="1065353216">This choice will resume your romance with Vector Hyllus. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="314" id2="856957" version="1065353216">This choice will start your romance with Arcann. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="315" id2="856957" version="1065353216">This choice will end your romance with Andronikos Revel. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="316" id2="856957" version="1065353216">This choice will end your romance with Corso Riggs. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="317" id2="856957" version="1065353216">This choice will end your romance with Risha Drayen. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="318" id2="856957" version="1065353216">This choice will end your romance with Vector Hyllus. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="319" id2="856957" version="1065353216">This choice will end your romance with Arcann. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="326" id2="856957" version="1065353216">This choice will resume your romance with Ashara Zavros. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="327" id2="856957" version="1065353216">This choice will end your romance with Ashara Zavros. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="328" id2="856957" version="1065353216">This choice will end your romance with Mako. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="329" id2="856957" version="1065353216">This choice will end your romance with Akaavi Spar. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="330" id2="856957" version="1065353216">This choice will resume your romance with Mako. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="331" id2="856957" version="1065353216">This choice will resume your romance with Akaavi Spar. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="332" id2="856957" version="1065353216">This choice will resume your romance with Felix Iresso. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="333" id2="856957" version="1065353216">This choice will end your romance with Felix Iresso. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="334" id2="856957" version="1065353216">This choice will resume your romance with Theron Shan and end any romances you may have with any other characters. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="335" id2="856957" version="1065353216">This choice will end your romance with Theron Shan. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="336" id2="856957" version="1065353216">This choice will resume your romance with Nadia Grell. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="337" id2="856957" version="1065353216">This choice will end your romance with Nadia Grell. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="338" id2="856957" version="1065353216">This choice will make Nadia Grell permanently unavailable.  Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="339" id2="856957" version="1065353216">This choice will resume your romance with Doc. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="340" id2="856957" version="1065353216">This choice will end your romance with Doc. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="341" id2="856957" version="1065353216">This choice will make Doc permanently unavailable.  Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="342" id2="856957" version="1065353216">This choice will start your romance with Nadia Grell. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="343" id2="856957" version="1065353216">This choice will start your romance with Doc. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="344" id2="856957" version="1065353216">This choice will resume your romance with Jaesa Willsaam. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="345" id2="856957" version="1065353216">This choice will end your romance with Jaesa Willsaam. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="346" id2="856957" version="1065353216">This choice will make Jaesa Willsaam permanently unavailable.  Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="347" id2="856957" version="1065353216">This choice will start your romance with Jaesa Willsaam. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="348" id2="856957" version="1065353216">This choice will make Khem Val permanently unavailable.  Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="349" id2="856957" version="1065353216">This choice will start your romance with Khem Val. Doing so will end any other romances you may be involved in. Are you sure you want to proceed?</text>
+		<text bitflag="321" id1="350" id2="856957" version="1065353216">Begining this quest will automatically complete any uncompleted quests in your class story, Shadow of Revan, Knights of the Fallen Empire, Knights of the Eternal Throne, and Fractured Alliances content. Romance options for any returned companions will not be set and your story will continue with default choices for those stories. Are you sure you wish to proceed?</text>
+	</file_content>
+</stb_file>

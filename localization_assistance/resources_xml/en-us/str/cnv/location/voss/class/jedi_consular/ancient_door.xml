@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/class/jedi_consular/ancient_door.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="497350" id2="17" version="1065353216">Three altars. I meditate, for enlightenment. Any nesting beasts will wake.</text>
+		<text bitflag="1345" id1="497351" id2="17" version="1065353216">You have a final lesson to learn from these altars?</text>
+		<text bitflag="1360" id1="497351" id2="17" version="1065353216">What does this teach you?</text>
+		<text bitflag="1345" id1="497352" id2="17" version="1065353216">Altars are life, death, duty. Mystics must know.</text>
+		<text bitflag="1345" id1="497354" id2="17" version="1065353216">You'll be perfectly safe with me.</text>
+		<text bitflag="1360" id1="497354" id2="17" version="1065353216">I can protect you.</text>
+		<text bitflag="1345" id1="497355" id2="17" version="1065353216">In my experience, contemplation is silent.</text>
+		<text bitflag="1360" id1="497355" id2="17" version="1065353216">Not if you meditate quietly.</text>
+		<text bitflag="1345" id1="497356" id2="17" version="1065353216">Scent, not sound. Please protect me.</text>
+		<text bitflag="1345" id1="497358" id2="17" version="1065353216">Inside, my journey's end.</text>
+		<text bitflag="321" id1="497360" id2="17" version="1065353216">[You can see no way to open this door.]</text>
+	</file_content>
+</stb_file>

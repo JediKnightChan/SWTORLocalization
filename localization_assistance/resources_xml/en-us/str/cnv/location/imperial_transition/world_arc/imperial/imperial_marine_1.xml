@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/imperial_marine_1.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="661180" id2="17" version="1065353216">Halt! My lord, this is a restricted area--Captain Orzik's command. You'll have to leave immediately.</text>
+		<text bitflag="1345" id1="661181" id2="17" version="1065353216">Halt! This is a restricted area--Captain Orzik's command. You'll have to leave immediately.</text>
+		<text bitflag="1360" id1="661182" id2="17" version="1065353216">You're finished. [Attack]</text>
+		<text bitflag="1345" id1="661183" id2="17" version="1065353216">I suggest you back off before someone gets hurt.</text>
+		<text bitflag="1360" id1="661183" id2="17" version="1065353216">For your sake, stand aside.</text>
+		<text bitflag="1345" id1="661184" id2="17" version="1065353216">I'm afraid I can't do that.</text>
+		<text bitflag="1345" id1="661186" id2="17" version="1065353216">Sorry. I'm not quite sure where I am....</text>
+		<text bitflag="1360" id1="661186" id2="17" version="1065353216">I'm lost.</text>
+		<text bitflag="1345" id1="661187" id2="17" version="1065353216">This is the command deck entry hatch. No one's allowed in until we reach our destination.</text>
+		<text bitflag="1345" id1="661189" id2="17" version="1065353216">Time is limited. We must proceed to the bridge immediately.</text>
+		<text bitflag="1345" id1="661191" id2="17" version="1065353216">Our orders were to treat any approach as an attack. You need to take your droid and move it!</text>
+		<text bitflag="1360" id1="661192" id2="17" version="1065353216">Meet your doom. [Attack]</text>
+		<text bitflag="1360" id1="661193" id2="17" version="1065353216">I'm not afraid.</text>
+		<text bitflag="1345" id1="661194" id2="17" version="1065353216">You had your chance. We warned you!</text>
+		<text bitflag="1345" id1="661196" id2="17" version="1065353216">I'm stepping away. There's no need to be nervous.</text>
+		<text bitflag="1360" id1="661196" id2="17" version="1065353216">Okay, I'll move.</text>
+		<text bitflag="1345" id1="661197" id2="17" version="1065353216">Our window to intercept the Brentaal Star is rapidly closing. Engaging expediency measures.</text>
+		<text bitflag="1345" id1="661199" id2="17" version="1065353216">Blasters out! Attack, attack!</text>
+		<text bitflag="1345" id1="661203" id2="17" version="1065353216">Please move aside immediately.</text>
+	</file_content>
+</stb_file>

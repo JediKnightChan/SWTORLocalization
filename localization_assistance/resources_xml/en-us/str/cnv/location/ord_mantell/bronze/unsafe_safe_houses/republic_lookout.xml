@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/ord_mantell/bronze/unsafe_safe_houses/republic_lookout.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="631672" id2="17" version="1065353216">This thing doubles as a listening array--we're trying to get intel on Mannett Point.</text>
+		<text bitflag="1345" id1="631674" id2="17" version="1065353216">You're in charge of communications? I found a relay at a separatist safe house--they were tapping your signals.</text>
+		<text bitflag="1345" id1="631675" id2="17" version="1065353216">Blast--I thought we'd put a stop to that a month ago.</text>
+		<text bitflag="1345" id1="631677" id2="17" version="1065353216">I'll red-flag all recent transmissions, make sure nothing major leaked. I owe you one.</text>
+		<text bitflag="1345" id1="631679" id2="17" version="1065353216">Take a look; you can see clear to Mannett Point.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>757</strs>
+		<file_name>/resources/en-us/str/gui/elev_dest_names.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194104" version="1065353216">Level 1</text>
+		<text bitflag="321" id1="2" id2="194104" version="1065353216">Level 2</text>
+		<text bitflag="321" id1="3" id2="194104" version="1065353216">Level 3</text>
+		<text bitflag="321" id1="4" id2="194104" version="1065353216">Level 4</text>
+		<text bitflag="321" id1="5" id2="194104" version="1065353216">Tython</text>
+		<text bitflag="321" id1="6" id2="194104" version="1065353216">Main Level</text>
+		<text bitflag="321" id1="7" id2="194104" version="1065353216">Tython Orbital Station</text>
+		<text bitflag="321" id1="8" id2="194104" version="1065353216">Jedi Consular Airlock</text>
+		<text bitflag="321" id1="9" id2="194104" version="1065353216">Jedi Knight Airlock</text>
+		<text bitflag="321" id1="10" id2="194104" version="1065353216">Smuggler Airlock</text>
+		<text bitflag="321" id1="11" id2="194104" version="1065353216">Trooper Airlock</text>
+		<text bitflag="321" id1="12" id2="194104" version="1065353216">Ord Mantell</text>
+		<text bitflag="321" id1="13" id2="194104" version="1065353216">Ord Mantell Orbital Station</text>
+		<text bitflag="321" id1="14" id2="194104" version="1065353216">Engineering Deck</text>
+		<text bitflag="321" id1="15" id2="194104" version="1065353216">Hangar Bay</text>
+		<text bitflag="321" id1="16" id2="194104" version="1065353216">Bridge</text>
+		<text bitflag="321" id1="17" id2="194104" version="1065353216">Airlock</text>
+		<text bitflag="321" id1="18" id2="194104" version="1065353216">Atrium</text>
+		<text bitflag="321" id1="19" id2="194104" version="1065353216">Security Control</text>
+		<text bitflag="321" id1="20" id2="194104" version="1065353216">Atrium</text>
+		<text bitflag="321" id1="21" id2="194104" version="1065353216">Taris Orbital Station</text>
+		<text bitflag="321" id1="22" id2="194104" version="1065353216">Imperial Agent Airlock</text>
+		<text bitflag="321" id1="23" id2="194104" version="1065353216">Sith Warrior Airlock</text>
+		<text bitflag="321" id1="24" id2="194104" version="1065353216">Sith Inquisitor Airlock</text>
+		<text bitflag="321" id1="25" id2="194104" version="1065353216">Bounty Hunter Airlock</text>
+		<text bitflag="321" id1="26" id2="194104" version="1065353216">Communications Deck</text>
+		<text bitflag="321" id1="27" id2="194104" version="1065353216">Hangar Deck</text>
+		<text bitflag="321" id1="28" id2="194104" version="1065353216">High-Security Storage</text>
+		<text bitflag="321" id1="29" id2="194104" version="1065353216">Jedi Consular Hangar</text>
+		<text bitflag="321" id1="30" id2="194104" version="1065353216">Jedi Knight Hangar</text>
+		<text bitflag="321" id1="31" id2="194104" version="1065353216">Smuggler Hangar</text>
+		<text bitflag="321" id1="32" id2="194104" version="1065353216">Trooper Hangar</text>
+		<text bitflag="321" id1="33" id2="194104" version="1065353216">Imperial Agent Hangar</text>
+		<text bitflag="321" id1="34" id2="194104" version="1065353216">Sith Warrior Hangar</text>
+		<text bitflag="321" id1="35" id2="194104" version="1065353216">Sith Inquisitor Hangar</text>
+		<text bitflag="321" id1="36" id2="194104" version="1065353216">Bounty Hunter Hangar</text>
+		<text bitflag="321" id1="37" id2="194104" version="1065353216">Olaris Spaceport</text>
+		<text bitflag="321" id1="38" id2="194104" version="1065353216">Korriban Orbital Station</text>
+		<text bitflag="326" id1="38" id2="194104" version="1065353216">False</text>
+		<text bitflag="321" id1="39" id2="194104" version="1065353216">Hutta Orbital Station</text>
+		<text bitflag="321" id1="40" id2="194104" version="1065353216">Hutta</text>
+		<text bitflag="321" id1="41" id2="194104" version="1065353216">Main Level</text>
+		<text bitflag="321" id1="42" id2="194104" version="1065353216">Hangar 42</text>
+		<text bitflag="321" id1="43" id2="194104" version="1065353216">Castle Panteer</text>
+		<text bitflag="321" id1="44" id2="194104" version="1065353216">Holo Archives</text>
+		<text bitflag="321" id1="45" id2="194104" version="1065353216">Upper Level</text>
+		<text bitflag="321" id1="46" id2="194104" version="1065353216">Throne Room</text>
+		<text bitflag="321" id1="47" id2="194104" version="1065353216">Korriban</text>
+		<text bitflag="321" id1="48" id2="194104" version="1065353216">Upper Level</text>
+		<text bitflag="321" id1="49" id2="194104" version="1065353216">Lower Level</text>
+		<text bitflag="321" id1="50" id2="194104" version="1065353216">Balmorran Arms Factory</text>
+		<text bitflag="321" id1="51" id2="194104" version="1065353216">Imperial Weapons Research Lab</text>
+		<text bitflag="321" id1="52" id2="194104" version="1065353216">Barrager Laboratory</text>
+		<text bitflag="321" id1="53" id2="194104" version="1065353216">Sobrik Spaceport</text>
+		<text bitflag="321" id1="54" id2="194104" version="1065353216">Hangar 59</text>
+		<text bitflag="321" id1="55" id2="194104" version="1065353216">Hangar 61</text>
+		<text bitflag="321" id1="56" id2="194104" version="1065353216">Balmorra Orbital Station</text>
+		<text bitflag="321" id1="57" id2="194104" version="1065353216">Bugtown</text>
+		<text bitflag="321" id1="58" id2="194104" version="1065353216">Castle Organa</text>
+		<text bitflag="321" id1="59" id2="194104" version="1065353216">Castle Organa Basement</text>
+		<text bitflag="321" id1="60" id2="194104" version="1065353216">Spaceport Courtyard</text>
+		<text bitflag="321" id1="61" id2="194104" version="1065353216">Hangar IS-64</text>
+		<text bitflag="321" id1="62" id2="194104" version="1065353216">Rhu Caenus Spaceport</text>
+		<text bitflag="321" id1="63" id2="194104" version="1065353216">Ganelon Shipyards Dock</text>
+		<text bitflag="321" id1="64" id2="194104" version="1065353216">Industrial Sector</text>
+		<text bitflag="321" id1="65" id2="194104" version="1065353216">Star Cluster Casino</text>
+		<text bitflag="321" id1="66" id2="194104" version="1065353216">Penthouse</text>
+		<text bitflag="321" id1="67" id2="194104" version="1065353216">Pallista Spaceport</text>
+		<text bitflag="321" id1="68" id2="194104" version="1065353216">Hangar RS-32</text>
+		<text bitflag="321" id1="69" id2="194104" version="1065353216">Coruscant Spaceport</text>
+		<text bitflag="321" id1="70" id2="194104" version="1065353216">Dromund Kaas Spaceport</text>
+		<text bitflag="321" id1="71" id2="194104" version="1065353216">Command Deck</text>
+		<text bitflag="321" id1="72" id2="194104" version="1065353216">Hangar Deck</text>
+		<text bitflag="321" id1="73" id2="194104" version="1065353216">Back Alleys</text>
+		<text bitflag="321" id1="74" id2="194104" version="1065353216">Back Alley Balcony</text>
+		<text bitflag="321" id1="75" id2="194104" version="1065353216">Shuttle Docking Bay</text>
+		<text bitflag="321" id1="76" id2="194104" version="1065353216">Jedi Temple Speeder Pad</text>
+		<text bitflag="321" id1="77" id2="194104" version="1065353216">Justicar Territory</text>
+		<text bitflag="321" id1="78" id2="194104" version="1065353216">The Works</text>
+		<text bitflag="321" id1="79" id2="194104" version="1065353216">Justicar Maintenance</text>
+		<text bitflag="321" id1="80" id2="194104" version="1065353216">Gorinth Canyon</text>
+		<text bitflag="321" id1="81" id2="194104" version="1065353216">Kag'areth Queen's Nest</text>
+		<text bitflag="321" id1="82" id2="194104" version="1065353216">Hangar Bay 59</text>
+		<text bitflag="321" id1="83" id2="194104" version="1065353216">Okara Droid Factory</text>
+		<text bitflag="321" id1="84" id2="194104" version="1065353216">Computer Control Center</text>
+		<text bitflag="321" id1="85" id2="194104" version="1065353216">Power Generator</text>
+		<text bitflag="321" id1="86" id2="194104" version="1065353216">Hangar Bay 61</text>
+		<text bitflag="321" id1="87" id2="194104" version="1065353216">Docking Bay O-17</text>
+		<text bitflag="321" id1="88" id2="194104" version="1065353216">Docking Bay B-04</text>
+		<text bitflag="321" id1="89" id2="194104" version="1065353216">Kaas City</text>
+		<text bitflag="321" id1="90" id2="194104" version="1065353216">Cargo Port A3</text>
+		<text bitflag="321" id1="91" id2="194104" version="1065353216">Cargo Port B7</text>
+		<text bitflag="321" id1="92" id2="194104" version="1065353216">Docking Bay D-61</text>
+		<text bitflag="321" id1="93" id2="194104" version="1065353216">Sith Asylum</text>
+		<text bitflag="321" id1="94" id2="194104" version="1065353216">Security Control</text>
+		<text bitflag="321" id1="95" id2="194104" version="1065353216">Port Hangar</text>
+		<text bitflag="321" id1="96" id2="194104" version="1065353216">Engine Room</text>
+		<text bitflag="321" id1="97" id2="194104" version="1065353216">Starboard Hangar</text>
+		<text bitflag="321" id1="98" id2="194104" version="1065353216">Hoth Orbital Station</text>
+		<text bitflag="321" id1="99" id2="194104" version="1065353216">Aurek Base</text>
+		<text bitflag="321" id1="100" id2="194104" version="1065353216">Adamas Space Station</text>
+		<text bitflag="321" id1="101" id2="194104" version="1065353216">Dorn Base</text>
+		<text bitflag="321" id1="102" id2="194104" version="1065353216">Mezenti Spaceport</text>
+		<text bitflag="321" id1="103" id2="194104" version="1065353216">Docking Bay 27</text>
+		<text bitflag="321" id1="104" id2="194104" version="1065353216">Cada Bliss's Hangar</text>
+		<text bitflag="321" id1="105" id2="194104" version="1065353216">Docking Bay 66</text>
+		<text bitflag="321" id1="106" id2="194104" version="1065353216">Deucalon Spaceport</text>
+		<text bitflag="321" id1="107" id2="194104" version="1065353216">Corellian Sector</text>
+		<text bitflag="321" id1="108" id2="194104" version="1065353216">Exchange Cargo Docks</text>
+		<text bitflag="321" id1="109" id2="194104" version="1065353216">Duros Slums</text>
+		<text bitflag="321" id1="110" id2="194104" version="1065353216">Rebel Refugee Zone</text>
+		<text bitflag="321" id1="111" id2="194104" version="1065353216">Upper Industrial Sector</text>
+		<text bitflag="321" id1="112" id2="194104" version="1065353216">Exchange Gang Shipyard</text>
+		<text bitflag="321" id1="113" id2="194104" version="1065353216">Abandoned Factory</text>
+		<text bitflag="321" id1="114" id2="194104" version="1065353216">Network Access</text>
+		<text bitflag="321" id1="115" id2="194104" version="1065353216">Power Station</text>
+		<text bitflag="321" id1="116" id2="194104" version="1065353216">Club Vertica</text>
+		<text bitflag="321" id1="117" id2="194104" version="1065353216">Penthouse</text>
+		<text bitflag="321" id1="118" id2="194104" version="1065353216">Nikto Sector</text>
+		<text bitflag="321" id1="119" id2="194104" version="1065353216">Fate's Hand Casino</text>
+		<text bitflag="321" id1="120" id2="194104" version="1065353216">Kintan Arena</text>
+		<text bitflag="321" id1="121" id2="194104" version="1065353216">Warehouse District Arena</text>
+		<text bitflag="321" id1="122" id2="194104" version="1065353216">Red Light Sector</text>
+		<text bitflag="321" id1="123" id2="194104" version="1065353216">Gauntlet Gang Area</text>
+		<text bitflag="321" id1="124" id2="194104" version="1065353216">Quarantine Zone</text>
+		<text bitflag="321" id1="125" id2="194104" version="1065353216">Lower Industrial Sector</text>
+		<text bitflag="321" id1="126" id2="194104" version="1065353216">Labor District</text>
+		<text bitflag="321" id1="127" id2="194104" version="1065353216">Clan Sharratt Enclave</text>
+		<text bitflag="321" id1="128" id2="194104" version="1065353216">Shadow Town</text>
+		<text bitflag="321" id1="129" id2="194104" version="1065353216">Prison Control</text>
+		<text bitflag="321" id1="130" id2="194104" version="1065353216">Camp 27 Lockdown</text>
+		<text bitflag="321" id1="131" id2="194104" version="1065353216">Droid Charging Facility - Elevator</text>
+		<text bitflag="321" id1="132" id2="194104" version="1065353216">Droid Charging Facility</text>
+		<text bitflag="321" id1="133" id2="194104" version="1065353216">Fain's Hideout - Elevator</text>
+		<text bitflag="321" id1="134" id2="194104" version="1065353216">Fain's Hideout</text>
+		<text bitflag="321" id1="135" id2="194104" version="1065353216">Ukabi's Base Entrance</text>
+		<text bitflag="321" id1="136" id2="194104" version="1065353216">Ukabi's Base</text>
+		<text bitflag="321" id1="137" id2="194104" version="1065353216">Upper Office Atrium</text>
+		<text bitflag="321" id1="138" id2="194104" version="1065353216">Imperial Mercenary Camp</text>
+		<text bitflag="321" id1="139" id2="194104" version="1065353216">Imperial Intelligence Gadget Warehouse</text>
+		<text bitflag="321" id1="140" id2="194104" version="1065353216">High Security Lockdown</text>
+		<text bitflag="321" id1="141" id2="194104" version="1065353216">Republic Research Division</text>
+		<text bitflag="321" id1="142" id2="194104" version="1065353216">Lower Office Atrium</text>
+		<text bitflag="321" id1="143" id2="194104" version="1065353216">Network Security District</text>
+		<text bitflag="321" id1="144" id2="194104" version="1065353216">Morgukai Temple</text>
+		<text bitflag="321" id1="145" id2="194104" version="1065353216">Hidden Republic Lab</text>
+		<text bitflag="321" id1="146" id2="194104" version="1065353216">Lab Observation</text>
+		<text bitflag="321" id1="147" id2="194104" version="1065353216">Port Hangar</text>
+		<text bitflag="321" id1="148" id2="194104" version="1065353216">Transport Deck</text>
+		<text bitflag="321" id1="149" id2="194104" version="1065353216">Engine Deck</text>
+		<text bitflag="321" id1="150" id2="194104" version="1065353216">Passenger Deck</text>
+		<text bitflag="321" id1="151" id2="194104" version="1065353216">Docking Level</text>
+		<text bitflag="321" id1="152" id2="194104" version="1065353216">Port Hangar Deck</text>
+		<text bitflag="321" id1="153" id2="194104" version="1065353216">Starboard Hangar Bay</text>
+		<text bitflag="321" id1="154" id2="194104" version="1065353216">Maintenance Hangar</text>
+		<text bitflag="321" id1="155" id2="194104" version="1065353216">Power Core</text>
+		<text bitflag="321" id1="156" id2="194104" version="1065353216">Detention Level</text>
+		<text bitflag="321" id1="157" id2="194104" version="1065353216">Quesh Orbital Station</text>
+		<text bitflag="321" id1="158" id2="194104" version="1065353216">Anchorhead Spaceport</text>
+		<text bitflag="321" id1="159" id2="194104" version="1065353216">Mos Ila Spaceport</text>
+		<text bitflag="321" id1="160" id2="194104" version="1065353216">Hangar 21</text>
+		<text bitflag="321" id1="161" id2="194104" version="1065353216">Docking Bay 64</text>
+		<text bitflag="321" id1="162" id2="194104" version="1065353216">Red</text>
+		<text bitflag="321" id1="163" id2="194104" version="1065353216">Yellow</text>
+		<text bitflag="321" id1="164" id2="194104" version="1065353216">Blue</text>
+		<text bitflag="321" id1="165" id2="194104" version="1065353216">Green</text>
+		<text bitflag="321" id1="166" id2="194104" version="1065353216">Yes</text>
+		<text bitflag="321" id1="167" id2="194104" version="1065353216">No</text>
+		<text bitflag="321" id1="168" id2="194104" version="1065353216">Matrix Amplifier</text>
+		<text bitflag="321" id1="169" id2="194104" version="1065353216">Matrix Emitter</text>
+		<text bitflag="321" id1="170" id2="194104" version="1065353216">Matrix Prism</text>
+		<text bitflag="321" id1="171" id2="194104" version="1065353216">Choose Input:</text>
+		<text bitflag="321" id1="172" id2="194104" version="1065353216">Extend Bridge</text>
+		<text bitflag="321" id1="173" id2="194104" version="1065353216">Retract Bridge</text>
+		<text bitflag="321" id1="174" id2="194104" version="1065353216">Ilum Orbital Station</text>
+		<text bitflag="321" id1="175" id2="194104" version="1065353216">Ilum</text>
+		<text bitflag="321" id1="176" id2="194104" version="1065353216">Belsavis Orbital Station</text>
+		<text bitflag="321" id1="177" id2="194104" version="1065353216">Chapter 1</text>
+		<text bitflag="321" id1="178" id2="194104" version="1065353216">Chapter 2</text>
+		<text bitflag="321" id1="179" id2="194104" version="1065353216">Chapter 3</text>
+		<text bitflag="321" id1="180" id2="194104" version="1065353216">Docking Bay Level</text>
+		<text bitflag="321" id1="181" id2="194104" version="1065353216">Executive Wing</text>
+		<text bitflag="321" id1="182" id2="194104" version="1065353216">Aft Security Center</text>
+		<text bitflag="321" id1="183" id2="194104" version="1065353216">Bridge</text>
+		<text bitflag="321" id1="184" id2="194104" version="1065353216">Weapons Deck</text>
+		<text bitflag="321" id1="185" id2="194104" version="1065353216">The Elysium</text>
+		<text bitflag="321" id1="186" id2="194104" version="1065353216">Glarus Valley Shuttlepad</text>
+		<text bitflag="321" id1="187" id2="194104" version="1065353216">Entrance</text>
+		<text bitflag="321" id1="188" id2="194104" version="1065353216">Labor Camp</text>
+		<text bitflag="321" id1="189" id2="194104" version="1065353216">Aegis Base</text>
+		<text bitflag="321" id1="190" id2="194104" version="1065353216">Incorporation Islands Fuel Depot</text>
+		<text bitflag="321" id1="191" id2="194104" version="1065353216">Specimen Storage Complex</text>
+		<text bitflag="321" id1="192" id2="194104" version="1065353216">Geothermal Power Plant</text>
+		<text bitflag="321" id1="193" id2="194104" version="1065353216">Doctor Lorrick's Lab</text>
+		<text bitflag="321" id1="194" id2="194104" version="1065353216">Upper Reactor Core</text>
+		<text bitflag="321" id1="195" id2="194104" version="1065353216">Reactor Control Room</text>
+		<text bitflag="321" id1="196" id2="194104" version="1065353216">Command Deck</text>
+		<text bitflag="321" id1="197" id2="194104" version="1065353216">The Emperor's Throne Room</text>
+		<text bitflag="321" id1="198" id2="194104" version="1065353216">Hangar Deck</text>
+		<text bitflag="321" id1="199" id2="194104" version="1065353216">Ion Cannon Chamber</text>
+		<text bitflag="321" id1="200" id2="194104" version="1065353216">Central Reactor Core</text>
+		<text bitflag="321" id1="201" id2="194104" version="1065353216">Sendoth Ruins</text>
+		<text bitflag="321" id1="202" id2="194104" version="1065353216">Maintenance Access</text>
+		<text bitflag="321" id1="203" id2="194104" version="1065353216">Crew Deck</text>
+		<text bitflag="321" id1="204" id2="194104" version="1065353216">Crew Deck</text>
+		<text bitflag="321" id1="205" id2="194104" version="1065353216">Maintenance Deck</text>
+		<text bitflag="321" id1="206" id2="194104" version="1065353216">Operations Deck</text>
+		<text bitflag="321" id1="207" id2="194104" version="1065353216">Lower Transport Center</text>
+		<text bitflag="321" id1="208" id2="194104" version="1065353216">Upper Transport Center</text>
+		<text bitflag="321" id1="209" id2="194104" version="1065353216">Excavated Transport Center</text>
+		<text bitflag="321" id1="210" id2="194104" version="1065353216">Outer Tomb Transport Chamber</text>
+		<text bitflag="321" id1="211" id2="194104" version="1065353216">Western Rakata Transporter</text>
+		<text bitflag="321" id1="212" id2="194104" version="1065353216">Frozen Transport Center</text>
+		<text bitflag="321" id1="213" id2="194104" version="1065353216">Ancient Transport Center</text>
+		<text bitflag="321" id1="214" id2="194104" version="1065353216">Rakata Transport Center</text>
+		<text bitflag="321" id1="215" id2="194104" version="1065353216">Lower Prison Outer Transport</text>
+		<text bitflag="321" id1="216" id2="194104" version="1065353216">Lower Prison Magma Transport</text>
+		<text bitflag="321" id1="217" id2="194104" version="1065353216">Southern Rakata Transporter</text>
+		<text bitflag="321" id1="218" id2="194104" version="1065353216">Deep Launchpoint Transporter</text>
+		<text bitflag="321" id1="219" id2="194104" version="1065353216">Prison Industrial Facility</text>
+		<text bitflag="321" id1="220" id2="194104" version="1065353216">Prison Industrial Facility Generator Room</text>
+		<text bitflag="321" id1="221" id2="194104" version="1065353216">Axial Park</text>
+		<text bitflag="321" id1="222" id2="194104" version="1065353216">Old Selonian Tunnels</text>
+		<text bitflag="321" id1="223" id2="194104" version="1065353216">Residential Catwalks</text>
+		<text bitflag="321" id1="224" id2="194104" version="1065353216">Duros Sector Catwalks</text>
+		<text bitflag="321" id1="225" id2="194104" version="1065353216">Ground Floor</text>
+		<text bitflag="321" id1="226" id2="194104" version="1065353216">Roof</text>
+		<text bitflag="321" id1="227" id2="194104" version="1065353216">Plaza Catwalks</text>
+		<text bitflag="321" id1="228" id2="194104" version="1065353216">Red Light Sector Catwalks</text>
+		<text bitflag="321" id1="229" id2="194104" version="1065353216">Korvalus Tower</text>
+		<text bitflag="321" id1="230" id2="194104" version="1065353216">Tyrelli Habitat</text>
+		<text bitflag="321" id1="231" id2="194104" version="1065353216">Gowix Corp</text>
+		<text bitflag="321" id1="232" id2="194104" version="1065353216">Corellian Museum of Starships</text>
+		<text bitflag="321" id1="233" id2="194104" version="1065353216">Access Tunnels</text>
+		<text bitflag="321" id1="234" id2="194104" version="1065353216">Pirate Holdout</text>
+		<text bitflag="321" id1="235" id2="194104" version="1065353216">Battle Cruiser Eclipse</text>
+		<text bitflag="321" id1="236" id2="194104" version="1065353216">Coronet City Capitol Square</text>
+		<text bitflag="321" id1="237" id2="194104" version="1065353216">Incinerator Unit</text>
+		<text bitflag="321" id1="238" id2="194104" version="1065353216">DANGER: Maintenance Only</text>
+		<text bitflag="321" id1="239" id2="194104" version="1065353216">Incinerator Room</text>
+		<text bitflag="321" id1="240" id2="194104" version="1065353216">Input Override ID:</text>
+		<text bitflag="321" id1="241" id2="194104" version="1065353216">326:3823</text>
+		<text bitflag="321" id1="242" id2="194104" version="1065353216">326:3827</text>
+		<text bitflag="321" id1="243" id2="194104" version="1065353216">326:3839</text>
+		<text bitflag="321" id1="244" id2="194104" version="1065353216">326:3842</text>
+		<text bitflag="321" id1="245" id2="194104" version="1065353216">326:3851</text>
+		<text bitflag="321" id1="246" id2="194104" version="1065353216">Maintenance Overrides</text>
+		<text bitflag="321" id1="247" id2="194104" version="1065353216">Ventilation :3918</text>
+		<text bitflag="321" id1="248" id2="194104" version="1065353216">Hydro Works :3782</text>
+		<text bitflag="321" id1="249" id2="194104" version="1065353216">Incinerator :3827</text>
+		<text bitflag="321" id1="250" id2="194104" version="1065353216">The Tears of Taris</text>
+		<text bitflag="321" id1="251" id2="194104" version="1065353216">Imperial Landing Base</text>
+		<text bitflag="321" id1="252" id2="194104" version="1065353216">Dark Temple Approach</text>
+		<text bitflag="321" id1="253" id2="194104" version="1065353216">Darth Charnus's Shuttle Hangar</text>
+		<text bitflag="321" id1="254" id2="194104" version="1065353216">Voss Orbital Station</text>
+		<text bitflag="321" id1="255" id2="194104" version="1065353216">Insert Rakata Energy Cube</text>
+		<text bitflag="321" id1="256" id2="194104" version="1065353216">Exit System</text>
+		<text bitflag="321" id1="257" id2="194104" version="1065353216">Run Shard Sequence</text>
+		<text bitflag="321" id1="258" id2="194104" version="1065353216">326:3846</text>
+		<text bitflag="321" id1="259" id2="194104" version="1065353216">326:3942</text>
+		<text bitflag="321" id1="260" id2="194104" version="1065353216">Lost Transporter</text>
+		<text bitflag="321" id1="261" id2="194104" version="1065353216">Rakata Transporter</text>
+		<text bitflag="321" id1="262" id2="194104" version="1065353216">Upper Reactor Core</text>
+		<text bitflag="321" id1="263" id2="194104" version="1065353216">Central Reactor Core</text>
+		<text bitflag="321" id1="264" id2="194104" version="1065353216">White Nova</text>
+		<text bitflag="321" id1="265" id2="194104" version="1065353216">Boarding Access</text>
+		<text bitflag="321" id1="266" id2="194104" version="1065353216">White Nova</text>
+		<text bitflag="321" id1="267" id2="194104" version="1065353216">Boarding Airlock</text>
+		<text bitflag="321" id1="268" id2="194104" version="1065353216">Gearbox's Bunker</text>
+		<text bitflag="321" id1="269" id2="194104" version="1065353216">Generator Access</text>
+		<text bitflag="321" id1="270" id2="194104" version="1065353216">Off</text>
+		<text bitflag="321" id1="271" id2="194104" version="1065353216">KOTOR 1 Theme</text>
+		<text bitflag="321" id1="272" id2="194104" version="1065353216">Cantina Tune</text>
+		<text bitflag="321" id1="273" id2="194104" version="1065353216">Imperial Garrison</text>
+		<text bitflag="321" id1="274" id2="194104" version="1065353216">Republic Operational Headquarters</text>
+		<text bitflag="321" id1="275" id2="194104" version="1065353216">Club Vertica Security Substation</text>
+		<text bitflag="321" id1="276" id2="194104" version="1065353216">Defense Network Control Center</text>
+		<text bitflag="321" id1="277" id2="194104" version="1065353216">Darth Decimus's Rise</text>
+		<text bitflag="321" id1="278" id2="194104" version="1065353216">Imperial Central Command</text>
+		<text bitflag="321" id1="279" id2="194104" version="1065353216">Sith Academy</text>
+		<text bitflag="321" id1="280" id2="194104" version="1065353216">Lord Khreusis's Stronghold</text>
+		<text bitflag="321" id1="281" id2="194104" version="1065353216">Try to Disable the Shield</text>
+		<text bitflag="321" id1="282" id2="194104" version="1065353216">Do Nothing</text>
+		<text bitflag="321" id1="283" id2="194104" version="1065353216">Spirit World</text>
+		<text bitflag="321" id1="284" id2="194104" version="1065353216">Proving Grounds</text>
+		<text bitflag="321" id1="285" id2="194104" version="1065353216">The Dream Walker's Path</text>
+		<text bitflag="321" id1="286" id2="194104" version="1065353216">Gormak Zak's Home</text>
+		<text bitflag="321" id1="287" id2="194104" version="1065353216">Power Center Transport</text>
+		<text bitflag="321" id1="288" id2="194104" version="1065353216">Power Center Transport</text>
+		<text bitflag="321" id1="289" id2="194104" version="1065353216">Mind Healer's Grove</text>
+		<text bitflag="321" id1="290" id2="194104" version="1065353216">Chamber of Cleansing</text>
+		<text bitflag="321" id1="291" id2="194104" version="1065353216">Dark Heart</text>
+		<text bitflag="321" id1="292" id2="194104" version="1065353216">The Bastion</text>
+		<text bitflag="321" id1="293" id2="194104" version="1065353216">Government District</text>
+		<text bitflag="321" id1="294" id2="194104" version="1065353216">Camp Vigil Access Corridor</text>
+		<text bitflag="321" id1="295" id2="194104" version="1065353216">Camp Vigil</text>
+		<text bitflag="321" id1="296" id2="194104" version="1065353216">Enter the Access Code</text>
+		<text bitflag="321" id1="297" id2="194104" version="1065353216">Blastfield Shipyards</text>
+		<text bitflag="321" id1="298" id2="194104" version="1065353216">Burning Apartments</text>
+		<text bitflag="321" id1="299" id2="194104" version="1065353216">Caicos Droid Factory</text>
+		<text bitflag="321" id1="300" id2="194104" version="1065353216">Labor Valley</text>
+		<text bitflag="321" id1="301" id2="194104" version="1065353216">Central Control</text>
+		<text bitflag="321" id1="302" id2="194104" version="1065353216">Central Tower</text>
+		<text bitflag="321" id1="303" id2="194104" version="1065353216">The Starship Graveyard</text>
+		<text bitflag="321" id1="304" id2="194104" version="1065353216">Coldstone Canyon</text>
+		<text bitflag="321" id1="305" id2="194104" version="1065353216">Voss-Ka</text>
+		<text bitflag="321" id1="306" id2="194104" version="1065353216">Game/MMO Systems</text>
+		<text bitflag="321" id1="307" id2="194104" version="1065353216">Combat Systems</text>
+		<text bitflag="321" id1="308" id2="194104" version="1065353216">Combat Visuals</text>
+		<text bitflag="321" id1="309" id2="194104" version="1065353216">World Build Systems</text>
+		<text bitflag="321" id1="310" id2="194104" version="1065353216">Phasing</text>
+		<text bitflag="321" id1="311" id2="194104" version="1065353216">Chairman Fane's Office</text>
+		<text bitflag="321" id1="312" id2="194104" version="1065353216">Coronet Spaceport</text>
+		<text bitflag="321" id1="313" id2="194104" version="1065353216">Shipwright Auxiliary Spaceport</text>
+		<text bitflag="321" id1="314" id2="194104" version="1065353216">Audience Chamber</text>
+		<text bitflag="321" id1="315" id2="194104" version="1065353216">Entity Chamber</text>
+		<text bitflag="321" id1="316" id2="194104" version="1065353216">Darth Baras's Secret Lair</text>
+		<text bitflag="321" id1="317" id2="194104" version="1065353216">Vowrawn's Penthouse</text>
+		<text bitflag="321" id1="318" id2="194104" version="1065353216">Intra-Corellian Intelligence</text>
+		<text bitflag="321" id1="319" id2="194104" version="1065353216">Government Bunker</text>
+		<text bitflag="321" id1="320" id2="194104" version="1065353216">Cave of the First Son</text>
+		<text bitflag="321" id1="321" id2="194104" version="1065353216">Toxic Lake Garrison</text>
+		<text bitflag="321" id1="322" id2="194104" version="1065353216">Dromund Kaas Departures</text>
+		<text bitflag="321" id1="323" id2="194104" version="1065353216">Korriban and Hutta Departures</text>
+		<text bitflag="321" id1="324" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="325" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="326" id2="194104" version="1065353216">Main Level</text>
+		<text bitflag="321" id1="327" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="328" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="329" id2="194104" version="1065353216">Coruscant Departures</text>
+		<text bitflag="321" id1="330" id2="194104" version="1065353216">Tython and Ord Mantell Departures</text>
+		<text bitflag="321" id1="331" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="332" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="333" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="334" id2="194104" version="1065353216">Telos Command Deck</text>
+		<text bitflag="321" id1="335" id2="194104" version="1065353216">Gav Daragon Bridge Deck</text>
+		<text bitflag="321" id1="336" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="337" id2="194104" version="1065353216">White Nova Command Deck</text>
+		<text bitflag="321" id1="338" id2="194104" version="1065353216">Ziost Shadow Mission Deck</text>
+		<text bitflag="321" id1="339" id2="194104" version="1065353216">Cave 52</text>
+		<text bitflag="321" id1="340" id2="194104" version="1065353216">Dropship Launch Hangar</text>
+		<text bitflag="321" id1="341" id2="194104" version="1065353216">Dropship Launch Hangar</text>
+		<text bitflag="321" id1="342" id2="194104" version="1065353216">Veil's Safe House</text>
+		<text bitflag="321" id1="343" id2="194104" version="1065353216">Republic Safe House</text>
+		<text bitflag="321" id1="344" id2="194104" version="1065353216">Hi-Tech Lab</text>
+		<text bitflag="321" id1="345" id2="194104" version="1065353216">Hutt Cartel Safe House</text>
+		<text bitflag="321" id1="346" id2="194104" version="1065353216">Secret Republic Shuttle Pad</text>
+		<text bitflag="321" id1="347" id2="194104" version="1065353216">Imperial Droid Factory</text>
+		<text bitflag="321" id1="348" id2="194104" version="1065353216">Yanol's Hideout</text>
+		<text bitflag="321" id1="349" id2="194104" version="1065353216">Duros Sector</text>
+		<text bitflag="321" id1="350" id2="194104" version="1065353216">Minimum Security</text>
+		<text bitflag="321" id1="351" id2="194104" version="1065353216">Cargo Deck</text>
+		<text bitflag="321" id1="352" id2="194104" version="1065353216">Republic Command Hangar</text>
+		<text bitflag="321" id1="353" id2="194104" version="1065353216">Jedi Temple Ruins</text>
+		<text bitflag="321" id1="354" id2="194104" version="1065353216">Imperial Fleet</text>
+		<text bitflag="321" id1="355" id2="194104" version="1065353216">Republic Fleet</text>
+		<text bitflag="321" id1="356" id2="194104" version="1065353216">Shuttle Bay</text>
+		<text bitflag="321" id1="357" id2="194104" version="1065353216">Coldstone Canyon</text>
+		<text bitflag="321" id1="358" id2="194104" version="1065353216">Cargo Deck One</text>
+		<text bitflag="321" id1="359" id2="194104" version="1065353216">Cargo Deck Two</text>
+		<text bitflag="321" id1="360" id2="194104" version="1065353216">Doe Azalus Ootmian</text>
+		<text bitflag="321" id1="361" id2="194104" version="1065353216">Kayfoundo Naweea</text>
+		<text bitflag="321" id1="362" id2="194104" version="1065353216">Let Go My Lekku</text>
+		<text bitflag="321" id1="363" id2="194104" version="1065353216">Boot Black and Bachani Blossoms</text>
+		<text bitflag="321" id1="364" id2="194104" version="1065353216">Show Me Your Papers (And I'll Show You Mine)</text>
+		<text bitflag="321" id1="365" id2="194104" version="1065353216">Not the Droids</text>
+		<text bitflag="321" id1="366" id2="194104" version="1065353216">Shapa Keesay</text>
+		<text bitflag="321" id1="367" id2="194104" version="1065353216">Smeeleeya Whao Tupee Upee</text>
+		<text bitflag="321" id1="368" id2="194104" version="1065353216">Unubunko</text>
+		<text bitflag="321" id1="369" id2="194104" version="1065353216">Cut the Phobium</text>
+		<text bitflag="321" id1="370" id2="194104" version="1065353216">Twice Around the System (And Home Again)</text>
+		<text bitflag="321" id1="371" id2="194104" version="1065353216">If Tomorrow Never Comes</text>
+		<text bitflag="321" id1="372" id2="194104" version="1065353216">My Ol' Tibanna Man</text>
+		<text bitflag="321" id1="373" id2="194104" version="1065353216">Run Kessel Run</text>
+		<text bitflag="321" id1="374" id2="194104" version="1065353216">Shake that Wampa Down</text>
+		<text bitflag="321" id1="375" id2="194104" version="1065353216">Spice Is Nice</text>
+		<text bitflag="321" id1="376" id2="194104" version="1065353216">That Slippery Little Hutt of Mine</text>
+		<text bitflag="321" id1="377" id2="194104" version="1065353216">What Mamma Doesn't Know</text>
+		<text bitflag="321" id1="378" id2="194104" version="1065353216">Under the Double Sun</text>
+		<text bitflag="321" id1="379" id2="194104" version="1065353216">Womp Rat Stomp</text>
+		<text bitflag="321" id1="380" id2="194104" version="1065353216">The Bothan Bounce</text>
+		<text bitflag="321" id1="381" id2="194104" version="1065353216">Average Brown Wookiee</text>
+		<text bitflag="321" id1="382" id2="194104" version="1065353216">Do the Holos Show Up on the Bill?</text>
+		<text bitflag="321" id1="383" id2="194104" version="1065353216">In the Escape Pod</text>
+		<text bitflag="321" id1="384" id2="194104" version="1065353216">One Chuba Too Many</text>
+		<text bitflag="321" id1="385" id2="194104" version="1065353216">Makin' the Jump</text>
+		<text bitflag="321" id1="386" id2="194104" version="1065353216">See You on the Dark Side</text>
+		<text bitflag="321" id1="387" id2="194104" version="1065353216">Carbines in the Wind</text>
+		<text bitflag="321" id1="388" id2="194104" version="1065353216">Thruster Head</text>
+		<text bitflag="321" id1="389" id2="194104" version="1065353216">Skip Tracer</text>
+		<text bitflag="321" id1="390" id2="194104" version="1065353216">Credits Where Credits Are Due</text>
+		<text bitflag="321" id1="391" id2="194104" version="1065353216">Yesterday's Jawa</text>
+		<text bitflag="321" id1="392" id2="194104" version="1065353216">Mad About Me</text>
+		<text bitflag="321" id1="393" id2="194104" version="1065353216">Dune Sea Special</text>
+		<text bitflag="321" id1="394" id2="194104" version="1065353216">For the Republic</text>
+		<text bitflag="321" id1="395" id2="194104" version="1065353216">Baroque Recital</text>
+		<text bitflag="321" id1="396" id2="194104" version="1065353216">Make Your Selection:</text>
+		<text bitflag="321" id1="397" id2="194104" version="1065353216">Chandrila Orbital Station</text>
+		<text bitflag="321" id1="398" id2="194104" version="1065353216">Red Reaper Airlock</text>
+		<text bitflag="321" id1="399" id2="194104" version="1065353216">Command Deck</text>
+		<text bitflag="321" id1="400" id2="194104" version="1065353216">The Sith Sanctum</text>
+		<text bitflag="321" id1="401" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="402" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="403" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="404" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="405" id2="194104" version="1065353216">Museum</text>
+		<text bitflag="321" id1="406" id2="194104" version="1065353216">Your Ship</text>
+		<text bitflag="321" id1="407" id2="194104" version="1065353216">MTCHY OUSIN DERAZ</text>
+		<text bitflag="321" id1="408" id2="194104" version="1065353216">VLADC SABUR OPEWE</text>
+		<text bitflag="321" id1="409" id2="194104" version="1065353216">IMTTT TRIBI NQTLD</text>
+		<text bitflag="321" id1="410" id2="194104" version="1065353216">YLAKF REICO BGMAS</text>
+		<text bitflag="321" id1="411" id2="194104" version="1065353216">MIYTE LGGRO PREVH</text>
+		<text bitflag="321" id1="412" id2="194104" version="1065353216">Gravity Hook Service Level</text>
+		<text bitflag="321" id1="413" id2="194104" version="1065353216">Gravity Hook Docking Ring</text>
+		<text bitflag="321" id1="414" id2="194104" version="1065353216">Gravity Hook Loading Ring</text>
+		<text bitflag="321" id1="415" id2="194104" version="1065353216">Makeb Orbital Station</text>
+		<text bitflag="321" id1="416" id2="194104" version="1065353216">Wilderness Clearing</text>
+		<text bitflag="321" id1="5000" id2="194104" version="1065353216">Select an Advanced Class</text>
+		<text bitflag="321" id1="5001" id2="194104" version="1065353216">Advanced Class: Sniper</text>
+		<text bitflag="321" id1="5002" id2="194104" version="1065353216">Advanced Class: Operative</text>
+		<text bitflag="321" id1="5003" id2="194104" version="1065353216">Advanced Class: Powertech</text>
+		<text bitflag="321" id1="5004" id2="194104" version="1065353216">Advanced Class: Mercenary</text>
+		<text bitflag="321" id1="5005" id2="194104" version="1065353216">Advanced Class: Sith Sorcerer</text>
+		<text bitflag="321" id1="5006" id2="194104" version="1065353216">Advanced Class: Sith Assassin</text>
+		<text bitflag="321" id1="5007" id2="194104" version="1065353216">Advanced Class: Sith Marauder</text>
+		<text bitflag="321" id1="5008" id2="194104" version="1065353216">Advanced Class: Sith Juggernaut</text>
+		<text bitflag="321" id1="5009" id2="194104" version="1065353216">Advanced Class: Jedi Sage</text>
+		<text bitflag="321" id1="5010" id2="194104" version="1065353216">Advanced Class: Jedi Shadow</text>
+		<text bitflag="321" id1="5011" id2="194104" version="1065353216">Advanced Class: Jedi Sentinel</text>
+		<text bitflag="321" id1="5012" id2="194104" version="1065353216">Advanced Class: Jedi Guardian</text>
+		<text bitflag="321" id1="5013" id2="194104" version="1065353216">Advanced Class: Gunslinger</text>
+		<text bitflag="321" id1="5014" id2="194104" version="1065353216">Advanced Class: Scoundrel</text>
+		<text bitflag="321" id1="5015" id2="194104" version="1065353216">Advanced Class: Commando</text>
+		<text bitflag="321" id1="5016" id2="194104" version="1065353216">Advanced Class: Vanguard</text>
+		<text bitflag="321" id1="5028" id2="194104" version="1065353216">CHANNEL INVITE</text>
+		<text bitflag="321" id1="5029" id2="194104" version="1065353216">&lt;&lt;1&gt;&gt; has invited you join the chat channel &lt;&lt;2&gt;&gt;. Would like to join?</text>
+		<text bitflag="321" id1="5030" id2="194104" version="1065353216">Vaiken Spacedock</text>
+		<text bitflag="321" id1="5031" id2="194104" version="1065353216">Interfleet Transport</text>
+		<text bitflag="321" id1="5032" id2="194104" version="1065353216">Access Tunnels</text>
+		<text bitflag="321" id1="5033" id2="194104" version="1065353216">The Tomb</text>
+		<text bitflag="321" id1="5034" id2="194104" version="1065353216">Megasecurity Ward 23</text>
+		<text bitflag="321" id1="5035" id2="194104" version="1065353216">Legislative Offices</text>
+		<text bitflag="321" id1="5036" id2="194104" version="1065353216">Speeder Hangar Maintenance Access</text>
+		<text bitflag="321" id1="5037" id2="194104" version="1065353216">Old Traffic Control Tower</text>
+		<text bitflag="321" id1="5038" id2="194104" version="1065353216">Security Deck</text>
+		<text bitflag="321" id1="5039" id2="194104" version="1065353216">Ignore it</text>
+		<text bitflag="321" id1="5040" id2="194104" version="1065353216">Hide Inside the Crate</text>
+		<text bitflag="321" id1="5446" id2="194104" version="1065353216">Ziost Shadow Bridge Deck</text>
+		<text bitflag="321" id1="5447" id2="194104" version="1065353216">Gav Daragon Mission Deck</text>
+		<text bitflag="321" id1="5448" id2="194104" version="1065353216">Rooftop Shuttle Pad</text>
+		<text bitflag="321" id1="5449" id2="194104" version="1065353216">Rooftop</text>
+		<text bitflag="321" id1="5450" id2="194104" version="1065353216">Lobby</text>
+		<text bitflag="321" id1="5452" id2="194104" version="1065353216">Karagga's Palace</text>
+		<text bitflag="321" id1="5453" id2="194104" version="1065353216">The Ziost Shadow</text>
+		<text bitflag="321" id1="5454" id2="194104" version="1065353216">The Gav Daragon</text>
+		<text bitflag="321" id1="5455" id2="194104" version="1065353216">Lower Hangar</text>
+		<text bitflag="321" id1="5456" id2="194104" version="1065353216">Inquisitor Hangar Deck</text>
+		<text bitflag="321" id1="5457" id2="194104" version="1065353216">Top</text>
+		<text bitflag="321" id1="5458" id2="194104" version="1065353216">HeroBlade Filters</text>
+		<text bitflag="321" id1="5459" id2="194104" version="1065353216">Audio</text>
+		<text bitflag="321" id1="5460" id2="194104" version="1065353216">Coruscant</text>
+		<text bitflag="321" id1="5461" id2="194104" version="1065353216">Taris</text>
+		<text bitflag="321" id1="5462" id2="194104" version="1065353216">Belsavis</text>
+		<text bitflag="321" id1="5463" id2="194104" version="1065353216">Alderaan</text>
+		<text bitflag="321" id1="5464" id2="194104" version="1065353216">Tatooine</text>
+		<text bitflag="321" id1="5465" id2="194104" version="1065353216">Hoth</text>
+		<text bitflag="321" id1="5466" id2="194104" version="1065353216">Balmorra</text>
+		<text bitflag="321" id1="5467" id2="194104" version="1065353216">Dromund Kaas</text>
+		<text bitflag="321" id1="5468" id2="194104" version="1065353216">Nar Shaddaa</text>
+		<text bitflag="321" id1="5469" id2="194104" version="1065353216">Voss</text>
+		<text bitflag="321" id1="5470" id2="194104" version="1065353216">Corellia</text>
+		<text bitflag="321" id1="5471" id2="194104" version="1065353216">Level 2</text>
+		<text bitflag="321" id1="5472" id2="194104" version="1065353216">Level 1</text>
+		<text bitflag="321" id1="5480" id2="194104" version="1065353216">Corellia Spaceport</text>
+		<text bitflag="321" id1="5481" id2="194104" version="1065353216">Daily: The Black Hole</text>
+		<text bitflag="321" id1="5482" id2="194104" version="1065353216">Only Peace</text>
+		<text bitflag="321" id1="5483" id2="194104" version="1065353216">Under Cover</text>
+		<text bitflag="321" id1="5484" id2="194104" version="1065353216">Just Another Job</text>
+		<text bitflag="321" id1="5485" id2="194104" version="1065353216">Total Corruption</text>
+		<text bitflag="321" id1="5486" id2="194104" version="1065353216">Simply Six-Shooting</text>
+		<text bitflag="321" id1="5487" id2="194104" version="1065353216">Raising Havoc</text>
+		<text bitflag="321" id1="5488" id2="194104" version="1065353216">Sentinel Outpost Level 1</text>
+		<text bitflag="321" id1="5489" id2="194104" version="1065353216">Sentinel Outpost Level 2</text>
+		<text bitflag="321" id1="5490" id2="194104" version="1065353216">Horizon Outpost Level 1</text>
+		<text bitflag="321" id1="5491" id2="194104" version="1065353216">Horizon Outpost Level 2</text>
+		<text bitflag="321" id1="5492" id2="194104" version="1065353216">Pipeline Control Station Level 2</text>
+		<text bitflag="321" id1="5493" id2="194104" version="1065353216">Pipeline Control Station Level 1</text>
+		<text bitflag="321" id1="5494" id2="194104" version="1065353216">Shipping Warehouse Level 2</text>
+		<text bitflag="321" id1="5495" id2="194104" version="1065353216">Shipping Warehouse Level 1</text>
+		<text bitflag="321" id1="5496" id2="194104" version="1065353216">Storage Facility Level 2</text>
+		<text bitflag="321" id1="5497" id2="194104" version="1065353216">Storage Facility Level 1</text>
+		<text bitflag="321" id1="5498" id2="194104" version="1065353216">Administrative Offices</text>
+		<text bitflag="321" id1="5499" id2="194104" version="1065353216">Employee Entrance</text>
+		<text bitflag="321" id1="5500" id2="194104" version="1065353216">VIP Landing Pad</text>
+		<text bitflag="321" id1="5501" id2="194104" version="1065353216">Tower Lobby</text>
+		<text bitflag="321" id1="5502" id2="194104" version="1065353216">Administrative Offices</text>
+		<text bitflag="321" id1="5503" id2="194104" version="1065353216">Refinery Core</text>
+		<text bitflag="321" id1="5504" id2="194104" version="1065353216">Denova Operation Hangar</text>
+		<text bitflag="321" id1="5505" id2="194104" version="1065353216">Denova Assault Camp</text>
+		<text bitflag="321" id1="5506" id2="194104" version="1065353216">To Mountain Pass</text>
+		<text bitflag="321" id1="5507" id2="194104" version="1065353216">Excavation Site</text>
+		<text bitflag="321" id1="5509" id2="194104" version="1065353216">Level 2</text>
+		<text bitflag="321" id1="5510" id2="194104" version="1065353216">Level 1</text>
+		<text bitflag="321" id1="5511" id2="194104" version="1065353216">Hangar 1</text>
+		<text bitflag="321" id1="5513" id2="194104" version="1065353216">Monitoring Station Level 2</text>
+		<text bitflag="321" id1="5514" id2="194104" version="1065353216">Monitoring Station Level 1</text>
+		<text bitflag="321" id1="5515" id2="194104" version="1065353216">Art &amp;#x2013; Creature Skeletons</text>
+		<text bitflag="321" id1="5516" id2="194104" version="1065353216">Art &amp;#x2013; Humanoid Combat Animations</text>
+		<text bitflag="321" id1="5517" id2="194104" version="1065353216">Camp Overlook</text>
+		<text bitflag="321" id1="5518" id2="194104" version="1065353216">Crag Outpost</text>
+		<text bitflag="321" id1="5519" id2="194104" version="1065353216">Rockfall Pass</text>
+		<text bitflag="321" id1="5520" id2="194104" version="1065353216">Daily: Section X</text>
+		<text bitflag="321" id1="5521" id2="194104" version="1065353216">Containment Section</text>
+		<text bitflag="321" id1="5522" id2="194104" version="1065353216">Ancient Prison Block</text>
+		<text bitflag="321" id1="5523" id2="194104" version="1065353216">Aurora Cannon Facility</text>
+		<text bitflag="321" id1="5524" id2="194104" version="1065353216">Aurora Cannon Facility Entrance</text>
+		<text bitflag="321" id1="5525" id2="194104" version="1065353216">Ancient Prison Block Lower Level</text>
+		<text bitflag="321" id1="5526" id2="194104" version="1065353216">Containment Section Entrance</text>
+		<text bitflag="321" id1="5527" id2="194104" version="1065353216">Republic Deployment Zone</text>
+		<text bitflag="321" id1="5528" id2="194104" version="1065353216">Daily: Ilum</text>
+		<text bitflag="321" id1="5546" id2="194104" version="1065353216">Republic Orbital Station</text>
+		<text bitflag="321" id1="5547" id2="194104" version="1065353216">Avesta's Plantation</text>
+		<text bitflag="321" id1="5548" id2="194104" version="1065353216">Supply Tunnel</text>
+		<text bitflag="321" id1="5549" id2="194104" version="1065353216">Loading Level</text>
+		<text bitflag="321" id1="5550" id2="194104" version="1065353216">Weather Deck</text>
+		<text bitflag="321" id1="5551" id2="194104" version="1065353216">Engineering Deck</text>
+		<text bitflag="321" id1="5552" id2="194104" version="1065353216">Sewer Entrance</text>
+		<text bitflag="321" id1="5553" id2="194104" version="1065353216">Sewage Treatment Level</text>
+		<text bitflag="321" id1="5554" id2="194104" version="1065353216">Toborro's Palace Grounds</text>
+		<text bitflag="321" id1="5555" id2="194104" version="1065353216">Toborro's Palace</text>
+		<text bitflag="321" id1="5556" id2="194104" version="1065353216">Oasis City</text>
+		<text bitflag="321" id1="5557" id2="194104" version="1065353216">Plateau Bazaar</text>
+		<text bitflag="321" id1="5558" id2="194104" version="1065353216">Shroud Safehouse</text>
+		<text bitflag="321" id1="5559" id2="194104" version="1065353216">Breached Vault</text>
+		<text bitflag="321" id1="5560" id2="194104" version="1065353216">Private Landing Site - Docking Area</text>
+		<text bitflag="321" id1="5561" id2="194104" version="1065353216">Nar Shaddaa Throughfare</text>
+		<text bitflag="321" id1="5562" id2="194104" version="1065353216">Spaceport Access Tunnels</text>
+		<text bitflag="321" id1="5563" id2="194104" version="1065353216">Shadow Dealer's Showroom</text>
+		<text bitflag="321" id1="5564" id2="194104" version="1065353216">Deactivate Security System</text>
+		<text bitflag="321" id1="5565" id2="194104" version="1065353216">Activate Security Droid Assembler</text>
+		<text bitflag="321" id1="5566" id2="194104" version="1065353216">Activate Security Turrets</text>
+		<text bitflag="321" id1="5567" id2="194104" version="1065353216">Activate Electrostatic Floor Mines</text>
+		<text bitflag="321" id1="5568" id2="194104" version="1065353216">Biological Isolation Chambers</text>
+		<text bitflag="321" id1="5569" id2="194104" version="1065353216">Third Eye</text>
+		<text bitflag="321" id1="5570" id2="194104" version="1065353216">Varelo Mesa Supply Station</text>
+		<text bitflag="321" id1="5571" id2="194104" version="1065353216">Dread Guard Sanctum</text>
+		<text bitflag="321" id1="5572" id2="194104" version="1065353216">Lower Catwalks</text>
+		<text bitflag="321" id1="5573" id2="194104" version="1065353216">Mine Shaft Access</text>
+		<text bitflag="321" id1="5574" id2="194104" version="1065353216">Maintenance Shaft</text>
+		<text bitflag="321" id1="5575" id2="194104" version="1065353216">Imperial Firebase 3</text>
+		<text bitflag="321" id1="5576" id2="194104" version="1065353216">Republic Recon Post</text>
+		<text bitflag="321" id1="5577" id2="194104" version="1065353216">Western Ice Shelf</text>
+		<text bitflag="321" id1="5578" id2="194104" version="1065353216">Southern Terminus (PvP)</text>
+		<text bitflag="321" id1="5579" id2="194104" version="1065353216">Northern Terminus</text>
+		<text bitflag="321" id1="5580" id2="194104" version="1065353216">Deserted Landing</text>
+		<text bitflag="321" id1="5581" id2="194104" version="1065353216">Midpoint Level</text>
+		<text bitflag="321" id1="5582" id2="194104" version="1065353216">Reset Sequence</text>
+		<text bitflag="321" id1="5583" id2="194104" version="1065353216">Input Code Sequence:</text>
+		<text bitflag="321" id1="5584" id2="194104" version="1065353216">Corrupted Jedi Temple - Great Halls</text>
+		<text bitflag="321" id1="5585" id2="194104" version="1065353216">Corrupted Jedi Temple - Entryway</text>
+		<text bitflag="321" id1="5586" id2="194104" version="1065353216">Ruptured Vault</text>
+		<text bitflag="321" id1="5587" id2="194104" version="1065353216">Arcanum - Docking Bay</text>
+		<text bitflag="321" id1="5588" id2="194104" version="1065353216">Private Landing Site - Turbolift</text>
+		<text bitflag="321" id1="5589" id2="194104" version="1065353216">Shroud's Production Facility - Factory Floor</text>
+		<text bitflag="321" id1="5590" id2="194104" version="1065353216">Shroud's Production Facility - Hidden Entrance</text>
+		<text bitflag="321" id1="5591" id2="194104" version="1065353216">Shroud's Production Facility - Maintenance Level</text>
+		<text bitflag="321" id1="5592" id2="194104" version="1065353216">Sewer Hideout</text>
+		<text bitflag="321" id1="5593" id2="194104" version="1065353216">The Gray Secant</text>
+		<text bitflag="321" id1="5594" id2="194104" version="1065353216">Vault</text>
+		<text bitflag="321" id1="5595" id2="194104" version="1065353216">Maintenance Level</text>
+		<text bitflag="321" id1="5596" id2="194104" version="1065353216">Nar Shaddaa Thoroughfare</text>
+		<text bitflag="321" id1="5597" id2="194104" version="1065353216">Nar Shaddaa Public Transport</text>
+		<text bitflag="321" id1="5598" id2="194104" version="1065353216">Desolation Pass</text>
+		<text bitflag="321" id1="5599" id2="194104" version="1065353216">The Gormak Lands</text>
+		<text bitflag="321" id1="5600" id2="194104" version="1065353216">Offices</text>
+		<text bitflag="321" id1="5601" id2="194104" version="1065353216">Freight Depot</text>
+		<text bitflag="321" id1="5602" id2="194104" version="1065353216">Waste Disposal</text>
+		<text bitflag="321" id1="5603" id2="194104" version="1065353216">Cartel Bazaar</text>
+		<text bitflag="321" id1="5604" id2="194104" version="1065353216">CZ-198</text>
+		<text bitflag="321" id1="5605" id2="194104" version="1065353216">Watchtower Lower Passage</text>
+		<text bitflag="321" id1="5606" id2="194104" version="1065353216">Watchtower Upper Passage</text>
+		<text bitflag="321" id1="5607" id2="194104" version="1065353216">Oricon</text>
+		<text bitflag="321" id1="5608" id2="194104" version="1065353216">Strike Team Oricon Camp</text>
+		<text bitflag="321" id1="5609" id2="194104" version="1065353216">Dread Executioners Camp</text>
+		<text bitflag="321" id1="5610" id2="194104" version="1065353216">Dread Fortress Bridge</text>
+		<text bitflag="321" id1="5611" id2="194104" version="1065353216">Watchtower Steps</text>
+		<text bitflag="321" id1="5612" id2="194104" version="1065353216">Watchtower Terrace</text>
+		<text bitflag="321" id1="5613" id2="194104" version="1065353216">Surface</text>
+		<text bitflag="321" id1="5614" id2="194104" version="1065353216">Rakghoul Tunnels</text>
+		<text bitflag="321" id1="5615" id2="194104" version="1065353216">Outbound Mission Hangar</text>
+		<text bitflag="321" id1="5616" id2="194104" version="1065353216">Imperial Flagship Bridge</text>
+		<text bitflag="321" id1="5617" id2="194104" version="1065353216">Imperial Flagship Hangar</text>
+		<text bitflag="321" id1="5618" id2="194104" version="1065353216">Republic Flagship Bridge</text>
+		<text bitflag="321" id1="5619" id2="194104" version="1065353216">Republic Flagship Hangar</text>
+		<text bitflag="321" id1="5620" id2="194104" version="1065353216">THORN Triage Tent</text>
+		<text bitflag="321" id1="5621" id2="194104" version="1065353216">Spike</text>
+		<text bitflag="321" id1="5622" id2="194104" version="1065353216">Propulsion Subsystem:</text>
+		<text bitflag="321" id1="5623" id2="194104" version="1065353216">Vokoff-Strood STAR-94</text>
+		<text bitflag="321" id1="5624" id2="194104" version="1065353216">Celestial Industries Powerhouse</text>
+		<text bitflag="321" id1="5625" id2="194104" version="1065353216">Czerka K-57CE</text>
+		<text bitflag="321" id1="5626" id2="194104" version="1065353216">Electronics Subsystem:</text>
+		<text bitflag="321" id1="5627" id2="194104" version="1065353216">Long Range Scout Package</text>
+		<text bitflag="321" id1="5628" id2="194104" version="1065353216">Rapid Recharge Package</text>
+		<text bitflag="321" id1="5629" id2="194104" version="1065353216">Prototype &quot;Infiltrator&quot; Package</text>
+		<text bitflag="321" id1="5630" id2="194104" version="1065353216">Weapons Subsystem</text>
+		<text bitflag="321" id1="5631" id2="194104" version="1065353216">Primary: 
+Merr-Sonn LCL-1 Light Las.
+Secondary: 
+None</text>
+		<text bitflag="321" id1="5632" id2="194104" version="1065353216">Primary:
+BlasTech HMC-15 Laser
+Secondary: 
+Prototype Launcher v.4</text>
+		<text bitflag="321" id1="5633" id2="194104" version="1065353216">Primary: 
+Prototype Heavy Laser v.6
+Secondary: 
+Thermite Torpedoes</text>
+		<text bitflag="321" id1="5634" id2="194104" version="1065353216">Execute Autoassembly Task</text>
+		<text bitflag="321" id1="5635" id2="194104" version="1065353216">Unlock Propulsion Station</text>
+		<text bitflag="321" id1="5637" id2="194104" version="1065353216">Unlock Electronics Station</text>
+		<text bitflag="321" id1="5638" id2="194104" version="1065353216">Unlock Weapons Station</text>
+		<text bitflag="321" id1="5639" id2="194104" version="1065353216">Please Specify Command</text>
+		<text bitflag="321" id1="5640" id2="194104" version="1065353216">Verify Assembled Design</text>
+		<text bitflag="321" id1="5641" id2="194104" version="1065353216">Secure Zone</text>
+		<text bitflag="321" id1="5642" id2="194104" version="1065353216">Underwater Labs</text>
+		<text bitflag="321" id1="5643" id2="194104" version="1065353216">Flooded Labs</text>
+		<text bitflag="321" id1="5644" id2="194104" version="1065353216">Starfighter Launch Deck</text>
+		<text bitflag="321" id1="5645" id2="194104" version="1065353216">Slaver Camp</text>
+		<text bitflag="321" id1="5646" id2="194104" version="1065353216">Raider's Cove Island</text>
+		<text bitflag="321" id1="5647" id2="194104" version="1065353216">Bridge</text>
+		<text bitflag="321" id1="5648" id2="194104" version="1065353216">Command Deck</text>
+		<text bitflag="321" id1="5649" id2="194104" version="1065353216">Crew Deck</text>
+		<text bitflag="321" id1="5650" id2="194104" version="1065353216">Hangar Deck</text>
+		<text bitflag="321" id1="5651" id2="194104" version="1065353216">Engineering</text>
+		<text bitflag="321" id1="5652" id2="194104" version="1065353216">Ground Level</text>
+		<text bitflag="321" id1="5653" id2="194104" version="1065353216">Rooftop Access</text>
+		<text bitflag="321" id1="5654" id2="194104" version="1065353216">Yavin 4</text>
+		<text bitflag="321" id1="5655" id2="194104" version="1065353216">Officer Deck</text>
+		<text bitflag="321" id1="5656" id2="194104" version="1065353216">Rishi</text>
+		<text bitflag="321" id1="5657" id2="194104" version="1065353216">Manaan</text>
+		<text bitflag="321" id1="5658" id2="194104" version="1065353216">Ground Level</text>
+		<text bitflag="321" id1="5659" id2="194104" version="1065353216">Cliffside Balcony</text>
+		<text bitflag="321" id1="5660" id2="194104" version="1065353216">Ravager's Cove: Loading Dock</text>
+		<text bitflag="321" id1="5661" id2="194104" version="1065353216">Soaring Duros: Interior</text>
+		<text bitflag="321" id1="5662" id2="194104" version="1065353216">Soaring Duros: Main Engineering</text>
+		<text bitflag="321" id1="5663" id2="194104" version="1065353216">Soaring Duros: Deck</text>
+		<text bitflag="321" id1="5664" id2="194104" version="1065353216">Pearl's Girl: Deck</text>
+		<text bitflag="321" id1="5665" id2="194104" version="1065353216">Sith Academy</text>
+		<text bitflag="321" id1="5666" id2="194104" version="1065353216">Council Level</text>
+		<text bitflag="321" id1="5667" id2="194104" version="1065353216">Forgotten Terrace</text>
+		<text bitflag="321" id1="5668" id2="194104" version="1065353216">Coalition Command Post</text>
+		<text bitflag="321" id1="5669" id2="194104" version="1065353216">Military Outpost</text>
+		<text bitflag="321" id1="5670" id2="194104" version="1065353216">Central District</text>
+		<text bitflag="321" id1="5671" id2="194104" version="1065353216">People's Tower</text>
+		<text bitflag="321" id1="5673" id2="194104" version="1065353216">Watchtower Platform</text>
+		<text bitflag="321" id1="5674" id2="194104" version="1065353216">House Rist</text>
+		<text bitflag="321" id1="5675" id2="194104" version="1065353216">House Rist Entrance Hall</text>
+		<text bitflag="321" id1="5676" id2="194104" version="1065353216">Surface Level</text>
+		<text bitflag="321" id1="5677" id2="194104" version="1065353216">Baron Venar's Hideaway</text>
+		<text bitflag="321" id1="5678" id2="194104" version="1065353216">Thul Compound</text>
+		<text bitflag="321" id1="5679" id2="194104" version="1065353216">Docking Ring Level</text>
+		<text bitflag="321" id1="5680" id2="194104" version="1065353216">Free Zone</text>
+		<text bitflag="321" id1="5681" id2="194104" version="1065353216">Black Market</text>
+		<text bitflag="321" id1="5682" id2="194104" version="1065353216">Asylum Alleyways</text>
+		<text bitflag="321" id1="5684" id2="194104" version="1065353216">Breaktown</text>
+		<text bitflag="321" id1="5685" id2="194104" version="1065353216">Central Corridor</text>
+		<text bitflag="321" id1="5686" id2="194104" version="1065353216">Shuttle Pad</text>
+		<text bitflag="321" id1="5687" id2="194104" version="1065353216">Landing Zone</text>
+		<text bitflag="321" id1="5688" id2="194104" version="1065353216">Skybridge Alley</text>
+		<text bitflag="321" id1="5689" id2="194104" version="1065353216">Cargo Loading Area</text>
+		<text bitflag="321" id1="5690" id2="194104" version="1065353216">Control Spar</text>
+		<text bitflag="321" id1="5691" id2="194104" version="1065353216">1</text>
+		<text bitflag="321" id1="5692" id2="194104" version="1065353216">2</text>
+		<text bitflag="321" id1="5693" id2="194104" version="1065353216">3</text>
+		<text bitflag="321" id1="5694" id2="194104" version="1065353216">4</text>
+		<text bitflag="321" id1="5695" id2="194104" version="1065353216">5</text>
+		<text bitflag="321" id1="5696" id2="194104" version="1065353216">6</text>
+		<text bitflag="321" id1="5697" id2="194104" version="1065353216">Tier 1</text>
+		<text bitflag="321" id1="5698" id2="194104" version="1065353216">Tier 2</text>
+		<text bitflag="321" id1="5705" id2="194104" version="1065353216">Main Engineering</text>
+		<text bitflag="321" id1="5706" id2="194104" version="1065353216">Dark Sanctuary</text>
+		<text bitflag="321" id1="5707" id2="194104" version="1065353216">Main Level</text>
+		<text bitflag="321" id1="5708" id2="194104" version="1065353216">Black Sun Hideout</text>
+		<text bitflag="321" id1="5709" id2="194104" version="1065353216">Cargo Lifts</text>
+		<text bitflag="321" id1="5710" id2="194104" version="1065353216">Personnel Arrivals</text>
+		<text bitflag="321" id1="5711" id2="194104" version="1065353216">Alliance Military Hangar</text>
+		<text bitflag="321" id1="5712" id2="194104" version="1065353216">Personal Starship Landing Zone</text>
+		<text bitflag="321" id1="5713" id2="194104" version="1065353216">Alliance War Room</text>
+		<text bitflag="321" id1="5714" id2="194104" version="1065353216">Alliance Base Entrance</text>
+		<text bitflag="321" id1="5715" id2="194104" version="1065353216">Bonus Objective Location:</text>
+		<text bitflag="321" id1="5716" id2="194104" version="1065353216">Tier 1 - Side Room A</text>
+		<text bitflag="321" id1="5717" id2="194104" version="1065353216">Tier 1 - Side Room B</text>
+		<text bitflag="321" id1="5718" id2="194104" version="1065353216">Tier 2 - Side Room A</text>
+		<text bitflag="321" id1="5719" id2="194104" version="1065353216">Tier 2 - Side Room B</text>
+		<text bitflag="321" id1="5720" id2="194104" version="1065353216">The Juran Mountains</text>
+		<text bitflag="321" id1="5721" id2="194104" version="1065353216">Droid Factory Main Floor</text>
+		<text bitflag="321" id1="5722" id2="194104" version="1065353216">Droid Factory Assembly</text>
+		<text bitflag="321" id1="5723" id2="194104" version="1065353216">Droid Factory Control Room</text>
+		<text bitflag="321" id1="5724" id2="194104" version="1065353216">Darvannis</text>
+		<text bitflag="321" id1="5725" id2="194104" version="1065353216">Research Lab</text>
+		<text bitflag="321" id1="5726" id2="194104" version="1065353216">Prototype Testing Lab</text>
+		<text bitflag="321" id1="5727" id2="194104" version="1065353216">Private Room</text>
+		<text bitflag="321" id1="5728" id2="194104" version="1065353216">Skyhook Docking Ring</text>
+		<text bitflag="321" id1="5729" id2="194104" version="1065353216">Skyhook Operations</text>
+		<text bitflag="321" id1="5730" id2="194104" version="1065353216">Gilded Star Exterior</text>
+		<text bitflag="321" id1="5731" id2="194104" version="1065353216">Gilded Star Interior</text>
+		<text bitflag="321" id1="5732" id2="194104" version="1065353216">The Hub</text>
+		<text bitflag="321" id1="5733" id2="194104" version="1065353216">Geothermal Base</text>
+		<text bitflag="321" id1="5734" id2="194104" version="1065353216">Assembly Deck</text>
+		<text bitflag="321" id1="5735" id2="194104" version="1065353216">Defense Hangar</text>
+		<text bitflag="321" id1="5736" id2="194104" version="1065353216">Flagship Bridge</text>
+		<text bitflag="321" id1="5737" id2="194104" version="1065353216">Power Generation Deck</text>
+		<text bitflag="321" id1="5738" id2="194104" version="1065353216">Main Floor</text>
+		<text bitflag="321" id1="5739" id2="194104" version="1065353216">Old Labyrinth</text>
+		<text bitflag="321" id1="5740" id2="194104" version="1065353216">Alliance Cantina</text>
+		<text bitflag="321" id1="5741" id2="194104" version="1065353216">Alliance Planning Room</text>
+		<text bitflag="321" id1="5742" id2="194104" version="1065353216">Research Wing</text>
+		<text bitflag="321" id1="5743" id2="194104" version="1065353216">Social Quarters</text>
+		<text bitflag="321" id1="5744" id2="194104" version="1065353216">Pneumatic Tram Station</text>
+		<text bitflag="321" id1="5745" id2="194104" version="1065353216">Forge Complex</text>
+		<text bitflag="321" id1="5746" id2="194104" version="1065353216">Primary Research Repository</text>
+		<text bitflag="321" id1="5747" id2="194104" version="1065353216">Singularity Generator Facility</text>
+		<text bitflag="321" id1="5748" id2="194104" version="1065353216">Godkin Command Center</text>
+		<text bitflag="321" id1="5749" id2="194104" version="1065353216">Galactic Signal Broadcast Tower</text>
+		<text bitflag="321" id1="5750" id2="194104" version="1065353216">Alliance Camp</text>
+		<text bitflag="321" id1="5751" id2="194104" version="1065353216">Imperial Forward Base</text>
+		<text bitflag="321" id1="5752" id2="194104" version="1065353216">Republic Forward Base</text>
+		<text bitflag="321" id1="5753" id2="194104" version="1065353216">Weapons Factory East Entrance</text>
+		<text bitflag="321" id1="5754" id2="194104" version="1065353216">Weapons Factory West Entrance</text>
+		<text bitflag="321" id1="5755" id2="194104" version="1065353216">Superweapon Command Center</text>
+		<text bitflag="321" id1="5756" id2="194104" version="1065353216">Superweapon Command West Entrance</text>
+		<text bitflag="321" id1="5757" id2="194104" version="1065353216">Superweapon Command East Entrance</text>
+		<text bitflag="321" id1="5758" id2="194104" version="1065353216">Iokath Expanse</text>
+		<text bitflag="321" id1="5759" id2="194104" version="1065353216">Superweapon Plaza</text>
+		<text bitflag="321" id1="5760" id2="194104" version="1065353216">Skydeck Gardens</text>
+		<text bitflag="321" id1="5761" id2="194104" version="1065353216">Penthouse West Hall</text>
+		<text bitflag="321" id1="5762" id2="194104" version="1065353216">Western Expanse</text>
+		<text bitflag="321" id1="5763" id2="194104" version="1065353216">Eastern Expanse</text>
+		<text bitflag="321" id1="5764" id2="194104" version="1065353216">Alliance Staging Room</text>
+		<text bitflag="321" id1="5765" id2="194104" version="1065353216">Entrance</text>
+		<text bitflag="321" id1="5766" id2="194104" version="1065353216">Underwater Observatory</text>
+		<text bitflag="321" id1="5767" id2="194104" version="1065353216">Rooftop Garden</text>
+		<text bitflag="321" id1="5768" id2="194104" version="1065353216">Trader's Quarters</text>
+		<text bitflag="321" id1="5772" id2="194104" version="1065353216">Nathema Plateau</text>
+		<text bitflag="321" id1="5773" id2="194104" version="1065353216">Skyways</text>
+		<text bitflag="321" id1="5774" id2="194104" version="1065353216">Verdant Valley</text>
+		<text bitflag="321" id1="5775" id2="194104" version="1065353216">Patrol Carrier: Main Deck</text>
+		<text bitflag="321" id1="5776" id2="194104" version="1065353216">Hideout</text>
+		<text bitflag="321" id1="5777" id2="194104" version="1065353216">Main Deck</text>
+		<text bitflag="321" id1="5778" id2="194104" version="1065353216">Sky Deck</text>
+		<text bitflag="321" id1="5779" id2="194104" version="1065353216">Cove Expansion</text>
+		<text bitflag="321" id1="5780" id2="194104" version="1065353216">Select a Training Scenario</text>
+		<text bitflag="321" id1="5781" id2="194104" version="1065353216">Team Deathmatch</text>
+		<text bitflag="321" id1="5782" id2="194104" version="1065353216">Huttball</text>
+		<text bitflag="321" id1="5783" id2="194104" version="1065353216">End Scenario</text>
+		<text bitflag="321" id1="5784" id2="194104" version="1065353216">Jedi Colony</text>
+		<text bitflag="321" id1="5785" id2="194104" version="1065353216">Hidden Landing Site</text>
+		<text bitflag="321" id1="5786" id2="194104" version="1065353216">Open the Galaxy Map</text>
+		<text bitflag="321" id1="5787" id2="194104" version="1065353216">Command Level</text>
+		<text bitflag="321" id1="5788" id2="194104" version="1065353216">Warzone Training</text>
+		<text bitflag="321" id1="5789" id2="194104" version="1065353216">Operation Training</text>
+		<text bitflag="321" id1="5790" id2="194104" version="1065353216">Healing Training</text>
+		<text bitflag="321" id1="5791" id2="194104" version="1065353216">Disable Training Mode</text>
+		<text bitflag="321" id1="5792" id2="194104" version="1065353216">Patrol Carrier: Sky Deck</text>
+		<text bitflag="321" id1="5793" id2="194104" version="1065353216">The Overlook</text>
+		<text bitflag="321" id1="5794" id2="194104" version="1065353216">Upper Landing Pads</text>
+	</file_content>
+</stb_file>

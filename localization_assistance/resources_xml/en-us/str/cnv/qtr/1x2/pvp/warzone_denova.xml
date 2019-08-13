@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>184</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x2/pvp/warzone_denova.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1026605" id2="17" version="1065353216">This is Naval Command to ground. The Empire has control of this coastline. We need to establish a beachhead to land our transports.</text>
+		<text bitflag="1345" id1="1026607" id2="17" version="1065353216">Situation alert zero: The Republic has landed forces and is attempting to establish a beachhead on Denova.</text>
+		<text bitflag="1345" id1="1026611" id2="17" version="1065353216">You'll need at least two emplacements to penetrate the bunker's shields. After that, we've got a hope of winning this planet.</text>
+		<text bitflag="1345" id1="1026612" id2="17" version="1065353216">Your shuttle has dropped you near an enemy bunker. Use the coastline's artillery emplacements to turn that bunker to dust.</text>
+		<text bitflag="1345" id1="1026635" id2="17" version="1065353216">This bunker and the coastline's artillery emplacements must be protected and the enemy position annihilated.</text>
+		<text bitflag="1345" id1="1026637" id2="17" version="1065353216">Use the artillery to target the Republic's captured base. The base is shielded, but two emplacements should provide sufficient firepower.</text>
+		<text bitflag="1345" id1="1026689" id2="17" version="1065353216">Combat data transmitting. Your shuttle has delivered you into Republic territory; objective is to establish a beachhead for our naval forces.</text>
+		<text bitflag="1345" id1="1026691" id2="17" version="1065353216">Primary target: Republic defense bunker. Primary weapon: coastline artillery emplacements.</text>
+		<text bitflag="1345" id1="1026693" id2="17" version="1065353216">Capture a minimum of two emplacements to penetrate the enemy bunker's shields. Upon the bunker's destruction, our vehicles will secure the coast.</text>
+		<text bitflag="1345" id1="1026696" id2="17" version="1065353216">Red alert! The coastline's under attack--the Empire is trying to establish a beachhead.</text>
+		<text bitflag="1345" id1="1026698" id2="17" version="1065353216">All forces to the artillery emplacements. We'll need at least two to penetrate the enemy's shields--they've captured a bunker of their own.</text>
+		<text bitflag="1345" id1="1026700" id2="17" version="1065353216">Lose this battle and we could lose Denova. May the Force be with us.</text>
+		<text bitflag="1345" id1="1026707" id2="17" version="1065353216">Warning: This is a Republic training simulation using real firepower. Unauthorized personnel must leave immediately.</text>
+		<text bitflag="1345" id1="1026709" id2="17" version="1065353216">The attacking team is attempting to establish a beachhead on a protected coastline. The attackers have landed at a captured bunker; the defending team is entrenched in its own bunker.</text>
+		<text bitflag="1345" id1="1026711" id2="17" version="1065353216">Each side must attempt to secure at least two artillery emplacements to penetrate the opposing bunker's shields.</text>
+		<text bitflag="1345" id1="1026713" id2="17" version="1065353216">Whichever team destroys the opposing bunker wins the exercise. Good luck.</text>
+		<text bitflag="1345" id1="1026716" id2="17" version="1065353216">This is wargame simulation seven-three alpha. Warning: lethal firepower has been authorized.</text>
+		<text bitflag="1345" id1="1026718" id2="17" version="1065353216">This scenario depicts the invasion of a protected coastline. Both attacking team and defending team possess shielded bunkers.</text>
+		<text bitflag="1345" id1="1026724" id2="17" version="1065353216">Each team must attempt to seize artillery emplacements to destroy the enemy bunker. Two are required to penetrate a bunker's shields.</text>
+		<text bitflag="1345" id1="1026726" id2="17" version="1065353216">The team with the surviving bunker will be declared victorious and shall be rewarded. Failure is its own price.</text>
+		<text bitflag="1345" id1="1026733" id2="17" version="1065353216">Republic forces incoming. Protect the artillery emplacements!</text>
+		<text bitflag="1345" id1="1026734" id2="17" version="1065353216">Head for the artillery emplacements! For the Republic!</text>
+		<text bitflag="1345" id1="1026739" id2="17" version="1065353216">Imperial troops are on the way. Get to the artillery emplacements!</text>
+		<text bitflag="1345" id1="1026742" id2="17" version="1065353216">Assault begins now. Seize the artillery emplacements for Imperial glory!</text>
+		<text bitflag="1345" id1="1026749" id2="17" version="1065353216">Attacking team: begin your assault on the artillery emplacements now.</text>
+		<text bitflag="1345" id1="1026752" id2="17" version="1065353216">Defending team: secure the artillery emplacements now.</text>
+		<text bitflag="1345" id1="1026758" id2="17" version="1065353216">Assault begins now. Attacking team, proceed to the artillery emplacements.</text>
+		<text bitflag="1345" id1="1026761" id2="17" version="1065353216">Assault begins now. Defending team, proceed to the artillery emplacements.</text>
+		<text bitflag="1345" id1="1026770" id2="17" version="1065353216">Objective achieved. Southern artillery emplacement secure.</text>
+		<text bitflag="1345" id1="1026773" id2="17" version="1065353216">Objective lost. Southern artillery emplacement captured.</text>
+		<text bitflag="1345" id1="1026787" id2="17" version="1065353216">We've got the southern emplacement. Firing now.</text>
+		<text bitflag="1345" id1="1026788" id2="17" version="1065353216">Southern emplacement lost. We're taking fire.</text>
+		<text bitflag="1345" id1="1026796" id2="17" version="1065353216">Southern artillery emplacement secure.</text>
+		<text bitflag="1345" id1="1026799" id2="17" version="1065353216">Warning: southern emplacement lost.</text>
+		<text bitflag="1345" id1="1026804" id2="17" version="1065353216">We just lost the southern emplacement. Taking fire.</text>
+		<text bitflag="1345" id1="1026807" id2="17" version="1065353216">Southern artillery emplacement acquired. Targeting.</text>
+		<text bitflag="1345" id1="1026815" id2="17" version="1065353216">Taking control of southern emplacement.</text>
+		<text bitflag="1345" id1="1026818" id2="17" version="1065353216">Warning: Southern emplacement is at risk.</text>
+		<text bitflag="1345" id1="1026823" id2="17" version="1065353216">Stay on the southern emplacement--it's almost ours.</text>
+		<text bitflag="1345" id1="1026826" id2="17" version="1065353216">The Republic is after the southern emplacement. Respond.</text>
+		<text bitflag="1345" id1="1026833" id2="17" version="1065353216">Beginning capture of southern emplacement.</text>
+		<text bitflag="1345" id1="1026836" id2="17" version="1065353216">Imps are after the southern emplacement!</text>
+		<text bitflag="1345" id1="1026841" id2="17" version="1065353216">Attempting to capture southern emplacement.</text>
+		<text bitflag="1345" id1="1026844" id2="17" version="1065353216">The enemy is attacking the southern emplacement.</text>
+		<text bitflag="1345" id1="1026854" id2="17" version="1065353216">Objective achieved. Western emplacement secure.</text>
+		<text bitflag="1345" id1="1026857" id2="17" version="1065353216">Objective lost. Western emplacement captured.</text>
+		<text bitflag="1345" id1="1026862" id2="17" version="1065353216">The western emplacement is ours.</text>
+		<text bitflag="1345" id1="1026865" id2="17" version="1065353216">The Republic has taken the western emplacement.</text>
+		<text bitflag="1345" id1="1026872" id2="17" version="1065353216">Western emplacement now under Imperial control.</text>
+		<text bitflag="1345" id1="1026875" id2="17" version="1065353216">The Empire just got the western emplacement!</text>
+		<text bitflag="1345" id1="1026880" id2="17" version="1065353216">Western artillery emplacement secure.</text>
+		<text bitflag="1345" id1="1026883" id2="17" version="1065353216">Enemy has captured the western emplacement.</text>
+		<text bitflag="1345" id1="1026890" id2="17" version="1065353216">Now capturing western emplacement.</text>
+		<text bitflag="1345" id1="1026893" id2="17" version="1065353216">Enemy attempting to capture western emplacement.</text>
+		<text bitflag="1345" id1="1026898" id2="17" version="1065353216">Keep securing that western emplacement!</text>
+		<text bitflag="1345" id1="1026901" id2="17" version="1065353216">Enemy attempting to capture western emplacement.</text>
+		<text bitflag="1345" id1="1026916" id2="17" version="1065353216">Attempting to secure western emplacement.</text>
+		<text bitflag="1345" id1="1026919" id2="17" version="1065353216">Western emplacement is under attack!</text>
+		<text bitflag="1345" id1="1026924" id2="17" version="1065353216">Western emplacement targeted for capture.</text>
+		<text bitflag="1345" id1="1026927" id2="17" version="1065353216">Enemy forces at western emplacement.</text>
+		<text bitflag="1345" id1="1026934" id2="17" version="1065353216">Objective achieved. Eastern artillery emplacement secure.</text>
+		<text bitflag="1345" id1="1026937" id2="17" version="1065353216">Objective lost. Eastern artillery emplacement captured.</text>
+		<text bitflag="1345" id1="1026942" id2="17" version="1065353216">Eastern emplacement is armed and ready.</text>
+		<text bitflag="1345" id1="1026945" id2="17" version="1065353216">We've lost the eastern emplacement.</text>
+		<text bitflag="1345" id1="1026953" id2="17" version="1065353216">The eastern emplacement belongs to us.</text>
+		<text bitflag="1345" id1="1026956" id2="17" version="1065353216">Eastern emplacement's now with the enemy.</text>
+		<text bitflag="1345" id1="1026961" id2="17" version="1065353216">Eastern artillery emplacement secure.</text>
+		<text bitflag="1345" id1="1026964" id2="17" version="1065353216">Your opponents have secured the eastern emplacement.</text>
+		<text bitflag="1345" id1="1026989" id2="17" version="1065353216">Targeting eastern emplacement now.</text>
+		<text bitflag="1345" id1="1026992" id2="17" version="1065353216">Enemy force at eastern emplacement.</text>
+		<text bitflag="1345" id1="1026997" id2="17" version="1065353216">We've almost got the eastern emplacement!</text>
+		<text bitflag="1345" id1="1027000" id2="17" version="1065353216">The eastern emplacement is under attack.</text>
+		<text bitflag="1345" id1="1027016" id2="17" version="1065353216">Attempting to capture eastern emplacement.</text>
+		<text bitflag="1345" id1="1027019" id2="17" version="1065353216">They're after the eastern emplacement!</text>
+		<text bitflag="1345" id1="1027024" id2="17" version="1065353216">You are targeting the eastern emplacement.</text>
+		<text bitflag="1345" id1="1027027" id2="17" version="1065353216">The enemy is striking the eastern emplacement.</text>
+		<text bitflag="1345" id1="1027036" id2="17" version="1065353216">Artillery is breaking through the enemy shield. Maintain firepower.</text>
+		<text bitflag="1345" id1="1027038" id2="17" version="1065353216">Enemy firepower has increased. Your bunker is taking damage.</text>
+		<text bitflag="1345" id1="1027044" id2="17" version="1065353216">Breaking through the Imperial shield! Keep up the pressure.</text>
+		<text bitflag="1345" id1="1027045" id2="17" version="1065353216">The Republic is penetrating our shields. Retake the emplacements immediately.</text>
+		<text bitflag="1345" id1="1027055" id2="17" version="1065353216">Your artillery is now damaging the enemy bunker. Well done.</text>
+		<text bitflag="1345" id1="1027058" id2="17" version="1065353216">Shields are down. The enemy is damaging your bunker.</text>
+		<text bitflag="1345" id1="1027063" id2="17" version="1065353216">We are penetrating the Republic shield. Continue firing.</text>
+		<text bitflag="1345" id1="1027066" id2="17" version="1065353216">Our bunker is taking damage! We need that artillery!</text>
+		<text bitflag="1345" id1="1027074" id2="17" version="1065353216">Attacking team suffering damage to base. Recommend tactical adjustment.</text>
+		<text bitflag="1345" id1="1027077" id2="17" version="1065353216">Your team has dealt significant damage to the enemy bunker. Continue repelling the attack.</text>
+		<text bitflag="1345" id1="1027082" id2="17" version="1065353216">They're hitting our bunker hard. We need to keep pushing!</text>
+		<text bitflag="1345" id1="1027085" id2="17" version="1065353216">The Republic attackers are taking damage. Continue firing upon their bunker.</text>
+		<text bitflag="1345" id1="1027102" id2="17" version="1065353216">Warning: Your bunker has suffered severe damage.</text>
+		<text bitflag="1345" id1="1027105" id2="17" version="1065353216">The attacking team's bunker is nearly destroyed. Maintain position.</text>
+		<text bitflag="1345" id1="1027110" id2="17" version="1065353216">Our bunker's almost in pieces! Take that artillery or this whole assault fails!</text>
+		<text bitflag="1345" id1="1027113" id2="17" version="1065353216">The enemy bunker is nearly destroyed. The Republic attack will soon be repelled.</text>
+		<text bitflag="1345" id1="1027147" id2="17" version="1065353216">Your offensive bunker has been destroyed. Calculating scenario outcome.</text>
+		<text bitflag="1345" id1="1027150" id2="17" version="1065353216">You have successfully destroyed the attackers' bunker. Calculating scenario outcome.</text>
+		<text bitflag="1345" id1="1027155" id2="17" version="1065353216">They've taken out the bunker! All forces, retreat!</text>
+		<text bitflag="1345" id1="1027158" id2="17" version="1065353216">The Republic bunker has been destroyed. The coastline is now secure.</text>
+		<text bitflag="1345" id1="1027208" id2="17" version="1065353216">Your team has greatly damaged the defenders' bunker. Continue pressing the attack.</text>
+		<text bitflag="1345" id1="1027211" id2="17" version="1065353216">Defending team suffering damage to base. Recommend tactical adjustment.</text>
+		<text bitflag="1345" id1="1027216" id2="17" version="1065353216">They're tearing our bunker apart. Hold the line!</text>
+		<text bitflag="1345" id1="1027219" id2="17" version="1065353216">The Republic bunker is severely damaged. Redouble the assault.</text>
+		<text bitflag="1345" id1="1027233" id2="17" version="1065353216">Defending team's bunker is nearly destroyed. Your victory is imminent.</text>
+		<text bitflag="1345" id1="1027236" id2="17" version="1065353216">Warning: Your bunker is in critical condition. Mission failure is imminent.</text>
+		<text bitflag="1345" id1="1027241" id2="17" version="1065353216">The Republic bunker is in critical condition. Destroy it and the coast is ours.</text>
+		<text bitflag="1345" id1="1027244" id2="17" version="1065353216">You have to repel the Imps! The bunker's about to collapse!</text>
+		<text bitflag="1345" id1="1027259" id2="17" version="1065353216">You have annihilated the defending team's bunker. Calculating scenario outcome.</text>
+		<text bitflag="1345" id1="1027262" id2="17" version="1065353216">Your defensive bunker has been destroyed. Calculating scenario outcome.</text>
+		<text bitflag="1345" id1="1027267" id2="17" version="1065353216">The Republic bunker has been destroyed. Victory goes to the Empire.</text>
+		<text bitflag="1345" id1="1027270" id2="17" version="1065353216">Our bunker has been destroyed! The coast is lost--all forces, retreat!</text>
+		<text bitflag="1345" id1="1027277" id2="17" version="1065353216">The Republic has damaged our bunker. Reconfigure tactics before the assault fails.</text>
+		<text bitflag="1345" id1="1027280" id2="17" version="1065353216">We've hit the Imperials hard--their forward bunker is badly damaged!</text>
+		<text bitflag="1345" id1="1027285" id2="17" version="1065353216">Your bunker has taken damage. You must increase firepower for your assault to succeed.</text>
+		<text bitflag="1345" id1="1027288" id2="17" version="1065353216">The attacking team's bunker has been damaged. Your defensive tactics are admirable.</text>
+		<text bitflag="1345" id1="1027299" id2="17" version="1065353216">Registering severe damage. Increase firepower now!</text>
+		<text bitflag="1345" id1="1027302" id2="17" version="1065353216">That Imperial bunker is ready to fall. Their attack stops here!</text>
+		<text bitflag="1345" id1="1027307" id2="17" version="1065353216">Your bunker is nearing collapse. Odds of survival decreasing.</text>
+		<text bitflag="1345" id1="1027310" id2="17" version="1065353216">Opposing bunker is nearing collapse. Recommend a final counterattack.</text>
+		<text bitflag="1345" id1="1027318" id2="17" version="1065353216">Our bunker has been destroyed. Retreat or die fighting.</text>
+		<text bitflag="1345" id1="1027321" id2="17" version="1065353216">We took out the bunker! The Imperials are turning back!</text>
+		<text bitflag="1345" id1="1027326" id2="17" version="1065353216">Your bunker has been destroyed. Analyzing final outcome.</text>
+		<text bitflag="1345" id1="1027329" id2="17" version="1065353216">You have destroyed the attacking team's bunker. Analyzing final outcome.</text>
+		<text bitflag="1345" id1="1027343" id2="17" version="1065353216">Their bunker is in bad shape. Keep pushing forward!</text>
+		<text bitflag="1345" id1="1027346" id2="17" version="1065353216">Orange alert: our bunker is severely damaged. Reclaim the artillery immediately.</text>
+		<text bitflag="1345" id1="1027351" id2="17" version="1065353216">Your assault proceeds well. Severe damage to enemy bunker.</text>
+		<text bitflag="1345" id1="1027354" id2="17" version="1065353216">Your bunker is suffering damage. You must repel the attacking team.</text>
+		<text bitflag="1345" id1="1027361" id2="17" version="1065353216">Enemy is severely damaged! Keep them on the ropes!</text>
+		<text bitflag="1345" id1="1027364" id2="17" version="1065353216">Red alert: our bunker is in critical condition. Push the Republic back!</text>
+		<text bitflag="1345" id1="1027369" id2="17" version="1065353216">Your team has critically damaged the enemy bunker. Maintain superior position.</text>
+		<text bitflag="1345" id1="1027372" id2="17" version="1065353216">Your defense of the bunker is failing. Respond immediately.</text>
+		<text bitflag="1345" id1="1027379" id2="17" version="1065353216">The Imps are retreating--the coastline is ours!</text>
+		<text bitflag="1345" id1="1027382" id2="17" version="1065353216">We have failed to repel the invasion. Retreat, or die with honor.</text>
+		<text bitflag="1345" id1="1027387" id2="17" version="1065353216">You have destroyed the defending team's bunker. Analyzing final outcome.</text>
+		<text bitflag="1345" id1="1027390" id2="17" version="1065353216">Your bunker has been destroyed. Enemies have overtaken the coast. Analyzing final outcome.</text>
+		<text bitflag="1345" id1="1027397" id2="17" version="1065353216">The attacking team has secured a beachhead for invasion. Simulation complete.</text>
+		<text bitflag="1345" id1="1027400" id2="17" version="1065353216">The defending team cannot secure the coastline. The attackers win; simulation complete.</text>
+		<text bitflag="1345" id1="1027405" id2="17" version="1065353216">Calling all vehicles in to land. Catch your breath--that was fine work.</text>
+		<text bitflag="1345" id1="1027408" id2="17" version="1065353216">The Republic has taken the coast. We'll have revenge another day.</text>
+		<text bitflag="1345" id1="1027415" id2="17" version="1065353216">The defending team has repelled your invasion and securing a beachhead is impossible. Simulation complete.</text>
+		<text bitflag="1345" id1="1027418" id2="17" version="1065353216">You have repelled your opponents' attack and secured the coast. Simulation complete.</text>
+		<text bitflag="1345" id1="1027423" id2="17" version="1065353216">The Republic invasion force is landing. We've lost the coast.</text>
+		<text bitflag="1345" id1="1027426" id2="17" version="1065353216">The Imperial assault has been defeated. The coastline is secure.</text>
+		<text bitflag="1345" id1="1027433" id2="17" version="1065353216">Attackers succeed in overtaking the coastline. Your victory will be recognized; wargame complete.</text>
+		<text bitflag="1345" id1="1027436" id2="17" version="1065353216">The invasion force has triumphed. Your defeat has been recorded; wargame complete.</text>
+		<text bitflag="1345" id1="1027441" id2="17" version="1065353216">Our ships are landing now. The coastline is secure.</text>
+		<text bitflag="1345" id1="1027444" id2="17" version="1065353216">They're landing an invasion force. The coast belongs to the Empire.</text>
+		<text bitflag="1345" id1="1027466" id2="17" version="1065353216">The Republic will not set foot here again. Victory for the Emperor.</text>
+		<text bitflag="1345" id1="1027469" id2="17" version="1065353216">We can't even get close. We'll win the beachhead another day.</text>
+		<text bitflag="1345" id1="1027474" id2="17" version="1065353216">Your attack has been repelled and your defeat has been recorded; wargame complete.</text>
+		<text bitflag="1345" id1="1027477" id2="17" version="1065353216">The invasion force has been repelled. Your victory will be recognized; wargame complete.</text>
+		<text bitflag="1345" id1="1027502" id2="17" version="1065353216">An ally is Unbeatable!</text>
+		<text bitflag="1345" id1="1027503" id2="17" version="1065353216">An ally is Invincible!</text>
+		<text bitflag="1345" id1="1027504" id2="17" version="1065353216">An ally is Immortal!</text>
+		<text bitflag="1345" id1="1027505" id2="17" version="1065353216">An enemy is Unbeatable!</text>
+		<text bitflag="1345" id1="1027506" id2="17" version="1065353216">An enemy is Invincible!</text>
+		<text bitflag="1345" id1="1027507" id2="17" version="1065353216">An enemy is Immortal!</text>
+		<text bitflag="1345" id1="1027508" id2="17" version="1065353216">You are Unbeatable!</text>
+		<text bitflag="1345" id1="1027509" id2="17" version="1065353216">You are Invincible!</text>
+		<text bitflag="1345" id1="1027510" id2="17" version="1065353216">You are Immortal!</text>
+		<text bitflag="1345" id1="1027513" id2="17" version="1065353216">An ally is Unbeatable!</text>
+		<text bitflag="1345" id1="1027514" id2="17" version="1065353216">An ally is Invincible!</text>
+		<text bitflag="1345" id1="1027515" id2="17" version="1065353216">An ally is Immortal!</text>
+		<text bitflag="1345" id1="1027516" id2="17" version="1065353216">An enemy is Unbeatable!</text>
+		<text bitflag="1345" id1="1027517" id2="17" version="1065353216">An enemy is Invincible!</text>
+		<text bitflag="1345" id1="1027518" id2="17" version="1065353216">An enemy is Immortal!</text>
+		<text bitflag="1345" id1="1027519" id2="17" version="1065353216">You are Unbeatable!</text>
+		<text bitflag="1345" id1="1027520" id2="17" version="1065353216">You are Invincible!</text>
+		<text bitflag="1345" id1="1027521" id2="17" version="1065353216">You are Immortal!</text>
+		<text bitflag="1345" id1="1027526" id2="17" version="1065353216">An ally is Unbeatable!</text>
+		<text bitflag="1345" id1="1027527" id2="17" version="1065353216">An ally is Invincible!</text>
+		<text bitflag="1345" id1="1027528" id2="17" version="1065353216">An ally is Immortal!</text>
+		<text bitflag="1345" id1="1027529" id2="17" version="1065353216">An enemy is Unbeatable!</text>
+		<text bitflag="1345" id1="1027530" id2="17" version="1065353216">An enemy is Invincible!</text>
+		<text bitflag="1345" id1="1027531" id2="17" version="1065353216">An enemy is Immortal!</text>
+		<text bitflag="1345" id1="1027532" id2="17" version="1065353216">You are Unbeatable!</text>
+		<text bitflag="1345" id1="1027533" id2="17" version="1065353216">You are Invincible!</text>
+		<text bitflag="1345" id1="1027534" id2="17" version="1065353216">You are Immortal!</text>
+		<text bitflag="1345" id1="1027537" id2="17" version="1065353216">An ally is Unbeatable!</text>
+		<text bitflag="1345" id1="1027538" id2="17" version="1065353216">An ally is Invincible!</text>
+		<text bitflag="1345" id1="1027539" id2="17" version="1065353216">An ally is Immortal!</text>
+		<text bitflag="1345" id1="1027540" id2="17" version="1065353216">An enemy is Unbeatable!</text>
+		<text bitflag="1345" id1="1027541" id2="17" version="1065353216">An enemy is Invincible!</text>
+		<text bitflag="1345" id1="1027542" id2="17" version="1065353216">An enemy is Immortal!</text>
+		<text bitflag="1345" id1="1027543" id2="17" version="1065353216">You are Unbeatable!</text>
+		<text bitflag="1345" id1="1027544" id2="17" version="1065353216">You are Invincible!</text>
+		<text bitflag="1345" id1="1027545" id2="17" version="1065353216">You are Immortal!</text>
+	</file_content>
+</stb_file>

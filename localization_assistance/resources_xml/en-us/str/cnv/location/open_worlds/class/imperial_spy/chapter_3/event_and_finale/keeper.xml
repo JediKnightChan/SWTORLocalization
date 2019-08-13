@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>168</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/imperial_spy/chapter_3/event_and_finale/keeper.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="550358" id2="17" version="1065353216">This is Keeper. You're approaching the station now.</text>
+		<text bitflag="1345" id1="550360" id2="17" version="1065353216">I can monitor you so long as you keep an open channel. We'll be with you through the assault.</text>
+		<text bitflag="1345" id1="550361" id2="17" version="1065353216">I'm preparing to dock. No sign they've noticed me.</text>
+		<text bitflag="1360" id1="550361" id2="17" version="1065353216">Acknowledged.</text>
+		<text bitflag="1345" id1="550362" id2="17" version="1065353216">Imperial Intelligence is gone. Designations are meaningless.</text>
+		<text bitflag="1360" id1="550362" id2="17" version="1065353216">Don't call yourself &quot;Keeper.&quot;</text>
+		<text bitflag="1345" id1="550363" id2="17" version="1065353216">I won't--I won't have this discussion now.</text>
+		<text bitflag="1345" id1="550365" id2="17" version="1065353216">Don't you trust me?</text>
+		<text bitflag="1360" id1="550365" id2="17" version="1065353216">I can do this alone.</text>
+		<text bitflag="1345" id1="550366" id2="17" version="1065353216">I want to be there for this.</text>
+		<text bitflag="1345" id1="550368" id2="17" version="1065353216">Your ship is cloaked, but once you're aboard you'll need to move fast. Take out any conspirators quick as you can.</text>
+		<text bitflag="1345" id1="550370" id2="17" version="1065353216">Anyone not there in person, we'll start hunting down as soon as you identify them.</text>
+		<text bitflag="1345" id1="550372" id2="17" version="1065353216">The Minister is waiting for you.</text>
+		<text bitflag="1345" id1="550373" id2="17" version="1065353216">...utilize fractal thought pattern twenty-seven. Reanalyze.</text>
+		<text bitflag="1345" id1="550375" id2="17" version="1065353216">I'm glad you're back. They're reconstructing the conspirators' holoconference now.</text>
+		<text bitflag="1345" id1="550376" id2="17" version="1065353216">It's been a while. How are you holding up?</text>
+		<text bitflag="1360" id1="550376" id2="17" version="1065353216">It's good to see you again.</text>
+		<text bitflag="1345" id1="550377" id2="17" version="1065353216">As well as anyone, under current circumstances.</text>
+		<text bitflag="1345" id1="550379" id2="17" version="1065353216">Come in. They're reconstructing the conspirators' holoconference now.</text>
+		<text bitflag="1345" id1="550380" id2="17" version="1065353216">Anything turn up so far?</text>
+		<text bitflag="1360" id1="550380" id2="17" version="1065353216">What've you found out?</text>
+		<text bitflag="1345" id1="550381" id2="17" version="1065353216">Genetic engineering plays havoc with your people's brains, doesn't it?</text>
+		<text bitflag="1360" id1="550381" id2="17" version="1065353216">Your Watchers are crazy.</text>
+		<text bitflag="1345" id1="550382" id2="17" version="1065353216">If it didn't have an effect, it wouldn't be worth the bother.</text>
+		<text bitflag="1345" id1="550384" id2="17" version="1065353216">The galaxy's at war, and you're sending me on flights of fancy.</text>
+		<text bitflag="1360" id1="550384" id2="17" version="1065353216">This had better be worth it.</text>
+		<text bitflag="1345" id1="550385" id2="17" version="1065353216">You and I both know what this means.</text>
+		<text bitflag="1345" id1="550387" id2="17" version="1065353216">Preliminary analysis bears out our theory: The call was initiated by Hunter somewhere in the Brema Sector six months ago.</text>
+		<text bitflag="1345" id1="550389" id2="17" version="1065353216">The recording you pulled is intact, but--Watcher Nine?</text>
+		<text bitflag="1345" id1="550391" id2="17" version="1065353216">Splicing and decryption complete.</text>
+		<text bitflag="1345" id1="550393" id2="17" version="1065353216">--rules of the Koros Covenant, I call this meeting to order.</text>
+		<text bitflag="1345" id1="550395" id2="17" version="1065353216">Spare us the corporate posture and report.</text>
+		<text bitflag="1345" id1="550397" id2="17" version="1065353216">Since you're in a hurry. Senator Voralla and Representative Shuuru are predictable as always.</text>
+		<text bitflag="1345" id1="550399" id2="17" version="1065353216">And Commenor...?</text>
+		<text bitflag="1345" id1="550401" id2="17" version="1065353216">All taken care of. What about you--those earnest Padawans keeping you up at night?</text>
+		<text bitflag="5441" id1="550403" id2="17" version="1065353216">Different participants on different datastreams. Processing.</text>
+		<text bitflag="1345" id1="550404" id2="17" version="1065353216">There's Hunter. What about the others?</text>
+		<text bitflag="1360" id1="550404" id2="17" version="1065353216">Do you recognize them?</text>
+		<text bitflag="1345" id1="550405" id2="17" version="1065353216">I don't know.</text>
+		<text bitflag="1345" id1="550407" id2="17" version="1065353216">We're getting names, but not a lot of context.</text>
+		<text bitflag="1360" id1="550407" id2="17" version="1065353216">What are they talking about?</text>
+		<text bitflag="1345" id1="550408" id2="17" version="1065353216">Commenor has a military training base, but--they're moving on.</text>
+		<text bitflag="1345" id1="550410" id2="17" version="1065353216">Look at them, safe and secure. They think they rule the world.</text>
+		<text bitflag="1360" id1="550410" id2="17" version="1065353216">You can smell the arrogance.</text>
+		<text bitflag="1345" id1="550411" id2="17" version="1065353216">Who can blame them?</text>
+		<text bitflag="1345" id1="550413" id2="17" version="1065353216">--domain is unsettled, as we expected. I must again raise the concern: Do we overplay our hand?</text>
+		<text bitflag="1345" id1="550415" id2="17" version="1065353216">There is the chance it will spin out of control. Darth Angral, Darth Baras, now the Children are awakening.</text>
+		<text bitflag="1345" id1="550417" id2="17" version="1065353216">For each, there is a Republic counterbalance.</text>
+		<text bitflag="5441" id1="550419" id2="17" version="1065353216">We're letting loose the reins, but we're not taking off their blinders. Sit back and enjoy the spectacle.</text>
+		<text bitflag="1345" id1="550420" id2="17" version="1065353216">However much power they've got, they see their plan as a risk.</text>
+		<text bitflag="1360" id1="550420" id2="17" version="1065353216">They know they're vulnerable.</text>
+		<text bitflag="1345" id1="550421" id2="17" version="1065353216">Don't tell me we're missing whole sections.</text>
+		<text bitflag="1360" id1="550421" id2="17" version="1065353216">Can't this thing work?</text>
+		<text bitflag="1360" id1="550422" id2="17" version="1065353216">[Remain silent]</text>
+		<text bitflag="1345" id1="550423" id2="17" version="1065353216">--to bicker. Each of us agreed to the timetable. Each of us reports success in our own sphere.</text>
+		<text bitflag="1345" id1="550425" id2="17" version="1065353216">Ambition must never be our master. Patience serves our noble cause best. But if our enforcer approves....</text>
+		<text bitflag="1345" id1="550427" id2="17" version="1065353216">I do. I swear.</text>
+		<text bitflag="1345" id1="550429" id2="17" version="1065353216">...then we move forward, to Armageddon.</text>
+		<text bitflag="1345" id1="550431" id2="17" version="1065353216">Keeper? The war council needs you.</text>
+		<text bitflag="5441" id1="550433" id2="17" version="1065353216">Sir?</text>
+		<text bitflag="1345" id1="550435" id2="17" version="1065353216">Ah!</text>
+		<text bitflag="1345" id1="550436" id2="17" version="1065353216">Talk to me, Keeper. Look at me!</text>
+		<text bitflag="1360" id1="550436" id2="17" version="1065353216">What's happening?</text>
+		<text bitflag="1345" id1="550437" id2="17" version="1065353216">We need security and a medical team!</text>
+		<text bitflag="1345" id1="550438" id2="17" version="1065353216">Call for a medic. Go!</text>
+		<text bitflag="1360" id1="550438" id2="17" version="1065353216">Get help, now!</text>
+		<text bitflag="1345" id1="550439" id2="17" version="1065353216">Yes, sir!</text>
+		<text bitflag="1345" id1="550440" id2="17" version="1065353216">We have a breach. No one leaves, understood?</text>
+		<text bitflag="1360" id1="550440" id2="17" version="1065353216">Lock down headquarters.</text>
+		<text bitflag="1345" id1="550441" id2="17" version="1065353216">Yes, sir. Security and medical help is on the way.</text>
+		<text bitflag="1345" id1="550444" id2="17" version="1065353216">What's our status?</text>
+		<text bitflag="1345" id1="550445" id2="17" version="1065353216">Keeper and the others are on life support. Fixers theorize the transmission had a hidden overlay.</text>
+		<text bitflag="1345" id1="550447" id2="17" version="1065353216">A code or image only a genetically enhanced mind could recognize, designed to overwhelm and shut down the brain.</text>
+		<text bitflag="1345" id1="550448" id2="17" version="1065353216">They knew it would take an enhanced mind to find the data. This was insurance against that possibility.</text>
+		<text bitflag="1360" id1="550448" id2="17" version="1065353216">The recording was trapped.</text>
+		<text bitflag="1345" id1="550449" id2="17" version="1065353216">You said they're on life support. Any prognosis?</text>
+		<text bitflag="1360" id1="550449" id2="17" version="1065353216">Will they be okay?</text>
+		<text bitflag="1345" id1="550450" id2="17" version="1065353216">Without understanding the trigger? They could be vegetables for hours or for decades.</text>
+		<text bitflag="1345" id1="550452" id2="17" version="1065353216">So being born ordinary has its advantages.</text>
+		<text bitflag="1360" id1="550452" id2="17" version="1065353216">Score one for natural people.</text>
+		<text bitflag="1345" id1="550453" id2="17" version="1065353216">It does ensure a certain robustness.</text>
+		<text bitflag="1345" id1="550455" id2="17" version="1065353216">Losing this many analysts--forget about Keeper--it's going to be a blow to the war.</text>
+		<text bitflag="1345" id1="550457" id2="17" version="1065353216">I'll support you where I can, but right now I've got a few dozen field agents without handlers. Your operation....</text>
+		<text bitflag="1345" id1="550458" id2="17" version="1065353216">Take care of your people, Watcher Three. I'll proceed on my own.</text>
+		<text bitflag="1360" id1="550458" id2="17" version="1065353216">The war is your top priority.</text>
+		<text bitflag="1345" id1="550459" id2="17" version="1065353216">The people responsible for this should be our top priority.</text>
+		<text bitflag="1360" id1="550459" id2="17" version="1065353216">Our operation is vital!</text>
+		<text bitflag="1345" id1="550460" id2="17" version="1065353216">I speak with the authority of the Sith. My operation is theirs.</text>
+		<text bitflag="1360" id1="550460" id2="17" version="1065353216">You would defy Jadus's Hand?</text>
+		<text bitflag="1345" id1="550461" id2="17" version="1065353216">You'll hear from me when I'm ready.</text>
+		<text bitflag="1360" id1="550461" id2="17" version="1065353216">I prefer working alone anyway.</text>
+		<text bitflag="1345" id1="550462" id2="17" version="1065353216">While you were on Belsavis, Keeper was compiling leads on the planet Voss. If you want to head there, I'll see what I can pull up.</text>
+		<text bitflag="1345" id1="550464" id2="17" version="1065353216">I know you and Keeper were close, sir. I'll make sure you receive updates on her condition.</text>
+		<text bitflag="1345" id1="550466" id2="17" version="1065353216">I've apprised the Minister of Intelligence--Darth Jadus, too, but he's still in seclusion. That's all I can do.</text>
+		<text bitflag="1345" id1="550469" id2="17" version="1065353216">I've apprised the Minister of Intelligence--if he needs to contact you, he knows how.</text>
+		<text bitflag="1345" id1="550471" id2="17" version="1065353216">Come on. If someone's gonna take out your co-workers, it should be us--not some cocky shadow pansies.</text>
+		<text bitflag="1345" id1="550472" id2="17" version="1065353216">We still have a lead. We'll find the people responsible.</text>
+		<text bitflag="1345" id1="550473" id2="17" version="1065353216">I didn't know them well, but... I'm sorry, sir. We'll hunt down the people who did this.</text>
+		<text bitflag="1345" id1="550474" id2="17" version="1065353216">Hard not to admire their security. I'd very much like to meet these people.</text>
+		<text bitflag="1345" id1="550475" id2="17" version="1065353216">I'm disappointed they didn't share that trap with me on Belsavis. I would be interested in developing it further.</text>
+		<text bitflag="1345" id1="550480" id2="17" version="1065353216">Operative Djannis? Would you mind?</text>
+		<text bitflag="1345" id1="550482" id2="17" version="1065353216">Mind? I wouldn't stay if you paid me.</text>
+		<text bitflag="1345" id1="550484" id2="17" version="1065353216">Master Hyllus, could we have a moment?</text>
+		<text bitflag="1345" id1="550486" id2="17" version="1065353216">Of course, Keeper.</text>
+		<text bitflag="1345" id1="550488" id2="17" version="1065353216">Fixer, would you mind waiting elsewhere?</text>
+		<text bitflag="1345" id1="550490" id2="17" version="1065353216">I have some catching up to do in the city.</text>
+		<text bitflag="1345" id1="550492" id2="17" version="1065353216">Ensign... Temple? Would you mind sweeping the Cipher's ship?</text>
+		<text bitflag="1345" id1="550494" id2="17" version="1065353216">I can get right on that.</text>
+		<text bitflag="1345" id1="550496" id2="17" version="1065353216">Hello, Cipher. Thank you for coming.</text>
+		<text bitflag="1345" id1="550498" id2="17" version="1065353216">You know, I don't often drink--the headaches and nosebleeds are part of the price of my heritage.</text>
+		<text bitflag="1345" id1="550499" id2="17" version="1065353216">Keeper... tell me what we're doing.</text>
+		<text bitflag="1360" id1="550499" id2="17" version="1065353216">Why are we here?</text>
+		<text bitflag="1345" id1="550500" id2="17" version="1065353216">Are you uncomfortable? Can I help you relax?</text>
+		<text bitflag="1360" id1="550500" id2="17" version="1065353216">[Flirt] You look nervous...</text>
+		<text bitflag="1345" id1="550501" id2="17" version="1065353216">In a manner of speaking.</text>
+		<text bitflag="1345" id1="550503" id2="17" version="1065353216">And I thought you were genetically superior in every way.</text>
+		<text bitflag="1360" id1="550503" id2="17" version="1065353216">I'm losing respect for you.</text>
+		<text bitflag="1345" id1="550504" id2="17" version="1065353216">Most ways, not all. The new generation is an improvement.</text>
+		<text bitflag="1345" id1="550506" id2="17" version="1065353216">Quite a while ago, when I took this designation, I said we were over and you said I should keep an open mind.</text>
+		<text bitflag="1345" id1="550508" id2="17" version="1065353216">I did, and I thought, and I realized I don't know why you were being so persistent.</text>
+		<text bitflag="1345" id1="550509" id2="17" version="1065353216">I was being persistent because you mean the world to me.</text>
+		<text bitflag="1360" id1="550509" id2="17" version="1065353216">I care deeply about you.</text>
+		<text bitflag="1345" id1="550510" id2="17" version="1065353216">Strange to hear you talk like that.</text>
+		<text bitflag="1345" id1="550512" id2="17" version="1065353216">Why do you need to know my motives to determine how you feel?</text>
+		<text bitflag="1360" id1="550512" id2="17" version="1065353216">Does it really matter?</text>
+		<text bitflag="1345" id1="550513" id2="17" version="1065353216">That's it, though. I know how I feel.</text>
+		<text bitflag="1345" id1="550515" id2="17" version="1065353216">I like you, Cipher. I like that you're an effective agent, I like the way you make my brain fuzz over.</text>
+		<text bitflag="1345" id1="550517" id2="17" version="1065353216">I'm not going to resign as Keeper, and we can't--but I'm willing to hope, and watch for our chance to be together.</text>
+		<text bitflag="1345" id1="550518" id2="17" version="1065353216">I can be patient. You're a woman worth waiting for.</text>
+		<text bitflag="1360" id1="550518" id2="17" version="1065353216">I'd like that.</text>
+		<text bitflag="1345" id1="550519" id2="17" version="1065353216">Officially, I'm a woman worth millions.</text>
+		<text bitflag="1345" id1="550521" id2="17" version="1065353216">Some chances pass by quickly.</text>
+		<text bitflag="1360" id1="550521" id2="17" version="1065353216">What about now? [Kiss her]</text>
+		<text bitflag="1345" id1="550522" id2="17" version="1065353216">They do, at that.</text>
+		<text bitflag="1345" id1="550524" id2="17" version="1065353216">They'll be expecting me in the Citadel. Please be careful on this mission--I can't predict what's ahead.</text>
+		<text bitflag="1345" id1="550525" id2="17" version="1065353216">Things are dangerous for all of us. Take care of yourself, and rest when you can.</text>
+		<text bitflag="1360" id1="550525" id2="17" version="1065353216">Let's both be careful.</text>
+		<text bitflag="1345" id1="550526" id2="17" version="1065353216">If I rest, who'll keep the new Watchers in line?</text>
+		<text bitflag="1345" id1="550528" id2="17" version="1065353216">I swear to you, you won't regret choosing to try.</text>
+		<text bitflag="1360" id1="550528" id2="17" version="1065353216">We'll make this work someday.</text>
+		<text bitflag="1345" id1="550529" id2="17" version="1065353216">That's not your promise to make.</text>
+		<text bitflag="1345" id1="550531" id2="17" version="1065353216">I fought Darth Jadus and I fought a Jedi. Whoever these people are, they don't know who they're up against.</text>
+		<text bitflag="1360" id1="550531" id2="17" version="1065353216">This enemy doesn't scare me.</text>
+		<text bitflag="1345" id1="550532" id2="17" version="1065353216">Neither do you. Remember that.</text>
+		<text bitflag="1345" id1="550534" id2="17" version="1065353216">Get to your ship, and we'll have the future when it comes.</text>
+		<text bitflag="1345" id1="550535" id2="17" version="1065353216">Don't ask me to put my life on hold again.</text>
+		<text bitflag="1360" id1="550535" id2="17" version="1065353216">I can't keep waiting for you.</text>
+		<text bitflag="1345" id1="550536" id2="17" version="1065353216">I understand, of course.</text>
+		<text bitflag="1345" id1="550538" id2="17" version="1065353216">I was being persistent for my own reasons. To be frank, they no longer apply.</text>
+		<text bitflag="1360" id1="550538" id2="17" version="1065353216">I've moved on since then.</text>
+		<text bitflag="1345" id1="550539" id2="17" version="1065353216">I suspected as much, but I had to be sure.</text>
+		<text bitflag="1345" id1="550541" id2="17" version="1065353216">Consider this our last calm together, then. The next few months will be busy, and none of us is too valuable to be spared.</text>
+		<text bitflag="1345" id1="550543" id2="17" version="1065353216">When one of us dies... the other can remember a better moment.</text>
+		<text bitflag="1345" id1="550545" id2="17" version="1065353216">Cipher, don't say anything. I'm walking out of the Citadel, and I'd like to discuss the... personal matters you've brought up before.</text>
+		<text bitflag="1345" id1="550547" id2="17" version="1065353216">Can we meet in the Nexus Room? For a drink?</text>
+		<text bitflag="1345" id1="550548" id2="17" version="1065353216">You're exhausted and we're in crisis mode. Are you sure?</text>
+		<text bitflag="1360" id1="550548" id2="17" version="1065353216">Is this the right time?</text>
+		<text bitflag="1345" id1="550549" id2="17" version="1065353216">You're leaving the planet, and I'm back on duty in an hour. I'm very sure.</text>
+		<text bitflag="1345" id1="550551" id2="17" version="1065353216">I've been waiting to hear you say that for ages.</text>
+		<text bitflag="1360" id1="550551" id2="17" version="1065353216">[Flirt] Of course.</text>
+		<text bitflag="1345" id1="550552" id2="17" version="1065353216">I'm aware of that.</text>
+		<text bitflag="1345" id1="550554" id2="17" version="1065353216">Five minutes, alone, please.</text>
+		<text bitflag="1345" id1="550555" id2="17" version="1065353216">I think it's time to put personal matters aside. Don't you?</text>
+		<text bitflag="1360" id1="550555" id2="17" version="1065353216">We should focus on work.</text>
+		<text bitflag="1345" id1="550556" id2="17" version="1065353216">Yes, of course. Thank you for the course correction.</text>
+		<text bitflag="1345" id1="550558" id2="17" version="1065353216">I'll talk to you at the target site.</text>
+		<text bitflag="1345" id1="550560" id2="17" version="1065353216">You'll have to excuse me.</text>
+		<text bitflag="1345" id1="550561" id2="17" version="1065353216">Your assistance is appreciated.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>52</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/imperial/revan/x1_02.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="202114" id2="17" version="1065353216">Communications program = offline // Further data = unavailable</text>
+		<text bitflag="3393" id1="202115" id2="17" version="1065353216">Emergency protocols = online // Identification + communications program = initializing</text>
+		<text bitflag="1345" id1="202116" id2="17" version="1065353216">What's the emergency, droid?</text>
+		<text bitflag="3393" id1="202117" id2="17" version="1065353216">Encrypting + uplinking</text>
+		<text bitflag="1345" id1="202119" id2="17" version="1065353216">This is Darth Malgus of the Expeditionary Fleet. I bring greetings from the Veragi Sector.</text>
+		<text bitflag="1345" id1="202121" id2="17" version="1065353216">You are the lord who brought Nomen Karr to his knees. Now I ask that you stand at my side and carry the Emperor's banner to war.</text>
+		<text bitflag="1345" id1="202122" id2="17" version="1065353216">I am the Empire's sword. Speak, Malgus.</text>
+		<text bitflag="1360" id1="202122" id2="17" version="1065353216">War is my birthright.</text>
+		<text bitflag="1345" id1="202123" id2="17" version="1065353216">You are the lord who inherited Tulak Hord's secrets. Now I ask you to lend that power to the Emperor's cause, as we begin the march to war.</text>
+		<text bitflag="1345" id1="202124" id2="17" version="1065353216">How would you suggest I contribute?</text>
+		<text bitflag="1360" id1="202124" id2="17" version="1065353216">I'll listen to a fellow Sith.</text>
+		<text bitflag="1345" id1="202125" id2="17" version="1065353216">You are the Cipher who dismantled the terrorist threat to our nation. Now I ask Intelligence to answer the Emperor's call, as we begin the march to war.</text>
+		<text bitflag="1345" id1="202126" id2="17" version="1065353216">How can Intelligence aid you, my lord?</text>
+		<text bitflag="1360" id1="202126" id2="17" version="1065353216">We're here to serve.</text>
+		<text bitflag="1345" id1="202127" id2="17" version="1065353216">You are the bounty hunter who slew Jedi Master Kellian Jarro. Now I ask you to lend your might to our army, as the Emperor calls us to war.</text>
+		<text bitflag="1345" id1="202128" id2="17" version="1065353216">I've done mercenary jobs before. What do you need?</text>
+		<text bitflag="1360" id1="202128" id2="17" version="1065353216">I'll listen to your offer.</text>
+		<text bitflag="1345" id1="202129" id2="17" version="1065353216">You have made unique contributions to our Empire. Now I ask you to lend your might to our army, as the Emperor himself summons us to war.</text>
+		<text bitflag="1345" id1="202142" id2="17" version="1065353216">Not many Sith claim to know the Emperor's will.</text>
+		<text bitflag="1360" id1="202142" id2="17" version="1065353216">The Emperor is involved?</text>
+		<text bitflag="1345" id1="202143" id2="17" version="1065353216">This is an exceptional circumstance, as you will come to understand.</text>
+		<text bitflag="1345" id1="202145" id2="17" version="1065353216">We have other business, Malgus. What if we refuse?</text>
+		<text bitflag="1360" id1="202145" id2="17" version="1065353216">You &quot;ask&quot;? Or &quot;demand&quot;?</text>
+		<text bitflag="1345" id1="202146" id2="17" version="1065353216">I have other business, Malgus. What if I say &quot;no&quot;?</text>
+		<text bitflag="1360" id1="202146" id2="17" version="1065353216">You &quot;ask&quot;? Or &quot;demand&quot;?</text>
+		<text bitflag="1345" id1="202147" id2="17" version="1065353216">Then I will wish you speed and fortune--but I ask you hear me out.</text>
+		<text bitflag="1345" id1="202149" id2="17" version="1065353216">For three centuries, our Emperor has held a Jedi Master prisoner, prolonging his life and his torment.</text>
+		<text bitflag="1345" id1="202151" id2="17" version="1065353216">The Jedi Master possessed a secret--the location of the Foundry, an ancient space station of untold power. Both the Jedi and his Foundry concern us today.</text>
+		<text bitflag="1345" id1="202152" id2="17" version="1065353216">Where does fighting the Republic come into play?</text>
+		<text bitflag="1360" id1="202152" id2="17" version="1065353216">You said we were going to war.</text>
+		<text bitflag="1345" id1="202153" id2="17" version="1065353216">What do we know about the Jedi Master and this space station?</text>
+		<text bitflag="1360" id1="202153" id2="17" version="1065353216">Tell me about them.</text>
+		<text bitflag="1345" id1="202154" id2="17" version="1065353216">Each could dominate worlds. The details are not your immediate concern.</text>
+		<text bitflag="1345" id1="202156" id2="17" version="1065353216">This isn't about senile Jedi and their rusting toys. Get to the point.</text>
+		<text bitflag="1360" id1="202156" id2="17" version="1065353216">Skip the history lesson.</text>
+		<text bitflag="1345" id1="202157" id2="17" version="1065353216">The Emperor sought to pry the Foundry's location from the Jedi's mind. But for centuries, he resisted... so the Emperor has set him free.</text>
+		<text bitflag="1345" id1="202159" id2="17" version="1065353216">Predictably, the Jedi Master fled to his Foundry and brought the Republic armada with him. He has led us to our prize, if we have the courage to claim it.</text>
+		<text bitflag="1345" id1="202160" id2="17" version="1065353216">Releasing the Jedi was a risk, but it may yet pay off. How do we reach our enemy?</text>
+		<text bitflag="1360" id1="202160" id2="17" version="1065353216">I can see the opportunity.</text>
+		<text bitflag="1345" id1="202161" id2="17" version="1065353216">If you have the credits, I have the courage.</text>
+		<text bitflag="1360" id1="202161" id2="17" version="1065353216">Sounds like we have a deal.</text>
+		<text bitflag="1345" id1="202162" id2="17" version="1065353216">The Empire's treasury is open.</text>
+		<text bitflag="1345" id1="202164" id2="17" version="1065353216">The Emperor had three hundred years to break this man... and he never succumbed?</text>
+		<text bitflag="1360" id1="202164" id2="17" version="1065353216">A Jedi resisted the Emperor?</text>
+		<text bitflag="1345" id1="202165" id2="17" version="1065353216">So it seems.</text>
+		<text bitflag="1345" id1="202167" id2="17" version="1065353216">You can justify it how you want, but it sounds like this Jedi got away.</text>
+		<text bitflag="1360" id1="202167" id2="17" version="1065353216">I bet he really just escaped.</text>
+		<text bitflag="1345" id1="202168" id2="17" version="1065353216">Whatever the truth, the advantage must be ours.</text>
+		<text bitflag="1345" id1="202170" id2="17" version="1065353216">A fleet of thirty Terminus-class destroyers is gathering. You may meet with Moff Phennir aboard the flagship, where he is coordinating the attack.</text>
+		<text bitflag="1345" id1="202172" id2="17" version="1065353216">We will capture the Foundry and slay this Jedi at last--and all the Empire will roar in triumph.</text>
+		<text bitflag="3393" id1="202174" id2="17" version="1065353216">Systems = nominal</text>
+		<text bitflag="1345" id1="673792" id2="17" version="1065353216">You have served me well in the past; but today I ask you to lend your might to our army and carry the Emperor's banner to war.</text>
+	</file_content>
+</stb_file>

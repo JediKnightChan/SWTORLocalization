@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>40</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris_imp/class/sith_warrior/general_minst_imposter.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="619537" id2="17" version="1065353216">Wow. You--you took them all down.</text>
+		<text bitflag="3393" id1="619539" id2="17" version="1065353216">Uh, I am General Minst. If you've come for Project Siantide, let's, uh--let's talk this through.</text>
+		<text bitflag="1345" id1="619540" id2="17" version="1065353216">I have no interest in Project Siantide.</text>
+		<text bitflag="1360" id1="619540" id2="17" version="1065353216">Not interested in that.</text>
+		<text bitflag="3393" id1="619541" id2="17" version="1065353216">He doesn't... I--I don't believe you! Project Siantide is too important--</text>
+		<text bitflag="1360" id1="619543" id2="17" version="1065353216">You're about to die.</text>
+		<text bitflag="1345" id1="619544" id2="17" version="1065353216">Start talking.</text>
+		<text bitflag="1360" id1="619544" id2="17" version="1065353216">I'm all ears.</text>
+		<text bitflag="3393" id1="619545" id2="17" version="1065353216">Uh, right, well. I'd be happy to hand over all my information, but it's--it's just going to take some time--</text>
+		<text bitflag="3393" id1="619547" id2="17" version="1065353216">No, I can't do this! I--I'm not General Minst! I'm just a grunt. I'm not going to die for this!</text>
+		<text bitflag="1345" id1="619548" id2="17" version="1065353216">The Republic is not worth dying for.</text>
+		<text bitflag="1360" id1="619548" id2="17" version="1065353216">That is sound thinking.</text>
+		<text bitflag="1360" id1="619549" id2="17" version="1065353216">Slow down and explain.</text>
+		<text bitflag="3393" id1="619550" id2="17" version="1065353216">There's no time!</text>
+		<text bitflag="1360" id1="619552" id2="17" version="1065353216">I'm suspicious.</text>
+		<text bitflag="3393" id1="619553" id2="17" version="1065353216">You've got to believe me!</text>
+		<text bitflag="3393" id1="619555" id2="17" version="1065353216">Minst deleted all the files about the project and then set the reactor to self-destruct!</text>
+		<text bitflag="3393" id1="619557" id2="17" version="1065353216">He muted the self-destruct sequence countdown, asked me to stall you. Here--listen!</text>
+		<text bitflag="1345" id1="619559" id2="17" version="1065353216">The power reactor will self-destruct in five minutes....</text>
+		<text bitflag="3393" id1="619561" id2="17" version="1065353216">I'll tell you where General Minst is, you'll let me flee this death trap. Yeah?</text>
+		<text bitflag="1345" id1="619562" id2="17" version="1065353216">Tell me and we'll see how I feel....</text>
+		<text bitflag="1360" id1="619562" id2="17" version="1065353216">No negotiations.</text>
+		<text bitflag="3393" id1="619563" id2="17" version="1065353216">O--okay.</text>
+		<text bitflag="1360" id1="619565" id2="17" version="1065353216">You have a deal.</text>
+		<text bitflag="1345" id1="619566" id2="17" version="1065353216">I'll just kill you and hunt for Minst later!</text>
+		<text bitflag="1360" id1="619566" id2="17" version="1065353216">You're dead.</text>
+		<text bitflag="3393" id1="619567" id2="17" version="1065353216">No, wait! You win!</text>
+		<text bitflag="3393" id1="619569" id2="17" version="1065353216">General Minst and his advisor are inside the reactor's fallout vault. It's the only place here that will withstand the self-destruct blast.</text>
+		<text bitflag="3393" id1="619571" id2="17" version="1065353216">Here's the code sequencer you need to open the vault. It will take about a minute to input them all.</text>
+		<text bitflag="1345" id1="619573" id2="17" version="1065353216">The power reactor will self-destruct in four and a half minutes....</text>
+		<text bitflag="3393" id1="619575" id2="17" version="1065353216">The vault is back out of here and all the way at the end of the corridor. Please, time's short, let me leave.</text>
+		<text bitflag="1345" id1="619576" id2="17" version="1065353216">It's already too late for you!</text>
+		<text bitflag="1360" id1="619576" id2="17" version="1065353216">No, you die. [Kill imposter]</text>
+		<text bitflag="3393" id1="619577" id2="17" version="1065353216">You lied!</text>
+		<text bitflag="3393" id1="619578" id2="17" version="1065353216">It's not fair--!</text>
+		<text bitflag="1360" id1="619581" id2="17" version="1065353216">Hurry or you're dead.</text>
+		<text bitflag="3393" id1="619582" id2="17" version="1065353216">You won't see me again!</text>
+		<text bitflag="1345" id1="619585" id2="17" version="1065353216">Save yourself, imposter.</text>
+		<text bitflag="1360" id1="619585" id2="17" version="1065353216">You may go.</text>
+		<text bitflag="3393" id1="619588" id2="17" version="1065353216">For the good of the Republic, men, attack the intruder!</text>
+	</file_content>
+</stb_file>

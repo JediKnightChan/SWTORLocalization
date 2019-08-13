@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>31</strs>
+		<file_name>/resources/en-us/str/gui/experiencebar.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="233402" version="1065353216">Experience Points</text>
+		<text bitflag="321" id1="2" id2="233402" version="1065353216">XP</text>
+		<text bitflag="321" id1="100" id2="233402" version="1065353216">You gain &lt;&lt;1&gt;&gt; experience for completing the mission.</text>
+		<text bitflag="321" id1="101" id2="233402" version="1065353216">You gain &lt;&lt;1&gt;&gt; experience for completing the bonus objective.</text>
+		<text bitflag="321" id1="102" id2="233402" version="1065353216">You gain &lt;&lt;1&gt;&gt; experience for discovering a codex.</text>
+		<text bitflag="321" id1="103" id2="233402" version="1065353216">You gain &lt;&lt;1&gt;&gt; experience for discovering all codices in a category.</text>
+		<text bitflag="321" id1="104" id2="233402" version="1065353216">You gain &lt;&lt;1&gt;&gt; experience for discovering all codices on a planet.</text>
+		<text bitflag="321" id1="105" id2="233402" version="1065353216">You gain &lt;&lt;1&gt;&gt; experience for discovering all the codices of a category on a planet.</text>
+		<text bitflag="321" id1="106" id2="233402" version="1065353216">Discovered &lt;&lt;1&gt;&gt;. You gain &lt;&lt;2&gt;&gt; experience.</text>
+		<text bitflag="321" id1="107" id2="233402" version="1065353216">Discovered &lt;&lt;1&gt;&gt;. You gain &lt;&lt;2&gt;&gt; experience.</text>
+		<text bitflag="321" id1="108" id2="233402" version="1065353216">Discovered a new area. You gain &lt;&lt;1&gt;&gt; experience.</text>
+		<text bitflag="321" id1="109" id2="233402" version="1065353216">Rested</text>
+		<text bitflag="321" id1="110" id2="233402" version="1065353216">You have entered a rest zone.</text>
+		<text bitflag="321" id1="111" id2="233402" version="1065353216">You are leaving a rest zone.</text>
+		<text bitflag="321" id1="112" id2="233402" version="1065353216">Level up!</text>
+		<text bitflag="321" id1="113" id2="233402" version="1065353216">You have gained a level. You are now level &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="114" id2="233402" version="1065353216">You are in a rested state. While in a rested state you gain double XP. You can get into a rested state by logging out of the game in a cantina.</text>
+		<text bitflag="321" id1="257" id2="233402" version="1065353216">You gain &lt;&lt;1[/$d social point/$d social points]&gt;&gt; for completing the mission.</text>
+		<text bitflag="321" id1="261" id2="233402" version="1065353216">Bonus mission completed by your group.  You receive &lt;&lt;1&gt;&gt; experience.</text>
+		<text bitflag="321" id1="262" id2="233402" version="1065353216">Bonus mission completed by your group.  You receive &lt;&lt;1[/$d social point/$d social points]&gt;&gt;.</text>
+		<text bitflag="321" id1="263" id2="233402" version="1065353216">Bonus mission completed by &lt;&lt;2&gt;&gt;.  You receive &lt;&lt;1&gt;&gt; experience.</text>
+		<text bitflag="321" id1="264" id2="233402" version="1065353216">Bonus mission completed by &lt;&lt;2&gt;&gt;.  You receive &lt;&lt;1[/$d social point/$d social points]&gt;&gt;.</text>
+		<text bitflag="321" id1="266" id2="233402" version="1065353216">You have entered a Rest Area.
+Only Subscribers gain Rest Experience while in a Rest Area.</text>
+		<text bitflag="321" id1="267" id2="233402" version="1065353216">You are currently earning experience at &lt;&lt;1&gt;&gt;% from a server-wide increased experience event (Time Remaining: &lt;&lt;2&gt;&gt;). During this time rest experience will not be applied or consumed.</text>
+		<text bitflag="321" id1="268" id2="233402" version="1065353216">You are currently earning 12x experience from class missions.</text>
+		<text bitflag="321" id1="269" id2="233402" version="1065353216">You are currently earning command experience at a bonus of +&lt;&lt;1&gt;&gt;% due to a server wide event. (Time Remaining: &lt;&lt;2&gt;&gt;).</text>
+		<text bitflag="321" id1="270" id2="233402" version="1065353216">Command Points</text>
+		<text bitflag="321" id1="271" id2="233402" version="1065353216">Command XP</text>
+		<text bitflag="321" id1="272" id2="233402" version="1065353216">Command Rank: &lt;&lt;1&gt;&gt;
+&lt;&lt;2&gt;&gt; / &lt;&lt;3&gt;&gt; Command XP</text>
+		<text bitflag="321" id1="274" id2="233402" version="1065353216">You are earning experience at &lt;&lt;1&gt;&gt;% from a server-wide event. During this time rest experience will not be applied or consumed.</text>
+		<text bitflag="321" id1="275" id2="233402" version="1065353216">You are currently earning command experience at a bonus of +&lt;&lt;1&gt;&gt;% due to a server wide event.</text>
+	</file_content>
+</stb_file>

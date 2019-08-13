@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>795</strs>
+		<file_name>/resources/en-us/str/cnv/location/companion_characters/sith_inquisitor/ashara_zavros/ashara_zavros.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="66103" id2="17" version="1065353216">Uh-huh.</text>
+		<text bitflag="1345" id1="254897" id2="17" version="1065353216">You are my apprentice now. You will do as I say.</text>
+		<text bitflag="1360" id1="254897" id2="17" version="1065353216">You will obey me.</text>
+		<text bitflag="1345" id1="254898" id2="17" version="1065353216">No. The Jedi exist to wipe out evil.</text>
+		<text bitflag="1345" id1="254929" id2="17" version="1065353216">I had hoped we could be friends. Oh well.</text>
+		<text bitflag="1360" id1="254929" id2="17" version="1065353216">Sorry to hear that.</text>
+		<text bitflag="1345" id1="503946" id2="17" version="1065353216">I'm sorry, I was meditating.</text>
+		<text bitflag="1345" id1="503947" id2="17" version="1065353216">Passion, peace. Strength, knowledge. Power, serenity. Victory, harmony. Freedom, the Force.</text>
+		<text bitflag="1345" id1="561733" id2="17" version="1065353216">No, this isn't right. What am I doing? I'm not dark side. I'm not Sith.</text>
+		<text bitflag="1345" id1="561734" id2="17" version="1065353216">You seemed pretty dark side when you sought forbidden knowledge.</text>
+		<text bitflag="1360" id1="561734" id2="17" version="1065353216">You used the holocron.</text>
+		<text bitflag="1345" id1="561735" id2="17" version="1065353216">To gain the knowledge necessary to understand and defeat my enemies.</text>
+		<text bitflag="1345" id1="561737" id2="17" version="1065353216">You seemed pretty dark side when you murdered your enemies in rage.</text>
+		<text bitflag="1360" id1="561737" id2="17" version="1065353216">You killed the assassins.</text>
+		<text bitflag="1345" id1="561738" id2="17" version="1065353216">They were Sith. If I let them live, I'm responsible for all the other people they murder.</text>
+		<text bitflag="1345" id1="561740" id2="17" version="1065353216">Why is it always light and dark, black and white?</text>
+		<text bitflag="1360" id1="561740" id2="17" version="1065353216">What about shades of gray?</text>
+		<text bitflag="1345" id1="561744" id2="17" version="1065353216">As a Jedi, I've sworn to end this war. Even if I have to kill every Sith in the galaxy.</text>
+		<text bitflag="1345" id1="561745" id2="17" version="1065353216">Then you understand that sometimes the ends justify the means.</text>
+		<text bitflag="1360" id1="561745" id2="17" version="1065353216">You'll do whatever it takes?</text>
+		<text bitflag="1345" id1="561746" id2="17" version="1065353216">Of course. Jedi take different paths, but have the same goal: peace.</text>
+		<text bitflag="1345" id1="561749" id2="17" version="1065353216">I thought the Jedi were all about peace.</text>
+		<text bitflag="1360" id1="561749" id2="17" version="1065353216">That doesn't sound Jedi-like.</text>
+		<text bitflag="1345" id1="561751" id2="17" version="1065353216">Such murderous thoughts you have.</text>
+		<text bitflag="1360" id1="561751" id2="17" version="1065353216">You sound so angry.</text>
+		<text bitflag="1345" id1="561752" id2="17" version="1065353216">I didn't say I would enjoy it.</text>
+		<text bitflag="1345" id1="561754" id2="17" version="1065353216">There can never be peace in the galaxy as long as the Sith exist. The Sith thrive on endless war.</text>
+		<text bitflag="1345" id1="561755" id2="17" version="1065353216">On the contrary. The Sith Empire is destroying itself with its ceaseless war-mongering. That is why I want to change it.</text>
+		<text bitflag="1360" id1="561755" id2="17" version="1065353216">Help me change it.</text>
+		<text bitflag="1345" id1="561756" id2="17" version="1065353216">You can't change the dark side.</text>
+		<text bitflag="1345" id1="561757" id2="17" version="1065353216">That won't stop me from trying.</text>
+		<text bitflag="1360" id1="561757" id2="17" version="1065353216">Give me a chance.</text>
+		<text bitflag="1345" id1="561758" id2="17" version="1065353216">There more ways to be Sith than there are to be Jedi. Some of us are quite sane, and capable of seeing that this war benefits no one.</text>
+		<text bitflag="1360" id1="561758" id2="17" version="1065353216">We're not all madmen.</text>
+		<text bitflag="1345" id1="561759" id2="17" version="1065353216">And here I thought the Jedi believed in redemption.</text>
+		<text bitflag="1360" id1="561759" id2="17" version="1065353216">What about redemption?</text>
+		<text bitflag="1345" id1="561760" id2="17" version="1065353216">So let's say you kill all the Sith-- the really important ones, at least. What then?</text>
+		<text bitflag="1360" id1="561760" id2="17" version="1065353216">Don't be rash.</text>
+		<text bitflag="1345" id1="561762" id2="17" version="1065353216">You can't kill them all--and the survivors will bicker amongst themselves.</text>
+		<text bitflag="1345" id1="561764" id2="17" version="1065353216">Someone will fill the power vacuum--maybe someone powerful enough to unite the Sith. You might prefer the evil you know.</text>
+		<text bitflag="1345" id1="561765" id2="17" version="1065353216">So what do you propose? How will you change the Empire?</text>
+		<text bitflag="1345" id1="561767" id2="17" version="1065353216">I can't fight you, but I will never respect you.</text>
+		<text bitflag="1345" id1="699555" id2="17" version="1065353216">I need to talk.</text>
+		<text bitflag="1345" id1="699557" id2="17" version="1065353216">I can't serve you if I can't trust you. If I can't believe in what you're working for.</text>
+		<text bitflag="1345" id1="699558" id2="17" version="1065353216">I try to walk in the light and transform the Empire from within. That's all I can promise.</text>
+		<text bitflag="1360" id1="699558" id2="17" version="1065353216">I want a kinder Empire.</text>
+		<text bitflag="1345" id1="699559" id2="17" version="1065353216">But into what? What kind of Empire do you see?</text>
+		<text bitflag="1345" id1="699561" id2="17" version="1065353216">What do you hope to accomplish by following me?</text>
+		<text bitflag="1360" id1="699561" id2="17" version="1065353216">What do you want?</text>
+		<text bitflag="1345" id1="699562" id2="17" version="1065353216">How unfortunate for you. You don't have a choice.</text>
+		<text bitflag="1360" id1="699562" id2="17" version="1065353216">That's not your call to make.</text>
+		<text bitflag="1345" id1="699563" id2="17" version="1065353216">Maybe not. But that's not the answer the Sith I met on Taris would have given.</text>
+		<text bitflag="1345" id1="699565" id2="17" version="1065353216">I believe you're trying to change the Empire from within. But I need to understand your vision. What kind of Empire do you see?</text>
+		<text bitflag="1345" id1="699567" id2="17" version="1065353216">You can't change the dark side. How do you propose to change an Empire rooted in it?</text>
+		<text bitflag="1345" id1="699568" id2="17" version="1065353216">The Empire needs strong, rational leadership. A rational Empire is a peaceful one.</text>
+		<text bitflag="1360" id1="699568" id2="17" version="1065353216">The Empire needs sane leaders.</text>
+		<text bitflag="1345" id1="699569" id2="17" version="1065353216">And you think you can provide that?</text>
+		<text bitflag="1345" id1="699571" id2="17" version="1065353216">That's why I wanted you at my side. I need your guidance.</text>
+		<text bitflag="1360" id1="699571" id2="17" version="1065353216">I don't know yet.</text>
+		<text bitflag="1345" id1="699572" id2="17" version="1065353216">By any means necessary.</text>
+		<text bitflag="1360" id1="699572" id2="17" version="1065353216">Doing whatever it takes.</text>
+		<text bitflag="1345" id1="699573" id2="17" version="1065353216">I see. I'll follow you, for now. But in training they warned us that in tangling with monsters we risk becoming monsters ourselves.</text>
+		<text bitflag="1345" id1="699575" id2="17" version="1065353216">I will not go against the Jedi teachings, or my conscience, but I'll do what I can.</text>
+		<text bitflag="1345" id1="699579" id2="17" version="1065353216">I've been thinking about the future lately. About us, and about the Empire.</text>
+		<text bitflag="1345" id1="699581" id2="17" version="1065353216">It's clear the Empire won't change overnight. I've accepted that. But what about when we're dead?</text>
+		<text bitflag="1345" id1="699582" id2="17" version="1065353216">That's a long ways off.</text>
+		<text bitflag="1360" id1="699582" id2="17" version="1065353216">I'll be around for a while.</text>
+		<text bitflag="1345" id1="699583" id2="17" version="1065353216">I have many followers. They will carry on my legacy.</text>
+		<text bitflag="1360" id1="699583" id2="17" version="1065353216">I have influence over many.</text>
+		<text bitflag="1345" id1="699584" id2="17" version="1065353216">I prefer not to dwell on such morbid topics.</text>
+		<text bitflag="1360" id1="699584" id2="17" version="1065353216">Already planning my death?</text>
+		<text bitflag="1345" id1="699585" id2="17" version="1065353216">If you would allow it, I would be honored to pass on your legacy to your followers and your children.</text>
+		<text bitflag="1345" id1="699587" id2="17" version="1065353216">And to teach them what I know of the Jedi as well.</text>
+		<text bitflag="1345" id1="699588" id2="17" version="1065353216">That would be excellent.</text>
+		<text bitflag="1360" id1="699588" id2="17" version="1065353216">I'd appreciate that.</text>
+		<text bitflag="1345" id1="699589" id2="17" version="1065353216">I'd rather you not pollute my legacy with Jedi teachings.</text>
+		<text bitflag="1360" id1="699589" id2="17" version="1065353216">Save your Jedi knowledge.</text>
+		<text bitflag="1345" id1="699590" id2="17" version="1065353216">They'll need to understand the Jedi in order to follow the path of galactic peace.</text>
+		<text bitflag="1345" id1="699592" id2="17" version="1065353216">I can't think of anyone I'd rather have guarding my legacy.</text>
+		<text bitflag="1360" id1="699592" id2="17" version="1065353216">I would be honored.</text>
+		<text bitflag="1345" id1="699593" id2="17" version="1065353216">Even if we can't change the Empire now, the next generations will learn from your teachings and follow them.</text>
+		<text bitflag="1345" id1="699599" id2="17" version="1065353216">And how is my handsome Sith Lord doing?</text>
+		<text bitflag="1345" id1="699600" id2="17" version="1065353216">You're very happy today.</text>
+		<text bitflag="1360" id1="699600" id2="17" version="1065353216">Cheerful are we?</text>
+		<text bitflag="1345" id1="699601" id2="17" version="1065353216">I'm doing alright, and you?</text>
+		<text bitflag="1360" id1="699601" id2="17" version="1065353216">Good.</text>
+		<text bitflag="1345" id1="699602" id2="17" version="1065353216">Great. Really great.</text>
+		<text bitflag="1345" id1="699604" id2="17" version="1065353216">Your smiling face always cheers me up.</text>
+		<text bitflag="1360" id1="699604" id2="17" version="1065353216">Better now that I'm with you.</text>
+		<text bitflag="1345" id1="699605" id2="17" version="1065353216">I've been thinking about the future. About us.</text>
+		<text bitflag="1345" id1="699606" id2="17" version="1065353216">So have I. Will you marry me?</text>
+		<text bitflag="1360" id1="699606" id2="17" version="1065353216">Me too. Let's get married.</text>
+		<text bitflag="1345" id1="699607" id2="17" version="1065353216">And what are your thoughts?</text>
+		<text bitflag="1360" id1="699607" id2="17" version="1065353216">What were you thinking?</text>
+		<text bitflag="1345" id1="699608" id2="17" version="1065353216">Oh no. I knew this was coming.</text>
+		<text bitflag="1360" id1="699608" id2="17" version="1065353216">This can't end well.</text>
+		<text bitflag="1345" id1="699609" id2="17" version="1065353216">What do you mean, you knew this was coming? Don't be a tease.</text>
+		<text bitflag="1345" id1="699611" id2="17" version="1065353216">I love you. I want to be with you. To wake up beside you. To protect you from your enemies and laugh with your friends.</text>
+		<text bitflag="1345" id1="699613" id2="17" version="1065353216">I'm sorry if that's blunt. That's how I feel.</text>
+		<text bitflag="1345" id1="699614" id2="17" version="1065353216">I feel the same way.</text>
+		<text bitflag="1360" id1="699614" id2="17" version="1065353216">Me too.</text>
+		<text bitflag="1345" id1="699615" id2="17" version="1065353216">Good. That's all I need.</text>
+		<text bitflag="1345" id1="699617" id2="17" version="1065353216">Marriage isn't really an option, but I want to know I have your commitment.</text>
+		<text bitflag="1345" id1="699618" id2="17" version="1065353216">What do you mean &quot;marriage isn't an option&quot;?</text>
+		<text bitflag="1360" id1="699618" id2="17" version="1065353216">Marriage isn't an option?</text>
+		<text bitflag="1345" id1="699619" id2="17" version="1065353216">For what it's worth, I'll never leave you.</text>
+		<text bitflag="1360" id1="699619" id2="17" version="1065353216">You have it.</text>
+		<text bitflag="1345" id1="699620" id2="17" version="1065353216">And I'm not going anywhere.</text>
+		<text bitflag="1345" id1="699622" id2="17" version="1065353216">Well, I don't know about commitment.</text>
+		<text bitflag="1360" id1="699622" id2="17" version="1065353216">Commitment? Gulp.</text>
+		<text bitflag="1345" id1="699623" id2="17" version="1065353216">Are you asking me to marry you?</text>
+		<text bitflag="1360" id1="699623" id2="17" version="1065353216">Is this a proposal?</text>
+		<text bitflag="1345" id1="699624" id2="17" version="1065353216">I guess you could say that.</text>
+		<text bitflag="1345" id1="699626" id2="17" version="1065353216">In that case, why don't we make our relationship official?</text>
+		<text bitflag="1360" id1="699626" id2="17" version="1065353216">Marry me.</text>
+		<text bitflag="1345" id1="699627" id2="17" version="1065353216">I wish I could.</text>
+		<text bitflag="1345" id1="699629" id2="17" version="1065353216">Technically, I need the Jedi Council's permission to marry.</text>
+		<text bitflag="1345" id1="699630" id2="17" version="1065353216">Why do you still care what the Jedi Council thinks?</text>
+		<text bitflag="1360" id1="699630" id2="17" version="1065353216">No, you don't.</text>
+		<text bitflag="1345" id1="699631" id2="17" version="1065353216">Because I'm still a Jedi.</text>
+		<text bitflag="1345" id1="699633" id2="17" version="1065353216">It's alright. I'd rather not be tied down anyway.</text>
+		<text bitflag="1360" id1="699633" id2="17" version="1065353216">Marriage is over-rated.</text>
+		<text bitflag="1345" id1="699634" id2="17" version="1065353216">Oh really. If you think just because we're not married, you can do whatever you want....</text>
+		<text bitflag="1345" id1="699635" id2="17" version="1065353216">Well, that is the point of not being married isn't it?</text>
+		<text bitflag="1360" id1="699635" id2="17" version="1065353216">Well, sure.</text>
+		<text bitflag="1345" id1="699636" id2="17" version="1065353216">We're still committed to each other.</text>
+		<text bitflag="1345" id1="699638" id2="17" version="1065353216">It was just a joke. Calm down.</text>
+		<text bitflag="1360" id1="699638" id2="17" version="1065353216">Kidding.</text>
+		<text bitflag="1345" id1="699639" id2="17" version="1065353216">Don't be a tease.</text>
+		<text bitflag="1345" id1="699641" id2="17" version="1065353216">There are other ways to get married. Without the Jedi Council's permission.</text>
+		<text bitflag="1360" id1="699641" id2="17" version="1065353216">Who cares what the Jedi say?</text>
+		<text bitflag="1345" id1="699642" id2="17" version="1065353216">Then let's go to the Jedi Council.</text>
+		<text bitflag="1360" id1="699642" id2="17" version="1065353216">So let's get it.</text>
+		<text bitflag="1345" id1="699643" id2="17" version="1065353216">I don't think they'd approve.</text>
+		<text bitflag="1345" id1="699645" id2="17" version="1065353216">We can hope that someday we'll succeed in our mission, that there will be peace between the Empire and the Republic, the Jedi and the Sith.</text>
+		<text bitflag="1345" id1="699647" id2="17" version="1065353216">Maybe then we can get married.</text>
+		<text bitflag="1345" id1="699651" id2="17" version="1065353216">Do you ever think, maybe we're on the wrong side, doing the wrong thing?</text>
+		<text bitflag="1345" id1="699652" id2="17" version="1065353216">I don't think there is a right or wrong side.</text>
+		<text bitflag="1360" id1="699652" id2="17" version="1065353216">It's complicated.</text>
+		<text bitflag="1345" id1="699653" id2="17" version="1065353216">I think I understand. The galaxy is an intricate place. You think you're doing the right thing, but then it has consequences you never imagined.</text>
+		<text bitflag="1345" id1="699655" id2="17" version="1065353216">People do the right things for the wrong motives and the wrong things for the right motives all the time.</text>
+		<text bitflag="1345" id1="699657" id2="17" version="1065353216">I just wish I could make sense of it.</text>
+		<text bitflag="1345" id1="699658" id2="17" version="1065353216">The Sith order is a depraved place, but you can't hide from evil. You have to face it head-on.</text>
+		<text bitflag="1360" id1="699658" id2="17" version="1065353216">All the time.</text>
+		<text bitflag="1345" id1="699659" id2="17" version="1065353216">I agree. It's not enough to seek personal serenity when there's conflict everywhere.</text>
+		<text bitflag="1345" id1="699661" id2="17" version="1065353216">That's what I tried to tell Master Cyman, but he wouldn't listen. But what does his opinion matter? He's just a hermit in a cave.</text>
+		<text bitflag="1345" id1="699662" id2="17" version="1065353216">Morality is how the weak constrain the strong. I am true to myself.</text>
+		<text bitflag="1360" id1="699662" id2="17" version="1065353216">Never.</text>
+		<text bitflag="1345" id1="699663" id2="17" version="1065353216">I think I would have hated you for saying that when we first met. But I can see how the Jedi use rules to keep people from their potential.</text>
+		<text bitflag="1345" id1="699665" id2="17" version="1065353216">Being strong isn't evil. It's how you use that strength that matters.</text>
+		<text bitflag="1345" id1="699669" id2="17" version="1065353216">My lord. I have incredible news!</text>
+		<text bitflag="1345" id1="699671" id2="17" version="1065353216">A group of Jedi have split from the Jedi order. This is the perfect opportunity for us to win allies!</text>
+		<text bitflag="1345" id1="699672" id2="17" version="1065353216">I'm really not interested in any Jedi interference.</text>
+		<text bitflag="1360" id1="699672" id2="17" version="1065353216">I don't want Jedi help.</text>
+		<text bitflag="1345" id1="699673" id2="17" version="1065353216">I'm not looking for direct support. I just want to know that when it's time to negotiate, we have sympathetic people on the other side.</text>
+		<text bitflag="1345" id1="699675" id2="17" version="1065353216">Last time we tried this, it didn't work out so well.</text>
+		<text bitflag="1360" id1="699675" id2="17" version="1065353216">Are you still trying this?</text>
+		<text bitflag="1345" id1="699676" id2="17" version="1065353216">These guys aren't like Master Cyman.</text>
+		<text bitflag="1345" id1="699678" id2="17" version="1065353216">Divide and conquer. I like it.</text>
+		<text bitflag="1360" id1="699678" id2="17" version="1065353216">Sounds good. I'm listening.</text>
+		<text bitflag="1345" id1="699679" id2="17" version="1065353216">Yes, I guess you could put it that way.</text>
+		<text bitflag="1345" id1="699681" id2="17" version="1065353216">Now, these guys aren't like Master Cyman, but I think that actually gives us a chance.</text>
+		<text bitflag="1345" id1="699683" id2="17" version="1065353216">They're hardliners. Very anti-Sith. But their argument with the Jedi is over methods, not aims. Unlike Master Cyman, they say they are willing to do whatever is necessary.</text>
+		<text bitflag="1345" id1="699684" id2="17" version="1065353216">Then they're our kind of Jedi.</text>
+		<text bitflag="1360" id1="699684" id2="17" version="1065353216">Practical Jedi. How rare.</text>
+		<text bitflag="1345" id1="699685" id2="17" version="1065353216">It sounds like they'd be even less likely to support us.</text>
+		<text bitflag="1360" id1="699685" id2="17" version="1065353216">They hate Sith?</text>
+		<text bitflag="1345" id1="699686" id2="17" version="1065353216">They are Jedi. They want peace. We have to at least try to make our case.</text>
+		<text bitflag="1345" id1="699688" id2="17" version="1065353216">I'm still not keen on the idea of begging for support from people who want me dead.</text>
+		<text bitflag="1360" id1="699688" id2="17" version="1065353216">I'd rather my allies liked me.</text>
+		<text bitflag="1345" id1="699689" id2="17" version="1065353216">The main Jedi Council will never deal with a Sith unless he turns to the light. A splinter group is exactly what we need.</text>
+		<text bitflag="1345" id1="699691" id2="17" version="1065353216">I'm going to meet with them. I promise, I won't be long.</text>
+		<text bitflag="1345" id1="699699" id2="17" version="1065353216">My lord. Thank you.</text>
+		<text bitflag="1345" id1="699701" id2="17" version="1065353216">We have new allies in the rogue Jedi. But I couldn't have done it without your training.</text>
+		<text bitflag="1345" id1="699702" id2="17" version="1065353216">What did they say?</text>
+		<text bitflag="1360" id1="699702" id2="17" version="1065353216">Fill me in.</text>
+		<text bitflag="1345" id1="699703" id2="17" version="1065353216">I was sure this would fail like the last time you tried to get a Jedi on our side.</text>
+		<text bitflag="1360" id1="699703" id2="17" version="1065353216">I'm surprised.</text>
+		<text bitflag="1345" id1="699704" id2="17" version="1065353216">I'm not sure how I helped, but I'm glad I did.</text>
+		<text bitflag="1360" id1="699704" id2="17" version="1065353216">You're welcome.</text>
+		<text bitflag="1345" id1="699705" id2="17" version="1065353216">They were skeptical at first. Like Master Cyman, they would not accept me as a Jedi.</text>
+		<text bitflag="1345" id1="699707" id2="17" version="1065353216">But this time I knew what to say. You helped me understand. Sith and Jedi is an arbitrary divide. I don't know what I am, and I don't care.</text>
+		<text bitflag="1345" id1="699709" id2="17" version="1065353216">I told them the Jedi need to be willing to do whatever it takes--even ally with a Sith--to bring peace to the galaxy.</text>
+		<text bitflag="1345" id1="699710" id2="17" version="1065353216">And they didn't laugh you out of the room?</text>
+		<text bitflag="1360" id1="699710" id2="17" version="1065353216">They believed you?</text>
+		<text bitflag="1345" id1="699711" id2="17" version="1065353216">There were some who remained skeptical.</text>
+		<text bitflag="1345" id1="699713" id2="17" version="1065353216">You've learned a lot, apprentice.</text>
+		<text bitflag="1360" id1="699713" id2="17" version="1065353216">Very good.</text>
+		<text bitflag="1345" id1="699714" id2="17" version="1065353216">Not all the Jedi were won over, of course.</text>
+		<text bitflag="1345" id1="699716" id2="17" version="1065353216">I wish I could have been there.</text>
+		<text bitflag="1360" id1="699716" id2="17" version="1065353216">I'm sorry I missed it.</text>
+		<text bitflag="1345" id1="699717" id2="17" version="1065353216">I do too. I'm sure we would have won even more Jedi to our side if they could have met you and read your sincerity for themselves.</text>
+		<text bitflag="1345" id1="699719" id2="17" version="1065353216">Their leader Master Quintis said that he would be &quot;unwise to turn his back on such conviction and determination.&quot;</text>
+		<text bitflag="1345" id1="699721" id2="17" version="1065353216">Thank you for letting me meet with them, my lord.</text>
+		<text bitflag="1345" id1="699726" id2="17" version="1065353216">I, I don't know how to say this, but I was wondering if you wanted to. What I mean is, we've been together a while now.</text>
+		<text bitflag="1345" id1="699727" id2="17" version="1065353216">I'm not sure what you're asking.</text>
+		<text bitflag="1360" id1="699727" id2="17" version="1065353216">What are you saying?</text>
+		<text bitflag="1345" id1="699728" id2="17" version="1065353216">I was just thinking we could get away from it all. Take some time together, alone.</text>
+		<text bitflag="1345" id1="699729" id2="17" version="1065353216">Find someplace private, just the two of us?</text>
+		<text bitflag="1360" id1="699729" id2="17" version="1065353216">You want to mess around?</text>
+		<text bitflag="1345" id1="699730" id2="17" version="1065353216">If that's the way you want it.</text>
+		<text bitflag="1360" id1="699730" id2="17" version="1065353216">Sure.</text>
+		<text bitflag="1345" id1="699731" id2="17" version="1065353216">Yes, I'm sure.</text>
+		<text bitflag="1345" id1="699733" id2="17" version="1065353216">I'm not interested in spending any more time with you than I have to.</text>
+		<text bitflag="1360" id1="699733" id2="17" version="1065353216">No, thank you.</text>
+		<text bitflag="1345" id1="699734" id2="17" version="1065353216">Oh, I'm sorry. I guess I read you wrong.</text>
+		<text bitflag="1345" id1="699735" id2="17" version="1065353216">You want quiet time together, away from everyone else?</text>
+		<text bitflag="1360" id1="699735" id2="17" version="1065353216">Let's go somewhere private....</text>
+		<text bitflag="1345" id1="699736" id2="17" version="1065353216">Yes, exactly.</text>
+		<text bitflag="1345" id1="699738" id2="17" version="1065353216">I thought you'd never stammeringly half-ask.</text>
+		<text bitflag="1360" id1="699738" id2="17" version="1065353216">Could you be any more nervous?</text>
+		<text bitflag="1345" id1="699739" id2="17" version="1065353216">Really? Wonderful. Sometimes we're just so busy with our work.</text>
+		<text bitflag="1345" id1="699741" id2="17" version="1065353216">How much time have we really had to ourselves?</text>
+		<text bitflag="1345" id1="699745" id2="17" version="1065353216">Have I told you how much I love you? We need to take time to ourselves more often.</text>
+		<text bitflag="1345" id1="699746" id2="17" version="1065353216">I'm glad you enjoyed yourself.</text>
+		<text bitflag="1360" id1="699746" id2="17" version="1065353216">Are you sure?</text>
+		<text bitflag="1345" id1="699747" id2="17" version="1065353216">I told you I love you.</text>
+		<text bitflag="1360" id1="699747" id2="17" version="1065353216">You need to trust me.</text>
+		<text bitflag="1345" id1="699748" id2="17" version="1065353216">I believe you now.</text>
+		<text bitflag="1345" id1="699750" id2="17" version="1065353216">I don't want to hear another word of doubt from you.</text>
+		<text bitflag="1360" id1="699750" id2="17" version="1065353216">Speak no more of it.</text>
+		<text bitflag="1345" id1="699751" id2="17" version="1065353216">No, of course not.</text>
+		<text bitflag="1345" id1="699753" id2="17" version="1065353216">I'm sorry if I ever doubted us. Nothing so beautiful could be wrong.</text>
+		<text bitflag="1345" id1="699757" id2="17" version="1065353216">I have a question for you, but you must promise not to mock me.</text>
+		<text bitflag="1345" id1="699758" id2="17" version="1065353216">Go ahead. Ask.</text>
+		<text bitflag="1360" id1="699758" id2="17" version="1065353216">I promise.</text>
+		<text bitflag="1345" id1="699759" id2="17" version="1065353216">I can make no such promise.</text>
+		<text bitflag="1360" id1="699759" id2="17" version="1065353216">No guarantees.</text>
+		<text bitflag="1345" id1="699760" id2="17" version="1065353216">I hope this isn't another of your philosophical quandaries.</text>
+		<text bitflag="1360" id1="699760" id2="17" version="1065353216">This doesn't sound good.</text>
+		<text bitflag="1345" id1="699761" id2="17" version="1065353216">No, it's not that at all.</text>
+		<text bitflag="1345" id1="699763" id2="17" version="1065353216">I've never actually played sabacc. Or pazaak. Or any of those kinds of games. I was wondering if you'd teach me?</text>
+		<text bitflag="1345" id1="699764" id2="17" version="1065353216">It would be my pleasure.</text>
+		<text bitflag="1360" id1="699764" id2="17" version="1065353216">Certainly.</text>
+		<text bitflag="1345" id1="699765" id2="17" version="1065353216">Thank you!</text>
+		<text bitflag="1345" id1="699767" id2="17" version="1065353216">That was a lot of fun. I can't believe I'd never played those games before.</text>
+		<text bitflag="1345" id1="699768" id2="17" version="1065353216">I've never played any of those games myself.</text>
+		<text bitflag="1360" id1="699768" id2="17" version="1065353216">I don't know how to play.</text>
+		<text bitflag="1345" id1="699769" id2="17" version="1065353216">Hm. Well, I guess I don't feel so bad then.</text>
+		<text bitflag="1345" id1="699770" id2="17" version="1065353216">You've never played sabacc? Unbelievable!</text>
+		<text bitflag="1360" id1="699770" id2="17" version="1065353216">You don't play games?</text>
+		<text bitflag="1345" id1="699771" id2="17" version="1065353216">I knew you'd mock me. I'm sorry I asked.</text>
+		<text bitflag="1345" id1="699775" id2="17" version="1065353216">I've been thinking more about what Master Cyman said, and I think he was wrong.</text>
+		<text bitflag="1345" id1="699776" id2="17" version="1065353216">He said you weren't a Jedi. It's only natural you disagree.</text>
+		<text bitflag="1360" id1="699776" id2="17" version="1065353216">Of course you do.</text>
+		<text bitflag="1345" id1="699777" id2="17" version="1065353216">Not about me being a Jedi. Well, I mean, of course I'm a Jedi. I don't need a master to certify that.</text>
+		<text bitflag="1345" id1="699779" id2="17" version="1065353216">Are you still worried about what that worthless Jedi said?</text>
+		<text bitflag="1360" id1="699779" id2="17" version="1065353216">Don't let him bother you.</text>
+		<text bitflag="1345" id1="699780" id2="17" version="1065353216">About me being a Jedi? No.</text>
+		<text bitflag="1345" id1="699782" id2="17" version="1065353216">That makes two of us.</text>
+		<text bitflag="1360" id1="699782" id2="17" version="1065353216">Me too.</text>
+		<text bitflag="1345" id1="699783" id2="17" version="1065353216">He believed we were wrong and that you were leading me astray. But he did nothing.</text>
+		<text bitflag="1345" id1="699784" id2="17" version="1065353216">Is there some kind of Jedi prison for straying Padawans?</text>
+		<text bitflag="1360" id1="699784" id2="17" version="1065353216">What was he supposed to do?</text>
+		<text bitflag="1345" id1="699785" id2="17" version="1065353216">Of course he didn't, he was weak. He knew he couldn't do anything.</text>
+		<text bitflag="1360" id1="699785" id2="17" version="1065353216">He sounds pathetic.</text>
+		<text bitflag="1345" id1="699786" id2="17" version="1065353216">You mean you think he should have attacked you?</text>
+		<text bitflag="1360" id1="699786" id2="17" version="1065353216">You wanted him to fight?</text>
+		<text bitflag="1345" id1="699787" id2="17" version="1065353216">That's exactly what I mean. The Jedi's refusal to do what's necessary, to fight, it makes them weak.</text>
+		<text bitflag="1345" id1="699789" id2="17" version="1065353216">The Jedi will never beat the Empire if they won't take the offensive. And they'll never win peace either, if the Empire can't respect them.</text>
+		<text bitflag="1345" id1="699791" id2="17" version="1065353216">Peace is a noble goal, but it's not a means to an end.</text>
+		<text bitflag="1345" id1="699792" id2="17" version="1065353216">So you're saying &quot;Peace is a lie&quot;?</text>
+		<text bitflag="1360" id1="699792" id2="17" version="1065353216">Sounds like the Sith code.</text>
+		<text bitflag="1345" id1="699793" id2="17" version="1065353216">When it comes to making real change? Yes, I guess I am.</text>
+		<text bitflag="1345" id1="699795" id2="17" version="1065353216">In that particular instance, maybe, but this is a pretty strong reversal for you.</text>
+		<text bitflag="1360" id1="699795" id2="17" version="1065353216">I wouldn't go that far.</text>
+		<text bitflag="1345" id1="699796" id2="17" version="1065353216">No? Could the Sith have surprised us at Coruscant if the Jedi and Republic had been prepared to strike first?</text>
+		<text bitflag="1345" id1="699798" id2="17" version="1065353216">You are becoming a very good little Sith.</text>
+		<text bitflag="1360" id1="699798" id2="17" version="1065353216">I couldn't agree more.</text>
+		<text bitflag="1345" id1="699799" id2="17" version="1065353216">I am not Sith, but I'm not sure I'm Jedi anymore.</text>
+		<text bitflag="1345" id1="699801" id2="17" version="1065353216">A war rages and Master Cyman meditates in his clearing.</text>
+		<text bitflag="1345" id1="699803" id2="17" version="1065353216">Personal peace is one thing, but apathy, inaction--these things are unacceptable.</text>
+		<text bitflag="1345" id1="699809" id2="17" version="1065353216">I don't know how to say this, but I think we should take a break.</text>
+		<text bitflag="1345" id1="699810" id2="17" version="1065353216">Are you splitting up with me?</text>
+		<text bitflag="1360" id1="699810" id2="17" version="1065353216">This sounds like a break-up.</text>
+		<text bitflag="1345" id1="699811" id2="17" version="1065353216">No. I don't know.</text>
+		<text bitflag="1345" id1="699813" id2="17" version="1065353216">Why, what's wrong?</text>
+		<text bitflag="1360" id1="699813" id2="17" version="1065353216">What do you mean?</text>
+		<text bitflag="1345" id1="699814" id2="17" version="1065353216">It's hard for me to explain.</text>
+		<text bitflag="1345" id1="699816" id2="17" version="1065353216">It's not you. It's just, our relationship flies in the face of the Jedi order, the Jedi code.</text>
+		<text bitflag="1345" id1="699818" id2="17" version="1065353216">We take a break when I say so.</text>
+		<text bitflag="1360" id1="699818" id2="17" version="1065353216">No. Absolutely not.</text>
+		<text bitflag="1345" id1="699819" id2="17" version="1065353216">No, I can't do this anymore. You're a Sith. It's against the Jedi code.</text>
+		<text bitflag="1345" id1="699821" id2="17" version="1065353216">I just need time to think things through.</text>
+		<text bitflag="1345" id1="699822" id2="17" version="1065353216">I thought you were past this Jedi code nonsense.</text>
+		<text bitflag="1360" id1="699822" id2="17" version="1065353216">No. Stop toying with me, Jedi.</text>
+		<text bitflag="1345" id1="699823" id2="17" version="1065353216">It's not nonsense. Unless you're calling my life nonsense. Because the Jedi code is the way I've lived my whole life.</text>
+		<text bitflag="1345" id1="699825" id2="17" version="1065353216">I'm sorry if I hurt you. I didn't mean to. But I don't know how else to live.</text>
+		<text bitflag="1345" id1="699827" id2="17" version="1065353216">We love each other. Don't let the Jedi code get in the way of that.</text>
+		<text bitflag="1360" id1="699827" id2="17" version="1065353216">What is there to think about?</text>
+		<text bitflag="1345" id1="699828" id2="17" version="1065353216">I know, but it's not that easy. The Jedi code is my life.</text>
+		<text bitflag="1345" id1="699830" id2="17" version="1065353216">I don't want to lose you, but I'm scared.</text>
+		<text bitflag="1345" id1="699831" id2="17" version="1065353216">I want you to be comfortable.</text>
+		<text bitflag="1360" id1="699831" id2="17" version="1065353216">Take your time.</text>
+		<text bitflag="1345" id1="699832" id2="17" version="1065353216">Just tell me everything's going to be alright, and I'll believe you.</text>
+		<text bitflag="1345" id1="699833" id2="17" version="1065353216">Everything's going to be alright.</text>
+		<text bitflag="1360" id1="699833" id2="17" version="1065353216">Okay.</text>
+		<text bitflag="1345" id1="699834" id2="17" version="1065353216">Alright. I trust you.</text>
+		<text bitflag="1345" id1="699835" id2="17" version="1065353216">Ssh. That's enough talking. Let me show you how much I love you.</text>
+		<text bitflag="1360" id1="699835" id2="17" version="1065353216">Let's go somewhere quiet....</text>
+		<text bitflag="1345" id1="699836" id2="17" version="1065353216">I'm sorry, I'm not ready. I love you, I do.</text>
+		<text bitflag="1345" id1="699837" id2="17" version="1065353216">I'm tired of your hesitation.</text>
+		<text bitflag="1360" id1="699837" id2="17" version="1065353216">Don't deny me.</text>
+		<text bitflag="1345" id1="699838" id2="17" version="1065353216">Then you'll show me how much you love me.</text>
+		<text bitflag="1360" id1="699838" id2="17" version="1065353216">Prove it.</text>
+		<text bitflag="1345" id1="699839" id2="17" version="1065353216">I'm sorry. I just can't. Not right now.</text>
+		<text bitflag="1345" id1="699840" id2="17" version="1065353216">We can wait until you're ready.</text>
+		<text bitflag="1360" id1="699840" id2="17" version="1065353216">It's alright.</text>
+		<text bitflag="1345" id1="699841" id2="17" version="1065353216">Thank you. I'm sorry.</text>
+		<text bitflag="1345" id1="699842" id2="17" version="1065353216">Let me know when you're done panicking.</text>
+		<text bitflag="1360" id1="699842" id2="17" version="1065353216">Enough whining.</text>
+		<text bitflag="1345" id1="699843" id2="17" version="1065353216">I... I'm sorry. Can we start over?</text>
+		<text bitflag="1345" id1="699844" id2="17" version="1065353216">No. I don't have the patience for your angst.</text>
+		<text bitflag="1360" id1="699844" id2="17" version="1065353216">Forget it.</text>
+		<text bitflag="1345" id1="699845" id2="17" version="1065353216">I'm sorry. I'm so sorry.</text>
+		<text bitflag="1345" id1="699847" id2="17" version="1065353216">Of course. I love you.</text>
+		<text bitflag="1360" id1="699847" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="1345" id1="699848" id2="17" version="1065353216">I love you too. I guess that's what scared me.</text>
+		<text bitflag="1345" id1="699849" id2="17" version="1065353216">You either love me or you don't.</text>
+		<text bitflag="1360" id1="699849" id2="17" version="1065353216">Make up your mind.</text>
+		<text bitflag="1345" id1="699850" id2="17" version="1065353216">I do love you. I really do. I guess that's what scared me.</text>
+		<text bitflag="1345" id1="699854" id2="17" version="1065353216">My lord! I'm glad you're here. I wanted to read you this letter I received.</text>
+		<text bitflag="1345" id1="699856" id2="17" version="1065353216">I've been writing to my parents. I haven't seen them since I was little.</text>
+		<text bitflag="1345" id1="699858" id2="17" version="1065353216">&quot;Dear Ashara. We're glad to hear you're happy and well. We're very proud that you've become a Jedi. Asher is nearly sixteen and plans to join Republic Special Forces.&quot;</text>
+		<text bitflag="1345" id1="699860" id2="17" version="1065353216">&quot;Love, Mom and Dad.&quot; I haven't gotten around to telling them that I'm working with a Sith--I'm not sure they'd understand.</text>
+		<text bitflag="1345" id1="699861" id2="17" version="1065353216">You really ought to tell them.</text>
+		<text bitflag="1360" id1="699861" id2="17" version="1065353216">You shouldn't keep secrets.</text>
+		<text bitflag="1345" id1="699862" id2="17" version="1065353216">You think so? We only just started writing, and it's been fifteen years since I last saw them. I guess you're right.</text>
+		<text bitflag="1345" id1="699863" id2="17" version="1065353216">You're not going to ask me to meet them, are you?</text>
+		<text bitflag="1360" id1="699863" id2="17" version="1065353216">Just don't plan a reunion.</text>
+		<text bitflag="1345" id1="699864" id2="17" version="1065353216">No. I was just curious about them. I don't really remember them. I don't think we'll start spending holidays together or anything.</text>
+		<text bitflag="1345" id1="699865" id2="17" version="1065353216">I don't need you spilling my secrets to your family.</text>
+		<text bitflag="1360" id1="699865" id2="17" version="1065353216">Don't write to them.</text>
+		<text bitflag="1345" id1="699866" id2="17" version="1065353216">Well, we haven't seen each other in so long. I don't expect it to be a really close relationship or anything. I'm sorry.</text>
+		<text bitflag="1345" id1="699870" id2="17" version="1065353216">My lord. I know I'm not officially your apprentice, but I wanted to thank you.</text>
+		<text bitflag="1345" id1="699872" id2="17" version="1065353216">I know we've not always seen eye-to-eye, but I've learned so much from you and your example.</text>
+		<text bitflag="1345" id1="699874" id2="17" version="1065353216">You may not always follow the light, but you are good.</text>
+		<text bitflag="1345" id1="699875" id2="17" version="1065353216">A Sith gets a reputation for being good, she loses all respect.</text>
+		<text bitflag="1360" id1="699875" id2="17" version="1065353216">Just don't spread that around.</text>
+		<text bitflag="1345" id1="699876" id2="17" version="1065353216">Don't worry. I can keep a secret.</text>
+		<text bitflag="1345" id1="699878" id2="17" version="1065353216">A Sith gets a reputation for being good, he loses all respect.</text>
+		<text bitflag="1360" id1="699878" id2="17" version="1065353216">Just don't spread that around.</text>
+		<text bitflag="1345" id1="699879" id2="17" version="1065353216">Aw, you're going to make me cry.</text>
+		<text bitflag="1360" id1="699879" id2="17" version="1065353216">Now you're being sappy.</text>
+		<text bitflag="1345" id1="699880" id2="17" version="1065353216">Don't tease. I'm serious.</text>
+		<text bitflag="1345" id1="699882" id2="17" version="1065353216">I never would've believed a Sith could follow the light, until I met you.</text>
+		<text bitflag="1345" id1="699883" id2="17" version="1065353216">I couldn't do it without you.</text>
+		<text bitflag="1360" id1="699883" id2="17" version="1065353216">Thanks to you.</text>
+		<text bitflag="1345" id1="699884" id2="17" version="1065353216">I'm glad I can help.</text>
+		<text bitflag="1345" id1="699886" id2="17" version="1065353216">You can't judge a person by what they wear or the color of their lightsaber.</text>
+		<text bitflag="1360" id1="699886" id2="17" version="1065353216">It takes all kinds.</text>
+		<text bitflag="1345" id1="699887" id2="17" version="1065353216">You're right. The Jedi teachings about the Sith blinded me.</text>
+		<text bitflag="1345" id1="699889" id2="17" version="1065353216">I feel more at one with the Force than I've ever felt. I have peace, like the Jedi speak of, and freedom like the Sith.</text>
+		<text bitflag="1345" id1="699891" id2="17" version="1065353216">So, thank you.</text>
+		<text bitflag="1345" id1="699897" id2="17" version="1065353216">If you hadn't become Sith, what did you want to be?</text>
+		<text bitflag="1345" id1="699898" id2="17" version="1065353216">I would've settled for &quot;not a slave.&quot;</text>
+		<text bitflag="1360" id1="699898" id2="17" version="1065353216">I don't know.</text>
+		<text bitflag="1345" id1="699899" id2="17" version="1065353216">Yeah, I guess I would've felt the same in your shoes.</text>
+		<text bitflag="1345" id1="699901" id2="17" version="1065353216">I always wanted to open my own business. Run a shop, start a family.</text>
+		<text bitflag="1360" id1="699901" id2="17" version="1065353216">An entrepreneur.</text>
+		<text bitflag="1345" id1="699902" id2="17" version="1065353216">I always wanted to be a starship captain.</text>
+		<text bitflag="1360" id1="699902" id2="17" version="1065353216">Space has always appealed.</text>
+		<text bitflag="1345" id1="699903" id2="17" version="1065353216">I guess you got part of what you wanted. This is a pretty nice ship.</text>
+		<text bitflag="1345" id1="699905" id2="17" version="1065353216">I've been thinking about this lately. I was trained to be a Jedi, practically from birth.</text>
+		<text bitflag="1345" id1="699907" id2="17" version="1065353216">Being with you, I'm questioning a lot of things. I'm much more in touch with my emotions, for example.</text>
+		<text bitflag="1345" id1="699908" id2="17" version="1065353216">A beautiful flower like you should not hide.</text>
+		<text bitflag="1360" id1="699908" id2="17" version="1065353216">I'm grateful for that.</text>
+		<text bitflag="1345" id1="699909" id2="17" version="1065353216">Oh no, I wasn't trying to say that at all. I think it's a good thing.</text>
+		<text bitflag="1345" id1="699911" id2="17" version="1065353216">Now's not the time for philosophical conversations. Let's just enjoy each other.</text>
+		<text bitflag="1360" id1="699911" id2="17" version="1065353216">Lighten up a little.</text>
+		<text bitflag="1345" id1="699912" id2="17" version="1065353216">You're right. I'm being silly.</text>
+		<text bitflag="1345" id1="699914" id2="17" version="1065353216">Are the Jedi really that repressed?</text>
+		<text bitflag="1360" id1="699914" id2="17" version="1065353216">Do Jedi really not feel?</text>
+		<text bitflag="1345" id1="699915" id2="17" version="1065353216">No, I wouldn't say repressed. It's just a different way of experiencing the world.</text>
+		<text bitflag="1345" id1="699917" id2="17" version="1065353216">The rules about that sort of thing have gotten lighter over the years. Jedi can marry, with permission. But most remain unmarried by choice.</text>
+		<text bitflag="1345" id1="699918" id2="17" version="1065353216">Would you ever consider getting married?</text>
+		<text bitflag="1360" id1="699918" id2="17" version="1065353216">What about you?</text>
+		<text bitflag="1345" id1="699919" id2="17" version="1065353216">Maybe. If the right person came along.</text>
+		<text bitflag="1345" id1="699920" id2="17" version="1065353216">Now you're just being coy.</text>
+		<text bitflag="1360" id1="699920" id2="17" version="1065353216">Don't tease.</text>
+		<text bitflag="1345" id1="699921" id2="17" version="1065353216">Am I the right person?</text>
+		<text bitflag="1360" id1="699921" id2="17" version="1065353216">What about me?</text>
+		<text bitflag="1345" id1="699922" id2="17" version="1065353216">Would you get married without Jedi Council approval?</text>
+		<text bitflag="1360" id1="699922" id2="17" version="1065353216">What about the Jedi Council?</text>
+		<text bitflag="1345" id1="699923" id2="17" version="1065353216">Let's not worry about that yet.</text>
+		<text bitflag="1345" id1="699925" id2="17" version="1065353216">Why should anyone need anyone else's permission to marry?</text>
+		<text bitflag="1360" id1="699925" id2="17" version="1065353216">Permission? That's disgusting.</text>
+		<text bitflag="1345" id1="699926" id2="17" version="1065353216">For the good of the order. Just like what you do for the good of the Empire.</text>
+		<text bitflag="1345" id1="699928" id2="17" version="1065353216">It's still foolish. The intellect, the body, the emotions--all have their role to play.</text>
+		<text bitflag="1360" id1="699928" id2="17" version="1065353216">Emotions are important.</text>
+		<text bitflag="1345" id1="699929" id2="17" version="1065353216">Mind and body I understand, but I'm still not sure about emotions.</text>
+		<text bitflag="1345" id1="699931" id2="17" version="1065353216">My body tells me that fire burns when I put my hand in it, and my mind remembers so that I don't put my hand in the fire again.</text>
+		<text bitflag="1345" id1="699933" id2="17" version="1065353216">But what role do emotions play?</text>
+		<text bitflag="1345" id1="699934" id2="17" version="1065353216">Emotions interpret your body's sensations. They tell you that pain is bad and pleasure is good.</text>
+		<text bitflag="1360" id1="699934" id2="17" version="1065353216">They help you feel.</text>
+		<text bitflag="1345" id1="699935" id2="17" version="1065353216">Like the goose bumps I get when you touch me?</text>
+		<text bitflag="1345" id1="699937" id2="17" version="1065353216">They give you the impulse to tell the people close to you not to stick their hands in the fire.</text>
+		<text bitflag="1360" id1="699937" id2="17" version="1065353216">They give you empathy.</text>
+		<text bitflag="1345" id1="699938" id2="17" version="1065353216">Compassion. I can see that.</text>
+		<text bitflag="1345" id1="699940" id2="17" version="1065353216">Look, I wasn't trying to start an argument. Let's just enjoy this, hm?</text>
+		<text bitflag="1345" id1="699942" id2="17" version="1065353216">What I mean is, I've never been so happy.</text>
+		<text bitflag="1345" id1="699943" id2="17" version="1065353216">They let you fall in love. Isn't that enough?</text>
+		<text bitflag="1360" id1="699943" id2="17" version="1065353216">You can't love without them.</text>
+		<text bitflag="1345" id1="699944" id2="17" version="1065353216">Well, when you put it that way.</text>
+		<text bitflag="1345" id1="699946" id2="17" version="1065353216">You do make me happy.</text>
+		<text bitflag="1345" id1="699947" id2="17" version="1065353216">Stick with me and we'll make the whole galaxy jealous.</text>
+		<text bitflag="1360" id1="699947" id2="17" version="1065353216">Me neither.</text>
+		<text bitflag="1345" id1="699948" id2="17" version="1065353216">I can't wait.</text>
+		<text bitflag="1345" id1="699949" id2="17" version="1065353216">How about a kiss then?</text>
+		<text bitflag="1360" id1="699949" id2="17" version="1065353216">Show me.</text>
+		<text bitflag="1345" id1="699950" id2="17" version="1065353216">I'd like that.</text>
+		<text bitflag="1345" id1="699951" id2="17" version="1065353216">Now you're just embarrassing me.</text>
+		<text bitflag="1360" id1="699951" id2="17" version="1065353216">You're making me blush.</text>
+		<text bitflag="1345" id1="699952" id2="17" version="1065353216">No one's looking. We can be disgustingly cute and nobody will see.</text>
+		<text bitflag="1345" id1="699956" id2="17" version="1065353216">Yes, I like that very much.</text>
+		<text bitflag="1345" id1="699960" id2="17" version="1065353216">I wonder if it was the right thing. I never really got the chance to choose.</text>
+		<text bitflag="1345" id1="699961" id2="17" version="1065353216">You can do whatever you want now.</text>
+		<text bitflag="1360" id1="699961" id2="17" version="1065353216">This is your chance to choose.</text>
+		<text bitflag="1345" id1="699962" id2="17" version="1065353216">Neither did I, but I fought for my freedom and won it.</text>
+		<text bitflag="1360" id1="699962" id2="17" version="1065353216">I struggled for my chance.</text>
+		<text bitflag="1345" id1="699963" id2="17" version="1065353216">That's why I could never be a Jedi.</text>
+		<text bitflag="1360" id1="699963" id2="17" version="1065353216">I'm glad I'm Sith.</text>
+		<text bitflag="1345" id1="699964" id2="17" version="1065353216">Well, it's not as if the Sith gave you much choice, did they?</text>
+		<text bitflag="1345" id1="699966" id2="17" version="1065353216">I guess I'm still trying to figure out what I want.</text>
+		<text bitflag="1345" id1="699970" id2="17" version="1065353216">I can't believe him. I'm not a Jedi? He says I'm not a Jedi!</text>
+		<text bitflag="1345" id1="699971" id2="17" version="1065353216">Did you meet with Master Cyman? What happened?</text>
+		<text bitflag="1360" id1="699971" id2="17" version="1065353216">What's going on?</text>
+		<text bitflag="1345" id1="699972" id2="17" version="1065353216">Master Cyman!</text>
+		<text bitflag="1345" id1="699974" id2="17" version="1065353216">Of course you're a Jedi. What are you talking about?</text>
+		<text bitflag="1360" id1="699974" id2="17" version="1065353216">Calm down.</text>
+		<text bitflag="1345" id1="699975" id2="17" version="1065353216">There is no emotion. There is no emotion. There is no emotion.</text>
+		<text bitflag="1345" id1="699977" id2="17" version="1065353216">Well, you're quick to anger, stubborn, and you left your training to follow a Sith. I'm not so sure you are a Jedi.</text>
+		<text bitflag="1360" id1="699977" id2="17" version="1065353216">Yeah? You don't act like one.</text>
+		<text bitflag="1345" id1="699978" id2="17" version="1065353216">Shut up. I'm not a Sith.</text>
+		<text bitflag="1345" id1="699980" id2="17" version="1065353216">I came to him for help, and he turned me away.</text>
+		<text bitflag="1345" id1="699982" id2="17" version="1065353216">It's not fair. I was the best Padawan Masters Ryen and Ocera ever trained. I am a Jedi.</text>
+		<text bitflag="1345" id1="699983" id2="17" version="1065353216">You're reacting like a Sith.</text>
+		<text bitflag="1360" id1="699983" id2="17" version="1065353216">Calm down.</text>
+		<text bitflag="1345" id1="699984" id2="17" version="1065353216">The Sith are murderers. I know what's right. It's not evil. It can't be.</text>
+		<text bitflag="1345" id1="699986" id2="17" version="1065353216">Why do you cling to the Jedi order? They will never accept you for who you are.</text>
+		<text bitflag="1360" id1="699986" id2="17" version="1065353216">Forget the Jedi.</text>
+		<text bitflag="1345" id1="699987" id2="17" version="1065353216">I don't care. I'm a Jedi. I've never been anything else.</text>
+		<text bitflag="1345" id1="699989" id2="17" version="1065353216">Don't let the words of a fool bother you.</text>
+		<text bitflag="1360" id1="699989" id2="17" version="1065353216">He was an idiot.</text>
+		<text bitflag="1345" id1="699990" id2="17" version="1065353216">You're right. I need to calm down. He's, he's just too narrow-minded to see.</text>
+		<text bitflag="1345" id1="699992" id2="17" version="1065353216">The return of the Sith and this war have changed things. Sometimes compromise is necessary.</text>
+		<text bitflag="1345" id1="699994" id2="17" version="1065353216">Yes, I don't care what Master Cyman said. Thank you, my lord, for helping me talk through this.</text>
+		<text bitflag="1345" id1="700000" id2="17" version="1065353216">My lord, I must ask a favor of you.</text>
+		<text bitflag="1345" id1="700002" id2="17" version="1065353216">Our mission. We cannot hope to accomplish it without help.</text>
+		<text bitflag="1345" id1="700003" id2="17" version="1065353216">I'm afraid we won't get much support from the Sith.</text>
+		<text bitflag="1360" id1="700003" id2="17" version="1065353216">Allies will be hard to find.</text>
+		<text bitflag="1345" id1="700004" id2="17" version="1065353216">Not the Sith. The Jedi. Yes, I know.</text>
+		<text bitflag="1345" id1="700006" id2="17" version="1065353216">What are you suggesting?</text>
+		<text bitflag="1360" id1="700006" id2="17" version="1065353216">What are you saying?</text>
+		<text bitflag="1345" id1="700007" id2="17" version="1065353216">I'm suggesting we recruit more Jedi to our side. Yes, I know.</text>
+		<text bitflag="1345" id1="700009" id2="17" version="1065353216">I don't need help from anyone.</text>
+		<text bitflag="1360" id1="700009" id2="17" version="1065353216">Yes, we can.</text>
+		<text bitflag="1345" id1="700010" id2="17" version="1065353216">You can't change the Empire all by yourself.</text>
+		<text bitflag="1345" id1="700012" id2="17" version="1065353216">There are Jedi who would help us. Who would see that a strong rational Empire is the only path to peace.</text>
+		<text bitflag="1345" id1="700013" id2="17" version="1065353216">I can see the advantages of having sympathetic Jedi when the time comes to negotiate.</text>
+		<text bitflag="1360" id1="700013" id2="17" version="1065353216">That could be helpful.</text>
+		<text bitflag="1345" id1="700014" id2="17" version="1065353216">Clearly you have a particular Jedi in mind.</text>
+		<text bitflag="1360" id1="700014" id2="17" version="1065353216">Who were you thinking of?</text>
+		<text bitflag="1345" id1="700015" id2="17" version="1065353216">Master Cyman Walz is known by many as a wise, open-minded Jedi. He brought the Sith Lord Karrus Vayl to the light and oversaw his initiation into the Jedi.</text>
+		<text bitflag="1345" id1="700017" id2="17" version="1065353216">I'm cautious about getting Jedi involved too early. The Empire must want to change--they can't believe it's a Jedi plot.</text>
+		<text bitflag="1360" id1="700017" id2="17" version="1065353216">That's not a good idea.</text>
+		<text bitflag="1345" id1="700018" id2="17" version="1065353216">Master Cyman Walz is discreet. He's known for being open-minded, and bringing Sith to the light.</text>
+		<text bitflag="1345" id1="700020" id2="17" version="1065353216">He has retired in seclusion to Alderaan for personal study and meditation, but young Jedi still make pilgrimages to him.</text>
+		<text bitflag="1345" id1="700022" id2="17" version="1065353216">I would like to make a pilgrimage, and if possible, get his support.</text>
+		<text bitflag="1345" id1="700023" id2="17" version="1065353216">I welcome any support we can get.</text>
+		<text bitflag="1360" id1="700023" id2="17" version="1065353216">All right.</text>
+		<text bitflag="1345" id1="700024" id2="17" version="1065353216">How do I know you aren't plotting against me?</text>
+		<text bitflag="1360" id1="700024" id2="17" version="1065353216">This sounds suspicious.</text>
+		<text bitflag="1345" id1="700025" id2="17" version="1065353216">I wouldn't plot against you. I believe in our mission. I think Cyman will support us.</text>
+		<text bitflag="1345" id1="700027" id2="17" version="1065353216">I don't see why you need the approval of a Jedi.</text>
+		<text bitflag="1360" id1="700027" id2="17" version="1065353216">We don't need his help.</text>
+		<text bitflag="1345" id1="700028" id2="17" version="1065353216">If there's to be peace between the Jedi and the Sith, both sides must come together.</text>
+		<text bitflag="1345" id1="700030" id2="17" version="1065353216">I'll return quickly, I promise.</text>
+		<text bitflag="1345" id1="700036" id2="17" version="1065353216">My lord, I've been studying the Sith code lately, and I'm wondering what you think of the line, &quot;Peace is a lie.&quot;</text>
+		<text bitflag="1345" id1="700038" id2="17" version="1065353216">There doesn't seem to be a lot of room for interpretation, but I know you are an ardent proponent of peace.</text>
+		<text bitflag="1345" id1="700039" id2="17" version="1065353216">You should know by now that I do not allow the Sith to dictate how I live my life.</text>
+		<text bitflag="1360" id1="700039" id2="17" version="1065353216">I'm no ordinary Sith.</text>
+		<text bitflag="1345" id1="700040" id2="17" version="1065353216">Yes, I guess so. It still strikes me as strange how you can be Sith and value Sith teachings so little.</text>
+		<text bitflag="1345" id1="700042" id2="17" version="1065353216">There's a difference between complacency and genuine peace.</text>
+		<text bitflag="1360" id1="700042" id2="17" version="1065353216">Peace comes in many forms.</text>
+		<text bitflag="1345" id1="700043" id2="17" version="1065353216">The Jedi are not complacent. When it is necessary, we act.</text>
+		<text bitflag="1345" id1="700045" id2="17" version="1065353216">We Sith aren't very good with rules, even our own.</text>
+		<text bitflag="1360" id1="700045" id2="17" version="1065353216">Who cares about the code?</text>
+		<text bitflag="1345" id1="700046" id2="17" version="1065353216">The Jedi code is the core of our philosophy. We learn it by heart and it's the foundation of everything we do.</text>
+		<text bitflag="1345" id1="700048" id2="17" version="1065353216">But I guess it's different for the Sith. The Sith code is more of a description than a guide.</text>
+		<text bitflag="1345" id1="700049" id2="17" version="1065353216">Some take its words very seriously.</text>
+		<text bitflag="1360" id1="700049" id2="17" version="1065353216">We have fanatics, too.</text>
+		<text bitflag="1345" id1="700050" id2="17" version="1065353216">Which is better: the ones that truly believe peace is a lie, or the ones with no code at all?</text>
+		<text bitflag="1345" id1="700052" id2="17" version="1065353216">A Sith is the ultimate individual. There are as many different Sith philosophies as there are Sith.</text>
+		<text bitflag="1360" id1="700052" id2="17" version="1065353216">All Sith are different.</text>
+		<text bitflag="1345" id1="700053" id2="17" version="1065353216">We do not repress our emotions, and we embrace everything that the Force allows. That is what binds us, not the code.</text>
+		<text bitflag="1360" id1="700053" id2="17" version="1065353216">The code isn't that important.</text>
+		<text bitflag="1345" id1="700054" id2="17" version="1065353216">What about the Emperor? And the Dark Council? I thought they governed the Sith.</text>
+		<text bitflag="1345" id1="700055" id2="17" version="1065353216">They have their own aims. That's as far as their rule extends.</text>
+		<text bitflag="1360" id1="700055" id2="17" version="1065353216">Loosely.</text>
+		<text bitflag="1345" id1="700056" id2="17" version="1065353216">The Emperor has not been heard from in a long time.</text>
+		<text bitflag="1360" id1="700056" id2="17" version="1065353216">The Emperor is silent.</text>
+		<text bitflag="1345" id1="700057" id2="17" version="1065353216">Yes, but like the rest of the Sith, they are torn apart by petty arguments.</text>
+		<text bitflag="1360" id1="700057" id2="17" version="1065353216">They are all fools.</text>
+		<text bitflag="1345" id1="700058" id2="17" version="1065353216">It can't go on like that you know.</text>
+		<text bitflag="1345" id1="700060" id2="17" version="1065353216">How can there be peace with the Sith Empire when every Sith does their own thing?</text>
+		<text bitflag="1345" id1="700062" id2="17" version="1065353216">This task we've taken gets more difficult every day.</text>
+		<text bitflag="1345" id1="700068" id2="17" version="1065353216">I'm sorry about before. I didn't mean to end the conversation so abruptly.</text>
+		<text bitflag="1345" id1="700070" id2="17" version="1065353216">It's just, Jedi aren't supposed to become romantically attached.</text>
+		<text bitflag="1345" id1="700071" id2="17" version="1065353216">That means you're interested.</text>
+		<text bitflag="1360" id1="700071" id2="17" version="1065353216">So you do like me?</text>
+		<text bitflag="1345" id1="700072" id2="17" version="1065353216">Well, there's no danger of that now, is there.</text>
+		<text bitflag="1360" id1="700072" id2="17" version="1065353216">You ruined your chance.</text>
+		<text bitflag="1345" id1="700073" id2="17" version="1065353216">No, look, I'm sorry.</text>
+		<text bitflag="1345" id1="700075" id2="17" version="1065353216">I don't want to force you into anything.</text>
+		<text bitflag="1360" id1="700075" id2="17" version="1065353216">I don't mean to pressure you.</text>
+		<text bitflag="1345" id1="700076" id2="17" version="1065353216">I know. I know that. You've been perfectly noble.</text>
+		<text bitflag="1345" id1="700078" id2="17" version="1065353216">Jedi are supposed to be wary of attachments, but I'd be lying if I said I wasn't attracted to you.</text>
+		<text bitflag="1360" id1="700079" id2="17" version="1065353216">Let's go on a date.</text>
+		<text bitflag="1345" id1="700081" id2="17" version="1065353216">I'm not trying to lead you astray. But I think you're beautiful.</text>
+		<text bitflag="1360" id1="700081" id2="17" version="1065353216">Well, you're lovely.</text>
+		<text bitflag="1345" id1="700082" id2="17" version="1065353216">Who said you were leading me astray? Jedi have emotions, you know. They sometimes even get married.</text>
+		<text bitflag="1345" id1="700083" id2="17" version="1065353216">Let's take it one step at a time.</text>
+		<text bitflag="1360" id1="700083" id2="17" version="1065353216">Married? Slow down.</text>
+		<text bitflag="1345" id1="700084" id2="17" version="1065353216">I didn't mean. I couldn't even imagine. Not that I don't think you'd make a good husband. What I mean is, I don't want to rush it.</text>
+		<text bitflag="1345" id1="700085" id2="17" version="1065353216">Will you get a drink with me?</text>
+		<text bitflag="1360" id1="700085" id2="17" version="1065353216">In that case, let's go out.</text>
+		<text bitflag="1345" id1="700086" id2="17" version="1065353216">Then I know I'm not misreading you.</text>
+		<text bitflag="1360" id1="700086" id2="17" version="1065353216">That's a relief.</text>
+		<text bitflag="1345" id1="700087" id2="17" version="1065353216">That's sweet, but I don't want to rush things.</text>
+		<text bitflag="1345" id1="700088" id2="17" version="1065353216">Of course you are. They warned you about men like me your whole life--but you've always wondered.</text>
+		<text bitflag="1360" id1="700088" id2="17" version="1065353216">What Jedi could resist a Sith?</text>
+		<text bitflag="1345" id1="700089" id2="17" version="1065353216">Aren't you sure of yourself?</text>
+		<text bitflag="1345" id1="700091" id2="17" version="1065353216">I don't think you're dangerous. I think you're sweet.</text>
+		<text bitflag="1345" id1="700092" id2="17" version="1065353216">The two aren't mutually exclusive, are they?</text>
+		<text bitflag="1360" id1="700092" id2="17" version="1065353216">Can't I be both?</text>
+		<text bitflag="1345" id1="700093" id2="17" version="1065353216">I guess.</text>
+		<text bitflag="1345" id1="700095" id2="17" version="1065353216">Well I think you're beautiful and smart and you have a good sense of humor, for a Jedi.</text>
+		<text bitflag="1360" id1="700095" id2="17" version="1065353216">So are you.</text>
+		<text bitflag="1345" id1="700096" id2="17" version="1065353216">Oh. For a Jedi, hm? Tease.</text>
+		<text bitflag="1345" id1="700098" id2="17" version="1065353216">Look, I've never really been out with anyone before. I don't want to rush things.</text>
+		<text bitflag="1345" id1="700099" id2="17" version="1065353216">Am I rushing you?</text>
+		<text bitflag="1360" id1="700099" id2="17" version="1065353216">Me neither.</text>
+		<text bitflag="1345" id1="700100" id2="17" version="1065353216">No! No, I didn't mean that at all. I'm sorry, I'm a mess.</text>
+		<text bitflag="1345" id1="700101" id2="17" version="1065353216">We'll go as fast as you're comfortable with.</text>
+		<text bitflag="1360" id1="700101" id2="17" version="1065353216">Take your time.</text>
+		<text bitflag="1345" id1="700102" id2="17" version="1065353216">Thanks. I appreciate that.</text>
+		<text bitflag="1345" id1="700104" id2="17" version="1065353216">Let's just start by getting a drink.</text>
+		<text bitflag="1360" id1="700104" id2="17" version="1065353216">Let me take you out.</text>
+		<text bitflag="1360" id1="700105" id2="17" version="1065353216">I'd love to take you out.</text>
+		<text bitflag="1345" id1="700107" id2="17" version="1065353216">Let me take you out for a drink.</text>
+		<text bitflag="1345" id1="700108" id2="17" version="1065353216">Um, sure. I, um, I've never actually been on a date before. It'll be fun, right?</text>
+		<text bitflag="1345" id1="700109" id2="17" version="1065353216">You have nothing to worry about.</text>
+		<text bitflag="1360" id1="700109" id2="17" version="1065353216">Right.</text>
+		<text bitflag="1345" id1="700110" id2="17" version="1065353216">If it helps, don't think of it as a date. We're just two friends.</text>
+		<text bitflag="1360" id1="700110" id2="17" version="1065353216">Relax.</text>
+		<text bitflag="1345" id1="700111" id2="17" version="1065353216">It beats standing around on the ship all day.</text>
+		<text bitflag="1360" id1="700111" id2="17" version="1065353216">There's nothing better to do.</text>
+		<text bitflag="1345" id1="700114" id2="17" version="1065353216">That was really fun. Thank you.</text>
+		<text bitflag="1345" id1="700115" id2="17" version="1065353216">I told you you'd have a good time.</text>
+		<text bitflag="1360" id1="700115" id2="17" version="1065353216">See? No reason to worry.</text>
+		<text bitflag="1345" id1="700116" id2="17" version="1065353216">Always happy to please.</text>
+		<text bitflag="1360" id1="700116" id2="17" version="1065353216">You're welcome.</text>
+		<text bitflag="1345" id1="700117" id2="17" version="1065353216">I hope we can do that again some time.</text>
+		<text bitflag="1345" id1="700118" id2="17" version="1065353216">That was the dullest night out I've ever had. Even the drinks tasted bored.</text>
+		<text bitflag="1360" id1="700118" id2="17" version="1065353216">I didn't have fun.</text>
+		<text bitflag="1345" id1="700119" id2="17" version="1065353216">What? Why? I'm sorry. I'll... I'll do better next time.</text>
+		<text bitflag="1345" id1="700123" id2="17" version="1065353216">I know Andronikos is rather attached to the ship, but I was wondering if I could fly it now and then?</text>
+		<text bitflag="1345" id1="700125" id2="17" version="1065353216">Master Ryen said I showed exceptional aptitude at flying in simulation training, but I've never been able to pilot the real thing.</text>
+		<text bitflag="1345" id1="700126" id2="17" version="1065353216">You'd have to get Andronikos to agree, but I have no problem with it.</text>
+		<text bitflag="1360" id1="700126" id2="17" version="1065353216">I don't see why not.</text>
+		<text bitflag="1345" id1="700127" id2="17" version="1065353216">I'll be very careful, I promise.</text>
+		<text bitflag="1345" id1="700128" id2="17" version="1065353216">I wouldn't trust this ship in the hands of a novice.</text>
+		<text bitflag="1360" id1="700128" id2="17" version="1065353216">This ship is too valuable.</text>
+		<text bitflag="1345" id1="700129" id2="17" version="1065353216">I'm not a novice! I have over a thousand hours of simulator practice!</text>
+		<text bitflag="1345" id1="700130" id2="17" version="1065353216">Is there anything the Jedi don't teach their Padawans?</text>
+		<text bitflag="1360" id1="700130" id2="17" version="1065353216">You learned a lot.</text>
+		<text bitflag="1345" id1="700131" id2="17" version="1065353216">Not much. The Jedi Order believes in a thorough education in both theoretical and practical matters.</text>
+		<text bitflag="1345" id1="700133" id2="17" version="1065353216">We join the order as young children, sometimes babies. The Jedi Order raises us.</text>
+		<text bitflag="1345" id1="700137" id2="17" version="1065353216">I changed my mind. I have nothing to say to you.</text>
+		<text bitflag="1345" id1="700138" id2="17" version="1065353216">I don't understand. I haven't done anything.</text>
+		<text bitflag="1360" id1="700138" id2="17" version="1065353216">What did I do?</text>
+		<text bitflag="1345" id1="700139" id2="17" version="1065353216">No, you didn't do anything. But you're Sith!</text>
+		<text bitflag="1345" id1="700141" id2="17" version="1065353216">I thought Jedi didn't get angry.</text>
+		<text bitflag="1360" id1="700141" id2="17" version="1065353216">This isn't Jedi behavior.</text>
+		<text bitflag="1345" id1="700142" id2="17" version="1065353216">How can I not be angry? Didn't you hear what happened?</text>
+		<text bitflag="1345" id1="700144" id2="17" version="1065353216">Well, that's a relief. I'll just get back to work then.</text>
+		<text bitflag="1360" id1="700144" id2="17" version="1065353216">Fine with me.</text>
+		<text bitflag="1345" id1="700145" id2="17" version="1065353216">No. You don't get off that easy.</text>
+		<text bitflag="1345" id1="700147" id2="17" version="1065353216">Just released on the HoloNet. Sith in the Corellian system killed a group of free-traders for failing to give them free passage to the Outer Rim.</text>
+		<text bitflag="1345" id1="700149" id2="17" version="1065353216">They murdered them.</text>
+		<text bitflag="1345" id1="700150" id2="17" version="1065353216">That's what Sith do.</text>
+		<text bitflag="1360" id1="700150" id2="17" version="1065353216">Sounds normal.</text>
+		<text bitflag="1345" id1="700151" id2="17" version="1065353216">You don't do that, so don't tell me that all Sith are murderous psychopaths and I just have to accept it.</text>
+		<text bitflag="1345" id1="700153" id2="17" version="1065353216">The free traders should've complied.</text>
+		<text bitflag="1360" id1="700153" id2="17" version="1065353216">This is a war.</text>
+		<text bitflag="1345" id1="700154" id2="17" version="1065353216">Who were probably weapons traders. Everyone has a side in this war.</text>
+		<text bitflag="1345" id1="700155" id2="17" version="1065353216">Who were probably weapons traders. Everyone is involved in this war. Everyone has a side.</text>
+		<text bitflag="1360" id1="700155" id2="17" version="1065353216">They were smugglers.</text>
+		<text bitflag="1345" id1="700156" id2="17" version="1065353216">The Sith should be tried, too, but the Empire won't do anything about it, will they?</text>
+		<text bitflag="1345" id1="700158" id2="17" version="1065353216">The Sith should have a trial too, but the Empire isn't going to do anything about it, are they?</text>
+		<text bitflag="1345" id1="700160" id2="17" version="1065353216">Then they should've known better than to resist a Sith.</text>
+		<text bitflag="1360" id1="700160" id2="17" version="1065353216">They shouldn't have resisted.</text>
+		<text bitflag="1345" id1="700161" id2="17" version="1065353216">Passage to the Outer Rim is expensive. How are they supposed to make a living, or feed their families?</text>
+		<text bitflag="1345" id1="700162" id2="17" version="1065353216">This rant is not very Jedi-like.</text>
+		<text bitflag="1360" id1="700162" id2="17" version="1065353216">Such passion.</text>
+		<text bitflag="1345" id1="700163" id2="17" version="1065353216">At least one of us has compassion for these people. Where are your emotions, Sith? Or is it all fear and hatred for you, no love or sympathy?</text>
+		<text bitflag="1345" id1="700165" id2="17" version="1065353216">They can't exactly feed their families now, can they?</text>
+		<text bitflag="1360" id1="700165" id2="17" version="1065353216">Can't feed anyone dead.</text>
+		<text bitflag="1345" id1="700166" id2="17" version="1065353216">The Sith had no right to make those demands.</text>
+		<text bitflag="1360" id1="700166" id2="17" version="1065353216">You're right.</text>
+		<text bitflag="1345" id1="700167" id2="17" version="1065353216">I'm sorry this upsets you, but I can't do anything about it.</text>
+		<text bitflag="1360" id1="700167" id2="17" version="1065353216">I can't bring them back.</text>
+		<text bitflag="1345" id1="700168" id2="17" version="1065353216">I'm sorry, but you can't hold me responsible for the actions of every Sith.</text>
+		<text bitflag="1360" id1="700168" id2="17" version="1065353216">It's not my fault.</text>
+		<text bitflag="1345" id1="700169" id2="17" version="1065353216">What's the Empire going to do about it? You know the answer as well as I do. Nothing.</text>
+		<text bitflag="1345" id1="700171" id2="17" version="1065353216">If there's going to be any kind of peace agreement, the Empire has to stop this.</text>
+		<text bitflag="1345" id1="700172" id2="17" version="1065353216">For too long the Sith have been regarded as kings among animals. Untouchable tyrants. It will take a lot of work to change that perception.</text>
+		<text bitflag="1360" id1="700172" id2="17" version="1065353216">That's a tall order.</text>
+		<text bitflag="1345" id1="700173" id2="17" version="1065353216">I didn't come along because I expected things to be easy.</text>
+		<text bitflag="1345" id1="700175" id2="17" version="1065353216">This behavior will destroy the Empire from within. I won't allow it.</text>
+		<text bitflag="1360" id1="700175" id2="17" version="1065353216">It will be stopped.</text>
+		<text bitflag="1345" id1="700176" id2="17" version="1065353216">I'm sorry. I'll try to be more patient.</text>
+		<text bitflag="1345" id1="700177" id2="17" version="1065353216">It sounds like you want to make Jedi out of Sith.</text>
+		<text bitflag="1360" id1="700177" id2="17" version="1065353216">A restrained Sith is not Sith.</text>
+		<text bitflag="1345" id1="700178" id2="17" version="1065353216">Free will is the ultimate good, hm. Even if it results in the deaths of innocents?</text>
+		<text bitflag="1345" id1="700180" id2="17" version="1065353216">Well what about their free will? Their desires? I guess they should've been Sith.</text>
+		<text bitflag="1345" id1="700182" id2="17" version="1065353216">Forget it. I should've expected you'd take the Sith side.</text>
+		<text bitflag="1345" id1="700188" id2="17" version="1065353216">My lord. I'm sorry I was so harsh about the Empire earlier. There's just a lot I'm still trying to process.</text>
+		<text bitflag="1345" id1="700189" id2="17" version="1065353216">It's overwhelming. But you are wise beyond your years.</text>
+		<text bitflag="1360" id1="700189" id2="17" version="1065353216">[Flirt] Your mind is lovely.</text>
+		<text bitflag="1345" id1="700190" id2="17" version="1065353216">I don't know. I guess I've always believed that the truth is important, and that finding the truth is a life's work.</text>
+		<text bitflag="1345" id1="700192" id2="17" version="1065353216">But I'm honored that you consider me wise.</text>
+		<text bitflag="1345" id1="700193" id2="17" version="1065353216">Beautiful and wise are a rare combination.</text>
+		<text bitflag="1360" id1="700193" id2="17" version="1065353216">[Flirt] And pretty.</text>
+		<text bitflag="1345" id1="700194" id2="17" version="1065353216">Um, thank you.</text>
+		<text bitflag="1345" id1="700196" id2="17" version="1065353216">I've told you about the Empire, now maybe you can clarify something for me: are all relationships forbidden to Jedi?</text>
+		<text bitflag="1360" id1="700196" id2="17" version="1065353216">[Flirt] Do Jedi date?</text>
+		<text bitflag="1345" id1="700197" id2="17" version="1065353216">&quot;All relationships&quot;? We have siblings, families. Friends, masters.</text>
+		<text bitflag="1345" id1="700199" id2="17" version="1065353216">Just don't let it go to your head.</text>
+		<text bitflag="1360" id1="700199" id2="17" version="1065353216">Don't get cocky.</text>
+		<text bitflag="1345" id1="700200" id2="17" version="1065353216">I won't. A Jedi must always strive for humility.</text>
+		<text bitflag="1345" id1="700201" id2="17" version="1065353216">You'll get used to how things work here.</text>
+		<text bitflag="1360" id1="700201" id2="17" version="1065353216">You'll adjust.</text>
+		<text bitflag="1345" id1="700202" id2="17" version="1065353216">I'm not sure I want to get used to it.</text>
+		<text bitflag="1345" id1="700204" id2="17" version="1065353216">Let me know if I can do anything to make the adjustment easier.</text>
+		<text bitflag="1360" id1="700204" id2="17" version="1065353216">I can help.</text>
+		<text bitflag="1345" id1="700205" id2="17" version="1065353216">I know Jedi are supposed to be patient, but it's never been my strength.</text>
+		<text bitflag="1345" id1="700207" id2="17" version="1065353216">Others will not tolerate your questions as I do.</text>
+		<text bitflag="1360" id1="700207" id2="17" version="1065353216">Just be careful.</text>
+		<text bitflag="1345" id1="700208" id2="17" version="1065353216">To anyone who sees us, I will be the perfect apprentice. But can you blame me?</text>
+		<text bitflag="1345" id1="700210" id2="17" version="1065353216">How would you feel if suddenly you had a Jedi master and were serving the Republic?</text>
+		<text bitflag="1345" id1="700211" id2="17" version="1065353216">That would depend on whether I get to see your beautiful face all day.</text>
+		<text bitflag="1360" id1="700211" id2="17" version="1065353216">[Flirt] Can I be with you?</text>
+		<text bitflag="1345" id1="700212" id2="17" version="1065353216">Well, um, I'm flattered.</text>
+		<text bitflag="1345" id1="700214" id2="17" version="1065353216">Look, I need... I mean, I haven't done today's meditation. I need to train.</text>
+		<text bitflag="1345" id1="700215" id2="17" version="1065353216">I'm sorry if I made you uncomfortable.</text>
+		<text bitflag="1360" id1="700215" id2="17" version="1065353216">I didn't mean to trouble you.</text>
+		<text bitflag="1345" id1="700216" id2="17" version="1065353216">No, it's alright. It's not you. I just. I have things I need to do.</text>
+		<text bitflag="1345" id1="700218" id2="17" version="1065353216">Stay here with me and talk.</text>
+		<text bitflag="1360" id1="700218" id2="17" version="1065353216">Don't go.</text>
+		<text bitflag="1345" id1="700219" id2="17" version="1065353216">Um, no, I don't think I can.</text>
+		<text bitflag="1345" id1="700221" id2="17" version="1065353216">Do you have to go? I want to get to know you better.</text>
+		<text bitflag="1360" id1="700221" id2="17" version="1065353216">[Flirt] Are you sure?</text>
+		<text bitflag="1345" id1="700222" id2="17" version="1065353216">Yes, yes I do. Not that it hasn't been fun talking to you. It has. But I have things to do.</text>
+		<text bitflag="1345" id1="700224" id2="17" version="1065353216">Talk to you later.</text>
+		<text bitflag="1345" id1="700228" id2="17" version="1065353216">Sick to my stomach.</text>
+		<text bitflag="1360" id1="700228" id2="17" version="1065353216">Like vomiting.</text>
+		<text bitflag="1345" id1="700229" id2="17" version="1065353216">Don't be flippant.</text>
+		<text bitflag="1345" id1="700231" id2="17" version="1065353216">You came along of your own free will.</text>
+		<text bitflag="1360" id1="700231" id2="17" version="1065353216">You chose this.</text>
+		<text bitflag="1345" id1="700232" id2="17" version="1065353216">I did, and I accept that.</text>
+		<text bitflag="1345" id1="700234" id2="17" version="1065353216">I'm sorry. I haven't been very sympathetic.</text>
+		<text bitflag="1360" id1="700234" id2="17" version="1065353216">I guess I'd be uneasy too.</text>
+		<text bitflag="1345" id1="700235" id2="17" version="1065353216">Thanks for understanding.</text>
+		<text bitflag="1345" id1="700237" id2="17" version="1065353216">I promise, I won't let my misgivings interfere with our work.</text>
+		<text bitflag="1345" id1="700243" id2="17" version="1065353216">What was your master like? You had a master, right?</text>
+		<text bitflag="1345" id1="700244" id2="17" version="1065353216">I did, until I trapped her in the body of the Dashade.</text>
+		<text bitflag="1360" id1="700244" id2="17" version="1065353216">She's still here. Sort of.</text>
+		<text bitflag="1345" id1="700245" id2="17" version="1065353216">Ah, so that's who Zash is. The way she spoke of you, I suspected.</text>
+		<text bitflag="1345" id1="700247" id2="17" version="1065353216">She makes me uneasy. She speaks so kindly of you, but the look in her eye in that body. It's wrong.</text>
+		<text bitflag="1345" id1="700248" id2="17" version="1065353216">The Dashade eats Force users, and now, so does Zash.</text>
+		<text bitflag="1360" id1="700248" id2="17" version="1065353216">It's Khem's hunger.</text>
+		<text bitflag="1345" id1="700249" id2="17" version="1065353216">How could you have done such a horrible thing to your own master?</text>
+		<text bitflag="1345" id1="700251" id2="17" version="1065353216">She is powerless to disobey me.</text>
+		<text bitflag="1360" id1="700251" id2="17" version="1065353216">Don't worry.</text>
+		<text bitflag="1345" id1="700252" id2="17" version="1065353216">You know you have to free her someday. You can't leave her trapped in that monster, no matter what she did.</text>
+		<text bitflag="1345" id1="700253" id2="17" version="1065353216">I can and I will.</text>
+		<text bitflag="1360" id1="700253" id2="17" version="1065353216">Of course I can.</text>
+		<text bitflag="1345" id1="700254" id2="17" version="1065353216">If I release her, it will be to kill her.</text>
+		<text bitflag="1360" id1="700254" id2="17" version="1065353216">I want her dead.</text>
+		<text bitflag="1345" id1="700255" id2="17" version="1065353216">Your own master! How can you talk like that?</text>
+		<text bitflag="1345" id1="700257" id2="17" version="1065353216">You understand so little about how Sith work. If I free her, she will kill me.</text>
+		<text bitflag="1360" id1="700257" id2="17" version="1065353216">Freeing her would be deadly.</text>
+		<text bitflag="1345" id1="700258" id2="17" version="1065353216">Deception is Zash's stock and trade. Don't believe a word she says.</text>
+		<text bitflag="1360" id1="700258" id2="17" version="1065353216">You can't trust her.</text>
+		<text bitflag="1345" id1="700259" id2="17" version="1065353216">My master tried to kill me.</text>
+		<text bitflag="1360" id1="700259" id2="17" version="1065353216">She wanted me dead.</text>
+		<text bitflag="1345" id1="700260" id2="17" version="1065353216">That, that's just insane. Why would Sith try to destroy the future of their own order?</text>
+		<text bitflag="1345" id1="700261" id2="17" version="1065353216">The future of the order means nothing if you're not alive to see it.</text>
+		<text bitflag="1360" id1="700261" id2="17" version="1065353216">Self-preservation. Power.</text>
+		<text bitflag="1345" id1="700262" id2="17" version="1065353216">Selfishness is the real problem with the Sith order. All the violence and cruelty--it's just selfishness.</text>
+		<text bitflag="1345" id1="700264" id2="17" version="1065353216">My master was not the sentimental type.</text>
+		<text bitflag="1360" id1="700264" id2="17" version="1065353216">It's just how things are.</text>
+		<text bitflag="1345" id1="700265" id2="17" version="1065353216">I would've tried to kill her eventually.</text>
+		<text bitflag="1360" id1="700265" id2="17" version="1065353216">Don't feel sorry for me.</text>
+		<text bitflag="1345" id1="700266" id2="17" version="1065353216">I won't ever get used to the fear and suspicion among Sith.</text>
+		<text bitflag="1345" id1="700268" id2="17" version="1065353216">You claim to follow your passions but what about friendship? The Jedi seek spiritual peace, and they watch out for each other.</text>
+		<text bitflag="1345" id1="700270" id2="17" version="1065353216">Sith don't exactly respect their masters the way Jedi do.</text>
+		<text bitflag="1360" id1="700270" id2="17" version="1065353216">Masters are just in the way.</text>
+		<text bitflag="1345" id1="700271" id2="17" version="1065353216">Why not? Don't you value what you can learn from your elders?</text>
+		<text bitflag="1345" id1="700273" id2="17" version="1065353216">Masters Ryen and Ocera were more like parents to me than my own parents.</text>
+		<text bitflag="1345" id1="700274" id2="17" version="1065353216">Yet you disobeyed them to follow me.</text>
+		<text bitflag="1360" id1="700274" id2="17" version="1065353216">So why'd you leave?</text>
+		<text bitflag="1345" id1="700275" id2="17" version="1065353216">Every Jedi must find her own path. Mine was with you.</text>
+		<text bitflag="1345" id1="700277" id2="17" version="1065353216">They never acknowledged your true potential. They were narrow-minded tyrants, and their subjects were children.</text>
+		<text bitflag="1360" id1="700277" id2="17" version="1065353216">They were fools.</text>
+		<text bitflag="1345" id1="700278" id2="17" version="1065353216">But they were very wise. They were good men.</text>
+		<text bitflag="1345" id1="700280" id2="17" version="1065353216">I'm sorry, I wasn't trying to start an argument. I'm still trying to figure things out.</text>
+		<text bitflag="1345" id1="700281" id2="17" version="1065353216">You must've had terrible parents.</text>
+		<text bitflag="1360" id1="700281" id2="17" version="1065353216">I'm sorry to hear that.</text>
+		<text bitflag="1345" id1="700282" id2="17" version="1065353216">I don't remember them, actually. They died at the sacking of Coruscant, at Sith hands.</text>
+		<text bitflag="1345" id1="700283" id2="17" version="1065353216">I'm very sorry to hear that.</text>
+		<text bitflag="1360" id1="700283" id2="17" version="1065353216">My apologies.</text>
+		<text bitflag="1345" id1="700284" id2="17" version="1065353216">It's alright. They died bravely, defending the Jedi Temple.</text>
+		<text bitflag="1345" id1="700286" id2="17" version="1065353216">What do you expect me to say? Sorry? I wasn't there. I didn't do it.</text>
+		<text bitflag="1360" id1="700286" id2="17" version="1065353216">Not my fault.</text>
+		<text bitflag="1345" id1="700287" id2="17" version="1065353216">No, I wasn't expecting anything, just... you asked about my parents. Sarcastically, but you asked.</text>
+		<text bitflag="1345" id1="700289" id2="17" version="1065353216">Now I understand why you hate Sith so much.</text>
+		<text bitflag="1360" id1="700289" id2="17" version="1065353216">That explains your anger.</text>
+		<text bitflag="1345" id1="700290" id2="17" version="1065353216">I don't hate anyone. But I am serious about ending this war.</text>
+		<text bitflag="1345" id1="700292" id2="17" version="1065353216">Anyway, I'm sorry to bother you. I'm sure you have plenty to do.</text>
+		<text bitflag="1345" id1="700298" id2="17" version="1065353216">I'm realizing there's a lot I don't understand about the Empire.</text>
+		<text bitflag="1345" id1="700299" id2="17" version="1065353216">Are you having second thoughts?</text>
+		<text bitflag="1360" id1="700299" id2="17" version="1065353216">Are you backing out?</text>
+		<text bitflag="1345" id1="700300" id2="17" version="1065353216">There's a lot I don't understand about the Empire.</text>
+		<text bitflag="1360" id1="700300" id2="17" version="1065353216">Me neither.</text>
+		<text bitflag="1345" id1="700301" id2="17" version="1065353216">I don't expect a Jedi to understand. But the Empire is strength and freedom.</text>
+		<text bitflag="1360" id1="700301" id2="17" version="1065353216">You'll learn eventually.</text>
+		<text bitflag="1345" id1="700302" id2="17" version="1065353216">They certainly talk a lot about strength. But freedom? From what I've seen, that belongs to a select few.</text>
+		<text bitflag="1345" id1="700304" id2="17" version="1065353216">Slavery is everywhere. And even among the so-called free, only the Sith act with any sort of independence.</text>
+		<text bitflag="1345" id1="700306" id2="17" version="1065353216">How you can support an Empire that actively enslaves and spits on your people?</text>
+		<text bitflag="1345" id1="700307" id2="17" version="1065353216">I don't support them. I aim to kill every one of them.</text>
+		<text bitflag="1360" id1="700307" id2="17" version="1065353216">There's no support here.</text>
+		<text bitflag="1345" id1="700308" id2="17" version="1065353216">I can understand why you're angry, and I agree that we can't abide evil, but we can't let our emotions get the better of us.</text>
+		<text bitflag="1345" id1="700310" id2="17" version="1065353216">This is not the life I chose, but I'm making the best of what I've been given.</text>
+		<text bitflag="1360" id1="700310" id2="17" version="1065353216">I just try to get by.</text>
+		<text bitflag="1345" id1="700311" id2="17" version="1065353216">People like us need to work harder to overcome our natural disadvantages.</text>
+		<text bitflag="1360" id1="700311" id2="17" version="1065353216">It's not as bad as you think.</text>
+		<text bitflag="1345" id1="700312" id2="17" version="1065353216">What? Do you actually believe that you're inferior to humans?</text>
+		<text bitflag="1345" id1="700314" id2="17" version="1065353216">The original Sith weren't human. Their whole attitude toward aliens is built on a lie, so they can control you.</text>
+		<text bitflag="1345" id1="700316" id2="17" version="1065353216">You shouldn't have to compromise who you are. You don't have to stay, you know. You could go to the Republic.</text>
+		<text bitflag="1345" id1="700317" id2="17" version="1065353216">I thought Jedi knew all about sacrifice.</text>
+		<text bitflag="1360" id1="700317" id2="17" version="1065353216">Don't Jedi compromise?</text>
+		<text bitflag="1345" id1="700318" id2="17" version="1065353216">We sacrifice our emotions and our fears, but not our identities.</text>
+		<text bitflag="1345" id1="700319" id2="17" version="1065353216">Jedi have too many rules. The Sith may hate me, but at least I can do what I want.</text>
+		<text bitflag="1360" id1="700319" id2="17" version="1065353216">No, thank you.</text>
+		<text bitflag="1345" id1="700320" id2="17" version="1065353216">Might be more freeing than you think. Sure there are rules, but it beats looking over your shoulder every five seconds.</text>
+		<text bitflag="1345" id1="700321" id2="17" version="1065353216">I can do far more good among the Sith than I can as a Jedi.</text>
+		<text bitflag="1360" id1="700321" id2="17" version="1065353216">The Sith need good people too.</text>
+		<text bitflag="1345" id1="700322" id2="17" version="1065353216">I want to believe that. It just seems like the deck is stacked against us.</text>
+		<text bitflag="1345" id1="700324" id2="17" version="1065353216">They hate aliens so much. I'm worried they can only fear you, never respect you.</text>
+		<text bitflag="1345" id1="700325" id2="17" version="1065353216">It's hard to see good in an empire that thinks of non-humans as nothing more than slaves.</text>
+		<text bitflag="1345" id1="700326" id2="17" version="1065353216">They let some aliens become Sith.</text>
+		<text bitflag="1360" id1="700326" id2="17" version="1065353216">It's not that bad.</text>
+		<text bitflag="1345" id1="700327" id2="17" version="1065353216">Grudgingly, from what I've seen.</text>
+		<text bitflag="1345" id1="700329" id2="17" version="1065353216">The Empire is a meritocracy. Those that can, rise to the top. The inferior fall behind.</text>
+		<text bitflag="1360" id1="700329" id2="17" version="1065353216">Everyone gets their chance.</text>
+		<text bitflag="1345" id1="700330" id2="17" version="1065353216">It doesn't sound as if merit has anything to do with it.</text>
+		<text bitflag="1345" id1="700332" id2="17" version="1065353216">The Empire's intolerance is one of its greatest weaknesses, even as the Republic's unquestioning acceptance makes it bloated and inefficient.</text>
+		<text bitflag="1360" id1="700332" id2="17" version="1065353216">It's hard to stomach.</text>
+		<text bitflag="1345" id1="700333" id2="17" version="1065353216">I suppose no civilization is perfect.</text>
+		<text bitflag="1345" id1="700335" id2="17" version="1065353216">I just wonder--the original Sith weren't human. It's a contradiction.</text>
+		<text bitflag="1345" id1="700336" id2="17" version="1065353216">Contrary to what the Jedi teach, the world is not all light and dark. There are many shades and many contradictions.</text>
+		<text bitflag="1360" id1="700336" id2="17" version="1065353216">That's the way the world is.</text>
+		<text bitflag="1345" id1="700337" id2="17" version="1065353216">I'm beginning to see that, but I'm not sure I like it.</text>
+		<text bitflag="1345" id1="700338" id2="17" version="1065353216">One look in the mirror and you'd understand.</text>
+		<text bitflag="1360" id1="700338" id2="17" version="1065353216">But aliens are ugly.</text>
+		<text bitflag="1345" id1="700339" id2="17" version="1065353216">You don't believe that--you just couldn't resist a cheap joke. Jedi aren't supposed to be vain, but I think I'm pretty enough.</text>
+		<text bitflag="1345" id1="700340" id2="17" version="1065353216">I do not share the Empire's species-preference, but I am not in any place to change it, yet.</text>
+		<text bitflag="1360" id1="700340" id2="17" version="1065353216">There's nothing I can do.</text>
+		<text bitflag="1345" id1="700341" id2="17" version="1065353216">Yet. But that's what we're working towards, right. Maybe not a good Empire, but a reasonable one.</text>
+		<text bitflag="1345" id1="700345" id2="17" version="1065353216">Can we go back to the ship and talk? When you're ready, I mean.</text>
+		<text bitflag="1345" id1="700346" id2="17" version="1065353216">When you have time, I'd like to talk to you.</text>
+		<text bitflag="1345" id1="700347" id2="17" version="1065353216">There really isn't much to talk about right now.</text>
+		<text bitflag="1345" id1="988450" id2="17" version="1065353216">Yes, my lord.</text>
+		<text bitflag="1345" id1="988451" id2="17" version="1065353216">I don't really have a choice, do I?</text>
+		<text bitflag="1345" id1="988452" id2="17" version="1065353216">What happens now?</text>
+		<text bitflag="1345" id1="988453" id2="17" version="1065353216">I'll be very careful, I promise.</text>
+		<text bitflag="1345" id1="988454" id2="17" version="1065353216">As you say, my lord.</text>
+		<text bitflag="1345" id1="988455" id2="17" version="1065353216">My lord, where do we go now?</text>
+		<text bitflag="1345" id1="988456" id2="17" version="1065353216">I follow you, my lord.</text>
+		<text bitflag="1345" id1="988457" id2="17" version="1065353216">I'm ready, master.</text>
+		<text bitflag="1345" id1="988458" id2="17" version="1065353216">Yes, of course.</text>
+		<text bitflag="1345" id1="988459" id2="17" version="1065353216">My lightsaber is ready, should you have need.</text>
+	</file_content>
+</stb_file>

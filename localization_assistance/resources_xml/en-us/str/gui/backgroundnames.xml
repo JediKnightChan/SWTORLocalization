@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/gui/backgroundnames.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="50" id2="194645" version="1065353216">Human</text>
+		<text bitflag="321" id1="51" id2="194645" version="1065353216">Zabrak</text>
+		<text bitflag="321" id1="52" id2="194645" version="1065353216">Cyborg</text>
+		<text bitflag="321" id1="53" id2="194645" version="1065353216">Sith</text>
+		<text bitflag="321" id1="54" id2="194645" version="1065353216">Twi'lek</text>
+		<text bitflag="321" id1="55" id2="194645" version="1065353216">Rattataki</text>
+		<text bitflag="321" id1="56" id2="194645" version="1065353216">Chiss</text>
+		<text bitflag="321" id1="57" id2="194645" version="1065353216">Mirialan</text>
+		<text bitflag="321" id1="58" id2="194645" version="1065353216">Miraluka</text>
+		<text bitflag="321" id1="257" id2="194645" version="1065353216">Cathar</text>
+		<text bitflag="321" id1="258" id2="194645" version="1065353216">Togruta</text>
+	</file_content>
+</stb_file>

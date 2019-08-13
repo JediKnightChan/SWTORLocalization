@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>132</strs>
+		<file_name>/resources/en-us/str/gui/misc.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194667" version="1065353216">New discovery: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="2" id2="194667" version="1065353216">Empire</text>
+		<text bitflag="321" id1="3" id2="194667" version="1065353216">Sith</text>
+		<text bitflag="321" id1="4" id2="194667" version="1065353216">Republic</text>
+		<text bitflag="321" id1="5" id2="194667" version="1065353216">Jedi</text>
+		<text bitflag="321" id1="6" id2="194667" version="1065353216">WEAK</text>
+		<text bitflag="321" id1="7" id2="194667" version="1065353216">STANDARD</text>
+		<text bitflag="321" id1="8" id2="194667" version="1065353216">STRONG</text>
+		<text bitflag="321" id1="9" id2="194667" version="1065353216">ELITE</text>
+		<text bitflag="321" id1="10" id2="194667" version="1065353216">BOSS</text>
+		<text bitflag="321" id1="11" id2="194667" version="1065353216">Unidentified &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="12" id2="194667" version="1065353216">You are not allowed in this phase at this time.</text>
+		<text bitflag="321" id1="13" id2="194667" version="1065353216">Your class is not eligible for this phase.</text>
+		<text bitflag="321" id1="14" id2="194667" version="1065353216">You have unlocked a new companion: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="15" id2="194667" version="1065353216">You cannot equip this item.</text>
+		<text bitflag="321" id1="16" id2="194667" version="1065353216">OPERATIONS BOSS</text>
+		<text bitflag="321" id1="17" id2="194667" version="1065353216">Your &lt;&lt;1&gt;&gt; is now broken.</text>
+		<text bitflag="321" id1="18" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; broken.</text>
+		<text bitflag="321" id1="100" id2="194667" version="1065353216">ÀÁÂÃÄÅÆ</text>
+		<text bitflag="321" id1="101" id2="194667" version="1065353216">ß</text>
+		<text bitflag="321" id1="102" id2="194667" version="1065353216">Ç</text>
+		<text bitflag="321" id1="103" id2="194667" version="1065353216">ÈÉÊË</text>
+		<text bitflag="321" id1="104" id2="194667" version="1065353216">ÌÍÎÏ</text>
+		<text bitflag="321" id1="105" id2="194667" version="1065353216">Ñ</text>
+		<text bitflag="321" id1="106" id2="194667" version="1065353216">ÒÓÔÕÖØ</text>
+		<text bitflag="321" id1="107" id2="194667" version="1065353216">ÙÚÛÜ</text>
+		<text bitflag="321" id1="108" id2="194667" version="1065353216">Ý</text>
+		<text bitflag="321" id1="109" id2="194667" version="1065353216">àáâãäåæ</text>
+		<text bitflag="321" id1="110" id2="194667" version="1065353216">ç</text>
+		<text bitflag="321" id1="111" id2="194667" version="1065353216">èéêë</text>
+		<text bitflag="321" id1="112" id2="194667" version="1065353216">ìíîï</text>
+		<text bitflag="321" id1="113" id2="194667" version="1065353216">ñ</text>
+		<text bitflag="321" id1="114" id2="194667" version="1065353216">òóôõöø</text>
+		<text bitflag="321" id1="115" id2="194667" version="1065353216">ùúûü</text>
+		<text bitflag="321" id1="116" id2="194667" version="1065353216">ý</text>
+		<text bitflag="321" id1="200" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt;:&lt;&lt;2&gt;&gt;:&lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="201" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt;:&lt;&lt;2&gt;&gt;:&lt;&lt;3&gt;&gt; &lt;&lt;4[AM/PM]&gt;&gt;</text>
+		<text bitflag="321" id1="202" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt;:&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="203" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt;:&lt;&lt;2&gt;&gt; &lt;&lt;3[AM/PM]&gt;&gt;</text>
+		<text bitflag="321" id1="204" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; hour&lt;&lt;1[/s]&gt;&gt;</text>
+		<text bitflag="321" id1="205" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; hrs</text>
+		<text bitflag="321" id1="206" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; minute&lt;&lt;1[/s]&gt;&gt;</text>
+		<text bitflag="321" id1="207" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; min</text>
+		<text bitflag="321" id1="208" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; second&lt;&lt;1[/s]&gt;&gt;</text>
+		<text bitflag="321" id1="209" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; sec</text>
+		<text bitflag="321" id1="210" id2="194667" version="1065353216">&lt;&lt;1[/$d h/$d h]&gt;&gt; &lt;&lt;2[/$d m/$d m]&gt;&gt; &lt;&lt;3[/$d s/$d s]&gt;&gt;</text>
+		<text bitflag="321" id1="250" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;/&lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="300" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; wants to revive you.&lt;br/&gt;Offer expires in &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="301" id2="194667" version="1065353216">Active in &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="1000" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="1001" id2="194667" version="1065353216">fake &lt;&lt;1&gt;&gt; fake</text>
+		<text bitflag="321" id1="1002" id2="194667" version="1065353216">&lt;&lt;Cp2:1&gt;&gt; hit &lt;&lt;A:2&gt;&gt; with &lt;&lt;o2:3&gt;&gt; for &lt;&lt;n:4[no/$d/$d]&gt;&gt; &lt;&lt;5&gt;&gt; damage.</text>
+		<text bitflag="321" id1="1003" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt;Testing color tags</text>
+		<text bitflag="321" id1="1004" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; - Testing using the r2 tag without a param &quot;&lt;&lt;2&gt;&gt;&quot; &quot;&lt;&lt;r2:1&gt;&gt;&quot; &quot;&lt;&lt;r2:2&gt;&gt;&quot;.</text>
+		<text bitflag="321" id1="1005" id2="194667" version="1065353216">&lt;&lt;CGA:1,3&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;C:3&gt;&gt;</text>
+		<text bitflag="321" id1="1006" id2="194667" version="1065353216">%{0001}This is a color test.</text>
+		<text bitflag="321" id1="1007" id2="194667" version="1065353216">&lt;Font&gt; Single bracket test</text>
+		<text bitflag="321" id1="1008" id2="194667" version="1065353216">Test &lt;&lt;1&gt;&gt; &lt;&lt;1[units/unit/units]&gt;&gt; &lt;&lt;2&gt;&gt; &lt;&lt;2[%d units/%d unit/%d units]&gt;&gt;</text>
+		<text bitflag="321" id1="1009" id2="194667" version="1065353216">Mounts are not allowed here. You will be dismounted if you don't turn around!</text>
+		<text bitflag="321" id1="1010" id2="194667" version="1065353216">Revive Here</text>
+		<text bitflag="321" id1="1011" id2="194667" version="1065353216">Call Medical Probe</text>
+		<text bitflag="321" id1="1012" id2="194667" version="1065353216">Disabled by nearby group combat</text>
+		<text bitflag="321" id1="1013" id2="194667" version="1065353216">[ Heroic Area ]</text>
+		<text bitflag="321" id1="1014" id2="194667" version="1065353216">You have surveyed the entire map of &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="1015" id2="194667" version="1065353216">That is too far away.</text>
+		<text bitflag="321" id1="1016" id2="194667" version="1065353216">Out of range.</text>
+		<text bitflag="321" id1="1017" id2="194667" version="1065353216">You cannot reach that.</text>
+		<text bitflag="321" id1="6018" id2="194667" version="1065353216">The escape pod is unavailable at this time.</text>
+		<text bitflag="321" id1="6019" id2="194667" version="1065353216">You must be level &lt;&lt;1&gt;&gt; to use that!</text>
+		<text bitflag="321" id1="6023" id2="194667" version="1065353216">Subscribe Now</text>
+		<text bitflag="321" id1="6024" id2="194667" version="1065353216">60-Day Pre-Paid Digital Codes are also available.</text>
+		<text bitflag="321" id1="6025" id2="194667" version="1065353216">Looking for more storage?  Visit &lt;hl lid=&quot;BFBB&quot; &gt; to change from a trial account to an active account and access your Cargo Hold today!</text>
+		<text bitflag="321" id1="6026" id2="194667" version="1065353216">In order to access the Guild Bank, you must subscribe to The Old Republic™</text>
+		<text bitflag="321" id1="6027" id2="194667" version="1065353216">Need to send an in-game mail?  Visit &lt;hl lid=&quot;BFBB&quot; &gt; to transition from a trial account to an active account now and send  your email today!</text>
+		<text bitflag="321" id1="6028" id2="194667" version="1065353216">Looking to do some business on the Galactic Trade Network?  Visit &lt;hl lid=&quot;BFBB&quot; &gt; to change from a trial account to an active account and start trading today!</text>
+		<text bitflag="321" id1="6029" id2="194667" version="1065353216">In order to use the who list, you must subscribe to The Old Republic™</text>
+		<text bitflag="321" id1="6030" id2="194667" version="1065353216">This emote is restricted and accessed through either Subscription or an item unlock. Mood and Emote unlocks are often found in Packs available on the Cartel Market.</text>
+		<text bitflag="321" id1="6031" id2="194667" version="1065353216">You are gaining valor points at a reduced rate. Purchase a Boost item from the Cartel Market, or Subscribe today and increase the rate that you gain valor points!</text>
+		<text bitflag="321" id1="6032" id2="194667" version="1065353216">You are gaining experience points at a reduced rate. Purchase a Boost item from the Cartel Market, or Subscribe today and increase the rate that you gain experience points!</text>
+		<text bitflag="321" id1="6033" id2="194667" version="1065353216">Subscribe today and increase the rate you gain experience and valor points! Click here for more information on becoming a Subscriber.</text>
+		<text bitflag="321" id1="6034" id2="194667" version="1065353216">You are gaining Legacy experience slower because of experience gain reductions. Subscribe today to increase the rate you gain legacy experience!</text>
+		<text bitflag="321" id1="6035" id2="194667" version="1065353216">You are in a rested state and gain double experience points (XP). Only Subscribers collect rested experience points.</text>
+		<text bitflag="321" id1="6036" id2="194667" version="1065353216">Unlock additional quickbars!</text>
+		<text bitflag="321" id1="6037" id2="194667" version="1065353216">Close</text>
+		<text bitflag="321" id1="6038" id2="194667" version="1065353216">Only Subscribers can use Credits for this purchase.</text>
+		<text bitflag="321" id1="6040" id2="194667" version="1065353216">Purchase Additional Probes</text>
+		<text bitflag="321" id1="6041" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;1[Probes/Probe/Probes]&gt;&gt; Remaining</text>
+		<text bitflag="321" id1="6042" id2="194667" version="1065353216">Click to purchase additional Medical Probes.</text>
+		<text bitflag="321" id1="6043" id2="194667" version="1065353216">You are currently allowed access to &lt;&lt;1&gt;&gt; of your Crew Skills. Please choose &lt;&lt;1&gt;&gt; of your Crew Skills to keep active.
+You will not lose any learned schematics unless you manually remove a Crew Skill.</text>
+		<text bitflag="321" id1="6044" id2="194667" version="1065353216">Please select exactly &lt;&lt;1&gt;&gt; to keep active.</text>
+		<text bitflag="321" id1="6045" id2="194667" version="1065353216">Crew Skills</text>
+		<text bitflag="321" id1="6046" id2="194667" version="1065353216">Confirm</text>
+		<text bitflag="321" id1="6047" id2="194667" version="1065353216">Choose Later</text>
+		<text bitflag="321" id1="6048" id2="194667" version="1065353216">Subscribers have 3 active Crew Skill slots. Click here to to unlock additional Crew Skill slots using Cartel Coins.</text>
+		<text bitflag="321" id1="6049" id2="194667" version="1065353216">The Cartel Market is currently unavailable.</text>
+		<text bitflag="321" id1="6050" id2="194667" version="1065353216">Unlock was successful!</text>
+		<text bitflag="321" id1="6052" id2="194667" version="1065353216">Unlimited until level &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="6053" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt; m)</text>
+		<text bitflag="321" id1="6054" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt; km)</text>
+		<text bitflag="321" id1="6055" id2="194667" version="1065353216">Appearance Redesign was successful.</text>
+		<text bitflag="321" id1="6056" id2="194667" version="1065353216">You already have an appearance design request pending and are unable to submit another one.</text>
+		<text bitflag="321" id1="6057" id2="194667" version="1065353216">You are too far away to use the Appearance Designer.</text>
+		<text bitflag="321" id1="6058" id2="194667" version="1065353216">You lack sufficient Cartel Coins to complete the appearance redesign.</text>
+		<text bitflag="321" id1="6059" id2="194667" version="1065353216">You lack sufficient Credits to complete this purchase in Appearance Designer.</text>
+		<text bitflag="321" id1="6060" id2="194667" version="1065353216">An error occurred while processing your appearance redesign.</text>
+		<text bitflag="321" id1="6061" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt; credits have been transferred from your Escrow into your local balance.</text>
+		<text bitflag="321" id1="6062" id2="194667" version="1065353216">Scroll forward</text>
+		<text bitflag="321" id1="6063" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt;%</text>
+		<text bitflag="321" id1="6064" id2="194667" version="1065353216">None</text>
+		<text bitflag="321" id1="6065" id2="194667" version="1065353216">Scroll Back</text>
+		<text bitflag="321" id1="6066" id2="194667" version="1065353216">m</text>
+		<text bitflag="321" id1="6067" id2="194667" version="1065353216">&lt;&lt;1&gt;&gt;:&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="6068" id2="194667" version="1065353216">You must completely download Star Wars: The Old Republic before proceeding.</text>
+		<text bitflag="321" id1="6069" id2="194667" version="1065353216">You do not yet have access to this feature. If you are Free-to-Play or a Preferred player, subscribe to Star Wars: The Old Republic to gain early access.</text>
+		<text bitflag="321" id1="6070" id2="194667" version="1065353216">ok</text>
+		<text bitflag="321" id1="6071" id2="194667" version="1065353216">subscribe</text>
+		<text bitflag="321" id1="6072" id2="194667" version="1065353216">Powerup</text>
+		<text bitflag="321" id1="6073" id2="194667" version="1065353216">No Target</text>
+		<text bitflag="321" id1="6075" id2="194667" version="1065353216">Next Page</text>
+		<text bitflag="321" id1="6076" id2="194667" version="1065353216">Previous Page</text>
+		<text bitflag="321" id1="6084" id2="194667" version="1065353216">Return to Area Start</text>
+		<text bitflag="321" id1="6085" id2="194667" version="1065353216">Revive inside the phased area.</text>
+		<text bitflag="321" id1="6086" id2="194667" version="1065353216">Disabled while boss encounter is in progress.</text>
+		<text bitflag="321" id1="6087" id2="194667" version="1065353216">Revive outside the phased area.</text>
+		<text bitflag="321" id1="6088" id2="194667" version="1065353216">Wave Respawn</text>
+		<text bitflag="321" id1="6089" id2="194667" version="1065353216">You will be respawned in &lt;&lt;1&gt;&gt; seconds.</text>
+		<text bitflag="321" id1="6090" id2="194667" version="1065353216">CONTESTED</text>
+		<text bitflag="321" id1="6091" id2="194667" version="1065353216">ZAKUUL</text>
+		<text bitflag="321" id1="6092" id2="194667" version="1065353216">REPUBLIC</text>
+		<text bitflag="321" id1="6093" id2="194667" version="1065353216">SITH EMPIRE</text>
+		<text bitflag="321" id1="6094" id2="194667" version="1065353216">Remote Observation Droid out of range. Disconnecting...</text>
+		<text bitflag="321" id1="6095" id2="194667" version="1065353216">Unusable while in a disguise.</text>
+	</file_content>
+</stb_file>

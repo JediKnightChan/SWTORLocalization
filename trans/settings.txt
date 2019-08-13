@@ -1,0 +1,956 @@
+
+
+###   Fonts
+/resources/gfx/fonts/swtor_fonts.gfx = fonts.gfx
+
+
+###   System
+/resources/en-us/str/sys/pvp.stb = sys_pvp.stb
+/resources/en-us/str/sys/titles.stb = titles_trans.stb
+/resources/en-us/str/sys/codexcategories.stb = codexcategories_trans.stb
+/resources/en-us/str/sys/contactcategories.stb = contactcategories.stb
+/resources/en-us/str/sys/factions.stb = factions_trans.stb
+/resources/en-us/str/sys/groupfinder.stb = sys_groupfinder.stb
+/resources/en-us/str/sys/tips.stb = tips_trans.stb
+
+###   Player Character
+
+
+/resources/en-us/str/pc/title.stb = title.stb
+/resources/en-us/str/pc/titles/prefix.stb = prefix_trans.stb
+
+
+###   Interface
+/resources/en-us/str/gui/abl/player/skill_trees.stb = skill_trees.stb
+
+/resources/en-us/str/gui/abilities.stb = abilities.stb
+/resources/en-us/str/gui/abilitypanel.stb = abilitypanel.stb
+/resources/en-us/str/gui/achievementcategories.stb = achievementcategories.stb
+/resources/en-us/str/gui/achievementwindow.stb = achievementwindow.stb
+/resources/en-us/str/gui/activities.stb = activities.stb
+/resources/en-us/str/gui/advanceddescriptions.stb = advanceddescriptions.stb
+/resources/en-us/str/gui/advancednames.stb = advancednames.stb
+/resources/en-us/str/gui/alignment.stb = alignment.stb
+/resources/en-us/str/gui/alliance.stb = alliance.stb
+/resources/en-us/str/gui/arenascorecard.stb = arenascorecard.stb
+/resources/en-us/str/gui/auctionhouse.stb = auctionhouse.stb
+/resources/en-us/str/gui/backgrounddescriptions.stb = backgrounddescriptions.stb
+/resources/en-us/str/gui/backgroundnames.stb = backgroundnames.stb
+/resources/en-us/str/gui/badges.stb = badges.stb
+/resources/en-us/str/gui/bank.stb = bank.stb
+/resources/en-us/str/gui/bug.stb = bug.stb
+/resources/en-us/str/gui/charactercreate.stb = charactercreate.stb
+/resources/en-us/str/gui/characterselect.stb = characterselect.stb
+/resources/en-us/str/gui/charactersheet.stb = charactersheet.stb
+/resources/en-us/str/gui/charcreateabilitiestitle.stb = charcreateabilitiestitle.stb
+/resources/en-us/str/gui/charcreateadvance.stb = charcreateadvance.stb
+/resources/en-us/str/gui/charcreatecombatroletitle.stb = charcreatecombatroletitle.stb
+/resources/en-us/str/gui/chat.stb = chat.stb
+/resources/en-us/str/gui/classdescriptions.stb = classdescriptions.stb
+/resources/en-us/str/gui/classnames.stb = classnames.stb
+/resources/en-us/str/gui/collection.stb = collection.stb
+/resources/en-us/str/gui/collections.stb = collections.stb
+/resources/en-us/str/gui/companion.stb = companion.stb
+/resources/en-us/str/gui/companiongallery.stb = companiongallery.stb
+/resources/en-us/str/gui/companiongifttypes.stb = companiongifttypes.stb
+/resources/en-us/str/gui/companionmissions.stb = companionmissions.stb
+/resources/en-us/str/gui/container.stb = container.stb
+/resources/en-us/str/gui/contextmenu.stb = contextmenu.stb
+/resources/en-us/str/gui/conversation.stb = conversation.stb
+/resources/en-us/str/gui/conversationforceescapedialog.stb = conversationforceescapedialog.stb
+/resources/en-us/str/gui/conversationgui.stb = conversationgui.stb
+/resources/en-us/str/gui/conversationreactions.stb = conversationreactions.stb
+/resources/en-us/str/gui/conversionscreen.stb = conversionscreen.stb
+/resources/en-us/str/gui/crafting.stb = crafting.stb
+/resources/en-us/str/gui/craftingtrainer.stb = craftingtrainer.stb
+/resources/en-us/str/gui/crewskills.stb = crewskills.stb
+/resources/en-us/str/gui/customersupport.stb = customersupport.stb
+/resources/en-us/str/gui/death.stb = death.stb
+/resources/en-us/str/gui/dialog.stb = dialog.stb
+/resources/en-us/str/gui/disciplines.stb = disciplines.stb
+/resources/en-us/str/gui/disciplinewindow.stb = disciplinewindow.stb
+/resources/en-us/str/gui/dressingroom.stb = dressingroom.stb
+/resources/en-us/str/gui/dueling.stb = dueling.stb
+/resources/en-us/str/gui/effect.stb = effect.stb
+/resources/en-us/str/gui/effectresults.stb = effectresults.stb
+/resources/en-us/str/gui/elev_dest_names.stb = elev_dest_names.stb
+/resources/en-us/str/gui/elevator.stb = elevator.stb
+/resources/en-us/str/gui/energybar.stb = energybar.stb
+/resources/en-us/str/gui/entitlements.stb = entitlements.stb
+/resources/en-us/str/gui/equipslot.stb = equipslot.stb
+/resources/en-us/str/gui/experiencebar.stb = experiencebar.stb
+/resources/en-us/str/gui/facialreconstruction.stb = facialreconstruction.stb
+/resources/en-us/str/gui/flashpoint.stb = flashpoint.stb
+/resources/en-us/str/gui/flytext.stb = flytext.stb
+/resources/en-us/str/gui/galacticcommand.stb = galacticcommand.stb
+/resources/en-us/str/gui/gameoptions.stb = gameoptions.stb
+/resources/en-us/str/gui/gift.stb = gift.stb
+/resources/en-us/str/gui/group.stb = group.stb
+/resources/en-us/str/gui/groupfinder.stb = gui_groupfinder.stb
+/resources/en-us/str/gui/grouplootrules.stb = grouplootrules.stb
+/resources/en-us/str/gui/guild.stb = guild.stb
+/resources/en-us/str/gui/guildbank.stb = guildbank.stb
+/resources/en-us/str/gui/guildwindow.stb = guildwindow.stb
+/resources/en-us/str/gui/helptips.stb = helptips.stb
+/resources/en-us/str/gui/hyperlinks.stb = hyperlinks.stb
+/resources/en-us/str/gui/instance.stb = instance.stb
+/resources/en-us/str/gui/inventory.stb = inventory.stb
+/resources/en-us/str/gui/itemenhancement.stb = itemenhancement.stb
+/resources/en-us/str/gui/items.stb = items.stb
+/resources/en-us/str/gui/legacy.stb = legacy.stb
+/resources/en-us/str/gui/lockoutwindow.stb = lockoutwindow.stb
+/resources/en-us/str/gui/loot.stb = loot.stb
+/resources/en-us/str/gui/map.stb = map.stb
+/resources/en-us/str/gui/mail.stb = mail.stb
+/resources/en-us/str/gui/misc.stb = misc.stb
+/resources/en-us/str/gui/missionboad.stb = missionboard.stb
+/resources/en-us/str/gui/missionlog.stb = missionlog.stb
+/resources/en-us/str/gui/missionreward.stb = missionreward.stb
+/resources/en-us/str/gui/partybar.stb = partybar.stb
+/resources/en-us/str/pcs.stb = pcs_trans.stb
+/resources/en-us/str/gui/planetaryconquest.stb = planetaryconquest.stb
+/resources/en-us/str/gui/portraitbar.stb = portraitbar.stb
+/resources/en-us/str/gui/profession.stb = profession.stb
+/resources/en-us/str/gui/pvp.stb = pvp.stb
+/resources/en-us/str/gui/quest.stb = quest.stb
+/resources/en-us/str/gui/questcategories.stb = questcategories.stb
+/resources/en-us/str/gui/queue.stb = queue.stb
+/resources/en-us/str/gui/quickslots.stb = quickslots.stb
+/resources/en-us/str/gui/raid.stb = raid.stb
+/resources/en-us/str/gui/sc_ships.stb = sc_ships.stb
+/resources/en-us/str/gui/scoreboard.stb = scoreboard.stb
+/resources/en-us/str/gui/scoreboardbadges.stb = scoreboardbadges.stb
+/resources/en-us/str/gui/scorecard.stb = scorecard.stb
+/resources/en-us/str/gui/securetrade.stb = securetrade.stb
+/resources/en-us/str/gui/selinescorecard.stb = selinescorecard.stb
+/resources/en-us/str/gui/shardselect.stb = shardselect.stb
+/resources/en-us/str/gui/sharemission.stb = sharemission.stb
+/resources/en-us/str/gui/shipscorecard.stb = shipscorecard.stb
+/resources/en-us/str/gui/skilltree.stb = skilltree.stb
+/resources/en-us/str/gui/spacecombat.stb = spacecombat.stb
+/resources/en-us/str/gui/spacecombat_items.stb = spacecombat_items.stb
+/resources/en-us/str/gui/splitstack.stb = splitstack.stb
+/resources/en-us/str/gui/stats.stb = stats.stb
+/resources/en-us/str/gui/system.stb = system_trans.stb
+/resources/en-us/str/gui/targetbar.stb = targetbar.stb
+/resources/en-us/str/gui/tooltips.stb = tooltips.stb
+/resources/en-us/str/gui/taxi.stb = taxi.stb
+/resources/en-us/str/gui/trade.stb = trade.stb
+/resources/en-us/str/gui/trainer.stb = trainer.stb
+/resources/en-us/str/gui/tutorials.stb = tu.stb
+/resources/en-us/str/gui/vendor.stb = vendor.stb
+/resources/en-us/str/gui/wardrobe.stb = wardrobe.stb
+/resources/en-us/str/gui/warzonejoin.stb = warzonejoin.stb
+/resources/en-us/str/gui/wholist.stb = wholist.stb
+
+
+### Storylines
+
+
+
+##  Jedi Knight
+
+# Chapter 1
+
+##  New Intelligence
+
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/new_intelligence/agent_ottau.stb = jk_1_ni_agent_ottau.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/new_intelligence/inquisitor_ferav.stb = jk_1_ni_inquisitor_ferav.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/new_intelligence/kira_carsen.stb = jk_1_ni_kira_carsen.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/new_intelligence/lieutenant_marcovic.stb = jk_1_ni_lieutenant_marcovic.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/new_intelligence/t7_o1.stb = jk_1_ni_t7_o1.stb
+
+##  Defector
+
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/the_defector/kira_carsen.stb = jk_1_def_kira_carsen.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/the_defector/master_satele_shan.stb = jk_1_def_master_satele_shan.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/the_defector/valis.stb = jk_1_def_valis.stb
+
+##  Uphrades
+
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/uphrades/captain_dal.stb = jk_1_uph_captain_dal.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/uphrades/doctor_senessa.stb = jk_1_uph_doctor_senessa.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/uphrades/kira_carsen.stb = jk_1_uph_kira_carsen.stb
+
+##  Fate of the Jedi
+
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/fate_of_the_jedi/darth_angral.stb = jk_1_fate_darth_angral.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/fate_of_the_jedi/kira_carsen.stb = jk_1_fate_kira_carsen.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/chapter_1/fate_of_the_jedi/master_satele_shan.stb = jk_1_fate_master_satele_shan.stb
+
+## Multi
+
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/multi/bengel_morr.stb = jk_multi_bengel_morr.stb
+/resources/en-us/str/cnv/location/open_worlds/class/jedi_knight/multi/general_var_suthra.stb = jk_multi_general_var_suthra.stb
+
+# Tython
+
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/a4po.stb = a4po_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/bengel_morr.stb = bengel_morr_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/benor_unaw.stb = benor_unaw_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/callef.stb = callef_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/derrin_weller.stb = derrin_weller_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/energy_shield_control_console.stb = energy_shield_control_console_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/eseni.stb = eseni_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/flesh_raider_leader.stb = flesh_raider_leader_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/flesh_raider_strongbox.stb = flesh_raider_strongbox_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/flesh_raider_tech_cache.stb = flesh_raider_tech_cache_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/kira_carsen.stb = kira_carsen_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/laotah.stb = laotah_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/master_bela_kiwiiks.stb = master_bela_kiwiiks_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/master_orgus_din.stb = master_orgus_din_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/master_satele_shan.stb = master_satele_shan_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/matriarch_sumari.stb = matriarch_sumari_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/ranna_taoven.stb = ranna_taoven_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/saylew.stb = saylew_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/scout_chief_moorint.stb = scout_chief_moorint_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/t7.stb = t7_trans.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/the_great_forge.stb = the_great_forge_trans.stb
+
+# Coruscant
+
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/agent_galen.stb = jk_cor_agent_galen.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/computer_console.stb = jk_cor_computer_console.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/darth_angral.stb = jk_cor_darth_angral.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/doctor_tarnis.stb = jk_cor_doctor_tarnis.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/general_var_suthra.stb = jk_cor_general_var_suthra.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/kira_carsen.stb = jk_cor_kira_carsen.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/master_bela_kiwiiks.stb = jk_cor_master_bela_kiwiiks.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/master_orgus_din.stb = jk_cor_master_orgus_din.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/salarr.stb = jk_cor_salarr.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/sergeant_nidaljo.stb = jk_cor_sergeant_nidaljo.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/ship_holoterminal.stb = jk_cor_ship_holoterminal.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/sith_tarnis.stb = jk_cor_sith_tarnis.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/t7.stb = jk_cor_t7.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/technician_jonkan.stb = jk_cor_technician_jonkan.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/vistis.stb = jk_cor_vistis.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/zeer.stb = jk_cor_zeer.stb
+
+# Taris
+
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/agent_fau_kes.stb = jk_tar_agent_fau_kes.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/captain_dugge.stb = jk_tar_captain_dugge.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/dr_godera.stb = jk_tar_dr_godera.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/general_var_suthra.stb = jk_tar_general_var_suthra.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/imposter.stb = jk_tar_imposter.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/jedi_covenant_artifacts.stb = jk_tar_jedi_covenant_artifacts.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/kulaa.stb = jk_tar_kulaa.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/materrus.stb = jk_tar_materrus.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/re_m0.stb = jk_tar_re_m0.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/rora_seake.stb = jk_tar_rora_seake.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/watcherone.stb = jk_tar_watcherone.stb
+/resources/en-us/str/cnv/location/taris/class/jedi_knight/yelzrin.stb = jk_tar_yelzrin.stb
+
+# Nar Shaddaa
+
+/resources/en-us/str/cnv/location/nar_shaddaa/class/jedi_knight/agent_galen.stb = jk_nar_agent_galen.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/jedi_knight/chief_rieekan.stb = jk_nar_chief_rieekan.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/jedi_knight/commander_graul.stb = jk_nar_commander_graul.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/jedi_knight/general_var_suthra.stb = jk_nar_general_var_suthra.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/jedi_knight/lord_sadic.stb = jk_nar_lord_sadic.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/jedi_knight/special_agent_tander.stb = jk_nar_special_agent_tander.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/jedi_knight/vell_narroc.stb = jk_nar_vell_narroc.stb
+
+# Tatooine
+
+/resources/en-us/str/cnv/location/tatooine/class/jedi_knight/brrik.stb = jk_tat_brrik.stb
+/resources/en-us/str/cnv/location/tatooine/class/jedi_knight/general_var_suthra.stb = jk_tat_general_var_suthra.stb
+/resources/en-us/str/cnv/location/tatooine/class/jedi_knight/jawa.stb = jk_tat_jawa.stb
+/resources/en-us/str/cnv/location/tatooine/class/jedi_knight/kira_carsen.stb = jk_tat_kira_carsen.stb
+/resources/en-us/str/cnv/location/tatooine/class/jedi_knight/lord_praven.stb = jk_tat_lord_praven.stb
+/resources/en-us/str/cnv/location/tatooine/class/jedi_knight/master_kiwiiks.stb = jk_tat_master_kiwiiks.stb
+/resources/en-us/str/cnv/location/tatooine/class/jedi_knight/seismologist_hareen.stb = jk_tat_seismologist_hareen.stb
+/resources/en-us/str/cnv/location/tatooine/class/jedi_knight/t7_o1.stb = jk_tat_t7_o1.stb
+
+# Alderaan
+
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/aleyna_hark.stb = jk_ald_aleyna_hark.stb
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/count_alde.stb = jk_ald_count_alde.stb
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/doctor_parvux.stb = jk_ald_doctor_parvux.stb
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/general_var_suthra.stb = jk_ald_general_var_suthra.stb
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/guard_captain_yils.stb = jk_ald_guard_captain_yils.stb
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/horis_thul.stb = jk_ald_horis_thul.stb
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/lord_nefarid.stb = jk_ald_lord_nefarid.stb
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/lord_nefarids_holoterminal.stb = jk_ald_lord_nefarids_holoterminal.stb
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/master_orgus_din.stb = jk_ald_master_orgus_din.stb
+/resources/en-us/str/cnv/location/alderaan/class/jedi_knight/wynne_organa.stb = jk_ald_wynne_organa.stb
+
+
+##  Jedi Consular
+
+# Tython
+
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/ancient_droid.stb = ancient_droid.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/bashenn.stb = bashenn.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/cahel_tse.stb = cahel_tse.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/cala_brin.stb = cala_brin.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/garon_jard.stb = garon_jard.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/guardian.stb = guardian.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/hidden_niche.stb = hidden_niche.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/hologram_base.stb = hologram_base.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/master_rajivari.stb = master_rajivari.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/master_syo_bakarn.stb = master_syo_bakarn.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/master_yuon_par.stb = master_yuon_par.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/nalen_raloch.stb = nalen_raloch.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/orth_quane.stb = orth_quane.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/pile_of_bones.stb = pile_of_bones.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/qyzen_fess.stb = qyzen_fess.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/stone_carving.stb = stone_carving.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/ters_sendon.stb = ters_sendon.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/the_forge.stb = the_forge.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/vadria_tallion.stb = vadria_tallion.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/vanel.stb = vanel.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_consular_new/wounded_twilek.stb = wounded_twilek.stb
+
+# Coruscant
+
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/alec_efran.stb = jc_cor_alec_efran.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/ancient_terminal.stb = jc_cor_ancient_terminal.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/attros_finn.stb = jc_cor_attros_finn.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/aulus_gluun.stb = jc_cor_aulus_gluun.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/curt_willham.stb = jc_cor_curt_willham.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/holocron_trap.stb = jc_cor_holocron_trap.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/hunter_qyzen_fess.stb = jc_cor_hunter_qyzen_fess.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/lars_baddeg.stb = jc_cor_lars_baddeg.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/noetikon_of_light.stb = jc_cor_noetikon_of_light.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/noetikon_of_science.stb = jc_cor_noetikon_of_science.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/noetikon_of_secrets.stb = jc_cor_noetikon_of_secrets.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/ship_holoterminal.stb = jc_cor_ship_holoterminal.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/signal_device.stb = jc_cor_signal_device.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/syo_bakarn.stb = jc_cor_syo_bakarn.stb
+/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/yuon_par.stb = jc_cor_yuon_par.stb
+
+
+## Trooper
+
+
+# Ord Mantell
+
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/commander_tavus.stb = tr_ord_commander_tavus.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/dalern.stb = tr_ord_dalern.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/ensign_farn.stb = tr_ord_ensign_farn.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/fuse.stb = tr_ord_fuse.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/gearbox.stb = tr_ord_gearbox.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/general_vander.stb = tr_ord_general_vander.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/jaller.stb = tr_ord_jaller.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/lieutenant_virk.stb = tr_ord_lieutenant_virk.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/lin.stb = tr_ord_lin.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/mirru.stb = tr_ord_mirru.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/needles.stb = tr_ord_needles.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/republic_technician.stb = tr_ord_republic_technician.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/separatist_commander_saphrro.stb = tr_ord_separatist_commander_saphrro.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/separatist_commander_vyru.stb = tr_ord_separatist_commander_vyru.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/separatist_leader.stb = tr_ord_separatist_leader.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/separatist_officer.stb = tr_ord_separatist_officer.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/sgt_jaynes.stb = tr_ord_sgt_jaynes.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/wraith.stb = tr_ord_wraith.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/trooper/zak.stb = tr_ord_zak.stb
+
+##  Smuggler
+
+# Ord Mantell
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/corso_riggs.stb = sm_ord_corso_riggs.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/dareg.stb = sm_ord_dareg.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/gorry.stb = sm_ord_gorry.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/loonda.stb = sm_ord_loonda.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/morant.stb = sm_ord_morant.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/reki.stb = sm_ord_reki.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/rekischematics.stb = sm_ord_rekischematics.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/skavak.stb = sm_ord_skavak.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/syreena.stb = sm_ord_syreena.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/trymbo.stb = sm_ord_trymbo.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/viidu.stb = sm_ord_viidu.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/xoru.stb = sm_ord_xoru.stb
+
+##  Sith Warrior
+
+
+# Korriban
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/brehg.stb = brehg.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/darth_baras.stb = darth_baras.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/devotek.stb = devotek.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/dolgis.stb = dolgis.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/elizhis.stb = elizhis.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/eskella.stb = eskella.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/jailer_knash.stb = jailer_knash.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/klemral.stb = klemral.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/overseer_tremel2.stb = overseer_tremel.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/phyne.stb = phyne.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/solentz.stb = solentz.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/teeno.stb = teeno.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/vemrin2.stb = vemrin2.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_warrior/vette.stb = vette.stb
+
+
+##  Sith Inquisitor
+
+
+# Korriban
+
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/acolyte_alif.stb = si_kor_acolyte_alif.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/balek.stb = si_kor_balek.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/dashade.stb = si_kor_dashade.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/harkun_assistant.stb = si_kor_harkun_assistant.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/holocron.stb = si_kor_holocron.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/inquistor_zyn.stb = si_kor_inquistor_zyn.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/lord_zash.stb = si_kor_lord_zash.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/ortosin.stb = si_kor_ortosin.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/overseer_harkun.stb = si_kor_overseer_harkun.stb
+/resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/spindrall.stb = si_kor_spindrall.stb
+
+# Dromund Kaas
+
+/resources/en-us/str/cnv/location/dromund_kaas/class/sith_sorcerer/darth_kallig.stb = si_dk_darth_kallig.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/sith_sorcerer/darth_skotia.stb = si_dk_darth_skotia.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/sith_sorcerer/dorotsech.stb = si_dk_dorotsech.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/sith_sorcerer/goss.stb = si_dk_goss.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/sith_sorcerer/lord_kirnon.stb = si_dk_lord_kirnon.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/sith_sorcerer/lord_zash.stb = si_dk_lord_zash.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/sith_sorcerer/reyzek.stb = si_dk_reyzek.stb
+
+# Balmorra
+
+/resources/en-us/str/cnv/location/balmorra/class/sith_sorcerer/captain_ilun.stb = si_bal_captain_ilun.stb
+/resources/en-us/str/cnv/location/balmorra/class/sith_sorcerer/datapad.stb = si_bal_datapad.stb
+/resources/en-us/str/cnv/location/balmorra/class/sith_sorcerer/hiran.stb = si_bal_hiran.stb
+/resources/en-us/str/cnv/location/balmorra/class/sith_sorcerer/iannos_tyrek.stb = si_bal_iannos_tyrek.stb
+/resources/en-us/str/cnv/location/balmorra/class/sith_sorcerer/lord_zash.stb = si_bal_lord_zash.stb
+/resources/en-us/str/cnv/location/balmorra/class/sith_sorcerer/major_bessiker.stb = si_bal_major_bessiker.stb
+/resources/en-us/str/cnv/location/balmorra/class/sith_sorcerer/major_ilun.stb = si_bal_major_ilun.stb
+
+# Nar Shaddaa
+
+/resources/en-us/str/cnv/location/nar_shaddaa/class/sith_sorcerer/cultist.stb = si_nar_cultist.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/sith_sorcerer/destris_veran.stb = si_nar_destris_veran.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/sith_sorcerer/gar_nok.stb = si_nar_gar_nok.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/sith_sorcerer/gord_madel.stb = si_nar_gord_madel.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/sith_sorcerer/lord_paladius.stb = si_nar_lord_paladius.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/sith_sorcerer/lord_zash.stb = si_nar_lord_zash.stb
+/resources/en-us/str/cnv/location/nar_shaddaa/class/sith_sorcerer/rylee_dray.stb = si_nar_rylee_dray.stb
+
+# Tatooine
+
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/andronikos_revel.stb = si_ta_andronikos_revel.stb
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/casey_rix.stb = si_ta_casey_rix.stb
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/data_1.stb = si_ta_data_1.stb
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/data_2.stb = si_ta_data_2.stb
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/data_3.stb = si_ta_data_3.stb
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/elin.stb = si_ta_elin.stb
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/kavan_aip.stb = si_ta_kavan_aip.stb
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/lord_zash.stb = si_ta_lord_zash.stb
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/regg.stb = si_ta_regg.stb
+/resources/en-us/str/cnv/location/tatooine/class/sith_sorcerer/sylas_wilkes.stb = si_ta_sylas_wilkes.stb
+
+# Alderaan
+
+/resources/en-us/str/cnv/location/alderaan/class/sith_sorcerer/colonel_nyzes.stb = si_ald_colonel_nyzes.stb
+/resources/en-us/str/cnv/location/alderaan/class/sith_sorcerer/elana_thul.stb = si_ald_elana_thul.stb
+/resources/en-us/str/cnv/location/alderaan/class/sith_sorcerer/holorecording.stb = si_ald_holorecording.stb
+/resources/en-us/str/cnv/location/alderaan/class/sith_sorcerer/lord_zash.stb = si_ald_lord_zash.stb
+/resources/en-us/str/cnv/location/alderaan/class/sith_sorcerer/nomar_organa.stb = si_ald_nomar_organa.stb
+/resources/en-us/str/cnv/location/alderaan/class/sith_sorcerer/rehanna_rist.stb = si_ald_rehanna_rist.stb
+
+# Chapter 1
+
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_1/darth_kallig.stb = si_1_darth_kallig.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_1/gyl_rosen.stb = si_1_gyl_rosen.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_1/lord_khreusis.stb = si_1_lord_khreusis.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_1/lord_zash.stb = si_1_lord_zash.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_1/mila_escalus.stb = si_1_mila_escalus.stb
+
+# Chapter 2
+
+## Intro
+
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/intro/darth_andru.stb = si_2_intro_darth_andru.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/intro/darth_thanaton.stb = si_2_intro_darth_thanaton.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/intro/darth_thanaton_holo.stb = si_2_intro_darth_thanaton_holo.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/intro/ritual_holocron.stb = si_2_intro_ritual_holocron.stb
+
+## Final 2
+
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/event_and_finale/darth_thanaton.stb = si_2_ef_darth_thanaton.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/event_and_finale/kaal.stb = si_2_ef_kaal.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/event_and_finale/khem_val.stb = si_2_ef_khem_val.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/event_and_finale/lord_cineratus.stb = si_2_ef_lord_cineratus.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/event_and_finale/overseer_harkun.stb = si_2_ef_overseer_harkun.stb
+
+# Taris
+
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/anathemos_assassin.stb = si_tar_anathemos_assassin.stb
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/ashara_zavros.stb = si_tar_ashara_zavros.stb
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/briefing_room.stb = si_tar_briefing_room.stb
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/databank_four.stb = si_tar_databank_four.stb
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/databank_one.stb = si_tar_databank_one.stb
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/databank_three.stb = si_tar_databank_three.stb
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/databank_two.stb = si_tar_databank_two.stb
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/elios_maliss.stb = si_tar_elios_maliss.stb
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/imperial_officer.stb = si_tar_imperial_officer.stb
+/resources/en-us/str/cnv/location/taris_imp/class/sith_inquisitor/lord_anathemos.stb = si_tar_lord_anathemos.stb
+
+# Hoth
+
+/resources/en-us/str/cnv/location/hoth/class/sith_inquisitor/andronikos_revel.stb = si_hoth_andronikos_revel.stb
+/resources/en-us/str/cnv/location/hoth/class/sith_inquisitor/distress_beacon.stb = si_hoth_distress_beacon.stb
+/resources/en-us/str/cnv/location/hoth/class/sith_inquisitor/horak_mul.stb = si_hoth_horak_mul.stb
+/resources/en-us/str/cnv/location/hoth/class/sith_inquisitor/ortolan_chief.stb = si_hoth_ortolan_chief.stb
+/resources/en-us/str/cnv/location/hoth/class/sith_inquisitor/relic.stb = si_hoth_relic.stb
+/resources/en-us/str/cnv/location/hoth/class/sith_inquisitor/sergeant_loren.stb = si_hoth_sergeant_loren.stb
+/resources/en-us/str/cnv/location/hoth/class/sith_inquisitor/talos_drellik.stb = si_hoth_talos_drellik.stb
+/resources/en-us/str/cnv/location/hoth/class/sith_inquisitor/temple_door.stb = si_hoth_temple_door.stb
+
+##  Chapter 3
+
+# Intro
+
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/darth_iratus_holocron.stb = si_3_darth_iratus_holocron.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/darth_vilus_writing.stb = si_3_darth_vilus_writing.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/khem_val.stb = si_3_khem_val.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/library_guard.stb = si_3_library_guard.stb
+
+# Belsavis
+
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/ashaa.stb = si_bel_ashaa.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/bolan.stb = si_bel_bolan.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/datapad.stb = si_bel_datapad.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/guard_captain.stb = si_bel_guard_captain.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/khem_val.stb = si_bel_khem_val.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/rakata_device_1.stb = si_bel_rakata_device_1.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/rakata_device_2.stb = si_bel_rakata_device_2.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/rakata_device_3.stb = si_bel_rakata_device_3.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/security_hub.stb = si_bel_security_hub.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/shrouded_figure.stb = si_bel_shrouded_figure.stb
+/resources/en-us/str/cnv/location/belsavis/class/sith_inquisitor/warden_gorshaa.stb = si_bel_warden_gorshaa.stb
+
+# Voss
+
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/athelis_kallis.stb = si_voss_athelis_kallis.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/briefing_room.stb = si_voss_briefing_room.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/chief_healer.stb = si_voss_chief_healer.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/darth_andru.stb = si_voss_darth_andru.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/darth_thanaton.stb = si_voss_darth_thanaton.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/darth_zash.stb = si_voss_darth_zash.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/ergast.stb = si_voss_ergast.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/gormak_shaman.stb = si_voss_gormak_shaman.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/horak_mul.stb = si_voss_horak_mul.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/imperial_diplomat.stb = si_voss_imperial_diplomat.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/kalatosh.stb = si_voss_kalatosh.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/nomar_organa.stb = si_voss_nomar_organa.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/rylee_dray.stb = si_voss_rylee_dray.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/spirit_healer.stb = si_voss_spirit_healer.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/urtel_moren.stb = si_voss_urtel_moren.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/voss_envoy.stb = si_voss_voss_envoy.stb
+/resources/en-us/str/cnv/location/voss/class/sith_inquisitor/voss_ghost.stb = si_voss_voss_ghost.stb
+
+# Corellia
+
+/resources/en-us/str/cnv/location/corellia/class/sith_inquisitor/andronikos_revel.stb = si_crl_andronikos_revel.stb
+/resources/en-us/str/cnv/location/corellia/class/sith_inquisitor/darth_thanaton.stb = si_crl_darth_thanaton.stb
+/resources/en-us/str/cnv/location/corellia/class/sith_inquisitor/lord_skar.stb = si_crl_lord_skar.stb
+/resources/en-us/str/cnv/location/corellia/class/sith_inquisitor/major_ilun.stb = si_crl_major_ilun.stb
+/resources/en-us/str/cnv/location/corellia/class/sith_inquisitor/moff_pyron.stb = si_crl_moff_pyron.stb
+
+# Final
+
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/event_and_finale/dark_council.stb = si_3_ef_dark_council.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/event_and_finale/darth_enraj.stb = si_3_ef_darth_enraj.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/event_and_finale/harkun.stb = si_3_ef_harkun.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/event_and_finale/lord_paladius.stb = si_3_ef_lord_paladius.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/event_and_finale/meeting_console_event.stb = si_3_ef_meeting_console_event.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/event_and_finale/moff_pyron.stb = si_3_ef_moff_pyron.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/event_and_finale/rylee_dray.stb = si_3_ef_rylee_dray.stb
+/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_3/event_and_finale/veil.stb = si_3_ef_veil.stb
+
+##  Agent
+
+# Hutta
+
+/resources/en-us/str/cnv/location/hutta/class/spy/dheno_rey.stb = ia_hut_dheno_rey.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/holo_archives.stb = ia_hut_holo_archives.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/industrial_facility_computer.stb = ia_hut_industrial_facility_computer.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/jheeg.stb = ia_hut_jheeg.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/kaliyo_djannis.stb = ia_hut_kaliyo_djannis.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/karrels_javis.stb = ia_hut_karrels_javis.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/keeper.stb = ia_hut_keeper.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/nohn_veyaiko.stb = ia_hut_nohn_veyaiko.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/odeph.stb = ia_hut_odeph.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/targen.stb = ia_hut_targen.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/the_hood.stb = ia_hut_the_hood.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/tothlazhen.stb = ia_hut_tothlazhen.stb
+
+
+##  Bounty Hunter
+
+# Hutta
+
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/beastmaster.stb = bh_hutta_beastmaster.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/braden.stb = bh_hutta_braden.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/huttsbane.stb = bh_hutta_huttsbane.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/jory.stb = bh_hutta_jory.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/juda.stb = bh_hutta_juda.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/logistics_officer.stb = bh_hutta_logistics_officer.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/mako.stb = bh_hutta_mako.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/nails.stb = bh_hutta_nails.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/nemro_the_hutt.stb = bh_hutta_nemro_the_hutt.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/republic_scientist_albea.stb = bh_hutta_republic_scientist_albea.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/vexx.stb = bh_hutta_vexx.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/yalt.stb = bh_hutta_yalt.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/yalts_wife.stb = bh_hutta_yalts_wife.stb
+
+
+###   Addons
+
+##  Kotfe
+
+# 1
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/ambients.stb = seas1_ep1_ambients.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/boss_barks.stb = seas1_ep1_boss_barks.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/marr_barks.stb = seas1_ep1_marr_barks.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/scene_01_arcann_fora.stb = seas1_ep1_scene_01_arcann_fora.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/scene_02_darth_marr.stb = seas1_ep1_scene_02_darth_marr.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/scene_03_soldiers.stb = seas1_ep1_scene_03_soldiers.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/scene_04_companions.stb = seas1_ep1_scene_04_companions.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/scene_05_companions_marr.stb = seas1_ep1_scene_05_companions_marr.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/scene_06_marr.stb = seas1_ep1_scene_06_marr.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/scene_07_marr.stb = seas1_ep1_scene_07_marr.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/scene_08_arcann.stb = seas1_ep1_scene_08_arcann.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/scene_09_valkorion.stb = seas1_ep1_scene_09_valkorion.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_01/transmissions.stb = seas1_ep1_transmissions.stb
+
+# 2
+
+/resources/en-us/str/cnv/exp/seasons/01/ep_02/barks.stb = seas1_ep2_barks.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_02/scene_01_valkorion.stb = seas1_ep2_scene_01_valkorion.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_02/scene_02_valkorion.stb = seas1_ep2_scene_02_valkorion.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_02/scene_03_valkorion.stb = seas1_ep2_scene_03_valkorion.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_02/scene_04_valkorion.stb = seas1_ep2_scene_04_valkorion.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_02/scene_05_valkorion.stb = seas1_ep2_scene_05_valkorion.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_02/scene_06_valkorion.stb = seas1_ep2_scene_06_valkorion.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_02/scene_07_valkorion.stb = seas1_ep2_scene_07_valkorion.stb
+
+# 3
+
+/resources/en-us/str/cnv/exp/seasons/01/ep_03/scene_01_lana_beniko.stb = seas1_ep3_scene_01_lana_beniko.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_03/scene_02_lana_beniko.stb = seas1_ep3_scene_02_lana_beniko.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_03/scene_03_lana_beniko.stb = seas1_ep3_scene_03_lana_beniko.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_03/scene_04_lana_beniko.stb = seas1_ep3_scene_04_lana_beniko.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_03/scene_05_lana_beniko.stb = seas1_ep3_scene_05_lana_beniko.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_03/scene_06_lana_beniko.stb = seas1_ep3_scene_06_lana_beniko.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_03/scene_07_lana_beniko.stb = seas1_ep3_scene_07_lana_beniko.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_03/scene_08_lana_beniko.stb = seas1_ep3_scene_08_lana_beniko.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_03/transmissions.stb = seas1_ep3_transmissions.stb
+
+# 4
+
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_01_lana_koth_hk.stb = seas1_ep4_scene_01_lana_koth_hk.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_02_hk.stb = seas1_ep4_scene_02_hk.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_03_hk_lana_koth.stb = seas1_ep4_scene_03_hk_lana_koth.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_04_arcann_lana_koth.stb = seas1_ep4_scene_04_arcann_lana_koth.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_05_lana.stb = seas1_ep4_scene_05_lana.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_06_lana_hk.stb = seas1_ep4_scene_06_lana_hk.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_07_lana_koth.stb = seas1_ep4_scene_07_lana_koth.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_08_koth_hk.stb = seas1_ep4_scene_08_koth_hk.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_09_hk_exile.stb = seas1_ep4_scene_09_hk_exile.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/scene_10_valkorion.stb = seas1_ep4_scene_10_valkorion.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/speeder_datapad.stb = seas1_ep4_speeder_datapad.stb
+/resources/en-us/str/cnv/exp/seasons/01/ep_04/transmissions.stb = seas1_ep4_transmissions.stb
+
+
+
+###   Big interface
+
+/resources/en-us/str/npc.stb = npc.stb
+/resources/en-us/str/abl.stb = abl.stb
+/resources/en-us/str/qst.stb = qst.stb
+/resources/en-us/str/sys/worldmap.stb = worldmap.stb
+
+/resources/en-us/str/cnv/misc/generic_lines.stb = trans_generic_lines.stb
+
+
+###   Quests
+
+##  Tython
+
+/resources/en-us/str/cnv/location/tython/ambient/cc_poi_barks.stb = tython_cc_poi_barks.stb
+/resources/en-us/str/cnv/location/tython/ambient/forward_camp.stb = tython_forward_camp.stb
+/resources/en-us/str/cnv/location/tython/ambient/jedi_temple_exterior.stb = tython_jedi_temple_exterior.stb
+/resources/en-us/str/cnv/location/tython/ambient/jedi_temple_interior.stb = tython_jedi_temple_interior.stb
+/resources/en-us/str/cnv/location/tython/ambient/kalikori_village.stb = tython_kalikori_village.stb
+/resources/en-us/str/cnv/location/tython/ambient/masters_retreat.stb = tython_masters_retreat.stb
+/resources/en-us/str/cnv/location/tython/bronze/flesh_eating_baby/fleshraider_parent_corpse.stb = tython_fleshraider_parent_corpse.stb
+/resources/en-us/str/cnv/location/tython/bronze/flesh_eating_baby/master_squib.stb = tython_master_squib.stb
+/resources/en-us/str/cnv/location/tython/bronze/flesh_raider_factfinding/kalisa_gehnso.stb = tython_kalisa_gehnso.stb
+/resources/en-us/str/cnv/location/tython/bronze/flesh_raider_factfinding/meeb_wix.stb = tython_meeb_wix.stb
+/resources/en-us/str/cnv/location/tython/bronze/horanth_control/sedni_maruk.stb = tython_sedni_maruk.stb
+/resources/en-us/str/cnv/location/tython/bronze/release_the_cubs/captured_manka_cub.stb = tython_captured_manka_cub.stb
+/resources/en-us/str/cnv/location/tython/bronze/trainerquests/thearmthatholdsthesaber/aven.stb = tython_aven.stb
+/resources/en-us/str/cnv/location/tython/bronze/trainerquests/wisdomofelders/hallen.stb = tython_hallen.stb
+/resources/en-us/str/cnv/location/tython/data_holocron/datacron_a_tython.stb = tython_datacron_a_tython.stb
+/resources/en-us/str/cnv/location/tython/data_holocron/datacron_b_tython.stb = tython_datacron_b_tython.stb
+/resources/en-us/str/cnv/location/tython/data_holocron/datacron_matrix_tython.stb = tython_datacron_matrix_tython.stb
+/resources/en-us/str/cnv/location/tython/weekly_heroic/mission_board.stb = tython_mission_board.stb
+/resources/en-us/str/cnv/location/tython/world/combat_leadership/liam_dentiri.stb = tython_liam_dentiri.stb
+/resources/en-us/str/cnv/location/tython/world/commune_with_the_light/flingeld.stb = tython_flingeld.stb
+/resources/en-us/str/cnv/location/tython/world/early_lessons/avitla.stb = tython_avitla.stb
+/resources/en-us/str/cnv/location/tython/world/early_lessons/relnex.stb = tython_relnex.stb
+/resources/en-us/str/cnv/location/tython/world/eaten/recording.stb = tython_recording.stb
+/resources/en-us/str/cnv/location/tython/world/eaten/tazonthe_ghon.stb = tython_tazonthe_ghon.stb
+/resources/en-us/str/cnv/location/tython/world/lovers_and_secrets/master_silvarte.stb = tython_master_silvarte.stb
+/resources/en-us/str/cnv/location/tython/world/lovers_and_secrets/master_yollo.stb = tython_master_yollo.stb
+/resources/en-us/str/cnv/location/tython/world/lovers_and_secrets/moracen.stb = tython_moracen.stb
+/resources/en-us/str/cnv/location/tython/world/lovers_and_secrets/spanios.stb = tython_spanios.stb
+/resources/en-us/str/cnv/location/tython/world/mirialan_medicine/bahlea.stb = tython_bahlea.stb
+/resources/en-us/str/cnv/location/tython/world/mirialan_medicine/dead_mirialan_hunter.stb = tython_dead_mirialan_hunter.stb
+/resources/en-us/str/cnv/location/tython/world/new_recruit/backpack.stb = tython_backpack.stb
+/resources/en-us/str/cnv/location/tython/world/new_recruit/campfire.stb = tython_campfire.stb
+/resources/en-us/str/cnv/location/tython/world/new_recruit/strayen.stb = tython_strayen.stb
+/resources/en-us/str/cnv/location/tython/world/new_recruit/trea_kobbeth.stb = tython_trea_kobbeth.stb
+/resources/en-us/str/cnv/location/tython/world/strength_of_the_flesh_raiders/odumis_mer.stb = tython_odumis_mer.stb
+/resources/en-us/str/cnv/location/tython/world/strength_of_the_flesh_raiders/vederiat_ayon.stb = tython_vederiat_ayon.stb
+/resources/en-us/str/cnv/location/tython/world/the_chamber_of_speech/do_zonn.stb = tython_do_zonn.stb
+/resources/en-us/str/cnv/location/tython/world/the_chamber_of_speech/gatekeeper.stb = tython_gatekeeper.stb
+/resources/en-us/str/cnv/location/tython/world/the_last_defenders/master_tillin.stb = tython_master_tillin.stb
+/resources/en-us/str/cnv/location/tython/world/the_last_defenders/padawan_fia.stb = tython_padawan_fia.stb
+/resources/en-us/str/cnv/location/tython/world/the_thousand_steps/kolovish.stb = tython_kolovish.stb
+/resources/en-us/str/cnv/location/tython/world/the_thousand_steps/yuleph_phan.stb = tython_yuleph_phan.stb
+
+
+
+##  Korriban
+
+
+/resources/en-us/str/cnv/location/korriban/ambient/cc_poi_barks.stb = korriban_cc_poi_barks.stb
+/resources/en-us/str/cnv/location/korriban/ambient/sith_academy_exterior.stb = korriban_sith_academy_exterior.stb
+/resources/en-us/str/cnv/location/korriban/ambient/sith_academy_interior.stb = korriban_sith_academy_interior.stb
+/resources/en-us/str/cnv/location/korriban/ambient/tomb_of_ajunta_pall.stb = korriban_tomb_of_ajunta_pall.stb
+/resources/en-us/str/cnv/location/korriban/ambient/tomb_of_naga_sadow.stb = korriban_tomb_of_naga_sadow.stb
+/resources/en-us/str/cnv/location/korriban/ambient/wilds_shuttle_landing.stb = korriban_wilds_shuttle_landing.stb
+/resources/en-us/str/cnv/location/korriban/bronze/armed_and_dangerous/bounty_board.stb = korriban_bounty_board.stb
+/resources/en-us/str/cnv/location/korriban/bronze/experimental_needs/krevan.stb = korriban_krevan.stb
+/resources/en-us/str/cnv/location/korriban/bronze/experimental_needs/varacen.stb = korriban_varacen.stb
+/resources/en-us/str/cnv/location/korriban/bronze/imperial_edict/datapad.stb = korriban_datapad.stb
+/resources/en-us/str/cnv/location/korriban/bronze/imperial_edict/sergeant_rikel.stb = korriban_sergeant_rikel.stb
+/resources/en-us/str/cnv/location/korriban/bronze/trainerquests/inquisitor/asst_overseer_markan.stb = korriban_asst_overseer_markan.stb
+/resources/en-us/str/cnv/location/korriban/bronze/trainerquests/warrior/asst_overseer_loun.stb = korriban_asst_overseer_loun.stb
+/resources/en-us/str/cnv/location/korriban/data_holocron/datacron_a_korriban.stb = korriban_datacron_a_korriban.stb
+/resources/en-us/str/cnv/location/korriban/data_holocron/datacron_c_korriban.stb = korriban_datacron_c_korriban.stb
+/resources/en-us/str/cnv/location/korriban/data_holocron/datacron_matrix_korriban.stb = korriban_datacron_matrix_korriban.stb
+/resources/en-us/str/cnv/location/korriban/heroic_weekly/mission_board.stb = korriban_mission_board.stb
+/resources/en-us/str/cnv/location/korriban/transition/shuttle_launch.stb = korriban_shuttle_launch.stb
+/resources/en-us/str/cnv/location/korriban/world/allegiance/inquisitor_arzanon.stb = korriban_inquisitor_arzanon.stb
+/resources/en-us/str/cnv/location/korriban/world/allegiance/intelligence_officer.stb = korriban_intelligence_officer.stb
+/resources/en-us/str/cnv/location/korriban/world/creeping_hunger/overseer_prithor.stb = korriban_overseer_prithor.stb
+/resources/en-us/str/cnv/location/korriban/world/creeping_hunger/sehrun.stb = korriban_sehrun.stb
+/resources/en-us/str/cnv/location/korriban/world/grave_robbing/naman_fal.stb = korriban_naman_fal.stb
+/resources/en-us/str/cnv/location/korriban/world/grave_robbing/sentry_yashia.stb = korriban_sentry_yashia.stb
+/resources/en-us/str/cnv/location/korriban/world/jailbreak/inquisitor_urinth.stb = korriban_inquisitor_urinth.stb
+/resources/en-us/str/cnv/location/korriban/world/jailbreak/quorian_dorjis.stb = korriban_quorian_dorjis.stb
+/resources/en-us/str/cnv/location/korriban/world/jailbreak/urn.stb = korriban_urn.stb
+/resources/en-us/str/cnv/location/korriban/world/klorslug_infestation/sergeant_cormun_revised_by_hall.stb = korriban_sergeant_cormun_revised_by_hall.stb
+/resources/en-us/str/cnv/location/korriban/world/lost_supplies/sentry_tavon.stb = korriban_sentry_tavon.stb
+/resources/en-us/str/cnv/location/korriban/world/lost_supplies/sergeant_garus.stb = korriban_sergeant_garus.stb
+/resources/en-us/str/cnv/location/korriban/world/purity/lord_abaron.stb = korriban_lord_abaron.stb
+/resources/en-us/str/cnv/location/korriban/world/rogues/apprentice_peyterra_holo.stb = korriban_apprentice_peyterra_holo.stb
+/resources/en-us/str/cnv/location/korriban/world/rogues/inquisitor_jarobi.stb = korriban_inquisitor_jarobi.stb
+/resources/en-us/str/cnv/location/korriban/world/the_blood_legacy/overseer_ragate.stb = korriban_overseer_ragate.stb
+/resources/en-us/str/cnv/location/korriban/world/the_brains_of_the_beast/apprentice_malora.stb = korriban_apprentice_malora.stb
+/resources/en-us/str/cnv/location/korriban/world/the_brains_of_the_beast/lord_renning.stb = korriban_lord_renning.stb
+/resources/en-us/str/cnv/location/korriban/world/the_hate_machine/ephran_zell.stb = korriban_ephran_zell.stb
+
+
+##  Flashpoints
+
+# Daily
+
+/resources/en-us/str/cnv/location/flashpoint/daily/imperial/daily_mission_board_1.stb = fl_daily_daily_mission_board_1.stb
+
+# Esseles
+
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/ambassador_asara.stb = fl_es_ambassador_asara.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/ambassador_asara_armored.stb = fl_es_ambassador_asara_armored.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/ambassador_asara_disguise.stb = fl_es_ambassador_asara_disguise.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/chief_engineer_salen.stb = fl_es_chief_engineer_salen.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/commander_narlock.stb = fl_es_commander_narlock.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/first_officer_haken.stb = fl_es_first_officer_haken.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/first_officer_haken_elevator.stb = fl_es_first_officer_haken_elevator.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/grand_moff_kilran.stb = fl_es_grand_moff_kilran.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/ironfist.stb = fl_es_ironfist.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/lieutenant_isric.stb = fl_es_lieutenant_isric.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/prioritytransportofficer.stb = fl_es_prioritytransportofficer.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/transport_droid.stb = fl_es_transport_droid.stb
+/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/vokk.stb = fl_es_vokk.stb
+
+# Black Talon
+
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/black_talon_computer.stb = fl_bt_black_talon_computer.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/captain_orzik.stb = fl_bt_captain_orzik.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/chief_engineer.stb = fl_bt_chief_engineer.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/commander_ghulil.stb = fl_bt_commander_ghulil.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/chief_engineer.stb = fl_bt_engineer.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/ensign_brukarra.stb = fl_bt_ensign_brukarra.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/ensign_hetter.stb = fl_bt_ensign_hetter.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/firstclassvalet.stb = fl_bt_firstclassvalet.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/imperial_marine_1.stb = fl_bt_imperial_marine_1.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/imperial_marine_3.stb = fl_bt_imperial_marine_3.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/lieutenant_sylas.stb = fl_bt_lieutenant_sylas.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/nr_02.stb = fl_bt_nr_02.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/republic_trooper_barks.stb = fl_bt_republic_trooper_barks.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/sergeant_boran.stb = fl_bt_sergeant_boran.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/the_general.stb = fl_bt_the_general.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/transport_droid.stb = fl_bt_transport_droid.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/yadira_ban.stb = fl_bt_yadira_ban.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/zx_5.stb = fl_bt_zx_5.stb
+
+# Imperial Revan
+
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/boarding_party_transmissions.stb = fl_imp_revan_boarding_party_transmissions.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/captain_yelto.stb = fl_imp_revan_captain_yelto.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/captain_yelto_holo.stb = fl_imp_revan_captain_yelto_holo.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/foundry_transmissions.stb = fl_imp_revan_foundry_transmissions.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/hk_47.stb = fl_imp_revan_hk_47.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/imperial_helmsman.stb = fl_imp_revan_imperial_helmsman.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/moff_phennir.stb = fl_imp_revan_moff_phennir.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/moff_phennir_holo.stb = fl_imp_revan_moff_phennir_holo.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/revan.stb = fl_imp_revan_revan.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/revan_holo.stb = fl_imp_revan_revan_holo.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/sakan_donair.stb = fl_imp_revan_sakan_donair.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/sergeant_lodani.stb = fl_imp_revan_sergeant_lodani.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/sergeant_tebar.stb = fl_imp_revan_sergeant_tebar.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/storm_squad_commander.stb = fl_imp_revan_storm_squad_commander.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/x1_02.stb = fl_imp_revan_x1_02.stb
+/resources/en-us/str/cnv/location/flashpoint/imperial/revan/x1_09.stb = fl_imp_revan_x1_09.stb
+
+
+
+##  PVP
+
+/resources/en-us/str/cnv/pvp/arena/baron_deathmark.stb = misc_pvp_baron_deathmark.stb
+/resources/en-us/str/cnv/misc/pvp/general.stb = misc_pvp_general.stb
+/resources/en-us/str/cnv/misc/pvp/huttball_quesh.stb = misc_pvp_huttball_quesh.stb
+/resources/en-us/str/cnv/misc/pvp/killstreaks.stb = misc_pvp_killstreaks.stb
+/resources/en-us/str/cnv/misc/pvp/narshaddaaarena.stb = misc_pvp_narshaddaaarena.stb
+/resources/en-us/str/cnv/misc/pvp/tatooineopenpvp/gamorrean_vendor.stb = misc_pvp_gamorrean_vendor.stb
+/resources/en-us/str/cnv/misc/pvp/tatooineopenpvp/jawa_vendor.stb = misc_pvp_jawa_vendor.stb
+/resources/en-us/str/cnv/misc/pvp/tatooineopenpvp/nikto_vendor.stb = misc_pvp_nikto_vendor.stb
+/resources/en-us/str/cnv/misc/pvp/warzone/voidstar/empire_cinematic.stb = misc_pvp_empire_cinematic.stb
+/resources/en-us/str/cnv/misc/pvp/warzone/voidstar/republic_cinematic.stb = misc_pvp_republic_cinematic.stb
+/resources/en-us/str/cnv/misc/pvp/warzone_alderaan.stb = misc_pvp_warzone_alderaan.stb
+/resources/en-us/str/cnv/misc/pvp/warzone_prototype_ship.stb = misc_pvp_warzone_prototype_ship.stb
+
+
+###   Misc
+
+## Vendors
+
+/resources/en-us/str/cnv/misc/vendor/advozsec_m_generic_alien.stb = misc_vendor_advozsec_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/arcona_m_generic_alien.stb = misc_vendor_arcona_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/astromech_beep1.stb = misc_vendor_astromech_beep1.stb
+/resources/en-us/str/cnv/misc/vendor/astromech_beep2.stb = misc_vendor_astromech_beep2.stb
+/resources/en-us/str/cnv/misc/vendor/bith_m_generic_alien.stb = misc_vendor_bith_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/droid_doctor_imp.stb = misc_vendor_droid_doctor_imp.stb
+/resources/en-us/str/cnv/misc/vendor/droid_doctor_rep.stb = misc_vendor_droid_doctor_rep.stb
+/resources/en-us/str/cnv/misc/vendor/droid_fabrication.stb = misc_vendor_droid_fabrication.stb
+/resources/en-us/str/cnv/misc/vendor/droid_friendly_imp.stb = misc_vendor_droid_friendly_imp.stb
+/resources/en-us/str/cnv/misc/vendor/droid_friendly_rep.stb = misc_vendor_droid_friendly_rep.stb
+/resources/en-us/str/cnv/misc/vendor/droid_generictrainer_imp.stb = misc_vendor_droid_generictrainer_imp.stb
+/resources/en-us/str/cnv/misc/vendor/droid_generictrainer_rep.stb = misc_vendor_droid_generictrainer_rep.stb
+/resources/en-us/str/cnv/misc/vendor/droid_military_imp.stb = misc_vendor_droid_military_imp.stb
+/resources/en-us/str/cnv/misc/vendor/droid_military_rep.stb = misc_vendor_droid_military_rep.stb
+/resources/en-us/str/cnv/misc/vendor/droid_taxi_military_imp.stb = misc_vendor_droid_taxi_military_imp.stb
+/resources/en-us/str/cnv/misc/vendor/droid_taxi_military_rep.stb = misc_vendor_droid_taxi_military_rep.stb
+/resources/en-us/str/cnv/misc/vendor/droid_taxihelpful_imp.stb = misc_vendor_droid_taxihelpful_imp.stb
+/resources/en-us/str/cnv/misc/vendor/droid_taxihelpful_rep.stb = misc_vendor_droid_taxihelpful_rep.stb
+/resources/en-us/str/cnv/misc/vendor/droid_taxisurly_rep.stb = misc_vendor_droid_taxisurly_rep.stb
+/resources/en-us/str/cnv/misc/vendor/duros_m_generic_alien.stb = misc_vendor_duros_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/gamorrean_m_generic_alien.stb = misc_vendor_gamorrean_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/gand_m_generic_alien.stb = misc_vendor_gand_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/giraddathehutt_vendor.stb = misc_vendor_giraddathehutt_vendor.stb
+/resources/en-us/str/cnv/misc/vendor/gran_m_generic_alien.stb = misc_vendor_gran_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/gree_m_generic_alien.stb = misc_vendor_gree_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_alliance_rep.stb = misc_vendor_human_f_alliance_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_friendly_imp.stb = misc_vendor_human_f_friendly_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_friendly_rep.stb = misc_vendor_human_f_friendly_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_military_imp.stb = misc_vendor_human_f_military_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_military_imp2.stb = misc_vendor_human_f_military_imp2.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_military_rep.stb = misc_vendor_human_f_military_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_military_rep2.stb = misc_vendor_human_f_military_rep2.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_skeevy_rep.stb = misc_vendor_human_f_skeevy_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_strongholds_builder.stb = misc_vendor_human_f_strongholds_builder.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_strongholds_decor.stb = misc_vendor_human_f_strongholds_decor.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_traineragent_imp.stb = misc_vendor_human_f_traineragent_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_trainerconsular_rep.stb = misc_vendor_human_f_trainerconsular_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_trainerhunter_rep.stb = misc_vendor_human_f_trainerhunter_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_trainerinquisitor_imp.stb = misc_vendor_human_f_trainerinquisitor_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_trainerknight_rep.stb = misc_vendor_human_f_trainerknight_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_trainersmuggler_rep.stb = misc_vendor_human_f_trainersmuggler_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_trainertrooper_rep.stb = misc_vendor_human_f_trainertrooper_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_trainerwarrior_imp.stb = misc_vendor_human_f_trainerwarrior_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_alliance_rep.stb = misc_vendor_human_m_alliance_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_doctor_imp.stb = misc_vendor_human_m_doctor_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_doctor_rep.stb = misc_vendor_human_m_doctor_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_friendly_imp.stb = misc_vendor_human_m_friendly_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_friendly_rep.stb = misc_vendor_human_m_friendly_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_military_imp.stb = misc_vendor_human_m_military_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_military_imp2.stb = misc_vendor_human_m_military_imp2.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_military_rep.stb = misc_vendor_human_m_military_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_military_rep2.stb = misc_vendor_human_m_military_rep2.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_skeevy_rep.stb = misc_vendor_human_m_skeevy_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_strongholds_builder.stb = misc_vendor_human_m_strongholds_builder.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_strongholds_decor.stb = misc_vendor_human_m_strongholds_decor.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_traineragent_imp.stb = misc_vendor_human_m_traineragent_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_trainerconsular_rep.stb = misc_vendor_human_m_trainerconsular_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_trainerhunter_rep.stb = misc_vendor_human_m_trainerhunter_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_trainerinquisitor_imp.stb = misc_vendor_human_m_trainerinquisitor_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_trainerknight_rep.stb = misc_vendor_human_m_trainerknight_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_trainersmuggler_rep.stb = misc_vendor_human_m_trainersmuggler_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_trainertrooper_rep.stb = misc_vendor_human_m_trainertrooper_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_trainerwarrior_imp.stb = misc_vendor_human_m_trainerwarrior_imp.stb
+/resources/en-us/str/cnv/misc/vendor/ithorian_alien.stb = misc_vendor_ithorian_alien.stb
+/resources/en-us/str/cnv/misc/vendor/jawa_alien.stb = misc_vendor_jawa_alien.stb
+/resources/en-us/str/cnv/misc/vendor/jawa_taxi_alien.stb = misc_vendor_jawa_taxi_alien.stb
+/resources/en-us/str/cnv/misc/vendor/nautolan_m_generic_alien.stb = misc_vendor_nautolan_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/neimoidian_m_generic_alien.stb = misc_vendor_neimoidian_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/nikto_m_generic_alien.stb = misc_vendor_nikto_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/rodian_m_generic_alien.stb = misc_vendor_rodian_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/selkath_m_generic_alien.stb = misc_vendor_selkath_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/sullustan_m_generic_alien.stb = misc_vendor_sullustan_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/twilek_f_generic_alien.stb = misc_vendor_twilek_f_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/twilek_m_generic_alien.stb = misc_vendor_twilek_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/weequay_m_generic_alien.stb = misc_vendor_weequay_m_generic_alien.stb
+
+
+##  Combat
+
+# Companions
+
+- Sith Inquisitor
+
+/resources/en-us/str/cnv/misc/combat/cc/sith_inquisitor/andronikos.stb = misc_combat_cc_si_andronikos.stb
+/resources/en-us/str/cnv/misc/combat/cc/sith_inquisitor/ashara.stb = misc_combat_cc_si_ashara.stb
+/resources/en-us/str/cnv/misc/combat/cc/sith_inquisitor/khem_val.stb = misc_combat_cc_si_khem_val.stb
+
+- Jedi Knight
+
+/resources/en-us/str/cnv/misc/combat/cc/jedi_knight/kira_carsen.stb = misc_combat_cc_jk_kira_carsen.stb
+/resources/en-us/str/cnv/misc/combat/cc/jedi_knight/t7.stb = misc_combat_cc_jk_t7.stb
+
+# NPC
+
+/resources/en-us/str/cnv/misc/combat/npc/droid_male_aggressive_imperial.stb = misc_combat_npc_droid_male_aggressive_imperial.stb
+/resources/en-us/str/cnv/misc/combat/npc/droid_male_aggressive_republic.stb = misc_combat_npc_droid_male_aggressive_republic.stb
+/resources/en-us/str/cnv/misc/combat/npc/droid_male_assassin_imperial.stb = misc_combat_npc_droid_male_assassin_imperial.stb
+/resources/en-us/str/cnv/misc/combat/npc/droid_male_assassin_republic.stb = misc_combat_npc_droid_male_assassin_republic.stb
+/resources/en-us/str/cnv/misc/combat/npc/human_female_jedi_republic.stb = misc_combat_npc_human_female_jedi_republic.stb
+/resources/en-us/str/cnv/misc/combat/npc/human_female_sith_imperial.stb = misc_combat_npc_human_female_sith_imperial.stb
+/resources/en-us/str/cnv/misc/combat/npc/human_female_zakuul_knight.stb = misc_combat_npc_human_female_zakuul_knight.stb
+/resources/en-us/str/cnv/misc/combat/npc/human_male_jedi_republic.stb = misc_combat_npc_human_male_jedi_republic.stb
+/resources/en-us/str/cnv/misc/combat/npc/human_male_sith_imperial.stb = misc_combat_npc_human_male_sith_imperial.stb
+/resources/en-us/str/cnv/misc/combat/npc/human_male_soldier_imperial.stb = misc_combat_npc_human_male_soldier_imperial.stb
+/resources/en-us/str/cnv/misc/combat/npc/human_male_soldier_republic.stb = misc_combat_npc_human_male_soldier_republic.stb
+/resources/en-us/str/cnv/misc/combat/npc/human_male_underworldthug_republic.stb = misc_combat_npc_human_male_underworldthug_republic.stb
+/resources/en-us/str/cnv/misc/combat/npc/human_male_zakuul_knight.stb = misc_combat_npc_human_male_zakuul_knight.stb
+
+# PC
+
+/resources/en-us/str/cnv/misc/combat/pc/inquisitor.stb = misc_combat_pc_inquisitor.stb
+/resources/en-us/str/cnv/misc/combat/pc/jedi_knight.stb = misc_combat_pc_jedi_knight.stb

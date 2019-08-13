@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>14</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/imperial/revan/sergeant_tebar.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="202093" id2="17" version="1065353216">Good luck taking control of that ship.</text>
+		<text bitflag="1345" id1="202096" id2="17" version="1065353216">My lord, we have the Republic ship immobilized by a tractor beam.</text>
+		<text bitflag="1345" id1="202098" id2="17" version="1065353216">Sir, we've locked a tractor beam onto the Republic cruiser.</text>
+		<text bitflag="1345" id1="202100" id2="17" version="1065353216">It's alongside us now, and we've connected docking clamps to the air locks. The boarding parties are waiting on you.</text>
+		<text bitflag="1360" id1="202101" id2="17" version="1065353216">[Start Tactical Flashpoint]</text>
+		<text bitflag="1360" id1="202104" id2="17" version="1065353216">Don't push me. [Refuse Mission]</text>
+		<text bitflag="1345" id1="202107" id2="17" version="1065353216">Sir!</text>
+		<text bitflag="1360" id1="987720" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="987723" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987724" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="987725" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1170399" id2="17" version="1065353216">[Start Solo Flashpoint]</text>
+		<text bitflag="1360" id1="1219961" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1104" id1="1219962" id2="17" version="1065353216">[Start Story Mode]</text>
+	</file_content>
+</stb_file>

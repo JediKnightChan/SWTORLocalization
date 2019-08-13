@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>60</strs>
+		<file_name>/resources/en-us/str/gui/helptips.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="233971" version="1065353216">&lt;&lt;1&gt;&gt; Phase. Your groupmates can help you if they are not a &lt;&lt;1&gt;&gt;, or if they select &quot;Allow access to same-class story areas&quot; in the Preference window.</text>
+		<text bitflag="321" id1="2" id2="233971" version="1065353216">You are entering &lt;&lt;1&gt;&gt;'s Class Phase. You can help &lt;&lt;1&gt;&gt;, but your own missions will not progress while you remain in &lt;&lt;1&gt;&gt;'s Phase.</text>
+		<text bitflag="321" id1="3" id2="233971" version="1065353216">OK</text>
+		<text bitflag="321" id1="4" id2="233971" version="1065353216">Don't tell me this again.</text>
+		<text bitflag="321" id1="5" id2="233971" version="1065353216">Interact with the objective control points to secure control of the defense turrets.</text>
+		<text bitflag="321" id1="6" id2="233971" version="1065353216">Defense turrets fire at the opposing faction's ship.</text>
+		<text bitflag="321" id1="7" id2="233971" version="1065353216">Inflict enough damage to the enemy ship to destroy it and achieve victory.</text>
+		<text bitflag="321" id1="8" id2="233971" version="1065353216">Interact with the ball to pick it up from the stand.</text>
+		<text bitflag="321" id1="9" id2="233971" version="1065353216">Pass the ball to allies using the 'Throw Ball' ability.</text>
+		<text bitflag="321" id1="10" id2="233971" version="1065353216">Carry the ball over the ENEMY goal line to score.</text>
+		<text bitflag="321" id1="11" id2="233971" version="1065353216">Attacker: Interact with the doors to plant the bombs.
+Defender: Prevent the bombs from being planted.</text>
+		<text bitflag="321" id1="12" id2="233971" version="1065353216">Attacker: Defend the bombs until the doors are destroyed.
+Defender: Interact with the bombs to defuse them.</text>
+		<text bitflag="321" id1="13" id2="233971" version="1065353216">Attacker: Interact with the datacore terminal.
+Defender: Protect the datacore terminal.</text>
+		<text bitflag="321" id1="14" id2="233971" version="1065353216">You must escort this shuttle to the end of the mission. If it is destroyed, the mission is failed.</text>
+		<text bitflag="321" id1="15" id2="233971" version="1065353216">Make sure the shuttle arrives safely at this destination.</text>
+		<text bitflag="321" id1="16" id2="233971" version="1065353216">Destroy fighters to help save the shuttle.</text>
+		<text bitflag="321" id1="17" id2="233971" version="1065353216">Avoid fire from enemy frigates.</text>
+		<text bitflag="321" id1="18" id2="233971" version="1065353216">Destroy 3 antenna arrays.</text>
+		<text bitflag="321" id1="19" id2="233971" version="1065353216">Destroy 2 shield generators.</text>
+		<text bitflag="321" id1="20" id2="233971" version="1065353216">Destroy 12 turrets.</text>
+		<text bitflag="321" id1="21" id2="233971" version="1065353216">Destroy 3 hangar bays.</text>
+		<text bitflag="321" id1="22" id2="233971" version="1065353216">Destroy 5 elite fighters.</text>
+		<text bitflag="321" id1="23" id2="233971" version="1065353216">Destroy this enemy boss ship when it appears during the mission.</text>
+		<text bitflag="321" id1="24" id2="233971" version="1065353216">Destroying fighters and frigate turrets will help you succeed at a bonus mission.</text>
+		<text bitflag="321" id1="25" id2="233971" version="1065353216">Avoid fire from this enemy destroyer near the end of the mission.</text>
+		<text bitflag="321" id1="26" id2="233971" version="1065353216">You must escort this shuttle to the end of the mission. If it is destroyed, the mission is failed.</text>
+		<text bitflag="321" id1="27" id2="233971" version="1065353216">Make sure the shuttle arrives safely at this destination.</text>
+		<text bitflag="321" id1="28" id2="233971" version="1065353216">Destroy fighters to help save the shuttle.</text>
+		<text bitflag="321" id1="29" id2="233971" version="1065353216">Avoid fire from enemy frigates.</text>
+		<text bitflag="321" id1="30" id2="233971" version="1065353216">Destroy 5 elite fighters.</text>
+		<text bitflag="321" id1="31" id2="233971" version="1065353216">Destroy this enemy boss ship when it appears during the mission.</text>
+		<text bitflag="321" id1="32" id2="233971" version="1065353216">Destroying fighters and frigate turrets will help you succeed at a bonus mission.</text>
+		<text bitflag="321" id1="33" id2="233971" version="1065353216">Avoid fire from this enemy destroyer near the end of the mission.</text>
+		<text bitflag="321" id1="34" id2="233971" version="1065353216">Interact with the artillery targeting computer to begin reprogramming it (note multiple allies may interact at once to speed up the process).</text>
+		<text bitflag="321" id1="35" id2="233971" version="1065353216">Each defensive bunker is equipped with regenerative shields.  Use one turret to disable the shield and second turret to damage the bunker.</text>
+		<text bitflag="321" id1="36" id2="233971" version="1065353216">Inflict enough damage to the enemy bunker to destroy it and achieve victory.</text>
+		<text bitflag="321" id1="37" id2="233971" version="1065353216">Pylons at each end of the mission zone power the hypergates controlled by each team. Capture these pylons to increase power to your team's hypergate and achieve victory!</text>
+		<text bitflag="321" id1="38" id2="233971" version="1065353216">Increase the pylons' energy charge by defeating enemy players, or by gathering energy orbs from the central safe zone and depositing them at a captured pylon.</text>
+		<text bitflag="321" id1="39" id2="233971" version="1065353216">Watch out! When the pylons discharge their energy into the hypergates, they also release a deadly shockwave. Take cover in the central shelter zone to survive!</text>
+		<text bitflag="321" id1="260" id2="233971" version="1065353216">Be the Last Team Standing! Go berserk!</text>
+		<text bitflag="321" id1="261" id2="233971" version="1065353216">Best of Three Rounds!</text>
+		<text bitflag="321" id1="262" id2="233971" version="1065353216">No revives during the Round! Once you are down, you are out for the Round!</text>
+		<text bitflag="321" id1="263" id2="233971" version="1065353216">The Lost Shipyards contains three satellites. Taking control of these satellites continually increases your team's score.</text>
+		<text bitflag="321" id1="264" id2="233971" version="1065353216">The color of a satellite's lights indicate its current status:  
+
+White: Neutral
+Red:Enemy controlled
+Green: Ally controlled</text>
+		<text bitflag="321" id1="265" id2="233971" version="1065353216">To capture enemy satellites, destroy their defense turrets, eliminate nearby enemies, and remain close while control transitions.</text>
+		<text bitflag="321" id1="266" id2="233971" version="1065353216">Kuat Mesas contains three satellites. Taking control of these satellites continually increases your team's score.</text>
+		<text bitflag="321" id1="269" id2="233971" version="1065353216">You have just one objective: destroy the enemy. Each kill is one point for your team. The team that gets the most kills wins!</text>
+		<text bitflag="321" id1="270" id2="233971" version="1065353216">Collect the powerups scattered throughout the area to give your ship a temporary, but significant combat advantage.</text>
+		<text bitflag="321" id1="271" id2="233971" version="1065353216">Powerup types:&lt;br&gt;Yellow:  Blaster Enhancement&lt;br&gt;Purple: Engine Enhancement&lt;br&gt;Blue: Shield Enhancement&lt;br&gt;Red: Damage Enhancement</text>
+		<text bitflag="321" id1="273" id2="233971" version="1065353216">Use the Grapple Blaster tables to quickly move to the center platform.</text>
+		<text bitflag="321" id1="274" id2="233971" version="1065353216">Denon Exosphere contains three satellites. Taking control of these satellites continually increases your team's score.</text>
+		<text bitflag="321" id1="275" id2="233971" version="1065353216">You are entering your own Personal Phase. Your groupmates can help you if they enable the social preference to allow access to the same class/personal phases.</text>
+		<text bitflag="321" id1="276" id2="233971" version="1065353216">You are entering &lt;&lt;1&gt;&gt;'s Solo Phase. You can help &lt;&lt;1&gt;&gt; but your own quests will not progress while you remain in &lt;&lt;1&gt;&gt;'s Phase.</text>
+		<text bitflag="321" id1="277" id2="233971" version="1065353216">Capture an active Control Point for your team by standing in a holo-area.</text>
+		<text bitflag="321" id1="278" id2="233971" version="1065353216">Every second of control scores points for your team.</text>
+		<text bitflag="321" id1="279" id2="233971" version="1065353216">Seek out powerful Battle Mods that can turn the tide of the exercise.</text>
+		<text bitflag="321" id1="280" id2="233971" version="1065353216">Defense turrets fire at the opposing team's ship.</text>
+		<text bitflag="321" id1="281" id2="233971" version="1065353216">Inflict enough damage to the enemy ship to destroy it and kill enemies to achieve victory.</text>
+		<text bitflag="321" id1="283" id2="233971" version="1065353216">Interact with the ball to pick it up from the stand. Carry the ball over the ENEMY goal line to score.</text>
+		<text bitflag="321" id1="284" id2="233971" version="1065353216">Use the Gravity Grapple to save yourself from falling or while on special platforms to move around faster than normal!</text>
+	</file_content>
+</stb_file>

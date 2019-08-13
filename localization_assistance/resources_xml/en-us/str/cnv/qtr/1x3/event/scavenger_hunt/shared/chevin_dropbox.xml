@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>8</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x3/event/scavenger_hunt/shared/chevin_dropbox.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1058555" id2="17" version="1065353216">[This is the drop point for the Grand Acquisitions Race.]</text>
+		<text bitflag="321" id1="1058556" id2="17" version="1065353216">[This is the drop point for the Grand Acquisitions Race.]</text>
+		<text bitflag="321" id1="1058560" id2="17" version="1065353216">[Do you want to turn the items you've gathered in to the Chevin?]</text>
+		<text bitflag="336" id1="1058561" id2="17" version="1065353216">[Turn in the items to the Chevin]</text>
+		<text bitflag="336" id1="1058562" id2="17" version="1065353216">[Walk away]</text>
+		<text bitflag="321" id1="1058564" id2="17" version="1065353216">[Do you want to turn the items you've gathered in to the Chevin?]</text>
+		<text bitflag="336" id1="1058565" id2="17" version="1065353216">[Turn in the items to the Chevin]</text>
+		<text bitflag="336" id1="1058566" id2="17" version="1065353216">[Walk away]</text>
+	</file_content>
+</stb_file>

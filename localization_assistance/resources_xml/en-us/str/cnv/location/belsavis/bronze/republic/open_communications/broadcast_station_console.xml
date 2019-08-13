@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/bronze/republic/open_communications/broadcast_station_console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="289158" id2="17" version="1065353216">[You insert the ancient passkey and override communications system security.]</text>
+		<text bitflag="321" id1="289160" id2="17" version="1065353216">[Next, you activate the monitoring station terminal and set it to the Republic frequency.]</text>
+		<text bitflag="3393" id1="289164" id2="17" version="1065353216">Hextal here. It worked! We've got control of the alien communications system!</text>
+		<text bitflag="3393" id1="289166" id2="17" version="1065353216">Now we can coordinate our strike teams and get vital intel out quickly and efficiently.</text>
+		<text bitflag="3393" id1="289168" id2="17" version="1065353216">This will make a big difference in the struggles to thwart the Empire here on Belsavis. You're a hero to the Republic.</text>
+		<text bitflag="1360" id1="289169" id2="17" version="1065353216">Just doing my job.</text>
+		<text bitflag="1360" id1="289170" id2="17" version="1065353216">Just doing my job.</text>
+		<text bitflag="1360" id1="289171" id2="17" version="1065353216">Just doing my job.</text>
+		<text bitflag="1360" id1="289172" id2="17" version="1065353216">Tell others of my success.</text>
+		<text bitflag="1360" id1="289174" id2="17" version="1065353216">Give credit where it's due.</text>
+		<text bitflag="3393" id1="289177" id2="17" version="1065353216">I'll definitely include your heroics in my report.</text>
+		<text bitflag="1360" id1="289179" id2="17" version="1065353216">Pay me.</text>
+		<text bitflag="1360" id1="289180" id2="17" version="1065353216">Pay me.</text>
+		<text bitflag="3393" id1="289181" id2="17" version="1065353216">The SIS will transfer the standard hazard pay sum into your account.</text>
+		<text bitflag="3393" id1="289183" id2="17" version="1065353216">Good luck out there.</text>
+		<text bitflag="321" id1="289185" id2="17" version="1065353216">[This station appears to be deactivated.]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>30</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/imperial_spy/chapter_2/event_and_finale/quesh_ground_control.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="643061" id2="17" version="1065353216">This is Quesh Control to Intelligence vessel.</text>
+		<text bitflag="1345" id1="643063" id2="17" version="1065353216">Your docking permit is approved, but your arrival is unscheduled. Please state your purpose.</text>
+		<text bitflag="1345" id1="643064" id2="17" version="1065353216">Quesh Control--I'm sending you a list of chemical compounds I'd like delivered to my ship.</text>
+		<text bitflag="1360" id1="643064" id2="17" version="1065353216">I need chemical supplies.</text>
+		<text bitflag="1345" id1="643065" id2="17" version="1065353216">I can't help you, sir. I'm not authorized to access our chemical inventory.</text>
+		<text bitflag="1345" id1="643067" id2="17" version="1065353216">I suggest you contact Administrator Kroius planetside. He oversees all chemical warehousing.</text>
+		<text bitflag="1345" id1="643068" id2="17" version="1065353216">Sorry, Quesh Control. I cleared my visit with the Citadel three days ago. I'm here to pick up a cargo of chemicals--sending data.</text>
+		<text bitflag="1360" id1="643068" id2="17" version="1065353216">Check your schedule again?</text>
+		<text bitflag="1345" id1="643069" id2="17" version="1065353216">Confirming. I'm sorry, I don't have you or your cargo listed.</text>
+		<text bitflag="1345" id1="643071" id2="17" version="1065353216">I suggest you take it up with the Citadel or with Administrator Kroius. He oversees all chemical warehousing on Quesh.</text>
+		<text bitflag="1345" id1="643072" id2="17" version="1065353216">Point me to the administrator, and I'll be out of your hair.</text>
+		<text bitflag="1360" id1="643072" id2="17" version="1065353216">I'll talk to Kroius.</text>
+		<text bitflag="1345" id1="643073" id2="17" version="1065353216">Uploading directions now.</text>
+		<text bitflag="1345" id1="643075" id2="17" version="1065353216">I gather chemical mining is one of the major industries?</text>
+		<text bitflag="1360" id1="643075" id2="17" version="1065353216">Tell me about this place.</text>
+		<text bitflag="1360" id1="643076" id2="17" version="1065353216">Incompetent. [Disconnect]</text>
+		<text bitflag="1345" id1="643077" id2="17" version="1065353216">This is Cipher Nine to Quesh Control. I'm here to review the security of your chemical storage units; I expect your cooperation.</text>
+		<text bitflag="1360" id1="643077" id2="17" version="1065353216">This is an inspection!</text>
+		<text bitflag="1345" id1="643078" id2="17" version="1065353216">Apologies, Cipher Nine. I'll inform Administrator Kroius. He oversees shipments from the chem-mines.</text>
+		<text bitflag="1345" id1="643079" id2="17" version="1065353216">I'll expect him ready upon my arrival.</text>
+		<text bitflag="1360" id1="643079" id2="17" version="1065353216">Go ahead.</text>
+		<text bitflag="1345" id1="643080" id2="17" version="1065353216">This is a surprise inspection, Quesh Control. Informing anyone would defeat the purpose.</text>
+		<text bitflag="1360" id1="643080" id2="17" version="1065353216">Keep this a secret.</text>
+		<text bitflag="1345" id1="643081" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="643083" id2="17" version="1065353216">Stay safe, sir. Republic forces are close to the base, and we can't guarantee protection. Quesh Control out.</text>
+		<text bitflag="1345" id1="643085" id2="17" version="1065353216">Forget the administrator. What can you tell me about this planet?</text>
+		<text bitflag="1360" id1="643085" id2="17" version="1065353216">I'd like to know about Quesh.</text>
+		<text bitflag="1345" id1="643086" id2="17" version="1065353216">Quesh is a war zone, sir. We're dying to protect the chemical shipments coming out of here. Republic's doing the same.</text>
+		<text bitflag="1345" id1="643088" id2="17" version="1065353216">Frankly, I suggest you arm yourself. Quesh Control out.</text>
+		<text bitflag="1345" id1="643090" id2="17" version="1065353216">Find the chemicals. Make the serum. You will be free again.</text>
+	</file_content>
+</stb_file>

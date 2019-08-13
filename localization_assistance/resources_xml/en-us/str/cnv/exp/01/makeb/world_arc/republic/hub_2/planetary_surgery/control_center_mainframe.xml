@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>25</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/makeb/world_arc/republic/hub_2/planetary_surgery/control_center_mainframe.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1018996" id2="17" version="1065353216">Lemda, Gez--we're at the drilling site's primary control center. An Imperial soldier--an ex-native--told us to open the emergency release valves.</text>
+		<text bitflag="1345" id1="1018998" id2="17" version="1065353216">He said it was the only way to release planetary core pressure. Do you agree?</text>
+		<text bitflag="1345" id1="1018999" id2="17" version="1065353216">Tectonic vibrations are still off the charts. Karranto Mesa just exploded. Good thing we're not there.</text>
+		<text bitflag="1345" id1="1019001" id2="17" version="1065353216">Those drilling lasers were working overtime. The heat buildup beneath the planet's crust is massive. Venting the core would cool things off.</text>
+		<text bitflag="1345" id1="1019002" id2="17" version="1065353216">Sounds like it's our only option. Slicing the mainframe now....</text>
+		<text bitflag="1360" id1="1019002" id2="17" version="1065353216">All right, then. Stand by.</text>
+		<text bitflag="1345" id1="1019004" id2="17" version="1065353216">One more thing: The Imperial gave us a slicing spike to override the Hutt security protocols--but there's no telling what else is coded into it.</text>
+		<text bitflag="1360" id1="1019004" id2="17" version="1065353216">I don't trust that Imperial.</text>
+		<text bitflag="1345" id1="1019006" id2="17" version="1065353216">Are we sure using this thing is worth the risk?</text>
+		<text bitflag="1345" id1="1019007" id2="17" version="1065353216">You mean bigger than the risk of us all dying right now?</text>
+		<text bitflag="1345" id1="1019009" id2="17" version="1065353216">Even if the spike has malicious code on it, the Empire can't possibly benefit. The planet's already doomed.</text>
+		<text bitflag="1345" id1="1019010" id2="17" version="1065353216">All that heat has to go someplace. Is there a way we could direct it to take out Toborro's forces?</text>
+		<text bitflag="1360" id1="1019010" id2="17" version="1065353216">Vent it where? At the enemy?</text>
+		<text bitflag="1345" id1="1019011" id2="17" version="1065353216">Nice thought, but no. Normally venting that much heat would cause an environmental catastrophe, but at this point... who cares?</text>
+		<text bitflag="1345" id1="1019015" id2="17" version="1065353216">It's working! Readings show seismic activity falling quickly. That should buy you enough time to get the ark's fuel rods.</text>
+		<text bitflag="1345" id1="1019016" id2="17" version="1065353216">I think it's time we finally paid Toborro a visit in person. Where can we find that Hutt?</text>
+		<text bitflag="1360" id1="1019016" id2="17" version="1065353216">Let's hit Toborro's main base.</text>
+		<text bitflag="1345" id1="1019017" id2="17" version="1065353216">You don't want to go anywhere near him until you get help from our new friends.</text>
+		<text bitflag="1345" id1="1019019" id2="17" version="1065353216">We're still cutting it awfully close. Can we use this equipment to reverse the core's damage?</text>
+		<text bitflag="1360" id1="1019019" id2="17" version="1065353216">Is there any more we can do?</text>
+		<text bitflag="1345" id1="1019020" id2="17" version="1065353216">If we had months, maybe--but we don't.</text>
+		<text bitflag="1345" id1="1019022" id2="17" version="1065353216">I might have to revise my opinion of Imperial soldiers. That one was actually useful before he died.</text>
+		<text bitflag="1360" id1="1019022" id2="17" version="1065353216">Our benefactor was honest.</text>
+		<text bitflag="1345" id1="1019023" id2="17" version="1065353216">We've had an interesting development while you were gone. Doctor Oggurobb isn't the only Hutt on Makeb who's changing sides.</text>
+		<text bitflag="1345" id1="1019025" id2="17" version="1065353216">The local Hutt Cartel leaders--minus Toborro--want to negotiate with you personally. Hurry back to camp and meet us in the diplomatic tent.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/republic/revan/l2_pn.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="201124" id2="17" version="1065353216">Shuttle = ready // Taral Five mission success = needs you!</text>
+		<text bitflag="3393" id1="201127" id2="17" version="1065353216">Taral Five objective = invade Imperial fortress + recover Gree computer // Enemy shuttle = prepped + fueled + waiting for you</text>
+		<text bitflag="1360" id1="201128" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="3393" id1="201129" id2="17" version="1065353216">Imperial shuttle = ready for boarding // The Force = be with you!</text>
+		<text bitflag="1360" id1="201131" id2="17" version="1065353216">Halt the plan. [Refuse Mission]</text>
+		<text bitflag="3393" id1="201132" id2="17" version="1065353216">Shuttle = placed on standby</text>
+		<text bitflag="3393" id1="201134" id2="17" version="1065353216">Shuttle bay = closed // You = have excellent day</text>
+		<text bitflag="1360" id1="987640" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987641" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="1360" id1="987642" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987643" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="3393" id1="1170377" id2="17" version="1065353216">Shuttle = ready // Taral Five mission success = needs you!</text>
+		<text bitflag="1360" id1="1170380" id2="17" version="1065353216">[Start Story Mode]</text>
+		<text bitflag="3393" id1="1170381" id2="17" version="1065353216">Imperial shuttle = ready for boarding // The Force = be with you!</text>
+		<text bitflag="1360" id1="1219952" id2="17" version="1065353216">[Start Story Mode]</text>
+		<text bitflag="1360" id1="1219954" id2="17" version="1065353216">[Start Veteran Mode]</text>
+	</file_content>
+</stb_file>

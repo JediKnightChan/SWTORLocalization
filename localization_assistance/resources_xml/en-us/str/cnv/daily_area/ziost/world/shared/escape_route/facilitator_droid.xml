@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/ziost/world/shared/escape_route/facilitator_droid.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1153744" id2="17" version="1065353216">This way to the evacuation site.</text>
+		<text bitflag="1345" id1="1153745" id2="17" version="1065353216">Remain calm, and wait for the next available shuttle at the designated landing site.</text>
+		<text bitflag="1345" id1="1153746" id2="17" version="1065353216">Look for other emergency facilitators like myself. We will direct you to the nearest evacuation site.</text>
+	</file_content>
+</stb_file>

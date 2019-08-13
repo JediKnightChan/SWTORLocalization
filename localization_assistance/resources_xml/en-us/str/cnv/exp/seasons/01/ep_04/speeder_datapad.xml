@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>1</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/01/ep_04/speeder_datapad.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1191005" id2="17" version="1065353216">&lt;&lt;Speeder Systems Diagnostic Report&gt;&gt;
+
+Operational Readiness: Negative
+
+--Systems Manifest--
+
+Power Core Status: Unknown
+Repulsorlift Status: Unknown
+Stabilizer Status: Unknown
+Control Unit Status: Reserve Power</text>
+	</file_content>
+</stb_file>

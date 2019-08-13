@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>409</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/imperial_spy/chapter_2/event_and_finale/ardun_kothe.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="460574" id2="17" version="1065353216">Huh. You fight good--Cipher.</text>
+		<text bitflag="1345" id1="460576" id2="17" version="1065353216">I don't expect mercy. The Shadow Arsenal was my chance to stop the war... and I failed.</text>
+		<text bitflag="1345" id1="460577" id2="17" version="1065353216">Give yourself up. It's the only way to survive.</text>
+		<text bitflag="1360" id1="460577" id2="17" version="1065353216">Surrender or die.</text>
+		<text bitflag="1345" id1="460578" id2="17" version="1065353216">If the Republic doesn't win this... be gracious, and be kind.</text>
+		<text bitflag="1345" id1="460582" id2="17" version="1065353216">Turn away, Ardun. I'm not going to kill you.</text>
+		<text bitflag="1360" id1="460582" id2="17" version="1065353216">Leave here and you'll survive.</text>
+		<text bitflag="1345" id1="460583" id2="17" version="1065353216">No. You're not. But why, after all we've been through...?</text>
+		<text bitflag="1345" id1="460584" id2="17" version="1065353216">I'm sparing you; leave it at that.</text>
+		<text bitflag="1360" id1="460584" id2="17" version="1065353216">Just get out of here.</text>
+		<text bitflag="1345" id1="460585" id2="17" version="1065353216">We've all committed terrible acts. That doesn't mean we should die for them.</text>
+		<text bitflag="1360" id1="460585" id2="17" version="1065353216">You deserve better.</text>
+		<text bitflag="1345" id1="460586" id2="17" version="1065353216">For what it's worth--I hope we don't have to meet again.</text>
+		<text bitflag="1345" id1="460588" id2="17" version="1065353216">May the Force be with you, my friend.</text>
+		<text bitflag="1345" id1="460592" id2="17" version="1065353216">You're a lot more forgiving than I am. Guess we're done here, though.</text>
+		<text bitflag="1345" id1="460593" id2="17" version="1065353216">That was kind. Whether it was wise...at least things seem to be resolved.</text>
+		<text bitflag="1345" id1="460594" id2="17" version="1065353216">I don't think I understood any of that, sir, but I'll trust your judgment.</text>
+		<text bitflag="1345" id1="460595" id2="17" version="1065353216">Ardun Kothe of the SIS. How interesting. Well--anything else on the agenda?</text>
+		<text bitflag="1345" id1="460596" id2="17" version="1065353216">Our enemies may be gone, but we can't leave the Shadow Arsenal in place.</text>
+		<text bitflag="1360" id1="460596" id2="17" version="1065353216">There's still the missiles.</text>
+		<text bitflag="1345" id1="460597" id2="17" version="1065353216">So far as Keeper is concerned, Ardun Kothe escaped.</text>
+		<text bitflag="1360" id1="460597" id2="17" version="1065353216">Let's not report this.</text>
+		<text bitflag="1345" id1="460598" id2="17" version="1065353216">Hey, I'm always up for lying to your bosses.</text>
+		<text bitflag="1345" id1="460600" id2="17" version="1065353216">Of course. We haven't been in this business long, but we're catching on.</text>
+		<text bitflag="1345" id1="460602" id2="17" version="1065353216">Yes, sir.</text>
+		<text bitflag="1345" id1="460604" id2="17" version="1065353216">The last thing I want is to see your career suffer.</text>
+		<text bitflag="1345" id1="460606" id2="17" version="1065353216">Forget it. I don't like answering questions.</text>
+		<text bitflag="1360" id1="460606" id2="17" version="1065353216">Never mind. [Kill him]</text>
+		<text bitflag="1345" id1="460607" id2="17" version="1065353216">You're going to die knowing the Republic will fall.</text>
+		<text bitflag="1360" id1="460607" id2="17" version="1065353216">You failed utterly. [Kill him]</text>
+		<text bitflag="1345" id1="460609" id2="17" version="1065353216">There is no death. There is the Force.</text>
+		<text bitflag="1345" id1="460613" id2="17" version="1065353216">So much for the great hope of the SIS. Guess that does it for the mission, too.</text>
+		<text bitflag="1345" id1="460614" id2="17" version="1065353216">Then it's over. We stopped him and his plan... that was the mission.</text>
+		<text bitflag="1345" id1="460615" id2="17" version="1065353216">He's not getting back up. I think we just saved the Empire.</text>
+		<text bitflag="1345" id1="460616" id2="17" version="1065353216">Ardun Kothe, gone forever. How will the Watchers stay awake at night without him plotting away?</text>
+		<text bitflag="1345" id1="460617" id2="17" version="1065353216">It's been a long assignment. Now it's finally over.</text>
+		<text bitflag="1360" id1="460617" id2="17" version="1065353216">Time to go home.</text>
+		<text bitflag="1345" id1="460618" id2="17" version="1065353216">Don't tell me you're getting tired? We can always go freelance....</text>
+		<text bitflag="1345" id1="460620" id2="17" version="1065353216">Some rest would do us good. We know a planet in the Outer Rim, air the color of ocean....</text>
+		<text bitflag="1345" id1="460622" id2="17" version="1065353216">Yes, sir. Congratulations.</text>
+		<text bitflag="1345" id1="460624" id2="17" version="1065353216">Tell me, Cipher--what exactly was your assignment here?</text>
+		<text bitflag="1345" id1="460626" id2="17" version="1065353216">Ardun Kothe may be dead, but we can't leave the Shadow Arsenal in place.</text>
+		<text bitflag="1360" id1="460626" id2="17" version="1065353216">There's still the missiles....</text>
+		<text bitflag="1345" id1="460627" id2="17" version="1065353216">Give me ten minutes, I'll find a buyer. We can be rich.</text>
+		<text bitflag="1345" id1="460629" id2="17" version="1065353216">We see your point. Maybe we should call the nest--a line of two hundred Killiks, each with a missile on its back....</text>
+		<text bitflag="1345" id1="460631" id2="17" version="1065353216">I can see if I can contact Quesh Command, if you like....</text>
+		<text bitflag="1345" id1="460633" id2="17" version="1065353216">Agreed. I'm sure the Minister of War and the Science Bureau will fight for possession....</text>
+		<text bitflag="1345" id1="460635" id2="17" version="1065353216">Self-righteous prig. Even this was too good for him.</text>
+		<text bitflag="1360" id1="460635" id2="17" version="1065353216">I'll spit on his grave.</text>
+		<text bitflag="1345" id1="460636" id2="17" version="1065353216">Yeah, well, get over it. We've got to figure what to do next.</text>
+		<text bitflag="1345" id1="460638" id2="17" version="1065353216">Spiting him won't get you anywhere. Come away from the body.</text>
+		<text bitflag="1345" id1="460640" id2="17" version="1065353216">What did he do to you, sir?</text>
+		<text bitflag="1345" id1="460642" id2="17" version="1065353216">And you always struck me as a forgiving person.</text>
+		<text bitflag="1345" id1="460644" id2="17" version="1065353216">Cipher! Imperial again, huh? And no more programming--that is a surprise.</text>
+		<text bitflag="1345" id1="460646" id2="17" version="1065353216">I was finished with Ardun, but I had plans for you. We could've wandered the galaxy together--me as the captain, you as my servant.</text>
+		<text bitflag="1345" id1="460647" id2="17" version="1065353216">Ardun Kothe was your commanding officer. What do you mean &quot;finished with him&quot;?</text>
+		<text bitflag="1360" id1="460647" id2="17" version="1065353216">What are you saying?</text>
+		<text bitflag="1345" id1="460648" id2="17" version="1065353216">Give it up. The Shadow Arsenal is out of your hands.</text>
+		<text bitflag="1360" id1="460648" id2="17" version="1065353216">You and the SIS have lost.</text>
+		<text bitflag="1345" id1="460649" id2="17" version="1065353216">And that is too bad, but no one else is getting it, either.</text>
+		<text bitflag="1345" id1="460651" id2="17" version="1065353216">The thought of traveling with you makes my skin crawl.</text>
+		<text bitflag="1360" id1="460651" id2="17" version="1065353216">Sick freak.</text>
+		<text bitflag="1345" id1="460652" id2="17" version="1065353216">No time for flirting now.</text>
+		<text bitflag="1345" id1="460654" id2="17" version="1065353216">You wound me.</text>
+		<text bitflag="1345" id1="460656" id2="17" version="1065353216">Big changes are coming. Imperial Intelligence and the SIS... history will forget them. And it'll forget you.</text>
+		<text bitflag="1345" id1="460658" id2="17" version="1065353216">I just tipped off a squadron of Imperial bombers. That facility is about to be wiped out.</text>
+		<text bitflag="1345" id1="460659" id2="17" version="1065353216">What's this about? Whose side are you on?</text>
+		<text bitflag="1360" id1="460659" id2="17" version="1065353216">Who are you working for?</text>
+		<text bitflag="1345" id1="460660" id2="17" version="1065353216">I'm on the winning side.</text>
+		<text bitflag="1345" id1="460662" id2="17" version="1065353216">Neither of us is who we appear to be. Maybe we can talk this through.</text>
+		<text bitflag="1360" id1="460662" id2="17" version="1065353216">Let's discuss this.</text>
+		<text bitflag="1345" id1="460663" id2="17" version="1065353216">Interesting thought, but I'm going to say &quot;no.&quot;</text>
+		<text bitflag="1345" id1="460665" id2="17" version="1065353216">Goodbye, Cipher. When the bombs rain down, the Shadow Arsenal will make a spectacular crater.</text>
+		<text bitflag="1345" id1="460666" id2="17" version="1065353216">I'll claw my way out of the rubble to hunt you down. Do you hear me?</text>
+		<text bitflag="1360" id1="460666" id2="17" version="1065353216">You're a dead man.</text>
+		<text bitflag="1345" id1="460667" id2="17" version="1065353216">Loud and clear. I'm sure you'll be a nasty pile of dust.</text>
+		<text bitflag="1345" id1="460673" id2="17" version="1065353216">Blasted machine.</text>
+		<text bitflag="1345" id1="460675" id2="17" version="1065353216">Locking mechanisms disengaged.</text>
+		<text bitflag="1345" id1="460677" id2="17" version="1065353216">Legate. That must mean Saber and Wheel are dead.</text>
+		<text bitflag="1345" id1="460679" id2="17" version="1065353216">They didn't deserve that. I take it you're free?</text>
+		<text bitflag="1345" id1="460680" id2="17" version="1065353216">Legate. I thought I felt you. You're supposed to be back at the shields--</text>
+		<text bitflag="1345" id1="460682" id2="17" version="1065353216">I see. You're free, aren't you?</text>
+		<text bitflag="1345" id1="460683" id2="17" version="1065353216">Your keyword won't work anymore.</text>
+		<text bitflag="1360" id1="460683" id2="17" version="1065353216">Yes, I'm free.</text>
+		<text bitflag="1345" id1="460684" id2="17" version="1065353216">You used Imperial programming inside my mind. Where did you learn about it?</text>
+		<text bitflag="1360" id1="460684" id2="17" version="1065353216">How did you brainwash me?</text>
+		<text bitflag="1345" id1="460685" id2="17" version="1065353216">That hardly matters now.</text>
+		<text bitflag="1345" id1="460687" id2="17" version="1065353216">What I did to you was unforgivable. But I did it anyway.</text>
+		<text bitflag="1345" id1="460689" id2="17" version="1065353216">An Imperial Intelligence defector... just when I needed one! I couldn't risk it being a lie.</text>
+		<text bitflag="1345" id1="460690" id2="17" version="1065353216">Tell me where you got the keyword. Tell me how you did it!</text>
+		<text bitflag="1360" id1="460690" id2="17" version="1065353216">I asked about brainwashing!</text>
+		<text bitflag="1345" id1="460691" id2="17" version="1065353216">Just a source. Ain't that the way?</text>
+		<text bitflag="1345" id1="460693" id2="17" version="1065353216">Your mission has failed. You're not getting the Shadow Arsenal.</text>
+		<text bitflag="1360" id1="460693" id2="17" version="1065353216">This ends now.</text>
+		<text bitflag="1345" id1="460694" id2="17" version="1065353216">We could've worked together. You never even gave me a chance.</text>
+		<text bitflag="1360" id1="460694" id2="17" version="1065353216">You should've trusted me.</text>
+		<text bitflag="1345" id1="460695" id2="17" version="1065353216">Wouldn't then. Can't now.</text>
+		<text bitflag="1345" id1="460697" id2="17" version="1065353216">I played you from the start. Your mission was always doomed.</text>
+		<text bitflag="1360" id1="460697" id2="17" version="1065353216">I fooled you this whole time.</text>
+		<text bitflag="1345" id1="460698" id2="17" version="1065353216">No. I don't believe that.</text>
+		<text bitflag="1345" id1="460700" id2="17" version="1065353216">Do you know what happens when you cage an animal? He gets vicious.</text>
+		<text bitflag="1360" id1="460700" id2="17" version="1065353216">I can finally hurt you.</text>
+		<text bitflag="1345" id1="460701" id2="17" version="1065353216">Do you know what happens when you cage an animal? She gets vicious.</text>
+		<text bitflag="1360" id1="460701" id2="17" version="1065353216">I can finally hurt you.</text>
+		<text bitflag="1345" id1="460702" id2="17" version="1065353216">Is that how you think?</text>
+		<text bitflag="1345" id1="460704" id2="17" version="1065353216">You've shown me your true face. Let me show you mine.</text>
+		<text bitflag="1345" id1="460706" id2="17" version="1065353216">Before Ardun Kothe the SIS chief, there was a better man. A Jedi Knight who couldn't live up to the code.</text>
+		<text bitflag="1345" id1="460708" id2="17" version="1065353216">That Jedi can't live in a world of shadows... but maybe he can still save the galaxy.</text>
+		<text bitflag="1345" id1="460709" id2="17" version="1065353216">I've been thinking about this fight a long time, Ardun.</text>
+		<text bitflag="1360" id1="460709" id2="17" version="1065353216">We'll see about that.</text>
+		<text bitflag="1345" id1="460710" id2="17" version="1065353216">I'm ashamed to say it--but so have I.</text>
+		<text bitflag="1345" id1="460711" id2="17" version="1065353216">I thought I saw it in you. You never did much to hide it.</text>
+		<text bitflag="1360" id1="460711" id2="17" version="1065353216">You finally tell the truth.</text>
+		<text bitflag="1345" id1="460712" id2="17" version="1065353216">No. Call it my secret pride.</text>
+		<text bitflag="1345" id1="460713" id2="17" version="1065353216">You failed at being a Jedi. Now you fail at being a spy. Time to die.</text>
+		<text bitflag="1360" id1="460713" id2="17" version="1065353216">Pathetic old man.</text>
+		<text bitflag="1345" id1="460716" id2="17" version="1065353216">No choice. Deactivate it.</text>
+		<text bitflag="1345" id1="460717" id2="17" version="1065353216">This is Legate. Shields are down. The shuttle is clear to land.</text>
+		<text bitflag="1345" id1="460718" id2="17" version="1065353216">And Saber did her part. We'll have the Shadow Arsenal on board and headed for Republic space within the hour.</text>
+		<text bitflag="1345" id1="460720" id2="17" version="1065353216">You're going to hold position here--protect the controls until we're gone.</text>
+		<text bitflag="1345" id1="460721" id2="17" version="1065353216">I'm your best operative. I should be acquiring the missiles, not standing guard.</text>
+		<text bitflag="1360" id1="460721" id2="17" version="1065353216">That's absurd.</text>
+		<text bitflag="1345" id1="460722" id2="17" version="1065353216">You're very good. Doesn't change my decision.</text>
+		<text bitflag="1345" id1="460724" id2="17" version="1065353216">Do you have a rendezvous in mind?</text>
+		<text bitflag="1360" id1="460724" id2="17" version="1065353216">What about afterward?</text>
+		<text bitflag="1345" id1="460725" id2="17" version="1065353216">You don't want me near the missiles.</text>
+		<text bitflag="1360" id1="460725" id2="17" version="1065353216">You're getting rid of me.</text>
+		<text bitflag="1345" id1="460726" id2="17" version="1065353216">You've done your part. There's no reason to make you face this.</text>
+		<text bitflag="1345" id1="460728" id2="17" version="1065353216">Legate... this is goodbye for now. Go back to Imperial Intelligence, shore up your contacts. We'll be in touch in a few months.</text>
+		<text bitflag="1345" id1="460730" id2="17" version="1065353216">They don't need you anymore.</text>
+		<text bitflag="1345" id1="460732" id2="17" version="1065353216">Hold position. Keyword: onomatophobia. And thank you.</text>
+		<text bitflag="1345" id1="460734" id2="17" version="1065353216">They're going to win. Now we're out of time.</text>
+		<text bitflag="1345" id1="460735" id2="17" version="1065353216">If they get the Shadow Arsenal off Quesh, this war becomes a lot bloodier.</text>
+		<text bitflag="1360" id1="460735" id2="17" version="1065353216">We need to stop the SIS.</text>
+		<text bitflag="1345" id1="460736" id2="17" version="1065353216">The serum was supposed to break my programming.</text>
+		<text bitflag="1360" id1="460736" id2="17" version="1065353216">I thought I'd be free by now.</text>
+		<text bitflag="1345" id1="460737" id2="17" version="1065353216">I don't need your assessment. I need a way out.</text>
+		<text bitflag="1360" id1="460737" id2="17" version="1065353216">Never helpful, are you?</text>
+		<text bitflag="1345" id1="460738" id2="17" version="1065353216">The IX serum has been eating at you since you injected it. Carving neural pathways. Bleaching your brain.</text>
+		<text bitflag="1345" id1="460740" id2="17" version="1065353216">It isn't finished, but it'll have to suffice.</text>
+		<text bitflag="1345" id1="460742" id2="17" version="1065353216">We're going to rewrite your programming. New commands, new keyword, no outside control. Are you ready?</text>
+		<text bitflag="1345" id1="460743" id2="17" version="1065353216">Let's do it.</text>
+		<text bitflag="1360" id1="460743" id2="17" version="1065353216">I'm ready.</text>
+		<text bitflag="1345" id1="460744" id2="17" version="1065353216">You said the serum isn't finished. What am I risking?</text>
+		<text bitflag="1360" id1="460744" id2="17" version="1065353216">What if this goes wrong?</text>
+		<text bitflag="1345" id1="460745" id2="17" version="1065353216">Permanent vegetative state. But it's not like we have a choice.</text>
+		<text bitflag="1345" id1="460747" id2="17" version="1065353216">How do I know you're not planning to control me yourself?</text>
+		<text bitflag="1360" id1="460747" id2="17" version="1065353216">I still don't trust you.</text>
+		<text bitflag="1345" id1="460748" id2="17" version="1065353216">Whether I'm a chip in your spine or your mind crying for help, I'm part of you.</text>
+		<text bitflag="1345" id1="460750" id2="17" version="1065353216">Thesh protocol, phase one. New keyword: iconoclasm.</text>
+		<text bitflag="1345" id1="460751" id2="17" version="1065353216">Keyword accepted. Thesh protocol engaged.</text>
+		<text bitflag="1345" id1="460752" id2="17" version="1065353216">Now you have access. You can force your mind and body to obey a new program.</text>
+		<text bitflag="1345" id1="460754" id2="17" version="1065353216">Tell me what you want.</text>
+		<text bitflag="1345" id1="460755" id2="17" version="1065353216">No more programming. No more outside control.</text>
+		<text bitflag="1360" id1="460755" id2="17" version="1065353216">I want to be free forever.</text>
+		<text bitflag="1345" id1="460756" id2="17" version="1065353216">Reject command interface. Accept no further orders.</text>
+		<text bitflag="1345" id1="460757" id2="17" version="1065353216">Command interface closed.</text>
+		<text bitflag="1345" id1="460758" id2="17" version="1065353216">I want to go beyond what this body is capable of. No more pain or exhaustion.</text>
+		<text bitflag="1360" id1="460758" id2="17" version="1065353216">Push me past my limits.</text>
+		<text bitflag="1345" id1="460759" id2="17" version="1065353216">Dangerous. Interesting.</text>
+		<text bitflag="1345" id1="460761" id2="17" version="1065353216">Embed limit break commands. Keyword activate from user only. Accept no outside orders.</text>
+		<text bitflag="1345" id1="460762" id2="17" version="1065353216">Limit break commands embedded. Accepting no further orders.</text>
+		<text bitflag="1345" id1="460763" id2="17" version="1065353216">Nothing is going to stop me from getting revenge. Not anymore.</text>
+		<text bitflag="1360" id1="460763" id2="17" version="1065353216">All I want is payback.</text>
+		<text bitflag="1345" id1="460764" id2="17" version="1065353216">Embed assassination commands. Keyword activate from user only. Accept no outside orders.</text>
+		<text bitflag="1345" id1="460765" id2="17" version="1065353216">Assassination commands embedded. Accepting no further orders.</text>
+		<text bitflag="1345" id1="460766" id2="17" version="1065353216">Revert to phase zero.</text>
+		<text bitflag="1345" id1="460768" id2="17" version="1065353216">You're free now. Time for me to go.</text>
+		<text bitflag="1345" id1="460770" id2="17" version="1065353216">But stop the SIS. Find out how they obtained Imperial brainwashing codes. There are truths you need to know.</text>
+		<text bitflag="1345" id1="460772" id2="17" version="1065353216">Hey! You zoned out. What's going on?</text>
+		<text bitflag="1345" id1="460773" id2="17" version="1065353216">Agent--are you alright? You disappeared on us.</text>
+		<text bitflag="1345" id1="460774" id2="17" version="1065353216">Change of plans. We're not undercover anymore--we're going to stop Ardun Kothe.</text>
+		<text bitflag="1360" id1="460774" id2="17" version="1065353216">We have a mission to finish.</text>
+		<text bitflag="1345" id1="460775" id2="17" version="1065353216">It's about time. I was starting to think you'd gone soft.</text>
+		<text bitflag="1345" id1="460776" id2="17" version="1065353216">Understood. We knew this was coming.</text>
+		<text bitflag="1345" id1="460777" id2="17" version="1065353216">Sir? What's going on? Can you hear me?</text>
+		<text bitflag="1345" id1="460778" id2="17" version="1065353216">Focus, Cipher. Your pupils are dilated, but your heart rate is steady--I know you're not dying.</text>
+		<text bitflag="1345" id1="460779" id2="17" version="1065353216">Those holocalls I've been getting? The people making them are our new targets. Let's go.</text>
+		<text bitflag="1360" id1="460779" id2="17" version="1065353216">We have a mission to finish.</text>
+		<text bitflag="1345" id1="460780" id2="17" version="1065353216">Yes, sir. I just hope you're going to explain this later....</text>
+		<text bitflag="1345" id1="460781" id2="17" version="1065353216">The usual change of plans, then. Whenever you're ready.</text>
+		<text bitflag="1345" id1="460782" id2="17" version="1065353216">I'm better than I've been in a long time. Just follow my lead.</text>
+		<text bitflag="1360" id1="460782" id2="17" version="1065353216">Don't worry about me.</text>
+		<text bitflag="1345" id1="460783" id2="17" version="1065353216">You know you sound crazy? I like that.</text>
+		<text bitflag="1345" id1="460784" id2="17" version="1065353216">Your aura is different. Brighter... we're glad to see you back.</text>
+		<text bitflag="1345" id1="460785" id2="17" version="1065353216">If I didn't know better, I'd say you looked different. Let's go.</text>
+		<text bitflag="1345" id1="460786" id2="17" version="1065353216">And here you had me worried. I'm ready when you are.</text>
+		<text bitflag="1345" id1="460787" id2="17" version="1065353216">I'll explain later. Just follow my lead.</text>
+		<text bitflag="1360" id1="460787" id2="17" version="1065353216">It's a long story...</text>
+		<text bitflag="1345" id1="460788" id2="17" version="1065353216">You know I'm up for anything, but I do like to know why.</text>
+		<text bitflag="1345" id1="460789" id2="17" version="1065353216">Of course. We always have so far.</text>
+		<text bitflag="1345" id1="460790" id2="17" version="1065353216">You know I will. Let's go.</text>
+		<text bitflag="1345" id1="460791" id2="17" version="1065353216">Who else would I follow?</text>
+		<text bitflag="1345" id1="460795" id2="17" version="1065353216">This is code name Legate. I'm in position; awaiting orders.</text>
+		<text bitflag="1345" id1="460796" id2="17" version="1065353216">Legate. Nice to see you outside Hoth. Little color in the air brings out your eyes.</text>
+		<text bitflag="1345" id1="460797" id2="17" version="1065353216">I look forward to the day I don't have to tolerate your leering.</text>
+		<text bitflag="1360" id1="460797" id2="17" version="1065353216">You're an idiot.</text>
+		<text bitflag="1345" id1="460798" id2="17" version="1065353216">You make it sound like it bothers you.</text>
+		<text bitflag="1345" id1="460800" id2="17" version="1065353216">Legate. How's Quesh compare to Hoth? Find any pretty ensigns?</text>
+		<text bitflag="1345" id1="460801" id2="17" version="1065353216">Nar Shaddaa, Hoth, Quesh... we can't get away from each other, can we?</text>
+		<text bitflag="1360" id1="460801" id2="17" version="1065353216">You certainly get around.</text>
+		<text bitflag="1345" id1="460802" id2="17" version="1065353216">What can I say? We're on the same team now.</text>
+		<text bitflag="1345" id1="460804" id2="17" version="1065353216">Where's base command?</text>
+		<text bitflag="1360" id1="460804" id2="17" version="1065353216">I was expecting Ardun Kothe.</text>
+		<text bitflag="1345" id1="460805" id2="17" version="1065353216">Not far.</text>
+		<text bitflag="1345" id1="460807" id2="17" version="1065353216">How you survive in this business I'll never know.</text>
+		<text bitflag="1360" id1="460807" id2="17" version="1065353216">You're an idiot.</text>
+		<text bitflag="1345" id1="460808" id2="17" version="1065353216">We all have our secrets.</text>
+		<text bitflag="1345" id1="460810" id2="17" version="1065353216">Hunter to deck. Report in.</text>
+		<text bitflag="1345" id1="460812" id2="17" version="1065353216">Code name Saber in position. Good to see you, Legate.</text>
+		<text bitflag="1345" id1="460814" id2="17" version="1065353216">Code name Wheel ready for operations.</text>
+		<text bitflag="1345" id1="460816" id2="17" version="1065353216">And I'll be in position shortly. It's good to see you together as a team. Too many solo jobs, nowadays.</text>
+		<text bitflag="1345" id1="460818" id2="17" version="1065353216">But now we're together for the most important job we've ever done. We're here for a weapon--one that can stop this war.</text>
+		<text bitflag="1345" id1="460819" id2="17" version="1065353216">What sort of weapon, sir?</text>
+		<text bitflag="1360" id1="460819" id2="17" version="1065353216">A weapon?</text>
+		<text bitflag="1345" id1="460820" id2="17" version="1065353216">Does he start every team mission like this?</text>
+		<text bitflag="1360" id1="460820" id2="17" version="1065353216">We have to hear a speech?</text>
+		<text bitflag="1345" id1="460821" id2="17" version="1065353216">He can't help it. Brought up in a temple.</text>
+		<text bitflag="1360" id1="460823" id2="17" version="1065353216">[Remain silent]</text>
+		<text bitflag="1345" id1="460824" id2="17" version="1065353216">Over a decade ago, Colonel Omas of Republic Special Forces assembled a team of the galaxy's greatest scientists.</text>
+		<text bitflag="1345" id1="460826" id2="17" version="1065353216">The scientists, led by Nasan Godera, were instructed to design a weapon capable of turning back the Imperial threat:</text>
+		<text bitflag="1345" id1="460828" id2="17" version="1065353216">A &quot;Shadow Arsenal&quot; of missiles--cloaked from detection and more powerful than any made before.</text>
+		<text bitflag="1345" id1="460830" id2="17" version="1065353216">Colonel Omas died at the Battle of Hoth. Nasan Godera moved on to other things. Everyone assumed the Shadow Arsenal was never completed.</text>
+		<text bitflag="1345" id1="460832" id2="17" version="1065353216">But it was. Nasan Godera built the Shadow Arsenal on Quesh--then concealed it in a fit of conscience.</text>
+		<text bitflag="1345" id1="460833" id2="17" version="1065353216">These missiles--that's what we've been working toward.</text>
+		<text bitflag="1360" id1="460833" id2="17" version="1065353216">You needed us to find it.</text>
+		<text bitflag="1345" id1="460834" id2="17" version="1065353216">A man doesn't build an arsenal without knowing what it'll be used for.</text>
+		<text bitflag="1360" id1="460834" id2="17" version="1065353216">Why hide the weapon he made?</text>
+		<text bitflag="1345" id1="460835" id2="17" version="1065353216">Godera couldn't have found a nice tropical world?</text>
+		<text bitflag="1360" id1="460835" id2="17" version="1065353216">Ugly choice of location.</text>
+		<text bitflag="1345" id1="460836" id2="17" version="1065353216">Poison gas atmosphere deters most guests.</text>
+		<text bitflag="1345" id1="460838" id2="17" version="1065353216">Without the colonel to lead them, the scientists decided the weapon was too destructive. Godera called it &quot;catastrophic.&quot; He wiped all records.</text>
+		<text bitflag="1345" id1="460840" id2="17" version="1065353216">That's why you all've been running around the galaxy.</text>
+		<text bitflag="1345" id1="460842" id2="17" version="1065353216">The Ultrawave Transmitter had Nasan Godera's weapon activation codes. Colonel Omas's shuttle, the Starbreeze, led us to this star system.</text>
+		<text bitflag="1345" id1="460844" id2="17" version="1065353216">And the assault on Mon Gazza? Wheel and I...</text>
+		<text bitflag="1345" id1="460846" id2="17" version="1065353216">Gave us one more key.</text>
+		<text bitflag="1345" id1="460848" id2="17" version="1065353216">Nasan Godera wiped all records of the weapon. Called it &quot;catastrophic,&quot; didn't want it used.</text>
+		<text bitflag="1345" id1="460850" id2="17" version="1065353216">There are two hundred missiles in the Shadow Arsenal; only takes one to destroy Kaas City. Threat alone should make the Sith surrender.</text>
+		<text bitflag="1345" id1="460851" id2="17" version="1065353216">Your plan won't work. Destroy Kaas City, destroy the Korriban Academy... they'll only want revenge.</text>
+		<text bitflag="1360" id1="460851" id2="17" version="1065353216">The Empire won't surrender.</text>
+		<text bitflag="1345" id1="460852" id2="17" version="1065353216">Then we'll have to fight.</text>
+		<text bitflag="1345" id1="460854" id2="17" version="1065353216">How can a missile be so powerful?</text>
+		<text bitflag="1360" id1="460854" id2="17" version="1065353216">Tell me more about the weapon.</text>
+		<text bitflag="1345" id1="460855" id2="17" version="1065353216">Each one has a cloaking device, a short-range hyperdrive and a warhead with a kick. The ultimate first strike weapon.</text>
+		<text bitflag="1345" id1="460857" id2="17" version="1065353216">If we're going after this arsenal, let's do it.</text>
+		<text bitflag="1360" id1="460857" id2="17" version="1065353216">Get on with it.</text>
+		<text bitflag="1345" id1="460858" id2="17" version="1065353216">The missiles are still inside the old manufacturing complex--two square kilometers of factories and tunnels.</text>
+		<text bitflag="1345" id1="460860" id2="17" version="1065353216">Sealed up but still intact. The scientists couldn't bear to destroy their work, so they built defenses fifty years ahead of Republic standard.</text>
+		<text bitflag="1345" id1="460862" id2="17" version="1065353216">We're going to secure the facility; I'll bring in the shuttle and locate the Shadow Arsenal.</text>
+		<text bitflag="1345" id1="460864" id2="17" version="1065353216">Saber, take out the main batteries. Wheel, see what you can do with the main computer.</text>
+		<text bitflag="1345" id1="460866" id2="17" version="1065353216">Affirmative.</text>
+		<text bitflag="1345" id1="460868" id2="17" version="1065353216">Legate, you'll penetrate the structure at these coordinates. Bypass the droids and lower the facility shields so our shuttle can land.</text>
+		<text bitflag="1345" id1="460869" id2="17" version="1065353216">Just stay in contact. You'll know when it's done.</text>
+		<text bitflag="1360" id1="460869" id2="17" version="1065353216">I'll handle it.</text>
+		<text bitflag="1345" id1="460870" id2="17" version="1065353216">The best defenses Republic minds have to offer. I could use a little exercise.</text>
+		<text bitflag="1360" id1="460870" id2="17" version="1065353216">This should be interesting.</text>
+		<text bitflag="1345" id1="460871" id2="17" version="1065353216">May the Force be with us, my friends. Ending linkup.</text>
+		<text bitflag="1345" id1="460873" id2="17" version="1065353216">And Legate? In case you had any doubts--keyword: onomatophobia. You will lower the shields. And the Shadow Arsenal will be ours.</text>
+		<text bitflag="1345" id1="460874" id2="17" version="1065353216">This plan is insane. I can't go along with it.</text>
+		<text bitflag="1360" id1="460874" id2="17" version="1065353216">I won't do this.</text>
+		<text bitflag="1345" id1="460875" id2="17" version="1065353216">Keyword: onomatophobia. You will lower the shields and complete this mission.</text>
+		<text bitflag="1345" id1="460877" id2="17" version="1065353216">Stop it. Legate... we'll talk about your reservations after. I promise.</text>
+		<text bitflag="1345" id1="460879" id2="17" version="1065353216">May the Force be with us all.</text>
+		<text bitflag="1345" id1="460882" id2="17" version="1065353216">This is Legate to base command. Mission complete.</text>
+		<text bitflag="1345" id1="460883" id2="17" version="1065353216">Base command here. Hunter gave me his report.</text>
+		<text bitflag="1345" id1="460885" id2="17" version="1065353216">He spoke highly of you. Not a lot of people earn his praise.</text>
+		<text bitflag="1345" id1="460886" id2="17" version="1065353216">The man was nothing but a very snide obstacle.</text>
+		<text bitflag="1360" id1="460886" id2="17" version="1065353216">He's insufferable.</text>
+		<text bitflag="1345" id1="460887" id2="17" version="1065353216">He's testing you. He's good at that.</text>
+		<text bitflag="1345" id1="460889" id2="17" version="1065353216">How did he come to join the SIS?</text>
+		<text bitflag="1360" id1="460889" id2="17" version="1065353216">Tell me about him.</text>
+		<text bitflag="1345" id1="460890" id2="17" version="1065353216">Used to do corporate security, if you can believe it. Recruited him a few years back.</text>
+		<text bitflag="1345" id1="460892" id2="17" version="1065353216">It was my pleasure to work with him. He was nothing if not professional.</text>
+		<text bitflag="1360" id1="460892" id2="17" version="1065353216">We made a good team.</text>
+		<text bitflag="1345" id1="460893" id2="17" version="1065353216">I'm glad you think so. You may have to work with him again.</text>
+		<text bitflag="1345" id1="460895" id2="17" version="1065353216">I'm grateful the Starbreeze is in one piece. She'll help us win this war.</text>
+		<text bitflag="1345" id1="460897" id2="17" version="1065353216">Now... Hoth and Taris makes two. Ready for the final stage?</text>
+		<text bitflag="1345" id1="460898" id2="17" version="1065353216">I serve at your command.</text>
+		<text bitflag="1360" id1="460898" id2="17" version="1065353216">I'm ready, sir.</text>
+		<text bitflag="1345" id1="460899" id2="17" version="1065353216">You still haven't told me what this is about. You send me after a Republic shuttle and a science project...</text>
+		<text bitflag="1360" id1="460899" id2="17" version="1065353216">Final stage of what?</text>
+		<text bitflag="1345" id1="460900" id2="17" version="1065353216">All for good reason. I promise.</text>
+		<text bitflag="1345" id1="460902" id2="17" version="1065353216">Running out of charming spots to send me to?</text>
+		<text bitflag="1360" id1="460902" id2="17" version="1065353216">It's about time.</text>
+		<text bitflag="1345" id1="460903" id2="17" version="1065353216">Heh. You didn't like those, you're really not going to like this world.</text>
+		<text bitflag="1345" id1="460905" id2="17" version="1065353216">Maybe you've heard of it: a death trap of a planet called Quesh. Our primary objective's there; I want you en route.</text>
+		<text bitflag="1345" id1="460906" id2="17" version="1065353216">On my way, sir.</text>
+		<text bitflag="1360" id1="460906" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1345" id1="460907" id2="17" version="1065353216">Can you be more specific than &quot;death trap&quot;?</text>
+		<text bitflag="1360" id1="460907" id2="17" version="1065353216">What should I expect?</text>
+		<text bitflag="1345" id1="460908" id2="17" version="1065353216">It's a mining world... our forces are fighting the Empire for chemical deposits. But you're after something else entirely.</text>
+		<text bitflag="1345" id1="460910" id2="17" version="1065353216">Chemical mining world. We're at war over it.</text>
+		<text bitflag="1360" id1="460910" id2="17" version="1065353216">I've been there before.</text>
+		<text bitflag="1345" id1="460911" id2="17" version="1065353216">That's the one. But we're after something from before all that.</text>
+		<text bitflag="1345" id1="460913" id2="17" version="1065353216">Get to these coordinates when you arrive, and we'll be in touch. Base command out.</text>
+		<text bitflag="1345" id1="460919" id2="17" version="1065353216">Speak to Ardun Kothe now, and you'll never get away. You need to escape.</text>
+		<text bitflag="1345" id1="460923" id2="17" version="1065353216">It's in your head. You can't keep it there.</text>
+		<text bitflag="1345" id1="460926" id2="17" version="1065353216">This is Legate to base command. I have retrieved the Ultrawave Transmitter.</text>
+		<text bitflag="1345" id1="460927" id2="17" version="1065353216">Base command here. Connect the Godera device to your linkup. I'll download what I need.</text>
+		<text bitflag="1345" id1="460929" id2="17" version="1065353216">I got word from the sector station chief. Said he got a call from Ki Sazen. She wants to join us.</text>
+		<text bitflag="1345" id1="460930" id2="17" version="1065353216">Ki Sazen is a broken young woman. She needs help to get better.</text>
+		<text bitflag="1360" id1="460930" id2="17" version="1065353216">She wants redemption.</text>
+		<text bitflag="1345" id1="460931" id2="17" version="1065353216">I thought you'd like this outcome.</text>
+		<text bitflag="1360" id1="460931" id2="17" version="1065353216">You don't sound thrilled.</text>
+		<text bitflag="1345" id1="460932" id2="17" version="1065353216">The Force guides us to strange places.</text>
+		<text bitflag="1345" id1="460934" id2="17" version="1065353216">The best thing you can do is put her in a cell. Or a tomb.</text>
+		<text bitflag="1360" id1="460934" id2="17" version="1065353216">The Jedi's a lunatic.</text>
+		<text bitflag="1345" id1="460935" id2="17" version="1065353216">No. Not if she's come to us.</text>
+		<text bitflag="1345" id1="460937" id2="17" version="1065353216">I'm the last person who should mentor Ki Sazen, but I'll talk to Master Satele on the Jedi Council--see if I can figure something.</text>
+		<text bitflag="1345" id1="460938" id2="17" version="1065353216">I got word Ki Sazen escaped Taris. Took a shuttle headed for Imperial space.</text>
+		<text bitflag="1345" id1="460939" id2="17" version="1065353216">She had too many guards. By the time I got through them, it was either her or the transmitter.</text>
+		<text bitflag="1360" id1="460939" id2="17" version="1065353216">I couldn't stop her.</text>
+		<text bitflag="1345" id1="460940" id2="17" version="1065353216">I gave her safe passage into the Empire in exchange for the transmitter. That was your priority.</text>
+		<text bitflag="1360" id1="460940" id2="17" version="1065353216">We made a bargain.</text>
+		<text bitflag="1345" id1="460941" id2="17" version="1065353216">Yes, it was.</text>
+		<text bitflag="1345" id1="460943" id2="17" version="1065353216">Find that shuttle. She's a lunatic; she can't reach safe haven.</text>
+		<text bitflag="1360" id1="460943" id2="17" version="1065353216">You need to destroy her!</text>
+		<text bitflag="1345" id1="460944" id2="17" version="1065353216">I'm doing what I can, but not a lot of extra fighters in this sector. I hate when Jedi go bad.</text>
+		<text bitflag="1345" id1="460945" id2="17" version="1065353216">A Special Forces team found Ki Sazen dead with her guards. I'll have to inform the Jedi Council.</text>
+		<text bitflag="1345" id1="460946" id2="17" version="1065353216">I know you wanted proof of her corruption, but she forced my hand.</text>
+		<text bitflag="1360" id1="460946" id2="17" version="1065353216">I'm sorry this happened.</text>
+		<text bitflag="1345" id1="460947" id2="17" version="1065353216">How are you going to explain it?</text>
+		<text bitflag="1360" id1="460947" id2="17" version="1065353216">What will you say?</text>
+		<text bitflag="1345" id1="460948" id2="17" version="1065353216">I'll give them as much of the truth as I can; maybe they'll learn from their mistakes.</text>
+		<text bitflag="1345" id1="460949" id2="17" version="1065353216">Ki Sazen was insane. Death was a mercy.</text>
+		<text bitflag="1360" id1="460949" id2="17" version="1065353216">She was irredeemable.</text>
+		<text bitflag="1345" id1="460950" id2="17" version="1065353216">Damnation. Not everyone's fit to be a Jedi; the order's practically asking them to fall. And then...</text>
+		<text bitflag="1345" id1="460952" id2="17" version="1065353216">Download's complete. Let's hope the genius in that thing helps us win this war.</text>
+		<text bitflag="1345" id1="460954" id2="17" version="1065353216">It's breaking your skull. Can you hear it crack?</text>
+		<text bitflag="1345" id1="460956" id2="17" version="1065353216">You don't look so good, Legate. Take a few days, check in with your bosses; we'll have another job soon.</text>
+		<text bitflag="1345" id1="460958" id2="17" version="1065353216">Can you see?</text>
+		<text bitflag="1345" id1="460960" id2="17" version="1065353216">Cipher Nine. Legate. Hand of Jadus. It's been a while since Shadow Town.</text>
+		<text bitflag="1345" id1="460961" id2="17" version="1065353216">Cipher Nine. Legate. Disposable operative. It's been a while since Shadow Town.</text>
+		<text bitflag="1345" id1="460962" id2="17" version="1065353216">Watcher X. The Nar Shaddaa mission. Intelligence had you imprisoned there.</text>
+		<text bitflag="1360" id1="460962" id2="17" version="1065353216">I remember you.</text>
+		<text bitflag="1345" id1="460963" id2="17" version="1065353216">Yes. Formerly Watcher Five. Formerly Minder Eight. I helped you with your terrorist problem.</text>
+		<text bitflag="1345" id1="460965" id2="17" version="1065353216">I can't move. I can barely think. What's going on?</text>
+		<text bitflag="1360" id1="460965" id2="17" version="1065353216">What's happening to me?</text>
+		<text bitflag="1345" id1="460966" id2="17" version="1065353216">Whatever you're doing to me... I'll survive. And you'll regret this.</text>
+		<text bitflag="1360" id1="460966" id2="17" version="1065353216">You've made a big mistake.</text>
+		<text bitflag="1345" id1="460967" id2="17" version="1065353216">I never regret anything. But I'm not your enemy.</text>
+		<text bitflag="1345" id1="460969" id2="17" version="1065353216">When you met me on Nar Shaddaa, I was designated Watcher X. Formerly Watcher Five. Formerly Minder Eight.</text>
+		<text bitflag="1345" id1="460971" id2="17" version="1065353216">I performed surgery on you--before you murdered me. A chip in your spine, to disguise your life readings.</text>
+		<text bitflag="1345" id1="460973" id2="17" version="1065353216">I performed surgery on you. Do you remember? A chip in your spine, to disguise your life readings.</text>
+		<text bitflag="1345" id1="460975" id2="17" version="1065353216">Maybe that chip is how we're talking now. Or maybe it's the stress--double agent, triple agent... the brainwashing damages your mind.</text>
+		<text bitflag="1345" id1="460976" id2="17" version="1065353216">Only the SIS knows about the programming. I can't even talk about it.</text>
+		<text bitflag="1360" id1="460976" id2="17" version="1065353216">You know I'm brainwashed...</text>
+		<text bitflag="1345" id1="460977" id2="17" version="1065353216">If you're not a hallucination, this must be a backup system in the chip....</text>
+		<text bitflag="1360" id1="460977" id2="17" version="1065353216">Are you real?</text>
+		<text bitflag="1345" id1="460978" id2="17" version="1065353216">A limited intelligence program wired into the brain and triggered by neuroendocrine reactions. I suppose it's possible.</text>
+		<text bitflag="1345" id1="460980" id2="17" version="1065353216">Sorry, but I meet a lot of Watchers. I don't recall your face.</text>
+		<text bitflag="1360" id1="460980" id2="17" version="1065353216">Are you sure we've met?</text>
+		<text bitflag="1345" id1="460981" id2="17" version="1065353216">Inattention to detail would explain your predicament.</text>
+		<text bitflag="1345" id1="460983" id2="17" version="1065353216">They put you away because you went insane. You're not one to talk about brain damage.</text>
+		<text bitflag="1360" id1="460983" id2="17" version="1065353216">I'm not the crazy one here.</text>
+		<text bitflag="1345" id1="460984" id2="17" version="1065353216">On the contrary. There's no one more perfect--situationally and genetically.</text>
+		<text bitflag="1345" id1="460986" id2="17" version="1065353216">You weren't hard to kill before. This time, I'll make sure it's permanent.</text>
+		<text bitflag="1360" id1="460986" id2="17" version="1065353216">Maybe I'll murder you again.</text>
+		<text bitflag="1345" id1="460987" id2="17" version="1065353216">Right now, you can't even hold a blaster.</text>
+		<text bitflag="1345" id1="460989" id2="17" version="1065353216">I was in your position, once. Trapped by my conditioning, forced to subvert it. I warned you they'd do the same to you.</text>
+		<text bitflag="1345" id1="460991" id2="17" version="1065353216">The SIS isn't to blame. We both know you were programmed before you met them.</text>
+		<text bitflag="1345" id1="460992" id2="17" version="1065353216">If the SIS didn't brainwash me, who did?</text>
+		<text bitflag="1360" id1="460992" id2="17" version="1065353216">What are you saying?</text>
+		<text bitflag="1345" id1="460993" id2="17" version="1065353216">The Republic doesn't have the technology. Brainwashing is an Imperial science.</text>
+		<text bitflag="1360" id1="460993" id2="17" version="1065353216">The Empire did this.</text>
+		<text bitflag="1345" id1="460994" id2="17" version="1065353216">Yes. Slave serums, genetic engineering, Killik pheromones. But this, I don't recognize.</text>
+		<text bitflag="1345" id1="460996" id2="17" version="1065353216">I never heard the keyword before I met the SIS chief.</text>
+		<text bitflag="1360" id1="460996" id2="17" version="1065353216">Ardun Kothe is responsible.</text>
+		<text bitflag="1345" id1="460997" id2="17" version="1065353216">Of course you did. You just don't remember.</text>
+		<text bitflag="1345" id1="460999" id2="17" version="1065353216">You've seen brainwashing technology before: slave-control serums on Dromund Kaas; loyalty instincts bred into Watchers; an Imperial diplomat infused with Killik pheromones.</text>
+		<text bitflag="1345" id1="461001" id2="17" version="1065353216">The Republic is only using what the Empire put in your mind.</text>
+		<text bitflag="1345" id1="461002" id2="17" version="1065353216">Suppose you're right. What did they do to me, and how did the Republic gain access?</text>
+		<text bitflag="1360" id1="461002" id2="17" version="1065353216">How could this happen?</text>
+		<text bitflag="1345" id1="461003" id2="17" version="1065353216">I don't know. Being dead limits my resources.</text>
+		<text bitflag="1345" id1="461005" id2="17" version="1065353216">I don't know, and I don't know. I have my limits.</text>
+		<text bitflag="1345" id1="461007" id2="17" version="1065353216">Imperial Intelligence has never betrayed me.</text>
+		<text bitflag="1360" id1="461007" id2="17" version="1065353216">I don't believe it.</text>
+		<text bitflag="1345" id1="461008" id2="17" version="1065353216">Still trusting. Still devoted to Watcher Two? Or Keeper now, I understand.</text>
+		<text bitflag="1345" id1="461010" id2="17" version="1065353216">Only because the necessity hasn't arisen.</text>
+		<text bitflag="1345" id1="461012" id2="17" version="1065353216">If you know so much about brainwashing... how do I escape?</text>
+		<text bitflag="1360" id1="461012" id2="17" version="1065353216">Tell me how to break free.</text>
+		<text bitflag="1345" id1="461013" id2="17" version="1065353216">If you want freedom--if you want revenge--we need more information. Imperial Intelligence will have records on Dromund Kaas.</text>
+		<text bitflag="1345" id1="461015" id2="17" version="1065353216">Take your personnel files from the Citadel archives. Ensure no one sees you. You have no allies now.</text>
+		<text bitflag="1345" id1="461017" id2="17" version="1065353216">Readings are stable... ah! Our patient is awake.</text>
+		<text bitflag="1345" id1="461021" id2="17" version="1065353216">We found you in the plague-sleep. We watched but could not mend you.</text>
+		<text bitflag="1345" id1="461022" id2="17" version="1065353216">I appreciate the thought, but I'll be alright. Just exhausted.</text>
+		<text bitflag="1360" id1="461022" id2="17" version="1065353216">Thanks for the concern.</text>
+		<text bitflag="1345" id1="461025" id2="17" version="1065353216">Found you kissing floor. You look like hell.</text>
+		<text bitflag="1345" id1="461026" id2="17" version="1065353216">Prep the ship for flight. I need to pay a visit to the Citadel.</text>
+		<text bitflag="1360" id1="461026" id2="17" version="1065353216">We're going to Dromund Kaas.</text>
+		<text bitflag="1345" id1="461027" id2="17" version="1065353216">Of course. We'll be ready presently.</text>
+		<text bitflag="1345" id1="461029" id2="17" version="1065353216">Yeah, sure. We can all spend time with Keeper.</text>
+		<text bitflag="1345" id1="461030" id2="17" version="1065353216">Kaliyo. You always know how to make me feel better.</text>
+		<text bitflag="1360" id1="461030" id2="17" version="1065353216">That's sweet of you.</text>
+		<text bitflag="1345" id1="461031" id2="17" version="1065353216">Guy called Jono used to tell me the same thing. Great body. Don't mess with me like he did.</text>
+		<text bitflag="1345" id1="461032" id2="17" version="1065353216">I'm fine. Thank you.</text>
+		<text bitflag="1360" id1="461032" id2="17" version="1065353216">Someone's changed my brain....</text>
+		<text bitflag="1345" id1="461035" id2="17" version="1065353216">No. You're not. But this isn't the hive, and we can't hear your thoughts. We respect your privacy.</text>
+		<text bitflag="1345" id1="461036" id2="17" version="1065353216">Yeah, sure. Look, I don't want to hear you whine, but... if there's something I should know? Make sure you tell me.</text>
+		<text bitflag="1345" id1="461038" id2="17" version="1065353216">It's been a while since I played ship's doctor... but there is something odd here, Cipher.</text>
+		<text bitflag="1345" id1="461040" id2="17" version="1065353216">You don't have any business here.</text>
+		<text bitflag="1345" id1="461043" id2="17" version="1065353216">Reading an ion buildup; I need to bring the shuttle down now. Legate, Saber, it's all up to you.</text>
+		<text bitflag="1345" id1="461045" id2="17" version="1065353216">I sense something dangerous. Be careful, all of you.</text>
+		<text bitflag="1345" id1="461047" id2="17" version="1065353216">Saber, some kind of aerial drone headed your way.</text>
+		<text bitflag="1345" id1="461049" id2="17" version="1065353216">Ah! I'm alright. I'll get those batteries offline.</text>
+		<text bitflag="1345" id1="461051" id2="17" version="1065353216">Interface terminal located. Deactivating blast door seals. You should have a clear path, Legate.</text>
+		<text bitflag="1345" id1="461053" id2="17" version="1065353216">Saber to deck. These droids are nasty... can we take some of them home, along with the missiles?</text>
+		<text bitflag="1345" id1="461055" id2="17" version="1065353216">Mistress Saber--you're going to make me feel unwanted.</text>
+		<text bitflag="1345" id1="461057" id2="17" version="1065353216">Watch the banter. But it's not a bad idea.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/human_female_jedi_republic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63482" id2="17" version="1065353216">The Force is my ally!</text>
+		<text bitflag="1345" id1="63484" id2="17" version="1065353216">You will fall!</text>
+		<text bitflag="1345" id1="63486" id2="17" version="1065353216">This fight is mine!</text>
+		<text bitflag="1345" id1="63488" id2="17" version="1065353216">Give me strength!</text>
+		<text bitflag="1345" id1="63490" id2="17" version="1065353216">Stop this madness!</text>
+		<text bitflag="1345" id1="63492" id2="17" version="1065353216">I defend the Republic!</text>
+	</file_content>
+</stb_file>

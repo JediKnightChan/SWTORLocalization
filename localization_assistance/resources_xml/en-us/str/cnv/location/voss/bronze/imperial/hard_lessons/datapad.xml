@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>10</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/bronze/imperial/hard_lessons/datapad.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="86056" id2="17" version="1065353216">[Lord Zaron's tablets have been recovered. There is nothing that can be done for his slave.]</text>
+		<text bitflag="321" id1="86057" id2="17" version="1065353216">[Displaying Lord Zaron's message drained the datapad's power. It is silent and unresponsive.]</text>
+		<text bitflag="321" id1="86058" id2="17" version="1065353216">[This datapad is low on power. It automatically displays a message.]</text>
+		<text bitflag="321" id1="86060" id2="17" version="1065353216">The Nightmare Lands drive many insane. We blame the darkness. But these madmen move with purpose.</text>
+		<text bitflag="321" id1="86062" id2="17" version="1065353216">They enter places no one has walked, recover items thought forever lost. These items are of great value.</text>
+		<text bitflag="321" id1="86064" id2="17" version="1065353216">The ancient tablets they unearth must contain invaluable secrets. You will find these tablets, apprentice.</text>
+		<text bitflag="321" id1="86066" id2="17" version="1065353216">Deliver the tablets to the drop spot, and I will send your expenses for the month. Do not fail me.</text>
+		<text bitflag="1360" id1="86067" id2="17" version="1065353216">Download coordinates.</text>
+		<text bitflag="1360" id1="86070" id2="17" version="1065353216">Walk away. [Refuse quest]</text>
+		<text bitflag="321" id1="86073" id2="17" version="1065353216">[The datapad appears to be low on power. The screen flickers and dies. No message is displayed.]</text>
+	</file_content>
+</stb_file>

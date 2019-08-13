@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>15</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/world/republic/riot_control/computer_console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="544066" id2="17" version="1065353216">[The computer outlines an impending assault on the warden station, including plans to use a wide-range neural disruptor to immobilize the entire station.]</text>
+		<text bitflag="1345" id1="544067" id2="17" version="1065353216">Graal? The leaders aren't here. And you're going to want to hear this....</text>
+		<text bitflag="1360" id1="544067" id2="17" version="1065353216">I have some bad news.</text>
+		<text bitflag="1345" id1="544070" id2="17" version="1065353216">A neural disruptor? Can they even do that?</text>
+		<text bitflag="1345" id1="544072" id2="17" version="1065353216">It's possible, sir. Would incapacitate us all. However, I should be able to recalibrate the security shields to block out its effects.</text>
+		<text bitflag="1345" id1="544074" id2="17" version="1065353216">Do it. I don't want to be a twitching, drooling heap when the Condemned get here.</text>
+		<text bitflag="1345" id1="544076" id2="17" version="1065353216">That's one crisis averted, but you'd better get back here fast. Once they realize the disruptor didn't work, they'll attack in force.</text>
+		<text bitflag="1345" id1="544077" id2="17" version="1065353216">Just hold them off until I get there.</text>
+		<text bitflag="1360" id1="544077" id2="17" version="1065353216">Stand strong.</text>
+		<text bitflag="1345" id1="544078" id2="17" version="1065353216">We'll try, but no promises.</text>
+		<text bitflag="1360" id1="544080" id2="17" version="1065353216">I'm on my way.</text>
+		<text bitflag="1345" id1="544081" id2="17" version="1065353216">I thought the station's shields were supposed to keep you safe.</text>
+		<text bitflag="1360" id1="544081" id2="17" version="1065353216">Can't you keep them out?</text>
+		<text bitflag="1345" id1="544082" id2="17" version="1065353216">Even security fields have their limits, and I'd rather not wait to see how long ours can stand up to a full-scale attack.</text>
+		<text bitflag="1345" id1="544084" id2="17" version="1065353216">Hurry back as soon as you can. Graal, out.</text>
+	</file_content>
+</stb_file>

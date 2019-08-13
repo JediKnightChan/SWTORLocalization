@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>13</strs>
+		<file_name>/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/flesh_raider_strongbox.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="604544" id2="17" version="1065353216">Container inventory = Master Orgus's lightsaber // Jedi = take it</text>
+		<text bitflag="1345" id1="604545" id2="17" version="1065353216">The Flesh Raiders took everything Orgus had. He's defenseless.</text>
+		<text bitflag="1360" id1="604545" id2="17" version="1065353216">My Master will need this.</text>
+		<text bitflag="1345" id1="604546" id2="17" version="1065353216">I'm sure Master Orgus won't mind if I borrow this....</text>
+		<text bitflag="1360" id1="604546" id2="17" version="1065353216">Should I use it?</text>
+		<text bitflag="1345" id1="604547" id2="17" version="1065353216">I've been wanting one of these since I landed here.</text>
+		<text bitflag="1360" id1="604547" id2="17" version="1065353216">Finally, a decent weapon.</text>
+		<text bitflag="3393" id1="604548" id2="17" version="1065353216">Stand by... Master Orgus's life signs detected // Proximity = close</text>
+		<text bitflag="3393" id1="604550" id2="17" version="1065353216">Large mass of enemy life signs detected // Proximity = closer</text>
+		<text bitflag="3393" id1="604552" id2="17" version="1065353216">T7 recommendation = Jedi use Master Orgus's lightsaber</text>
+		<text bitflag="321" id1="604554" id2="17" version="1065353216">[This strongbox contains several pieces of Jedi equipment and other useful items.]</text>
+		<text bitflag="3393" id1="604556" id2="17" version="1065353216">Jedi = look out!</text>
+		<text bitflag="1345" id1="604558" id2="17" version="1065353216">Die!</text>
+	</file_content>
+</stb_file>

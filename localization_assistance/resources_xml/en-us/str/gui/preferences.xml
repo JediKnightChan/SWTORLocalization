@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>1225</strs>
+		<file_name>/resources/en-us/str/gui/preferences.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="224142" version="1065353216">Preferences</text>
+		<text bitflag="321" id1="2" id2="224142" version="1065353216">OK</text>
+		<text bitflag="321" id1="3" id2="224142" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="4" id2="224142" version="1065353216">DEFAULT</text>
+		<text bitflag="321" id1="5" id2="224142" version="1065353216">APPLY</text>
+		<text bitflag="321" id1="6" id2="224142" version="1065353216">Shadows On</text>
+		<text bitflag="321" id1="7" id2="224142" version="1065353216">Shadows Off</text>
+		<text bitflag="321" id1="8" id2="224142" version="1065353216">Appearance</text>
+		<text bitflag="321" id1="9" id2="224142" version="1065353216">Ignore</text>
+		<text bitflag="321" id1="10" id2="224142" version="1065353216">Auto-Ignore Trade Invites</text>
+		<text bitflag="321" id1="11" id2="224142" version="1065353216">Auto-Ignore Group Invites</text>
+		<text bitflag="321" id1="12" id2="224142" version="1065353216">Auto-Ignore Guild Invites</text>
+		<text bitflag="321" id1="13" id2="224142" version="1065353216">New graphics settings are available - re-calibrate your settings for optimal performance?</text>
+		<text bitflag="321" id1="14" id2="224142" version="1065353216">You must close the preferences page before updating your graphics settings in this manner.</text>
+		<text bitflag="321" id1="15" id2="224142" version="1065353216">You have successfully updated your graphics settings.</text>
+		<text bitflag="321" id1="16" id2="224142" version="1065353216">Update graphics settings cancelled: you may do this at any time from the Preferences: Graphics menu.</text>
+		<text bitflag="321" id1="17" id2="224142" version="1065353216">Background Audio</text>
+		<text bitflag="321" id1="18" id2="224142" version="1065353216">Continue to play game sounds, even when the game is minimized</text>
+		<text bitflag="321" id1="19" id2="224142" version="1065353216">Tutorial Frame-By-Frame Mode</text>
+		<text bitflag="321" id1="20" id2="224142" version="1065353216">Enable/Disable frame by frame viewing of unread tutorials.</text>
+		<text bitflag="321" id1="3000" id2="224142" version="1065353216">Rendering</text>
+		<text bitflag="321" id1="3001" id2="224142" version="1065353216">Gameplay</text>
+		<text bitflag="321" id1="3002" id2="224142" version="1065353216">Sound</text>
+		<text bitflag="321" id1="3003" id2="224142" version="1065353216">Nameplate on Self</text>
+		<text bitflag="321" id1="3004" id2="224142" version="1065353216">Nameplate on Friendly Players</text>
+		<text bitflag="321" id1="3005" id2="224142" version="1065353216">Nameplate on Enemy Players</text>
+		<text bitflag="321" id1="3006" id2="224142" version="1065353216">Nameplate on My Companion</text>
+		<text bitflag="321" id1="3007" id2="224142" version="1065353216">Nameplate on Friendly Players' Companions</text>
+		<text bitflag="321" id1="3008" id2="224142" version="1065353216">Nameplate on Enemy Players' Companions</text>
+		<text bitflag="321" id1="3009" id2="224142" version="1065353216">Nameplate on Friendly NPCs</text>
+		<text bitflag="321" id1="3010" id2="224142" version="1065353216">Nameplate on Enemy NPCs</text>
+		<text bitflag="321" id1="3011" id2="224142" version="1065353216">Automatically Ignore Group Invites</text>
+		<text bitflag="321" id1="3012" id2="224142" version="1065353216">Automatically Ignore Guild Invites</text>
+		<text bitflag="321" id1="3013" id2="224142" version="1065353216">Automatically Ignore Trade Invites</text>
+		<text bitflag="321" id1="3014" id2="224142" version="1065353216">Hide Guild Login and Logoff Messages</text>
+		<text bitflag="321" id1="3015" id2="224142" version="1065353216">Flytext Enabled</text>
+		<text bitflag="321" id1="3016" id2="224142" version="1065353216">Ignore Guild Import Offer</text>
+		<text bitflag="321" id1="3017" id2="224142" version="1065353216">Even if eligible to auto-join a web guild, do not display the guild import offer dialog</text>
+		<text bitflag="321" id1="3028" id2="224142" version="1065353216">Invert Mouse Vertical</text>
+		<text bitflag="321" id1="3029" id2="224142" version="1065353216">Mouse Sensitivity</text>
+		<text bitflag="321" id1="3030" id2="224142" version="1065353216">Camera Rotation Speed</text>
+		<text bitflag="321" id1="3031" id2="224142" version="1065353216">Camera Max Distance</text>
+		<text bitflag="321" id1="3032" id2="224142" version="1065353216">Deselect Target upon Clicking on Terrain</text>
+		<text bitflag="321" id1="3033" id2="224142" version="1065353216">Display Subtitles for Conversations</text>
+		<text bitflag="321" id1="3034" id2="224142" version="1065353216">Map Fades while Moving</text>
+		<text bitflag="321" id1="3035" id2="224142" version="1065353216">Map Flashes Red while being Attacked</text>
+		<text bitflag="321" id1="3036" id2="224142" version="1065353216">Auto Self-targeting</text>
+		<text bitflag="321" id1="3037" id2="224142" version="1065353216">Resolution</text>
+		<text bitflag="321" id1="3038" id2="224142" version="1065353216">Refresh Rate</text>
+		<text bitflag="321" id1="3039" id2="224142" version="1065353216">Windowed Mode</text>
+		<text bitflag="321" id1="3040" id2="224142" version="1065353216">Multisampling</text>
+		<text bitflag="321" id1="3041" id2="224142" version="1065353216">Full Screen Gamma</text>
+		<text bitflag="321" id1="3042" id2="224142" version="1065353216">Ground Clutter</text>
+		<text bitflag="321" id1="3043" id2="224142" version="1065353216">Particle Density</text>
+		<text bitflag="321" id1="3044" id2="224142" version="1065353216">Clip Distance</text>
+		<text bitflag="321" id1="3045" id2="224142" version="1065353216">Filter Profanity</text>
+		<text bitflag="321" id1="3046" id2="224142" version="1065353216">Auto-loot on Right-click</text>
+		<text bitflag="321" id1="3047" id2="224142" version="1065353216">Display Target Information</text>
+		<text bitflag="321" id1="3048" id2="224142" version="1065353216">Enable Additional Action Bar</text>
+		<text bitflag="321" id1="3049" id2="224142" version="1065353216">Enable Color-blind Mode</text>
+		<text bitflag="321" id1="3050" id2="224142" version="1065353216">Shadow Quality</text>
+		<text bitflag="321" id1="3051" id2="224142" version="1065353216">Vertical Sync</text>
+		<text bitflag="321" id1="3052" id2="224142" version="1065353216">Specular Lighting</text>
+		<text bitflag="321" id1="3053" id2="224142" version="1065353216">Cloth Simulation</text>
+		<text bitflag="321" id1="3054" id2="224142" version="1065353216">Invert Mouse Horizontal</text>
+		<text bitflag="321" id1="3055" id2="224142" version="1065353216">FlyText:  Miscellaneous</text>
+		<text bitflag="321" id1="3056" id2="224142" version="1065353216">FlyText:  Heal from Self</text>
+		<text bitflag="321" id1="3057" id2="224142" version="1065353216">FlyText:  Damage from Self</text>
+		<text bitflag="321" id1="3058" id2="224142" version="1065353216">FlyText:  Heal from Companion</text>
+		<text bitflag="321" id1="3059" id2="224142" version="1065353216">FlyText:  Damage from Companion</text>
+		<text bitflag="321" id1="3060" id2="224142" version="1065353216">FlyText:  Heal from Group</text>
+		<text bitflag="321" id1="3061" id2="224142" version="1065353216">FlyText:  Heal from Other</text>
+		<text bitflag="321" id1="3062" id2="224142" version="1065353216">FlyText:  Damage to Self</text>
+		<text bitflag="321" id1="3063" id2="224142" version="1065353216">FlyText:  Damage to Companion</text>
+		<text bitflag="321" id1="3064" id2="224142" version="1065353216">FlyText:  Screenspace</text>
+		<text bitflag="321" id1="3065" id2="224142" version="1065353216">FlyText:  Mitigation Self</text>
+		<text bitflag="321" id1="3066" id2="224142" version="1065353216">FlyText:  Mitigation Companion</text>
+		<text bitflag="321" id1="3067" id2="224142" version="1065353216">FlyText:  Mitigation Other</text>
+		<text bitflag="321" id1="3068" id2="224142" version="1065353216">FlyText:  Effect Gained Positive</text>
+		<text bitflag="321" id1="3069" id2="224142" version="1065353216">FlyText:  Effect Lost Positive</text>
+		<text bitflag="321" id1="3070" id2="224142" version="1065353216">FlyText:  Low Health Self</text>
+		<text bitflag="321" id1="3071" id2="224142" version="1065353216">FlyText:  Low Health Companion</text>
+		<text bitflag="321" id1="3072" id2="224142" version="1065353216">FlyText:  Experience</text>
+		<text bitflag="321" id1="3073" id2="224142" version="1065353216">FlyText:  Effect Gained Negative</text>
+		<text bitflag="321" id1="3074" id2="224142" version="1065353216">FlyText:  Effect Lost Negative</text>
+		<text bitflag="321" id1="3075" id2="224142" version="1065353216">FlyText:  Ability Damage from Self</text>
+		<text bitflag="321" id1="3076" id2="224142" version="1065353216">FlyText:  Ability Damage from Companion</text>
+		<text bitflag="321" id1="3077" id2="224142" version="1065353216">FlyText:  Ability Damage to Self</text>
+		<text bitflag="321" id1="3078" id2="224142" version="1065353216">FlyText:  Ability Damage to Companion</text>
+		<text bitflag="321" id1="3079" id2="224142" version="1065353216">FlyText:  Combat Miss from Self</text>
+		<text bitflag="321" id1="3080" id2="224142" version="1065353216">FlyText:  Combat Miss from Companion</text>
+		<text bitflag="321" id1="3081" id2="224142" version="1065353216">FlyText:  Combat Miss from Other</text>
+		<text bitflag="321" id1="3082" id2="224142" version="1065353216">Enable Bottom Center Quickslot</text>
+		<text bitflag="321" id1="3083" id2="224142" version="1065353216">Enable Left Quickslot</text>
+		<text bitflag="321" id1="3084" id2="224142" version="1065353216">Enable Right Quickslot</text>
+		<text bitflag="321" id1="3085" id2="224142" version="1065353216">Enable Action Bar 5</text>
+		<text bitflag="321" id1="3086" id2="224142" version="1065353216">Nameplates</text>
+		<text bitflag="321" id1="3087" id2="224142" version="1065353216">Social</text>
+		<text bitflag="321" id1="3088" id2="224142" version="1065353216">FlyText</text>
+		<text bitflag="321" id1="3089" id2="224142" version="1065353216">Controls</text>
+		<text bitflag="321" id1="3090" id2="224142" version="1065353216">User Interface</text>
+		<text bitflag="321" id1="3091" id2="224142" version="1065353216">Graphics</text>
+		<text bitflag="321" id1="3092" id2="224142" version="1065353216">Automatically pick up all loot on right-click</text>
+		<text bitflag="321" id1="3093" id2="224142" version="1065353216">Automatically target yourself with abilities and effects when applicable</text>
+		<text bitflag="321" id1="3094" id2="224142" version="1065353216">The maximum distance you can pull the camera away from your character</text>
+		<text bitflag="321" id1="3095" id2="224142" version="1065353216">Modifies how fast the camera rotates around your character</text>
+		<text bitflag="321" id1="3096" id2="224142" version="1065353216">If enabled, you will deselect your target when you click on the terrain</text>
+		<text bitflag="321" id1="3097" id2="224142" version="1065353216">Invert the direction your mouse moves the camera horizontally</text>
+		<text bitflag="321" id1="3098" id2="224142" version="1065353216">Invert the direction your mouse moves the camera vertically</text>
+		<text bitflag="321" id1="3099" id2="224142" version="1065353216">Modify your mouse sensitivity</text>
+		<text bitflag="321" id1="3100" id2="224142" version="1065353216">Enable all flytext</text>
+		<text bitflag="321" id1="3101" id2="224142" version="1065353216">Display flytext for ability damage that you have caused</text>
+		<text bitflag="321" id1="3102" id2="224142" version="1065353216">Display flytext for ability damage that has hit your companions</text>
+		<text bitflag="321" id1="3103" id2="224142" version="1065353216">Display flytext for ability damage that has hit you</text>
+		<text bitflag="321" id1="3104" id2="224142" version="1065353216">Display flytext for your companion's misses</text>
+		<text bitflag="321" id1="3105" id2="224142" version="1065353216">Display flytext for misses from people not in your group or your companions</text>
+		<text bitflag="321" id1="3106" id2="224142" version="1065353216">Display flytext for your misses</text>
+		<text bitflag="321" id1="3107" id2="224142" version="1065353216">Display flytext for your companion's damage</text>
+		<text bitflag="321" id1="3108" id2="224142" version="1065353216">Display flytext for your damage</text>
+		<text bitflag="321" id1="3109" id2="224142" version="1065353216">Display flytext for damage inflicted on your companion</text>
+		<text bitflag="321" id1="3110" id2="224142" version="1065353216">Display flytext for damage inflicted on you</text>
+		<text bitflag="321" id1="3111" id2="224142" version="1065353216">Display flytext for miscellaneous events</text>
+		<text bitflag="321" id1="3112" id2="224142" version="1065353216">Display flytext for negative effects you have gained</text>
+		<text bitflag="321" id1="3113" id2="224142" version="1065353216">Display flytext for positive effects you have gained</text>
+		<text bitflag="321" id1="3114" id2="224142" version="1065353216">Display flytext for negative effects you have lost</text>
+		<text bitflag="321" id1="3115" id2="224142" version="1065353216">Display flytext for positive effects you have lost</text>
+		<text bitflag="321" id1="3116" id2="224142" version="1065353216">Display flytext for ability damage that your companion has caused</text>
+		<text bitflag="321" id1="3117" id2="224142" version="1065353216">Display flytext for healing that your companion has caused</text>
+		<text bitflag="321" id1="3118" id2="224142" version="1065353216">Display flytext for healing that people not in your group has caused</text>
+		<text bitflag="321" id1="3119" id2="224142" version="1065353216">Display flytext for healing that someone in your group has caused</text>
+		<text bitflag="321" id1="3120" id2="224142" version="1065353216">Display flytext for healing that you have caused</text>
+		<text bitflag="321" id1="3121" id2="224142" version="1065353216">Display flytext showing a low health warning for your companion</text>
+		<text bitflag="321" id1="3122" id2="224142" version="1065353216">Display flytext showing a low health warning for yourself</text>
+		<text bitflag="321" id1="3123" id2="224142" version="1065353216">Display flytext for damage mitigation by your companion</text>
+		<text bitflag="321" id1="3124" id2="224142" version="1065353216">Display flytext for damage mitigation by people not in your group</text>
+		<text bitflag="321" id1="3125" id2="224142" version="1065353216">Display flytext for damage you have mitigated</text>
+		<text bitflag="321" id1="3126" id2="224142" version="1065353216">Restrict flytext display to always fit on the screen</text>
+		<text bitflag="321" id1="3127" id2="224142" version="1065353216">Display flytext for experience you have gained</text>
+		<text bitflag="321" id1="3128" id2="224142" version="1065353216">Specify your view distance</text>
+		<text bitflag="321" id1="3129" id2="224142" version="1065353216">Turn on and off the cloth physics simulation</text>
+		<text bitflag="321" id1="3130" id2="224142" version="1065353216">Adjust gamma correction while in full screen mode</text>
+		<text bitflag="321" id1="3131" id2="224142" version="1065353216">Enable ground clutter rendering</text>
+		<text bitflag="321" id1="3132" id2="224142" version="1065353216">Change multisampling settings</text>
+		<text bitflag="321" id1="3133" id2="224142" version="1065353216">Specify particle density for effects</text>
+		<text bitflag="321" id1="3134" id2="224142" version="1065353216">Specify your monitor refresh rate</text>
+		<text bitflag="321" id1="3135" id2="224142" version="1065353216">Specify your graphics resolution</text>
+		<text bitflag="321" id1="3136" id2="224142" version="1065353216">Specificies the quality of shadows. Low will only render a blob shadow on the player and High renders full environment shadows. Reducing this will increase your performance.</text>
+		<text bitflag="321" id1="3137" id2="224142" version="1065353216">Turn on or off specular lighting</text>
+		<text bitflag="321" id1="3138" id2="224142" version="1065353216">Turn on or off vertical sync</text>
+		<text bitflag="321" id1="3139" id2="224142" version="1065353216">Turn on or off windowed mode</text>
+		<text bitflag="321" id1="3140" id2="224142" version="1065353216">Turn on or off color blind mode</text>
+		<text bitflag="321" id1="3141" id2="224142" version="1065353216">Display the extra action bar five</text>
+		<text bitflag="321" id1="3142" id2="224142" version="1065353216">Display the extra action bar four</text>
+		<text bitflag="321" id1="3143" id2="224142" version="1065353216">Display the extra action bar three</text>
+		<text bitflag="321" id1="3144" id2="224142" version="1065353216">Display the extra action bar two</text>
+		<text bitflag="321" id1="3145" id2="224142" version="1065353216">Display your target's health</text>
+		<text bitflag="321" id1="3146" id2="224142" version="1065353216">Enable subtitles for non-alien conversation participants</text>
+		<text bitflag="321" id1="3147" id2="224142" version="1065353216">Turn on or off the map fading while you are moving</text>
+		<text bitflag="321" id1="3148" id2="224142" version="1065353216">When you enter combat with the map up it will flash red to indicate you are in combat.</text>
+		<text bitflag="321" id1="3149" id2="224142" version="1065353216">Display nameplates on enemy NPCs</text>
+		<text bitflag="321" id1="3150" id2="224142" version="1065353216">Display nameplates on enemy players</text>
+		<text bitflag="321" id1="3151" id2="224142" version="1065353216">Display nameplates on enemy player companions</text>
+		<text bitflag="321" id1="3152" id2="224142" version="1065353216">Display nameplates on friendly NPCs</text>
+		<text bitflag="321" id1="3153" id2="224142" version="1065353216">Display nameplates on friendly players</text>
+		<text bitflag="321" id1="3154" id2="224142" version="1065353216">Display nameplates on friendly player companions</text>
+		<text bitflag="321" id1="3155" id2="224142" version="1065353216">Display nameplates on your companions</text>
+		<text bitflag="321" id1="3156" id2="224142" version="1065353216">Display a nameplate on your character</text>
+		<text bitflag="321" id1="3157" id2="224142" version="1065353216">Automatically decline all group invites</text>
+		<text bitflag="321" id1="3158" id2="224142" version="1065353216">Automatically decline all guild invites</text>
+		<text bitflag="321" id1="3159" id2="224142" version="1065353216">Automatically decline all trade invites</text>
+		<text bitflag="321" id1="3160" id2="224142" version="1065353216">Filter all profanity out of player chats</text>
+		<text bitflag="321" id1="3161" id2="224142" version="1065353216">Conversation Mode</text>
+		<text bitflag="321" id1="3162" id2="224142" version="1065353216">The player is playing in multiplayer, solo or ask conversation mode</text>
+		<text bitflag="321" id1="3163" id2="224142" version="1065353216">Multiplayer</text>
+		<text bitflag="321" id1="3164" id2="224142" version="1065353216">Solo</text>
+		<text bitflag="321" id1="3166" id2="224142" version="1065353216">Request Companion to Gather</text>
+		<text bitflag="321" id1="3167" id2="224142" version="1065353216">Right-click</text>
+		<text bitflag="321" id1="3168" id2="224142" version="1065353216">SHIFT + Right-click</text>
+		<text bitflag="321" id1="3169" id2="224142" version="1065353216">Disabled</text>
+		<text bitflag="321" id1="3170" id2="224142" version="1065353216">Right-click: Assigns right-click to request companions to gather resources. SHIFT + right-click will be used for players to gather resources. 
+
+SHIFT + right-click: Assigns SHIFT + right-click to request companions to gather resources. Right-click will be used for players to gather resources.
+
+Disabled: Companion gathering is disabled. Assigns right-click for players to gather resources.</text>
+		<text bitflag="321" id1="3171" id2="224142" version="1065353216">Show Effects and Abilities</text>
+		<text bitflag="321" id1="3172" id2="224142" version="1065353216">Show Point Spending and Restoration</text>
+		<text bitflag="321" id1="3173" id2="224142" version="1065353216">Display time stamps on all combat log messages</text>
+		<text bitflag="321" id1="3174" id2="224142" version="1065353216">Include messages about nearby action in the combat log.</text>
+		<text bitflag="321" id1="3175" id2="224142" version="1065353216">Include messages about actions benefitting you in the combat log.</text>
+		<text bitflag="321" id1="3176" id2="224142" version="1065353216">Include messages about actions harming you in the combat log.</text>
+		<text bitflag="321" id1="3177" id2="224142" version="1065353216">Include messages about effects and abilities in the combat log.</text>
+		<text bitflag="321" id1="3178" id2="224142" version="1065353216">Include messages about your point (Force, rage, etc.) spending and restoration actions in the combat log.</text>
+		<text bitflag="321" id1="3179" id2="224142" version="1065353216">Combat Log</text>
+		<text bitflag="321" id1="3180" id2="224142" version="1065353216">Show Time Stamp</text>
+		<text bitflag="321" id1="3181" id2="224142" version="1065353216">Show Nearby Action</text>
+		<text bitflag="321" id1="3182" id2="224142" version="1065353216">Show Positive Action</text>
+		<text bitflag="321" id1="3183" id2="224142" version="1065353216">Show Negative Action</text>
+		<text bitflag="321" id1="3200" id2="224142" version="1065353216">Texture Quality</text>
+		<text bitflag="321" id1="3201" id2="224142" version="1065353216">Adjust your texture quality.  Reducing this will increase your performance.</text>
+		<text bitflag="321" id1="3202" id2="224142" version="1065353216">Display other player's chat over head</text>
+		<text bitflag="321" id1="3203" id2="224142" version="1065353216">Allow display of chat messages over character's head.</text>
+		<text bitflag="321" id1="3204" id2="224142" version="1065353216">Display your character's chat over head.</text>
+		<text bitflag="321" id1="3205" id2="224142" version="1065353216">Display chat over your own head.</text>
+		<text bitflag="321" id1="3206" id2="224142" version="1065353216">Group Mission Map Notes</text>
+		<text bitflag="321" id1="3207" id2="224142" version="1065353216">Visibility of group member mission map notes.</text>
+		<text bitflag="321" id1="3208" id2="224142" version="1065353216">All Missions</text>
+		<text bitflag="321" id1="3209" id2="224142" version="1065353216">Bonus Missions Only</text>
+		<text bitflag="321" id1="3210" id2="224142" version="1065353216">No Group Missions</text>
+		<text bitflag="321" id1="3211" id2="224142" version="1065353216">Exterior Map Defaults to World Map</text>
+		<text bitflag="321" id1="3212" id2="224142" version="1065353216">If the player is outside, the world map will open instead of the local map.</text>
+		<text bitflag="321" id1="3213" id2="224142" version="1065353216">Ignore NPC during Tab-targeting</text>
+		<text bitflag="321" id1="3214" id2="224142" version="1065353216">Inherited targeting</text>
+		<text bitflag="321" id1="3215" id2="224142" version="1065353216">Enable Focus Target</text>
+		<text bitflag="321" id1="3216" id2="224142" version="1065353216">Auto Target Closest Enemy</text>
+		<text bitflag="321" id1="3217" id2="224142" version="1065353216">Exclude all NPCs from any keyboard-initiated targeting</text>
+		<text bitflag="321" id1="3218" id2="224142" version="1065353216">Cast on friendly targets' enemy target</text>
+		<text bitflag="321" id1="3219" id2="224142" version="1065353216">Allows hotkey usage for secondary targets</text>
+		<text bitflag="321" id1="3220" id2="224142" version="1065353216">Auto target the closest enemy when using an offensive ability</text>
+		<text bitflag="321" id1="3222" id2="224142" version="1065353216">If you are outside, open the world map instead of the local map.</text>
+		<text bitflag="321" id1="3223" id2="224142" version="1065353216">RESET ALL</text>
+		<text bitflag="321" id1="3224" id2="224142" version="1065353216">RESET PAGE</text>
+		<text bitflag="321" id1="3225" id2="224142" version="1065353216">Do you really want to reset your preferences to default?</text>
+		<text bitflag="321" id1="3226" id2="224142" version="1065353216">General</text>
+		<text bitflag="321" id1="3227" id2="224142" version="1065353216">Damage</text>
+		<text bitflag="321" id1="3228" id2="224142" version="1065353216">Mitigation</text>
+		<text bitflag="321" id1="3229" id2="224142" version="1065353216">Health</text>
+		<text bitflag="321" id1="3230" id2="224142" version="1065353216">Effects</text>
+		<text bitflag="321" id1="3231" id2="224142" version="1065353216">Ability Damage</text>
+		<text bitflag="321" id1="3232" id2="224142" version="1065353216">Combat Misses</text>
+		<text bitflag="321" id1="3233" id2="224142" version="1065353216">Enable Camera Pivot</text>
+		<text bitflag="321" id1="3234" id2="224142" version="1065353216">Detach camera from the character when it hits the terrain</text>
+		<text bitflag="321" id1="3235" id2="224142" version="1065353216">Allow Access to Same Class/Personal Phases</text>
+		<text bitflag="321" id1="3236" id2="224142" version="1065353216">Toggle allow access to same class/personal phases</text>
+		<text bitflag="321" id1="3237" id2="224142" version="1065353216">Display Phase Help Tips</text>
+		<text bitflag="321" id1="3238" id2="224142" version="1065353216">Toggle displaying phase gate help tips</text>
+		<text bitflag="321" id1="3239" id2="224142" version="1065353216">Map Filters</text>
+		<text bitflag="321" id1="3240" id2="224142" version="1065353216">World Map Filters</text>
+		<text bitflag="321" id1="3241" id2="224142" version="1065353216">Area Map Filters</text>
+		<text bitflag="321" id1="3242" id2="224142" version="1065353216">Minimap Filters</text>
+		<text bitflag="321" id1="3243" id2="224142" version="1065353216">Enable Magnifying Glass in World Map</text>
+		<text bitflag="321" id1="3244" id2="224142" version="1065353216">Show Phase Indicator</text>
+		<text bitflag="321" id1="3245" id2="224142" version="1065353216">Toggle on or off the display of the in-phase indicator.</text>
+		<text bitflag="321" id1="3246" id2="224142" version="1065353216">Show Detailed Item Tooltips</text>
+		<text bitflag="321" id1="3247" id2="224142" version="1065353216">Selecting this option will display more detailed information about the modifications installed in an item.</text>
+		<text bitflag="321" id1="3248" id2="224142" version="1065353216">Enable Companion Comparative Tooltips</text>
+		<text bitflag="321" id1="3249" id2="224142" version="1065353216">Turning this option on will show comparative tooltips for your companion.</text>
+		<text bitflag="321" id1="3250" id2="224142" version="1065353216">Enable Stat Summarization in Item Tooltips</text>
+		<text bitflag="321" id1="3251" id2="224142" version="1065353216">Turning this option on will summarize the statistical effect of switching an item with what is currently equipped in that slot.</text>
+		<text bitflag="321" id1="3252" id2="224142" version="1065353216">Enable Comparative Tooltips</text>
+		<text bitflag="321" id1="3253" id2="224142" version="1065353216">Turning this option on will show tooltips for the gear you have equipped when you mouse over an item someplace else.</text>
+		<text bitflag="321" id1="3254" id2="224142" version="1065353216">Hide Head Slot</text>
+		<text bitflag="321" id1="3255" id2="224142" version="1065353216">Turning this option on will prevent you or others from seeing any gear equipped in your head slot, such as helmets or masks. Will also disable voice modifications enabled by helmets.</text>
+		<text bitflag="321" id1="3256" id2="224142" version="1065353216">Unify Colors to Chest Piece</text>
+		<text bitflag="321" id1="3257" id2="224142" version="1065353216">Toggle on to make all visible garments coordinate their color scheme with your currently worn chest piece.</text>
+		<text bitflag="321" id1="3258" id2="224142" version="1065353216">Auto Skip Movies</text>
+		<text bitflag="321" id1="3259" id2="224142" version="1065353216">Automatically skips character creation and introduction movies.</text>
+		<text bitflag="321" id1="3260" id2="224142" version="1065353216">Chat Awareness Ping</text>
+		<text bitflag="321" id1="3261" id2="224142" version="1065353216">Plays an audible tone when your name is said in the following chat channels: Tell, Guild and Ops. If you have heard an audible tone in the last 30 seconds, you won't hear one.</text>
+		<text bitflag="321" id1="3262" id2="224142" version="1065353216">Group Awareness Ping</text>
+		<text bitflag="321" id1="3263" id2="224142" version="1065353216">Plays an audible tone when a friend, group or guild member logs on.</text>
+		<text bitflag="321" id1="3264" id2="224142" version="1065353216">Display Item Modification Warning</text>
+		<text bitflag="321" id1="3265" id2="224142" version="1065353216">Toggle displaying a warning that item modifications that are overwritten are destroyed.</text>
+		<text bitflag="321" id1="3266" id2="224142" version="1065353216">Display Item Purchase Warning</text>
+		<text bitflag="321" id1="3267" id2="224142" version="1065353216">Toggle displaying a warning that Commendation Tokens spent to purchase items cannot be refunded</text>
+		<text bitflag="321" id1="3300" id2="224142" version="1065353216">Companion Expanded Quickslot Placement</text>
+		<text bitflag="321" id1="3301" id2="224142" version="1065353216">The quickslot is replaced by the companion bar when it is in expanded mode.</text>
+		<text bitflag="321" id1="3302" id2="224142" version="1065353216">Right Quickslot</text>
+		<text bitflag="321" id1="3303" id2="224142" version="1065353216">Left Quickslot</text>
+		<text bitflag="321" id1="3304" id2="224142" version="1065353216">Bottom Center Quickslot</text>
+		<text bitflag="321" id1="3305" id2="224142" version="1065353216">Bloom</text>
+		<text bitflag="321" id1="3306" id2="224142" version="1065353216">Intensity of light glow. Toggle off for a performance gain.</text>
+		<text bitflag="321" id1="3307" id2="224142" version="1065353216">Conversation Depth Of Field</text>
+		<text bitflag="321" id1="3308" id2="224142" version="1065353216">Focus effects during conversations. Toggle off for a performance gain.</text>
+		<text bitflag="321" id1="3309" id2="224142" version="1065353216">Blob Shadows</text>
+		<text bitflag="321" id1="3310" id2="224142" version="1065353216">Simple shadows for characters</text>
+		<text bitflag="321" id1="3311" id2="224142" version="1065353216">Shader Complexity</text>
+		<text bitflag="321" id1="3312" id2="224142" version="1065353216">Adjust rendering quality. Reducing this will improve your performance.</text>
+		<text bitflag="321" id1="3313" id2="224142" version="1065353216">Dynamic Light Complexity</text>
+		<text bitflag="321" id1="3314" id2="224142" version="1065353216">Adjusts the quality of lighting. Reducing this will improve your performance.</text>
+		<text bitflag="321" id1="3315" id2="224142" version="1065353216">Graphics Quality Preset</text>
+		<text bitflag="321" id1="3316" id2="224142" version="1065353216">Adjust your graphics settings based on the selected preset quality.</text>
+		<text bitflag="321" id1="3317" id2="224142" version="1065353216">Anti Aliasing</text>
+		<text bitflag="321" id1="3318" id2="224142" version="1065353216">Reduces aliasing at a cost to performance and memory. Lower AA settings will yield better system performance.</text>
+		<text bitflag="321" id1="3319" id2="224142" version="1065353216">Full Screen Exclusive mode</text>
+		<text bitflag="321" id1="3320" id2="224142" version="1065353216">Sets Full Screen Exclusive mode</text>
+		<text bitflag="321" id1="3321" id2="224142" version="1065353216">Character Level of Detail</text>
+		<text bitflag="321" id1="3322" id2="224142" version="1065353216">Adjust polygonal density of characters and non-player characters throughout the world. Reducing this will improve your performance.</text>
+		<text bitflag="321" id1="3323" id2="224142" version="1065353216">Texture Anisotropy</text>
+		<text bitflag="321" id1="3324" id2="224142" version="1065353216">Increases the visual quality of textures with a lot of noise, such as grates and fences. Reducing this will increase your performance.</text>
+		<text bitflag="321" id1="3325" id2="224142" version="1065353216">Grass Quality</text>
+		<text bitflag="321" id1="3326" id2="224142" version="1065353216">Adjust the quality of displaying grass</text>
+		<text bitflag="321" id1="3327" id2="224142" version="1065353216">Tree Quality</text>
+		<text bitflag="321" id1="3328" id2="224142" version="1065353216">Adjust the quality of displaying trees</text>
+		<text bitflag="321" id1="3331" id2="224142" version="1065353216">Enable Cover Bar</text>
+		<text bitflag="321" id1="3332" id2="224142" version="1065353216">Switch the Upper Center Quickslot Bar with the Cover Bar when entering Cover (Smugglers and Agents only).</text>
+		<text bitflag="321" id1="3400" id2="224142" version="1065353216">Enable Area Loot</text>
+		<text bitflag="321" id1="3401" id2="224142" version="1065353216">When enabled, looting a corpse will also collect all of your loot from nearby corpses.</text>
+		<text bitflag="321" id1="4000" id2="224142" version="1065353216">Max Zoom In</text>
+		<text bitflag="321" id1="4001" id2="224142" version="1065353216">Max Zoom Out</text>
+		<text bitflag="321" id1="4002" id2="224142" version="1065353216">Zoom In</text>
+		<text bitflag="321" id1="4003" id2="224142" version="1065353216">Zoom Out</text>
+		<text bitflag="321" id1="4004" id2="224142" version="1065353216">Chat Bottom</text>
+		<text bitflag="321" id1="4005" id2="224142" version="1065353216">Chat Page Down</text>
+		<text bitflag="321" id1="4006" id2="224142" version="1065353216">Chat Page Up</text>
+		<text bitflag="321" id1="4007" id2="224142" version="1065353216">Chat Reply</text>
+		<text bitflag="321" id1="4008" id2="224142" version="1065353216">Combat Log Bottom</text>
+		<text bitflag="321" id1="4009" id2="224142" version="1065353216">Combat Log Page Down</text>
+		<text bitflag="321" id1="4010" id2="224142" version="1065353216">Combat Log Page Up</text>
+		<text bitflag="321" id1="4011" id2="224142" version="1065353216">Open Chat</text>
+		<text bitflag="321" id1="4012" id2="224142" version="1065353216">Open Chat Slash</text>
+		<text bitflag="321" id1="4013" id2="224142" version="1065353216">Re-Whisper</text>
+		<text bitflag="321" id1="4014" id2="224142" version="1065353216">Toggle Combat Log</text>
+		<text bitflag="321" id1="4015" id2="224142" version="1065353216">Toggle Ability</text>
+		<text bitflag="321" id1="4016" id2="224142" version="1065353216">Toggle Character Pane</text>
+		<text bitflag="321" id1="4017" id2="224142" version="1065353216">Toggle Chat Pane</text>
+		<text bitflag="321" id1="4018" id2="224142" version="1065353216">Toggle Crew Skills Pane</text>
+		<text bitflag="321" id1="4019" id2="224142" version="1065353216">Toggle Who Pane</text>
+		<text bitflag="321" id1="4020" id2="224142" version="1065353216">Toggle Guild Pane</text>
+		<text bitflag="321" id1="4021" id2="224142" version="1065353216">Toggle Inventory</text>
+		<text bitflag="321" id1="4022" id2="224142" version="1065353216">Toggle Map Fade</text>
+		<text bitflag="321" id1="4023" id2="224142" version="1065353216">Toggle Minimap</text>
+		<text bitflag="321" id1="4024" id2="224142" version="1065353216">Toggle Minimap Rotation</text>
+		<text bitflag="321" id1="4025" id2="224142" version="1065353216">Toggle Mission Log</text>
+		<text bitflag="321" id1="4026" id2="224142" version="1065353216">Toggle Skill Pane</text>
+		<text bitflag="321" id1="4027" id2="224142" version="1065353216">Toggle Social Pane</text>
+		<text bitflag="321" id1="4028" id2="224142" version="1065353216">Toggle Warzone Pane</text>
+		<text bitflag="321" id1="4029" id2="224142" version="1065353216">Toggle World Map Pane</text>
+		<text bitflag="321" id1="4030" id2="224142" version="1065353216">Toggle World Map Size</text>
+		<text bitflag="321" id1="4031" id2="224142" version="1065353216">Master Volume Down</text>
+		<text bitflag="321" id1="4032" id2="224142" version="1065353216">Master Volume Up</text>
+		<text bitflag="321" id1="4033" id2="224142" version="1065353216">Minimap Zoom In</text>
+		<text bitflag="321" id1="4034" id2="224142" version="1065353216">Minimap Zoom Out</text>
+		<text bitflag="321" id1="4035" id2="224142" version="1065353216">Screen Shot</text>
+		<text bitflag="321" id1="4036" id2="224142" version="1065353216">Toggle Music</text>
+		<text bitflag="321" id1="4037" id2="224142" version="1065353216">Toggle Sound</text>
+		<text bitflag="321" id1="4038" id2="224142" version="1065353216">Toggle User Interface</text>
+		<text bitflag="321" id1="4039" id2="224142" version="1065353216">Follow Target</text>
+		<text bitflag="321" id1="4040" id2="224142" version="1065353216">Jump</text>
+		<text bitflag="321" id1="4041" id2="224142" version="1065353216">Move Backward</text>
+		<text bitflag="321" id1="4042" id2="224142" version="1065353216">Move Forward</text>
+		<text bitflag="321" id1="4043" id2="224142" version="1065353216">Sheath/Unsheath Weapon</text>
+		<text bitflag="321" id1="4044" id2="224142" version="1065353216">Sit/Move Down</text>
+		<text bitflag="321" id1="4045" id2="224142" version="1065353216">Strafe Left</text>
+		<text bitflag="321" id1="4046" id2="224142" version="1065353216">Strafe Right</text>
+		<text bitflag="321" id1="4047" id2="224142" version="1065353216">Toggle Autorun</text>
+		<text bitflag="321" id1="4048" id2="224142" version="1065353216">Toggle Run/Walk</text>
+		<text bitflag="321" id1="4049" id2="224142" version="1065353216">Turn Left</text>
+		<text bitflag="321" id1="4050" id2="224142" version="1065353216">Turn Right</text>
+		<text bitflag="321" id1="4051" id2="224142" version="1065353216">Quickbar 2 - Slot 1</text>
+		<text bitflag="321" id1="4052" id2="224142" version="1065353216">Quickbar 2 - Slot 10</text>
+		<text bitflag="321" id1="4053" id2="224142" version="1065353216">Quickbar 2 - Slot 11</text>
+		<text bitflag="321" id1="4054" id2="224142" version="1065353216">Quickbar 2 - Slot 12</text>
+		<text bitflag="321" id1="4055" id2="224142" version="1065353216">Quickbar 2 - Slot 2</text>
+		<text bitflag="321" id1="4056" id2="224142" version="1065353216">Quickbar 2 - Slot 3</text>
+		<text bitflag="321" id1="4057" id2="224142" version="1065353216">Quickbar 2 - Slot 4</text>
+		<text bitflag="321" id1="4058" id2="224142" version="1065353216">Quickbar 2 - Slot 5</text>
+		<text bitflag="321" id1="4059" id2="224142" version="1065353216">Quickbar 2 - Slot 6</text>
+		<text bitflag="321" id1="4060" id2="224142" version="1065353216">Quickbar 2 - Slot 7</text>
+		<text bitflag="321" id1="4061" id2="224142" version="1065353216">Quickbar 2 - Slot 8</text>
+		<text bitflag="321" id1="4062" id2="224142" version="1065353216">Quickbar 2 - Slot 9</text>
+		<text bitflag="321" id1="4063" id2="224142" version="1065353216">Center Quickslot 1</text>
+		<text bitflag="321" id1="4064" id2="224142" version="1065353216">Center Quickslot 10</text>
+		<text bitflag="321" id1="4065" id2="224142" version="1065353216">Center Quickslot 11</text>
+		<text bitflag="321" id1="4066" id2="224142" version="1065353216">Center Quickslot 12</text>
+		<text bitflag="321" id1="4067" id2="224142" version="1065353216">Center Quickslot 2</text>
+		<text bitflag="321" id1="4068" id2="224142" version="1065353216">Center Quickslot 3</text>
+		<text bitflag="321" id1="4069" id2="224142" version="1065353216">Center Quickslot 4</text>
+		<text bitflag="321" id1="4070" id2="224142" version="1065353216">Center Quickslot 5</text>
+		<text bitflag="321" id1="4071" id2="224142" version="1065353216">Center Quickslot 6</text>
+		<text bitflag="321" id1="4072" id2="224142" version="1065353216">Center Quickslot 7</text>
+		<text bitflag="321" id1="4073" id2="224142" version="1065353216">Center Quickslot 8</text>
+		<text bitflag="321" id1="4074" id2="224142" version="1065353216">Center Quickslot 9</text>
+		<text bitflag="321" id1="4075" id2="224142" version="1065353216">Companion Quickbar - Slot 1</text>
+		<text bitflag="321" id1="4076" id2="224142" version="1065353216">Companion Quickbar - Slot 2</text>
+		<text bitflag="321" id1="4077" id2="224142" version="1065353216">Companion Quickbar - Slot 3</text>
+		<text bitflag="321" id1="4078" id2="224142" version="1065353216">Companion Quickbar - Slot 4</text>
+		<text bitflag="321" id1="4079" id2="224142" version="1065353216">Quickbar 3 - Slot 1</text>
+		<text bitflag="321" id1="4080" id2="224142" version="1065353216">Quickbar 3 - Slot 10</text>
+		<text bitflag="321" id1="4081" id2="224142" version="1065353216">Quickbar 3 - Slot 11</text>
+		<text bitflag="321" id1="4082" id2="224142" version="1065353216">Quickbar 3 - Slot 12</text>
+		<text bitflag="321" id1="4083" id2="224142" version="1065353216">Quickbar 3 - Slot 2</text>
+		<text bitflag="321" id1="4084" id2="224142" version="1065353216">Quickbar 3 - Slot 3</text>
+		<text bitflag="321" id1="4085" id2="224142" version="1065353216">Quickbar 3 - Slot 4</text>
+		<text bitflag="321" id1="4086" id2="224142" version="1065353216">Quickbar 3 - Slot 5</text>
+		<text bitflag="321" id1="4087" id2="224142" version="1065353216">Quickbar 3 - Slot 6</text>
+		<text bitflag="321" id1="4088" id2="224142" version="1065353216">Quickbar 3 - Slot 7</text>
+		<text bitflag="321" id1="4089" id2="224142" version="1065353216">Quickbar 3 - Slot 8</text>
+		<text bitflag="321" id1="4090" id2="224142" version="1065353216">Quickbar 3 - Slot 9</text>
+		<text bitflag="321" id1="4091" id2="224142" version="1065353216">Next QuickbarPage</text>
+		<text bitflag="321" id1="4092" id2="224142" version="1065353216">Previous Quickbar Page</text>
+		<text bitflag="321" id1="4093" id2="224142" version="1065353216">Main Quickbar - Slot 1</text>
+		<text bitflag="321" id1="4094" id2="224142" version="1065353216">Main Quickbar - Slot 10</text>
+		<text bitflag="321" id1="4095" id2="224142" version="1065353216">Main Quickbar - Slot 11</text>
+		<text bitflag="321" id1="4096" id2="224142" version="1065353216">Main Quickbar - Slot 12</text>
+		<text bitflag="321" id1="4097" id2="224142" version="1065353216">Main Quickbar - Slot 2</text>
+		<text bitflag="321" id1="4098" id2="224142" version="1065353216">Main Quickbar - Slot 3</text>
+		<text bitflag="321" id1="4099" id2="224142" version="1065353216">Main Quickbar - Slot 4</text>
+		<text bitflag="321" id1="4100" id2="224142" version="1065353216">Main Quickbar - Slot 5</text>
+		<text bitflag="321" id1="4101" id2="224142" version="1065353216">Main Quickbar - Slot 6</text>
+		<text bitflag="321" id1="4102" id2="224142" version="1065353216">Main Quickbar - Slot 7</text>
+		<text bitflag="321" id1="4103" id2="224142" version="1065353216">Main Quickbar - Slot 8</text>
+		<text bitflag="321" id1="4104" id2="224142" version="1065353216">Main Quickbar - Slot 9</text>
+		<text bitflag="321" id1="4105" id2="224142" version="1065353216">Quickswitch to Quickbar Page 1</text>
+		<text bitflag="321" id1="4106" id2="224142" version="1065353216">Quickswitch to Quickbar Page 2</text>
+		<text bitflag="321" id1="4107" id2="224142" version="1065353216">Quickswitch to Quickbar Page 3</text>
+		<text bitflag="321" id1="4108" id2="224142" version="1065353216">Quickswitch to Quickbar Page 4</text>
+		<text bitflag="321" id1="4109" id2="224142" version="1065353216">Quickswitch to Quickbar Page 5</text>
+		<text bitflag="321" id1="4110" id2="224142" version="1065353216">Quickbar 4 - Slot 1</text>
+		<text bitflag="321" id1="4111" id2="224142" version="1065353216">Quickbar 4 - Slot 10</text>
+		<text bitflag="321" id1="4112" id2="224142" version="1065353216">Quickbar 4 - Slot 11</text>
+		<text bitflag="321" id1="4113" id2="224142" version="1065353216">Quickbar 4 - Slot 12</text>
+		<text bitflag="321" id1="4114" id2="224142" version="1065353216">Quickbar 4 - Slot 2</text>
+		<text bitflag="321" id1="4115" id2="224142" version="1065353216">Quickbar 4 - Slot 3</text>
+		<text bitflag="321" id1="4116" id2="224142" version="1065353216">Quickbar 4 - Slot 4</text>
+		<text bitflag="321" id1="4117" id2="224142" version="1065353216">Quickbar 4 - Slot 5</text>
+		<text bitflag="321" id1="4118" id2="224142" version="1065353216">Quickbar 4 - Slot 6</text>
+		<text bitflag="321" id1="4119" id2="224142" version="1065353216">Quickbar 4 - Slot 7</text>
+		<text bitflag="321" id1="4120" id2="224142" version="1065353216">Quickbar 4 - Slot 8</text>
+		<text bitflag="321" id1="4121" id2="224142" version="1065353216">Quickbar 4 - Slot 9</text>
+		<text bitflag="321" id1="4122" id2="224142" version="1065353216">Self Target Modifier</text>
+		<text bitflag="321" id1="4123" id2="224142" version="1065353216">Toggle Quickbar Lock</text>
+		<text bitflag="321" id1="4124" id2="224142" version="1065353216">Take Cover</text>
+		<text bitflag="321" id1="4125" id2="224142" version="1065353216">Cover Fire</text>
+		<text bitflag="321" id1="4126" id2="224142" version="1065353216">Set Focus Target / Swap Focus Target</text>
+		<text bitflag="321" id1="4127" id2="224142" version="1065353216">Target Companion</text>
+		<text bitflag="321" id1="4128" id2="224142" version="1065353216">Target Nearest Enemy</text>
+		<text bitflag="321" id1="4129" id2="224142" version="1065353216">Target Nearest Friend</text>
+		<text bitflag="321" id1="4130" id2="224142" version="1065353216">Target Next Enemy</text>
+		<text bitflag="321" id1="4131" id2="224142" version="1065353216">Target Next Friend</text>
+		<text bitflag="321" id1="4132" id2="224142" version="1065353216">Target Group Companion 1</text>
+		<text bitflag="321" id1="4133" id2="224142" version="1065353216">Target Group Companion 2</text>
+		<text bitflag="321" id1="4134" id2="224142" version="1065353216">Target Group Member 1</text>
+		<text bitflag="321" id1="4135" id2="224142" version="1065353216">Target Group Member 2</text>
+		<text bitflag="321" id1="4136" id2="224142" version="1065353216">Target Group Member 3</text>
+		<text bitflag="321" id1="4137" id2="224142" version="1065353216">Target Group Member 4</text>
+		<text bitflag="321" id1="4138" id2="224142" version="1065353216">Target Previous Enemy</text>
+		<text bitflag="321" id1="4139" id2="224142" version="1065353216">Target Previous Friend</text>
+		<text bitflag="321" id1="4140" id2="224142" version="1065353216">Target Self</text>
+		<text bitflag="321" id1="4141" id2="224142" version="1065353216">Take Cover In Place</text>
+		<text bitflag="321" id1="4142" id2="224142" version="1065353216">Toggle Preferences Pane</text>
+		<text bitflag="321" id1="4143" id2="224142" version="1065353216">Focus Target Modifier</text>
+		<text bitflag="321" id1="4144" id2="224142" version="1065353216">Target Center Screen Enemy</text>
+		<text bitflag="321" id1="4145" id2="224142" version="1065353216">Acquire Target's Target</text>
+		<text bitflag="321" id1="4146" id2="224142" version="1065353216">Companion Quickbar - Slot 5</text>
+		<text bitflag="321" id1="4147" id2="224142" version="1065353216">Companion Quickbar - Slot 6</text>
+		<text bitflag="321" id1="4148" id2="224142" version="1065353216">Companion Quickbar - Slot 7</text>
+		<text bitflag="321" id1="4149" id2="224142" version="1065353216">Companion Quickbar - Slot 8</text>
+		<text bitflag="321" id1="4150" id2="224142" version="1065353216">Companion Quickbar - Slot 9</text>
+		<text bitflag="321" id1="4151" id2="224142" version="1065353216">Companion Quickbar - Slot 10</text>
+		<text bitflag="321" id1="4152" id2="224142" version="1065353216">Companion Quickbar - Slot 11</text>
+		<text bitflag="321" id1="4153" id2="224142" version="1065353216">Companion Quickbar - Slot 12</text>
+		<text bitflag="321" id1="4154" id2="224142" version="1065353216">Toggle Expanded Companion Quickbar</text>
+		<text bitflag="321" id1="4155" id2="224142" version="1065353216">Toggle Legacy Pane</text>
+		<text bitflag="321" id1="4156" id2="224142" version="1065353216">Toggle Target Marker - Orange Blaster</text>
+		<text bitflag="321" id1="4157" id2="224142" version="1065353216">Toggle Target Marker - Green Saber</text>
+		<text bitflag="321" id1="4158" id2="224142" version="1065353216">Toggle Target Marker - Blue Shield</text>
+		<text bitflag="321" id1="4159" id2="224142" version="1065353216">Toggle Target Marker - Red Flame</text>
+		<text bitflag="321" id1="4160" id2="224142" version="1065353216">Toggle Target Marker - Yellow Reticle</text>
+		<text bitflag="321" id1="4161" id2="224142" version="1065353216">Toggle Target Marker - Cyan Lightning</text>
+		<text bitflag="321" id1="4162" id2="224142" version="1065353216">Toggle Target Marker - Gold Star</text>
+		<text bitflag="321" id1="4163" id2="224142" version="1065353216">Toggle Target Marker - Purple Gear</text>
+		<text bitflag="321" id1="5000" id2="224142" version="1065353216">Camera</text>
+		<text bitflag="321" id1="5001" id2="224142" version="1065353216">Chat</text>
+		<text bitflag="321" id1="5002" id2="224142" version="1065353216">Interface</text>
+		<text bitflag="321" id1="5003" id2="224142" version="1065353216">Miscellaneous</text>
+		<text bitflag="321" id1="5004" id2="224142" version="1065353216">Movement</text>
+		<text bitflag="321" id1="5005" id2="224142" version="1065353216">Quickbar</text>
+		<text bitflag="321" id1="5006" id2="224142" version="1065353216">Targeting</text>
+		<text bitflag="321" id1="6000" id2="224142" version="1065353216">Max Zoom In</text>
+		<text bitflag="321" id1="6001" id2="224142" version="1065353216">Max Zoom Out</text>
+		<text bitflag="321" id1="6002" id2="224142" version="1065353216">Zoom In</text>
+		<text bitflag="321" id1="6003" id2="224142" version="1065353216">Zoom Out</text>
+		<text bitflag="321" id1="6004" id2="224142" version="1065353216">Chat Bottom</text>
+		<text bitflag="321" id1="6005" id2="224142" version="1065353216">Chat Page Down</text>
+		<text bitflag="321" id1="6006" id2="224142" version="1065353216">Chat Page Up</text>
+		<text bitflag="321" id1="6007" id2="224142" version="1065353216">Chat Reply</text>
+		<text bitflag="321" id1="6008" id2="224142" version="1065353216">Combat Log Bottom</text>
+		<text bitflag="321" id1="6009" id2="224142" version="1065353216">Combat Log Page Down</text>
+		<text bitflag="321" id1="6010" id2="224142" version="1065353216">Combat Log Page Up</text>
+		<text bitflag="321" id1="6011" id2="224142" version="1065353216">Open Chat</text>
+		<text bitflag="321" id1="6012" id2="224142" version="1065353216">Open Chat Slash</text>
+		<text bitflag="321" id1="6013" id2="224142" version="1065353216">Re-Whisper</text>
+		<text bitflag="321" id1="6014" id2="224142" version="1065353216">Toggle Combat Log</text>
+		<text bitflag="321" id1="6015" id2="224142" version="1065353216">Toggle Ability</text>
+		<text bitflag="321" id1="6016" id2="224142" version="1065353216">Toggle Character Pane</text>
+		<text bitflag="321" id1="6017" id2="224142" version="1065353216">Toggle Chat Pane</text>
+		<text bitflag="321" id1="6018" id2="224142" version="1065353216">Toggle Crew Skills Pane</text>
+		<text bitflag="321" id1="6019" id2="224142" version="1065353216">Toggle Friends Pane</text>
+		<text bitflag="321" id1="6020" id2="224142" version="1065353216">Toggle Guild Pane</text>
+		<text bitflag="321" id1="6021" id2="224142" version="1065353216">Toggle Inventory</text>
+		<text bitflag="321" id1="6022" id2="224142" version="1065353216">Toggle Map Fade</text>
+		<text bitflag="321" id1="6023" id2="224142" version="1065353216">Toggle Minimap</text>
+		<text bitflag="321" id1="6024" id2="224142" version="1065353216">Toggle Minimap Rotation</text>
+		<text bitflag="321" id1="6025" id2="224142" version="1065353216">Toggle Mission Log</text>
+		<text bitflag="321" id1="6026" id2="224142" version="1065353216">Toggle Skill Pane</text>
+		<text bitflag="321" id1="6027" id2="224142" version="1065353216">Toggle Social Pane</text>
+		<text bitflag="321" id1="6028" id2="224142" version="1065353216">Toggle Warzone Pane</text>
+		<text bitflag="321" id1="6029" id2="224142" version="1065353216">Toggle World Map Pane</text>
+		<text bitflag="321" id1="6030" id2="224142" version="1065353216">Toggle World Map Size</text>
+		<text bitflag="321" id1="6031" id2="224142" version="1065353216">Master Volume Down</text>
+		<text bitflag="321" id1="6032" id2="224142" version="1065353216">Master Volume Up</text>
+		<text bitflag="321" id1="6033" id2="224142" version="1065353216">Minimap Zoom In</text>
+		<text bitflag="321" id1="6034" id2="224142" version="1065353216">Minimap Zoom Out</text>
+		<text bitflag="321" id1="6035" id2="224142" version="1065353216">Screen Shot</text>
+		<text bitflag="321" id1="6036" id2="224142" version="1065353216">Toggle Music</text>
+		<text bitflag="321" id1="6037" id2="224142" version="1065353216">Toggle Sound</text>
+		<text bitflag="321" id1="6038" id2="224142" version="1065353216">Toggle User Interface</text>
+		<text bitflag="321" id1="6039" id2="224142" version="1065353216">Follow Target</text>
+		<text bitflag="321" id1="6040" id2="224142" version="1065353216">Jump</text>
+		<text bitflag="321" id1="6041" id2="224142" version="1065353216">Move Backward</text>
+		<text bitflag="321" id1="6042" id2="224142" version="1065353216">Move Forward</text>
+		<text bitflag="321" id1="6043" id2="224142" version="1065353216">Sheath/Unsheath Weapon</text>
+		<text bitflag="321" id1="6044" id2="224142" version="1065353216">Sit/Move Down</text>
+		<text bitflag="321" id1="6045" id2="224142" version="1065353216">Strafe Left</text>
+		<text bitflag="321" id1="6046" id2="224142" version="1065353216">Strafe Right</text>
+		<text bitflag="321" id1="6047" id2="224142" version="1065353216">Toggle Autorun</text>
+		<text bitflag="321" id1="6048" id2="224142" version="1065353216">Toggle Run/Walk</text>
+		<text bitflag="321" id1="6049" id2="224142" version="1065353216">Turn Left</text>
+		<text bitflag="321" id1="6050" id2="224142" version="1065353216">Turn Right</text>
+		<text bitflag="321" id1="6051" id2="224142" version="1065353216">Quickbar 2 - Slot 1</text>
+		<text bitflag="321" id1="6052" id2="224142" version="1065353216">Quickbar 2 - Slot 10</text>
+		<text bitflag="321" id1="6053" id2="224142" version="1065353216">Quickbar 2 - Slot 11</text>
+		<text bitflag="321" id1="6054" id2="224142" version="1065353216">Quickbar 2 - Slot 12</text>
+		<text bitflag="321" id1="6055" id2="224142" version="1065353216">Quickbar 2 - Slot 2</text>
+		<text bitflag="321" id1="6056" id2="224142" version="1065353216">Quickbar 2 - Slot 3</text>
+		<text bitflag="321" id1="6057" id2="224142" version="1065353216">Quickbar 2 - Slot 4</text>
+		<text bitflag="321" id1="6058" id2="224142" version="1065353216">Quickbar 2 - Slot 5</text>
+		<text bitflag="321" id1="6059" id2="224142" version="1065353216">Quickbar 2 - Slot 6</text>
+		<text bitflag="321" id1="6060" id2="224142" version="1065353216">Quickbar 2 - Slot 7</text>
+		<text bitflag="321" id1="6061" id2="224142" version="1065353216">Quickbar 2 - Slot 8</text>
+		<text bitflag="321" id1="6062" id2="224142" version="1065353216">Quickbar 2 - Slot 9</text>
+		<text bitflag="321" id1="6063" id2="224142" version="1065353216">Center Quickslot 1</text>
+		<text bitflag="321" id1="6064" id2="224142" version="1065353216">Center Quickslot 10</text>
+		<text bitflag="321" id1="6065" id2="224142" version="1065353216">Center Quickslot 11</text>
+		<text bitflag="321" id1="6066" id2="224142" version="1065353216">Center Quickslot 12</text>
+		<text bitflag="321" id1="6067" id2="224142" version="1065353216">Center Quickslot 2</text>
+		<text bitflag="321" id1="6068" id2="224142" version="1065353216">Center Quickslot 3</text>
+		<text bitflag="321" id1="6069" id2="224142" version="1065353216">Center Quickslot 4</text>
+		<text bitflag="321" id1="6070" id2="224142" version="1065353216">Center Quickslot 5</text>
+		<text bitflag="321" id1="6071" id2="224142" version="1065353216">Center Quickslot 6</text>
+		<text bitflag="321" id1="6072" id2="224142" version="1065353216">Center Quickslot 7</text>
+		<text bitflag="321" id1="6073" id2="224142" version="1065353216">Center Quickslot 8</text>
+		<text bitflag="321" id1="6074" id2="224142" version="1065353216">Center Quickslot 9</text>
+		<text bitflag="321" id1="6075" id2="224142" version="1065353216">Companion Quickbar - Slot 1</text>
+		<text bitflag="321" id1="6076" id2="224142" version="1065353216">Companion Quickbar - Slot 2</text>
+		<text bitflag="321" id1="6077" id2="224142" version="1065353216">Companion Quickbar - Slot 3</text>
+		<text bitflag="321" id1="6078" id2="224142" version="1065353216">Companion Quickbar - Slot 4</text>
+		<text bitflag="321" id1="6079" id2="224142" version="1065353216">Quickbar 3 - Slot 1</text>
+		<text bitflag="321" id1="6080" id2="224142" version="1065353216">Quickbar 3 - Slot 10</text>
+		<text bitflag="321" id1="6081" id2="224142" version="1065353216">Quickbar 3 - Slot 11</text>
+		<text bitflag="321" id1="6082" id2="224142" version="1065353216">Quickbar 3 - Slot 12</text>
+		<text bitflag="321" id1="6083" id2="224142" version="1065353216">Quickbar 3 - Slot 2</text>
+		<text bitflag="321" id1="6084" id2="224142" version="1065353216">Quickbar 3 - Slot 3</text>
+		<text bitflag="321" id1="6085" id2="224142" version="1065353216">Quickbar 3 - Slot 4</text>
+		<text bitflag="321" id1="6086" id2="224142" version="1065353216">Quickbar 3 - Slot 5</text>
+		<text bitflag="321" id1="6087" id2="224142" version="1065353216">Quickbar 3 - Slot 6</text>
+		<text bitflag="321" id1="6088" id2="224142" version="1065353216">Quickbar 3 - Slot 7</text>
+		<text bitflag="321" id1="6089" id2="224142" version="1065353216">Quickbar 3 - Slot 9</text>
+		<text bitflag="321" id1="6090" id2="224142" version="1065353216">Quickbar 3 - Slot 10</text>
+		<text bitflag="321" id1="6091" id2="224142" version="1065353216">Next Quickbar Page</text>
+		<text bitflag="321" id1="6092" id2="224142" version="1065353216">Previous Quickbar Page</text>
+		<text bitflag="321" id1="6093" id2="224142" version="1065353216">Main Quickbar - Slot 1</text>
+		<text bitflag="321" id1="6094" id2="224142" version="1065353216">Main Quickbar - Slot 10</text>
+		<text bitflag="321" id1="6095" id2="224142" version="1065353216">Main Quickbar - Slot 11</text>
+		<text bitflag="321" id1="6096" id2="224142" version="1065353216">Main Quickbar - Slot 12</text>
+		<text bitflag="321" id1="6097" id2="224142" version="1065353216">Main Quickbar - Slot 2</text>
+		<text bitflag="321" id1="6098" id2="224142" version="1065353216">Main Quickbar - Slot 3</text>
+		<text bitflag="321" id1="6099" id2="224142" version="1065353216">Main Quickbar - Slot 4</text>
+		<text bitflag="321" id1="6100" id2="224142" version="1065353216">Main Quickbar - Slot 5</text>
+		<text bitflag="321" id1="6101" id2="224142" version="1065353216">Main Quickbar - Slot 6</text>
+		<text bitflag="321" id1="6102" id2="224142" version="1065353216">Main Quickbar - Slot 7</text>
+		<text bitflag="321" id1="6103" id2="224142" version="1065353216">Main Quickbar - Slot 8</text>
+		<text bitflag="321" id1="6104" id2="224142" version="1065353216">Main Quickbar - Slot 9</text>
+		<text bitflag="321" id1="6105" id2="224142" version="1065353216">Quickswitch to Quickbar Page 1</text>
+		<text bitflag="321" id1="6106" id2="224142" version="1065353216">Quickswitch to Quickbar Page 2</text>
+		<text bitflag="321" id1="6107" id2="224142" version="1065353216">Quickswitch to Quickbar Page 3</text>
+		<text bitflag="321" id1="6108" id2="224142" version="1065353216">Quickswitch to Quickbar Page 4</text>
+		<text bitflag="321" id1="6109" id2="224142" version="1065353216">Quickswitch to Quickbar Page 5</text>
+		<text bitflag="321" id1="6110" id2="224142" version="1065353216">Quickbar 4 - Slot 1</text>
+		<text bitflag="321" id1="6111" id2="224142" version="1065353216">Quickbar 4 - Slot 10</text>
+		<text bitflag="321" id1="6112" id2="224142" version="1065353216">Quickbar 4 - Slot 11</text>
+		<text bitflag="321" id1="6113" id2="224142" version="1065353216">Quickbar 4 - Slot 12</text>
+		<text bitflag="321" id1="6114" id2="224142" version="1065353216">Quickbar 4 - Slot 2</text>
+		<text bitflag="321" id1="6115" id2="224142" version="1065353216">Quickbar 4 - Slot 3</text>
+		<text bitflag="321" id1="6116" id2="224142" version="1065353216">Quickbar 4 - Slot 4</text>
+		<text bitflag="321" id1="6117" id2="224142" version="1065353216">Quickbar 4 - Slot 5</text>
+		<text bitflag="321" id1="6118" id2="224142" version="1065353216">Quickbar 4 - Slot 6</text>
+		<text bitflag="321" id1="6119" id2="224142" version="1065353216">Quickbar 4 - Slot 7</text>
+		<text bitflag="321" id1="6120" id2="224142" version="1065353216">Quickbar 4 - Slot 8</text>
+		<text bitflag="321" id1="6121" id2="224142" version="1065353216">Quickbar 4 - Slot 9</text>
+		<text bitflag="321" id1="6122" id2="224142" version="1065353216">Self Target Modifier</text>
+		<text bitflag="321" id1="6123" id2="224142" version="1065353216">Toggle Quickbar Lock</text>
+		<text bitflag="321" id1="6124" id2="224142" version="1065353216">Take Cover</text>
+		<text bitflag="321" id1="6125" id2="224142" version="1065353216">Cover Fire</text>
+		<text bitflag="321" id1="6126" id2="224142" version="1065353216">Set Focus Target / Swap Focus Target</text>
+		<text bitflag="321" id1="6127" id2="224142" version="1065353216">Target Companion</text>
+		<text bitflag="321" id1="6128" id2="224142" version="1065353216">Target Nearest Enemy</text>
+		<text bitflag="321" id1="6129" id2="224142" version="1065353216">Target Nearest Friend</text>
+		<text bitflag="321" id1="6130" id2="224142" version="1065353216">Target Next Enemy</text>
+		<text bitflag="321" id1="6131" id2="224142" version="1065353216">Target Next Friend</text>
+		<text bitflag="321" id1="6132" id2="224142" version="1065353216">Target Group Companion 1</text>
+		<text bitflag="321" id1="6133" id2="224142" version="1065353216">Target Group Companion 2</text>
+		<text bitflag="321" id1="6134" id2="224142" version="1065353216">Target Group Member 1</text>
+		<text bitflag="321" id1="6135" id2="224142" version="1065353216">Target Group Member 2</text>
+		<text bitflag="321" id1="6136" id2="224142" version="1065353216">Target Group Member 3</text>
+		<text bitflag="321" id1="6137" id2="224142" version="1065353216">Target Group Member 4</text>
+		<text bitflag="321" id1="6138" id2="224142" version="1065353216">Target Previous Enemy</text>
+		<text bitflag="321" id1="6139" id2="224142" version="1065353216">Target Previous Friend</text>
+		<text bitflag="321" id1="6140" id2="224142" version="1065353216">Target Self</text>
+		<text bitflag="321" id1="6141" id2="224142" version="1065353216">Take Cover In Place</text>
+		<text bitflag="321" id1="6142" id2="224142" version="1065353216">Toggles the Preference window</text>
+		<text bitflag="321" id1="6143" id2="224142" version="1065353216">Focus Target Modifier</text>
+		<text bitflag="321" id1="6144" id2="224142" version="1065353216">Target Center Screen Enemy</text>
+		<text bitflag="321" id1="6145" id2="224142" version="1065353216">Acquire Target's Target</text>
+		<text bitflag="321" id1="6156" id2="224142" version="1065353216">Toggle Target Marker - Orange Blaster</text>
+		<text bitflag="321" id1="6157" id2="224142" version="1065353216">Toggle Target Marker - Green Saber</text>
+		<text bitflag="321" id1="6158" id2="224142" version="1065353216">Toggle Target Marker - Blue Shield</text>
+		<text bitflag="321" id1="6159" id2="224142" version="1065353216">Toggle Target Marker - Red Flame</text>
+		<text bitflag="321" id1="6160" id2="224142" version="1065353216">Toggle Target Marker - Yellow Reticle</text>
+		<text bitflag="321" id1="6161" id2="224142" version="1065353216">Toggle Target Marker - Cyan Lightning</text>
+		<text bitflag="321" id1="6162" id2="224142" version="1065353216">Toggle Target Marker - Gold Star</text>
+		<text bitflag="321" id1="6163" id2="224142" version="1065353216">Toggle Target Marker - Purple Gear</text>
+		<text bitflag="321" id1="7000" id2="224142" version="1065353216">Sound</text>
+		<text bitflag="321" id1="7001" id2="224142" version="1065353216">Ambient Volume</text>
+		<text bitflag="321" id1="7002" id2="224142" version="1065353216">Master Volume</text>
+		<text bitflag="321" id1="7003" id2="224142" version="1065353216">Music Volume</text>
+		<text bitflag="321" id1="7004" id2="224142" version="1065353216">Sound FX Volume</text>
+		<text bitflag="321" id1="7005" id2="224142" version="1065353216">Voice Volume</text>
+		<text bitflag="321" id1="7006" id2="224142" version="1065353216">Key 1:</text>
+		<text bitflag="321" id1="7007" id2="224142" version="1065353216">Key 2:</text>
+		<text bitflag="321" id1="7008" id2="224142" version="1065353216">RECORDING KEYSTROKE</text>
+		<text bitflag="321" id1="7009" id2="224142" version="1065353216">Press your desired key command.</text>
+		<text bitflag="321" id1="7010" id2="224142" version="1065353216">UNBIND</text>
+		<text bitflag="321" id1="7011" id2="224142" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="7012" id2="224142" version="1065353216">&lt;&lt;1&gt;&gt; has been unmapped</text>
+		<text bitflag="321" id1="7013" id2="224142" version="1065353216">&lt;&lt;1&gt;&gt; cannot be mapped</text>
+		<text bitflag="321" id1="7014" id2="224142" version="1065353216">Adjust your ambient volume.</text>
+		<text bitflag="321" id1="7015" id2="224142" version="1065353216">Adjust your master volume.</text>
+		<text bitflag="321" id1="7016" id2="224142" version="1065353216">Adjust your music volume.</text>
+		<text bitflag="321" id1="7017" id2="224142" version="1065353216">Adjust your sound fx volume.</text>
+		<text bitflag="321" id1="7018" id2="224142" version="1065353216">Adjust your voice volume.</text>
+		<text bitflag="321" id1="7019" id2="224142" version="1065353216">Enable Sound</text>
+		<text bitflag="321" id1="7020" id2="224142" version="1065353216">Enables/disables all sound and music</text>
+		<text bitflag="321" id1="7021" id2="224142" version="1065353216">Revert to default</text>
+		<text bitflag="321" id1="7100" id2="224142" version="1065353216">Combat Logging</text>
+		<text bitflag="321" id1="7101" id2="224142" version="1065353216">Show Victory Messages in Chat</text>
+		<text bitflag="321" id1="7102" id2="224142" version="1065353216">Displays the deaths of targets killed by your character or companion in the chat panel.</text>
+		<text bitflag="321" id1="7103" id2="224142" version="1065353216">Show Defeat Messages in Chat</text>
+		<text bitflag="321" id1="7104" id2="224142" version="1065353216">Displays the death of your character or companion in the chat panel.</text>
+		<text bitflag="321" id1="7105" id2="224142" version="1065353216">Enable combat logging to file</text>
+		<text bitflag="321" id1="7106" id2="224142" version="1065353216">This enables logging of all the player's combat interactions to file.&lt;br&gt;
+&lt;b&gt;Warning:&lt;/b&gt; This is a feature for advanced users that may require active disk management to ensure sufficient free disk space on the game's installation drive.</text>
+		<text bitflag="321" id1="8000" id2="224142" version="1065353216">Legacy</text>
+		<text bitflag="321" id1="8001" id2="224142" version="1065353216">Hide Legacy</text>
+		<text bitflag="321" id1="8002" id2="224142" version="1065353216">Legacy Surname</text>
+		<text bitflag="321" id1="8003" id2="224142" version="1065353216">Legacy Title</text>
+		<text bitflag="321" id1="8004" id2="224142" version="1065353216">Legacy Display</text>
+		<text bitflag="321" id1="8005" id2="224142" version="1065353216">This option allows you to choose where to display your legacy on your nameplate.</text>
+		<text bitflag="321" id1="8006" id2="224142" version="1065353216">Show Legacy Bar</text>
+		<text bitflag="321" id1="8007" id2="224142" version="1065353216">Toggle the Legacy experience bar on/off.</text>
+		<text bitflag="321" id1="10000" id2="224142" version="1065353216">GAME</text>
+		<text bitflag="321" id1="10001" id2="224142" version="1065353216">KEY BINDINGS</text>
+		<text bitflag="321" id1="11001" id2="224142" version="1065353216">Operations Frames</text>
+		<text bitflag="321" id1="11002" id2="224142" version="1065353216">Operations</text>
+		<text bitflag="321" id1="11003" id2="224142" version="1065353216">Health Width</text>
+		<text bitflag="321" id1="11004" id2="224142" version="1065353216">Health Height</text>
+		<text bitflag="321" id1="11005" id2="224142" version="1065353216">Show Health Text</text>
+		<text bitflag="321" id1="11006" id2="224142" version="1065353216">Lock Operations Frame</text>
+		<text bitflag="321" id1="11007" id2="224142" version="1065353216">Use Operations Frames as Group Frames</text>
+		<text bitflag="321" id1="11008" id2="224142" version="1065353216">Track Missions By Area</text>
+		<text bitflag="321" id1="11009" id2="224142" version="1065353216">Automatically track/untrack missions when you enter a new area.</text>
+		<text bitflag="321" id1="11010" id2="224142" version="1065353216">High</text>
+		<text bitflag="321" id1="11011" id2="224142" version="1065353216">Medium</text>
+		<text bitflag="321" id1="11012" id2="224142" version="1065353216">Low</text>
+		<text bitflag="321" id1="11013" id2="224142" version="1065353216">Ultra</text>
+		<text bitflag="321" id1="11014" id2="224142" version="1065353216">Off</text>
+		<text bitflag="321" id1="11015" id2="224142" version="1065353216">Adjust the width of operations health bars</text>
+		<text bitflag="321" id1="11016" id2="224142" version="1065353216">Adjust the height of operations health bars</text>
+		<text bitflag="321" id1="11017" id2="224142" version="1065353216">Enable display of health text</text>
+		<text bitflag="321" id1="11018" id2="224142" version="1065353216">Toggle locking the operations frame</text>
+		<text bitflag="321" id1="11019" id2="224142" version="1065353216">Toggle using operations frames as group frames</text>
+		<text bitflag="321" id1="11020" id2="224142" version="1065353216">Custom</text>
+		<text bitflag="321" id1="11021" id2="224142" version="1065353216">Very Low</text>
+		<text bitflag="321" id1="12000" id2="224142" version="1065353216">General Chat</text>
+		<text bitflag="321" id1="12001" id2="224142" version="1065353216">Enable/Disable General Chat Channel</text>
+		<text bitflag="321" id1="12002" id2="224142" version="1065353216">Trade Chat</text>
+		<text bitflag="321" id1="12003" id2="224142" version="1065353216">Enable/Disable Trade Chat Channel</text>
+		<text bitflag="321" id1="12004" id2="224142" version="1065353216">PVP Chat</text>
+		<text bitflag="321" id1="12005" id2="224142" version="1065353216">Enable/Disable PVP Chat Channel</text>
+		<text bitflag="321" id1="12006" id2="224142" version="1065353216">Toggle Customer Support Pane</text>
+		<text bitflag="321" id1="12007" id2="224142" version="1065353216">Toggle Customer Support Pane</text>
+		<text bitflag="321" id1="12008" id2="224142" version="1065353216">Hide Fog of War Masks</text>
+		<text bitflag="321" id1="12009" id2="224142" version="1065353216">Prevents Fog of War from appearing on maps.</text>
+		<text bitflag="321" id1="12010" id2="224142" version="1065353216">Toggle Bug Report Pane</text>
+		<text bitflag="321" id1="12011" id2="224142" version="1065353216">Toggle Bug Report Pane</text>
+		<text bitflag="321" id1="12012" id2="224142" version="1065353216">General</text>
+		<text bitflag="321" id1="12013" id2="224142" version="1065353216">Advanced</text>
+		<text bitflag="321" id1="12014" id2="224142" version="1065353216">Chat Panel Alpha</text>
+		<text bitflag="321" id1="12015" id2="224142" version="1065353216">The alpha value the chat panel will fade to when it doesn't have focus</text>
+		<text bitflag="321" id1="12016" id2="224142" version="1065353216">Chat Timestamp</text>
+		<text bitflag="321" id1="12017" id2="224142" version="1065353216">Show chat timestamps</text>
+		<text bitflag="321" id1="12018" id2="224142" version="1065353216">Chat Panel Fade</text>
+		<text bitflag="321" id1="12019" id2="224142" version="1065353216">Fades the chat panel if there is no activity</text>
+		<text bitflag="321" id1="12020" id2="224142" version="1065353216">Show Conversation Alignment Gain on Mouseover</text>
+		<text bitflag="321" id1="12021" id2="224142" version="1065353216">Shows conversation alignment gain inside of the choice wheel on mouseover</text>
+		<text bitflag="321" id1="12022" id2="224142" version="1065353216">Show Conversation Alignment Gain</text>
+		<text bitflag="321" id1="12023" id2="224142" version="1065353216">Show conversation alignment gain next to the choice</text>
+		<text bitflag="321" id1="12024" id2="224142" version="1065353216">Lock Quickbars</text>
+		<text bitflag="321" id1="12025" id2="224142" version="1065353216">Locks the quickbars so abilities can no longer be dragged off them</text>
+		<text bitflag="321" id1="12026" id2="224142" version="1065353216">Map Fade Value</text>
+		<text bitflag="321" id1="12027" id2="224142" version="1065353216">The value the map will fade to when moving</text>
+		<text bitflag="321" id1="12028" id2="224142" version="1065353216">Quickbars</text>
+		<text bitflag="321" id1="12029" id2="224142" version="1065353216">Map</text>
+		<text bitflag="321" id1="12030" id2="224142" version="1065353216">Tooltip</text>
+		<text bitflag="321" id1="12031" id2="224142" version="1065353216">Conversation</text>
+		<text bitflag="321" id1="12032" id2="224142" version="1065353216">Mouse</text>
+		<text bitflag="321" id1="12033" id2="224142" version="1065353216">Social Center</text>
+		<text bitflag="321" id1="12034" id2="224142" version="1065353216">Lock Social Notification Anchor</text>
+		<text bitflag="321" id1="12035" id2="224142" version="1065353216">Toggle locking the social notification anchor</text>
+		<text bitflag="321" id1="12036" id2="224142" version="1065353216">Lock Social Center</text>
+		<text bitflag="321" id1="12037" id2="224142" version="1065353216">Toggle locking the social center</text>
+		<text bitflag="321" id1="12038" id2="224142" version="1065353216">Show Invites as Social Messages</text>
+		<text bitflag="321" id1="12039" id2="224142" version="1065353216">Switches invite dialogs to be social messages</text>
+		<text bitflag="321" id1="12040" id2="224142" version="1065353216">Attach Social Notifications to Chat</text>
+		<text bitflag="321" id1="12041" id2="224142" version="1065353216">Toggles attaching the social notifications to the bottom of chat</text>
+		<text bitflag="321" id1="12042" id2="224142" version="1065353216">Reverse Y and Z coordinates on coordinate displays</text>
+		<text bitflag="321" id1="12043" id2="224142" version="1065353216">Reverses the display of the Y and Z coordinates when mousing over the minimap.</text>
+		<text bitflag="321" id1="12044" id2="224142" version="1065353216">Use Quickslots On Key Press</text>
+		<text bitflag="321" id1="12045" id2="224142" version="1065353216">The quickslot keybinds will respond to key press instead of key release.</text>
+		<text bitflag="321" id1="12046" id2="224142" version="1065353216">Ignores the alpha set by the user and completely fades the left and right sides of the world map.</text>
+		<text bitflag="321" id1="12047" id2="224142" version="1065353216">Fade World Map Sides Completely</text>
+		<text bitflag="321" id1="12048" id2="224142" version="1065353216">Operation Frame Visible</text>
+		<text bitflag="321" id1="12049" id2="224142" version="1065353216">Sets the operation frame visibility</text>
+		<text bitflag="321" id1="12050" id2="224142" version="1065353216">Display Player Information</text>
+		<text bitflag="321" id1="12051" id2="224142" version="1065353216">Display the player's health</text>
+		<text bitflag="321" id1="12052" id2="224142" version="1065353216">Always Show Health Bar</text>
+		<text bitflag="321" id1="12053" id2="224142" version="1065353216">Toggles between always showing health bars and showing health bars only when it is not full.</text>
+		<text bitflag="321" id1="12054" id2="224142" version="1065353216">Always Show Resolve Bar</text>
+		<text bitflag="321" id1="12055" id2="224142" version="1065353216">Toggles between always showing the resolve bar and only showing the resolve bar when it has resolve in it.</text>
+		<text bitflag="321" id1="12056" id2="224142" version="1065353216">Always Show Class Symbol</text>
+		<text bitflag="321" id1="12057" id2="224142" version="1065353216">Toggles between visibility of the class symbol in the nameplate.</text>
+		<text bitflag="321" id1="12058" id2="224142" version="1065353216">Show Guild Names</text>
+		<text bitflag="321" id1="12059" id2="224142" version="1065353216">Toggles whether the guild name is displayed below the player name in the nameplate.</text>
+		<text bitflag="321" id1="13001" id2="224142" version="1065353216">Scale Nameplates with Distance</text>
+		<text bitflag="321" id1="13002" id2="224142" version="1065353216">As the nameplate gets further away the nameplate will scale to be smaller with this on.</text>
+		<text bitflag="321" id1="14000" id2="224142" version="1065353216">Show Tutorial Alerts</text>
+		<text bitflag="321" id1="14001" id2="224142" version="1065353216">Show/Hide Tutorial Alerts</text>
+		<text bitflag="321" id1="19002" id2="224142" version="1065353216">Hide Adding Friends from Mission Rewards</text>
+		<text bitflag="321" id1="19003" id2="224142" version="1065353216">Hide suggesting group friends from the Mission Rewards Window</text>
+		<text bitflag="321" id1="19005" id2="224142" version="1065353216">Controls how many icons can gutter in the minimap, showing closest first.</text>
+		<text bitflag="321" id1="19006" id2="224142" version="1065353216">Map Gutter Max Icon Count</text>
+		<text bitflag="321" id1="19007" id2="224142" version="1065353216">Show Mapnotes for Untracked Missions</text>
+		<text bitflag="321" id1="19008" id2="224142" version="1065353216">This option toggles drawing of mapnotes related to missions that the player is not tracking.  If selected, even mapnotes for missions that are not tracked will display mapnotes.</text>
+		<text bitflag="321" id1="19009" id2="224142" version="1065353216">Show Dark Side Corruption</text>
+		<text bitflag="321" id1="19010" id2="224142" version="1065353216">Allows your skin and eyes to reflect the corruption and power of the dark side.</text>
+		<text bitflag="321" id1="19011" id2="224142" version="1065353216">Ability Action Queue Window</text>
+		<text bitflag="321" id1="19012" id2="224142" version="1065353216">Combat</text>
+		<text bitflag="321" id1="19013" id2="224142" version="1065353216">Adjust the amount of time in advance you may queue up an ability before being allowed to use it.</text>
+		<text bitflag="321" id1="19018" id2="224142" version="1065353216">0.0</text>
+		<text bitflag="321" id1="19019" id2="224142" version="1065353216">0.25</text>
+		<text bitflag="321" id1="19020" id2="224142" version="1065353216">0.5</text>
+		<text bitflag="321" id1="19021" id2="224142" version="1065353216">0.75</text>
+		<text bitflag="321" id1="19022" id2="224142" version="1065353216">1.0</text>
+		<text bitflag="321" id1="19023" id2="224142" version="1065353216">Allow multiple filters to be enabled simultaneously on the World Map</text>
+		<text bitflag="321" id1="19024" id2="224142" version="1065353216">This option allows enabling of all of the filters simultaneously on the World Map.</text>
+		<text bitflag="321" id1="160002" id2="224142" version="1065353216">Off</text>
+		<text bitflag="321" id1="160003" id2="224142" version="1065353216">Low</text>
+		<text bitflag="321" id1="160004" id2="224142" version="1065353216">High</text>
+		<text bitflag="321" id1="160010" id2="224142" version="1065353216">Windowed</text>
+		<text bitflag="321" id1="160011" id2="224142" version="1065353216">Fullscreen (Windowed)</text>
+		<text bitflag="321" id1="160012" id2="224142" version="1065353216">Fullscreen</text>
+		<text bitflag="321" id1="160013" id2="224142" version="1065353216">Window Mode</text>
+		<text bitflag="321" id1="160014" id2="224142" version="1065353216">Specify your window mode</text>
+		<text bitflag="321" id1="160015" id2="224142" version="1065353216">Auto-swap to Group Channel</text>
+		<text bitflag="321" id1="160016" id2="224142" version="1065353216">If enabled, chat panel will automatically swap to the group chat channel when you join a group.</text>
+		<text bitflag="321" id1="160019" id2="224142" version="1065353216">Auto adjust camera facing when your character moves or rotates</text>
+		<text bitflag="321" id1="160020" id2="224142" version="1065353216">Smart Camera</text>
+		<text bitflag="321" id1="160021" id2="224142" version="1065353216">Character Texture Atlasing</text>
+		<text bitflag="321" id1="160022" id2="224142" version="1065353216">Adjust the texture atlasing of your character model. Reducing this will increase your performance.</text>
+		<text bitflag="321" id1="160026" id2="224142" version="1065353216">Visible Character Limit</text>
+		<text bitflag="321" id1="160027" id2="224142" version="1065353216">Controls how many characters are rendered in the vicinity of the player.</text>
+		<text bitflag="321" id1="160028" id2="224142" version="1065353216">Very High</text>
+		<text bitflag="321" id1="160029" id2="224142" version="1065353216">Default</text>
+		<text bitflag="321" id1="160030" id2="224142" version="1065353216">Extended Quickbars</text>
+		<text bitflag="321" id1="160031" id2="224142" version="1065353216">Retro</text>
+		<text bitflag="321" id1="160032" id2="224142" version="1065353216">Current Interface: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="160033" id2="224142" version="1065353216">Cancel</text>
+		<text bitflag="321" id1="160034" id2="224142" version="1065353216">Default</text>
+		<text bitflag="321" id1="160035" id2="224142" version="1065353216">Save</text>
+		<text bitflag="321" id1="160036" id2="224142" version="1065353216">Pending Changes</text>
+		<text bitflag="321" id1="160037" id2="224142" version="1065353216">You have unsaved changes. Are you sure you wish to load the default interface?</text>
+		<text bitflag="321" id1="160038" id2="224142" version="1065353216">You have unsaved changes. Are you sure you wish to exit the interface edit mode?</text>
+		<text bitflag="321" id1="160039" id2="224142" version="1065353216">Yes</text>
+		<text bitflag="321" id1="160040" id2="224142" version="1065353216">No</text>
+		<text bitflag="321" id1="160041" id2="224142" version="1065353216">Global Scale</text>
+		<text bitflag="321" id1="160042" id2="224142" version="1065353216">[Select a Component]</text>
+		<text bitflag="321" id1="160043" id2="224142" version="1065353216">Interface Editor</text>
+		<text bitflag="321" id1="160044" id2="224142" version="1065353216">Hide Secondary UI Elements</text>
+		<text bitflag="321" id1="160045" id2="224142" version="1065353216">Delete Confirmation</text>
+		<text bitflag="321" id1="160046" id2="224142" version="1065353216">Are you sure you wish to delete the '&lt;&lt;1&gt;&gt;'  interface? This action is irreversible.</text>
+		<text bitflag="321" id1="160047" id2="224142" version="1065353216">Unable to delete a default interface.</text>
+		<text bitflag="321" id1="160048" id2="224142" version="1065353216">Deletion Error</text>
+		<text bitflag="321" id1="160049" id2="224142" version="1065353216">Ok</text>
+		<text bitflag="321" id1="160050" id2="224142" version="1065353216">Save Error</text>
+		<text bitflag="321" id1="160051" id2="224142" version="1065353216">Unable to save interface '&lt;&lt;1&gt;&gt;'.</text>
+		<text bitflag="321" id1="160052" id2="224142" version="1065353216">Unable to save over a default interface.</text>
+		<text bitflag="321" id1="160053" id2="224142" version="1065353216">Interface Already Exist</text>
+		<text bitflag="321" id1="160054" id2="224142" version="1065353216">An interface already exist with the name '&lt;&lt;1&gt;&gt;'. Do you want to overwrite it?</text>
+		<text bitflag="321" id1="160055" id2="224142" version="1065353216">Interface Load Error</text>
+		<text bitflag="321" id1="160056" id2="224142" version="1065353216">Unable to load interface '&lt;&lt;1&gt;&gt;'. A default has been loaded instead.</text>
+		<text bitflag="321" id1="160057" id2="224142" version="1065353216">Display With No Target</text>
+		<text bitflag="321" id1="160058" id2="224142" version="1065353216">Slots Per Row</text>
+		<text bitflag="321" id1="160059" id2="224142" version="1065353216">Number of Slots</text>
+		<text bitflag="321" id1="160060" id2="224142" version="1065353216">Show Background</text>
+		<text bitflag="321" id1="160061" id2="224142" version="1065353216">Flip Horizontally</text>
+		<text bitflag="321" id1="160062" id2="224142" version="1065353216">Show Effects on Bottom</text>
+		<text bitflag="321" id1="160063" id2="224142" version="1065353216">Flip Vertically</text>
+		<text bitflag="321" id1="160064" id2="224142" version="1065353216">Height</text>
+		<text bitflag="321" id1="160065" id2="224142" version="1065353216">Buttons Per Row</text>
+		<text bitflag="321" id1="160066" id2="224142" version="1065353216">Attach to Mini-Map</text>
+		<text bitflag="321" id1="160067" id2="224142" version="1065353216">Scale</text>
+		<text bitflag="321" id1="160068" id2="224142" version="1065353216">Alpha</text>
+		<text bitflag="321" id1="160069" id2="224142" version="1065353216">Enabled</text>
+		<text bitflag="321" id1="160070" id2="224142" version="1065353216">Show Experience Bar</text>
+		<text bitflag="321" id1="160071" id2="224142" version="1065353216">Show Legacy Experience Bar</text>
+		<text bitflag="321" id1="160072" id2="224142" version="1065353216">Player Frame</text>
+		<text bitflag="321" id1="160073" id2="224142" version="1065353216">Target Frame</text>
+		<text bitflag="321" id1="160074" id2="224142" version="1065353216">Player Castbar</text>
+		<text bitflag="321" id1="160075" id2="224142" version="1065353216">Target Castbar</text>
+		<text bitflag="321" id1="160076" id2="224142" version="1065353216">Group Frames</text>
+		<text bitflag="321" id1="160077" id2="224142" version="1065353216">Phase Indicator</text>
+		<text bitflag="321" id1="160078" id2="224142" version="1065353216">Menu Bar</text>
+		<text bitflag="321" id1="160079" id2="224142" version="1065353216">Experience Bars</text>
+		<text bitflag="321" id1="160080" id2="224142" version="1065353216">Mission Tracker</text>
+		<text bitflag="321" id1="160081" id2="224142" version="1065353216">Main Quickbar</text>
+		<text bitflag="321" id1="160082" id2="224142" version="1065353216">Quickbar 2</text>
+		<text bitflag="321" id1="160083" id2="224142" version="1065353216">Quickbar 3</text>
+		<text bitflag="321" id1="160084" id2="224142" version="1065353216">Quickbar 4</text>
+		<text bitflag="321" id1="160085" id2="224142" version="1065353216">Large Tooltip</text>
+		<text bitflag="321" id1="160086" id2="224142" version="1065353216">Companion</text>
+		<text bitflag="321" id1="160087" id2="224142" version="1065353216">Mini-Map</text>
+		<text bitflag="321" id1="160088" id2="224142" version="1065353216">Combat State</text>
+		<text bitflag="321" id1="160089" id2="224142" version="1065353216">Social Center</text>
+		<text bitflag="321" id1="160090" id2="224142" version="1065353216">Alderaan Scorecard</text>
+		<text bitflag="321" id1="160091" id2="224142" version="1065353216">Huttball Scorecard</text>
+		<text bitflag="321" id1="160092" id2="224142" version="1065353216">Voidstar Scorecard</text>
+		<text bitflag="321" id1="160093" id2="224142" version="1065353216">Holocom</text>
+		<text bitflag="321" id1="160094" id2="224142" version="1065353216">Tutorials</text>
+		<text bitflag="321" id1="160095" id2="224142" version="1065353216">Companion Quickbar</text>
+		<text bitflag="321" id1="160096" id2="224142" version="1065353216">Social Notifications</text>
+		<text bitflag="321" id1="160097" id2="224142" version="1065353216">Focus Target</text>
+		<text bitflag="321" id1="160098" id2="224142" version="1065353216">Target of Target</text>
+		<text bitflag="321" id1="160099" id2="224142" version="1065353216">Open Interface Editor</text>
+		<text bitflag="321" id1="160100" id2="224142" version="1065353216">Interfaces:</text>
+		<text bitflag="321" id1="160101" id2="224142" version="1065353216">Interface Editor</text>
+		<text bitflag="321" id1="160102" id2="224142" version="1065353216">Groups Per Row</text>
+		<text bitflag="321" id1="160103" id2="224142" version="1065353216">Groups Visible</text>
+		<text bitflag="321" id1="160104" id2="224142" version="1065353216">Operation Frames</text>
+		<text bitflag="321" id1="160105" id2="224142" version="1065353216">Grow up (only affects undocked tooltip)</text>
+		<text bitflag="321" id1="160106" id2="224142" version="1065353216">Show Information Text</text>
+		<text bitflag="321" id1="160107" id2="224142" version="1065353216">Group Frame &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="160108" id2="224142" version="1065353216">Group Target Frame &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="160109" id2="224142" version="1065353216">Target Of Target Castbar</text>
+		<text bitflag="321" id1="160110" id2="224142" version="1065353216">Denova Scorecard</text>
+		<text bitflag="321" id1="160111" id2="224142" version="1065353216">Cooldown Settings</text>
+		<text bitflag="321" id1="160112" id2="224142" version="1065353216">Show Ready Flash</text>
+		<text bitflag="321" id1="160113" id2="224142" version="1065353216">Show Global Cooldown Ready Flash</text>
+		<text bitflag="321" id1="160114" id2="224142" version="1065353216">Show Cooldown Text</text>
+		<text bitflag="321" id1="160115" id2="224142" version="1065353216">Cooldown Style</text>
+		<text bitflag="321" id1="160116" id2="224142" version="1065353216">Global Cooldown Style</text>
+		<text bitflag="321" id1="160117" id2="224142" version="1065353216">Cooldown Text Settings</text>
+		<text bitflag="321" id1="160118" id2="224142" version="1065353216">Text Size</text>
+		<text bitflag="321" id1="160119" id2="224142" version="1065353216">Show Tenths of a Second</text>
+		<text bitflag="321" id1="160120" id2="224142" version="1065353216">Style 1 - Bright cooldown with a dark overlay&lt;br&gt;
+Style 2 - Bright cooldown with no overlay&lt;br&gt;
+Style 3 - Dark cooldown with a dark overlay&lt;br&gt;
+Style 4 - Dark cooldown with no overlay&lt;br&gt;
+Style 5 - No cooldown graphic and no overlay</text>
+		<text bitflag="321" id1="160121" id2="224142" version="1065353216">The time in seconds before the cooldown text will start displaying tenths of a second</text>
+		<text bitflag="321" id1="160122" id2="224142" version="1065353216">Style 1</text>
+		<text bitflag="321" id1="160123" id2="224142" version="1065353216">Style 2</text>
+		<text bitflag="321" id1="160124" id2="224142" version="1065353216">Style 3</text>
+		<text bitflag="321" id1="160125" id2="224142" version="1065353216">Style 4</text>
+		<text bitflag="321" id1="160127" id2="224142" version="1065353216">Style 5</text>
+		<text bitflag="321" id1="160128" id2="224142" version="1065353216">Load the selected interface</text>
+		<text bitflag="321" id1="160129" id2="224142" version="1065353216">Delete the selected interface</text>
+		<text bitflag="321" id1="160130" id2="224142" version="1065353216">Save the current interface as the given name</text>
+		<text bitflag="321" id1="160131" id2="224142" version="1065353216">Mission Reward Window</text>
+		<text bitflag="321" id1="160132" id2="224142" version="1065353216">Suppress Crew Mission Rewards in a Warzone</text>
+		<text bitflag="321" id1="160133" id2="224142" version="1065353216">This will suppress the crew mission reward window from popping up in a warzone.  It can still be reached by clicking the reward button next to the mission tracker.</text>
+		<text bitflag="321" id1="160134" id2="224142" version="1065353216">Enable Movable Secondary Window</text>
+		<text bitflag="321" id1="160135" id2="224142" version="1065353216">Enables you to freely move around secondary windows such as your inventory or character sheet windows.</text>
+		<text bitflag="321" id1="160136" id2="224142" version="1065353216">Focus Target Castbar</text>
+		<text bitflag="321" id1="160137" id2="224142" version="1065353216">All</text>
+		<text bitflag="321" id1="160138" id2="224142" version="1065353216">Conversation</text>
+		<text bitflag="321" id1="160139" id2="224142" version="1065353216">Main HUD</text>
+		<text bitflag="321" id1="160140" id2="224142" version="1065353216">Group</text>
+		<text bitflag="321" id1="160141" id2="224142" version="1065353216">Ops</text>
+		<text bitflag="321" id1="160142" id2="224142" version="1065353216">Space Combat</text>
+		<text bitflag="321" id1="160143" id2="224142" version="1065353216">Warzone</text>
+		<text bitflag="321" id1="160144" id2="224142" version="1065353216">Response Wheel</text>
+		<text bitflag="321" id1="160145" id2="224142" version="1065353216">Conversation Portraits</text>
+		<text bitflag="321" id1="160146" id2="224142" version="1065353216">Conversation Rewards</text>
+		<text bitflag="321" id1="160147" id2="224142" version="1065353216">Space Combat Portrait</text>
+		<text bitflag="321" id1="160148" id2="224142" version="1065353216">Space Combat Missiles</text>
+		<text bitflag="321" id1="160149" id2="224142" version="1065353216">Companion Castbar</text>
+		<text bitflag="321" id1="160150" id2="224142" version="1065353216">&lt;&lt;1&gt;&gt;x&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="160151" id2="224142" version="1065353216">Cycle in screen space</text>
+		<text bitflag="321" id1="160152" id2="224142" version="1065353216">Target cycling works in screen space from current target going left to right</text>
+		<text bitflag="321" id1="160153" id2="224142" version="1065353216">Show next target in cycle</text>
+		<text bitflag="321" id1="160154" id2="224142" version="1065353216">Displays a indicator of the next target in the target cycle queue</text>
+		<text bitflag="321" id1="160155" id2="224142" version="1065353216">Show Role Icon</text>
+		<text bitflag="321" id1="160156" id2="224142" version="1065353216">View Distance</text>
+		<text bitflag="321" id1="160157" id2="224142" version="1065353216">How far away from player geometry and terrain are loaded and rendered; lower settings increase performance but sacrifice visual quality.</text>
+		<text bitflag="321" id1="160162" id2="224142" version="1065353216">Conversation Subtitles</text>
+		<text bitflag="321" id1="160163" id2="224142" version="1065353216">Aquire Focus Target's Target</text>
+		<text bitflag="321" id1="160164" id2="224142" version="1065353216">Aquire Focus Target's Target</text>
+		<text bitflag="321" id1="160165" id2="224142" version="1065353216">Ancient Hypergates Scorecard</text>
+		<text bitflag="321" id1="160167" id2="224142" version="1065353216">Quickbar 6</text>
+		<text bitflag="321" id1="160168" id2="224142" version="1065353216">Quickbar 5</text>
+		<text bitflag="321" id1="160173" id2="224142" version="1065353216">Quickbar 5 - Slot 1</text>
+		<text bitflag="321" id1="160174" id2="224142" version="1065353216">Quickbar 5 - Slot 10</text>
+		<text bitflag="321" id1="160175" id2="224142" version="1065353216">Quickbar 5 - Slot 11</text>
+		<text bitflag="321" id1="160176" id2="224142" version="1065353216">Quickbar 5 - Slot 12</text>
+		<text bitflag="321" id1="160177" id2="224142" version="1065353216">Quickbar 5 - Slot 2</text>
+		<text bitflag="321" id1="160178" id2="224142" version="1065353216">Quickbar 5 - Slot 3</text>
+		<text bitflag="321" id1="160179" id2="224142" version="1065353216">Quickbar 5 - Slot 4</text>
+		<text bitflag="321" id1="160180" id2="224142" version="1065353216">Quickbar 5 - Slot 5</text>
+		<text bitflag="321" id1="160181" id2="224142" version="1065353216">Quickbar 5 - Slot 6</text>
+		<text bitflag="321" id1="160182" id2="224142" version="1065353216">Quickbar 5 - Slot 7</text>
+		<text bitflag="321" id1="160183" id2="224142" version="1065353216">Quickbar 5 - Slot 8</text>
+		<text bitflag="321" id1="160184" id2="224142" version="1065353216">Quickbar 5 - Slot 9</text>
+		<text bitflag="321" id1="160185" id2="224142" version="1065353216">Quickbar 6 - Slot 1</text>
+		<text bitflag="321" id1="160186" id2="224142" version="1065353216">Quickbar 6 - Slot 10</text>
+		<text bitflag="321" id1="160187" id2="224142" version="1065353216">Quickbar 6 - Slot 11</text>
+		<text bitflag="321" id1="160188" id2="224142" version="1065353216">Quickbar 6 - Slot 12</text>
+		<text bitflag="321" id1="160189" id2="224142" version="1065353216">Quickbar 6 - Slot 2</text>
+		<text bitflag="321" id1="160190" id2="224142" version="1065353216">Quickbar 6 - Slot 3</text>
+		<text bitflag="321" id1="160191" id2="224142" version="1065353216">Quickbar 6 - Slot 4</text>
+		<text bitflag="321" id1="160192" id2="224142" version="1065353216">Quickbar 6 - Slot 5</text>
+		<text bitflag="321" id1="160193" id2="224142" version="1065353216">Quickbar 6 - Slot 6</text>
+		<text bitflag="321" id1="160194" id2="224142" version="1065353216">Quickbar 6 - Slot 7</text>
+		<text bitflag="321" id1="160195" id2="224142" version="1065353216">Quickbar 6 - Slot 8</text>
+		<text bitflag="321" id1="160196" id2="224142" version="1065353216">Quickbar 6 - Slot 9</text>
+		<text bitflag="321" id1="160197" id2="224142" version="1065353216">Quickswitch to Quickbar Page 5</text>
+		<text bitflag="321" id1="160198" id2="224142" version="1065353216">Quickswitch to Quickbar Page 6</text>
+		<text bitflag="321" id1="160199" id2="224142" version="1065353216">Quickbar 5 - Slot 1</text>
+		<text bitflag="321" id1="160200" id2="224142" version="1065353216">Quickbar 5 - Slot 10</text>
+		<text bitflag="321" id1="160201" id2="224142" version="1065353216">Quickbar 5 - Slot 11</text>
+		<text bitflag="321" id1="160202" id2="224142" version="1065353216">Quickbar 5 - Slot 12</text>
+		<text bitflag="321" id1="160203" id2="224142" version="1065353216">Quickbar 5 - Slot 2</text>
+		<text bitflag="321" id1="160204" id2="224142" version="1065353216">Quickbar 5 - Slot 3</text>
+		<text bitflag="321" id1="160205" id2="224142" version="1065353216">Quickbar 5 - Slot 4</text>
+		<text bitflag="321" id1="160206" id2="224142" version="1065353216">Quickbar 5 - Slot 5</text>
+		<text bitflag="321" id1="160207" id2="224142" version="1065353216">Quickbar 5 - Slot 6</text>
+		<text bitflag="321" id1="160208" id2="224142" version="1065353216">Quickbar 5 - Slot 7</text>
+		<text bitflag="321" id1="160209" id2="224142" version="1065353216">Quickbar 5 - Slot 8</text>
+		<text bitflag="321" id1="160210" id2="224142" version="1065353216">Quickbar 5 - Slot 9</text>
+		<text bitflag="321" id1="160211" id2="224142" version="1065353216">Quickbar 6 - Slot 1</text>
+		<text bitflag="321" id1="160212" id2="224142" version="1065353216">Quickbar 6 - Slot 10</text>
+		<text bitflag="321" id1="160213" id2="224142" version="1065353216">Quickbar 6 - Slot 11</text>
+		<text bitflag="321" id1="160214" id2="224142" version="1065353216">Quickbar 6 - Slot 12</text>
+		<text bitflag="321" id1="160215" id2="224142" version="1065353216">Quickbar 6 - Slot 2</text>
+		<text bitflag="321" id1="160216" id2="224142" version="1065353216">Quickbar 6 - Slot 3</text>
+		<text bitflag="321" id1="160217" id2="224142" version="1065353216">Quickbar 6 - Slot 4</text>
+		<text bitflag="321" id1="160218" id2="224142" version="1065353216">Quickbar 6 - Slot 5</text>
+		<text bitflag="321" id1="160219" id2="224142" version="1065353216">Quickbar 6 - Slot 6</text>
+		<text bitflag="321" id1="160220" id2="224142" version="1065353216">Quickbar 6 - Slot 7</text>
+		<text bitflag="321" id1="160221" id2="224142" version="1065353216">Quickbar 6 - Slot 8</text>
+		<text bitflag="321" id1="160222" id2="224142" version="1065353216">Quickbar 6 - Slot 9</text>
+		<text bitflag="321" id1="160223" id2="224142" version="1065353216">Quickswitch to Quickbar Page 5</text>
+		<text bitflag="321" id1="160224" id2="224142" version="1065353216">Quickswitch to Quickbar Page 6</text>
+		<text bitflag="321" id1="160225" id2="224142" version="1065353216">Cartel Market</text>
+		<text bitflag="321" id1="160226" id2="224142" version="1065353216">Item Claim Confirmation Dialog</text>
+		<text bitflag="321" id1="160227" id2="224142" version="1065353216">If checked, this will add a confirmation dialog before transferring a purchased item from Unclaimed Items into your inventory.</text>
+		<text bitflag="321" id1="160228" id2="224142" version="1065353216">Purchase Confirmation Dialog</text>
+		<text bitflag="321" id1="160229" id2="224142" version="1065353216">If checked, this will add a confirmation dialog before purchasing an item from the Cartel Market.</text>
+		<text bitflag="321" id1="160230" id2="224142" version="1065353216">Achievement Tracker</text>
+		<text bitflag="321" id1="160231" id2="224142" version="1065353216">Character Customization</text>
+		<text bitflag="321" id1="160232" id2="224142" version="1065353216">Appearance Change Confirmation Dialog</text>
+		<text bitflag="321" id1="160233" id2="224142" version="1065353216">If checked, this will add a confirmation dialog before changing your appearance.</text>
+		<text bitflag="321" id1="160234" id2="224142" version="1065353216">Debuff Scale</text>
+		<text bitflag="321" id1="160235" id2="224142" version="1065353216">Buff Scale</text>
+		<text bitflag="321" id1="160236" id2="224142" version="1065353216">Party Spacing</text>
+		<text bitflag="321" id1="160237" id2="224142" version="1065353216">Game Download</text>
+		<text bitflag="321" id1="160238" id2="224142" version="1065353216">GS Quickbar</text>
+		<text bitflag="321" id1="160240" id2="224142" version="1065353216">STARFIGHTER KEY BINDINGS</text>
+		<text bitflag="321" id1="160241" id2="224142" version="1065353216">Weapons And Abilities</text>
+		<text bitflag="321" id1="160242" id2="224142" version="1065353216">Modification Control</text>
+		<text bitflag="321" id1="160243" id2="224142" version="1065353216">Primary Weapon</text>
+		<text bitflag="321" id1="160244" id2="224142" version="1065353216">Secondary Weapon</text>
+		<text bitflag="321" id1="160245" id2="224142" version="1065353216">System Ability</text>
+		<text bitflag="321" id1="160246" id2="224142" version="1065353216">Shield Ability</text>
+		<text bitflag="321" id1="160247" id2="224142" version="1065353216">Engine Ability</text>
+		<text bitflag="321" id1="160248" id2="224142" version="1065353216">Copilot Ability</text>
+		<text bitflag="321" id1="160249" id2="224142" version="1065353216">Ability 5</text>
+		<text bitflag="321" id1="160250" id2="224142" version="1065353216">Ability 6</text>
+		<text bitflag="321" id1="160251" id2="224142" version="1065353216">Ability 7</text>
+		<text bitflag="321" id1="160252" id2="224142" version="1065353216">Ability 8</text>
+		<text bitflag="321" id1="160253" id2="224142" version="1065353216">Accelerate</text>
+		<text bitflag="321" id1="160254" id2="224142" version="1065353216">Decelerate</text>
+		<text bitflag="321" id1="160255" id2="224142" version="1065353216">Toggle Throttle</text>
+		<text bitflag="321" id1="160256" id2="224142" version="1065353216">Boosters</text>
+		<text bitflag="321" id1="160257" id2="224142" version="1065353216">Roll Left</text>
+		<text bitflag="321" id1="160258" id2="224142" version="1065353216">Roll Right</text>
+		<text bitflag="321" id1="160259" id2="224142" version="1065353216">Strafe Up</text>
+		<text bitflag="321" id1="160260" id2="224142" version="1065353216">Strafe Down</text>
+		<text bitflag="321" id1="160261" id2="224142" version="1065353216">Callout Target</text>
+		<text bitflag="321" id1="160262" id2="224142" version="1065353216">Select Target Under Cursor</text>
+		<text bitflag="321" id1="160263" id2="224142" version="1065353216">Select Nearest Enemy</text>
+		<text bitflag="321" id1="160264" id2="224142" version="1065353216">Cycle Nearest Enemies</text>
+		<text bitflag="321" id1="160265" id2="224142" version="1065353216">Deselect Target</text>
+		<text bitflag="321" id1="160266" id2="224142" version="1065353216">Target Camera</text>
+		<text bitflag="321" id1="160267" id2="224142" version="1065353216">Weapon Power Conversion</text>
+		<text bitflag="321" id1="160268" id2="224142" version="1065353216">Shield Power Conversion</text>
+		<text bitflag="321" id1="160269" id2="224142" version="1065353216">Engine Power Conversion</text>
+		<text bitflag="321" id1="160270" id2="224142" version="1065353216">Default Power Conversion</text>
+		<text bitflag="321" id1="160271" id2="224142" version="1065353216">Galactic Starfighter</text>
+		<text bitflag="321" id1="160272" id2="224142" version="1065353216">GS Power Settings</text>
+		<text bitflag="321" id1="160273" id2="224142" version="1065353216">Suppress Unsafe Recipient Warning</text>
+		<text bitflag="321" id1="160274" id2="224142" version="1065353216">If checked, a warning dialog will not be displayed when sending a mail message to a potentially unsafe recipient.</text>
+		<text bitflag="321" id1="160275" id2="224142" version="1065353216">GS Minimap</text>
+		<text bitflag="321" id1="160276" id2="224142" version="1065353216">GS Targeting Computer</text>
+		<text bitflag="321" id1="160277" id2="224142" version="1065353216">GS Notification</text>
+		<text bitflag="321" id1="160278" id2="224142" version="1065353216">Arena Scorecard</text>
+		<text bitflag="321" id1="160279" id2="224142" version="1065353216">Show Role/Class Tooltips</text>
+		<text bitflag="321" id1="160280" id2="224142" version="1065353216">GS Ship Status</text>
+		<text bitflag="321" id1="160281" id2="224142" version="1065353216">GS Scorecard</text>
+		<text bitflag="321" id1="160282" id2="224142" version="1065353216">GS Ship Ammo</text>
+		<text bitflag="321" id1="160283" id2="224142" version="1065353216">Strafe Left</text>
+		<text bitflag="321" id1="160284" id2="224142" version="1065353216">Strafe Right</text>
+		<text bitflag="321" id1="160285" id2="224142" version="1065353216">Toggle Mouse Mode</text>
+		<text bitflag="321" id1="160286" id2="224142" version="1065353216">Hold Mouse Mode</text>
+		<text bitflag="321" id1="160287" id2="224142" version="1065353216">Free Look Camera</text>
+		<text bitflag="321" id1="160288" id2="224142" version="1065353216">Missile Lock Indicator</text>
+		<text bitflag="321" id1="160289" id2="224142" version="1065353216">GS Player Status Effects</text>
+		<text bitflag="321" id1="160290" id2="224142" version="1065353216">GS Target Status Effects</text>
+		<text bitflag="321" id1="160291" id2="224142" version="1065353216">Copilot Bark</text>
+		<text bitflag="321" id1="160292" id2="224142" version="1065353216">Show Detailed Star Fighter Weapon Tooltips</text>
+		<text bitflag="321" id1="160293" id2="224142" version="1065353216">Toggle Hangar</text>
+		<text bitflag="321" id1="160294" id2="224142" version="1065353216">Invert Mouse Vertical</text>
+		<text bitflag="321" id1="160295" id2="224142" version="1065353216">Starfighter</text>
+		<text bitflag="321" id1="160296" id2="224142" version="1065353216">Controls</text>
+		<text bitflag="321" id1="160297" id2="224142" version="1065353216">Tooltips</text>
+		<text bitflag="321" id1="160298" id2="224142" version="1065353216">Cycle Last Attackers</text>
+		<text bitflag="321" id1="160300" id2="224142" version="1065353216">Display Starfighter Fleet Requisition Spending Warning</text>
+		<text bitflag="321" id1="160301" id2="224142" version="1065353216">You are about to spend Fleet Requisition. Is that okay?</text>
+		<text bitflag="321" id1="160302" id2="224142" version="1065353216">Auto Roll</text>
+		<text bitflag="321" id1="160305" id2="224142" version="1065353216">Sticky Ground Target Reticule</text>
+		<text bitflag="321" id1="160306" id2="224142" version="1065353216">Quick Ground Target Activation</text>
+		<text bitflag="321" id1="160307" id2="224142" version="1065353216">Attempting to activate a Ground Target at an invalid location will not deactivate the Reticule</text>
+		<text bitflag="321" id1="160308" id2="224142" version="1065353216">Double pressing Hotkey assigned to Ground Target ability activates ability at the current target's position</text>
+		<text bitflag="321" id1="160313" id2="224142" version="1065353216">Quick Look Forward Left</text>
+		<text bitflag="321" id1="160314" id2="224142" version="1065353216">Quick Look Left</text>
+		<text bitflag="321" id1="160315" id2="224142" version="1065353216">Quick Look Rear Left</text>
+		<text bitflag="321" id1="160316" id2="224142" version="1065353216">Quick Look Rear</text>
+		<text bitflag="321" id1="160317" id2="224142" version="1065353216">Quick Look Rear Right</text>
+		<text bitflag="321" id1="160318" id2="224142" version="1065353216">Quick Look Right</text>
+		<text bitflag="321" id1="160319" id2="224142" version="1065353216">Quick Look Forward Right</text>
+		<text bitflag="321" id1="160320" id2="224142" version="1065353216">Quick Look Up</text>
+		<text bitflag="321" id1="160321" id2="224142" version="1065353216">Quick Look Down</text>
+		<text bitflag="321" id1="160322" id2="224142" version="1065353216">Sticky Ground Target Reticule</text>
+		<text bitflag="321" id1="160323" id2="224142" version="1065353216">Attempting to activate a Ground Target at an invalid location will not deactivate the Reticule</text>
+		<text bitflag="321" id1="160324" id2="224142" version="1065353216">Quick Ground Target Activation</text>
+		<text bitflag="321" id1="160325" id2="224142" version="1065353216">Double pressing Hotkey assigned to Ground Target ability activates ability at the current target's position</text>
+		<text bitflag="321" id1="160326" id2="224142" version="1065353216">Stronghold</text>
+		<text bitflag="321" id1="160327" id2="224142" version="1065353216">Stronghold Toolbar</text>
+		<text bitflag="321" id1="160328" id2="224142" version="1065353216">Shadow Map Cascades</text>
+		<text bitflag="321" id1="160329" id2="224142" version="1065353216">Increases the number of shadow maps used by the shadow system. Increasing this will improve quality but reduce performance.</text>
+		<text bitflag="321" id1="160339" id2="224142" version="1065353216">Click-Through Chat</text>
+		<text bitflag="321" id1="160340" id2="224142" version="1065353216">Click-Through Chat Input</text>
+		<text bitflag="321" id1="160341" id2="224142" version="1065353216">Enabling this will allow you to mouse click through the chat box.</text>
+		<text bitflag="321" id1="160342" id2="224142" version="1065353216">Enabling this will allow you to mouse click through the chat's input box.</text>
+		<text bitflag="321" id1="160343" id2="224142" version="1065353216">Shadow Map Resolution</text>
+		<text bitflag="321" id1="160344" id2="224142" version="1065353216">Increases the effective resolution of the shadows. Applies to interior and exterior shadows. Increasing this will improve quality but reduce performance.</text>
+		<text bitflag="321" id1="160345" id2="224142" version="1065353216">Ultra</text>
+		<text bitflag="321" id1="160346" id2="224142" version="1065353216">View Distance</text>
+		<text bitflag="321" id1="160347" id2="224142" version="1065353216">Increases the distance you can see. Increasing this will allow you to see farther but will reduce performance.</text>
+		<text bitflag="321" id1="160348" id2="224142" version="1065353216">Toggle numlock on when GSF starts</text>
+		<text bitflag="321" id1="160349" id2="224142" version="1065353216">Planetary Conquest</text>
+		<text bitflag="321" id1="160350" id2="224142" version="1065353216">Flagship Command Console Confirmation Dialogs</text>
+		<text bitflag="321" id1="160351" id2="224142" version="1065353216">If checked, this will add confirmation dialogs for the Command Console</text>
+		<text bitflag="321" id1="160352" id2="224142" version="1065353216">Toggle Stronghold Management</text>
+		<text bitflag="321" id1="160353" id2="224142" version="1065353216">Display Starfighter Cartel Coin Spending Warning</text>
+		<text bitflag="321" id1="160354" id2="224142" version="1065353216">System Messages</text>
+		<text bitflag="321" id1="160355" id2="224142" version="1065353216">Show Personal Mission Progress</text>
+		<text bitflag="321" id1="160356" id2="224142" version="1065353216">Selecting this option will show personal mission progress when mousing over in-game objects.</text>
+		<text bitflag="321" id1="160357" id2="224142" version="1065353216">Show Group Mission Progress</text>
+		<text bitflag="321" id1="160358" id2="224142" version="1065353216">Selecting this option will show group mission progress when mousing over in-game objects.</text>
+		<text bitflag="321" id1="160359" id2="224142" version="1065353216">Buffs and Debuffs</text>
+		<text bitflag="321" id1="160360" id2="224142" version="1065353216">Highlight Triggered Abilities</text>
+		<text bitflag="321" id1="160361" id2="224142" version="1065353216">Selecting this option will highlight any ability that has been modified by a buff you possess.</text>
+		<text bitflag="321" id1="160362" id2="224142" version="1065353216">Highlight &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="160363" id2="224142" version="1065353216">Selecting this option will highlight any personally applied &lt;&lt;1&gt;&gt; with a duration at or under the selected &lt;&lt;2&gt;&gt; Highlight Max Duration.</text>
+		<text bitflag="321" id1="160364" id2="224142" version="1065353216">&lt;&lt;1&gt;&gt; Highlight Max Duration</text>
+		<text bitflag="321" id1="160365" id2="224142" version="1065353216">This option modifies the max duration of the &lt;&lt;1&gt;&gt; you would like highlighted.</text>
+		<text bitflag="321" id1="160366" id2="224142" version="1065353216">15 seconds and below</text>
+		<text bitflag="321" id1="160367" id2="224142" version="1065353216">1 minute and below</text>
+		<text bitflag="321" id1="160368" id2="224142" version="1065353216">5 minutes and below</text>
+		<text bitflag="321" id1="160369" id2="224142" version="1065353216">1 hour and below</text>
+		<text bitflag="321" id1="160370" id2="224142" version="1065353216">Any Duration</text>
+		<text bitflag="321" id1="160371" id2="224142" version="1065353216">Apply Time</text>
+		<text bitflag="321" id1="160372" id2="224142" version="1065353216">Total Duration</text>
+		<text bitflag="321" id1="160373" id2="224142" version="1065353216">By Time Remaining</text>
+		<text bitflag="321" id1="160374" id2="224142" version="1065353216">Icon Scale</text>
+		<text bitflag="321" id1="160375" id2="224142" version="1065353216">Up</text>
+		<text bitflag="321" id1="160376" id2="224142" version="1065353216">Down</text>
+		<text bitflag="321" id1="160377" id2="224142" version="1065353216">Left</text>
+		<text bitflag="321" id1="160378" id2="224142" version="1065353216">Right</text>
+		<text bitflag="321" id1="160379" id2="224142" version="1065353216">Layout Options</text>
+		<text bitflag="321" id1="160380" id2="224142" version="1065353216">Tray Expands Vertical</text>
+		<text bitflag="321" id1="160381" id2="224142" version="1065353216">Tray Expands Horizontal</text>
+		<text bitflag="321" id1="160382" id2="224142" version="1065353216">Highlight Options</text>
+		<text bitflag="321" id1="160383" id2="224142" version="1065353216">Sort Options</text>
+		<text bitflag="321" id1="160384" id2="224142" version="1065353216">Personal &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="160385" id2="224142" version="1065353216">This option seperates personal &lt;&lt;1&gt;&gt; from non-personal &lt;&lt;1&gt;&gt; then sorts and displays them by the selected &lt;&lt;2&gt;&gt; Sort Type.</text>
+		<text bitflag="321" id1="160386" id2="224142" version="1065353216">&lt;&lt;1&gt;&gt; Sort Type</text>
+		<text bitflag="321" id1="160387" id2="224142" version="1065353216">This option defines the sort type for the &lt;&lt;1&gt;&gt; tray.
+
+Apply Time: Sorts by the time the &lt;&lt;1&gt;&gt; was applied. Ignores &lt;&lt;2&gt;&gt; with a duration of zero.
+
+Total Duration: Sorts by the total duration of the &lt;&lt;1&gt;&gt;.
+
+Time Remaining: Sorts by the time remaining of the &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="160388" id2="224142" version="1065353216">Effect</text>
+		<text bitflag="321" id1="160389" id2="224142" version="1065353216">Effects</text>
+		<text bitflag="321" id1="160390" id2="224142" version="1065353216">Buff</text>
+		<text bitflag="321" id1="160391" id2="224142" version="1065353216">Buffs</text>
+		<text bitflag="321" id1="160392" id2="224142" version="1065353216">Debuff</text>
+		<text bitflag="321" id1="160393" id2="224142" version="1065353216">Debuffs</text>
+		<text bitflag="321" id1="160394" id2="224142" version="1065353216">Player Buff Tray</text>
+		<text bitflag="321" id1="160395" id2="224142" version="1065353216">Player Debuff Tray</text>
+		<text bitflag="321" id1="160396" id2="224142" version="1065353216">Effects Per Row</text>
+		<text bitflag="321" id1="160397" id2="224142" version="1065353216">Show Only Removable Debuffs</text>
+		<text bitflag="321" id1="160398" id2="224142" version="1065353216">Only displays debuffs that can be cleansed.</text>
+		<text bitflag="321" id1="160399" id2="224142" version="1065353216">Combat Proficiencies</text>
+		<text bitflag="321" id1="160400" id2="224142" version="1065353216">Commit Confirmation Dialog</text>
+		<text bitflag="321" id1="160401" id2="224142" version="1065353216">Reset Confirmation Dialog</text>
+		<text bitflag="321" id1="160402" id2="224142" version="1065353216">Unspent Confirmation Dialog</text>
+		<text bitflag="321" id1="160403" id2="224142" version="1065353216">Uncommitted Confirmation Dialog</text>
+		<text bitflag="321" id1="160404" id2="224142" version="1065353216">A dialog that requires confirmation to commit your Combat Proficiencies selection.</text>
+		<text bitflag="321" id1="160405" id2="224142" version="1065353216">A dialog that requires confirmation to reset your utility points.</text>
+		<text bitflag="321" id1="160406" id2="224142" version="1065353216">A dialog that requires you to confirm you have unspent utility points.</text>
+		<text bitflag="321" id1="160407" id2="224142" version="1065353216">A dialog that requires you to confirm an uncommitted decision.</text>
+		<text bitflag="321" id1="160408" id2="224142" version="1065353216">Mount Flourish</text>
+		<text bitflag="321" id1="160409" id2="224142" version="1065353216">Expanded Conversations</text>
+		<text bitflag="321" id1="160410" id2="224142" version="1065353216">Outfitter</text>
+		<text bitflag="321" id1="160411" id2="224142" version="1065353216">Activate Outfit on Modification</text>
+		<text bitflag="321" id1="160412" id2="224142" version="1065353216">Activates the modified outfit after the modifications have been commited.</text>
+		<text bitflag="321" id1="160413" id2="224142" version="1065353216">Conversation Reactions</text>
+		<text bitflag="321" id1="160414" id2="224142" version="1065353216">Temporary Ability Bar</text>
+		<text bitflag="321" id1="160415" id2="224142" version="1065353216">Temporary Quickbar - Slot 1</text>
+		<text bitflag="321" id1="160416" id2="224142" version="1065353216">Temporary Quickbar - Slot 2</text>
+		<text bitflag="321" id1="160417" id2="224142" version="1065353216">Temporary Quickbar - Slot 3</text>
+		<text bitflag="321" id1="160418" id2="224142" version="1065353216">Temporary Quickbar - Slot 4</text>
+		<text bitflag="321" id1="160419" id2="224142" version="1065353216">Temporary Quickbar - Slot 5</text>
+		<text bitflag="321" id1="160420" id2="224142" version="1065353216">Temporary Quickbar - Slot 6</text>
+		<text bitflag="321" id1="160421" id2="224142" version="1065353216">Temporary Quickbar - Slot 7</text>
+		<text bitflag="321" id1="160422" id2="224142" version="1065353216">Temporary Quickbar - Slot 8</text>
+		<text bitflag="321" id1="160423" id2="224142" version="1065353216">Temporary Quickbar - Slot 9</text>
+		<text bitflag="321" id1="160424" id2="224142" version="1065353216">Temporary Quickbar - Slot 10</text>
+		<text bitflag="321" id1="160425" id2="224142" version="1065353216">Temporary Quickbar - Slot 11</text>
+		<text bitflag="321" id1="160426" id2="224142" version="1065353216">Temporary Quickbar - Slot 12</text>
+		<text bitflag="321" id1="160427" id2="224142" version="1065353216">Alliance</text>
+		<text bitflag="321" id1="160428" id2="224142" version="1065353216">Toggle Alliance Window</text>
+		<text bitflag="321" id1="160429" id2="224142" version="1065353216">Toggle Stronghold Edit Mode</text>
+		<text bitflag="321" id1="160430" id2="224142" version="1065353216">Grid Settings</text>
+		<text bitflag="321" id1="160431" id2="224142" version="1065353216">Show Grid</text>
+		<text bitflag="321" id1="160432" id2="224142" version="1065353216">Snap UI to Grid</text>
+		<text bitflag="321" id1="160433" id2="224142" version="1065353216">X:</text>
+		<text bitflag="321" id1="160434" id2="224142" version="1065353216">Y:</text>
+		<text bitflag="321" id1="160437" id2="224142" version="1065353216">Toggle Collections Window</text>
+		<text bitflag="321" id1="160438" id2="224142" version="1065353216">Advanced</text>
+		<text bitflag="321" id1="160439" id2="224142" version="1065353216">KEYBINDING IMPORT/EXPORT</text>
+		<text bitflag="321" id1="160440" id2="224142" version="1065353216">Name Used</text>
+		<text bitflag="321" id1="160441" id2="224142" version="1065353216">The keybinding file already exist, would you like to overwrite it?</text>
+		<text bitflag="321" id1="160442" id2="224142" version="1065353216">Are you sure you wish to delete this keybinding file?</text>
+		<text bitflag="321" id1="160443" id2="224142" version="1065353216">KEY PRESETS:</text>
+		<text bitflag="321" id1="160444" id2="224142" version="1065353216">Grass Render Distance</text>
+		<text bitflag="321" id1="160445" id2="224142" version="1065353216">Adjust the distance of how far grass will render.</text>
+		<text bitflag="321" id1="160446" id2="224142" version="1065353216">Odessen Scorecard</text>
+		<text bitflag="321" id1="160449" id2="224142" version="1065353216">Who List Chat Results</text>
+		<text bitflag="321" id1="160450" id2="224142" version="1065353216">The number of results that will appear for /who in chat before opening the Social Window</text>
+		<text bitflag="321" id1="160451" id2="224142" version="1065353216">Adjust the slider for the amount of results that should be sent to chat before opening the Who List Window.</text>
+		<text bitflag="321" id1="160452" id2="224142" version="1065353216">Pack Opening Confirmation Dialog</text>
+		<text bitflag="321" id1="160453" id2="224142" version="1065353216">If checked, this will add a confirmation dialog before opening a Cartel Market pack.</text>
+		<text bitflag="321" id1="160454" id2="224142" version="1065353216">Item Stash Entry Removal Confirmation Dialog</text>
+		<text bitflag="321" id1="160455" id2="224142" version="1065353216">If checked, this will add a confirmation dialog before the removal of an item stash entry.</text>
+		<text bitflag="321" id1="160456" id2="224142" version="1065353216">Toggle Galaxy Map Pane</text>
+		<text bitflag="321" id1="160457" id2="224142" version="1065353216">Toggle Galaxy Map Pane</text>
+		<text bitflag="321" id1="160458" id2="224142" version="1065353216">Alignment Toggle</text>
+		<text bitflag="321" id1="160459" id2="224142" version="1065353216">Galactic Command Crate Opening Confirmation Dialog</text>
+		<text bitflag="321" id1="160460" id2="224142" version="1065353216">If checked, this will add a confirmation dialog before opening a Galactic Command crate.</text>
+		<text bitflag="321" id1="160461" id2="224142" version="1065353216">Galactic Command Item Stash Entry Removal Confirmation Dialog</text>
+		<text bitflag="321" id1="160462" id2="224142" version="1065353216">If checked, this will add a confirmation dialog before the removal of an item stash entry from the Galactic Command Item Stash.</text>
+		<text bitflag="321" id1="160463" id2="224142" version="1065353216">Galactic Command</text>
+		<text bitflag="321" id1="160464" id2="224142" version="1065353216">Toggle Chapter Launcher</text>
+		<text bitflag="321" id1="160465" id2="224142" version="1065353216">Toggle Command Stash</text>
+		<text bitflag="321" id1="160466" id2="224142" version="1065353216">Toggle Codex Window</text>
+		<text bitflag="321" id1="160467" id2="224142" version="1065353216">Toggle Pack Explorer</text>
+		<text bitflag="321" id1="160468" id2="224142" version="1065353216">Toggle Tutorial Window</text>
+		<text bitflag="321" id1="160469" id2="224142" version="1065353216">Toggle Cartel Window</text>
+		<text bitflag="321" id1="160470" id2="224142" version="1065353216">Toggle Activities Window</text>
+		<text bitflag="321" id1="160471" id2="224142" version="1065353216">Inventory</text>
+		<text bitflag="321" id1="160472" id2="224142" version="1065353216">Automatically close Inventory when using Vendors</text>
+		<text bitflag="321" id1="160473" id2="224142" version="1065353216">This will automatically close the Inventory Window when the Vendor Window closes</text>
+		<text bitflag="321" id1="160474" id2="224142" version="1065353216">Automatically close Inventory when using the Cargo Hold or Legacy Storage</text>
+		<text bitflag="321" id1="160475" id2="224142" version="1065353216">This will automatically close the Inventory Window when the Cargo Hold Window is closed</text>
+		<text bitflag="321" id1="160476" id2="224142" version="1065353216">Rotation</text>
+		<text bitflag="321" id1="160477" id2="224142" version="1065353216">Vertical Display</text>
+		<text bitflag="321" id1="160478" id2="224142" version="1065353216">Set Mission Difficulty Preference</text>
+		<text bitflag="321" id1="160479" id2="224142" version="1065353216">Sets the default behavior of switching difficulties to always match the difficulty last selected.</text>
+		<text bitflag="321" id1="160480" id2="224142" version="1065353216">Display Set Difficulty Confirmation Dialog</text>
+		<text bitflag="321" id1="160481" id2="224142" version="1065353216">A dialog that asks you if you want sync you difficulty preference to the difficulty just set.</text>
+		<text bitflag="321" id1="160482" id2="224142" version="1065353216">Display Chapter Warning</text>
+		<text bitflag="321" id1="160483" id2="224142" version="1065353216">A dialog that warns you that you will remove all currently accepted chapter missions when requesting a new one from the chapters window.</text>
+		<text bitflag="321" id1="160484" id2="224142" version="1065353216">Missions</text>
+		<text bitflag="321" id1="160485" id2="224142" version="1065353216">Galactic Command Disintegration Confirmation Dialog</text>
+		<text bitflag="321" id1="160486" id2="224142" version="1065353216">If checked, this will add a confirmation dialog before Disintegrating multiple item stacks.</text>
+		<text bitflag="321" id1="160487" id2="224142" version="1065353216">Enhanced</text>
+		<text bitflag="321" id1="160490" id2="224142" version="1065353216">Galaxy Map</text>
+		<text bitflag="321" id1="160491" id2="224142" version="1065353216">Toggle Galaxy Map Window</text>
+		<text bitflag="321" id1="160492" id2="224142" version="1065353216">Launch Mission Confirmation Dialog</text>
+		<text bitflag="321" id1="160493" id2="224142" version="1065353216">A dialog that warns you about traveling to a mission location when pressing the LAUNCH MISSION button.</text>
+		<text bitflag="321" id1="160494" id2="224142" version="1065353216">Enhanced Shadows</text>
+		<text bitflag="321" id1="160495" id2="224142" version="1065353216">Enhanced Shadows. Toggle off for a performance gain.</text>
+		<text bitflag="321" id1="160496" id2="224142" version="1065353216">Frame Rate</text>
+		<text bitflag="321" id1="160497" id2="224142" version="1065353216">Adjust this value to change the frame rate.</text>
+		<text bitflag="321" id1="160498" id2="224142" version="1065353216">Allow Suggested Group Invites</text>
+		<text bitflag="321" id1="160499" id2="224142" version="1065353216">While leading a party, allows group members who are not the party leader or assistant lead to suggest group invites to the party leader.</text>
+		<text bitflag="321" id1="160500" id2="224142" version="1065353216">Use Pack Explorer</text>
+		<text bitflag="321" id1="160501" id2="224142" version="1065353216">When opening Cartel Market Packs the Pack Explorer will be used to show what you received.</text>
+		<text bitflag="321" id1="160502" id2="224142" version="1065353216">Yavin Scorecard</text>
+		<text bitflag="321" id1="160503" id2="224142" version="1065353216">Automatically Decline Stronghold Key Offers</text>
+		<text bitflag="321" id1="160504" id2="224142" version="1065353216">Automatically decline all stronghold key offers</text>
+		<text bitflag="321" id1="160505" id2="224142" version="1065353216">Enable Dynamic Mount Colors</text>
+		<text bitflag="321" id1="160507" id2="224142" version="1065353216">Suppress Guild Mail Warning</text>
+		<text bitflag="321" id1="160508" id2="224142" version="1065353216">If checked, a warning dialog will not be displayed when sending a guild mail message.</text>
+		<text bitflag="321" id1="160509" id2="224142" version="1065353216">Allow Group PvP Challenges</text>
+		<text bitflag="321" id1="160510" id2="224142" version="1065353216">While leading a party, allows the group to be challenged to a PvP match by another group.</text>
+	</file_content>
+</stb_file>

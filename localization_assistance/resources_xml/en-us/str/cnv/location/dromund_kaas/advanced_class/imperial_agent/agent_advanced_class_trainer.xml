@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/advanced_class/imperial_agent/agent_advanced_class_trainer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="211818" id2="17" version="1065353216">You've already picked your specialization, agent.</text>
+		<text bitflag="3393" id1="211819" id2="17" version="1065353216">Keeper and Commander Dorne have authorized you for two combat specialization programs.</text>
+		<text bitflag="3393" id1="211821" id2="17" version="1065353216">If you specialize in our Sniper program, your focus will be on the sniper rifle and the use of cover. Snipers are trained to shoot farther and do massive damage.</text>
+		<text bitflag="3393" id1="211823" id2="17" version="1065353216">Join the Operative program, and you'll be trained to use stealth generators for surprise attacks and medical droids to support your allies, in addition to advanced close range combat techniques.</text>
+		<text bitflag="3393" id1="211825" id2="17" version="1065353216">Once you choose a program, it will be permanently assigned to you. Now, make your choice.</text>
+		<text bitflag="1360" id1="211826" id2="17" version="1065353216">I choose to become a Sniper.</text>
+		<text bitflag="3393" id1="211827" id2="17" version="1065353216">Congratulations. You're now a Sniper.</text>
+		<text bitflag="1360" id1="211829" id2="17" version="1065353216">Train me as an Operative.</text>
+		<text bitflag="3393" id1="211830" id2="17" version="1065353216">Congratulations. You're now an Operative.</text>
+		<text bitflag="1360" id1="211832" id2="17" version="1065353216">I'm not ready to choose.</text>
+		<text bitflag="3393" id1="211833" id2="17" version="1065353216">You are not yet authorized for an advanced training program.</text>
+	</file_content>
+</stb_file>

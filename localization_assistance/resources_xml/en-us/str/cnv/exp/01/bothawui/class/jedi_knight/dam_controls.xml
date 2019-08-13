@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>33</strs>
+		<file_name>/resources/en-us/str/cnv/exp/01/bothawui/class/jedi_knight/dam_controls.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1089" id1="1023714" id2="17" version="1065353216">Warning: Structural integrity at twenty-two percent. Release pressure at valve sixteen or forty-seven to avoid catastrophic failure.</text>
+		<text bitflag="3137" id1="1039684" id2="17" version="1065353216">Valve sixteen = submerge uninhabited area // Valve forty-seven = submerge Imperial outpost // Projected loss of life = hundreds // T7 = recommends valve sixteen</text>
+		<text bitflag="1089" id1="1039685" id2="17" version="1065353216">From valve sixteen, nowhere important. From valve forty-seven... a fully staffed Imperial outpost. I prefer nice, clean, bloodless rivers, myself.</text>
+		<text bitflag="1089" id1="1039686" id2="17" version="1065353216">Imperial outpost from valve forty-seven... absolutely nothing from valve sixteen. Pretty obvious choice, unless you like bloated, floating corpses.</text>
+		<text bitflag="1089" id1="1039687" id2="17" version="1065353216">Valve sixteen will release water into the wilderness. Valve forty-seven will release it towards the Imperial Outpost Roban.</text>
+		<text bitflag="1089" id1="1039688" id2="17" version="1065353216">Valve sixteen... uninhabited area. Valve forty-seven... Imperial outpost. No POWs or civilians on base. Recommend surprise attack.</text>
+		<text bitflag="1089" id1="1039689" id2="17" version="1065353216">I sense nothing before valve sixteen. But there is life before valve forty-seven. An Imperial outpost. They have shown this world no mercy.</text>
+		<text bitflag="1089" id1="1039690" id2="17" version="1065353216">Results: From valve sixteen, zero casualties. From valve forty-seven, three hundred. There is an Imperial outpost within range.</text>
+		<text bitflag="1089" id1="1039691" id2="17" version="1065353216">From valve sixteen... into the wild. From valve forty-seven... into an Imperial outpost.</text>
+		<text bitflag="1089" id1="1039692" id2="17" version="1065353216">Warning: Structural integrity at fifteen percent. Awaiting user input.</text>
+		<text bitflag="1089" id1="1039693" id2="17" version="1065353216">Release pressure from valve sixteen. Too many people have died already.</text>
+		<text bitflag="1104" id1="1039693" id2="17" version="1065353216">I won't drown anyone.</text>
+		<text bitflag="1089" id1="1039694" id2="17" version="1065353216">Send an alert to the Imperials, then release pressure from valve forty-seven.</text>
+		<text bitflag="1104" id1="1039694" id2="17" version="1065353216">I'll warn the Imps first.</text>
+		<text bitflag="1089" id1="1039695" id2="17" version="1065353216">I'm releasing pressure from valve forty-seven. The Imperials have this coming.</text>
+		<text bitflag="1104" id1="1039695" id2="17" version="1065353216">No warning, no mercy.</text>
+		<text bitflag="1089" id1="1039698" id2="17" version="1065353216">Error: Automated pressure-release system offline. Leaks detected in hydraulic lines.</text>
+		<text bitflag="1089" id1="1040396" id2="17" version="1065353216">Leaks must be repaired in proper sequence to restore pressure-release system to working order.</text>
+		<text bitflag="3137" id1="1040905" id2="17" version="1065353216">T7 = sorry // T7 model = not equipped with tools for repair</text>
+		<text bitflag="1089" id1="1040907" id2="17" version="1065353216">You always gotta have the last word, don't you?</text>
+		<text bitflag="1089" id1="1040909" id2="17" version="1065353216">So that's what that smell is.</text>
+		<text bitflag="1089" id1="1040911" id2="17" version="1065353216">Should have moved charge seven. Would have missed the hydraulics completely.</text>
+		<text bitflag="1089" id1="1040913" id2="17" version="1065353216">Blight chose his targets well.</text>
+		<text bitflag="1089" id1="1040915" id2="17" version="1065353216">Reminder: I am not programmed for maintenance, master.</text>
+		<text bitflag="1089" id1="1040917" id2="17" version="1065353216">Master, I apologize--I know little of hydroelectric dam maintenance. Perhaps I could hand you tools?</text>
+		<text bitflag="3137" id1="1044597" id2="17" version="1065353216">Pressure release = allows water to flow // T7 = scanning for life-forms in path</text>
+		<text bitflag="1089" id1="1044599" id2="17" version="1065353216">Never made my own river before. Better check where it's going to go....</text>
+		<text bitflag="1089" id1="1044601" id2="17" version="1065353216">Flooding populated areas would also be catastrophic. Let's see where it's going first....</text>
+		<text bitflag="1089" id1="1044603" id2="17" version="1065353216">A flood will be unavoidable. Determining projected paths of water now.</text>
+		<text bitflag="1089" id1="1044605" id2="17" version="1065353216">The power of nature at your fingers. I wonder where it will flow....</text>
+		<text bitflag="1089" id1="1044607" id2="17" version="1065353216">Notification: In the interests of allowing an informed decision, master, I am running a pressure-release simulation.</text>
+		<text bitflag="1089" id1="1044609" id2="17" version="1065353216">Master, I have taken the liberty of running a quick scan on the projected path of water from each of the proposed valves.</text>
+		<text bitflag="1089" id1="1044612" id2="17" version="1065353216">That water will hit like a tidal wave. I should check where it's going first.</text>
+	</file_content>
+</stb_file>

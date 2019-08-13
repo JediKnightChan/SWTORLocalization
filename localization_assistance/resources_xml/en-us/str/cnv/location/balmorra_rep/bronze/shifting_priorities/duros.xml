@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>70</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/bronze/shifting_priorities/duros.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="296402" id2="17" version="1065353216">Here's the data from the probe droids.</text>
+		<text bitflag="3393" id1="296403" id2="17" version="1065353216">You're a lifesaver! The captain's been breathing down my neck waiting for this.</text>
+		<text bitflag="3393" id1="296405" id2="17" version="1065353216">Something for your troubles, as agreed.</text>
+		<text bitflag="3393" id1="296407" id2="17" version="1065353216">I really appreciate this. The last thing I need is a captain who's mad at me.</text>
+		<text bitflag="1345" id1="296414" id2="17" version="1065353216">Everything okay out here?</text>
+		<text bitflag="3393" id1="296415" id2="17" version="1065353216">Not really. I kind of messed up. But it's not my fault. The captain should have made his orders more clear.</text>
+		<text bitflag="3393" id1="296417" id2="17" version="1065353216">Told me to slice the signals directing the Imperial probe droids flying over the camp. &quot;Bring 'em down, Feero!&quot; he said. So I did.</text>
+		<text bitflag="3393" id1="296419" id2="17" version="1065353216">He never told me we had to recover the droids after they crashed! Now he acts like this is my fault.</text>
+		<text bitflag="1345" id1="296420" id2="17" version="1065353216">A good soldier doesn't talk behind his commanding officer's back.</text>
+		<text bitflag="1360" id1="296420" id2="17" version="1065353216">Don't disrespect your captain!</text>
+		<text bitflag="1345" id1="296423" id2="17" version="1065353216">Whoever's fault this was, you should try to focus on the solution.</text>
+		<text bitflag="1360" id1="296423" id2="17" version="1065353216">Assigning blame doesn't help.</text>
+		<text bitflag="1345" id1="296424" id2="17" version="1065353216">That's the problem with the military. Some clueless captain makes a mess, then he expects you enlisted guys to clean it up.</text>
+		<text bitflag="1360" id1="296424" id2="17" version="1065353216">Glad I don't answer to him.</text>
+		<text bitflag="1345" id1="296427" id2="17" version="1065353216">Instead of complaining about your commander, you should be trying to find a solution.</text>
+		<text bitflag="1360" id1="296427" id2="17" version="1065353216">You have to make this right.</text>
+		<text bitflag="1360" id1="296430" id2="17" version="1065353216">Better give me the details.</text>
+		<text bitflag="1345" id1="296431" id2="17" version="1065353216">It sounds like you may have ticked off your commanding officer.</text>
+		<text bitflag="1360" id1="296431" id2="17" version="1065353216">So you're in trouble now?</text>
+		<text bitflag="3393" id1="296432" id2="17" version="1065353216">I was just trying to go above and beyond the call of duty. You'd think he'd appreciate that.</text>
+		<text bitflag="3393" id1="296434" id2="17" version="1065353216">I figured crashing the probe droids wasn't enough. So I rerouted them to hit the ground in the middle of a minefield.</text>
+		<text bitflag="3393" id1="296436" id2="17" version="1065353216">Thought it would be a nasty surprise when the Imperials went to retrieve them. Hopefully take a few of them out.</text>
+		<text bitflag="1360" id1="296437" id2="17" version="1065353216">You showed initiative.</text>
+		<text bitflag="3393" id1="296438" id2="17" version="1065353216">The captain didn't see it that way. He just wants the intel from those probe droids.</text>
+		<text bitflag="1345" id1="296440" id2="17" version="1065353216">You wouldn't be in this mess if you'd just stuck to your captain's basic plan.</text>
+		<text bitflag="1360" id1="296440" id2="17" version="1065353216">Soldiers shouldn't improvise.</text>
+		<text bitflag="3393" id1="296441" id2="17" version="1065353216">If he'd told me the whole plan from the beginning, I wouldn't have crashed the droids in the middle of a minefield!</text>
+		<text bitflag="1345" id1="296443" id2="17" version="1065353216">The captain wants the intel from those droids, but he doesn't want to send his troops into the minefield.</text>
+		<text bitflag="1360" id1="296443" id2="17" version="1065353216">Now I see the problem.</text>
+		<text bitflag="3393" id1="296444" id2="17" version="1065353216">I need to find someone willing to retrieve the data from those droids. So far, I haven't had any volunteers.</text>
+		<text bitflag="1360" id1="296445" id2="17" version="1065353216">I'll take care of this.</text>
+		<text bitflag="1360" id1="296446" id2="17" version="1065353216">I'll help--for a price.</text>
+		<text bitflag="3393" id1="296447" id2="17" version="1065353216">I'm pretty sure we can come up with some credits for you. The captain really wants that intel.</text>
+		<text bitflag="3393" id1="296449" id2="17" version="1065353216">Here's the location of the crash site. Good luck out there....</text>
+		<text bitflag="1360" id1="296451" id2="17" version="1065353216">I can't help. [Refuse quest]</text>
+		<text bitflag="3393" id1="296452" id2="17" version="1065353216">For a minute there, I thought you were going to help me out. Too bad.</text>
+		<text bitflag="3393" id1="536091" id2="17" version="1065353216">Don't hang around after you've got that intel. Hold your nose and run, maybe.</text>
+		<text bitflag="3393" id1="536093" id2="17" version="1065353216">That intel was a gold mine. Internal comms, invasion strategy, military codes....</text>
+		<text bitflag="3393" id1="536096" id2="17" version="1065353216">Sorry, can't talk now. I've got to monitor these droids.</text>
+		<text bitflag="3393" id1="536099" id2="17" version="1065353216">Wait, please. I haven't got any backup. Squad like you might at least have a chance.</text>
+		<text bitflag="3393" id1="536100" id2="17" version="1065353216">Master Jedi! I didn't know the Order was sending backup. Guess my luck's not all bad.</text>
+		<text bitflag="3393" id1="536101" id2="17" version="1065353216">Captain. I don't mean to stop you in the middle of an op, but I could use your help.</text>
+		<text bitflag="3393" id1="536102" id2="17" version="1065353216">Looking to make some creds? I can promise a captain's pay grade if you're for hire.</text>
+		<text bitflag="3393" id1="536104" id2="17" version="1065353216">The captain's the one who insisted we had to have that intel. He's the one who should be out here, begging for help.</text>
+		<text bitflag="3393" id1="536630" id2="17" version="1065353216">Normally I wouldn't ask someone to do my job, but we've got some very valuable intel trapped behind enemy lines.</text>
+		<text bitflag="3393" id1="536790" id2="17" version="1065353216">We're near the ruins of Traken-4, one of the Empire's first outposts here. The whole area's a toxic lake now...chemicals, runoff, the works.</text>
+		<text bitflag="3393" id1="536792" id2="17" version="1065353216">The area's a mess, but the intel the Imps left behind would be invaluable. I'm no methane-breather, so I sent in probe droids to get it.</text>
+		<text bitflag="3393" id1="536901" id2="17" version="1065353216">The Imperials must have detected my droids in the area. They sent a HazMat squad in and set up camp. They want that intel destroyed.</text>
+		<text bitflag="3393" id1="536954" id2="17" version="1065353216">I managed to get the droids somewhere safe, but now they're stuck. I bring them out, and the Imps will use them for target practice.</text>
+		<text bitflag="3393" id1="536998" id2="17" version="1065353216">Yes, sir. Sorry, sir. Just let me brief you on the situation.</text>
+		<text bitflag="3393" id1="537000" id2="17" version="1065353216">Try telling that to the captain. He wants that intel yesterday.</text>
+		<text bitflag="3393" id1="537004" id2="17" version="1065353216">Of course, Master Jedi. Luckily that's where you come in.</text>
+		<text bitflag="1360" id1="537490" id2="17" version="1065353216">There's no need to beg.</text>
+		<text bitflag="1360" id1="537491" id2="17" version="1065353216">Just get to the point.</text>
+		<text bitflag="3393" id1="537755" id2="17" version="1065353216">Thanks. I just hope you're still willing after you hear the details.</text>
+		<text bitflag="1360" id1="537758" id2="17" version="1065353216">But something went wrong?</text>
+		<text bitflag="1360" id1="537770" id2="17" version="1065353216">Can't help you. [Refuse quest]</text>
+		<text bitflag="3393" id1="537771" id2="17" version="1065353216">Maybe I can self-destruct the droids from here. The captain won't be happy....</text>
+		<text bitflag="1360" id1="537773" id2="17" version="1065353216">Imps don't scare me.</text>
+		<text bitflag="1360" id1="537785" id2="17" version="1065353216">Not if I use them first.</text>
+		<text bitflag="3393" id1="537786" id2="17" version="1065353216">Glad to hear that. The HazMat squad won't be your ordinary Imps.</text>
+		<text bitflag="3393" id1="537787" id2="17" version="1065353216">As long as nothing happens to my droids, you've got my blessing.</text>
+		<text bitflag="3393" id1="537789" id2="17" version="1065353216">Here. Coordinates to where I hid the droids. Move fast, or those toxic fumes might start to affect your aim.</text>
+		<text bitflag="3393" id1="537791" id2="17" version="1065353216">And watch out for that HazMat squad. They'll have protective gear. Their aim will be fine.</text>
+		<text bitflag="3393" id1="537805" id2="17" version="1065353216">Everything looks intact. I can't believe you made it out. Those HazMat troops looked like they were made of durasteel.</text>
+		<text bitflag="3393" id1="537807" id2="17" version="1065353216">The captain authorized me to give you this. He's chomping at the bit for this intel. I'll tell him he has you to thank.</text>
+		<text bitflag="3393" id1="537821" id2="17" version="1065353216">It's only long term exposure that might be fatal. That intel wasn't exactly lying around in the open.</text>
+		<text bitflag="1360" id1="537823" id2="17" version="1065353216">Methane? Wait a minute....</text>
+		<text bitflag="1360" id1="537835" id2="17" version="1065353216">Sounds like your problem.</text>
+		<text bitflag="3393" id1="537836" id2="17" version="1065353216">I need someone who can handle hazardous conditions, or I sent those droids in there for nothing.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/imperial_spy/chapter_1/shadow_of_the_dark_lord/vyord_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="643187" id2="17" version="1065353216">[Slicing this computer, you find two heavily encrypted files. One is labeled &quot;Schematics.&quot; The other is labeled &quot;Research.&quot;]</text>
+		<text bitflag="1360" id1="643188" id2="17" version="1065353216">[Decrypt &quot;Schematics.&quot;]</text>
+		<text bitflag="321" id1="643189" id2="17" version="1065353216">[This file contains blueprints for an Imperial starship.]</text>
+		<text bitflag="321" id1="643191" id2="17" version="1065353216">Registration: Dominator. Model: BSX-5. Class: Dreadnaught. Length: 600 meters. Armament: 28 turbolasers, 12 ion cannons, 2 tractor beam projectors. Reactor: Hypermatter annihilator.</text>
+		<text bitflag="321" id1="643193" id2="17" version="1065353216">Complement: 8 fighters, 2 shuttles. Capacity: 2,000 crew, 1,500 passengers, 500 troops.</text>
+		<text bitflag="321" id1="643195" id2="17" version="1065353216">Note: By request of Darth Jadus, all passenger quarters aboard the Dominator can be repurposed as prison cells.</text>
+		<text bitflag="1360" id1="643197" id2="17" version="1065353216">[Decrypt &quot;Research.&quot;]</text>
+		<text bitflag="321" id1="643198" id2="17" version="1065353216">[This file contains a message dated sixteen months ago.]</text>
+		<text bitflag="321" id1="643200" id2="17" version="1065353216">Synopsis: Imperial Science Bureau Special Project 62991A.</text>
+		<text bitflag="321" id1="643202" id2="17" version="1065353216">Device is not practical. Robust growth fails to counterbalance slow manufacturing (maturation?) process and limited power output.</text>
+		<text bitflag="321" id1="643204" id2="17" version="1065353216">No further research will be conducted. Enclosed image is for reference only.</text>
+		<text bitflag="1360" id1="643206" id2="17" version="1065353216">[Leave the computer alone.]</text>
+	</file_content>
+</stb_file>

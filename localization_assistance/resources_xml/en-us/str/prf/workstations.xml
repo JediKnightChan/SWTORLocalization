@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/prf/workstations.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="228106" version="1065353216">No Workstation</text>
+		<text bitflag="321" id1="2" id2="228106" version="1065353216">Normal Workstation</text>
+		<text bitflag="321" id1="3" id2="228106" version="1065353216">Advanced Workstation</text>
+	</file_content>
+</stb_file>

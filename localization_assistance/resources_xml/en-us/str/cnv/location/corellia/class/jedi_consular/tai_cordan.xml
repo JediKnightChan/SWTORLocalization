@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>184</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/jedi_consular/tai_cordan.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="692311" id2="17" version="1065353216">You made it through. Did the Republic have any information about Guardian Hold Four?</text>
+		<text bitflag="1345" id1="692312" id2="17" version="1065353216">Bad news.</text>
+		<text bitflag="1345" id1="692314" id2="17" version="1065353216">Guardian Hold Four is far worse than the last one. I hope you're ready to hear this.</text>
+		<text bitflag="1345" id1="692316" id2="17" version="1065353216">Guardian Hold Four used to be a small manor called Bakvalen Hall. Now it's bristling with defenses; turrets, force fields...</text>
+		<text bitflag="1345" id1="692318" id2="17" version="1065353216">But after someone betrayed Guardian Hold Four from the inside, it's all protecting the enemy.</text>
+		<text bitflag="1345" id1="692319" id2="17" version="1065353216">If the betrayer is another Child of the Emperor, capturing them might give us a way to the First Son.</text>
+		<text bitflag="1360" id1="692319" id2="17" version="1065353216">That traitor may be the key.</text>
+		<text bitflag="3393" id1="692320" id2="17" version="1065353216">As the First Son watches the sky, we strike from the earth.</text>
+		<text bitflag="1345" id1="692322" id2="17" version="1065353216">We can't break the Imperial lines without removing their fallback position. So first, we retake Guardian Hold Four.</text>
+		<text bitflag="1360" id1="692322" id2="17" version="1065353216">We need the Hold back.</text>
+		<text bitflag="1345" id1="692323" id2="17" version="1065353216">I was hoping the First Son was here. Without him we could end this quickly.</text>
+		<text bitflag="1360" id1="692323" id2="17" version="1065353216">Has anyone seen the First Son?</text>
+		<text bitflag="3393" id1="692324" id2="17" version="1065353216">This traitor, who shed their cloak of lies; when caged, they will whisper of the First Son.</text>
+		<text bitflag="1345" id1="692326" id2="17" version="1065353216">The Republic gave us information on Guardian Hold Four's defenses. They're... serious.</text>
+		<text bitflag="1345" id1="692328" id2="17" version="1065353216">First, the hold has an early warning system. Sensors across the park report any approaching enemies.</text>
+		<text bitflag="1345" id1="692330" id2="17" version="1065353216">Then, a force field protects the courtyard. And past that, the main door is durasteel, locked with a full security system.</text>
+		<text bitflag="1345" id1="692331" id2="17" version="1065353216">So we have sensors to disable, a force field to take down, and a main door to unlock.</text>
+		<text bitflag="1360" id1="692331" id2="17" version="1065353216">Three problems to solve.</text>
+		<text bitflag="1345" id1="692332" id2="17" version="1065353216">Unless we get rid of those sensors in the park, we won't get close enough to address the force field or the locked door.</text>
+		<text bitflag="1360" id1="692332" id2="17" version="1065353216">The sensors come first.</text>
+		<text bitflag="1345" id1="692333" id2="17" version="1065353216">Early warning sensors, force fields, secure doors--Master Syo certainly knew how to build a Guardian Hold.</text>
+		<text bitflag="1360" id1="692333" id2="17" version="1065353216">That's a lot of defenses.</text>
+		<text bitflag="1345" id1="692334" id2="17" version="1065353216">That force field is a major problem. I can't think of any way past it.</text>
+		<text bitflag="1345" id1="692336" id2="17" version="1065353216">Jedi. You destroy the sensors. Imperials will drop the force field to investigate.</text>
+		<text bitflag="1345" id1="692337" id2="17" version="1065353216">A surprise attack then would take our armies past the force field.</text>
+		<text bitflag="1360" id1="692337" id2="17" version="1065353216">Which gets us inside.</text>
+		<text bitflag="1345" id1="692338" id2="17" version="1065353216">Have you foreseen the Imperials will do this?</text>
+		<text bitflag="1360" id1="692338" id2="17" version="1065353216">Is that from a vision?</text>
+		<text bitflag="1345" id1="692339" id2="17" version="1065353216">Not seeing. Knowing.</text>
+		<text bitflag="1345" id1="692341" id2="17" version="1065353216">Once the sensors are destroyed, a surprise attack would put our people past the force field.</text>
+		<text bitflag="1345" id1="692343" id2="17" version="1065353216">When the Imperials go to investigate, our forces destroy them and get past the force field.</text>
+		<text bitflag="1360" id1="692343" id2="17" version="1065353216">That's when we pounce.</text>
+		<text bitflag="1345" id1="692344" id2="17" version="1065353216">So we need, say, a &quot;Red Team&quot; to ambush the Imperials that come out after the force field is lowered.</text>
+		<text bitflag="1345" id1="692346" id2="17" version="1065353216">Red Team must be strong. Imperials will fight hard.</text>
+		<text bitflag="1345" id1="692349" id2="17" version="1065353216">I'd welcome any insights you have.</text>
+		<text bitflag="1360" id1="692349" id2="17" version="1065353216">Any suggestions, Gaden-Ko?</text>
+		<text bitflag="1345" id1="692350" id2="17" version="1065353216">Send commandos.</text>
+		<text bitflag="1345" id1="692352" id2="17" version="1065353216">The Voss commandos would be fine for this Red Team.</text>
+		<text bitflag="1360" id1="692352" id2="17" version="1065353216">We need fearless warriors.</text>
+		<text bitflag="1345" id1="692353" id2="17" version="1065353216">They will fight well.</text>
+		<text bitflag="1345" id1="692355" id2="17" version="1065353216">That leaves the main door. With the force field down, we can get to the power generators; we disable them, the big door unlocks.</text>
+		<text bitflag="1345" id1="692357" id2="17" version="1065353216">We should assign a &quot;Blue Team&quot; to disable those generators. A very small group would work.</text>
+		<text bitflag="1345" id1="692362" id2="17" version="1065353216">Your droids would make short work of security.</text>
+		<text bitflag="1360" id1="692362" id2="17" version="1065353216">Let me think....</text>
+		<text bitflag="1345" id1="692363" id2="17" version="1065353216">We can spare a couple.</text>
+		<text bitflag="1345" id1="692365" id2="17" version="1065353216">Teams will need your help later. Blue Team, protection as they work. Red Team, battle support.</text>
+		<text bitflag="1345" id1="692367" id2="17" version="1065353216">We have a plan. Once you destroy the sensors, go to Guardian Hold Four to help your team. Are you ready?</text>
+		<text bitflag="1345" id1="692368" id2="17" version="1065353216">I am. And may the Force be with us.</text>
+		<text bitflag="1360" id1="692368" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="1360" id1="692369" id2="17" version="1065353216">Please recap the plan first.</text>
+		<text bitflag="1345" id1="692370" id2="17" version="1065353216">You destroy the sensors around Axial Park, to draw out the Imperials and get them to drop their force field. We'll get two teams to rush in.</text>
+		<text bitflag="1345" id1="692372" id2="17" version="1065353216">When the generators are down, and the main door unlocks, go inside, and find our traitor.</text>
+		<text bitflag="1360" id1="692374" id2="17" version="1065353216">It'll be quite the adventure.</text>
+		<text bitflag="3393" id1="692375" id2="17" version="1065353216">The traitor's light will illuminate the First Son's path. We breathe upon his neck.</text>
+		<text bitflag="1345" id1="692377" id2="17" version="1065353216">Jedi! Long time no see. Captain Valon, reporting in. First Hoth, now Corellia. You stay busy.</text>
+		<text bitflag="1345" id1="692378" id2="17" version="1065353216">I'm conducting an urgent mission. Please get to the point.</text>
+		<text bitflag="1360" id1="692378" id2="17" version="1065353216">Yes, so talk quickly.</text>
+		<text bitflag="1345" id1="692379" id2="17" version="1065353216">Unfortunately, I've seen many faces since we last spoke.</text>
+		<text bitflag="1360" id1="692379" id2="17" version="1065353216">I don't remember you.</text>
+		<text bitflag="1345" id1="692380" id2="17" version="1065353216">Killed any more Republic soldiers lately, Valon?</text>
+		<text bitflag="1345" id1="692382" id2="17" version="1065353216">Gee, Lieutenant. And I even brought a gift.</text>
+		<text bitflag="1345" id1="692384" id2="17" version="1065353216">You hunt a man across Hoth, break his armor, bind him with an oath, and don't remember it?</text>
+		<text bitflag="1345" id1="692386" id2="17" version="1065353216">Doesn't matter, I always keep my word. I rounded up enough men and ships to give the Imperials a dent. Once.</text>
+		<text bitflag="1345" id1="692388" id2="17" version="1065353216">Hopefully, this is about the men you were recruiting for me.</text>
+		<text bitflag="1360" id1="692388" id2="17" version="1065353216">You agreed to get me troops.</text>
+		<text bitflag="1345" id1="692389" id2="17" version="1065353216">Good! Right to business.</text>
+		<text bitflag="1345" id1="692391" id2="17" version="1065353216">I'm a man of my word, Jedi. I got you enough men and ships to put a serious dent in the Imperials. Once.</text>
+		<text bitflag="1345" id1="692393" id2="17" version="1065353216">After that, we'll have to scatter, before they send trigger-happy capital ships to chase us. So, any Imperials getting you down?</text>
+		<text bitflag="1345" id1="692396" id2="17" version="1065353216">We're about to assault a fortress in Axial Park. It has turrets and enemy soldiers in the courtyard.</text>
+		<text bitflag="1360" id1="692396" id2="17" version="1065353216">Yes. Attack the Guardian Hold.</text>
+		<text bitflag="1345" id1="692397" id2="17" version="1065353216">Nice. We can do a bombing run on those turrets before your guys move in.</text>
+		<text bitflag="1345" id1="692399" id2="17" version="1065353216">I may have greater need of you later.</text>
+		<text bitflag="1360" id1="692399" id2="17" version="1065353216">Syo might flee Corellia....</text>
+		<text bitflag="1345" id1="692400" id2="17" version="1065353216">We can stay in our nice, cozy orbit until you call.</text>
+		<text bitflag="1345" id1="692402" id2="17" version="1065353216">Just don't get any funny ideas. We know a prison world with a few stasis chambers sitting empty.</text>
+		<text bitflag="1345" id1="692404" id2="17" version="1065353216">Thanks, but I tried immortality already. I got my orders. Valon signing off.</text>
+		<text bitflag="1345" id1="692405" id2="17" version="1065353216">Don't give a step. Valon signing off.</text>
+		<text bitflag="1345" id1="692433" id2="17" version="1065353216">I never thought the Imperials would make it this far. Not to the Core Worlds, not Corellia.</text>
+		<text bitflag="1345" id1="692435" id2="17" version="1065353216">Master Syo's briefings on the Corellian situation are grim. Treachery, Imperials invading, a resistance under fire--I saw it all back home.</text>
+		<text bitflag="1345" id1="692436" id2="17" version="1065353216">Did someone on Corellia betray us?</text>
+		<text bitflag="1360" id1="692436" id2="17" version="1065353216">You said &quot;treachery&quot;?</text>
+		<text bitflag="1345" id1="692437" id2="17" version="1065353216">Apparently, the Empire made Corellia's backstabbing government an offer.</text>
+		<text bitflag="1345" id1="692439" id2="17" version="1065353216">Not to mention, we have Nadia to find.</text>
+		<text bitflag="1360" id1="692439" id2="17" version="1065353216">And Nadia's down there.</text>
+		<text bitflag="1345" id1="692440" id2="17" version="1065353216">Don't forget about Felix.</text>
+		<text bitflag="1360" id1="692440" id2="17" version="1065353216">And Felix is down there.</text>
+		<text bitflag="1345" id1="692441" id2="17" version="1065353216">We know the automated landing system put the escape pod in Coronet City's shipyards. It's a start. But we have a war to fight, too.</text>
+		<text bitflag="1345" id1="692443" id2="17" version="1065353216">You can't compare Corellia to what happened on your world.</text>
+		<text bitflag="1360" id1="692443" id2="17" version="1065353216">Focus. This isn't Balmorra.</text>
+		<text bitflag="1345" id1="692444" id2="17" version="1065353216">The Empire's using different words, but I know the song.</text>
+		<text bitflag="1345" id1="692446" id2="17" version="1065353216">There is good news. Master Syo completed work on the Guardian Holds before the invasion began.</text>
+		<text bitflag="1345" id1="692447" id2="17" version="1065353216">What are these Guardian Holds?</text>
+		<text bitflag="1360" id1="692447" id2="17" version="1065353216">Guardian Holds?</text>
+		<text bitflag="1345" id1="692448" id2="17" version="1065353216">Ah, of course. Master Syo only just passed on this briefing.</text>
+		<text bitflag="1345" id1="692450" id2="17" version="1065353216">I should have guessed Master Syo had made preparations.</text>
+		<text bitflag="1360" id1="692450" id2="17" version="1065353216">Master Syo always plans ahead.</text>
+		<text bitflag="1345" id1="692451" id2="17" version="1065353216">If there's something new in our battle plan, I should have been told.</text>
+		<text bitflag="1360" id1="692451" id2="17" version="1065353216">No one mentioned this.</text>
+		<text bitflag="1345" id1="692452" id2="17" version="1065353216">The Guardian Holds are buildings across Coronet City, Corellia's capital. Factories, bunkers, munition stores--everything you'd need to conquer a city.</text>
+		<text bitflag="1345" id1="692454" id2="17" version="1065353216">Master Syo's fortified each of those buildings with special defenses, and code-named them Guardian Holds.</text>
+		<text bitflag="1345" id1="692456" id2="17" version="1065353216">The Guardian Holds mean we have several impenetrable fortresses, from which we can always retake Coronet City. Even if it falls to the Empire.</text>
+		<text bitflag="1345" id1="692457" id2="17" version="1065353216">With those Guardian Holds, and our military assets protected, we can concentrate on offense.</text>
+		<text bitflag="1360" id1="692457" id2="17" version="1065353216">And that frees us to fight.</text>
+		<text bitflag="1345" id1="692458" id2="17" version="1065353216">That's the idea.</text>
+		<text bitflag="1345" id1="692460" id2="17" version="1065353216">Such critical positions would need to be defended at all costs.</text>
+		<text bitflag="1360" id1="692460" id2="17" version="1065353216">How secure are these Holds?</text>
+		<text bitflag="1345" id1="692461" id2="17" version="1065353216">The Guardian Hold fortifications are pretty impregnable--with elite Republic troops stationed inside each one.</text>
+		<text bitflag="1345" id1="692463" id2="17" version="1065353216">Let's focus on winning, rather than how we'll claw our way back if we lose.</text>
+		<text bitflag="1360" id1="692463" id2="17" version="1065353216">That's rather defeatist.</text>
+		<text bitflag="1345" id1="692464" id2="17" version="1065353216">Defending the Guardian Holds does make the Republic a little shorthanded, though, which is where our armies come in.</text>
+		<text bitflag="3393" id1="692466" id2="17" version="1065353216">Landing armies takes time. Should search shipyards for little Nadia, before Empire finds.</text>
+		<text bitflag="1360" id1="692467" id2="17" version="1065353216">The Force will aid me.</text>
+		<text bitflag="3393" id1="692468" id2="17" version="1065353216">Takes time to land armies. Should search shipyards for missing lieutenant, before Empire finds.</text>
+		<text bitflag="1345" id1="692469" id2="17" version="1065353216">Coronet City's shipyards are enormous. I won't find the escape pod without help.</text>
+		<text bitflag="1360" id1="692469" id2="17" version="1065353216">I need a solid lead first.</text>
+		<text bitflag="3393" id1="692470" id2="17" version="1065353216">We did pick up a few emergency broadcasts from Coronet City. There was one that.... Here.</text>
+		<text bitflag="1360" id1="692472" id2="17" version="1065353216">I have the Force to guide me.</text>
+		<text bitflag="1345" id1="692473" id2="17" version="1065353216">What if you vanish too? We need a practical backup plan.</text>
+		<text bitflag="1345" id1="692475" id2="17" version="1065353216">Have someone else look. I need to focus on leading our forces.</text>
+		<text bitflag="1360" id1="692475" id2="17" version="1065353216">I should delegate this.</text>
+		<text bitflag="1345" id1="692476" id2="17" version="1065353216">Information recovered from dreadnaught is critical. We coordinate; you are best to search.</text>
+		<text bitflag="3393" id1="692478" id2="17" version="1065353216">What about the emergency broadcasts? I think there was one... yes, here.</text>
+		<text bitflag="1345" id1="692480" id2="17" version="1065353216">...repeat, this is Captain Drizan, calling any defenders near the Coronet shipyards. The Imperials overran Zone Twelve. Calling for emergency assistance!</text>
+		<text bitflag="1345" id1="692481" id2="17" version="1065353216">We could search the shipyards while we defend them. Tell Captain Drizan we're on our way.</text>
+		<text bitflag="1360" id1="692481" id2="17" version="1065353216">Maybe we can help each other.</text>
+		<text bitflag="3393" id1="692482" id2="17" version="1065353216">At once, Jedi.</text>
+		<text bitflag="1345" id1="692484" id2="17" version="1065353216">If Captain Drizan knows the shipyards, he may know where our escape pod went.</text>
+		<text bitflag="1360" id1="692484" id2="17" version="1065353216">This man can guide us.</text>
+		<text bitflag="3393" id1="692485" id2="17" version="1065353216">I'll let him know you're coming.</text>
+		<text bitflag="1345" id1="692487" id2="17" version="1065353216">Perhaps our pod didn't land in the shipyards; this &quot;Captain Drizan&quot; didn't mention it.</text>
+		<text bitflag="1360" id1="692487" id2="17" version="1065353216">No word of an escape pod.</text>
+		<text bitflag="1345" id1="692488" id2="17" version="1065353216">The man sounds preoccupied, Jedi. The shipyards are our best lead.</text>
+		<text bitflag="1345" id1="692490" id2="17" version="1065353216">So. Droids from Balmorra, the Esh-kha, Voss commandos, and whatever pirate dregs Captain Valon has scraped together.</text>
+		<text bitflag="1345" id1="692492" id2="17" version="1065353216">Tai's droids, Esh-kha, commandos. We land all.</text>
+		<text bitflag="1345" id1="692494" id2="17" version="1065353216">Now we find out if they're enough to save the Republic.</text>
+		<text bitflag="1345" id1="692499" id2="17" version="1065353216">We'd stand the best chance with an Esh-kha Red Team.</text>
+		<text bitflag="1360" id1="692499" id2="17" version="1065353216">The Esh-kha can be Red Team.</text>
+		<text bitflag="3393" id1="692500" id2="17" version="1065353216">We are still raw. Others must bear the steel and fire.</text>
+		<text bitflag="1345" id1="692501" id2="17" version="1065353216">The Balmorran droids can handle the ambush, then.</text>
+		<text bitflag="1360" id1="692501" id2="17" version="1065353216">Send the droids instead.</text>
+		<text bitflag="1345" id1="692504" id2="17" version="1065353216">In that case, let the commandos carry it.</text>
+		<text bitflag="1360" id1="692504" id2="17" version="1065353216">Substitute the Voss commandos.</text>
+		<text bitflag="3393" id1="692507" id2="17" version="1065353216">The shadows will grow teeth for this Empire.</text>
+		<text bitflag="1345" id1="692509" id2="17" version="1065353216">Your droids would be ideal for Red Team's duties.</text>
+		<text bitflag="1360" id1="692509" id2="17" version="1065353216">Make the Red Team all droids.</text>
+		<text bitflag="1345" id1="692510" id2="17" version="1065353216">No, there's not enough units left after the last set-to. What about the others?</text>
+		<text bitflag="1345" id1="692511" id2="17" version="1065353216">In that case, the Esh-kha would be best.</text>
+		<text bitflag="1360" id1="692511" id2="17" version="1065353216">Let's send the Esh-kha.</text>
+		<text bitflag="1345" id1="692514" id2="17" version="1065353216">Who would be the best alternative?</text>
+		<text bitflag="1360" id1="692514" id2="17" version="1065353216">Suggestions, Gaden-Ko?</text>
+		<text bitflag="1345" id1="692515" id2="17" version="1065353216">Esh-kha should go.</text>
+		<text bitflag="1345" id1="692517" id2="17" version="1065353216">All right. Let's use Gaden-Ko's commandos.</text>
+		<text bitflag="1360" id1="692517" id2="17" version="1065353216">The Voss commandos, then.</text>
+		<text bitflag="1345" id1="692520" id2="17" version="1065353216">All right, I'll send the order.</text>
+		<text bitflag="1345" id1="692523" id2="17" version="1065353216">They still recover. Others must go.</text>
+		<text bitflag="1345" id1="692524" id2="17" version="1065353216">Very well. Send the Esh-kha, instead.</text>
+		<text bitflag="1360" id1="692524" id2="17" version="1065353216">Make it the Esh-kha.</text>
+		<text bitflag="1345" id1="692527" id2="17" version="1065353216">Search your feelings, who should go instead?</text>
+		<text bitflag="1360" id1="692527" id2="17" version="1065353216">Who would you send?</text>
+		<text bitflag="1345" id1="692528" id2="17" version="1065353216">Send Esh-kha.</text>
+		<text bitflag="1345" id1="692530" id2="17" version="1065353216">Tai's droids would be a fair substitute.</text>
+		<text bitflag="1360" id1="692530" id2="17" version="1065353216">Let's send the droids.</text>
+		<text bitflag="1345" id1="692533" id2="17" version="1065353216">Rendezvous at Guardian Hold Four, and defend Blue Team while they disable the generators.</text>
+		<text bitflag="1345" id1="692535" id2="17" version="1065353216">Rendezvous at Guardian Hold Four, and help Red Team fight the Imperials until the generators are disabled.</text>
+		<text bitflag="1345" id1="692537" id2="17" version="1065353216">Maybe they can patch up a few of the damaged ones.</text>
+		<text bitflag="1345" id1="692539" id2="17" version="1065353216">Hallow Voice, a few of your people could handle that security system.</text>
+		<text bitflag="1360" id1="692539" id2="17" version="1065353216">Send a couple of Esh-kha.</text>
+		<text bitflag="3393" id1="692540" id2="17" version="1065353216">Our blood will paint our footsteps, but we shall.</text>
+		<text bitflag="3393" id1="692542" id2="17" version="1065353216">An ocean can breathe a few drops.</text>
+		<text bitflag="1345" id1="692544" id2="17" version="1065353216">Gaden-Ko, it would only take a few commandos to disable security.</text>
+		<text bitflag="1360" id1="692544" id2="17" version="1065353216">We can spare some commandos.</text>
+		<text bitflag="1345" id1="692545" id2="17" version="1065353216">A few can walk.</text>
+		<text bitflag="1345" id1="692547" id2="17" version="1065353216">I will instruct.</text>
+		<text bitflag="1345" id1="692550" id2="17" version="1065353216">Blue Team will have all the protection they require.</text>
+		<text bitflag="1360" id1="692550" id2="17" version="1065353216">I'll defend the Blue Team.</text>
+		<text bitflag="1345" id1="692551" id2="17" version="1065353216">Does your intuition suggest where I'll be needed most?</text>
+		<text bitflag="1360" id1="692551" id2="17" version="1065353216">Whose need is greater?</text>
+		<text bitflag="1345" id1="692552" id2="17" version="1065353216">Defend Blue Team.</text>
+		<text bitflag="1345" id1="692554" id2="17" version="1065353216">Red Team will have my lightsaber.</text>
+		<text bitflag="1360" id1="692554" id2="17" version="1065353216">I'll fight with the Red Team.</text>
+		<text bitflag="1360" id1="755687" id2="17" version="1065353216">Let's send your commandos.</text>
+		<text bitflag="1360" id1="761532" id2="17" version="1065353216">That's a job for droids.</text>
+		<text bitflag="1360" id1="761534" id2="17" version="1065353216">We need someone tech-minded.</text>
+		<text bitflag="1360" id1="761543" id2="17" version="1065353216">Can you do an aerial strike?</text>
+	</file_content>
+</stb_file>

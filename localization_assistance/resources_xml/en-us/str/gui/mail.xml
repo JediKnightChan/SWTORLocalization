@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>475</strs>
+		<file_name>/resources/en-us/str/gui/mail.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1" id2="233580" version="1065353216">To:</text>
+		<text bitflag="1345" id1="2" id2="233580" version="1065353216">Subject:</text>
+		<text bitflag="1345" id1="3" id2="233580" version="1065353216">Attach Items:</text>
+		<text bitflag="1345" id1="4" id2="233580" version="1065353216">Send credits through mail.</text>
+		<text bitflag="1345" id1="5" id2="233580" version="1065353216">Credits on delivery of items.</text>
+		<text bitflag="1345" id1="6" id2="233580" version="1065353216">Send</text>
+		<text bitflag="1345" id1="7" id2="233580" version="1065353216">Cancel</text>
+		<text bitflag="1345" id1="8" id2="233580" version="1065353216">Inbox</text>
+		<text bitflag="1345" id1="9" id2="233580" version="1065353216">Compose</text>
+		<text bitflag="1345" id1="10" id2="233580" version="1065353216">Compose Message</text>
+		<text bitflag="1345" id1="11" id2="233580" version="1065353216">Mailbox</text>
+		<text bitflag="1345" id1="12" id2="233580" version="1065353216">Sort by Oldest</text>
+		<text bitflag="1345" id1="13" id2="233580" version="1065353216">Sort by Newest</text>
+		<text bitflag="1345" id1="14" id2="233580" version="1065353216">Sort by From</text>
+		<text bitflag="1345" id1="15" id2="233580" version="1065353216">Sort by Subject</text>
+		<text bitflag="1345" id1="16" id2="233580" version="1065353216">OK</text>
+		<text bitflag="1345" id1="17" id2="233580" version="1065353216">Mail server operation failed.</text>
+		<text bitflag="1345" id1="18" id2="233580" version="1065353216">That player does not exist. Please check the name in the &quot;To:&quot; field.</text>
+		<text bitflag="1345" id1="19" id2="233580" version="1065353216">Receiving mailbox has no mailbox space remaining.</text>
+		<text bitflag="1345" id1="20" id2="233580" version="1065353216">Can't send mail to players of the opposing faction.</text>
+		<text bitflag="1345" id1="21" id2="233580" version="1065353216">Insufficient credits to pay for the request.</text>
+		<text bitflag="1345" id1="22" id2="233580" version="1065353216">COD debt has yet to be paid on the mail message</text>
+		<text bitflag="1345" id1="23" id2="233580" version="1065353216">The attachment(s) could not be removed from the message.</text>
+		<text bitflag="1345" id1="24" id2="233580" version="1065353216">Could not perform mail operation</text>
+		<text bitflag="1345" id1="25" id2="233580" version="1065353216">Ignore Sender</text>
+		<text bitflag="1345" id1="26" id2="233580" version="1065353216">Report Spam</text>
+		<text bitflag="1345" id1="27" id2="233580" version="1065353216">Message expires in less than 1 day.</text>
+		<text bitflag="1345" id1="28" id2="233580" version="1065353216">Message expires in less than 5 days.</text>
+		<text bitflag="1345" id1="29" id2="233580" version="1065353216">From:</text>
+		<text bitflag="1345" id1="30" id2="233580" version="1065353216">Attached Items:</text>
+		<text bitflag="1345" id1="31" id2="233580" version="1065353216">Attached Credits:</text>
+		<text bitflag="1345" id1="32" id2="233580" version="1065353216">Reply to this message</text>
+		<text bitflag="1345" id1="33" id2="233580" version="1065353216">Return message, attachments and credits to sender</text>
+		<text bitflag="1345" id1="34" id2="233580" version="1065353216">Report message as spam or harassment to a CSR</text>
+		<text bitflag="1345" id1="35" id2="233580" version="1065353216">Ignore all mail messages from this sender</text>
+		<text bitflag="1345" id1="36" id2="233580" version="1065353216">Take the attached credits</text>
+		<text bitflag="1345" id1="37" id2="233580" version="1065353216">Create a copy of this message in your inventory.</text>
+		<text bitflag="1345" id1="38" id2="233580" version="1065353216">Pending COD:</text>
+		<text bitflag="1345" id1="39" id2="233580" version="1065353216">RE:</text>
+		<text bitflag="1345" id1="40" id2="233580" version="1065353216">Showing</text>
+		<text bitflag="1345" id1="41" id2="233580" version="1065353216">CSR:</text>
+		<text bitflag="1345" id1="42" id2="233580" version="1065353216">Message could not be paid - reason unknown</text>
+		<text bitflag="1345" id1="43" id2="233580" version="1065353216">Message Item</text>
+		<text bitflag="1345" id1="44" id2="233580" version="1065353216">Customer Services</text>
+		<text bitflag="1345" id1="45" id2="233580" version="1065353216">Test Message</text>
+		<text bitflag="1345" id1="46" id2="233580" version="1065353216">Test Body</text>
+		<text bitflag="1345" id1="47" id2="233580" version="1065353216">Mail Delivery System</text>
+		<text bitflag="1345" id1="48" id2="233580" version="1065353216">Lost Items Recovered</text>
+		<text bitflag="1345" id1="49" id2="233580" version="1065353216">The enclosed items and/or credits were found in the lost and found department.</text>
+		<text bitflag="1345" id1="50" id2="233580" version="1065353216">COD Sender</text>
+		<text bitflag="1345" id1="51" id2="233580" version="1065353216">COD Payment</text>
+		<text bitflag="1345" id1="52" id2="233580" version="1065353216">Here is your payment.</text>
+		<text bitflag="1345" id1="53" id2="233580" version="1065353216">Message attachments could not be retrieved - reasons unknown</text>
+		<text bitflag="1345" id1="54" id2="233580" version="1065353216">Send mail message</text>
+		<text bitflag="1345" id1="55" id2="233580" version="1065353216">Cancel and close mail message without sending</text>
+		<text bitflag="1345" id1="56" id2="233580" version="1065353216">Select this message for mass edit</text>
+		<text bitflag="1345" id1="57" id2="233580" version="1065353216">Go to previous mail message</text>
+		<text bitflag="1345" id1="58" id2="233580" version="1065353216">Go to next mail message</text>
+		<text bitflag="1345" id1="59" id2="233580" version="1065353216">Delete all checked messages</text>
+		<text bitflag="1345" id1="60" id2="233580" version="1065353216">Get all checked message attachments</text>
+		<text bitflag="1345" id1="61" id2="233580" version="1065353216">Select all messages for mass edit</text>
+		<text bitflag="1345" id1="62" id2="233580" version="1065353216">Mailbox</text>
+		<text bitflag="1345" id1="63" id2="233580" version="1065353216">Send Credits</text>
+		<text bitflag="1345" id1="64" id2="233580" version="1065353216">COD</text>
+		<text bitflag="1345" id1="65" id2="233580" version="1065353216">View Mail Message</text>
+		<text bitflag="1345" id1="66" id2="233580" version="1065353216">You have new mail.</text>
+		<text bitflag="1345" id1="67" id2="233580" version="1065353216">Check your email here.</text>
+		<text bitflag="1345" id1="68" id2="233580" version="1065353216">You must take all attachments before this message can be converted into an item.</text>
+		<text bitflag="1345" id1="69" id2="233580" version="1065353216">Ignored via mail system</text>
+		<text bitflag="1345" id1="70" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt; of your selected messages requires a COD payment. If you accept, you will be charged a total of &lt;&lt;2&gt;&gt; credits.</text>
+		<text bitflag="1345" id1="71" id2="233580" version="1065353216">Do you want to accept the COD for this message? If you accept, you will be charged &lt;&lt;1&gt;&gt; credits.</text>
+		<text bitflag="1345" id1="72" id2="233580" version="1065353216">You are not close enough to a mailbox.</text>
+		<text bitflag="1345" id1="73" id2="233580" version="1065353216">Error:</text>
+		<text bitflag="1345" id1="74" id2="233580" version="1065353216">You are not allowed to send mail to yourself.</text>
+		<text bitflag="1345" id1="75" id2="233580" version="1065353216">You can't afford to do that.</text>
+		<text bitflag="1345" id1="76" id2="233580" version="1065353216">Galactic Trade Network</text>
+		<text bitflag="1345" id1="77" id2="233580" version="1065353216">Transaction Complete</text>
+		<text bitflag="1345" id1="78" id2="233580" version="1065353216">Successful Item Sale</text>
+		<text bitflag="1345" id1="79" id2="233580" version="1065353216">Item Listing Canceled</text>
+		<text bitflag="1345" id1="80" id2="233580" version="1065353216">Item Listing Expired</text>
+		<text bitflag="1345" id1="81" id2="233580" version="1065353216">Bid Refund</text>
+		<text bitflag="1345" id1="82" id2="233580" version="1065353216">Thank you for shopping the Galactic Trade Network. Attached is the item that you purchased.</text>
+		<text bitflag="1345" id1="83" id2="233580" version="1065353216">Someone has purchased the item you put up for sale on the Galactic Trade Network. Attached is your asking price and deposit, less the Galactic Trade Network's commission.</text>
+		<text bitflag="1345" id1="84" id2="233580" version="1065353216">You have successfully canceled your item listing on the Galactic Trade Network. Your item is attached, but you have lost your deposit.</text>
+		<text bitflag="1345" id1="85" id2="233580" version="1065353216">Your item listing on the Galactic Trade Network expired without any bids. Your item and deposit have been returned.</text>
+		<text bitflag="1345" id1="86" id2="233580" version="1065353216">You were outbid for an auction. A refund is attached.</text>
+		<text bitflag="1345" id1="87" id2="233580" version="1065353216">You tried to purchase an item on the Galactic Trade Network, but that listing has already ended. A refund is attached.</text>
+		<text bitflag="1345" id1="88" id2="233580" version="1065353216">Shipping Fee:</text>
+		<text bitflag="1345" id1="89" id2="233580" version="1065353216">Error: Inventory full</text>
+		<text bitflag="1345" id1="90" id2="233580" version="1065353216">Someone has purchased the item you put up for sale on the Galactic Trade Network. You will receive your asking price and deposit, less the Galactic Trade Network's commission, in one hour.</text>
+		<text bitflag="1345" id1="91" id2="233580" version="1065353216">Reply</text>
+		<text bitflag="1345" id1="92" id2="233580" version="1065353216">Delete</text>
+		<text bitflag="1345" id1="93" id2="233580" version="1065353216">Delete mail message</text>
+		<text bitflag="1345" id1="99" id2="233580" version="1065353216">This message is garbled beyond recognition.</text>
+		<text bitflag="1345" id1="100" id2="233580" version="1065353216">&lt;&lt;4&gt;&gt; has purchased your auction of &lt;&lt;1&gt;&gt; on the Galactic Trade Network. You will receive your asking price of &lt;&lt;2&gt;&gt; credits and your deposit, less the Galactic Trade Network's commission of &lt;&lt;3&gt;&gt; credits, in one hour.</text>
+		<text bitflag="1345" id1="101" id2="233580" version="1065353216">Someone has purchased the item you put up for sale on the Galactic Trade Network. You will receive your asking price and deposit, less the Galactic Trade Network's commission, in one hour.</text>
+		<text bitflag="1345" id1="102" id2="233580" version="1065353216">Thank you for shopping the Galactic Trade Network. Attached is your &lt;&lt;1&gt;&gt;, purchased from &lt;&lt;2&gt;&gt; for &lt;&lt;3&gt;&gt; credits.</text>
+		<text bitflag="1345" id1="103" id2="233580" version="1065353216">Thank you for shopping the Galactic Trade Network. Attached is the item that you purchased.</text>
+		<text bitflag="1345" id1="104" id2="233580" version="1065353216">&lt;&lt;4&gt;&gt; has purchased your auction of &lt;&lt;1&gt;&gt; on the Galactic Trade Network. Attached is your asking price of &lt;&lt;2&gt;&gt; credits and your deposit, less the Galactic Trade Network's commission of &lt;&lt;3&gt;&gt; credits.</text>
+		<text bitflag="1345" id1="105" id2="233580" version="1065353216">Someone has purchased the item you put up for sale on the Galactic Trade Network. Attached is your asking price and deposit, less the Galactic Trade Network's commission.</text>
+		<text bitflag="1345" id1="106" id2="233580" version="1065353216">You have successfully canceled your listing of &lt;&lt;1&gt;&gt; for &lt;&lt;2&gt;&gt; credits on the Galactic Trade Network. Your item is attached, but you have lost your deposit of &lt;&lt;3&gt;&gt; credits.</text>
+		<text bitflag="1345" id1="107" id2="233580" version="1065353216">You have successfully canceled your item listing on the Galactic Trade Network. Your item is attached, but you have lost your deposit.</text>
+		<text bitflag="1345" id1="108" id2="233580" version="1065353216">Your listing of &lt;&lt;1&gt;&gt; for &lt;&lt;2&gt;&gt; credits on the Galactic Trade Network expired without any bids. Your item and deposit of &lt;&lt;3&gt;&gt; credits have been returned.</text>
+		<text bitflag="1345" id1="109" id2="233580" version="1065353216">Your item listing on the Galactic Trade Network expired without any bids. Your item and deposit have been returned.</text>
+		<text bitflag="1345" id1="110" id2="233580" version="1065353216">You were outbid on &lt;&lt;1&gt;&gt;'s auction of &lt;&lt;2&gt;&gt; on the Galactic Trade Network. A refund of your bid of &lt;&lt;3&gt;&gt; credits is attached.</text>
+		<text bitflag="1345" id1="111" id2="233580" version="1065353216">You were outbid for an auction on the Galactic Trade Network. A refund is attached.</text>
+		<text bitflag="1345" id1="112" id2="233580" version="1065353216">You tried to purchase &lt;&lt;1&gt;&gt;'s auction of &lt;&lt;2&gt;&gt; on the Galactic Trade Network, but that listing has already ended. A refund of your bid of &lt;&lt;3&gt;&gt; credits is attached.</text>
+		<text bitflag="1345" id1="113" id2="233580" version="1065353216">You tried to purchase an item on the Galactic Trade Network, but that listing has already ended. A refund is attached.</text>
+		<text bitflag="1345" id1="114" id2="233580" version="1065353216">You tried to purchase an auction that no longer exists on the Galactic Trade Network. A refund of your bid is attached.</text>
+		<text bitflag="1345" id1="115" id2="233580" version="1065353216">You tried to purchase an auction that no longer exists on the Galactic Trade Network. A refund of your bid is attached.</text>
+		<text bitflag="1345" id1="116" id2="233580" version="1065353216">Delete attachment?</text>
+		<text bitflag="1345" id1="117" id2="233580" version="1065353216">Deleting this mail will delete any attachment(s). Delete message with subject</text>
+		<text bitflag="1345" id1="118" id2="233580" version="1065353216">Yes</text>
+		<text bitflag="1345" id1="119" id2="233580" version="1065353216">No</text>
+		<text bitflag="1345" id1="120" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="1345" id1="121" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="1345" id1="122" id2="233580" version="1065353216">Crafting Materials</text>
+		<text bitflag="1345" id1="123" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt;: Here is the &lt;&lt;2&gt;&gt; that you requested me to craft. Thank you for your business. -&lt;&lt;3&gt;&gt;</text>
+		<text bitflag="1345" id1="124" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt;: Here is the &lt;&lt;2&gt;&gt; that you requested me to craft. Let me know when I can be of further service. -&lt;&lt;3&gt;&gt;</text>
+		<text bitflag="1345" id1="125" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt;: I have returned crafting materials that I no longer need. Let me know when I can be of further service. -&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="1345" id1="126" id2="233580" version="1065353216">Warzone</text>
+		<text bitflag="1345" id1="127" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="1345" id1="128" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt;: Here are your winnings from the warzone.</text>
+		<text bitflag="1345" id1="129" id2="233580" version="1065353216">Target not in phase.</text>
+		<text bitflag="1345" id1="130" id2="233580" version="1065353216">You cannot mail that.</text>
+		<text bitflag="1345" id1="131" id2="233580" version="1065353216">You cannot return that mail to the sender.</text>
+		<text bitflag="1345" id1="132" id2="233580" version="1065353216">Character has been deleted</text>
+		<text bitflag="1345" id1="133" id2="233580" version="1065353216">&lt;&lt;1[/$d Day/$d Days]&gt;&gt;</text>
+		<text bitflag="1345" id1="134" id2="233580" version="1065353216">&lt;&lt;1[/$d Hour/$d Hours]&gt;&gt;</text>
+		<text bitflag="1345" id1="135" id2="233580" version="1065353216">&lt;&lt;1[/$d Minute/$d Minutes]&gt;&gt;</text>
+		<text bitflag="1345" id1="136" id2="233580" version="1065353216">&lt;&lt;1[/$d Second/$d Seconds]&gt;&gt;</text>
+		<text bitflag="321" id1="137" id2="233580" version="1065353216">COD:</text>
+		<text bitflag="321" id1="261" id2="233580" version="1065353216">&lt;&lt;1[/$d attachment/$d attachments]&gt;&gt;</text>
+		<text bitflag="321" id1="262" id2="233580" version="1065353216">Star Wars™: The Old Republic™</text>
+		<text bitflag="321" id1="263" id2="233580" version="1065353216">Collector's Edition Items</text>
+		<text bitflag="321" id1="264" id2="233580" version="1065353216">Thank you for buying the Star Wars™: The Old Republic™ Collector's Edition.
+
+Enclosed are the special in-game items to which your purchase entitles you. Use them to customize your character and show them off to other players!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="265" id2="233580" version="1065353216">Digital Deluxe Edition Items</text>
+		<text bitflag="321" id1="266" id2="233580" version="1065353216">Thank you for buying the Star Wars™: The Old Republic™ Digital Deluxe Edition.
+
+Enclosed are the special in-game items to which your purchase entitles you. Use them to customize your character and show them off to other players!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="267" id2="233580" version="1065353216">Pre-Order Bonus Item</text>
+		<text bitflag="321" id1="268" id2="233580" version="1065353216">Thank you for pre-ordering Star Wars™: The Old Republic™.
+
+Enclosed is the special color crystal to which your purchase entitles you. Use it to customize the color of your lightsaber or blaster!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="269" id2="233580" version="1065353216">Star Wars™: The Old Republic™</text>
+		<text bitflag="321" id1="270" id2="233580" version="1065353216">Your Legacy is now unlocked!</text>
+		<text bitflag="321" id1="271" id2="233580" version="1065353216">You've now unlocked your legacy.  For now, you can choose a unique last name that is shared across all of your characters.  In the future, the legacy system will offer even more benefits to all of the characters in your legacy!</text>
+		<text bitflag="321" id1="272" id2="233580" version="1065353216">Razer Bonus Item</text>
+		<text bitflag="321" id1="273" id2="233580" version="1065353216">Thank you for the purchase of an official Star Wars™: The Old Republic™ Razer-brand peripheral.  
+
+Enclosed are the special color crystals to which your purchase entitles you. Use them to customize the color of your lightsaber or blaster. May the Force™ be with you!</text>
+		<text bitflag="321" id1="274" id2="233580" version="1065353216">Item Recovery</text>
+		<text bitflag="321" id1="275" id2="233580" version="1065353216">We have detected that this character has been affected by an issue on character load that resulted in the game needing to grant or return items to this character. Attached to this email you will find the associated items.  We apologize for any inconvenience this may have caused.  
+
+May the Force™ be with you!
+
+-The Star Wars™: The Old Republic™ Team</text>
+		<text bitflag="321" id1="276" id2="233580" version="1065353216">Founder of the Old Republic</text>
+		<text bitflag="321" id1="277" id2="233580" version="1065353216">Thank you for being one of the first subscribers to Star Wars™: The Old Republic™.
+
+Enclosed is a special in-game item to reward you for being with us since the very beginning. Use this item to grant your character the title &quot;, Founder&quot; and show your status to other players!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="279" id2="233580" version="1065353216">You can't send mail to characters of the opposite faction unless they are in your Legacy.</text>
+		<text bitflag="321" id1="280" id2="233580" version="1065353216">You can't send Legacy-bound items to characters who are not part of your Legacy.</text>
+		<text bitflag="321" id1="281" id2="233580" version="1065353216">You are not allowed to send mail from a trial account.</text>
+		<text bitflag="321" id1="282" id2="233580" version="1065353216">The First Line of Defense</text>
+		<text bitflag="321" id1="283" id2="233580" version="1065353216">Thank you for participating on Star Wars™: The Old Republic™ Public Test.
+
+Enclosed is a special in-game item to reward you for achieving level 10 on Star Wars: The Old Republic Public Test. Use this item to grant your character the title &quot;the First Line of Defense&quot; and show your status to other players!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="284" id2="233580" version="1065353216">The Cutting Edge</text>
+		<text bitflag="321" id1="285" id2="233580" version="1065353216">Thank you for participating on Star Wars™: The Old Republic™ Public Test.
+
+Enclosed is a special in-game item to reward you for completing Act I on Star Wars: The Old Republic Public Test. Use this item to grant your character the title &quot;the Cutting Edge&quot; and show your status to other players!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="286" id2="233580" version="1065353216">Happy Birthday!</text>
+		<text bitflag="321" id1="287" id2="233580" version="1065353216">Today is your birthday, and in honor of the occasion, we're sending you a gift!
+
+Enclosed is an in-game item to help you celebrate. Use it to view a special message--and messenger--and show it off to your friends.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="288" id2="233580" version="1065353216">Event Bonus Item</text>
+		<text bitflag="321" id1="289" id2="233580" version="1065353216">You've successfully redeemed your Star Wars™: The Old Republic™ event code!
+
+Enclosed is a special in-game item for your enjoyment.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="291" id2="233580" version="1065353216">Thank you for being part of the Star Wars™: The Old Republic™ &quot;Legacy&quot; game update.
+ 
+Enclosed is a special in-game reward as our thanks for helping us make the Legacy launch so successful! Your new &quot;Legacy Tauntaun Ram&quot; pet will follow you loyally as you and your friends continue your adventures.
+ 
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="296" id2="233580" version="1065353216">Legacy Item Reward</text>
+		<text bitflag="321" id1="297" id2="233580" version="1065353216">Congratulations on unlocking your Legacy! 
+ 
+Here's an Inheritance Mainhand Weapon Construction Kit to help you get started with your Legacy. Legacy construction kits can be traded to vendors on your capital world for Legacy gear. Legacy weapons and armor are powerful low level items that are acquired through high level activities. 
+ 
+As a Bind on Legacy item, you can mail this construction kit to any of your characters. Bind on Legacy items can be identified by the shield in the upper right corner of their icon.</text>
+		<text bitflag="321" id1="298" id2="233580" version="1065353216">Friends of SWTOR Reward</text>
+		<text bitflag="321" id1="299" id2="233580" version="1065353216">The friend you referred has subscribed to Star Wars™: The Old Republic™. Please accept this gift as our way of saying &quot;thanks!&quot; 
+
+Enclosed is a special in-game item to reward you for your support. Use this item to add the Kurtob Alliance Speeder to your collection of vehicles and ride around the galaxy in style! 
+
+Have fun--and May the Force™ be with you!</text>
+		<text bitflag="321" id1="300" id2="233580" version="1065353216">Strike Team Specialist</text>
+		<text bitflag="321" id1="301" id2="233580" version="1065353216">Thank you for participating on Star Wars™: The Old Republic™ Public Test.
+
+Enclosed is a special in-game item to reward you for testing the Group Finder on Star Wars: The Old Republic Public Test. Use this item to grant your character the title &quot;Strike Team Specialist&quot; and show your status to other players!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="302" id2="233580" version="1065353216">Strike Team Commander</text>
+		<text bitflag="321" id1="303" id2="233580" version="1065353216">Thank you for participating on Star Wars™: The Old Republic™ Public Test.
+
+Enclosed is a special in-game item to reward you for further testing the Group Finder on Star Wars: The Old Republic Public Test. Your continued dedication to testing helps us create the best possible system for your enjoyment. Use this item to grant your character the title &quot;Strike Team Commander&quot; and show your status to other players!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="304" id2="233580" version="1065353216">Character Transfer Rewards Available</text>
+		<text bitflag="321" id1="305" id2="233580" version="1065353216">All of your characters on this server are eligible for our free Character Transfer Service. 
+
+Transfer your character by July 30th to receive an exclusive in-game pet, the Gannifari and 25 Black Hole commendations! 
+
+For more information regarding this service, please visit www.swtor.com/transfer . 
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="306" id2="233580" version="1065353216">Your Transfer Rewards</text>
+		<text bitflag="321" id1="307" id2="233580" version="1065353216">Congratulations, all players on this server are awarded an in-game Gannifari pet and 25 Black Hole commendations!
+
+Thank you for your continued support!
+
+Attached to this email we have included your in-game rewards.
+
+For more information regarding this service and the rewards, please visit www.swtor.com/transfer
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="308" id2="233580" version="1065353216">Downgrade Item Recovery</text>
+		<text bitflag="321" id1="309" id2="233580" version="1065353216">We were unable to place these items in your inventory due to space constraints when removing equipment from your character as part of the downgrade process.</text>
+		<text bitflag="321" id1="312" id2="233580" version="1065353216">To send mail you must be a Subscriber or have Preferred Player Status.
+
+Perferred Player Status is granted to anyone who makes a purchase of Cartel Coins, Subscription or game time.</text>
+		<text bitflag="321" id1="313" id2="233580" version="1065353216">You may only send one item per message and you may not attach Credits. Subscribe today to send Credits and up to 8 items to other players!</text>
+		<text bitflag="321" id1="314" id2="233580" version="1065353216">Downgrade Item Recovery</text>
+		<text bitflag="321" id1="315" id2="233580" version="1065353216">We were unable to place these items into your inventory as part of the downgrade process.</text>
+		<text bitflag="321" id1="316" id2="233580" version="1065353216">Best Buy Item Reward</text>
+		<text bitflag="321" id1="317" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your new &quot;Arctic Manka Lynx&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="318" id2="233580" version="1065353216">Gamestop Item Reward</text>
+		<text bitflag="321" id1="319" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your new &quot;Lobelode&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="320" id2="233580" version="1065353216">Wal-Mart Item Reward</text>
+		<text bitflag="321" id1="321" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your new &quot;Gilded Flutterplume&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="322" id2="233580" version="1065353216">Kowakian Monkey-Lizard Item Reward</text>
+		<text bitflag="321" id1="323" id2="233580" version="1065353216">Thank you for attending a Star Wars™: The Old Republic™ fan event!
+
+Enclosed is a special in-game reward as a thank you for your attendance.  Your new &quot;Flamehair Kowakian Monkey-Lizard&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="324" id2="233580" version="1065353216">Tundra Nekarr Cat Item Reward</text>
+		<text bitflag="321" id1="325" id2="233580" version="1065353216">Thank you for attending a Star Wars™: The Old Republic™ fan event!
+
+Enclosed is a special in-game reward as a thank you for your attendance.  Your new &quot;Tundra Nekarr Cat&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="326" id2="233580" version="1065353216">Mottled Blurrg Item Reward</text>
+		<text bitflag="321" id1="327" id2="233580" version="1065353216">Thank you for attending a Star Wars™: The Old Republic™ fan event!
+
+Enclosed is a special in-game reward as a thank you for your attendance.  Your new &quot;Mottled Blurrg&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="328" id2="233580" version="1065353216">Stellar Wriggler Item Reward</text>
+		<text bitflag="321" id1="329" id2="233580" version="1065353216">Thank you for attending a Star Wars™: The Old Republic™ fan event!
+
+Enclosed is a special in-game reward as a thank you for your attendance.  Your new &quot;Stellar Wriggler&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="330" id2="233580" version="1065353216">Lhosan Manta Item Reward</text>
+		<text bitflag="321" id1="331" id2="233580" version="1065353216">Thank you for attending a Star Wars™: The Old Republic™ fan event!
+
+Enclosed is a special in-game reward as a thank you for your attendance.  Enjoy your new &quot;Lhosan Manta&quot; speederbike vehicle!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="332" id2="233580" version="1065353216">Party Jawa</text>
+		<text bitflag="321" id1="333" id2="233580" version="1065353216">Thank you for participating in the launch of the Free-to-Play option for Star Wars™: The Old Republic™.  Our Facebook fans voted on a reward to commemorate the launch, and the Party Jawa won by an overwhelming majority!
+
+Enclosed is your very own Party Jawa to celebrate with you as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="334" id2="233580" version="1065353216">Heroes' Banner</text>
+		<text bitflag="321" id1="335" id2="233580" version="1065353216">Thank you for participating in the launch of the Free-to-Play option for Star Wars™: The Old Republic™.  You have been awarded this Heroes' Banner to show your status as a veteran member of our community.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="336" id2="233580" version="1065353216">Target Item Reward</text>
+		<text bitflag="321" id1="337" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your new &quot;Crested Orokeet&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="338" id2="233580" version="1065353216">Unlock: Inventory Module Failure</text>
+		<text bitflag="321" id1="339" id2="233580" version="1065353216">Due to a problem with your transaction, your additional Inventory Module request has failed.  Any items placed in the additional slots have been returned to your inventory.  Any items that did not fit in your available inventory space can be seen as attachments to this message.  The Cartel Coins for this purchase have been refunded to your available balance OR you will find the Unlock: Inventory Module item in your inventory.</text>
+		<text bitflag="321" id1="340" id2="233580" version="1065353216">1st Anniversary Fireworks</text>
+		<text bitflag="321" id1="341" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community during the past year!
+
+Enclosed is a special in-game reward as our thanks for your support during the first year of Star Wars: The Old Republic. Celebrate with friends and light up the skies across the galaxy with 25 complimentary stacks of faction-based fireworks. 
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="342" id2="233580" version="1065353216">HK-51</text>
+		<text bitflag="321" id1="343" id2="233580" version="1065353216">Equipment Acquisition</text>
+		<text bitflag="321" id1="344" id2="233580" version="1065353216">[Courtesy] Greetings, Master!
+
+[Explanation] I have taken the liberty of acquiring several components and accessories that will increase my efficiency by a truly impressive margin. Thanks to my advanced negotiation heuristics, these items have been acquired at no cost to you!
+
+[Request] Please see that these upgrades are installed at the earliest possible opportunity, Master. It would surely be in your best interests for me to operate at peak effectiveness.</text>
+		<text bitflag="321" id1="345" id2="233580" version="1065353216">1st Anniversary Fireworks</text>
+		<text bitflag="321" id1="346" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community during the past year!
+
+Enclosed is a special in-game reward as our thanks for your support during the first year of Star Wars: The Old Republic. Celebrate with friends and light up the skies across the galaxy with a stack of 25 complimentary faction-based fireworks. 
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="347" id2="233580" version="1065353216">Here are your rewards for completing an achievement. Congratulations!</text>
+		<text bitflag="321" id1="348" id2="233580" version="1065353216">Achievement Rewards</text>
+		<text bitflag="321" id1="349" id2="233580" version="1065353216">Achievements System</text>
+		<text bitflag="321" id1="350" id2="233580" version="1065353216">Classic Equipment Items</text>
+		<text bitflag="321" id1="351" id2="233580" version="1065353216">Greetings!
+
+We have detected you have one or more pieces of armor affected by a recent change we made to its appearance in Patch 1.6.2. Attached to this message are the original versions of those armor pieces. These &quot;Classic&quot; pieces are not bound to your character and may be sold or traded to others. Both versions of these items are also available in the Space Pirate Cartel Pack. 
+
+Please note that any affected items posted to the Galactic Trade Network before the recent maintenance will be returned to you. The &quot;Classic&quot; items will also be attached to that mail.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="352" id2="233580" version="1065353216">SWTOR Item Reward</text>
+		<text bitflag="321" id1="353" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your new &quot;Forest Nekarr Cat&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="354" id2="233580" version="1065353216">J9-BH Mercenary Mini-Pet Reward</text>
+		<text bitflag="321" id1="355" id2="233580" version="1065353216">LU-20 Builder Mini-Pet Reward</text>
+		<text bitflag="321" id1="356" id2="233580" version="1065353216">2C-TA Commander Mini-Pet Reward</text>
+		<text bitflag="321" id1="357" id2="233580" version="1065353216">BF-4F Warrior Mini-Pet Reward</text>
+		<text bitflag="321" id1="358" id2="233580" version="1065353216">N4-SW Runner Mini-Pet Reward</text>
+		<text bitflag="321" id1="359" id2="233580" version="1065353216">Thank you for joining the Star Wars™: The Old Republic™ community!
+
+Enclosed is a unique in-game J9-BH Mercenary mini-pet reward as our thanks for joining Star Wars: The Old Republic and starting your story-driven Star Wars saga. Intimidate your enemies with the J9-BH Mercenary Mini-Pet traveling by your side as you adventure across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="360" id2="233580" version="1065353216">Thank you for joining the Star Wars™: The Old Republic™ community!
+
+Enclosed is a unique in-game LU-20 Builder mini-pet reward as our thanks for joining Star Wars: The Old Republic and starting your story-driven Star Wars saga. Intimidate your enemies with the LU-20 Builder Mini-Pet traveling by your side as you adventure across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="361" id2="233580" version="1065353216">Thank you for joining the Star Wars™: The Old Republic™ community!
+
+Enclosed is a unique in-game 2C-TA Commander mini-pet reward as our thanks for joining Star Wars: The Old Republic and starting your story-driven Star Wars saga. Intimidate your enemies with the 2C-TA Commander Mini-Pet traveling by your side as you adventure across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="362" id2="233580" version="1065353216">Thank you for joining the Star Wars™: The Old Republic™ community!
+
+Enclosed is a unique in-game BF-4F Warrior mini-pet reward as our thanks for joining Star Wars: The Old Republic and starting your story-driven Star Wars saga. Intimidate your enemies with the BF-4F Warrior Mini-Pet traveling by your side as you adventure across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="363" id2="233580" version="1065353216">Thank you for joining the Star Wars™: The Old Republic™ community!
+
+Enclosed is a unique in-game N4-SW Runner mini-pet reward as our thanks for joining Star Wars: The Old Republic and starting your story-driven Star Wars saga. Intimidate your enemies with the N4-SW Runner Mini-Pet traveling by your side as you adventure across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="364" id2="233580" version="1065353216">Seeker Droid Item</text>
+		<text bitflag="321" id1="365" id2="233580" version="1065353216">The attached item was retrieved by your Seeker Droid while your inventory was full.</text>
+		<text bitflag="321" id1="366" id2="233580" version="1065353216">Thank you for your purchase of Star Wars™: The Old Republic™- Rise of the Hutt Cartel.</text>
+		<text bitflag="321" id1="367" id2="233580" version="1065353216">Enclosed are your special pre-order item rewards as a thank you for your purchase! Simply click on the items to accept them and have fun as you continue your adventure in Rise of the Hutt Cartel.
+ 
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="372" id2="233580" version="1065353216">Welcome to Rise of the Hutt Cartel!</text>
+		<text bitflag="321" id1="373" id2="233580" version="1065353216">You now have access to the Digital Expansion: Rise of the Hutt Cartel.
+
+Advance to Level 55 and access the planet of Makeb--a world on the brink of destruction, ruled by the ruthless Hutt Cartel! Embark on a story-driven adventure to uncover the mystery behind the conflict of Makeb. Along the way, you will jump into missions using two new technology devices--Macrobinoculars and Seeker Droids--that offer you valuable benefits and rewards! 
+
+To start your journey, once you've reached Level 50, click on your ship's Holoterminal to begin your Rise of the Hutt Cartel adventures! 
+
+NOTE: Although completion of your Chapter 3 class story arc isn't required, the storyline will contain spoilers for anyone who hasn't done so.
+
+Enjoy, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="375" id2="233580" version="1065353216">This mail is being reported.</text>
+		<text bitflag="321" id1="376" id2="233580" version="1065353216">Friends of SWTOR Reward: F5-SC Fighter</text>
+		<text bitflag="321" id1="377" id2="233580" version="1065353216">Another friend you referred has now become a subscriber to Star Wars™: The Old Republic™. Please accept this gift as our way of saying &quot;thanks!&quot; 
+
+Enclosed is your very own &quot;F5-SC Fighter&quot; Battle Droid Mini-Pet as a reward for your support. Fight alongside this Battle Droid to intimidate the enemies you encounter as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="378" id2="233580" version="1065353216">Wartime Correspondent Title</text>
+		<text bitflag="321" id1="379" id2="233580" version="1065353216">Thanks for participating in the Galactic Guild Battle Series!  
+
+Enclosed is a special &quot;Wartime Correspondent&quot; title as a reward for your guild's prowess in battle and living to tell about it. Use this item to grant your character the title and to proudly show your status to other players as you continue your adventure in Star Wars™: The Old Republic™. 
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="380" id2="233580" version="1065353216">Welcome to the Friends of Star Wars™: The Old Republic™ program!
+
+Enclosed is a complimentary Jumpstart Bundle, an exclusive gift with XP Boosts and items to expedite your adventures.
+
+To enjoy unlimited access to game content and features, you can become a Subscriber by visiting www.swtor.com/buy#subscribe. If you subscribe within 14 days from joining Friends of SWTOR, your referring friend earns rewards!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="381" id2="233580" version="1065353216">Welcome to the Friends of Star Wars™: The Old Republic™ program!
+
+Enclosed is a complimentary Preferred Friends Bundle, an exclusive gift with special unlocks and customization options to enhance your adventures.
+
+To enjoy unlimited access to game content and features, you can reactivate your subscription by visiting www.swtor.com/buy#subscribe. If you subscribe within 14 days from joining Friends of SWTOR, your referring friend earns rewards!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="382" id2="233580" version="1065353216">Friends of SWTOR Preferred Friends Bundle</text>
+		<text bitflag="321" id1="383" id2="233580" version="1065353216">Friends of SWTOR Jumpstart Bundle</text>
+		<text bitflag="321" id1="384" id2="233580" version="1065353216">Friends of SWTOR Reward: J9-BH Mercenary Battle Droid</text>
+		<text bitflag="321" id1="385" id2="233580" version="1065353216">Friends of SWTOR Reward: BF-4F Warrior Battle Droid</text>
+		<text bitflag="321" id1="386" id2="233580" version="1065353216">Friends of SWTOR Reward: 2C-TA Commander Battle Droid</text>
+		<text bitflag="321" id1="387" id2="233580" version="1065353216">Friends of SWTOR Reward: F5-SC Fighter Battle Droid</text>
+		<text bitflag="321" id1="388" id2="233580" version="1065353216">Another friend you referred has now become a subscriber to Star Wars™: The Old Republic™. Please accept this gift as our way of saying &quot;thanks!&quot; 
+
+Enclosed is your very own &quot;F5-SC Fighter&quot; Battle Droid Mini-Pet as a reward for your support. Fight alongside this Battle Droid to intimidate the enemies you encounter as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="389" id2="233580" version="1065353216">Another friend you referred has now become a subscriber to Star Wars™: The Old Republic™. Please accept this gift as our way of saying &quot;thanks!&quot; 
+
+Enclosed is your very own &quot;2C-TA Commander&quot; Battle Droid Mini-Pet as a reward for your support. Fight alongside this Battle Droid to intimidate the enemies you encounter as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="390" id2="233580" version="1065353216">Another friend you referred has now become a subscriber to Star Wars™: The Old Republic™. Please accept this gift as our way of saying &quot;thanks!&quot; 
+
+Enclosed is your very own &quot;BF-4F Warrior&quot; Battle Droid Mini-Pet as a reward for your support. Fight alongside this Battle Droid to intimidate the enemies you encounter as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="391" id2="233580" version="1065353216">Another friend you referred has now become a subscriber to Star Wars™: The Old Republic™. Please accept this gift as our way of saying &quot;thanks!&quot; 
+
+Enclosed is your very own &quot;J9-BH Mercenary&quot; Battle Droid Mini-Pet as a reward for your support. Fight alongside this Battle Droid to intimidate the enemies you encounter as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="392" id2="233580" version="1065353216">SWTOR Item Reward (AMAZON)</text>
+		<text bitflag="321" id1="393" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins code.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your new &quot;Umbral Blurrg&quot; pet will follow you loyally as you and your friends continue your adventures.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="394" id2="233580" version="1065353216">Skirmish</text>
+		<text bitflag="321" id1="395" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="396" id2="233580" version="1065353216">&lt;&lt;1&gt;&gt;: Here is a reward item from the skirmish.</text>
+		<text bitflag="321" id1="397" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic™ community!
+
+Enclosed is a special in-game reward, the &quot;Tundra Nekarr Cat.&quot; This fierce and loyal feline will follow as you explore the galaxy and jump into new missions and adventures! 
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="398" id2="233580" version="1065353216">This recipient is not a friend, guild member, or legacy character. Send this message anyway?</text>
+		<text bitflag="321" id1="399" id2="233580" version="1065353216">Mail</text>
+		<text bitflag="321" id1="402" id2="233580" version="1065353216">Your new &quot;Join the Battle&quot; Rewards!</text>
+		<text bitflag="321" id1="403" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community! 
+
+Enclosed are special in-game &quot;Join the Battle&quot; promotional rewards as a thank you for being a part of our galaxy! Your new &quot;JA-3 Subversive Battle Droid&quot; will follow you loyally into battle as you attempt to subvert your enemies! Plus, use your new JA-3 Speeder to move quickly across the galaxy in style as you jump into new missions and adventures. Enjoy!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="404" id2="233580" version="1065353216">&quot;The Risen&quot; Title</text>
+		<text bitflag="321" id1="405" id2="233580" version="1065353216">Enclosed is a new title, &quot;The Risen,&quot; as our thanks for your purchase of the Digital Expansion: Rise of the Hutt Cartel. Use this item to grant your character the title as you continue your adventure in Star Wars™: The Old Republic™. 
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="406" id2="233580" version="1065353216">BestBuy Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="407" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase!  Your new &quot;Starship Mini-Ship Model NovaDive&quot; will fly by your side as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="408" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase!  Your new &quot;Starship Mini-Ship Model S-13 Sting&quot; will fly by your side as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="409" id2="233580" version="1065353216">Amazon Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="410" id2="233580" version="1065353216">Welcome to Galactic Starfighter - Subscriber Early Access.  Your rewards are here!</text>
+		<text bitflag="321" id1="411" id2="233580" version="1065353216">Thank you for being part of our new Galactic Starfighter community!  You have received special Starship rewards. As a Subscriber on November 1, 2013, you are receiving a Gunship Early Unlock and the &quot;Daring&quot; series of exclusive paint jobs (Republic and Imperial versions).  Additionally, as a Subscriber on December 3, 2013, you also receive exclusive paint jobs for the Scout and Strike Fighter (Republic and Imperial versions).  To claim these items you must visit the Galactic Starfighter Hangar by logging into the game, locating the in-game mini-map on the lower right corner of your screen, and clicking on the Starship icon on the left side of the map.   We also have four pilot suits and two titles waiting for you which can be claimed via this email by right clicking on each item below to accept them into your Inventory.  Then get ready to take your battle to space in our Galactic Starfighter Digital Expansion!</text>
+		<text bitflag="321" id1="412" id2="233580" version="1065353216">Welcome to Galactic Starfighter - Subscriber Early Access.  Your rewards are here!</text>
+		<text bitflag="321" id1="413" id2="233580" version="1065353216">Thank you for being part of our new Galactic Starfighter community!  You have received special Starship rewards. As a Subscriber on December 1, 2013, you are receiving the exclusive &quot;Valiant&quot; series paint jobs for the Scout and Strike Fighter (Republic and Imperial versions).  To claim these items you must visit the Galactic Starfighter Hangar by logging into the game, locating the in-game mini-map on the lower right corner of your screen, and clicking on the Starship icon on the left side of the map.   We also have four pilot suits and two titles waiting for you which can be claimed via this email by right clicking on each item below to accept them into your Inventory.  Then get ready to take your battle to space in our Galactic Starfighter Digital Expansion!</text>
+		<text bitflag="321" id1="414" id2="233580" version="1065353216">You have received an Anniversary Reward!</text>
+		<text bitflag="321" id1="415" id2="233580" version="1065353216">Thank you for being part of our community this year!
+
+You have received a special Scout Starship paint job (Republic and Imperial versions) in celebration of the two year anniversary of Star Wars™: The Old Republic™. 
+
+To claim this item, you must visit the Galactic Starfighter Hangar by logging into the game, locating the in-game mini-map on the lower right corner of your screen, and clicking on the Starship icon on the left side of the map. Then get ready to take your battle to space in our Galactic Starfighter Digital Expansion!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="416" id2="233580" version="1065353216">Welcome to Galactic Starfighter - Early Access Program.  Your rewards are here!</text>
+		<text bitflag="321" id1="417" id2="233580" version="1065353216">Thank you for being part of our new Galactic Starfighter community!   We have four pilot suits and a title waiting for you which can be claimed via this email by right clicking on each item below to accept them into your Inventory.  Then get ready to take your battle to space in our Galactic Starfighter Digital Expansion!</text>
+		<text bitflag="321" id1="418" id2="233580" version="1065353216">Welcome to the Galactic Starfighter.  Your rewards are here!</text>
+		<text bitflag="321" id1="419" id2="233580" version="1065353216">Thank you for being part of our new Galactic Starfighter community!  You have two pilot suits waiting for you, the Imperial Battle Ace Pilot Suit and the Republic Squadron Commander Pilot Suit. These rewards can be claimed via this email by right clicking on each item below to accept them into your Inventory.  Then get ready to take your battle to space in our Galactic Starfighter Digital Expansion!</text>
+		<text bitflag="321" id1="420" id2="233580" version="1065353216">Test Starfighter Pass Mail</text>
+		<text bitflag="321" id1="421" id2="233580" version="1065353216">Test Starfighter Pass Mail:  Attached are various Starfighter passes to test.</text>
+		<text bitflag="321" id1="422" id2="233580" version="1065353216">You have received an Anniversary Reward!</text>
+		<text bitflag="321" id1="423" id2="233580" version="1065353216">Thank you for being part of our community this year!
+
+You have received a special crate of Second Anniversary Fireworks as well as YR-02 Imperial and Republic Scout Paint Jobs in celebration of the two year anniversary of Star Wars™: The Old Republic™.  
+
+Once you claim these items, click on them in your inventory to unlock the paint jobs. Once unlocked, you can find the paint jobs in the Galactic Starfighter Hangar by locating the in-game mini-map on the lower right corner of your screen, and clicking on the Starship icon on the left side of the map. Then get ready to take your battle to space in our Galactic Starfighter Digital Expansion!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="424" id2="233580" version="1065353216">WALMART Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="425" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase!  Your new Imperial Bomber &quot;M-7 Razorwire&quot; Starship Mini-Ship will fly by your side as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="426" id2="233580" version="1065353216">Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="427" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase!  Your new Imperial Scout &quot;S-12 Blackbolt&quot; Mini-Ship will fly by your side as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="428" id2="233580" version="1065353216">GAMESTOP Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="429" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase!  Your new Republic Scout &quot;Flashfire&quot; Starship Mini-Ship will fly by your side as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="430" id2="233580" version="1065353216">SWTOR New Account Reward</text>
+		<text bitflag="321" id1="431" id2="233580" version="1065353216">Welcome to the Star Wars™: The Old Republic™ community!
+
+Enclosed are two special in-game rewards as a thank you for joining our community from Amazon!  Jump start your adventure with a Major Experience Boost Pack, including 5 boosts each of which increase experience gained by 25% for 3  hours. Plus you can proudly display your new title, Conscript, as you start you own personal saga!  
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="432" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase!  Your new Republic Strike Fighter &quot;FT-6 Pike&quot; Starship Mini-Pet will fly by your side as you travel the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="433" id2="233580" version="1065353216">Community Cantina Tour Bonus Item!</text>
+		<text bitflag="321" id1="434" id2="233580" version="1065353216">You've successfully redeemed your Star Wars™: The Old Republic™ event code!
+
+Enclosed is a special in-game item for your enjoyment.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="435" id2="233580" version="1065353216">TARGET Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="436" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+ 
+Enclosed is a special in-game reward as a thank you for your purchase!  Your new Imperial Gunship &quot;GSS-3 Mangler&quot; Starfighter Mini-Ship will fly by your side as you travel the galaxy.  Known as the &quot;Sniper&quot; of the Starfighter series, your fighter pet ensures that all who see you will know that you are not only a brave and stealthy warrior!
+ 
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="437" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+As part of the Galactic Giving Promotion, enclosed is a special in-game reward as a thank you for being a Subscriber. The Lucky-77 Swoop has a chance to hit the jackpot when summoned, kicking off a fun animation that tosses holographic coins everywhere. Get ready to traverse the galaxy with this exclusive green and gold speeder!
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="438" id2="233580" version="1065353216">Lucky-77 Speeder Subscriber Reward</text>
+		<text bitflag="321" id1="439" id2="233580" version="1065353216">May the Fourth 'MT-4T Astromech Droid' Reward</text>
+		<text bitflag="321" id1="440" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+In honor of May the Fourth, enclosed is a special in-game reward to show our appreciation to you, our players.  Your new adventurous MT-4T Astromech Droid Mini-Pet will follow you courageously throughout your journeys.
+
+Have fun, and May the Fourth be with you!</text>
+		<text bitflag="321" id1="445" id2="233580" version="1065353216">&quot;Heliotropic Subteroth&quot; Mini-Pet and &quot;The Intrepid&quot; Character Title Rewards</text>
+		<text bitflag="321" id1="446" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+As a thank you for being a Subscriber as of May 11, 2014, enclosed are two special in-game rewards. Proudly show off your ferocious new &quot;Heliotropic Subteroth&quot; Mini-Pet and Character Title &quot;The Intrepid&quot; as you join with friends to fight heroic battles!
+
+The remaining May 11th Subscriber rewards including the Nar Shaddaa Sky Palace, Stronghold Label, and Character Title will be delivered at the start of Galactic Strongholds Subscriber Early Access on August 19, 2014.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="447" id2="233580" version="1065353216">Welcome to Galactic Strongholds - Early Access Program.  Your rewards are here!</text>
+		<text bitflag="321" id1="448" id2="233580" version="1065353216">Thank you for being part of our new Galactic Strongholds community! 
+
+As a Subscriber on July 15, 2014, you have received special rewards including your own Nar Shaddaa Sky Palace Stronghold with three rooms unlocked, the Character Title &quot;The Illustrious,&quot; and the Stronghold Label &quot;Galactic Stronghold.&quot; Your Nar Shaddaa Stronghold with three additional rooms along with the Stronghold Label &quot;Galactic Stronghold&quot; will be unlocked in your Stronghold Management window and your Character Title &quot;The Illustrious&quot; can be claimed by right clicking on the item below and accepting it into your inventory.
+
+Happy decorating and welcome home!</text>
+		<text bitflag="321" id1="449" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your Zonian Monkey-Lizard Mini-Pet will stay by your side as you travel the galaxy. Curious by nature, they love to explore--but be careful, as some have been known to have a temper.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="450" id2="233580" version="1065353216">Welcome to Galactic Strongholds - Subscriber Early Access.  Your rewards are here!</text>
+		<text bitflag="321" id1="451" id2="233580" version="1065353216">Thank you for being part of our new Galactic Strongholds community!
+
+As a Subscriber during the Subscriber Early Access period, you have received special rewards including your own Nar Shaddaa Sky Palace Stronghold, the Character Title &quot;The Illustrious,&quot; and the Stronghold Label &quot;Galactic Stronghold.&quot; Your Nar Shaddaa Stronghold along with the Stronghold Label &quot;Galactic Stronghold&quot; will be unlocked in your Stronghold Management window and your Character Title &quot;The Illustrious&quot; can be claimed by right clicking on the item below and accepting it into your inventory.
+
+Happy decorating and welcome home!</text>
+		<text bitflag="321" id1="452" id2="233580" version="1065353216">Welcome to Galactic Strongholds - Early Access Program.  Your rewards are here!</text>
+		<text bitflag="321" id1="453" id2="233580" version="1065353216">Thank you for being part of our new Galactic Strongholds community!
+
+As part of the Preferred Early Access promotional period, you have received special rewards including the Character Title &quot;The Illustrious&quot; and the Stronghold Label &quot;Galactic Stronghold.&quot; Your new Stronghold Label &quot;Galactic Stronghold&quot; will be unlocked in your Stronghold Management window and your Character Title &quot;The Illustrious&quot; can be claimed by right clicking on the item below and accepting it into your inventory.
+
+Happy decorating and welcome home!</text>
+		<text bitflag="321" id1="454" id2="233580" version="1065353216">Welcome to Galactic Strongholds.  Your rewards are here!</text>
+		<text bitflag="321" id1="455" id2="233580" version="1065353216">Thank you for being part of our new Galactic Strongholds community!
+
+You have received special rewards including the Character Title &quot;The Illustrious&quot;. Your Character Title &quot;The Illustrious&quot; can be claimed by right clicking on the item below and accepting it into your inventory.
+
+Happy decorating and welcome home!</text>
+		<text bitflag="321" id1="456" id2="233580" version="1065353216">Welcome to Galactic Strongholds - Subscriber Early Access.  Your rewards are here!</text>
+		<text bitflag="321" id1="457" id2="233580" version="1065353216">Thank you for being part of our new Galactic Strongholds community!
+
+As a Subscriber on May 11, 2014, you have received special rewards including your own Nar Shaddaa Sky Palace Stronghold with five rooms unlocked, the Character Title &quot;The Illustrious&quot; and the Stronghold Label &quot;Galactic Stronghold.&quot; Your Nar Shaddaa Stronghold with five additional rooms along with the Stronghold Label &quot;Galactic Stronghold&quot; will be unlocked in your Stronghold Management window and your Character Title &quot;The Illustrious&quot; can be claimed by right clicking on the item below and accepting it into your inventory.
+
+Happy decorating and welcome home!</text>
+		<text bitflag="321" id1="458" id2="233580" version="1065353216">Thank you for subscribing.  Your reward is here!</text>
+		<text bitflag="321" id1="459" id2="233580" version="1065353216">Thank you for becoming a Star Wars™: The Old Republic™ subscriber! 
+ 
+You have received the special Carbonite Chamber that will rapidly heal your character while not in combat. The Carbonite Chamber can be claimed by right clicking on the item below and accepting it into your inventory.
+ 
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="460" id2="233580" version="1065353216">Welcome to Shadow of Revan</text>
+		<text bitflag="321" id1="461" id2="233580" version="1065353216">Congratulations! You now have access to the Shadow of Revan Digital Expansion.
+
+Your epic new story and advancement to Level 60 start with the Forged Alliances prologue, which introduces you to powerful new allies who join you on a deadly course through iconic worlds in order to stop an emerging galactic threat!
+
+Next, travel to Rishi, a tropical pirate haven at the edge of the galaxy where a grand mystery awaits and chaos abounds--all leading to the imposing jungles of Yavin 4 and the final fate of the Order of Revan!
+
+To begin this next stage in your saga, activate your ship's Mission Console once you've reached Level 55 and select &quot;Shadow of Revan: Prelude&quot;.
+
+SPOILER WARNING: The Forged Alliances and Shadow of Revan storylines contain spoilers for anyone who has not completed pre-55 content.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="462" id2="233580" version="1065353216">Your Subscriber Reward: Black-Purple Striated Color Crystals</text>
+		<text bitflag="321" id1="463" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+As part of the Choose Your Path promotion, you have received special Advanced Black-Purple Striated Color Crystals to thank you for being a Subscriber. Use this set of four color crystals to change the color of your weapon to a unique Black-Purple Striated color and to gain additional stats that will make you stand out in battle.
+
+Your new Color Crystals can be claimed by right-clicking on the item below and accepting it into your inventory.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="466" id2="233580" version="1065353216">New York Cantina Tour Bonus!</text>
+		<text bitflag="321" id1="467" id2="233580" version="1065353216">Seattle Cantina Tour Bonus!</text>
+		<text bitflag="321" id1="468" id2="233580" version="1065353216">Germany Cantina Tour Bonus!</text>
+		<text bitflag="321" id1="469" id2="233580" version="1065353216">San Diego Cantina Tour Bonus!</text>
+		<text bitflag="321" id1="470" id2="233580" version="1065353216">Anaheim Cantina Tour Bonus!</text>
+		<text bitflag="321" id1="471" id2="233580" version="1065353216">Thank you for attending the Community Cantina Tour event held in Germany, or for having an awesome friend who shared a code with you! With your code redemption complete, please enjoy the attached Cantina Pack. This pack contains the exclusive Prinawe Collective along with another random item just for this character.
+ 
+Each event held in 2015 will have its own unique vehicle, so be sure to try to attend them all. Thank you for your support and may the Force™ be with you.
+ 
+-The Community Team</text>
+		<text bitflag="321" id1="472" id2="233580" version="1065353216">Thank you for attending the Community Cantina Tour event held in Seattle, or for having an awesome friend who shared a code with you! With your code redemption complete, please enjoy the attached Cantina Pack. This pack contains the exclusive Prinawe Aggregate along with another random item just for this character.
+ 
+Each event held in 2015 will have its own unique vehicle, so be sure to try to attend them all. Thank you for your support and may the Force™ be with you.
+ 
+-The Community Team</text>
+		<text bitflag="321" id1="473" id2="233580" version="1065353216">Thank you for attending the Community Cantina Tour event held in New York, or for having an awesome friend who shared a code with you! With your code redemption complete, please enjoy the attached Cantina Pack. This pack contains the exclusive Prinawe Union along with another random item just for this character.
+ 
+Each event held in 2015 will have its own unique vehicle, so be sure to try to attend them all. Thank you for your support and may the Force™ be with you.
+ 
+-The Community Team</text>
+		<text bitflag="321" id1="474" id2="233580" version="1065353216">Thank you for attending the Community Cantina Tour event held in San Diego, or for having an awesome friend who shared a code with you! With your code redemption complete, please enjoy the attached Cantina Pack. This pack contains the exclusive Prinawe Junction along with another random item just for this character.
+ 
+Each event held in 2015 will have its own unique vehicle, so be sure to try to attend them all. Thank you for your support and may the Force™ be with you.
+ 
+-The Community Team</text>
+		<text bitflag="321" id1="475" id2="233580" version="1065353216">Thank you for attending the Community Cantina Tour event held in Anaheim, or for having an awesome friend who shared a code with you! With your code redemption complete, please enjoy the attached Cantina Pack. This pack contains the exclusive Prinawe Congregate along with another random item just for this character.
+ 
+Each event held in 2015 will have its own unique vehicle, so be sure to try to attend them all. Thank you for your support and may the Force™ be with you.
+ 
+-The Community Team</text>
+		<text bitflag="321" id1="476" id2="233580" version="1065353216">Claim Your PIRATE ASTROMECH PET</text>
+		<text bitflag="321" id1="477" id2="233580" version="1065353216">Thank you for joining the Star Wars™: The Old Republic™ community!
+
+In honor of Star Wars Celebration, and your participation in the RAPTR community, enclosed is a special in-game mini-pet to welcome you to The Old Republic. Your fearsome new D4-V3 Pirate Astromech Droid Mini-Pet will follow you courageously throughout your journey.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="478" id2="233580" version="1065353216">Your N4-SW Battle Droid</text>
+		<text bitflag="321" id1="479" id2="233580" version="1065353216">Thank you for joining the Star Wars™: The Old Republic™ community!
+
+In appreciation of your interest in Shadow Realms™, enclosed is a special in-game mini-pet with our thanks to you for your support. Your new adventurous N4-SW Battle Droid Mini-Pet will follow you courageously through your journey across the galaxy.
+
+Have fun as you step into your own Star Wars saga, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="480" id2="233580" version="1065353216">Your M4-1S Astromech Droid</text>
+		<text bitflag="321" id1="481" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+In honor of May the Fourth, enclosed is a special in-game reward to show our appreciation to you, our players. Your new adventurous M4-1S Astromech Droid Mini-Pet will follow you courageously through your journey across the galaxy.
+
+Follow the path to Legendary, and may the Fourth be with you!</text>
+		<text bitflag="321" id1="482" id2="233580" version="1065353216">WALMART Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="483" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your personal Juvenile Bull Rancor Mini-Pet will run by your side as you embark on adventures across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="484" id2="233580" version="1065353216">AMAZON Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="485" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your personal Juvenile Irradiated Rancor Mini-Pet will run by your side as you embark on adventures across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="486" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your personal Juvenile Mountain Rancor Mini-Pet will run by your side as you embark on adventures across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="487" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your personal Juvenile War Rancor Mini-Pet will run by your side as you adventure across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="488" id2="233580" version="1065353216">TARGET Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="489" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your personal Juvenile Canyon Rancor Mini-Pet will run by your side as you embark on adventures across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="490" id2="233580" version="1065353216">GameStop Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="491" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase!  Your personal Juvenile Tyrant Rancor Mini-Pet will run by your side as you embark on adventures across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="492" id2="233580" version="1065353216">BESTBUY Cartel Coins Mini-Pet Reward</text>
+		<text bitflag="321" id1="493" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your personal Juvenile Nocturnal Rancor Mini-Pet will run by your side as you embark on adventures across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="494" id2="233580" version="1065353216">IN APPRECIATION OF YOUR PURCHASE OF CARTEL COINS - YOU HAVE BEEN REWARDED WITH A NEW MINI-PET</text>
+		<text bitflag="321" id1="495" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your personal Juvenile Savannah Rancor Mini-Pet will run by your side as you embark on adventures across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="496" id2="233580" version="1065353216">Thank you for your purchase of a Star Wars™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase! Your personal Juvenile Marsh Rancor Mini-Pet will run by your side as you embark on adventures across the galaxy.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="497" id2="233580" version="1065353216">Your KotoR-Inspired Swoop!</text>
+		<text bitflag="321" id1="498" id2="233580" version="1065353216">Thank you for being part of our new Knights of the Fallen Empire community! 
+
+As part of the Subscriber Rewards promotion, you have received the Knights of the Old Republic-inspired Swoop Bike.  Escape your enemies in epic style as you adventure across the galaxy.  Good luck as you embark on your new journey!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with  you!</text>
+		<text bitflag="321" id1="499" id2="233580" version="1065353216">Battlefront Rewards from SWTOR!</text>
+		<text bitflag="321" id1="500" id2="233580" version="1065353216">Thank you for purchasing Star Wars™: Battlefront and for being part of the Star Wars™: The Old Republic community! 
+
+To celebrate the launch of Star Wars™: Battlefront, you have received the Ashfall Tauntaun Mount and Thermal Retention Suit, available for use at Level 10.  From the icy planet of Hoth to the sands of Tatooine, battle your way through the galaxy in style with this Hoth-inspired mount and suit! You can claim your in-game rewards by right clicking on the items below to accept it into your inventory.
+
+Plus, all Subscribers can now jump into the latest Knights of the Fallen Empire Digital Expansion as The Outlander. Step into a new story-driven starting point with a free customizable Level 60 character! Find out more at www.swtor.com/fallen-empire.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="501" id2="233580" version="1065353216">Fallen Empire Early Access!</text>
+		<text bitflag="321" id1="502" id2="233580" version="1065353216">Thank you for being part of our new Knights of the Fallen Empire community! 
+
+As a Bonus for being a Subscriber throughout the Subscriber Rewards promotion, you can now enjoy up to seven (7) days of Early Access to the new Knights of the Fallen Empire expansion.  It's time to face your destiny. Good luck as you embark on your new adventure!
+
+May the Force™ be with  you!</text>
+		<text bitflag="321" id1="503" id2="233580" version="1065353216">Your Nico Okarr Companion!</text>
+		<text bitflag="321" id1="504" id2="233580" version="1065353216">Your Nico Okarr Companion is here!
+ 
+As part of the Premium Player rewards program, you have unlocked the legendary gunslinger Companion, Nico Okarr. An infamous smuggler with a bottomless bag of tricks, Nico is the perfect ally for a tight spot. 
+ 
+You can encounter Nico and learn more about him after completing Chapter Nine of Knights of the Fallen Empire, but if you'd like to begin traveling with him immediately, you can use the attached item to unlock Nico as a Companion at any time. Using this item will not prevent you from playing through his recruitment mission.
+ 
+Nico disappeared from the Galactic stage after the return of the Sith Empire. However, there have been sightings of a man fitting Nico's description frequenting cantinas across Wild Space. If anyone can convince the captain of the Redshifter to come out of retirement, it's you! Keep an eye out for him during your adventure!
+ 
+May the Force™ be with  you!</text>
+		<text bitflag="321" id1="505" id2="233580" version="1065353216">Your Nico Okarr Duster!</text>
+		<text bitflag="321" id1="506" id2="233580" version="1065353216">Thank you for being part of our new Knights of the Fallen Empire community! 
+
+As part of the Subscriber Rewards promotion, you have received the Nico Okarr Duster Coat.  You can be sure that wearing this swashbuckling duster sets you apart from other heroes.  Good luck as you embark on your new adventure!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with  you!</text>
+		<text bitflag="321" id1="507" id2="233580" version="1065353216">Your Nico Okarr Blasters!</text>
+		<text bitflag="321" id1="508" id2="233580" version="1065353216">Thank you for being part of our new Knights of the Fallen Empire community! 
+
+As part of the Subscriber Rewards promotion, you have received the Nico Okarr Blaster set.  A stylish weapon set for the enthusiastic gunslinger, you can keep it for yourself or give to your Companion. Good luck as you embark on your new adventure!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with  you!</text>
+		<text bitflag="321" id1="509" id2="233580" version="1065353216">Thank you for your purchase of a STAR WARS: The Old Republic Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase!  Your personal Vorn Tiger Mini-Pet, distinguished by their horns, will run by your side as you embark on epic adventures across the galaxy.  
+
+May the Force™ be with  you!</text>
+		<text bitflag="321" id1="510" id2="233580" version="1065353216">Your Cartel Coins Mini-Pet!</text>
+		<text bitflag="321" id1="511" id2="233580" version="1065353216">Thank you for your purchase of a STAR WARS™: The Old Republic™ Cartel Coins card.
+
+Enclosed is a special in-game reward as a thank you for your purchase!  Your personal Snowline Vorn Tiger Mini-Pet, distinguished by their horns, will run by your side as you embark on epic adventures across the galaxy.  
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="512" id2="233580" version="1065353216">Automatic Item Grant</text>
+		<text bitflag="321" id1="513" id2="233580" version="1065353216">Your items are attached below!</text>
+		<text bitflag="321" id1="514" id2="233580" version="1065353216">Your Makeb achievement reward</text>
+		<text bitflag="321" id1="515" id2="233580" version="1065353216">Thank you for being a part of the Star Wars: The Old Republic community! 
+ 
+As you completed the [Makeb] Staged Weekly achievement for 'Making the Connection' or 'Well Connected' before they were retired in Game Update 4.0, we have enclosed a Makeb Gazebo for you to place in your Stronghold as a special thanks.
+ 
+Have fun, and may the Force be with you!</text>
+		<text bitflag="321" id1="518" id2="233580" version="1065353216">Welcome to Knights of the Fallen Empire</text>
+		<text bitflag="321" id1="519" id2="233580" version="1065353216">Congratulations! You now have access to the Knights of the Fallen Empire Digital Expansion.
+
+For those still preparing to battle the galaxy's newest threat, the Eternal Empire, we've streamlined our core leveling experience tremendously--not only will you level faster, but your adventures focus on those missions that truly define your character.
+
+If you can't wait to experience the storyline for Knights of the Fallen Empire, we've given all our subscribers the ability to create a new level 60 character for free. You can do so at Character Select.
+
+For those of you who already have a level 60 character and have completed your class story arc, your epic adventure continues as you travel deep into Wild Space and witness the power of the Eternal Empire firsthand! Will you be able to stop this mysterious new enemy?
+
+But you won't have to face it alone--your Companions are more powerful than ever. Not only will new personalities join your crew, your Companions also have the ability to adapt to whatever needs you have, be it as a tank, a healer, or a damage dealer. 
+
+When you're ready to face the Eternal Empire, go to your ship's Mission Console.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="520" id2="233580" version="1065353216">Congratulations Heroes and Champions!
+
+As a way of saying thanks for your contributions to Answers HQ, you've been granted access to a very special exclusive pet. You should find it attached to the mail; be sure to show it off!
+
+We are extremely grateful for the assistance you give to the community over on AHQ.  We hope this gift will go some way to showing our appreciation for what the best of our community members can achieve. 
+
+Thank you again and may the Force™ be with you!
+
+The AHQ Team</text>
+		<text bitflag="321" id1="521" id2="233580" version="1065353216">AHQ Exclusive Pet</text>
+		<text bitflag="321" id1="522" id2="233580" version="1065353216">Thank you for being part of the Knights of the Fallen Empire community! 
+
+As part of the Subscriber Rewards promotion, you will be able to recruit HK-55 as your Companion!  As your loyal bodyguard and personal Assassin Droid, HK-55 is sure to be a prized addition to your Alliance. 
+
+To recruit HK-55, you must first complete Chapters 1-9 in Knights of the Fallen Empire as well as the first Alliance Alert mission &quot;To Find a Findsman.&quot; Then, look for the HK-55 &quot;Arma Rasa&quot; Alliance Alert that puts you on a mission to recruit HK-55. To see Alliance Alerts, click &quot;N&quot; to open your Companions and Contacts window and check the Alerts tab.
+
+Good luck embarking on your recruitment mission!
+
+May the Force™ be with  you!</text>
+		<text bitflag="321" id1="523" id2="233580" version="1065353216">Your HK-55 Companion Reward</text>
+		<text bitflag="321" id1="525" id2="233580" version="1065353216">Thank you for being part of the Knights of the Fallen Empire community! 
+
+As part of the Subscriber Rewards promotion, you have received the HK-55-inspired Jetpack. Built to withstand the harshest of conditions, this powerful Jetpack is your key to quickly hovering your way through the galaxy!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="526" id2="233580" version="1065353216">Your HK-55 Jetpack Reward</text>
+		<text bitflag="321" id1="527" id2="233580" version="1065353216">TR-U4 Astromech Droid Mini-Pet</text>
+		<text bitflag="321" id1="528" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic community!
+
+Enclosed is a special in-game reward, the &quot;TR-U4 Astromech Droid Mini-Pet.&quot; This fierce and loyal Droid will follow as you explore the galaxy and embark on epic new heroic missions! 
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="529" id2="233580" version="1065353216">Your HK-55 Helmet Reward</text>
+		<text bitflag="321" id1="530" id2="233580" version="1065353216">Thank you for being part of the Knights of the Fallen Empire community! 
+
+As part of the Subscriber Rewards promotion, you have received the HK-55-inspired Helmet.  Whether in or out of battle, wearing this helmet gives you a legendary likeness to the iconic Assassin Droid himself!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="531" id2="233580" version="1065353216">Your HK-55 Weapon Set</text>
+		<text bitflag="321" id1="532" id2="233580" version="1065353216">Thank you for being part of the Knights of the Fallen Empire community! 
+
+As part of the Subscriber Rewards promotion, you have received the HK-55-inspired Weapon Set, including HK-55's Sniper Rifle, Blaster Pistol and Vibrosword. Whichever weapon you choose to take into battle, you'll be just as deadly as the iconic Assassin Droid himself!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="547" id2="233580" version="1065353216">Your New Reward!</text>
+		<text bitflag="321" id1="548" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic community!
+
+Enjoy your new reward as you adventure through the galaxy!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="549" id2="233580" version="1065353216">Your New Reward!</text>
+		<text bitflag="321" id1="550" id2="233580" version="1065353216">Your New Reward!</text>
+		<text bitflag="321" id1="551" id2="233580" version="1065353216">Your New Reward!</text>
+		<text bitflag="321" id1="552" id2="233580" version="1065353216">Your New Reward!</text>
+		<text bitflag="321" id1="553" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic community!
+
+Enjoy your new reward as you adventure through the galaxy!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="554" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic community!
+
+Enjoy your new reward as you adventure through the galaxy!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="555" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic community!
+
+Enjoy your new reward as you adventure through the galaxy!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="556" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic community!
+
+Enjoy your new reward as you adventure through the galaxy!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="557" id2="233580" version="1065353216">Your HK-55-Inspired Ship Droid Customization</text>
+		<text bitflag="321" id1="558" id2="233580" version="1065353216">Thank you for being part of the Knights of the Fallen Empire community!
+
+As part of the Subscriber Rewards promotion, you have received the new HK-55-inspired Ship Droid Customizations! Whether you're heading into battle with the courageous C2-N2 or the fearless 2V-R8, you can equip them with the awe-inspiring likeness of your favorite new Assassin Droid!
+
+Please follow the steps below to claim your in-game rewards:
+
+1. Right click on the two items below to accept them into your inventory. 
+2. Next, click on the Companions and Contacts icon in your Menu Bar (or press 'N' by default on your keyboard), locate either C2-N2 or 2V-R8 in the Followers list, and summon them as your Companion. ** Reminder: You will not be able to summon either Ship Droid if you are on your Player Ship.
+3. Now open your Character Sheet by either clicking the icon on your Menu Bar or pressing 'C' (by default) on your keyboard, and select the Companion tab at the bottom of this screen. 
+4. Either right click on the reward in your inventory or drag your new reward into your Ship Droid's Customization slot to equip the item.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="559" id2="233580" version="1065353216">Your M4-16 Astromech Droid</text>
+		<text bitflag="321" id1="560" id2="233580" version="1065353216">Thank you for being a part of the STAR WARS™: The Old Republic™ community! 
+
+ In honor of May the Fourth, enclosed is a special in-game reward to show our appreciation to you, our players. Your new adventurous M4-16 Zakuulan Astromech Droid Mini-Pet will follow you courageously through your journey across the galaxy.
+
+Follow the path to Legendary, and May the Fourth be with you!</text>
+		<text bitflag="321" id1="561" id2="233580" version="1065353216">Your Eternal Empire Patroller Reward!</text>
+		<text bitflag="321" id1="562" id2="233580" version="1065353216">Thank you for being part of the STAR WARS™: The Old Republic™ community!
+
+As part of the Subscriber Rewards promotion, you have received the Eternal Empire Patroller Mount. Inspired by Zakuulan design prototypes, this elegant piece of machinery will take you wherever your galactic adventures lead -- and is sure to draw the envious gaze of onlookers!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="563" id2="233580" version="1065353216">Major Experience Boost - 5-Pack</text>
+		<text bitflag="321" id1="564" id2="233580" version="1065353216">Thank you for being part of the Knights of the Fallen Empire community!
+
+You have received a 5-Pack of Major Experience Boosts to help jump-start your STAR WARS™ adventure! Each Boost increases experience gained from all sources by 25% for 3 hours!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="565" id2="233580" version="1065353216">Your EASW STAR WARS CELEBRATION PANEL REWARD IS HERE!</text>
+		<text bitflag="321" id1="566" id2="233580" version="1065353216">Thank you joining the EASW team at the Star Wars™ Celebration Panel.
+
+Star Wars™ fans are heroic! Claim your Heartless Pursuer's Armor Set and embark on an heroic adventure in STAR WARS™: The Old Republic™ in style. Be at the center of your own epic saga as you build your legacy and choose your path down the Light or Dark side of the Force™.
+ 
+To claim your new armor set, simply right-click the item below.
+ 
+May the Force™ be with You!</text>
+		<text bitflag="321" id1="567" id2="233580" version="1065353216">Your CELEBRATION Reward</text>
+		<text bitflag="321" id1="568" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic community!
+
+Celebrate this exciting year with a new reward, the HK-55 Celebration Stronghold Poster. Inspired by the loyal Droid's legacy, this poster celebrates the spirit of the Star Wars™: The Old Republic community -- fiercely loyal!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="569" id2="233580" version="1065353216">Your July Subscriber Reward - HK-55 Stronghold Poster</text>
+		<text bitflag="321" id1="570" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic community!
+
+As part of the Subscriber Rewards promotion, you have received the HK-55 Stronghold Poster. Inspired by the legendary Droid's prowess, this epic portrait will enhance the look of your Stronghold -- and is sure to draw the envy of all who visit!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="571" id2="233580" version="1065353216">Your Community Event Mount</text>
+		<text bitflag="321" id1="572" id2="233580" version="1065353216">Your Community Event Mount</text>
+		<text bitflag="321" id1="573" id2="233580" version="1065353216">Your Community Event Mount</text>
+		<text bitflag="321" id1="574" id2="233580" version="1065353216">Your Community Event Mount</text>
+		<text bitflag="321" id1="575" id2="233580" version="1065353216">Thank you for attending a Community event, or for having an awesome friend who shared a code with you! With your code redemption complete, please enjoy the attached Community exclusive mount.
+ 
+Thank you for your support and may the Force™ be with you.
+ 
+-The Community Team</text>
+		<text bitflag="321" id1="576" id2="233580" version="1065353216">Thank you for attending a Community event, or for having an awesome friend who shared a code with you! With your code redemption complete, please enjoy the attached Community exclusive mount.
+ 
+Thank you for your support and may the Force™ be with you.
+ 
+-The Community Team</text>
+		<text bitflag="321" id1="577" id2="233580" version="1065353216">Thank you for attending a Community event, or for having an awesome friend who shared a code with you! With your code redemption complete, please enjoy the attached Community exclusive mount.
+ 
+Thank you for your support and may the Force™ be with you.
+ 
+-The Community Team</text>
+		<text bitflag="321" id1="578" id2="233580" version="1065353216">Thank you for attending a Community event, or for having an awesome friend who shared a code with you! With your code redemption complete, please enjoy the attached Community exclusive mount.
+ 
+Thank you for your support and may the Force™ be with you.
+ 
+-The Community Team</text>
+		<text bitflag="321" id1="579" id2="233580" version="1065353216">Thank you for being part of the Star Wars™: The Old Republic community!
+
+As part of the Subscriber Rewards promotion, you have received the HK-55 Bonus Chapter: &quot;Shroud of Memory&quot;. Play as HK-55 in a daring escape from the hidden fortress of the renowned galactic villain known as... the Shroud!
+
+HK-55's adventure commences with the &quot;Shroud of Memory&quot; mission, which has been automatically added to your mission log. You must complete Chapter 9 of Knights of the Fallen Empire and the Alliance missions &quot;To Find a Findsman&quot; and &quot;Arma Rasa&quot; in order to begin.
+
+May the Force™ be with you... meatbag!</text>
+		<text bitflag="321" id1="580" id2="233580" version="1065353216">Your Subscriber Reward - HK-55 Bonus Story Chapter</text>
+		<text bitflag="321" id1="581" id2="233580" version="1065353216">Your KOTOR-Inspired Swoop Bike</text>
+		<text bitflag="321" id1="582" id2="233580" version="1065353216">Thank you for being part of the STAR WARS™: The Old Republic™ community!
+
+You have received the Knights of the Old Republic-inspired Swoop Bike. Escape your enemies in epic style as you adventure across the galaxy. Good luck as you embark on your journey!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="583" id2="233580" version="1065353216">Thank you for participating in the Dark vs. Light Event!
+
+In the battle between the dark and light side of the Force™, you've fought hard. You've been rewarded for your heroic efforts!
+
+You can claim your in-game reward(s) by right clicking on the items below to accept them into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="584" id2="233580" version="1065353216">Dark vs. Light Event Legacy Level Rewards</text>
+		<text bitflag="321" id1="585" id2="233580" version="1065353216">Dark vs. Light Event Valiant Level Rewards</text>
+		<text bitflag="321" id1="586" id2="233580" version="1065353216">Dark vs. Light Event Champion Level Rewards</text>
+		<text bitflag="321" id1="587" id2="233580" version="1065353216">Dark vs. Light Event Eternal Level Rewards</text>
+		<text bitflag="321" id1="588" id2="233580" version="1065353216">Dark vs. Light Event Legendary Level Rewards</text>
+		<text bitflag="321" id1="589" id2="233580" version="1065353216">Knights of the Eternal Throne Early Access</text>
+		<text bitflag="321" id1="590" id2="233580" version="1065353216">Thank you for being part of our new Knights of the Eternal Throne community! 
+
+As a Bonus for being a Subscriber throughout the Pre-Order Rewards promotion, you can now enjoy up to three (3) days of Early Access to the new Knights of the Eternal Throne expansion. Good luck as you embark on your new adventure to battle for control and rule the galaxy!
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="591" id2="233580" version="1065353216">Your Rapid Recon Walker Mount!</text>
+		<text bitflag="321" id1="592" id2="233580" version="1065353216">Thank you for being part of our new Knights of the Eternal Throne community! 
+
+As part of the Pre-Order Rewards promotion, you have received the Rapid Recon Walker Mount. Massive in size, the Rapid Recon Walker is your personal mount that allows you to tower over your enemies. Good luck as you embark on your new adventure to battle for control and rule the galaxy!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="593" id2="233580" version="1065353216">Your Shae Vizla Companion!</text>
+		<text bitflag="321" id1="594" id2="233580" version="1065353216">Your Shae Vizla Companion is here!
+ 
+As part of the Premium Player rewards program, you have unlocked the infamous mercenary companion, Shae Vizla. A powerful mandalorian warrior and bounty hunter, Shae is your new deadly ally in your fight to the Eternal Throne.
+ 
+You can recruit Shae as part of a mission in Knights of the Eternal Throne, but if you'd like to battle with Shae by your side immediately, you can use the attached item to unlock her as a companion at any time. Using this item will not prevent you from playing through her recruitment mission.
+ 
+Good luck as you embark on your new adventure to battle for control and rule the galaxy!
+ 
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="595" id2="233580" version="1065353216">5-Year Distinguished Veteran Reward</text>
+		<text bitflag="321" id1="596" id2="233580" version="1065353216">Thank you for being a part of the Star Wars: The Old Republic community as a continuous subscriber since launch!
+
+As we celebrate 5 years of the game and our amazing community, we want to show our special thanks with an exclusive Galactic Alliance Statue that you can proudly display in your Strongholds. We appreciate your support and happy #SWTOR5!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="597" id2="233580" version="1065353216">Welcome to Knights of the Eternal Throne</text>
+		<text bitflag="321" id1="598" id2="233580" version="1065353216">Congratulations! You now have access to the Knights of the Eternal Throne Digital Expansion.
+
+For those of you who already have a level 65 character and have completed Knights of the Fallen Empire, your epic adventure continues as you lead the armies of the Alliance against the evil Eternal Empire and its ruthless new leader, Empress Vaylin!
+
+If you do not have a level 65 character, we've given all our subscribers the ability to jump right into the action of Knights of the Eternal Throne with a new character at level 65. You can do so at Character Select.
+
+If you want to experience the epic saga from the very beginning, subscribers also have the ability to create a level 60 character and start the Outlander's adventure in Knights of the Fallen Empire.
+
+When you're ready to begin the fight for the Eternal Throne, click the PLAY button or use the Chapters menu (default Shift + E to open).
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="599" id2="233580" version="1065353216">Your New Reward!</text>
+		<text bitflag="321" id1="600" id2="233580" version="1065353216">The enclosed item was found by the lost and found department. We took a vote, and decided it's yours! Please feed him well.</text>
+		<text bitflag="321" id1="601" id2="233580" version="1065353216">Your Korrealis Viceroy Speeder</text>
+		<text bitflag="321" id1="602" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+You have received the impressive Korrealis Viceroy Speeder. From the sand dunes of Tatooine to the frigid ice lands of Hoth, traveling across the vast planets in Star Wars: The Old Republic just got a whole lot faster. Good luck as you embark on your journey!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+Have fun, and may the Force™ be with you!</text>
+		<text bitflag="321" id1="605" id2="233580" version="1065353216">Your M8-3R Astromech Droid Mini-Pet</text>
+		<text bitflag="321" id1="606" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+You have received the devoted M8-3R Astromech Droid Mini-Pet. With the loyal M8-3R by your side, you never have to adventure alone. Good luck as you embark on your journey!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="607" id2="233580" version="1065353216">We have detected an error in attempting to generate Captured Supplies for your client.  We attempted to grant you the reward automatically, but mailed it to you due to your character's inventory being full.
+
+Attached to this email you will find the associated items.  We apologize for the inconvenience!
+
+-The Star Wars™: The Old Republic™ Team</text>
+		<text bitflag="321" id1="608" id2="233580" version="1065353216">Your Captured Supplies</text>
+		<text bitflag="321" id1="609" id2="233580" version="1065353216">Twitch Prime - Eternal Throne Ultimate Pack!</text>
+		<text bitflag="321" id1="610" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+As a valued member of the Star Wars: The Old Republic and Twitch Prime communities, you have received the Knights of the Eternal Throne Ultimate Pack!
+
+Intimidate your enemies on your own Alliance Combat Patrol Transport (AC-PT) Walker Mount! Used by Alliance troops to gather vital intelligence, the AC-PT Walker towers over your enemies as you traverse hostile planets and dangerous terrains across the galaxy. Claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+Become the Outlander and fight to rule the galaxy in Knights of the Eternal Throne. Jump right in at Level 65 with your free Outlander Character Token and lead a team of hand-picked allies against one of them most powerful families in the Eternal Empire. You decide who will live, who will die and who will rule the galaxy!
+
+Join the battle now!
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="611" id2="233580" version="1065353216">Your M4-Y6 Astromech Droid</text>
+		<text bitflag="321" id1="612" id2="233580" version="1065353216">In honor of May the Fourth 2017, enclosed is a special in-game reward to show our appreciation to you, our players.  Having survived even the harshest environments, the M4-Y6 Astromech Droid has faced countless adversities and come through the other side. Well-traveled and ever-reliable, this M4-Y6 mini-pet Droid carries every mark of his adventures and is always up for another challenge.
+
+Don't adventure alone!
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="613" id2="233580" version="1065353216">In honor of EA Play to Give 2017, enclosed are special in-game rewards to show our appreciation to you, our players, for supporting a culture of inclusion. Built to survive even the harshest environments, the PL-2G Defender Droid Mini-Pet can be a trusty companion no matter where your galactic travels take you. Plus, proudly show off your new 'Galactic Defender' character title as you continue to adventure with friends new and old across the galaxy!
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="614" id2="233580" version="1065353216">Your EA Play to Give 2017 Rewards</text>
+		<text bitflag="321" id1="616" id2="233580" version="1065353216">Your Special Forces Armor Set!</text>
+		<text bitflag="321" id1="617" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+In celebration of STAR WARS: Battlefront II, you have received the Special Forces Armor set which is custom-crafted to provide protection and mobility for the most elite soldiers in the galaxy. As you enter into battle, a unique observer droid is deployed, ensuring that you'll never hit the front lines alone!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="618" id2="233580" version="1065353216">Your United Forces Premium Pack Items</text>
+		<text bitflag="321" id1="619" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+Welcome to the galaxy! You have been granted your Tauntaun Mount and Thermal Retention Suit, available for use at Level 10.  From the icy planet of Hoth to the sands of Tatooine, battle your way through the galaxy in style with this Hoth-inspired mount and suit! 
+
+Plus, you have received a 5-Pack of Major Experience Boosts to help jumpstart your STAR WARS adventure! Each Boost increases experience gained from all sources by 25% for 3 hours!
+
+To claim your rewards, simply right click on the items below to accept them into your inventory. 
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="620" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+As part of the United Forces promotion, you can now join forces with a new fearsome companion, Darth Hexid. Tormentor of the weak and bane of all who challenge her, Hexid is sure to be a powerful asset... if you can condone her ruthless methods!
+
+You can recruit Darth Hexid as part of a mission on the planet of Odessen once you complete the Knights of the Eternal Throne expansion story. If you'd like to battle with Hexid by your side immediately, you can use the attached item to unlock her as a companion at any time. Using this item will not prevent you from playing through her recruitment mission.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="621" id2="233580" version="1065353216">Your Darth Hexid Companion Reward</text>
+		<text bitflag="321" id1="622" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+As part of the United Forces promotion, you have received a special 'Mini Mogul NM-1' minipet. A miniaturized version of the battle walker employed by Supreme Mogul Karagga the Hutt in the infamous &quot;Karagga's Palace&quot; Operation, this minipet is built to follow its master without question or hesitation.
+
+To claim your reward, simply right click on the items below to accept them into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="623" id2="233580" version="1065353216">Your Mini Mogul NM-1 Minipet Reward</text>
+		<text bitflag="321" id1="624" id2="233580" version="1065353216">Your Chiss Talon Interceptor Mount &amp; Armorset</text>
+		<text bitflag="321" id1="625" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+Battle across the galaxy in your new Chiss Talon Interceptor Mount, an advanced airspeeder designed and constructed by the secretive Chiss Ascendency. Used to patrol and protect their worlds from outsiders, only a handful of these sophisticated craft have ever made it out of Chiss territory, making them highly sought-after among collectors and rival military forces alike. Plus, channel the darkness or harness the light as you battle in your new Force Veteran's Armor Set.
+
+Claim your in-game rewards by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="626" id2="233580" version="1065353216">Your Chiss Talon Interceptor Mount</text>
+		<text bitflag="321" id1="627" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+
+You have received the new Chiss Talon Interceptor Mount. Battle across the galaxy in this an advanced airspeeder designed and constructed by the secretive Chiss Ascendency. Used to patrol and protect their worlds from outsiders, only a handful of these sophisticated craft have ever made it out of Chiss territory, making them highly sought-after among collectors and rival military forces alike. 
+
+Claim your reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="628" id2="233580" version="1065353216">Your Shae Vizla Companion is here!</text>
+		<text bitflag="321" id1="629" id2="233580" version="1065353216">As part of the Premium Player rewards program,  you have unlocked the infamous mercenary companion, Shae Vizla. A powerful Mandalorian warrior and bounty hunter, Shae is your new deadly ally in your fight to the Eternal Throne.
+ 
+You can recruit Shae as part of a mission in Knights of the Eternal Throne, but if you'd like to battle with Shae by your side immediately, you can use the attached item to unlock her as a companion at any time. Using this item will not prevent you from playing through her recruitment mission.
+ 
+Good luck as you embark on your new adventure to battle for control and rule the galaxy!
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="630" id2="233580" version="1065353216">As part of the Premium Player rewards program, you have unlocked the legendary gunslinger Companion, Nico Okarr. An infamous smuggler with a bottomless bag of tricks, Nico is the perfect ally for a tight spot. 
+
+You can encounter Nico and learn more about him after completing Chapter Nine of Knights of the Fallen Empire, but if you'd like to begin traveling with him immediately, you can use the attached item to unlock Nico as a Companion at any time. Using this item will not prevent you from playing through his recruitment mission.
+
+Nico disappeared from the Galactic stage after the return of the Sith Empire. However, there have been sightings of a man fitting Nico's description frequenting cantinas across Wild Space. If anyone can convince the captain of the Redshifter to come out of retirement, it's you! Keep an eye out for him during your adventure!
+
+May the Force™ be with  you!</text>
+		<text bitflag="321" id1="631" id2="233580" version="1065353216">Your Nico Okarr Companion is here!</text>
+		<text bitflag="321" id1="632" id2="233580" version="1065353216">Your M4-Y7 Astromech Droid</text>
+		<text bitflag="321" id1="633" id2="233580" version="1065353216">Thank you for being a part of the STAR WARS™: The Old Republic™ community! 
+
+In honor of May the Fourth 2018, enclosed is a special in-game reward to show our appreciation to you, our players.  A loyal droid programmed for adventure, the M4-Y7 Astromech Droid minipet is ready to back you up no matter what challenges the galaxy throws at you. 
+ 
+Don't adventure alone!
+ 
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="634" id2="233580" version="1065353216">Thank you for being a part of the Star Wars™: The Old Republic™ community!
+ 
+As a valued member of the STAR WARS: The Old Republic and Twitch Prime communities, you have received the SWTOR Epic Adventure Pack!
+ 
+Claim your in-game rewards by right clicking on the item below to accept it into your inventory.
+ 
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="635" id2="233580" version="1065353216">Twitch Prime - Epic Adventure Pack!</text>
+		<text bitflag="321" id1="636" id2="233580" version="1065353216">You have received the new TF-4 Rampage Speeder. Popular on the black market, this industrial mining vehicle boasts heavy armor and aggressive engines that can easily be modified to be a rapid-attack craft, making it the perfect vehicle for criminals (or heroes) on the run!
+
+Claim your in-game rewards by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="637" id2="233580" version="1065353216">Your TF-4 Rampage Speeder</text>
+		<text bitflag="321" id1="638" id2="233580" version="1065353216">Compose Guild</text>
+		<text bitflag="321" id1="639" id2="233580" version="1065353216">Your Livestream Cantina - 2018 Flair!</text>
+		<text bitflag="321" id1="640" id2="233580" version="1065353216">Thank you for being a member of the Star Wars™: The Old Republic community!
+
+Enjoy your new reward as you adventure through the galaxy!
+
+You can claim your in-game reward by right clicking on the item below to accept it into your inventory.
+
+May the Force™ be with you!</text>
+		<text bitflag="321" id1="641" id2="233580" version="1065353216">Guild: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="642" id2="233580" version="1065353216">COD messages require at least one attachment.</text>
+		<text bitflag="321" id1="643" id2="233580" version="1065353216">Your Paxton Rall Companion is here!</text>
+		<text bitflag="321" id1="644" id2="233580" version="1065353216">As part of the Premium Player rewards program, your Paxton Rall Companion is here! 
+
+Fight alongside the new Twi'lek Pirate Companion, Paxton Rall, the most notorious pirate to rise to fame across the galaxy since the invasion of the Eternal Empire. Paxton and his crew scour the stars in an endless hunt for adventure and profit, making him a formidable ally in your Alliance! 
+
+You can encounter Paxton and learn more about him on the planet of Odessen after completing Chapter Nine of the Knights of the Fallen Empire expansion. If you'd like to begin traveling with him immediately, you can use the attached item to unlock Paxton as a Companion at any time. Using this item will not prevent you from playing through his recruitment mission.
+
+Thank you for playing Star Wars™: The Old Republic.
+
+May the Force™ be with  you!</text>
+	</file_content>
+</stb_file>

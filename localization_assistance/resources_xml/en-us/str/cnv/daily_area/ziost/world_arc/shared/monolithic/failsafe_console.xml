@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>154</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/ziost/world_arc/shared/monolithic/failsafe_console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1149795" id2="17" version="1065353216">What was that thing?</text>
+		<text bitflag="1345" id1="1149796" id2="17" version="1065353216">We've been calling them Monoliths.</text>
+		<text bitflag="1345" id1="1149798" id2="17" version="1065353216">I promise I wasn't eavesdropping. Just wanted to warn you.</text>
+		<text bitflag="1345" id1="1149800" id2="17" version="1065353216">We've seen several of those creatures appearing throughout New Adasta. They're made from Sith alchemy. A sign of Vitiate's growing power.</text>
+		<text bitflag="1345" id1="1149802" id2="17" version="1065353216">Extremely strong, next to impossible to kill. The one you just defeated is the smallest we've come across.</text>
+		<text bitflag="1345" id1="1149803" id2="17" version="1065353216">Its power's already returned.</text>
+		<text bitflag="1360" id1="1149803" id2="17" version="1065353216">I sense something....</text>
+		<text bitflag="1345" id1="1149804" id2="17" version="1065353216">I'm afraid so.</text>
+		<text bitflag="1345" id1="1149805" id2="17" version="1065353216">Did you say &quot;next to impossible&quot;?</text>
+		<text bitflag="1360" id1="1149805" id2="17" version="1065353216">Just felt a chill....</text>
+		<text bitflag="1345" id1="1149806" id2="17" version="1065353216">I hope you'll prove me wrong.</text>
+		<text bitflag="1345" id1="1149807" id2="17" version="1065353216">If you're free, we really should have a conversation about your agent.</text>
+		<text bitflag="1360" id1="1149807" id2="17" version="1065353216">About Agent Kovach....</text>
+		<text bitflag="1345" id1="1149808" id2="17" version="1065353216">It will have to wait. Behind you.</text>
+		<text bitflag="1345" id1="1149809" id2="17" version="1065353216">I think you were eavesdropping. I think you can't stop thinking about me.</text>
+		<text bitflag="1360" id1="1149809" id2="17" version="1065353216">[Flirt] Stalking me?</text>
+		<text bitflag="1345" id1="1149810" id2="17" version="1065353216">I would hope you're joking except this is hardly the time for it. And by the way, do look behind you.</text>
+		<text bitflag="1345" id1="1149858" id2="17" version="1065353216">Plan's over. Scrapped. Some giant thing tore through a junction, caused an electrical surge. Dampeners are shot.</text>
+		<text bitflag="1345" id1="1149864" id2="17" version="1065353216">There has to be another way.</text>
+		<text bitflag="1360" id1="1149864" id2="17" version="1065353216">Let's make a new plan.</text>
+		<text bitflag="1345" id1="1149865" id2="17" version="1065353216">It must have been a Monolith.</text>
+		<text bitflag="1360" id1="1149865" id2="17" version="1065353216">The former Emperor's work.</text>
+		<text bitflag="1345" id1="1149866" id2="17" version="1065353216">And you expect me to take your word for it. What's your angle, Kovach?</text>
+		<text bitflag="1360" id1="1149866" id2="17" version="1065353216">I don't trust you....</text>
+		<text bitflag="1345" id1="1149867" id2="17" version="1065353216">Whatever it was, I wouldn't want its attention....</text>
+		<text bitflag="1345" id1="1149868" id2="17" version="1065353216">I want this nightmare to end. That's my angle.</text>
+		<text bitflag="1345" id1="1149870" id2="17" version="1065353216">Besides, the two fleets have engaged each other. Maybe if we convinced Saresh or Darth Marr to divert some forces....</text>
+		<text bitflag="1345" id1="1149874" id2="17" version="1065353216">Agent, report.</text>
+		<text bitflag="1345" id1="1149875" id2="17" version="1065353216">What's the word, Kovach?</text>
+		<text bitflag="1345" id1="1149877" id2="17" version="1065353216">It won't work, Minister. I failed.</text>
+		<text bitflag="1345" id1="1149879" id2="17" version="1065353216">I thought about an electrical bombardment from space, but it would be incredibly imprecise. We'd be as likely to kill a lot of people as anything.</text>
+		<text bitflag="1345" id1="1149882" id2="17" version="1065353216">The word is &quot;failure&quot;. I couldn't make it work. I'm sorry, Agent Shan.</text>
+		<text bitflag="1345" id1="1149890" id2="17" version="1065353216">Yes, you did fail--and for the last time.</text>
+		<text bitflag="1360" id1="1149890" id2="17" version="1065353216">Agreed. [Kill him]</text>
+		<text bitflag="1360" id1="1149891" id2="17" version="1065353216">[Say nothing]</text>
+		<text bitflag="1345" id1="1149892" id2="17" version="1065353216">Agent--don't you have something else to say?</text>
+		<text bitflag="1360" id1="1149892" id2="17" version="1065353216">You must confess to Lana.</text>
+		<text bitflag="1345" id1="1149900" id2="17" version="1065353216">What have you done? Agent Kovach was a valued asset!</text>
+		<text bitflag="1345" id1="1149901" id2="17" version="1065353216">He was working for the Republic.</text>
+		<text bitflag="1360" id1="1149901" id2="17" version="1065353216">He was a double agent.</text>
+		<text bitflag="1345" id1="1149902" id2="17" version="1065353216">Your incompetence allowed the Republic to place a spy right under your nose. He was working for Saresh.</text>
+		<text bitflag="1360" id1="1149902" id2="17" version="1065353216">You let the enemy spy on you.</text>
+		<text bitflag="1345" id1="1149903" id2="17" version="1065353216">My reasons are my own. Do you have a problem with that?</text>
+		<text bitflag="1360" id1="1149903" id2="17" version="1065353216">I don't have to tell you.</text>
+		<text bitflag="1345" id1="1149911" id2="17" version="1065353216">Well?</text>
+		<text bitflag="1345" id1="1149912" id2="17" version="1065353216">He what?</text>
+		<text bitflag="1345" id1="1149913" id2="17" version="1065353216">I-- But I....</text>
+		<text bitflag="1345" id1="1149915" id2="17" version="1065353216">I....</text>
+		<text bitflag="1345" id1="1149918" id2="17" version="1065353216">No. No, how could I have been so blind?</text>
+		<text bitflag="1345" id1="1149919" id2="17" version="1065353216">We'll talk of this later. Right now, I have a new plan in mind. You might not like it, but it's all we have.</text>
+		<text bitflag="1345" id1="1149920" id2="17" version="1065353216">I caught him talking to Saresh. He admitted his guilt.</text>
+		<text bitflag="1345" id1="1149921" id2="17" version="1065353216">Lana, we still have a problem to solve.</text>
+		<text bitflag="1345" id1="1149922" id2="17" version="1065353216">Yes, of course. And I may have found a solution. I doubt you'll like it.</text>
+		<text bitflag="1345" id1="1149923" id2="17" version="1065353216">I'm listening.</text>
+		<text bitflag="1345" id1="1149924" id2="17" version="1065353216">You must get all of his pawns--every last soldier, Jedi and Sith--to stop their slaughter and chase you into the heart of New Adasta.</text>
+		<text bitflag="1345" id1="1149927" id2="17" version="1065353216">You must make Vitiate want to kill you. Now.</text>
+		<text bitflag="1345" id1="1149930" id2="17" version="1065353216">Why don't you tell him all the reasons you're sorry?</text>
+		<text bitflag="1360" id1="1149930" id2="17" version="1065353216">You need to confess, Kovach.</text>
+		<text bitflag="1360" id1="1149931" id2="17" version="1065353216">[Say nothing]</text>
+		<text bitflag="1345" id1="1149932" id2="17" version="1065353216">&quot;Sorry&quot; doesn't cut it.</text>
+		<text bitflag="1360" id1="1149932" id2="17" version="1065353216">Not good enough. [Kill him]</text>
+		<text bitflag="1345" id1="1149933" id2="17" version="1065353216">Speak--or I will.</text>
+		<text bitflag="1345" id1="1149934" id2="17" version="1065353216">Minister Beniko, I... I place myself at your mercy.</text>
+		<text bitflag="1345" id1="1149936" id2="17" version="1065353216">Spit it out, Agent. We haven't all day.</text>
+		<text bitflag="1345" id1="1149938" id2="17" version="1065353216">I don't work for you. I answer to the Supreme Chancellor of the Republic. I'm sorry.</text>
+		<text bitflag="1345" id1="1149940" id2="17" version="1065353216">Sorry. You're sorry?</text>
+		<text bitflag="1345" id1="1149941" id2="17" version="1065353216">I see. In that case, I suggest we find another way for you to be of assistance, Agent. Report to my location immediately.</text>
+		<text bitflag="1345" id1="1149943" id2="17" version="1065353216">Yes, Minister.</text>
+		<text bitflag="1345" id1="1149945" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1345" id1="1149947" id2="17" version="1065353216">Agent Kovach will be made accountable for his incompetence. In the meantime, Vitiate's pawns are still growing in number.</text>
+		<text bitflag="1345" id1="1149949" id2="17" version="1065353216">I have a strategy to suggest. You may find it unpleasant.</text>
+		<text bitflag="1345" id1="1149951" id2="17" version="1065353216">I want him executed. Now.</text>
+		<text bitflag="1345" id1="1149952" id2="17" version="1065353216">As you wish.</text>
+		<text bitflag="1360" id1="1149952" id2="17" version="1065353216">Gladly. [Kill him]</text>
+		<text bitflag="1345" id1="1149953" id2="17" version="1065353216">Clean up your own messes, Lana.</text>
+		<text bitflag="1360" id1="1149953" id2="17" version="1065353216">He's not my problem.</text>
+		<text bitflag="1345" id1="1149954" id2="17" version="1065353216">Very well.</text>
+		<text bitflag="1345" id1="1149955" id2="17" version="1065353216">No! Please!</text>
+		<text bitflag="1345" id1="1149961" id2="17" version="1065353216">Now let's move on. I have another plan. A better plan. However, it's not without a great deal of risk.</text>
+		<text bitflag="1345" id1="1149962" id2="17" version="1065353216">War has broken out across the globe. Our former Emperor, however, has limited his involvement to the area around New Adasta--near you.</text>
+		<text bitflag="1345" id1="1149966" id2="17" version="1065353216">I'm sure you did your best. That's all we can ask for.</text>
+		<text bitflag="1345" id1="1149967" id2="17" version="1065353216">This isn't the time. I'm sure we'd all be better off coming up with a new plan.</text>
+		<text bitflag="1345" id1="1149976" id2="17" version="1065353216">Are you insane? What was that?</text>
+		<text bitflag="1345" id1="1149980" id2="17" version="1065353216">Either you explain it or I do.</text>
+		<text bitflag="1345" id1="1149983" id2="17" version="1065353216">Agent Shan... I'm the reason we have troops on Ziost.</text>
+		<text bitflag="1345" id1="1149985" id2="17" version="1065353216">What are you talking about?</text>
+		<text bitflag="1345" id1="1149987" id2="17" version="1065353216">The chaos here, the Sixth Line.... Saresh knew about all of it because I told her.</text>
+		<text bitflag="1345" id1="1149992" id2="17" version="1065353216">And why would you do that?</text>
+		<text bitflag="1345" id1="1149994" id2="17" version="1065353216">I'm not your asset.</text>
+		<text bitflag="1345" id1="1149997" id2="17" version="1065353216">Agent Shan...? Sir, if you'll let me explain....</text>
+		<text bitflag="1345" id1="1149999" id2="17" version="1065353216">Go report to your boss. You're done with the SIS.</text>
+		<text bitflag="1345" id1="1150001" id2="17" version="1065353216">I said you're done!</text>
+		<text bitflag="1345" id1="1150002" id2="17" version="1065353216">But I can still help....</text>
+		<text bitflag="1345" id1="1150005" id2="17" version="1065353216">May the Force be with you.</text>
+		<text bitflag="1345" id1="1150006" id2="17" version="1065353216">Good luck.</text>
+		<text bitflag="1345" id1="1150008" id2="17" version="1065353216">I'm told Agent Kovach's plan fell apart. The good news is I have another plan. A better plan. However, it's an extremely dangerous plan--for you.</text>
+		<text bitflag="1345" id1="1150011" id2="17" version="1065353216">Kovach was secretly working for Saresh. You would never have been able to trust him.</text>
+		<text bitflag="1360" id1="1150011" id2="17" version="1065353216">He couldn't be trusted.</text>
+		<text bitflag="1345" id1="1150012" id2="17" version="1065353216">He didn't know I overheard him conspiring with the Emperor's puppets. He wanted us to fail, to spin our wheels.</text>
+		<text bitflag="1360" id1="1150012" id2="17" version="1065353216">[Lie] The Emperor corrupted him.</text>
+		<text bitflag="1360" id1="1150013" id2="17" version="1065353216">Don't question me.</text>
+		<text bitflag="1345" id1="1150014" id2="17" version="1065353216">He what? Are you sure?</text>
+		<text bitflag="1345" id1="1150015" id2="17" version="1065353216">He's the reason Saresh knew about the Sixth Line, knew about the chaos here.</text>
+		<text bitflag="1345" id1="1150017" id2="17" version="1065353216">You don't need to know why--only that I saw it as necessary.</text>
+		<text bitflag="1345" id1="1150018" id2="17" version="1065353216">It was a command decision. My decision.</text>
+		<text bitflag="1345" id1="1150019" id2="17" version="1065353216">I've got my reasons. That's all you need to know.</text>
+		<text bitflag="1345" id1="1150020" id2="17" version="1065353216">That idiot! How many lives is this going to cost us?</text>
+		<text bitflag="1345" id1="1150022" id2="17" version="1065353216">Still, you didn't have to kill him. Look, I-- We need to table this for now.</text>
+		<text bitflag="1345" id1="1150024" id2="17" version="1065353216">I'm trying to work through channels to get our troops out of here, trying to get through to my ops team, trying to reach Lana....</text>
+		<text bitflag="1345" id1="1150026" id2="17" version="1065353216">I'm trying.</text>
+		<text bitflag="1345" id1="1150031" id2="17" version="1065353216">I don't understand. Was he possessed or just out of his mind?</text>
+		<text bitflag="1345" id1="1150044" id2="17" version="1065353216">It's difficult to say with any certainty. He had us all fooled.</text>
+		<text bitflag="1345" id1="1150045" id2="17" version="1065353216">Hard to say for sure, but he put on quite a show.</text>
+		<text bitflag="1345" id1="1150046" id2="17" version="1065353216">Yeah. Yeah, I guess he did.... I'd love to wrap my head around this, but we don't exactly have the luxury of time.</text>
+		<text bitflag="1345" id1="1150048" id2="17" version="1065353216">Unbelievable. All the work I put into recruiting and training and placing him, and just like that, you....</text>
+		<text bitflag="1345" id1="1150050" id2="17" version="1065353216">Look, this conversation isn't over, but I've got several distinct layers of headache to deal with right now.</text>
+		<text bitflag="1345" id1="1150052" id2="17" version="1065353216">Lana.</text>
+		<text bitflag="1345" id1="1150066" id2="17" version="1065353216">Look, maybe you should check in with Lana. If you can, get her to reach out to me.</text>
+		<text bitflag="1345" id1="1150068" id2="17" version="1065353216">I'll do that.</text>
+		<text bitflag="1345" id1="1150070" id2="17" version="1065353216">You have my thanks.</text>
+		<text bitflag="1345" id1="1150075" id2="17" version="1065353216">I don't think it's a coincidence. It's possible he isn't as strong as he's been letting on. It's possible he's worried about what you could do.</text>
+		<text bitflag="1360" id1="1150076" id2="17" version="1065353216">Makes sense.</text>
+		<text bitflag="1360" id1="1150077" id2="17" version="1065353216">Me?</text>
+		<text bitflag="1360" id1="1150078" id2="17" version="1065353216">[Say nothing]</text>
+		<text bitflag="1360" id1="1150080" id2="17" version="1065353216">I'm ready for him.</text>
+		<text bitflag="1345" id1="1150082" id2="17" version="1065353216">I've seen inside his twisted mind, bested his Voice. He knows I'm a threat to him.</text>
+		<text bitflag="1345" id1="1150083" id2="17" version="1065353216">Fear is at the heart of Sith philosophy. And he is its purest expression.</text>
+		<text bitflag="1345" id1="1150084" id2="17" version="1065353216">That's because he knows I don't give up.</text>
+		<text bitflag="1345" id1="1150085" id2="17" version="1065353216">It's pretty well known I'm a huge threat to would-be galaxy eaters everywhere.</text>
+		<text bitflag="1360" id1="1150085" id2="17" version="1065353216">Makes... sense...?</text>
+		<text bitflag="1345" id1="1150088" id2="17" version="1065353216">I took down Arkous. Stopped Revan. He knows I mean business.</text>
+		<text bitflag="1360" id1="1150088" id2="17" version="1065353216">He should be worried.</text>
+		<text bitflag="1345" id1="1150091" id2="17" version="1065353216">Vitiate knows what I've done in his name. He's right to fear me.</text>
+		<text bitflag="1345" id1="1150093" id2="17" version="1065353216">He sees in me someone who could one day surpass him. He has every right to be worried.</text>
+		<text bitflag="1345" id1="1150095" id2="17" version="1065353216">It was always going to lead to this. Let him come for me.</text>
+		<text bitflag="1345" id1="1150096" id2="17" version="1065353216">I do not fear Vitiate. Let him come for me.</text>
+		<text bitflag="1345" id1="1150097" id2="17" version="1065353216">I'm not joking, Captain. You've clearly gotten under his skin. That's the advantage we'll use to stop him.</text>
+		<text bitflag="1345" id1="1150100" id2="17" version="1065353216">I'm just a soldier. It's not like we have any SOP for taking down Sith spirits, or whatever he is now.</text>
+		<text bitflag="1345" id1="1150106" id2="17" version="1065353216">The galaxy-eating ghost is worried because... he thinks I'm going to beat him in a quick draw?</text>
+		<text bitflag="1345" id1="1150107" id2="17" version="1065353216">Not to sell myself short, but I don't think he's too concerned about one lone bounty hunter.</text>
+		<text bitflag="1345" id1="1150110" id2="17" version="1065353216">If that's the case, I think he overestimates the capabilities of the Empire's intelligence apparatus.</text>
+		<text bitflag="1345" id1="1150112" id2="17" version="1065353216">I'm going to suggest something a little more proactive, actually.</text>
+		<text bitflag="1345" id1="1150113" id2="17" version="1065353216">Good, I need you to maintain that confidence for what's to come.</text>
+		<text bitflag="1345" id1="1150115" id2="17" version="1065353216">Yes, he very well does. That's why you're the key to this plan, Master Jedi.</text>
+		<text bitflag="1345" id1="1150116" id2="17" version="1065353216">Explain it however you like, but you've gotten under his skin. That much is clear--and it's the advantage we'll use to stop him.</text>
+		<text bitflag="1345" id1="1150118" id2="17" version="1065353216">Quite a simplification, I think, but this is no time for debate.</text>
+		<text bitflag="1345" id1="1150176" id2="17" version="1065353216">There. The &quot;mess&quot;, as you call it, has been cleaned.</text>
+		<text bitflag="1345" id1="1150690" id2="17" version="1065353216">Get out of here, Agent.</text>
+		<text bitflag="1360" id1="1150690" id2="17" version="1065353216">Kovach--run.</text>
+		<text bitflag="1345" id1="1150691" id2="17" version="1065353216">What?</text>
+		<text bitflag="1345" id1="1150692" id2="17" version="1065353216">Shut off the holo and run.</text>
+		<text bitflag="1345" id1="1150695" id2="17" version="1065353216">You let him live.</text>
+		<text bitflag="1345" id1="1150696" id2="17" version="1065353216">That's right.</text>
+		<text bitflag="1345" id1="1150697" id2="17" version="1065353216">If I find him, Agent Kovach will be made accountable for his incompetence. But there's no time for that now. Vitiate's pawns are growing in number.</text>
+	</file_content>
+</stb_file>

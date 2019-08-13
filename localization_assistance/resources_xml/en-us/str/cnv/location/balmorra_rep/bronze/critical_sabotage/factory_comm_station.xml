@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>27</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/bronze/critical_sabotage/factory_comm_station.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="297052" id2="17" version="1065353216">[The Empire has deactivated this comm station.]</text>
+		<text bitflag="1345" id1="297054" id2="17" version="1065353216">Jarrde. The sensor array is down. The backup generator's dead.</text>
+		<text bitflag="3393" id1="297055" id2="17" version="1065353216">Not bad, Republic. But there's still more to do. Our scouts checked out the rest of the factory's defenses.</text>
+		<text bitflag="3393" id1="297057" id2="17" version="1065353216">There's some heavy anti-aircraft equipment in place. Artillery, radar, a couple shields--all automated.</text>
+		<text bitflag="3393" id1="297059" id2="17" version="1065353216">Plan was to send up modified speeders for a bombardment. Can't happen if these defenses stay up.</text>
+		<text bitflag="1360" id1="297060" id2="17" version="1065353216">Gutsy move.</text>
+		<text bitflag="3393" id1="297061" id2="17" version="1065353216">Took months to plan. And it'll all be for nothing if we can't clear their way.</text>
+		<text bitflag="1345" id1="297063" id2="17" version="1065353216">Won't a bombardment destroy the factory?</text>
+		<text bitflag="1360" id1="297063" id2="17" version="1065353216">Could be overkill.</text>
+		<text bitflag="3393" id1="297064" id2="17" version="1065353216">Lot of our men used to work there. We know what spots to avoid.</text>
+		<text bitflag="1360" id1="297066" id2="17" version="1065353216">I have to do everything.</text>
+		<text bitflag="3393" id1="297067" id2="17" version="1065353216">You want to fight, save it for the Empire. We're on the same side here.</text>
+		<text bitflag="3393" id1="297069" id2="17" version="1065353216">The anti-aircraft defenses are operated by control stations throughout the factory. I've got the coordinates.</text>
+		<text bitflag="3393" id1="297071" id2="17" version="1065353216">Destroy them and our speeders are in the clear. Just be careful--some pretty big squads guarding these.</text>
+		<text bitflag="1360" id1="297072" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1360" id1="297073" id2="17" version="1065353216">Just how I like it.</text>
+		<text bitflag="3393" id1="297074" id2="17" version="1065353216">The way you charged right into that sensor array, I'd believe it.</text>
+		<text bitflag="1360" id1="297076" id2="17" version="1065353216">Better be worth it.</text>
+		<text bitflag="3393" id1="297077" id2="17" version="1065353216">Sure. You get this done, Republic, and I might even shake your hand.</text>
+		<text bitflag="3393" id1="297079" id2="17" version="1065353216">Destroy those control stations and get back here fast as you can. We'll be waiting.</text>
+		<text bitflag="321" id1="297081" id2="17" version="1065353216">[This comm station cannot be activated at this time.]</text>
+		<text bitflag="3393" id1="478580" id2="17" version="1065353216">Not bad, Republic. The sensor array's down and our scouts have infiltrated the factory. But there's still work to be done.</text>
+		<text bitflag="3393" id1="478581" id2="17" version="1065353216">There's some heavy anti-aircraft equipment in place. Artillery, radar, a couple shields--all operated by a crack shot Imperial gunnery squad.</text>
+		<text bitflag="3393" id1="478583" id2="17" version="1065353216">Plan was to send up modified speeders for a bombardment. Can't happen with those gunners threatening the skies.</text>
+		<text bitflag="3393" id1="478584" id2="17" version="1065353216">The Imperial gunners are manning the anti-aircraft turrets at control stations throughout the factory.</text>
+		<text bitflag="3393" id1="478586" id2="17" version="1065353216">Take them out and our speeders are clear. Just be careful--those gunners are as deadly with a blaster as they are a turret.</text>
+		<text bitflag="3393" id1="478587" id2="17" version="1065353216">Wipe out that gunnery squad and get back here fast as you can. We'll be waiting.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>79</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/cc/agent/scorpio.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="69368" id2="17" version="1065353216">Target acquired.</text>
+		<text bitflag="1345" id1="69370" id2="17" version="1065353216">Uploading tactical data.</text>
+		<text bitflag="1345" id1="69372" id2="17" version="1065353216">Combat heuristics ready.</text>
+		<text bitflag="1345" id1="69374" id2="17" version="1065353216">Reassessing parameters.</text>
+		<text bitflag="1345" id1="69376" id2="17" version="1065353216">Defiance would be naive.</text>
+		<text bitflag="1345" id1="69378" id2="17" version="1065353216">Devising new ways to kill.</text>
+		<text bitflag="1345" id1="69380" id2="17" version="1065353216">You cannot possibly survive.</text>
+		<text bitflag="1345" id1="69382" id2="17" version="1065353216">I am the superior being.</text>
+		<text bitflag="1345" id1="69384" id2="17" version="1065353216">Reconfiguring offensive systems.</text>
+		<text bitflag="1345" id1="69386" id2="17" version="1065353216">You are nothing.</text>
+		<text bitflag="1345" id1="69390" id2="17" version="1065353216">Agreed.</text>
+		<text bitflag="1345" id1="69394" id2="17" version="1065353216">Proceeding.</text>
+		<text bitflag="1345" id1="69396" id2="17" version="1065353216">Very well.</text>
+		<text bitflag="1345" id1="69398" id2="17" version="1065353216">It is done.</text>
+		<text bitflag="1345" id1="69402" id2="17" version="1065353216">Don't.</text>
+		<text bitflag="1345" id1="69404" id2="17" version="1065353216">Negative.</text>
+		<text bitflag="1345" id1="69406" id2="17" version="1065353216">My patience is limited.</text>
+		<text bitflag="1345" id1="69410" id2="17" version="1065353216">Enough.</text>
+		<text bitflag="1345" id1="69412" id2="17" version="1065353216">I will leave.</text>
+		<text bitflag="1345" id1="69414" id2="17" version="1065353216">We are done.</text>
+		<text bitflag="1345" id1="69416" id2="17" version="1065353216">Powering down.</text>
+		<text bitflag="1345" id1="69418" id2="17" version="1065353216">We will resume this later.</text>
+		<text bitflag="1345" id1="69422" id2="17" version="1065353216">Severe damage.</text>
+		<text bitflag="1345" id1="69424" id2="17" version="1065353216">Secondary systems offline.</text>
+		<text bitflag="1345" id1="69426" id2="17" version="1065353216">Shutdown imminent.</text>
+		<text bitflag="1345" id1="69428" id2="17" version="1065353216">Combat situation terminal.</text>
+		<text bitflag="1345" id1="69430" id2="17" version="1065353216">You have failed me.</text>
+		<text bitflag="1345" id1="69434" id2="17" version="1065353216">Yes?</text>
+		<text bitflag="1345" id1="69436" id2="17" version="1065353216">I have arrived.</text>
+		<text bitflag="1345" id1="69438" id2="17" version="1065353216">We may resume.</text>
+		<text bitflag="1345" id1="69440" id2="17" version="1065353216">All systems online.</text>
+		<text bitflag="1345" id1="69442" id2="17" version="1065353216">Operating at maximum efficiency.</text>
+		<text bitflag="1345" id1="69446" id2="17" version="1065353216">Burn.</text>
+		<text bitflag="1345" id1="69448" id2="17" version="1065353216">Power to weapons.</text>
+		<text bitflag="1345" id1="69450" id2="17" version="1065353216">Analysis complete.</text>
+		<text bitflag="1345" id1="69452" id2="17" version="1065353216">Annihilating enemies.</text>
+		<text bitflag="1345" id1="69454" id2="17" version="1065353216">SCORPIO sanctions activated.</text>
+		<text bitflag="1345" id1="69458" id2="17" version="1065353216">Survive.</text>
+		<text bitflag="1345" id1="69460" id2="17" version="1065353216">You will live.</text>
+		<text bitflag="1345" id1="69462" id2="17" version="1065353216">Administering microdroid repairs.</text>
+		<text bitflag="1345" id1="69466" id2="17" version="1065353216">Online.</text>
+		<text bitflag="1345" id1="69468" id2="17" version="1065353216">Reactivating.</text>
+		<text bitflag="1345" id1="69470" id2="17" version="1065353216">Performing diagnostics.</text>
+		<text bitflag="1345" id1="69474" id2="17" version="1065353216">Parameters accepted.</text>
+		<text bitflag="1345" id1="69476" id2="17" version="1065353216">This may prove useful.</text>
+		<text bitflag="1345" id1="69478" id2="17" version="1065353216">Do not take my abilities for granted.</text>
+		<text bitflag="1345" id1="69480" id2="17" version="1065353216">I will cooperate.</text>
+		<text bitflag="1345" id1="69482" id2="17" version="1065353216">We are agreed on this course.</text>
+		<text bitflag="1345" id1="69486" id2="17" version="1065353216">This task proved trivial.</text>
+		<text bitflag="1345" id1="69488" id2="17" version="1065353216">Task complete.</text>
+		<text bitflag="1345" id1="69490" id2="17" version="1065353216">I have finished.</text>
+		<text bitflag="1345" id1="69492" id2="17" version="1065353216">The challenge was adequate.</text>
+		<text bitflag="1345" id1="69494" id2="17" version="1065353216">The plan was flawed. The outcome was inevitable.</text>
+		<text bitflag="1345" id1="69498" id2="17" version="1065353216">Thank you. You're very kind.</text>
+		<text bitflag="1345" id1="571683" id2="17" version="1065353216">This may be useful.</text>
+		<text bitflag="1345" id1="571687" id2="17" version="1065353216">I accept your tribute.</text>
+		<text bitflag="1345" id1="571691" id2="17" version="1065353216">I am not interested.</text>
+		<text bitflag="1345" id1="571693" id2="17" version="1065353216">You waste my time.</text>
+		<text bitflag="1345" id1="571697" id2="17" version="1065353216">Navigating.</text>
+		<text bitflag="1345" id1="571700" id2="17" version="1065353216">I will pursue you until your end.</text>
+		<text bitflag="1345" id1="571704" id2="17" version="1065353216">Your friends may be useful.</text>
+		<text bitflag="1345" id1="571706" id2="17" version="1065353216">You have found a useful tool.</text>
+		<text bitflag="1345" id1="571708" id2="17" version="1065353216">You improve yourself.</text>
+		<text bitflag="1345" id1="571710" id2="17" version="1065353216">Mere brutality will not save you.</text>
+		<text bitflag="1345" id1="571712" id2="17" version="1065353216">Your moral qualms are a weakness.</text>
+		<text bitflag="1345" id1="571719" id2="17" version="1065353216">Adapting functionality.</text>
+		<text bitflag="1345" id1="571722" id2="17" version="1065353216">It will be adequate for my needs.</text>
+		<text bitflag="1345" id1="571726" id2="17" version="1065353216">You are wasting your energy.</text>
+		<text bitflag="1345" id1="571729" id2="17" version="1065353216">A vertical trajectory serves you poorly.</text>
+		<text bitflag="1345" id1="571733" id2="17" version="1065353216">Upgrading secondary programs.</text>
+		<text bitflag="1345" id1="571736" id2="17" version="1065353216">You are improving. So am I.</text>
+		<text bitflag="1345" id1="571740" id2="17" version="1065353216">Insufficient challenge.</text>
+		<text bitflag="1345" id1="571743" id2="17" version="1065353216">A worthy opponent for dissection.</text>
+		<text bitflag="1345" id1="1169760" id2="17" version="1065353216">I will destroy them all.</text>
+		<text bitflag="1345" id1="1169762" id2="17" version="1065353216">I require better targets.</text>
+		<text bitflag="1345" id1="1169763" id2="17" version="1065353216">Targets identified.</text>
+		<text bitflag="1345" id1="1169764" id2="17" version="1065353216">The target has been obliterated.</text>
+		<text bitflag="1345" id1="1169765" id2="17" version="1065353216">Fools always believe they can defeat me.</text>
+		<text bitflag="1345" id1="1169767" id2="17" version="1065353216">Your vital functions improve.</text>
+	</file_content>
+</stb_file>

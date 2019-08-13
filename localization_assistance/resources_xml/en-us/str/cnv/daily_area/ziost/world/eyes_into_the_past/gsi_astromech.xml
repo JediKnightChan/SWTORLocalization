@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/ziost/world/eyes_into_the_past/gsi_astromech.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1155596" id2="17" version="1065353216">Directive = scan and record survey sites // Site databanks = incomplete</text>
+		<text bitflag="3393" id1="1155883" id2="17" version="1065353216">Holographic projection subroutines = activated // Unit = awaiting Handler directives</text>
+		<text bitflag="3393" id1="1155886" id2="17" version="1065353216">Unit = activated // Power levels = nominal</text>
+	</file_content>
+</stb_file>

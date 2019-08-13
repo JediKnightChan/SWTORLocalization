@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>100</strs>
+		<file_name>/resources/en-us/str/gui/scoreboardbadges.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="236358" version="1065353216">Combatant - 600k Damage Dealt</text>
+		<text bitflag="321" id1="2" id2="236358" version="1065353216">Destroyer - 1.2M Damage Dealt</text>
+		<text bitflag="321" id1="3" id2="236358" version="1065353216">Demolisher - 6k Damage Single Hit</text>
+		<text bitflag="321" id1="4" id2="236358" version="1065353216">Annihilator - 12k Damage Single Hit</text>
+		<text bitflag="321" id1="5" id2="236358" version="1065353216">Commando - 4 Kills</text>
+		<text bitflag="321" id1="6" id2="236358" version="1065353216">Soldier - 8 Kills</text>
+		<text bitflag="321" id1="7" id2="236358" version="1065353216">Quick Draw - 1 Killing Blow</text>
+		<text bitflag="321" id1="8" id2="236358" version="1065353216">Assassin - 1 Solo Kill</text>
+		<text bitflag="321" id1="9" id2="236358" version="1065353216">Healer - 1M Healed</text>
+		<text bitflag="321" id1="10" id2="236358" version="1065353216">Savior - 1.75M Healed</text>
+		<text bitflag="321" id1="11" id2="236358" version="1065353216">Medic - 12k Single Heal</text>
+		<text bitflag="321" id1="12" id2="236358" version="1065353216">Trauma Surgeon - 21k Single Heal</text>
+		<text bitflag="321" id1="13" id2="236358" version="1065353216">Shield - 260k Defense</text>
+		<text bitflag="321" id1="14" id2="236358" version="1065353216">Protector - 518k Defense</text>
+		<text bitflag="321" id1="15" id2="236358" version="1065353216">Guardian - 21k Defense in 1 Life</text>
+		<text bitflag="321" id1="16" id2="236358" version="1065353216">Paladin - 83k Defense in 1 Life</text>
+		<text bitflag="321" id1="17" id2="236358" version="1065353216">Offense Basic - 1 Attacker Point</text>
+		<text bitflag="321" id1="18" id2="236358" version="1065353216">Defense Basic - 1 Defender Point</text>
+		<text bitflag="321" id1="257" id2="236358" version="1065353216">Offense Bronze - 3k Attacker Points</text>
+		<text bitflag="321" id1="258" id2="236358" version="1065353216">Offense Silver - 5k Attacker Points</text>
+		<text bitflag="321" id1="259" id2="236358" version="1065353216">Offense Gold - 7.5k Attacker Points</text>
+		<text bitflag="321" id1="260" id2="236358" version="1065353216">Offense Platinum - 10k Attacker Points</text>
+		<text bitflag="321" id1="261" id2="236358" version="1065353216">Offense Diamond - 15k Attacker Points</text>
+		<text bitflag="321" id1="262" id2="236358" version="1065353216">Defense Bronze - 3k Defender Points</text>
+		<text bitflag="321" id1="263" id2="236358" version="1065353216">Defense Silver - 5k Defender Points</text>
+		<text bitflag="321" id1="264" id2="236358" version="1065353216">Defense Gold - 7.5k Defender Points</text>
+		<text bitflag="321" id1="265" id2="236358" version="1065353216">Defense Platinum - 10k Defender Points</text>
+		<text bitflag="321" id1="266" id2="236358" version="1065353216">Defense Diamond - 15k Defender Points</text>
+		<text bitflag="321" id1="267" id2="236358" version="1065353216">Dauntless VI - 5 Minute Victory</text>
+		<text bitflag="321" id1="268" id2="236358" version="1065353216">Dauntless V - 6 Minute Victory</text>
+		<text bitflag="321" id1="269" id2="236358" version="1065353216">Dauntless IV - 7 Minute Victory</text>
+		<text bitflag="321" id1="270" id2="236358" version="1065353216">Dauntless III - 8 Minute Victory</text>
+		<text bitflag="321" id1="271" id2="236358" version="1065353216">Dauntless II - 9 Minute Victory</text>
+		<text bitflag="321" id1="272" id2="236358" version="1065353216">Dauntless I - 10 Minute Victory</text>
+		<text bitflag="321" id1="273" id2="236358" version="1065353216">Dauntless IV - 11 Minute Victory</text>
+		<text bitflag="321" id1="274" id2="236358" version="1065353216">Dauntless III - 12 Minute Victory</text>
+		<text bitflag="321" id1="275" id2="236358" version="1065353216">Dauntless II - 13 Minute Victory</text>
+		<text bitflag="321" id1="276" id2="236358" version="1065353216">Reinforcer - You joined the match after it started</text>
+		<text bitflag="321" id1="277" id2="236358" version="1065353216">Dauntless VI - 3 Minute Download</text>
+		<text bitflag="321" id1="278" id2="236358" version="1065353216">Dauntless V - 3:30 Minute Download</text>
+		<text bitflag="321" id1="279" id2="236358" version="1065353216">Dauntless IV - 4 Minute Download</text>
+		<text bitflag="321" id1="280" id2="236358" version="1065353216">Dauntless III - 4:30 Minute Download</text>
+		<text bitflag="321" id1="281" id2="236358" version="1065353216">Dauntless II - 5 Minute Download</text>
+		<text bitflag="321" id1="282" id2="236358" version="1065353216">Dauntless I - 5:30 Minute Download</text>
+		<text bitflag="321" id1="283" id2="236358" version="1065353216">Dauntless III - 6 Minute Download</text>
+		<text bitflag="321" id1="284" id2="236358" version="1065353216">Dauntless II - 6:30 Minute Download</text>
+		<text bitflag="321" id1="287" id2="236358" version="1065353216">Survived a Round.</text>
+		<text bitflag="321" id1="288" id2="236358" version="1065353216">Champion</text>
+		<text bitflag="321" id1="289" id2="236358" version="1065353216">First Blood in Round 1</text>
+		<text bitflag="321" id1="290" id2="236358" version="1065353216">First Blood in Round 2</text>
+		<text bitflag="321" id1="291" id2="236358" version="1065353216">First Blood in Round 3</text>
+		<text bitflag="321" id1="292" id2="236358" version="1065353216">Winning Round 1</text>
+		<text bitflag="321" id1="293" id2="236358" version="1065353216">Winning Round 2</text>
+		<text bitflag="321" id1="294" id2="236358" version="1065353216">Winning Round 3</text>
+		<text bitflag="321" id1="295" id2="236358" version="1065353216">Winning Round 4</text>
+		<text bitflag="321" id1="296" id2="236358" version="1065353216">Winning Round 5</text>
+		<text bitflag="321" id1="297" id2="236358" version="1065353216">Swiftness Round 1</text>
+		<text bitflag="321" id1="298" id2="236358" version="1065353216">Swiftness Round 2</text>
+		<text bitflag="321" id1="299" id2="236358" version="1065353216">Swiftness Round 3</text>
+		<text bitflag="321" id1="300" id2="236358" version="1065353216">Swiftness Round 4</text>
+		<text bitflag="321" id1="301" id2="236358" version="1065353216">Swiftness Round 5</text>
+		<text bitflag="321" id1="302" id2="236358" version="1065353216">First Blood in Round 4</text>
+		<text bitflag="321" id1="303" id2="236358" version="1065353216">First Blood in Round 5</text>
+		<text bitflag="321" id1="304" id2="236358" version="1065353216">Annihilator - 30k Damage Dealt</text>
+		<text bitflag="321" id1="305" id2="236358" version="1065353216">Assassin - 1 Solo Kill</text>
+		<text bitflag="321" id1="306" id2="236358" version="1065353216">Combatant - 10k Damage Dealt</text>
+		<text bitflag="321" id1="307" id2="236358" version="1065353216">Fighter - 8 kill Assists</text>
+		<text bitflag="321" id1="308" id2="236358" version="1065353216">Defense Basic - 1 Minute Defending</text>
+		<text bitflag="321" id1="309" id2="236358" version="1065353216">Defense Bronze - 2 Minutes Defending</text>
+		<text bitflag="321" id1="310" id2="236358" version="1065353216">Defense Silver - 4 Minutes Defending</text>
+		<text bitflag="321" id1="311" id2="236358" version="1065353216">Defense Gold - 6 Minutes Defending</text>
+		<text bitflag="321" id1="312" id2="236358" version="1065353216">Defense Platinum - 8 Minutes Defending</text>
+		<text bitflag="321" id1="313" id2="236358" version="1065353216">Defense Diamond - 10 Minutes Defending</text>
+		<text bitflag="321" id1="314" id2="236358" version="1065353216">Demolisher - Destroyed 8 defense turrets</text>
+		<text bitflag="321" id1="315" id2="236358" version="1065353216">Destroyer - 20k Damage Dealt</text>
+		<text bitflag="321" id1="316" id2="236358" version="1065353216">Ravage - 8 Kills</text>
+		<text bitflag="321" id1="317" id2="236358" version="1065353216">Mechanic - 2k Repaired</text>
+		<text bitflag="321" id1="318" id2="236358" version="1065353216">Offense Basic - Captured 1 objective point</text>
+		<text bitflag="321" id1="319" id2="236358" version="1065353216">Offense Bronze - Captured 2 objective points</text>
+		<text bitflag="321" id1="320" id2="236358" version="1065353216">Offense Silver - Captured 3 objective points</text>
+		<text bitflag="321" id1="321" id2="236358" version="1065353216">Offense Gold - Captured 4 objective points</text>
+		<text bitflag="321" id1="322" id2="236358" version="1065353216">Assault - Destroyed 2 defense turrets</text>
+		<text bitflag="321" id1="323" id2="236358" version="1065353216">Siege - Destroyed 6 defense turrets</text>
+		<text bitflag="321" id1="324" id2="236358" version="1065353216">Support - 4 Kill Assists</text>
+		<text bitflag="321" id1="325" id2="236358" version="1065353216">Eradicate - 800 objective destroy points</text>
+		<text bitflag="321" id1="326" id2="236358" version="1065353216">Quick Draw - 2 Kills</text>
+		<text bitflag="321" id1="327" id2="236358" version="1065353216">Savior - 4k Repaired</text>
+		<text bitflag="321" id1="328" id2="236358" version="1065353216">Dismantle - 350 objective destroy points</text>
+		<text bitflag="321" id1="329" id2="236358" version="1065353216">Ace - 5 Kills</text>
+		<text bitflag="321" id1="330" id2="236358" version="1065353216">Wingman - 12 Kill Assists</text>
+		<text bitflag="321" id1="331" id2="236358" version="1065353216">Soldier - 4 Kills</text>
+		<text bitflag="321" id1="332" id2="236358" version="1065353216">Commando - 8 Kills</text>
+		<text bitflag="321" id1="333" id2="236358" version="1065353216">Healer - 730k Healed</text>
+		<text bitflag="321" id1="334" id2="236358" version="1065353216">Savior - 2.15M Healed</text>
+		<text bitflag="321" id1="335" id2="236358" version="1065353216">Shield - 105k Defense</text>
+		<text bitflag="321" id1="336" id2="236358" version="1065353216">Protector - 560k Defense</text>
+		<text bitflag="321" id1="344" id2="236358" version="1065353216">Combatant - 300k Damage Dealt</text>
+		<text bitflag="321" id1="345" id2="236358" version="1065353216">Destroyer - 800k Damage Dealt</text>
+		<text bitflag="321" id1="346" id2="236358" version="1065353216">Combatant - 300k Damage Dealt</text>
+		<text bitflag="321" id1="347" id2="236358" version="1065353216">Destroyer - 800k Damage Dealt</text>
+	</file_content>
+</stb_file>

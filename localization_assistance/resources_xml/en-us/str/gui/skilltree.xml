@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>36</strs>
+		<file_name>/resources/en-us/str/gui/skilltree.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="273029" version="1065353216">TRAINING POINTS AVAILABLE</text>
+		<text bitflag="321" id1="2" id2="273029" version="1065353216">Are you sure?</text>
+		<text bitflag="321" id1="3" id2="273029" version="1065353216">Discard Changes</text>
+		<text bitflag="321" id1="4" id2="273029" version="1065353216">Cancel</text>
+		<text bitflag="321" id1="5" id2="273029" version="1065353216">COMMIT</text>
+		<text bitflag="321" id1="6" id2="273029" version="1065353216">RESET</text>
+		<text bitflag="321" id1="7" id2="273029" version="1065353216">DISCIPLINE</text>
+		<text bitflag="321" id1="8" id2="273029" version="1065353216">Skill Tree - &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="9" id2="273029" version="1065353216">All allocated points will be lost!</text>
+		<text bitflag="321" id1="10" id2="273029" version="1065353216">Return all points spent in this session to your skill points pool.</text>
+		<text bitflag="321" id1="11" id2="273029" version="1065353216">Apply all changes you have made to your skill tree.</text>
+		<text bitflag="321" id1="1000" id2="273029" version="1065353216">Skill Points Committed</text>
+		<text bitflag="321" id1="1001" id2="273029" version="1065353216">Failure: Attempting to assign a rank to &lt;&lt;1&gt;&gt; that exceeds its allowed maximum</text>
+		<text bitflag="321" id1="1002" id2="273029" version="1065353216">Failure: Attempting to decrease the rank of &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="1003" id2="273029" version="1065353216">Failure: Attempting to increase the rank of a skill where the prerequisite skill &lt;&lt;1&gt;&gt; has not been maxed out yet</text>
+		<text bitflag="321" id1="1004" id2="273029" version="1065353216">Failure: Attempting to increase the rank of &lt;&lt;1&gt;&gt; without sufficient investment in lower tier skills</text>
+		<text bitflag="321" id1="2006" id2="273029" version="1065353216">INSPECT</text>
+		<text bitflag="321" id1="2007" id2="273029" version="1065353216">SELECT</text>
+		<text bitflag="321" id1="3000" id2="273029" version="1065353216">You don't need to respec since you haven't spent any skill points!</text>
+		<text bitflag="321" id1="3001" id2="273029" version="1065353216">It has been a week! Your respec counter has been reset to 0.</text>
+		<text bitflag="321" id1="3002" id2="273029" version="1065353216">Not enough money for a respec! Respec cost is: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="3003" id2="273029" version="1065353216">Respec Successful!</text>
+		<text bitflag="321" id1="3004" id2="273029" version="1065353216">Respec cost is: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="6005" id2="273029" version="1065353216">Requires an Advanced Class</text>
+		<text bitflag="321" id1="6006" id2="273029" version="1065353216">INSPECT</text>
+		<text bitflag="321" id1="6007" id2="273029" version="1065353216">SELECT</text>
+		<text bitflag="321" id1="6008" id2="273029" version="1065353216">Skill Tree</text>
+		<text bitflag="321" id1="6009" id2="273029" version="1065353216">Legacy</text>
+		<text bitflag="321" id1="6011" id2="273029" version="1065353216">Legacy</text>
+		<text bitflag="321" id1="6014" id2="273029" version="1065353216">RESPEC SKILLS</text>
+		<text bitflag="321" id1="6015" id2="273029" version="1065353216">Resets all currently assigned skill points.</text>
+		<text bitflag="321" id1="6016" id2="273029" version="1065353216">WARNING</text>
+		<text bitflag="321" id1="6017" id2="273029" version="1065353216">Are you sure you wish to select &lt;&lt;1&gt;&gt;?&lt;br&gt;&lt;br&gt;This selection is final, you will not be able to change it later.</text>
+		<text bitflag="321" id1="6018" id2="273029" version="1065353216">Yes</text>
+		<text bitflag="321" id1="6019" id2="273029" version="1065353216">No</text>
+		<text bitflag="321" id1="6020" id2="273029" version="1065353216">Skill points cannot be modified while in a PvP match or queued for one.</text>
+	</file_content>
+</stb_file>

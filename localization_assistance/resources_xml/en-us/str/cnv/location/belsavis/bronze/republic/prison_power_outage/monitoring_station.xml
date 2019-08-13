@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>8</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/bronze/republic/prison_power_outage/monitoring_station.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="289094" id2="17" version="1065353216">Warning: Power remains offline in maximum security wing. All security personnel should be on alert.</text>
+		<text bitflag="3393" id1="289097" id2="17" version="1065353216">Warning: Power failure detected in maximum security wing. Prisoner escape imminent.</text>
+		<text bitflag="3393" id1="289099" id2="17" version="1065353216">Main generator must be reactivated to restore power. Chief engineer cannot be located.</text>
+		<text bitflag="3393" id1="289101" id2="17" version="1065353216">Tools have been provided for necessary repairs. All security personnel, please respond.</text>
+		<text bitflag="1360" id1="289102" id2="17" version="1065353216">[Take the tools]</text>
+		<text bitflag="3393" id1="289103" id2="17" version="1065353216">Coordinates on-screen. Alarm will sound until generator repairs are complete and emergency reset is triggered.</text>
+		<text bitflag="3393" id1="289105" id2="17" version="1065353216">Warning: Esh-kha cell block at fifteen percent power. Proceed with extreme caution.</text>
+		<text bitflag="321" id1="289109" id2="17" version="1065353216">[This monitoring station appears to be deactivated.]</text>
+	</file_content>
+</stb_file>

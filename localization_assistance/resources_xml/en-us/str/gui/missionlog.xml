@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>110</strs>
+		<file_name>/resources/en-us/str/gui/missionlog.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194669" version="1065353216">Bonus</text>
+		<text bitflag="321" id1="2" id2="194669" version="1065353216">TRACK</text>
+		<text bitflag="321" id1="3" id2="194669" version="1065353216">SHARE</text>
+		<text bitflag="321" id1="4" id2="194669" version="1065353216">ABANDON</text>
+		<text bitflag="321" id1="5" id2="194669" version="1065353216">GRAB MISSION</text>
+		<text bitflag="321" id1="6" id2="194669" version="1065353216">Tracked</text>
+		<text bitflag="321" id1="7" id2="194669" version="1065353216">Your group members have no missions.</text>
+		<text bitflag="321" id1="8" id2="194669" version="1065353216">UNTRACK</text>
+		<text bitflag="321" id1="9" id2="194669" version="1065353216">TRACK</text>
+		<text bitflag="321" id1="10" id2="194669" version="1065353216">Difficulty:</text>
+		<text bitflag="321" id1="11" id2="194669" version="1065353216">Trivial</text>
+		<text bitflag="321" id1="12" id2="194669" version="1065353216">This is a simple task that is easily completed.</text>
+		<text bitflag="321" id1="13" id2="194669" version="1065353216">Easy</text>
+		<text bitflag="321" id1="14" id2="194669" version="1065353216">This task is no challenge for you.</text>
+		<text bitflag="321" id1="15" id2="194669" version="1065353216">Normal</text>
+		<text bitflag="321" id1="16" id2="194669" version="1065353216">A typical mission that will test your abilities.</text>
+		<text bitflag="321" id1="17" id2="194669" version="1065353216">Hard</text>
+		<text bitflag="321" id1="18" id2="194669" version="1065353216">This is a challenging task that will stretch your limits.</text>
+		<text bitflag="321" id1="19" id2="194669" version="1065353216">Heroic</text>
+		<text bitflag="321" id1="20" id2="194669" version="1065353216">This is a highly challenging mission. Consider bringing allies.</text>
+		<text bitflag="321" id1="21" id2="194669" version="1065353216">Epic</text>
+		<text bitflag="321" id1="22" id2="194669" version="1065353216">This is an extremely challenging mission that will require numerous people to complete.</text>
+		<text bitflag="321" id1="23" id2="194669" version="1065353216">Group Member:</text>
+		<text bitflag="321" id1="24" id2="194669" version="1065353216">Player:</text>
+		<text bitflag="321" id1="25" id2="194669" version="1065353216">Tasks:</text>
+		<text bitflag="321" id1="26" id2="194669" version="1065353216">Mission Description:</text>
+		<text bitflag="321" id1="27" id2="194669" version="1065353216">Toggle Mission Tracker On</text>
+		<text bitflag="321" id1="28" id2="194669" version="1065353216">Toggle Mission Tracker Off</text>
+		<text bitflag="321" id1="29" id2="194669" version="1065353216">Mission Complete</text>
+		<text bitflag="321" id1="30" id2="194669" version="1065353216">Mission Log</text>
+		<text bitflag="321" id1="31" id2="194669" version="1065353216">Codex</text>
+		<text bitflag="321" id1="32" id2="194669" version="1065353216">Group Mission Log</text>
+		<text bitflag="321" id1="33" id2="194669" version="1065353216">Time:</text>
+		<text bitflag="321" id1="34" id2="194669" version="1065353216">MISSION</text>
+		<text bitflag="321" id1="35" id2="194669" version="1065353216">GROUP</text>
+		<text bitflag="321" id1="36" id2="194669" version="1065353216">CODEX</text>
+		<text bitflag="321" id1="37" id2="194669" version="1065353216">LOG</text>
+		<text bitflag="321" id1="38" id2="194669" version="1065353216">&lt;&lt;1&gt;&gt; (Bonus)</text>
+		<text bitflag="321" id1="39" id2="194669" version="1065353216">&lt;&lt;1&gt;&gt; PENDING</text>
+		<text bitflag="321" id1="40" id2="194669" version="1065353216">LOCKOUTS</text>
+		<text bitflag="321" id1="41" id2="194669" version="1065353216">RESET</text>
+		<text bitflag="321" id1="42" id2="194669" version="1065353216">This is currently on a 2-minute cooldown.</text>
+		<text bitflag="321" id1="43" id2="194669" version="1065353216">You cannot track this mission.</text>
+		<text bitflag="321" id1="44" id2="194669" version="1065353216">You cannot abandon this mission right now.</text>
+		<text bitflag="321" id1="45" id2="194669" version="1065353216">You cannot share this mission.</text>
+		<text bitflag="321" id1="46" id2="194669" version="1065353216">Level &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="47" id2="194669" version="1065353216">&lt;&lt;1&gt;&gt; Additional &lt;&lt;1[Mission/Missions]&gt;&gt; Tracked</text>
+		<text bitflag="321" id1="48" id2="194669" version="1065353216">Missions: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="49" id2="194669" version="1065353216">The max amount of missions you can have in your log is &lt;&lt;1&gt;&gt;.
+Bonus missions do not count towards this cap.</text>
+		<text bitflag="321" id1="50" id2="194669" version="1065353216">You are currently over the cap of max missions you can have in your log.
+You will be unable to gain more missions until you are under the cap of &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="51" id2="194669" version="1065353216">This mission cannot be reset.</text>
+		<text bitflag="321" id1="258" id2="194669" version="1065353216">Repeatable - This mission can be repeated in the future.</text>
+		<text bitflag="321" id1="259" id2="194669" version="1065353216">This mission cannot be reset right now.</text>
+		<text bitflag="321" id1="260" id2="194669" version="1065353216">Group Missions</text>
+		<text bitflag="321" id1="261" id2="194669" version="1065353216">Personal Missions</text>
+		<text bitflag="321" id1="262" id2="194669" version="1065353216">GROUP</text>
+		<text bitflag="321" id1="263" id2="194669" version="1065353216">PERSONAL</text>
+		<text bitflag="321" id1="264" id2="194669" version="1065353216">Entries</text>
+		<text bitflag="321" id1="265" id2="194669" version="1065353216">CONQUEST</text>
+		<text bitflag="321" id1="266" id2="194669" version="1065353216">Stronghold Bonus &lt;&lt;1&gt;&gt;%</text>
+		<text bitflag="321" id1="270" id2="194669" version="1065353216">Conquest Points</text>
+		<text bitflag="321" id1="272" id2="194669" version="1065353216">&lt;&lt;1&gt;&gt; x&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="273" id2="194669" version="1065353216">GUILD REWARDS</text>
+		<text bitflag="321" id1="274" id2="194669" version="1065353216">Personal Rewards</text>
+		<text bitflag="321" id1="275" id2="194669" version="1065353216">STATUS AND REWARDS</text>
+		<text bitflag="321" id1="276" id2="194669" version="1065353216">GUILD</text>
+		<text bitflag="321" id1="277" id2="194669" version="1065353216">&lt;&lt;1&gt;&gt; Conquered by</text>
+		<text bitflag="321" id1="278" id2="194669" version="1065353216">NO GUILD</text>
+		<text bitflag="321" id1="279" id2="194669" version="1065353216">GUILD LEADERBOARD:</text>
+		<text bitflag="321" id1="281" id2="194669" version="1065353216">INVADE PLANET</text>
+		<text bitflag="321" id1="282" id2="194669" version="1065353216">Invading the planet will commit your guild's flagship to compete on this planet's leaderboard for this conquest event. If you place in the top spot, you will conquer the planet at the end of the event.
+
+You cannot invade a planet in the 72 hours of a conquest event. You must lock in your commitment beforehand.</text>
+		<text bitflag="321" id1="283" id2="194669" version="1065353216">You must possess a gold key to the guild flagship in order to commit to an invasion.</text>
+		<text bitflag="321" id1="284" id2="194669" version="1065353216">STATUS: EVENT IN PROGRESS</text>
+		<text bitflag="321" id1="285" id2="194669" version="1065353216">Guild Flagship is already invading a planet.</text>
+		<text bitflag="321" id1="286" id2="194669" version="1065353216">Guild Invasion Bonus:</text>
+		<text bitflag="321" id1="287" id2="194669" version="1065353216">Objectives</text>
+		<text bitflag="321" id1="288" id2="194669" version="1065353216">Guild Score:</text>
+		<text bitflag="321" id1="289" id2="194669" version="1065353216">Guild Invasion:</text>
+		<text bitflag="321" id1="290" id2="194669" version="1065353216">STATUS: FAILED</text>
+		<text bitflag="321" id1="291" id2="194669" version="1065353216">None</text>
+		<text bitflag="321" id1="300" id2="194669" version="1065353216">Next Event Starts In:</text>
+		<text bitflag="321" id1="302" id2="194669" version="1065353216">The current conquest event is in progress. In order to receive this reward, your guild must place on the leaderboard and you must meet your personal contribution target.
+
+If you qualify, the guild reward will be granted at the end of the review period, when the next conquest event begins.</text>
+		<text bitflag="321" id1="304" id2="194669" version="1065353216">You failed to qualify for the guild reward. In order to qualify for the reward, your guild must complete the plantery contribution target, and you must complete your personal goal.</text>
+		<text bitflag="321" id1="305" id2="194669" version="1065353216">You will receive your guild reward when the review period has ended.</text>
+		<text bitflag="321" id1="306" id2="194669" version="1065353216">Contributed Points</text>
+		<text bitflag="321" id1="307" id2="194669" version="1065353216">FINAL SCORE</text>
+		<text bitflag="321" id1="308" id2="194669" version="1065353216">REWARD GRANTED</text>
+		<text bitflag="321" id1="309" id2="194669" version="1065353216">CONFIRM FLAGSHIP INVASION</text>
+		<text bitflag="321" id1="310" id2="194669" version="1065353216">Flagship commitment for this conquest event is now locked. You must wait until the next conquest event to invade a planet.</text>
+		<text bitflag="321" id1="311" id2="194669" version="1065353216">STATUS: REWARD PENDING</text>
+		<text bitflag="321" id1="312" id2="194669" version="1065353216">PLAY EPISODE</text>
+		<text bitflag="321" id1="313" id2="194669" version="1065353216">PLAY</text>
+		<text bitflag="321" id1="314" id2="194669" version="1065353216">Story</text>
+		<text bitflag="321" id1="315" id2="194669" version="1065353216">Veteran</text>
+		<text bitflag="321" id1="316" id2="194669" version="1065353216">Master</text>
+		<text bitflag="321" id1="317" id2="194669" version="1065353216">Currently selected difficulty.</text>
+		<text bitflag="321" id1="318" id2="194669" version="1065353216">LAUNCH MISSION</text>
+		<text bitflag="321" id1="319" id2="194669" version="1065353216">LAUNCH</text>
+		<text bitflag="321" id1="320" id2="194669" version="1065353216">Sort By Points</text>
+		<text bitflag="321" id1="321" id2="194669" version="1065353216">Sort By Name</text>
+		<text bitflag="321" id1="322" id2="194669" version="1065353216">Sort By Repeatable</text>
+		<text bitflag="321" id1="323" id2="194669" version="1065353216">Track</text>
+		<text bitflag="321" id1="324" id2="194669" version="1065353216">Sort By Progress</text>
+		<text bitflag="321" id1="325" id2="194669" version="1065353216">Rewards</text>
+		<text bitflag="321" id1="326" id2="194669" version="1065353216">&lt;font color='#3ed3f4'&gt;&lt;b&gt;Objective:&lt;/b&gt;&lt;/font&gt; &lt;&lt;1&gt;&gt;
+&lt;font color='#3ed3f4'&gt;&lt;b&gt;Conquest Points:&lt;/b&gt;&lt;/font&gt; &lt;&lt;2&gt;&gt;
+&lt;font color='#3ed3f4'&gt;&lt;b&gt;Frequency:&lt;/b&gt;&lt;/font&gt; &lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="327" id2="194669" version="1065353216">Not Repeatable</text>
+		<text bitflag="321" id1="328" id2="194669" version="1065353216">Daily Repeatable</text>
+		<text bitflag="321" id1="329" id2="194669" version="1065353216">Infinitely Repeatable</text>
+		<text bitflag="321" id1="330" id2="194669" version="1065353216">Sort By Type</text>
+		<text bitflag="321" id1="331" id2="194669" version="1065353216">Sort By Tracked</text>
+	</file_content>
+</stb_file>

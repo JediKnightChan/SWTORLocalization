@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/exp/seasons/01/ep_01/boss_barks.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1190873" id2="17" version="1065353216">Defense systems initialized.</text>
+		<text bitflag="1345" id1="1190874" id2="17" version="1065353216">Target acquired. Extermination imminent.</text>
+		<text bitflag="1345" id1="1190875" id2="17" version="1065353216">Running offensive protocol 6927.</text>
+		<text bitflag="1345" id1="1190876" id2="17" version="1065353216">&quot;Last stand&quot; order initiated!</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>14</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/class/jedi_knight/t7.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="689139" id2="17" version="1065353216">T7 = fully operational = ready for anything</text>
+		<text bitflag="3393" id1="689140" id2="17" version="1065353216">Warning // Coruscant = big city-world = easy to get lost</text>
+		<text bitflag="1345" id1="689141" id2="17" version="1065353216">We'll be fine, Teeseven.</text>
+		<text bitflag="1360" id1="689141" id2="17" version="1065353216">Don't worry, little friend.</text>
+		<text bitflag="3393" id1="689142" id2="17" version="1065353216">Affirmative // T7 = keep Jedi safe</text>
+		<text bitflag="1345" id1="689144" id2="17" version="1065353216">Are you speaking from personal experience?</text>
+		<text bitflag="1360" id1="689144" id2="17" version="1065353216">You've been here before?</text>
+		<text bitflag="3393" id1="689145" id2="17" version="1065353216">T7 = never lost // T7 = show Jedi the way</text>
+		<text bitflag="1345" id1="689147" id2="17" version="1065353216">Don't bother me unless it's important, got it?</text>
+		<text bitflag="1360" id1="689147" id2="17" version="1065353216">Spare me your warnings.</text>
+		<text bitflag="3393" id1="689148" id2="17" version="1065353216">Affirmative // T7 = setting new alert protocols</text>
+		<text bitflag="3393" id1="689150" id2="17" version="1065353216">Jedi + T7 = late // Important meeting = Senate tower</text>
+		<text bitflag="3393" id1="689152" id2="17" version="1065353216">Jedi + T7 = 1751 stories beneath the surface = very deep</text>
+		<text bitflag="3393" id1="689153" id2="17" version="1065353216">T7 sensors = detect many different life-forms = high potential for danger</text>
+	</file_content>
+</stb_file>

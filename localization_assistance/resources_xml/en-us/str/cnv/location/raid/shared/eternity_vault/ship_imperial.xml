@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/raid/shared/eternity_vault/ship_imperial.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="768496" id2="17" version="1065353216">All hands, prepare for enemy fire! The Eternity Vault defenses are active!</text>
+		<text bitflag="1345" id1="768498" id2="17" version="1065353216">Taking heavy damage... get to the escape pods--abandon ship!</text>
+		<text bitflag="1345" id1="768604" id2="17" version="1065353216">We've hit Belsavis atmosphere. Proceeding to surface.</text>
+	</file_content>
+</stb_file>

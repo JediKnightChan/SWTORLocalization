@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>412</strs>
+		<file_name>/resources/en-us/str/gui/achievementcategories.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="257" id2="732176" version="1065353216">Location</text>
+		<text bitflag="321" id1="258" id2="732176" version="1065353216">Flashpoint</text>
+		<text bitflag="321" id1="259" id2="732176" version="1065353216">Companions</text>
+		<text bitflag="321" id1="260" id2="732176" version="1065353216">Metrics</text>
+		<text bitflag="321" id1="261" id2="732176" version="1065353216">Operations</text>
+		<text bitflag="321" id1="262" id2="732176" version="1065353216">Player Vs. Player</text>
+		<text bitflag="321" id1="263" id2="732176" version="1065353216">Space</text>
+		<text bitflag="321" id1="264" id2="732176" version="1065353216">Alderaan</text>
+		<text bitflag="321" id1="265" id2="732176" version="1065353216">Balmorra</text>
+		<text bitflag="321" id1="266" id2="732176" version="1065353216">Belsavis</text>
+		<text bitflag="321" id1="267" id2="732176" version="1065353216">Corellia</text>
+		<text bitflag="321" id1="268" id2="732176" version="1065353216">Coruscant</text>
+		<text bitflag="321" id1="269" id2="732176" version="1065353216">Dromund Kaas</text>
+		<text bitflag="321" id1="270" id2="732176" version="1065353216">General</text>
+		<text bitflag="321" id1="271" id2="732176" version="1065353216">Hoth</text>
+		<text bitflag="321" id1="272" id2="732176" version="1065353216">Hutta</text>
+		<text bitflag="321" id1="273" id2="732176" version="1065353216">Ilum</text>
+		<text bitflag="321" id1="274" id2="732176" version="1065353216">Korriban</text>
+		<text bitflag="321" id1="275" id2="732176" version="1065353216">Makeb</text>
+		<text bitflag="321" id1="276" id2="732176" version="1065353216">Nar Shaddaa</text>
+		<text bitflag="321" id1="277" id2="732176" version="1065353216">Ord Mantell</text>
+		<text bitflag="321" id1="278" id2="732176" version="1065353216">Quesh</text>
+		<text bitflag="321" id1="279" id2="732176" version="1065353216">Taris</text>
+		<text bitflag="321" id1="280" id2="732176" version="1065353216">Tatooine</text>
+		<text bitflag="321" id1="281" id2="732176" version="1065353216">Tython</text>
+		<text bitflag="321" id1="282" id2="732176" version="1065353216">Voss</text>
+		<text bitflag="321" id1="283" id2="732176" version="1065353216">Athiss</text>
+		<text bitflag="321" id1="284" id2="732176" version="1065353216">Boarding Party</text>
+		<text bitflag="321" id1="285" id2="732176" version="1065353216">Hammer Station</text>
+		<text bitflag="321" id1="286" id2="732176" version="1065353216">Cademimu</text>
+		<text bitflag="321" id1="287" id2="732176" version="1065353216">Colicoid War Games</text>
+		<text bitflag="321" id1="288" id2="732176" version="1065353216">Directive 7</text>
+		<text bitflag="321" id1="289" id2="732176" version="1065353216">Maelstrom Prison</text>
+		<text bitflag="321" id1="290" id2="732176" version="1065353216">Mandalorian Raiders</text>
+		<text bitflag="321" id1="291" id2="732176" version="1065353216">Red Reaper</text>
+		<text bitflag="321" id1="292" id2="732176" version="1065353216">Taral V</text>
+		<text bitflag="321" id1="293" id2="732176" version="1065353216">The Battle of Ilum</text>
+		<text bitflag="321" id1="294" id2="732176" version="1065353216">The Black Talon</text>
+		<text bitflag="321" id1="295" id2="732176" version="1065353216">The Esseles</text>
+		<text bitflag="321" id1="296" id2="732176" version="1065353216">The False Emperor</text>
+		<text bitflag="321" id1="297" id2="732176" version="1065353216">The Foundry</text>
+		<text bitflag="321" id1="298" id2="732176" version="1065353216">Kaon</text>
+		<text bitflag="321" id1="299" id2="732176" version="1065353216">Lost Island</text>
+		<text bitflag="321" id1="300" id2="732176" version="1065353216">Asation</text>
+		<text bitflag="321" id1="301" id2="732176" version="1065353216">Denova</text>
+		<text bitflag="321" id1="302" id2="732176" version="1065353216">Hutt Hospitality</text>
+		<text bitflag="321" id1="303" id2="732176" version="1065353216">Karagga's Palace</text>
+		<text bitflag="321" id1="304" id2="732176" version="1065353216">8-Person Story Difficulty</text>
+		<text bitflag="321" id1="305" id2="732176" version="1065353216">8-Person Veteran Difficulty</text>
+		<text bitflag="321" id1="306" id2="732176" version="1065353216">8-Person Master Difficulty</text>
+		<text bitflag="321" id1="307" id2="732176" version="1065353216">16-Person Story Difficulty</text>
+		<text bitflag="321" id1="308" id2="732176" version="1065353216">16-Person Veteran Difficulty</text>
+		<text bitflag="321" id1="309" id2="732176" version="1065353216">16-Person Master Difficulty</text>
+		<text bitflag="321" id1="310" id2="732176" version="1065353216">Agent</text>
+		<text bitflag="321" id1="311" id2="732176" version="1065353216">Bounty Hunter</text>
+		<text bitflag="321" id1="312" id2="732176" version="1065353216">Sith Warrior</text>
+		<text bitflag="321" id1="313" id2="732176" version="1065353216">Sith Inquisitor</text>
+		<text bitflag="321" id1="314" id2="732176" version="1065353216">Jedi Consular</text>
+		<text bitflag="321" id1="315" id2="732176" version="1065353216">Jedi Knight</text>
+		<text bitflag="321" id1="316" id2="732176" version="1065353216">Smuggler</text>
+		<text bitflag="321" id1="317" id2="732176" version="1065353216">Trooper</text>
+		<text bitflag="321" id1="318" id2="732176" version="1065353216">Influence</text>
+		<text bitflag="321" id1="319" id2="732176" version="1065353216">Imperial</text>
+		<text bitflag="321" id1="320" id2="732176" version="1065353216">Republic</text>
+		<text bitflag="321" id1="321" id2="732176" version="1065353216">Heroic Missions</text>
+		<text bitflag="321" id1="322" id2="732176" version="1065353216">Story Missions</text>
+		<text bitflag="321" id1="323" id2="732176" version="1065353216">Exploration</text>
+		<text bitflag="321" id1="324" id2="732176" version="1065353216">World Bosses</text>
+		<text bitflag="321" id1="325" id2="732176" version="1065353216">Alderaanian Politics</text>
+		<text bitflag="321" id1="326" id2="732176" version="1065353216">Achievements</text>
+		<text bitflag="321" id1="327" id2="732176" version="1065353216">Kaliyo Djannis</text>
+		<text bitflag="321" id1="328" id2="732176" version="1065353216">Dr. Lokin</text>
+		<text bitflag="321" id1="329" id2="732176" version="1065353216">Vector Hyllus</text>
+		<text bitflag="321" id1="330" id2="732176" version="1065353216">Ensign Temple</text>
+		<text bitflag="321" id1="331" id2="732176" version="1065353216">SCORPIO</text>
+		<text bitflag="321" id1="332" id2="732176" version="1065353216">Beasts of Alderaan</text>
+		<text bitflag="321" id1="333" id2="732176" version="1065353216">Republic Heroic Missions</text>
+		<text bitflag="321" id1="334" id2="732176" version="1065353216">Imperial Heroic Missions</text>
+		<text bitflag="321" id1="335" id2="732176" version="1065353216">Republic Exploration</text>
+		<text bitflag="321" id1="336" id2="732176" version="1065353216">Imperial Exploration</text>
+		<text bitflag="321" id1="337" id2="732176" version="1065353216">Beasts</text>
+		<text bitflag="321" id1="338" id2="732176" version="1065353216">Droids</text>
+		<text bitflag="321" id1="339" id2="732176" version="1065353216">The Republic</text>
+		<text bitflag="321" id1="340" id2="732176" version="1065353216">The Empire</text>
+		<text bitflag="321" id1="341" id2="732176" version="1065353216">Black Sun</text>
+		<text bitflag="321" id1="342" id2="732176" version="1065353216">Migrant Merchants Guild</text>
+		<text bitflag="321" id1="343" id2="732176" version="1065353216">The Justicars</text>
+		<text bitflag="321" id1="344" id2="732176" version="1065353216">Grathan's Minions</text>
+		<text bitflag="321" id1="345" id2="732176" version="1065353216">The Possessed</text>
+		<text bitflag="321" id1="346" id2="732176" version="1065353216">Mandalorians</text>
+		<text bitflag="321" id1="347" id2="732176" version="1065353216">Aliens and Slaves</text>
+		<text bitflag="321" id1="357" id2="732176" version="1065353216">Kills</text>
+		<text bitflag="321" id1="358" id2="732176" version="1065353216">Ancient Hypergate</text>
+		<text bitflag="321" id1="359" id2="732176" version="1065353216">Novare Coast</text>
+		<text bitflag="321" id1="360" id2="732176" version="1065353216">Huttball</text>
+		<text bitflag="321" id1="361" id2="732176" version="1065353216">Voidstar</text>
+		<text bitflag="321" id1="363" id2="732176" version="1065353216">Aliens and Mercenaries</text>
+		<text bitflag="321" id1="364" id2="732176" version="1065353216">Veteran</text>
+		<text bitflag="321" id1="365" id2="732176" version="1065353216">Master</text>
+		<text bitflag="321" id1="366" id2="732176" version="1065353216">Torian</text>
+		<text bitflag="321" id1="367" id2="732176" version="1065353216">Skadge</text>
+		<text bitflag="321" id1="368" id2="732176" version="1065353216">Mako</text>
+		<text bitflag="321" id1="369" id2="732176" version="1065353216">Gault</text>
+		<text bitflag="321" id1="370" id2="732176" version="1065353216">Blizz</text>
+		<text bitflag="321" id1="371" id2="732176" version="1065353216">Zenith</text>
+		<text bitflag="321" id1="372" id2="732176" version="1065353216">Tharan Cedrax</text>
+		<text bitflag="321" id1="373" id2="732176" version="1065353216">Qyzen Fess</text>
+		<text bitflag="321" id1="374" id2="732176" version="1065353216">Nadia Grell</text>
+		<text bitflag="321" id1="375" id2="732176" version="1065353216">Lt. Iresso</text>
+		<text bitflag="321" id1="376" id2="732176" version="1065353216">Andronikos Revel</text>
+		<text bitflag="321" id1="377" id2="732176" version="1065353216">Ashara</text>
+		<text bitflag="321" id1="378" id2="732176" version="1065353216">Khem Val</text>
+		<text bitflag="321" id1="379" id2="732176" version="1065353216">Talos</text>
+		<text bitflag="321" id1="380" id2="732176" version="1065353216">Xalek</text>
+		<text bitflag="321" id1="381" id2="732176" version="1065353216">Doc</text>
+		<text bitflag="321" id1="382" id2="732176" version="1065353216">Kira Carsen</text>
+		<text bitflag="321" id1="383" id2="732176" version="1065353216">Sgt. Rusk</text>
+		<text bitflag="321" id1="384" id2="732176" version="1065353216">Lord Scourge</text>
+		<text bitflag="321" id1="385" id2="732176" version="1065353216">T7-01</text>
+		<text bitflag="321" id1="386" id2="732176" version="1065353216">Akaavi Spar</text>
+		<text bitflag="321" id1="387" id2="732176" version="1065353216">Bowdaar</text>
+		<text bitflag="321" id1="388" id2="732176" version="1065353216">Corso Riggs</text>
+		<text bitflag="321" id1="389" id2="732176" version="1065353216">Guss Tuno</text>
+		<text bitflag="321" id1="390" id2="732176" version="1065353216">Risha</text>
+		<text bitflag="321" id1="391" id2="732176" version="1065353216">Elara Dorne</text>
+		<text bitflag="321" id1="392" id2="732176" version="1065353216">Aric Jorgan</text>
+		<text bitflag="321" id1="393" id2="732176" version="1065353216">M1-4X</text>
+		<text bitflag="321" id1="394" id2="732176" version="1065353216">Tanno Vik</text>
+		<text bitflag="321" id1="395" id2="732176" version="1065353216">Yuun</text>
+		<text bitflag="321" id1="396" id2="732176" version="1065353216">Broonmark</text>
+		<text bitflag="321" id1="397" id2="732176" version="1065353216">Jaesa Willsaam</text>
+		<text bitflag="321" id1="398" id2="732176" version="1065353216">Pierce</text>
+		<text bitflag="321" id1="399" id2="732176" version="1065353216">Malavai Quinn</text>
+		<text bitflag="321" id1="400" id2="732176" version="1065353216">Vette</text>
+		<text bitflag="321" id1="401" id2="732176" version="1065353216">Valor</text>
+		<text bitflag="321" id1="402" id2="732176" version="1065353216">Social</text>
+		<text bitflag="321" id1="403" id2="732176" version="1065353216">Level</text>
+		<text bitflag="321" id1="404" id2="732176" version="1065353216">Alignment</text>
+		<text bitflag="321" id1="405" id2="732176" version="1065353216">Dark</text>
+		<text bitflag="321" id1="406" id2="732176" version="1065353216">Light</text>
+		<text bitflag="321" id1="410" id2="732176" version="1065353216">Advancement</text>
+		<text bitflag="321" id1="411" id2="732176" version="1065353216">Legacy</text>
+		<text bitflag="321" id1="412" id2="732176" version="1065353216">Outfits</text>
+		<text bitflag="321" id1="413" id2="732176" version="1065353216">Gear</text>
+		<text bitflag="321" id1="414" id2="732176" version="1065353216">Gadgets</text>
+		<text bitflag="321" id1="415" id2="732176" version="1065353216">Currency</text>
+		<text bitflag="321" id1="416" id2="732176" version="1065353216">Possessions</text>
+		<text bitflag="321" id1="417" id2="732176" version="1065353216">Vehicles</text>
+		<text bitflag="321" id1="418" id2="732176" version="1065353216">Pets</text>
+		<text bitflag="321" id1="419" id2="732176" version="1065353216">Credits</text>
+		<text bitflag="321" id1="420" id2="732176" version="1065353216">Weapons</text>
+		<text bitflag="321" id1="421" id2="732176" version="1065353216">The Black Hole</text>
+		<text bitflag="321" id1="422" id2="732176" version="1065353216">The Black Hole</text>
+		<text bitflag="321" id1="423" id2="732176" version="1065353216">The Justicars</text>
+		<text bitflag="321" id1="424" id2="732176" version="1065353216">Migrant Merchants Guild</text>
+		<text bitflag="321" id1="425" id2="732176" version="1065353216">Black Sun</text>
+		<text bitflag="321" id1="426" id2="732176" version="1065353216">Chapter 1</text>
+		<text bitflag="321" id1="427" id2="732176" version="1065353216">Chapter 2</text>
+		<text bitflag="321" id1="428" id2="732176" version="1065353216">Chapter 3</text>
+		<text bitflag="321" id1="429" id2="732176" version="1065353216">Fa'athra's Minions</text>
+		<text bitflag="321" id1="430" id2="732176" version="1065353216">The Evocii</text>
+		<text bitflag="321" id1="431" id2="732176" version="1065353216">Acolytes and Slaves</text>
+		<text bitflag="321" id1="432" id2="732176" version="1065353216">Regions of Makeb</text>
+		<text bitflag="321" id1="433" id2="732176" version="1065353216">Sand People</text>
+		<text bitflag="321" id1="434" id2="732176" version="1065353216">Ancient Hypergate</text>
+		<text bitflag="321" id1="435" id2="732176" version="1065353216">Novare Coast</text>
+		<text bitflag="321" id1="436" id2="732176" version="1065353216">Huttball</text>
+		<text bitflag="321" id1="437" id2="732176" version="1065353216">Voidstar</text>
+		<text bitflag="321" id1="438" id2="732176" version="1065353216">Critical Healing</text>
+		<text bitflag="321" id1="439" id2="732176" version="1065353216">Total Healing</text>
+		<text bitflag="321" id1="440" id2="732176" version="1065353216">Killing Blows</text>
+		<text bitflag="321" id1="441" id2="732176" version="1065353216">Solo Kills</text>
+		<text bitflag="321" id1="442" id2="732176" version="1065353216">Total Kills</text>
+		<text bitflag="321" id1="443" id2="732176" version="1065353216">Damage and Deaths</text>
+		<text bitflag="321" id1="444" id2="732176" version="1065353216">Critical Damage</text>
+		<text bitflag="321" id1="445" id2="732176" version="1065353216">Total Damage</text>
+		<text bitflag="321" id1="446" id2="732176" version="1065353216">Aeten Defense</text>
+		<text bitflag="321" id1="447" id2="732176" version="1065353216">Ascendancy Barrier</text>
+		<text bitflag="321" id1="448" id2="732176" version="1065353216">Cartel Listening Station</text>
+		<text bitflag="321" id1="449" id2="732176" version="1065353216">Clouds of Vondoru</text>
+		<text bitflag="321" id1="450" id2="732176" version="1065353216">Ezran Outpost</text>
+		<text bitflag="321" id1="451" id2="732176" version="1065353216">Jabiim Escort</text>
+		<text bitflag="321" id1="452" id2="732176" version="1065353216">Mugaar Ice Field</text>
+		<text bitflag="321" id1="453" id2="732176" version="1065353216">Nez Peron Sweep</text>
+		<text bitflag="321" id1="454" id2="732176" version="1065353216">Polith Minefield</text>
+		<text bitflag="321" id1="455" id2="732176" version="1065353216">Saleucami Fleet Action</text>
+		<text bitflag="321" id1="456" id2="732176" version="1065353216">Sarapin Assault</text>
+		<text bitflag="321" id1="457" id2="732176" version="1065353216">Skaross Fortification</text>
+		<text bitflag="321" id1="458" id2="732176" version="1065353216">Sullust Interception</text>
+		<text bitflag="321" id1="459" id2="732176" version="1065353216">Taspan Ambush</text>
+		<text bitflag="321" id1="460" id2="732176" version="1065353216">Archenar Interception</text>
+		<text bitflag="321" id1="461" id2="732176" version="1065353216">Balosar Outpost</text>
+		<text bitflag="321" id1="462" id2="732176" version="1065353216">Drexel Sweep</text>
+		<text bitflag="321" id1="463" id2="732176" version="1065353216">Fondor Escort</text>
+		<text bitflag="321" id1="464" id2="732176" version="1065353216">Hydian Way Blockade</text>
+		<text bitflag="321" id1="465" id2="732176" version="1065353216">Impossible Sector</text>
+		<text bitflag="321" id1="466" id2="732176" version="1065353216">Javaal Fleet Action</text>
+		<text bitflag="321" id1="467" id2="732176" version="1065353216">Kalee Fortification</text>
+		<text bitflag="321" id1="468" id2="732176" version="1065353216">Kovor Ice Field</text>
+		<text bitflag="321" id1="469" id2="732176" version="1065353216">Llanic Station Strike</text>
+		<text bitflag="321" id1="470" id2="732176" version="1065353216">Makem Te Assault</text>
+		<text bitflag="321" id1="471" id2="732176" version="1065353216">Pakuuni Defense</text>
+		<text bitflag="321" id1="472" id2="732176" version="1065353216">Syvris Evacuation</text>
+		<text bitflag="321" id1="473" id2="732176" version="1065353216">Zosha Advance</text>
+		<text bitflag="321" id1="474" id2="732176" version="1065353216">Class Kills</text>
+		<text bitflag="321" id1="475" id2="732176" version="1065353216">Eternity Vault</text>
+		<text bitflag="321" id1="476" id2="732176" version="1065353216">Section X</text>
+		<text bitflag="321" id1="477" id2="732176" version="1065353216">Section X Player Vs. Player</text>
+		<text bitflag="321" id1="478" id2="732176" version="1065353216">Titles</text>
+		<text bitflag="321" id1="479" id2="732176" version="1065353216">Seeker Droid</text>
+		<text bitflag="321" id1="480" id2="732176" version="1065353216">Crew Skills</text>
+		<text bitflag="321" id1="481" id2="732176" version="1065353216">Miscellaneous</text>
+		<text bitflag="321" id1="482" id2="732176" version="1065353216">Macrobinoculars</text>
+		<text bitflag="321" id1="483" id2="732176" version="1065353216">Mesas of Makeb</text>
+		<text bitflag="321" id1="484" id2="732176" version="1065353216">Advanced Crew Skills</text>
+		<text bitflag="321" id1="485" id2="732176" version="1065353216">Citizens of Makeb</text>
+		<text bitflag="321" id1="486" id2="732176" version="1065353216">Makeb Imperial Forces</text>
+		<text bitflag="321" id1="487" id2="732176" version="1065353216">Scum and Villainy</text>
+		<text bitflag="321" id1="488" id2="732176" version="1065353216">Terror From Beyond</text>
+		<text bitflag="321" id1="489" id2="732176" version="1065353216">Explosive Conflict</text>
+		<text bitflag="321" id1="490" id2="732176" version="1065353216">Shared</text>
+		<text bitflag="321" id1="491" id2="732176" version="1065353216">HK-51</text>
+		<text bitflag="321" id1="492" id2="732176" version="1065353216">Veteran</text>
+		<text bitflag="321" id1="493" id2="732176" version="1065353216">Xenoanalyst II</text>
+		<text bitflag="321" id1="494" id2="732176" version="1065353216">Golden Fury</text>
+		<text bitflag="321" id1="495" id2="732176" version="1065353216">Epic Enemies</text>
+		<text bitflag="321" id1="496" id2="732176" version="1065353216">Toborro's Courtyard</text>
+		<text bitflag="321" id1="497" id2="732176" version="1065353216">Master</text>
+		<text bitflag="321" id1="498" id2="732176" version="1065353216">Czerka Corporate Labs</text>
+		<text bitflag="321" id1="499" id2="732176" version="1065353216">Czerka Core Meltdown</text>
+		<text bitflag="321" id1="500" id2="732176" version="1065353216">Crime Lords</text>
+		<text bitflag="321" id1="501" id2="732176" version="1065353216">Henchmen</text>
+		<text bitflag="321" id1="502" id2="732176" version="1065353216">Bounty Contract Week</text>
+		<text bitflag="321" id1="503" id2="732176" version="1065353216">Events</text>
+		<text bitflag="321" id1="504" id2="732176" version="1065353216">General</text>
+		<text bitflag="321" id1="505" id2="732176" version="1065353216">Events</text>
+		<text bitflag="321" id1="506" id2="732176" version="1065353216">Relics of the Gree</text>
+		<text bitflag="321" id1="507" id2="732176" version="1065353216">Treek</text>
+		<text bitflag="321" id1="508" id2="732176" version="1065353216">The Dread Fortress</text>
+		<text bitflag="321" id1="509" id2="732176" version="1065353216">The Dread Palace</text>
+		<text bitflag="321" id1="510" id2="732176" version="1065353216">Bonus Missions</text>
+		<text bitflag="321" id1="511" id2="732176" version="1065353216">Daily Bosses</text>
+		<text bitflag="321" id1="512" id2="732176" version="1065353216">Dailies</text>
+		<text bitflag="321" id1="513" id2="732176" version="1065353216">Oricon</text>
+		<text bitflag="321" id1="514" id2="732176" version="1065353216">Missions</text>
+		<text bitflag="321" id1="515" id2="732176" version="1065353216">CZ-198</text>
+		<text bitflag="321" id1="516" id2="732176" version="1065353216">Starfighter</text>
+		<text bitflag="321" id1="517" id2="732176" version="1065353216">Objectives</text>
+		<text bitflag="321" id1="518" id2="732176" version="1065353216">Points</text>
+		<text bitflag="321" id1="519" id2="732176" version="1065353216">Requisition</text>
+		<text bitflag="321" id1="520" id2="732176" version="1065353216">Gunship</text>
+		<text bitflag="321" id1="521" id2="732176" version="1065353216">Scout</text>
+		<text bitflag="321" id1="522" id2="732176" version="1065353216">Strike Fighter</text>
+		<text bitflag="321" id1="523" id2="732176" version="1065353216">Wins Ship</text>
+		<text bitflag="321" id1="524" id2="732176" version="1065353216">Wins Total</text>
+		<text bitflag="321" id1="525" id2="732176" version="1065353216">Assist MVP</text>
+		<text bitflag="321" id1="526" id2="732176" version="1065353216">Damage MVP</text>
+		<text bitflag="321" id1="527" id2="732176" version="1065353216">Kill MVP</text>
+		<text bitflag="321" id1="528" id2="732176" version="1065353216">Repair MVP</text>
+		<text bitflag="321" id1="529" id2="732176" version="1065353216">Total MVP</text>
+		<text bitflag="321" id1="530" id2="732176" version="1065353216">Ace Medal</text>
+		<text bitflag="321" id1="531" id2="732176" version="1065353216">Annihilator Medal</text>
+		<text bitflag="321" id1="532" id2="732176" version="1065353216">Assassin Medal</text>
+		<text bitflag="321" id1="533" id2="732176" version="1065353216">Assault Medal</text>
+		<text bitflag="321" id1="534" id2="732176" version="1065353216">Combatant Medal</text>
+		<text bitflag="321" id1="535" id2="732176" version="1065353216">Defense Medal</text>
+		<text bitflag="321" id1="536" id2="732176" version="1065353216">Demolisher Medal</text>
+		<text bitflag="321" id1="537" id2="732176" version="1065353216">Destroyer Medal</text>
+		<text bitflag="321" id1="538" id2="732176" version="1065353216">Dismantle Medal</text>
+		<text bitflag="321" id1="539" id2="732176" version="1065353216">Eradicate Medal</text>
+		<text bitflag="321" id1="540" id2="732176" version="1065353216">Fighter Medal</text>
+		<text bitflag="321" id1="541" id2="732176" version="1065353216">Ravage Medal</text>
+		<text bitflag="321" id1="542" id2="732176" version="1065353216">Mechanic Medal</text>
+		<text bitflag="321" id1="543" id2="732176" version="1065353216">Offense Medal</text>
+		<text bitflag="321" id1="544" id2="732176" version="1065353216">Support Medal</text>
+		<text bitflag="321" id1="545" id2="732176" version="1065353216">Quickdraw Medal</text>
+		<text bitflag="321" id1="546" id2="732176" version="1065353216">Savior Medal</text>
+		<text bitflag="321" id1="547" id2="732176" version="1065353216">Siege Medal</text>
+		<text bitflag="321" id1="548" id2="732176" version="1065353216">Wingman Medal</text>
+		<text bitflag="321" id1="549" id2="732176" version="1065353216">Total Medals</text>
+		<text bitflag="321" id1="550" id2="732176" version="1065353216">MVP</text>
+		<text bitflag="321" id1="551" id2="732176" version="1065353216">Crew</text>
+		<text bitflag="321" id1="552" id2="732176" version="1065353216">Battle</text>
+		<text bitflag="321" id1="553" id2="732176" version="1065353216">Matches Played</text>
+		<text bitflag="321" id1="554" id2="732176" version="1065353216">Medals</text>
+		<text bitflag="321" id1="555" id2="732176" version="1065353216">Rakghoul</text>
+		<text bitflag="321" id1="556" id2="732176" version="1065353216">Rakghoul Resurgence</text>
+		<text bitflag="321" id1="557" id2="732176" version="1065353216">The Eyeless</text>
+		<text bitflag="321" id1="558" id2="732176" version="1065353216">Bomber</text>
+		<text bitflag="321" id1="559" id2="732176" version="1065353216">Bomber</text>
+		<text bitflag="321" id1="560" id2="732176" version="1065353216">Ship Mastery</text>
+		<text bitflag="321" id1="561" id2="732176" version="1065353216">Republic Ships</text>
+		<text bitflag="321" id1="562" id2="732176" version="1065353216">Imperial Ships</text>
+		<text bitflag="321" id1="563" id2="732176" version="1065353216">Mastery</text>
+		<text bitflag="321" id1="564" id2="732176" version="1065353216">Assault on Tython</text>
+		<text bitflag="321" id1="565" id2="732176" version="1065353216">Assault on Tython - Imperial</text>
+		<text bitflag="321" id1="566" id2="732176" version="1065353216">Assault on Tython - Republic</text>
+		<text bitflag="321" id1="567" id2="732176" version="1065353216">Korriban Incursion - Imperial</text>
+		<text bitflag="321" id1="568" id2="732176" version="1065353216">Korriban Incursion - Republic</text>
+		<text bitflag="321" id1="569" id2="732176" version="1065353216">Story Missions</text>
+		<text bitflag="321" id1="570" id2="732176" version="1065353216">Life Day</text>
+		<text bitflag="321" id1="572" id2="732176" version="1065353216">Kuat Drive Yards</text>
+		<text bitflag="321" id1="573" id2="732176" version="1065353216">Depths of Manaan</text>
+		<text bitflag="321" id1="574" id2="732176" version="1065353216">Legacy of the Rakata</text>
+		<text bitflag="321" id1="575" id2="732176" version="1065353216">Nar Shaddaa Nightlife</text>
+		<text bitflag="321" id1="576" id2="732176" version="1065353216">Story</text>
+		<text bitflag="321" id1="577" id2="732176" version="1065353216">Yavin 4</text>
+		<text bitflag="321" id1="578" id2="732176" version="1065353216">Rishi</text>
+		<text bitflag="321" id1="579" id2="732176" version="1065353216">Revanites and their Allies</text>
+		<text bitflag="321" id1="580" id2="732176" version="1065353216">Strongholds</text>
+		<text bitflag="321" id1="581" id2="732176" version="1065353216">Conquests</text>
+		<text bitflag="321" id1="582" id2="732176" version="1065353216">Decoration Collection</text>
+		<text bitflag="321" id1="583" id2="732176" version="1065353216">Conquer Planets</text>
+		<text bitflag="321" id1="584" id2="732176" version="1065353216">Conquest Events</text>
+		<text bitflag="321" id1="585" id2="732176" version="1065353216">General Stronghold</text>
+		<text bitflag="321" id1="586" id2="732176" version="1065353216">Crafting Prefabs</text>
+		<text bitflag="321" id1="587" id2="732176" version="1065353216">Battle of Rishi</text>
+		<text bitflag="321" id1="589" id2="732176" version="1065353216">Crafting War Supplies</text>
+		<text bitflag="321" id1="590" id2="732176" version="1065353216">A Pirate's Life</text>
+		<text bitflag="321" id1="593" id2="732176" version="1065353216">Temple of Sacrifice</text>
+		<text bitflag="321" id1="594" id2="732176" version="1065353216">The Ravagers</text>
+		<text bitflag="321" id1="595" id2="732176" version="1065353216">Blood Hunt</text>
+		<text bitflag="321" id1="596" id2="732176" version="1065353216">Korriban Incursion - Empire - Veteran Mode</text>
+		<text bitflag="321" id1="597" id2="732176" version="1065353216">Korriban Incursion - Empire - Master</text>
+		<text bitflag="321" id1="598" id2="732176" version="1065353216">Assault on Tython - Empire - Veteran Mode</text>
+		<text bitflag="321" id1="599" id2="732176" version="1065353216">Assault on Tython - Empire - Master</text>
+		<text bitflag="321" id1="600" id2="732176" version="1065353216">Korriban Incursion</text>
+		<text bitflag="321" id1="601" id2="732176" version="1065353216">Korriban Incursion - Republic - Veteran Mode</text>
+		<text bitflag="321" id1="602" id2="732176" version="1065353216">Korriban Incursion - Republic - Master</text>
+		<text bitflag="321" id1="603" id2="732176" version="1065353216">Assault on Tython - Republic - Veteran Mode</text>
+		<text bitflag="321" id1="604" id2="732176" version="1065353216">Assault on Tython - Republic - Master</text>
+		<text bitflag="321" id1="605" id2="732176" version="1065353216">Ziost</text>
+		<text bitflag="321" id1="606" id2="732176" version="1065353216">Colossal Monolith</text>
+		<text bitflag="321" id1="607" id2="732176" version="1065353216">Zakuul</text>
+		<text bitflag="321" id1="608" id2="732176" version="1065353216">The Arena</text>
+		<text bitflag="321" id1="609" id2="732176" version="1065353216">Imperial Fleet</text>
+		<text bitflag="321" id1="610" id2="732176" version="1065353216">Republic Fleet</text>
+		<text bitflag="321" id1="611" id2="732176" version="1065353216">Star Fortresses</text>
+		<text bitflag="321" id1="612" id2="732176" version="1065353216">Chapters</text>
+		<text bitflag="321" id1="613" id2="732176" version="1065353216">Fallen Empire</text>
+		<text bitflag="321" id1="614" id2="732176" version="1065353216">Story</text>
+		<text bitflag="321" id1="615" id2="732176" version="1065353216">Heroic</text>
+		<text bitflag="321" id1="616" id2="732176" version="1065353216">Paladins</text>
+		<text bitflag="321" id1="617" id2="732176" version="1065353216">Archived</text>
+		<text bitflag="321" id1="618" id2="732176" version="1065353216">Alliance</text>
+		<text bitflag="321" id1="619" id2="732176" version="1065353216">Followers</text>
+		<text bitflag="321" id1="620" id2="732176" version="1065353216">Alliance Growth</text>
+		<text bitflag="321" id1="621" id2="732176" version="1065353216">2V-R8</text>
+		<text bitflag="321" id1="622" id2="732176" version="1065353216">C2-N2</text>
+		<text bitflag="321" id1="623" id2="732176" version="1065353216">Darth Marr</text>
+		<text bitflag="321" id1="624" id2="732176" version="1065353216">HK-55</text>
+		<text bitflag="321" id1="625" id2="732176" version="1065353216">Koth Vortena</text>
+		<text bitflag="321" id1="626" id2="732176" version="1065353216">Lana Beniko</text>
+		<text bitflag="321" id1="627" id2="732176" version="1065353216">Eckard Lokin</text>
+		<text bitflag="321" id1="628" id2="732176" version="1065353216">M1-4X</text>
+		<text bitflag="321" id1="629" id2="732176" version="1065353216">Nico Okarr</text>
+		<text bitflag="321" id1="630" id2="732176" version="1065353216">Major Pierce</text>
+		<text bitflag="321" id1="631" id2="732176" version="1065353216">Qyzen Fess</text>
+		<text bitflag="321" id1="632" id2="732176" version="1065353216">Senya Tirall</text>
+		<text bitflag="321" id1="633" id2="732176" version="1065353216">Talos Drellik</text>
+		<text bitflag="321" id1="634" id2="732176" version="1065353216">Theron Shan</text>
+		<text bitflag="321" id1="635" id2="732176" version="1065353216">Xalek</text>
+		<text bitflag="321" id1="636" id2="732176" version="1065353216">Yuun</text>
+		<text bitflag="321" id1="637" id2="732176" version="1065353216">Alliance Military</text>
+		<text bitflag="321" id1="638" id2="732176" version="1065353216">Underworld Logistics</text>
+		<text bitflag="321" id1="639" id2="732176" version="1065353216">Alliance Research Division</text>
+		<text bitflag="321" id1="640" id2="732176" version="1065353216">The Force Enclave</text>
+		<text bitflag="321" id1="642" id2="732176" version="1065353216">Choza Raabat</text>
+		<text bitflag="321" id1="643" id2="732176" version="1065353216">&quot;Deadeye&quot; Leyta</text>
+		<text bitflag="321" id1="644" id2="732176" version="1065353216">Hemdil Tre</text>
+		<text bitflag="321" id1="645" id2="732176" version="1065353216">K'krohl</text>
+		<text bitflag="321" id1="646" id2="732176" version="1065353216">Rokuss</text>
+		<text bitflag="321" id1="647" id2="732176" version="1065353216">Veeroa Denz</text>
+		<text bitflag="321" id1="648" id2="732176" version="1065353216">The Eternal Championship</text>
+		<text bitflag="321" id1="649" id2="732176" version="1065353216">Ak'ghal Usar</text>
+		<text bitflag="321" id1="650" id2="732176" version="1065353216">Ak'ghal Usar</text>
+		<text bitflag="321" id1="651" id2="732176" version="1065353216">Odessen Proving Grounds</text>
+		<text bitflag="321" id1="652" id2="732176" version="1065353216">Dark vs. Light</text>
+		<text bitflag="321" id1="653" id2="732176" version="1065353216">Zakuulan Crew Skills</text>
+		<text bitflag="321" id1="654" id2="732176" version="1065353216">Legacy Level</text>
+		<text bitflag="321" id1="655" id2="732176" version="1065353216">Valiant Level</text>
+		<text bitflag="321" id1="656" id2="732176" version="1065353216">Champion Level</text>
+		<text bitflag="321" id1="657" id2="732176" version="1065353216">Eternal Level</text>
+		<text bitflag="321" id1="658" id2="732176" version="1065353216">Legendary Level</text>
+		<text bitflag="321" id1="661" id2="732176" version="1065353216">Class Progression</text>
+		<text bitflag="321" id1="662" id2="732176" version="1065353216">Crew Skill Progression</text>
+		<text bitflag="321" id1="663" id2="732176" version="1065353216">Heroic Level</text>
+		<text bitflag="321" id1="664" id2="732176" version="1065353216">The Eternal Throne</text>
+		<text bitflag="321" id1="665" id2="732176" version="1065353216">Uprisings</text>
+		<text bitflag="321" id1="666" id2="732176" version="1065353216">Inferno</text>
+		<text bitflag="321" id1="667" id2="732176" version="1065353216">Crimson Fang</text>
+		<text bitflag="321" id1="668" id2="732176" version="1065353216">Eternal Throne</text>
+		<text bitflag="321" id1="669" id2="732176" version="1065353216">Firefrost</text>
+		<text bitflag="321" id1="670" id2="732176" version="1065353216">Landing Party</text>
+		<text bitflag="321" id1="671" id2="732176" version="1065353216">Done and Dusted</text>
+		<text bitflag="321" id1="672" id2="732176" version="1065353216">Trench Runner</text>
+		<text bitflag="321" id1="673" id2="732176" version="1065353216">Alliance Crew Skills</text>
+		<text bitflag="321" id1="674" id2="732176" version="1065353216">Fractured</text>
+		<text bitflag="321" id1="675" id2="732176" version="1065353216">Galactic Command</text>
+		<text bitflag="321" id1="676" id2="732176" version="1065353216">Destroyer of Worlds</text>
+		<text bitflag="321" id1="677" id2="732176" version="1065353216">Divided We Fall</text>
+		<text bitflag="321" id1="678" id2="732176" version="1065353216">Trial and Error</text>
+		<text bitflag="321" id1="679" id2="732176" version="1065353216">Gods from the Machine</text>
+		<text bitflag="321" id1="680" id2="732176" version="1065353216">Iokath</text>
+		<text bitflag="321" id1="681" id2="732176" version="1065353216">Crisis on Umbara</text>
+		<text bitflag="321" id1="684" id2="732176" version="1065353216">Game Updates</text>
+		<text bitflag="321" id1="686" id2="732176" version="1065353216">A Traitor Among the Chiss</text>
+		<text bitflag="321" id1="687" id2="732176" version="1065353216">Yavin Ruins</text>
+		<text bitflag="321" id1="688" id2="732176" version="1065353216">The Nathema Conspiracy</text>
+		<text bitflag="321" id1="689" id2="732176" version="1065353216">Feats of Strength</text>
+		<text bitflag="321" id1="690" id2="732176" version="1065353216">Activities</text>
+		<text bitflag="321" id1="691" id2="732176" version="1065353216">Ossus</text>
+	</file_content>
+</stb_file>

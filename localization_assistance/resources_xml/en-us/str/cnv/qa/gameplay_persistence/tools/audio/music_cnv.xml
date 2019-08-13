@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/cnv/qa/gameplay_persistence/tools/audio/music_cnv.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="65" id1="1030135" id2="17" version="1065353216">How about a little music?</text>
+		<text bitflag="65" id1="1030137" id2="17" version="1065353216">This should interrupt any region music currently playing.</text>
+	</file_content>
+</stb_file>

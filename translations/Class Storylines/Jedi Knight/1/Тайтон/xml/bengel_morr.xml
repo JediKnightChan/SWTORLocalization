@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="65">
+	<unit bitflag="1345" id1="457266" id2="17" version="1065353216">
+		<source>The weak will be sacrificed here to make the Forge stronger.</source>
+		<target>Слабый будет принесён в жертву здесь, чтобы усилить Кузницу.</target>
+	</unit>
+	<unit bitflag="1345" id1="457463" id2="17" version="1065353216">
+		<source>You've won--why has the Force guided me to this defeat?</source>
+		<target>Ты победил... почему Сила привела меня к этому поражению?</target>
+	</unit>
+	<unit bitflag="1345" id1="457465" id2="17" version="1065353216">
+		<source>The darkness at your core makes you powerful. Strong enough to destroy the Sith.</source>
+		<target>Тьма в твоём сердце делает тебя сильным. Достаточно сильным, чтобы уничтожить Cитов.</target>
+	</unit>
+	<unit bitflag="1345" id1="457467" id2="17" version="1065353216">
+		<source>You're stronger than any Jedi I've known. You could redeem the order and destroy the Sith.</source>
+		<target>Ты сильнее любого известного мне джедая. Ты мог бы искупить Орден и уничтожить Cитов.</target>
+	</unit>
+	<unit bitflag="1345" id1="457469" id2="17" version="1065353216">
+		<source>I understand. You are the weapon I came to forge.</source>
+		<target>Я понимаю. Ты оружие, выковать которое я пришёл.</target>
+	</unit>
+	<unit bitflag="1345" id1="457470" id2="17" version="1065353216">
+		<source>You don't have a destiny, Bengel. You're sick. You need help.</source>
+		<target>У тебя нет предназначения, Бенгел. Ты болен. Тебе нужна помощь.</target>
+	</unit>
+	<unit bitflag="1360" id1="457470" id2="17" version="1065353216">
+		<source>You're misguided.</source>
+		<target>Ты запутался.</target>
+	</unit>
+	<unit bitflag="1345" id1="457471" id2="17" version="1065353216">
+		<source>Don't deny the truth. Think--how else could you have beaten me?</source>
+		<target>Не отрицай истину. Подумай... как ещё ты мог бы победить меня?</target>
+	</unit>
+	<unit bitflag="1345" id1="457473" id2="17" version="1065353216">
+		<source>You think I'm destined to defeat the Empire?</source>
+		<target>Ты думаешь, что мне суждено победить Империю?</target>
+	</unit>
+	<unit bitflag="1360" id1="457473" id2="17" version="1065353216">
+		<source>Me?</source>
+		<target>Я?</target>
+	</unit>
+	<unit bitflag="1345" id1="457474" id2="17" version="1065353216">
+		<source>I'm certain of it. I found my purpose, at last.</source>
+		<target>Я уверен в этом. Я, наконец, нашёл свою цель.</target>
+	</unit>
+	<unit bitflag="1345" id1="457476" id2="17" version="1065353216">
+		<source>I hope you'll appreciate the irony of me killing you.</source>
+		<target>Надеюсь, ты оценишь забавную сторону смерти от моих рук.</target>
+	</unit>
+	<unit bitflag="1360" id1="457476" id2="17" version="1065353216">
+		<source>Wonderful--now die.</source>
+		<target>Чудесно, а теперь умри.</target>
+	</unit>
+	<unit bitflag="1345" id1="457477" id2="17" version="1065353216">
+		<source>You don't have to strike me down. I am your servant now.</source>
+		<target>Тебе не обязательно убивать меня. Теперь я твой слуга.</target>
+	</unit>
+	<unit bitflag="1345" id1="457479" id2="17" version="1065353216">
+		<source>I have spent a lifetime learning the paths to power. That knowledge is now yours.</source>
+		<target>Я провёл всю жизнь, изучая пути к силе и власти. Это знание теперь твоё.</target>
+	</unit>
+	<unit bitflag="1345" id1="457481" id2="17" version="1065353216">
+		<source>Let me leave Tython and prepare the galaxy for your ascendance. I will deliver the gifts you need to claim your destiny.</source>
+		<target>Дай мне покинуть Тайтон и подготовить Галактику к твоему восхождению. Я отправлю дары, которые нужны тебе, чтобы исполнить своё предназначение.</target>
+	</unit>
+	<unit bitflag="1345" id1="457482" id2="17" version="1065353216">
+		<source>You'll get the help you need, Bengel--but you can't leave here.</source>
+		<target>Ты получишь помощь, в которой нуждаешься, Бенгел, но тебе нельзя улетать.</target>
+	</unit>
+	<unit bitflag="1360" id1="457482" id2="17" version="1065353216">
+		<source>Rest now. [Knock him out]</source>
+		<target>Отдохни. [Вырубить его]</target>
+	</unit>
+	<unit bitflag="1345" id1="457484" id2="17" version="1065353216">
+		<source>Give me the things I'll need to defeat my enemies, and you can live.</source>
+		<target>Дай мне то, что мне нужно, чтобы победить врагов, и я пощажу тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="457484" id2="17" version="1065353216">
+		<source>We have a deal.</source>
+		<target>Договорились.</target>
+	</unit>
+	<unit bitflag="1345" id1="457485" id2="17" version="1065353216">
+		<source>My first gift lies inside the Forge, where Force users created their lightsabers millennia ago.</source>
+		<target>Мой первый дар внутри Кузницы, где использующие Силу создавали световые мечи тысячелетия назад.</target>
+	</unit>
+	<unit bitflag="1345" id1="457487" id2="17" version="1065353216">
+		<source>I have learned their forgotten ways--discovered how to create a truly powerful weapon. I will show you....</source>
+		<target>Я изучил их забытые пути, открыл, как создать действительно мощное оружие. Я покажу тебе...</target>
+	</unit>
+	<unit bitflag="1345" id1="457489" id2="17" version="1065353216">
+		<source>Use my knowledge to make your lightsaber, and the Force will be with you.</source>
+		<target>Используй мои знания, чтобы создать себе световой меч, и Сила пребудет с тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="457491" id2="17" version="1065353216">
+		<source>I must leave, but I will find you when the time is right. Farewell....</source>
+		<target>Я должен уйти, но я найду тебя в подходящий момент. Прощай...</target>
+	</unit>
+	<unit bitflag="3393" id1="457493" id2="17" version="1065353216">
+		<source>T7 = let Bengel Morr go // Decision = against Jedi Council orders</source>
+		<target>T7 = отпустить Бенгела Морра // Решение = противоречить приказам Совета</target>
+	</unit>
+	<unit bitflag="1345" id1="457494" id2="17" version="1065353216">
+		<source>What the Council doesn't know won't hurt it. Hold still....</source>
+		<target>То, что Совет не узнает, ему не повредит. Стой на месте...</target>
+	</unit>
+	<unit bitflag="1345" id1="457496" id2="17" version="1065353216">
+		<source>There. How do you feel?</source>
+		<target>Вот. Как себя чувствуешь?</target>
+	</unit>
+	<unit bitflag="3393" id1="457497" id2="17" version="1065353216">
+		<source>T7 memory logs = corrupted // Last data = entering Forge</source>
+		<target>Память T7 = повреждена // Последние данные = вход в Кузницу</target>
+	</unit>
+	<unit bitflag="3393" id1="457499" id2="17" version="1065353216">
+		<source>T7 + Jedi = save Master Orgus + defeat Bengel Morr?</source>
+		<target>T7 + джедай = спасти мастера Оргуса + победить Бенгела Морра?</target>
+	</unit>
+	<unit bitflag="1345" id1="457500" id2="17" version="1065353216">
+		<source>We did it, my little friend.</source>
+		<target>Мы сделали это, мой маленький друг.</target>
+	</unit>
+	<unit bitflag="1360" id1="457500" id2="17" version="1065353216">
+		<source>[Lie] That's right.</source>
+		<target>[Ложь] Так и есть.</target>
+	</unit>
+	<unit bitflag="3393" id1="457501" id2="17" version="1065353216">
+		<source>T7 + Jedi = heroes!</source>
+		<target>T7 + джедай = герои!</target>
+	</unit>
+	<unit bitflag="1345" id1="457503" id2="17" version="1065353216">
+		<source>You took a hit in the fight--must have short-circuited. But we defeated Bengel Morr.</source>
+		<target>Тебя задели в бою - и тебя, похоже, перемкнуло. Но мы победили Бенгела Морра.</target>
+	</unit>
+	<unit bitflag="1360" id1="457503" id2="17" version="1065353216">
+		<source>You don't remember?</source>
+		<target>Ты не помнишь?</target>
+	</unit>
+	<unit bitflag="3393" id1="457504" id2="17" version="1065353216">
+		<source>Jedi report = good news // T7 = fully functioning again</source>
+		<target>Сообщение джедая = хорошая новость // T7 = вновь полностью функционирует</target>
+	</unit>
+	<unit bitflag="1345" id1="457506" id2="17" version="1065353216">
+		<source>You got hit when we entered the clearing. I did all the hard work.</source>
+		<target>Тебя задели, когда мы вошли внутрь. Мне пришлось всё делать самому.</target>
+	</unit>
+	<unit bitflag="1360" id1="457506" id2="17" version="1065353216">
+		<source>[Lie] You were shot.</source>
+		<target>[Ложь] Тебя подстрелили.</target>
+	</unit>
+	<unit bitflag="3393" id1="457507" id2="17" version="1065353216">
+		<source>T7 = sorry for missing Jedi victory // T7 = dodge better next time</source>
+		<target>T7 = жаль, что пропустил победу джедая // T7 = уклоняться лучше в следующий раз</target>
+	</unit>
+	<unit bitflag="3393" id1="457509" id2="17" version="1065353216">
+		<source>Master Orgus = unconscious // Jedi = help him?</source>
+		<target>Мастер Оргус = без сознания // Джедай = помочь ему?</target>
+	</unit>
+	<unit bitflag="1345" id1="457510" id2="17" version="1065353216">
+		<source>I'll make my own destiny--and you need to die.</source>
+		<target>Я сам определю свою судьбу - а ты должен умереть.</target>
+	</unit>
+	<unit bitflag="1360" id1="457510" id2="17" version="1065353216">
+		<source>No thanks. [Kill him]</source>
+		<target>Нет, спасибо. [Убить]</target>
+	</unit>
+	<unit bitflag="1345" id1="457515" id2="17" version="1065353216">
+		<source>I sensed you coming. Your fear betrayed you.</source>
+		<target>Я почувствовал, что ты идёшь. Твой страх выдал тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="457517" id2="17" version="1065353216">
+		<source>You're weak, like my old Master. You will fall. With him.</source>
+		<target>Ты слаб, как мой бывший учитель. Ты падёшь. Вместе с ним.</target>
+	</unit>
+	<unit bitflag="1345" id1="457518" id2="17" version="1065353216">
+		<source>What happened to you on Coruscant? Why have you turned against the Jedi?</source>
+		<target>Что случилось с тобой на Корусанте? Почему ты повернулся против джедаев?</target>
+	</unit>
+	<unit bitflag="1360" id1="457518" id2="17" version="1065353216">
+		<source>Tell me why you hate us.</source>
+		<target>Расскажи, почему ты ненавидишь нас.</target>
+	</unit>
+	<unit bitflag="1345" id1="457519" id2="17" version="1065353216">
+		<source>Not the Jedi--the sick, spineless cowards that have taken their place. The traitors who let the Sith slaughter millions.</source>
+		<target>Не джедаев - больных бесхребетных трусов, занявших их место. Предателей, позволивших Ситам убить миллионы.</target>
+	</unit>
+	<unit bitflag="1345" id1="457521" id2="17" version="1065353216">
+		<source>You're not hurting anyone else, Bengel. It's over.</source>
+		<target>Ты не навредишь больше никому, Бенгел. Всё кончено.</target>
+	</unit>
+	<unit bitflag="1360" id1="457521" id2="17" version="1065353216">
+		<source>No, I'll stop you.</source>
+		<target>Нет. Я остановлю тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="457522" id2="17" version="1065353216">
+		<source>No. The will of the Force guided me here for justice, to restore what the Jedi lost.</source>
+		<target>Нет. Воля Силы привела меня сюда во имя справедливости, чтобы восстановить потерянное джедаями.</target>
+	</unit>
+	<unit bitflag="1345" id1="457524" id2="17" version="1065353216">
+		<source>You weren't on Coruscant. You never saw our greatest cut down or watched the temple burn.</source>
+		<target>Тебя не было на Корусанте. Тебе не приходилось видеть, как нас вырезали, а Храм горел.</target>
+	</unit>
+	<unit bitflag="1345" id1="457526" id2="17" version="1065353216">
+		<source>I escaped that destruction to see my own Master surrender to the Sith. They exterminated us, and he gave up.</source>
+		<target>Я избежал этого разрушения и увидел, как мой же учитель сдаётся Ситам. Они вырезали нас, а он сдался.</target>
+	</unit>
+	<unit bitflag="1345" id1="457527" id2="17" version="1065353216">
+		<source>You're wrong about Master Orgus. He's training me to defeat the Sith.</source>
+		<target>Ты неправ насчёт мастера Оргуса. Он учит меня побеждать Ситов.</target>
+	</unit>
+	<unit bitflag="1360" id1="457527" id2="17" version="1065353216">
+		<source>We'll never give up.</source>
+		<target>Мы никогда не сдадимся.</target>
+	</unit>
+	<unit bitflag="1345" id1="457528" id2="17" version="1065353216">
+		<source>The dark side has already taken root in you. I sense it.</source>
+		<target>Тёмная сторона уже пустила в тебе корни. Я чувствую это.</target>
+	</unit>
+	<unit bitflag="1345" id1="457530" id2="17" version="1065353216">
+		<source>Weapons are only as strong as those who created them.</source>
+		<target>Оружие сильно лишь настолько, насколько силён его создатель.</target>
+	</unit>
+	<unit bitflag="1345" id1="457532" id2="17" version="1065353216">
+		<source>That's why you brought Master Orgus here? To make him pay?</source>
+		<target>Поэтому ты привёл сюда мастера Оргуса? Для расплаты?</target>
+	</unit>
+	<unit bitflag="1360" id1="457532" id2="17" version="1065353216">
+		<source>This is about revenge?</source>
+		<target>Всё дело в мести?</target>
+	</unit>
+	<unit bitflag="1345" id1="457533" id2="17" version="1065353216">
+		<source>If what you say is true, Orgus should die.</source>
+		<target>Если твои слова - правда, Оргус должен умереть.</target>
+	</unit>
+	<unit bitflag="1360" id1="457533" id2="17" version="1065353216">
+		<source>Then he deserves death.</source>
+		<target>Тогда он заслужил смерти.</target>
+	</unit>
+	<unit bitflag="1345" id1="457534" id2="17" version="1065353216">
+		<source>This isn't about revenge. One death changes nothing.</source>
+		<target>Дело не в мести. Одна смерть ничего не изменит.</target>
+	</unit>
+	<unit bitflag="1345" id1="457536" id2="17" version="1065353216">
+		<source>The Jedi Order must be reborn from ashes....</source>
+		<target>Орден джедаев должен быть возрождён из пепла...</target>
+	</unit>
+	<unit bitflag="1345" id1="457537" id2="17" version="1065353216">
+		<source>Spare me the speeches. I'm here to end you.</source>
+		<target>Избавь меня от своих речей. Я пришёл покончить с тобой.</target>
+	</unit>
+	<unit bitflag="1360" id1="457537" id2="17" version="1065353216">
+		<source>Enough. [Attack]</source>
+		<target>Хватит. [Напасть]</target>
+	</unit>
+	<unit bitflag="1345" id1="457538" id2="17" version="1065353216">
+		<source>So be it.</source>
+		<target>Да будет так.</target>
+	</unit>
+	<unit bitflag="1345" id1="457540" id2="17" version="1065353216">
+		<source>Tython belongs to the true Jedi. Leave, or you will die.</source>
+		<target>Тайтон принадлежит настоящим джедаям. Уходи, или умрёшь.</target>
+	</unit>
+</dialogue_file>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>9</strs>
+		<file_name>/resources/en-us/str/gui/bank.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="5000" id2="233801" version="1065353216">Cargo Hold</text>
+		<text bitflag="321" id1="5001" id2="233801" version="1065353216">Bay</text>
+		<text bitflag="321" id1="5002" id2="233801" version="1065353216">Buy Additional Bay</text>
+		<text bitflag="321" id1="5003" id2="233801" version="1065353216">Additional Bay Available at Level &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5006" id2="233801" version="1065353216">Trial accounts may not use the Cargo Hold. &lt;u&gt;&lt;hl lid=&quot;BDJKJokAAAEADBDz&quot; &gt;&lt;/u&gt;</text>
+		<text bitflag="321" id1="5007" id2="233801" version="1065353216">Use the Cargo Hold to store items for later and free up inventory space! The Cargo Hold initially stores 80 items with additional expansions up to 400 slots.&lt;br&gt;&lt;br&gt;Subscribers and Preferred Status Players get automatic access to the first 80 Cargo Hold slots. Access and expansions can also be purchased using Cartel Coins.</text>
+		<text bitflag="321" id1="5008" id2="233801" version="1065353216">Use Cartel Coins to immediately acquire 80 Cargo Hold slots!</text>
+		<text bitflag="321" id1="5009" id2="233801" version="1065353216">Legacy Stronghold Storage</text>
+		<text bitflag="321" id1="5010" id2="233801" version="1065353216">Access to Legacy Stronghold Storage is restricted, you must purchase a Stronghold to gain access.</text>
+	</file_content>
+</stb_file>

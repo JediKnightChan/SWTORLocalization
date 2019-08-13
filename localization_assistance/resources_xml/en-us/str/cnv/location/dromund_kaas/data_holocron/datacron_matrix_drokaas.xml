@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/data_holocron/datacron_matrix_drokaas.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="677185" id2="17" version="1065353216">You are no longer able to access this datacron.</text>
+		<text bitflag="321" id1="677189" id2="17" version="1065353216">You have located another datacron.</text>
+		<text bitflag="321" id1="677193" id2="17" version="1065353216">You have located a datacron, an ancient technology once used by the Infinite Empire.</text>
+		<text bitflag="321" id1="677195" id2="17" version="1065353216">This datacron contains a Yellow Matrix Shard. You can combine it with other matrix shards.</text>
+		<text bitflag="321" id1="677197" id2="17" version="1065353216">This one is still active; use it to collect the Yellow Matrix Shard. Once removed, you will no longer be able to access this datacron.</text>
+		<text bitflag="321" id1="677198" id2="17" version="1065353216">[ Matrix Shard Collected ]</text>
+		<text bitflag="321" id1="677201" id2="17" version="1065353216">You have collected the Yellow Matrix Shard. Perhaps there are more to be found....</text>
+	</file_content>
+</stb_file>

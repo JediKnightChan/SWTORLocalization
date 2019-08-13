@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>113</strs>
+		<file_name>/resources/en-us/str/gui/scoreboard.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="273021" version="1065353216">Exit Warzone</text>
+		<text bitflag="321" id1="2" id2="273021" version="1065353216">Requeue Warzone?</text>
+		<text bitflag="321" id1="3" id2="273021" version="1065353216">VICTORY!</text>
+		<text bitflag="321" id1="4" id2="273021" version="1065353216">DEFEAT</text>
+		<text bitflag="321" id1="5" id2="273021" version="1065353216">TEAM SCORES:</text>
+		<text bitflag="321" id1="6" id2="273021" version="1065353216">YOUR REWARDS:</text>
+		<text bitflag="321" id1="7" id2="273021" version="1065353216">ALL</text>
+		<text bitflag="321" id1="8" id2="273021" version="1065353216">ALLIES</text>
+		<text bitflag="321" id1="9" id2="273021" version="1065353216">ENEMIES</text>
+		<text bitflag="321" id1="10" id2="273021" version="1065353216">VALOR</text>
+		<text bitflag="321" id1="11" id2="273021" version="1065353216">COMMENDATIONS</text>
+		<text bitflag="321" id1="12" id2="273021" version="1065353216">XP</text>
+		<text bitflag="321" id1="13" id2="273021" version="1065353216">Name</text>
+		<text bitflag="321" id1="14" id2="273021" version="1065353216">MVP Votes</text>
+		<text bitflag="321" id1="15" id2="273021" version="1065353216">Damage</text>
+		<text bitflag="321" id1="16" id2="273021" version="1065353216">Damage inflicted on enemy players</text>
+		<text bitflag="321" id1="17" id2="273021" version="1065353216">Kills</text>
+		<text bitflag="321" id1="18" id2="273021" version="1065353216">Enemy player kills participated in</text>
+		<text bitflag="321" id1="19" id2="273021" version="1065353216">Protection</text>
+		<text bitflag="321" id1="20" id2="273021" version="1065353216">Damage redirected with Guard and prevented with Taunt</text>
+		<text bitflag="321" id1="21" id2="273021" version="1065353216">Deaths</text>
+		<text bitflag="321" id1="22" id2="273021" version="1065353216">Number of times you died</text>
+		<text bitflag="321" id1="23" id2="273021" version="1065353216">Healing</text>
+		<text bitflag="321" id1="24" id2="273021" version="1065353216">Healing delivered to players</text>
+		<text bitflag="321" id1="25" id2="273021" version="1065353216">Objectives</text>
+		<text bitflag="321" id1="26" id2="273021" version="1065353216">Objectives attack and defense points</text>
+		<text bitflag="321" id1="27" id2="273021" version="1065353216">Medals</text>
+		<text bitflag="321" id1="28" id2="273021" version="1065353216">Medals earned. Medals award bonus valor and commendations.</text>
+		<text bitflag="321" id1="29" id2="273021" version="1065353216">Player Name</text>
+		<text bitflag="321" id1="30" id2="273021" version="1065353216">KILLS:</text>
+		<text bitflag="321" id1="31" id2="273021" version="1065353216">Total</text>
+		<text bitflag="321" id1="32" id2="273021" version="1065353216">Killing Blows</text>
+		<text bitflag="321" id1="33" id2="273021" version="1065353216">Solo Kills</text>
+		<text bitflag="321" id1="34" id2="273021" version="1065353216">PROTECTION:</text>
+		<text bitflag="321" id1="35" id2="273021" version="1065353216">Highest Protection Per Single Life</text>
+		<text bitflag="321" id1="36" id2="273021" version="1065353216">DEATHS:</text>
+		<text bitflag="321" id1="37" id2="273021" version="1065353216">Damage Taken</text>
+		<text bitflag="321" id1="38" id2="273021" version="1065353216">HEALING:</text>
+		<text bitflag="321" id1="39" id2="273021" version="1065353216">Healing Per Second</text>
+		<text bitflag="321" id1="40" id2="273021" version="1065353216">Highest Single Heal</text>
+		<text bitflag="321" id1="41" id2="273021" version="1065353216">OBJECTIVES:</text>
+		<text bitflag="321" id1="42" id2="273021" version="1065353216">Attacker Points</text>
+		<text bitflag="321" id1="43" id2="273021" version="1065353216">Defender Points</text>
+		<text bitflag="321" id1="44" id2="273021" version="1065353216">MEDALS:</text>
+		<text bitflag="321" id1="45" id2="273021" version="1065353216">Medal</text>
+		<text bitflag="321" id1="46" id2="273021" version="1065353216">You did not earn any medals.</text>
+		<text bitflag="321" id1="47" id2="273021" version="1065353216">MVP votes received. Votes award bonus valor and commendations.</text>
+		<text bitflag="321" id1="48" id2="273021" version="1065353216">Select an ally to nominate as Most Valuable Player for this match.</text>
+		<text bitflag="321" id1="49" id2="273021" version="1065353216">Scoreboard</text>
+		<text bitflag="321" id1="50" id2="273021" version="1065353216">Damage Per Second</text>
+		<text bitflag="321" id1="51" id2="273021" version="1065353216">Biggest Hit</text>
+		<text bitflag="321" id1="52" id2="273021" version="1065353216">DAMAGE:</text>
+		<text bitflag="321" id1="53" id2="273021" version="1065353216">MVP:</text>
+		<text bitflag="321" id1="54" id2="273021" version="1065353216">You cannot vote for yourself.</text>
+		<text bitflag="321" id1="55" id2="273021" version="1065353216">You cannot vote for members of the other team.</text>
+		<text bitflag="321" id1="56" id2="273021" version="1065353216">effort</text>
+		<text bitflag="321" id1="57" id2="273021" version="1065353216">Click here to nominate &lt;&lt;1&gt;&gt; as MVP for this warzone match.</text>
+		<text bitflag="321" id1="58" id2="273021" version="1065353216">MEDALS:</text>
+		<text bitflag="321" id1="59" id2="273021" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="60" id2="273021" version="1065353216">Tie</text>
+		<text bitflag="321" id1="257" id2="273021" version="1065353216">Roles</text>
+		<text bitflag="321" id1="258" id2="273021" version="1065353216">ROLES:</text>
+		<text bitflag="321" id1="259" id2="273021" version="1065353216">Advanced Class</text>
+		<text bitflag="321" id1="260" id2="273021" version="1065353216">ROUND &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="261" id2="273021" version="1065353216">OVERALL</text>
+		<text bitflag="321" id1="262" id2="273021" version="1065353216">Exit Battle</text>
+		<text bitflag="321" id1="265" id2="273021" version="1065353216">Assists</text>
+		<text bitflag="321" id1="266" id2="273021" version="1065353216">Damage inflicted on enemy ships</text>
+		<text bitflag="321" id1="267" id2="273021" version="1065353216">Enemy ships killed</text>
+		<text bitflag="321" id1="268" id2="273021" version="1065353216">Enemy ship kills participated in</text>
+		<text bitflag="321" id1="269" id2="273021" version="1065353216">Hit %</text>
+		<text bitflag="321" id1="270" id2="273021" version="1065353216">The percent of time you hit when you fired a ship weapon</text>
+		<text bitflag="321" id1="271" id2="273021" version="1065353216">Points earned from actions involving objectives</text>
+		<text bitflag="321" id1="272" id2="273021" version="1065353216">Medals earned</text>
+		<text bitflag="321" id1="273" id2="273021" version="1065353216">ASSISTS:</text>
+		<text bitflag="321" id1="274" id2="273021" version="1065353216">HIT PERCENTAGE:</text>
+		<text bitflag="321" id1="275" id2="273021" version="1065353216">Hits</text>
+		<text bitflag="321" id1="276" id2="273021" version="1065353216">Misses</text>
+		<text bitflag="321" id1="277" id2="273021" version="1065353216">Control Objective - Attack</text>
+		<text bitflag="321" id1="278" id2="273021" version="1065353216">Control Objective - Defend</text>
+		<text bitflag="321" id1="279" id2="273021" version="1065353216">You did not earn any objective points.</text>
+		<text bitflag="321" id1="280" id2="273021" version="1065353216">Longest Kill Streak</text>
+		<text bitflag="321" id1="281" id2="273021" version="1065353216">Control Objective - Defense</text>
+		<text bitflag="321" id1="282" id2="273021" version="1065353216">Destroy Objective - Destroy</text>
+		<text bitflag="321" id1="283" id2="273021" version="1065353216">Destroy Objective - Defense</text>
+		<text bitflag="321" id1="284" id2="273021" version="1065353216">Collect Objective - Deliver</text>
+		<text bitflag="321" id1="285" id2="273021" version="1065353216">Collect Objective - Escort</text>
+		<text bitflag="321" id1="286" id2="273021" version="1065353216">Collect Objective - Team Deliver</text>
+		<text bitflag="321" id1="296" id2="273021" version="1065353216">FREE TO PLAY</text>
+		<text bitflag="321" id1="297" id2="273021" version="1065353216">SUBSCRIBER/PASS HOLDER</text>
+		<text bitflag="321" id1="298" id2="273021" version="1065353216">REQUISITION GAIN</text>
+		<text bitflag="321" id1="299" id2="273021" version="1065353216">Performance</text>
+		<text bitflag="321" id1="300" id2="273021" version="1065353216">Earnings</text>
+		<text bitflag="321" id1="301" id2="273021" version="1065353216">TEAM SCORE</text>
+		<text bitflag="321" id1="302" id2="273021" version="1065353216">CREDITS</text>
+		<text bitflag="321" id1="303" id2="273021" version="1065353216">Amount of Ship and Fleet Requisition gained as a Free-to-Play Player</text>
+		<text bitflag="321" id1="304" id2="273021" version="1065353216">Amount of Ship and Fleet Requisition gained as a Galactic Starfighter Pass Holder or SW:TOR Subscriber</text>
+		<text bitflag="321" id1="305" id2="273021" version="1065353216">Amount of experience points gained for the character you are currently playing</text>
+		<text bitflag="321" id1="306" id2="273021" version="1065353216">Amount of credits gained for the character you are currently playing</text>
+		<text bitflag="321" id1="307" id2="273021" version="1065353216">Stat</text>
+		<text bitflag="321" id1="308" id2="273021" version="1065353216">Value</text>
+		<text bitflag="321" id1="309" id2="273021" version="1065353216">Count/Time</text>
+		<text bitflag="321" id1="310" id2="273021" version="1065353216">Free to Play</text>
+		<text bitflag="321" id1="311" id2="273021" version="1065353216">Subscriber</text>
+		<text bitflag="321" id1="312" id2="273021" version="1065353216">Hyperlink</text>
+		<text bitflag="321" id1="313" id2="273021" version="1065353216">Press this button to hyperlink the stat to the chat window.</text>
+		<text bitflag="321" id1="314" id2="273021" version="1065353216">ALIGNMENT</text>
+		<text bitflag="321" id1="315" id2="273021" version="1065353216">Amount of dark side alignment points gained for this match.</text>
+		<text bitflag="321" id1="316" id2="273021" version="1065353216">Amount of light side alignment points gained for this match.</text>
+		<text bitflag="321" id1="317" id2="273021" version="1065353216">You have not chosen an allegiance and did not receive any alignment points for this match.</text>
+		<text bitflag="321" id1="318" id2="273021" version="1065353216">COMMAND POINTS</text>
+		<text bitflag="321" id1="319" id2="273021" version="1065353216">Amount of command points gained for this match.</text>
+		<text bitflag="321" id1="320" id2="273021" version="1065353216">You must be at the maximum level to receive command points from starfighter matches.</text>
+	</file_content>
+</stb_file>

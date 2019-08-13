@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/camp/companions/hk_55/intro.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1198905" id2="17" version="1065353216">The testing scenario wasn't ready yet!</text>
+		<text bitflag="1345" id1="1198907" id2="17" version="1065353216">Justification: If I wait for my opponents to be ready, they may not die efficiently.</text>
+		<text bitflag="1345" id1="1198909" id2="17" version="1065353216">Query: Shall we begin again?</text>
+	</file_content>
+</stb_file>

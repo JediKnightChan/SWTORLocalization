@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>42</strs>
+		<file_name>/resources/en-us/str/cnv/location/ilum/bronze/republic/pilot_down/l4_b5.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="178922" id2="17" version="1065353216">Sergeant Pell = in medcenter // L4 = waits for master // L4 = thanks sentient</text>
+		<text bitflag="3393" id1="178923" id2="17" version="1065353216">Sentient = has found Sergeant Pell? // Sergeant Pell = must be repaired soon</text>
+		<text bitflag="3393" id1="178926" id2="17" version="1065353216">Squad = freelance // Freelance squad = rare // L4 = needs rare freelance squad</text>
+		<text bitflag="3393" id1="178928" id2="17" version="1065353216">Jedi = powerful // Imperials = powerful // Jedi + Imperials = even match</text>
+		<text bitflag="3393" id1="178930" id2="17" version="1065353216">Rank = Major // Division = Havoc Squad // Havoc Squad = best chance of success</text>
+		<text bitflag="3393" id1="178932" id2="17" version="1065353216">Sentient = armed // Armed = capable // L4 = needs armed and capable sentient</text>
+		<text bitflag="3393" id1="178934" id2="17" version="1065353216">Model = L4-B5 // Sergeant Pell = L4 master // Sergeant Pell = injured // Sergeant Pell = needs help!</text>
+		<text bitflag="1360" id1="178935" id2="17" version="1065353216">What kind of help?</text>
+		<text bitflag="1360" id1="178936" id2="17" version="1065353216">Poor little guy.</text>
+		<text bitflag="3393" id1="178937" id2="17" version="1065353216">L4 = made of durasteel // Sergeant Pell = organic // Organic = fragile // L4 = worried for master</text>
+		<text bitflag="1360" id1="178939" id2="17" version="1065353216">Surely it can wait.</text>
+		<text bitflag="3393" id1="178940" id2="17" version="1065353216">Temperatures = dangerously low // Area = populated by hostiles // Sergeant Pell = cannot wait</text>
+		<text bitflag="3393" id1="178942" id2="17" version="1065353216">Sergeant Pell = recorded distress call // L4 = will play for sentient // Distress call = playing now</text>
+		<text bitflag="3393" id1="178944" id2="17" version="1065353216">Mayday! Sergeant Pell, Fifth Squadron, the Ice Birds. We were gearing up for an attack run, but the Imps saw us coming.</text>
+		<text bitflag="3393" id1="178946" id2="17" version="1065353216">Shot me down somewhere over the flatlands... ship's totaled. Got no comm system, no navigation... pretty bad injuries.</text>
+		<text bitflag="1345" id1="178947" id2="17" version="1065353216">Your master won't last long in this cold.</text>
+		<text bitflag="1360" id1="178947" id2="17" version="1065353216">This sounds serious.</text>
+		<text bitflag="3393" id1="178948" id2="17" version="1065353216">L4 = not a med droid // Sergeant Pell = in pain // L4 = cannot repair him</text>
+		<text bitflag="1345" id1="178950" id2="17" version="1065353216">You must have been helping him fly.</text>
+		<text bitflag="1360" id1="178950" id2="17" version="1065353216">Were you in the ship?</text>
+		<text bitflag="3393" id1="178951" id2="17" version="1065353216">L4 = provides in-flight repair // Sergeant Pell = crashed // L4 = failed Sergeant Pell</text>
+		<text bitflag="1345" id1="178953" id2="17" version="1065353216">Sergeant Pell's superior should be notified.</text>
+		<text bitflag="1360" id1="178953" id2="17" version="1065353216">Get word to Command.</text>
+		<text bitflag="3393" id1="178954" id2="17" version="1065353216">Captain Anders = also shot down // Captain Anders = dead // Sergeant Pell = alone</text>
+		<text bitflag="1345" id1="178956" id2="17" version="1065353216">Sounds like a bad wreck. He's lucky to be alive.</text>
+		<text bitflag="1360" id1="178956" id2="17" version="1065353216">Injured's not so bad.</text>
+		<text bitflag="3393" id1="178957" id2="17" version="1065353216">Sergeant Pell = tough // L4 = proud to call Sergeant Pell master</text>
+		<text bitflag="1360" id1="178959" id2="17" version="1065353216">The flatlands?</text>
+		<text bitflag="3393" id1="178960" id2="17" version="1065353216">Flatlands = frozen wastes // Flatlands = wilds // Flatlands = crash site of Sergeant Pell</text>
+		<text bitflag="1345" id1="178962" id2="17" version="1065353216">Some droid you are, leaving him to die.</text>
+		<text bitflag="1360" id1="178962" id2="17" version="1065353216">You abandoned him!</text>
+		<text bitflag="3393" id1="178963" id2="17" version="1065353216">Sentient = lies! // L4 = following master's orders // Sentient = will hear truth</text>
+		<text bitflag="3393" id1="178965" id2="17" version="1065353216">Hurts to move... just as well. I sent L4 to scout the area... crash site's surrounded by Imps, wildlife... no way out.</text>
+		<text bitflag="3393" id1="178967" id2="17" version="1065353216">L4 can't fight, but he's fast. Gave him my coordinates... if he makes it back to base, send help. End message.</text>
+		<text bitflag="3393" id1="178969" id2="17" version="1065353216">L4 = made it to base // L4 = has medical supplies // Sentient = will take supplies to Sergeant Pell at crash site?</text>
+		<text bitflag="1360" id1="178970" id2="17" version="1065353216">Of course I will.</text>
+		<text bitflag="1360" id1="178971" id2="17" version="1065353216">Can't let him die, I guess.</text>
+		<text bitflag="3393" id1="178972" id2="17" version="1065353216">Sentient = most compassionate // L4 = is grateful</text>
+		<text bitflag="3393" id1="178974" id2="17" version="1065353216">L4 = uploads Sergeant Pell's coordinates // L4 = gives sentient supplies // Sentient = must hurry!</text>
+		<text bitflag="1360" id1="178976" id2="17" version="1065353216">Find a medic. [Refuse quest]</text>
+		<text bitflag="3393" id1="178977" id2="17" version="1065353216">Medics = unavailable // Sergeant Pell = weak vital signs // L4 = must find help</text>
+		<text bitflag="3393" id1="178979" id2="17" version="1065353216">L4 = unavailable // L4 = scanning for potential assistance</text>
+	</file_content>
+</stb_file>

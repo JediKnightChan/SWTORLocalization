@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/rekischematics.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="630764" id2="17" version="1065353216">[You open Reki's treatise on Ord Mantell's exotic birds and are instantly bored by the dull text entries.]</text>
+		<text bitflag="1345" id1="630765" id2="17" version="1065353216">I sure hope that cipher works....</text>
+		<text bitflag="1360" id1="630765" id2="17" version="1065353216">All right, let's do this.</text>
+		<text bitflag="1345" id1="630766" id2="17" version="1065353216">There has to be a less boring way to do this.</text>
+		<text bitflag="1360" id1="630766" id2="17" version="1065353216">Ugh! So dull.</text>
+		<text bitflag="1345" id1="630767" id2="17" version="1065353216">I became starship captain so I wouldn't have to do homework....</text>
+		<text bitflag="1360" id1="630767" id2="17" version="1065353216">I hate reading.</text>
+		<text bitflag="321" id1="630768" id2="17" version="1065353216">[You quickly use the cipher Reki taught you to uncover the schematics hidden within the text.]</text>
+		<text bitflag="321" id1="630770" id2="17" version="1065353216">[The schematics show a door in Reki's basement that opens onto an area outside the perimeter walls.]</text>
+		<text bitflag="321" id1="630772" id2="17" version="1065353216">[A pathway leads down the hill to a maintenance passage leading into the separatist hideout's lower level.]</text>
+		<text bitflag="321" id1="630774" id2="17" version="1065353216">[The separatist computer station is under heavy guard, but they won't expect attackers coming from the back door.]</text>
+	</file_content>
+</stb_file>

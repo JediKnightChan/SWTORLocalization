@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>20</strs>
+		<file_name>/resources/en-us/str/cnv/misc/pvp/warzone_prototype_ship.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="501735" id2="17" version="1065353216">A Republic strike force has found us. They must be held off long enough for our techs to recover the data.</text>
+		<text bitflag="1345" id1="501738" id2="17" version="1065353216">The Empire has found us! Our techs are not done downloading the ship's datacore. Hold them off as long as you can.</text>
+		<text bitflag="1345" id1="501742" id2="17" version="1065353216">[BZZT]--ERROR. Identity recognized. Greetings, Captain. Access to the reactor core granted.</text>
+		<text bitflag="1345" id1="501745" id2="17" version="1065353216">Find a way over the Reactor Core pit. Then place the explosives on one of the doors. Ensure the enemy doesn't disarm it before it detonates.</text>
+		<text bitflag="1345" id1="501746" id2="17" version="1065353216">Find a way over the Reactor Core pit. Then place explosives on one of the doors. Ensure the enemy doesn't disarm it before it detonates. Quickly now!</text>
+		<text bitflag="1345" id1="501749" id2="17" version="1065353216">Alert. Unauthorized armaments detected.</text>
+		<text bitflag="1345" id1="501752" id2="17" version="1065353216">Alert. Hull breach--reactor core level. Evacuation protocol initiated. Please proceed through the lifts to the bridge.</text>
+		<text bitflag="1345" id1="501755" id2="17" version="1065353216">Almost there. Access the terminal to download the ship's datacore.</text>
+		<text bitflag="1345" id1="501756" id2="17" version="1065353216">There! Access the terminal, download the ship's datacore and we have it!</text>
+		<text bitflag="1345" id1="501759" id2="17" version="1065353216">[BZZT] Security code recognized. Datacore transfer initialized. Downloading, please stand by.</text>
+		<text bitflag="1345" id1="501762" id2="17" version="1065353216">We've lost our defensive position but it's not over. Recover ground so we can keep downloading the datacore. Override the nearby security terminal to open the door.</text>
+		<text bitflag="1345" id1="501763" id2="17" version="1065353216">We have a link. Stand your ground, we need time to complete the transfer!</text>
+		<text bitflag="1345" id1="501766" id2="17" version="1065353216">Our techs have established a link. Hold your ground long enough for us to complete transferring the datacore.</text>
+		<text bitflag="1345" id1="501767" id2="17" version="1065353216">The Republic has managed a defensive position. Retake the datacore and continue the operation. Override the security terminal, open the door, attack!</text>
+		<text bitflag="1089" id1="501770" id2="17" version="1065353216">Download complete. Republic forces have secured the datacore. Powering down.</text>
+		<text bitflag="1345" id1="501771" id2="17" version="1065353216">You are all heroes today.</text>
+		<text bitflag="1345" id1="501772" id2="17" version="1065353216">A dark day for the Empire.</text>
+		<text bitflag="1089" id1="501775" id2="17" version="1065353216">Download complete. Imperial forces have secured the datacore. Powering down.</text>
+		<text bitflag="1345" id1="501776" id2="17" version="1065353216">We can't win. Pull back!</text>
+		<text bitflag="1345" id1="501777" id2="17" version="1065353216">Victory!</text>
+	</file_content>
+</stb_file>

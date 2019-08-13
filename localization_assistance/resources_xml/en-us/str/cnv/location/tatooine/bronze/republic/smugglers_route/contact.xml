@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>23</strs>
+		<file_name>/resources/en-us/str/cnv/location/tatooine/bronze/republic/smugglers_route/contact.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="102985" id2="17" version="1065353216">You've already ruined my slave sales--there's nothing left I can do for you.</text>
+		<text bitflag="3393" id1="102986" id2="17" version="1065353216">Good luck with your investigations.</text>
+		<text bitflag="1345" id1="102988" id2="17" version="1065353216">You're Shenax? I hear you're selling slaves for the Twin Suns.</text>
+		<text bitflag="3393" id1="102989" id2="17" version="1065353216">A noble Jedi, visiting my humble self. I'd be honored, if I thought you had any business here.</text>
+		<text bitflag="3393" id1="102991" id2="17" version="1065353216">A Republic military officer, on our humble planet. Pity you have no business here.</text>
+		<text bitflag="3393" id1="102993" id2="17" version="1065353216">I am Shenax, but I can't imagine what business it is of yours.</text>
+		<text bitflag="3393" id1="102995" id2="17" version="1065353216">Slave trading is perfectly legal on Tatooine. As for the notion that I consort with the Twin Suns, well--I take pains to ensure my wares' legitimacy.</text>
+		<text bitflag="1345" id1="102996" id2="17" version="1065353216">Local security is already involved; Encot sent me personally. I suggest you cooperate.</text>
+		<text bitflag="1360" id1="102996" id2="17" version="1065353216">The sheriff won't be happy.</text>
+		<text bitflag="3393" id1="102997" id2="17" version="1065353216">I... see. Then I do so under protest.</text>
+		<text bitflag="3393" id1="102999" id2="17" version="1065353216">The slaves are being held in the spaceport--these are the hangar details. I expect the militia will appreciate my aid.</text>
+		<text bitflag="1345" id1="103000" id2="17" version="1065353216">I'm not here to cause you trouble. But if the Twin Suns fooled you into working with them, we need to find out the truth.</text>
+		<text bitflag="1360" id1="103000" id2="17" version="1065353216">I need your help.</text>
+		<text bitflag="3393" id1="103001" id2="17" version="1065353216">I see your point. Perhaps triple-checking would put everyone at ease.</text>
+		<text bitflag="3393" id1="103003" id2="17" version="1065353216">The slaves are being held in the spaceport--these are the hangar details. If you find anything, of course, I'll return my unspent profits to you.</text>
+		<text bitflag="1345" id1="103004" id2="17" version="1065353216">You will tell me where the slaves are, and make reparations for your actions.</text>
+		<text bitflag="1360" id1="103004" id2="17" version="1065353216">[Force Persuade] You'll help.</text>
+		<text bitflag="3393" id1="103005" id2="17" version="1065353216">I can tell you where the slaves are--they're in one of the spaceport hangars.</text>
+		<text bitflag="3393" id1="103007" id2="17" version="1065353216">Perhaps I should also make reparations for my actions. I'll donate all my unspent profits to the Jedi.</text>
+		<text bitflag="1360" id1="103008" id2="17" version="1065353216">Don't toy with me, scum!</text>
+		<text bitflag="3393" id1="103011" id2="17" version="1065353216">They are being stored in the spaceport--here are the hangar details. I'll... take my business elsewhere.</text>
+		<text bitflag="3393" id1="103013" id2="17" version="1065353216">Please, I'm a very busy man.</text>
+		<text bitflag="3393" id1="573339" id2="17" version="1065353216">You mistake my intentions! Please, if there is any question about the slaves, I urge you to investigate.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>49</strs>
+		<file_name>/resources/en-us/str/gui/mtxpackexplorer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="905795" version="1065353216">Not enough space in inventory to claim from Cartel Item Stash.</text>
+		<text bitflag="321" id1="257" id2="905795" version="1065353216">Stash entry not found.</text>
+		<text bitflag="321" id1="258" id2="905795" version="1065353216">&lt;&lt;1&gt;&gt; x&lt;&lt;2&gt;&gt;, has been transferred to your inventory.</text>
+		<text bitflag="321" id1="259" id2="905795" version="1065353216">No available space in the Cartel Item Stash, please remove entries before attempting to open another pack.</text>
+		<text bitflag="321" id1="260" id2="905795" version="1065353216">Misc</text>
+		<text bitflag="321" id1="261" id2="905795" version="1065353216">[ x&lt;&lt;1&gt;&gt; ]</text>
+		<text bitflag="321" id1="262" id2="905795" version="1065353216">Open Pack</text>
+		<text bitflag="321" id1="263" id2="905795" version="1065353216">You have the following packs in your inventory:</text>
+		<text bitflag="321" id1="264" id2="905795" version="1065353216">Claim</text>
+		<text bitflag="321" id1="265" id2="905795" version="1065353216">Claim Stack</text>
+		<text bitflag="321" id1="266" id2="905795" version="1065353216">Delete Entry</text>
+		<text bitflag="321" id1="267" id2="905795" version="1065353216">PACK VIEWER</text>
+		<text bitflag="321" id1="268" id2="905795" version="1065353216">ITEM STASH</text>
+		<text bitflag="321" id1="269" id2="905795" version="1065353216">Reveal All</text>
+		<text bitflag="321" id1="270" id2="905795" version="1065353216">Next Pack (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="271" id2="905795" version="1065353216">Next Set of Items</text>
+		<text bitflag="321" id1="272" id2="905795" version="1065353216">Done</text>
+		<text bitflag="321" id1="273" id2="905795" version="1065353216">Are you sure?</text>
+		<text bitflag="321" id1="274" id2="905795" version="1065353216">Pack opening will instantly consume one pack at a time. This cannot be undone.</text>
+		<text bitflag="321" id1="275" id2="905795" version="1065353216">Never show again</text>
+		<text bitflag="321" id1="276" id2="905795" version="1065353216">This will permanently delete &lt;&lt;1&gt;&gt;  x&lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="277" id2="905795" version="1065353216">&lt;&lt;1&gt;&gt; Name</text>
+		<text bitflag="321" id1="278" id2="905795" version="1065353216">&lt;&lt;1&gt;&gt; Quality</text>
+		<text bitflag="321" id1="279" id2="905795" version="1065353216">&lt;&lt;1&gt;&gt; Cartel Rarity</text>
+		<text bitflag="321" id1="280" id2="905795" version="1065353216">&lt;&lt;1&gt;&gt; Quantity</text>
+		<text bitflag="321" id1="281" id2="905795" version="1065353216">All</text>
+		<text bitflag="321" id1="282" id2="905795" version="1065353216">Armor</text>
+		<text bitflag="321" id1="283" id2="905795" version="1065353216">Weapon</text>
+		<text bitflag="321" id1="284" id2="905795" version="1065353216">Mount</text>
+		<text bitflag="321" id1="285" id2="905795" version="1065353216">Pet</text>
+		<text bitflag="321" id1="286" id2="905795" version="1065353216">Companion Gift</text>
+		<text bitflag="321" id1="287" id2="905795" version="1065353216">Item Modification</text>
+		<text bitflag="321" id1="288" id2="905795" version="1065353216">Starfighter</text>
+		<text bitflag="321" id1="289" id2="905795" version="1065353216">Decoration</text>
+		<text bitflag="321" id1="290" id2="905795" version="1065353216">Emote</text>
+		<text bitflag="321" id1="291" id2="905795" version="1065353216">Consumable</text>
+		<text bitflag="321" id1="292" id2="905795" version="1065353216">Toy</text>
+		<text bitflag="321" id1="293" id2="905795" version="1065353216">Crafting Material</text>
+		<text bitflag="321" id1="294" id2="905795" version="1065353216">&lt;&lt;1&gt;&gt; New</text>
+		<text bitflag="321" id1="295" id2="905795" version="1065353216">Items Revealed</text>
+		<text bitflag="321" id1="296" id2="905795" version="1065353216">Cartel Market Item Stash</text>
+		<text bitflag="321" id1="297" id2="905795" version="1065353216">Open the Cartel Market Item Stash</text>
+		<text bitflag="321" id1="298" id2="905795" version="1065353216">Retrieve one of this item from the stash to your inventory.</text>
+		<text bitflag="321" id1="299" id2="905795" version="1065353216">Retrieve the entire stack of this item from the stash to your inventory.</text>
+		<text bitflag="321" id1="300" id2="905795" version="1065353216">Added item &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; x&lt;&lt;3&gt;&gt; to the Cartel Market Item Stash</text>
+		<text bitflag="321" id1="302" id2="905795" version="1065353216">Weapon Tunings</text>
+		<text bitflag="321" id1="303" id2="905795" version="1065353216">Dye Packs</text>
+		<text bitflag="321" id1="304" id2="905795" version="1065353216">Flairs</text>
+		<text bitflag="321" id1="305" id2="905795" version="1065353216">Companions</text>
+	</file_content>
+</stb_file>

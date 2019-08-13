@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/event/bounty_hunting/shared/mission_terminals/bounty_delivery_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="336" id1="1115999" id2="17" version="1065353216">[Submit completed bounty]</text>
+		<text bitflag="336" id1="1116005" id2="17" version="1065353216">[Submit completed bounty]</text>
+		<text bitflag="336" id1="1116009" id2="17" version="1065353216">[Submit completed bounty]</text>
+		<text bitflag="336" id1="1116011" id2="17" version="1065353216">[Submit completed bounty]</text>
+		<text bitflag="336" id1="1116013" id2="17" version="1065353216">[Submit completed bounty]</text>
+		<text bitflag="336" id1="1116199" id2="17" version="1065353216">[Leave]</text>
+		<text bitflag="1104" id1="1116450" id2="17" version="1065353216">[Submit completed bounty]</text>
+	</file_content>
+</stb_file>

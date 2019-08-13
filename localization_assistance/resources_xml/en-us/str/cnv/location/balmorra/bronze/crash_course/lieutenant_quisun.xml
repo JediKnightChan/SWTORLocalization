@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>21</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra/bronze/crash_course/lieutenant_quisun.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="720063" id2="17" version="1065353216">Thanks for retrieving those plans for us. I think you made Agent Nianla crack a smile.</text>
+		<text bitflag="1345" id1="720064" id2="17" version="1065353216">Please, hurry. Those walker plans are critical to the war effort.</text>
+		<text bitflag="1345" id1="720067" id2="17" version="1065353216">You're one of the Sith, aren't you? Please, I need someone with high security clearance for a vital retrieval mission.</text>
+		<text bitflag="1345" id1="720069" id2="17" version="1065353216">Excuse me, what's your clearance? I need someone for a retrieval mission. It's a matter of Imperial security.</text>
+		<text bitflag="1345" id1="720071" id2="17" version="1065353216">The Republic raided one of our research posts--a ship escaped with stolen plans for a brand-new walker design. Luckily, our gunners just brought the ship down.</text>
+		<text bitflag="1345" id1="720073" id2="17" version="1065353216">I need someone--someone trustworthy--to check the crash site and retrieve those plans.</text>
+		<text bitflag="1345" id1="720074" id2="17" version="1065353216">We Sith know the value of discretion.</text>
+		<text bitflag="1360" id1="720074" id2="17" version="1065353216">I'm trustworthy.</text>
+		<text bitflag="1345" id1="720075" id2="17" version="1065353216">Without going into details, I probably have a higher clearance than you.</text>
+		<text bitflag="1360" id1="720075" id2="17" version="1065353216">I can be trusted.</text>
+		<text bitflag="1345" id1="720076" id2="17" version="1065353216">Oh. I see. Seems I picked the right person to ask.</text>
+		<text bitflag="1345" id1="720078" id2="17" version="1065353216">In my line of work, you soon learn how to keep secrets.</text>
+		<text bitflag="1360" id1="720078" id2="17" version="1065353216">I'm very discreet.</text>
+		<text bitflag="1345" id1="720079" id2="17" version="1065353216">Oh good, good. Intelligence is up in arms over this.</text>
+		<text bitflag="1360" id1="720081" id2="17" version="1065353216">Perhaps. Convince me.</text>
+		<text bitflag="1345" id1="720082" id2="17" version="1065353216">Intelligence is providing a reward for the plans' recovery.</text>
+		<text bitflag="1345" id1="720084" id2="17" version="1065353216">This is the route to the crash site--oh, if there are any survivors, kill on sight.</text>
+		<text bitflag="1345" id1="720086" id2="17" version="1065353216">Take the plans to Agent Nianla. She'll get them to safety. Thanks--it was a stroke of luck meeting you.</text>
+		<text bitflag="1360" id1="720088" id2="17" version="1065353216">Not interested. [Refuse quest]</text>
+		<text bitflag="1345" id1="720089" id2="17" version="1065353216">Oh. Sorry to have troubled you, I'll get someone else to investigate.</text>
+		<text bitflag="1345" id1="720091" id2="17" version="1065353216">Sorry, I really need someone with a better security clearance.</text>
+	</file_content>
+</stb_file>

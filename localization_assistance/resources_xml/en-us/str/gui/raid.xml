@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>28</strs>
+		<file_name>/resources/en-us/str/gui/raid.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="513505" version="1065353216">Unlock Operations Frame</text>
+		<text bitflag="321" id1="2" id2="513505" version="1065353216">Lock Operations Frame</text>
+		<text bitflag="321" id1="3" id2="513505" version="1065353216">Hide Operations Frame</text>
+		<text bitflag="321" id1="4" id2="513505" version="1065353216">Show Operations Frame</text>
+		<text bitflag="321" id1="257" id2="513505" version="1065353216">(Story)</text>
+		<text bitflag="321" id1="258" id2="513505" version="1065353216">(Veteran/Master)</text>
+		<text bitflag="321" id1="259" id2="513505" version="1065353216">(Story)</text>
+		<text bitflag="321" id1="260" id2="513505" version="1065353216">(Veteran/Master)</text>
+		<text bitflag="321" id1="261" id2="513505" version="1065353216">Unknown Difficulty</text>
+		<text bitflag="321" id1="262" id2="513505" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="263" id2="513505" version="1065353216">&lt;&lt;1[/$d Day/$d Days]&gt;&gt; &lt;&lt;2[&lt; Hour/$d Hour/$d Hours]&gt;&gt;</text>
+		<text bitflag="321" id1="265" id2="513505" version="1065353216">Ready Check</text>
+		<text bitflag="321" id1="266" id2="513505" version="1065353216">&lt;&lt;1&gt;&gt; has initiated a ready check. You have &lt;&lt;2&gt;&gt; seconds to respond.</text>
+		<text bitflag="321" id1="267" id2="513505" version="1065353216">Your group is ready!</text>
+		<text bitflag="321" id1="268" id2="513505" version="1065353216">&lt;&lt;1&gt;&gt; is not ready.</text>
+		<text bitflag="321" id1="269" id2="513505" version="1065353216">You have initiated a ready check. Players have &lt;&lt;1&gt;&gt; seconds to respond.</text>
+		<text bitflag="321" id1="270" id2="513505" version="1065353216">&lt;&lt;1&gt;&gt; has cancelled the ready check.</text>
+		<text bitflag="321" id1="271" id2="513505" version="1065353216">&lt;&lt;1&gt;&gt; is in a different area and has been marked not ready.</text>
+		<text bitflag="321" id1="272" id2="513505" version="1065353216">Ready check results:</text>
+		<text bitflag="321" id1="273" id2="513505" version="1065353216">A ready check cannot be initiated while a member of your group is in combat.</text>
+		<text bitflag="321" id1="274" id2="513505" version="1065353216">A ready check cannot be initiated while in a Warzone.</text>
+		<text bitflag="321" id1="275" id2="513505" version="1065353216">Ready check was cancelled because a group member entered combat.</text>
+		<text bitflag="321" id1="276" id2="513505" version="1065353216">Only group leaders or ops lieutenants may initiate a ready check.</text>
+		<text bitflag="321" id1="277" id2="513505" version="1065353216">You cannot initiate a ready check while one is ongoing.</text>
+		<text bitflag="321" id1="278" id2="513505" version="1065353216">1 player is not ready</text>
+		<text bitflag="321" id1="279" id2="513505" version="1065353216">&lt;&lt;1&gt;&gt; players are not ready</text>
+		<text bitflag="321" id1="280" id2="513505" version="1065353216">(Veteran)</text>
+		<text bitflag="321" id1="281" id2="513505" version="1065353216">(Master)</text>
+	</file_content>
+</stb_file>

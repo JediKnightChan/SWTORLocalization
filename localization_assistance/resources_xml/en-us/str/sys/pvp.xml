@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>264</strs>
+		<file_name>/resources/en-us/str/sys/pvp.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="536592" version="1065353216">The Republic West Defense Turret has been destroyed!</text>
+		<text bitflag="321" id1="257" id2="536592" version="1065353216">The Republic West Defense Turret has taken damage and is now at 10% integrity.</text>
+		<text bitflag="321" id1="258" id2="536592" version="1065353216">The Republic West Defense Turret has taken damage and is now at 20% integrity.</text>
+		<text bitflag="321" id1="259" id2="536592" version="1065353216">The Republic West Defense Turret has taken damage and is now at 30% integrity.</text>
+		<text bitflag="321" id1="260" id2="536592" version="1065353216">The Republic West Defense Turret has taken damage and is now at 40% integrity.</text>
+		<text bitflag="321" id1="261" id2="536592" version="1065353216">The Republic West Defense Turret has taken damage and is now at 50% integrity.</text>
+		<text bitflag="321" id1="262" id2="536592" version="1065353216">The Republic West Defense Turret has taken damage and is now at 60% integrity.</text>
+		<text bitflag="321" id1="263" id2="536592" version="1065353216">The Republic West Defense Turret has taken damage and is now at 70% integrity.</text>
+		<text bitflag="321" id1="264" id2="536592" version="1065353216">The Republic West Defense Turret has taken damage and is now at 80% integrity.</text>
+		<text bitflag="321" id1="265" id2="536592" version="1065353216">The Republic West Defense Turret has taken damage and is now at 90% integrity.</text>
+		<text bitflag="321" id1="266" id2="536592" version="1065353216">The Republic East Defense Turret has been destroyed!</text>
+		<text bitflag="321" id1="267" id2="536592" version="1065353216">The Republic East Defense Turret has taken damage and is now at 10% integrity.</text>
+		<text bitflag="321" id1="268" id2="536592" version="1065353216">The Republic East Defense Turret has taken damage and is now at 20% integrity.</text>
+		<text bitflag="321" id1="269" id2="536592" version="1065353216">The Republic East Defense Turret has taken damage and is now at 30% integrity.</text>
+		<text bitflag="321" id1="270" id2="536592" version="1065353216">The Republic East Defense Turret has taken damage and is now at 40% integrity.</text>
+		<text bitflag="321" id1="271" id2="536592" version="1065353216">The Republic East Defense Turret has taken damage and is now at 50% integrity.</text>
+		<text bitflag="321" id1="272" id2="536592" version="1065353216">The Republic East Defense Turret has taken damage and is now at 60% integrity.</text>
+		<text bitflag="321" id1="273" id2="536592" version="1065353216">The Republic East Defense Turret has taken damage and is now at 70% integrity.</text>
+		<text bitflag="321" id1="274" id2="536592" version="1065353216">The Republic East Defense Turret has taken damage and is now at 80% integrity.</text>
+		<text bitflag="321" id1="275" id2="536592" version="1065353216">The Republic East Defense Turret has taken damage and is now at 90% integrity.</text>
+		<text bitflag="321" id1="276" id2="536592" version="1065353216">The Imperial West Defense Turret has been destroyed!</text>
+		<text bitflag="321" id1="277" id2="536592" version="1065353216">The Imperial West Defense Turret has taken damage and is now at 10% integrity.</text>
+		<text bitflag="321" id1="278" id2="536592" version="1065353216">The Imperial West Defense Turret has taken damage and is now at 20% integrity.</text>
+		<text bitflag="321" id1="279" id2="536592" version="1065353216">The Imperial West Defense Turret has taken damage and is now at 30% integrity.</text>
+		<text bitflag="321" id1="280" id2="536592" version="1065353216">The Imperial West Defense Turret has taken damage and is now at 40% integrity.</text>
+		<text bitflag="321" id1="281" id2="536592" version="1065353216">The Imperial West Defense Turret has taken damage and is now at 50% integrity.</text>
+		<text bitflag="321" id1="282" id2="536592" version="1065353216">The Imperial West Defense Turret has taken damage and is now at 60% integrity.</text>
+		<text bitflag="321" id1="283" id2="536592" version="1065353216">The Imperial West Defense Turret has taken damage and is now at 70% integrity.</text>
+		<text bitflag="321" id1="284" id2="536592" version="1065353216">The Imperial West Defense Turret has taken damage and is now at 80% integrity.</text>
+		<text bitflag="321" id1="285" id2="536592" version="1065353216">The Imperial West Defense Turret has taken damage and is now at 90% integrity.</text>
+		<text bitflag="321" id1="286" id2="536592" version="1065353216">The Imperial East Defense Turret has been destroyed!</text>
+		<text bitflag="321" id1="287" id2="536592" version="1065353216">The Imperial East Defense Turret has taken damage and is now at 10% integrity.</text>
+		<text bitflag="321" id1="288" id2="536592" version="1065353216">The Imperial East Defense Turret has taken damage and is now at 20% integrity.</text>
+		<text bitflag="321" id1="289" id2="536592" version="1065353216">The Imperial East Defense Turret has taken damage and is now at 30% integrity.</text>
+		<text bitflag="321" id1="290" id2="536592" version="1065353216">The Imperial East Defense Turret has taken damage and is now at 40% integrity.</text>
+		<text bitflag="321" id1="291" id2="536592" version="1065353216">The Imperial East Defense Turret has taken damage and is now at 50% integrity.</text>
+		<text bitflag="321" id1="292" id2="536592" version="1065353216">The Imperial East Defense Turret has taken damage and is now at 60% integrity.</text>
+		<text bitflag="321" id1="293" id2="536592" version="1065353216">The Imperial East Defense Turret has taken damage and is now at 70% integrity.</text>
+		<text bitflag="321" id1="294" id2="536592" version="1065353216">The Imperial East Defense Turret has taken damage and is now at 80% integrity.</text>
+		<text bitflag="321" id1="295" id2="536592" version="1065353216">The Imperial East Defense Turret has taken damage and is now at 90% integrity.</text>
+		<text bitflag="321" id1="296" id2="536592" version="1065353216">The Imperial Base's defenses have been destroyed!</text>
+		<text bitflag="321" id1="297" id2="536592" version="1065353216">The Republic Base's defenses have been destroyed!</text>
+		<text bitflag="321" id1="298" id2="536592" version="1065353216">The attackers have secured this room, proceed to the next room!</text>
+		<text bitflag="321" id1="299" id2="536592" version="1065353216">The attackers have taken over this medcenter area!  You have been safely transported to the new defender medcenter.</text>
+		<text bitflag="321" id1="300" id2="536592" version="1065353216">The Imperial West Defense Turret is operating at 100% integrity.</text>
+		<text bitflag="321" id1="301" id2="536592" version="1065353216">The Imperial East Defense Turret is operating at 100% integrity.</text>
+		<text bitflag="321" id1="302" id2="536592" version="1065353216">The Republic East Defense Turret is operating at 100% integrity.</text>
+		<text bitflag="321" id1="303" id2="536592" version="1065353216">The Republic West Defense Turret is operating at 100% integrity.</text>
+		<text bitflag="321" id1="304" id2="536592" version="1065353216">The Imperial East Defense Turret has been repaired.</text>
+		<text bitflag="321" id1="305" id2="536592" version="1065353216">The Imperial West Defense Turret has been repaired.</text>
+		<text bitflag="321" id1="306" id2="536592" version="1065353216">The Republic West Defense Turret has been repaired.</text>
+		<text bitflag="321" id1="307" id2="536592" version="1065353216">The Republic East Defense Turret has been repaired.</text>
+		<text bitflag="321" id1="308" id2="536592" version="1065353216">The Imperial Defense Turrets are no longer operational.</text>
+		<text bitflag="321" id1="309" id2="536592" version="1065353216">The Republic Defense Turrets are no longer operational.</text>
+		<text bitflag="321" id1="310" id2="536592" version="1065353216">The Central Assault area has been secured by the Republic.</text>
+		<text bitflag="321" id1="311" id2="536592" version="1065353216">The Central Assault area has been secured by the Empire.</text>
+		<text bitflag="321" id1="312" id2="536592" version="1065353216">The Northern Assault area has been secured by the Republic.</text>
+		<text bitflag="321" id1="313" id2="536592" version="1065353216">The Northern Assault area has been secured by the Empire.</text>
+		<text bitflag="321" id1="314" id2="536592" version="1065353216">The Imperial Base Defense Turrets are now operational.</text>
+		<text bitflag="321" id1="315" id2="536592" version="1065353216">The Republic Base Defense Turrets are now operational.</text>
+		<text bitflag="321" id1="316" id2="536592" version="1065353216">The Supply Depot has been captured by the Republic.</text>
+		<text bitflag="321" id1="317" id2="536592" version="1065353216">The Supply Depot has been captured by the Empire.</text>
+		<text bitflag="321" id1="318" id2="536592" version="1065353216">Take the ball to the GOLD side</text>
+		<text bitflag="321" id1="319" id2="536592" version="1065353216">Take the ball to the PURPLE side</text>
+		<text bitflag="321" id1="320" id2="536592" version="1065353216">The Southern Assault area has been secured by the Republic.</text>
+		<text bitflag="321" id1="321" id2="536592" version="1065353216">The Southern Assault area is now vulnerable to attack by the Empire.</text>
+		<text bitflag="321" id1="322" id2="536592" version="1065353216">The Southern Assault area has been secured by the Empire.</text>
+		<text bitflag="321" id1="323" id2="536592" version="1065353216">The Southern Assault area is now vulnerable to attack by the Republic.</text>
+		<text bitflag="321" id1="324" id2="536592" version="1065353216">WARNING: This is a Group Free-for-all PvP area.&lt;br&gt;Any player outside of your group can attack you.</text>
+		<text bitflag="321" id1="325" id2="536592" version="1065353216">The Central Assault area is now vulnerable to attack by the Empire.</text>
+		<text bitflag="321" id1="326" id2="536592" version="1065353216">The Central Assault area is now vulnerable to attack by the Republic.</text>
+		<text bitflag="321" id1="327" id2="536592" version="1065353216">The Northern Assault area is now vulnerable to attack by the Empire.</text>
+		<text bitflag="321" id1="328" id2="536592" version="1065353216">The Northern Assault area is now vulnerable to attack by the Republic.</text>
+		<text bitflag="321" id1="329" id2="536592" version="1065353216">The Imperial Base Defense Turrets are now able to be repaired.</text>
+		<text bitflag="321" id1="330" id2="536592" version="1065353216">The Repubilc Base Defense Turrets are now able to be repaired.</text>
+		<text bitflag="321" id1="331" id2="536592" version="1065353216">The Imperial Base Defense Turrets are now vulnerable to attack.</text>
+		<text bitflag="321" id1="332" id2="536592" version="1065353216">The Republic Base Defense Turrets are now vulnerable to attack.</text>
+		<text bitflag="321" id1="333" id2="536592" version="1065353216">Republic forces control Ilum!</text>
+		<text bitflag="321" id1="334" id2="536592" version="1065353216">Imperial forces control Ilum!</text>
+		<text bitflag="321" id1="335" id2="536592" version="1065353216">The Battle for Ilum has begun, secure those objectives!</text>
+		<text bitflag="321" id1="336" id2="536592" version="1065353216">The Republic controls 5 objectives while the Empire controls 0 objectives.</text>
+		<text bitflag="321" id1="337" id2="536592" version="1065353216">The Republic controls 4 objectives while the Empire controls 1 objective.</text>
+		<text bitflag="321" id1="338" id2="536592" version="1065353216">The Republic controls 3 objectives while the Empire controls 2 objectives.</text>
+		<text bitflag="321" id1="339" id2="536592" version="1065353216">The Empire controls 3 objectives while the Republic controls 2 objectives.</text>
+		<text bitflag="321" id1="340" id2="536592" version="1065353216">The Empire controls 4 objectives while the Republic controls 1 objective.</text>
+		<text bitflag="321" id1="341" id2="536592" version="1065353216">The Empire controls 5 objectives while the Republic controls 0 objectives.</text>
+		<text bitflag="321" id1="342" id2="536592" version="1065353216">WARNING:  You must leave the protected area or you will be removed from the Warzone</text>
+		<text bitflag="321" id1="343" id2="536592" version="1065353216">Defeating a Player Near a Controlled Turret:  +250 Defender Points</text>
+		<text bitflag="321" id1="344" id2="536592" version="1065353216">Defending a Controlled Turret: +500 Defender Points</text>
+		<text bitflag="321" id1="345" id2="536592" version="1065353216">Defusing a Bomb: +5000 Defender Points</text>
+		<text bitflag="321" id1="346" id2="536592" version="1065353216">Defeating a Player in a Critical Area: +100 Defender Points</text>
+		<text bitflag="321" id1="347" id2="536592" version="1065353216">Defeating a Player near Scoring Area: +250 Defender Points</text>
+		<text bitflag="321" id1="348" id2="536592" version="1065353216">Defeating the Ball Carrier: +500 Defender Points</text>
+		<text bitflag="321" id1="349" id2="536592" version="1065353216">Defeating the Ball Carrier about to Score: +7500 Defender Points</text>
+		<text bitflag="321" id1="350" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; accessed the datacore!</text>
+		<text bitflag="321" id1="351" id2="536592" version="1065353216">Round 1 Complete</text>
+		<text bitflag="321" id1="352" id2="536592" version="1065353216">The attackers did not make it to the datacore in time!</text>
+		<text bitflag="321" id1="353" id2="536592" version="1065353216">Round 2 Start</text>
+		<text bitflag="321" id1="354" id2="536592" version="1065353216">The East Bomb has been defused!</text>
+		<text bitflag="321" id1="355" id2="536592" version="1065353216">The West Bomb has been defused!</text>
+		<text bitflag="321" id1="356" id2="536592" version="1065353216">The North Bomb has been defused!</text>
+		<text bitflag="321" id1="357" id2="536592" version="1065353216">The Southern Middle Emplacement is now under Empire Control!</text>
+		<text bitflag="321" id1="358" id2="536592" version="1065353216">The Southern Middle Emplacement is now under Republic Control!</text>
+		<text bitflag="321" id1="359" id2="536592" version="1065353216">The Eastern Tower Emplacement is now under Empire Control!</text>
+		<text bitflag="321" id1="360" id2="536592" version="1065353216">The Eastern Tower Emplacement is now under Republic Control!</text>
+		<text bitflag="321" id1="361" id2="536592" version="1065353216">The Western Panel Emplacement is now under Empire Control!</text>
+		<text bitflag="321" id1="362" id2="536592" version="1065353216">The Western Panel Emplacement is now under Republic Control!</text>
+		<text bitflag="321" id1="363" id2="536592" version="1065353216">+20 Valor</text>
+		<text bitflag="321" id1="364" id2="536592" version="1065353216">+40 Bonus Valor</text>
+		<text bitflag="321" id1="365" id2="536592" version="1065353216">+50 Bonus Valor</text>
+		<text bitflag="321" id1="366" id2="536592" version="1065353216">+60 Bonus Valor</text>
+		<text bitflag="321" id1="367" id2="536592" version="1065353216">+70 Bonus Valor</text>
+		<text bitflag="321" id1="368" id2="536592" version="1065353216">+80 Bonus Valor</text>
+		<text bitflag="321" id1="369" id2="536592" version="1065353216">+90 Bonus Valor</text>
+		<text bitflag="321" id1="370" id2="536592" version="1065353216">+100 Bonus Valor</text>
+		<text bitflag="321" id1="371" id2="536592" version="1065353216">+110 Bonus Valor</text>
+		<text bitflag="321" id1="372" id2="536592" version="1065353216">+120 Bonus Valor</text>
+		<text bitflag="321" id1="373" id2="536592" version="1065353216">+130 Bonus Valor</text>
+		<text bitflag="321" id1="374" id2="536592" version="1065353216">+140 Bonus Valor</text>
+		<text bitflag="321" id1="375" id2="536592" version="1065353216">+150 Bonus Valor</text>
+		<text bitflag="321" id1="376" id2="536592" version="1065353216">+160 Bonus Valor</text>
+		<text bitflag="321" id1="377" id2="536592" version="1065353216">+170 Bonus Valor</text>
+		<text bitflag="321" id1="378" id2="536592" version="1065353216">+180 Bonus Valor</text>
+		<text bitflag="321" id1="379" id2="536592" version="1065353216">Republic Trooper &lt;&lt;1&gt;&gt; spotted near the Republic Base</text>
+		<text bitflag="321" id1="380" id2="536592" version="1065353216">Republic Smuggler &lt;&lt;1&gt;&gt; spotted near the Republic Base</text>
+		<text bitflag="321" id1="381" id2="536592" version="1065353216">Jedi Knight &lt;&lt;1&gt;&gt; spotted near the Republic Base</text>
+		<text bitflag="321" id1="382" id2="536592" version="1065353216">Jedi Consular &lt;&lt;1&gt;&gt; spotted near the Republic Base</text>
+		<text bitflag="321" id1="383" id2="536592" version="1065353216">Imperial Bounty Hunter &lt;&lt;1&gt;&gt; spotted near the Republic Base</text>
+		<text bitflag="321" id1="384" id2="536592" version="1065353216">Sith Warrior &lt;&lt;1&gt;&gt; spotted near the Republic Base</text>
+		<text bitflag="321" id1="385" id2="536592" version="1065353216">Imperial Agent &lt;&lt;1&gt;&gt; spotted near the Republic Base</text>
+		<text bitflag="321" id1="386" id2="536592" version="1065353216">Sith Inquisitor &lt;&lt;1&gt;&gt; spotted near the Republic Base</text>
+		<text bitflag="321" id1="387" id2="536592" version="1065353216">Republic Trooper &lt;&lt;1&gt;&gt; spotted near the Imperial Base</text>
+		<text bitflag="321" id1="388" id2="536592" version="1065353216">Republic Smuggler &lt;&lt;1&gt;&gt; spotted near the Imperial Base</text>
+		<text bitflag="321" id1="389" id2="536592" version="1065353216">Jedi Knight &lt;&lt;1&gt;&gt; spotted near the Imperial Base</text>
+		<text bitflag="321" id1="390" id2="536592" version="1065353216">Jedi Consular &lt;&lt;1&gt;&gt; spotted near the Imperial Base</text>
+		<text bitflag="321" id1="391" id2="536592" version="1065353216">Imperial Bounty Hunter &lt;&lt;1&gt;&gt; spotted near the Imperial Base</text>
+		<text bitflag="321" id1="392" id2="536592" version="1065353216">Sith Warrior &lt;&lt;1&gt;&gt; spotted near the Imperial Base</text>
+		<text bitflag="321" id1="393" id2="536592" version="1065353216">Imperial Agent &lt;&lt;1&gt;&gt; spotted near the Imperial Base</text>
+		<text bitflag="321" id1="394" id2="536592" version="1065353216">Sith Inquisitor &lt;&lt;1&gt;&gt; spotted near the Imperial Base</text>
+		<text bitflag="321" id1="395" id2="536592" version="1065353216">Republic Trooper &lt;&lt;1&gt;&gt; spotted near the Northern Assault</text>
+		<text bitflag="321" id1="396" id2="536592" version="1065353216">Republic Smuggler &lt;&lt;1&gt;&gt; spotted near the Northern Assault</text>
+		<text bitflag="321" id1="397" id2="536592" version="1065353216">Jedi Knight &lt;&lt;1&gt;&gt; spotted near the Northern Assault</text>
+		<text bitflag="321" id1="398" id2="536592" version="1065353216">Jedi Consular &lt;&lt;1&gt;&gt; spotted near the Northern Assault</text>
+		<text bitflag="321" id1="399" id2="536592" version="1065353216">Imperial Bounty Hunter &lt;&lt;1&gt;&gt; spotted near the Northern Assault</text>
+		<text bitflag="321" id1="400" id2="536592" version="1065353216">Sith Warrior &lt;&lt;1&gt;&gt; spotted near the Northern Assault</text>
+		<text bitflag="321" id1="401" id2="536592" version="1065353216">Imperial Agent &lt;&lt;1&gt;&gt; spotted near the Northern Assault</text>
+		<text bitflag="321" id1="402" id2="536592" version="1065353216">Sith Inquisitor &lt;&lt;1&gt;&gt; spotted near the Northern Assault</text>
+		<text bitflag="321" id1="403" id2="536592" version="1065353216">Republic Trooper &lt;&lt;1&gt;&gt; spotted near the Central Assault</text>
+		<text bitflag="321" id1="404" id2="536592" version="1065353216">Republic Smuggler &lt;&lt;1&gt;&gt; spotted near the Central Assault</text>
+		<text bitflag="321" id1="405" id2="536592" version="1065353216">Jedi Knight &lt;&lt;1&gt;&gt; spotted near the Central Assault</text>
+		<text bitflag="321" id1="406" id2="536592" version="1065353216">Jedi Consular &lt;&lt;1&gt;&gt; spotted near the Central Assault</text>
+		<text bitflag="321" id1="407" id2="536592" version="1065353216">Imperial Bounty Hunter &lt;&lt;1&gt;&gt; spotted near the Central Assault</text>
+		<text bitflag="321" id1="408" id2="536592" version="1065353216">Sith Warrior &lt;&lt;1&gt;&gt; spotted near the Central Assault</text>
+		<text bitflag="321" id1="409" id2="536592" version="1065353216">Imperial Agent &lt;&lt;1&gt;&gt; spotted near the Central Assault</text>
+		<text bitflag="321" id1="410" id2="536592" version="1065353216">Sith Inquisitor &lt;&lt;1&gt;&gt; spotted near the Central Assault</text>
+		<text bitflag="321" id1="411" id2="536592" version="1065353216">Republic Trooper &lt;&lt;1&gt;&gt; spotted near the Southern Assault</text>
+		<text bitflag="321" id1="412" id2="536592" version="1065353216">Republic Smuggler &lt;&lt;1&gt;&gt; spotted near the Southern Assault</text>
+		<text bitflag="321" id1="413" id2="536592" version="1065353216">Jedi Knight &lt;&lt;1&gt;&gt; spotted near the Southern Assault</text>
+		<text bitflag="321" id1="414" id2="536592" version="1065353216">Jedi Consular &lt;&lt;1&gt;&gt; spotted near the Southern Assault</text>
+		<text bitflag="321" id1="415" id2="536592" version="1065353216">Imperial Bounty Hunter &lt;&lt;1&gt;&gt; spotted near the Southern Assault</text>
+		<text bitflag="321" id1="416" id2="536592" version="1065353216">Sith Warrior &lt;&lt;1&gt;&gt; spotted near the Southern Assault</text>
+		<text bitflag="321" id1="417" id2="536592" version="1065353216">Imperial Agent &lt;&lt;1&gt;&gt; spotted near the Southern Assault</text>
+		<text bitflag="321" id1="418" id2="536592" version="1065353216">Sith Inquisitor &lt;&lt;1&gt;&gt; spotted near the Southern Assault</text>
+		<text bitflag="321" id1="419" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; has been recently killed and is not currently worth Valor.</text>
+		<text bitflag="321" id1="420" id2="536592" version="1065353216">You have killed too many players worth Valor recently, and are blocked from gaining any further Valor for a short period of time.</text>
+		<text bitflag="321" id1="421" id2="536592" version="1065353216">No Valor Gained</text>
+		<text bitflag="321" id1="422" id2="536592" version="1065353216">Interrupting an Enemy capturing an Emplacement:  +100 Defender Points</text>
+		<text bitflag="321" id1="423" id2="536592" version="1065353216">Defeating a Player near Scoring Area: +100 Defender Points</text>
+		<text bitflag="321" id1="424" id2="536592" version="1065353216">Defending a Controlled Turret: +500 Defender Points</text>
+		<text bitflag="321" id1="425" id2="536592" version="1065353216">WARNING!  You have entered a mine field, turn around!</text>
+		<text bitflag="321" id1="426" id2="536592" version="1065353216">Friendly forces have captured the Southern Middle Emplacement!</text>
+		<text bitflag="321" id1="427" id2="536592" version="1065353216">The enemy has captured the Southern Middle Emplacement!</text>
+		<text bitflag="321" id1="428" id2="536592" version="1065353216">Friendly forces have captured the Eastern Tower Emplacement!</text>
+		<text bitflag="321" id1="429" id2="536592" version="1065353216">The enemy has captured the Eastern Tower Emplacement!</text>
+		<text bitflag="321" id1="430" id2="536592" version="1065353216">Friendly forces have captured the Western Panel Emplacement!</text>
+		<text bitflag="321" id1="431" id2="536592" version="1065353216">The enemy has captured the Western Panel Emplacement!</text>
+		<text bitflag="321" id1="432" id2="536592" version="1065353216">Interrupting an Enemy capturing a Turret: +100 Defender Points</text>
+		<text bitflag="321" id1="433" id2="536592" version="1065353216">Capturing a Turret:  +1000 Attacker Points</text>
+		<text bitflag="321" id1="434" id2="536592" version="1065353216">Defeating an Enemy while attacking a enemy-controlled Turret: +100 Attacker Points</text>
+		<text bitflag="321" id1="435" id2="536592" version="1065353216">Intercepting a thown ball by the Enemy: +1000 Defender Points</text>
+		<text bitflag="321" id1="436" id2="536592" version="1065353216">Defeating an Enemy while on Defense: +100 Defender Points</text>
+		<text bitflag="321" id1="437" id2="536592" version="1065353216">Scoring with the Hutball:  +2500 Attacker Points</text>
+		<text bitflag="321" id1="438" id2="536592" version="1065353216">Passing the ball to a Teammate:  +500 Attacker Points</text>
+		<text bitflag="321" id1="439" id2="536592" version="1065353216">Guarding a Defensive Objective:  +500 Defender Points</text>
+		<text bitflag="321" id1="440" id2="536592" version="1065353216">Interrupt an Enemy planting the Bomb:  +100 Defender Points</text>
+		<text bitflag="321" id1="441" id2="536592" version="1065353216">Assist in Defusing a Bomb: +2000 Defender Points</text>
+		<text bitflag="321" id1="442" id2="536592" version="1065353216">Planting a Bomb: +2500 Attacker Points</text>
+		<text bitflag="321" id1="443" id2="536592" version="1065353216">Extending a Bridge:  +1000 Attacker Points</text>
+		<text bitflag="321" id1="444" id2="536592" version="1065353216">Opening a Forcefield: +1000 Attacker Points</text>
+		<text bitflag="321" id1="445" id2="536592" version="1065353216">Downloading the Datacore:  +1000 Attacker Points</text>
+		<text bitflag="321" id1="446" id2="536592" version="1065353216">Defend a planted Bomb until Explosion:  +1000 Attacker Points</text>
+		<text bitflag="321" id1="447" id2="536592" version="1065353216">Capture an Emplacement:  +1000 Attacker Points</text>
+		<text bitflag="321" id1="448" id2="536592" version="1065353216">Assist Capturing an Emplacement:  +1000 Attacker Points</text>
+		<text bitflag="321" id1="449" id2="536592" version="1065353216">Defeating a Player in a Critical Area:  +100 Attacker Points</text>
+		<text bitflag="321" id1="450" id2="536592" version="1065353216">Game starts in 5 seconds</text>
+		<text bitflag="321" id1="456" id2="536592" version="1065353216">Interrupting an Enemy capturing an Energy Pylon:  +250 Defender Points</text>
+		<text bitflag="321" id1="457" id2="536592" version="1065353216">Capture an Enegy Pylon: +1000 Attacker Points</text>
+		<text bitflag="321" id1="458" id2="536592" version="1065353216">Retrieving an Energy Orb: +1000 Attacker Points</text>
+		<text bitflag="321" id1="459" id2="536592" version="1065353216">Capturing an Energy Orb:  +1000 Attacker Points</text>
+		<text bitflag="321" id1="460" id2="536592" version="1065353216">Defeating an Enemy Orb Carrier:  +500 Defender Points</text>
+		<text bitflag="321" id1="461" id2="536592" version="1065353216">Tiebreaker:  First Team to Capture a Pylon Wins!</text>
+		<text bitflag="321" id1="462" id2="536592" version="1065353216">Round 1:  Start!</text>
+		<text bitflag="321" id1="463" id2="536592" version="1065353216">Round 2:  Start!</text>
+		<text bitflag="321" id1="464" id2="536592" version="1065353216">Round 3:  Start!</text>
+		<text bitflag="321" id1="465" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; has been defeated!</text>
+		<text bitflag="321" id1="466" id2="536592" version="1065353216">Next Round Begins in 30 seconds</text>
+		<text bitflag="321" id1="467" id2="536592" version="1065353216">Frogdogs win the Round!</text>
+		<text bitflag="321" id1="468" id2="536592" version="1065353216">Rotworms win the Round!</text>
+		<text bitflag="321" id1="469" id2="536592" version="1065353216">Round Start!</text>
+		<text bitflag="321" id1="470" id2="536592" version="1065353216">Sudden Death Mode Engaged</text>
+		<text bitflag="321" id1="471" id2="536592" version="1065353216">Rotworms are ready for battle!</text>
+		<text bitflag="321" id1="472" id2="536592" version="1065353216">Frogdogs are ready for battle!</text>
+		<text bitflag="321" id1="473" id2="536592" version="1065353216">Can't use grapple guns while holding the Huttball</text>
+		<text bitflag="321" id1="636" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; has activated the Gree Energy Pylon!</text>
+		<text bitflag="321" id1="637" id2="536592" version="1065353216">You cannot use this teleporter again so soon.</text>
+		<text bitflag="321" id1="638" id2="536592" version="1065353216">Carry the Orbs to the Gree Energy Pylon!</text>
+		<text bitflag="65" id1="642" id2="536592" version="1065353216">Mount your speeders, the race will begin shortly!</text>
+		<text bitflag="65" id1="643" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; has finished in 4th place!</text>
+		<text bitflag="65" id1="644" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; has finished in 3rd place!</text>
+		<text bitflag="65" id1="645" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; has finished in 2nd place!</text>
+		<text bitflag="65" id1="646" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; has finished in 1st place!</text>
+		<text bitflag="321" id1="647" id2="536592" version="1065353216">Midfield Satellite</text>
+		<text bitflag="321" id1="648" id2="536592" version="1065353216">Asteroid Mining Facility</text>
+		<text bitflag="321" id1="649" id2="536592" version="1065353216">Shipyards</text>
+		<text bitflag="321" id1="650" id2="536592" version="1065353216">Friendly</text>
+		<text bitflag="321" id1="651" id2="536592" version="1065353216">Enemy</text>
+		<text bitflag="321" id1="652" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; forces have taken control of the &lt;&lt;3&gt;&gt;!</text>
+		<text bitflag="321" id1="653" id2="536592" version="1065353216">Smuggling Run</text>
+		<text bitflag="321" id1="654" id2="536592" version="1065353216">Assault</text>
+		<text bitflag="321" id1="655" id2="536592" version="1065353216">Domination</text>
+		<text bitflag="321" id1="656" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; destroyed &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="660" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; self-destructed</text>
+		<text bitflag="321" id1="661" id2="536592" version="1065353216">You must be at least level 50 to receive PvP Bolster in the Western Ice Shelf.</text>
+		<text bitflag="321" id1="663" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt;'s hyperspace beacon</text>
+		<text bitflag="65" id1="668" id2="536592" version="1065353216">Rotworms are ready.</text>
+		<text bitflag="65" id1="669" id2="536592" version="1065353216">Frogdogs are ready.</text>
+		<text bitflag="65" id1="670" id2="536592" version="1065353216">A ready check is only allowed in an Arena during Pre Round preparations.</text>
+		<text bitflag="321" id1="671" id2="536592" version="1065353216">Drill Site</text>
+		<text bitflag="321" id1="672" id2="536592" version="1065353216">Transport Facility</text>
+		<text bitflag="321" id1="673" id2="536592" version="1065353216">Communications Center</text>
+		<text bitflag="321" id1="674" id2="536592" version="1065353216">Tutorial Satellite</text>
+		<text bitflag="321" id1="675" id2="536592" version="1065353216">Congratulations! You have completed the Galactic Starfighter tutorial.</text>
+		<text bitflag="321" id1="676" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt; got the double damage boost!</text>
+		<text bitflag="321" id1="677" id2="536592" version="1065353216">You got the engine boost!</text>
+		<text bitflag="321" id1="678" id2="536592" version="1065353216">You got the shield boost!</text>
+		<text bitflag="321" id1="679" id2="536592" version="1065353216">You got the blaster boost!</text>
+		<text bitflag="321" id1="680" id2="536592" version="1065353216">&lt;&lt;1&gt;&gt;'s &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="683" id2="536592" version="1065353216">Team Deathmatch</text>
+		<text bitflag="321" id1="684" id2="536592" version="1065353216">Space Station</text>
+		<text bitflag="321" id1="685" id2="536592" version="1065353216">Capital Ship Battle</text>
+		<text bitflag="321" id1="686" id2="536592" version="1065353216">Wreckage Site</text>
+		<text bitflag="321" id1="720" id2="536592" version="1065353216">Captured a Control Point: +1000 Attacker Points</text>
+		<text bitflag="321" id1="723" id2="536592" version="1065353216">Used the Speed Up Battle Mod Slice: +1000 Defender Points</text>
+		<text bitflag="321" id1="724" id2="536592" version="1065353216">Used the Multiply Battle Mod Slice: +1000 Defender Points</text>
+		<text bitflag="321" id1="725" id2="536592" version="1065353216">Used the Deactivate Battle Mod Slice: +1000 Attacker Points</text>
+		<text bitflag="321" id1="726" id2="536592" version="1065353216">Used the Activate Battle Mod Slice: +1000 Attacker Points</text>
+		<text bitflag="321" id1="727" id2="536592" version="1065353216">Can only be used in an inactive control point</text>
+		<text bitflag="321" id1="728" id2="536592" version="1065353216">Can only be used in a friendly control point</text>
+		<text bitflag="321" id1="729" id2="536592" version="1065353216">Can only be used in an active control point</text>
+		<text bitflag="321" id1="733" id2="536592" version="1065353216">Catching a pass from a Teammate:  +250 Attacker Points</text>
+		<text bitflag="321" id1="734" id2="536592" version="1065353216">Throwing for a Score:  +2250 Attacker Points</text>
+		<text bitflag="321" id1="735" id2="536592" version="1065353216">The Hutt is becoming angry!</text>
+		<text bitflag="321" id1="736" id2="536592" version="1065353216">Score or pass the Huttball soon!</text>
+		<text bitflag="321" id1="737" id2="536592" version="1065353216">WARNING:  You must leave the protected area, or you will be removed from the Arena</text>
+	</file_content>
+</stb_file>

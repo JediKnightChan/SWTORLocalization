@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>243</strs>
+		<file_name>/resources/en-us/str/gui/charactersheet.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="2000" id2="228539" version="1065353216">Melee Damage:</text>
+		<text bitflag="321" id1="2001" id2="228539" version="1065353216">Shield Absorption:</text>
+		<text bitflag="321" id1="2002" id2="228539" version="1065353216">Ranged Damage:</text>
+		<text bitflag="321" id1="2003" id2="228539" version="1065353216">Ranged Critical Chance:</text>
+		<text bitflag="321" id1="2004" id2="228539" version="1065353216">Health:</text>
+		<text bitflag="321" id1="2005" id2="228539" version="1065353216">Health Regen:</text>
+		<text bitflag="321" id1="2006" id2="228539" version="1065353216">Tech Damage:</text>
+		<text bitflag="321" id1="2007" id2="228539" version="1065353216">Tech Critical Chance:</text>
+		<text bitflag="321" id1="2008" id2="228539" version="1065353216">Elemental:</text>
+		<text bitflag="321" id1="2009" id2="228539" version="1065353216">Internal:</text>
+		<text bitflag="321" id1="2010" id2="228539" version="1065353216">Healing:</text>
+		<text bitflag="321" id1="2011" id2="228539" version="1065353216">Companion Health:</text>
+		<text bitflag="321" id1="2012" id2="228539" version="1065353216">Companion Damage:</text>
+		<text bitflag="321" id1="2013" id2="228539" version="1065353216">Energy:</text>
+		<text bitflag="321" id1="2014" id2="228539" version="1065353216">Kinetic:</text>
+		<text bitflag="321" id1="2015" id2="228539" version="1065353216">Bonus Damage:</text>
+		<text bitflag="321" id1="2016" id2="228539" version="1065353216">Aim</text>
+		<text bitflag="321" id1="2017" id2="228539" version="1065353216">Power</text>
+		<text bitflag="321" id1="2018" id2="228539" version="1065353216">Critical Rating</text>
+		<text bitflag="321" id1="2019" id2="228539" version="1065353216">Cunning</text>
+		<text bitflag="321" id1="2020" id2="228539" version="1065353216">Tech Power</text>
+		<text bitflag="321" id1="2021" id2="228539" version="1065353216">Presence</text>
+		<text bitflag="321" id1="2022" id2="228539" version="1065353216">Energy Regen Rate:</text>
+		<text bitflag="321" id1="2023" id2="228539" version="1065353216">Accuracy Rating</text>
+		<text bitflag="321" id1="2024" id2="228539" version="1065353216">Armor Bonus (En/Kin):</text>
+		<text bitflag="321" id1="2025" id2="228539" version="1065353216">Willpower Bonus (Ele/Int):</text>
+		<text bitflag="321" id1="2026" id2="228539" version="1065353216">Melee Parry:</text>
+		<text bitflag="321" id1="2027" id2="228539" version="1065353216">Ranged Deflect:</text>
+		<text bitflag="321" id1="2028" id2="228539" version="1065353216">Defense Rating</text>
+		<text bitflag="321" id1="2029" id2="228539" version="1065353216">Glance Rating</text>
+		<text bitflag="321" id1="2030" id2="228539" version="1065353216">Absorption Rating</text>
+		<text bitflag="321" id1="2031" id2="228539" version="1065353216">Expertise Rating</text>
+		<text bitflag="321" id1="2032" id2="228539" version="1065353216">Triage Rating</text>
+		<text bitflag="321" id1="2033" id2="228539" version="1065353216">Hardiness Rating</text>
+		<text bitflag="321" id1="2034" id2="228539" version="1065353216">Willpower</text>
+		<text bitflag="321" id1="2035" id2="228539" version="1065353216">Force Power</text>
+		<text bitflag="321" id1="2036" id2="228539" version="1065353216">In Combat:</text>
+		<text bitflag="321" id1="2037" id2="228539" version="1065353216">Out of Combat:</text>
+		<text bitflag="321" id1="2038" id2="228539" version="1065353216">Accuracy:</text>
+		<text bitflag="321" id1="2039" id2="228539" version="1065353216">Critical Chance:</text>
+		<text bitflag="321" id1="2040" id2="228539" version="1065353216">Bonus Healing:</text>
+		<text bitflag="321" id1="2041" id2="228539" version="1065353216">Force Regen Rate:</text>
+		<text bitflag="321" id1="2042" id2="228539" version="1065353216">Damage Reduction:</text>
+		<text bitflag="321" id1="2043" id2="228539" version="1065353216">Defense Chance:</text>
+		<text bitflag="321" id1="2044" id2="228539" version="1065353216">Shield Chance:</text>
+		<text bitflag="321" id1="2045" id2="228539" version="1065353216">Resistance:</text>
+		<text bitflag="321" id1="2046" id2="228539" version="1065353216">Trauma Ignore:</text>
+		<text bitflag="321" id1="2047" id2="228539" version="1065353216">Critical Damage Reduction:</text>
+		<text bitflag="321" id1="2048" id2="228539" version="1065353216">Critical Chance Reduction:</text>
+		<text bitflag="321" id1="2049" id2="228539" version="1065353216">Damage Reduction:</text>
+		<text bitflag="321" id1="2050" id2="228539" version="1065353216">Damage (Pri):</text>
+		<text bitflag="321" id1="2051" id2="228539" version="1065353216">Damage (Sec):</text>
+		<text bitflag="321" id1="2052" id2="228539" version="1065353216">Melee</text>
+		<text bitflag="321" id1="2053" id2="228539" version="1065353216">Defense</text>
+		<text bitflag="321" id1="2054" id2="228539" version="1065353216">Force</text>
+		<text bitflag="321" id1="2055" id2="228539" version="1065353216">PvP</text>
+		<text bitflag="321" id1="2056" id2="228539" version="1065353216">Ranged</text>
+		<text bitflag="321" id1="2057" id2="228539" version="1065353216">Tech</text>
+		<text bitflag="321" id1="2058" id2="228539" version="1065353216">Strength</text>
+		<text bitflag="321" id1="2059" id2="228539" version="1065353216">Endurance</text>
+		<text bitflag="321" id1="2060" id2="228539" version="1065353216">Willpower</text>
+		<text bitflag="321" id1="2061" id2="228539" version="1065353216">Armor</text>
+		<text bitflag="321" id1="2062" id2="228539" version="1065353216">Alignment</text>
+		<text bitflag="321" id1="2063" id2="228539" version="1065353216">LEVEL</text>
+		<text bitflag="321" id1="2064" id2="228539" version="1065353216">Social Tier</text>
+		<text bitflag="321" id1="2065" id2="228539" version="1065353216">CC Protection:</text>
+		<text bitflag="321" id1="2066" id2="228539" version="1065353216">Shield Absorption:</text>
+		<text bitflag="321" id1="2067" id2="228539" version="1065353216">Melee Critical Chance:</text>
+		<text bitflag="321" id1="2068" id2="228539" version="1065353216">Force Damage:</text>
+		<text bitflag="321" id1="2069" id2="228539" version="1065353216">Force Critical Chance:</text>
+		<text bitflag="321" id1="2070" id2="228539" version="1065353216">Alignment Score:</text>
+		<text bitflag="321" id1="2071" id2="228539" version="1065353216">vs level</text>
+		<text bitflag="321" id1="2072" id2="228539" version="1065353216">Dual Wield Multiplier:</text>
+		<text bitflag="321" id1="2073" id2="228539" version="1065353216">Force Regen Rate:</text>
+		<text bitflag="321" id1="2074" id2="228539" version="1065353216">Shield Rating</text>
+		<text bitflag="321" id1="2075" id2="228539" version="1065353216">Zoom In/Zoom Out</text>
+		<text bitflag="321" id1="2076" id2="228539" version="1065353216">VALOR</text>
+		<text bitflag="321" id1="2077" id2="228539" version="1065353216">Damage Bonus:</text>
+		<text bitflag="321" id1="2078" id2="228539" version="1065353216">Bonus:</text>
+		<text bitflag="321" id1="2079" id2="228539" version="1065353216">Damage added to the basic melee attack. Powerful attacks gain a larger multiple of this damage.</text>
+		<text bitflag="321" id1="2080" id2="228539" version="1065353216">Damage added to the basic ranged attack. Powerful attacks gain a larger multiple of this damage.</text>
+		<text bitflag="321" id1="2081" id2="228539" version="1065353216">Increases the damage dealt by Force powers.</text>
+		<text bitflag="321" id1="2082" id2="228539" version="1065353216">Increases the damage dealt by technological attacks.</text>
+		<text bitflag="321" id1="2083" id2="228539" version="1065353216">Skills/Buffs:</text>
+		<text bitflag="321" id1="2084" id2="228539" version="1065353216">Base:</text>
+		<text bitflag="321" id1="2085" id2="228539" version="1065353216">Chance that a successful melee attack will deal critical damage.</text>
+		<text bitflag="321" id1="2086" id2="228539" version="1065353216">Chance that a successful ranged attack will deal critical damage.</text>
+		<text bitflag="321" id1="2087" id2="228539" version="1065353216">Chance that a successful Force power will deal critical damage, or perform a critical heal.</text>
+		<text bitflag="321" id1="2088" id2="228539" version="1065353216">Chance that a successful technological ability will deal critical damage, or perform a critical heal.</text>
+		<text bitflag="321" id1="2089" id2="228539" version="1065353216">Weapon Accuracy:</text>
+		<text bitflag="321" id1="2090" id2="228539" version="1065353216">Basic Accuracy:</text>
+		<text bitflag="321" id1="2091" id2="228539" version="1065353216">Special Attacks:</text>
+		<text bitflag="321" id1="2092" id2="228539" version="1065353216">Single Weapon:</text>
+		<text bitflag="321" id1="2093" id2="228539" version="1065353216">Chance that ranged attacks will successfully hit the target. Accuracy over 100% reduces the target's defense.</text>
+		<text bitflag="321" id1="2094" id2="228539" version="1065353216">Chance that melee attacks will successfully hit the target. Accuracy over 100% reduces the target's defense.</text>
+		<text bitflag="321" id1="2095" id2="228539" version="1065353216">Healing Bonus:</text>
+		<text bitflag="321" id1="2096" id2="228539" version="1065353216">Increases the health restored by Force powers.</text>
+		<text bitflag="321" id1="2097" id2="228539" version="1065353216">Increases the health restored by technological abilities.</text>
+		<text bitflag="321" id1="2098" id2="228539" version="1065353216">Force regained each second.</text>
+		<text bitflag="321" id1="2099" id2="228539" version="1065353216">Energy regenerated each second in the top section of the energy bar. Regeneration slows in the lower sections.</text>
+		<text bitflag="321" id1="2100" id2="228539" version="1065353216">Chance that your offensive Force powers will affect the target. Accuracy over 100% reduces the target's resistance.</text>
+		<text bitflag="321" id1="2101" id2="228539" version="1065353216">Chance that your technological attacks will affect the target. Accuracy over 100% reduces the target's resistance.</text>
+		<text bitflag="321" id1="2102" id2="228539" version="1065353216">(includes Armor)</text>
+		<text bitflag="321" id1="2103" id2="228539" version="1065353216">Passive damage reduction versus all four damage types.</text>
+		<text bitflag="321" id1="2104" id2="228539" version="1065353216">in Cover:</text>
+		<text bitflag="321" id1="2105" id2="228539" version="1065353216">Melee Dodge:</text>
+		<text bitflag="321" id1="2106" id2="228539" version="1065353216">Ranged Dodge:</text>
+		<text bitflag="321" id1="2107" id2="228539" version="1065353216">(included in melee and ranged)</text>
+		<text bitflag="321" id1="2108" id2="228539" version="1065353216">Chance to avoid incoming attacks, broken down by attack type.</text>
+		<text bitflag="321" id1="2109" id2="228539" version="1065353216">Shield Generator:</text>
+		<text bitflag="321" id1="2110" id2="228539" version="1065353216">Chance that incoming energy or kinetic damage will be reduced by your shield.</text>
+		<text bitflag="321" id1="2111" id2="228539" version="1065353216">Percentage of damage prevented when an attack is absorbed by your shield.</text>
+		<text bitflag="321" id1="2112" id2="228539" version="1065353216">The dual-wield penalty only affects the secondary weapon.</text>
+		<text bitflag="321" id1="2113" id2="228539" version="1065353216">The dual-wield penalty only affects the secondary weapon.</text>
+		<text bitflag="321" id1="2114" id2="228539" version="1065353216">Dual Wield Damage Added:</text>
+		<text bitflag="321" id1="2115" id2="228539" version="1065353216">Secondary Weapon Damage:</text>
+		<text bitflag="321" id1="2116" id2="228539" version="1065353216">Primary Weapon Damage:</text>
+		<text bitflag="321" id1="2117" id2="228539" version="1065353216">Ranged Damage Bonus:</text>
+		<text bitflag="321" id1="2118" id2="228539" version="1065353216">Melee Damage Bonus:</text>
+		<text bitflag="321" id1="2119" id2="228539" version="1065353216">Base Weapon Damage:</text>
+		<text bitflag="321" id1="2120" id2="228539" version="1065353216">Damage (Secondary):</text>
+		<text bitflag="321" id1="2121" id2="228539" version="1065353216">Secondary weapon damage is added to dual-wield abilities.</text>
+		<text bitflag="321" id1="2122" id2="228539" version="1065353216">Damage (Primary):</text>
+		<text bitflag="321" id1="2123" id2="228539" version="1065353216">Base damage done by your main-hand weapon.</text>
+		<text bitflag="321" id1="2124" id2="228539" version="1065353216">Strength increases your aptitude in melee combat.</text>
+		<text bitflag="321" id1="2125" id2="228539" version="1065353216">Aim increases your aptitude with ranged weapons.</text>
+		<text bitflag="321" id1="2126" id2="228539" version="1065353216">Cunning increases your aptitude with technological abilities.</text>
+		<text bitflag="321" id1="2127" id2="228539" version="1065353216">Endurance increases the amount of damage you can suffer before being defeated.</text>
+		<text bitflag="321" id1="2128" id2="228539" version="1065353216">Presence increases the effectiveness of your companion.</text>
+		<text bitflag="321" id1="2129" id2="228539" version="1065353216">Willpower increases your aptitude with Force powers.</text>
+		<text bitflag="321" id1="2130" id2="228539" version="1065353216">Penalty:</text>
+		<text bitflag="321" id1="2131" id2="228539" version="1065353216">Amount of damage you can suffer before being defeated.</text>
+		<text bitflag="321" id1="2132" id2="228539" version="1065353216">(vs. attacker of same level)</text>
+		<text bitflag="321" id1="2133" id2="228539" version="1065353216">Armor reduces the amount of damage suffered from kinetic and energy attacks.</text>
+		<text bitflag="321" id1="2134" id2="228539" version="1065353216">Armor Damage Reduction:</text>
+		<text bitflag="321" id1="2135" id2="228539" version="1065353216">Social:</text>
+		<text bitflag="321" id1="2136" id2="228539" version="1065353216">Title:</text>
+		<text bitflag="321" id1="2137" id2="228539" version="1065353216">Valor:</text>
+		<text bitflag="321" id1="2138" id2="228539" version="1065353216">Current Tier:</text>
+		<text bitflag="321" id1="2139" id2="228539" version="1065353216">Current Points:</text>
+		<text bitflag="321" id1="2140" id2="228539" version="1065353216">Rank:</text>
+		<text bitflag="321" id1="2141" id2="228539" version="1065353216">the</text>
+		<text bitflag="321" id1="2142" id2="228539" version="1065353216">CHARACTER</text>
+		<text bitflag="321" id1="2143" id2="228539" version="1065353216">COMPANION</text>
+		<text bitflag="321" id1="2144" id2="228539" version="1065353216">Ship</text>
+		<text bitflag="321" id1="2145" id2="228539" version="1065353216">Character Sheet</text>
+		<text bitflag="321" id1="2146" id2="228539" version="1065353216">Ship Toughness:</text>
+		<text bitflag="321" id1="2147" id2="228539" version="1065353216">Rate of Fire:</text>
+		<text bitflag="321" id1="2148" id2="228539" version="1065353216">Blaster Damage:</text>
+		<text bitflag="321" id1="2149" id2="228539" version="1065353216">Shields</text>
+		<text bitflag="321" id1="2150" id2="228539" version="1065353216">Shield Regen:</text>
+		<text bitflag="321" id1="2151" id2="228539" version="1065353216">Missile Storage:</text>
+		<text bitflag="321" id1="2152" id2="228539" version="1065353216">&lt;&lt;g:2,1&gt;&gt;</text>
+		<text bitflag="321" id1="2153" id2="228539" version="1065353216">This is the amount of damage your ship can take before being destroyed.</text>
+		<text bitflag="321" id1="2154" id2="228539" version="1065353216">This is the number of bolts fired by your blasters every second.</text>
+		<text bitflag="321" id1="2155" id2="228539" version="1065353216">This is the amount of damage each bolt delivers to its target.</text>
+		<text bitflag="321" id1="2156" id2="228539" version="1065353216">This is the amount of damage your shields can take before being dissipated.</text>
+		<text bitflag="321" id1="2157" id2="228539" version="1065353216">This is the amount of toughness your shields regenerate per second.</text>
+		<text bitflag="321" id1="2158" id2="228539" version="1065353216">This is the number of missiles held in your ship.</text>
+		<text bitflag="321" id1="2159" id2="228539" version="1065353216">Armor Rating:</text>
+		<text bitflag="321" id1="2160" id2="228539" version="1065353216">PvP Expertise</text>
+		<text bitflag="321" id1="2161" id2="228539" version="1065353216">PvP Hardiness</text>
+		<text bitflag="321" id1="2162" id2="228539" version="1065353216">Influence</text>
+		<text bitflag="321" id1="2163" id2="228539" version="1065353216">Fondness</text>
+		<text bitflag="321" id1="2164" id2="228539" version="1065353216">SHIP</text>
+		<text bitflag="321" id1="2165" id2="228539" version="1065353216">X-70B Phantom-class Prototype</text>
+		<text bitflag="321" id1="2166" id2="228539" version="1065353216">Fury-class Imperial Interceptor</text>
+		<text bitflag="321" id1="2167" id2="228539" version="1065353216">Rendili HyperWorks BT-7 Thunderclap</text>
+		<text bitflag="321" id1="2168" id2="228539" version="1065353216">Corellian Defender-class Light Corvette</text>
+		<text bitflag="321" id1="2169" id2="228539" version="1065353216">Kuat Drive Yards (KDY) D5-Mantis Patrol Craft</text>
+		<text bitflag="321" id1="2170" id2="228539" version="1065353216">Corellian XS Light Freighter</text>
+		<text bitflag="321" id1="2171" id2="228539" version="1065353216">Light: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="2172" id2="228539" version="1065353216">Dark: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="2173" id2="228539" version="1065353216">Next Tier: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="2174" id2="228539" version="1065353216">Companion Healing:</text>
+		<text bitflag="321" id1="2175" id2="228539" version="1065353216">Critical Multiplier:</text>
+		<text bitflag="321" id1="2176" id2="228539" version="1065353216">Critical hits increase the damage dealt by this percentage.</text>
+		<text bitflag="321" id1="2177" id2="228539" version="1065353216">Critical hits or heals increase damage done or health restored by this percentage.</text>
+		<text bitflag="321" id1="2178" id2="228539" version="1065353216">PvP Damage Reduction:</text>
+		<text bitflag="321" id1="2179" id2="228539" version="1065353216">PvP Damage Boost:</text>
+		<text bitflag="321" id1="2180" id2="228539" version="1065353216">PvP Healing Boost:</text>
+		<text bitflag="321" id1="2181" id2="228539" version="1065353216">Reduces damage suffered when attacked by a player or companion character.</text>
+		<text bitflag="321" id1="2182" id2="228539" version="1065353216">Increases damage dealt when attacking a player or companion character.</text>
+		<text bitflag="321" id1="2183" id2="228539" version="1065353216">Increases health restored when healing a player or companion character who is involved in PvP combat.</text>
+		<text bitflag="321" id1="2184" id2="228539" version="1065353216">Expertise</text>
+		<text bitflag="321" id1="2185" id2="228539" version="1065353216">Expertise increases your effectiveness in PvP combat.</text>
+		<text bitflag="321" id1="2186" id2="228539" version="1065353216">Alacrity:</text>
+		<text bitflag="321" id1="2187" id2="228539" version="1065353216">Increases the speed at which abilities are executed.</text>
+		<text bitflag="321" id1="2188" id2="228539" version="1065353216">Secondary Weapon:</text>
+		<text bitflag="321" id1="2189" id2="228539" version="1065353216">Melee Accuracy:</text>
+		<text bitflag="321" id1="2190" id2="228539" version="1065353216">Range Accuracy:</text>
+		<text bitflag="321" id1="2191" id2="228539" version="1065353216">Select Title</text>
+		<text bitflag="321" id1="2192" id2="228539" version="1065353216">&lt;&lt;1&gt;&gt; - &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="2195" id2="228539" version="1065353216">&lt;&lt;1&gt;&gt; Critical Chance:</text>
+		<text bitflag="321" id1="2196" id2="228539" version="1065353216">&lt;&lt;1&gt;&gt; Critical Multiplier:</text>
+		<text bitflag="321" id1="2197" id2="228539" version="1065353216">&lt;&lt;1&gt;&gt; Healing Bonus:</text>
+		<text bitflag="321" id1="2198" id2="228539" version="1065353216">&lt;&lt;1&gt;&gt; Accuracy:</text>
+		<text bitflag="321" id1="2199" id2="228539" version="1065353216">Unify to Chest Color Theme</text>
+		<text bitflag="321" id1="2200" id2="228539" version="1065353216">Unify Colors</text>
+		<text bitflag="321" id1="2201" id2="228539" version="1065353216">Customize Appearance</text>
+		<text bitflag="321" id1="2202" id2="228539" version="1065353216">Highest Solo Rating:</text>
+		<text bitflag="321" id1="2203" id2="228539" version="1065353216">Highest Team Rating:</text>
+		<text bitflag="321" id1="2204" id2="228539" version="1065353216">Subscribers can unify their equipment colors and those of their companion. Click here to to unlock this feature using Cartel Coins.</text>
+		<text bitflag="321" id1="2205" id2="228539" version="1065353216">Subscribers can toggle the display of their head equipment. Click here to to unlock this feature using Cartel Coins.</text>
+		<text bitflag="321" id1="2206" id2="228539" version="1065353216">Select a Character Title:</text>
+		<text bitflag="321" id1="2207" id2="228539" version="1065353216">Display Legacy Surname</text>
+		<text bitflag="321" id1="2208" id2="228539" version="1065353216">Subscribers can display earned character titles. Click here to to unlock this feature using Cartel Coins.</text>
+		<text bitflag="321" id1="2209" id2="228539" version="1065353216">Subscribers can display both Legacy name and Legacy title for all to see. Click here to unlock this feature using Cartel Coins.</text>
+		<text bitflag="321" id1="2212" id2="228539" version="1065353216">RENAME</text>
+		<text bitflag="321" id1="2214" id2="228539" version="1065353216">Modifier:</text>
+		<text bitflag="321" id1="2215" id2="228539" version="1065353216">Select a Legacy Title:</text>
+		<text bitflag="321" id1="2218" id2="228539" version="1065353216">Heat Dissipation Rate:</text>
+		<text bitflag="321" id1="2219" id2="228539" version="1065353216">Accuracy increases the chance that your attacks will affect the target.</text>
+		<text bitflag="321" id1="2220" id2="228539" version="1065353216">Energy Cell Regen Rate:</text>
+		<text bitflag="321" id1="2221" id2="228539" version="1065353216">Heat dissipated each second in the top section of the heat bar. Dissipation slows in the higher sections.</text>
+		<text bitflag="321" id1="2222" id2="228539" version="1065353216">Energy cells regenerated each second in the higher section of the energy cell bar. Regeneration slows in the lower sections.</text>
+		<text bitflag="321" id1="2224" id2="228539" version="1065353216">Energy Regen Bonus:</text>
+		<text bitflag="321" id1="2225" id2="228539" version="1065353216">Force Regen Bonus:</text>
+		<text bitflag="321" id1="2226" id2="228539" version="1065353216">Global Cooldown Speed Bonus:</text>
+		<text bitflag="321" id1="2227" id2="228539" version="1065353216">Activation Speed Bonus:</text>
+		<text bitflag="321" id1="2228" id2="228539" version="1065353216">Channel Speed Bonus:</text>
+		<text bitflag="321" id1="2229" id2="228539" version="1065353216">Energy Cell Regen Bonus:</text>
+		<text bitflag="321" id1="2230" id2="228539" version="1065353216">Heat Dissipation Bonus:</text>
+		<text bitflag="321" id1="2231" id2="228539" version="1065353216">You are eligible for a Character Rename.
+
+Click here to rename your character.</text>
+		<text bitflag="321" id1="2232" id2="228539" version="1065353216">Force Resistance:</text>
+		<text bitflag="321" id1="2233" id2="228539" version="1065353216">Tech Resistance:</text>
+		<text bitflag="321" id1="2234" id2="228539" version="1065353216">Mastery</text>
+		<text bitflag="321" id1="2235" id2="228539" version="1065353216">Critical</text>
+		<text bitflag="321" id1="2236" id2="228539" version="1065353216">Alacrity</text>
+		<text bitflag="321" id1="2237" id2="228539" version="1065353216">Absorb</text>
+		<text bitflag="321" id1="2238" id2="228539" version="1065353216">Shield</text>
+		<text bitflag="321" id1="2239" id2="228539" version="1065353216">Accuracy</text>
+		<text bitflag="321" id1="2241" id2="228539" version="1065353216">Mastery increases your aptitude in combat.</text>
+		<text bitflag="321" id1="2242" id2="228539" version="1065353216">Power increases the damage and healing bonuses added to abilities.</text>
+		<text bitflag="321" id1="2243" id2="228539" version="1065353216">Critical increases both the chance that an attack will deal increased damage, as well as the amount of that increased damage.</text>
+		<text bitflag="321" id1="2244" id2="228539" version="1065353216">Alacrity reduces the cooldown of your abilities.</text>
+		<text bitflag="321" id1="2247" id2="228539" version="1065353216">Absorb increases the amount of damage prevented when an attack is absorbed by your shield.</text>
+		<text bitflag="321" id1="2248" id2="228539" version="1065353216">Unbolstered Value</text>
+		<text bitflag="321" id1="2249" id2="228539" version="1065353216">Your level has been shifted to:</text>
+		<text bitflag="321" id1="2250" id2="228539" version="1065353216">Character Flair</text>
+		<text bitflag="321" id1="2251" id2="228539" version="1065353216">This attribute is being overridden to a value of &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="2253" id2="228539" version="1065353216">ITEM RATING</text>
+		<text bitflag="321" id1="2254" id2="228539" version="1065353216">Command Rank</text>
+	</file_content>
+</stb_file>

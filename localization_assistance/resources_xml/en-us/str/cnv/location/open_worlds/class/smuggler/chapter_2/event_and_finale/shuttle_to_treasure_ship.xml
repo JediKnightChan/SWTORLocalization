@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/smuggler/chapter_2/event_and_finale/shuttle_to_treasure_ship.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="552480" id2="17" version="1065353216">[Do you wish to board the shuttle?]</text>
+		<text bitflag="336" id1="552481" id2="17" version="1065353216">Yes. [Go to The King's Ransom]</text>
+		<text bitflag="336" id1="552484" id2="17" version="1065353216">No.</text>
+	</file_content>
+</stb_file>

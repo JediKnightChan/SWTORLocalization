@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>872</strs>
+		<file_name>/resources/en-us/str/cnv/location/companion_characters/trooper/elara_dorne/elara_dorne.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63670" id2="17" version="1065353216">Yes, sir.</text>
+		<text bitflag="1345" id1="63674" id2="17" version="1065353216">Acknowledged.</text>
+		<text bitflag="1345" id1="504930" id2="17" version="1065353216">Yes, sir? Did you need something?</text>
+		<text bitflag="1345" id1="504931" id2="17" version="1065353216">Sir, if you need something, just say so. Otherwise, we should get moving.</text>
+		<text bitflag="1345" id1="693350" id2="17" version="1065353216">Sir. My equipment and personal effects have been stowed in full accordance with transport code section two.</text>
+		<text bitflag="1345" id1="693352" id2="17" version="1065353216">If I may say so again, sir, it is truly an honor to be selected for Havoc Squad.</text>
+		<text bitflag="1345" id1="693353" id2="17" version="1065353216">I'm glad to have you on the team, Dorne.</text>
+		<text bitflag="1360" id1="693353" id2="17" version="1065353216">You'll do a great job.</text>
+		<text bitflag="1345" id1="693354" id2="17" version="1065353216">Thank you very much, sir.</text>
+		<text bitflag="1345" id1="693356" id2="17" version="1065353216">Clearly, our first assignment should be a welcome party.</text>
+		<text bitflag="1360" id1="693356" id2="17" version="1065353216">[Flirt] How about a drink?</text>
+		<text bitflag="1345" id1="693357" id2="17" version="1065353216">I appreciate the sentiment, but I have a great deal of intelligence to catch up on.</text>
+		<text bitflag="1345" id1="693359" id2="17" version="1065353216">We never know what we're going to run into from one op to the next.</text>
+		<text bitflag="1360" id1="693359" id2="17" version="1065353216">Be ready for the unexpected.</text>
+		<text bitflag="1345" id1="693360" id2="17" version="1065353216">Yes, the operation on Taris was a clear example of that.</text>
+		<text bitflag="1345" id1="693362" id2="17" version="1065353216">You're only here because of General Garza.</text>
+		<text bitflag="1360" id1="693362" id2="17" version="1065353216">I didn't choose you.</text>
+		<text bitflag="1345" id1="693363" id2="17" version="1065353216">Hmph. Well, I am here, so we might as well both make the best of the situation.</text>
+		<text bitflag="1345" id1="693365" id2="17" version="1065353216">I intend to begin reviewing and memorizing all relevant dossiers and intelligence reports on our assignment immediately.</text>
+		<text bitflag="1345" id1="693367" id2="17" version="1065353216">If I discover any points of confusion or areas where I believe I can contribute, I'll submit a full 587-B report.</text>
+		<text bitflag="1345" id1="693368" id2="17" version="1065353216">Carry on, Dorne.</text>
+		<text bitflag="1360" id1="693368" id2="17" version="1065353216">Very good.</text>
+		<text bitflag="1345" id1="693369" id2="17" version="1065353216">Yes, sir.</text>
+		<text bitflag="1345" id1="693370" id2="17" version="1065353216">Sure, the old 587-B. Sounds good, Dorne.</text>
+		<text bitflag="1360" id1="693370" id2="17" version="1065353216">Um... okay.</text>
+		<text bitflag="1345" id1="693371" id2="17" version="1065353216">Thank you, sir. I'll get on with my review.</text>
+		<text bitflag="1345" id1="693372" id2="17" version="1065353216">Forget the reports. If you want to tell me something, just tell me.</text>
+		<text bitflag="1360" id1="693372" id2="17" version="1065353216">You need to lighten up.</text>
+		<text bitflag="1345" id1="693373" id2="17" version="1065353216">Hmm. If you wish, sir.</text>
+		<text bitflag="1345" id1="693377" id2="17" version="1065353216">So... not to rush anything, but... would you be at all interested in raising children someday?</text>
+		<text bitflag="1345" id1="693379" id2="17" version="1065353216">I'm not suggesting any time in the immediate future, of course. But... someday, perhaps?</text>
+		<text bitflag="1345" id1="693380" id2="17" version="1065353216">I'd love to raise kids someday, Elara.</text>
+		<text bitflag="1360" id1="693380" id2="17" version="1065353216">Kids would be great.</text>
+		<text bitflag="1345" id1="693381" id2="17" version="1065353216">I think I would, too. It would mean a lot to me to have a real family again, someday.</text>
+		<text bitflag="1345" id1="693383" id2="17" version="1065353216">I hadn't really thought about it.</text>
+		<text bitflag="1360" id1="693383" id2="17" version="1065353216">I'm not sure.</text>
+		<text bitflag="1345" id1="693384" id2="17" version="1065353216">To be honest, it hadn't crossed my mind until recently, either.</text>
+		<text bitflag="1345" id1="693386" id2="17" version="1065353216">I am not dealing with kids, Elara.</text>
+		<text bitflag="1360" id1="693386" id2="17" version="1065353216">No way!</text>
+		<text bitflag="1345" id1="693387" id2="17" version="1065353216">You say that now. But someday, when the fighting is finally done... you might change your mind.</text>
+		<text bitflag="1345" id1="693389" id2="17" version="1065353216">I think I would be an excellent mother to our children. I could teach them all about medicine, biology, legal terminology...</text>
+		<text bitflag="1345" id1="693391" id2="17" version="1065353216">I could even teach them about their brave and noble father, who took the stuffy Imperial no one liked and made her the happiest woman in the galaxy.</text>
+		<text bitflag="1345" id1="693392" id2="17" version="1065353216">Any kids you raised would be smart, and brave, and have a good conscience.</text>
+		<text bitflag="1360" id1="693392" id2="17" version="1065353216">You'd be a great mom.</text>
+		<text bitflag="1345" id1="693393" id2="17" version="1065353216">Hm. I don't think I'd be the only good influence on them.</text>
+		<text bitflag="1345" id1="693395" id2="17" version="1065353216">That sounds like a good story to me. You're not that stuck-up, though.</text>
+		<text bitflag="1360" id1="693395" id2="17" version="1065353216">&quot;Brave and noble&quot;, huh?</text>
+		<text bitflag="1345" id1="693396" id2="17" version="1065353216">Hm, well, I forgot to mention that this man is also unusually patient. And generous....</text>
+		<text bitflag="1345" id1="693398" id2="17" version="1065353216">...and handsome, of course. Very handsome.</text>
+		<text bitflag="1345" id1="693400" id2="17" version="1065353216">Like I said, I don't think it's a step we should take anytime soon. But someday.</text>
+		<text bitflag="1345" id1="693401" id2="17" version="1065353216">I still don't think it's for me, Elara.</text>
+		<text bitflag="1360" id1="693401" id2="17" version="1065353216">Yeah, we'll see.</text>
+		<text bitflag="1345" id1="693402" id2="17" version="1065353216">Fair enough--I won't press the issue.</text>
+		<text bitflag="1345" id1="693404" id2="17" version="1065353216">But you will change your mind eventually. And when you do, you'll be as good a father as you are a husband and commander.</text>
+		<text bitflag="1345" id1="693405" id2="17" version="1065353216">Tell me, sir: do you think you'll have children someday?</text>
+		<text bitflag="1345" id1="693407" id2="17" version="1065353216">I can only imagine the young soldiers and commanders you would raise. Future defenders of the Republic, one and all.</text>
+		<text bitflag="1345" id1="693408" id2="17" version="1065353216">I'd be proud to see my kids serve the Republic.</text>
+		<text bitflag="1360" id1="693408" id2="17" version="1065353216">I'd like that.</text>
+		<text bitflag="1345" id1="693409" id2="17" version="1065353216">Certainly.</text>
+		<text bitflag="1345" id1="693411" id2="17" version="1065353216">The idea of kids hadn't crossed my mind.</text>
+		<text bitflag="1360" id1="693411" id2="17" version="1065353216">Never really thought about it.</text>
+		<text bitflag="1345" id1="693412" id2="17" version="1065353216">There's no way I'm ever going to have children.</text>
+		<text bitflag="1360" id1="693412" id2="17" version="1065353216">I'm not having kids.</text>
+		<text bitflag="1345" id1="693413" id2="17" version="1065353216">Really? I think you'd make a splendid mother.</text>
+		<text bitflag="1345" id1="693415" id2="17" version="1065353216">No? You would be an excellent father.</text>
+		<text bitflag="1345" id1="693417" id2="17" version="1065353216">I could even tutor them for you: medicine, biology... Republic and military legal terminology.</text>
+		<text bitflag="1345" id1="693418" id2="17" version="1065353216">I'd appreciate it, Elara.</text>
+		<text bitflag="1360" id1="693418" id2="17" version="1065353216">That would be great.</text>
+		<text bitflag="1345" id1="693419" id2="17" version="1065353216">You've been a true friend to me. I'd be more than happy to return the favor in the future.</text>
+		<text bitflag="1345" id1="693421" id2="17" version="1065353216">What if they don't become soldiers, or doctors, or... lawyers?</text>
+		<text bitflag="1360" id1="693421" id2="17" version="1065353216">What if they do something else?</text>
+		<text bitflag="1345" id1="693422" id2="17" version="1065353216">Well, whatever they choose to do in life, I'll be glad to do whatever I can to help them.</text>
+		<text bitflag="1345" id1="693424" id2="17" version="1065353216">Why are you talking about this?</text>
+		<text bitflag="1360" id1="693424" id2="17" version="1065353216">This is weird.</text>
+		<text bitflag="1345" id1="693425" id2="17" version="1065353216">Forgive me. I know it may seem random, but I was just thinking about what a true friend you've been to me.</text>
+		<text bitflag="1345" id1="693427" id2="17" version="1065353216">I want to be that kind of friend for you, too. Someone you can always count on.</text>
+		<text bitflag="1345" id1="693429" id2="17" version="1065353216">Anyway, we have plenty of work to do in the here and now--let's get to it.</text>
+		<text bitflag="1345" id1="693435" id2="17" version="1065353216">I've been wondering what life will be like when the war finally ends.</text>
+		<text bitflag="1345" id1="693437" id2="17" version="1065353216">I've always known that there will be peace eventually, but...</text>
+		<text bitflag="1345" id1="693438" id2="17" version="1065353216">It'd be nice to finally take some vacation.</text>
+		<text bitflag="1360" id1="693438" id2="17" version="1065353216">Maybe we'll get time off.</text>
+		<text bitflag="1345" id1="693439" id2="17" version="1065353216">Hopefully there will be at least a few beautiful places left to visit.</text>
+		<text bitflag="1345" id1="693441" id2="17" version="1065353216">People in the Empire even know the meaning of the word?</text>
+		<text bitflag="1360" id1="693441" id2="17" version="1065353216">Do Imps know what peace is?</text>
+		<text bitflag="1345" id1="693442" id2="17" version="1065353216">Absolutely. In the Empire, peace comes when all enemies are destroyed.</text>
+		<text bitflag="1345" id1="693444" id2="17" version="1065353216">It's a big galaxy. There's always fighting somewhere.</text>
+		<text bitflag="1360" id1="693444" id2="17" version="1065353216">&quot;Peace&quot; is relative.</text>
+		<text bitflag="1345" id1="693445" id2="17" version="1065353216">True enough.</text>
+		<text bitflag="1345" id1="693447" id2="17" version="1065353216">All that truly matters is that I have you with me, whatever the future brings.</text>
+		<text bitflag="1345" id1="693449" id2="17" version="1065353216">I want you to be a part of my life, no matter what may come. I want to be with you forever.</text>
+		<text bitflag="1345" id1="693450" id2="17" version="1065353216">Marry me, Elara. We'll face the future together.</text>
+		<text bitflag="1360" id1="693450" id2="17" version="1065353216">Let's get married!</text>
+		<text bitflag="1345" id1="693451" id2="17" version="1065353216">Is that your way of saying you want to marry me?</text>
+		<text bitflag="1360" id1="693451" id2="17" version="1065353216">Uh, are you proposing?</text>
+		<text bitflag="1345" id1="693452" id2="17" version="1065353216">Well... in the Empire, at least, it is still customary for the man to propose to the woman.</text>
+		<text bitflag="1345" id1="693454" id2="17" version="1065353216">But if I want to be with you... and you want to be with me... then why not make it official?</text>
+		<text bitflag="1345" id1="693455" id2="17" version="1065353216">In that case... Elara Dorne, will you marry me?</text>
+		<text bitflag="1360" id1="693455" id2="17" version="1065353216">You're right.</text>
+		<text bitflag="1345" id1="693456" id2="17" version="1065353216">We're together now. Why wouldn't we be together later?</text>
+		<text bitflag="1360" id1="693456" id2="17" version="1065353216">We're already together.</text>
+		<text bitflag="1345" id1="693457" id2="17" version="1065353216">That's just what I'm getting at. We're together now, and that's probably not changing anytime soon, so....</text>
+		<text bitflag="1345" id1="693459" id2="17" version="1065353216">Why not make it official? Err, unless you aren't interested in marriage.</text>
+		<text bitflag="1345" id1="693460" id2="17" version="1065353216">Let's make it official. Marry me.</text>
+		<text bitflag="1360" id1="693460" id2="17" version="1065353216">I do want to marry you.</text>
+		<text bitflag="1345" id1="693461" id2="17" version="1065353216">You mean it? I... oh, yes!</text>
+		<text bitflag="1345" id1="693462" id2="17" version="1065353216">No good reason not to. Let's get married!</text>
+		<text bitflag="1360" id1="693462" id2="17" version="1065353216">Sure, why not?</text>
+		<text bitflag="1345" id1="693463" id2="17" version="1065353216">Heh, I love you....</text>
+		<text bitflag="1345" id1="693467" id2="17" version="1065353216">Hm. We'll have to do things properly someday. A military ceremony, dress uniforms... do you think General Garza would officiate?</text>
+		<text bitflag="1345" id1="693468" id2="17" version="1065353216">I doubt the general gets many opportunities like that these days.</text>
+		<text bitflag="1360" id1="693468" id2="17" version="1065353216">Definitely.</text>
+		<text bitflag="1345" id1="693469" id2="17" version="1065353216">All too true. I'll start composing a formal request. Form 5763W, if I'm not mistaken.</text>
+		<text bitflag="1345" id1="693471" id2="17" version="1065353216">I'm sure we could convince her.</text>
+		<text bitflag="1360" id1="693471" id2="17" version="1065353216">We'll twist her arm.</text>
+		<text bitflag="1345" id1="693472" id2="17" version="1065353216">I hope so. She has such an authoritative speaking voice.</text>
+		<text bitflag="1345" id1="693474" id2="17" version="1065353216">General Garza isn't really my first choice.</text>
+		<text bitflag="1360" id1="693474" id2="17" version="1065353216">I'd rather get someone else.</text>
+		<text bitflag="1345" id1="693475" id2="17" version="1065353216">Oh. Well, I'm sure we could find someone of suitable rank to perform the ceremony.</text>
+		<text bitflag="1345" id1="693477" id2="17" version="1065353216">For now, just know I'm yours. Now and forever.</text>
+		<text bitflag="1345" id1="693478" id2="17" version="1065353216">I'll always be with you.</text>
+		<text bitflag="1360" id1="693478" id2="17" version="1065353216">And I'm yours.</text>
+		<text bitflag="1345" id1="693479" id2="17" version="1065353216">The most beautiful girl in the galaxy, all to myself.</text>
+		<text bitflag="1360" id1="693479" id2="17" version="1065353216">I'm so lucky.</text>
+		<text bitflag="1345" id1="693480" id2="17" version="1065353216">No more sweet-talk. We've still got a war to win.</text>
+		<text bitflag="1360" id1="693480" id2="17" version="1065353216">Enough sappy stuff.</text>
+		<text bitflag="1345" id1="693481" id2="17" version="1065353216">Yes, yes. Duty calls.</text>
+		<text bitflag="1345" id1="693483" id2="17" version="1065353216">I love you.</text>
+		<text bitflag="1345" id1="693486" id2="17" version="1065353216">I love you, Elara, but marriage... it's not for me.</text>
+		<text bitflag="1360" id1="693486" id2="17" version="1065353216">I'm not the marrying type.</text>
+		<text bitflag="1345" id1="693487" id2="17" version="1065353216">&quot;Not for you&quot;? Fine. I understand. I hear you, loud and clear.</text>
+		<text bitflag="1345" id1="693489" id2="17" version="1065353216">I won't trouble you any further, then. If you'll excuse me, I'm sure there are some reports somewhere on this ship that need filing.</text>
+		<text bitflag="1345" id1="693493" id2="17" version="1065353216">Sir! The Journal published my article!</text>
+		<text bitflag="1345" id1="693495" id2="17" version="1065353216">I've already received dozens of holomessages from medical officers in units across the galaxy. I never expected such a positive reaction.</text>
+		<text bitflag="1345" id1="693496" id2="17" version="1065353216">That's fantastic news, Elara. You should feel very proud.</text>
+		<text bitflag="1360" id1="693496" id2="17" version="1065353216">Congratulations!</text>
+		<text bitflag="1345" id1="693497" id2="17" version="1065353216">I doubt anyone will be throwing accusations at you now.</text>
+		<text bitflag="1360" id1="693497" id2="17" version="1065353216">From suspect to superstar.</text>
+		<text bitflag="1345" id1="693498" id2="17" version="1065353216">I hadn't even thought of it that way.</text>
+		<text bitflag="1345" id1="693500" id2="17" version="1065353216">Do you get anything for this? Credits, maybe?</text>
+		<text bitflag="1360" id1="693500" id2="17" version="1065353216">Any money involved?</text>
+		<text bitflag="1345" id1="693501" id2="17" version="1065353216">Certainly not.</text>
+		<text bitflag="1345" id1="693503" id2="17" version="1065353216">I would never have learned so much if you hadn't brought me onto the squad. I really owe you a tremendous debt, sir.</text>
+		<text bitflag="1345" id1="693505" id2="17" version="1065353216">Thank you. Truly.</text>
+		<text bitflag="1345" id1="693511" id2="17" version="1065353216">Sir. I am ordered to report that I, Elara Dorne, personnel number 22-795, am no longer classified as a &quot;person of concern.&quot;</text>
+		<text bitflag="1345" id1="693513" id2="17" version="1065353216">The Personnel Division of the Army of the Galactic Republic has declared that I am to be treated as a fully protected legal citizen, effective immediately.</text>
+		<text bitflag="1345" id1="693514" id2="17" version="1065353216">This is great news, Elara. I'm really happy for you.</text>
+		<text bitflag="1360" id1="693514" id2="17" version="1065353216">You did it!</text>
+		<text bitflag="1345" id1="693515" id2="17" version="1065353216">I couldn't have done it without all of your support.</text>
+		<text bitflag="1345" id1="693517" id2="17" version="1065353216">You beat him, Elara! You're free!</text>
+		<text bitflag="1360" id1="693517" id2="17" version="1065353216">You did it!</text>
+		<text bitflag="1345" id1="693518" id2="17" version="1065353216">That I am, sir.</text>
+		<text bitflag="1345" id1="693520" id2="17" version="1065353216">Tell me everything. What about Kalor?</text>
+		<text bitflag="1360" id1="693520" id2="17" version="1065353216">What happened?</text>
+		<text bitflag="1345" id1="693521" id2="17" version="1065353216">It's about time we put this junk behind us.</text>
+		<text bitflag="1360" id1="693521" id2="17" version="1065353216">Finally.</text>
+		<text bitflag="1345" id1="693522" id2="17" version="1065353216">I couldn't agree more.</text>
+		<text bitflag="1345" id1="693524" id2="17" version="1065353216">Kalor never saw it coming. When I exercised my right under service code one to an immediate personnel hearing, he was literally speechless.</text>
+		<text bitflag="1345" id1="693526" id2="17" version="1065353216">I demonstrated documentation for every moment of his pointless investigation. Once the man hours and expenditures were totalled, it came to thousands of credits wasted in wartime.</text>
+		<text bitflag="1345" id1="693527" id2="17" version="1065353216">I can't believe it had really gone so far.</text>
+		<text bitflag="1360" id1="693527" id2="17" version="1065353216">Incredible.</text>
+		<text bitflag="1345" id1="693528" id2="17" version="1065353216">Yes. Even after I had gathered all of that evidence, the full scale of what had happened didn't settle in until I was presenting it in the hearing.</text>
+		<text bitflag="1345" id1="693530" id2="17" version="1065353216">I assume Kalor won't be working for Personnel Division anymore.</text>
+		<text bitflag="1360" id1="693530" id2="17" version="1065353216">Was he fired?</text>
+		<text bitflag="1345" id1="693531" id2="17" version="1065353216">I'm not privy to his employment status, but I suspect you're right.</text>
+		<text bitflag="1345" id1="693533" id2="17" version="1065353216">That kind of waste at a time like this is treason in my book.</text>
+		<text bitflag="1360" id1="693533" id2="17" version="1065353216">Kalor should be shot.</text>
+		<text bitflag="1345" id1="693534" id2="17" version="1065353216">Military law does stipulate that charges of treason can be drawn for systematic misuse of resources. Kalor's final tally didn't quite cross that threshold, however.</text>
+		<text bitflag="1345" id1="693536" id2="17" version="1065353216">I still can't believe this day has finally come.</text>
+		<text bitflag="1345" id1="693538" id2="17" version="1065353216">The suspicion, the reservations, the endless questions... they've been a part of my life for so long. But no more--I am a citizen of the Galactic Republic.</text>
+		<text bitflag="1345" id1="693539" id2="17" version="1065353216">It must feel like you're starting a whole new life.</text>
+		<text bitflag="1360" id1="693539" id2="17" version="1065353216">This will be a big change.</text>
+		<text bitflag="1345" id1="693540" id2="17" version="1065353216">It does. And I have you to share it with.</text>
+		<text bitflag="1345" id1="693542" id2="17" version="1065353216">It truly does.</text>
+		<text bitflag="1345" id1="693544" id2="17" version="1065353216">It's great to see this happening for you.</text>
+		<text bitflag="1360" id1="693544" id2="17" version="1065353216">I'm happy for you.</text>
+		<text bitflag="1345" id1="693545" id2="17" version="1065353216">Thank you so much.</text>
+		<text bitflag="1345" id1="693547" id2="17" version="1065353216">There will still be people who won't hear anything but your accent.</text>
+		<text bitflag="1360" id1="693547" id2="17" version="1065353216">Don't get too excited yet.</text>
+		<text bitflag="1345" id1="693548" id2="17" version="1065353216">Let them waste their time with doubts. I'll waste no more of mine.</text>
+		<text bitflag="1345" id1="693550" id2="17" version="1065353216">I've never felt prouder to be serving the Republic.</text>
+		<text bitflag="1345" id1="693552" id2="17" version="1065353216">Let's return to the front lines. I want to get back to doing my part!</text>
+		<text bitflag="1345" id1="693553" id2="17" version="1065353216">Time to get this ship moving.</text>
+		<text bitflag="1360" id1="693553" id2="17" version="1065353216">Sounds like a plan.</text>
+		<text bitflag="1345" id1="693554" id2="17" version="1065353216">You don't need some time to let this all settle in?</text>
+		<text bitflag="1360" id1="693554" id2="17" version="1065353216">Are you sure?</text>
+		<text bitflag="1345" id1="693555" id2="17" version="1065353216">No. There's nowhere I'd rather be than fighting with my fellow soldiers of the Republic.</text>
+		<text bitflag="1345" id1="693556" id2="17" version="1065353216">I could use a good scrap myself.</text>
+		<text bitflag="1360" id1="693556" id2="17" version="1065353216">A real fight would be good.</text>
+		<text bitflag="1345" id1="693557" id2="17" version="1065353216">I'll prepare my equipment, sir!</text>
+		<text bitflag="1345" id1="693563" id2="17" version="1065353216">Sir. I'm afraid I need to request a brief leave of absence.</text>
+		<text bitflag="1345" id1="693565" id2="17" version="1065353216">It's Kalor. He's attempting to exploit a loophole in investigative appeals process subsection four in order to reopen his &quot;inquiry&quot; without new cause.</text>
+		<text bitflag="1345" id1="693566" id2="17" version="1065353216">What can we do to put an end to this?</text>
+		<text bitflag="1360" id1="693566" id2="17" version="1065353216">How can we stop him?</text>
+		<text bitflag="1345" id1="693567" id2="17" version="1065353216">A preemptive strike is the only option.</text>
+		<text bitflag="1345" id1="693569" id2="17" version="1065353216">I think it's time to introduce that scumbag to the roomier end of an air lock.</text>
+		<text bitflag="1360" id1="693569" id2="17" version="1065353216">That son of a....</text>
+		<text bitflag="1345" id1="693570" id2="17" version="1065353216">That won't be necessary.</text>
+		<text bitflag="1345" id1="693572" id2="17" version="1065353216">Exploiting the what in the what? Speak basic.</text>
+		<text bitflag="1360" id1="693572" id2="17" version="1065353216">You're talking gibberish.</text>
+		<text bitflag="1345" id1="693573" id2="17" version="1065353216">He's coming after me. Again.</text>
+		<text bitflag="1345" id1="693575" id2="17" version="1065353216">I'm not going to give Kalor the time to carry his supposed &quot;investigation&quot; any further. I'm going to Coruscant.</text>
+		<text bitflag="1345" id1="693577" id2="17" version="1065353216">I have every message, every report, every call recorded. It's time to demonstrate to Kalor's superiors exactly what his supposed &quot;service&quot; to the Republic has accomplished.</text>
+		<text bitflag="1345" id1="693578" id2="17" version="1065353216">I'll come with you. With my word backing you up, you can't fail.</text>
+		<text bitflag="1360" id1="693578" id2="17" version="1065353216">Let me help.</text>
+		<text bitflag="1345" id1="693579" id2="17" version="1065353216">You're very kind to offer, sir. But I need to handle this myself--bringing a war hero along would seem like a diversionary tactic.</text>
+		<text bitflag="1345" id1="693581" id2="17" version="1065353216">Knock 'em dead, Elara.</text>
+		<text bitflag="1360" id1="693581" id2="17" version="1065353216">Good luck.</text>
+		<text bitflag="1345" id1="693582" id2="17" version="1065353216">Whatever you're going to do, just be sure you keep it short.</text>
+		<text bitflag="1360" id1="693582" id2="17" version="1065353216">Just make it fast.</text>
+		<text bitflag="1345" id1="693583" id2="17" version="1065353216">I intend to.</text>
+		<text bitflag="1345" id1="693585" id2="17" version="1065353216">I'll return as quickly as possible.</text>
+		<text bitflag="1345" id1="693587" id2="17" version="1065353216">I'll set out as soon as you give the word.</text>
+		<text bitflag="1345" id1="693591" id2="17" version="1065353216">I need to get something off of my chest.</text>
+		<text bitflag="1345" id1="693593" id2="17" version="1065353216">Our work is quite dangerous, and of course the future is always uncertain....</text>
+		<text bitflag="1345" id1="693594" id2="17" version="1065353216">You sound upset. What is it?</text>
+		<text bitflag="1360" id1="693594" id2="17" version="1065353216">What's wrong?</text>
+		<text bitflag="1345" id1="693595" id2="17" version="1065353216">I'm not upset. That... isn't it at all.</text>
+		<text bitflag="1345" id1="693597" id2="17" version="1065353216">You're not still worried about Kalor, are you?</text>
+		<text bitflag="1360" id1="693597" id2="17" version="1065353216">Is this about Kalor?</text>
+		<text bitflag="1345" id1="693598" id2="17" version="1065353216">No, it's not about that. I mean, that is the sort of thing I mean, but... no.</text>
+		<text bitflag="1345" id1="693600" id2="17" version="1065353216">Whatever you want to say, just say it.</text>
+		<text bitflag="1360" id1="693600" id2="17" version="1065353216">Just spit it out.</text>
+		<text bitflag="1345" id1="693601" id2="17" version="1065353216">I love you.</text>
+		<text bitflag="1345" id1="693603" id2="17" version="1065353216">We risk our lives every day, and I couldn't let another moment pass without telling you how much I love you.</text>
+		<text bitflag="1345" id1="693604" id2="17" version="1065353216">I love you too, Elara.</text>
+		<text bitflag="1360" id1="693604" id2="17" version="1065353216">I love you, too.</text>
+		<text bitflag="1345" id1="693605" id2="17" version="1065353216">I thought you were going to tell me something awful.</text>
+		<text bitflag="1360" id1="693605" id2="17" version="1065353216">You really had me worried!</text>
+		<text bitflag="1345" id1="693606" id2="17" version="1065353216">I'm sorry. I didn't mean to trouble you.</text>
+		<text bitflag="1345" id1="693608" id2="17" version="1065353216">This is a bit fast for me.</text>
+		<text bitflag="1360" id1="693608" id2="17" version="1065353216">Whoa, slow down there.</text>
+		<text bitflag="1345" id1="693609" id2="17" version="1065353216">Fast? This is too... oh. I see.</text>
+		<text bitflag="1345" id1="693611" id2="17" version="1065353216">I've said what I wanted to say. You obviously have no response, so let's just leave it at that.</text>
+		<text bitflag="1345" id1="693612" id2="17" version="1065353216">I'm sorry, you just caught me off guard. I love you, Elara.</text>
+		<text bitflag="1360" id1="693612" id2="17" version="1065353216">No, wait--I love you, too.</text>
+		<text bitflag="1345" id1="693613" id2="17" version="1065353216">I can't tell you how much it means to hear you say it, too.</text>
+		<text bitflag="1345" id1="693615" id2="17" version="1065353216">I got something for us. It took a great deal of research, and a quite a few holo-calls to some very important people.</text>
+		<text bitflag="1345" id1="693617" id2="17" version="1065353216">Form 3578-K officially authorizes us to pursue a mutual romantic relationship. I was hoping we could sign it together.</text>
+		<text bitflag="1345" id1="693618" id2="17" version="1065353216">I'm happy to make it official.</text>
+		<text bitflag="1360" id1="693618" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="693619" id2="17" version="1065353216">Fantastic.</text>
+		<text bitflag="1345" id1="693620" id2="17" version="1065353216">It's a bit weird, but if it makes you happy....</text>
+		<text bitflag="1360" id1="693620" id2="17" version="1065353216">I guess so.</text>
+		<text bitflag="1345" id1="693621" id2="17" version="1065353216">It does, sir. It takes a great weight off of my mind.</text>
+		<text bitflag="1345" id1="693622" id2="17" version="1065353216">We shouldn't have to file a form to be in a relationship.</text>
+		<text bitflag="1360" id1="693622" id2="17" version="1065353216">This is stupid.</text>
+		<text bitflag="1345" id1="693623" id2="17" version="1065353216">I thought you'd know by now that I always prefer to do things by the book.</text>
+		<text bitflag="1345" id1="693625" id2="17" version="1065353216">Now, then. Since that's out of the way, I was thinking... that is, if you have the time....</text>
+		<text bitflag="1345" id1="693626" id2="17" version="1065353216">Just try and stop me.</text>
+		<text bitflag="1360" id1="693626" id2="17" version="1065353216">Always.</text>
+		<text bitflag="1345" id1="693627" id2="17" version="1065353216">I wouldn't dream of it.</text>
+		<text bitflag="1345" id1="693628" id2="17" version="1065353216">Have the time for what?</text>
+		<text bitflag="1360" id1="693628" id2="17" version="1065353216">Huh?</text>
+		<text bitflag="1345" id1="693629" id2="17" version="1065353216">Me, of course.</text>
+		<text bitflag="1345" id1="693630" id2="17" version="1065353216">The war can wait.</text>
+		<text bitflag="1360" id1="693630" id2="17" version="1065353216">I'll make time.</text>
+		<text bitflag="1345" id1="693631" id2="17" version="1065353216">I hoped you would say that.</text>
+		<text bitflag="1345" id1="693635" id2="17" version="1065353216">My, my. So many reasons to love you, it's hard to pick.</text>
+		<text bitflag="1345" id1="693637" id2="17" version="1065353216">Let's go face the galaxy together.</text>
+		<text bitflag="1345" id1="693638" id2="17" version="1065353216">I never wanted to hurt you, Elara.</text>
+		<text bitflag="1360" id1="693638" id2="17" version="1065353216">I'm sorry about this.</text>
+		<text bitflag="1345" id1="693639" id2="17" version="1065353216">That's wonderful. Excuse me.</text>
+		<text bitflag="1345" id1="693640" id2="17" version="1065353216">We're soldiers, Elara. We don't have room for love.</text>
+		<text bitflag="1360" id1="693640" id2="17" version="1065353216">You're asking too much.</text>
+		<text bitflag="1345" id1="693641" id2="17" version="1065353216">I'm sorry you feel that way. Excuse me.</text>
+		<text bitflag="1345" id1="693647" id2="17" version="1065353216">Sir. I was just going over a research article I've been writing for the Armed Forces Medical Science Journal.</text>
+		<text bitflag="1345" id1="693649" id2="17" version="1065353216">I'm... well, I'm a bit nervous about it, actually. I've never had an article published in the Journal--it's quite prestigious.</text>
+		<text bitflag="1345" id1="693650" id2="17" version="1065353216">I've never seen you do a bad job at anything, Elara. Your article is sure to impress them.</text>
+		<text bitflag="1360" id1="693650" id2="17" version="1065353216">I'm sure they'll like it.</text>
+		<text bitflag="1345" id1="693651" id2="17" version="1065353216">I appreciate the vote of confidence.</text>
+		<text bitflag="1345" id1="693653" id2="17" version="1065353216">What exactly did you write about?</text>
+		<text bitflag="1360" id1="693653" id2="17" version="1065353216">Tell me about the article.</text>
+		<text bitflag="1345" id1="693654" id2="17" version="1065353216">A simplified step-by-step process for rapidly assessing wounds and treatment options in combat situations. Just something I've developed during our various operations.</text>
+		<text bitflag="1345" id1="693656" id2="17" version="1065353216">Why is this Journal thing so important?</text>
+		<text bitflag="1360" id1="693656" id2="17" version="1065353216">What's the big deal?</text>
+		<text bitflag="1345" id1="693657" id2="17" version="1065353216">It's the preeminent source of literature on medical techniques and technologies for military personnel--the cutting edge.</text>
+		<text bitflag="1345" id1="693659" id2="17" version="1065353216">I may not hear back for some time. There's quite a bit of writing in the medical field at the moment--one of the side effects of wartime.</text>
+		<text bitflag="1345" id1="693661" id2="17" version="1065353216">I'll just have to wait and see.</text>
+		<text bitflag="1345" id1="693667" id2="17" version="1065353216">Sir? I was wondering if you've received any messages from Captain Kalor recently.</text>
+		<text bitflag="1345" id1="693669" id2="17" version="1065353216">I've not heard anything since the situation with Ridu. I'm a bit concerned, to be honest.</text>
+		<text bitflag="1345" id1="693670" id2="17" version="1065353216">Captain Kalor hasn't sent me any messages.</text>
+		<text bitflag="1360" id1="693670" id2="17" version="1065353216">I haven't heard anything.</text>
+		<text bitflag="1345" id1="693671" id2="17" version="1065353216">Hm. I suppose it's possible he's moved on to other cases, but I can't help but suspect that he's still planning something.</text>
+		<text bitflag="1345" id1="693673" id2="17" version="1065353216">The less we hear from Kalor, the better.</text>
+		<text bitflag="1360" id1="693673" id2="17" version="1065353216">This seems like a good thing.</text>
+		<text bitflag="1345" id1="693674" id2="17" version="1065353216">It's been nice to take my mind off his accusations, but I doubt he's given up yet.</text>
+		<text bitflag="1345" id1="693676" id2="17" version="1065353216">I guess Kalor finally gave up his idiotic crusade.</text>
+		<text bitflag="1360" id1="693676" id2="17" version="1065353216">He must have grown a brain.</text>
+		<text bitflag="1345" id1="693677" id2="17" version="1065353216">The man is determined. I can't believe he's given up.</text>
+		<text bitflag="1345" id1="693679" id2="17" version="1065353216">I attempted to contact him for my standard activity report, but I was told that he's out of the office on an important assignment.</text>
+		<text bitflag="1345" id1="693681" id2="17" version="1065353216">I can't help but wonder if I'm a part of that assignment. I don't look forward to finding out.</text>
+		<text bitflag="1345" id1="693682" id2="17" version="1065353216">Whatever Kalor does, we'll deal with it.</text>
+		<text bitflag="1360" id1="693682" id2="17" version="1065353216">We can handle him.</text>
+		<text bitflag="1345" id1="693683" id2="17" version="1065353216">I know I can't take my mind off of you, either.</text>
+		<text bitflag="1360" id1="693683" id2="17" version="1065353216">[Flirt] Can't blame him.</text>
+		<text bitflag="1345" id1="693684" id2="17" version="1065353216">I'll hope Kalor's interests aren't quite the same as yours.</text>
+		<text bitflag="1345" id1="693686" id2="17" version="1065353216">If Kalor's up to something, there's nothing we can do right now.</text>
+		<text bitflag="1360" id1="693686" id2="17" version="1065353216">No point worrying about it.</text>
+		<text bitflag="1345" id1="693687" id2="17" version="1065353216">You're right, of course.</text>
+		<text bitflag="1345" id1="693689" id2="17" version="1065353216">I won't tolerate Kalor interfering with my squad again.</text>
+		<text bitflag="1360" id1="693689" id2="17" version="1065353216">If so, he'll regret it.</text>
+		<text bitflag="1345" id1="693690" id2="17" version="1065353216">Perhaps it won't come to that.</text>
+		<text bitflag="1345" id1="693692" id2="17" version="1065353216">We have enough to deal with as it is. I shouldn't be thinking about problems that may not exist.</text>
+		<text bitflag="1345" id1="693694" id2="17" version="1065353216">Sorry to trouble you, sir. Let's just get back to work.</text>
+		<text bitflag="1345" id1="693700" id2="17" version="1065353216">Sir. There is a very important matter that requires your immediate attention.</text>
+		<text bitflag="1345" id1="693702" id2="17" version="1065353216">I've noted numerous reports and personnel documents that the other members of the squad have failed to keep up-to-date.</text>
+		<text bitflag="1345" id1="693704" id2="17" version="1065353216">I've collected the files into datapads--I suggest that the others take them off-ship to fill out. A change of scenery helps when completing reports, I think.</text>
+		<text bitflag="1345" id1="693705" id2="17" version="1065353216">Sounds like a plan to me, Elara.</text>
+		<text bitflag="1360" id1="693705" id2="17" version="1065353216">Proceed.</text>
+		<text bitflag="1345" id1="693706" id2="17" version="1065353216">Very good, sir.</text>
+		<text bitflag="1345" id1="693707" id2="17" version="1065353216">Sounds like we'll have the whole ship to ourselves....</text>
+		<text bitflag="1360" id1="693707" id2="17" version="1065353216">[Flirt] Great plan.</text>
+		<text bitflag="1345" id1="693708" id2="17" version="1065353216">Hm. Yes, I suppose that's true, isn't it? Please excuse me a moment, sir.</text>
+		<text bitflag="1345" id1="693709" id2="17" version="1065353216">You don't need me to fill out any reports, do you?</text>
+		<text bitflag="1360" id1="693709" id2="17" version="1065353216">Do I have to do anything?</text>
+		<text bitflag="1345" id1="693710" id2="17" version="1065353216">No, sir. I need your help with a different matter. One moment, please.</text>
+		<text bitflag="1345" id1="693712" id2="17" version="1065353216">So: based on past performance when filing reports, Jorgan will complete his tasks the fastest. I've estimated at least seventy-three minutes.</text>
+		<text bitflag="1345" id1="693714" id2="17" version="1065353216">Do you think we can find a productive way to spend the time before us, sir?</text>
+		<text bitflag="1345" id1="693715" id2="17" version="1065353216">Let's get straight to work.</text>
+		<text bitflag="1360" id1="693715" id2="17" version="1065353216">I do.</text>
+		<text bitflag="1345" id1="693716" id2="17" version="1065353216">Gladly.</text>
+		<text bitflag="1345" id1="693717" id2="17" version="1065353216">Is it time for an inventory check or something?</text>
+		<text bitflag="1360" id1="693717" id2="17" version="1065353216">Uh... I'm not sure?</text>
+		<text bitflag="1345" id1="693718" id2="17" version="1065353216">No, sir. I had something else in mind.</text>
+		<text bitflag="1345" id1="693719" id2="17" version="1065353216">I think it's time to stop talking.</text>
+		<text bitflag="1360" id1="693719" id2="17" version="1065353216">Get over here.</text>
+		<text bitflag="1345" id1="693720" id2="17" version="1065353216">Very well, sir.</text>
+		<text bitflag="1345" id1="693724" id2="17" version="1065353216">Hmm. I suppose it's wrong to hope that the rest of the squad gets behind on their reports again soon. Is it time to get back to work?</text>
+		<text bitflag="1345" id1="693726" id2="17" version="1065353216">Dorne? Blast it, where are you?</text>
+		<text bitflag="1345" id1="693728" id2="17" version="1065353216">Hm. I think our time is up for now.</text>
+		<text bitflag="1345" id1="693730" id2="17" version="1065353216">This was fantastic. Let's not wait too long for next time.</text>
+		<text bitflag="1345" id1="693734" id2="17" version="1065353216">Kaasi brandy, aged thirty years. One of the few personal effects I brought with me when I defected.</text>
+		<text bitflag="1345" id1="693736" id2="17" version="1065353216">I waged a veritable war to have it returned once my legal status was established. It's all but impossible to find in Republic space--I want you to have it.</text>
+		<text bitflag="1345" id1="693737" id2="17" version="1065353216">I'm speechless, Elara. Thank you very much.</text>
+		<text bitflag="1360" id1="693737" id2="17" version="1065353216">That's very generous.</text>
+		<text bitflag="1345" id1="693738" id2="17" version="1065353216">I can' t accept this, Elara. It's too generous.</text>
+		<text bitflag="1360" id1="693738" id2="17" version="1065353216">No, it's too much.</text>
+		<text bitflag="1345" id1="693739" id2="17" version="1065353216">Personnel guidelines state that gifts priced at less than two hundred credits are perfectly acceptable. I purchased this bottle for the equivalent of eighty-five Republic credits.</text>
+		<text bitflag="1345" id1="693741" id2="17" version="1065353216">I never took you for much of a drinker, Elara.</text>
+		<text bitflag="1360" id1="693741" id2="17" version="1065353216">You like brandy?</text>
+		<text bitflag="1345" id1="693742" id2="17" version="1065353216">I'm no great cantina patron, perhaps. But I can enjoy a fine spirit over dinner or some light reading just as much as the next person.</text>
+		<text bitflag="1345" id1="693744" id2="17" version="1065353216">You've been a fine commander and a very good friend to me.</text>
+		<text bitflag="1345" id1="693746" id2="17" version="1065353216">A token of appreciation seemed quite overdue. Don't hesitate to share if you should decide to open it.</text>
+		<text bitflag="1345" id1="693752" id2="17" version="1065353216">We've been through quite a bit, haven't we, sir?</text>
+		<text bitflag="1345" id1="693754" id2="17" version="1065353216">Since I joined Havoc Squad, I've seen more combat and performed more medical treatments than in my entire career beforehand. I've learned a great deal.</text>
+		<text bitflag="1345" id1="693755" id2="17" version="1065353216">I'm glad you're getting some good experience here.</text>
+		<text bitflag="1360" id1="693755" id2="17" version="1065353216">That's good to hear.</text>
+		<text bitflag="1345" id1="693756" id2="17" version="1065353216">First-hand experience is always the best.</text>
+		<text bitflag="1345" id1="693758" id2="17" version="1065353216">There's still plenty of work for Havoc to do.</text>
+		<text bitflag="1360" id1="693758" id2="17" version="1065353216">We're not done yet.</text>
+		<text bitflag="1345" id1="693759" id2="17" version="1065353216">Yes, sir--plenty of opportunities to improve my skills even further.</text>
+		<text bitflag="1345" id1="693761" id2="17" version="1065353216">Are you gunning for a promotion or something?</text>
+		<text bitflag="1360" id1="693761" id2="17" version="1065353216">Looking for a raise?</text>
+		<text bitflag="1345" id1="693762" id2="17" version="1065353216">No, sir. I'm merely expressing how much I've benefitted from my time here.</text>
+		<text bitflag="1345" id1="693764" id2="17" version="1065353216">I couldn't be prouder to be a part of Havoc Squad. I'm serving the Republic and becoming a better soldier and medic every day.</text>
+		<text bitflag="1345" id1="693766" id2="17" version="1065353216">And I have you to thank for it all. Most officers would never have given me this chance, but you did--thank you.</text>
+		<text bitflag="1345" id1="693767" id2="17" version="1065353216">You earned it, Elara. Nothing more to be said.</text>
+		<text bitflag="1360" id1="693767" id2="17" version="1065353216">You're welcome.</text>
+		<text bitflag="1345" id1="693768" id2="17" version="1065353216">There can be quite a distance from earning something to receiving it. I owe you my gratitude.</text>
+		<text bitflag="1345" id1="693770" id2="17" version="1065353216">I just picked you for your looks. The skills are a bonus.</text>
+		<text bitflag="1360" id1="693770" id2="17" version="1065353216">[Joke] You're good-looking.</text>
+		<text bitflag="1345" id1="693771" id2="17" version="1065353216">Perhaps I only took the position because of your looks.</text>
+		<text bitflag="1345" id1="693773" id2="17" version="1065353216">I didn't want Havoc to be all men. The skills are a nice bonus, though.</text>
+		<text bitflag="1360" id1="693773" id2="17" version="1065353216">[Joke] Needed a woman.</text>
+		<text bitflag="1345" id1="693774" id2="17" version="1065353216">Very funny.</text>
+		<text bitflag="1345" id1="693776" id2="17" version="1065353216">Enough talk--let's put some of this experience to work, shall we?</text>
+		<text bitflag="1345" id1="693777" id2="17" version="1065353216">Is that all you needed, Dorne?</text>
+		<text bitflag="1360" id1="693777" id2="17" version="1065353216">Are we done here?</text>
+		<text bitflag="1345" id1="693778" id2="17" version="1065353216">Yes, sir. Thank you for your time.</text>
+		<text bitflag="1345" id1="693784" id2="17" version="1065353216">Sir? If you think you could spare a moment....</text>
+		<text bitflag="1345" id1="693786" id2="17" version="1065353216">I'd just like you to know how happy I've been. Are you happy?</text>
+		<text bitflag="1345" id1="693787" id2="17" version="1065353216">I enjoy every second we're together, Elara.</text>
+		<text bitflag="1360" id1="693787" id2="17" version="1065353216">I am.</text>
+		<text bitflag="1345" id1="693788" id2="17" version="1065353216">So do I.</text>
+		<text bitflag="1345" id1="693790" id2="17" version="1065353216">Yes. Definitely happy.</text>
+		<text bitflag="1360" id1="693790" id2="17" version="1065353216">You need to ask?</text>
+		<text bitflag="1345" id1="693791" id2="17" version="1065353216">That's very good to hear.</text>
+		<text bitflag="1345" id1="693793" id2="17" version="1065353216">Kisses in the hallways aren't enough for me, Elara.</text>
+		<text bitflag="1360" id1="693793" id2="17" version="1065353216">I want more.</text>
+		<text bitflag="1345" id1="693794" id2="17" version="1065353216">That's not all you see this as? I see it as companionship, support, belonging... so much.</text>
+		<text bitflag="1345" id1="693796" id2="17" version="1065353216">I haven't taken the time for personal relationships since I came to the Republic. Not until now.</text>
+		<text bitflag="1345" id1="693798" id2="17" version="1065353216">When I'm with you, I don't have to be the defector, or the intelligence asset. I can just be me.</text>
+		<text bitflag="1345" id1="693799" id2="17" version="1065353216">You deserve to be happy.</text>
+		<text bitflag="1360" id1="693799" id2="17" version="1065353216">I'm glad.</text>
+		<text bitflag="1345" id1="693800" id2="17" version="1065353216">I think I'd forgotten what the feeling was like.</text>
+		<text bitflag="1345" id1="693802" id2="17" version="1065353216">I imagine you've had to prove yourself a lot over the years.</text>
+		<text bitflag="1360" id1="693802" id2="17" version="1065353216">That must be a relief.</text>
+		<text bitflag="1345" id1="693803" id2="17" version="1065353216">I have. It's exhausting.</text>
+		<text bitflag="1345" id1="693805" id2="17" version="1065353216">In any case, you've been wonderful, and I just thought it would be good to let you know. I'll let you get back to work.</text>
+		<text bitflag="1345" id1="693806" id2="17" version="1065353216">How about the promiscuous nurse, or the Hutt slave girl? Maybe the Ambassador from Zeltron?</text>
+		<text bitflag="1360" id1="693806" id2="17" version="1065353216">[Flirt] Or be someone else.</text>
+		<text bitflag="1345" id1="693807" id2="17" version="1065353216">Ahem. Perhaps we'll have this talk another time, when you aren't so... preoccupied.</text>
+		<text bitflag="1345" id1="693811" id2="17" version="1065353216">Sir! I have excellent news.</text>
+		<text bitflag="1345" id1="693813" id2="17" version="1065353216">I've secured permission for us to use Form 859-RA for our after action reports, instead of the older 859-R!</text>
+		<text bitflag="1345" id1="693814" id2="17" version="1065353216">How is the new one different?</text>
+		<text bitflag="1360" id1="693814" id2="17" version="1065353216">What does that mean?</text>
+		<text bitflag="1345" id1="693815" id2="17" version="1065353216">The form has been significantly streamlined for ease of completion. A full one-sixth shorter!</text>
+		<text bitflag="1345" id1="693817" id2="17" version="1065353216">That's... definitely really exciting, Elara.</text>
+		<text bitflag="1360" id1="693817" id2="17" version="1065353216">Um... great!</text>
+		<text bitflag="1345" id1="693818" id2="17" version="1065353216">A one-sixth reduction in form completion time.</text>
+		<text bitflag="1345" id1="693820" id2="17" version="1065353216">I can't believe you're actually excited about something like this.</text>
+		<text bitflag="1360" id1="693820" id2="17" version="1065353216">You're so weird.</text>
+		<text bitflag="1345" id1="693821" id2="17" version="1065353216">It's more efficient! Completion times will go down by at least one sixth.</text>
+		<text bitflag="1345" id1="693823" id2="17" version="1065353216">This should result in a cumulative time savings of more than ninety minutes within four weeks. It should be quite pleasant.</text>
+		<text bitflag="1345" id1="693829" id2="17" version="1065353216">Sir. I'm pleased to report that my plan to confront Ridu was a success.</text>
+		<text bitflag="1345" id1="693831" id2="17" version="1065353216">When faced with the extensive contradictory documentation I'd prepared on the matter, he admitted to &quot;misremembering&quot; certain key facts, and will now testify appropriately.</text>
+		<text bitflag="1345" id1="693832" id2="17" version="1065353216">I'm glad you were able to turn the situation around.</text>
+		<text bitflag="1360" id1="693832" id2="17" version="1065353216">That's a relief.</text>
+		<text bitflag="1345" id1="693833" id2="17" version="1065353216">So am I. An actual hearing would have held me away from my duties for months, at the very least.</text>
+		<text bitflag="1345" id1="693835" id2="17" version="1065353216">Does this mean Kalor's case won't move forward?</text>
+		<text bitflag="1360" id1="693835" id2="17" version="1065353216">What happens next?</text>
+		<text bitflag="1345" id1="693836" id2="17" version="1065353216">I can only hope so.</text>
+		<text bitflag="1345" id1="693838" id2="17" version="1065353216">Can you really trust this guy to tell the truth?</text>
+		<text bitflag="1360" id1="693838" id2="17" version="1065353216">Are you sure of that?</text>
+		<text bitflag="1345" id1="693839" id2="17" version="1065353216">I believe so. If he doesn't, I can provide ample evidence to prove the facts of the situation.</text>
+		<text bitflag="1345" id1="693841" id2="17" version="1065353216">Hm. We seem to have an incoming holocall.</text>
+		<text bitflag="1345" id1="693843" id2="17" version="1065353216">Dorne! This is Kalor--what is going on here? I just got word from Ridu that he's recanting his testimony!</text>
+		<text bitflag="1345" id1="693844" id2="17" version="1065353216">You've got nothing on Dorne, Kalor.</text>
+		<text bitflag="1360" id1="693844" id2="17" version="1065353216">Drop your inquiry.</text>
+		<text bitflag="1345" id1="693845" id2="17" version="1065353216">You've done nothing but interfere in my work. I'm getting tired of it.</text>
+		<text bitflag="1345" id1="693847" id2="17" version="1065353216">That's news to us, Captain.</text>
+		<text bitflag="1360" id1="693847" id2="17" version="1065353216">[Lie] We had no idea.</text>
+		<text bitflag="1345" id1="693848" id2="17" version="1065353216">Don't play games with me.</text>
+		<text bitflag="1345" id1="693850" id2="17" version="1065353216">I'm getting tired of you calling my medic, Kalor.</text>
+		<text bitflag="1360" id1="693850" id2="17" version="1065353216">Back off.</text>
+		<text bitflag="1345" id1="693851" id2="17" version="1065353216">I'm just getting started.</text>
+		<text bitflag="1345" id1="693853" id2="17" version="1065353216">I used to think you were cooperating with us, Elara.</text>
+		<text bitflag="1345" id1="693855" id2="17" version="1065353216">But you're hiding something. And I will find out what.</text>
+		<text bitflag="1345" id1="693857" id2="17" version="1065353216">I've followed every rule, shared everything I know. Why does this continue?</text>
+		<text bitflag="1345" id1="693858" id2="17" version="1065353216">Kalor is just overzealous. We'll convince him eventually.</text>
+		<text bitflag="1360" id1="693858" id2="17" version="1065353216">Even good men make mistakes.</text>
+		<text bitflag="1345" id1="693859" id2="17" version="1065353216">I truly don't know how I'd handle this if it weren't for you.</text>
+		<text bitflag="1345" id1="693861" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1345" id1="693862" id2="17" version="1065353216">I appreciate your patience, sir. Let's hope you're right.</text>
+		<text bitflag="1345" id1="693863" id2="17" version="1065353216">That moron is dragging this out for no reason.</text>
+		<text bitflag="1360" id1="693863" id2="17" version="1065353216">Kalor is an idiot.</text>
+		<text bitflag="1345" id1="693864" id2="17" version="1065353216">I suppose he feels he's simply doing his duty. Speaking of which, we should really get back to our own.</text>
+		<text bitflag="1345" id1="693866" id2="17" version="1065353216">We've got more important things to be doing.</text>
+		<text bitflag="1360" id1="693866" id2="17" version="1065353216">Worry about it later.</text>
+		<text bitflag="1345" id1="693867" id2="17" version="1065353216">You're right, sir.</text>
+		<text bitflag="1345" id1="693869" id2="17" version="1065353216">Thanks again for your help.</text>
+		<text bitflag="1345" id1="693874" id2="17" version="1065353216">Sir, I need to speak with you urgently. It's Captain Kalor.</text>
+		<text bitflag="1345" id1="693876" id2="17" version="1065353216">He's trying to open a formal inquiry into my status as a defector. If it proceeds, I could be pulled from active duty.</text>
+		<text bitflag="1345" id1="693877" id2="17" version="1065353216">Does Captain Kalor really have that kind of authority?</text>
+		<text bitflag="1360" id1="693877" id2="17" version="1065353216">Can he do that?</text>
+		<text bitflag="1345" id1="693878" id2="17" version="1065353216">He cannot directly order that I be suspended, no. But he can begin the necessary inquiry to do so, and guide its progress.</text>
+		<text bitflag="1345" id1="693880" id2="17" version="1065353216">No need to worry, darling.</text>
+		<text bitflag="1360" id1="693880" id2="17" version="1065353216">It'll be okay.</text>
+		<text bitflag="1345" id1="693881" id2="17" version="1065353216">This is a very serious situation. Sir.</text>
+		<text bitflag="1345" id1="693883" id2="17" version="1065353216">I'm not losing you to some desk jockey.</text>
+		<text bitflag="1360" id1="693883" id2="17" version="1065353216">That won't happen.</text>
+		<text bitflag="1345" id1="693884" id2="17" version="1065353216">Let's hope not, sir.</text>
+		<text bitflag="1345" id1="693886" id2="17" version="1065353216">I think it's time Kalor disappeared.</text>
+		<text bitflag="1360" id1="693886" id2="17" version="1065353216">Let's just kill this jerk.</text>
+		<text bitflag="1345" id1="693887" id2="17" version="1065353216">Kalor may be frustrating, but there is certainly no cause for killing him.</text>
+		<text bitflag="1345" id1="693889" id2="17" version="1065353216">Kalor's message said that testimony from a civilian security officer on Taris &quot;forced&quot; him to proceed with the inquiry. The officer's name is Ridu.</text>
+		<text bitflag="1345" id1="693891" id2="17" version="1065353216">He temporarily commanded my squad during a Republic Senator's visit. The Senator was killed, and Ridu is blaming me for the mistakes he made.</text>
+		<text bitflag="1345" id1="693892" id2="17" version="1065353216">How do we clear this situation up?</text>
+		<text bitflag="1360" id1="693892" id2="17" version="1065353216">What can we do?</text>
+		<text bitflag="1345" id1="693893" id2="17" version="1065353216">What happened? Rakghouls?</text>
+		<text bitflag="1360" id1="693893" id2="17" version="1065353216">How did the Senator die?</text>
+		<text bitflag="1345" id1="693894" id2="17" version="1065353216">Correct. Security details were far below required strength--Ridu didn't wish to portray Taris as a dangerous place. Fool.</text>
+		<text bitflag="1345" id1="693896" id2="17" version="1065353216">He can't testify if he goes missing out in the wastelands.</text>
+		<text bitflag="1360" id1="693896" id2="17" version="1065353216">So make him disappear.</text>
+		<text bitflag="1345" id1="693897" id2="17" version="1065353216">I appreciate that you want to help me, but we will not commit murder to do it.</text>
+		<text bitflag="1345" id1="693899" id2="17" version="1065353216">I need to speak to Ridu on Taris. I have a right to face my accuser--and I intend to do so.</text>
+		<text bitflag="1345" id1="693901" id2="17" version="1065353216">I'd best set out and deal with this right away. The sooner the matter is settled, the better our chances of avoiding Kalor's inquiry.</text>
+		<text bitflag="1345" id1="693903" id2="17" version="1065353216">I should set out as soon as it's convenient. The sooner this matter is attended to, the better our chances of avoiding Kalor's inquiry.</text>
+		<text bitflag="1345" id1="693907" id2="17" version="1065353216">Could I speak with you privately for a moment?</text>
+		<text bitflag="1345" id1="693909" id2="17" version="1065353216">I just need you to know, sir, that I've become quite fond of you. You've helped me far more than anyone I've ever known.</text>
+		<text bitflag="1345" id1="693911" id2="17" version="1065353216">Because of this I'm forced to ask if, perhaps, you might feel the same fondness for me?</text>
+		<text bitflag="1345" id1="693912" id2="17" version="1065353216">I think you're an amazing woman, Elara.</text>
+		<text bitflag="1360" id1="693912" id2="17" version="1065353216">I do.</text>
+		<text bitflag="1345" id1="693913" id2="17" version="1065353216">See if you can guess.</text>
+		<text bitflag="1360" id1="693913" id2="17" version="1065353216">What do you think? [Kiss her]</text>
+		<text bitflag="1345" id1="693916" id2="17" version="1065353216">Mmm... yes, I get the impression that you aren't entirely impartial to me.</text>
+		<text bitflag="1345" id1="693918" id2="17" version="1065353216">I only want you to be at your best, Dorne. Nothing more.</text>
+		<text bitflag="1360" id1="693918" id2="17" version="1065353216">This is strictly professional.</text>
+		<text bitflag="1345" id1="693919" id2="17" version="1065353216">Oh. I--I apologize, sir. I misunderstood your intentions. I won't delay you any longer. Thank you.</text>
+		<text bitflag="1345" id1="693920" id2="17" version="1065353216">There's no need to apologize, Dorne.</text>
+		<text bitflag="1360" id1="693920" id2="17" version="1065353216">No problem.</text>
+		<text bitflag="1345" id1="693921" id2="17" version="1065353216">Thank you, sir.</text>
+		<text bitflag="1345" id1="693922" id2="17" version="1065353216">I'm sorry, I didn't mean to say I don't have feelings for you. I do.</text>
+		<text bitflag="1360" id1="693922" id2="17" version="1065353216">Wait, I do care for you!</text>
+		<text bitflag="1345" id1="693923" id2="17" version="1065353216">Oh. That's... that's a relief.</text>
+		<text bitflag="1345" id1="693925" id2="17" version="1065353216">I'm just--Personnel Code Section Two discourages romantic relationships between personnel, particularly commanding officers.</text>
+		<text bitflag="1345" id1="693927" id2="17" version="1065353216">I want to spend more time with you. But I don't want to negatively affect squad performance.</text>
+		<text bitflag="1345" id1="693928" id2="17" version="1065353216">We're both mature adults, Elara. I'm sure we can stay professional.</text>
+		<text bitflag="1360" id1="693928" id2="17" version="1065353216">We can handle ourselves.</text>
+		<text bitflag="1345" id1="693929" id2="17" version="1065353216">Our service records would suggest that we're fully capable of navigating complex situations.</text>
+		<text bitflag="1345" id1="693930" id2="17" version="1065353216">This could be a risky move.</text>
+		<text bitflag="1360" id1="693930" id2="17" version="1065353216">[Flirt] You might be right.</text>
+		<text bitflag="1345" id1="693931" id2="17" version="1065353216">On the other hand....</text>
+		<text bitflag="1345" id1="693932" id2="17" version="1065353216">You're allowed to put yourself first sometimes, Elara.</text>
+		<text bitflag="1360" id1="693932" id2="17" version="1065353216">Forget the squad.</text>
+		<text bitflag="1345" id1="693933" id2="17" version="1065353216">You're right, sir.</text>
+		<text bitflag="1345" id1="693935" id2="17" version="1065353216">Personnel Code Section One encourages personnel to spend time together socially. Correlations between interpersonal compatibility and unit performance are strongly positive....</text>
+		<text bitflag="1345" id1="693939" id2="17" version="1065353216">We should probably return to our duties. But I think this is the right choice.</text>
+		<text bitflag="1345" id1="693943" id2="17" version="1065353216">Carry on, Dorne.</text>
+		<text bitflag="1360" id1="693943" id2="17" version="1065353216">Dismissed.</text>
+		<text bitflag="1345" id1="693944" id2="17" version="1065353216">Yes, sir.</text>
+		<text bitflag="1345" id1="693950" id2="17" version="1065353216">I'm afraid I have another requisition form that requires your attention, sir.</text>
+		<text bitflag="1345" id1="693952" id2="17" version="1065353216">Our shipboard rations have fallen somewhat below the levels outlined in code eighteen, and the Quartermaster Corps restocking estimate is currently nine weeks.</text>
+		<text bitflag="1345" id1="693954" id2="17" version="1065353216">As an alternative, I'd like to supplement our food stores with products from public sources--&quot;real food&quot;, as Jorgan would say. But commanding officer approval is required.</text>
+		<text bitflag="1345" id1="693955" id2="17" version="1065353216">Can't hurt to mix up the menu a bit. Make it happen.</text>
+		<text bitflag="1360" id1="693955" id2="17" version="1065353216">You've got it.</text>
+		<text bitflag="1345" id1="693956" id2="17" version="1065353216">If we could've been having real food this whole time, why haven't we?</text>
+		<text bitflag="1360" id1="693956" id2="17" version="1065353216">What's the catch?</text>
+		<text bitflag="1345" id1="693957" id2="17" version="1065353216">In the past, restocking through official channels was the simpler option. But demand is much higher now.</text>
+		<text bitflag="1345" id1="693959" id2="17" version="1065353216">I'll have us back to standard stock levels in no time. Thank you for your time, sir.</text>
+		<text bitflag="1345" id1="693960" id2="17" version="1065353216">Do whatever you want, Dorne. This stuff isn't worth my time.</text>
+		<text bitflag="1360" id1="693960" id2="17" version="1065353216">I really don't care.</text>
+		<text bitflag="1345" id1="693961" id2="17" version="1065353216">Very well, sir.</text>
+		<text bitflag="1345" id1="693967" id2="17" version="1065353216">I'm still quite concerned about Captain Kalor and his accusations, sir.</text>
+		<text bitflag="1345" id1="693969" id2="17" version="1065353216">If Personnel Division thinks I'm withholding information about the Empire they can continue hounding me under Security Regulation Fifteen.</text>
+		<text bitflag="1345" id1="693971" id2="17" version="1065353216">I think if men like Kalor had their way, I'd be locked in a room reciting the minutia of Imperial culture until the end of time.</text>
+		<text bitflag="1345" id1="693972" id2="17" version="1065353216">You'll get a lot more done in the field.</text>
+		<text bitflag="1360" id1="693972" id2="17" version="1065353216">What a waste.</text>
+		<text bitflag="1345" id1="693973" id2="17" version="1065353216">I couldn't agree more.</text>
+		<text bitflag="1345" id1="693975" id2="17" version="1065353216">I won't let them do that to you, Elara.</text>
+		<text bitflag="1360" id1="693975" id2="17" version="1065353216">That won't happen.</text>
+		<text bitflag="1345" id1="693976" id2="17" version="1065353216">Thank you. I truly appreciate everything you do for me.</text>
+		<text bitflag="1345" id1="693978" id2="17" version="1065353216">I do sometimes wonder if I'm being unfair, though. I'm one of the only people in the Republic with extensive knowledge of Imperial culture.</text>
+		<text bitflag="1345" id1="693980" id2="17" version="1065353216">Perhaps I have a responsibility to do what few others can, even if it's not what I'd like to be doing.</text>
+		<text bitflag="1345" id1="693981" id2="17" version="1065353216">You shouldn't be forced to do anything.</text>
+		<text bitflag="1360" id1="693981" id2="17" version="1065353216">It's your right to decide.</text>
+		<text bitflag="1345" id1="693982" id2="17" version="1065353216">I'm glad I'm not the only one who feels that way.</text>
+		<text bitflag="1345" id1="693984" id2="17" version="1065353216">This squad needs the best. That means you, Dorne.</text>
+		<text bitflag="1360" id1="693984" id2="17" version="1065353216">Havoc needs you more.</text>
+		<text bitflag="1345" id1="693985" id2="17" version="1065353216">There's certainly nowhere I'd rather be.</text>
+		<text bitflag="1345" id1="693987" id2="17" version="1065353216">First-hand information can save a lot of lives.</text>
+		<text bitflag="1360" id1="693987" id2="17" version="1065353216">Can you blame them?</text>
+		<text bitflag="1345" id1="693988" id2="17" version="1065353216">Yes, sir. But I want to do more for our cause than spout arbitrary information.</text>
+		<text bitflag="1345" id1="693990" id2="17" version="1065353216">Still, you are correct--even if it comes to such dreary ends, I'll still be serving the Republic.</text>
+		<text bitflag="1345" id1="693991" id2="17" version="1065353216">You'll always do what's required of you, won't you?</text>
+		<text bitflag="1360" id1="693991" id2="17" version="1065353216">You're very dutiful.</text>
+		<text bitflag="1345" id1="693992" id2="17" version="1065353216">I will, sir. So long as I have no moral objections, of course.</text>
+		<text bitflag="1345" id1="693994" id2="17" version="1065353216">That may never happen, Dorne. Don't worry about it.</text>
+		<text bitflag="1360" id1="693994" id2="17" version="1065353216">It's a moot point.</text>
+		<text bitflag="1345" id1="693995" id2="17" version="1065353216">True enough, sir.</text>
+		<text bitflag="1345" id1="693997" id2="17" version="1065353216">Thank you for taking the time to hear me out. It's good to have someone to talk to.</text>
+		<text bitflag="1345" id1="693998" id2="17" version="1065353216">I know I'm your commander, but that doesn't have to be all.</text>
+		<text bitflag="1360" id1="693998" id2="17" version="1065353216">I can be more.</text>
+		<text bitflag="1345" id1="693999" id2="17" version="1065353216">I hadn't... that isn't something I'm used to considering.</text>
+		<text bitflag="1345" id1="694001" id2="17" version="1065353216">I really shouldn't occupy any more of your time. Thank you, sir.</text>
+		<text bitflag="1345" id1="694002" id2="17" version="1065353216">I always enjoy spending time with you, Elara.</text>
+		<text bitflag="1360" id1="694002" id2="17" version="1065353216">We can talk anytime.</text>
+		<text bitflag="1345" id1="694003" id2="17" version="1065353216">Thank you. You're very considerate.</text>
+		<text bitflag="1345" id1="694004" id2="17" version="1065353216">My free time isn't unlimited, Elara.</text>
+		<text bitflag="1360" id1="694004" id2="17" version="1065353216">Don't make a habit of it.</text>
+		<text bitflag="1345" id1="694005" id2="17" version="1065353216">Oh. No, of course not.</text>
+		<text bitflag="1345" id1="694007" id2="17" version="1065353216">I'll leave you to return to your duties.</text>
+		<text bitflag="1345" id1="694008" id2="17" version="1065353216">I appreciate you taking the time to discuss this with me, sir. I'll leave you to your other duties.</text>
+		<text bitflag="1345" id1="694009" id2="17" version="1065353216">Focus on the job at hand. The rest will sort itself out.</text>
+		<text bitflag="1360" id1="694009" id2="17" version="1065353216">Let's get back to work.</text>
+		<text bitflag="1345" id1="694010" id2="17" version="1065353216">As you wish, sir.</text>
+		<text bitflag="1345" id1="694016" id2="17" version="1065353216">Sir? I need your approval to requisition some supplies for my medical kit.</text>
+		<text bitflag="1345" id1="694018" id2="17" version="1065353216">I've categorized the items by relative priority. Everything fits within our allotment under supply code eighteen, but items near the bottom of the list can wait if necessary.</text>
+		<text bitflag="1345" id1="694019" id2="17" version="1065353216">Best to make sure you can still patch up my handsome face.</text>
+		<text bitflag="1360" id1="694019" id2="17" version="1065353216">[Flirt] Whatever you need.</text>
+		<text bitflag="1345" id1="694020" id2="17" version="1065353216">Yes, sir. I'd say your features are worthy of preservation.</text>
+		<text bitflag="1345" id1="694021" id2="17" version="1065353216">A guy could get used to compliments like that.</text>
+		<text bitflag="1360" id1="694021" id2="17" version="1065353216">[Flirt] You're too kind.</text>
+		<text bitflag="1345" id1="694022" id2="17" version="1065353216">I would prefer they remain a novel experience.</text>
+		<text bitflag="1345" id1="694024" id2="17" version="1065353216">If you'll excuse me, sir.</text>
+		<text bitflag="1345" id1="694025" id2="17" version="1065353216">You know what you're doing, Dorne. Request approved.</text>
+		<text bitflag="1360" id1="694025" id2="17" version="1065353216">Whatever you need.</text>
+		<text bitflag="1345" id1="694026" id2="17" version="1065353216">Thank you. I'll have this submitted immediately.</text>
+		<text bitflag="1345" id1="694028" id2="17" version="1065353216">What kind of supplies are we talking about?</text>
+		<text bitflag="1360" id1="694028" id2="17" version="1065353216">Anything interesting?</text>
+		<text bitflag="1345" id1="694029" id2="17" version="1065353216">Just restocking basic supplies.</text>
+		<text bitflag="1345" id1="694031" id2="17" version="1065353216">I don't care what you requisition, Dorne.</text>
+		<text bitflag="1360" id1="694031" id2="17" version="1065353216">Don't bug me with this.</text>
+		<text bitflag="1345" id1="694032" id2="17" version="1065353216">I'll take that as your approval. Thank you, sir.</text>
+		<text bitflag="1345" id1="694034" id2="17" version="1065353216">We're fortunate to be serving in Special Forces. We get priority when requesting supplies like these.</text>
+		<text bitflag="1345" id1="694036" id2="17" version="1065353216">I've heard that regular Army units must now wait several weeks to receive high-demand items. Increased hostilities are taking their toll.</text>
+		<text bitflag="1345" id1="694037" id2="17" version="1065353216">If supplies are short, we'll just have to stick closer together. Keep each other covered.</text>
+		<text bitflag="1360" id1="694037" id2="17" version="1065353216">[Flirt] We'll play it safe.</text>
+		<text bitflag="1345" id1="694038" id2="17" version="1065353216">I'll be glad to stay closer, sir. If that's an order.</text>
+		<text bitflag="1345" id1="694039" id2="17" version="1065353216">Was that... were you just flirting with me?</text>
+		<text bitflag="1360" id1="694039" id2="17" version="1065353216">Are you flirting with me?</text>
+		<text bitflag="1345" id1="694040" id2="17" version="1065353216">I see no reason I shouldn't be free to flirt if you do. Provided it doesn't interfere with operational effectiveness, of course. Sir.</text>
+		<text bitflag="1345" id1="694041" id2="17" version="1065353216">The closer the better, Dorne.</text>
+		<text bitflag="1360" id1="694041" id2="17" version="1065353216">[Flirt] Sounds good.</text>
+		<text bitflag="1345" id1="694042" id2="17" version="1065353216">Understood. Sir.</text>
+		<text bitflag="1345" id1="694043" id2="17" version="1065353216">You just can't resist me, Dorne. Admit it.</text>
+		<text bitflag="1360" id1="694043" id2="17" version="1065353216">[Flirt] I knew you liked me.</text>
+		<text bitflag="1345" id1="694044" id2="17" version="1065353216">I wouldn't go that far, sir. I'd best get on with submitting this requisition now.</text>
+		<text bitflag="1345" id1="694048" id2="17" version="1065353216">If we don't get hurt, we won't need to use medical supplies.</text>
+		<text bitflag="1360" id1="694048" id2="17" version="1065353216">We'll play it safe.</text>
+		<text bitflag="1345" id1="694049" id2="17" version="1065353216">I'll still keep us fully stocked. Just in case.</text>
+		<text bitflag="1345" id1="694051" id2="17" version="1065353216">Thank you, sir.</text>
+		<text bitflag="1345" id1="694052" id2="17" version="1065353216">It's probably going to get worse before it gets better.</text>
+		<text bitflag="1360" id1="694052" id2="17" version="1065353216">Things are getting messy.</text>
+		<text bitflag="1345" id1="694053" id2="17" version="1065353216">That does seem to be the path we're on. Hopefully our actions can at least stem the tide.</text>
+		<text bitflag="1345" id1="694055" id2="17" version="1065353216">I'd best get this finished, sir. Thank you for your time.</text>
+		<text bitflag="1345" id1="694056" id2="17" version="1065353216">I want Havoc fully supplied at all times, Dorne. Whatever it takes.</text>
+		<text bitflag="1360" id1="694056" id2="17" version="1065353216">Make sure we stay stocked.</text>
+		<text bitflag="1345" id1="694057" id2="17" version="1065353216">Yes, sir. I'll do everything I can.</text>
+		<text bitflag="1345" id1="694063" id2="17" version="1065353216">Sir? I'm sorry to bother you, but I've received a troubling message from Captain Kalor, my supervisory officer from Personnel Division.</text>
+		<text bitflag="1345" id1="694065" id2="17" version="1065353216">He ordered me to contact him immediately. I hoped you could join me for the conversation.</text>
+		<text bitflag="1345" id1="694066" id2="17" version="1065353216">I'd be glad to.</text>
+		<text bitflag="1360" id1="694066" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="694067" id2="17" version="1065353216">I've got a few minutes, at least.</text>
+		<text bitflag="1360" id1="694067" id2="17" version="1065353216">I guess I could.</text>
+		<text bitflag="1345" id1="694068" id2="17" version="1065353216">Thank you very much, sir. I'll raise him on the holo now.</text>
+		<text bitflag="1345" id1="694070" id2="17" version="1065353216">Kalor really needs to give this up.</text>
+		<text bitflag="1360" id1="694070" id2="17" version="1065353216">Not this again.</text>
+		<text bitflag="1345" id1="694071" id2="17" version="1065353216">Hopefully he's decided to approach our situation more rationally.</text>
+		<text bitflag="1345" id1="694073" id2="17" version="1065353216">Captain Kalor. This is Elara Dorne, personnel number 22-795, reporting in per your request.</text>
+		<text bitflag="1345" id1="694075" id2="17" version="1065353216">Always the whole mess. Every time... heh, anyway, yes, thank you for returning my call, Elara.</text>
+		<text bitflag="1345" id1="694077" id2="17" version="1065353216">It's about this whole situation with your brother. You did a great job, obviously, but people are starting to think you have more information than you're sharing.</text>
+		<text bitflag="1345" id1="694078" id2="17" version="1065353216">We got a lead, and Elara acted on it. End of story.</text>
+		<text bitflag="1360" id1="694078" id2="17" version="1065353216">That's nonsense.</text>
+		<text bitflag="1345" id1="694079" id2="17" version="1065353216">Maybe, maybe not.</text>
+		<text bitflag="1345" id1="694081" id2="17" version="1065353216">If Elara has any more intel for you, she'll share it.</text>
+		<text bitflag="1360" id1="694081" id2="17" version="1065353216">Elara will cooperate fully.</text>
+		<text bitflag="1345" id1="694082" id2="17" version="1065353216">Havoc Squad doesn't have time for your pointless accusations.</text>
+		<text bitflag="1360" id1="694082" id2="17" version="1065353216">Back off.</text>
+		<text bitflag="1345" id1="694083" id2="17" version="1065353216">I'm sorry you feel that my job is pointless, but it's still my job.</text>
+		<text bitflag="1345" id1="694085" id2="17" version="1065353216">Elara, if you have information you'd like to share, I think this would be a good time for you to come in.</text>
+		<text bitflag="1345" id1="694087" id2="17" version="1065353216">I appreciate the offer, but I have no further information of value to you.</text>
+		<text bitflag="1345" id1="694089" id2="17" version="1065353216">Suit yourself. I have work to do--Kalor out.</text>
+		<text bitflag="1345" id1="694091" id2="17" version="1065353216">He's still demanding more, after everything I've done. What do I have to do to prove myself?</text>
+		<text bitflag="1345" id1="694092" id2="17" version="1065353216">You're a good soldier, Elara. You've got nothing to prove.</text>
+		<text bitflag="1360" id1="694092" id2="17" version="1065353216">Nothing.</text>
+		<text bitflag="1345" id1="694093" id2="17" version="1065353216">Thank you, sir. But I think it's clear that some people don't feel the same way.</text>
+		<text bitflag="1345" id1="694095" id2="17" version="1065353216">He can't touch us, Elara. Forget him.</text>
+		<text bitflag="1360" id1="694095" id2="17" version="1065353216">Kalor is all talk.</text>
+		<text bitflag="1345" id1="694096" id2="17" version="1065353216">I hope you're right.</text>
+		<text bitflag="1345" id1="694098" id2="17" version="1065353216">Let's just get back to work. I'd rather focus on something else for a while.</text>
+		<text bitflag="1345" id1="694099" id2="17" version="1065353216">We've got more important things to do right now.</text>
+		<text bitflag="1360" id1="694099" id2="17" version="1065353216">Forget it.</text>
+		<text bitflag="1345" id1="694100" id2="17" version="1065353216">Yes, sir. I could stand to think about something else for a while.</text>
+		<text bitflag="1345" id1="694106" id2="17" version="1065353216">The operation was a complete success, sir. Per code twenty-three of the enemy interaction guidelines, Aleksei officially defected to the Galactic Republic.</text>
+		<text bitflag="1345" id1="694108" id2="17" version="1065353216">Given the circumstances, we didn't have much time to catch up... but I have my brother back. Thank you for allowing me to help him.</text>
+		<text bitflag="1345" id1="694109" id2="17" version="1065353216">I'm happy to hear that everything worked out.</text>
+		<text bitflag="1360" id1="694109" id2="17" version="1065353216">That's great news!</text>
+		<text bitflag="1345" id1="694110" id2="17" version="1065353216">Are you certain this isn't just an Imperial scam?</text>
+		<text bitflag="1360" id1="694110" id2="17" version="1065353216">You're sure he's being honest?</text>
+		<text bitflag="1345" id1="694111" id2="17" version="1065353216">I'm quite certain--my brother isn't leading us on.</text>
+		<text bitflag="1345" id1="694113" id2="17" version="1065353216">I did you a huge favor here. Don't forget it.</text>
+		<text bitflag="1360" id1="694113" id2="17" version="1065353216">You owe me.</text>
+		<text bitflag="1345" id1="694114" id2="17" version="1065353216">I don't think I could ever forget something like this, sir.</text>
+		<text bitflag="1345" id1="694116" id2="17" version="1065353216">Hopefully Personnel Division will allow me to stay in contact with Aleksei--not privately, of course--and help guide him through the defection process.</text>
+		<text bitflag="1345" id1="694118" id2="17" version="1065353216">I should start compiling notes for him. Thanks again, sir.</text>
+		<text bitflag="1345" id1="694124" id2="17" version="1065353216">Sir. I need to speak to you immediately. I've received a strange holomessage that appears to bear Imperial signal codes.</text>
+		<text bitflag="1345" id1="694126" id2="17" version="1065353216">I haven't watched it yet. I wanted you present to supervise and confirm that I'm not engaged in secret communications with Imperial personnel.</text>
+		<text bitflag="1345" id1="694127" id2="17" version="1065353216">We'd better watch it immediately.</text>
+		<text bitflag="1360" id1="694127" id2="17" version="1065353216">Sounds urgent.</text>
+		<text bitflag="1345" id1="694128" id2="17" version="1065353216">Yes, sir. I'll load it now.</text>
+		<text bitflag="1345" id1="694130" id2="17" version="1065353216">That's silly. You could've watched the thing first.</text>
+		<text bitflag="1360" id1="694130" id2="17" version="1065353216">You worry too much.</text>
+		<text bitflag="1345" id1="694131" id2="17" version="1065353216">Someone in my position can never be too cautious. Let's see, now....</text>
+		<text bitflag="1345" id1="694133" id2="17" version="1065353216">How could the Imperials send a message to you?</text>
+		<text bitflag="1360" id1="694133" id2="17" version="1065353216">This is very suspicious.</text>
+		<text bitflag="1345" id1="694134" id2="17" version="1065353216">I don't have the slightest idea. It should be impossible. Let's find out what this is all about....</text>
+		<text bitflag="1345" id1="694136" id2="17" version="1065353216">Elara. It's me. Aleksei. I... I hope you're well. It's been a long time.</text>
+		<text bitflag="1345" id1="694138" id2="17" version="1065353216">Aleksei... sir. This message is from my brother. I don't know what to say.</text>
+		<text bitflag="1345" id1="694139" id2="17" version="1065353216">You don't need to say anything. Let's hear the rest of the message first.</text>
+		<text bitflag="1360" id1="694139" id2="17" version="1065353216">Keep playing it.</text>
+		<text bitflag="1345" id1="694140" id2="17" version="1065353216">I know this must be hard for you.</text>
+		<text bitflag="1360" id1="694140" id2="17" version="1065353216">Take your time.</text>
+		<text bitflag="1345" id1="694141" id2="17" version="1065353216">It's more surprising than anything. I honestly never thought I'd see his face again.</text>
+		<text bitflag="1345" id1="694143" id2="17" version="1065353216">You're telling me you had nothing to do with your brother contacting you?</text>
+		<text bitflag="1360" id1="694143" id2="17" version="1065353216">Are you trying to fool me?</text>
+		<text bitflag="1345" id1="694144" id2="17" version="1065353216">Of course not! I haven't spoken with Aleksei since well before I defected. I have no idea how he could have sent this.</text>
+		<text bitflag="1345" id1="694146" id2="17" version="1065353216">I'm sorry to contact you like this, but I need your help. My men and I... we're as good as dead.</text>
+		<text bitflag="1345" id1="694148" id2="17" version="1065353216">We're on Nar Shaddaa--we were caught tampering with one of the Hutts' operations. We never dreamed the slugs would have so much security.</text>
+		<text bitflag="1345" id1="694150" id2="17" version="1065353216">These Hutts are Imperial allies, Elara. There is no rescue team. We'll be disavowed and left to die. Please--you're my only hope now.</text>
+		<text bitflag="1345" id1="694151" id2="17" version="1065353216">How do we know Aleksei isn't leading us into a trap?</text>
+		<text bitflag="1360" id1="694151" id2="17" version="1065353216">Can we trust him?</text>
+		<text bitflag="1345" id1="694152" id2="17" version="1065353216">We should proceed with caution. But I don't believe my brother is lying to us.</text>
+		<text bitflag="1345" id1="694154" id2="17" version="1065353216">Get your brother out of there, Elara. You've got my leave.</text>
+		<text bitflag="1360" id1="694154" id2="17" version="1065353216">You can go help him.</text>
+		<text bitflag="1345" id1="694155" id2="17" version="1065353216">I... thank you, sir. I appreciate your willingness to help, given the circumstances.</text>
+		<text bitflag="1345" id1="694157" id2="17" version="1065353216">We can't help Imperial personnel, Elara.</text>
+		<text bitflag="1360" id1="694157" id2="17" version="1065353216">This is out of the question.</text>
+		<text bitflag="1345" id1="694158" id2="17" version="1065353216">There is no regulation against assisting the enemy so long as they aren't acting against Republic interests.</text>
+		<text bitflag="1345" id1="694160" id2="17" version="1065353216">I believe I can bring him to our side. I know my brother better than anyone--I can convince him to defect.</text>
+		<text bitflag="1345" id1="694162" id2="17" version="1065353216">Perhaps it's best if I see to this matter alone, sir. Alexei will be much easier to convince if he doesn't feel outnumbered.</text>
+		<text bitflag="1345" id1="694163" id2="17" version="1065353216">If you can bring him in willingly, then all the better.</text>
+		<text bitflag="1360" id1="694163" id2="17" version="1065353216">Sounds good.</text>
+		<text bitflag="1345" id1="694164" id2="17" version="1065353216">I'm going out on a limb here, Dorne. Don't let me down.</text>
+		<text bitflag="1360" id1="694164" id2="17" version="1065353216">If you say so.</text>
+		<text bitflag="1345" id1="694165" id2="17" version="1065353216">I won't, sir. You can count on me.</text>
+		<text bitflag="1345" id1="694167" id2="17" version="1065353216">If your brother won't flip, you'll bring him in as a prisoner. Understood?</text>
+		<text bitflag="1360" id1="694167" id2="17" version="1065353216">Don't go soft on him.</text>
+		<text bitflag="1345" id1="694168" id2="17" version="1065353216">Yes, sir.</text>
+		<text bitflag="1345" id1="694170" id2="17" version="1065353216">Coordinates are included at the end of the message. I'll prep my gear for search-and-rescue.</text>
+		<text bitflag="1345" id1="694172" id2="17" version="1065353216">Time is critical. Please inform me as soon as I'm cleared to set out.</text>
+		<text bitflag="1345" id1="694176" id2="17" version="1065353216">If I may say so, sir, you've had quite an impressive career. You're the commander of the most elite squad in the entire Republic--you must be quite proud.</text>
+		<text bitflag="1345" id1="694177" id2="17" version="1065353216">Serving in Havoc Squad has been the greatest honor of my career.</text>
+		<text bitflag="1360" id1="694177" id2="17" version="1065353216">Yes, I'm very proud.</text>
+		<text bitflag="1345" id1="694178" id2="17" version="1065353216">I just go where they tell me and do my job. Nothing more.</text>
+		<text bitflag="1360" id1="694178" id2="17" version="1065353216">Just another assignment.</text>
+		<text bitflag="1345" id1="694179" id2="17" version="1065353216">Clearly you do more than that, or you wouldn't have such an exceptional service record.</text>
+		<text bitflag="1345" id1="694181" id2="17" version="1065353216">I want to command thousands of men, not just one squad.</text>
+		<text bitflag="1360" id1="694181" id2="17" version="1065353216">I'd prefer a higher position.</text>
+		<text bitflag="1345" id1="694182" id2="17" version="1065353216">I should think serving as commander of Havoc Squad would allow you first choice of many command positions in the long run.</text>
+		<text bitflag="1345" id1="694184" id2="17" version="1065353216">I remember when I first enlisted and qualified for medical specialization. My brother Aleksei completed his technical specialization on the same day.</text>
+		<text bitflag="1345" id1="694186" id2="17" version="1065353216">We were both proud to finally serve in the Imperial military. My brother advanced quickly, but I became disillusioned as time went on.</text>
+		<text bitflag="1345" id1="694187" id2="17" version="1065353216">Why did you become disillusioned?</text>
+		<text bitflag="1360" id1="694187" id2="17" version="1065353216">What changed your mind?</text>
+		<text bitflag="1345" id1="694188" id2="17" version="1065353216">Is Aleksei still in the Imperial military?</text>
+		<text bitflag="1360" id1="694188" id2="17" version="1065353216">Is your brother still serving?</text>
+		<text bitflag="1345" id1="694189" id2="17" version="1065353216">As far as I know, yes. I wish he'd seen things as I did.</text>
+		<text bitflag="1345" id1="694191" id2="17" version="1065353216">I don't see how anyone could serve the Empire for long.</text>
+		<text bitflag="1360" id1="694191" id2="17" version="1065353216">You'd be a fool not to.</text>
+		<text bitflag="1345" id1="694192" id2="17" version="1065353216">Cultural indoctrination is a powerful force.</text>
+		<text bitflag="1345" id1="694194" id2="17" version="1065353216">The Imperial military was supposed to stand for honor and discipline. But my superiors discarded those concepts any time a Sith asked it.</text>
+		<text bitflag="1345" id1="694196" id2="17" version="1065353216">I'd always been taught that the Jedi and the Republic were genocidal hypocrites. But the only brutalities I witnessed were committed by my own comrades.</text>
+		<text bitflag="1345" id1="694197" id2="17" version="1065353216">Did you try to change things? Or did you defect right away?</text>
+		<text bitflag="1360" id1="694197" id2="17" version="1065353216">What did you do?</text>
+		<text bitflag="1345" id1="694198" id2="17" version="1065353216">I'm sure it wasn't easy to learn the truth like that.</text>
+		<text bitflag="1360" id1="694198" id2="17" version="1065353216">A harsh realization.</text>
+		<text bitflag="1345" id1="694199" id2="17" version="1065353216">I have always preferred difficult truths to easy lies.</text>
+		<text bitflag="1345" id1="694201" id2="17" version="1065353216">How can anyone believe such obvious lies?</text>
+		<text bitflag="1360" id1="694201" id2="17" version="1065353216">&quot;Genocidal hypocrites&quot;!</text>
+		<text bitflag="1345" id1="694202" id2="17" version="1065353216">Given the right point of view, anything can be rationalized. I'm just glad I could see things for how they really were.</text>
+		<text bitflag="1345" id1="694204" id2="17" version="1065353216">I raised my concerns with my superiors, but they only questioned my resolve.</text>
+		<text bitflag="1345" id1="694206" id2="17" version="1065353216">Soon I would've been forced to prove my loyalty by carrying out orders directly against my conscience. I chose to defect instead.</text>
+		<text bitflag="1345" id1="694207" id2="17" version="1065353216">I'd say you made the right move, Dorne.</text>
+		<text bitflag="1360" id1="694207" id2="17" version="1065353216">Sounds wise.</text>
+		<text bitflag="1345" id1="694208" id2="17" version="1065353216">Once I'd made the decision, I slipped away during my squad's next night patrol. I was gone before anyone realized it.</text>
+		<text bitflag="1345" id1="694210" id2="17" version="1065353216">Did you have any trouble getting away from the rest of your unit?</text>
+		<text bitflag="1360" id1="694210" id2="17" version="1065353216">Was it hard to escape?</text>
+		<text bitflag="1345" id1="694211" id2="17" version="1065353216">I had noted numerous inefficiencies in our assigned patrol routes--I simply took advantage of one of them to escape.</text>
+		<text bitflag="1345" id1="694213" id2="17" version="1065353216">I hope you took out some other Imps in the process.</text>
+		<text bitflag="1360" id1="694213" id2="17" version="1065353216">Did you sabotage anything?</text>
+		<text bitflag="1345" id1="694214" id2="17" version="1065353216">I thought it best to simply slip away unnoticed during a night patrol.</text>
+		<text bitflag="1345" id1="694216" id2="17" version="1065353216">I surrendered to the first Republic patrol I came across and declared my intention to defect. That was over three years ago.</text>
+		<text bitflag="1345" id1="694218" id2="17" version="1065353216">It's strange to realize how long it's been. The Republic truly feels like my home now.</text>
+		<text bitflag="1345" id1="694224" id2="17" version="1065353216">Sir? I wondered if I might ask a personal question--about the former Havoc Squad members' defection.</text>
+		<text bitflag="1345" id1="694226" id2="17" version="1065353216">What was it like to have your commander and comrades join the enemy? How did you feel?</text>
+		<text bitflag="1345" id1="694227" id2="17" version="1065353216">I was shocked--I never saw it coming.</text>
+		<text bitflag="1360" id1="694227" id2="17" version="1065353216">Surprised.</text>
+		<text bitflag="1345" id1="694228" id2="17" version="1065353216">Tavus and the others must have been hiding their plans very carefully.</text>
+		<text bitflag="1345" id1="694230" id2="17" version="1065353216">It was hard to see such great soldiers throwing away everything they'd fought for.</text>
+		<text bitflag="1360" id1="694230" id2="17" version="1065353216">Sad.</text>
+		<text bitflag="1345" id1="694231" id2="17" version="1065353216">I can only imagine what it must've been like.</text>
+		<text bitflag="1345" id1="694233" id2="17" version="1065353216">I would've torn them apart with my bare hands if I could have.</text>
+		<text bitflag="1360" id1="694233" id2="17" version="1065353216">Furious.</text>
+		<text bitflag="1345" id1="694234" id2="17" version="1065353216">An understandable reaction.</text>
+		<text bitflag="1345" id1="694236" id2="17" version="1065353216">I've always wondered how my family took the news of my defection. It must've been difficult for them to understand.</text>
+		<text bitflag="1345" id1="694237" id2="17" version="1065353216">Your family is still in the Empire?</text>
+		<text bitflag="1360" id1="694237" id2="17" version="1065353216">They didn't come with you?</text>
+		<text bitflag="1345" id1="694238" id2="17" version="1065353216">Oh, yes. The Dornes are very proud of their history within the Empire.</text>
+		<text bitflag="1345" id1="694240" id2="17" version="1065353216">What was your family like?</text>
+		<text bitflag="1360" id1="694240" id2="17" version="1065353216">Tell me about them.</text>
+		<text bitflag="1345" id1="694241" id2="17" version="1065353216">Austere. Proud. Warm, as well, at least in private.</text>
+		<text bitflag="1345" id1="694243" id2="17" version="1065353216">That part of your life is over. Focus on the present.</text>
+		<text bitflag="1360" id1="694243" id2="17" version="1065353216">Put that behind you.</text>
+		<text bitflag="1345" id1="694244" id2="17" version="1065353216">That's easier said than done.</text>
+		<text bitflag="1345" id1="694246" id2="17" version="1065353216">Members of the Dorne family have served with distinction in the Imperial military for generations. It's an important family tradition.</text>
+		<text bitflag="1345" id1="694248" id2="17" version="1065353216">It isn't easy to reach prominence in the Empire with no aptitude for the Force, but my family did it. I hope they're all still well.</text>
+		<text bitflag="1345" id1="694249" id2="17" version="1065353216">It can't be easy to fight against your family's side.</text>
+		<text bitflag="1360" id1="694249" id2="17" version="1065353216">It must be hard on you.</text>
+		<text bitflag="1345" id1="694250" id2="17" version="1065353216">It is a consequence I accepted when I chose to defect. I don't give it a second thought.</text>
+		<text bitflag="1345" id1="694251" id2="17" version="1065353216">Your family got by before you came along. They'll be alright.</text>
+		<text bitflag="1360" id1="694251" id2="17" version="1065353216">I'm sure they're fine.</text>
+		<text bitflag="1345" id1="694252" id2="17" version="1065353216">You're probably right, sir.</text>
+		<text bitflag="1345" id1="694253" id2="17" version="1065353216">You betrayed the Empire. Your family probably paid the consequences for it.</text>
+		<text bitflag="1360" id1="694253" id2="17" version="1065353216">They're probably dead.</text>
+		<text bitflag="1345" id1="694254" id2="17" version="1065353216">I'm sure they suffer under surveillance now, just as I do. But I doubt anyone was executed.</text>
+		<text bitflag="1345" id1="694256" id2="17" version="1065353216">The Empire may be a harsh place, but it's rarely as irrational as you assume.</text>
+		<text bitflag="1345" id1="694262" id2="17" version="1065353216">Sir. I... feel I owe you an apology. After we spoke with Captain Kalor, I was unnecessarily curt with you.</text>
+		<text bitflag="1345" id1="694264" id2="17" version="1065353216">You've been very supportive. That hasn't always been the case with Republic personnel I've dealt with since defecting.</text>
+		<text bitflag="1345" id1="694265" id2="17" version="1065353216">I wouldn't be much of a CO if I didn't watch out for my people.</text>
+		<text bitflag="1360" id1="694265" id2="17" version="1065353216">You're part of my team.</text>
+		<text bitflag="1345" id1="694266" id2="17" version="1065353216">It's greatly appreciated, sir.</text>
+		<text bitflag="1345" id1="694268" id2="17" version="1065353216">It must be hard to work with people who don't trust you.</text>
+		<text bitflag="1360" id1="694268" id2="17" version="1065353216">I'm sorry it's been so tough.</text>
+		<text bitflag="1345" id1="694269" id2="17" version="1065353216">I expected some degree of reservation, but nothing like what I've actually encountered.</text>
+		<text bitflag="1345" id1="694271" id2="17" version="1065353216">People have a hard time forgetting what the Empire has done to us.</text>
+		<text bitflag="1360" id1="694271" id2="17" version="1065353216">Surely you aren't surprised.</text>
+		<text bitflag="1345" id1="694272" id2="17" version="1065353216">I wouldn't expect anyone to forget. But I didn't do any of those things.</text>
+		<text bitflag="1345" id1="694274" id2="17" version="1065353216">People distrust me as soon as I speak. They only hear my accent.</text>
+		<text bitflag="1345" id1="694276" id2="17" version="1065353216">Even when I'm not a potential spy, I'm a resource. Endless questions about Imperial culture, personnel, military procedures... it's exhausting.</text>
+		<text bitflag="1345" id1="694277" id2="17" version="1065353216">You're a good soldier, Dorne. Don't worry about what other people expect.</text>
+		<text bitflag="1360" id1="694277" id2="17" version="1065353216">Don't let it get you down.</text>
+		<text bitflag="1345" id1="694278" id2="17" version="1065353216">Thank you, sir. I really don't complain by nature.</text>
+		<text bitflag="1345" id1="694280" id2="17" version="1065353216">You could be locked up somewhere answering those questions.</text>
+		<text bitflag="1360" id1="694280" id2="17" version="1065353216">Could be worse.</text>
+		<text bitflag="1345" id1="694281" id2="17" version="1065353216">You're right, of course. I've been given a very great opportunity.</text>
+		<text bitflag="1345" id1="694283" id2="17" version="1065353216">Are you trying to say you regret switching sides?</text>
+		<text bitflag="1360" id1="694283" id2="17" version="1065353216">What are you trying to say?</text>
+		<text bitflag="1345" id1="694284" id2="17" version="1065353216">Of course not. I apologize--I shouldn't let such things frustrate me.</text>
+		<text bitflag="1345" id1="694286" id2="17" version="1065353216">Mistrust and inconvenience are a small price to pay for a clear conscience. I don't regret defecting to the Republic at all.</text>
+		<text bitflag="1345" id1="694288" id2="17" version="1065353216">Despite my past, I was allowed to join the military, earn commendations and serve in the Republic's most elite squad. I'm very fortunate.</text>
+		<text bitflag="1345" id1="694289" id2="17" version="1065353216">The Republic is lucky to have you.</text>
+		<text bitflag="1360" id1="694289" id2="17" version="1065353216">You've earned it all.</text>
+		<text bitflag="1345" id1="694290" id2="17" version="1065353216">Thank you. I'm very proud to be here.</text>
+		<text bitflag="1345" id1="694291" id2="17" version="1065353216">What led you to defect in the first place?</text>
+		<text bitflag="1360" id1="694291" id2="17" version="1065353216">Why did you change sides?</text>
+		<text bitflag="1345" id1="694292" id2="17" version="1065353216">We should talk about it later, sir. I've occupied enough of your time.</text>
+		<text bitflag="1345" id1="694293" id2="17" version="1065353216">If that's all, Dorne, I need to get back to work.</text>
+		<text bitflag="1360" id1="694293" id2="17" version="1065353216">Are we done here?</text>
+		<text bitflag="1345" id1="694294" id2="17" version="1065353216">Of course, sir. Thank you for your time.</text>
+		<text bitflag="1345" id1="694300" id2="17" version="1065353216">Excuse me, sir. May I have a moment of your time?</text>
+		<text bitflag="1345" id1="694301" id2="17" version="1065353216">What can I do for you, Dorne?</text>
+		<text bitflag="1360" id1="694301" id2="17" version="1065353216">Go ahead.</text>
+		<text bitflag="1345" id1="694302" id2="17" version="1065353216">I've always got time for you, Elara.</text>
+		<text bitflag="1360" id1="694302" id2="17" version="1065353216">[Flirt] Of course.</text>
+		<text bitflag="1345" id1="694303" id2="17" version="1065353216">Ahem. Thank you, sir.</text>
+		<text bitflag="1345" id1="694305" id2="17" version="1065353216">I've always got time, Elara. What do you need?</text>
+		<text bitflag="1360" id1="694305" id2="17" version="1065353216">Of course!</text>
+		<text bitflag="1345" id1="694306" id2="17" version="1065353216">Thrill me, Dorne. What do you want?</text>
+		<text bitflag="1360" id1="694306" id2="17" version="1065353216">This had better be important.</text>
+		<text bitflag="1345" id1="694307" id2="17" version="1065353216">As a condition of my service in the Republic military, Personnel Division requires that I report regularly on my activities.</text>
+		<text bitflag="1345" id1="694309" id2="17" version="1065353216">However, my Havoc Squad missions are classified and cannot be shared with Personnel Division. I'd like to ask if you would vouch for me when I report in.</text>
+		<text bitflag="1345" id1="694310" id2="17" version="1065353216">I'll be happy to help.</text>
+		<text bitflag="1360" id1="694310" id2="17" version="1065353216">I'd be glad to.</text>
+		<text bitflag="1345" id1="694311" id2="17" version="1065353216">Thank you very much, sir. We should use the ship's secure line.</text>
+		<text bitflag="1345" id1="694313" id2="17" version="1065353216">Haven't you proven your loyalty by now?</text>
+		<text bitflag="1360" id1="694313" id2="17" version="1065353216">Why the scrutiny?</text>
+		<text bitflag="1345" id1="694314" id2="17" version="1065353216">That is a matter for Personnel Division to decide. We should use the ship's secure holocomm.</text>
+		<text bitflag="1345" id1="694316" id2="17" version="1065353216">I don't have all day. Make it fast.</text>
+		<text bitflag="1360" id1="694316" id2="17" version="1065353216">Keep it quick.</text>
+		<text bitflag="1345" id1="694317" id2="17" version="1065353216">Yes, sir. We'll use the ship's secure holocommunicator.</text>
+		<text bitflag="1345" id1="694319" id2="17" version="1065353216">Captain Kalor? This is Elara Dorne, personnel number 22-795, reporting in per regulation 449.</text>
+		<text bitflag="1345" id1="694321" id2="17" version="1065353216">Please, Elara, you don't have to give me the full rundown every time. I know who you are. How are things?</text>
+		<text bitflag="1345" id1="694323" id2="17" version="1065353216">Well enough, sir. Allow me to introduce you to the commander of Havoc Squad--my new CO. Sir, this is Captain Kalor, Army Personnel Division.</text>
+		<text bitflag="1345" id1="694324" id2="17" version="1065353216">Good to meet you, Captain.</text>
+		<text bitflag="1360" id1="694324" id2="17" version="1065353216">Hello.</text>
+		<text bitflag="1345" id1="694325" id2="17" version="1065353216">The pleasure is mine. Meeting you is a real honor.</text>
+		<text bitflag="1345" id1="694327" id2="17" version="1065353216">I don't see that Dorne's loyalty needs to be proven further.</text>
+		<text bitflag="1360" id1="694327" id2="17" version="1065353216">Is this necessary, Captain?</text>
+		<text bitflag="1345" id1="694328" id2="17" version="1065353216">Oh, we're all very proud of Elara. This is just part of the process.</text>
+		<text bitflag="1345" id1="694330" id2="17" version="1065353216">I know this is all part of the job, Captain, but we have places to be.</text>
+		<text bitflag="1360" id1="694330" id2="17" version="1065353216">Let's get this over with.</text>
+		<text bitflag="1345" id1="694333" id2="17" version="1065353216">Tell me about being in the top squad in the Republic, Elara. You must be keeping very busy.</text>
+		<text bitflag="1345" id1="694335" id2="17" version="1065353216">I'm sorry, Captain, but you aren't authorized to know about Havoc Squad's activities. My CO will have to vouch for me from now on.</text>
+		<text bitflag="1345" id1="694337" id2="17" version="1065353216">What? Elara, I don't want to be a hard case, but rules are rules--this &quot;top secret&quot; junk won't fly.</text>
+		<text bitflag="1345" id1="694338" id2="17" version="1065353216">All Havoc Squad activities are highly classified, Captain. I'm sorry for any inconvenience.</text>
+		<text bitflag="1360" id1="694338" id2="17" version="1065353216">Elara is right.</text>
+		<text bitflag="1345" id1="694339" id2="17" version="1065353216">Heh. Inconvenience.</text>
+		<text bitflag="1345" id1="694341" id2="17" version="1065353216">This is how it is, Captain. You don't like it, talk to General Garza.</text>
+		<text bitflag="1360" id1="694341" id2="17" version="1065353216">Get over it.</text>
+		<text bitflag="1345" id1="694342" id2="17" version="1065353216">I might have to. This situation is not acceptable.</text>
+		<text bitflag="1345" id1="694344" id2="17" version="1065353216">Don't try to push us, desk jockey. It won't end well.</text>
+		<text bitflag="1360" id1="694344" id2="17" version="1065353216">You're out of line.</text>
+		<text bitflag="1345" id1="694345" id2="17" version="1065353216">Are you insane? You're actually threatening me?</text>
+		<text bitflag="1345" id1="694347" id2="17" version="1065353216">Just... just carry on, Elara. We'll talk about this after I've had a word with my superiors. Kalor out.</text>
+		<text bitflag="1345" id1="694349" id2="17" version="1065353216">Hm. I wasn't expecting him to react so strongly. Surely he didn't expect me to report on classified information?</text>
+		<text bitflag="1345" id1="694350" id2="17" version="1065353216">Protecting classified information is a top priority.</text>
+		<text bitflag="1360" id1="694350" id2="17" version="1065353216">You did the right thing.</text>
+		<text bitflag="1345" id1="694351" id2="17" version="1065353216">Yes, sir. I'm surprised the captain didn't agree.</text>
+		<text bitflag="1345" id1="694353" id2="17" version="1065353216">Do you think Kalor will actually get the clearance he needs?</text>
+		<text bitflag="1360" id1="694353" id2="17" version="1065353216">What happens now?</text>
+		<text bitflag="1345" id1="694354" id2="17" version="1065353216">I really don't know.</text>
+		<text bitflag="1345" id1="694356" id2="17" version="1065353216">You can't expect much out of a soldier who doesn't even fight.</text>
+		<text bitflag="1360" id1="694356" id2="17" version="1065353216">Kalor is a waste of space.</text>
+		<text bitflag="1345" id1="694357" id2="17" version="1065353216">I have to disagree. Wars are won as much through organization as combat success, and specialists are needed for both.</text>
+		<text bitflag="1345" id1="694359" id2="17" version="1065353216">If you'll excuse me, sir, I have several matters to attend to. Thank you for your time.</text>
+		<text bitflag="1345" id1="694363" id2="17" version="1065353216">Sir? I'd appreciate it if we could speak privately, perhaps the next time we return to the ship.</text>
+		<text bitflag="1345" id1="694365" id2="17" version="1065353216">Sir? I'd appreciate it if I could have a word with you at our next opportunity.</text>
+		<text bitflag="1345" id1="694367" id2="17" version="1065353216">Sir.</text>
+		<text bitflag="1345" id1="694368" id2="17" version="1065353216">I'd rather not talk right now, sir.</text>
+		<text bitflag="1345" id1="761777" id2="17" version="1065353216">I'll try to keep this short.</text>
+		<text bitflag="1345" id1="988631" id2="17" version="1065353216">I'll follow your lead whenever you're ready.</text>
+		<text bitflag="1345" id1="988632" id2="17" version="1065353216">We can discuss non-mission-critical issues later.</text>
+		<text bitflag="1345" id1="988633" id2="17" version="1065353216">Let's move on, shall we?</text>
+		<text bitflag="1345" id1="988634" id2="17" version="1065353216">Good day to you.</text>
+		<text bitflag="1345" id1="988635" id2="17" version="1065353216">I'm with you, sir.</text>
+		<text bitflag="1345" id1="988636" id2="17" version="1065353216">That's easier said than done.</text>
+		<text bitflag="1345" id1="988638" id2="17" version="1065353216">First-hand experience is always the best.</text>
+		<text bitflag="1345" id1="988639" id2="17" version="1065353216">Certainly.</text>
+		<text bitflag="1345" id1="988640" id2="17" version="1065353216">Hmm. If you wish, sir.</text>
+		<text bitflag="1345" id1="988641" id2="17" version="1065353216">Yes, sir. I'll do everything I can.</text>
+		<text bitflag="1345" id1="988642" id2="17" version="1065353216">Agreed.</text>
+		<text bitflag="1345" id1="988643" id2="17" version="1065353216">I'm on it, sir.</text>
+	</file_content>
+</stb_file>

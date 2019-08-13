@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/korriban/world/lost_supplies/sentry_tavon.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="658184" id2="17" version="1065353216">Sergeant Garus--turns out the rumors were true. Some of the sentries we lost down here aren't dead... they lost their minds, just like the acolytes.</text>
+		<text bitflag="1345" id1="658186" id2="17" version="1065353216">Doesn't mean we're gonna have any easier a time getting the research supplies back, though. The crates are secured with multilocks.</text>
+		<text bitflag="1345" id1="658188" id2="17" version="1065353216">If we're going to open these things without frying the contents, we'll need to get all the sentries' code cylinders back.</text>
+		<text bitflag="1345" id1="658190" id2="17" version="1065353216">I don't think negotiation is an option. The men aren't keen to take down their old comrades, but we'll do what we can.</text>
+		<text bitflag="1345" id1="658192" id2="17" version="1065353216">Once we have the code cylinders, we'll crack open the supply crates and get back. Tavon out.</text>
+	</file_content>
+</stb_file>

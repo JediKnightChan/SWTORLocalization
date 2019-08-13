@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>47</strs>
+		<file_name>/resources/en-us/str/gui/wholist.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194679" version="1065353216">View Overhead Chat</text>
+		<text bitflag="321" id1="2" id2="194679" version="1065353216">Allow display of chat messages over characters</text>
+		<text bitflag="321" id1="3" id2="194679" version="1065353216">WHO</text>
+		<text bitflag="321" id1="4" id2="194679" version="1065353216">FRIENDS</text>
+		<text bitflag="321" id1="5" id2="194679" version="1065353216">IGNORE</text>
+		<text bitflag="321" id1="6" id2="194679" version="1065353216">Looking for a group?</text>
+		<text bitflag="321" id1="7" id2="194679" version="1065353216">Search Terms:</text>
+		<text bitflag="321" id1="8" id2="194679" version="1065353216">SET COMMENT</text>
+		<text bitflag="321" id1="9" id2="194679" version="1065353216">ADD</text>
+		<text bitflag="321" id1="10" id2="194679" version="1065353216">REMOVE</text>
+		<text bitflag="321" id1="12" id2="194679" version="1065353216">Modifying &lt;&lt;1&gt;&gt;'s Friend Comment</text>
+		<text bitflag="321" id1="13" id2="194679" version="1065353216">Modifying &lt;&lt;1&gt;&gt;'s Ignore Comment</text>
+		<text bitflag="321" id1="14" id2="194679" version="1065353216">Set personal comment</text>
+		<text bitflag="321" id1="15" id2="194679" version="1065353216">UPDATE COMMENT</text>
+		<text bitflag="321" id1="16" id2="194679" version="1065353216">Showing &lt;&lt;1&gt;&gt; result</text>
+		<text bitflag="321" id1="17" id2="194679" version="1065353216">Showing first &lt;&lt;1&gt;&gt; results</text>
+		<text bitflag="321" id1="19" id2="194679" version="1065353216">Name</text>
+		<text bitflag="321" id1="20" id2="194679" version="1065353216">Class</text>
+		<text bitflag="321" id1="21" id2="194679" version="1065353216">Level</text>
+		<text bitflag="321" id1="22" id2="194679" version="1065353216">Guild</text>
+		<text bitflag="321" id1="23" id2="194679" version="1065353216">Planet (Instance)</text>
+		<text bitflag="321" id1="24" id2="194679" version="1065353216">Chat Zone</text>
+		<text bitflag="321" id1="26" id2="194679" version="1065353216">Comment</text>
+		<text bitflag="321" id1="27" id2="194679" version="1065353216">Refreshing...</text>
+		<text bitflag="321" id1="28" id2="194679" version="1065353216">Looking for group</text>
+		<text bitflag="321" id1="29" id2="194679" version="1065353216">Set selected friend's comments</text>
+		<text bitflag="321" id1="30" id2="194679" version="1065353216">Add friend</text>
+		<text bitflag="321" id1="31" id2="194679" version="1065353216">Remove selected friend</text>
+		<text bitflag="321" id1="32" id2="194679" version="1065353216">&lt;&lt;1&gt;&gt; Friend Online</text>
+		<text bitflag="321" id1="33" id2="194679" version="1065353216">Who Do You Wish To Friend?</text>
+		<text bitflag="321" id1="34" id2="194679" version="1065353216">Cancel</text>
+		<text bitflag="321" id1="35" id2="194679" version="1065353216">Set selected player's ignore comment</text>
+		<text bitflag="321" id1="36" id2="194679" version="1065353216">Add Ignore</text>
+		<text bitflag="321" id1="37" id2="194679" version="1065353216">Stop ignoring selected player</text>
+		<text bitflag="321" id1="38" id2="194679" version="1065353216">Who Do You Wish To Ignore?</text>
+		<text bitflag="321" id1="39" id2="194679" version="1065353216">&lt;&lt;1&gt;&gt; Friends Online</text>
+		<text bitflag="321" id1="40" id2="194679" version="1065353216">&quot;&lt;&lt;1&gt;&gt;&quot;</text>
+		<text bitflag="321" id1="41" id2="194679" version="1065353216">GUILD</text>
+		<text bitflag="321" id1="42" id2="194679" version="1065353216">&lt;&lt;1&gt;&gt;: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="43" id2="194679" version="1065353216">Show Offline Friends</text>
+		<text bitflag="321" id1="44" id2="194679" version="1065353216">You can search by name, guild, class, planet, advanced class, and level range.  You can search for multiple terms.</text>
+		<text bitflag="321" id1="260" id2="194679" version="1065353216">LFG</text>
+		<text bitflag="321" id1="261" id2="194679" version="1065353216">Set Comment</text>
+		<text bitflag="321" id1="262" id2="194679" version="1065353216">Enter a comment for this friend:</text>
+		<text bitflag="321" id1="263" id2="194679" version="1065353216">Comment</text>
+		<text bitflag="321" id1="264" id2="194679" version="1065353216">Become a Subscriber or Preferred Status Player to begin using the who list!</text>
+		<text bitflag="321" id1="265" id2="194679" version="1065353216">The Who List is only available to Subscribers and Preferred Status Players.</text>
+	</file_content>
+</stb_file>

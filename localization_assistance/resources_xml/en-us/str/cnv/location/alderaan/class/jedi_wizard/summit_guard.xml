@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>9</strs>
+		<file_name>/resources/en-us/str/cnv/location/alderaan/class/jedi_wizard/summit_guard.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="466254" id2="17" version="1065353216">We have orders from Master Sidonie not to let anyone else into the summit.</text>
+		<text bitflag="1345" id1="466255" id2="17" version="1065353216">I have Master Sidonie's permission.</text>
+		<text bitflag="1360" id1="466255" id2="17" version="1065353216">[Force Persuade] I'm allowed.</text>
+		<text bitflag="3393" id1="466256" id2="17" version="1065353216">Master Sidonie's permission. Oh yes, we're sorry. Of course. Go on.</text>
+		<text bitflag="1345" id1="466258" id2="17" version="1065353216">I'm House Teral's official delegate. I have authorization.</text>
+		<text bitflag="1360" id1="466258" id2="17" version="1065353216">This must be a mistake.</text>
+		<text bitflag="1345" id1="466259" id2="17" version="1065353216">If I can't go past you, I'll have to go through you.</text>
+		<text bitflag="1360" id1="466259" id2="17" version="1065353216">Don't make me kill you.</text>
+		<text bitflag="3393" id1="466260" id2="17" version="1065353216">We have our orders. No one can be allowed to threaten the peace.</text>
+	</file_content>
+</stb_file>

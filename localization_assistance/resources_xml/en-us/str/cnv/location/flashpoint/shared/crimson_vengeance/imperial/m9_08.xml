@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>15</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/crimson_vengeance/imperial/m9_08.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="513892" id2="17" version="1065353216">M9-08 = authorized for communication + data processing // M9-08 = on standby</text>
+		<text bitflag="3393" id1="513893" id2="17" version="1065353216">M9-08 = receiving narrowband transmission // Content = recorded message</text>
+		<text bitflag="1345" id1="513895" id2="17" version="1065353216">This is Darth Malgus to designated strike teams. We have an emergency situation.</text>
+		<text bitflag="1345" id1="513897" id2="17" version="1065353216">The Imperial dreadnaught Red Reaper and its master, Darth Ikoral, have been located in the Bormea Sector.</text>
+		<text bitflag="1345" id1="513899" id2="17" version="1065353216">By order of the Dark Council, Ikoral and his crew have been declared traitors and must be eliminated. We strike immediately; tell no one of this.</text>
+		<text bitflag="1345" id1="513900" id2="17" version="1065353216">What do you know about this Sith Lord? Why would he be declared a traitor?</text>
+		<text bitflag="1360" id1="513900" id2="17" version="1065353216">Tell me about Darth Ikoral.</text>
+		<text bitflag="3393" id1="513901" id2="17" version="1065353216">Darth Ikoral = recipient of the Emperor's Blessing + member of the Order of Ragnos // Declaration as traitor = unusual</text>
+		<text bitflag="3393" id1="513903" id2="17" version="1065353216">Darth Ikoral's last known appearance = seventy years ago</text>
+		<text bitflag="1345" id1="513905" id2="17" version="1065353216">A secret mission to kill a renegade Sith Lord, with no details and no explanation. It doesn't inspire trust.</text>
+		<text bitflag="1360" id1="513905" id2="17" version="1065353216">That's a suspicious message.</text>
+		<text bitflag="1360" id1="513906" id2="17" version="1065353216">Killing a Darth could be fun.</text>
+		<text bitflag="3393" id1="513907" id2="17" version="1065353216">Message headers = emphasize data secrecy</text>
+		<text bitflag="3393" id1="513909" id2="17" version="1065353216">Report to Vaiken Spacedock + contact Darth Malgus for briefing // M9-08 = deleting record of this interaction</text>
+		<text bitflag="3393" id1="513911" id2="17" version="1065353216">M9-08 = authorized for communication + data processing // M9-08 = on standby</text>
+	</file_content>
+</stb_file>

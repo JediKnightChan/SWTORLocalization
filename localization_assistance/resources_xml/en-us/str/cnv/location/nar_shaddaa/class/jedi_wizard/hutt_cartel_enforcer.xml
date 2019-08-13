@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>27</strs>
+		<file_name>/resources/en-us/str/cnv/location/nar_shaddaa/class/jedi_wizard/hutt_cartel_enforcer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="655413" id2="17" version="1065353216">Please, I have nothing but respect for the Hutt Cartel, but this is--</text>
+		<text bitflag="1345" id1="655415" id2="17" version="1065353216">They say a Jedi's behind this Guiding Hand. We've seen a Jedi coming out of these offices. Start talking, Cedrax.</text>
+		<text bitflag="1345" id1="655416" id2="17" version="1065353216">Perhaps I could be of some assistance?</text>
+		<text bitflag="1360" id1="655416" id2="17" version="1065353216">Try asking me instead.</text>
+		<text bitflag="1345" id1="655417" id2="17" version="1065353216">I'd like to know who's asking these questions.</text>
+		<text bitflag="1360" id1="655417" id2="17" version="1065353216">Who are you?</text>
+		<text bitflag="1345" id1="655418" id2="17" version="1065353216">I have business with the professor. You can talk to him another time.</text>
+		<text bitflag="1360" id1="655418" id2="17" version="1065353216">Come back later.</text>
+		<text bitflag="1345" id1="655419" id2="17" version="1065353216">I don't think so.</text>
+		<text bitflag="1345" id1="655421" id2="17" version="1065353216">I'm with the Hutt Cartel, investigating rumors that the Jedi run the Guiding Hand. Cedrax worked for them, and now here you are. I'll have to report this.</text>
+		<text bitflag="1345" id1="655422" id2="17" version="1065353216">I'm just a friend of Doctor Cedrax. As for this &quot;Guiding Hand,&quot; I assure you no Jedi are involved.</text>
+		<text bitflag="1360" id1="655422" id2="17" version="1065353216">There's nothing to report.</text>
+		<text bitflag="1345" id1="655423" id2="17" version="1065353216">Funny, because word is that a Jedi Master's behind it.</text>
+		<text bitflag="1360" id1="655424" id2="17" version="1065353216">Guiding Hand? Who?</text>
+		<text bitflag="1345" id1="655425" id2="17" version="1065353216">Really. You know nothing about a Jedi Master with a crusade against us.</text>
+		<text bitflag="1345" id1="655426" id2="17" version="1065353216">Do you have any proof of this &quot;Jedi Master&quot; apart from rumor?</text>
+		<text bitflag="1360" id1="655426" id2="17" version="1065353216">Is there evidence?</text>
+		<text bitflag="1345" id1="655427" id2="17" version="1065353216">Well, no, but my contacts are normally solid. Though the Hutts might be... upset if this is only a rumor.</text>
+		<text bitflag="1345" id1="655429" id2="17" version="1065353216">Maybe I'll run my info again. But I'm watching you. Both of you.</text>
+		<text bitflag="1345" id1="655431" id2="17" version="1065353216">The Jedi have nothing whatsoever to do with the Guiding Hand. Report that to your masters.</text>
+		<text bitflag="1360" id1="655431" id2="17" version="1065353216">[Force Persuade] No Jedi here.</text>
+		<text bitflag="1345" id1="655432" id2="17" version="1065353216">I--I guess the Jedi have nothing to do with the Guiding Hand. Sorry to have bothered you.</text>
+		<text bitflag="1345" id1="655434" id2="17" version="1065353216">I'm afraid I can't let you bring that information back to the Hutt Cartel.</text>
+		<text bitflag="1360" id1="655434" id2="17" version="1065353216">Should've listened. [Attack]</text>
+		<text bitflag="1345" id1="655435" id2="17" version="1065353216">Sorry. This must be kept secret no matter what the cost.</text>
+		<text bitflag="1360" id1="655435" id2="17" version="1065353216">I must silence you. [Attack]</text>
+		<text bitflag="1345" id1="655436" id2="17" version="1065353216">What? No! You can't do this!</text>
+	</file_content>
+</stb_file>

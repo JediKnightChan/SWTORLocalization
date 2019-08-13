@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>102</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/trooper/chapter_3/event_1/technician.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="511395" id2="17" version="1065353216">A--attention, prisoners! Republic soldiers have come to rescue you! All cells are being unlocked and opened... now.</text>
+		<text bitflag="1345" id1="511397" id2="17" version="1065353216">Please hurry to the aft hangar bay. A supply transport is available to carry you away from this place at last.</text>
+		<text bitflag="1345" id1="511399" id2="17" version="1065353216">Ahh! Don't shoot, don't shoot! I surrender!</text>
+		<text bitflag="1345" id1="511401" id2="17" version="1065353216">You--you're Republic, right? This is a jailbreak? Please--I'll do whatever you want. Just don't hurt me!</text>
+		<text bitflag="1345" id1="511402" id2="17" version="1065353216">Cooperate, and I'll get you out of here, too.</text>
+		<text bitflag="1360" id1="511402" id2="17" version="1065353216">I won't hurt you.</text>
+		<text bitflag="1345" id1="511403" id2="17" version="1065353216">Oh, thank you! Thank you so much!</text>
+		<text bitflag="1345" id1="511405" id2="17" version="1065353216">The Imperials left a slave in charge of their prison?</text>
+		<text bitflag="1360" id1="511405" id2="17" version="1065353216">You run this place?</text>
+		<text bitflag="1345" id1="511406" id2="17" version="1065353216">I am only trusted with limited functions. Most of the facility is automated.</text>
+		<text bitflag="1345" id1="511408" id2="17" version="1065353216">Follow my orders or I'll put you down--got it?</text>
+		<text bitflag="1360" id1="511408" id2="17" version="1065353216">One wrong move and you die!</text>
+		<text bitflag="1345" id1="511409" id2="17" version="1065353216">Yes! Yes, I understand!</text>
+		<text bitflag="1345" id1="511411" id2="17" version="1065353216">You want me to unlock the prisoner cells? I can do it, it will only take a mo--ahh! General Rakton!</text>
+		<text bitflag="1345" id1="511413" id2="17" version="1065353216">Impressive. Your time from learning about A-77 to storming its command deck was shorter than even my most aggressive estimates.</text>
+		<text bitflag="1345" id1="511414" id2="17" version="1065353216">Estimates? You knew we were coming?</text>
+		<text bitflag="1360" id1="511414" id2="17" version="1065353216">What are you talking about?</text>
+		<text bitflag="1345" id1="511415" id2="17" version="1065353216">Of course. My strategies leave no room for an error of this size. Your soldier's escape was no accident.</text>
+		<text bitflag="1345" id1="511417" id2="17" version="1065353216">Havoc is number one for a reason, Rakton.</text>
+		<text bitflag="1360" id1="511417" id2="17" version="1065353216">That's why we're the best.</text>
+		<text bitflag="1345" id1="511418" id2="17" version="1065353216">That will be coming to an end very soon.</text>
+		<text bitflag="1345" id1="511420" id2="17" version="1065353216">This op was suspicious from the beginning.</text>
+		<text bitflag="1360" id1="511420" id2="17" version="1065353216">I knew it was a trap!</text>
+		<text bitflag="1345" id1="511421" id2="17" version="1065353216">Yet you came anyway. The reward seemed to outweigh the risk.</text>
+		<text bitflag="1345" id1="511423" id2="17" version="1065353216">Using prisoners as bait? You're real scum, Rakton.</text>
+		<text bitflag="1360" id1="511423" id2="17" version="1065353216">A trap--I should've known.</text>
+		<text bitflag="1345" id1="511424" id2="17" version="1065353216">Morality is a matter for peacetime. It has no place in war.</text>
+		<text bitflag="1345" id1="511426" id2="17" version="1065353216">Imperial warships have maneuvered into position around A-77. The facility will be obliterated in a matter of minutes. Goodbye.</text>
+		<text bitflag="1345" id1="511428" id2="17" version="1065353216">The shields are already failing! I have to reroute power....</text>
+		<text bitflag="1345" id1="511430" id2="17" version="1065353216">You want to give me an update here, Major? It feels like someone's shooting at us.</text>
+		<text bitflag="1345" id1="511431" id2="17" version="1065353216">Imperial ships are firing on us. We're working on a way out.</text>
+		<text bitflag="1360" id1="511431" id2="17" version="1065353216">Everything is under control.</text>
+		<text bitflag="1345" id1="511432" id2="17" version="1065353216">The Imps are about to blow this whole place apart!</text>
+		<text bitflag="1360" id1="511432" id2="17" version="1065353216">We're in trouble.</text>
+		<text bitflag="1345" id1="511433" id2="17" version="1065353216">They're going to blow up their own prison? This is insane!</text>
+		<text bitflag="1345" id1="511435" id2="17" version="1065353216">Rakton's here with a fleet of ships! You've gotten us all killed!</text>
+		<text bitflag="1360" id1="511435" id2="17" version="1065353216">You walked me into a trap!</text>
+		<text bitflag="1345" id1="511436" id2="17" version="1065353216">What? No, no! We're too close! We're almost out of here!</text>
+		<text bitflag="1345" id1="511438" id2="17" version="1065353216">I can do it! I can keep the shields up! We can all make it out if I just vent the systems level.</text>
+		<text bitflag="1345" id1="511440" id2="17" version="1065353216">You can't vent the systems level--I'm on the systems level! There are droids everywhere, I'd never make it out--who is this moron?</text>
+		<text bitflag="1345" id1="511441" id2="17" version="1065353216">We'll find a way to get everyone out, don't worry.</text>
+		<text bitflag="1360" id1="511441" id2="17" version="1065353216">It'll be okay, Jaxo.</text>
+		<text bitflag="1345" id1="511442" id2="17" version="1065353216">Is there any other way to get the shields up?</text>
+		<text bitflag="1360" id1="511442" id2="17" version="1065353216">What are our options?</text>
+		<text bitflag="1345" id1="511443" id2="17" version="1065353216">There is no other way. Please forgive me, but we have no other alternative.</text>
+		<text bitflag="1345" id1="511445" id2="17" version="1065353216">I'm in charge of this op, Jaxo. And I'm discussing our options.</text>
+		<text bitflag="1360" id1="511445" id2="17" version="1065353216">Let's see some discipline!</text>
+		<text bitflag="1345" id1="511446" id2="17" version="1065353216">This is crazy. Forget the shields, let's just make a run for the hangar!</text>
+		<text bitflag="1345" id1="511448" id2="17" version="1065353216">Without shields, we could never get the cells open fast enough. All of the prisoners would die.</text>
+		<text bitflag="1345" id1="511450" id2="17" version="1065353216">You've got to get me out of here, Major. I can't die in this place. I can't.</text>
+		<text bitflag="1345" id1="511454" id2="17" version="1065353216">I know this is personal, sir, but... three hundred against one? There's only one right choice, here.</text>
+		<text bitflag="1345" id1="511456" id2="17" version="1065353216">This is never easy. But three hundred against one isn't a choice.</text>
+		<text bitflag="1345" id1="511458" id2="17" version="1065353216">We have no choice. We're clearly compelled to rescue the greatest number of prisoners possible.</text>
+		<text bitflag="1345" id1="511460" id2="17" version="1065353216">There's always a choice. Please--don't do this.</text>
+		<text bitflag="1345" id1="511461" id2="17" version="1065353216">If I may interject, the cost in equipment and training to replace a Special Forces operator exceeds that of the three hundred and fourteen other soldiers imprisoned here.</text>
+		<text bitflag="1345" id1="511463" id2="17" version="1065353216">You see? I'm... more valuable. Please, major.</text>
+		<text bitflag="1345" id1="511464" id2="17" version="1065353216">I don't want to die here either, boss. Make a choice so we can get a move on.</text>
+		<text bitflag="3393" id1="511466" id2="17" version="1065353216">When we enlist as soldiers, we give up our lives to preserve those of others. Our careers are merely journeys to reach that moment of sacrifice.</text>
+		<text bitflag="1345" id1="511468" id2="17" version="1065353216">You're insane. This is insane--you have to get me out of here!</text>
+		<text bitflag="1345" id1="511469" id2="17" version="1065353216">Please. Get me out of here. Take me home.</text>
+		<text bitflag="1345" id1="511470" id2="17" version="1065353216">I have to do what's best for the most people.</text>
+		<text bitflag="1360" id1="511470" id2="17" version="1065353216">The mission comes first.</text>
+		<text bitflag="1345" id1="511472" id2="17" version="1065353216">Forgive me, Jaxo. But this is my only option.</text>
+		<text bitflag="1360" id1="511472" id2="17" version="1065353216">I'm sorry, I can't save you.</text>
+		<text bitflag="1345" id1="511474" id2="17" version="1065353216">Vent the service level. Get the shields back up and the prison cells open ASAP.</text>
+		<text bitflag="1345" id1="511475" id2="17" version="1065353216">Yes, yes! Of course!</text>
+		<text bitflag="1345" id1="511477" id2="17" version="1065353216">But... no. It can't end like this. It can't--</text>
+		<text bitflag="1345" id1="511479" id2="17" version="1065353216">It... worked. Shields are back to ninety percent, but they will not last forever.</text>
+		<text bitflag="1345" id1="511481" id2="17" version="1065353216">You should return to your ship. I'll ensure the prisoners are freed and find their way to the transport.</text>
+		<text bitflag="1345" id1="511482" id2="17" version="1065353216">You've done a good job, here.</text>
+		<text bitflag="1360" id1="511482" id2="17" version="1065353216">Thank you.</text>
+		<text bitflag="1345" id1="511483" id2="17" version="1065353216">I should be thanking you. I never thought I'd leave this place alive.</text>
+		<text bitflag="1345" id1="511485" id2="17" version="1065353216">Don't hang around too long yourself.</text>
+		<text bitflag="1360" id1="511485" id2="17" version="1065353216">Make sure you get out, too.</text>
+		<text bitflag="1345" id1="511486" id2="17" version="1065353216">I will not. Thank you.</text>
+		<text bitflag="1345" id1="511488" id2="17" version="1065353216">Please go, now. We don't have much time.</text>
+		<text bitflag="1345" id1="511489" id2="17" version="1065353216">If any prisoners die, then you die too. Got it?</text>
+		<text bitflag="1360" id1="511489" id2="17" version="1065353216">You'd better get everyone out.</text>
+		<text bitflag="1345" id1="511490" id2="17" version="1065353216">Yes. I understand.</text>
+		<text bitflag="1345" id1="511492" id2="17" version="1065353216">I won't leave you here, Jaxo--I'm on my way!</text>
+		<text bitflag="1360" id1="511492" id2="17" version="1065353216">I'll save you Jaxo.</text>
+		<text bitflag="1345" id1="511494" id2="17" version="1065353216">You--run for the hangar bay and get on the old supply transport. After I rescue Jaxo, she'll fly you out.</text>
+		<text bitflag="1345" id1="511495" id2="17" version="1065353216">Yes, yes--whatever you say!</text>
+		<text bitflag="1345" id1="511497" id2="17" version="1065353216">You killed more than three hundred soldiers, just to save one. I hope you're happy.</text>
+		<text bitflag="1345" id1="511498" id2="17" version="1065353216">This is utterly unconscionable. Preferential treatment is bad enough, but you are costing more than three hundred men and women their lives!</text>
+		<text bitflag="1345" id1="511499" id2="17" version="1065353216">I will engage all speed subroutines at once, Major! Ready to move!</text>
+		<text bitflag="1345" id1="511500" id2="17" version="1065353216">Time's wasting--let's go!</text>
+		<text bitflag="3393" id1="511501" id2="17" version="1065353216">Yuun feels this was an unwise choice, Major. Unwise, and costly.</text>
+		<text bitflag="1345" id1="511502" id2="17" version="1065353216">I can't leave her behind. I just can't.</text>
+		<text bitflag="1360" id1="511502" id2="17" version="1065353216">I'm sorry.</text>
+		<text bitflag="1345" id1="511503" id2="17" version="1065353216">Unbelievable. Lead the way, then.</text>
+		<text bitflag="1345" id1="511504" id2="17" version="1065353216">I suggest you save your apologies for those soldiers' families. Let's go.</text>
+		<text bitflag="3393" id1="511505" id2="17" version="1065353216">Yuun is not the one who requires apologies. Let us go.</text>
+		<text bitflag="1345" id1="511506" id2="17" version="1065353216">Nobody's leaving alive if we don't move out right now.</text>
+		<text bitflag="1360" id1="511506" id2="17" version="1065353216">We don't have time to argue.</text>
+		<text bitflag="1345" id1="511507" id2="17" version="1065353216">Fine, we'll go. But this isn't over.</text>
+		<text bitflag="1345" id1="511508" id2="17" version="1065353216">Agreed. But escaping this prison and escaping the repercussions of your choices are not the same thing.</text>
+		<text bitflag="1345" id1="511509" id2="17" version="1065353216">I'm in charge of this squad--what I say goes.</text>
+		<text bitflag="1360" id1="511509" id2="17" version="1065353216">Who's the CO here?</text>
+		<text bitflag="1345" id1="511510" id2="17" version="1065353216">Yeah. No matter how out of line it is. Let's go.</text>
+		<text bitflag="1345" id1="511511" id2="17" version="1065353216">And what a fine leader you are. Let's move out.</text>
+		<text bitflag="3393" id1="511512" id2="17" version="1065353216">This is accurate. Let us go.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>74</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/cc/agent/temple.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="69511" id2="17" version="1065353216">Enemy spotted!</text>
+		<text bitflag="1345" id1="69513" id2="17" version="1065353216">Following your lead, sir.</text>
+		<text bitflag="1345" id1="69515" id2="17" version="1065353216">At your side. Shall we?</text>
+		<text bitflag="1345" id1="69517" id2="17" version="1065353216">Up for a challenge?</text>
+		<text bitflag="1345" id1="69519" id2="17" version="1065353216">Enemy engaged!</text>
+		<text bitflag="1345" id1="69521" id2="17" version="1065353216">Ready to fight.</text>
+		<text bitflag="1345" id1="69523" id2="17" version="1065353216">Defensive maneuvers!</text>
+		<text bitflag="1345" id1="69525" id2="17" version="1065353216">I think we've been noticed.</text>
+		<text bitflag="1345" id1="69527" id2="17" version="1065353216">Ready if you are.</text>
+		<text bitflag="1345" id1="69529" id2="17" version="1065353216">Weapons ready!</text>
+		<text bitflag="1345" id1="69533" id2="17" version="1065353216">Sir!</text>
+		<text bitflag="1345" id1="69535" id2="17" version="1065353216">Yes, sir.</text>
+		<text bitflag="1345" id1="69537" id2="17" version="1065353216">On it.</text>
+		<text bitflag="1345" id1="69539" id2="17" version="1065353216">Of course.</text>
+		<text bitflag="1345" id1="69541" id2="17" version="1065353216">Glad to help.</text>
+		<text bitflag="1345" id1="69545" id2="17" version="1065353216">Sorry.</text>
+		<text bitflag="1345" id1="69547" id2="17" version="1065353216">I can't.</text>
+		<text bitflag="1345" id1="69549" id2="17" version="1065353216">I have my limits.</text>
+		<text bitflag="1345" id1="69553" id2="17" version="1065353216">I'll go.</text>
+		<text bitflag="1345" id1="69555" id2="17" version="1065353216">Leaving, sir.</text>
+		<text bitflag="1345" id1="69557" id2="17" version="1065353216">Signing off.</text>
+		<text bitflag="1345" id1="69559" id2="17" version="1065353216">Think well of me.</text>
+		<text bitflag="1345" id1="69561" id2="17" version="1065353216">Be careful, sir.</text>
+		<text bitflag="1345" id1="69565" id2="17" version="1065353216">Hurting here, sir!</text>
+		<text bitflag="1345" id1="69567" id2="17" version="1065353216">Not feeling well.</text>
+		<text bitflag="1345" id1="69569" id2="17" version="1065353216">Need reinforcements!</text>
+		<text bitflag="1345" id1="69571" id2="17" version="1065353216">Support would be appreciated!</text>
+		<text bitflag="1345" id1="69573" id2="17" version="1065353216">I won't die on you, sir!</text>
+		<text bitflag="1345" id1="69577" id2="17" version="1065353216">Here, sir.</text>
+		<text bitflag="1345" id1="69579" id2="17" version="1065353216">Orders, sir?</text>
+		<text bitflag="1345" id1="69581" id2="17" version="1065353216">Good to be here.</text>
+		<text bitflag="1345" id1="69583" id2="17" version="1065353216">Reporting for duty.</text>
+		<text bitflag="1345" id1="69585" id2="17" version="1065353216">I hope I'm good company.</text>
+		<text bitflag="1345" id1="69589" id2="17" version="1065353216">Now!</text>
+		<text bitflag="1345" id1="69591" id2="17" version="1065353216">Get down!</text>
+		<text bitflag="1345" id1="69593" id2="17" version="1065353216">For the Empire!</text>
+		<text bitflag="1345" id1="69595" id2="17" version="1065353216">The power flows through me...</text>
+		<text bitflag="1345" id1="69597" id2="17" version="1065353216">I am strong.</text>
+		<text bitflag="1345" id1="69601" id2="17" version="1065353216">Come on.</text>
+		<text bitflag="1345" id1="69603" id2="17" version="1065353216">You'll be alright.</text>
+		<text bitflag="1345" id1="69605" id2="17" version="1065353216">You took a nasty fall.</text>
+		<text bitflag="1345" id1="69609" id2="17" version="1065353216">I'm fine.</text>
+		<text bitflag="1345" id1="69611" id2="17" version="1065353216">I owe you one.</text>
+		<text bitflag="1345" id1="69613" id2="17" version="1065353216">You saved my life.</text>
+		<text bitflag="1345" id1="69617" id2="17" version="1065353216">Understood, sir.</text>
+		<text bitflag="1345" id1="69619" id2="17" version="1065353216">I'll get right on it.</text>
+		<text bitflag="1345" id1="69621" id2="17" version="1065353216">I won't disappoint you.</text>
+		<text bitflag="1345" id1="69623" id2="17" version="1065353216">Let's see what I've learned.</text>
+		<text bitflag="1345" id1="69625" id2="17" version="1065353216">I'll do my duty, sir.</text>
+		<text bitflag="1345" id1="69629" id2="17" version="1065353216">I think I did rather well.</text>
+		<text bitflag="1345" id1="69631" id2="17" version="1065353216">Mission accomplished, sir.</text>
+		<text bitflag="1345" id1="69633" id2="17" version="1065353216">Well? What's next?</text>
+		<text bitflag="1345" id1="69635" id2="17" version="1065353216">I did what you asked.</text>
+		<text bitflag="1345" id1="69637" id2="17" version="1065353216">Apologies, sir--I did what I could.</text>
+		<text bitflag="1345" id1="69641" id2="17" version="1065353216">This is wonderful. Thank you.</text>
+		<text bitflag="1345" id1="501591" id2="17" version="1065353216">I'll have to get something for you.</text>
+		<text bitflag="1345" id1="501595" id2="17" version="1065353216">Thank you, sir.</text>
+		<text bitflag="1345" id1="501599" id2="17" version="1065353216">You're very kind.</text>
+		<text bitflag="1345" id1="501601" id2="17" version="1065353216">You are a puzzle. Leave it at that.</text>
+		<text bitflag="1345" id1="501605" id2="17" version="1065353216">Right behind you.</text>
+		<text bitflag="1345" id1="501608" id2="17" version="1065353216">You worried I'm going to wander off?</text>
+		<text bitflag="1345" id1="501612" id2="17" version="1065353216">Aren't you going to introduce me?</text>
+		<text bitflag="1345" id1="501614" id2="17" version="1065353216">That's a pleasant surprise.</text>
+		<text bitflag="1345" id1="501616" id2="17" version="1065353216">You look fantastic.</text>
+		<text bitflag="1345" id1="501618" id2="17" version="1065353216">It's a pity, what this job requires.</text>
+		<text bitflag="1345" id1="501620" id2="17" version="1065353216">Sometimes I admire you, sir.</text>
+		<text bitflag="1345" id1="501627" id2="17" version="1065353216">It'll do fine, sir.</text>
+		<text bitflag="1345" id1="501630" id2="17" version="1065353216">You won't take it away if I get attached, I hope?</text>
+		<text bitflag="1345" id1="501634" id2="17" version="1065353216">Sir, are you... jumping?</text>
+		<text bitflag="1345" id1="501637" id2="17" version="1065353216">Are you trying to break a record for the jumping? I'm sorry, I lost count.</text>
+		<text bitflag="1345" id1="501641" id2="17" version="1065353216">Our training continues.</text>
+		<text bitflag="1345" id1="501644" id2="17" version="1065353216">Call me cocky, but I think we're getting good at this.</text>
+		<text bitflag="1345" id1="501648" id2="17" version="1065353216">That was fantastic!</text>
+		<text bitflag="1345" id1="501651" id2="17" version="1065353216">Well--I think we both survived.</text>
+	</file_content>
+</stb_file>

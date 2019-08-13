@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>837</strs>
+		<file_name>/resources/en-us/str/gui/classnames.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194655" version="1065353216">Sith Warrior</text>
+		<text bitflag="321" id1="2" id2="194655" version="1065353216">Sith Inquisitor</text>
+		<text bitflag="321" id1="3" id2="194655" version="1065353216">Bounty Hunter</text>
+		<text bitflag="321" id1="4" id2="194655" version="1065353216">Imperial Agent</text>
+		<text bitflag="321" id1="5" id2="194655" version="1065353216">Jedi Knight</text>
+		<text bitflag="321" id1="6" id2="194655" version="1065353216">Jedi Consular</text>
+		<text bitflag="321" id1="7" id2="194655" version="1065353216">Smuggler</text>
+		<text bitflag="321" id1="8" id2="194655" version="1065353216">Trooper</text>
+		<text bitflag="321" id1="50" id2="194655" version="1065353216">*Unknown*</text>
+		<text bitflag="321" id1="51" id2="194655" version="1065353216">Companion</text>
+		<text bitflag="321" id1="52" id2="194655" version="1065353216">2V-R8</text>
+		<text bitflag="321" id1="53" id2="194655" version="1065353216">C2-N2</text>
+		<text bitflag="321" id1="54" id2="194655" version="1065353216">HK-51</text>
+		<text bitflag="321" id1="55" id2="194655" version="1065353216">Pet</text>
+		<text bitflag="321" id1="100" id2="194655" version="1065353216">Sith Marauder</text>
+		<text bitflag="321" id1="101" id2="194655" version="1065353216">Sith Juggernaut</text>
+		<text bitflag="321" id1="102" id2="194655" version="1065353216">Broonmark</text>
+		<text bitflag="321" id1="103" id2="194655" version="1065353216">Jaesa Willsaam</text>
+		<text bitflag="321" id1="104" id2="194655" version="1065353216">Pierce</text>
+		<text bitflag="321" id1="105" id2="194655" version="1065353216">Malavai Quinn</text>
+		<text bitflag="321" id1="106" id2="194655" version="1065353216">Vette</text>
+		<text bitflag="321" id1="200" id2="194655" version="1065353216">Sith Assassin</text>
+		<text bitflag="321" id1="201" id2="194655" version="1065353216">Sith Sorcerer</text>
+		<text bitflag="321" id1="202" id2="194655" version="1065353216">Andronikos Revel</text>
+		<text bitflag="321" id1="203" id2="194655" version="1065353216">Ashara Zavros</text>
+		<text bitflag="321" id1="204" id2="194655" version="1065353216">Dashade</text>
+		<text bitflag="321" id1="205" id2="194655" version="1065353216">Talos Drellik</text>
+		<text bitflag="321" id1="206" id2="194655" version="1065353216">Xalek</text>
+		<text bitflag="321" id1="300" id2="194655" version="1065353216">Mercenary</text>
+		<text bitflag="321" id1="301" id2="194655" version="1065353216">Powertech</text>
+		<text bitflag="321" id1="302" id2="194655" version="1065353216">Blizz</text>
+		<text bitflag="321" id1="303" id2="194655" version="1065353216">Gault</text>
+		<text bitflag="321" id1="304" id2="194655" version="1065353216">Mako</text>
+		<text bitflag="321" id1="305" id2="194655" version="1065353216">Skadge</text>
+		<text bitflag="321" id1="306" id2="194655" version="1065353216">Torian Cadera</text>
+		<text bitflag="321" id1="400" id2="194655" version="1065353216">Sniper</text>
+		<text bitflag="321" id1="401" id2="194655" version="1065353216">Operative</text>
+		<text bitflag="321" id1="402" id2="194655" version="1065353216">Doctor Lokin</text>
+		<text bitflag="321" id1="403" id2="194655" version="1065353216">Kaliyo</text>
+		<text bitflag="321" id1="404" id2="194655" version="1065353216">SCORPIO</text>
+		<text bitflag="321" id1="405" id2="194655" version="1065353216">Ensign Temple</text>
+		<text bitflag="321" id1="406" id2="194655" version="1065353216">Vector</text>
+		<text bitflag="321" id1="500" id2="194655" version="1065353216">Jedi Guardian</text>
+		<text bitflag="321" id1="501" id2="194655" version="1065353216">Jedi Sentinel</text>
+		<text bitflag="321" id1="502" id2="194655" version="1065353216">Doc</text>
+		<text bitflag="321" id1="503" id2="194655" version="1065353216">Kira Carsen</text>
+		<text bitflag="321" id1="504" id2="194655" version="1065353216">Sergeant Rusk</text>
+		<text bitflag="321" id1="505" id2="194655" version="1065353216">Lord Scourge</text>
+		<text bitflag="321" id1="506" id2="194655" version="1065353216">T7-01</text>
+		<text bitflag="321" id1="600" id2="194655" version="1065353216">Jedi Sage</text>
+		<text bitflag="321" id1="601" id2="194655" version="1065353216">Jedi Shadow</text>
+		<text bitflag="321" id1="602" id2="194655" version="1065353216">Lieutenant Iresso</text>
+		<text bitflag="321" id1="603" id2="194655" version="1065353216">Nadia Grell</text>
+		<text bitflag="321" id1="604" id2="194655" version="1065353216">Qyzen Fess</text>
+		<text bitflag="321" id1="605" id2="194655" version="1065353216">Tharan Cedrax</text>
+		<text bitflag="321" id1="606" id2="194655" version="1065353216">Zenith</text>
+		<text bitflag="321" id1="700" id2="194655" version="1065353216">Gunslinger</text>
+		<text bitflag="321" id1="701" id2="194655" version="1065353216">Scoundrel</text>
+		<text bitflag="321" id1="702" id2="194655" version="1065353216">Akaavi Spar</text>
+		<text bitflag="321" id1="703" id2="194655" version="1065353216">Bowdaar</text>
+		<text bitflag="321" id1="704" id2="194655" version="1065353216">Corso Riggs</text>
+		<text bitflag="321" id1="705" id2="194655" version="1065353216">Guss Tuno</text>
+		<text bitflag="321" id1="706" id2="194655" version="1065353216">Risha</text>
+		<text bitflag="321" id1="800" id2="194655" version="1065353216">Commando</text>
+		<text bitflag="321" id1="801" id2="194655" version="1065353216">Vanguard</text>
+		<text bitflag="321" id1="802" id2="194655" version="1065353216">Aric Jorgan</text>
+		<text bitflag="321" id1="803" id2="194655" version="1065353216">Elara Dorne</text>
+		<text bitflag="321" id1="804" id2="194655" version="1065353216">M1-4X</text>
+		<text bitflag="321" id1="805" id2="194655" version="1065353216">Tanno Vik</text>
+		<text bitflag="321" id1="806" id2="194655" version="1065353216">Yuun</text>
+		<text bitflag="321" id1="1000" id2="194655" version="1065353216">Melee</text>
+		<text bitflag="321" id1="1001" id2="194655" version="1065353216">Ranged</text>
+		<text bitflag="321" id1="1002" id2="194655" version="1065353216">Tank</text>
+		<text bitflag="321" id1="1003" id2="194655" version="1065353216">Boss</text>
+		<text bitflag="321" id1="1004" id2="194655" version="1065353216">Creature</text>
+		<text bitflag="321" id1="1005" id2="194655" version="1065353216">Droid</text>
+		<text bitflag="321" id1="1006" id2="194655" version="1065353216">Melee Droid</text>
+		<text bitflag="321" id1="1007" id2="194655" version="1065353216">Tank Droid</text>
+		<text bitflag="321" id1="1008" id2="194655" version="1065353216">Bloodfiend</text>
+		<text bitflag="321" id1="1009" id2="194655" version="1065353216">Nekghoul</text>
+		<text bitflag="321" id1="1010" id2="194655" version="1065353216">Rakghoul</text>
+		<text bitflag="321" id1="1011" id2="194655" version="1065353216">Carnivore</text>
+		<text bitflag="321" id1="1012" id2="194655" version="1065353216">Brute</text>
+		<text bitflag="321" id1="1013" id2="194655" version="1065353216">Shredder</text>
+		<text bitflag="321" id1="1014" id2="194655" version="1065353216">Headbutter</text>
+		<text bitflag="321" id1="1015" id2="194655" version="1065353216">Stinger</text>
+		<text bitflag="321" id1="1016" id2="194655" version="1065353216">Icebeast</text>
+		<text bitflag="321" id1="1017" id2="194655" version="1065353216">Infected Creature</text>
+		<text bitflag="321" id1="1018" id2="194655" version="1065353216">Rabid</text>
+		<text bitflag="321" id1="1019" id2="194655" version="1065353216">Ravenous</text>
+		<text bitflag="321" id1="1020" id2="194655" version="1065353216">Spineyback</text>
+		<text bitflag="321" id1="1021" id2="194655" version="1065353216">Burrower</text>
+		<text bitflag="321" id1="1022" id2="194655" version="1065353216">Swarmer</text>
+		<text bitflag="321" id1="1023" id2="194655" version="1065353216">Droid Engineer</text>
+		<text bitflag="321" id1="1024" id2="194655" version="1065353216">Surge Probe</text>
+		<text bitflag="321" id1="1025" id2="194655" version="1065353216">Heavy Shot Droid</text>
+		<text bitflag="321" id1="1026" id2="194655" version="1065353216">Conquest Droid</text>
+		<text bitflag="321" id1="1027" id2="194655" version="1065353216">Barrage Droid</text>
+		<text bitflag="321" id1="1028" id2="194655" version="1065353216">Shockbot</text>
+		<text bitflag="321" id1="1029" id2="194655" version="1065353216">BlastTech</text>
+		<text bitflag="321" id1="1030" id2="194655" version="1065353216">Electroprobe</text>
+		<text bitflag="321" id1="1031" id2="194655" version="1065353216">Repair Droid</text>
+		<text bitflag="321" id1="1032" id2="194655" version="1065353216">Droid Tender</text>
+		<text bitflag="321" id1="1033" id2="194655" version="1065353216">Watcher</text>
+		<text bitflag="321" id1="1034" id2="194655" version="1065353216">Walker</text>
+		<text bitflag="321" id1="1035" id2="194655" version="1065353216">Force Adept</text>
+		<text bitflag="321" id1="1036" id2="194655" version="1065353216">Mentalist</text>
+		<text bitflag="321" id1="1037" id2="194655" version="1065353216">Mystic</text>
+		<text bitflag="321" id1="1038" id2="194655" version="1065353216">Sage</text>
+		<text bitflag="321" id1="1039" id2="194655" version="1065353216">Oppressor</text>
+		<text bitflag="321" id1="1040" id2="194655" version="1065353216">Sorcerer</text>
+		<text bitflag="321" id1="1041" id2="194655" version="1065353216">Ascendant</text>
+		<text bitflag="321" id1="1042" id2="194655" version="1065353216">Assassin</text>
+		<text bitflag="321" id1="1043" id2="194655" version="1065353216">Duelist</text>
+		<text bitflag="321" id1="1044" id2="194655" version="1065353216">Berserker</text>
+		<text bitflag="321" id1="1045" id2="194655" version="1065353216">Skinner</text>
+		<text bitflag="321" id1="1046" id2="194655" version="1065353216">Champion</text>
+		<text bitflag="321" id1="1047" id2="194655" version="1065353216">Slasher</text>
+		<text bitflag="321" id1="1048" id2="194655" version="1065353216">Acolyte</text>
+		<text bitflag="321" id1="1049" id2="194655" version="1065353216">Warrior</text>
+		<text bitflag="321" id1="1050" id2="194655" version="1065353216">Fallen Jedi</text>
+		<text bitflag="321" id1="1051" id2="194655" version="1065353216">Inquisitor</text>
+		<text bitflag="321" id1="1052" id2="194655" version="1065353216">Dark Adept</text>
+		<text bitflag="321" id1="1053" id2="194655" version="1065353216">Warder</text>
+		<text bitflag="321" id1="1054" id2="194655" version="1065353216">Dark Commander</text>
+		<text bitflag="321" id1="1055" id2="194655" version="1065353216">Force Twister</text>
+		<text bitflag="321" id1="1056" id2="194655" version="1065353216">Mauler</text>
+		<text bitflag="321" id1="1057" id2="194655" version="1065353216">Electro Guard</text>
+		<text bitflag="321" id1="1058" id2="194655" version="1065353216">Executioner</text>
+		<text bitflag="321" id1="1059" id2="194655" version="1065353216">Crusher</text>
+		<text bitflag="321" id1="1060" id2="194655" version="1065353216">Firebug</text>
+		<text bitflag="321" id1="1061" id2="194655" version="1065353216">Flamethrower</text>
+		<text bitflag="321" id1="1062" id2="194655" version="1065353216">Switchblade</text>
+		<text bitflag="321" id1="1063" id2="194655" version="1065353216">Marauder</text>
+		<text bitflag="321" id1="1064" id2="194655" version="1065353216">Master Duelist</text>
+		<text bitflag="321" id1="1065" id2="194655" version="1065353216">Watchman</text>
+		<text bitflag="321" id1="1066" id2="194655" version="1065353216">Bouncer</text>
+		<text bitflag="321" id1="1067" id2="194655" version="1065353216">Brawler</text>
+		<text bitflag="321" id1="1068" id2="194655" version="1065353216">Seer</text>
+		<text bitflag="321" id1="1069" id2="194655" version="1065353216">Lifebinder</text>
+		<text bitflag="321" id1="1070" id2="194655" version="1065353216">Healer</text>
+		<text bitflag="321" id1="1071" id2="194655" version="1065353216">Dark Healer</text>
+		<text bitflag="321" id1="1072" id2="194655" version="1065353216">Medic</text>
+		<text bitflag="321" id1="1073" id2="194655" version="1065353216">Dark Initiate</text>
+		<text bitflag="321" id1="1074" id2="194655" version="1065353216">Light Warden</text>
+		<text bitflag="321" id1="1075" id2="194655" version="1065353216">Guardsman</text>
+		<text bitflag="321" id1="1076" id2="194655" version="1065353216">Breaker</text>
+		<text bitflag="321" id1="1077" id2="194655" version="1065353216">Warlord</text>
+		<text bitflag="321" id1="1078" id2="194655" version="1065353216">Bladesman</text>
+		<text bitflag="321" id1="1079" id2="194655" version="1065353216">Dark Warden</text>
+		<text bitflag="321" id1="1080" id2="194655" version="1065353216">Avenger</text>
+		<text bitflag="321" id1="1081" id2="194655" version="1065353216">Bulwark</text>
+		<text bitflag="321" id1="1082" id2="194655" version="1065353216">Protector</text>
+		<text bitflag="321" id1="1083" id2="194655" version="1065353216">Holo Slicer</text>
+		<text bitflag="321" id1="1084" id2="194655" version="1065353216">Heavy Brawler</text>
+		<text bitflag="321" id1="1085" id2="194655" version="1065353216">Interrogation Specialist</text>
+		<text bitflag="321" id1="1086" id2="194655" version="1065353216">Special Ops</text>
+		<text bitflag="321" id1="1087" id2="194655" version="1065353216">Master Marksman</text>
+		<text bitflag="321" id1="1088" id2="194655" version="1065353216">Mandalorian Commando</text>
+		<text bitflag="321" id1="1090" id2="194655" version="1065353216">Grappler</text>
+		<text bitflag="321" id1="1091" id2="194655" version="1065353216">Harbinger</text>
+		<text bitflag="321" id1="1092" id2="194655" version="1065353216">Gunslinger</text>
+		<text bitflag="321" id1="1093" id2="194655" version="1065353216">Burstfire</text>
+		<text bitflag="321" id1="1094" id2="194655" version="1065353216">Snap Shot</text>
+		<text bitflag="321" id1="1095" id2="194655" version="1065353216">Headhunter</text>
+		<text bitflag="321" id1="1096" id2="194655" version="1065353216">Pistoleer</text>
+		<text bitflag="321" id1="1097" id2="194655" version="1065353216">Scoundrel</text>
+		<text bitflag="321" id1="1098" id2="194655" version="1065353216">Jump Jet Recon</text>
+		<text bitflag="321" id1="1100" id2="194655" version="1065353216">Powershot</text>
+		<text bitflag="321" id1="1101" id2="194655" version="1065353216">Scattergunner</text>
+		<text bitflag="321" id1="1102" id2="194655" version="1065353216">Mercenary</text>
+		<text bitflag="321" id1="1103" id2="194655" version="1065353216">Mechanic</text>
+		<text bitflag="321" id1="1104" id2="194655" version="1065353216">Quickshot</text>
+		<text bitflag="321" id1="1105" id2="194655" version="1065353216">Commando</text>
+		<text bitflag="321" id1="1106" id2="194655" version="1065353216">Hunter</text>
+		<text bitflag="321" id1="1107" id2="194655" version="1065353216">Demo Trooper</text>
+		<text bitflag="321" id1="1108" id2="194655" version="1065353216">Heavy Shot</text>
+		<text bitflag="321" id1="1109" id2="194655" version="1065353216">Scout</text>
+		<text bitflag="321" id1="1110" id2="194655" version="1065353216">Spotter</text>
+		<text bitflag="321" id1="1111" id2="194655" version="1065353216">Sniper</text>
+		<text bitflag="321" id1="1112" id2="194655" version="1065353216">Agent</text>
+		<text bitflag="321" id1="1113" id2="194655" version="1065353216">Foot Soldier</text>
+		<text bitflag="321" id1="1114" id2="194655" version="1065353216">Operative</text>
+		<text bitflag="321" id1="1115" id2="194655" version="1065353216">Trapper</text>
+		<text bitflag="321" id1="1116" id2="194655" version="1065353216">Welder</text>
+		<text bitflag="321" id1="1117" id2="194655" version="1065353216">Slayer</text>
+		<text bitflag="321" id1="1118" id2="194655" version="1065353216">Bomber</text>
+		<text bitflag="321" id1="1119" id2="194655" version="1065353216">Droid Commander</text>
+		<text bitflag="321" id1="1120" id2="194655" version="1065353216">Electroshocker</text>
+		<text bitflag="321" id1="1121" id2="194655" version="1065353216">Electroblade</text>
+		<text bitflag="321" id1="1122" id2="194655" version="1065353216">Fire Bomber</text>
+		<text bitflag="321" id1="1123" id2="194655" version="1065353216">Arsonist</text>
+		<text bitflag="321" id1="1124" id2="194655" version="1065353216">Assault Tech</text>
+		<text bitflag="321" id1="1125" id2="194655" version="1065353216">Incinerator</text>
+		<text bitflag="321" id1="1126" id2="194655" version="1065353216">Droid Controller</text>
+		<text bitflag="321" id1="1127" id2="194655" version="1065353216">Stalker</text>
+		<text bitflag="321" id1="1128" id2="194655" version="1065353216">Missile Tech</text>
+		<text bitflag="321" id1="1129" id2="194655" version="1065353216">Railgunner</text>
+		<text bitflag="321" id1="1130" id2="194655" version="1065353216">Seeker</text>
+		<text bitflag="321" id1="1131" id2="194655" version="1065353216">Poison Blade</text>
+		<text bitflag="321" id1="1132" id2="194655" version="1065353216">Rifle Grenadier</text>
+		<text bitflag="321" id1="1133" id2="194655" version="1065353216">Gunner</text>
+		<text bitflag="321" id1="1134" id2="194655" version="1065353216">Assault Trooper</text>
+		<text bitflag="321" id1="1135" id2="194655" version="1065353216">Patriot</text>
+		<text bitflag="321" id1="1136" id2="194655" version="1065353216">Radioman</text>
+		<text bitflag="321" id1="1137" id2="194655" version="1065353216">Commander</text>
+		<text bitflag="321" id1="1138" id2="194655" version="1065353216">Tactician</text>
+		<text bitflag="321" id1="1139" id2="194655" version="1065353216">Droid Handler</text>
+		<text bitflag="321" id1="1140" id2="194655" version="1065353216">Doctor</text>
+		<text bitflag="321" id1="1141" id2="194655" version="1065353216">Repair Tech</text>
+		<text bitflag="321" id1="1142" id2="194655" version="1065353216">Supply Officer</text>
+		<text bitflag="321" id1="1143" id2="194655" version="1065353216">Heavy Pistoleer</text>
+		<text bitflag="321" id1="1144" id2="194655" version="1065353216">Grenadier</text>
+		<text bitflag="321" id1="1145" id2="194655" version="1065353216">Terrorist</text>
+		<text bitflag="321" id1="1146" id2="194655" version="1065353216">Shock Guard</text>
+		<text bitflag="321" id1="1147" id2="194655" version="1065353216">Interrogator</text>
+		<text bitflag="321" id1="1148" id2="194655" version="1065353216">Sharpshooter</text>
+		<text bitflag="321" id1="1149" id2="194655" version="1065353216">Pirate</text>
+		<text bitflag="321" id1="1150" id2="194655" version="1065353216">Scrapper</text>
+		<text bitflag="321" id1="1151" id2="194655" version="1065353216">Aegis</text>
+		<text bitflag="321" id1="1152" id2="194655" version="1065353216">Flameguard</text>
+		<text bitflag="321" id1="1153" id2="194655" version="1065353216">Holo Tech</text>
+		<text bitflag="321" id1="1154" id2="194655" version="1065353216">Jumptrooper</text>
+		<text bitflag="321" id1="1155" id2="194655" version="1065353216">Vanguard</text>
+		<text bitflag="321" id1="1156" id2="194655" version="1065353216">Cryo Trooper</text>
+		<text bitflag="321" id1="1157" id2="194655" version="1065353216">Heavy Gunner</text>
+		<text bitflag="321" id1="1158" id2="194655" version="1065353216">Shock Gunner</text>
+		<text bitflag="321" id1="1159" id2="194655" version="1065353216">Queen Mother</text>
+		<text bitflag="321" id1="1160" id2="194655" version="1065353216">Minion</text>
+		<text bitflag="321" id1="1161" id2="194655" version="1065353216">Force Resistant Creature</text>
+		<text bitflag="321" id1="1162" id2="194655" version="1065353216">Terentatek</text>
+		<text bitflag="321" id1="1163" id2="194655" version="1065353216">Force Adherent</text>
+		<text bitflag="321" id1="1164" id2="194655" version="1065353216">Force Sensitive</text>
+		<text bitflag="321" id1="1165" id2="194655" version="1065353216">Juggernaut</text>
+		<text bitflag="321" id1="1166" id2="194655" version="1065353216">Vengeance Juggernaut</text>
+		<text bitflag="321" id1="1167" id2="194655" version="1065353216">Twinblade</text>
+		<text bitflag="321" id1="1168" id2="194655" version="1065353216">Sunderer</text>
+		<text bitflag="321" id1="1169" id2="194655" version="1065353216">Reaver</text>
+		<text bitflag="321" id1="1170" id2="194655" version="1065353216">Prototype Turret</text>
+		<text bitflag="321" id1="1171" id2="194655" version="1065353216">Prototype Snow Turret</text>
+		<text bitflag="321" id1="1172" id2="194655" version="1065353216">Mounted Turret</text>
+		<text bitflag="321" id1="1173" id2="194655" version="1065353216">Snow Turret</text>
+		<text bitflag="321" id1="1174" id2="194655" version="1065353216">Mounted Turret</text>
+		<text bitflag="321" id1="1175" id2="194655" version="1065353216">Artificial Intelligence</text>
+		<text bitflag="321" id1="1176" id2="194655" version="1065353216">Component of Mentor</text>
+		<text bitflag="321" id1="1177" id2="194655" version="1065353216">Replicator Droid</text>
+		<text bitflag="321" id1="1178" id2="194655" version="1065353216">Kineticist</text>
+		<text bitflag="321" id1="1179" id2="194655" version="1065353216">Explorer</text>
+		<text bitflag="321" id1="1192" id2="194655" version="1065353216">Ancient Battle Droid</text>
+		<text bitflag="321" id1="1193" id2="194655" version="1065353216">Force Projection</text>
+		<text bitflag="321" id1="1194" id2="194655" version="1065353216">Rakata</text>
+		<text bitflag="321" id1="1195" id2="194655" version="1065353216">Cat</text>
+		<text bitflag="321" id1="1197" id2="194655" version="1065353216">Power Source</text>
+		<text bitflag="321" id1="1198" id2="194655" version="1065353216">Automated Turret</text>
+		<text bitflag="321" id1="1199" id2="194655" version="1065353216">Power Cell</text>
+		<text bitflag="321" id1="1201" id2="194655" version="1065353216">Mind Trap</text>
+		<text bitflag="321" id1="1202" id2="194655" version="1065353216">Elite Commando</text>
+		<text bitflag="321" id1="1203" id2="194655" version="1065353216">Prisoner</text>
+		<text bitflag="321" id1="1204" id2="194655" version="1065353216">Ancient Relic</text>
+		<text bitflag="321" id1="1205" id2="194655" version="1065353216">Ball Lightning</text>
+		<text bitflag="321" id1="1206" id2="194655" version="1065353216">Ancient Warlord</text>
+		<text bitflag="321" id1="1207" id2="194655" version="1065353216">Guardian</text>
+		<text bitflag="321" id1="1208" id2="194655" version="1065353216">Sentinel</text>
+		<text bitflag="321" id1="1209" id2="194655" version="1065353216">Elite Soldier</text>
+		<text bitflag="321" id1="1212" id2="194655" version="1065353216">Marksman</text>
+		<text bitflag="321" id1="1213" id2="194655" version="1065353216">Special Assault</text>
+		<text bitflag="321" id1="1214" id2="194655" version="1065353216">Leaper</text>
+		<text bitflag="321" id1="1219" id2="194655" version="1065353216">Sith Infiltration Support</text>
+		<text bitflag="321" id1="1220" id2="194655" version="1065353216">Alarm Droid</text>
+		<text bitflag="321" id1="1221" id2="194655" version="1065353216">Suppressive Assault</text>
+		<text bitflag="321" id1="1222" id2="194655" version="1065353216">Overseer</text>
+		<text bitflag="321" id1="1223" id2="194655" version="1065353216">Prospector</text>
+		<text bitflag="321" id1="1224" id2="194655" version="1065353216">Turbolaser</text>
+		<text bitflag="321" id1="1225" id2="194655" version="1065353216">Electrodroid</text>
+		<text bitflag="321" id1="1226" id2="194655" version="1065353216">Engineering Droid</text>
+		<text bitflag="321" id1="1227" id2="194655" version="1065353216">Vile Spitter</text>
+		<text bitflag="321" id1="1228" id2="194655" version="1065353216">Droid Mechanic</text>
+		<text bitflag="321" id1="1229" id2="194655" version="1065353216">Gamorrean Brawler</text>
+		<text bitflag="321" id1="1230" id2="194655" version="1065353216">Barrel</text>
+		<text bitflag="321" id1="1231" id2="194655" version="1065353216">Sith Juggernaut</text>
+		<text bitflag="321" id1="1232" id2="194655" version="1065353216">Living Flame</text>
+		<text bitflag="321" id1="1233" id2="194655" version="1065353216">Sith Marauder</text>
+		<text bitflag="321" id1="1234" id2="194655" version="1065353216">Guard</text>
+		<text bitflag="321" id1="1235" id2="194655" version="1065353216">Melee Specialist</text>
+		<text bitflag="321" id1="1236" id2="194655" version="1065353216">MagnaGuard</text>
+		<text bitflag="321" id1="1237" id2="194655" version="1065353216">Explosive Droid</text>
+		<text bitflag="321" id1="1238" id2="194655" version="1065353216">Infiltrator</text>
+		<text bitflag="321" id1="1239" id2="194655" version="1065353216">Triggerman</text>
+		<text bitflag="321" id1="1240" id2="194655" version="1065353216">Artillery Droid</text>
+		<text bitflag="321" id1="6230" id2="194655" version="1065353216">Jedi Recon Support</text>
+		<text bitflag="321" id1="6232" id2="194655" version="1065353216">Brainwasher</text>
+		<text bitflag="321" id1="6234" id2="194655" version="1065353216">Jedi Sentinel</text>
+		<text bitflag="321" id1="6235" id2="194655" version="1065353216">Trainee</text>
+		<text bitflag="321" id1="6236" id2="194655" version="1065353216">Oppression Droid</text>
+		<text bitflag="321" id1="6237" id2="194655" version="1065353216">Sith Beastmaster</text>
+		<text bitflag="321" id1="6238" id2="194655" version="1065353216">Anti-armor Sentry</text>
+		<text bitflag="321" id1="6239" id2="194655" version="1065353216">Staff Master</text>
+		<text bitflag="321" id1="6240" id2="194655" version="1065353216">Shield Guardian</text>
+		<text bitflag="321" id1="6241" id2="194655" version="1065353216">Tech Sniper</text>
+		<text bitflag="321" id1="6242" id2="194655" version="1065353216">Tech Enforcer</text>
+		<text bitflag="321" id1="6243" id2="194655" version="1065353216">Blood Medic</text>
+		<text bitflag="321" id1="6244" id2="194655" version="1065353216">Slicer</text>
+		<text bitflag="321" id1="6245" id2="194655" version="1065353216">Nemesis</text>
+		<text bitflag="321" id1="6246" id2="194655" version="1065353216">Trancer</text>
+		<text bitflag="321" id1="6247" id2="194655" version="1065353216">Blade Dancer</text>
+		<text bitflag="321" id1="6248" id2="194655" version="1065353216">Watcher</text>
+		<text bitflag="321" id1="6249" id2="194655" version="1065353216">Ionizer</text>
+		<text bitflag="321" id1="6250" id2="194655" version="1065353216">Beast Master</text>
+		<text bitflag="321" id1="6251" id2="194655" version="1065353216">Beast Slave</text>
+		<text bitflag="321" id1="6252" id2="194655" version="1065353216">Maniac</text>
+		<text bitflag="321" id1="6253" id2="194655" version="1065353216">Punk</text>
+		<text bitflag="321" id1="6254" id2="194655" version="1065353216">Gangster</text>
+		<text bitflag="321" id1="6255" id2="194655" version="1065353216">Underworld Dealer</text>
+		<text bitflag="321" id1="6256" id2="194655" version="1065353216">Gun Runner</text>
+		<text bitflag="321" id1="6257" id2="194655" version="1065353216">Morgukai Warrior</text>
+		<text bitflag="321" id1="6258" id2="194655" version="1065353216">Overlord</text>
+		<text bitflag="321" id1="6259" id2="194655" version="1065353216">Ionmech</text>
+		<text bitflag="321" id1="6260" id2="194655" version="1065353216">Field Cannoneer</text>
+		<text bitflag="321" id1="6262" id2="194655" version="1065353216">Welder</text>
+		<text bitflag="321" id1="6263" id2="194655" version="1065353216">Esh-kha Commander</text>
+		<text bitflag="321" id1="6264" id2="194655" version="1065353216">Toxin Probe</text>
+		<text bitflag="321" id1="6265" id2="194655" version="1065353216">Jedi Guardian</text>
+		<text bitflag="321" id1="6266" id2="194655" version="1065353216">Force Savant</text>
+		<text bitflag="321" id1="6268" id2="194655" version="1065353216">Biochemist</text>
+		<text bitflag="321" id1="6269" id2="194655" version="1065353216">Esh-kha Hunter</text>
+		<text bitflag="321" id1="6270" id2="194655" version="1065353216">Interrogation Droid</text>
+		<text bitflag="321" id1="6272" id2="194655" version="1065353216">Rist Missile Tech</text>
+		<text bitflag="321" id1="6275" id2="194655" version="1065353216">Alpha Fang</text>
+		<text bitflag="321" id1="6276" id2="194655" version="1065353216">Cryo Infused</text>
+		<text bitflag="321" id1="6277" id2="194655" version="1065353216">Putrid Lizard</text>
+		<text bitflag="321" id1="6278" id2="194655" version="1065353216">HK Assassin</text>
+		<text bitflag="321" id1="6279" id2="194655" version="1065353216">Pyromech</text>
+		<text bitflag="321" id1="6280" id2="194655" version="1065353216">Enforcer Droid</text>
+		<text bitflag="321" id1="6281" id2="194655" version="1065353216">Frontline Droid</text>
+		<text bitflag="321" id1="6283" id2="194655" version="1065353216">Support Droid</text>
+		<text bitflag="321" id1="6284" id2="194655" version="1065353216">Plasma Marksman</text>
+		<text bitflag="321" id1="6285" id2="194655" version="1065353216">Tech Beast</text>
+		<text bitflag="321" id1="6286" id2="194655" version="1065353216">Voss Force Adept</text>
+		<text bitflag="321" id1="6287" id2="194655" version="1065353216">Voss Mystic Warrior</text>
+		<text bitflag="321" id1="6288" id2="194655" version="1065353216">Dark Revenant</text>
+		<text bitflag="321" id1="6289" id2="194655" version="1065353216">Crazed Grenadier</text>
+		<text bitflag="321" id1="6290" id2="194655" version="1065353216">Crazed Charger</text>
+		<text bitflag="321" id1="6291" id2="194655" version="1065353216">Gladiator</text>
+		<text bitflag="321" id1="6293" id2="194655" version="1065353216">Fire Breather</text>
+		<text bitflag="321" id1="6294" id2="194655" version="1065353216">Flame Spitter</text>
+		<text bitflag="321" id1="6295" id2="194655" version="1065353216">Cyber Specialist</text>
+		<text bitflag="321" id1="6296" id2="194655" version="1065353216">Defender</text>
+		<text bitflag="321" id1="6297" id2="194655" version="1065353216">Cover Agent</text>
+		<text bitflag="321" id1="6298" id2="194655" version="1065353216">Tech Junkie</text>
+		<text bitflag="321" id1="6299" id2="194655" version="1065353216">Sith Ravager</text>
+		<text bitflag="321" id1="6300" id2="194655" version="1065353216">Regenerator</text>
+		<text bitflag="321" id1="6301" id2="194655" version="1065353216">Abomination</text>
+		<text bitflag="321" id1="6302" id2="194655" version="1065353216">Shocktrooper</text>
+		<text bitflag="321" id1="6303" id2="194655" version="1065353216">Deadeye Sniper</text>
+		<text bitflag="321" id1="6304" id2="194655" version="1065353216">Imperial Lieutenant</text>
+		<text bitflag="321" id1="6305" id2="194655" version="1065353216">Mandalorian Brawler</text>
+		<text bitflag="321" id1="6306" id2="194655" version="1065353216">Mandalorian Sniper</text>
+		<text bitflag="321" id1="6307" id2="194655" version="1065353216">Elder Tribesman</text>
+		<text bitflag="321" id1="6308" id2="194655" version="1065353216">Elder Shaclaw</text>
+		<text bitflag="321" id1="6309" id2="194655" version="1065353216">Mandalorian Mercenary</text>
+		<text bitflag="321" id1="6310" id2="194655" version="1065353216">Charged</text>
+		<text bitflag="321" id1="6311" id2="194655" version="1065353216">Quickshot</text>
+		<text bitflag="321" id1="6312" id2="194655" version="1065353216">Dark Controller</text>
+		<text bitflag="321" id1="6313" id2="194655" version="1065353216">Scavenger Droid</text>
+		<text bitflag="321" id1="6314" id2="194655" version="1065353216">Rogue Jedi</text>
+		<text bitflag="321" id1="6316" id2="194655" version="1065353216">Terrorist Rifleman</text>
+		<text bitflag="321" id1="6317" id2="194655" version="1065353216">Shadow Adept</text>
+		<text bitflag="321" id1="6318" id2="194655" version="1065353216">Trandoshan Commander</text>
+		<text bitflag="321" id1="6319" id2="194655" version="1065353216">Droid Prototype</text>
+		<text bitflag="321" id1="6320" id2="194655" version="1065353216">Guard Captain</text>
+		<text bitflag="321" id1="6321" id2="194655" version="1065353216">Apparition</text>
+		<text bitflag="321" id1="6322" id2="194655" version="1065353216">Phantasm</text>
+		<text bitflag="321" id1="6323" id2="194655" version="1065353216">Guardian Droid</text>
+		<text bitflag="321" id1="6324" id2="194655" version="1065353216">Assault Droid</text>
+		<text bitflag="321" id1="6326" id2="194655" version="1065353216">Dark Warrior</text>
+		<text bitflag="321" id1="6327" id2="194655" version="1065353216">Bowcaster Expert</text>
+		<text bitflag="321" id1="6328" id2="194655" version="1065353216">Jump Jet Assault</text>
+		<text bitflag="321" id1="6329" id2="194655" version="1065353216">Pistol Twin</text>
+		<text bitflag="321" id1="6330" id2="194655" version="1065353216">Tech Twin</text>
+		<text bitflag="321" id1="6332" id2="194655" version="1065353216">Sage</text>
+		<text bitflag="321" id1="6333" id2="194655" version="1065353216">Trueshot</text>
+		<text bitflag="321" id1="6334" id2="194655" version="1065353216">Shadow</text>
+		<text bitflag="321" id1="6335" id2="194655" version="1065353216">Solidifier</text>
+		<text bitflag="321" id1="6336" id2="194655" version="1065353216">Artillery Officer</text>
+		<text bitflag="321" id1="6337" id2="194655" version="1065353216">Voss Healer</text>
+		<text bitflag="321" id1="6338" id2="194655" version="1065353216">Imperial Guard</text>
+		<text bitflag="321" id1="6339" id2="194655" version="1065353216">Terrorist Commander</text>
+		<text bitflag="321" id1="6340" id2="194655" version="1065353216">Vigilant</text>
+		<text bitflag="321" id1="6341" id2="194655" version="1065353216">Hired Gun</text>
+		<text bitflag="321" id1="6342" id2="194655" version="1065353216">Jedi Protector</text>
+		<text bitflag="321" id1="6343" id2="194655" version="1065353216">Imperial Commander</text>
+		<text bitflag="321" id1="6344" id2="194655" version="1065353216">Toxic Infused</text>
+		<text bitflag="321" id1="6345" id2="194655" version="1065353216">Flame Infused</text>
+		<text bitflag="321" id1="6346" id2="194655" version="1065353216">Peacekeeper Droid</text>
+		<text bitflag="321" id1="6347" id2="194655" version="1065353216">Charger</text>
+		<text bitflag="321" id1="6348" id2="194655" version="1065353216">Enraged</text>
+		<text bitflag="321" id1="6349" id2="194655" version="1065353216">Immortal Juggernaut</text>
+		<text bitflag="321" id1="6350" id2="194655" version="1065353216">Field Medic</text>
+		<text bitflag="321" id1="6351" id2="194655" version="1065353216">Infected</text>
+		<text bitflag="321" id1="6352" id2="194655" version="1065353216">Berserk War Droid</text>
+		<text bitflag="321" id1="6364" id2="194655" version="1065353216">Giant Battle Droid</text>
+		<text bitflag="321" id1="6365" id2="194655" version="1065353216">Ancient Yozusk</text>
+		<text bitflag="321" id1="6366" id2="194655" version="1065353216">Primal Devourer</text>
+		<text bitflag="321" id1="6367" id2="194655" version="1065353216">Failed Experiment</text>
+		<text bitflag="321" id1="6368" id2="194655" version="1065353216">Ancient Bormu</text>
+		<text bitflag="321" id1="6369" id2="194655" version="1065353216">Ulgo War Titan</text>
+		<text bitflag="321" id1="6370" id2="194655" version="1065353216">Gonk</text>
+		<text bitflag="321" id1="6371" id2="194655" version="1065353216">Titan</text>
+		<text bitflag="321" id1="6372" id2="194655" version="1065353216">Massive Wraid</text>
+		<text bitflag="321" id1="6373" id2="194655" version="1065353216">Snow Giant</text>
+		<text bitflag="321" id1="6374" id2="194655" version="1065353216">Mutated Whitefang</text>
+		<text bitflag="321" id1="6375" id2="194655" version="1065353216">Tech Gladiator</text>
+		<text bitflag="321" id1="6376" id2="194655" version="1065353216">Dirty Brawler</text>
+		<text bitflag="321" id1="6377" id2="194655" version="1065353216">Guard Droid</text>
+		<text bitflag="321" id1="6378" id2="194655" version="1065353216">Sith Trooper</text>
+		<text bitflag="321" id1="6379" id2="194655" version="1065353216">Disruptor</text>
+		<text bitflag="321" id1="6380" id2="194655" version="1065353216">Cryogenic Specimen</text>
+		<text bitflag="321" id1="6381" id2="194655" version="1065353216">Tech Rifleman</text>
+		<text bitflag="321" id1="6382" id2="194655" version="1065353216">Explosive Droid</text>
+		<text bitflag="321" id1="6383" id2="194655" version="1065353216">Primeval Beast</text>
+		<text bitflag="321" id1="6384" id2="194655" version="1065353216">Wreckage Droid</text>
+		<text bitflag="321" id1="6385" id2="194655" version="1065353216">Icy Ravager</text>
+		<text bitflag="321" id1="6386" id2="194655" version="1065353216">Frenzied Lisk</text>
+		<text bitflag="321" id1="6387" id2="194655" version="1065353216">Rist Assassin</text>
+		<text bitflag="321" id1="6388" id2="194655" version="1065353216">Master Guardian</text>
+		<text bitflag="321" id1="6389" id2="194655" version="1065353216">XZ-BT</text>
+		<text bitflag="321" id1="6390" id2="194655" version="1065353216">Striker</text>
+		<text bitflag="321" id1="6391" id2="194655" version="1065353216">Dragoon</text>
+		<text bitflag="321" id1="6392" id2="194655" version="1065353216">Killik Master</text>
+		<text bitflag="321" id1="6393" id2="194655" version="1065353216">Killik Slave</text>
+		<text bitflag="321" id1="6394" id2="194655" version="1065353216">Security Probe</text>
+		<text bitflag="321" id1="6395" id2="194655" version="1065353216">Large Creature</text>
+		<text bitflag="321" id1="6396" id2="194655" version="1065353216">Irradiated</text>
+		<text bitflag="321" id1="6397" id2="194655" version="1065353216">Fanatic</text>
+		<text bitflag="321" id1="6398" id2="194655" version="1065353216">Toxic Drone</text>
+		<text bitflag="321" id1="6399" id2="194655" version="1065353216">Soldier</text>
+		<text bitflag="321" id1="6400" id2="194655" version="1065353216">Aggressor</text>
+		<text bitflag="321" id1="6401" id2="194655" version="1065353216">Durasteel Fist</text>
+		<text bitflag="321" id1="6402" id2="194655" version="1065353216">Pistoleer Commander</text>
+		<text bitflag="321" id1="6403" id2="194655" version="1065353216">Mercenary Commander</text>
+		<text bitflag="321" id1="6404" id2="194655" version="1065353216">Stealth Assassin</text>
+		<text bitflag="321" id1="6405" id2="194655" version="1065353216">Shadow Shot</text>
+		<text bitflag="321" id1="6406" id2="194655" version="1065353216">Escapist</text>
+		<text bitflag="321" id1="6407" id2="194655" version="1065353216">Shadow Tech</text>
+		<text bitflag="321" id1="6408" id2="194655" version="1065353216">Sith Adept</text>
+		<text bitflag="321" id1="6409" id2="194655" version="1065353216">Rocket Gunner</text>
+		<text bitflag="321" id1="6410" id2="194655" version="1065353216">The First Son</text>
+		<text bitflag="321" id1="6411" id2="194655" version="1065353216">Cyber Tech</text>
+		<text bitflag="321" id1="6412" id2="194655" version="1065353216">Competition Arbiter</text>
+		<text bitflag="321" id1="6413" id2="194655" version="1065353216">Judgment Droid</text>
+		<text bitflag="321" id1="6414" id2="194655" version="1065353216">Possessed Pistoleer</text>
+		<text bitflag="321" id1="6415" id2="194655" version="1065353216">Snow Cat</text>
+		<text bitflag="321" id1="6416" id2="194655" version="1065353216">Cyborg Warrior</text>
+		<text bitflag="321" id1="6417" id2="194655" version="1065353216">Cyborg Agent</text>
+		<text bitflag="321" id1="6418" id2="194655" version="1065353216">Jedi Seeker</text>
+		<text bitflag="321" id1="6419" id2="194655" version="1065353216">Chief of Defense</text>
+		<text bitflag="321" id1="6420" id2="194655" version="1065353216">Support Medic</text>
+		<text bitflag="321" id1="6421" id2="194655" version="1065353216">Training Dummy</text>
+		<text bitflag="321" id1="6422" id2="194655" version="1065353216">Colicoid Behemoth</text>
+		<text bitflag="321" id1="6423" id2="194655" version="1065353216">Trainer</text>
+		<text bitflag="321" id1="6424" id2="194655" version="1065353216">Vendor</text>
+		<text bitflag="321" id1="6425" id2="194655" version="1065353216">Drainer</text>
+		<text bitflag="321" id1="6426" id2="194655" version="1065353216">Grubling</text>
+		<text bitflag="321" id1="6427" id2="194655" version="1065353216">Gamorrean Captain</text>
+		<text bitflag="321" id1="6428" id2="194655" version="1065353216">Harvester Droid</text>
+		<text bitflag="321" id1="6429" id2="194655" version="1065353216">Colicoid</text>
+		<text bitflag="321" id1="6430" id2="194655" version="1065353216">Jarg's Probe Droid</text>
+		<text bitflag="321" id1="6431" id2="194655" version="1065353216">Droid Technician</text>
+		<text bitflag="321" id1="6432" id2="194655" version="1065353216">Droid Technician</text>
+		<text bitflag="321" id1="6433" id2="194655" version="1065353216">Alarm Droid</text>
+		<text bitflag="321" id1="6434" id2="194655" version="1065353216">Infected</text>
+		<text bitflag="321" id1="6435" id2="194655" version="1065353216">Cloaking Security Droid</text>
+		<text bitflag="321" id1="6436" id2="194655" version="1065353216">Security Battle Droid</text>
+		<text bitflag="321" id1="6437" id2="194655" version="1065353216">Ancient Duneclaw</text>
+		<text bitflag="321" id1="6438" id2="194655" version="1065353216">Kintan Mauler</text>
+		<text bitflag="321" id1="6439" id2="194655" version="1065353216">Kintan Handler</text>
+		<text bitflag="321" id1="6440" id2="194655" version="1065353216">Kintan Beast Master</text>
+		<text bitflag="321" id1="6441" id2="194655" version="1065353216">Kintan Beast Slave</text>
+		<text bitflag="321" id1="6442" id2="194655" version="1065353216">Lethal Operative</text>
+		<text bitflag="321" id1="6443" id2="194655" version="1065353216">Hired Agent</text>
+		<text bitflag="321" id1="6444" id2="194655" version="1065353216">Behemoth</text>
+		<text bitflag="321" id1="6445" id2="194655" version="1065353216">Unpaid Mechanic</text>
+		<text bitflag="321" id1="6446" id2="194655" version="1065353216">Rusty Droid</text>
+		<text bitflag="321" id1="6447" id2="194655" version="1065353216">Wrangler</text>
+		<text bitflag="321" id1="6448" id2="194655" version="1065353216">Rock Thrower</text>
+		<text bitflag="321" id1="6449" id2="194655" version="1065353216">Covert Assassin</text>
+		<text bitflag="321" id1="6450" id2="194655" version="1065353216">Quarantine Coordinator</text>
+		<text bitflag="321" id1="6451" id2="194655" version="1065353216">Annihilator</text>
+		<text bitflag="321" id1="6452" id2="194655" version="1065353216">Cartel Cannoneer</text>
+		<text bitflag="321" id1="6453" id2="194655" version="1065353216">Cartel Cannoneer</text>
+		<text bitflag="321" id1="6454" id2="194655" version="1065353216">Super Soldier</text>
+		<text bitflag="321" id1="6455" id2="194655" version="1065353216">Drouk</text>
+		<text bitflag="321" id1="6456" id2="194655" version="1065353216">Ugnaught</text>
+		<text bitflag="321" id1="6457" id2="194655" version="1065353216">Trandoshan Guerrilla</text>
+		<text bitflag="321" id1="6458" id2="194655" version="1065353216">Defected Imperial</text>
+		<text bitflag="321" id1="6459" id2="194655" version="1065353216">Minecart</text>
+		<text bitflag="321" id1="6460" id2="194655" version="1065353216">Taskmaster</text>
+		<text bitflag="321" id1="6462" id2="194655" version="1065353216">Acid Spitter</text>
+		<text bitflag="321" id1="6463" id2="194655" version="1065353216">Flesh Eater</text>
+		<text bitflag="321" id1="6464" id2="194655" version="1065353216">Observation Probe</text>
+		<text bitflag="321" id1="6465" id2="194655" version="1065353216">Mutated Creature</text>
+		<text bitflag="321" id1="6466" id2="194655" version="1065353216">Enhanced Fighter</text>
+		<text bitflag="321" id1="6467" id2="194655" version="1065353216">Hybrid Healer</text>
+		<text bitflag="321" id1="6468" id2="194655" version="1065353216">Augmented Commando</text>
+		<text bitflag="321" id1="6469" id2="194655" version="1065353216">Arsenal Commander</text>
+		<text bitflag="321" id1="6470" id2="194655" version="1065353216">Improved Pit Fighter</text>
+		<text bitflag="321" id1="6471" id2="194655" version="1065353216">Upgraded Rakghoul</text>
+		<text bitflag="321" id1="6472" id2="194655" version="1065353216">Contagious Beast</text>
+		<text bitflag="321" id1="6473" id2="194655" version="1065353216">Perfected Test Subject</text>
+		<text bitflag="321" id1="6474" id2="194655" version="1065353216">Kolto Tank</text>
+		<text bitflag="321" id1="6475" id2="194655" version="1065353216">Diseased Leaper</text>
+		<text bitflag="321" id1="6476" id2="194655" version="1065353216">Rot Spreader</text>
+		<text bitflag="321" id1="6477" id2="194655" version="1065353216">Ill-Tempered Beast</text>
+		<text bitflag="321" id1="6478" id2="194655" version="1065353216">Eater of Rocks</text>
+		<text bitflag="321" id1="6479" id2="194655" version="1065353216">Specimen Retrieval Droid</text>
+		<text bitflag="321" id1="6480" id2="194655" version="1065353216">PlasmaGuard</text>
+		<text bitflag="321" id1="6481" id2="194655" version="1065353216">Facility Maintenance Droid</text>
+		<text bitflag="321" id1="6482" id2="194655" version="1065353216">Patient Zero</text>
+		<text bitflag="321" id1="6483" id2="194655" version="1065353216">Infected Bantha</text>
+		<text bitflag="321" id1="6486" id2="194655" version="1065353216">Massive Infected Wraid</text>
+		<text bitflag="321" id1="6487" id2="194655" version="1065353216">Self Destruct Droid</text>
+		<text bitflag="321" id1="6488" id2="194655" version="1065353216">Defected Imperial Officer</text>
+		<text bitflag="321" id1="6489" id2="194655" version="1065353216">The Mechanic</text>
+		<text bitflag="321" id1="6490" id2="194655" version="1065353216">Riot Suppression Droid</text>
+		<text bitflag="321" id1="6491" id2="194655" version="1065353216">Security Turret</text>
+		<text bitflag="321" id1="6492" id2="194655" version="1065353216">Slave</text>
+		<text bitflag="321" id1="6494" id2="194655" version="1065353216">Beast Master</text>
+		<text bitflag="321" id1="6495" id2="194655" version="1065353216">Beast Master</text>
+		<text bitflag="321" id1="6496" id2="194655" version="1065353216">Beast Slave</text>
+		<text bitflag="321" id1="6497" id2="194655" version="1065353216">Program</text>
+		<text bitflag="321" id1="6498" id2="194655" version="1065353216">Hardware</text>
+		<text bitflag="321" id1="6499" id2="194655" version="1065353216">Shady Courier</text>
+		<text bitflag="321" id1="6500" id2="194655" version="1065353216">Dread Guard</text>
+		<text bitflag="321" id1="6501" id2="194655" version="1065353216">Rogue Appendage</text>
+		<text bitflag="321" id1="6502" id2="194655" version="1065353216">Hypergate Beast</text>
+		<text bitflag="321" id1="6503" id2="194655" version="1065353216">Hypergate Raider</text>
+		<text bitflag="321" id1="6504" id2="194655" version="1065353216">Hypergate Portal</text>
+		<text bitflag="321" id1="6505" id2="194655" version="1065353216">Field Repair Droid</text>
+		<text bitflag="321" id1="6506" id2="194655" version="1065353216">Field Mail Droid</text>
+		<text bitflag="321" id1="6507" id2="194655" version="1065353216">Rock Basher</text>
+		<text bitflag="321" id1="6508" id2="194655" version="1065353216">Howler</text>
+		<text bitflag="321" id1="6509" id2="194655" version="1065353216">Sith Alchemist</text>
+		<text bitflag="321" id1="6510" id2="194655" version="1065353216">Genetic Aberration</text>
+		<text bitflag="321" id1="6511" id2="194655" version="1065353216">Pack Leader</text>
+		<text bitflag="321" id1="6512" id2="194655" version="1065353216">Putrid Caller</text>
+		<text bitflag="321" id1="6513" id2="194655" version="1065353216">Carver</text>
+		<text bitflag="321" id1="6514" id2="194655" version="1065353216">Unstable</text>
+		<text bitflag="321" id1="6515" id2="194655" version="1065353216">Slasher</text>
+		<text bitflag="321" id1="6516" id2="194655" version="1065353216">Basher</text>
+		<text bitflag="321" id1="6517" id2="194655" version="1065353216">Head Mechanic</text>
+		<text bitflag="321" id1="6518" id2="194655" version="1065353216">Grease Monkey</text>
+		<text bitflag="321" id1="6519" id2="194655" version="1065353216">Shield Tech</text>
+		<text bitflag="321" id1="6520" id2="194655" version="1065353216">Self Destruct Droid</text>
+		<text bitflag="321" id1="6522" id2="194655" version="1065353216">Acklay Queen</text>
+		<text bitflag="321" id1="6523" id2="194655" version="1065353216">Fury Wing</text>
+		<text bitflag="321" id1="6524" id2="194655" version="1065353216">Adaptive Assassin Droid</text>
+		<text bitflag="321" id1="6525" id2="194655" version="1065353216">Dustclaw</text>
+		<text bitflag="321" id1="6526" id2="194655" version="1065353216">Shotgunner</text>
+		<text bitflag="321" id1="6527" id2="194655" version="1065353216">Generator</text>
+		<text bitflag="321" id1="6528" id2="194655" version="1065353216">Xuvva</text>
+		<text bitflag="321" id1="6529" id2="194655" version="1065353216">Replicator Droid</text>
+		<text bitflag="321" id1="6530" id2="194655" version="1065353216">Darth Jadus Emulation</text>
+		<text bitflag="321" id1="6531" id2="194655" version="1065353216">Hunter Emulation</text>
+		<text bitflag="321" id1="6532" id2="194655" version="1065353216">Kaliyo Djannis Emulation</text>
+		<text bitflag="321" id1="6533" id2="194655" version="1065353216">Keeper Emulation</text>
+		<text bitflag="321" id1="6534" id2="194655" version="1065353216">Darth Tormen Emulation</text>
+		<text bitflag="321" id1="6535" id2="194655" version="1065353216">Mako Emulation</text>
+		<text bitflag="321" id1="6536" id2="194655" version="1065353216">Mandalore Emulation</text>
+		<text bitflag="321" id1="6537" id2="194655" version="1065353216">Tarro Blood Emulation</text>
+		<text bitflag="321" id1="6538" id2="194655" version="1065353216">Lord Vivicar Emulation</text>
+		<text bitflag="321" id1="6539" id2="194655" version="1065353216">Qyzen Fess Emulation</text>
+		<text bitflag="321" id1="6540" id2="194655" version="1065353216">Syo Bakarn Emulation</text>
+		<text bitflag="321" id1="6541" id2="194655" version="1065353216">Yuon Par Emulation</text>
+		<text bitflag="321" id1="6542" id2="194655" version="1065353216">Darth Angral Emulation</text>
+		<text bitflag="321" id1="6543" id2="194655" version="1065353216">Emperor Emulation</text>
+		<text bitflag="321" id1="6544" id2="194655" version="1065353216">Kira Carsen Emulation</text>
+		<text bitflag="321" id1="6545" id2="194655" version="1065353216">Orgus Din Emulation</text>
+		<text bitflag="321" id1="6546" id2="194655" version="1065353216">Darth Thanaton Emulation</text>
+		<text bitflag="321" id1="6547" id2="194655" version="1065353216">Darth Zash Emulation</text>
+		<text bitflag="321" id1="6548" id2="194655" version="1065353216">Khem Val Emulation</text>
+		<text bitflag="321" id1="6549" id2="194655" version="1065353216">Overseer Harkun Emulation</text>
+		<text bitflag="321" id1="6550" id2="194655" version="1065353216">Darth Baras Emulation</text>
+		<text bitflag="321" id1="6551" id2="194655" version="1065353216">Darth Vengean Emulation</text>
+		<text bitflag="321" id1="6552" id2="194655" version="1065353216">Nomen Karr Emulation</text>
+		<text bitflag="321" id1="6553" id2="194655" version="1065353216">Vette Emulation</text>
+		<text bitflag="321" id1="6554" id2="194655" version="1065353216">Corso Riggs Emulation</text>
+		<text bitflag="321" id1="6555" id2="194655" version="1065353216">Rogun the Butcher Emulation</text>
+		<text bitflag="321" id1="6556" id2="194655" version="1065353216">Skavak Emulation</text>
+		<text bitflag="321" id1="6557" id2="194655" version="1065353216">Voidwolf Emulation</text>
+		<text bitflag="321" id1="6558" id2="194655" version="1065353216">Aric Jorgan Emulation</text>
+		<text bitflag="321" id1="6559" id2="194655" version="1065353216">Harron Tavus Emulation</text>
+		<text bitflag="321" id1="6560" id2="194655" version="1065353216">General Garza Emulation</text>
+		<text bitflag="321" id1="6561" id2="194655" version="1065353216">General Rakton Emulation</text>
+		<text bitflag="321" id1="6562" id2="194655" version="1065353216">Darth Malgus Emulation</text>
+		<text bitflag="321" id1="6563" id2="194655" version="1065353216">Satele Shan Emulation</text>
+		<text bitflag="321" id1="6565" id2="194655" version="1065353216">Defensive Emplacement</text>
+		<text bitflag="321" id1="6566" id2="194655" version="1065353216">Subversion Droid</text>
+		<text bitflag="321" id1="6567" id2="194655" version="1065353216">Prototype Subversion Droid</text>
+		<text bitflag="321" id1="6569" id2="194655" version="1065353216">Detection Droid</text>
+		<text bitflag="321" id1="6570" id2="194655" version="1065353216">Extermination Droid</text>
+		<text bitflag="321" id1="6571" id2="194655" version="1065353216">Watcher Two Emulation</text>
+		<text bitflag="321" id1="6572" id2="194655" version="1065353216">Jun Seros Emulation</text>
+		<text bitflag="321" id1="6573" id2="194655" version="1065353216">Jaric Kaedan Emulation</text>
+		<text bitflag="321" id1="6574" id2="194655" version="1065353216">Bela Kiwiiks Emulation</text>
+		<text bitflag="321" id1="6575" id2="194655" version="1065353216">Maki'voro Emulation</text>
+		<text bitflag="321" id1="6576" id2="194655" version="1065353216">Stangg Emulation</text>
+		<text bitflag="321" id1="6577" id2="194655" version="1065353216">Aloysius Kallig Emulation</text>
+		<text bitflag="321" id1="6578" id2="194655" version="1065353216">Darth Vowrawn Emulation</text>
+		<text bitflag="321" id1="6579" id2="194655" version="1065353216">Darmas Pollaran Emulation</text>
+		<text bitflag="321" id1="6580" id2="194655" version="1065353216">Ava Jaxo Emulation</text>
+		<text bitflag="321" id1="6581" id2="194655" version="1065353216">Simulation</text>
+		<text bitflag="321" id1="6582" id2="194655" version="1065353216">Elite Agent</text>
+		<text bitflag="321" id1="6583" id2="194655" version="1065353216">Incinerator Droid</text>
+		<text bitflag="321" id1="6586" id2="194655" version="1065353216">Stealth Medic</text>
+		<text bitflag="321" id1="6587" id2="194655" version="1065353216">Lava Beast</text>
+		<text bitflag="321" id1="6589" id2="194655" version="1065353216">Command and Control Droid</text>
+		<text bitflag="321" id1="6590" id2="194655" version="1065353216">Makrin Progenitor</text>
+		<text bitflag="321" id1="6591" id2="194655" version="1065353216">Scout Commander</text>
+		<text bitflag="321" id1="6592" id2="194655" version="1065353216">Cartel Soldier</text>
+		<text bitflag="321" id1="6593" id2="194655" version="1065353216">Fallen Jedi</text>
+		<text bitflag="321" id1="6594" id2="194655" version="1065353216">Corrupted Zoo Exhibit</text>
+		<text bitflag="321" id1="6595" id2="194655" version="1065353216">Restored and Upgraded Droid</text>
+		<text bitflag="321" id1="6596" id2="194655" version="1065353216">Biomodified Specimen</text>
+		<text bitflag="321" id1="6597" id2="194655" version="1065353216">Pylon Guardian</text>
+		<text bitflag="321" id1="6598" id2="194655" version="1065353216">Combat Data Collector</text>
+		<text bitflag="321" id1="6599" id2="194655" version="1065353216">Infrastructure Guard</text>
+		<text bitflag="321" id1="6600" id2="194655" version="1065353216">Defragmenter</text>
+		<text bitflag="321" id1="6601" id2="194655" version="1065353216">Data Manipulator</text>
+		<text bitflag="321" id1="6602" id2="194655" version="1065353216">Gamorrean Warrior</text>
+		<text bitflag="321" id1="6603" id2="194655" version="1065353216">Melee Obstacle</text>
+		<text bitflag="321" id1="6604" id2="194655" version="1065353216">Combat Firewall</text>
+		<text bitflag="321" id1="6605" id2="194655" version="1065353216">Ortolan Cryo-Engineer</text>
+		<text bitflag="321" id1="6606" id2="194655" version="1065353216">Augmented Chiss Sniper</text>
+		<text bitflag="321" id1="6607" id2="194655" version="1065353216">Refraction Probe</text>
+		<text bitflag="321" id1="6608" id2="194655" version="1065353216">Anti-Cover Probe</text>
+		<text bitflag="321" id1="6609" id2="194655" version="1065353216">Tactical Observation Probe</text>
+		<text bitflag="321" id1="6610" id2="194655" version="1065353216">Nanoshield Probe</text>
+		<text bitflag="321" id1="6611" id2="194655" version="1065353216">Pack Hunter</text>
+		<text bitflag="321" id1="6612" id2="194655" version="1065353216">Medical Engineer</text>
+		<text bitflag="321" id1="6613" id2="194655" version="1065353216">Pyroguard</text>
+		<text bitflag="321" id1="6614" id2="194655" version="1065353216">Duelist</text>
+		<text bitflag="321" id1="6615" id2="194655" version="1065353216">Flametech</text>
+		<text bitflag="321" id1="6616" id2="194655" version="1065353216">Assault Gunner</text>
+		<text bitflag="321" id1="6623" id2="194655" version="1065353216">Ancient Rakghoul</text>
+		<text bitflag="321" id1="6624" id2="194655" version="1065353216">Shadow Killer</text>
+		<text bitflag="321" id1="6625" id2="194655" version="1065353216">Isotope-5 Droid</text>
+		<text bitflag="321" id1="6626" id2="194655" version="1065353216">The Archon Battleglobe</text>
+		<text bitflag="321" id1="6627" id2="194655" version="1065353216">Staff Warrior</text>
+		<text bitflag="321" id1="6628" id2="194655" version="1065353216">Republic Commander</text>
+		<text bitflag="321" id1="6629" id2="194655" version="1065353216">Sithspawn Abomination</text>
+		<text bitflag="321" id1="6630" id2="194655" version="1065353216">Czerka Security</text>
+		<text bitflag="321" id1="6631" id2="194655" version="1065353216">Czerka Scientist</text>
+		<text bitflag="321" id1="6632" id2="194655" version="1065353216">Dread Lord</text>
+		<text bitflag="321" id1="6633" id2="194655" version="1065353216">Dread Lord's Apprentice</text>
+		<text bitflag="321" id1="6634" id2="194655" version="1065353216">Spymaster</text>
+		<text bitflag="321" id1="6635" id2="194655" version="1065353216">Blademaster</text>
+		<text bitflag="321" id1="6636" id2="194655" version="1065353216">Cannoneer</text>
+		<text bitflag="321" id1="6637" id2="194655" version="1065353216">Assassin Droid</text>
+		<text bitflag="321" id1="6638" id2="194655" version="1065353216">Gadget Specialist</text>
+		<text bitflag="321" id1="6639" id2="194655" version="1065353216">Fireball</text>
+		<text bitflag="321" id1="6640" id2="194655" version="1065353216">Harmless Protocol Droid</text>
+		<text bitflag="321" id1="6641" id2="194655" version="1065353216">Mandalorian Bandit Leader</text>
+		<text bitflag="321" id1="6642" id2="194655" version="1065353216">Creation</text>
+		<text bitflag="321" id1="6643" id2="194655" version="1065353216">Evocii Betrayer</text>
+		<text bitflag="321" id1="6644" id2="194655" version="1065353216">Corrupt Sith Lord</text>
+		<text bitflag="321" id1="6645" id2="194655" version="1065353216">Black Sun Boss</text>
+		<text bitflag="321" id1="6646" id2="194655" version="1065353216">Exchange Fixer</text>
+		<text bitflag="321" id1="6647" id2="194655" version="1065353216">Disgraced Colonel</text>
+		<text bitflag="321" id1="6648" id2="194655" version="1065353216">Alderaanian Outcast</text>
+		<text bitflag="321" id1="6649" id2="194655" version="1065353216">Casino Kingpin</text>
+		<text bitflag="321" id1="6650" id2="194655" version="1065353216">Treek</text>
+		<text bitflag="321" id1="6651" id2="194655" version="1065353216">Dread Fortress Commander</text>
+		<text bitflag="321" id1="6652" id2="194655" version="1065353216">Crystal</text>
+		<text bitflag="321" id1="6653" id2="194655" version="1065353216">Dread Forces Champion</text>
+		<text bitflag="321" id1="6654" id2="194655" version="1065353216">Corrupted Growth</text>
+		<text bitflag="321" id1="6655" id2="194655" version="1065353216">Pristine Growth</text>
+		<text bitflag="321" id1="6656" id2="194655" version="1065353216">Dread Forces Commander</text>
+		<text bitflag="321" id1="6657" id2="194655" version="1065353216">Dread Captain</text>
+		<text bitflag="321" id1="6658" id2="194655" version="1065353216">Dread Commander</text>
+		<text bitflag="321" id1="6659" id2="194655" version="1065353216">Dread General</text>
+		<text bitflag="321" id1="6660" id2="194655" version="1065353216">Pure Seed</text>
+		<text bitflag="321" id1="6661" id2="194655" version="1065353216">Disappointment</text>
+		<text bitflag="321" id1="6663" id2="194655" version="1065353216">Shasa Adept</text>
+		<text bitflag="321" id1="6664" id2="194655" version="1065353216">Shasa Adherent</text>
+		<text bitflag="321" id1="6665" id2="194655" version="1065353216">Shasa Warden</text>
+		<text bitflag="321" id1="6666" id2="194655" version="1065353216">Shasa Whisper</text>
+		<text bitflag="321" id1="6667" id2="194655" version="1065353216">Shasa Zealot</text>
+		<text bitflag="321" id1="6668" id2="194655" version="1065353216">Security Commander</text>
+		<text bitflag="321" id1="6669" id2="194655" version="1065353216">Shasa Keeper</text>
+		<text bitflag="321" id1="6670" id2="194655" version="1065353216">Augmented Selkath</text>
+		<text bitflag="321" id1="6671" id2="194655" version="1065353216">Support</text>
+		<text bitflag="321" id1="6672" id2="194655" version="1065353216">Junkyard Alpha</text>
+		<text bitflag="321" id1="6673" id2="194655" version="1065353216">Junkyard Pet</text>
+		<text bitflag="321" id1="6674" id2="194655" version="1065353216">Rakata Chieftan</text>
+		<text bitflag="321" id1="6675" id2="194655" version="1065353216">Rancor</text>
+		<text bitflag="321" id1="6676" id2="194655" version="1065353216">Infinite Army Officer</text>
+		<text bitflag="321" id1="6677" id2="194655" version="1065353216">Infinite Army Soldier</text>
+		<text bitflag="321" id1="6678" id2="194655" version="1065353216">Revanite</text>
+		<text bitflag="321" id1="6679" id2="194655" version="1065353216">Jakarro</text>
+		<text bitflag="321" id1="6680" id2="194655" version="1065353216">Crate</text>
+		<text bitflag="321" id1="6681" id2="194655" version="1065353216">Savage Massassi</text>
+		<text bitflag="321" id1="6682" id2="194655" version="1065353216">Massassi Warrior</text>
+		<text bitflag="321" id1="6683" id2="194655" version="1065353216">Sith Battlemaster</text>
+		<text bitflag="321" id1="6684" id2="194655" version="1065353216">Jedi Battlemaster</text>
+		<text bitflag="321" id1="6685" id2="194655" version="1065353216">Dark Revenant</text>
+		<text bitflag="321" id1="6686" id2="194655" version="1065353216">Loyal Revanite</text>
+		<text bitflag="321" id1="6687" id2="194655" version="1065353216">Custom Battledroid</text>
+		<text bitflag="321" id1="6688" id2="194655" version="1065353216">Master Droid</text>
+		<text bitflag="321" id1="6689" id2="194655" version="1065353216">Revanite Commander</text>
+		<text bitflag="321" id1="6690" id2="194655" version="1065353216">Cache</text>
+		<text bitflag="321" id1="6691" id2="194655" version="1065353216">Pack Leader</text>
+		<text bitflag="321" id1="6692" id2="194655" version="1065353216">Whiner</text>
+		<text bitflag="321" id1="6693" id2="194655" version="1065353216">Pirate Captain</text>
+		<text bitflag="321" id1="6694" id2="194655" version="1065353216">Quartermaster</text>
+		<text bitflag="321" id1="6695" id2="194655" version="1065353216">Chief Engineer</text>
+		<text bitflag="321" id1="6697" id2="194655" version="1065353216">Death Bird</text>
+		<text bitflag="321" id1="6698" id2="194655" version="1065353216">Unstable Forklift</text>
+		<text bitflag="321" id1="6699" id2="194655" version="1065353216">Explosive Materials</text>
+		<text bitflag="321" id1="6700" id2="194655" version="1065353216">Zaps You</text>
+		<text bitflag="321" id1="6701" id2="194655" version="1065353216">Gifts From The Sky</text>
+		<text bitflag="321" id1="6702" id2="194655" version="1065353216">Simple Fixer</text>
+		<text bitflag="321" id1="6703" id2="194655" version="1065353216">Name Says It All</text>
+		<text bitflag="321" id1="6704" id2="194655" version="1065353216">Very Hot</text>
+		<text bitflag="321" id1="6705" id2="194655" version="1065353216">Packed With Explosives</text>
+		<text bitflag="321" id1="6707" id2="194655" version="1065353216">Murder Probe</text>
+		<text bitflag="321" id1="6708" id2="194655" version="1065353216">Surprise Probe</text>
+		<text bitflag="321" id1="6709" id2="194655" version="1065353216">Chemist</text>
+		<text bitflag="321" id1="6710" id2="194655" version="1065353216">Mandalorian Hunter</text>
+		<text bitflag="321" id1="6711" id2="194655" version="1065353216">Monolith</text>
+		<text bitflag="321" id1="6712" id2="194655" version="1065353216">Incarcerator Droid</text>
+		<text bitflag="321" id1="6713" id2="194655" version="1065353216">Orbital Recon Probe</text>
+		<text bitflag="321" id1="6714" id2="194655" version="1065353216">Skytrooper</text>
+		<text bitflag="321" id1="6715" id2="194655" version="1065353216">Zakuul Knight</text>
+		<text bitflag="321" id1="6716" id2="194655" version="1065353216">Bunker Commander</text>
+		<text bitflag="321" id1="6717" id2="194655" version="1065353216">Star Fortress Paladin</text>
+		<text bitflag="321" id1="6718" id2="194655" version="1065353216">Exarch</text>
+		<text bitflag="321" id1="6719" id2="194655" version="1065353216">AI Construct</text>
+		<text bitflag="321" id1="6720" id2="194655" version="1065353216">Skytrooper Commander</text>
+		<text bitflag="321" id1="6721" id2="194655" version="1065353216">Choza Raabat</text>
+		<text bitflag="321" id1="6722" id2="194655" version="1065353216">K'krohl</text>
+		<text bitflag="321" id1="6723" id2="194655" version="1065353216">Hemdil Tre</text>
+		<text bitflag="321" id1="6724" id2="194655" version="1065353216">Veeroa Denz</text>
+		<text bitflag="321" id1="6725" id2="194655" version="1065353216">&quot;Deadeye&quot; Leyta</text>
+		<text bitflag="321" id1="6726" id2="194655" version="1065353216">Rokuss</text>
+		<text bitflag="321" id1="6727" id2="194655" version="1065353216">Akk Dog</text>
+		<text bitflag="321" id1="6728" id2="194655" version="1065353216">Meatbag</text>
+		<text bitflag="321" id1="6729" id2="194655" version="1065353216">Probe Droid</text>
+		<text bitflag="321" id1="6730" id2="194655" version="1065353216">Darth Marr</text>
+		<text bitflag="321" id1="6731" id2="194655" version="1065353216">HK-55</text>
+		<text bitflag="321" id1="6732" id2="194655" version="1065353216">Lana Beniko</text>
+		<text bitflag="321" id1="6733" id2="194655" version="1065353216">Nico Okarr</text>
+		<text bitflag="321" id1="6734" id2="194655" version="1065353216">Senya Tirall</text>
+		<text bitflag="321" id1="6735" id2="194655" version="1065353216">Theron Shan</text>
+		<text bitflag="321" id1="6736" id2="194655" version="1065353216">Koth Vortena</text>
+		<text bitflag="321" id1="6737" id2="194655" version="1065353216">Sniper Droid</text>
+		<text bitflag="321" id1="6738" id2="194655" version="1065353216">Missile Droid</text>
+		<text bitflag="321" id1="6739" id2="194655" version="1065353216">Gunner Droid</text>
+		<text bitflag="321" id1="6740" id2="194655" version="1065353216">Toxin Droid</text>
+		<text bitflag="321" id1="6741" id2="194655" version="1065353216">Inferno Droid</text>
+		<text bitflag="321" id1="6742" id2="194655" version="1065353216">Assault Droid</text>
+		<text bitflag="321" id1="6743" id2="194655" version="1065353216">Cryo Droid</text>
+		<text bitflag="321" id1="6745" id2="194655" version="1065353216">Jawa Crew</text>
+		<text bitflag="321" id1="6746" id2="194655" version="1065353216">Fallen Knight</text>
+		<text bitflag="321" id1="6747" id2="194655" version="1065353216">Sidekick</text>
+		<text bitflag="321" id1="6748" id2="194655" version="1065353216">Goon</text>
+		<text bitflag="321" id1="6749" id2="194655" version="1065353216">Goon Leader</text>
+		<text bitflag="321" id1="6750" id2="194655" version="1065353216">Nexu Cat</text>
+		<text bitflag="321" id1="6751" id2="194655" version="1065353216">K'lor'slug</text>
+		<text bitflag="321" id1="6753" id2="194655" version="1065353216">Ginx</text>
+		<text bitflag="321" id1="6754" id2="194655" version="1065353216">Knight Commander</text>
+		<text bitflag="321" id1="6755" id2="194655" version="1065353216">Arcann</text>
+		<text bitflag="321" id1="6757" id2="194655" version="1065353216">Model Ship</text>
+		<text bitflag="321" id1="6758" id2="194655" version="1065353216">Mini Droid</text>
+		<text bitflag="321" id1="6759" id2="194655" version="1065353216">Annihilator T4-1D</text>
+		<text bitflag="321" id1="6760" id2="194655" version="1065353216">Bogstalker</text>
+		<text bitflag="321" id1="6761" id2="194655" version="1065353216">ISO-5R</text>
+		<text bitflag="321" id1="6762" id2="194655" version="1065353216">Provost Marshal Rusk</text>
+		<text bitflag="321" id1="6763" id2="194655" version="1065353216">Cargo Hold Droid</text>
+		<text bitflag="321" id1="6764" id2="194655" version="1065353216">Legacy Cargo Hold Droid</text>
+		<text bitflag="321" id1="6765" id2="194655" version="1065353216">Empress Acina</text>
+		<text bitflag="321" id1="6767" id2="194655" version="1065353216">Z0-0M</text>
+		<text bitflag="321" id1="6768" id2="194655" version="1065353216">Exoboar</text>
+		<text bitflag="321" id1="6769" id2="194655" version="1065353216">Heavy Assault Droid</text>
+		<text bitflag="321" id1="6770" id2="194655" version="1065353216">Recon Droid</text>
+		<text bitflag="321" id1="6771" id2="194655" version="1065353216">Siege Walker</text>
+		<text bitflag="321" id1="6772" id2="194655" version="1065353216">TY-4N</text>
+		<text bitflag="321" id1="6773" id2="194655" version="1065353216">Darth Hexid</text>
+		<text bitflag="321" id1="6774" id2="194655" version="1065353216">Master Ranos</text>
+		<text bitflag="321" id1="6775" id2="194655" version="1065353216">Scout Droid</text>
+		<text bitflag="321" id1="6776" id2="194655" version="1065353216">Shae Vizla</text>
+		<text bitflag="321" id1="6777" id2="194655" version="1065353216">Mawvorr</text>
+		<text bitflag="321" id1="6778" id2="194655" version="1065353216">Empress Vaylin</text>
+		<text bitflag="321" id1="6779" id2="194655" version="1065353216">Horizon Guard</text>
+		<text bitflag="321" id1="6780" id2="194655" version="1065353216">Arcann</text>
+		<text bitflag="321" id1="6781" id2="194655" version="1065353216">Wampa</text>
+		<text bitflag="321" id1="6782" id2="194655" version="1065353216">K1-Z3N</text>
+		<text bitflag="321" id1="6783" id2="194655" version="1065353216">Tuk'ata</text>
+		<text bitflag="321" id1="6784" id2="194655" version="1065353216">Lord Dramath</text>
+		<text bitflag="321" id1="6785" id2="194655" version="1065353216">Nathema Beast</text>
+		<text bitflag="321" id1="6792" id2="194655" version="1065353216">H1-K1</text>
+		<text bitflag="321" id1="6793" id2="194655" version="1065353216">Nathema Voreclaw</text>
+		<text bitflag="321" id1="6794" id2="194655" version="1065353216">I-O8</text>
+		<text bitflag="321" id1="6796" id2="194655" version="1065353216">K-A3</text>
+		<text bitflag="321" id1="6798" id2="194655" version="1065353216">C8-S3C</text>
+		<text bitflag="321" id1="6799" id2="194655" version="1065353216">Vixian Mauler</text>
+		<text bitflag="321" id1="6800" id2="194655" version="1065353216">Obelisk</text>
+		<text bitflag="321" id1="6801" id2="194655" version="1065353216">Umbaran Tank</text>
+		<text bitflag="321" id1="6803" id2="194655" version="1065353216">Technician Canni</text>
+		<text bitflag="321" id1="6804" id2="194655" version="1065353216">Gamorrean Bodyguard</text>
+		<text bitflag="321" id1="6805" id2="194655" version="1065353216">Vine Cat</text>
+		<text bitflag="321" id1="6807" id2="194655" version="1065353216">Shadow Assassin Elli-Vaa</text>
+		<text bitflag="321" id1="6808" id2="194655" version="1065353216">Alpha Slybex</text>
+		<text bitflag="321" id1="6813" id2="194655" version="1065353216">Stealth Mine</text>
+		<text bitflag="321" id1="6814" id2="194655" version="1065353216">Rail Turret</text>
+		<text bitflag="321" id1="6815" id2="194655" version="1065353216">CFA-Railgun Blue</text>
+		<text bitflag="321" id1="6816" id2="194655" version="1065353216">CFA-Railgun Red</text>
+		<text bitflag="321" id1="6817" id2="194655" version="1065353216">Omega Protocol Droid</text>
+		<text bitflag="321" id1="6818" id2="194655" version="1065353216">Stasis Swarm Droid</text>
+		<text bitflag="321" id1="6819" id2="194655" version="1065353216">Ignition Catalyst Droid</text>
+		<text bitflag="321" id1="6820" id2="194655" version="1065353216">Sterilization Array Droid</text>
+		<text bitflag="321" id1="6821" id2="194655" version="1065353216">Spatial Diffusion Module</text>
+		<text bitflag="321" id1="6822" id2="194655" version="1065353216">Failsafe Mechanism</text>
+		<text bitflag="321" id1="6823" id2="194655" version="1065353216">Entropic Field Generator</text>
+		<text bitflag="321" id1="6824" id2="194655" version="1065353216">Unstable Particle Accelerator</text>
+		<text bitflag="321" id1="6825" id2="194655" version="1065353216">Banshee</text>
+		<text bitflag="321" id1="6826" id2="194655" version="1065353216">P3-KP</text>
+		<text bitflag="321" id1="6827" id2="194655" version="1065353216">Reek</text>
+		<text bitflag="321" id1="6828" id2="194655" version="1065353216">Krakjya</text>
+		<text bitflag="321" id1="6830" id2="194655" version="1065353216">Explosive Swarm Droid</text>
+		<text bitflag="321" id1="6831" id2="194655" version="1065353216">D-R3D</text>
+		<text bitflag="321" id1="6832" id2="194655" version="1065353216">H2-WF</text>
+		<text bitflag="321" id1="6833" id2="194655" version="1065353216">Paxton Rall</text>
+		<text bitflag="321" id1="6834" id2="194655" version="1065353216">A7 Surveillance Drone</text>
+		<text bitflag="321" id1="6835" id2="194655" version="1065353216">Mutated Queen</text>
+		<text bitflag="321" id1="6836" id2="194655" version="1065353216">Tau Idair</text>
+		<text bitflag="321" id1="6837" id2="194655" version="1065353216">Darth Malgus</text>
+		<text bitflag="321" id1="6839" id2="194655" version="1065353216">Major Anri</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/ziost/world/shared/from_ashes/turn_in_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1154952" id2="17" version="1065353216">[As you insert the Scan Data for sequencing and compilation, you realize it's possible to transmit the data to a location of your choosing.]</text>
+		<text bitflag="336" id1="1154953" id2="17" version="1065353216">[Upload to GSI for profit]</text>
+		<text bitflag="336" id1="1154954" id2="17" version="1065353216">[Upload to Republic Command]</text>
+		<text bitflag="336" id1="1154957" id2="17" version="1065353216">[Upload to Imperial Command]</text>
+	</file_content>
+</stb_file>

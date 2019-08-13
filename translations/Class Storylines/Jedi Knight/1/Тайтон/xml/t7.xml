@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="24">
+	<unit bitflag="3393" id1="605741" id2="17" version="1065353216">
+		<source>T7 = do anything for Jedi // T7 + Jedi = best friends</source>
+		<target>T7 = делать всё для джедая // T7 + джедай = лучшие друзья</target>
+	</unit>
+	<unit bitflag="3393" id1="605742" id2="17" version="1065353216">
+		<source>Jedi + lightsaber = champion</source>
+		<target>Джедай + световой меч = чемпион</target>
+	</unit>
+	<unit bitflag="3393" id1="605743" id2="17" version="1065353216">
+		<source>Jedi = T7's hero</source>
+		<target>Джедай = герой T7</target>
+	</unit>
+	<unit bitflag="3393" id1="605744" id2="17" version="1065353216">
+		<source>Master Orgus = close // Enemy life-forms = closer</source>
+		<target>Мастер Оргус = близко // Враждебные жизненные формы = ближе</target>
+	</unit>
+	<unit bitflag="3393" id1="605745" id2="17" version="1065353216">
+		<source>T7 = show Jedi the way to Forge</source>
+		<target>T7 = показать джедаю путь к Кузнице</target>
+	</unit>
+	<unit bitflag="3393" id1="605746" id2="17" version="1065353216">
+		<source>Jedi = contact A-4PO // Jedi + T7 = need data on Forge</source>
+		<target>Джедай = связаться с А-4PO // Джедай + T7 = нужны данные по Кузнице</target>
+	</unit>
+	<unit bitflag="3393" id1="605749" id2="17" version="1065353216">
+		<source>T7 = power failure? // Memory logs = missing time</source>
+		<target>T7 = перебой в питании? // Логи памяти = пропущенное время</target>
+	</unit>
+	<unit bitflag="1345" id1="605750" id2="17" version="1065353216">
+		<source>Bengel Morr took my Master someplace called the Forge. Do you know where that is?</source>
+		<target>Бенгел Морр увёл моего учителя в какую-то Кузницу. Ты знаешь, где это?</target>
+	</unit>
+	<unit bitflag="3393" id1="605751" id2="17" version="1065353216">
+		<source>Twi'lek life-forms = deceased // Jedi = explain?</source>
+		<target>Жизненные формы тви'леки = мертвы // джедай = объяснить?</target>
+	</unit>
+	<unit bitflag="1345" id1="605752" id2="17" version="1065353216">
+		<source>These Twi'leks deactivated you and tried to kill me. I had to defend us.</source>
+		<target>Эти тви'леки отключили тебя и пытались меня убить. Мне пришлось нас защищать.</target>
+	</unit>
+	<unit bitflag="1360" id1="605752" id2="17" version="1065353216">
+		<source>They betrayed us, T7.</source>
+		<target>Они предали нас, T7.</target>
+	</unit>
+	<unit bitflag="3393" id1="605753" id2="17" version="1065353216">
+		<source>Jedi = saved T7 from memory wipe // T7 = grateful</source>
+		<target>Джедай = спас T7 от стирания памяти // T7 = благодарен</target>
+	</unit>
+	<unit bitflag="1345" id1="605755" id2="17" version="1065353216">
+		<source>Master Orgus needs our help. We need to find him.</source>
+		<target>Мастеру Оргусу нужна наша помощь. Нужно его найти.</target>
+	</unit>
+	<unit bitflag="1360" id1="605755" id2="17" version="1065353216">
+		<source>No time for explanations.</source>
+		<target>Нет времени объяснять.</target>
+	</unit>
+	<unit bitflag="1345" id1="605756" id2="17" version="1065353216">
+		<source>Flesh Raiders stormed in and slaughtered everyone. I barely drove them off.</source>
+		<target>Раздиратели ворвались и перебили всех. Я едва отбил их атаку.</target>
+	</unit>
+	<unit bitflag="1360" id1="605756" id2="17" version="1065353216">
+		<source>[Lie] Flesh Raiders did it.</source>
+		<target>[Ложь] Это сделали раздиратели.</target>
+	</unit>
+	<unit bitflag="3393" id1="605757" id2="17" version="1065353216">
+		<source>Jedi = unable to save Twi'lek life-forms? // Logic circuits = unable to resolve</source>
+		<target>Джедай = не смог спасти жизненных форм тви'леков? // Логические цепи = неразрешимы</target>
+	</unit>
+	<unit bitflag="3393" id1="605759" id2="17" version="1065353216">
+		<source>Forge = restricted access // T7 = no data on location</source>
+		<target>Кузница = ограниченный доступ // T7 = нет данных по местонахождению</target>
+	</unit>
+	<unit bitflag="3393" id1="605761" id2="17" version="1065353216">
+		<source>Jedi Archive Droid A-4PO = detailed data on Forge</source>
+		<target>Архивный дроид джедаев A-4PO = подробные данные по Кузнице</target>
+	</unit>
+	<unit bitflag="3393" id1="605763" id2="17" version="1065353216">
+		<source>Jedi = contact A-4PO via holo // A-4PO = transmit Forge data to T7</source>
+		<target>Джедай = связаться с A-4PO по голосвязи // A-4PO = передать данные по Кузнице T7</target>
+	</unit>
+	<unit bitflag="3393" id1="605769" id2="17" version="1065353216">
+		<source>Jedi = know Master Orgus's location? // T7 = unable to find him</source>
+		<target>Джедай = знать положение мастера Оргуса? // T7 = не иметь возможности найти его</target>
+	</unit>
+	<unit bitflag="3393" id1="605770" id2="17" version="1065353216">
+		<source>T7 = needs clear path for maximum scan // Jedi = only hope</source>
+		<target>T7 = нужно расчистить путь для полного сканирования // Джедай = единственный шанс</target>
+	</unit>
+	<unit bitflag="3393" id1="605771" id2="17" version="1065353216">
+		<source>T7 + Jedi prison breakout = exciting</source>
+		<target>T7 + побег из тюрьмы джедаев = интересно</target>
+	</unit>
+	<unit bitflag="3393" id1="605772" id2="17" version="1065353216">
+		<source>T7 = happy to serve Jedi Order</source>
+		<target>T7 = рад служить Ордену</target>
+	</unit>
+</dialogue_file>

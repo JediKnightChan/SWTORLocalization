@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>190</strs>
+		<file_name>/resources/en-us/str/gui/itm/modifiers.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="411564" version="1065353216">Cerean &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="257" id2="411564" version="1065353216">Gamorrean &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="258" id2="411564" version="1065353216">Ithorian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="259" id2="411564" version="1065353216">Cinnagar &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="260" id2="411564" version="1065353216">Trandoshan &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="261" id2="411564" version="1065353216">Duros &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="262" id2="411564" version="1065353216">Echani &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="263" id2="411564" version="1065353216">Dantooinian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="264" id2="411564" version="1065353216">Mabari &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="265" id2="411564" version="1065353216">Santhe Corps &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="266" id2="411564" version="1065353216">Czerka Corps &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="267" id2="411564" version="1065353216">Corellian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="268" id2="411564" version="1065353216">Huttese &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="269" id2="411564" version="1065353216">Syncronics &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="270" id2="411564" version="1065353216">Varge Corps &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="271" id2="411564" version="1065353216">Prototype Cerean &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="272" id2="411564" version="1065353216">Prototype Gamorrean &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="273" id2="411564" version="1065353216">Prototype Ithorian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="274" id2="411564" version="1065353216">Prototype Cinnagar &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="275" id2="411564" version="1065353216">Prototype Trandoshan &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="276" id2="411564" version="1065353216">Prototype Duros &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="277" id2="411564" version="1065353216">Prototype Echani &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="278" id2="411564" version="1065353216">Prototype Dantooinian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="279" id2="411564" version="1065353216">Prototype Mabari &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="280" id2="411564" version="1065353216">Prototype Santhe Corps &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="281" id2="411564" version="1065353216">Prototype Czerka Corps &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="282" id2="411564" version="1065353216">Prototype Corellian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="283" id2="411564" version="1065353216">Prototype Huttese &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="284" id2="411564" version="1065353216">Prototype Syncronics &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="285" id2="411564" version="1065353216">Prototype Varge Corps &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="286" id2="411564" version="1065353216">Kuati &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="287" id2="411564" version="1065353216">Mantellian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="288" id2="411564" version="1065353216">Krail Armory &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="289" id2="411564" version="1065353216">Herloss &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="290" id2="411564" version="1065353216">Palauka Cybernetics &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="291" id2="411564" version="1065353216">Baktoid &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="292" id2="411564" version="1065353216">Bovin &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="293" id2="411564" version="1065353216">Coruschal Works &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="294" id2="411564" version="1065353216">Uxiol Mfg &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="295" id2="411564" version="1065353216">InterroTek &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="296" id2="411564" version="1065353216">ZRS Equipment &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="297" id2="411564" version="1065353216">QorWorks &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="298" id2="411564" version="1065353216">Ayelixe Fabrico &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="299" id2="411564" version="1065353216">Arakyd Industries &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="300" id2="411564" version="1065353216">Adarian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="301" id2="411564" version="1065353216">Alderaanian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="302" id2="411564" version="1065353216">Hapani &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="303" id2="411564" version="1065353216">Colla Designs &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="304" id2="411564" version="1065353216">Mindak &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="305" id2="411564" version="1065353216">TholCorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="306" id2="411564" version="1065353216">Mier-Lang &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="307" id2="411564" version="1065353216">Adascorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="308" id2="411564" version="1065353216">Pravaat &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="309" id2="411564" version="1065353216">Merr-Sonn &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="310" id2="411564" version="1065353216">Saladar Systems &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="311" id2="411564" version="1065353216">Vejar Industrial &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="312" id2="411564" version="1065353216">RasTechnico &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="313" id2="411564" version="1065353216">Sund Tech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="314" id2="411564" version="1065353216">Hardwire Techno &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="315" id2="411564" version="1065353216">Balmorran &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="316" id2="411564" version="1065353216">Tionese &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="317" id2="411564" version="1065353216">SoroSuub &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="318" id2="411564" version="1065353216">Kell Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="319" id2="411564" version="1065353216">Mandalorian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="320" id2="411564" version="1065353216">ArmaTek &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="321" id2="411564" version="1065353216">Kessler &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="322" id2="411564" version="1065353216">Rheshalva Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="323" id2="411564" version="1065353216">BlasTech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="324" id2="411564" version="1065353216">Galentro Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="325" id2="411564" version="1065353216">Theed Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="326" id2="411564" version="1065353216">Exotac Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="327" id2="411564" version="1065353216">Wandrau Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="328" id2="411564" version="1065353216">Bonadan &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="329" id2="411564" version="1065353216">Sleheyron &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="330" id2="411564" version="1065353216">Systech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="331" id2="411564" version="1065353216">Tonena Munitions Corp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="332" id2="411564" version="1065353216">TasCorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="333" id2="411564" version="1065353216">Yolthra OverCorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="334" id2="411564" version="1065353216">Salus Corporation &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="335" id2="411564" version="1065353216">Drengineer &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="336" id2="411564" version="1065353216">Lazutil &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="337" id2="411564" version="1065353216">MarTech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="338" id2="411564" version="1065353216">Ubrikkien Industries &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="339" id2="411564" version="1065353216">Prototype Kuati &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="340" id2="411564" version="1065353216">Prototype Mantellian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="341" id2="411564" version="1065353216">Prototype Krail Armory &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="342" id2="411564" version="1065353216">Prototype Herloss &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="343" id2="411564" version="1065353216">Prototype Palauka Cybernetics &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="344" id2="411564" version="1065353216">Prototype Baktoid &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="345" id2="411564" version="1065353216">Prototype Bovin &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="346" id2="411564" version="1065353216">Prototype Coruschal Works &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="347" id2="411564" version="1065353216">Prototype Uxiol Mfg &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="348" id2="411564" version="1065353216">Prototype InterroTek &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="349" id2="411564" version="1065353216">Prototype ZRS Equipment &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="350" id2="411564" version="1065353216">Prototype QorWorks &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="351" id2="411564" version="1065353216">Prototype Ayelixe Fabrico &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="352" id2="411564" version="1065353216">Prototype Arakyd Industries &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="353" id2="411564" version="1065353216">Prototype Adarian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="354" id2="411564" version="1065353216">Prototype Alderaanian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="355" id2="411564" version="1065353216">Prototype Hapani &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="356" id2="411564" version="1065353216">Prototype Colla Designs &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="357" id2="411564" version="1065353216">Prototype Mindak &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="358" id2="411564" version="1065353216">Prototype TholCorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="359" id2="411564" version="1065353216">Prototype Mier-Lang &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="360" id2="411564" version="1065353216">Prototype Adascorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="361" id2="411564" version="1065353216">Prototype Pravaat &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="362" id2="411564" version="1065353216">Prototype Merr-Sonn &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="363" id2="411564" version="1065353216">Prototype Saladar Systems &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="364" id2="411564" version="1065353216">Prototype Vejar Industrial &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="365" id2="411564" version="1065353216">Prototype RasTechnico &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="366" id2="411564" version="1065353216">Prototype Sund Tech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="367" id2="411564" version="1065353216">Hardwire Techno &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="368" id2="411564" version="1065353216">Prototype Balmorran &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="369" id2="411564" version="1065353216">Prototype Tionese &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="370" id2="411564" version="1065353216">Prototype SoroSuub &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="371" id2="411564" version="1065353216">Prototype Kell Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="372" id2="411564" version="1065353216">Prototype Mandalorian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="373" id2="411564" version="1065353216">Prototype ArmaTek &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="374" id2="411564" version="1065353216">Prototype Kessler &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="375" id2="411564" version="1065353216">Prototype Rheshalva Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="376" id2="411564" version="1065353216">Prototype BlasTech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="377" id2="411564" version="1065353216">Prototype Galentro Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="378" id2="411564" version="1065353216">Prototype Theed Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="379" id2="411564" version="1065353216">Prototype Exotac Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="380" id2="411564" version="1065353216">Prototype Wandrau Arms &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="381" id2="411564" version="1065353216">Prototype Bonadan &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="382" id2="411564" version="1065353216">Prototype Sleheyron &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="383" id2="411564" version="1065353216">Prototype Systech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="384" id2="411564" version="1065353216">Prototype Tonena Munitions Corp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="385" id2="411564" version="1065353216">Prototype TasCorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="386" id2="411564" version="1065353216">Prototype Yolthra OverCorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="387" id2="411564" version="1065353216">Prototype Salus Corporation &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="388" id2="411564" version="1065353216">Prototype Drengineer &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="389" id2="411564" version="1065353216">Prototype Lazutil &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="390" id2="411564" version="1065353216">Prototype MarTech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="391" id2="411564" version="1065353216">Prototype Ubrikkien Industries &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="392" id2="411564" version="1065353216">Critical &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="393" id2="411564" version="1065353216">Overkill &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="394" id2="411564" version="1065353216">Redoubt &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="395" id2="411564" version="1065353216">Absorb &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="396" id2="411564" version="1065353216">Command &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="397" id2="411564" version="1065353216">Leadership &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="398" id2="411564" version="1065353216">Fervor &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="399" id2="411564" version="1065353216">Supremacy &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="400" id2="411564" version="1065353216">Endowment &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="401" id2="411564" version="1065353216">Tempest &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="402" id2="411564" version="1065353216">Commander's &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="403" id2="411564" version="1065353216">Hawkeye &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="404" id2="411564" version="1065353216">Vehemence &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="405" id2="411564" version="1065353216">Expert &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="406" id2="411564" version="1065353216">Rampart &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="407" id2="411564" version="1065353216">General's &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="408" id2="411564" version="1065353216">Exactitude &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="409" id2="411564" version="1065353216">Anti-Armor &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="410" id2="411564" version="1065353216">Veracity &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="411" id2="411564" version="1065353216">Rigor &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="412" id2="411564" version="1065353216">Aggression &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="413" id2="411564" version="1065353216">Escutcheon &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="258" id2="769336" version="1065353216">Shielded &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="289" id2="769336" version="1065353216">Artifact Adascorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="290" id2="769336" version="1065353216">Artifact Pravaat &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="291" id2="769336" version="1065353216">Artifact TholCorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="292" id2="769336" version="1065353216">Artifact Arakyd Industries &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="293" id2="769336" version="1065353216">Artifact InterroTek &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="294" id2="769336" version="1065353216">Artifact Adascorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="295" id2="769336" version="1065353216">Artifact Pravaat &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="296" id2="769336" version="1065353216">Artifact TholCorp &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="297" id2="769336" version="1065353216">Artifact Arakyd Industries &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="298" id2="769336" version="1065353216">Artifact InterroTek &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="299" id2="769336" version="1065353216">Outlander Vigilant &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="300" id2="769336" version="1065353216">Outlander Proficient &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="301" id2="769336" version="1065353216">Outlander Savant &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="302" id2="769336" version="1065353216">Outlander Efficient &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="303" id2="769336" version="1065353216">Outlander Steadfast &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="304" id2="769336" version="1065353216">Outlander Warding &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="305" id2="769336" version="1065353216">Outlander Lethal &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="306" id2="769336" version="1065353216">Refined Vigilant &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="307" id2="769336" version="1065353216">Refined Proficient &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="308" id2="769336" version="1065353216">Refined Savant &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="309" id2="769336" version="1065353216">Refined Efficient &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="310" id2="769336" version="1065353216">Refined Steadfast &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="311" id2="769336" version="1065353216">Refined Warding &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="312" id2="769336" version="1065353216">Refined Lethal &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="313" id2="769336" version="1065353216">Stalwart Captain's &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="314" id2="769336" version="1065353216">Wanderer's &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="315" id2="769336" version="1065353216">Trickster's &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="316" id2="769336" version="1065353216">Exile's &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="317" id2="769336" version="1065353216">Resolute &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="318" id2="769336" version="1065353216">Protector's &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="319" id2="769336" version="1065353216">Aggressor's &lt;&lt;1&gt;&gt;</text>
+	</file_content>
+</stb_file>

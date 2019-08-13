@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>21</strs>
+		<file_name>/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/firstclassvalet.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="661152" id2="17" version="1065353216">Greetings, my lord. On your way to the capital?</text>
+		<text bitflag="3393" id1="661154" id2="17" version="1065353216">Greetings, hunter. On your way to the capital?</text>
+		<text bitflag="3393" id1="661156" id2="17" version="1065353216">Greetings, master. On your way to the capital?</text>
+		<text bitflag="3393" id1="661158" id2="17" version="1065353216">Greetings, mistress. On your way to the capital?</text>
+		<text bitflag="3393" id1="661160" id2="17" version="1065353216">There is a shuttle to Dromund Kaas. Nice for solo traveller. Normally takes several days.</text>
+		<text bitflag="3393" id1="661162" id2="17" version="1065353216">However, a Lord Zash has also arranged a berth for you on the Black Talon. It's an Imperial transport and is considerably faster.</text>
+		<text bitflag="3393" id1="661163" id2="17" version="1065353216">However, a Darth Baras has also arranged a berth for you on the Black Talon. It's an Imperial transport and is considerably faster.</text>
+		<text bitflag="3393" id1="661164" id2="17" version="1065353216">However, someone named Crysta Markon has also arranged a berth for you on the Black Talon. It's an Imperial transport and is considerably faster.</text>
+		<text bitflag="3393" id1="661165" id2="17" version="1065353216">However, a berth has also been arranged for you on the Black Talon by... um, that seems to be classified. Regardless, it's an Imperial transport and is considerably faster.</text>
+		<text bitflag="1360" id1="661166" id2="17" version="1065353216">Just what I wanted to hear.</text>
+		<text bitflag="1360" id1="661167" id2="17" version="1065353216">No time to waste, then.</text>
+		<text bitflag="3393" id1="661168" id2="17" version="1065353216">The Black Talon goes through dangerous territory, though.</text>
+		<text bitflag="3393" id1="661170" id2="17" version="1065353216">Safe travels, my lord.</text>
+		<text bitflag="3393" id1="661171" id2="17" version="1065353216">Safe travels, master.</text>
+		<text bitflag="3393" id1="661172" id2="17" version="1065353216">Safe travels, mistress.</text>
+		<text bitflag="1360" id1="661174" id2="17" version="1065353216">I'll be back. [Refuse Mission]</text>
+		<text bitflag="3393" id1="661175" id2="17" version="1065353216">Of course. When you're ready.</text>
+		<text bitflag="1360" id1="1170518" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1170519" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="1170520" id2="17" version="1065353216">[Start Story Mode]</text>
+		<text bitflag="1360" id1="1170526" id2="17" version="1065353216">[Not at this time]</text>
+	</file_content>
+</stb_file>

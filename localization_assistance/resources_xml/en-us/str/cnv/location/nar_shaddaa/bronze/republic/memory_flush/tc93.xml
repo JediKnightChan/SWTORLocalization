@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>14</strs>
+		<file_name>/resources/en-us/str/cnv/location/nar_shaddaa/bronze/republic/memory_flush/tc93.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="169825" id2="17" version="1065353216">TC = always remember you</text>
+		<text bitflag="3393" id1="169826" id2="17" version="1065353216">TC = ready to serve</text>
+		<text bitflag="1345" id1="169828" id2="17" version="1065353216">TC-93? Carina sent me.</text>
+		<text bitflag="3393" id1="169829" id2="17" version="1065353216">TC = remembers Carina // Carina = obsessive + lonely + creepy</text>
+		<text bitflag="3393" id1="169831" id2="17" version="1065353216">TC = knows Carina sent you for SIS intel</text>
+		<text bitflag="3393" id1="169833" id2="17" version="1065353216">Republic security = full memory wipe // TC + full wipe = no sentience // TC + selective flush = intel gone + sentience maintained</text>
+		<text bitflag="1345" id1="169834" id2="17" version="1065353216">Perform a selective flush, Teecee. I need the plans safe, not your memory destroyed.</text>
+		<text bitflag="1360" id1="169834" id2="17" version="1065353216">You can keep your sentience.</text>
+		<text bitflag="3393" id1="169835" id2="17" version="1065353216">Selective flush = initiated // Old data = backed up + ready for retrieval</text>
+		<text bitflag="3393" id1="169837" id2="17" version="1065353216">Flush = complete // TC = grateful // Republic = lucky to have you</text>
+		<text bitflag="1360" id1="169839" id2="17" version="1065353216">Sorry. [Wipe his memory]</text>
+		<text bitflag="3393" id1="169840" id2="17" version="1065353216">Systems = restarting // Memory = restored to initial state // Emergency backup = ready for retrieval</text>
+		<text bitflag="3393" id1="169842" id2="17" version="1065353216">TC = operational + ready to serve</text>
+		<text bitflag="3393" id1="169844" id2="17" version="1065353216">TC = found home</text>
+	</file_content>
+</stb_file>

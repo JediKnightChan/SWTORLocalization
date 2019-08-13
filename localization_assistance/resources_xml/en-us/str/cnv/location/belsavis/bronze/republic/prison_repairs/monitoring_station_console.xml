@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>23</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/bronze/republic/prison_repairs/monitoring_station_console.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="289037" id2="17" version="1065353216">[You activate the monitoring station terminal and set it to the Republic frequency.]</text>
+		<text bitflag="321" id1="289087" id2="17" version="1065353216">[This monitoring station appears to be deactivated.]</text>
+		<text bitflag="3393" id1="554652" id2="17" version="1065353216">Devlin here, I read you. Were you successful? Did you shut the Esh-kha down for good?</text>
+		<text bitflag="1360" id1="554653" id2="17" version="1065353216">The Esh-kha are beaten.</text>
+		<text bitflag="1360" id1="554654" id2="17" version="1065353216">It wasn't easy.</text>
+		<text bitflag="3393" id1="554655" id2="17" version="1065353216">That's a real relief to hear. We'll have a much easier time dealing with the rest of the Esh-kha now that they can't make their getaway.</text>
+		<text bitflag="3393" id1="554657" id2="17" version="1065353216">Agent Moritt is waiting for you. You should report back to him ASAP.</text>
+		<text bitflag="3393" id1="554659" id2="17" version="1065353216">Again--great work. Devlin out.</text>
+		<text bitflag="1360" id1="554660" id2="17" version="1065353216">You people owe me.</text>
+		<text bitflag="3393" id1="554661" id2="17" version="1065353216">That's fantastic news! I'll--wait. Payment? Are you kidding?</text>
+		<text bitflag="3393" id1="554663" id2="17" version="1065353216">If you're expecting credits, you'd better talk it over with Agent Moritt. He'll want to meet with you for a debriefing anyway.</text>
+		<text bitflag="3393" id1="554665" id2="17" version="1065353216">Thank you for handling this for us. Devlin out.</text>
+		<text bitflag="3393" id1="554666" id2="17" version="1065353216">Come in, I repeat, come in. This is Captain Devlin. Do you read me?</text>
+		<text bitflag="3393" id1="554668" id2="17" version="1065353216">I've got urgent intel from Agent Poz, SIS.</text>
+		<text bitflag="3393" id1="554670" id2="17" version="1065353216">She used data we forwarded to pinpoint exactly where the Esh-kha tapped into the teleporter control system. Forwarding the coordinates now.</text>
+		<text bitflag="3393" id1="554672" id2="17" version="1065353216">If you can reach those controls and shut them down, all of the Esh-kha's escape plans will be toast. We can stop them for good, here and now!</text>
+		<text bitflag="1360" id1="554673" id2="17" version="1065353216">I'm on it.</text>
+		<text bitflag="1360" id1="554674" id2="17" version="1065353216">Understood.</text>
+		<text bitflag="1360" id1="554675" id2="17" version="1065353216">Not too complicated, huh?</text>
+		<text bitflag="3393" id1="554676" id2="17" version="1065353216">The plan is easy, but pulling it off might not be.</text>
+		<text bitflag="1360" id1="554678" id2="17" version="1065353216">Let's finish this.</text>
+		<text bitflag="3393" id1="554679" id2="17" version="1065353216">Scans show hordes of those monsters in place to guard the teleporter controls. You're going to have a lot of fighting ahead of you.</text>
+		<text bitflag="3393" id1="554681" id2="17" version="1065353216">I'll keep this frequency open so you can report back when it's done. Good luck. Devlin out.</text>
+	</file_content>
+</stb_file>

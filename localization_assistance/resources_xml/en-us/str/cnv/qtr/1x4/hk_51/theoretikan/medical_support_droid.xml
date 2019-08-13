@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x4/hk_51/theoretikan/medical_support_droid.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1069539" id2="17" version="1065353216">FLASH :: Czerka recovery operation identity = confirmed // Memory logs = begin playback // WARNING = power minimal // Playback = priority logs text only :: FLASH</text>
+		<text bitflag="321" id1="1069563" id2="17" version="1065353216">LOG 4.298.02 :: Theoretika stranded. Food stores adequate. Watchdog protocols: activated. Research preservation protocols: activated.</text>
+		<text bitflag="321" id1="1069565" id2="17" version="1065353216">LOG 4.339.12 :: Food stores low. Employee starvation imminent. Reclassifying: terminated employees = research. Escalate priority: preserve research. Embalming protocols: activated.</text>
+		<text bitflag="321" id1="1069970" id2="17" version="1065353216">LOG 5.012.00 :: Food stores minimal. Mutiny imminent. Watchdog override: preserve Theoretika. Reclassifying: food stores = infestation. Pesticide protocols: activated.</text>
+	</file_content>
+</stb_file>

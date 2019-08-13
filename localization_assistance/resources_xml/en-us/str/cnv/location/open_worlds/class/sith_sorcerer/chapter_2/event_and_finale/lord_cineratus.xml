@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>40</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/sith_sorcerer/chapter_2/event_and_finale/lord_cineratus.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="638636" id2="17" version="1065353216">Hurry, slaves! Before that petty upstart blah blah blah....</text>
+		<text bitflag="1345" id1="638639" id2="17" version="1065353216">Are you the Sith who killed my apprentices?</text>
+		<text bitflag="1360" id1="638639" id2="17" version="1065353216">Murderer.</text>
+		<text bitflag="1345" id1="638640" id2="17" version="1065353216">My lord. I assure you it was nothing personal. I'd just prefer to stay off Thanaton's hit list.</text>
+		<text bitflag="1345" id1="638642" id2="17" version="1065353216">I hope you weren't calling me a petty upstart.</text>
+		<text bitflag="1360" id1="638642" id2="17" version="1065353216">You weren't talking about me?</text>
+		<text bitflag="1345" id1="638643" id2="17" version="1065353216">Oh come now, don't be offended. I have to say something to inspire these wretches.</text>
+		<text bitflag="1345" id1="638645" id2="17" version="1065353216">Thanaton makes a fool of himself with this stupid rivalry.</text>
+		<text bitflag="1360" id1="638645" id2="17" version="1065353216">This is such a waste.</text>
+		<text bitflag="1345" id1="638646" id2="17" version="1065353216">No, he makes fools of us. While he remains clean and aloof.</text>
+		<text bitflag="1345" id1="638648" id2="17" version="1065353216">Or do you really think I have nothing better to do than chase a pair of low apprentices across the blasted galaxy?</text>
+		<text bitflag="1345" id1="638650" id2="17" version="1065353216">Now, as often happens when two Sith first meet, one of us isn't leaving this room alive. So I propose a toast. To the honorably defeated.</text>
+		<text bitflag="1345" id1="638651" id2="17" version="1065353216">I will gladly drink to your death, Lord... I'm sorry, what was your name again?</text>
+		<text bitflag="1360" id1="638651" id2="17" version="1065353216">To you, then.</text>
+		<text bitflag="1345" id1="638652" id2="17" version="1065353216">Lord Cineratus. My father's choice. Call me Jevan. I can't say it will be a pleasure to die, but I'll try not to make a fool of myself.</text>
+		<text bitflag="1345" id1="638653" id2="17" version="1065353216">Are you sure you won't consider joining me? Not that anyone would question your loyalty to Thanaton, of course.</text>
+		<text bitflag="1360" id1="638653" id2="17" version="1065353216">We don't have to fight.</text>
+		<text bitflag="1345" id1="638654" id2="17" version="1065353216">That's a tall order. Honor demands I die if I betray my master.</text>
+		<text bitflag="1345" id1="638655" id2="17" version="1065353216">If you don't join me, I'll kill you.</text>
+		<text bitflag="1360" id1="638655" id2="17" version="1065353216">You die either way.</text>
+		<text bitflag="1345" id1="638656" id2="17" version="1065353216">But against you, I have a fighting chance.</text>
+		<text bitflag="1345" id1="638657" id2="17" version="1065353216">I don't suppose your honor can be bought?</text>
+		<text bitflag="1360" id1="638657" id2="17" version="1065353216">How about a stack of credits?</text>
+		<text bitflag="1345" id1="638658" id2="17" version="1065353216">Now there's a thought. Alderaanian brandy isn't cheap.</text>
+		<text bitflag="1345" id1="638660" id2="17" version="1065353216">I wouldn't sell out for anything less than a new set of starship stabilizers. Your little rogues mangled mine during the chase.</text>
+		<text bitflag="1360" id1="638661" id2="17" version="1065353216">It's a deal.</text>
+		<text bitflag="1345" id1="638662" id2="17" version="1065353216">Excellent, my lord. You may consider myself and my minions at your command.</text>
+		<text bitflag="1345" id1="638664" id2="17" version="1065353216">Oh, and I found this on your apprentices. Some kind of key perhaps?</text>
+		<text bitflag="1345" id1="638666" id2="17" version="1065353216">You'd best not linger. I wasn't the only Sith chasing these two. I'll cover your escape.</text>
+		<text bitflag="1360" id1="638668" id2="17" version="1065353216">Forget it. You die.</text>
+		<text bitflag="1345" id1="638669" id2="17" version="1065353216">I didn't think I was being unreasonable. But suit yourself. And good luck.</text>
+		<text bitflag="1345" id1="638670" id2="17" version="1065353216">On second thought, who pays for loyalty these days?</text>
+		<text bitflag="1360" id1="638670" id2="17" version="1065353216">Um, no. [Shock him]</text>
+		<text bitflag="1345" id1="638671" id2="17" version="1065353216">You don't have a choice!</text>
+		<text bitflag="1360" id1="638671" id2="17" version="1065353216">Join me! [Shock him]</text>
+		<text bitflag="1345" id1="638672" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="638674" id2="17" version="1065353216">Thank you. I was having a hard time bringing myself to really hate you. But that did the trick.</text>
+		<text bitflag="1345" id1="638675" id2="17" version="1065353216">There isn't a chance I could be buried on Korriban is there? I hear the tomb of Naga Sadow is vacant.</text>
+		<text bitflag="1360" id1="638675" id2="17" version="1065353216">Get me a nice tomb.</text>
+		<text bitflag="1345" id1="638676" id2="17" version="1065353216">The odds are slim, but I could put in a good word for you.</text>
+	</file_content>
+</stb_file>

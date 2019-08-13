@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>84</strs>
+		<file_name>/resources/en-us/str/ahd.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="436" id2="780223" version="1065353216">Wall Small</text>
+		<text bitflag="321" id1="437" id2="780223" version="1065353216">Wall Medium</text>
+		<text bitflag="321" id1="438" id2="780223" version="1065353216">Wall Large</text>
+		<text bitflag="321" id1="439" id2="780223" version="1065353216">Floor Small</text>
+		<text bitflag="321" id1="440" id2="780223" version="1065353216">Floor Medium</text>
+		<text bitflag="321" id1="441" id2="780223" version="1065353216">Floor Large</text>
+		<text bitflag="321" id1="443" id2="780223" version="1065353216">Ceiling Large</text>
+		<text bitflag="321" id1="446" id2="780223" version="1065353216">Small</text>
+		<text bitflag="321" id1="447" id2="780223" version="1065353216">Medium</text>
+		<text bitflag="321" id1="448" id2="780223" version="1065353216">Large</text>
+		<text bitflag="321" id1="452" id2="780223" version="1065353216">Small</text>
+		<text bitflag="321" id1="453" id2="780223" version="1065353216">Medium</text>
+		<text bitflag="321" id1="454" id2="780223" version="1065353216">Large</text>
+		<text bitflag="321" id1="485" id2="780223" version="1065353216">Two Small Horizontal</text>
+		<text bitflag="321" id1="486" id2="780223" version="1065353216">Three Small Horizontal</text>
+		<text bitflag="321" id1="525" id2="780223" version="1065353216">Large</text>
+		<text bitflag="321" id1="527" id2="780223" version="1065353216">Small &amp; Medium Mix</text>
+		<text bitflag="321" id1="528" id2="780223" version="1065353216">Four Small Block</text>
+		<text bitflag="321" id1="542" id2="780223" version="1065353216">Large Standard Arrangement</text>
+		<text bitflag="321" id1="548" id2="780223" version="1065353216">Medium &amp; Small Mix A</text>
+		<text bitflag="321" id1="551" id2="780223" version="1065353216">Small Columns</text>
+		<text bitflag="321" id1="558" id2="780223" version="1065353216">Two Medium Horizontal</text>
+		<text bitflag="321" id1="561" id2="780223" version="1065353216">Medium Column</text>
+		<text bitflag="321" id1="567" id2="780223" version="1065353216">Two Large Four Small Block</text>
+		<text bitflag="321" id1="633" id2="780223" version="1065353216">Two Medium Horizontal Six Small Block</text>
+		<text bitflag="321" id1="640" id2="780223" version="1065353216">Small Block</text>
+		<text bitflag="321" id1="645" id2="780223" version="1065353216">Small Columns</text>
+		<text bitflag="321" id1="785" id2="780223" version="1065353216">Five Small Column</text>
+		<text bitflag="321" id1="787" id2="780223" version="1065353216">Four Small Column</text>
+		<text bitflag="321" id1="958" id2="780223" version="1065353216">Floor Medium Narrow</text>
+		<text bitflag="321" id1="964" id2="780223" version="1065353216">Nine Small Block</text>
+		<text bitflag="321" id1="974" id2="780223" version="1065353216">Small Cross</text>
+		<text bitflag="321" id1="980" id2="780223" version="1065353216">Three Small Column</text>
+		<text bitflag="321" id1="1118" id2="780223" version="1065353216">Medium Columns</text>
+		<text bitflag="321" id1="1123" id2="780223" version="1065353216">Large Columns</text>
+		<text bitflag="321" id1="1128" id2="780223" version="1065353216">Sixteen Small Block</text>
+		<text bitflag="321" id1="1153" id2="780223" version="1065353216">Medium Twelve Small Block</text>
+		<text bitflag="321" id1="1190" id2="780223" version="1065353216">Medium Narrow</text>
+		<text bitflag="321" id1="1198" id2="780223" version="1065353216">Small &amp; Narrow (A)</text>
+		<text bitflag="321" id1="1204" id2="780223" version="1065353216">Narrow Pair</text>
+		<text bitflag="321" id1="1213" id2="780223" version="1065353216">Double Narrow</text>
+		<text bitflag="321" id1="1265" id2="780223" version="1065353216">Small Columns</text>
+		<text bitflag="321" id1="1291" id2="780223" version="1065353216">Medium &amp; Small Mix A</text>
+		<text bitflag="321" id1="1351" id2="780223" version="1065353216">Medium Six Small Block Left</text>
+		<text bitflag="321" id1="1404" id2="780223" version="1065353216">Small Pair</text>
+		<text bitflag="321" id1="1456" id2="780223" version="1065353216">Medium Block</text>
+		<text bitflag="321" id1="1496" id2="780223" version="1065353216">Style B</text>
+		<text bitflag="321" id1="1500" id2="780223" version="1065353216">Style A</text>
+		<text bitflag="321" id1="1518" id2="780223" version="1065353216">Style C</text>
+		<text bitflag="321" id1="1593" id2="780223" version="1065353216">Large &amp; Small Mix</text>
+		<text bitflag="321" id1="1635" id2="780223" version="1065353216">Massive Structure</text>
+		<text bitflag="321" id1="1636" id2="780223" version="1065353216">Starship</text>
+		<text bitflag="321" id1="1637" id2="780223" version="1065353216">Centerpiece</text>
+		<text bitflag="321" id1="1638" id2="780223" version="1065353216">Floor Covering</text>
+		<text bitflag="321" id1="1665" id2="780223" version="1065353216">Small Columns</text>
+		<text bitflag="321" id1="1713" id2="780223" version="1065353216">Two Large Vertical</text>
+		<text bitflag="321" id1="1736" id2="780223" version="1065353216">Narrow &amp; Small Cross</text>
+		<text bitflag="321" id1="1756" id2="780223" version="1065353216">Small &amp; Narrow Cross</text>
+		<text bitflag="321" id1="1773" id2="780223" version="1065353216">Small Pair</text>
+		<text bitflag="321" id1="1779" id2="780223" version="1065353216">Small &amp; Narrow (B)</text>
+		<text bitflag="321" id1="1798" id2="780223" version="1065353216">Small &amp; Medium Columns</text>
+		<text bitflag="321" id1="1810" id2="780223" version="1065353216">Floor Covering</text>
+		<text bitflag="321" id1="1813" id2="780223" version="1065353216">Centerpiece</text>
+		<text bitflag="321" id1="1817" id2="780223" version="1065353216">Large Block</text>
+		<text bitflag="321" id1="1823" id2="780223" version="1065353216">Large &amp; Medium Mix</text>
+		<text bitflag="321" id1="1850" id2="780223" version="1065353216">Massive Structure</text>
+		<text bitflag="321" id1="1857" id2="780223" version="1065353216">Starship</text>
+		<text bitflag="321" id1="1869" id2="780223" version="1065353216">Medium Cross</text>
+		<text bitflag="321" id1="1892" id2="780223" version="1065353216">Large/Medium Narrow Cross</text>
+		<text bitflag="321" id1="1912" id2="780223" version="1065353216">Small Ring</text>
+		<text bitflag="321" id1="1987" id2="780223" version="1065353216">Large/Medium Arrangement</text>
+		<text bitflag="321" id1="1994" id2="780223" version="1065353216">Medium/Small Arrangement 1</text>
+		<text bitflag="321" id1="2013" id2="780223" version="1065353216">Medium/Small Arrangement 2</text>
+		<text bitflag="321" id1="2044" id2="780223" version="1065353216">Medium/Small Cross</text>
+		<text bitflag="321" id1="2069" id2="780223" version="1065353216">Medium &amp; Small Mix B</text>
+		<text bitflag="321" id1="2079" id2="780223" version="1065353216">Medium &amp; Small Mix B</text>
+		<text bitflag="321" id1="2110" id2="780223" version="1065353216">Centerpiece Cross A</text>
+		<text bitflag="321" id1="2151" id2="780223" version="1065353216">Large/Medium Ring</text>
+		<text bitflag="321" id1="2193" id2="780223" version="1065353216">Centerpiece Cross B</text>
+		<text bitflag="321" id1="2233" id2="780223" version="1065353216">Medium &amp; Narrow Columns</text>
+		<text bitflag="321" id1="2414" id2="780223" version="1065353216">Arena</text>
+		<text bitflag="321" id1="2415" id2="780223" version="1065353216">Sky Deck Arena</text>
+		<text bitflag="321" id1="2420" id2="780223" version="1065353216">Large/Medium Breakdown</text>
+		<text bitflag="321" id1="2491" id2="780223" version="1065353216">Star Ships</text>
+	</file_content>
+</stb_file>

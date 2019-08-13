@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>568</strs>
+		<file_name>/resources/en-us/str/sys/flashpoint.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has sliced the elevator.</text>
+		<text bitflag="321" id1="257" id2="574947" version="1065353216">Malgus is filling &lt;&lt;1&gt;&gt;'s mind with visons of doubt!</text>
+		<text bitflag="321" id1="258" id2="574947" version="1065353216">The doubt weighs heavy on &lt;&lt;1&gt;&gt;, they must face their destiny!</text>
+		<text bitflag="321" id1="259" id2="574947" version="1065353216">The time has come!  &lt;&lt;1&gt;&gt; must face Malgus alone!</text>
+		<text bitflag="321" id1="514" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has repaired the elevator.</text>
+		<text bitflag="321" id1="515" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has repaired the drill.</text>
+		<text bitflag="321" id1="516" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has opened the sealed door.</text>
+		<text bitflag="321" id1="517" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has repaired the battledroid.</text>
+		<text bitflag="321" id1="518" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has repaired the medical droid.</text>
+		<text bitflag="321" id1="519" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has collected a biological sample.</text>
+		<text bitflag="321" id1="520" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has deactivated the forcefields.</text>
+		<text bitflag="321" id1="521" id2="574947" version="1065353216">You already have a follower.</text>
+		<text bitflag="321" id1="523" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; is resisting arrest and must be terminated!</text>
+		<text bitflag="321" id1="524" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; is under arrest!  Stop EN-4C from neutralizing them!</text>
+		<text bitflag="321" id1="525" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; used explosives to open the sealed door.</text>
+		<text bitflag="321" id1="526" id2="574947" version="1065353216">Explosives are required to open this door.</text>
+		<text bitflag="321" id1="527" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has collected the explosives.</text>
+		<text bitflag="321" id1="528" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has repaired the security gate.</text>
+		<text bitflag="321" id1="529" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has released the prisoner.</text>
+		<text bitflag="321" id1="530" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has rescued the caged hound.</text>
+		<text bitflag="321" id1="531" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has called for reinforcements!</text>
+		<text bitflag="321" id1="532" id2="574947" version="1065353216">Purchase a VIP wristband to enter. Available with Digital Deluxe.</text>
+		<text bitflag="321" id1="533" id2="574947" version="1065353216">[Console D-1] Power temporarily routed to generator D-2.</text>
+		<text bitflag="321" id1="534" id2="574947" version="1065353216">[Console D-2] Power temporarily routed to generator D-1.</text>
+		<text bitflag="321" id1="535" id2="574947" version="1065353216">[Power Failure] Routes D-1 and D-2 have been reset.</text>
+		<text bitflag="321" id1="536" id2="574947" version="1065353216">[Console] Route successful: Power diverted from ISS-7.</text>
+		<text bitflag="321" id1="537" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has enabled the enforcer cruisier.</text>
+		<text bitflag="321" id1="538" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has repaired the combat droid.</text>
+		<text bitflag="321" id1="539" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has released a caged hound.</text>
+		<text bitflag="321" id1="540" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has attracted a young Alchemical Snarler.</text>
+		<text bitflag="321" id1="541" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has been targeted by Mentor's claw.</text>
+		<text bitflag="321" id1="542" id2="574947" version="1065353216">[Stasis Chamber] Shutdown sequence code entered...</text>
+		<text bitflag="321" id1="543" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has been scanned. Searching for matching organic...</text>
+		<text bitflag="321" id1="544" id2="574947" version="1065353216">A cyborg replacement for &lt;&lt;1&gt;&gt; has been released.</text>
+		<text bitflag="321" id1="545" id2="574947" version="1065353216">Initializing automatic Target Lock system...</text>
+		<text bitflag="321" id1="546" id2="574947" version="1065353216">Level 1 Target Lock acquired! Missile damage increased by 100%</text>
+		<text bitflag="321" id1="547" id2="574947" version="1065353216">Level 2 Target Lock acquired! Missile damage increased by 200%</text>
+		<text bitflag="321" id1="548" id2="574947" version="1065353216">Level 3 Target Lock acquired! Missile damage increased by 300%</text>
+		<text bitflag="321" id1="549" id2="574947" version="1065353216">Ship targeting systems disrupted!  Target Lock reset!</text>
+		<text bitflag="321" id1="550" id2="574947" version="1065353216">Commander Lk'graagth has ordered his squad to attack &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="551" id2="574947" version="1065353216">G'klarg is becoming angry!</text>
+		<text bitflag="321" id1="553" id2="574947" version="1065353216">G'klarg howls angrily in pain!</text>
+		<text bitflag="321" id1="554" id2="574947" version="1065353216">The Behemoth has entered a frenzy. Run!</text>
+		<text bitflag="321" id1="555" id2="574947" version="1065353216">The Drouks are near each other and are growing stronger!</text>
+		<text bitflag="321" id1="556" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has been targeted by Ball Lightning!</text>
+		<text bitflag="321" id1="557" id2="574947" version="1065353216">Doctor Lorrick is activating a Kolto Tank!</text>
+		<text bitflag="321" id1="558" id2="574947" version="1065353216">The Drouks are unstoppable!</text>
+		<text bitflag="321" id1="559" id2="574947" version="1065353216">Mine is defusable for 15 seconds!</text>
+		<text bitflag="321" id1="560" id2="574947" version="1065353216">Mine is defusable for 10 seconds!</text>
+		<text bitflag="321" id1="561" id2="574947" version="1065353216">Mine is defusable for 5 seconds!</text>
+		<text bitflag="321" id1="562" id2="574947" version="1065353216">Not usable at this time.</text>
+		<text bitflag="321" id1="563" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; got the landmine defusal kit!</text>
+		<text bitflag="321" id1="564" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has the probe launcher access card!</text>
+		<text bitflag="321" id1="565" id2="574947" version="1065353216">You need an access card.</text>
+		<text bitflag="321" id1="566" id2="574947" version="1065353216">Project Sav-Rak prepares to Sav-Rak Smash!</text>
+		<text bitflag="321" id1="567" id2="574947" version="1065353216">Project Sav-Rak jumps onto a pipe!</text>
+		<text bitflag="321" id1="568" id2="574947" version="1065353216">Unauthorized access attempt detected.::Transferring power to Security Systems.</text>
+		<text bitflag="321" id1="569" id2="574947" version="1065353216">Engaging security systems to secure laboratory access.</text>
+		<text bitflag="321" id1="570" id2="574947" version="1065353216">Northern pylon wheel has been solved!</text>
+		<text bitflag="321" id1="571" id2="574947" version="1065353216">Southern pylon wheel has been solved!</text>
+		<text bitflag="321" id1="572" id2="574947" version="1065353216">Both pylon wheels have been solved! Advancing to next wheel.</text>
+		<text bitflag="321" id1="573" id2="574947" version="1065353216">Door controls offline.::Re-route power using Power Controls to enable  door controls.</text>
+		<text bitflag="321" id1="574" id2="574947" version="1065353216">Time Failure: The ancient pylons have reset.</text>
+		<text bitflag="321" id1="575" id2="574947" version="1065353216">Doctor Lorrick powers up a Kolto Tank.</text>
+		<text bitflag="321" id1="576" id2="574947" version="1065353216">Transgenic Sample Eleven smashes the facility floor.</text>
+		<text bitflag="321" id1="577" id2="574947" version="1065353216">Toth is berserk! Stay away!</text>
+		<text bitflag="321" id1="578" id2="574947" version="1065353216">The Pulsar Droids are reversing their circuits!</text>
+		<text bitflag="321" id1="579" id2="574947" version="1065353216">Colonel Vorgath switches targets!</text>
+		<text bitflag="321" id1="580" id2="574947" version="1065353216">Kovic readies his grenades!</text>
+		<text bitflag="321" id1="581" id2="574947" version="1065353216">Kovic runs out of grenades.</text>
+		<text bitflag="321" id1="582" id2="574947" version="1065353216">Kovic locates a nearby cache of grenades.</text>
+		<text bitflag="321" id1="583" id2="574947" version="1065353216">Kovic begins to call in Airstrikes!</text>
+		<text bitflag="321" id1="584" id2="574947" version="1065353216">Aborting minefield attempt...</text>
+		<text bitflag="321" id1="585" id2="574947" version="1065353216">Unable to abort minefield attempt while in combat.</text>
+		<text bitflag="321" id1="586" id2="574947" version="1065353216">Manual Override: The ancient pylons have reset.</text>
+		<text bitflag="321" id1="587" id2="574947" version="1065353216">Kel'sara has marked &lt;&lt;1&gt;&gt; for death!</text>
+		<text bitflag="321" id1="588" id2="574947" version="1065353216">Malgus' resolve is wavering! He appears vulnerable!</text>
+		<text bitflag="321" id1="589" id2="574947" version="1065353216">The Savage is fixated on &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="590" id2="574947" version="1065353216">Krel Thak activates his Proximity Probe!</text>
+		<text bitflag="321" id1="592" id2="574947" version="1065353216">Kephess aims a Radioactive Barrage at &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="594" id2="574947" version="1065353216">Corrupted Nanites on you!</text>
+		<text bitflag="321" id1="597" id2="574947" version="1065353216">Kephess fires a Bracer Salvo at &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="598" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; begins to interface with the Hypergate Control Tower!</text>
+		<text bitflag="321" id1="599" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; destroys the Hypergate Control Tower.</text>
+		<text bitflag="321" id1="601" id2="574947" version="1065353216">Kephess charges a focused Laser Blast at &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="602" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has deactivated the core shields!</text>
+		<text bitflag="321" id1="603" id2="574947" version="1065353216">You've attacked the Beastmaster and the Savage is growing insane!</text>
+		<text bitflag="321" id1="604" id2="574947" version="1065353216">Exhaustion Zone! Turn back now!</text>
+		<text bitflag="321" id1="605" id2="574947" version="1065353216">The time to face your destiny has expired!</text>
+		<text bitflag="321" id1="606" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; uses Dreadful Essence on Dreadtooth.</text>
+		<text bitflag="321" id1="607" id2="574947" version="1065353216">Malfunctioning Controller activating self destruct sequence!</text>
+		<text bitflag="321" id1="608" id2="574947" version="1065353216">Operation restored. Power levels at fifty percent.</text>
+		<text bitflag="321" id1="609" id2="574947" version="1065353216">Operation restored. Power levels at one hundred percent.</text>
+		<text bitflag="321" id1="610" id2="574947" version="1065353216">Error. Inadequate power to complete request.</text>
+		<text bitflag="321" id1="611" id2="574947" version="1065353216">A Jealous Male has arrived to defend his mate!</text>
+		<text bitflag="321" id1="612" id2="574947" version="1065353216">Heirad begins to cast Surging Chain!</text>
+		<text bitflag="321" id1="613" id2="574947" version="1065353216">Heirad begins to channel Lightning Field!</text>
+		<text bitflag="321" id1="614" id2="574947" version="1065353216">Ciphas dooms &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="615" id2="574947" version="1065353216">Ciphas strangles &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="616" id2="574947" version="1065353216">Kel'sara commands Dread Guards to assist her!</text>
+		<text bitflag="321" id1="617" id2="574947" version="1065353216">Kel'sara casts Force Leech on &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="618" id2="574947" version="1065353216">Operator IX targets &lt;&lt;1&gt;&gt; with blue deletion protocol!</text>
+		<text bitflag="321" id1="619" id2="574947" version="1065353216">Operator IX targets &lt;&lt;1&gt;&gt; with orange deletion protocol!</text>
+		<text bitflag="321" id1="620" id2="574947" version="1065353216">Operator IX targets &lt;&lt;1&gt;&gt; with purple deletion protocol!</text>
+		<text bitflag="321" id1="621" id2="574947" version="1065353216">Operator IX targets &lt;&lt;1&gt;&gt; with yellow deletion protocol!</text>
+		<text bitflag="321" id1="622" id2="574947" version="1065353216">Nightmare Timed Run: Timer starts now, 2 hours remaining.</text>
+		<text bitflag="321" id1="623" id2="574947" version="1065353216">Nightmare Timed Run: 1.5 hours remaining.</text>
+		<text bitflag="321" id1="624" id2="574947" version="1065353216">Nightmare Timed Run: 1 hour remaining.</text>
+		<text bitflag="321" id1="625" id2="574947" version="1065353216">Nightmare Timed Run: 45 minutes remaining.</text>
+		<text bitflag="321" id1="626" id2="574947" version="1065353216">Nightmare Timed Run: 30 minutes remaining.</text>
+		<text bitflag="321" id1="627" id2="574947" version="1065353216">Nightmare Timed Run: 15 minutes remaining.</text>
+		<text bitflag="321" id1="628" id2="574947" version="1065353216">Nightmare Timed Run: 10 minutes remaining.</text>
+		<text bitflag="321" id1="629" id2="574947" version="1065353216">Nightmare Timed Run: 5 minutes remaining.</text>
+		<text bitflag="321" id1="630" id2="574947" version="1065353216">Nightmare Timed Run: 1 minute remaining.</text>
+		<text bitflag="321" id1="631" id2="574947" version="1065353216">Nightmare Timed Run: Timer expired.</text>
+		<text bitflag="321" id1="632" id2="574947" version="1065353216">Attackers are approaching from the North!</text>
+		<text bitflag="321" id1="633" id2="574947" version="1065353216">Attackers are approaching from the South!</text>
+		<text bitflag="321" id1="634" id2="574947" version="1065353216">Attackers are approaching from the West!</text>
+		<text bitflag="321" id1="635" id2="574947" version="1065353216">Attackers are approaching from the East!</text>
+		<text bitflag="321" id1="636" id2="574947" version="1065353216">A Champion enters the battlefield from the North!</text>
+		<text bitflag="321" id1="637" id2="574947" version="1065353216">A Champion enters the battlefield from the South!</text>
+		<text bitflag="321" id1="638" id2="574947" version="1065353216">A Champion enters the battlefield from the West!</text>
+		<text bitflag="321" id1="639" id2="574947" version="1065353216">A Champion enters the battlefield from the East!</text>
+		<text bitflag="321" id1="640" id2="574947" version="1065353216">The Terror from Beyond enters a furious tantrum!</text>
+		<text bitflag="321" id1="641" id2="574947" version="1065353216">A Hypergate Anomaly appears!</text>
+		<text bitflag="321" id1="642" id2="574947" version="1065353216">The Hypergate Anomaly has spread to a new platform!</text>
+		<text bitflag="321" id1="643" id2="574947" version="1065353216">Failed to achieve Red Obtuse. Activating Green Bisector.</text>
+		<text bitflag="321" id1="644" id2="574947" version="1065353216">You feel a strange and chilling presence.</text>
+		<text bitflag="321" id1="645" id2="574947" version="1065353216">Kephess has become all-powerful from defeating his foes!</text>
+		<text bitflag="321" id1="646" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has absorbed the calming pheromones!</text>
+		<text bitflag="321" id1="647" id2="574947" version="1065353216">The Environmental Isolation Field Generator has run out of power!</text>
+		<text bitflag="321" id1="648" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has become lost in the sandstorm!</text>
+		<text bitflag="321" id1="649" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has activated a deletion shield!</text>
+		<text bitflag="321" id1="650" id2="574947" version="1065353216">Forcefield deactivating in 3 seconds!</text>
+		<text bitflag="321" id1="651" id2="574947" version="1065353216">Forcefield deactivating in 2 seconds!</text>
+		<text bitflag="321" id1="652" id2="574947" version="1065353216">Forcefield deactivating in 1 second!</text>
+		<text bitflag="321" id1="653" id2="574947" version="1065353216">The humming of the power converter is attracting hungry xuvvas!</text>
+		<text bitflag="321" id1="654" id2="574947" version="1065353216">The xuvvas have destroyed the shield's power source, rendering it unusable!</text>
+		<text bitflag="321" id1="655" id2="574947" version="1065353216">Oasis City Infiltration Event started!</text>
+		<text bitflag="321" id1="656" id2="574947" version="1065353216">Find and defeat the Operations Chief and the four patrol teams without raising an alarm.</text>
+		<text bitflag="321" id1="657" id2="574947" version="1065353216">move quickly! If you take too long, the general city population will eventually notice and report you.</text>
+		<text bitflag="321" id1="658" id2="574947" version="1065353216">10 minutes remaining...</text>
+		<text bitflag="321" id1="659" id2="574947" version="1065353216">5 minutes remaining...</text>
+		<text bitflag="321" id1="660" id2="574947" version="1065353216">3 minutes remaining...</text>
+		<text bitflag="321" id1="661" id2="574947" version="1065353216">1 minute remaining...</text>
+		<text bitflag="321" id1="662" id2="574947" version="1065353216">You have been noticed by the general population and reported to Security (Time limit exceeded)!</text>
+		<text bitflag="321" id1="663" id2="574947" version="1065353216">Oasis City Infiltration Failed</text>
+		<text bitflag="321" id1="664" id2="574947" version="1065353216">Participant Species! Circumstances evolve Purple Tangent!</text>
+		<text bitflag="321" id1="665" id2="574947" version="1065353216">This unit advances gratitude for selfless self-nominations.</text>
+		<text bitflag="321" id1="666" id2="574947" version="1065353216">Participant Species' blue obtuse progresses research toward Red Octagon.</text>
+		<text bitflag="321" id1="667" id2="574947" version="1065353216">Formulating Test Plan...</text>
+		<text bitflag="321" id1="668" id2="574947" version="1065353216">Evaluating Thermal Tolerance...</text>
+		<text bitflag="321" id1="669" id2="574947" version="1065353216">Problem! This unit's nanite shield confers immunity from attacks and repairs damage.</text>
+		<text bitflag="321" id1="670" id2="574947" version="1065353216">Evaluating battle-awareness of environment cues...</text>
+		<text bitflag="321" id1="671" id2="574947" version="1065353216">Loading final evaluation...</text>
+		<text bitflag="321" id1="672" id2="574947" version="1065353216">Participant species will demonstrate full battle output capacity.</text>
+		<text bitflag="321" id1="673" id2="574947" version="1065353216">This unit will supply urgency to heighten response-performance.</text>
+		<text bitflag="321" id1="674" id2="574947" version="1065353216">Execute!</text>
+		<text bitflag="321" id1="675" id2="574947" version="1065353216">Participant performance Yellow Convex. Encouraging improved responsiveness...</text>
+		<text bitflag="321" id1="676" id2="574947" version="1065353216">Comparing participants against species archives...</text>
+		<text bitflag="321" id1="677" id2="574947" version="1065353216">Experiment time limit exceeded! Clearing research area for future experiments...</text>
+		<text bitflag="321" id1="679" id2="574947" version="1065353216">Test initiated! Setting time limit: 10 minutes.</text>
+		<text bitflag="321" id1="680" id2="574947" version="1065353216">Test initiated! Setting time limit: 8 minutes.</text>
+		<text bitflag="321" id1="681" id2="574947" version="1065353216">Snipers activating defensive protocols.</text>
+		<text bitflag="321" id1="682" id2="574947" version="1065353216">Snipers activating defensive protocols activating in 4 seconds . . .</text>
+		<text bitflag="321" id1="683" id2="574947" version="1065353216">Snipers activating defensive protocols activating in 3 seconds . . .</text>
+		<text bitflag="321" id1="684" id2="574947" version="1065353216">Snipers activating defensive protocols activating in 2
+ seconds . . .</text>
+		<text bitflag="321" id1="685" id2="574947" version="1065353216">Snipers activating defensive protocols activating in 1 second . . .</text>
+		<text bitflag="321" id1="686" id2="574947" version="1065353216">Defensive protocols activated!</text>
+		<text bitflag="321" id1="687" id2="574947" version="1065353216">Titan Six has thrown a huge grenade at you!</text>
+		<text bitflag="321" id1="688" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has engaged Blue Team!</text>
+		<text bitflag="321" id1="689" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has engaged Green Team!</text>
+		<text bitflag="321" id1="690" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has engaged Gold Team!</text>
+		<text bitflag="321" id1="691" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has engaged Red Team!</text>
+		<text bitflag="321" id1="692" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; broke the magnetic shackles!</text>
+		<text bitflag="321" id1="693" id2="574947" version="1065353216">Access Denied: Oasis City currently under emergency lockdown.</text>
+		<text bitflag="321" id1="694" id2="574947" version="1065353216">Preparation complete! Participant Species may begin the experiment at any time.</text>
+		<text bitflag="321" id1="695" id2="574947" version="1065353216">Compiling suitable interactive research exercise. Please stand by...</text>
+		<text bitflag="321" id1="696" id2="574947" version="1065353216">A Mercenary Firebug has targeted &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="697" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; received the credit token!</text>
+		<text bitflag="321" id1="698" id2="574947" version="1065353216">Captain Horic is firing in &lt;&lt;1&gt;&gt;'s direction!</text>
+		<text bitflag="321" id1="699" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; is trapped in a nightmare!</text>
+		<text bitflag="321" id1="700" id2="574947" version="1065353216">6 minutes remaining...</text>
+		<text bitflag="321" id1="701" id2="574947" version="1065353216">Sunder has fixated on &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="702" id2="574947" version="1065353216">Titan 6 has thrown a huge grenade at &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="703" id2="574947" version="1065353216">Effusive jubilation! Please accept material-form positive reinforcement!</text>
+		<text bitflag="321" id1="704" id2="574947" version="1065353216">This unit rejoices in participant species' generous data contributions.</text>
+		<text bitflag="321" id1="705" id2="574947" version="1065353216">Combat data analysis will soon achieve blue acute!</text>
+		<text bitflag="321" id1="706" id2="574947" version="1065353216">Encounter is already active</text>
+		<text bitflag="321" id1="707" id2="574947" version="1065353216">3 minutes remaining.</text>
+		<text bitflag="321" id1="710" id2="574947" version="1065353216">Sandstorm simulation activated.</text>
+		<text bitflag="321" id1="711" id2="574947" version="1065353216">The poisonous spores have severely weakened the Enhanced Vrblther.</text>
+		<text bitflag="321" id1="712" id2="574947" version="1065353216">Enhanced Vrblther has re-adjusted to his climate.</text>
+		<text bitflag="321" id1="713" id2="574947" version="1065353216">This flashpoint is balanced for a group of any two to four players.</text>
+		<text bitflag="321" id1="714" id2="574947" version="1065353216">Security Protocols Activated!</text>
+		<text bitflag="321" id1="715" id2="574947" version="1065353216">You may be unable to complete this conversation with a party because you have already completed &quot;Contact Handling&quot; today.</text>
+		<text bitflag="321" id1="716" id2="574947" version="1065353216">You must be grouped to use a Courtesy Kolto Station.</text>
+		<text bitflag="321" id1="717" id2="574947" version="1065353216">Your macrobinoculars detect something in this area.</text>
+		<text bitflag="321" id1="718" id2="574947" version="1065353216">Choose your curse and prepare for your challenge!</text>
+		<text bitflag="321" id1="719" id2="574947" version="1065353216">The portals have opened! Begin your challenge!</text>
+		<text bitflag="321" id1="720" id2="574947" version="1065353216">You need Curse of the Incompetent to use this portal.</text>
+		<text bitflag="321" id1="721" id2="574947" version="1065353216">You need Curse of the Weakling to use this portal.</text>
+		<text bitflag="321" id1="722" id2="574947" version="1065353216">You need Curse of the Coward to use this portal.</text>
+		<text bitflag="321" id1="723" id2="574947" version="1065353216">Your healers are incompetent! Raptus has become stronger.</text>
+		<text bitflag="321" id1="724" id2="574947" version="1065353216">Your damage dealers are weaklings! Raptus has become stronger.</text>
+		<text bitflag="321" id1="725" id2="574947" version="1065353216">Your tanks are cowards! Raptus has become stronger.</text>
+		<text bitflag="321" id1="726" id2="574947" version="1065353216">The pure seed has been planted! The corruption of the future has ended.</text>
+		<text bitflag="321" id1="727" id2="574947" version="1065353216">The pure seed has been destroyed!  The future is doomed!</text>
+		<text bitflag="321" id1="728" id2="574947" version="1065353216">The pure seed has been planted incorrectly!  The future is doomed!</text>
+		<text bitflag="321" id1="729" id2="574947" version="1065353216">Challenges end in 60 seconds!</text>
+		<text bitflag="321" id1="730" id2="574947" version="1065353216">Challenges end in 30 seconds!</text>
+		<text bitflag="321" id1="731" id2="574947" version="1065353216">Challenges end in 15 seconds!</text>
+		<text bitflag="321" id1="732" id2="574947" version="1065353216">Challenges end in 5 seconds!</text>
+		<text bitflag="321" id1="733" id2="574947" version="1065353216">Your attempt was pathetic! Raptus becomes stronger!</text>
+		<text bitflag="321" id1="737" id2="574947" version="1065353216">Calphayus' prophecy is complete, the future is doomed!</text>
+		<text bitflag="321" id1="738" id2="574947" version="1065353216">You do not need this right now.</text>
+		<text bitflag="321" id1="739" id2="574947" version="1065353216">A Mining Droid has targeted &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="740" id2="574947" version="1065353216">TG-5 experiment prepares to use Chemical Attraction!</text>
+		<text bitflag="321" id1="741" id2="574947" version="1065353216">A Dread Tentacle is targeting &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="742" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has begun the healing challenge!</text>
+		<text bitflag="321" id1="743" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has begun the damage challenge!</text>
+		<text bitflag="321" id1="744" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has begun the tank challenge!</text>
+		<text bitflag="321" id1="745" id2="574947" version="1065353216">A Combustible Seed has been planted on &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="746" id2="574947" version="1065353216">Dreadmaster Tyrans has returned to his throne to recuperate!</text>
+		<text bitflag="321" id1="747" id2="574947" version="1065353216">Dreadmaster Bestia has returned to her throne to recuperate!</text>
+		<text bitflag="321" id1="748" id2="574947" version="1065353216">Dreadmaster Raptus has returned to his throne to recuperate!</text>
+		<text bitflag="321" id1="749" id2="574947" version="1065353216">Dreadmaster Calphayus has returned to his throne to recuperate!</text>
+		<text bitflag="321" id1="750" id2="574947" version="1065353216">The South Gate has been opened.</text>
+		<text bitflag="321" id1="751" id2="574947" version="1065353216">The South Gate has been shut.</text>
+		<text bitflag="321" id1="752" id2="574947" version="1065353216">The Gatehouse has been cleared.</text>
+		<text bitflag="321" id1="753" id2="574947" version="1065353216">Access to the East Gate has been opened.</text>
+		<text bitflag="321" id1="754" id2="574947" version="1065353216">Access to the East Gate has been shut.</text>
+		<text bitflag="321" id1="755" id2="574947" version="1065353216">Gate Commander Draxus has raised the alarm!</text>
+		<text bitflag="321" id1="756" id2="574947" version="1065353216">West Inner Gate has been opened.</text>
+		<text bitflag="321" id1="757" id2="574947" version="1065353216">West Inner Gate has been shut.</text>
+		<text bitflag="321" id1="758" id2="574947" version="1065353216">East Inner Gate has been opened.</text>
+		<text bitflag="321" id1="759" id2="574947" version="1065353216">East Inner Gate has been shut.</text>
+		<text bitflag="321" id1="760" id2="574947" version="1065353216">Access to the West Gate has been opened.</text>
+		<text bitflag="321" id1="761" id2="574947" version="1065353216">Access to the West Gate has been shut.</text>
+		<text bitflag="321" id1="762" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has passed through the South Gate.</text>
+		<text bitflag="321" id1="763" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has passed through the West Inner Gate.</text>
+		<text bitflag="321" id1="764" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has passed through the East Inner Gate.</text>
+		<text bitflag="321" id1="765" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has passed through the West Gate access tunnel.</text>
+		<text bitflag="321" id1="766" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has passed through the East Gate access tunnel.</text>
+		<text bitflag="321" id1="767" id2="574947" version="1065353216">Raptus challenges &lt;&lt;1&gt;&gt; to stand and face him!</text>
+		<text bitflag="321" id1="768" id2="574947" version="1065353216">Corruptor Zero is charging to full power!</text>
+		<text bitflag="321" id1="769" id2="574947" version="1065353216">No more Seats of Knowledge remain, the future is doomed!</text>
+		<text bitflag="321" id1="770" id2="574947" version="1065353216">The Seat of Knowledge has been reset!</text>
+		<text bitflag="321" id1="771" id2="574947" version="1065353216">All challenges have been passed! Raptus is not impressed.</text>
+		<text bitflag="321" id1="772" id2="574947" version="1065353216">The time to prevent Calphayus' vision from becoming reality has expired!  The future is doomed!</text>
+		<text bitflag="321" id1="773" id2="574947" version="1065353216">You are already authorized to hunt this Kingpin once per week. You can trade this item back to the Bounty Contract Broker to refund your Completed Contracts.</text>
+		<text bitflag="321" id1="774" id2="574947" version="1065353216">Console 1 deactivating...</text>
+		<text bitflag="321" id1="775" id2="574947" version="1065353216">Console 2 deactivating...</text>
+		<text bitflag="321" id1="776" id2="574947" version="1065353216">Forcefield shutdown successful!</text>
+		<text bitflag="321" id1="777" id2="574947" version="1065353216">Console 1 resetting...</text>
+		<text bitflag="321" id1="778" id2="574947" version="1065353216">Console 2 resetting...</text>
+		<text bitflag="321" id1="779" id2="574947" version="1065353216">You've found some EMP grenades in the weapons stockpile.</text>
+		<text bitflag="321" id1="780" id2="574947" version="1065353216">Reinforcements approaching from the east!</text>
+		<text bitflag="321" id1="781" id2="574947" version="1065353216">Reinforcements approaching from the west!</text>
+		<text bitflag="321" id1="782" id2="574947" version="1065353216">Hangar secure lockdown initiated...</text>
+		<text bitflag="321" id1="783" id2="574947" version="1065353216">Additional enemy dropship inbound!</text>
+		<text bitflag="321" id1="784" id2="574947" version="1065353216">The exit is now authorized for use.</text>
+		<text bitflag="321" id1="785" id2="574947" version="1065353216">You've been ambushed by enemy command!</text>
+		<text bitflag="321" id1="786" id2="574947" version="1065353216">Intrusion detected! Failsafe defenses initiated...</text>
+		<text bitflag="321" id1="787" id2="574947" version="1065353216">Sync successful! Forcefield shutdown initiated...</text>
+		<text bitflag="321" id1="788" id2="574947" version="1065353216">Power to outer door security cut.
+Locking mechanisms compromised.</text>
+		<text bitflag="321" id1="789" id2="574947" version="1065353216">The Holding Cell outer doors have been unlocked.</text>
+		<text bitflag="321" id1="793" id2="574947" version="1065353216">The western cell block is now accessible.</text>
+		<text bitflag="321" id1="794" id2="574947" version="1065353216">Cell access denied. Security protocols active.</text>
+		<text bitflag="321" id1="795" id2="574947" version="1065353216">The eastern cell block is now accessible.</text>
+		<text bitflag="321" id1="796" id2="574947" version="1065353216">TBW 1</text>
+		<text bitflag="321" id1="797" id2="574947" version="1065353216">TBW 2</text>
+		<text bitflag="321" id1="798" id2="574947" version="1065353216">Access Codes for the Propulsion Assembly Station have been found!</text>
+		<text bitflag="321" id1="799" id2="574947" version="1065353216">Access Codes for the Electronics Assembly Station have been found!</text>
+		<text bitflag="321" id1="800" id2="574947" version="1065353216">Access Codes for the Weapons Assembly Station have been found!</text>
+		<text bitflag="321" id1="801" id2="574947" version="1065353216">Propulsion Assembly Station Unlocked!</text>
+		<text bitflag="321" id1="802" id2="574947" version="1065353216">Electronics Assembly Station Unlocked!</text>
+		<text bitflag="321" id1="803" id2="574947" version="1065353216">Weapons Assembly Station Unlocked!</text>
+		<text bitflag="321" id1="804" id2="574947" version="1065353216">Access Denied! Propulsion Assembly Access Codes required.</text>
+		<text bitflag="321" id1="805" id2="574947" version="1065353216">Access Denied! Electronics Assembly Access Codes required.</text>
+		<text bitflag="321" id1="806" id2="574947" version="1065353216">Access Denied! Weapons Assembly Access Codes required.</text>
+		<text bitflag="321" id1="807" id2="574947" version="1065353216">Engaging Autoassembly Array...</text>
+		<text bitflag="321" id1="808" id2="574947" version="1065353216">Testing Assembled Design...</text>
+		<text bitflag="321" id1="809" id2="574947" version="1065353216">ERROR: Propulsion, Electronics, and Weapons subsystems must first be assigned.</text>
+		<text bitflag="321" id1="810" id2="574947" version="1065353216">WARNING: Critical system instability detected in ship design!</text>
+		<text bitflag="321" id1="811" id2="574947" version="1065353216">Testing complete. Ship systems stable. All design parameters met.</text>
+		<text bitflag="321" id1="815" id2="574947" version="1065353216">Emergency Detected in Starship Assembly. Deploying Security Droid Response.</text>
+		<text bitflag="321" id1="816" id2="574947" version="1065353216">The visions of Calphayus are preventing the seed from being planted!</text>
+		<text bitflag="321" id1="817" id2="574947" version="1065353216">The Empowering Energy has allowed Calphayus to complete his prophecy!  The future is doomed!</text>
+		<text bitflag="321" id1="818" id2="574947" version="1065353216">The time to place the Knowledge has expired!  The future is doomed!</text>
+		<text bitflag="321" id1="819" id2="574947" version="1065353216">You must be grouped to use this.</text>
+		<text bitflag="321" id1="820" id2="574947" version="1065353216">First Scenario: Hangar Assault</text>
+		<text bitflag="321" id1="821" id2="574947" version="1065353216">First Scenario: Weapons Cache</text>
+		<text bitflag="321" id1="822" id2="574947" version="1065353216">First Scenario: Ship Assembler</text>
+		<text bitflag="321" id1="823" id2="574947" version="1065353216">First Scenario: Prison Break</text>
+		<text bitflag="321" id1="824" id2="574947" version="1065353216">First Scenario: Artillery Cannons</text>
+		<text bitflag="321" id1="825" id2="574947" version="1065353216">Second Scenario: Hangar Assault</text>
+		<text bitflag="321" id1="826" id2="574947" version="1065353216">Second Scenario: Weapons Cache</text>
+		<text bitflag="321" id1="827" id2="574947" version="1065353216">Second Scenario: Ship Assembler</text>
+		<text bitflag="321" id1="828" id2="574947" version="1065353216">Second Scenario: Prison Break</text>
+		<text bitflag="321" id1="829" id2="574947" version="1065353216">Second Scenario: Artillery Cannons</text>
+		<text bitflag="321" id1="830" id2="574947" version="1065353216">Boss Scenario: Droid</text>
+		<text bitflag="321" id1="831" id2="574947" version="1065353216">Boss Scenario: Soldier</text>
+		<text bitflag="321" id1="832" id2="574947" version="1065353216">Boss Scenario: Forceuser</text>
+		<text bitflag="321" id1="833" id2="574947" version="1065353216">You can only choose scenarios at the start of a new flashpoint!</text>
+		<text bitflag="321" id1="834" id2="574947" version="1065353216">Dread Master Tyrans has lost his connection to the Dread Holocron!</text>
+		<text bitflag="321" id1="835" id2="574947" version="1065353216">Dread Master Bestia has lost her connection to the Dread Holocron!</text>
+		<text bitflag="321" id1="836" id2="574947" version="1065353216">Dread Master Raptus has lost his connection to the Dread Holocron!</text>
+		<text bitflag="321" id1="837" id2="574947" version="1065353216">Dread Master Calphayus has lost his connection to the Dread Holocron!</text>
+		<text bitflag="321" id1="838" id2="574947" version="1065353216">DANGER: Facility will reach crush depth in 5 minutes and counting. Evacuate immediately!</text>
+		<text bitflag="321" id1="839" id2="574947" version="1065353216">DANGER: 4 minutes remaining until facility reaches crush depth. Evacuate immediately!</text>
+		<text bitflag="321" id1="840" id2="574947" version="1065353216">DANGER: 3 minutes remaining until facility reaches crush depth. Evacuate immediately!</text>
+		<text bitflag="321" id1="841" id2="574947" version="1065353216">DANGER: 2 minutes remaining until facility reaches crush depth. Evacuate immediately!</text>
+		<text bitflag="321" id1="842" id2="574947" version="1065353216">DANGER: 60 seconds remaining until facility reaches crush depth. Evacuate immediately!</text>
+		<text bitflag="321" id1="843" id2="574947" version="1065353216">Lower Labs Unlocked</text>
+		<text bitflag="321" id1="844" id2="574947" version="1065353216">TECHBASE 01 UPLINK ESTABLISHED</text>
+		<text bitflag="321" id1="845" id2="574947" version="1065353216">TECHBASE 02 UPLINK ESTABLISHED</text>
+		<text bitflag="321" id1="846" id2="574947" version="1065353216">A Riot Suppression Droid transfers its shield to Sairisi!</text>
+		<text bitflag="321" id1="847" id2="574947" version="1065353216">A Riot Suppression Droid has transferred its shield to itself!</text>
+		<text bitflag="321" id1="848" id2="574947" version="1065353216">A Riot Suppression Droid has finished repairing, and transfers its shield to Sairisi!</text>
+		<text bitflag="321" id1="850" id2="574947" version="1065353216">You must be at least level 47 to use this service.</text>
+		<text bitflag="321" id1="851" id2="574947" version="1065353216">GSI Satellites are already tracking your location.</text>
+		<text bitflag="321" id1="852" id2="574947" version="1065353216">Energy Pulse Detected. Shielding Countermeasures Activated.</text>
+		<text bitflag="321" id1="853" id2="574947" version="1065353216">Energy Pulse Subsided. Shielding Countermeasures Reinitializing.</text>
+		<text bitflag="321" id1="854" id2="574947" version="1065353216">Balls of Force lightning are headed for the Energy Dispersion Tower!</text>
+		<text bitflag="321" id1="855" id2="574947" version="1065353216">The remaining adversary rages at the death of their ally!</text>
+		<text bitflag="321" id1="856" id2="574947" version="1065353216">The forcefield has been disabled!</text>
+		<text bitflag="321" id1="857" id2="574947" version="1065353216">Sparky's shield collar has absorbed too much damage and overloaded! The beast is stunned!</text>
+		<text bitflag="321" id1="858" id2="574947" version="1065353216">Sparky leaps about in an unfocused rampage!</text>
+		<text bitflag="321" id1="859" id2="574947" version="1065353216">Sparky momentarily falters under the weight of his accumulated injuries!</text>
+		<text bitflag="321" id1="860" id2="574947" version="1065353216">Sparky pounces &lt;&lt;1&gt;&gt; in a brutal rage!</text>
+		<text bitflag="321" id1="861" id2="574947" version="1065353216">Sparky's shield collar reactivates in overdrive!</text>
+		<text bitflag="321" id1="862" id2="574947" version="1065353216">Torque has destroyed an engine control console!  If too many are destroyed the carrier will fall from the sky!</text>
+		<text bitflag="321" id1="863" id2="574947" version="1065353216">Too many controls have been destroyed!  The ship is crashing!</text>
+		<text bitflag="321" id1="864" id2="574947" version="1065353216">The Revanite Centurion braces himself...</text>
+		<text bitflag="321" id1="865" id2="574947" version="1065353216">Deron Cadoruso prepares to enter the fray...</text>
+		<text bitflag="321" id1="866" id2="574947" version="1065353216">Deron Cadoruso leaps into the battle!</text>
+		<text bitflag="321" id1="867" id2="574947" version="1065353216">Deron Cadoruso withdraws to his platform.</text>
+		<text bitflag="321" id1="868" id2="574947" version="1065353216">Sano Thrica prepares to enter the fray...</text>
+		<text bitflag="321" id1="869" id2="574947" version="1065353216">Sano Thrica leaps into the battle!</text>
+		<text bitflag="321" id1="870" id2="574947" version="1065353216">Sano Thrica withdraws to his platform.</text>
+		<text bitflag="321" id1="871" id2="574947" version="1065353216">Lord Kurse prepares to enter the fray...</text>
+		<text bitflag="321" id1="872" id2="574947" version="1065353216">Lord Kurse leaps into the battle!</text>
+		<text bitflag="321" id1="873" id2="574947" version="1065353216">Lord Kurse withdraws to his platform.</text>
+		<text bitflag="321" id1="874" id2="574947" version="1065353216">The three commanders join together!</text>
+		<text bitflag="321" id1="875" id2="574947" version="1065353216">The Blade of Revan pursues &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="876" id2="574947" version="1065353216">The Blade of Alek pursues &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="877" id2="574947" version="1065353216">You have entered a flashpoint in Story Mode.</text>
+		<text bitflag="321" id1="878" id2="574947" version="1065353216">A Combat Support Droid has been provided to assist you in combat.</text>
+		<text bitflag="321" id1="879" id2="574947" version="1065353216">If your droid is defeated, you may call a replacement by clicking the &quot;Activate Combat Support Droid&quot; button in your mission tracker.</text>
+		<text bitflag="321" id1="881" id2="574947" version="1065353216">Sword Squadron Unit 1 has launched a grenade at &lt;&lt;1&gt;&gt;!</text>
+		<text bitflag="321" id1="882" id2="574947" version="1065353216">Use the Exit Area button above your mini-map to exit the Flashpoint.</text>
+		<text bitflag="321" id1="883" id2="574947" version="1065353216">Ruugar has grabbed &lt;&lt;1&gt;&gt;! Any damage done to Ruugar will be absorbed by &lt;&lt;1&gt;&gt; instead!</text>
+		<text bitflag="321" id1="884" id2="574947" version="1065353216">Satele Shan has been incapacitated. You have lost Battle Clarity.</text>
+		<text bitflag="321" id1="885" id2="574947" version="1065353216">Ruugar has activated the self destruct!  The ship will be destroyed in 15 seconds, get to the escape pods!</text>
+		<text bitflag="321" id1="886" id2="574947" version="1065353216">5</text>
+		<text bitflag="321" id1="887" id2="574947" version="1065353216">4</text>
+		<text bitflag="321" id1="888" id2="574947" version="1065353216">3</text>
+		<text bitflag="321" id1="889" id2="574947" version="1065353216">2</text>
+		<text bitflag="321" id1="890" id2="574947" version="1065353216">1</text>
+		<text bitflag="321" id1="891" id2="574947" version="1065353216">Unfortunately this escape pod has been deactivated for routine maintenance.</text>
+		<text bitflag="321" id1="892" id2="574947" version="1065353216">Strongest of the Hunt</text>
+		<text bitflag="321" id1="893" id2="574947" version="1065353216">Mountain of Death</text>
+		<text bitflag="321" id1="894" id2="574947" version="1065353216">River Assassin</text>
+		<text bitflag="321" id1="895" id2="574947" version="1065353216">Water Slime</text>
+		<text bitflag="321" id1="896" id2="574947" version="1065353216">Cunning Eye</text>
+		<text bitflag="321" id1="897" id2="574947" version="1065353216">Merciless Bite</text>
+		<text bitflag="321" id1="898" id2="574947" version="1065353216">Kyramla Gemas'rugam</text>
+		<text bitflag="321" id1="899" id2="574947" version="1065353216">Quartermaster Bulo has called drunken pirates to his aid!</text>
+		<text bitflag="321" id1="900" id2="574947" version="1065353216">Quartermaster Bulo has deployed unstable carts and load lifters!</text>
+		<text bitflag="321" id1="901" id2="574947" version="1065353216">All incoming shipments will be redirected to facility recycling plant.</text>
+		<text bitflag="321" id1="902" id2="574947" version="1065353216">Ammunition and armor rerouted to facility bathrooms.</text>
+		<text bitflag="321" id1="903" id2="574947" version="1065353216">Genetic specimens flagged for delivery to facility kitchens.</text>
+		<text bitflag="321" id1="904" id2="574947" version="1065353216">Facility shipping and inventory records marked for deep sea jettison.</text>
+		<text bitflag="321" id1="905" id2="574947" version="1065353216">The Ancient Threat will disappear if drawn too far from the altar.</text>
+		<text bitflag="321" id1="906" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has been cursed by the Monolith!</text>
+		<text bitflag="321" id1="907" id2="574947" version="1065353216">The Monolith has exposed ancient energies of Ziost</text>
+		<text bitflag="321" id1="908" id2="574947" version="1065353216">The thermal sensors throughout the facility will quickly bring the core under control!</text>
+		<text bitflag="321" id1="909" id2="574947" version="1065353216">Without the thermal sensors, the core will be vulnerable for some time!</text>
+		<text bitflag="321" id1="910" id2="574947" version="1065353216">The Colossal Monolith is going to siphon energy from one of the rifts!</text>
+		<text bitflag="321" id1="911" id2="574947" version="1065353216">SYSTEM :: Safety Protocols Disabled :: Firing Sequence Available</text>
+		<text bitflag="321" id1="912" id2="574947" version="1065353216">SYSTEM :: Reset Complete :: Firing Sequence Available</text>
+		<text bitflag="321" id1="913" id2="574947" version="1065353216">The Worldbreaker Monolith is tied to this location and will not leave.</text>
+		<text bitflag="321" id1="914" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has the Baradium Bomb!  Take it under the walker to disable it!</text>
+		<text bitflag="321" id1="915" id2="574947" version="1065353216">Heirad begins to cast Surging Chain!  Break Ciphas' shield and interrupt his channel to end it!</text>
+		<text bitflag="321" id1="916" id2="574947" version="1065353216">Data Core shields in Safety Configuration Blue.  One Blue Bisector in the indicated area while the other uses the console will override the shield.</text>
+		<text bitflag="321" id1="917" id2="574947" version="1065353216">Data Core shields in Safety Configuration Orange.  One Orange Bisector in the indicated area while the other uses the console will override the shield.</text>
+		<text bitflag="321" id1="918" id2="574947" version="1065353216">Data Core shields in Safety Configuration Purple.  One Purple Bisector in the indicated area while the other uses the console will override the shield.</text>
+		<text bitflag="321" id1="919" id2="574947" version="1065353216">Data Core shields in Safety Configuration Yellow.  One Yellow Bisector in the indicated area while the other uses the console will override the shield.</text>
+		<text bitflag="321" id1="920" id2="574947" version="1065353216">Behavior Override Activated</text>
+		<text bitflag="321" id1="921" id2="574947" version="1065353216">Behavior Override Deactivated</text>
+		<text bitflag="321" id1="922" id2="574947" version="1065353216">You have picked up a Carbonite Grenade.  This will allow you to stun yourself or your companion to prevent them from taking damage.</text>
+		<text bitflag="321" id1="923" id2="574947" version="1065353216">The Breaktown Brawler has marked &lt;&lt;1&gt;&gt; for a beat down!</text>
+		<text bitflag="321" id1="924" id2="574947" version="1065353216">Probe must be deployed within the marked area near the Sarlacc Pit</text>
+		<text bitflag="321" id1="925" id2="574947" version="1065353216">Medical Unit AZ-01 activates its healing protocol!</text>
+		<text bitflag="321" id1="926" id2="574947" version="1065353216">The Iknayid has an adverse reaction to the Toxic Grenade!&lt;br&gt;Use this to your advantage!</text>
+		<text bitflag="321" id1="927" id2="574947" version="1065353216">Lanos deploys Skytrooper Shielders to protect him and charge up his attacks!</text>
+		<text bitflag="321" id1="928" id2="574947" version="1065353216">Use an Interrupt, Stun, or Knockback to disrupt the charged shielding!</text>
+		<text bitflag="321" id1="929" id2="574947" version="1065353216">Lanos calls a squad of Skytrooper reinforcements!</text>
+		<text bitflag="321" id1="930" id2="574947" version="1065353216">Lanos deploys a group of exploding droids! Avoid their blast radius!</text>
+		<text bitflag="321" id1="931" id2="574947" version="1065353216">Chompers the Undying enters a regenerative state...</text>
+		<text bitflag="321" id1="932" id2="574947" version="1065353216">Chompers the Undying has regenerated!</text>
+		<text bitflag="321" id1="933" id2="574947" version="1065353216">Conraad Om'wurt's morale is affected by Chompers the Undying's state! Now dealing more damage at the cost of defense!</text>
+		<text bitflag="321" id1="934" id2="574947" version="1065353216">Conraad Om'wurt's morale is restored by Chompers the Undying's recovery! Combat abilities have returned to normal!</text>
+		<text bitflag="321" id1="935" id2="574947" version="1065353216">Chompers the Undying is enraged by Conraad Om'wurt's death! All attacks have increased in ferocity!</text>
+		<text bitflag="321" id1="936" id2="574947" version="1065353216">A Fury Mortar's blast has destroyed an Emergency Kolto Station!</text>
+		<text bitflag="321" id1="937" id2="574947" version="1065353216">Damage has momentarily incapacitated the walker!</text>
+		<text bitflag="321" id1="938" id2="574947" version="1065353216">Eternal Champion Zotar enters the fray!</text>
+		<text bitflag="321" id1="939" id2="574947" version="1065353216">The walker completes its repairs and stands again!</text>
+		<text bitflag="321" id1="940" id2="574947" version="1065353216">Your assault forces Zotar to retreat before his walker is fully repaired!</text>
+		<text bitflag="321" id1="941" id2="574947" version="1065353216">Eternal Champion Zotar returns to his walker!</text>
+		<text bitflag="321" id1="942" id2="574947" version="1065353216">A Fury Mortar's blast has destroyed a Probe!</text>
+		<text bitflag="321" id1="943" id2="574947" version="1065353216">A Fire Support Probe has destroyed another with its laser!</text>
+		<text bitflag="321" id1="944" id2="574947" version="1065353216">Chompers the Undying has lost the will to regenerate upon Conraad Om'wurt's death! Chompers is now dead...</text>
+		<text bitflag="321" id1="945" id2="574947" version="1065353216">Combat Unit AZ-02 activates its damage buff protocol!</text>
+		<text bitflag="321" id1="946" id2="574947" version="1065353216">The attack is tracking your movement!</text>
+		<text bitflag="321" id1="947" id2="574947" version="1065353216">Get out of the area of effect before the attack is executed!</text>
+		<text bitflag="321" id1="948" id2="574947" version="1065353216">Use your defensive cooldowns to mitigate the damage!</text>
+		<text bitflag="321" id1="949" id2="574947" version="1065353216">Zotar prepares to electrify the outer portion of the arena floor!</text>
+		<text bitflag="321" id1="950" id2="574947" version="1065353216">The Walker focuses its weapon systems!</text>
+		<text bitflag="321" id1="951" id2="574947" version="1065353216">Zotar manages to activate the walker's autopilot!</text>
+		<text bitflag="321" id1="952" id2="574947" version="1065353216">Zotar's knockbacks are now unstoppable!</text>
+		<text bitflag="321" id1="953" id2="574947" version="1065353216">Ronum Minkus stealths out of the fight!</text>
+		<text bitflag="321" id1="954" id2="574947" version="1065353216">Ronum Minkus deploys a trap!!</text>
+		<text bitflag="321" id1="955" id2="574947" version="1065353216">Ronum Minkus is devastated by Little Gut's defeat!!&lt;br&gt;He stealths away in shame...</text>
+		<text bitflag="321" id1="956" id2="574947" version="1065353216">Ronum Minkus appears on the spectator balcony!</text>
+		<text bitflag="321" id1="957" id2="574947" version="1065353216">Nocturno charges forward!</text>
+		<text bitflag="321" id1="958" id2="574947" version="1065353216">Drake Raven has been defeated! His utility belt falls to the floor!</text>
+		<text bitflag="321" id1="959" id2="574947" version="1065353216">Nocturno has been defeated! Drake Raven must now become the champion Zakuul needs!</text>
+		<text bitflag="321" id1="960" id2="574947" version="1065353216">Nocturno has become momentarily exhausted and vulnerable!</text>
+		<text bitflag="321" id1="961" id2="574947" version="1065353216">Nocturno has been caught by a stun mine!</text>
+		<text bitflag="321" id1="962" id2="574947" version="1065353216">Your sidekick has been kidnapped! You must rescue them!</text>
+		<text bitflag="321" id1="963" id2="574947" version="1065353216">Nocturno assumes her trademark stance, &quot;Perfect Defense&quot;!</text>
+		<text bitflag="321" id1="964" id2="574947" version="1065353216">Nocturno is momentarily blinded!</text>
+		<text bitflag="321" id1="965" id2="574947" version="1065353216">Nocturno charges wildly!</text>
+		<text bitflag="321" id1="966" id2="574947" version="1065353216">Nocturno flies into a rage at the loss of her sidekick!</text>
+		<text bitflag="321" id1="967" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has picked up Drake Raven's utility belt!</text>
+		<text bitflag="321" id1="968" id2="574947" version="1065353216">Drake Raven's utility belt breaks, rendering it useless!</text>
+		<text bitflag="321" id1="969" id2="574947" version="1065353216">Assault Units join the fray!</text>
+		<text bitflag="321" id1="970" id2="574947" version="1065353216">The Doom Droid deploys a pulse charging node!</text>
+		<text bitflag="321" id1="971" id2="574947" version="1065353216">Pulse charging successful, initiating final attack sequence!</text>
+		<text bitflag="321" id1="972" id2="574947" version="1065353216">Pulse charging failure, reinitiating attack systems...</text>
+		<text bitflag="321" id1="973" id2="574947" version="1065353216">Advanced Combat Units appear and begin charging the node...</text>
+		<text bitflag="321" id1="974" id2="574947" version="1065353216">Nocturno's mounting injuries send her into an aggressive rage!</text>
+		<text bitflag="321" id1="975" id2="574947" version="1065353216">Drake Raven has ascended! He is the hero now!</text>
+		<text bitflag="321" id1="977" id2="574947" version="1065353216">Little Gut flips you over from the edge of the arena!</text>
+		<text bitflag="321" id1="978" id2="574947" version="1065353216">An Apprentice Handler joins Little Gut in the fight!</text>
+		<text bitflag="321" id1="979" id2="574947" version="1065353216">The Apprentice Handler calls forth Bogwings!</text>
+		<text bitflag="321" id1="980" id2="574947" version="1065353216">Only the Phase Owner may use this.</text>
+		<text bitflag="321" id1="981" id2="574947" version="1065353216">You pick up the Zakuul Knight's Shield!</text>
+		<text bitflag="321" id1="982" id2="574947" version="1065353216">An attack throws you off balance, lowering your shield!</text>
+		<text bitflag="321" id1="983" id2="574947" version="1065353216">You must be piloting a walker to use this.</text>
+		<text bitflag="321" id1="984" id2="574947" version="1065353216">A kill squad for &lt;&lt;1&gt;&gt; has been released.</text>
+		<text bitflag="321" id1="985" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has been scanned. Deploying matching squad...</text>
+		<text bitflag="321" id1="986" id2="574947" version="1065353216">Elarea has set her sight on &lt;&lt;1&gt;&gt; for a duel.</text>
+		<text bitflag="321" id1="987" id2="574947" version="1065353216">The Duel begins! &lt;&lt;1&gt;&gt; must face Elarea alone!</text>
+		<text bitflag="321" id1="988" id2="574947" version="1065353216">Forgemaster Droub is firing in &lt;&lt;1&gt;&gt;'s direction!</text>
+		<text bitflag="321" id1="989" id2="574947" version="1065353216">The Hydration Controller's shield has depleted!</text>
+		<text bitflag="321" id1="990" id2="574947" version="1065353216">The Ventilation Controller's shield has depleted!</text>
+		<text bitflag="321" id1="991" id2="574947" version="1065353216">Enemy Technicians join the fray!</text>
+		<text bitflag="321" id1="992" id2="574947" version="1065353216">Mesok takes aim from up high. Avoid his attacks!</text>
+		<text bitflag="321" id1="994" id2="574947" version="1065353216">Enemy Reinforcements attempt to flank you. Look out!</text>
+		<text bitflag="321" id1="995" id2="574947" version="1065353216">Malfunctioning droids activated. Watch out!</text>
+		<text bitflag="321" id1="996" id2="574947" version="1065353216">General Rike's Hover Tank has engaged its shield and is regenerating.</text>
+		<text bitflag="321" id1="997" id2="574947" version="1065353216">Forgemaster Droub is shielding JS-MW1</text>
+		<text bitflag="321" id1="998" id2="574947" version="1065353216">JS-MW1's shield is down</text>
+		<text bitflag="321" id1="999" id2="574947" version="1065353216">Forgemaster Droub is shielded from damage</text>
+		<text bitflag="321" id1="1000" id2="574947" version="1065353216">Forgemaster Droub's shield is down</text>
+		<text bitflag="321" id1="1001" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has died</text>
+		<text bitflag="321" id1="1002" id2="574947" version="1065353216">Aggy has &lt;&lt;1&gt;&gt; in her sights! Get behind cover!</text>
+		<text bitflag="321" id1="1003" id2="574947" version="1065353216">A Alliance Support Droid has been provided to assist you in combat.</text>
+		<text bitflag="321" id1="1004" id2="574947" version="1065353216">If your droid is defeated, you may call a replacement by clicking the &quot;Activate Alliance Support Droid&quot; button in your mission tracker.</text>
+		<text bitflag="321" id1="1005" id2="574947" version="1065353216">KT-55 Activates it Absorbtion Shield.</text>
+		<text bitflag="321" id1="1006" id2="574947" version="1065353216">PR-98 Activates it's Reflection Shield.</text>
+		<text bitflag="321" id1="1007" id2="574947" version="1065353216">You already have the Moment of Clarity ability!</text>
+		<text bitflag="321" id1="1008" id2="574947" version="1065353216">Tyrral Jerikko is calling for reinforcements!</text>
+		<text bitflag="321" id1="1009" id2="574947" version="1065353216">Tyrral Jerikko is restarting a Battledroid!</text>
+		<text bitflag="321" id1="1010" id2="574947" version="1065353216">Major Korven's shield is down</text>
+		<text bitflag="321" id1="1011" id2="574947" version="1065353216">You already have the Tempest Rocket Launcher ability!</text>
+		<text bitflag="321" id1="1012" id2="574947" version="1065353216">You already have the Inferno Grenade ability!</text>
+		<text bitflag="321" id1="1013" id2="574947" version="1065353216">Dust Viper reinforcements arrive!</text>
+		<text bitflag="321" id1="1014" id2="574947" version="1065353216">The electrified floor has been disabled.</text>
+		<text bitflag="321" id1="1015" id2="574947" version="1065353216">G9-RX goes haywire!</text>
+		<text bitflag="321" id1="1016" id2="574947" version="1065353216">Poisonous Gas fills the room! Find a way out!</text>
+		<text bitflag="321" id1="1017" id2="574947" version="1065353216">Attackers detected in aft quadrant. Deploying defense probes.</text>
+		<text bitflag="321" id1="1018" id2="574947" version="1065353216">Penzaren's shield focus begins to waver!</text>
+		<text bitflag="321" id1="1019" id2="574947" version="1065353216">Penzaren's shield focus weakens!</text>
+		<text bitflag="321" id1="1020" id2="574947" version="1065353216">Penzaren's shield focus is almost gone!</text>
+		<text bitflag="321" id1="1021" id2="574947" version="1065353216">Penzaren's shield collapses!</text>
+		<text bitflag="321" id1="1022" id2="574947" version="1065353216">Penzaren's shields are fully focused!</text>
+		<text bitflag="321" id1="1023" id2="574947" version="1065353216">General Rike has armed a prototype thermal detonator&lt;br&gt;30 seconds until detonation</text>
+		<text bitflag="321" id1="1024" id2="574947" version="1065353216">20 seconds until detonation</text>
+		<text bitflag="321" id1="1025" id2="574947" version="1065353216">10 seconds until detonation</text>
+		<text bitflag="321" id1="1026" id2="574947" version="1065353216">5 seconds until detonation</text>
+		<text bitflag="321" id1="1027" id2="574947" version="1065353216">4</text>
+		<text bitflag="321" id1="1028" id2="574947" version="1065353216">3</text>
+		<text bitflag="321" id1="1029" id2="574947" version="1065353216">2</text>
+		<text bitflag="321" id1="1030" id2="574947" version="1065353216">1</text>
+		<text bitflag="321" id1="1031" id2="574947" version="1065353216">Security Lockdown will be lifted in 60 seconds.</text>
+		<text bitflag="321" id1="1032" id2="574947" version="1065353216">Security Lockdown will be lifted in 30 seconds.</text>
+		<text bitflag="321" id1="1033" id2="574947" version="1065353216">Security Lockdown will be lifted in 15 seconds.</text>
+		<text bitflag="321" id1="1034" id2="574947" version="1065353216">Security Lockdown will be lifted in 10 seconds.</text>
+		<text bitflag="321" id1="1035" id2="574947" version="1065353216">Security Lockdown will be lifted in 5 seconds.</text>
+		<text bitflag="321" id1="1036" id2="574947" version="1065353216">Commander Kallin is firing in &lt;&lt;1&gt;&gt;'s direction!</text>
+		<text bitflag="321" id1="1037" id2="574947" version="1065353216">The Primal Gargantuan prepares a piercing howl. Move to the shielded area!</text>
+		<text bitflag="321" id1="1038" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; has become an unstable conduit. Move away!</text>
+		<text bitflag="321" id1="1039" id2="574947" version="1065353216">The Lightning Pylons focus energy into devastating orbs. Avoid them at all costs!</text>
+		<text bitflag="321" id1="1040" id2="574947" version="1065353216">System Lifting Security Lockdown.</text>
+		<text bitflag="321" id1="1041" id2="574947" version="1065353216">Security Lockdown lifted.</text>
+		<text bitflag="321" id1="1042" id2="574947" version="1065353216">You have used the Bunker Defense Turret too recently to take control of it right now</text>
+		<text bitflag="321" id1="1043" id2="574947" version="1065353216">Find a Droid Repair Kit to Reactivate D5-X!</text>
+		<text bitflag="321" id1="1044" id2="574947" version="1065353216">Tyth's Rage Intensifies!</text>
+		<text bitflag="321" id1="1045" id2="574947" version="1065353216">A wave of combat drones joins the battle!</text>
+		<text bitflag="321" id1="1046" id2="574947" version="1065353216">Major Korven has &lt;&lt;1&gt;&gt; in her sights!</text>
+		<text bitflag="321" id1="1047" id2="574947" version="1065353216">A Sovereign Engine is required to operate this weapon control station.</text>
+		<text bitflag="321" id1="1048" id2="574947" version="1065353216">Weapon platform on standby. Weapon is either on the battlefield or was recently deployed.</text>
+		<text bitflag="321" id1="1049" id2="574947" version="1065353216">Lord Anril is protected by the Dark Side of the Force. Eliminate his Manifestations!</text>
+		<text bitflag="321" id1="1050" id2="574947" version="1065353216">You cannot interact with this vendor while piloting a vehicle or droid.</text>
+		<text bitflag="321" id1="1051" id2="574947" version="1065353216">You must be facing the train wreckage</text>
+		<text bitflag="321" id1="1052" id2="574947" version="1065353216">The singularity is slightly destabilized after consuming a rail turret!</text>
+		<text bitflag="321" id1="1053" id2="574947" version="1065353216">The singularity is further destabilized after consuming another rail turret!</text>
+		<text bitflag="321" id1="1054" id2="574947" version="1065353216">The singularity has become critically unstable!</text>
+		<text bitflag="321" id1="1055" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; picks up the Candle</text>
+		<text bitflag="321" id1="1056" id2="574947" version="1065353216">&lt;&lt;1&gt;&gt; drops the Candle</text>
+		<text bitflag="321" id1="1057" id2="574947" version="1065353216">::Singularity Generator Startup Initiated::</text>
+		<text bitflag="321" id1="1058" id2="574947" version="1065353216">::ERROR: Coupling connection failure detected. Suspending Startup::</text>
+		<text bitflag="321" id1="1059" id2="574947" version="1065353216">::Generator Startup Successful::</text>
+		<text bitflag="321" id1="1060" id2="574947" version="1065353216">A wave of reinforcements arrives!</text>
+		<text bitflag="321" id1="1061" id2="574947" version="1065353216">Destroy the Power Couplings before the sequence finishes!</text>
+		<text bitflag="321" id1="1062" id2="574947" version="1065353216">East Sterilization Array: Critical infrastructure detected in path</text>
+		<text bitflag="321" id1="1063" id2="574947" version="1065353216">West Sterilization Array: Critical infrastructure detected in path</text>
+		<text bitflag="321" id1="1064" id2="574947" version="1065353216">Omega Protocol Droid: Evasion hindered, activating emergency deflection field</text>
+		<text bitflag="321" id1="1065" id2="574947" version="1065353216">East Shield Generator: Critical infrastructure damaged</text>
+		<text bitflag="321" id1="1066" id2="574947" version="1065353216">West Shield Generator: Critical infrastructure damaged</text>
+		<text bitflag="321" id1="1067" id2="574947" version="1065353216">East Shield Generator: Prinary system offline, auxillery defense activated</text>
+		<text bitflag="321" id1="1068" id2="574947" version="1065353216">West Shield Generator: Primary system offline, auxillery defense activated</text>
+		<text bitflag="321" id1="1069" id2="574947" version="1065353216">Stage 1 defense systems offline, engaging emergency purge</text>
+		<text bitflag="321" id1="1070" id2="574947" version="1065353216">Core containment field compromised, aborting ignition</text>
+		<text bitflag="321" id1="1071" id2="574947" version="1065353216">Environmental defenses offline, preparing SCYVA Protocol</text>
+		<text bitflag="321" id1="1072" id2="574947" version="1065353216">CFA-Railgun: Target recalibration complete</text>
+		<text bitflag="321" id1="1073" id2="574947" version="1065353216">Missing required effect: Scattering Field Module</text>
+		<text bitflag="321" id1="1074" id2="574947" version="1065353216">30 Seconds Remaining!</text>
+		<text bitflag="321" id1="1075" id2="574947" version="1065353216">15 Seconds Remaining!</text>
+		<text bitflag="321" id1="1076" id2="574947" version="1065353216">The reactor's startup sequence is almost complete!</text>
+		<text bitflag="321" id1="1077" id2="574947" version="1065353216">ERROR: Transport station maintenance access is unavailable, power coupling maintenance is required.</text>
+		<text bitflag="321" id1="1078" id2="574947" version="1065353216">NOTICE: Transport station maintenance access has been restored.</text>
+		<text bitflag="321" id1="1079" id2="574947" version="1065353216">ERROR: Security authorization SCYVA is required to access the Transport Station.</text>
+		<text bitflag="321" id1="1080" id2="574947" version="1065353216">::Unauthorized Personnel Detected::</text>
+		<text bitflag="321" id1="1081" id2="574947" version="1065353216">::Organic Countermeasures Deployed::</text>
+		<text bitflag="321" id1="1082" id2="574947" version="1065353216">ERROR: Specimen Quarantine Protocol Active</text>
+		<text bitflag="321" id1="1083" id2="574947" version="1065353216">Nahut's stealth technology is overwhelmed by the unstable singularity's distortions!</text>
+		<text bitflag="321" id1="1084" id2="574947" version="1065353216">A connection between a conductor and a socket has broken due to distance.</text>
+		<text bitflag="321" id1="1085" id2="574947" version="1065353216">Scyva's jamming field has been temporarily disabled by a tether drone.</text>
+		<text bitflag="321" id1="1086" id2="574947" version="1065353216">An amplifier has been destroyed due to an Energy Chare overload.</text>
+		<text bitflag="321" id1="1087" id2="574947" version="1065353216">A new makeshift amplifier drone has been deployed.</text>
+		<text bitflag="321" id1="1089" id2="574947" version="1065353216">The timer for Doom's Delay has begun; there are 90 minutes remaining.</text>
+		<text bitflag="321" id1="1090" id2="574947" version="1065353216">You acquire a spare power cell!</text>
+		<text bitflag="321" id1="1091" id2="574947" version="1065353216">This station is out of power cells.</text>
+		<text bitflag="321" id1="1092" id2="574947" version="1065353216">You already have a spare power cell.</text>
+		<text bitflag="321" id1="1093" id2="574947" version="1065353216">Spare power cell activated.</text>
+		<text bitflag="321" id1="1094" id2="574947" version="1065353216">Tiny claws skitter excitedly across the hangar floor...</text>
+		<text bitflag="321" id1="1095" id2="574947" version="1065353216">You place a treat inside.</text>
+		<text bitflag="321" id1="1096" id2="574947" version="1065353216">Scritchy gleefully scampers off to explore!</text>
+		<text bitflag="321" id1="1097" id2="574947" version="1065353216">Scritchy is ready for transport, but where could he go without causing problems?</text>
+		<text bitflag="321" id1="1098" id2="574947" version="1065353216">Scritchy is ready for transport!</text>
+		<text bitflag="321" id1="1099" id2="574947" version="1065353216">You release Scritchy.</text>
+		<text bitflag="321" id1="1100" id2="574947" version="1065353216">This area is undergoing maintenance. Priority transport to the Imperial Fleet will commence in 5 seconds.</text>
+		<text bitflag="321" id1="1101" id2="574947" version="1065353216">This area is undergoing maintenance. Priority transport to the Republic Fleet will commence in 5 seconds.</text>
+	</file_content>
+</stb_file>

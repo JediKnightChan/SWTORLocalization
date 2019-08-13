@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>43</strs>
+		<file_name>/resources/en-us/str/gui/trade.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1" id2="220413" version="1065353216">Trade operation successful.</text>
+		<text bitflag="1345" id1="2" id2="220413" version="1065353216">Trade system error.</text>
+		<text bitflag="1345" id1="3" id2="220413" version="1065353216">You are already trading.</text>
+		<text bitflag="321" id1="4" id2="220413" version="1065353216">&lt;&lt;1&gt;&gt; is already trading.</text>
+		<text bitflag="321" id1="5" id2="220413" version="1065353216">You are not currently involved in a trading session.</text>
+		<text bitflag="321" id1="6" id2="220413" version="1065353216">Your trading session has been canceled because &lt;&lt;1&gt;&gt; left.</text>
+		<text bitflag="321" id1="7" id2="220413" version="1065353216">You have canceled your trading session.</text>
+		<text bitflag="321" id1="8" id2="220413" version="1065353216">The trading session has been canceled by &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="9" id2="220413" version="1065353216">&lt;&lt;1&gt;&gt; declined your offer to trade.</text>
+		<text bitflag="321" id1="10" id2="220413" version="1065353216">You do not have &lt;&lt;1&gt;&gt; credits to trade.</text>
+		<text bitflag="321" id1="11" id2="220413" version="1065353216">You cannot trade &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="12" id2="220413" version="1065353216">&lt;&lt;1&gt;&gt; has altered the deal. Pray &lt;&lt;p:1&gt;&gt; does not alter it any further.</text>
+		<text bitflag="321" id1="13" id2="220413" version="1065353216">You do not have enough inventory space to complete the trade.</text>
+		<text bitflag="321" id1="14" id2="220413" version="1065353216">&lt;&lt;1&gt;&gt; does not have enough inventory space to complete the trade.</text>
+		<text bitflag="321" id1="15" id2="220413" version="1065353216">&lt;&lt;1&gt;&gt; no longer has enough credits.</text>
+		<text bitflag="321" id1="16" id2="220413" version="1065353216">You cannot trade with &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="17" id2="220413" version="1065353216">&lt;&lt;1&gt;&gt; is not currently accepting trades.</text>
+		<text bitflag="321" id1="18" id2="220413" version="1065353216">You are too far away to trade with &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="19" id2="220413" version="1065353216">The dead cannot trade.</text>
+		<text bitflag="321" id1="20" id2="220413" version="1065353216">Trading is not allowed during combat.</text>
+		<text bitflag="321" id1="21" id2="220413" version="1065353216">You must remain close to &lt;&lt;1&gt;&gt; to trade.</text>
+		<text bitflag="321" id1="22" id2="220413" version="1065353216">You must wait a few seconds before sending another trade request.</text>
+		<text bitflag="321" id1="23" id2="220413" version="1065353216">Your trading session has been canceled due to the untimely death of &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="24" id2="220413" version="1065353216">&lt;&lt;1&gt;&gt; is too busy to trade.</text>
+		<text bitflag="321" id1="25" id2="220413" version="1065353216">You have invited &lt;&lt;1&gt;&gt; to trade.</text>
+		<text bitflag="321" id1="26" id2="220413" version="1065353216">Auto-declining trade invite from &lt;&lt;1&gt;&gt;...</text>
+		<text bitflag="321" id1="27" id2="220413" version="1065353216">&lt;&lt;1&gt;&gt; has invited you to trade.</text>
+		<text bitflag="321" id1="28" id2="220413" version="1065353216">You declined the trade invite from &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="29" id2="220413" version="1065353216">You cannot use that until it is traded to you.</text>
+		<text bitflag="321" id1="30" id2="220413" version="1065353216">You cannot use that while you are trading it.</text>
+		<text bitflag="321" id1="31" id2="220413" version="1065353216">You cannot use that while you are mailing it.</text>
+		<text bitflag="321" id1="32" id2="220413" version="1065353216">You cannot use that while you are auctioning it.</text>
+		<text bitflag="321" id1="33" id2="220413" version="1065353216">You cannot use that right now.</text>
+		<text bitflag="321" id1="34" id2="220413" version="1065353216">Secure Trade Completed</text>
+		<text bitflag="321" id1="35" id2="220413" version="1065353216">Target not in phase.</text>
+		<text bitflag="321" id1="257" id2="220413" version="1065353216">Free-to-Play players may not participate in trades. Items may be mailed instead.</text>
+		<text bitflag="321" id1="258" id2="220413" version="1065353216">Secure Trade</text>
+		<text bitflag="321" id1="259" id2="220413" version="1065353216">Only Subscribers and Preferred Status Players may participate in Secure Trade.</text>
+		<text bitflag="321" id1="260" id2="220413" version="1065353216">Become a Subscriber or Preferred Status Player to begin trading!</text>
+		<text bitflag="321" id1="261" id2="220413" version="1065353216">As a Preferred Status Player you may not use Secure Trade until level &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="262" id2="220413" version="1065353216">You may not trade with this player until they are level &lt;&lt;1&gt;&gt;. Items may be mailed instead.</text>
+		<text bitflag="321" id1="263" id2="220413" version="1065353216">You may not trade this item because it has been opened.</text>
+		<text bitflag="321" id1="264" id2="220413" version="1065353216">You cannot trade with yourself.</text>
+	</file_content>
+</stb_file>

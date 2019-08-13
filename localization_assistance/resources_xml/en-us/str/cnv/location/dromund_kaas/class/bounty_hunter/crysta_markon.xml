@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>307</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/class/bounty_hunter/crysta_markon.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="680684" id2="17" version="1065353216">You'd best hurry to the spaceport or all the good ships'll be gone!</text>
+		<text bitflag="1345" id1="680685" id2="17" version="1065353216">Now on to the Great Hunt. I expect you want to hear about your targets.</text>
+		<text bitflag="1345" id1="680686" id2="17" version="1065353216">Tell me everything I need to know.</text>
+		<text bitflag="1360" id1="680686" id2="17" version="1065353216">You expect right.</text>
+		<text bitflag="1345" id1="680687" id2="17" version="1065353216">I wiped the floor with my competition back there.</text>
+		<text bitflag="1360" id1="680687" id2="17" version="1065353216">Did you see the melee?</text>
+		<text bitflag="1345" id1="680688" id2="17" version="1065353216">I know--snuck me a peek while it was happening. Good fun!</text>
+		<text bitflag="1345" id1="680689" id2="17" version="1065353216">Just tell me where to point my blaster.</text>
+		<text bitflag="1360" id1="680689" id2="17" version="1065353216">My targets are already dead.</text>
+		<text bitflag="1345" id1="680690" id2="17" version="1065353216">Heh, you gotta hunt before you can shoot.</text>
+		<text bitflag="1345" id1="680692" id2="17" version="1065353216">Here's how it's gonna work: First, you're getting a starship.</text>
+		<text bitflag="1345" id1="680693" id2="17" version="1065353216">How's that going to happen?</text>
+		<text bitflag="1360" id1="680693" id2="17" version="1065353216">From where? You?</text>
+		<text bitflag="1345" id1="680694" id2="17" version="1065353216">Let's just say you're not quite done here on Dromund Kaas.</text>
+		<text bitflag="1345" id1="680696" id2="17" version="1065353216">No more shuttle rides for me.</text>
+		<text bitflag="1360" id1="680696" id2="17" version="1065353216">It's about time.</text>
+		<text bitflag="1345" id1="680697" id2="17" version="1065353216">It ain't gonna be quite that easy. We'll talk about it in a second.</text>
+		<text bitflag="1345" id1="680699" id2="17" version="1065353216">I want a nice dreadnaught with a full crew.</text>
+		<text bitflag="1360" id1="680699" id2="17" version="1065353216">I expect the best.</text>
+		<text bitflag="1345" id1="680700" id2="17" version="1065353216">You're cute. Crazy, but cute.</text>
+		<text bitflag="1345" id1="680702" id2="17" version="1065353216">On your ship's computer you'll access two holorecordings, both with specific details on who and where you hunt.</text>
+		<text bitflag="1345" id1="680703" id2="17" version="1065353216">View holorecordings, take out targets. Got it.</text>
+		<text bitflag="1360" id1="680703" id2="17" version="1065353216">Nice and easy.</text>
+		<text bitflag="1345" id1="680704" id2="17" version="1065353216">What's Tarro Blood going to be doing?</text>
+		<text bitflag="1360" id1="680704" id2="17" version="1065353216">What about Blood?</text>
+		<text bitflag="1345" id1="680705" id2="17" version="1065353216">The same thing. That's how the Great Hunt works.</text>
+		<text bitflag="1360" id1="680707" id2="17" version="1065353216">I follow you.</text>
+		<text bitflag="1345" id1="680708" id2="17" version="1065353216">Each target will have another hunter assigned to it. You have to locate that rival and take 'em out, too.</text>
+		<text bitflag="1345" id1="680710" id2="17" version="1065353216">Maybe we'll get lucky and Tarro Blood will be on our first target.</text>
+		<text bitflag="1345" id1="680712" id2="17" version="1065353216">Now, about your ship... there's a tradition for new hunters: You gotta steal one for yourself.</text>
+		<text bitflag="1345" id1="680713" id2="17" version="1065353216">Guess I'll be heading to the spaceport.</text>
+		<text bitflag="1360" id1="680713" id2="17" version="1065353216">Won't have to go far.</text>
+		<text bitflag="1345" id1="680714" id2="17" version="1065353216">Not quite yet. Gotta find you the right ship first.</text>
+		<text bitflag="1345" id1="680715" id2="17" version="1065353216">Is this going to get me in trouble with the Imperials?</text>
+		<text bitflag="1360" id1="680715" id2="17" version="1065353216">I'm breaking the law.</text>
+		<text bitflag="1345" id1="680716" id2="17" version="1065353216">A hunter's life is nothing but trouble--get used to it. Now let's find you the right ship.</text>
+		<text bitflag="1345" id1="680717" id2="17" version="1065353216">I can already tell this is going to be a blast.</text>
+		<text bitflag="1360" id1="680717" id2="17" version="1065353216">Sounds fun.</text>
+		<text bitflag="1345" id1="680718" id2="17" version="1065353216">That's what life is for a hunter! Now let's find you that perfect ship, yeah?</text>
+		<text bitflag="1345" id1="680720" id2="17" version="1065353216">You more interested in speed, cargo capacity or weapon capabilities?</text>
+		<text bitflag="1345" id1="680721" id2="17" version="1065353216">I'll take a fast ship any day.</text>
+		<text bitflag="1360" id1="680721" id2="17" version="1065353216">Speed, always.</text>
+		<text bitflag="1345" id1="680722" id2="17" version="1065353216">Speed it is. You sure?</text>
+		<text bitflag="1345" id1="680723" id2="17" version="1065353216">I'll always be the first one to reach my targets.</text>
+		<text bitflag="1360" id1="680723" id2="17" version="1065353216">Absolutely.</text>
+		<text bitflag="1345" id1="680724" id2="17" version="1065353216">All right, then. I know a good one that belongs to an Imperial scout. Kind of cramped, but fast as a full-size gets.</text>
+		<text bitflag="1345" id1="680725" id2="17" version="1065353216">A cargo ship will work best for me.</text>
+		<text bitflag="1360" id1="680725" id2="17" version="1065353216">I've got a lot to lug around.</text>
+		<text bitflag="1345" id1="680726" id2="17" version="1065353216">I'm crazy about storage space, myself. Starships with big holds are a girl's best friend.</text>
+		<text bitflag="1345" id1="680728" id2="17" version="1065353216">Cargo ship it is. You got to be sure though, yeah?</text>
+		<text bitflag="1345" id1="680729" id2="17" version="1065353216">Never hurts to do a little free trading on the side.</text>
+		<text bitflag="1360" id1="680729" id2="17" version="1065353216">I'm sure.</text>
+		<text bitflag="1345" id1="680730" id2="17" version="1065353216">Gotcha. I know one that belongs to one of them so-called &quot;importer&quot; types. Fast, smooth and roomy.</text>
+		<text bitflag="1345" id1="680731" id2="17" version="1065353216">Now that I think about it, speed is more important to me.</text>
+		<text bitflag="1360" id1="680731" id2="17" version="1065353216">No, I want fast instead.</text>
+		<text bitflag="1345" id1="680732" id2="17" version="1065353216">I may need to fight my way out of trouble.</text>
+		<text bitflag="1360" id1="680732" id2="17" version="1065353216">Weapons would be better.</text>
+		<text bitflag="1345" id1="680733" id2="17" version="1065353216">Might need to battle it out in space--better go for weapons.</text>
+		<text bitflag="1360" id1="680733" id2="17" version="1065353216">Turbolasers are a must.</text>
+		<text bitflag="1345" id1="680734" id2="17" version="1065353216">Weapons-heavy ship it is. You sure 'bout that?</text>
+		<text bitflag="1345" id1="680735" id2="17" version="1065353216">On second thought, I could earn a killing transporting cargo.</text>
+		<text bitflag="1360" id1="680735" id2="17" version="1065353216">I'd rather have cargo space.</text>
+		<text bitflag="1345" id1="680736" id2="17" version="1065353216">Any spacer who gets in my way will regret it.</text>
+		<text bitflag="1360" id1="680736" id2="17" version="1065353216">No second thoughts.</text>
+		<text bitflag="1345" id1="680737" id2="17" version="1065353216">Can't argue with that. I know a ship that belongs to one of them Imperial blockade enforcers. Lightweight, but packs a mean punch.</text>
+		<text bitflag="1345" id1="680739" id2="17" version="1065353216">I'll pull together your holorecordings for the Great Hunt targets and transmit them when you hit space.</text>
+		<text bitflag="1345" id1="680741" id2="17" version="1065353216">Meantime, head to the spaceport. Get past whatever guards are around, steal your ship and hit the hyperlanes.</text>
+		<text bitflag="1345" id1="680742" id2="17" version="1065353216">I'm off on the Great Hunt.</text>
+		<text bitflag="1360" id1="680742" id2="17" version="1065353216">Wish me luck.</text>
+		<text bitflag="1345" id1="680743" id2="17" version="1065353216">What's my destination?</text>
+		<text bitflag="1360" id1="680743" id2="17" version="1065353216">Anywhere in particular?</text>
+		<text bitflag="1360" id1="680744" id2="17" version="1065353216">Hope the guards fight back.</text>
+		<text bitflag="1345" id1="680745" id2="17" version="1065353216">Still? You been workin' it nonstop since you got here.</text>
+		<text bitflag="1345" id1="680747" id2="17" version="1065353216">Your first round of targets are on Balmorra and Nar Shaddaa. Good luck to ya, hunter!</text>
+		<text bitflag="1345" id1="680749" id2="17" version="1065353216">Your starship's docked at the spaceport. The holorecordings will direct you from here on out.</text>
+		<text bitflag="1345" id1="680750" id2="17" version="1065353216">Next time you see me, I'll have won this thing.</text>
+		<text bitflag="1360" id1="680750" id2="17" version="1065353216">Then I'm gone.</text>
+		<text bitflag="1345" id1="680751" id2="17" version="1065353216">Will I see you again, Crysta?</text>
+		<text bitflag="1360" id1="680751" id2="17" version="1065353216">What about you?</text>
+		<text bitflag="1345" id1="680752" id2="17" version="1065353216">I sure do hope so. That'll mean you're not dead!</text>
+		<text bitflag="1345" id1="680753" id2="17" version="1065353216">Hopefully those holorecordings will be smarter than you.</text>
+		<text bitflag="1360" id1="680753" id2="17" version="1065353216">Good--you get on my nerves.</text>
+		<text bitflag="1345" id1="680754" id2="17" version="1065353216">No need to get nasty about it.</text>
+		<text bitflag="1345" id1="680755" id2="17" version="1065353216">Can't wait to get back on that hunk of junk.</text>
+		<text bitflag="1360" id1="680755" id2="17" version="1065353216">I've missed my ship.</text>
+		<text bitflag="1345" id1="680756" id2="17" version="1065353216">Be lucky, hunter!</text>
+		<text bitflag="1345" id1="680757" id2="17" version="1065353216">Hoooh! What a thrashing! The other handlers are all bug-eyed jealous you won.</text>
+		<text bitflag="1345" id1="680761" id2="17" version="1065353216">What're you doing here? The melee's gonna start!</text>
+		<text bitflag="1345" id1="680762" id2="17" version="1065353216">All the other hunters who survived are already inside! Get in there!</text>
+		<text bitflag="1360" id1="680763" id2="17" version="1065353216">This shouldn't take long.</text>
+		<text bitflag="1345" id1="680764" id2="17" version="1065353216">If I die, bury my credits with me.</text>
+		<text bitflag="1360" id1="680764" id2="17" version="1065353216">It's do-or-die time.</text>
+		<text bitflag="1345" id1="680765" id2="17" version="1065353216">No inheritance, huh? Thanks a lot.</text>
+		<text bitflag="1345" id1="680767" id2="17" version="1065353216">Don't get cute--move!</text>
+		<text bitflag="1360" id1="680768" id2="17" version="1065353216">Melee, here I come!</text>
+		<text bitflag="1345" id1="680769" id2="17" version="1065353216">That's the spirit!</text>
+		<text bitflag="1345" id1="680771" id2="17" version="1065353216">You're alive! Some Mandalorian big shot named Tarro Blood said you were dead. They're about to start the melee without you!</text>
+		<text bitflag="1345" id1="680772" id2="17" version="1065353216">Can you still get me into that melee, Crysta?</text>
+		<text bitflag="1360" id1="680772" id2="17" version="1065353216">I can still enter, right?</text>
+		<text bitflag="1345" id1="680773" id2="17" version="1065353216">Yeah, but just by the skin o' your knuckles.</text>
+		<text bitflag="1345" id1="680774" id2="17" version="1065353216">Do I look dead to you?</text>
+		<text bitflag="1360" id1="680774" id2="17" version="1065353216">Dead?</text>
+		<text bitflag="1345" id1="680775" id2="17" version="1065353216">Not hardly. In fact, you look like a woman who's been kicking around some sad men.</text>
+		<text bitflag="1345" id1="680776" id2="17" version="1065353216">Not so's I can tell, but then I never detected a pulse in you before.</text>
+		<text bitflag="1345" id1="680777" id2="17" version="1065353216">No, you look all sorts of alive and fantastic... all mighty and terrible... heh. Sorry, distracted myself.</text>
+		<text bitflag="1345" id1="680778" id2="17" version="1065353216">I can't wait to kill that man.</text>
+		<text bitflag="1360" id1="680778" id2="17" version="1065353216">Tarro needs to die.</text>
+		<text bitflag="1345" id1="680779" id2="17" version="1065353216">You're gonna have to wait 'til after the melee!</text>
+		<text bitflag="1345" id1="680781" id2="17" version="1065353216">Last bounty, get on it! Imperial Intelligence is just up the street.</text>
+		<text bitflag="1345" id1="680782" id2="17" version="1065353216">Top secret crazy, red-flag covered. This one's for a Captain Medle in Imperial Intelligence. No other information.</text>
+		<text bitflag="1345" id1="680783" id2="17" version="1065353216">Looks like I'm working for spies this time.</text>
+		<text bitflag="1360" id1="680783" id2="17" version="1065353216">I'll head over there.</text>
+		<text bitflag="1345" id1="680784" id2="17" version="1065353216">Better not want us to poison someone....</text>
+		<text bitflag="1345" id1="680786" id2="17" version="1065353216">What exactly is &quot;Imperial Intelligence&quot;?</text>
+		<text bitflag="1360" id1="680786" id2="17" version="1065353216">Imperial Intelligence?</text>
+		<text bitflag="1345" id1="680787" id2="17" version="1065353216">Spook arm of the Empire. Secrets, lies and things that don't need asking about. Watch yourself with those people.</text>
+		<text bitflag="1345" id1="680789" id2="17" version="1065353216">I'm already thinking about the melee.</text>
+		<text bitflag="1360" id1="680789" id2="17" version="1065353216">One last bounty.</text>
+		<text bitflag="1345" id1="680790" id2="17" version="1065353216">Don't get out in front of yourself, hunter. Good way to get yourself up and killed.</text>
+		<text bitflag="1345" id1="680792" id2="17" version="1065353216">Stay careful, get this one done and don't get yourself dead in the process.</text>
+		<text bitflag="1345" id1="680795" id2="17" version="1065353216">Second bounty is done. Just one more and I'm in the melee.</text>
+		<text bitflag="1345" id1="680796" id2="17" version="1065353216">Right you are. And competition is heating up.</text>
+		<text bitflag="1345" id1="680798" id2="17" version="1065353216">That little green girl, Iopiane Ratle, finished all her bounties. Heard she poisoned an Imperial Moff!</text>
+		<text bitflag="1345" id1="680800" id2="17" version="1065353216">Lucky we didn't get that one, not sure how we'd work it out.</text>
+		<text bitflag="1345" id1="680802" id2="17" version="1065353216">Now I ain't allowed details on whatever you were scrappin' for Admiral Fraabaal, but I got a clearance note says it was duly scrapped. Nice payday, too.</text>
+		<text bitflag="1345" id1="680803" id2="17" version="1065353216">Professionals don't talk about their clients.</text>
+		<text bitflag="1360" id1="680803" id2="17" version="1065353216">I'll keep it confidential.</text>
+		<text bitflag="1345" id1="680804" id2="17" version="1065353216">I hear you. Less I know, the better.</text>
+		<text bitflag="1345" id1="680806" id2="17" version="1065353216">There was a squabble between the admiral and his Sith daughter. Complicated.</text>
+		<text bitflag="1360" id1="680806" id2="17" version="1065353216">It was a family matter.</text>
+		<text bitflag="1345" id1="680807" id2="17" version="1065353216">Sounds right tricky but less I know, the better.</text>
+		<text bitflag="1345" id1="680809" id2="17" version="1065353216">All I want to know is what my third bounty looks like.</text>
+		<text bitflag="1360" id1="680809" id2="17" version="1065353216">Let's talk next steps.</text>
+		<text bitflag="1345" id1="680810" id2="17" version="1065353216">Here we go. Bounty three. I call it: Someone's got a serious hate for my hunter.</text>
+		<text bitflag="1345" id1="680812" id2="17" version="1065353216">And, because someone don't like you, I got more of the same.</text>
+		<text bitflag="1345" id1="680814" id2="17" version="1065353216">If you ain't cleaned up Fraabaal's mess, I can't give you nothing new.</text>
+		<text bitflag="1345" id1="680815" id2="17" version="1065353216">Your second bounty's a bit of mystery. Apparently whoever's stacking the deck against you gonna keep right on stacking.</text>
+		<text bitflag="1345" id1="680817" id2="17" version="1065353216">Hardly surprising.</text>
+		<text bitflag="1345" id1="680819" id2="17" version="1065353216">What I got here is a classified, red-flag request from Imperial Command. No details, just flashy warnings and a contact: Admiral Fraabaal, Imperial Navy.</text>
+		<text bitflag="1345" id1="680820" id2="17" version="1065353216">Hand it over and I'll go see this Admiral Fraabaal.</text>
+		<text bitflag="1360" id1="680820" id2="17" version="1065353216">A job's a job.</text>
+		<text bitflag="1345" id1="680821" id2="17" version="1065353216">Watch yourself in that first sit-and-squawk.</text>
+		<text bitflag="1345" id1="680823" id2="17" version="1065353216">Why would an Imperial officer need me?</text>
+		<text bitflag="1360" id1="680823" id2="17" version="1065353216">He has his own troops, yes?</text>
+		<text bitflag="1345" id1="680824" id2="17" version="1065353216">Usually because one clawed arm of the ol' Imperial beast don't want the other to see what it's scratchin' on.</text>
+		<text bitflag="1345" id1="680826" id2="17" version="1065353216">I don't see what the big deal is.</text>
+		<text bitflag="1360" id1="680826" id2="17" version="1065353216">Why is an Imperial job bad?</text>
+		<text bitflag="1345" id1="680827" id2="17" version="1065353216">Imperials think aliens are disposable. Alien bounty hunters rank somewhere below droids.</text>
+		<text bitflag="1345" id1="680829" id2="17" version="1065353216">You haven't dealt much with Imperials, have you? They make Hutts look downright honest.</text>
+		<text bitflag="1345" id1="680831" id2="17" version="1065353216">Here's the slip. Fraabaal's in the city, not all that far a stroll. Go get 'em!</text>
+		<text bitflag="1345" id1="680833" id2="17" version="1065353216">Hey there, hunter. Competition out there is something crazy.</text>
+		<text bitflag="1345" id1="680835" id2="17" version="1065353216">Couple of hunters died in the jungles. Big Trandoshan got arrested by the Imperials.</text>
+		<text bitflag="1345" id1="680837" id2="17" version="1065353216">And you found yourself an unfindable Republic noble. His family was plenty generous with their live bounty.</text>
+		<text bitflag="1345" id1="680838" id2="17" version="1065353216">Nobody should have to go through what that man suffered.</text>
+		<text bitflag="1360" id1="680838" id2="17" version="1065353216">He deserved to go home.</text>
+		<text bitflag="1345" id1="680839" id2="17" version="1065353216">Heart of a poet, gun like a capital ship. I'm like to swoon.</text>
+		<text bitflag="1345" id1="680840" id2="17" version="1065353216">Nobody understands why women do themselves so well in the hunts. It's the empathy.</text>
+		<text bitflag="1345" id1="680841" id2="17" version="1065353216">And you found yourself the body of a fancy pants Republic noble. Not as good as a live catch but it's a win and some credits.</text>
+		<text bitflag="1345" id1="680842" id2="17" version="1065353216">I need three total bounties to get in the melee, correct?</text>
+		<text bitflag="1360" id1="680842" id2="17" version="1065353216">One down, two to go.</text>
+		<text bitflag="1345" id1="680843" id2="17" version="1065353216">Afraid the rules'll change again? Not yet, anyway. Still three to win.</text>
+		<text bitflag="1345" id1="680844" id2="17" version="1065353216">If this is a competition, why are there still credits on these jobs?</text>
+		<text bitflag="1360" id1="680844" id2="17" version="1065353216">Great Hunt bounties still pay?</text>
+		<text bitflag="1345" id1="680845" id2="17" version="1065353216">Well first of all, gear and ammo ain't cheap. Second, the Great Hunt is mostly secret so the more it looks business as usual, the better.</text>
+		<text bitflag="1345" id1="680846" id2="17" version="1065353216">There are times the pay isn't worth listening to the whining.</text>
+		<text bitflag="1360" id1="680846" id2="17" version="1065353216">Some are better off dead.</text>
+		<text bitflag="1345" id1="680847" id2="17" version="1065353216">You're a cold killer. Love it!</text>
+		<text bitflag="1345" id1="680852" id2="17" version="1065353216">You found that noble? No noble, no new bounty.</text>
+		<text bitflag="1345" id1="680853" id2="17" version="1065353216">You understand the basics, right? Three bounties, hardest targets on Dromund Kaas. Gotta get all three to qualify for the final melee.</text>
+		<text bitflag="1345" id1="680854" id2="17" version="1065353216">Enough standing around. Who are my bounties?</text>
+		<text bitflag="1360" id1="680854" id2="17" version="1065353216">Got it. Let's go.</text>
+		<text bitflag="1345" id1="680855" id2="17" version="1065353216">What exactly is this &quot;melee&quot; I keep hearing about?</text>
+		<text bitflag="1360" id1="680855" id2="17" version="1065353216">Melee?</text>
+		<text bitflag="1345" id1="680856" id2="17" version="1065353216">Ooh, it's a big ol' scrap. Everybody who gets all three of their bounties goes into the rage pit. One comes out.</text>
+		<text bitflag="1345" id1="680858" id2="17" version="1065353216">This is the best job in the galaxy.</text>
+		<text bitflag="1360" id1="680858" id2="17" version="1065353216">Can't wait.</text>
+		<text bitflag="1345" id1="680859" id2="17" version="1065353216">Oh, I like you. You're even crazier than the rest of these hunters.</text>
+		<text bitflag="1345" id1="680861" id2="17" version="1065353216">Let's see who your first target is... whoa. This can't be right. You got enemies among the Mandalorians or something?</text>
+		<text bitflag="1345" id1="680863" id2="17" version="1065353216">Just Tarro Blood, the Mandalorian who killed Braden. What'd he do?</text>
+		<text bitflag="1345" id1="680864" id2="17" version="1065353216">It'll be fine. What are we dealing with here?</text>
+		<text bitflag="1360" id1="680864" id2="17" version="1065353216">Calm down, Mako.</text>
+		<text bitflag="1345" id1="680865" id2="17" version="1065353216">'Cause from the looks of this, you either have the worst luck in the galaxy or somebody hates you an awful lot.</text>
+		<text bitflag="1345" id1="680866" id2="17" version="1065353216">I'm used to having the cards stacked against me.</text>
+		<text bitflag="1360" id1="680866" id2="17" version="1065353216">Doesn't matter.</text>
+		<text bitflag="1345" id1="680867" id2="17" version="1065353216">Honestly, who wouldn't like me?</text>
+		<text bitflag="1360" id1="680867" id2="17" version="1065353216">But I'm so lovable.</text>
+		<text bitflag="1360" id1="680868" id2="17" version="1065353216">Just tell me my targets.</text>
+		<text bitflag="1345" id1="680869" id2="17" version="1065353216">I wouldn't wish this bounty on anybody. Gotta play the hand you're dealt, though.</text>
+		<text bitflag="1345" id1="680871" id2="17" version="1065353216">The target's a Republic noble, name of Altaca. He got captured during an Imperial raid, brought back here and sold into slavery by mistake.</text>
+		<text bitflag="1345" id1="680872" id2="17" version="1065353216">Why was selling him into slavery a mistake?</text>
+		<text bitflag="1360" id1="680872" id2="17" version="1065353216">Mistake? I don't get it.</text>
+		<text bitflag="1345" id1="680873" id2="17" version="1065353216">Should've been ransomed--but Altaca wasn't properly identified when he got captured.</text>
+		<text bitflag="1345" id1="680874" id2="17" version="1065353216">Didn't think the Republic had an aristocracy.</text>
+		<text bitflag="1360" id1="680874" id2="17" version="1065353216">The Republic has nobles?</text>
+		<text bitflag="1345" id1="680875" id2="17" version="1065353216">Law of the galaxy: Anywhere somebody with a fancy name can step on somebody without one, they will.</text>
+		<text bitflag="1345" id1="680876" id2="17" version="1065353216">They're not like Imperial or Sith nobles--more like old blood with proper names and big houses.</text>
+		<text bitflag="1345" id1="680877" id2="17" version="1065353216">I love it when fat aristocrats get theirs.</text>
+		<text bitflag="1360" id1="680877" id2="17" version="1065353216">Serves him right.</text>
+		<text bitflag="1345" id1="680878" id2="17" version="1065353216">My thoughts exactly--nobles can all go rot.</text>
+		<text bitflag="1345" id1="680880" id2="17" version="1065353216">I've seen how Imperials treat their slaves. It ain't pretty.</text>
+		<text bitflag="1345" id1="680882" id2="17" version="1065353216">Altaca's slave group was building a big ol' statue in the jungle. The slaves rebelled and took over the site.</text>
+		<text bitflag="1345" id1="680884" id2="17" version="1065353216">Nobody can get in there. We don't even know if he's still alive. If he is, the family will pay big.</text>
+		<text bitflag="1345" id1="680885" id2="17" version="1065353216">Will the family pay big for a corpse?</text>
+		<text bitflag="1360" id1="680885" id2="17" version="1065353216">What if he's dead?</text>
+		<text bitflag="1345" id1="680886" id2="17" version="1065353216">They'll pay for the body, but not as much as alive. Details are on the hire slip.</text>
+		<text bitflag="1360" id1="680888" id2="17" version="1065353216">Finding him will be fun.</text>
+		<text bitflag="1345" id1="680889" id2="17" version="1065353216">You've got confidence, I'll give you that.</text>
+		<text bitflag="1345" id1="680891" id2="17" version="1065353216">I've been looking to earn some real credits for a change.</text>
+		<text bitflag="1360" id1="680891" id2="17" version="1065353216">Big money, eh?</text>
+		<text bitflag="1345" id1="680892" id2="17" version="1065353216">Well, now's your chance--assuming you can ever find the guy.</text>
+		<text bitflag="1345" id1="680894" id2="17" version="1065353216">The slaves got themselves a tent camp near that statue they never finished. If Altaca's still kickin', he's probably somewhere in there.</text>
+		<text bitflag="1345" id1="680896" id2="17" version="1065353216">Before you go, meet your new best friend--the S86k full-gauge carbonite armor upgrade.</text>
+		<text bitflag="1345" id1="680899" id2="17" version="1065353216">All I need is a good blaster.</text>
+		<text bitflag="1360" id1="680899" id2="17" version="1065353216">Not my style.</text>
+		<text bitflag="1345" id1="680900" id2="17" version="1065353216">The S86k ain't for everyday battles, see? Sometimes, you need a target alive.</text>
+		<text bitflag="1345" id1="680901" id2="17" version="1065353216">You can never have too many weapons in our line of work.</text>
+		<text bitflag="1360" id1="680901" id2="17" version="1065353216">New armament--nice.</text>
+		<text bitflag="1345" id1="680902" id2="17" version="1065353216">Ain't that the truth? Only, the S86k ain't quite a weapon.</text>
+		<text bitflag="1345" id1="680903" id2="17" version="1065353216">Do I owe you, or is this out of the goodness of your heart?</text>
+		<text bitflag="1360" id1="680903" id2="17" version="1065353216">Is this a gift?</text>
+		<text bitflag="1345" id1="680904" id2="17" version="1065353216">Think of it as a reward for getting sponsored into the Great Hunt.</text>
+		<text bitflag="1345" id1="680906" id2="17" version="1065353216">You can't shoot a fella with this while he's springing around--it's too slow to charge up.</text>
+		<text bitflag="1345" id1="680908" id2="17" version="1065353216">But once that fella ain't resisting--say, after a good long beating--the S86k will freeze 'em for transport.</text>
+		<text bitflag="1345" id1="680909" id2="17" version="1065353216">Didn't know they made devices to freeze people.</text>
+		<text bitflag="1360" id1="680909" id2="17" version="1065353216">So it's a freezing ray?</text>
+		<text bitflag="1345" id1="680910" id2="17" version="1065353216">Carbonite ain't so much freezing as it is... well, I ain't got a clue, really. Just have fun!</text>
+		<text bitflag="1345" id1="680912" id2="17" version="1065353216">I do love getting new toys.</text>
+		<text bitflag="1360" id1="680912" id2="17" version="1065353216">Can't wait to try it out.</text>
+		<text bitflag="1345" id1="680913" id2="17" version="1065353216">I expect you'll have plenty of chances to play with that one.</text>
+		<text bitflag="1345" id1="680915" id2="17" version="1065353216">I don't tend to take people alive.</text>
+		<text bitflag="1360" id1="680915" id2="17" version="1065353216">My targets are usually dead.</text>
+		<text bitflag="1345" id1="680916" id2="17" version="1065353216">I hear ya--but sometimes a payday's bigger when your catch is still floppin' on the deck.</text>
+		<text bitflag="1345" id1="680918" id2="17" version="1065353216">You find that Republic noble fella and claim that first bounty, then hurry it on back here fast as you can.</text>
+		<text bitflag="1345" id1="680920" id2="17" version="1065353216">A dozen cowards just scurried out of here--probably won't stop 'til Dromund Kaas is light-years behind 'em.</text>
+		<text bitflag="1345" id1="680922" id2="17" version="1065353216">You'd best be getting in there to hear the Huntmaster.</text>
+		<text bitflag="1345" id1="680925" id2="17" version="1065353216">--and then I told him, &quot;You think that's cold? You should see what I did to the Gamorrean.&quot;</text>
+		<text bitflag="1345" id1="680929" id2="17" version="1065353216">I never saw a Rodian run so fast in my--oh. Sorry, sweetie, didn't see you there. What can I do for you?</text>
+		<text bitflag="1345" id1="680931" id2="17" version="1065353216">I never saw a Rodian run so fast in my--whoa. Hello, handsome. You here to sweep me off my feet?</text>
+		<text bitflag="1345" id1="680933" id2="17" version="1065353216">We are here for the Great Hunt. We have been sponsored by Nem'ro the Hutt.</text>
+		<text bitflag="1345" id1="680935" id2="17" version="1065353216">An all-girls hunter team? Good for you. How long you two been partners?</text>
+		<text bitflag="1345" id1="680936" id2="17" version="1065353216">We're not here to chat. Let's stick to business.</text>
+		<text bitflag="1360" id1="680936" id2="17" version="1065353216">Save the questions.</text>
+		<text bitflag="1345" id1="680937" id2="17" version="1065353216">Just being friendly. Should appreciate it where you find it.</text>
+		<text bitflag="1345" id1="680939" id2="17" version="1065353216">Feels like Mako's always been there to back me up.</text>
+		<text bitflag="1360" id1="680939" id2="17" version="1065353216">Long enough to be close.</text>
+		<text bitflag="1345" id1="680940" id2="17" version="1065353216">Fantastic. Rare to see that kinda solidarity in our business, you know?</text>
+		<text bitflag="1345" id1="680942" id2="17" version="1065353216">I'm the hunter here. She just polishes my armor.</text>
+		<text bitflag="1360" id1="680942" id2="17" version="1065353216">We're not partners.</text>
+		<text bitflag="1345" id1="680943" id2="17" version="1065353216">Thanks. Yeah, thanks for that. Very nice.</text>
+		<text bitflag="1345" id1="680945" id2="17" version="1065353216">What's this? Got yourself a pet? Little sister, maybe? Not enough to hold a real man's interest, anyway.</text>
+		<text bitflag="1345" id1="680946" id2="17" version="1065353216">Mako's my backup. That's all you need to know.</text>
+		<text bitflag="1360" id1="680946" id2="17" version="1065353216">Stick to business, lady.</text>
+		<text bitflag="1345" id1="680947" id2="17" version="1065353216">Didn't mean anything. It's just rare we get any fresh meat in here worth putting on the grill.</text>
+		<text bitflag="1345" id1="680949" id2="17" version="1065353216">Can you change the subject, already?</text>
+		<text bitflag="1345" id1="680951" id2="17" version="1065353216">Oh, don't get your blaster jammed.</text>
+		<text bitflag="1345" id1="680952" id2="17" version="1065353216">I'm not spoken for, if that's what you're wondering.</text>
+		<text bitflag="1360" id1="680952" id2="17" version="1065353216">[Flirt] But you do.</text>
+		<text bitflag="1345" id1="680953" id2="17" version="1065353216">Good to know. Been a while since we've had anyone as fine as you in here.</text>
+		<text bitflag="1345" id1="680954" id2="17" version="1065353216">Good to know. All the regulars here are either scarred up or can't breathe normal air.</text>
+		<text bitflag="1345" id1="680955" id2="17" version="1065353216">Mako's the only person in the galaxy who matters to me.</text>
+		<text bitflag="1360" id1="680955" id2="17" version="1065353216">She's my whole world.</text>
+		<text bitflag="1345" id1="680956" id2="17" version="1065353216">Really? I... really?</text>
+		<text bitflag="1345" id1="680958" id2="17" version="1065353216">Hmph. Your loss.</text>
+		<text bitflag="1345" id1="680962" id2="17" version="1065353216">Never saw a Rodian run so fast in my--oh. Sorry, sweetie, didn't see you there. Name's Crysta.</text>
+		<text bitflag="1345" id1="680963" id2="17" version="1065353216">Never saw a Rodian run so fast in my--whoa. Hello, good-lookin'. I'm Crysta.</text>
+		<text bitflag="1345" id1="680965" id2="17" version="1065353216">You're here for the Great Hunt, right? Congratulations making it this far.</text>
+		<text bitflag="1345" id1="680966" id2="17" version="1065353216">You're looking at the future champion of the Great Hunt.</text>
+		<text bitflag="1360" id1="680966" id2="17" version="1065353216">This far? I'm going to win.</text>
+		<text bitflag="1345" id1="680967" id2="17" version="1065353216">If they handed out trophies for attitude, I'm sure you'd have quite a collection.</text>
+		<text bitflag="1345" id1="680969" id2="17" version="1065353216">Wasn't sure I'd see any other women once I got here.</text>
+		<text bitflag="1360" id1="680969" id2="17" version="1065353216">Glad this isn't a boy's club.</text>
+		<text bitflag="1345" id1="680970" id2="17" version="1065353216">As long as you can hunt, nothing else about you matters. Well, almost.</text>
+		<text bitflag="1345" id1="680972" id2="17" version="1065353216">Why don't we go celebrate someplace private?</text>
+		<text bitflag="1360" id1="680972" id2="17" version="1065353216">[Flirt] Thanks.</text>
+		<text bitflag="1345" id1="680973" id2="17" version="1065353216">I might just take you up on that--but first things first.</text>
+		<text bitflag="1345" id1="680975" id2="17" version="1065353216">I had to slog through a swamp full of Hutts to get here.</text>
+		<text bitflag="1360" id1="680975" id2="17" version="1065353216">I came from Hutta.</text>
+		<text bitflag="1345" id1="680976" id2="17" version="1065353216">Hutta? My condolences. That's one planet I hope I never see again.</text>
+		<text bitflag="1345" id1="680978" id2="17" version="1065353216">You probably ain't gonna like what I'm about to tell you--but there's nothing I can do about it, understand?</text>
+		<text bitflag="1345" id1="680980" id2="17" version="1065353216">There's one spot left open in the Great Hunt, and over three dozen hunters who got sponsorships.</text>
+		<text bitflag="1345" id1="680981" id2="17" version="1065353216">Those other hunters can go home. That spot is mine.</text>
+		<text bitflag="1360" id1="680981" id2="17" version="1065353216">Too bad for them.</text>
+		<text bitflag="1345" id1="680982" id2="17" version="1065353216">It's yours if you can get it. Lotsa folks will be thinking the same thing, though.</text>
+		<text bitflag="1345" id1="680983" id2="17" version="1065353216">It's okay. I brought over three dozen rounds of ammo.</text>
+		<text bitflag="1360" id1="680983" id2="17" version="1065353216">Not a problem.</text>
+		<text bitflag="1345" id1="680984" id2="17" version="1065353216">I'll just bet you did. Hope you can back up that kinda talk.</text>
+		<text bitflag="1345" id1="680985" id2="17" version="1065353216">You don't expect me to just give up, do you?</text>
+		<text bitflag="1360" id1="680985" id2="17" version="1065353216">I'm not backing down.</text>
+		<text bitflag="1345" id1="680986" id2="17" version="1065353216">Of course not--but life's about to get a bit crazy. You best be ready.</text>
+		<text bitflag="1345" id1="680988" id2="17" version="1065353216">The Huntmaster himself will explain how we're gonna sort things out. Head into the main room and show some respect.</text>
+		<text bitflag="1345" id1="680990" id2="17" version="1065353216">When the Huntmaster's done talking, come on back here. I'll be handling you from here on out.</text>
+		<text bitflag="1345" id1="680994" id2="17" version="1065353216">I've already earned my spot in the Great Hunt.</text>
+		<text bitflag="1360" id1="680994" id2="17" version="1065353216">Enough runaround.</text>
+		<text bitflag="1345" id1="680995" id2="17" version="1065353216">I told you--it's bad news, but that's the way it is. I don't make the decisions.</text>
+		<text bitflag="1345" id1="680996" id2="17" version="1065353216">I look forward to being handled, Crysta.</text>
+		<text bitflag="1360" id1="680996" id2="17" version="1065353216">[Flirt] Take good care of me.</text>
+		<text bitflag="1345" id1="680997" id2="17" version="1065353216">Smooth. Real smooth.</text>
+		<text bitflag="1345" id1="680998" id2="17" version="1065353216">Don't start playing games with me now. You had your chance.</text>
+		<text bitflag="1345" id1="680999" id2="17" version="1065353216">Oh, you're a bad one!</text>
+		<text bitflag="1345" id1="681000" id2="17" version="1065353216">Let's show these boys what a real hunter looks like.</text>
+		<text bitflag="1360" id1="681000" id2="17" version="1065353216">Girls need to stick together.</text>
+		<text bitflag="1345" id1="681001" id2="17" version="1065353216">My thoughts exactly.</text>
+		<text bitflag="1360" id1="681002" id2="17" version="1065353216">To the Huntmaster, then.</text>
+		<text bitflag="1345" id1="681003" id2="17" version="1065353216">Be polite and mind your manners in there.</text>
+		<text bitflag="1345" id1="681005" id2="17" version="1065353216">Now hurry up--the Huntmaster's gonna explain it all with or without you.</text>
+		<text bitflag="1345" id1="681009" id2="17" version="1065353216">Your little tagalong seems real eager to chat with you.</text>
+		<text bitflag="1345" id1="681010" id2="17" version="1065353216">Ain't too common to see proper folk in here. You lost?</text>
+	</file_content>
+</stb_file>

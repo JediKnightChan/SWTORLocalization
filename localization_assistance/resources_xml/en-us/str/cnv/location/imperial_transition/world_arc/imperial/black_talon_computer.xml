@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/black_talon_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="660980" id2="17" version="1065353216">Warning: Cryonics systems offline. Experimental specimens have been released.</text>
+		<text bitflag="1345" id1="660981" id2="17" version="1065353216">Cryonics power failure. Experimental specimens awakening.</text>
+		<text bitflag="1345" id1="660982" id2="17" version="1065353216">Override engaged. Power is online.</text>
+		<text bitflag="1345" id1="660983" id2="17" version="1065353216">Warning: Life support systems damaged. Oxygen depletion in progress.</text>
+		<text bitflag="1345" id1="660984" id2="17" version="1065353216">Power fluctuations detected in electrical conduits. Conduits may become unstable; caution is advised.</text>
+		<text bitflag="1345" id1="660985" id2="17" version="1065353216">Warning: Secondary power systems damaged. Nonessential systems may be inoperable.</text>
+		<text bitflag="1345" id1="660986" id2="17" version="1065353216">Additional security forces are needed in the cargo area to enforce containment measures. Please respond.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>27</strs>
+		<file_name>/resources/en-us/str/cnv/location/ilum/bronze/imperial/poisonous_strategy/g_4t.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="179364" id2="17" version="1065353216">This unit = nothing new to report</text>
+		<text bitflag="3393" id1="179365" id2="17" version="1065353216">This unit = awaiting situation report // Query = was Republic presence removed?</text>
+		<text bitflag="1360" id1="179366" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="1360" id1="179367" id2="17" version="1065353216">Completely.</text>
+		<text bitflag="1360" id1="179368" id2="17" version="1065353216">Take a guess, droid.</text>
+		<text bitflag="3393" id1="179369" id2="17" version="1065353216">Situation report = relayed to Command // Dispensation = confirmed + forwarded</text>
+		<text bitflag="3393" id1="179371" id2="17" version="1065353216">This unit = will maintain observation until relieved // Maintenance = expected</text>
+		<text bitflag="3393" id1="179373" id2="17" version="1065353216">Republic camp = still a threat</text>
+		<text bitflag="3393" id1="179376" id2="17" version="1065353216">Ally = Sith // Operator = my lord // This unit = serves my lord</text>
+		<text bitflag="3393" id1="179378" id2="17" version="1065353216">Ally = Imperial // Operator = error: null // This unit = reports to null</text>
+		<text bitflag="3393" id1="179380" id2="17" version="1065353216">Ally = registered combatant // This unit = delegating objectives</text>
+		<text bitflag="3393" id1="179382" id2="17" version="1065353216">This unit = recon // Sector = crystal mine // Threat assessment = Republic forces // Republic forces = ongoing threat to successful occupation // This unit = advises removal</text>
+		<text bitflag="1360" id1="179383" id2="17" version="1065353216">I'll remove it.</text>
+		<text bitflag="3393" id1="179384" id2="17" version="1065353216">This unit = aware of weaknesses // Briefing = compiled + to follow</text>
+		<text bitflag="1360" id1="179386" id2="17" version="1065353216">What needs doing?</text>
+		<text bitflag="1360" id1="179387" id2="17" version="1065353216">So?</text>
+		<text bitflag="3393" id1="179388" id2="17" version="1065353216">Ally = vanguard force // Vanguard = most able to engage</text>
+		<text bitflag="3393" id1="179390" id2="17" version="1065353216">Ambush = maximum confusion + minimized resistance // Tactical assessment = sabotage camp enviro-controls + remove Jedi commanders</text>
+		<text bitflag="3393" id1="179392" id2="17" version="1065353216">Anti-freezing mixture + heat source = toxic // Camp enviro-controls + this unit's coolant reservoir = forced evacuation + disarray</text>
+		<text bitflag="1345" id1="179393" id2="17" version="1065353216">You're suggesting poisoning their climate controls with your coolant to force them out of their camps.</text>
+		<text bitflag="1360" id1="179393" id2="17" version="1065353216">Let's be sure I understand.</text>
+		<text bitflag="3393" id1="179394" id2="17" version="1065353216">Statement = true</text>
+		<text bitflag="1360" id1="179396" id2="17" version="1065353216">Got it.</text>
+		<text bitflag="3393" id1="179397" id2="17" version="1065353216">Coolant reservoir = sealed and ready for removal // This unit = will remain // Orders = await confirmation of target destruction</text>
+		<text bitflag="1360" id1="179399" id2="17" version="1065353216">I'll pass. [Refuse quest]</text>
+		<text bitflag="3393" id1="179400" id2="17" version="1065353216">Acknowledged // This unit = returning to duties</text>
+		<text bitflag="3393" id1="179402" id2="17" version="1065353216">Enemy = present at crystal mine // This unit = advises caution</text>
+	</file_content>
+</stb_file>

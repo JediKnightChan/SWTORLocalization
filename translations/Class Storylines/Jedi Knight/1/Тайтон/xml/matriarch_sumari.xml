@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="51">
+	<unit bitflag="1345" id1="605175" id2="17" version="1065353216">
+		<source>Greetings, Matriarch. Master Orgus Din has sent me to help you fight the Flesh Raiders.</source>
+		<target>Здравствуйте, матриарх. Мастер Оргус Дин послал меня вам на помощь против раздирателей.</target>
+	</unit>
+	<unit bitflag="1345" id1="605176" id2="17" version="1065353216">
+		<source>So the Jedi finally deign to recognize my people's suffering? How noble.</source>
+		<target>Так джедаи наконец соизволили осознать страдания моих людей? Как благородно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605178" id2="17" version="1065353216">
+		<source>Nothing to do with the attack on your training grounds, I'm sure.</source>
+		<target>Разумеется, никакого отношения к атаке на ваши тренировочные площадки тут нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="605179" id2="17" version="1065353216">
+		<source>We didn't realize how great a threat the Flesh Raiders had become.</source>
+		<target>Мы не понимали, насколько серьёзной угрозой стали раздиратели.</target>
+	</unit>
+	<unit bitflag="1360" id1="605179" id2="17" version="1065353216">
+		<source>I won't lie--it does.</source>
+		<target>Не буду врать, это не так.</target>
+	</unit>
+	<unit bitflag="1345" id1="605180" id2="17" version="1065353216">
+		<source>And now you seek help from the people you once ignored.</source>
+		<target>И теперь вы ищете помощи от тех, кого вы раньше игнорировали.</target>
+	</unit>
+	<unit bitflag="1345" id1="605182" id2="17" version="1065353216">
+		<source>How did you learn about the attack? It only just happened.</source>
+		<target>Как вы узнали об атаке? Она только что случилась.</target>
+	</unit>
+	<unit bitflag="1360" id1="605182" id2="17" version="1065353216">
+		<source>You know about that?</source>
+		<target>Вы знаете об этом?</target>
+	</unit>
+	<unit bitflag="1345" id1="605183" id2="17" version="1065353216">
+		<source>We heard the sounds of your battle. Watched the attack from a safe distance. Now you know what we endure.</source>
+		<target>Мы слышали отзвуки вашего боя. Наблюдали за атакой с безопасного расстояния. Теперь вы знаете, что мы испытываем.</target>
+	</unit>
+	<unit bitflag="1345" id1="605185" id2="17" version="1065353216">
+		<source>I'm not here to be lectured by you.</source>
+		<target>Я здесь не для того, чтобы выслушивать от вас нотации.</target>
+	</unit>
+	<unit bitflag="1360" id1="605185" id2="17" version="1065353216">
+		<source>Don't take that tone.</source>
+		<target>Не разговаривайте со мной так.</target>
+	</unit>
+	<unit bitflag="1345" id1="605186" id2="17" version="1065353216">
+		<source>No--you've come to gain our trust. Learn about your new enemy.</source>
+		<target>Нет - чтобы получить наше доверие. Сведения о своём новом враге.</target>
+	</unit>
+	<unit bitflag="1345" id1="605188" id2="17" version="1065353216">
+		<source>My scouts have tracked the Flesh Raiders for months. Watched them grow in strength.</source>
+		<target>Мои разведчики месяцами следили за раздирателями. Наблюдали, как их сила растёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="605190" id2="17" version="1065353216">
+		<source>I will share what we've discovered, but only if you agree to protect my people. We... we suffer....</source>
+		<target>Я поделюсь тем, что мы узнали, но только при вашем согласии защитить мой народ. Мы... мы страдаем...</target>
+	</unit>
+	<unit bitflag="1345" id1="605192" id2="17" version="1065353216">
+		<source>Mother, you need rest. Let me carry this burden for you.</source>
+		<target>Мама, тебе нужно отдохнуть. Позволь мне нести твоё бремя.</target>
+	</unit>
+	<unit bitflag="1345" id1="605193" id2="17" version="1065353216">
+		<source>With all due respect, time is a factor. I need that information.</source>
+		<target>При всём уважении, время не ждёт. Мне нужна эта информация.</target>
+	</unit>
+	<unit bitflag="1360" id1="605193" id2="17" version="1065353216">
+		<source>My mission is urgent.</source>
+		<target>Моё задание срочное.</target>
+	</unit>
+	<unit bitflag="1345" id1="605194" id2="17" version="1065353216">
+		<source>The Matriarch appears sick. Does she need a doctor?</source>
+		<target>Матриарх выглядит нездорово. Ей нужен доктор?</target>
+	</unit>
+	<unit bitflag="1360" id1="605194" id2="17" version="1065353216">
+		<source>What's wrong?</source>
+		<target>Что не так?</target>
+	</unit>
+	<unit bitflag="1345" id1="605195" id2="17" version="1065353216">
+		<source>Thank you, but we have our own healers.</source>
+		<target>Спасибо, но у нас есть свои целители.</target>
+	</unit>
+	<unit bitflag="1345" id1="605197" id2="17" version="1065353216">
+		<source>Let's hope you're more agreeable.</source>
+		<target>Будем надеяться, вы сговорчивее.</target>
+	</unit>
+	<unit bitflag="1360" id1="605197" id2="17" version="1065353216">
+		<source>Anything would be better.</source>
+		<target>Всё лучше.</target>
+	</unit>
+	<unit bitflag="1345" id1="605198" id2="17" version="1065353216">
+		<source>You'll find our people stand as one.</source>
+		<target>Как вы увидите, наш народ един.</target>
+	</unit>
+	<unit bitflag="1345" id1="605200" id2="17" version="1065353216">
+		<source>This is my daughter, Ranna Tao'Ven. She and Scout Chief Moorint here will speak for me.</source>
+		<target>Это моя дочь. Ранна Тао'Вен. Она и главный разведчик Муринт будут говорить за меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="605202" id2="17" version="1065353216">
+		<source>I must attend to... other matters....</source>
+		<target>Мне нужно заняться... другими делами...</target>
+	</unit>
+	<unit bitflag="1345" id1="605204" id2="17" version="1065353216">
+		<source>Personally, I don't care why you've come--as long as you destroy the Flesh Raiders.</source>
+		<target>Лично мне неважно, зачем вы здесь - если вы уничтожите раздирателей.</target>
+	</unit>
+	<unit bitflag="1345" id1="605206" id2="17" version="1065353216">
+		<source>Ever since they got their new weapons and gear, they hunt us like animals.</source>
+		<target>С тех пор, как они перевооружились, они охотятся на нас, как на животных.</target>
+	</unit>
+	<unit bitflag="1345" id1="605208" id2="17" version="1065353216">
+		<source>The enemy has a camp in the valley nearby. My scouts say the Flesh Raiders store their weapons and other tech in a cave.</source>
+		<target>У врага есть лагерь в долине неподалёку. Мои разведчики сообщают, что раздиратели хранят своё оружие и другую технику в пещере.</target>
+	</unit>
+	<unit bitflag="1345" id1="605209" id2="17" version="1065353216">
+		<source>Removing that technology will neutralize the Flesh Raiders.</source>
+		<target>Лишив раздирателей этой технологии, я их нейтрализую.</target>
+	</unit>
+	<unit bitflag="1360" id1="605209" id2="17" version="1065353216">
+		<source>I'll take care of it.</source>
+		<target>Я займусь этим.</target>
+	</unit>
+	<unit bitflag="1345" id1="605210" id2="17" version="1065353216">
+		<source>Nice of them to keep everything in one place. Makes it easier to destroy.</source>
+		<target>Как мило с их стороны хранить всё в одном месте. Легче будет уничтожить.</target>
+	</unit>
+	<unit bitflag="1360" id1="605210" id2="17" version="1065353216">
+		<source>How convenient.</source>
+		<target>Как удобно.</target>
+	</unit>
+	<unit bitflag="1345" id1="605211" id2="17" version="1065353216">
+		<source>Destroying the weapons won't be enough. They'll just get more.</source>
+		<target>Уничтожения оружия недостаточно. Они просто добудут ещё.</target>
+	</unit>
+	<unit bitflag="1360" id1="605213" id2="17" version="1065353216">
+		<source>That might be worth my time.</source>
+		<target>Возможно, это стоит моего времени.</target>
+	</unit>
+	<unit bitflag="1345" id1="605214" id2="17" version="1065353216">
+		<source>They're slaughtering us with their technology. You want our help? Deal with it.</source>
+		<target>Они убивают нас при помощи своих технологий. Хочешь нашей помощи? Разберись с этим.</target>
+	</unit>
+	<unit bitflag="1345" id1="605216" id2="17" version="1065353216">
+		<source>We need to strike fear into the Flesh Raiders. Sabotage their weapons. Fix it so they blow up in their ugly faces....</source>
+		<target>Нам нужно внушить страх раздирателям. Испорти их оружие. Сделай так, что оно взорвётся перед их уродливыми рожами...</target>
+	</unit>
+	<unit bitflag="1345" id1="605218" id2="17" version="1065353216">
+		<source>How would we do that?</source>
+		<target>Как мы это сделаем?</target>
+	</unit>
+	<unit bitflag="1345" id1="605220" id2="17" version="1065353216">
+		<source>Their technology is standard Republic design. We could overload the power circuits and plasma coils. Here, I'll show you....</source>
+		<target>Их технологии стандартной республиканской конструкции. Мы можем перегрузить энергетические цепи и плазмокатушки. Вот, я покажу тебе...</target>
+	</unit>
+	<unit bitflag="1345" id1="605222" id2="17" version="1065353216">
+		<source>Sabotage would thin the Flesh Raider numbers and eliminate their technological advantage.</source>
+		<target>Диверсия уменьшит число раздирателей и лишит их технологического превосходства.</target>
+	</unit>
+	<unit bitflag="1345" id1="605224" id2="17" version="1065353216">
+		<source>If you brought that technology here, we could defend ourselves with those weapons.</source>
+		<target>Если бы вы принесли их технологии сюда, мы могли бы защищаться этим оружием.</target>
+	</unit>
+	<unit bitflag="1345" id1="605225" id2="17" version="1065353216">
+		<source>This village is vulnerable to attack. You need better defenses.</source>
+		<target>Эта деревня уязвима для нападений. Вам нужна более качественная защита.</target>
+	</unit>
+	<unit bitflag="1360" id1="605225" id2="17" version="1065353216">
+		<source>More resources would help you.</source>
+		<target>Больше ресурсов вам бы не помешало.</target>
+	</unit>
+	<unit bitflag="1345" id1="605226" id2="17" version="1065353216">
+		<source>Either one of those plans could work.</source>
+		<target>Оба плана могут сработать.</target>
+	</unit>
+	<unit bitflag="1360" id1="605226" id2="17" version="1065353216">
+		<source>You both make strong cases.</source>
+		<target>Вы оба убедительны.</target>
+	</unit>
+	<unit bitflag="1345" id1="605227" id2="17" version="1065353216">
+		<source>My people aren't afraid to fight for their homes--we just lack the means.</source>
+		<target>Мои люди не боятся сражаться за свои дома - у нас лишь не хватает средств.</target>
+	</unit>
+	<unit bitflag="1345" id1="605229" id2="17" version="1065353216">
+		<source>You wouldn't know what to do with weapons like those.</source>
+		<target>Вы не знаете, что делать с таким оружием.</target>
+	</unit>
+	<unit bitflag="1360" id1="605229" id2="17" version="1065353216">
+		<source>You're too dumb for weapons.</source>
+		<target>Вы слишком тупые для оружия.</target>
+	</unit>
+	<unit bitflag="1345" id1="605230" id2="17" version="1065353216">
+		<source>We've survived persecution before. We can fight, but we need better weapons.</source>
+		<target>Мы переживали преследования и раньше. Мы можем сражаться, но нам нужно более качественное оружие.</target>
+	</unit>
+	<unit bitflag="1345" id1="605232" id2="17" version="1065353216">
+		<source>This debate is pointless unless you can get inside that cave. You'll need one of the leaders' access keys.</source>
+		<target>Этот спор бессмысленный, если вы не сможете проникнуть в пещеру. Вам потребуется ключ доступа одного из вождей.</target>
+	</unit>
+	<unit bitflag="1345" id1="605234" id2="17" version="1065353216">
+		<source>Find the Flesh Raider technology and do what you think is best. Good luck, Master Jedi.</source>
+		<target>Найдите технологии раздирателей и сделайте то, что посчитаете наилучшим. Удачи, мастер-джедай.</target>
+	</unit>
+	<unit bitflag="1345" id1="605236" id2="17" version="1065353216">
+		<source>All are welcome in our settlement.</source>
+		<target>В нашем поселении рады всем.</target>
+	</unit>
+</dialogue_file>

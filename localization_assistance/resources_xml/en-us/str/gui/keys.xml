@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>112</strs>
+		<file_name>/resources/en-us/str/gui/keys.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="0" id2="365291" version="1065353216">Not Bound</text>
+		<text bitflag="321" id1="1" id2="365291" version="1065353216">Mouse Button 1</text>
+		<text bitflag="321" id1="2" id2="365291" version="1065353216">Mouse Button 2</text>
+		<text bitflag="321" id1="4" id2="365291" version="1065353216">Mouse Button 3</text>
+		<text bitflag="321" id1="5" id2="365291" version="1065353216">Mouse Button 4</text>
+		<text bitflag="321" id1="6" id2="365291" version="1065353216">Mouse Button 5</text>
+		<text bitflag="321" id1="8" id2="365291" version="1065353216">Backspace</text>
+		<text bitflag="321" id1="9" id2="365291" version="1065353216">Tab</text>
+		<text bitflag="321" id1="12" id2="365291" version="1065353216">Clear</text>
+		<text bitflag="321" id1="13" id2="365291" version="1065353216">Enter</text>
+		<text bitflag="321" id1="14" id2="365291" version="1065353216">Mouse Wheel Up</text>
+		<text bitflag="321" id1="15" id2="365291" version="1065353216">Mouse Wheel Down</text>
+		<text bitflag="321" id1="16" id2="365291" version="1065353216">Shift</text>
+		<text bitflag="321" id1="17" id2="365291" version="1065353216">Ctrl</text>
+		<text bitflag="321" id1="18" id2="365291" version="1065353216">Alt</text>
+		<text bitflag="321" id1="19" id2="365291" version="1065353216">Pause</text>
+		<text bitflag="321" id1="20" id2="365291" version="1065353216">Caps Lock</text>
+		<text bitflag="321" id1="27" id2="365291" version="1065353216">Escape</text>
+		<text bitflag="321" id1="32" id2="365291" version="1065353216">Space</text>
+		<text bitflag="321" id1="33" id2="365291" version="1065353216">Page Up</text>
+		<text bitflag="321" id1="34" id2="365291" version="1065353216">Page Down</text>
+		<text bitflag="321" id1="35" id2="365291" version="1065353216">End</text>
+		<text bitflag="321" id1="36" id2="365291" version="1065353216">Home</text>
+		<text bitflag="321" id1="37" id2="365291" version="1065353216">Left Arrow</text>
+		<text bitflag="321" id1="38" id2="365291" version="1065353216">Up Arrow</text>
+		<text bitflag="321" id1="39" id2="365291" version="1065353216">Right Arrow</text>
+		<text bitflag="321" id1="40" id2="365291" version="1065353216">Down Arrow</text>
+		<text bitflag="321" id1="44" id2="365291" version="1065353216">Print Screen</text>
+		<text bitflag="321" id1="45" id2="365291" version="1065353216">Insert</text>
+		<text bitflag="321" id1="46" id2="365291" version="1065353216">Delete</text>
+		<text bitflag="321" id1="48" id2="365291" version="1065353216">0</text>
+		<text bitflag="321" id1="49" id2="365291" version="1065353216">1</text>
+		<text bitflag="321" id1="50" id2="365291" version="1065353216">2</text>
+		<text bitflag="321" id1="51" id2="365291" version="1065353216">3</text>
+		<text bitflag="321" id1="52" id2="365291" version="1065353216">4</text>
+		<text bitflag="321" id1="53" id2="365291" version="1065353216">5</text>
+		<text bitflag="321" id1="54" id2="365291" version="1065353216">6</text>
+		<text bitflag="321" id1="55" id2="365291" version="1065353216">7</text>
+		<text bitflag="321" id1="56" id2="365291" version="1065353216">8</text>
+		<text bitflag="321" id1="57" id2="365291" version="1065353216">9</text>
+		<text bitflag="321" id1="58" id2="365291" version="1065353216">:</text>
+		<text bitflag="321" id1="59" id2="365291" version="1065353216">;</text>
+		<text bitflag="321" id1="60" id2="365291" version="1065353216">&lt;</text>
+		<text bitflag="321" id1="62" id2="365291" version="1065353216">&gt;</text>
+		<text bitflag="321" id1="63" id2="365291" version="1065353216">?</text>
+		<text bitflag="321" id1="65" id2="365291" version="1065353216">A</text>
+		<text bitflag="321" id1="66" id2="365291" version="1065353216">B</text>
+		<text bitflag="321" id1="67" id2="365291" version="1065353216">C</text>
+		<text bitflag="321" id1="68" id2="365291" version="1065353216">D</text>
+		<text bitflag="321" id1="69" id2="365291" version="1065353216">E</text>
+		<text bitflag="321" id1="70" id2="365291" version="1065353216">F</text>
+		<text bitflag="321" id1="71" id2="365291" version="1065353216">G</text>
+		<text bitflag="321" id1="72" id2="365291" version="1065353216">H</text>
+		<text bitflag="321" id1="73" id2="365291" version="1065353216">I</text>
+		<text bitflag="321" id1="74" id2="365291" version="1065353216">J</text>
+		<text bitflag="321" id1="75" id2="365291" version="1065353216">K</text>
+		<text bitflag="321" id1="76" id2="365291" version="1065353216">L</text>
+		<text bitflag="321" id1="77" id2="365291" version="1065353216">M</text>
+		<text bitflag="321" id1="78" id2="365291" version="1065353216">N</text>
+		<text bitflag="321" id1="79" id2="365291" version="1065353216">O</text>
+		<text bitflag="321" id1="80" id2="365291" version="1065353216">P</text>
+		<text bitflag="321" id1="81" id2="365291" version="1065353216">Q</text>
+		<text bitflag="321" id1="82" id2="365291" version="1065353216">R</text>
+		<text bitflag="321" id1="83" id2="365291" version="1065353216">S</text>
+		<text bitflag="321" id1="84" id2="365291" version="1065353216">T</text>
+		<text bitflag="321" id1="85" id2="365291" version="1065353216">U</text>
+		<text bitflag="321" id1="86" id2="365291" version="1065353216">V</text>
+		<text bitflag="321" id1="87" id2="365291" version="1065353216">W</text>
+		<text bitflag="321" id1="88" id2="365291" version="1065353216">X</text>
+		<text bitflag="321" id1="89" id2="365291" version="1065353216">Y</text>
+		<text bitflag="321" id1="90" id2="365291" version="1065353216">Z</text>
+		<text bitflag="321" id1="93" id2="365291" version="1065353216">APPS</text>
+		<text bitflag="321" id1="96" id2="365291" version="1065353216">Num 0</text>
+		<text bitflag="321" id1="97" id2="365291" version="1065353216">Num 1</text>
+		<text bitflag="321" id1="98" id2="365291" version="1065353216">Num 2</text>
+		<text bitflag="321" id1="99" id2="365291" version="1065353216">Num 3</text>
+		<text bitflag="321" id1="100" id2="365291" version="1065353216">Num 4</text>
+		<text bitflag="321" id1="101" id2="365291" version="1065353216">Num 5</text>
+		<text bitflag="321" id1="102" id2="365291" version="1065353216">Num 6</text>
+		<text bitflag="321" id1="103" id2="365291" version="1065353216">Num 7</text>
+		<text bitflag="321" id1="104" id2="365291" version="1065353216">Num 8</text>
+		<text bitflag="321" id1="105" id2="365291" version="1065353216">Num 9</text>
+		<text bitflag="321" id1="106" id2="365291" version="1065353216">Num *</text>
+		<text bitflag="321" id1="107" id2="365291" version="1065353216">Num +</text>
+		<text bitflag="321" id1="109" id2="365291" version="1065353216">Num -</text>
+		<text bitflag="321" id1="110" id2="365291" version="1065353216">Num .</text>
+		<text bitflag="321" id1="111" id2="365291" version="1065353216">Num /</text>
+		<text bitflag="321" id1="112" id2="365291" version="1065353216">F1</text>
+		<text bitflag="321" id1="113" id2="365291" version="1065353216">F2</text>
+		<text bitflag="321" id1="114" id2="365291" version="1065353216">F3</text>
+		<text bitflag="321" id1="115" id2="365291" version="1065353216">F4</text>
+		<text bitflag="321" id1="116" id2="365291" version="1065353216">F5</text>
+		<text bitflag="321" id1="117" id2="365291" version="1065353216">F6</text>
+		<text bitflag="321" id1="118" id2="365291" version="1065353216">F7</text>
+		<text bitflag="321" id1="119" id2="365291" version="1065353216">F8</text>
+		<text bitflag="321" id1="120" id2="365291" version="1065353216">F9</text>
+		<text bitflag="321" id1="121" id2="365291" version="1065353216">F10</text>
+		<text bitflag="321" id1="122" id2="365291" version="1065353216">F11</text>
+		<text bitflag="321" id1="123" id2="365291" version="1065353216">F12</text>
+		<text bitflag="321" id1="144" id2="365291" version="1065353216">Num Lock</text>
+		<text bitflag="321" id1="145" id2="365291" version="1065353216">Scroll Lock</text>
+		<text bitflag="321" id1="186" id2="365291" version="1065353216">;</text>
+		<text bitflag="321" id1="187" id2="365291" version="1065353216">=</text>
+		<text bitflag="321" id1="188" id2="365291" version="1065353216">,</text>
+		<text bitflag="321" id1="189" id2="365291" version="1065353216">-</text>
+		<text bitflag="321" id1="190" id2="365291" version="1065353216">.</text>
+		<text bitflag="321" id1="191" id2="365291" version="1065353216">/</text>
+		<text bitflag="321" id1="192" id2="365291" version="1065353216">`</text>
+		<text bitflag="321" id1="219" id2="365291" version="1065353216">[</text>
+		<text bitflag="321" id1="220" id2="365291" version="1065353216">\</text>
+		<text bitflag="321" id1="221" id2="365291" version="1065353216">]</text>
+		<text bitflag="321" id1="222" id2="365291" version="1065353216">'</text>
+	</file_content>
+</stb_file>

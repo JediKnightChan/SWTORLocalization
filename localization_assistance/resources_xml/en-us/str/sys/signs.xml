@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>218</strs>
+		<file_name>/resources/en-us/str/sys/signs.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="260" id2="194682" version="1065353216">Raider's Stolen Goods</text>
+		<text bitflag="321" id1="262" id2="194682" version="1065353216">WARNING: You are entering a lawless area. Anyone outside of your traveling party is now permitted to attack you.</text>
+		<text bitflag="321" id1="11017" id2="194682" version="1065353216">Ingenuity
+Older turbolasers were bulky and required large amounts of energy to function. This one has been fully restored.
+(Danger: Active Turret)</text>
+		<text bitflag="321" id1="11018" id2="194682" version="1065353216">Mysteries of the Ancients
+This art piece is a mystery to experts having both influences from the Infinite Empire and more modern works. The sculpture's true function has never been determined.</text>
+		<text bitflag="321" id1="11019" id2="194682" version="1065353216">Mobile Medicine
+Republic walkers serve multi-functional purposes. The one being displayed is an excellent example of a Field Medic Deployment Unit.</text>
+		<text bitflag="321" id1="11020" id2="194682" version="1065353216">Future Exhibit
+New exhibit coming soon.</text>
+		<text bitflag="321" id1="11021" id2="194682" version="1065353216">Infinite Empire Antiquity
+Artifacts from the Infinite Empire are widespread and rare. These particular artifacts were gathered from numerous star systems.</text>
+		<text bitflag="321" id1="11022" id2="194682" version="1065353216">Natural Wonders
+Crystals have always been valued throughout the star systems as objects of wealth and mystery. Science continues to push their technological value in the modern age.</text>
+		<text bitflag="321" id1="11023" id2="194682" version="1065353216">Korriban
+For thousands of years Korriban has been the center of many rivalries. Aspects of the planet remain shrouded in mystery to this day.</text>
+		<text bitflag="321" id1="11024" id2="194682" version="1065353216">WARNING: Impassible terrain ahead.</text>
+		<text bitflag="321" id1="11025" id2="194682" version="1065353216">Holo Shard
+Valuable shards like the one on display here are in high demand. The scavengers near the holo speak of traveling to Justicar territory in the hopes of locating a specific shard that the Chevin would find most appealing.</text>
+		<text bitflag="321" id1="11026" id2="194682" version="1065353216">Datapad
+A shipping manifest detailing the delivery of an exotic egg. The last entry in the log states the cargo was lost in transit deep within Migrant Merchants' Guild territory.</text>
+		<text bitflag="321" id1="11027" id2="194682" version="1065353216">Datapad
+A shipping manifest detailing the delivery of an exotic egg. The last entry in the log states the cargo was lost in transit to a suspected Revanite camp.</text>
+		<text bitflag="321" id1="11028" id2="194682" version="1065353216">Broken Droid
+Amongst the fragmented bleeps, the droid states its directive is to translate Ithorian writings. There's a Black Sun seal located on the droid's outer plating.</text>
+		<text bitflag="321" id1="11029" id2="194682" version="1065353216">Broken Droid
+Amongst the fragmented bleeps, the droid states its directive is to translate Ithorian writings. There's a Grathan seal located on the droid's outer plating.</text>
+		<text bitflag="321" id1="11030" id2="194682" version="1065353216">Holo Shard
+Valuable shards like the one on display here are in high demand. The scavengers near the holo speak of traveling to the Kaas City Expansion District in the hopes of locating a specific shard that the Chevin would find most appealing.</text>
+		<text bitflag="321" id1="11031" id2="194682" version="1065353216">Replica Crate
+A crate of counterfeit Rakata utensils. Markings on the crate suggest it originated from the Network Security District.</text>
+		<text bitflag="321" id1="11032" id2="194682" version="1065353216">Holo Communication
+The conversation between the slicers seems to be about some kind of easy score down in the Duros Sector. They seem concerned that other treasure hunters may get the jump on the pearl.</text>
+		<text bitflag="321" id1="11033" id2="194682" version="1065353216">Holo Communication
+The conversation between the slicers seems to be about some kind of easy score down in the Red Light District. They seem concerned that other treasure hunters may get the jump on the pearl.</text>
+		<text bitflag="321" id1="11044" id2="194682" version="1065353216">CATALOGUE ID: 337-455-92356
+CLASSIFICATION: Biological Containment Unit
+DESCRIPTION: Sarcophagus-like stasis chamber attributed to ancient Sith lord Karness Muur. Contains a single rakghoul created by same; likely an initial alchemical experimentation.
+CONTAMINATION HAZARD: Open only under quarantine protocols of level four or greater.</text>
+		<text bitflag="321" id1="11045" id2="194682" version="1065353216">CATALOGUE ID: 426-609-19752
+CLASSIFICATION: Sith artifact &quot;Darkstaff&quot;
+DESCRIPTION: Staff-like object created by an unknown ancient Sith. Reportedly imbued with numerous fantastical and damaging abilities. Rumors of object's sentience remain uninvestigated.
+INTERACTION WARNING: Do not touch the object. Do not speak to the object, even if it seems to speak itself. Do not acknowledge or interact with the object mentally.</text>
+		<text bitflag="321" id1="11046" id2="194682" version="1065353216">CATALOGUE ID: 821-115-64020
+CLASSIFICATION: Biological (Dashade Species)
+DESCRIPTION: Subject is a Dashade shadow killer named Akriss Veng. All other details classified. Subject is not to be disturbed or released except by explicit authority of the Emperor's Hand.
+HOSTILITY WARNING: Subject enters an indiscriminate homicidal rage when released from stasis field.</text>
+		<text bitflag="321" id1="11047" id2="194682" version="1065353216">Rancor Exhibit</text>
+		<text bitflag="321" id1="11048" id2="194682" version="1065353216">WARNING: DO NOT ENTER
+Authorized Zoo Personnel Only</text>
+		<text bitflag="321" id1="11049" id2="194682" version="1065353216">TAGRISS SEED DATALOG 01
+Only one Seed left. Aided by Force flow inside Jedi temple, it should be enough. Lack of test subjects leaving me no choice. Will proceed to experiment with Seed on fellow Guardsmen....</text>
+		<text bitflag="321" id1="11050" id2="194682" version="1065353216">TAGRISS SEED DATALOG 02
+Guardsmen unwilling to assent to tests. Barricaded themselves inside Archives. Indirect Seed exposure granted me control over my new creations. Will send them to retrieve childish ingrates for testing....</text>
+		<text bitflag="321" id1="11051" id2="194682" version="1065353216">TAGRISS SEED DATALOG 03
+Guardsmen proved too weak for Seed tests. Overtaken by madness. Pathetic. Subject focus shifted to Arcanum beasts. Anticipate most promising results from the big one....</text>
+		<text bitflag="321" id1="11052" id2="194682" version="1065353216">TAGRISS SEED DATALOG 04
+Been on wrong track. Direct Seed exposure overwhelms. Must harness Seed's power indirectly. Possibly forge Seed into weapon, some form of armor....</text>
+		<text bitflag="321" id1="11053" id2="194682" version="1065353216">Starts the Oasis City Infiltration event.</text>
+		<text bitflag="321" id1="11054" id2="194682" version="1065353216">Healing power increased. Maximum health decreased.</text>
+		<text bitflag="321" id1="11055" id2="194682" version="1065353216">Tech and Force power increased. Armor decreased.</text>
+		<text bitflag="321" id1="11056" id2="194682" version="1065353216">Armor increased. Threat generation decreased.</text>
+		<text bitflag="321" id1="11057" id2="194682" version="1065353216">Opens your Galactic Starfighter Hangar, where you can view your ships and launch for battle!
+
+You can also open your Hangar by clicking the ship icon next to your minimap.</text>
+		<text bitflag="321" id1="11058" id2="194682" version="1065353216">As of Version 6, the Prototype Heavy Laser system has passed final testing. We have instructions to produce a prototype ship model incorporating the system as soon as possible.</text>
+		<text bitflag="321" id1="11059" id2="194682" version="1065353216">I can hardly believe it myself, but Chief Aki'tale reports that the experimental &quot;Infiltrator&quot; electronics package is actually ready for test deployment. We need to fit it onto a test craft as soon as we can.</text>
+		<text bitflag="321" id1="11060" id2="194682" version="1065353216">With Version 4 we have finally worked out the power cycling issues that were plaguing the Prototype Experiemental Launcher! We are good to head to test production! The chief wants to see this mounted onto a ship design at once!</text>
+		<text bitflag="321" id1="11061" id2="194682" version="1065353216">Even with the latest advances found in Version 6, the energy draw of the Prototype Heavy Laser is still dangerously unstable. It is not ready (or safe) for deployment yet.</text>
+		<text bitflag="321" id1="11062" id2="194682" version="1065353216">The experimental &quot;Infiltrator&quot; package has (horribly) failed testing (again). Substantial redesign is required before we can even begin to contemplate mounting this to a ship!</text>
+		<text bitflag="321" id1="11063" id2="194682" version="1065353216">WARNING: A serious flaw was introduced into Version 4 of the Prototype Launcher that can cause ammunition detonation. DO NOT MOUNT THIS ONTO A SHIP.</text>
+		<text bitflag="321" id1="11064" id2="194682" version="1065353216">For some reason we remain unable to mount the Czerka K-57CE propulsion system alongside the &quot;Infiltrator&quot; electronics package. No doubt some undocumented Czerka &quot;proprietary&quot; nonsense is causing the interference.</text>
+		<text bitflag="321" id1="11065" id2="194682" version="1065353216">Everyone: Vokoff-Strood has issued a recall for several batches of its STAR-94 drives due to defective manufacture. Our latest shipment is on the recall list. Do not mount these onto ships.</text>
+		<text bitflag="321" id1="11066" id2="194682" version="1065353216">IMPORTANT: Do NOT attempt to mount both the Prototype Experimental Launcher and the Celestial Industries Powerhouse engine at the same time. Interference from the engines wreaks havoc with the launcher, leading to VERY UNFORTUNATE THINGS. We are STILL cleaning debris out of Hangar P-9.</text>
+		<text bitflag="321" id1="11067" id2="194682" version="1065353216">To date we've been unable to stably mount the Vokoff-Strood STAR-94 engine with any of our prototype weapons systems. Until further notice, do not mount Vokoff-Strood STAR-94s with any weapons package besides the Merr-Sonn LCL-1 Light Laser.</text>
+		<text bitflag="321" id1="11068" id2="194682" version="1065353216">Everyone: Do not use the Rapid Recharge electronics package until further notice. As it turns out, it can be a little TOO rapid--in a &quot;melt the primary capacitor housing&quot; kind of way.</text>
+		<text bitflag="321" id1="11069" id2="194682" version="1065353216">Everyone: Celestial Industries has issued a recall for several batches of its &quot;Powerhouse&quot; drives due to defective manufacture. Our latest shipment is on the recall list. Do not mount these onto ships.</text>
+		<text bitflag="321" id1="11070" id2="194682" version="1065353216">The latest revision of our Long Range Scout package is generating an extremely dangerous interference pattern in all of our secondary weapons systems, resulting in erratic missile behavior (up to and including warheads arming while still in the launcher). Until further notice do not mount a Long Range Scout package alongside ANY secondary weapons systems.</text>
+		<text bitflag="321" id1="11071" id2="194682" version="1065353216">Unsurprisingly, we have found additional undocumented &quot;behaviors&quot; with the Czerka K-57CE engine that result in catastrophic failure under the hefty power draw of our Prototype Heavy Laser. Do not mount these two systems concurrently.</text>
+		<text bitflag="321" id1="11072" id2="194682" version="1065353216">Feeling lucky? One spin costs a Smuggler's Chip, which can be purchased from the Casino Prize Vendor. Win Kingpin Chips and try your luck on the Kingpin's Bounty machine, or hit it big and win Golden Certificates to redeem for prizes!</text>
+		<text bitflag="321" id1="11073" id2="194682" version="1065353216">Greetings, high roller! One spin costs a Kingpin's Chip, which can be purchased from the Casino Prize Vendor or won from Smuggler's Bounty machines. Win Golden Certificates to redeem for prizes, or hit it big and win the jackpot!</text>
+		<text bitflag="321" id1="11074" id2="194682" version="1065353216">Use to break open. Greatly heals the user, and slightly heals nearby allies.</text>
+		<text bitflag="321" id1="11075" id2="194682" version="1065353216">:: OFFICIAL NOTICE
+:: The Order of Shasa
+
+Please note that the Mercantile Plaza is intended for trade-related activities only. Travel by offworld visitors to any other location on Manaan may be approved on a case by case basis, though approval is highly unlikely. Travel to Selkath cities, domiciles or government buildings is strictly prohibited.
+
+We also kindly ask that you do not swim or bathe in plaza fountains. Thank you, and welcome to Manaan.</text>
+		<text bitflag="321" id1="11076" id2="194682" version="1065353216">:: OFFICIAL NOTICE
+:: The Order of Shasa
+
+Effective immediately, the number of beverages that may be bought and consumed in one visit will be strictly limited. This limit will be strictly enforced.
+
+As always, please remain mindful of cultural norms, particularly as regards maintaining a respectful distance and tone with your Selkath hosts. Thank you.</text>
+		<text bitflag="321" id1="11077" id2="194682" version="1065353216">:: OFFICIAL NOTICE
+:: The Order of Shasa
+
+As a courtesy to the citizens of Manaan, please refrain from the following:
+
+ - Mass congregations of personnel
+ - Brandishing weapons
+ - Interrogating Selkath
+ - Conspicuous loitering
+
+We also remind you that the presence of any more than two Imperial capital ships in orbit at any one time is strictly forbidden under our current Terms of Trade with the Sith Empire. Thank you.</text>
+		<text bitflag="321" id1="11078" id2="194682" version="1065353216">:: OFFICIAL NOTICE
+:: The Order of Shasa
+
+As you conduct your business on Manaan, please remain mindful of the following trade regulations:
+
+ - All quantities of kolto are strictly tracked to prevent shrinkage
+ - Contraband or smuggled goods are not suitable for trade
+ - Traders hailing from aquatic worlds will receive no special treatment
+ - No swimming
+
+These regulations are in accordance with our current Terms of Trade with the Galactic Republic. Violations are punishable under both Selkath and Republic law.</text>
+		<text bitflag="321" id1="11079" id2="194682" version="1065353216">:: OFFICIAL NOTICE
+:: The Order of Shasa
+
+This transport terminal is presently closed for maintenance. We apologize for any inconvenience.
+
+Terminal Recommencement Date:
+UNDER CONSIDERATION</text>
+		<text bitflag="321" id1="11080" id2="194682" version="1065353216">[Shipping Manifest Log #10-44]
+
+No. of Packages: 17
+
+Contents:
+Medscanners (2)
+Hydroventilators (10)
+Adrenal Syringes (24 gr.)
+Addl. Misc. Med. Sup.
+
+Condition: Carbon scoring on one crate, contents appear undamaged. Courier unwilling to provide discount.
+
+Courier: Jakarro
+
+RECEIVED AND PAID IN FULL</text>
+		<text bitflag="321" id1="11081" id2="194682" version="1065353216">From: Makoon
+To: Sairisi
+Subject: GORIMA
+
+Sir,
+
+I am taking this opportunity to share my deep concern regarding Gorima and the undisclosed experiments he is conducting.
+
+Firstly, the number of unauthorized individuals brought into the facility, particularly offworlders, is unsettling. Secondly, there is the extent to which Ortuno and his zealots are involved. Thirdly, strange energy fluctuations have been affecting security sensors. And lastly, I have personally witnessed on more than one occasion the arrival of prisoners hailing from various penal institutions.
+
+My fear is that Gorima's activities are not permissible under Selkath law, and that I am therefore aiding an illegal enterprise. I demand transparency, or else I shall have no choice but to seek outside counsel on the matter.
+
+[SEND DRAFT]</text>
+		<text bitflag="321" id1="11082" id2="194682" version="1065353216">Specimen #4 
+
+Expiration Cause: Catastrophic circulatory arrest during initial graft process.
+
+Note: Bonding agent to blame?</text>
+		<text bitflag="321" id1="11083" id2="194682" version="1065353216">Specimen #21 
+
+Expiration Cause: Massive cerebral eruption due to electrocatalysis.
+
+Note: Specimens require some manner of conduction adrenal?</text>
+		<text bitflag="321" id1="11084" id2="194682" version="1065353216">Specimen #25 
+
+Expiration Cause: Extensive tumors, lesions due to cellular overgrowth.
+
+Note: Add separative inhibitors to supplementary stim compound.</text>
+		<text bitflag="321" id1="11085" id2="194682" version="1065353216">Specimen #46 
+
+Expiration Cause: Incineration.
+
+Note: Specimen crazed, nearly unstoppable. Killed seven before subdued. Showed promise.</text>
+		<text bitflag="321" id1="11086" id2="194682" version="1065353216">The potential for unexpected game machine detonation is an intentional element of their design, and in no way related to rumors of poor factory conditions during production.
+
+All games of chance involve inherent risk, and management assumes no liability for any negative side effects encountered as a result of play.</text>
+		<text bitflag="321" id1="11087" id2="194682" version="1065353216">Broken Datapad</text>
+		<text bitflag="321" id1="11088" id2="194682" version="1065353216">I am the only one left. What the savages have done to the others I cannot erase from my mind.
+
+It will be over for me soon. I am sure of it.</text>
+		<text bitflag="321" id1="11089" id2="194682" version="1065353216">Datalog</text>
+		<text bitflag="321" id1="11090" id2="194682" version="1065353216">MISSION'S LOG
+Stabilizer parts, stabilizer parts. Ooh, fun times looking for stabilizer parts. If that's what it takes to get the Hawk up and running, then I guess that's what I've gotta do.
+
+Okay... break's over. Back to it.</text>
+		<text bitflag="321" id1="11091" id2="194682" version="1065353216">Unsent Message</text>
+		<text bitflag="321" id1="11092" id2="194682" version="1065353216">To: Emarka
+From: Soliss
+Subject: My dear
+
+I don't know if this message will ever get to you--or how it even could--but I write it all the same. We have crashed onto a beautiful world populated by horrors. Those of us who survived have been taken prisoner by a warlike tribe of natives.
+
+I have tried to learn their language and believe I have arranged to speak to their leader. I am hopeful I can convince &quot;the One&quot; that my family needs me and will let me attempt to repair our ship so I can come home.
+
+They are coming now. I lov</text>
+		<text bitflag="321" id1="11093" id2="194682" version="1065353216">The Elders</text>
+		<text bitflag="321" id1="11094" id2="194682" version="1065353216">Though we depart this place,
+in our hearts we will ever remain.</text>
+		<text bitflag="321" id1="11095" id2="194682" version="1065353216">&quot;THE REVAN&quot;</text>
+		<text bitflag="321" id1="11096" id2="194682" version="1065353216">Destroyer. Protector.
+
+Twice he has come to our world.
+
+One day he will return again.</text>
+		<text bitflag="321" id1="11097" id2="194682" version="1065353216">I am the only one left. What the savages have done to the others I cannot erase from my mind.
+
+It will be over for me soon. I am sure of it.</text>
+		<text bitflag="321" id1="11098" id2="194682" version="1065353216">MISSION'S LOG
+
+Stabilizer parts, stabilizer parts. Ooh, fun times looking for stabilizer parts. If that's what it takes to get the Hawk up and running, then I guess that's what I've gotta do.
+
+Okay... break's over. Back to it.</text>
+		<text bitflag="321" id1="11099" id2="194682" version="1065353216">To: Emarka
+From: Soliss
+Subject: My dear
+
+I don't know if this message will ever get to you--or how it even could--but I write it all the same. We have crashed onto a beautiful world populated by horrors. Those of us who survived have been taken prisoner by a warlike tribe of natives.
+
+I have tried to learn their language and believe I have arranged to speak to their leader. I am hopeful I can convince &quot;the One&quot; that my family needs me and will let me attempt to repair our ship so I can come home.
+
+They are coming now. I lov</text>
+		<text bitflag="321" id1="11100" id2="194682" version="1065353216">Though we depart this place,
+in our hearts we ever remain.</text>
+		<text bitflag="321" id1="11101" id2="194682" version="1065353216">Destroyer. Protector.
+
+Twice he has come to our world.
+
+One day he will return again.</text>
+		<text bitflag="321" id1="11102" id2="194682" version="1065353216">We Honor Our Dead
+They Made Us Strong</text>
+		<text bitflag="321" id1="11103" id2="194682" version="1065353216">Transmitter on this stupid thing is broken. Can't call for help. Don't know if anyone could. I'm the last one. They keep feeding me. I know why. I'm trying to make peace with it, but I can't. I'm so scared. I don't want it to end like this. I was going to be someone. Why didn't I ever find the time to try?</text>
+		<text bitflag="321" id1="11104" id2="194682" version="1065353216">Without fear, and with serenity in my heart, I enter the dark. 
+
+I will know. I must know.
+
+--Master Grennen</text>
+		<text bitflag="321" id1="11105" id2="194682" version="1065353216">Okay, this is a good place to hide out. Even the Massassi don't come in here. If all goes well, I'll wait this crazy business out and then ask the Republic for asylum. No more war. No more Empire.</text>
+		<text bitflag="321" id1="11106" id2="194682" version="1065353216">NOTICE:
+Nova Blade Visitor Tax Remains in Effect</text>
+		<text bitflag="321" id1="11107" id2="194682" version="1065353216">NOTICE:
+Nova Blade Departure Tax: Not Optional</text>
+		<text bitflag="321" id1="11108" id2="194682" version="1065353216">Property of K-Zy
+Do Not Peek!</text>
+		<text bitflag="321" id1="11109" id2="194682" version="1065353216">No discounts, no bartering...
+NO KIDDING.</text>
+		<text bitflag="321" id1="11110" id2="194682" version="1065353216">Answers to 'Kellie'
+
+If found, DO NOT return to owner!</text>
+		<text bitflag="321" id1="11111" id2="194682" version="1065353216">BUNGALOW RESERVED</text>
+		<text bitflag="321" id1="11112" id2="194682" version="1065353216">Mess with my ship, you mess with ME.
+--Kareena</text>
+		<text bitflag="321" id1="11113" id2="194682" version="1065353216">TO: S
+SUBJECT: Rishi
+
+Cover set. Eyes open. Awaiting instruction.
+-SF-13-</text>
+		<text bitflag="321" id1="11114" id2="194682" version="1065353216">Official Prison Transfer Lot DS-616
+Order Approval: Under-Moff Bensen, A.</text>
+		<text bitflag="321" id1="11115" id2="194682" version="1065353216">Don't know what this thing is. This beast. Thought I was riding into the mouth of a cave. I mean, it was the mouth of a cave, but I guess that isn't all it was.
+
+Some kind of acid's eating at the engines, won't fire. Going to try a grenade. Could bust this beast's belly open. Could blast the both of us to hunks of meat. Only thing I know for sure: I'm dead anyway if I don't try something....</text>
+		<text bitflag="321" id1="11116" id2="194682" version="1065353216">Transit Order
+Point of Origin: The Aggressor
+Destination: Slave Island</text>
+		<text bitflag="321" id1="11117" id2="194682" version="1065353216">SUBJECT: Soon
+
+I just found the PERFECT motivator coupling! We're celebrating when you get back. Seriously, I know there's a long way to go before we have a piece of junk we can get out of here with, but this made me so damn happy I can hardly stand it!
+
+Sam!! We're doing it!!!
+
+Eraana</text>
+		<text bitflag="321" id1="11118" id2="194682" version="1065353216">SUBJECT: Wow. [SENT]
+Dearest Brin,
+
+Wish you could see this view right now. It's the second most beautiful sight I've ever come across in my entire life.
+
+Olia</text>
+		<text bitflag="321" id1="11119" id2="194682" version="1065353216">SUBJECT: Re: Soon
+
+Eraana,
+
+They know. Someone saw me stealing supplies from the Aggressor. They got me out here to pen me up and put me to work. But you know how paranoid I am--I hid my datapad before they got me.
+
+I snuck away to write this. No more time. GO. JUST GO.
+
+Sam</text>
+		<text bitflag="321" id1="11120" id2="194682" version="1065353216">Lord Marr,
+
+You and your fleet are in grave danger. Do not trust your staff. Arkous was a traitor, and he was not alone.
+
+If you encounter a Republic fleet, understand that they have fallen for the same trap. Our mutual enemy wants us to destroy one another. I would say more, but this will have to suffice for now. Please believe me.
+
+I only hope this message reaches you before it is too late.
+
+Lana Beniko
+Former Advisor to Darth Arkous</text>
+		<text bitflag="321" id1="11121" id2="194682" version="1065353216">TO: Maj. Krigg
+FROM: Cpt. Sorven
+SUBJECT: RE: Republic [SENT]
+
+No, I don't trust their motives. That's my whole point. They can't be camped this close to us without wanting to sabotage us somehow. I know it, and I won't let it happen. I'll raise my concerns directly to Lord Ivress if I have to.
+
+Sorven</text>
+		<text bitflag="321" id1="11122" id2="194682" version="1065353216">TO: Lt. Kelvi
+FROM: Lt. Orton
+SUBJECT: Rishi [SENT]
+
+Hey, Blaster Breath! Been a while!
+
+You need to come out to Rishi, man. Camrov, Mochiri and me, we're getting to make a real difference out here, like the stuff we used to talk about.</text>
+		<text bitflag="321" id1="11123" id2="194682" version="1065353216">BEWARE INFESTED WATERS</text>
+		<text bitflag="321" id1="11124" id2="194682" version="1065353216">THEY TALKED</text>
+		<text bitflag="321" id1="11125" id2="194682" version="1065353216">MESSAGE SENT:
+
+Enemy landfall detected. Secure the lift!</text>
+		<text bitflag="321" id1="11126" id2="194682" version="1065353216">MESSAGE SENT:
+
+Lift's compromised. Get the shields up and increase security. Protect the jammer at all costs!</text>
+		<text bitflag="321" id1="11127" id2="194682" version="1065353216">MESSAGE SENT:
+
+Orbital targets are taking heavy damage. Only need to hold the enemy a little bit longer to win this!</text>
+		<text bitflag="321" id1="11128" id2="194682" version="1065353216">MESSAGE RECEIVED:
+
+Revan's counting on us. Do not let the enemy reach the bridge!</text>
+		<text bitflag="321" id1="11129" id2="194682" version="1065353216">DRALNE BE TE OYA'KARIR</text>
+		<text bitflag="321" id1="11130" id2="194682" version="1065353216">CERAR BE KYR'AM</text>
+		<text bitflag="321" id1="11131" id2="194682" version="1065353216">YUSTAPIR KYRAMUD</text>
+		<text bitflag="321" id1="11132" id2="194682" version="1065353216">PIRUN UT</text>
+		<text bitflag="321" id1="11133" id2="194682" version="1065353216">HODAYC SUR'HAAI</text>
+		<text bitflag="321" id1="11134" id2="194682" version="1065353216">ADENN EDEEMIR</text>
+		<text bitflag="321" id1="11135" id2="194682" version="1065353216">KYRAMLA GEMAS'RUGAM</text>
+		<text bitflag="321" id1="11136" id2="194682" version="1065353216">Reku Moz, Personal Log:
+I've had it! I finally haul back the salvage from Steel-Eye's shipwreck, and Jav's slobbering grophets chomp down half of it! They crash through my fence, eat my property, then storm off into the jungle, and he expects ME to pay HIM!? Oh, he'll get his all right....</text>
+		<text bitflag="321" id1="11137" id2="194682" version="1065353216">TO: Tomota
+FROM: Kai Zykken
+SUBJECT: re:TREASURE!!!!!
+I'm telling you, that treasure is real! Steel-Eye looted more luxury liners than the Nova Blades and the Howling Tempest combined! It's got to be on Rishi somewhere, and I'm just the intrepid captain to find it--so start looking!
+
+PS Remind me to buy more datapads.</text>
+		<text bitflag="321" id1="11138" id2="194682" version="1065353216">Excerpt from Behavioral Analysis of Marine Life, Volume 487, marked &quot;PROPERTY OF S-E&quot;:
+Pheromones are a key agent in communication among these species. Only by harnessing the proper pheromone mixtures can a close study of these creatures be conducted safely.</text>
+		<text bitflag="321" id1="11139" id2="194682" version="1065353216">Use to remove one stack of Compound 9 toxin.</text>
+		<text bitflag="321" id1="11140" id2="194682" version="1065353216">Use to apply one stack of Compound 9 toxin.</text>
+		<text bitflag="321" id1="11141" id2="194682" version="1065353216">EMERGENCY PROTOCOLS IN EFFECT
+Notice of Evacuation
+
+In the event of an emergency, the following protocols should be in effect:
+
+ - Landing beacons will indicate a nearby evacuation zone for emergency shuttles
+ - Emergency facilitator droids will direct citizens to the evacuation zone
+ - Automated defense turrets may be deployed to protect evacuating citizens from invasion by hostile forces
+
+Should these protocols not be properly executed, a grievance may be filed at the New Adasta Peoples' Tower using Form 98BG-H (or 98BG-HM7 in the case of ground-forces invasion).
+
+Have a safe and efficient evacuation.</text>
+		<text bitflag="321" id1="11143" id2="194682" version="1065353216">C &amp; C Transport
+Customer: Orten Theb
+Scheduled for pickup.
+Manifest Transport Code required for access to goods.</text>
+		<text bitflag="321" id1="11144" id2="194682" version="1065353216">C &amp; C Transport
+Authorized Ships Only</text>
+		<text bitflag="321" id1="11145" id2="194682" version="1065353216">Though you leave us
+Your humble subjects on Ziost
+We know it is not forever</text>
+		<text bitflag="321" id1="11146" id2="194682" version="1065353216">Though you are away
+Your eye gazes upon us
+We know you see our doings</text>
+		<text bitflag="321" id1="11147" id2="194682" version="1065353216">Though we are alone
+Your lessons remain
+We know our considerable duty</text>
+		<text bitflag="321" id1="11148" id2="194682" version="1065353216">Though the distance must be great
+Your return is a certainty
+We know we will be united once more</text>
+		<text bitflag="321" id1="11149" id2="194682" version="1065353216">Galactic Solutions Industries: Ziost Analysis Services Center
+
+We Stay Neutral, So You Don't Have To</text>
+		<text bitflag="321" id1="11150" id2="194682" version="1065353216">The currently designated high-priority veteran mode Operation target is: Eternity Vault</text>
+		<text bitflag="321" id1="11151" id2="194682" version="1065353216">The currently designated high-priority veteran mode Operation target is: Karagga's Palace</text>
+		<text bitflag="321" id1="11152" id2="194682" version="1065353216">The currently designated high-priority veteran mode Operation target is: Explosive Conflict</text>
+		<text bitflag="321" id1="11153" id2="194682" version="1065353216">The currently designated high-priority veteran Operation target is: Terror from Beyond</text>
+		<text bitflag="321" id1="11154" id2="194682" version="1065353216">The currently designated high-priority veteran mode Operation target is: Scum and Villainy</text>
+		<text bitflag="321" id1="11155" id2="194682" version="1065353216">The currently designated high-priority veteran mode Operation target is: Dread Fortress</text>
+		<text bitflag="321" id1="11156" id2="194682" version="1065353216">The currently designated high-priority veteran mode Operation target is: Dread Palace</text>
+		<text bitflag="321" id1="11157" id2="194682" version="1065353216">The currently designated high-priority veteran mode Operation target is: The Ravagers</text>
+		<text bitflag="321" id1="11158" id2="194682" version="1065353216">The currently designated high-priority veteran mode Operation target is: Temple of Sacrifice</text>
+		<text bitflag="321" id1="11159" id2="194682" version="1065353216">Peace is a lie, there is only passion.
+Through passion, I gain strength.
+Through strength, I gain power.
+Through power, I gain victory.
+Through victory, my chains are broken.
+The Force shall free me.</text>
+		<text bitflag="321" id1="11160" id2="194682" version="1065353216">Known in certain circles as &quot;Tongue Loosener,&quot; this noxious gas is also known in other circles to be highly explosive.</text>
+		<text bitflag="321" id1="11161" id2="194682" version="1065353216">Admiral Aygo is providing you with a tactical uplink detailing known Eternal Empire unit types, tactics, and weaknesses for you to exploit.</text>
+		<text bitflag="321" id1="11162" id2="194682" version="1065353216">Doctor Oggurobb is repurposing the Star Fortress' advanced life support systems to make micro-chemical alterations to the air recirculators, attuning the synthetic atmosphere to your specific physiology.</text>
+		<text bitflag="321" id1="11163" id2="194682" version="1065353216">Hylo Visz is patching a network of local slicers into the Star Fortress' central servers to subtly insert floating-point errors into Skytrooper targeting algorithms and disrupt troop communication.</text>
+		<text bitflag="321" id1="11164" id2="194682" version="1065353216">Sana-Rae has gathered a collective of Force-sensitives on the planet below to meditate on your incursion and subtly affect the outcome of your battles.</text>
+		<text bitflag="321" id1="11165" id2="194682" version="1065353216">Are many good hunts living in snows and rocks. Harsh ice world makes strong and savage. As Great Stalker say: strong hunter must first be strong tracker. 
+
+Scouts follow worthy beasts, learn territory:
+
+Bhanak find some in Whiterock Waste, along west mountains and north drifts.
+
+Rossuk find others in Icefall Plain, in drifts along west and south.
+
+Narj climb tall Highmount Slopes over Highmount Ridge, looking for vantage. Accidentally find group living atop mountain. Narj lost arm to tooth and claw. Will take time to regrow.
+
+Possak holo about some in Starship Graveyard, but never return. Not sure if killed by pirates, or tried to hunt alone. Brek pray Scorekeeper give Possak extra Jagannath for courage.</text>
+		<text bitflag="321" id1="11166" id2="194682" version="1065353216">...Honor the omnipotence of Izax, the Ultimate Devourer: father, ruler and bringer of death to us all. His forms are infinite, but his great glory flies on serpent wings....</text>
+		<text bitflag="321" id1="11167" id2="194682" version="1065353216">...Walk the path with Scyva, the Constant Companion. Wife of divine Izax and avatar of sorrow, she weeps beside those who gladly march to embrace the Ultimate Devourer....</text>
+		<text bitflag="321" id1="11168" id2="194682" version="1065353216">...Storm the battlefield with Tyth, god of rage. The Firstborn of Izax and Scyva leads us to victory against the profane outlanders. Raise your bloodied fist and cry triumph...</text>
+		<text bitflag="321" id1="11169" id2="194682" version="1065353216">...Burn all doubt in the fires of Aivela, our goddess of passion. The Favored Daughter stands beside her brother Tyth on every battlefield, radiating grace to the fearless...</text>
+		<text bitflag="321" id1="11170" id2="194682" version="1065353216">...Beware the shadows of Esne, goddess of envy and twin of Aivela. Forever eclipsed by her sister's incandescence, she will use her venomous tongue to test the faithful and cull the weak...</text>
+		<text bitflag="321" id1="11171" id2="194682" version="1065353216">...Bear a single torch for Nahut, the Hated Son. Gray, formless and cold, he is denied by all but the Mother of Sorrows. Do not follow him into the dark. Light the way to lead him home...</text>
+		<text bitflag="321" id1="11173" id2="194682" version="1065353216">Peace is a lie. There is only passion.</text>
+		<text bitflag="321" id1="11174" id2="194682" version="1065353216">Through passion, I gain strength.</text>
+		<text bitflag="321" id1="11175" id2="194682" version="1065353216">Through strength, I gain power.</text>
+		<text bitflag="321" id1="11176" id2="194682" version="1065353216">Through power, I gain victory.</text>
+		<text bitflag="321" id1="11177" id2="194682" version="1065353216">Through victory, my chains are broken.
+The force shall free me.</text>
+		<text bitflag="321" id1="11179" id2="194682" version="1065353216">Turbo Lift: Lockdown Mode Engaged</text>
+		<text bitflag="321" id1="11180" id2="194682" version="1065353216">--ARTISTRY--
+
+Color. Impact. Vibrancy. Destruction should never be dull!</text>
+		<text bitflag="321" id1="11181" id2="194682" version="1065353216">--BOLDNESS--
+
+Those concerned with &quot;should&quot; will never know if they could!</text>
+		<text bitflag="321" id1="11182" id2="194682" version="1065353216">--CREATIVITY--
+
+Never let tradition or good taste limit your talent. Strive for greatness!</text>
+		<text bitflag="321" id1="11183" id2="194682" version="1065353216">Boss!
+
+Preeti reporting! Set up spy camp near Republic place on Clabburn Tundra like you say, but need vibro-ear to hear. Please send.</text>
+		<text bitflag="321" id1="11184" id2="194682" version="1065353216">This beacon can be used to re-summon any missing members of the Jawa crew.</text>
+		<text bitflag="321" id1="11185" id2="194682" version="1065353216">Rubble blocks the entrance to this cave.</text>
+		<text bitflag="321" id1="11186" id2="194682" version="1065353216">These parts appear to belong to a lightsaber. They don't seem to be functional.</text>
+		<text bitflag="321" id1="11187" id2="194682" version="1065353216">These heavy logs were clearly cut from the surrounding forest, but there are no drag marks to show how they could have been brought to camp. The precision and scorched edges of the cuts suggest a laser or plasma tool was used to fell them.</text>
+		<text bitflag="321" id1="11188" id2="194682" version="1065353216">This device appears to be under construction. However, it seems to have limited functionality.</text>
+		<text bitflag="321" id1="11189" id2="194682" version="1065353216">The holo-image of a young teenager rests in the center of this locket. He reminds you of Theron Shan.</text>
+		<text bitflag="321" id1="11190" id2="194682" version="1065353216">This type of armor is often worn by Jedi.</text>
+		<text bitflag="321" id1="11191" id2="194682" version="1065353216">Korriban Training Facility: Exercises in Harnessing Sith Power</text>
+		<text bitflag="321" id1="11192" id2="194682" version="1065353216">Tython Training Grounds: Techniques to Achieve Jedi Enlightenment</text>
+		<text bitflag="321" id1="11193" id2="194682" version="1065353216">A serene place for meditation.</text>
+		<text bitflag="321" id1="11194" id2="194682" version="1065353216">A collection of information on the culture of Zakuul.</text>
+		<text bitflag="321" id1="11195" id2="194682" version="1065353216">Information and lore about the Knights of Zakuul.</text>
+		<text bitflag="321" id1="11196" id2="194682" version="1065353216">A journal of day-to-day highlights since the author arrived on Odessen. There is no name or signature included.</text>
+		<text bitflag="321" id1="11197" id2="194682" version="1065353216">This pot smells of rootleaf stew, a dish commonly served on Tython.</text>
+		<text bitflag="321" id1="11198" id2="194682" version="1065353216">Author: Kao Cen Darach
+Title: Combat Techniques of a Jedi Battlemaster</text>
+		<text bitflag="321" id1="11199" id2="194682" version="1065353216">Author: Ngani Zho
+Title: Studies of the Force</text>
+		<text bitflag="321" id1="11200" id2="194682" version="1065353216">Author: Tasiele Shan
+Title: Aspects of the Force, The Light and the Dark</text>
+		<text bitflag="321" id1="11201" id2="194682" version="1065353216">The tag on this reads &quot;Product of Coruscant&quot;.</text>
+		<text bitflag="321" id1="11202" id2="194682" version="1065353216">All recently-used travel coordinates have been erased.</text>
+		<text bitflag="321" id1="11204" id2="194682" version="1065353216">Cairns are a way to mark common paths and locations that are traversible.</text>
+		<text bitflag="321" id1="11205" id2="194682" version="1065353216">ALERT: LOCKDOWN!
+Captain Fost reports a terrorist named Gault Rennow has made a credible bomb threat in the docks area. We are under security lockdown until the threat can be assessed and cleared.</text>
+		<text bitflag="321" id1="11206" id2="194682" version="1065353216">Eternal Flagship Defense Turret Control: Overrides enemy detection circuits to turn all flagship turrets friendly for maintenance access and repairs.</text>
+		<text bitflag="321" id1="11207" id2="194682" version="1065353216">Eternal Flagship Forcefield Control: Overrides security protocols to allow access to experimental munitions throughout the flagship.</text>
+		<text bitflag="321" id1="11208" id2="194682" version="1065353216">Turret Status: Online</text>
+		<text bitflag="321" id1="11209" id2="194682" version="1065353216">Keep this door shut! Always!
+
+You'll let the kids loose again!
+
+-Beast Master Oleg</text>
+		<text bitflag="321" id1="11210" id2="194682" version="1065353216">Whoever thought it'd be a kick to feed Junior table scraps through the vent shaft:
+
+Good job! You've taught him there's food up there! Don't come crying to me when he gets hungry and eats you along with half the palace staff!
+
+-Beast Master Oleg</text>
+		<text bitflag="321" id1="11211" id2="194682" version="1065353216">This is the palace guards' dinner. DO NOT deliver to the barracks until AFTER the empress's speech.
+
+If I hear the knights whisper one more insult about my kitchen's cooking, they can starve. For a week.
+
+-Head Chef Foss</text>
+		<text bitflag="321" id1="11212" id2="194682" version="1065353216">A dead bounty hunter. The body is still warm.
+
+He must have been searching for something--or someone.</text>
+		<text bitflag="321" id1="11213" id2="194682" version="1065353216">This corpse has been burned beyond all recognition.</text>
+		<text bitflag="321" id1="11214" id2="194682" version="1065353216">Your path to the holocron is still blocked. Complete the bridge by confronting your shattered memories.</text>
+		<text bitflag="321" id1="11215" id2="194682" version="1065353216">ENCOUNTER TRIGGER RADIUS
+
+Crossing this boundary will initiate the encounter.</text>
+		<text bitflag="321" id1="11216" id2="194682" version="1065353216">Log of Major Korven // Entry 723.21
+
+I am being watched. Last night, I discovered a tracking device sewn into my uniform. I sliced the transmitter and found records of burst transmissions to something called the &quot;Conclave.&quot;
+
+Anril thinks me paranoid, but he is wrong. Dead wrong.</text>
+		<text bitflag="321" id1="11217" id2="194682" version="1065353216">They are coming for you, Huntress.  Port Nowhere is a marvelous prize--one you must defend against our enemy. Do not fall to the Alliance.</text>
+		<text bitflag="321" id1="11218" id2="194682" version="1065353216">TO: Forgemaster Droub
+
+Production levels in your factory have dropped recently. If you cannot meet your quotas, you will be replaced with someone who can.</text>
+		<text bitflag="321" id1="11219" id2="194682" version="1065353216">TO: Lord Adacin and Lord Zanisk
+
+We are impressed with your efforts. The Alliance has no choice but to respond. If you wish to prove yourselves true agents of chaos, you must eliminate the Revenant.</text>
+		<text bitflag="321" id1="11220" id2="194682" version="1065353216">TO: Bel Nerodia
+
+The auction is a ruse. Many will bid on the Alliance data, but you will sell it to our proxy: A Twi'lek representative of the Faronis TechCorp. Comply, and our enemy will fall.</text>
+		<text bitflag="321" id1="11223" id2="194682" version="1065353216">To all Republic personnel:
+
+Your main objective is retrieval of those crystals. Seize and claim the train cargo, but do not engage the Alliance Commander. I repeat: for your own safety, do not engage. Our contact in the Alliance will take care of the Commander.</text>
+		<text bitflag="321" id1="11224" id2="194682" version="1065353216">To all Imperial personnel:
+
+You will reclaim the crystals at any cost. That train's cargo is Imperial property, and you will not let it fall into enemy hands. Our contact within the Alliance will ensure you won't have trouble with its Commander. Shoot any Alliance soldier on sight.</text>
+		<text bitflag="321" id1="11225" id2="194682" version="1065353216">Warriors of Umbara:
+We must reclaim what has been taken from us. The crystals hold immeasurable value, and we will take them back at any cost. The Alliance is not welcome here--it's time to ensure they understand this.</text>
+		<text bitflag="321" id1="11226" id2="194682" version="1065353216">Soldiers, it's time to fight for our fallen leader.
+
+Jace Malcom was the best commander the Republic has ever seen. He took care of us, made us stronger. And now he's gone, because of the Alliance Commander and the Imperial scum. Now is the time to use what Malcom taught us, and make sure he didn't die in vain.
+
+Give 'em hell.</text>
+		<text bitflag="321" id1="11227" id2="194682" version="1065353216">Fellow soldiers, we must fight for our fallen leader.
+
+Empress Acina was a symbol of the incredible might of the Empire. Her strength and cunning brought the galaxy to its knees and inspired us all to push onward. Her death at the hands of the Alliance Commander and those Republic dogs will be avenged--or we'll die trying.
+
+For the Empire!</text>
+		<text bitflag="321" id1="11228" id2="194682" version="1065353216">Nahlia--
+
+I don't know what to do. The Alliance freed us from Vaylin, and ushered in a new era for the Empire. How are we supposed to fight them, knowing what they did for us? It feels wrong. I don't want to face you on the battlefield, but I can't ignore orders. I can't run from this. I just hope I don't see you out there.
+
+Stay safe, old friend.</text>
+		<text bitflag="321" id1="11230" id2="194682" version="1065353216">Dantis--
+
+I don't know what to do. The Alliance freed us from Vaylin, and ushered in a new era for the Republic. How are we supposed to fight them, knowing what they did for us? It feels wrong. I don't want to face you on the battlefield, but I can't ignore orders. I can't run from this. I just hope I don't see you out there.
+
+Stay safe, old friend.</text>
+		<text bitflag="321" id1="11233" id2="194682" version="1065353216">Access codes for the pressure pad-activated turret system. Do not lose these. - Head Technician Canni</text>
+		<text bitflag="321" id1="11236" id2="194682" version="1065353216">This terminal plays the cinematic introduction to the stronghold again.</text>
+		<text bitflag="321" id1="11237" id2="194682" version="1065353216">This appears to be a rubber replica of Darth Bandon's severed head in a jar.  It looks like someone wrote some coordinates across the forehead of the fake head.</text>
+		<text bitflag="321" id1="11238" id2="194682" version="1065353216">This appears to be a poorly crafted immitation of the Murustavan Ruby made from cheap plastics.</text>
+		<text bitflag="321" id1="11239" id2="194682" version="1065353216">This is a scale model of your ship, the XS Freighter, which Skavak once stole from you. There are what looks like a set of coordinates written on the model in a familiar looking hand writing...</text>
+		<text bitflag="321" id1="11241" id2="194682" version="1065353216">Players cannot leave this area until the IZAX encounter has begun. Interact with this barrier to start the encounter.
+
+NOTE: The roof access elevator will be disabled while the encounter is active. Make sure your entire group is present beforehand.</text>
+		<text bitflag="321" id1="11242" id2="194682" version="1065353216">You may use this terminal to commence or terminate combat training scenarios.</text>
+		<text bitflag="321" id1="11243" id2="194682" version="1065353216">Ally yourself with the Frogdogs (For use in Team Deathmatch and Hutball training scenarios)</text>
+		<text bitflag="321" id1="11244" id2="194682" version="1065353216">Ally yourself with the Rotworms (For use in Team Deathmatch and Hutball training scenarios)</text>
+		<text bitflag="321" id1="11245" id2="194682" version="1065353216">You may use this console to select a Training Dummy mode.</text>
+		<text bitflag="321" id1="11246" id2="194682" version="1065353216">Use this console to take control of a RVD (Remote Viewing Droid).</text>
+		<text bitflag="321" id1="11247" id2="194682" version="1065353216">You may set your current character's arrival point here.</text>
+		<text bitflag="321" id1="11248" id2="194682" version="1065353216">Use the Bolsterizer to &quot;Bolster&quot; your characters attributes.</text>
+		<text bitflag="321" id1="11249" id2="194682" version="1065353216">Contains miscellaneous goods useful for explorers.</text>
+		<text bitflag="321" id1="11250" id2="194682" version="1065353216">Return to the Hideout... with haste!</text>
+		<text bitflag="321" id1="11251" id2="194682" version="1065353216">Caution! Do NOT open. It's always hungry.</text>
+		<text bitflag="321" id1="11252" id2="194682" version="1065353216">This terminal will grant your guild XP and guild currency. Only available on the Public Test Server.</text>
+		<text bitflag="321" id1="11253" id2="194682" version="1065353216">A journal detailing the process of excavating the nearby ruins. It does not state what they have found.</text>
+		<text bitflag="321" id1="11254" id2="194682" version="1065353216">SITUATION ANALYSIS: Mutated Geonosians severely damaged one of the reactors which set off an EMP blast. Colony Defense Droids have gone haywire as a result. Proceed into the ruins with caution and proper safety measures.</text>
+	</file_content>
+</stb_file>

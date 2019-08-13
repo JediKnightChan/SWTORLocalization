@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>9</strs>
+		<file_name>/resources/en-us/str/cnv/location/tython/bronze/flesh_eating_baby/fleshraider_parent_corpse.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="605881" id2="17" version="1065353216">[Inside the backpack, the Flesh Raider baby tears through the guid meat. It seems to gain some measure of strength.]</text>
+		<text bitflag="321" id1="605883" id2="17" version="1065353216">[It may now be able to survive a trip to the Jedi Temple and Master Quilb.]</text>
+		<text bitflag="321" id1="605885" id2="17" version="1065353216">[The Flesh Raider baby meekly gnashes its teeth, desperate for food.]</text>
+		<text bitflag="321" id1="605886" id2="17" version="1065353216">[As you check over the Flesh Raider's corpse, you notice movement from inside its backpack.]</text>
+		<text bitflag="336" id1="605887" id2="17" version="1065353216">[Open the backpack]</text>
+		<text bitflag="321" id1="605890" id2="17" version="1065353216">[Master Quilb at the Jedi Temple has been known to take in orphaned animals, perhaps he would watch it.]</text>
+		<text bitflag="336" id1="605891" id2="17" version="1065353216">[Take it to the Jedi Temple]</text>
+		<text bitflag="321" id1="754964" id2="17" version="1065353216">[A helpless Flesh Raider baby falls out of the backpack. It isn't aggressive and will obviously die if left here alone.]</text>
+		<text bitflag="321" id1="757242" id2="17" version="1065353216">[The baby is obviously starved and won't survive the trip without food. The meat of the greater guid along the mountain path should do the trick.]</text>
+	</file_content>
+</stb_file>

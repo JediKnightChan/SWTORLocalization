@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/class/jedi_consular/blue_team_barks.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="506271" id2="17" version="1065353216">We receive word. Main door is unlocked. Hall is open.</text>
+		<text bitflag="3393" id1="506272" id2="17" version="1065353216">Our brothers speak. The thorns are pared away from the door. Your path into the hall breathes out.</text>
+		<text bitflag="1345" id1="506273" id2="17" version="1065353216">Our droids report the security grid has collapsed! The main door's open, you should be able to make it inside.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>298</strs>
+		<file_name>/resources/en-us/str/gui/colornames.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="324832" version="1065353216">Red</text>
+		<text bitflag="321" id1="2" id2="324832" version="1065353216">Green</text>
+		<text bitflag="321" id1="3" id2="324832" version="1065353216">Blue</text>
+		<text bitflag="321" id1="4" id2="324832" version="1065353216">Cyan</text>
+		<text bitflag="321" id1="5" id2="324832" version="1065353216">Magenta</text>
+		<text bitflag="321" id1="6" id2="324832" version="1065353216">Yellow</text>
+		<text bitflag="321" id1="7" id2="324832" version="1065353216">Black</text>
+		<text bitflag="321" id1="8" id2="324832" version="1065353216">White</text>
+		<text bitflag="321" id1="9" id2="324832" version="1065353216">Orange</text>
+		<text bitflag="321" id1="10" id2="324832" version="1065353216">Purple</text>
+		<text bitflag="321" id1="11" id2="324832" version="1065353216">Black-Yellow</text>
+		<text bitflag="321" id1="12" id2="324832" version="1065353216">Black-Blue</text>
+		<text bitflag="321" id1="13" id2="324832" version="1065353216">Black-Green</text>
+		<text bitflag="321" id1="14" id2="324832" version="1065353216">Black-Light Blue</text>
+		<text bitflag="321" id1="15" id2="324832" version="1065353216">Black-Light Red</text>
+		<text bitflag="321" id1="16" id2="324832" version="1065353216">Black-Orange</text>
+		<text bitflag="321" id1="17" id2="324832" version="1065353216">Black-Purple</text>
+		<text bitflag="321" id1="18" id2="324832" version="1065353216">Black-Red</text>
+		<text bitflag="321" id1="19" id2="324832" version="1065353216">Black-White</text>
+		<text bitflag="321" id1="20" id2="324832" version="1065353216">Razer Green</text>
+		<text bitflag="321" id1="257" id2="324832" version="1065353216">Light Blue</text>
+		<text bitflag="321" id1="258" id2="324832" version="1065353216">Light Red</text>
+		<text bitflag="321" id1="259" id2="324832" version="1065353216">Orange-Yellow</text>
+		<text bitflag="321" id1="260" id2="324832" version="1065353216">Pink-Purple</text>
+		<text bitflag="321" id1="261" id2="324832" version="1065353216">Orange-Red</text>
+		<text bitflag="321" id1="262" id2="324832" version="1065353216">Cyan-Blue</text>
+		<text bitflag="321" id1="263" id2="324832" version="1065353216">Lime-Green</text>
+		<text bitflag="321" id1="271" id2="324832" version="1065353216">Derelict Purple</text>
+		<text bitflag="321" id1="272" id2="324832" version="1065353216">Golden Yellow</text>
+		<text bitflag="321" id1="273" id2="324832" version="1065353216">Silver Blue</text>
+		<text bitflag="321" id1="274" id2="324832" version="1065353216">Emerald Green</text>
+		<text bitflag="321" id1="275" id2="324832" version="1065353216">Light Green</text>
+		<text bitflag="321" id1="276" id2="324832" version="1065353216">White Black</text>
+		<text bitflag="321" id1="277" id2="324832" version="1065353216">Copper</text>
+		<text bitflag="321" id1="278" id2="324832" version="1065353216">Vivid Green</text>
+		<text bitflag="321" id1="280" id2="324832" version="1065353216">Black/Black</text>
+		<text bitflag="321" id1="281" id2="324832" version="1065353216">Black/White</text>
+		<text bitflag="321" id1="282" id2="324832" version="1065353216">White/White</text>
+		<text bitflag="321" id1="283" id2="324832" version="1065353216">White/Black</text>
+		<text bitflag="321" id1="284" id2="324832" version="1065353216">White/Light Orange</text>
+		<text bitflag="321" id1="285" id2="324832" version="1065353216">Dark Brown/White</text>
+		<text bitflag="321" id1="286" id2="324832" version="1065353216">Dark Green/White</text>
+		<text bitflag="321" id1="287" id2="324832" version="1065353216">Deep Pink/Deep Purple</text>
+		<text bitflag="321" id1="288" id2="324832" version="1065353216">Medium Gray/White</text>
+		<text bitflag="321" id1="289" id2="324832" version="1065353216">Medium Brown/White</text>
+		<text bitflag="321" id1="290" id2="324832" version="1065353216">Black/Deep Red</text>
+		<text bitflag="321" id1="291" id2="324832" version="1065353216">Black/Dark Purple</text>
+		<text bitflag="321" id1="292" id2="324832" version="1065353216">Dark Blue/Light Brown</text>
+		<text bitflag="321" id1="293" id2="324832" version="1065353216">Deep Red/Dark Purple</text>
+		<text bitflag="321" id1="294" id2="324832" version="1065353216">Dark Purple/Light Blue</text>
+		<text bitflag="321" id1="295" id2="324832" version="1065353216">Deep Red/Deep Yellow</text>
+		<text bitflag="321" id1="296" id2="324832" version="1065353216">Deep Red/Black</text>
+		<text bitflag="321" id1="297" id2="324832" version="1065353216">Deep Red/White</text>
+		<text bitflag="321" id1="298" id2="324832" version="1065353216">Deep Green/Medium Yellow</text>
+		<text bitflag="321" id1="299" id2="324832" version="1065353216">Light Gray/Deep Red</text>
+		<text bitflag="321" id1="300" id2="324832" version="1065353216">Pale Gray/Dark Yellow</text>
+		<text bitflag="321" id1="301" id2="324832" version="1065353216">Deep Blue/White</text>
+		<text bitflag="321" id1="302" id2="324832" version="1065353216">Deep Orange/Dark Red</text>
+		<text bitflag="321" id1="303" id2="324832" version="1065353216">Medium Gray/Dark Green</text>
+		<text bitflag="321" id1="304" id2="324832" version="1065353216">Dark Blue/Deep Green</text>
+		<text bitflag="321" id1="305" id2="324832" version="1065353216">Deep Red/Dark Blue</text>
+		<text bitflag="321" id1="306" id2="324832" version="1065353216">Dark Blue/Deep Red</text>
+		<text bitflag="321" id1="307" id2="324832" version="1065353216">Medium Green/Dark Green</text>
+		<text bitflag="321" id1="308" id2="324832" version="1065353216">Dark Green/Medium Green</text>
+		<text bitflag="321" id1="309" id2="324832" version="1065353216">Black/None</text>
+		<text bitflag="321" id1="310" id2="324832" version="1065353216">Light Blue/Medium Blue</text>
+		<text bitflag="321" id1="311" id2="324832" version="1065353216">White/Deep Red</text>
+		<text bitflag="321" id1="312" id2="324832" version="1065353216">Dark Purple/Deep Yellow</text>
+		<text bitflag="321" id1="313" id2="324832" version="1065353216">Dark Brown/Medium Brown</text>
+		<text bitflag="321" id1="314" id2="324832" version="1065353216">Medium Gray/None</text>
+		<text bitflag="321" id1="315" id2="324832" version="1065353216">None/Medium Gray</text>
+		<text bitflag="321" id1="316" id2="324832" version="1065353216">Light Orange/None</text>
+		<text bitflag="321" id1="317" id2="324832" version="1065353216">None/Light Orange</text>
+		<text bitflag="321" id1="318" id2="324832" version="1065353216">Deep Purple/None</text>
+		<text bitflag="321" id1="319" id2="324832" version="1065353216">None/Deep Purple</text>
+		<text bitflag="321" id1="320" id2="324832" version="1065353216">Deep Green/None</text>
+		<text bitflag="321" id1="321" id2="324832" version="1065353216">None/Deep Green</text>
+		<text bitflag="321" id1="322" id2="324832" version="1065353216">Pale Brown/None</text>
+		<text bitflag="321" id1="323" id2="324832" version="1065353216">None/Pale Brown</text>
+		<text bitflag="321" id1="324" id2="324832" version="1065353216">Black/Deep Red</text>
+		<text bitflag="321" id1="325" id2="324832" version="1065353216">Deep Red/Black</text>
+		<text bitflag="321" id1="326" id2="324832" version="1065353216">Black/Deep Blue</text>
+		<text bitflag="321" id1="327" id2="324832" version="1065353216">Deep Blue/Black</text>
+		<text bitflag="321" id1="328" id2="324832" version="1065353216">White/Light Orange</text>
+		<text bitflag="321" id1="329" id2="324832" version="1065353216">Light Orange/White</text>
+		<text bitflag="321" id1="330" id2="324832" version="1065353216">Dark Blue/Deep Green</text>
+		<text bitflag="321" id1="331" id2="324832" version="1065353216">Deep Green/Dark Blue</text>
+		<text bitflag="321" id1="332" id2="324832" version="1065353216">Light Gray/Deep Red</text>
+		<text bitflag="321" id1="333" id2="324832" version="1065353216">Deep Red/Light Gray</text>
+		<text bitflag="321" id1="337" id2="324832" version="1065353216">Mint Green</text>
+		<text bitflag="321" id1="338" id2="324832" version="1065353216">Dark Yellow/Medium Yellow</text>
+		<text bitflag="321" id1="339" id2="324832" version="1065353216">Medium Orange/Light Green</text>
+		<text bitflag="321" id1="340" id2="324832" version="1065353216">Medium Orange/Medium Blue</text>
+		<text bitflag="321" id1="341" id2="324832" version="1065353216">Pale Red/Pale Brown</text>
+		<text bitflag="321" id1="342" id2="324832" version="1065353216">Dark Red/Pale Red</text>
+		<text bitflag="321" id1="343" id2="324832" version="1065353216">Medium Brown/Medium Green</text>
+		<text bitflag="321" id1="344" id2="324832" version="1065353216">Medium Red/Medium Green</text>
+		<text bitflag="321" id1="345" id2="324832" version="1065353216">Pale Blue/Pale Gray</text>
+		<text bitflag="321" id1="346" id2="324832" version="1065353216">Medium Orange/Pale Yellow</text>
+		<text bitflag="321" id1="347" id2="324832" version="1065353216">Pale Blue/Medium Purple</text>
+		<text bitflag="321" id1="348" id2="324832" version="1065353216">Deep Purple/Medium Green</text>
+		<text bitflag="321" id1="349" id2="324832" version="1065353216">Dark Purple/Light Purple</text>
+		<text bitflag="321" id1="350" id2="324832" version="1065353216">Black/Medium Yellow</text>
+		<text bitflag="321" id1="351" id2="324832" version="1065353216">Deep Purple/Medium Pink</text>
+		<text bitflag="321" id1="352" id2="324832" version="1065353216">Copper</text>
+		<text bitflag="321" id1="353" id2="324832" version="1065353216">Blood Red</text>
+		<text bitflag="321" id1="354" id2="324832" version="1065353216">Yellow Blue</text>
+		<text bitflag="321" id1="355" id2="324832" version="1065353216">Yellow Pink</text>
+		<text bitflag="321" id1="356" id2="324832" version="1065353216">Blue Core</text>
+		<text bitflag="321" id1="357" id2="324832" version="1065353216">Hot Orange</text>
+		<text bitflag="321" id1="358" id2="324832" version="1065353216">White/Deep Blue</text>
+		<text bitflag="321" id1="359" id2="324832" version="1065353216">White/Dark Green</text>
+		<text bitflag="321" id1="360" id2="324832" version="1065353216">White/Dark Purple</text>
+		<text bitflag="321" id1="361" id2="324832" version="1065353216">Black/Deep Green</text>
+		<text bitflag="321" id1="362" id2="324832" version="1065353216">Black/Deep Orange</text>
+		<text bitflag="321" id1="363" id2="324832" version="1065353216">Deep Green/Black</text>
+		<text bitflag="321" id1="364" id2="324832" version="1065353216">Deep Green/Medium Gray</text>
+		<text bitflag="321" id1="365" id2="324832" version="1065353216">Dark Green/Medium Brown</text>
+		<text bitflag="321" id1="366" id2="324832" version="1065353216">Deep Gray/Black</text>
+		<text bitflag="321" id1="367" id2="324832" version="1065353216">Light Gray/Deep Blue</text>
+		<text bitflag="321" id1="368" id2="324832" version="1065353216">Light Gray/Dark Purple</text>
+		<text bitflag="321" id1="369" id2="324832" version="1065353216">Deep Brown/Black</text>
+		<text bitflag="321" id1="370" id2="324832" version="1065353216">Dark Purple/Black</text>
+		<text bitflag="321" id1="371" id2="324832" version="1065353216">Dark Purple/White</text>
+		<text bitflag="321" id1="372" id2="324832" version="1065353216">Charred Orange</text>
+		<text bitflag="321" id1="373" id2="324832" version="1065353216">Red-Orange</text>
+		<text bitflag="321" id1="374" id2="324832" version="1065353216">Pale Purple/Medium Gray</text>
+		<text bitflag="321" id1="375" id2="324832" version="1065353216">Yellow-Orange</text>
+		<text bitflag="321" id1="376" id2="324832" version="1065353216">None/Black</text>
+		<text bitflag="321" id1="377" id2="324832" version="1065353216">Deep Gray/Dark Purple</text>
+		<text bitflag="321" id1="378" id2="324832" version="1065353216">Dark Gray/Deep Red</text>
+		<text bitflag="321" id1="379" id2="324832" version="1065353216">Dark Purple/Pale Brown</text>
+		<text bitflag="321" id1="380" id2="324832" version="1065353216">Black/None</text>
+		<text bitflag="321" id1="381" id2="324832" version="1065353216">Medium Yellow/Deep Gray</text>
+		<text bitflag="321" id1="382" id2="324832" version="1065353216">White/None</text>
+		<text bitflag="321" id1="383" id2="324832" version="1065353216">Deep Pink/White</text>
+		<text bitflag="321" id1="384" id2="324832" version="1065353216">Deep Pink/Black</text>
+		<text bitflag="321" id1="385" id2="324832" version="1065353216">Deep Pink/None</text>
+		<text bitflag="321" id1="386" id2="324832" version="1065353216">Deep Pink/Deep Gray</text>
+		<text bitflag="321" id1="387" id2="324832" version="1065353216">White/Deep Pink</text>
+		<text bitflag="321" id1="388" id2="324832" version="1065353216">Black/Deep Pink</text>
+		<text bitflag="321" id1="389" id2="324832" version="1065353216">None/Deep Pink</text>
+		<text bitflag="321" id1="390" id2="324832" version="1065353216">Deep Gray/Deep Pink</text>
+		<text bitflag="321" id1="391" id2="324832" version="1065353216">Black/Medium Orange</text>
+		<text bitflag="321" id1="392" id2="324832" version="1065353216">White/Medium Gray</text>
+		<text bitflag="321" id1="393" id2="324832" version="1065353216">Gold Core</text>
+		<text bitflag="321" id1="394" id2="324832" version="1065353216">Green Core</text>
+		<text bitflag="321" id1="395" id2="324832" version="1065353216">Yellow Core</text>
+		<text bitflag="321" id1="396" id2="324832" version="1065353216">Blue Outline</text>
+		<text bitflag="321" id1="397" id2="324832" version="1065353216">Purple Outline</text>
+		<text bitflag="321" id1="398" id2="324832" version="1065353216">Orange Outline</text>
+		<text bitflag="321" id1="399" id2="324832" version="1065353216">Dark Blue/Deep Orange</text>
+		<text bitflag="321" id1="400" id2="324832" version="1065353216">Deep Gray/Pale Brown</text>
+		<text bitflag="321" id1="401" id2="324832" version="1065353216">Pink Core</text>
+		<text bitflag="321" id1="402" id2="324832" version="1065353216">Black/Light Brown</text>
+		<text bitflag="321" id1="403" id2="324832" version="1065353216">Black/Medium Gray</text>
+		<text bitflag="321" id1="404" id2="324832" version="1065353216">Pink Magenta</text>
+		<text bitflag="321" id1="405" id2="324832" version="1065353216">Yellow Core</text>
+		<text bitflag="321" id1="406" id2="324832" version="1065353216">Dark Orange/Light Brown</text>
+		<text bitflag="321" id1="407" id2="324832" version="1065353216">Dark Brown/Light Orange</text>
+		<text bitflag="321" id1="408" id2="324832" version="1065353216">Dark Blue/Pale Brown</text>
+		<text bitflag="321" id1="409" id2="324832" version="1065353216">Light Brown/Pale Gray</text>
+		<text bitflag="321" id1="410" id2="324832" version="1065353216">Deep Gray/Pale Brown</text>
+		<text bitflag="321" id1="411" id2="324832" version="1065353216">Dark Blue/Deep Orange</text>
+		<text bitflag="321" id1="412" id2="324832" version="1065353216">Dark Gray/None</text>
+		<text bitflag="321" id1="413" id2="324832" version="1065353216">None/Dark Gray</text>
+		<text bitflag="321" id1="414" id2="324832" version="1065353216">Sea Green</text>
+		<text bitflag="321" id1="415" id2="324832" version="1065353216">Medium Green/Deep Purple</text>
+		<text bitflag="321" id1="416" id2="324832" version="1065353216">Pale Blue/Pale Pink</text>
+		<text bitflag="321" id1="417" id2="324832" version="1065353216">Dark Red/Pale Brown</text>
+		<text bitflag="321" id1="418" id2="324832" version="1065353216">Light Gray/Pale Pink</text>
+		<text bitflag="321" id1="419" id2="324832" version="1065353216">Black/Light Gray</text>
+		<text bitflag="321" id1="420" id2="324832" version="1065353216">Black/Pale Yellow</text>
+		<text bitflag="321" id1="421" id2="324832" version="1065353216">Black/Medium Blue</text>
+		<text bitflag="321" id1="422" id2="324832" version="1065353216">White/Medium Red</text>
+		<text bitflag="321" id1="423" id2="324832" version="1065353216">White/Pale Green</text>
+		<text bitflag="321" id1="424" id2="324832" version="1065353216">White/Medium Pink</text>
+		<text bitflag="321" id1="425" id2="324832" version="1065353216">Deep Blue/Deep Green</text>
+		<text bitflag="321" id1="426" id2="324832" version="1065353216">Dark Red/Black</text>
+		<text bitflag="321" id1="427" id2="324832" version="1065353216">Dark Red/Medium Purple</text>
+		<text bitflag="321" id1="428" id2="324832" version="1065353216">Deep Purple/Light Yellow</text>
+		<text bitflag="321" id1="429" id2="324832" version="1065353216">Medium Blue/White</text>
+		<text bitflag="321" id1="430" id2="324832" version="1065353216">Medium Blue/Light Orange</text>
+		<text bitflag="321" id1="431" id2="324832" version="1065353216">Deep Brown/White</text>
+		<text bitflag="321" id1="432" id2="324832" version="1065353216">Deep Brown/Deep Red</text>
+		<text bitflag="321" id1="433" id2="324832" version="1065353216">Dark Brown/Deep Blue</text>
+		<text bitflag="321" id1="434" id2="324832" version="1065353216">Dark Green/Deep Red</text>
+		<text bitflag="321" id1="435" id2="324832" version="1065353216">Deep Green/White</text>
+		<text bitflag="321" id1="436" id2="324832" version="1065353216">Pale Gray/Deep Orange</text>
+		<text bitflag="321" id1="437" id2="324832" version="1065353216">Pale Gray/Dark Gray</text>
+		<text bitflag="321" id1="438" id2="324832" version="1065353216">Deep Yellow/Deep Blue</text>
+		<text bitflag="321" id1="439" id2="324832" version="1065353216">Dark Green/Light Yellow</text>
+		<text bitflag="321" id1="440" id2="324832" version="1065353216">Black/Deep Purple</text>
+		<text bitflag="321" id1="441" id2="324832" version="1065353216">Light Blue/Deep Green</text>
+		<text bitflag="321" id1="442" id2="324832" version="1065353216">Black/Medium Brown</text>
+		<text bitflag="321" id1="443" id2="324832" version="1065353216">Red-Black</text>
+		<text bitflag="321" id1="444" id2="324832" version="1065353216">Black-Pink</text>
+		<text bitflag="321" id1="445" id2="324832" version="1065353216">Purple-Black</text>
+		<text bitflag="321" id1="446" id2="324832" version="1065353216">Medium Gray/Dark Purple</text>
+		<text bitflag="321" id1="447" id2="324832" version="1065353216">Dark Orange/Medium Brown</text>
+		<text bitflag="321" id1="448" id2="324832" version="1065353216">Red/Yellow</text>
+		<text bitflag="321" id1="449" id2="324832" version="1065353216">Pink/Red</text>
+		<text bitflag="321" id1="450" id2="324832" version="1065353216">Medium Purple/Deep Blue</text>
+		<text bitflag="321" id1="451" id2="324832" version="1065353216">Medium Red/Dark Gray</text>
+		<text bitflag="321" id1="452" id2="324832" version="1065353216">Pink-Yellow</text>
+		<text bitflag="321" id1="453" id2="324832" version="1065353216">Medium Brown/Pale Yellow</text>
+		<text bitflag="321" id1="454" id2="324832" version="1065353216">White/Light Purple</text>
+		<text bitflag="321" id1="455" id2="324832" version="1065353216">White Blue Purple</text>
+		<text bitflag="321" id1="456" id2="324832" version="1065353216">White-Purple-Blue</text>
+		<text bitflag="321" id1="457" id2="324832" version="1065353216">White-Yellow-Orange</text>
+		<text bitflag="321" id1="458" id2="324832" version="1065353216">Black-Silver</text>
+		<text bitflag="321" id1="459" id2="324832" version="1065353216">Black-Blue Striated</text>
+		<text bitflag="321" id1="460" id2="324832" version="1065353216">Black-Purple Striated</text>
+		<text bitflag="321" id1="461" id2="324832" version="1065353216">Light Brown/Dark Brown</text>
+		<text bitflag="321" id1="462" id2="324832" version="1065353216">White/Dark Orange</text>
+		<text bitflag="321" id1="463" id2="324832" version="1065353216">Medium Blue/Medium Purple</text>
+		<text bitflag="321" id1="464" id2="324832" version="1065353216">Black/Deep Brown</text>
+		<text bitflag="321" id1="465" id2="324832" version="1065353216">Dark Pink/Dark Gray</text>
+		<text bitflag="321" id1="466" id2="324832" version="1065353216">Medium Purple/Dark Red</text>
+		<text bitflag="321" id1="467" id2="324832" version="1065353216">Medium Green/Deep Blue</text>
+		<text bitflag="321" id1="468" id2="324832" version="1065353216">Dark Red/Light Red</text>
+		<text bitflag="321" id1="469" id2="324832" version="1065353216">Deep Red/None</text>
+		<text bitflag="321" id1="470" id2="324832" version="1065353216">None/Deep Red</text>
+		<text bitflag="321" id1="471" id2="324832" version="1065353216">Deep Blue/None</text>
+		<text bitflag="321" id1="472" id2="324832" version="1065353216">None/Deep Blue</text>
+		<text bitflag="321" id1="473" id2="324832" version="1065353216">Pure Black</text>
+		<text bitflag="321" id1="474" id2="324832" version="1065353216">Blue-Cyan-Indigo</text>
+		<text bitflag="321" id1="475" id2="324832" version="1065353216">Black-Red Striated</text>
+		<text bitflag="321" id1="476" id2="324832" version="1065353216">Black-Yellow Striated</text>
+		<text bitflag="321" id1="477" id2="324832" version="1065353216">Magenta Outline</text>
+		<text bitflag="321" id1="479" id2="324832" version="1065353216">Black-Orange Striated</text>
+		<text bitflag="321" id1="482" id2="324832" version="1065353216">Gold-Green</text>
+		<text bitflag="321" id1="483" id2="324832" version="1065353216">Farmhand Blue</text>
+		<text bitflag="321" id1="484" id2="324832" version="1065353216">Amethyst</text>
+		<text bitflag="321" id1="485" id2="324832" version="1065353216">Fire Red</text>
+		<text bitflag="321" id1="487" id2="324832" version="1065353216">Desert Green</text>
+		<text bitflag="321" id1="488" id2="324832" version="1065353216">Fire Orange</text>
+		<text bitflag="321" id1="489" id2="324832" version="1065353216">Turquoise</text>
+		<text bitflag="321" id1="490" id2="324832" version="1065353216">Fuchsia</text>
+		<text bitflag="321" id1="492" id2="324832" version="1065353216">Imperial Crimson</text>
+		<text bitflag="321" id1="493" id2="324832" version="1065353216">Almond-Blue</text>
+		<text bitflag="321" id1="494" id2="324832" version="1065353216">White-Gray</text>
+		<text bitflag="321" id1="495" id2="324832" version="1065353216">Soft-Purple</text>
+		<text bitflag="321" id1="497" id2="324832" version="1065353216">Mystic Hazel</text>
+		<text bitflag="321" id1="499" id2="324832" version="1065353216">Purple Core</text>
+		<text bitflag="321" id1="500" id2="324832" version="1065353216">Gold-Blue</text>
+		<text bitflag="321" id1="501" id2="324832" version="1065353216">Viridian Corona</text>
+		<text bitflag="321" id1="503" id2="324832" version="1065353216">Violet Corona</text>
+		<text bitflag="321" id1="504" id2="324832" version="1065353216">Cloud Blue</text>
+		<text bitflag="321" id1="505" id2="324832" version="1065353216">Yellow Gold</text>
+		<text bitflag="321" id1="506" id2="324832" version="1065353216">Tythian Flame</text>
+		<text bitflag="321" id1="507" id2="324832" version="1065353216">Ice Blue</text>
+		<text bitflag="321" id1="508" id2="324832" version="1065353216">Bright Yellow/Orange</text>
+		<text bitflag="321" id1="509" id2="324832" version="1065353216">Bright Yellow/Pale Yellow</text>
+		<text bitflag="321" id1="510" id2="324832" version="1065353216">Orange/White</text>
+		<text bitflag="321" id1="511" id2="324832" version="1065353216">Orange/Red</text>
+		<text bitflag="321" id1="512" id2="324832" version="1065353216">Orange/Dark Orange</text>
+		<text bitflag="321" id1="513" id2="324832" version="1065353216">Orange/Black</text>
+		<text bitflag="321" id1="514" id2="324832" version="1065353216">Orange/Pale Blue</text>
+		<text bitflag="321" id1="515" id2="324832" version="1065353216">Orange/Soft Orange</text>
+		<text bitflag="321" id1="516" id2="324832" version="1065353216">Olive Green/Tan</text>
+		<text bitflag="321" id1="517" id2="324832" version="1065353216">Deep Blue/Deep Blue</text>
+		<text bitflag="321" id1="518" id2="324832" version="1065353216">Radiant Green</text>
+		<text bitflag="321" id1="519" id2="324832" version="1065353216">Fallen Red</text>
+		<text bitflag="321" id1="520" id2="324832" version="1065353216">Burning Orange</text>
+		<text bitflag="321" id1="521" id2="324832" version="1065353216">Gray/Dark Gray</text>
+		<text bitflag="321" id1="522" id2="324832" version="1065353216">Evergreen/Desaturated Brown</text>
+		<text bitflag="321" id1="524" id2="324832" version="1065353216">Dark Blue/Light Blue</text>
+		<text bitflag="321" id1="525" id2="324832" version="1065353216">Yellow/Dark Gray</text>
+		<text bitflag="321" id1="528" id2="324832" version="1065353216">Umbaran Purple</text>
+		<text bitflag="321" id1="529" id2="324832" version="1065353216">Tan/Light Gray</text>
+		<text bitflag="321" id1="530" id2="324832" version="1065353216">Tan/Medium Gray</text>
+		<text bitflag="321" id1="531" id2="324832" version="1065353216">Convulsive Purple</text>
+		<text bitflag="321" id1="532" id2="324832" version="1065353216">Glaring Abyss</text>
+		<text bitflag="321" id1="537" id2="324832" version="1065353216">Light Gray/Charcoal</text>
+		<text bitflag="321" id1="538" id2="324832" version="1065353216">Deep Brown/Black</text>
+		<text bitflag="321" id1="539" id2="324832" version="1065353216">Charcoal/Deep Red</text>
+		<text bitflag="321" id1="540" id2="324832" version="1065353216">Charcoal/Chrome</text>
+		<text bitflag="321" id1="541" id2="324832" version="1065353216">Charcoal/Black</text>
+		<text bitflag="321" id1="542" id2="324832" version="1065353216">Bright Red/Deep Maroon</text>
+		<text bitflag="321" id1="543" id2="324832" version="1065353216">Tan/Charred Red</text>
+		<text bitflag="321" id1="544" id2="324832" version="1065353216">Dark Gray/Dark Brown</text>
+		<text bitflag="321" id1="545" id2="324832" version="1065353216">Ocean Blue</text>
+		<text bitflag="321" id1="546" id2="324832" version="1065353216">Olive Green</text>
+		<text bitflag="321" id1="547" id2="324832" version="1065353216">Mauve</text>
+		<text bitflag="321" id1="548" id2="324832" version="1065353216">Charcoal/Light Gray</text>
+		<text bitflag="321" id1="549" id2="324832" version="1065353216">Black/Deep Brown</text>
+		<text bitflag="321" id1="550" id2="324832" version="1065353216">Maroon/Dark Gray</text>
+		<text bitflag="321" id1="551" id2="324832" version="1065353216">Chrome/Charcoal</text>
+		<text bitflag="321" id1="552" id2="324832" version="1065353216">Deep Red/Charcoal</text>
+		<text bitflag="321" id1="553" id2="324832" version="1065353216">Light Gray/Tan</text>
+		<text bitflag="321" id1="554" id2="324832" version="1065353216">Charcoal/Charred Red</text>
+		<text bitflag="321" id1="555" id2="324832" version="1065353216">Pale Gold</text>
+		<text bitflag="321" id1="556" id2="324832" version="1065353216">Rotworm Purple</text>
+		<text bitflag="321" id1="557" id2="324832" version="1065353216">Frogdog Yellow</text>
+		<text bitflag="321" id1="558" id2="324832" version="1065353216">Shady Gambler</text>
+		<text bitflag="321" id1="559" id2="324832" version="1065353216">Double Agent</text>
+		<text bitflag="321" id1="560" id2="324832" version="1065353216">Frost White</text>
+	</file_content>
+</stb_file>

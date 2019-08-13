@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/misc/respec.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="684680" id2="17" version="1065353216">Sometimes, to reach greatness, you must unlearn what you have learned.</text>
+		<text bitflag="3393" id1="684682" id2="17" version="1065353216">Do you wish to do so now?</text>
+		<text bitflag="1360" id1="684683" id2="17" version="1065353216">[Abandon current discipline]</text>
+		<text bitflag="3393" id1="684684" id2="17" version="1065353216">Close your eyes and free your mind.</text>
+		<text bitflag="1360" id1="684688" id2="17" version="1065353216">[Do not abandon current discipline]</text>
+	</file_content>
+</stb_file>

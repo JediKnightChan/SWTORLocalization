@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/nar_shaddaa/misc/public_taxi_return.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1197861" id2="17" version="1065353216">[Return to the Promenade?]</text>
+		<text bitflag="321" id1="1197862" id2="17" version="1065353216">[Return]</text>
+		<text bitflag="321" id1="1197863" id2="17" version="1065353216">[Stay]</text>
+	</file_content>
+</stb_file>

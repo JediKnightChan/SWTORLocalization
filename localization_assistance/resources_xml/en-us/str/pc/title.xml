@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>450</strs>
+		<file_name>/resources/en-us/str/pc/title.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="469654" version="1065353216">Darth &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="2" id2="469654" version="1065353216">Sergeant &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="3" id2="469654" version="1065353216">Lieutenant &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="4" id2="469654" version="1065353216">Captain &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="5" id2="469654" version="1065353216">Major &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="6" id2="469654" version="1065353216">Padawan &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="7" id2="469654" version="1065353216">Master &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="8" id2="469654" version="1065353216">General &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="9" id2="469654" version="1065353216">Jedi &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="10" id2="469654" version="1065353216">Captain &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="11" id2="469654" version="1065353216">The Outlaw &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="12" id2="469654" version="1065353216">Acolyte &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="13" id2="469654" version="1065353216">Apprentice &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="14" id2="469654" version="1065353216">Lord &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="326" id1="14" id2="469654" version="1065353216">Lord &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="15" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Grand Champion of the Great Hunt</text>
+		<text bitflag="321" id1="16" id2="469654" version="1065353216">Baron &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="326" id1="16" id2="469654" version="1065353216">Baroness &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="17" id2="469654" version="1065353216">Homewrecker &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="18" id2="469654" version="1065353216">Agent &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="19" id2="469654" version="1065353216">Cipher Agent &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="20" id2="469654" version="1065353216">Friendly &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="21" id2="469654" version="1065353216">Party Time &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="22" id2="469654" version="1065353216">Chatterbox &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="23" id2="469654" version="1065353216">Big Time &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="24" id2="469654" version="1065353216">Warzone Hero &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="25" id2="469654" version="1065353216">Flyboy &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="326" id1="25" id2="469654" version="1065353216">Flygirl &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="26" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Keeper of Truth</text>
+		<text bitflag="321" id1="27" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Mantellian</text>
+		<text bitflag="321" id1="28" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Imperial Scholar</text>
+		<text bitflag="321" id1="29" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Heartless</text>
+		<text bitflag="321" id1="30" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Black Bisector</text>
+		<text bitflag="321" id1="31" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Revanite</text>
+		<text bitflag="321" id1="32" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Mandolorian Bane</text>
+		<text bitflag="321" id1="33" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Conqueror of Balmorra</text>
+		<text bitflag="321" id1="34" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Scourge of the Underworld</text>
+		<text bitflag="321" id1="35" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Shadow Hunter</text>
+		<text bitflag="321" id1="36" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, SIS Operative</text>
+		<text bitflag="321" id1="37" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Primeval Explorer</text>
+		<text bitflag="321" id1="38" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Paladin of House Organa</text>
+		<text bitflag="321" id1="39" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of House Thul</text>
+		<text bitflag="321" id1="40" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Ice Wars Veteran</text>
+		<text bitflag="321" id1="41" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; of the Bane Brigade</text>
+		<text bitflag="321" id1="42" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Scorcher of Worlds</text>
+		<text bitflag="321" id1="43" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Hero of the Gorinth Canyon</text>
+		<text bitflag="321" id1="44" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Master of the Burning Way</text>
+		<text bitflag="321" id1="45" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Jailbreaker</text>
+		<text bitflag="321" id1="46" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Ambassador of the Republic</text>
+		<text bitflag="321" id1="47" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Ambassador of the Empire</text>
+		<text bitflag="321" id1="48" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Liberator of Corellia</text>
+		<text bitflag="321" id1="49" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Conqueror of Corellia</text>
+		<text bitflag="321" id1="50" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Rider of the Maelstrom</text>
+		<text bitflag="321" id1="51" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Unmasked</text>
+		<text bitflag="321" id1="52" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Venom Drinker</text>
+		<text bitflag="321" id1="53" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Venomous</text>
+		<text bitflag="321" id1="54" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Deprogrammer</text>
+		<text bitflag="321" id1="55" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Rakghoul's Bane</text>
+		<text bitflag="321" id1="56" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Throne Breaker</text>
+		<text bitflag="321" id1="57" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Uncompromising</text>
+		<text bitflag="321" id1="58" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Backstabber</text>
+		<text bitflag="321" id1="59" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Merciless</text>
+		<text bitflag="321" id1="60" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Stalwart</text>
+		<text bitflag="321" id1="61" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; Knight of the Republic</text>
+		<text bitflag="321" id1="62" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; Barsen'thor</text>
+		<text bitflag="321" id1="63" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; of the Jedi Council</text>
+		<text bitflag="321" id1="64" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Council Military Advisor</text>
+		<text bitflag="321" id1="65" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Emissary of Teral</text>
+		<text bitflag="321" id1="66" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Republic Privateer</text>
+		<text bitflag="321" id1="67" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Butcher's Bane</text>
+		<text bitflag="321" id1="68" id2="469654" version="1065353216">Darth &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="69" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Forcewalker</text>
+		<text bitflag="321" id1="70" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Hired Gun</text>
+		<text bitflag="321" id1="71" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Grand Champion of the Great Hunt</text>
+		<text bitflag="321" id1="72" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Republic's Most Wanted</text>
+		<text bitflag="321" id1="73" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Relentless</text>
+		<text bitflag="321" id1="74" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Knight of Alderaan</text>
+		<text bitflag="321" id1="75" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Double Agent</text>
+		<text bitflag="321" id1="76" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Master Conspirator</text>
+		<text bitflag="321" id1="77" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Friendly</text>
+		<text bitflag="321" id1="78" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Outgoing</text>
+		<text bitflag="321" id1="79" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Coordinator</text>
+		<text bitflag="321" id1="80" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Socialite</text>
+		<text bitflag="321" id1="81" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Guide</text>
+		<text bitflag="321" id1="82" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Extrovert</text>
+		<text bitflag="321" id1="83" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Charismatic</text>
+		<text bitflag="321" id1="84" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Leader</text>
+		<text bitflag="321" id1="85" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Vicious</text>
+		<text bitflag="321" id1="86" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Sinister</text>
+		<text bitflag="321" id1="87" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Destructive</text>
+		<text bitflag="321" id1="88" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Loathsome</text>
+		<text bitflag="321" id1="89" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Malevolent</text>
+		<text bitflag="321" id1="90" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Respectable</text>
+		<text bitflag="321" id1="91" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Upstanding</text>
+		<text bitflag="321" id1="92" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Honorable</text>
+		<text bitflag="321" id1="93" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Pure</text>
+		<text bitflag="321" id1="94" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Benevolent</text>
+		<text bitflag="321" id1="95" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Sniper</text>
+		<text bitflag="321" id1="96" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Operative</text>
+		<text bitflag="321" id1="97" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Powertech</text>
+		<text bitflag="321" id1="98" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Mercenary</text>
+		<text bitflag="321" id1="99" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Sorcerer</text>
+		<text bitflag="321" id1="100" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Assassin</text>
+		<text bitflag="321" id1="101" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Marauder</text>
+		<text bitflag="321" id1="102" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Juggernaut</text>
+		<text bitflag="321" id1="103" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Sage</text>
+		<text bitflag="321" id1="104" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Shadow</text>
+		<text bitflag="321" id1="105" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Sentinel</text>
+		<text bitflag="321" id1="106" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Guardian</text>
+		<text bitflag="321" id1="107" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Gunslinger</text>
+		<text bitflag="321" id1="108" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Scoundrel</text>
+		<text bitflag="321" id1="109" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Commando</text>
+		<text bitflag="321" id1="110" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Vanguard</text>
+		<text bitflag="321" id1="111" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Pilot</text>
+		<text bitflag="321" id1="112" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Warzone Commander</text>
+		<text bitflag="321" id1="113" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Hot Shot Pilot</text>
+		<text bitflag="321" id1="114" id2="469654" version="1065353216">Master &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="115" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Mender of the Rift</text>
+		<text bitflag="321" id1="116" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Hero of Tython</text>
+		<text bitflag="321" id1="117" id2="469654" version="1065353216">The Indomitable &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="118" id2="469654" version="1065353216">Padawan &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="119" id2="469654" version="1065353216">Apprentice &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="120" id2="469654" version="1065353216">Lord &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="121" id2="469654" version="1065353216">Skirmisher &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="122" id2="469654" version="1065353216">Duelist &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="123" id2="469654" version="1065353216">Gladiator &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="124" id2="469654" version="1065353216">Centurion &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="125" id2="469654" version="1065353216">Champion &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="126" id2="469654" version="1065353216">Battlemaster &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="127" id2="469654" version="1065353216">War Hero &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="128" id2="469654" version="1065353216">Conqueror &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="129" id2="469654" version="1065353216">Warlord &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="130" id2="469654" version="1065353216">Elite Warlord &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="131" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Founder</text>
+		<text bitflag="321" id1="132" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Unyielding</text>
+		<text bitflag="321" id1="133" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Infernal</text>
+		<text bitflag="321" id1="134" id2="469654" version="1065353216">Minesweeper &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="135" id2="469654" version="1065353216">Containment Officer &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="136" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the First Line of Defense</text>
+		<text bitflag="321" id1="137" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Cutting Edge</text>
+		<text bitflag="321" id1="138" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Capable Sentient</text>
+		<text bitflag="321" id1="139" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Imperial Loyalist</text>
+		<text bitflag="321" id1="140" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, SIS Freelancer</text>
+		<text bitflag="321" id1="280" id2="469654" version="1065353216">Minesweeper &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="281" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Strike Team Specialist</text>
+		<text bitflag="321" id1="282" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Strike Team Commander</text>
+		<text bitflag="321" id1="283" id2="469654" version="1065353216">Warstalker &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="284" id2="469654" version="1065353216">Drouk Hunter &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="285" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Resurgent</text>
+		<text bitflag="321" id1="286" id2="469654" version="1065353216">Dread Slayer &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="287" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Red Rhombus</text>
+		<text bitflag="321" id1="288" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Cartel Collector</text>
+		<text bitflag="321" id1="289" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Space Pirate</text>
+		<text bitflag="321" id1="290" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Skip Tracer</text>
+		<text bitflag="321" id1="291" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Blockade Runner</text>
+		<text bitflag="321" id1="292" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Crime Lord</text>
+		<text bitflag="321" id1="296" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Galactic City Savior</text>
+		<text bitflag="321" id1="297" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Kaas City Savior</text>
+		<text bitflag="321" id1="298" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Star Forager</text>
+		<text bitflag="321" id1="299" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Dreadseed</text>
+		<text bitflag="321" id1="303" id2="469654" version="1065353216">Lucky &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="304" id2="469654" version="1065353216">Unlucky &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="305" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Sarlacc Stomper</text>
+		<text bitflag="321" id1="306" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Worm Food</text>
+		<text bitflag="321" id1="310" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Benefactor</text>
+		<text bitflag="321" id1="311" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Dedicated</text>
+		<text bitflag="321" id1="312" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Prolific</text>
+		<text bitflag="321" id1="313" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Historic</text>
+		<text bitflag="321" id1="314" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Living Legend</text>
+		<text bitflag="321" id1="315" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Sharp Dresser</text>
+		<text bitflag="321" id1="317" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Contraband Collector</text>
+		<text bitflag="321" id1="318" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Regulator</text>
+		<text bitflag="321" id1="319" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Enforcer</text>
+		<text bitflag="321" id1="320" id2="469654" version="1065353216">Vice Commandant &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="321" id2="469654" version="1065353216">Archon &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="322" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Well-Connected</text>
+		<text bitflag="321" id1="323" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Scourge of the Hutts</text>
+		<text bitflag="321" id1="324" id2="469654" version="1065353216">Combat Specimen &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="325" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Republic Ace</text>
+		<text bitflag="321" id1="326" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Imperial Ace</text>
+		<text bitflag="321" id1="327" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Big Game Hunter</text>
+		<text bitflag="321" id1="328" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, the Tauntaun Wrangler</text>
+		<text bitflag="321" id1="329" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, the Party Crasher</text>
+		<text bitflag="321" id1="330" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Imperial Squad Leader</text>
+		<text bitflag="321" id1="331" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Republic Squad Leader</text>
+		<text bitflag="321" id1="332" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Master Craftsman</text>
+		<text bitflag="321" id1="333" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Imperial Diehard</text>
+		<text bitflag="321" id1="334" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Republic Diehard</text>
+		<text bitflag="321" id1="335" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Wealthy</text>
+		<text bitflag="321" id1="336" id2="469654" version="1065353216">Gearhead &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="337" id2="469654" version="1065353216">Manhunter &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="338" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Datacron Master</text>
+		<text bitflag="321" id1="339" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Galactic Explorer</text>
+		<text bitflag="321" id1="340" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Galactic Hero</text>
+		<text bitflag="321" id1="341" id2="469654" version="1065353216">Beastmaster &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="342" id2="469654" version="1065353216">Loremaster &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="343" id2="469654" version="1065353216">Meatbag &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="345" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Furious</text>
+		<text bitflag="321" id1="346" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; from Beyond</text>
+		<text bitflag="321" id1="347" id2="469654" version="1065353216">Dragonslayer &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="348" id2="469654" version="1065353216">Wartime Correspondent &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="349" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Revan's Heir</text>
+		<text bitflag="321" id1="350" id2="469654" version="1065353216">Warzone Annihilator &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="351" id2="469654" version="1065353216">Deadly Contender &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="352" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Eternal Warrior</text>
+		<text bitflag="321" id1="353" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Eternal Warrior</text>
+		<text bitflag="321" id1="354" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Bounty Collector</text>
+		<text bitflag="321" id1="355" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Contractor</text>
+		<text bitflag="321" id1="356" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Freelancer</text>
+		<text bitflag="321" id1="357" id2="469654" version="1065353216">Epic Hero &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="358" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Fearless</text>
+		<text bitflag="321" id1="359" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Pursuer</text>
+		<text bitflag="321" id1="360" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Risen</text>
+		<text bitflag="321" id1="361" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Tracker</text>
+		<text bitflag="321" id1="362" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Opportunist</text>
+		<text bitflag="321" id1="365" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Dogfighter</text>
+		<text bitflag="321" id1="366" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Starfighter's Collector</text>
+		<text bitflag="321" id1="369" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Galactic Ace</text>
+		<text bitflag="321" id1="370" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Rakghoul Nightmare</text>
+		<text bitflag="321" id1="371" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Unseen Assailant</text>
+		<text bitflag="321" id1="372" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Winter Warrior</text>
+		<text bitflag="321" id1="373" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the First Galactic Starfighter</text>
+		<text bitflag="321" id1="374" id2="469654" version="1065353216">Test Pilot &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="375" id2="469654" version="1065353216">Gate Crasher &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="376" id2="469654" version="1065353216">Dread Master &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="377" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Space Jockey</text>
+		<text bitflag="321" id1="378" id2="469654" version="1065353216">Conscript &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="379" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Conquerer of the Dread Fortress</text>
+		<text bitflag="321" id1="380" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Deposer of the Dread Masters</text>
+		<text bitflag="321" id1="384" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Hotshot</text>
+		<text bitflag="321" id1="385" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, S-1 Amateur</text>
+		<text bitflag="321" id1="386" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, S-1 Rookie</text>
+		<text bitflag="321" id1="387" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, S-1 Professional</text>
+		<text bitflag="321" id1="388" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, S-1 Champion</text>
+		<text bitflag="321" id1="389" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, S-1 All-Star</text>
+		<text bitflag="321" id1="390" id2="469654" version="1065353216">Gatekeeper &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="391" id2="469654" version="1065353216">Galactic Warden &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="392" id2="469654" version="1065353216">Constable &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="393" id2="469654" version="1065353216">Seneschal &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="394" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Architect</text>
+		<text bitflag="321" id1="395" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; The Intrepid</text>
+		<text bitflag="321" id1="396" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; The Illustrious</text>
+		<text bitflag="321" id1="397" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Star Cluster High Roller</text>
+		<text bitflag="321" id1="398" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Club Vertica High Roller</text>
+		<text bitflag="321" id1="399" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Assassin</text>
+		<text bitflag="321" id1="400" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Sorcerer</text>
+		<text bitflag="321" id1="401" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Shadow</text>
+		<text bitflag="321" id1="402" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Sage</text>
+		<text bitflag="321" id1="403" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Mercenary</text>
+		<text bitflag="321" id1="404" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Powertech</text>
+		<text bitflag="321" id1="405" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Commando</text>
+		<text bitflag="321" id1="406" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Vanguard</text>
+		<text bitflag="321" id1="407" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Sniper</text>
+		<text bitflag="321" id1="408" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Operative</text>
+		<text bitflag="321" id1="409" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Scoundrel</text>
+		<text bitflag="321" id1="410" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Gunslinger</text>
+		<text bitflag="321" id1="411" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Guardian</text>
+		<text bitflag="321" id1="412" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Sentinel</text>
+		<text bitflag="321" id1="413" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Juggernaut</text>
+		<text bitflag="321" id1="414" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, All-Galaxy Marauder</text>
+		<text bitflag="321" id1="415" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, S-2 Professional</text>
+		<text bitflag="321" id1="416" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, S-2 Champion</text>
+		<text bitflag="321" id1="417" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, S-2 All-Star</text>
+		<text bitflag="321" id1="418" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, The Empire's Wrath</text>
+		<text bitflag="321" id1="419" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Above the Law</text>
+		<text bitflag="321" id1="420" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Sith Intelligence Commander</text>
+		<text bitflag="321" id1="421" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Jedi Battlemaster</text>
+		<text bitflag="321" id1="422" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Chief Military Advisor</text>
+		<text bitflag="321" id1="423" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Immune to Prosecution</text>
+		<text bitflag="321" id1="424" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Dark Council Elite</text>
+		<text bitflag="321" id1="425" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Master of Hidden Knowledge</text>
+		<text bitflag="321" id1="427" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Shadow Collector</text>
+		<text bitflag="321" id1="428" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Shadow's Pilgrim</text>
+		<text bitflag="321" id1="429" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Shadow's Initiate</text>
+		<text bitflag="321" id1="430" id2="469654" version="1065353216">Corsair &lt;&lt;1&gt;&gt;, the Unruly</text>
+		<text bitflag="321" id1="431" id2="469654" version="1065353216">Freebooter &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="432" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, The Plunderer</text>
+		<text bitflag="321" id1="433" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Shadow's Apprentice</text>
+		<text bitflag="321" id1="434" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Shadow's Master</text>
+		<text bitflag="321" id1="435" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Just A Little Furious</text>
+		<text bitflag="321" id1="436" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Fairly Furious</text>
+		<text bitflag="321" id1="437" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Fantastically Furious</text>
+		<text bitflag="321" id1="438" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Famously Furious</text>
+		<text bitflag="321" id1="439" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Shadow's Acolyte</text>
+		<text bitflag="321" id1="440" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Revanchist</text>
+		<text bitflag="321" id1="442" id2="469654" version="1065353216">The Dread Assassin &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="443" id2="469654" version="1065353216">The Dread Shadow &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="444" id2="469654" version="1065353216">The Dread Sage &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="445" id2="469654" version="1065353216">The Dread Sorcerer &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="446" id2="469654" version="1065353216">The Dread Guardian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="447" id2="469654" version="1065353216">The Dread Sentinel &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="448" id2="469654" version="1065353216">The Dread Marauder &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="449" id2="469654" version="1065353216">The Dread Juggernaut &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="450" id2="469654" version="1065353216">The Dread Scoundrel &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="451" id2="469654" version="1065353216">The Dread Operative &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="452" id2="469654" version="1065353216">The Dread Gunslinger &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="453" id2="469654" version="1065353216">The Dread Sniper &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="454" id2="469654" version="1065353216">The Dread Commando &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="455" id2="469654" version="1065353216">The Dread Powertech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="456" id2="469654" version="1065353216">The Dread Mercenary &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="457" id2="469654" version="1065353216">The Dread Vanguard &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="458" id2="469654" version="1065353216">Swashbuckler &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="459" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, the Dauntless</text>
+		<text bitflag="321" id1="460" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, the Infamous</text>
+		<text bitflag="321" id1="461" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, the Unassailable</text>
+		<text bitflag="321" id1="462" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Deep Core Explorer</text>
+		<text bitflag="321" id1="463" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Mid Rim Explorer</text>
+		<text bitflag="321" id1="464" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Outer Rim Explorer</text>
+		<text bitflag="321" id1="465" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Wild Space Explorer</text>
+		<text bitflag="321" id1="466" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, the Galactic Wanderer</text>
+		<text bitflag="321" id1="467" id2="469654" version="1065353216">Transporter &lt;&lt;1&gt;&gt;, Trusted Associate</text>
+		<text bitflag="321" id1="468" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; of the Ruined World</text>
+		<text bitflag="321" id1="488" id2="469654" version="1065353216">The Entertaining &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="489" id2="469654" version="1065353216">Crowd Pleaser &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="490" id2="469654" version="1065353216">Maximum Decimator &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="491" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Assassins</text>
+		<text bitflag="321" id1="492" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Sorcerers</text>
+		<text bitflag="321" id1="493" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Sages</text>
+		<text bitflag="321" id1="494" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Scoundrels</text>
+		<text bitflag="321" id1="495" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Gunslingers</text>
+		<text bitflag="321" id1="496" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Snipers</text>
+		<text bitflag="321" id1="497" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Operatives</text>
+		<text bitflag="321" id1="498" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Vanguards</text>
+		<text bitflag="321" id1="499" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Commandos</text>
+		<text bitflag="321" id1="500" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Mercenaries</text>
+		<text bitflag="321" id1="501" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Powertechs</text>
+		<text bitflag="321" id1="502" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Guardians</text>
+		<text bitflag="321" id1="503" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Juggernauts</text>
+		<text bitflag="321" id1="504" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Marauders</text>
+		<text bitflag="321" id1="505" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Shadows</text>
+		<text bitflag="321" id1="506" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Champion of the Sentinels</text>
+		<text bitflag="321" id1="507" id2="469654" version="1065353216">Skytrooper &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="508" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, the Carbonite Survivor</text>
+		<text bitflag="321" id1="509" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, The Outlander</text>
+		<text bitflag="321" id1="510" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, The Fallen</text>
+		<text bitflag="321" id1="511" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, the Resurrected</text>
+		<text bitflag="321" id1="512" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Favored by the Scorekeeper</text>
+		<text bitflag="321" id1="513" id2="469654" version="1065353216">Head Hunter &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="514" id2="469654" version="1065353216">Predator &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="515" id2="469654" version="1065353216">Apex Assassin &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="516" id2="469654" version="1065353216">Apex Shadow &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="517" id2="469654" version="1065353216">Apex Sage &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="518" id2="469654" version="1065353216">Apex Sorcerer &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="519" id2="469654" version="1065353216">Apex Guardian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="520" id2="469654" version="1065353216">Apex Sentinel &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="521" id2="469654" version="1065353216">Apex Marauder &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="522" id2="469654" version="1065353216">Apex Juggernaut &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="523" id2="469654" version="1065353216">Apex Scoundrel &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="524" id2="469654" version="1065353216">Apex Operative &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="525" id2="469654" version="1065353216">Apex Gunslinger &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="526" id2="469654" version="1065353216">Apex Sniper &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="527" id2="469654" version="1065353216">Apex Commando &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="528" id2="469654" version="1065353216">Apex Powertech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="529" id2="469654" version="1065353216">Apex Mercenary &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="530" id2="469654" version="1065353216">Apex Vanguard &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="531" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Liberator of Voss</text>
+		<text bitflag="321" id1="532" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Liberator of Tatooine</text>
+		<text bitflag="321" id1="533" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Liberator of Nar Shaddaa</text>
+		<text bitflag="321" id1="534" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Liberator of Hoth</text>
+		<text bitflag="321" id1="535" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Liberator of Belsavis</text>
+		<text bitflag="321" id1="536" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Liberator of Alderaan</text>
+		<text bitflag="321" id1="537" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Playing with Fire</text>
+		<text bitflag="321" id1="538" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Feet on the Ground</text>
+		<text bitflag="321" id1="539" id2="469654" version="1065353216">Nerf Herder &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="540" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Researcher</text>
+		<text bitflag="321" id1="541" id2="469654" version="1065353216">Eternal Agent &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="542" id2="469654" version="1065353216">Eternal Smuggler &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="543" id2="469654" version="1065353216">Eternal Hunter &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="544" id2="469654" version="1065353216">Eternal Trooper &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="545" id2="469654" version="1065353216">Eternal Knight &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="546" id2="469654" version="1065353216">Eternal Warrior &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="547" id2="469654" version="1065353216">Eternal Consular &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="548" id2="469654" version="1065353216">Eternal Inquisitor &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="549" id2="469654" version="1065353216">Colonel &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="550" id2="469654" version="1065353216">Buccaneer &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="551" id2="469654" version="1065353216">Supercommando &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="552" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Deceptor</text>
+		<text bitflag="321" id1="554" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Usurper</text>
+		<text bitflag="321" id1="555" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Manipulator</text>
+		<text bitflag="321" id1="556" id2="469654" version="1065353216">Cove Cutthroat &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="557" id2="469654" version="1065353216">Mesa Mauler &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="558" id2="469654" version="1065353216">Orbital Station Obliterator &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="559" id2="469654" version="1065353216">Canyon Crusher &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="560" id2="469654" version="1065353216">Slayer of the Square &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="561" id2="469654" version="1065353216">The Fearless and Inventive &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="562" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Giradda's Kind of Scum</text>
+		<text bitflag="321" id1="563" id2="469654" version="1065353216">Eternal Assassin &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="564" id2="469654" version="1065353216">Eternal Shadow &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="565" id2="469654" version="1065353216">Eternal Sage &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="566" id2="469654" version="1065353216">Eternal Sorcerer &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="567" id2="469654" version="1065353216">Eternal Guardian &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="568" id2="469654" version="1065353216">Eternal Sentinel &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="569" id2="469654" version="1065353216">Eternal Marauder &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="570" id2="469654" version="1065353216">Eternal Juggernaut &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="571" id2="469654" version="1065353216">Eternal Scoundrel &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="572" id2="469654" version="1065353216">Eternal Operative &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="573" id2="469654" version="1065353216">Eternal Gunslinger &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="574" id2="469654" version="1065353216">Eternal Sniper &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="575" id2="469654" version="1065353216">Eternal Commando &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="576" id2="469654" version="1065353216">Eternal Powertech &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="577" id2="469654" version="1065353216">Eternal Mercenary &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="578" id2="469654" version="1065353216">Eternal Vanguard &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="579" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Scavenger</text>
+		<text bitflag="321" id1="580" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Oppressor</text>
+		<text bitflag="321" id1="581" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Galactic Commander</text>
+		<text bitflag="321" id1="582" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, the Eternal Stalwart</text>
+		<text bitflag="321" id1="583" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Alliance Defender</text>
+		<text bitflag="321" id1="584" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Iokath Crusader</text>
+		<text bitflag="321" id1="589" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Galactic Defender</text>
+		<text bitflag="321" id1="593" id2="469654" version="1065353216">Hot &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="594" id2="469654" version="1065353216">Sizzling &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="595" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Fiery</text>
+		<text bitflag="321" id1="596" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Juggernaut on Fire</text>
+		<text bitflag="321" id1="597" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Marauder on Fire</text>
+		<text bitflag="321" id1="598" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Guardian on Fire</text>
+		<text bitflag="321" id1="599" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Sentinel on Fire</text>
+		<text bitflag="321" id1="600" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Assassin on Fire</text>
+		<text bitflag="321" id1="601" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Sorcerer on Fire</text>
+		<text bitflag="321" id1="602" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Shadow on Fire</text>
+		<text bitflag="321" id1="603" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Sage on Fire</text>
+		<text bitflag="321" id1="604" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Powertech on Fire</text>
+		<text bitflag="321" id1="605" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Mercenary on Fire</text>
+		<text bitflag="321" id1="606" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Vanguard on Fire</text>
+		<text bitflag="321" id1="607" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Commando on Fire</text>
+		<text bitflag="321" id1="608" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Operative on Fire</text>
+		<text bitflag="321" id1="609" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Sniper on Fire</text>
+		<text bitflag="321" id1="610" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Scoundrel on Fire</text>
+		<text bitflag="321" id1="611" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Gunslinger on Fire</text>
+		<text bitflag="321" id1="612" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Skilled</text>
+		<text bitflag="321" id1="613" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Adept</text>
+		<text bitflag="321" id1="614" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Prodigy</text>
+		<text bitflag="321" id1="786" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Juggernaut</text>
+		<text bitflag="321" id1="787" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Marauder</text>
+		<text bitflag="321" id1="788" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Guardian</text>
+		<text bitflag="321" id1="789" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Sentinel</text>
+		<text bitflag="321" id1="790" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Assassin</text>
+		<text bitflag="321" id1="791" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Sorcerer</text>
+		<text bitflag="321" id1="792" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Shadow</text>
+		<text bitflag="321" id1="793" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Sage</text>
+		<text bitflag="321" id1="794" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Powertech</text>
+		<text bitflag="321" id1="795" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Mercenary</text>
+		<text bitflag="321" id1="796" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Vanguard</text>
+		<text bitflag="321" id1="797" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Commando</text>
+		<text bitflag="321" id1="798" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Operative</text>
+		<text bitflag="321" id1="799" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Sniper</text>
+		<text bitflag="321" id1="800" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Scoundrel</text>
+		<text bitflag="321" id1="801" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt; the Genius Gunslinger</text>
+		<text bitflag="321" id1="802" id2="469654" version="1065353216">Battle Ring Brawler &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="803" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Destruction Incarnate</text>
+		<text bitflag="321" id1="804" id2="469654" version="1065353216">&lt;&lt;1&gt;&gt;, Slayer of the Machine Gods</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris/class/jedi_wizard/security_guard.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="625529" id2="17" version="1065353216">Oh, you're here, Master Jedi. I just took a weird call from Captain Nelex over at the Republic base.</text>
+		<text bitflag="1345" id1="625531" id2="17" version="1065353216">He said you were coming because some guy was threatening the Junction. Is that right?</text>
+		<text bitflag="1345" id1="625532" id2="17" version="1065353216">Have you seen Cin Tykan today?</text>
+		<text bitflag="1360" id1="625532" id2="17" version="1065353216">I'm looking for a Jedi Master.</text>
+		<text bitflag="1345" id1="625533" id2="17" version="1065353216">Master Tykan? No, I haven't seen him around.</text>
+		<text bitflag="1345" id1="625535" id2="17" version="1065353216">Uh, if this is Jedi business, you should talk to the chief. He knows Tykan better than I do.</text>
+		<text bitflag="1345" id1="625537" id2="17" version="1065353216">Sorry, but I'd rather discuss this with someone senior.</text>
+		<text bitflag="1360" id1="625537" id2="17" version="1065353216">I should speak to your boss.</text>
+		<text bitflag="1345" id1="625538" id2="17" version="1065353216">Keep your voice down! Do you want to start a panic?</text>
+		<text bitflag="1360" id1="625538" id2="17" version="1065353216">Be quiet!</text>
+		<text bitflag="1345" id1="625539" id2="17" version="1065353216">So it's true? You'd--you'd better see the chief.</text>
+		<text bitflag="1345" id1="625541" id2="17" version="1065353216">Please, go on in, Master Jedi. And watch your step.</text>
+	</file_content>
+</stb_file>

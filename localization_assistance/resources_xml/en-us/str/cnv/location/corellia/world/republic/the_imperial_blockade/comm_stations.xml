@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/world/republic/the_imperial_blockade/comm_stations.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="495547" id2="17" version="1065353216">[This comm station has been deactivated.]</text>
+		<text bitflag="1345" id1="495551" id2="17" version="1065353216">It's war in here. I need trained soldiers.</text>
+		<text bitflag="1360" id1="495551" id2="17" version="1065353216">Republic troops.</text>
+		<text bitflag="1345" id1="690402" id2="17" version="1065353216">MX-T4, central dispatch. The Republic and her allies are at your disposal. Please request a unit.</text>
+		<text bitflag="1345" id1="690403" id2="17" version="1065353216">Locating nearest Republic squad. Transmitting your location.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>7</strs>
+		<file_name>/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/zx_5.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="661994" id2="17" version="1065353216">Passengers = proceed to air lock</text>
+		<text bitflag="3393" id1="661995" id2="17" version="1065353216">Destination = Dromund Kaas // Authorization = confirmed</text>
+		<text bitflag="3393" id1="661999" id2="17" version="1065353216">All passengers = proceed to air lock // Assigned transport = Black Talon</text>
+		<text bitflag="3393" id1="662002" id2="17" version="1065353216">Shuttles = unavailable // Delay = temporary</text>
+		<text bitflag="3393" id1="760038" id2="17" version="1065353216">Passenger = prepared to board?</text>
+		<text bitflag="1360" id1="760039" id2="17" version="1065353216">Yes. [Start flashpoint]</text>
+		<text bitflag="1360" id1="760040" id2="17" version="1065353216">No. [Refuse quest]</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/jedi_consular/chapter_1/holoarchive_terminal.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="147584" id2="17" version="1065353216">[This holoterminal has been reserved for you to make a record of your journey.]</text>
+		<text bitflag="321" id1="147586" id2="17" version="1065353216">[Your words will join those of countless generations of Jedi.]</text>
+		<text bitflag="321" id1="147590" id2="17" version="1065353216">[This is one of the Jedi Archives' many holoterminals.]</text>
+	</file_content>
+</stb_file>

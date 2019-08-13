@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>8</strs>
+		<file_name>/resources/en-us/str/gui/itm/enhancement/stations.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="2" id2="273214" version="1065353216">Item Modification Station</text>
+		<text bitflag="1345" id1="3" id2="273214" version="1065353216">Armor Enhancement Station</text>
+		<text bitflag="1345" id1="4" id2="273214" version="1065353216">Lightsaber Enhancement Station</text>
+		<text bitflag="1345" id1="5" id2="273214" version="1065353216">Blaster Enhancement Station</text>
+		<text bitflag="1345" id1="20" id2="273214" version="1065353216">Use this modification station to upgrade items of any type.</text>
+		<text bitflag="1345" id1="30" id2="273214" version="1065353216">Use this enhancement station to upgrade armor items.</text>
+		<text bitflag="1345" id1="40" id2="273214" version="1065353216">Use this enhancement station to upgrade lightsabers.</text>
+		<text bitflag="1345" id1="50" id2="273214" version="1065353216">Use this enhancement station to upgrade blasters.</text>
+	</file_content>
+</stb_file>

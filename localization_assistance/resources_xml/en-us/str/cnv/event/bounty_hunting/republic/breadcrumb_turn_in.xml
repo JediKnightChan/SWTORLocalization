@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/event/bounty_hunting/republic/breadcrumb_turn_in.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1113632" id2="17" version="1065353216">Greetings, Master Jedi. The Bounty Brokers Association welcomes you.</text>
+		<text bitflag="1345" id1="1113633" id2="17" version="1065353216">Greetings, soldier. The Bounty Brokers Association welcomes you.</text>
+		<text bitflag="1345" id1="1113634" id2="17" version="1065353216">Greetings, Captain. The Bounty Brokers Association welcomes you.</text>
+		<text bitflag="1345" id1="1113638" id2="17" version="1065353216">If you are interested in the exciting career of bounty hunting, you may review available contracts by using the terminal nearby.</text>
+		<text bitflag="1345" id1="1113648" id2="17" version="1065353216">Please note that Republic environmental regulations severely limit the amount of carbonite used to capture bounty targets in order to protect native planetary ecologies.</text>
+		<text bitflag="1345" id1="1113650" id2="17" version="1065353216">Fortunately, there are currently no ecological concerns surrounding blaster fire, stabbings, high explosive detonations, or corpses. Good hunting!</text>
+	</file_content>
+</stb_file>

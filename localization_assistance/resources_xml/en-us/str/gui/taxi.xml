@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>22</strs>
+		<file_name>/resources/en-us/str/gui/taxi.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="209180" version="1065353216">Invalid terminal</text>
+		<text bitflag="321" id1="2" id2="209180" version="1065353216">Invalid terminal</text>
+		<text bitflag="321" id1="3" id2="209180" version="1065353216">This taxi does not connect to this destination.</text>
+		<text bitflag="321" id1="4" id2="209180" version="1065353216">Not enough credits</text>
+		<text bitflag="321" id1="5" id2="209180" version="1065353216">Not in range</text>
+		<text bitflag="321" id1="6" id2="209180" version="1065353216">You've discovered a new taxi terminal</text>
+		<text bitflag="321" id1="7" id2="209180" version="1065353216">Available Destinations:</text>
+		<text bitflag="321" id1="8" id2="209180" version="1065353216">Player</text>
+		<text bitflag="321" id1="9" id2="209180" version="1065353216">Cursor</text>
+		<text bitflag="321" id1="10" id2="209180" version="1065353216">You are here</text>
+		<text bitflag="321" id1="11" id2="209180" version="1065353216">Missions here:</text>
+		<text bitflag="321" id1="12" id2="209180" version="1065353216">Taxi</text>
+		<text bitflag="321" id1="13" id2="209180" version="1065353216">No world map found, can't open the taxi map! You must generate a world map before the Taxi UI will work!</text>
+		<text bitflag="321" id1="14" id2="209180" version="1065353216">You have not yet unlocked any available destinations.</text>
+		<text bitflag="321" id1="15" id2="209180" version="1065353216">Click to Travel</text>
+		<text bitflag="321" id1="16" id2="209180" version="1065353216">Insufficient Credits</text>
+		<text bitflag="321" id1="17" id2="209180" version="1065353216">(Undiscovered)</text>
+		<text bitflag="321" id1="18" id2="209180" version="1065353216">&lt;UnknownTaxi Terminal&gt;</text>
+		<text bitflag="321" id1="257" id2="209180" version="1065353216">QUICKTRAVEL</text>
+		<text bitflag="321" id1="258" id2="209180" version="1065353216">This terminal appears to be dead.</text>
+		<text bitflag="321" id1="259" id2="209180" version="1065353216">Taxi terminal is currently busy.</text>
+		<text bitflag="321" id1="260" id2="209180" version="1065353216">You cannot use this taxi terminal while in combat.</text>
+	</file_content>
+</stb_file>

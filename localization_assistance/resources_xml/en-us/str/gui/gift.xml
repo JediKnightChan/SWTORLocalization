@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/gui/gift.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="358653" version="1065353216">Not a gift</text>
+		<text bitflag="321" id1="2" id2="358653" version="1065353216">Gift</text>
+		<text bitflag="321" id1="3" id2="358653" version="1065353216">Rank &lt;&lt;1&gt;&gt;</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/human_female_sith_imperial.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63510" id2="17" version="1065353216">Pathetic!</text>
+		<text bitflag="1345" id1="63512" id2="17" version="1065353216">Your life ends here!</text>
+		<text bitflag="1345" id1="63514" id2="17" version="1065353216">I'm going to enjoy this!</text>
+		<text bitflag="1345" id1="63516" id2="17" version="1065353216">All too easy!</text>
+		<text bitflag="1345" id1="63518" id2="17" version="1065353216">Resistance is useless!</text>
+		<text bitflag="1345" id1="63520" id2="17" version="1065353216">Die, weakling!</text>
+	</file_content>
+</stb_file>

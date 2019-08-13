@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>41</strs>
+		<file_name>/resources/en-us/str/cnv/location/belsavis/world/republic/a_safety_feature/rakata_computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="500699" id2="17" version="1065353216">Hello. Unauthorized access to this control room is forbidden. Please wait calmly until security personnel arrive.</text>
+		<text bitflag="1345" id1="549283" id2="17" version="1065353216">Vault stasis fields are fully powered and operational.</text>
+		<text bitflag="1345" id1="549284" id2="17" version="1065353216">Emergency power is engaged with stasis fields at full strength. Probability of prisoner release is approaching zero.</text>
+		<text bitflag="1345" id1="549286" id2="17" version="1065353216">Please note--emergency power is temporary. The chief engineer must institute a permanent solution before emergency power expires.</text>
+		<text bitflag="1345" id1="549288" id2="17" version="1065353216">Projected expiration--approximately two hundred ninety-six years. Emergency defense supplies are being provided just in case. Thank you.</text>
+		<text bitflag="1345" id1="549290" id2="17" version="1065353216">Emergency power is nearing required levels. Projection--final relay will provide adequate emergency power.</text>
+		<text bitflag="1345" id1="549291" id2="17" version="1065353216">First relay is active and functional. Please continue engaging emergency relays.</text>
+		<text bitflag="1345" id1="549292" id2="17" version="1065353216">Power levels are nearing failure. Full-scale prisoner release is imminent.</text>
+		<text bitflag="1345" id1="549293" id2="17" version="1065353216">Stasis field power is nearing failure. Please engage emergency power relays immediately.</text>
+		<text bitflag="3393" id1="549294" id2="17" version="1065353216">Systems initializing... unidentified user, alien species. Updating cultural interface.</text>
+		<text bitflag="1345" id1="549297" id2="17" version="1065353216">Priority interrupt--disregard previous warning. Please inform the chief engineer that the stasis field generators have sustained damage. Critical power loss is imminent.</text>
+		<text bitflag="1345" id1="549298" id2="17" version="1065353216">That explosion was close, yet you sound unconcerned.</text>
+		<text bitflag="1360" id1="549298" id2="17" version="1065353216">Shouldn't you sound worried?</text>
+		<text bitflag="1345" id1="549299" id2="17" version="1065353216">I find your nonchalant tone disturbing.</text>
+		<text bitflag="1360" id1="549299" id2="17" version="1065353216">Shouldn't you sound worried?</text>
+		<text bitflag="1345" id1="549300" id2="17" version="1065353216">Pretty cheerful tone for a sitrep like that.</text>
+		<text bitflag="1360" id1="549300" id2="17" version="1065353216">Shouldn't you sound worried?</text>
+		<text bitflag="1345" id1="549301" id2="17" version="1065353216">You always this cheerful when stuff blows up?</text>
+		<text bitflag="1360" id1="549301" id2="17" version="1065353216">You don't sound worried.</text>
+		<text bitflag="1345" id1="549302" id2="17" version="1065353216">Prison experiments show that inferior species are most manageable when addressed in a pleasant manner. Power levels are now near failure.</text>
+		<text bitflag="1360" id1="549304" id2="17" version="1065353216">Report!</text>
+		<text bitflag="1345" id1="549305" id2="17" version="1065353216">There are no Rakata left, engineers or otherwise.</text>
+		<text bitflag="1360" id1="549305" id2="17" version="1065353216">You're out of touch, computer.</text>
+		<text bitflag="1345" id1="549306" id2="17" version="1065353216">Please find any available personnel to substitute for chief engineer. Inaction would be unwise.</text>
+		<text bitflag="1345" id1="549308" id2="17" version="1065353216">Stasis failure will cause affected vaults to open. Projection--catastrophic release of Esh-kha population and critical levels of planet-wide violence.</text>
+		<text bitflag="1345" id1="549310" id2="17" version="1065353216">To avoid Esh-kha release, all emergency power relays must be manually engaged at vault conduit junctions.</text>
+		<text bitflag="1345" id1="549311" id2="17" version="1065353216">We must keep those prisoners contained.</text>
+		<text bitflag="1360" id1="549311" id2="17" version="1065353216">Consider it done.</text>
+		<text bitflag="1345" id1="549312" id2="17" version="1065353216">The Esh-kha cannot be allowed to escape.</text>
+		<text bitflag="1360" id1="549312" id2="17" version="1065353216">Consider it done.</text>
+		<text bitflag="1345" id1="549313" id2="17" version="1065353216">Those prisoners aren't going anywhere.</text>
+		<text bitflag="1360" id1="549313" id2="17" version="1065353216">Consider it done.</text>
+		<text bitflag="1345" id1="549314" id2="17" version="1065353216">I can throw a few switches. Piece of cake.</text>
+		<text bitflag="1360" id1="549314" id2="17" version="1065353216">Consider it done.</text>
+		<text bitflag="1360" id1="549315" id2="17" version="1065353216">Yeah, yeah....</text>
+		<text bitflag="1345" id1="549316" id2="17" version="1065353216">While your tone is inappropriate, your cooperation is appreciated. Please note--updated security scans indicate the damage was caused by Esh-kha saboteurs.</text>
+		<text bitflag="1360" id1="549318" id2="17" version="1065353216">This better be worth it.</text>
+		<text bitflag="1345" id1="549319" id2="17" version="1065353216">Historical data suggest prisoner escape often results in widespread violence, including death.</text>
+		<text bitflag="1345" id1="549321" id2="17" version="1065353216">Your cooperation is appreciated. Please note--updated security scans indicate the damage was caused by Esh-kha saboteurs.</text>
+		<text bitflag="1345" id1="549323" id2="17" version="1065353216">Suspected saboteurs are advancing toward several emergency relays. Anticipate combat scenarios.</text>
+		<text bitflag="3393" id1="549325" id2="17" version="1065353216">Systems initializing... failed. Please try again later.</text>
+	</file_content>
+</stb_file>

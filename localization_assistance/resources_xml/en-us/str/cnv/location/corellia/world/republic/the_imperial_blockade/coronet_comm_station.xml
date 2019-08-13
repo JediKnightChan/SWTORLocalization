@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>27</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/world/republic/the_imperial_blockade/coronet_comm_station.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="498429" id2="17" version="1065353216">[This comm station has been deactivated.]</text>
+		<text bitflag="3393" id1="498431" id2="17" version="1065353216">Wait! Do you know what you're doing? That spike's no toy!</text>
+		<text bitflag="3393" id1="498433" id2="17" version="1065353216">Those neutron emitters could kill us all if they're handled improperly. You're trying to shut them down, right?</text>
+		<text bitflag="1345" id1="498434" id2="17" version="1065353216">I just need to contact General Aves for instructions.</text>
+		<text bitflag="1360" id1="498434" id2="17" version="1065353216">That's exactly right.</text>
+		<text bitflag="3393" id1="498435" id2="17" version="1065353216">A general, huh? He doesn't sound like much of an engineer either.</text>
+		<text bitflag="1360" id1="498437" id2="17" version="1065353216">Who are you?</text>
+		<text bitflag="3393" id1="498438" id2="17" version="1065353216">I worked at Coronet Shipping before the Empire moved in. Captain Granta kept me around for maintenance.</text>
+		<text bitflag="1345" id1="498440" id2="17" version="1065353216">If you try and stop me, you won't like the results.</text>
+		<text bitflag="1360" id1="498440" id2="17" version="1065353216">Don't get in my way.</text>
+		<text bitflag="3393" id1="498441" id2="17" version="1065353216">Don't worry--I want the neutron emitters scrapped, too. Just let me handle the spike. I'm a professional.</text>
+		<text bitflag="1345" id1="498442" id2="17" version="1065353216">Captain Granta is dead, General. We're ready to shut down the neutron emitters.</text>
+		<text bitflag="1345" id1="498443" id2="17" version="1065353216">Cancel that. Imperial troops are boarding the rocket trams, trying to cripple us before we can move out.</text>
+		<text bitflag="1345" id1="498445" id2="17" version="1065353216">If the Imperials hit us hard enough, we'll have no one left to send. We have to use the neutron emitters to wipe them out.</text>
+		<text bitflag="3393" id1="498447" id2="17" version="1065353216">Hey! Imperials aren't the only ones using the rocket tram. Civilians have been smuggling themselves out with Imperial shipments for months.</text>
+		<text bitflag="3393" id1="498449" id2="17" version="1065353216">You fire the neutron emitters now, you'll kill innocent people!</text>
+		<text bitflag="1345" id1="498450" id2="17" version="1065353216">We can't kill innocent people just for a quick victory.</text>
+		<text bitflag="1360" id1="498450" id2="17" version="1065353216">No emitters, then.</text>
+		<text bitflag="1345" id1="498451" id2="17" version="1065353216">Then we'll have to defeat them the old-fashioned way. Let's hope winning the battle doesn't cost us the war.</text>
+		<text bitflag="3393" id1="498453" id2="17" version="1065353216">Oh, I'm sure the Republic can do their job. Now let me do mine.</text>
+		<text bitflag="3393" id1="498455" id2="17" version="1065353216">There. The spike worked perfectly. The neutron emitters are scrapped, and we're both free to leave.</text>
+		<text bitflag="1345" id1="498456" id2="17" version="1065353216">The civilians knew the risks. We can't let the Imperials reach those troops.</text>
+		<text bitflag="1360" id1="498456" id2="17" version="1065353216">Attack the Imperials.</text>
+		<text bitflag="3393" id1="498457" id2="17" version="1065353216">Hey, boss, you've got the gun. I just hope nobody I know is on board.</text>
+		<text bitflag="3393" id1="498459" id2="17" version="1065353216">The command went through. Everything alive on the rocket tram was wiped out.</text>
+		<text bitflag="1345" id1="498461" id2="17" version="1065353216">I'll have my men meet the tram at the station to make sure. Get back to the Red Light Sector as soon as you can.</text>
+		<text bitflag="321" id1="498463" id2="17" version="1065353216">[This comm station cannot be accessed at this time.]</text>
+	</file_content>
+</stb_file>

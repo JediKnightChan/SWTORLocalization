@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>120</strs>
+		<file_name>/resources/en-us/str/misc/mail/trooper.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="575052" version="1065353216">Private Farn</text>
+		<text bitflag="321" id1="298" id2="575052" version="1065353216">Virk is going down!</text>
+		<text bitflag="321" id1="299" id2="575052" version="1065353216">Great news! Lieutenant Virk was just dragged out of our barracks kicking and screaming. They said they're charging him with treason!
+
+When he came in looking for &quot;volunteers&quot; to catch you out in the field, nobody went for it, and he stormed off. We decided to all report him together, but I never expected such a fast reaction. I guess his crooked friends couldn't cover him this time.
+
+If you hadn't stood up to him, this would never have happened.
+
+Thank you so much!</text>
+		<text bitflag="321" id1="300" id2="575052" version="1065353216">Private Farn</text>
+		<text bitflag="321" id1="301" id2="575052" version="1065353216">Virk KIA?</text>
+		<text bitflag="321" id1="302" id2="575052" version="1065353216">I don't know what's going on. Some officers came into the barracks and took all of Lieutenant Virk's stuff. They told us he was dead!
+
+We're all being reassigned. Word is my new CO is a decent guy, so I'm hoping for the best. But I can't believe it--everyone thought Virk was still in the fort somewhere, how did he get killed? Maybe he got some surprise patrol assignment? No idea.
+
+Anyway, I thought I should let you know. Thanks for hearing me out about that scumball--I guess the problem solved itself.</text>
+		<text bitflag="321" id1="303" id2="575052" version="1065353216">Lieutenant Virk</text>
+		<text bitflag="321" id1="304" id2="575052" version="1065353216">Problem Solved</text>
+		<text bitflag="321" id1="305" id2="575052" version="1065353216">Poor little Private Farn went and got himself ambushed on patrol. Kid took three shots in the back and one in the chest. Nobody saw what happened, but it must've been the seps, right?
+
+Made me realize, life is short, you know? I want to do my part, so here's a charitable donation--will you make sure it gets to someone who deserves it?
+
+Thanks.</text>
+		<text bitflag="321" id1="306" id2="575052" version="1065353216">Zak</text>
+		<text bitflag="321" id1="307" id2="575052" version="1065353216">Feeling Better</text>
+		<text bitflag="321" id1="308" id2="575052" version="1065353216">I want to thank you again for helping us with our illness. I hope the information we gave you was helpful.
+
+Jaller won't speak to me, but she isn't spending any time with her old &quot;friends&quot; either, so I have hope. I wouldn't even have that if not for you.</text>
+		<text bitflag="321" id1="309" id2="575052" version="1065353216">Fort Garnik Medical</text>
+		<text bitflag="321" id1="310" id2="575052" version="1065353216">Man with Radiation Poisoning?</text>
+		<text bitflag="321" id1="311" id2="575052" version="1065353216">Patrol found a man outside the gates of Fort Garnik holding a woman's corpse and screaming your name. He was incoherent when confronted, and ended up in our medbay.
+
+Diagnosis was acute radiation syndrome; he died before we could do anything for him. Postmortem on the woman showed the same COD.
+
+We're still waiting on an ID, but I thought you should be informed ASAP in case any of this makes sense to you. None of us have a clue.</text>
+		<text bitflag="321" id1="312" id2="575052" version="1065353216">Corporal Garrum</text>
+		<text bitflag="321" id1="313" id2="575052" version="1065353216">FW: After-action Report: Migrant Merchants' Guild</text>
+		<text bitflag="321" id1="314" id2="575052" version="1065353216">Forwarding for your review, sir.
+
+To: General Garza
+From: Corporal Garrum
+Subject: After-action Report: Migrant Merchants' Guild
+
+Operation Objective(s):
+1) Neutralize droid designer &quot;Krel&quot; (possible alias): Success
+2) Destroy advanced war droid shipments designed by same: Success
+3) Neutralize cyborgs created by same: Cancelled by order of ranking officer on location
+
+Additional Notes:
+Material and data recovery operations ongoing.
+Claims of &quot;undetectable&quot; cyborg implant development confirmed, several advanced prototype implants recovered. 
+However, all data recovered so far suggests no successful prototype implantations.</text>
+		<text bitflag="321" id1="315" id2="575052" version="1065353216">Corporal Garrum</text>
+		<text bitflag="321" id1="316" id2="575052" version="1065353216">FW: After-action Report: Migrant Merchants' Guild</text>
+		<text bitflag="321" id1="317" id2="575052" version="1065353216">Forwarding for your review, sir.
+
+To: General Garza
+From: Corporal Garrum
+Subject: After-action Report: Migrant Merchants' Guild
+
+Operation Objective(s):
+1) Neutralize droid designer &quot;Krel&quot; (possible alias): Success
+2) Destroy advanced war droid shipments designed by same: Success
+3) Neutralize cyborgs created by same: Success
+
+Additional Notes:
+Material and data recovery operations ongoing.
+Claims of &quot;undetectable&quot; cyborg implant development confirmed, several advanced prototype implants recovered from labs. 
+However, postmortem autopsies and recovered data show no signs of successful implantation.</text>
+		<text bitflag="321" id1="318" id2="575052" version="1065353216">Fuse</text>
+		<text bitflag="321" id1="319" id2="575052" version="1065353216">Thank you</text>
+		<text bitflag="321" id1="320" id2="575052" version="1065353216">I hope this message really does reach you. I'm in a high-security prison complex; I think it's on [REDACTED] but I'm not sure. 
+
+They keep me isolated from the other prisoners, but I think that's for the best.
+
+I've told them everything I could about the Imps and Tavus and the others. I just wish I had more to give.
+
+I can't believe how foolish I was. How foolish we all were. Thank you for giving me a chance to try to make up for it.</text>
+		<text bitflag="321" id1="321" id2="575052" version="1065353216">General Garza</text>
+		<text bitflag="321" id1="322" id2="575052" version="1065353216">Fuse's Remains</text>
+		<text bitflag="321" id1="323" id2="575052" version="1065353216">Lieutenant Tasser managed to recover Fuse's remains from the rubble on Tatooine.
+
+To keep up appearances, he'll be given an official burial; his record will show that he was killed in a transport crash.</text>
+		<text bitflag="321" id1="324" id2="575052" version="1065353216">Markus Thul</text>
+		<text bitflag="321" id1="325" id2="575052" version="1065353216">My Thanks</text>
+		<text bitflag="321" id1="326" id2="575052" version="1065353216">I felt I should once again express my appreciation for your support after our arrangement on Alderaan was complete.
+
+My wife and daughter are well. We have taken what we could of our finances and purchased a small vineyard on Chandrila.
+
+Valyn seems to speak of nothing but your heroism. I suspect she's considering enlistment in the Republic to follow your footsteps, though she has yet to admit it.
+
+In all, it's far more than I ever dreamed of from inside that Organa cell. None of us will ever forget your kindness.
+
+With utmost regards,
+Markus Andarius Thul</text>
+		<text bitflag="321" id1="327" id2="575052" version="1065353216">Pallos Organa</text>
+		<text bitflag="321" id1="328" id2="575052" version="1065353216">My Compliments</text>
+		<text bitflag="321" id1="329" id2="575052" version="1065353216">I would like to reiterate my satisfaction with your handling of the Thul situation. It is quite rewarding to know that the Republic supports our cause wholeheartedly.
+
+I've already passed on my utmost praise to your superiors, but I want to be sure you reap the benefits of your loyalty firsthand.
+
+Respectfully,
+Pallos Thessius Organa</text>
+		<text bitflag="321" id1="330" id2="575052" version="1065353216">Sergeant Tong</text>
+		<text bitflag="321" id1="331" id2="575052" version="1065353216">Balmorran Prototype Weapons</text>
+		<text bitflag="321" id1="332" id2="575052" version="1065353216">Just letting you know, we got those weapons over to Research Div just like you asked. They were really impressed!
+
+Looks like we might all be getting some major new firepower someday, all thanks to you! Imps better watch out!</text>
+		<text bitflag="321" id1="333" id2="575052" version="1065353216">Taros Fann</text>
+		<text bitflag="321" id1="334" id2="575052" version="1065353216">Prototype Weapons You Recovered</text>
+		<text bitflag="321" id1="335" id2="575052" version="1065353216">I understand we have you to thank for the return of these prototype weapons! 
+
+I was one of the original designers; I honestly never thought we'd see them again!
+
+We've lost so much in this war, any find like this is a real treasure. And quite useful, of course.
+
+I cannot thank you enough!</text>
+		<text bitflag="321" id1="336" id2="575052" version="1065353216">Darmas Pollaran</text>
+		<text bitflag="321" id1="337" id2="575052" version="1065353216">Fine Balmorran Merchandise!</text>
+		<text bitflag="321" id1="338" id2="575052" version="1065353216">Good day to you! We are woefully unacquainted, but your man Vik recruited me to move some unique items on your behalf, and I wanted to pass on the proceeds.
+
+I found an interested collector on Nar Shaddaa almost immediately. Such artful pieces are quite rare and valuable compared to the usual utilitarian stock.
+
+Hopefully, you'll find the compensation as generous and rewarding as I did.
+
+Best wishes in all your future endeavors,
+Darmas Pollaran</text>
+		<text bitflag="321" id1="339" id2="575052" version="1065353216">Conrad Gall</text>
+		<text bitflag="321" id1="340" id2="575052" version="1065353216">Back in Action</text>
+		<text bitflag="321" id1="341" id2="575052" version="1065353216">Major: 
+
+We've just received the official word: Dagger Wing has been cleared for combat duty.
+
+Just leaving Belsavis put the men's morale through the roof; now they're dancing and cheering across the flight deck. Even Tobin can't keep them disciplined.
+
+We're going to give the Imps more trouble than they've ever seen, and that's all because of you.</text>
+		<text bitflag="321" id1="342" id2="575052" version="1065353216">Tobin Harlan</text>
+		<text bitflag="321" id1="343" id2="575052" version="1065353216">Dagger Wing is Back</text>
+		<text bitflag="321" id1="344" id2="575052" version="1065353216">Hey, ground-pounder. Things are going pretty well with the Daggers, all things considered.
+
+Everyone's been taking the commander's death pretty hard, but getting off that planet and getting our records cleared has helped a lot.
+
+I just hope I can get everyone whipped into shape and ready before our first mission. These boys and girls are definitely hungry for some payback.
+
+Stay safe and watch the skies, friend.</text>
+		<text bitflag="321" id1="345" id2="575052" version="1065353216">Captain Phaeris</text>
+		<text bitflag="321" id1="346" id2="575052" version="1065353216">Not So Bad After All</text>
+		<text bitflag="321" id1="347" id2="575052" version="1065353216">I hear you're the reason the Lucky Lancer's still in one piece. That ugly old ship meant everything to me growing up.
+
+I must've made my parents take me to that museum a thousand times, and every trip, I just camped in front of the Lancer, memorizing every nook and bend.
+
+You saved a big part of my life. A big part of a lot of Corellians' lives. We won't forget it.</text>
+		<text bitflag="321" id1="348" id2="575052" version="1065353216">Captain Phaeris</text>
+		<text bitflag="321" id1="349" id2="575052" version="1065353216">Hope You Burn</text>
+		<text bitflag="321" id1="350" id2="575052" version="1065353216">Locke told us what you did, scumbag.
+
+The Lucky Lancer was a huge part of my life. I went to that museum a thousand times growing up, it was the whole reason I learned to fly. 
+
+And you destroyed all of that just to save some time. 
+
+What's the point of coming here if you're going to do as much damage to Corellia as the Imps?</text>
+		<text bitflag="321" id1="351" id2="575052" version="1065353216">Ondia Krasul</text>
+		<text bitflag="321" id1="352" id2="575052" version="1065353216">My Husband</text>
+		<text bitflag="321" id1="353" id2="575052" version="1065353216">My husband told me what happened on Port Raga. Not that he wanted to, of course. 
+
+I love him more than anything, but I know him well enough to realize he's too stubborn to ever thank you properly for saving him. 
+
+He may never admit it, but you can count on his support from now on. He'd never forget something like this--neither will I, and neither will our sons.
+
+Thank you so very, very much.</text>
+		<text bitflag="321" id1="354" id2="575052" version="1065353216">General Garza</text>
+		<text bitflag="321" id1="355" id2="575052" version="1065353216">FW: Senator Krasul</text>
+		<text bitflag="321" id1="356" id2="575052" version="1065353216">The situation is under wraps. Your mission aboard Port Raga remains confidential. See below.
+
+From: Galactic City Herald
+
+Title: BREAKING--Senator Krasul Dead in Speeder Collision
+
+CORUSCANT--Tragic news this evening as government sources confirm the death of Zorin Krasul, Senator of Anaxes, in a speeder collision on the upper levels of Coruscant.
+
+Coruscant Security personnel declined to comment on the details of the crash, but an eyewitness stated that the Senator's vehicle was struck from above by another speeder changing altitudes outside of the designated zone.
+
+No information on the identity or condition of the other driver has been released. Senator Krasul is survived by his wife, Ondia, and sons Riv and Valdon.</text>
+		<text bitflag="321" id1="357" id2="575052" version="1065353216">Harron Tavus</text>
+		<text bitflag="321" id1="358" id2="575052" version="1065353216">Havoc Squad</text>
+		<text bitflag="321" id1="359" id2="575052" version="1065353216">I understand if you have no interest in reading anything I write, but I have to try. I'm kept in isolation, so I've had plenty of time to consider things.
+
+I will never forget what happened on Ando Prime. I will never forgive the people who betrayed us. And I will never forgive myself for destroying the closest friends I ever had.
+
+Havoc Squad is yours now. I only hope that when the time comes for you to pass the torch to your own successor, you can do it with less regrets.</text>
+		<text bitflag="321" id1="360" id2="575052" version="1065353216">General Garza</text>
+		<text bitflag="321" id1="361" id2="575052" version="1065353216">FW: Harron Tavus</text>
+		<text bitflag="321" id1="362" id2="575052" version="1065353216">The matter is settled.
+
+From: Galactic City Herald
+
+Title: Retired Commander Harron Tavus Dead
+
+CORUSCANT--Hero of the Great War, defender of Coruscant during the Imperial siege and decorated Special Forces commander Harron Tavus has passed away due to complications from an old wound sustained in the line of duty.
+
+Tavus had been in declining health since his recent retirement from active duty. His final assignment involved suppressing violent separatist activities on Ord Mantell.
+
+Senior officials, including Supreme Chancellor Janarus and General Garza, have issued statements commemorating Tavus's lifetime of service and mourning the loss of one of the Republic's most noted heroes.
+
+Funeral details are being kept private at this time.</text>
+		<text bitflag="321" id1="363" id2="575052" version="1065353216">Ava Jaxo</text>
+		<text bitflag="321" id1="364" id2="575052" version="1065353216">Thinking of You</text>
+		<text bitflag="321" id1="365" id2="575052" version="1065353216">Hey, hotshot--been way too long. Picked you up a little something on my last op, hope you like it. 
+
+I'm on leave for a while, so if you're free, you should stop by my place so we can catch up.
+
+Neighborhood hasn't gotten any better, so I've beefed up security a bit. Be sure you activate the passcode that's attached or you won't get in.
+
+See you soon.</text>
+		<text bitflag="321" id1="366" id2="575052" version="1065353216">Ava Jaxo</text>
+		<text bitflag="321" id1="367" id2="575052" version="1065353216">Ladies' Night</text>
+		<text bitflag="321" id1="368" id2="575052" version="1065353216">Hey, hotshot--been way too long. Saw this on my last op and thought I'd grab it for you--hope it's your style.
+
+I'm putting together a little ladies' night with some friends--we'd love it if you could join.
+
+We're meeting at my place, same nasty neighborhood. Be sure you activate the passcode that's attached or you won't get by my new security.
+
+Gonna be a blast!</text>
+		<text bitflag="321" id1="369" id2="575052" version="1065353216">Jonas Balkar</text>
+		<text bitflag="321" id1="370" id2="575052" version="1065353216">Congrats</text>
+		<text bitflag="321" id1="371" id2="575052" version="1065353216">I hear somebody wrecked the Imps' new toy. Is it tough being the biggest hero in the Republic, or do these things just come naturally?
+
+Seriously though, great work. I can't imagine where we'd be without you.</text>
+		<text bitflag="321" id1="372" id2="575052" version="1065353216">Keran Vondi</text>
+		<text bitflag="321" id1="373" id2="575052" version="1065353216">Jaxo</text>
+		<text bitflag="321" id1="374" id2="575052" version="1065353216">Hi. Jaxo didn't really have any family, so I'm taking care of her stuff. She didn't leave a will or anything so I'm just doing my best.
+
+She had some pretty nice gear, and I can't think of anybody she'd want to have this more than you.
+
+She was such a good friend. I miss her so much.</text>
+		<text bitflag="321" id1="375" id2="575052" version="1065353216">Ava Jaxo</text>
+		<text bitflag="321" id1="376" id2="575052" version="1065353216">moving on</text>
+		<text bitflag="321" id1="377" id2="575052" version="1065353216">i filed for psych dismissl. I can't handle what happened, can't focus.
+
+so much i need to make up for. so so much. ever time im around other soldiers i fall apart, i feel so awful.
+
+i will atone. i have to. but i cant do it here.
+
+will contact you again as soon as i can, i promise. i owe you so much. owe everyone so much
+
+stay strong</text>
+		<text bitflag="321" id1="378" id2="575052" version="1065353216">General Garza</text>
+		<text bitflag="321" id1="379" id2="575052" version="1065353216">FW: Good Work</text>
+		<text bitflag="321" id1="380" id2="575052" version="1065353216">We couldn't have come out better on this one. Well done.
+
+From: Galactic City Herald
+
+Subject: BREAKING: Outer Rim Senator Charged with Treason, Arrested on Senate Floor
+
+CORUSCANT--Press and bystanders looked on today as Grom Zian, Senator from Solu Five, was led out of the Senate tower in shockcuffs by armed guards.
+
+Sources say that evidence of Zian's alleged crimes was presented unexpectedly during a hearing on Special Forces activities that the Senator himself had helped organize. 
+
+One government official, commenting on condition of anonymity, stated that the evidence included extensive financial records that &quot;inarguably demonstrated Zian's ties to agents of the Sith Empire.&quot;
+
+Holocalls to Senator Zian's office and home were not immediately returned. An official statement from the Supreme Chancellor is said to be pending.</text>
+		<text bitflag="321" id1="381" id2="575052" version="1065353216">[Corrupted]</text>
+		<text bitflag="321" id1="382" id2="575052" version="1065353216">Well Done</text>
+		<text bitflag="321" id1="383" id2="575052" version="1065353216">You are not alone. There are many of us in the Senate who wholeheartedly support your solution to the problem of Senator Zian.
+
+For now, we must keep silent, but our time is coming--we're about to gain a leader who will not hesitate in fear when direct action is called for.
+
+We will ensure that you do not suffer for taking the proper stand. The Republic needs heroes like you.</text>
+		<text bitflag="321" id1="384" id2="575052" version="1065353216">Jonas Balkar</text>
+		<text bitflag="321" id1="385" id2="575052" version="1065353216">Congrats Again</text>
+		<text bitflag="321" id1="386" id2="575052" version="1065353216">Once again, you make me the champion of the Op Center betting pool. I knew you'd be the one to take Rakton down, but these morons were sure some Jedi would do the deed first.
+
+I can't believe these people call themselves &quot;intelligence&quot; agents.
+
+Anyway, I've included your cut of the winnings--you'd better use them to throw a major celebration. You've earned it.</text>
+		<text bitflag="321" id1="387" id2="575052" version="1065353216">Aric Jorgan</text>
+		<text bitflag="321" id1="388" id2="575052" version="1065353216">Dinner out?</text>
+		<text bitflag="321" id1="389" id2="575052" version="1065353216">Latest Herald says a few nice restaurants are starting to open up in the old Galactic Market on Coruscant. They didn't come right out and say it, but I'd guess some of the locals there are trying to go legit.
+
+Might be a nice place for dinner sometime, huh? A girl like you really deserves better than pre-packed rations in the briefing room every night.
+
+If anything comes of it, I'll make us a reservation.</text>
+		<text bitflag="321" id1="390" id2="575052" version="1065353216">Aric Jorgan</text>
+		<text bitflag="321" id1="391" id2="575052" version="1065353216">Picked you up a little something</text>
+		<text bitflag="321" id1="392" id2="575052" version="1065353216">Saw this the last time I was out, couldn't resist. Hope you like it.
+
+And don't go out and drop a bunch of credits just to get me something because I got you something.
+
+Unless it's that duranium-barreled special from the new BlasTech catalog, of course.
+
+Love you.</text>
+		<text bitflag="321" id1="393" id2="575052" version="1065353216">Aric Jorgan</text>
+		<text bitflag="321" id1="394" id2="575052" version="1065353216">For You</text>
+		<text bitflag="321" id1="395" id2="575052" version="1065353216">Been a while since I got my girl something nice--thought you might like this.
+
+You're really one of a kind. I never thought &quot;happy&quot; would be a word I'd use for myself, but you really make me happy.
+
+Just do me a favor and don't tell anyone I've gone soft, all right?
+
+(Love you)</text>
+		<text bitflag="321" id1="396" id2="575052" version="1065353216">Elara Dorne</text>
+		<text bitflag="321" id1="397" id2="575052" version="1065353216">FW: Incredible!</text>
+		<text bitflag="321" id1="398" id2="575052" version="1065353216">Dearest, 
+
+This lecture sounds fascinating--we should attend! I'll try to file for tickets through the extended education initiative.
+
+From: Republic Medical Journal
+Subject: Lecture Series - Doctor Tan Kirin
+
+The Republic Medical Journal, in conjunction with the Coruscant Institute for Medical Sciences, is proud to host a lecture by the esteemed Doctor Tan Kirin of the Corellian Science Academy.
+
+Kirin will present a summary of his latest publication, &quot;Replication of T-5 Progenitor Cells Using Isolated Bacta-Kolto Induction,&quot; with a question-and-answer session to follow.
+
+Refreshments will be provided courtesy of the Student Culinary Club.</text>
+		<text bitflag="321" id1="399" id2="575052" version="1065353216">Elara Dorne</text>
+		<text bitflag="321" id1="400" id2="575052" version="1065353216">For You</text>
+		<text bitflag="321" id1="401" id2="575052" version="1065353216">Dearest,
+
+While I was out restocking our medical supplies (the new stocking guidelines just came in), I decided to take a bit of extra time to find a gift for the Republic's most dashing commander.
+
+I do hope you like it.
+
+With love,
+Elara</text>
+		<text bitflag="321" id1="402" id2="575052" version="1065353216">Elara Dorne</text>
+		<text bitflag="321" id1="403" id2="575052" version="1065353216">Musings from Medlab</text>
+		<text bitflag="321" id1="404" id2="575052" version="1065353216">Dearest, 
+
+I was just doing a bit of lab work, and I couldn't help but think (as I often do) about how lucky I am to be here with you.
+
+I feel very fortunate that I have the chance to fight for the principles I believe in, and to be doing so alongside someone I truly love and respect.
+
+Yours always,
+Elara</text>
+		<text bitflag="321" id1="405" id2="575052" version="1065353216">Jonas Balkar</text>
+		<text bitflag="321" id1="406" id2="575052" version="1065353216">Checking In</text>
+		<text bitflag="321" id1="407" id2="575052" version="1065353216">Heard about those ops with Agent Shan. You've still got a knack for finding all of the action, huh? Wish I could lend a hand, but this Denon job is getting nastier by the day.
+
+As second choices go, Theron's pretty solid. He doesn't have my charm, of course, but he's a sharp field agent. You can count on him if things go sideways.
+
+All right, gotta cut this off--local contact wants his turn on the station. Guy says maybe ten words out loud per day, then writes at least a thousand in every nightly report. At least he plays sabacc.
+
+Missing better company,
+Jonas</text>
+		<text bitflag="321" id1="408" id2="575052" version="1065353216">M1-4X</text>
+		<text bitflag="321" id1="409" id2="575052" version="1065353216">FWD: Republic Victory on Altair 9!</text>
+		<text bitflag="321" id1="410" id2="575052" version="1065353216">I hope you find this article as inspiring as I do! Victory over the Empire is surely close at hand!
+
+BEGIN FORWARDED TEXT
+
+Republic Victory on Altair 9!
+
+After a grueling ten-month siege, Klemark, the capital city of Altair 9, has been freed from Imperial control. All enemy forces were captured or killed.
+
+General Vander, commander of the Republic liberation force, credited the sudden advance to the work of a Special Forces unit that infiltrated Klemark and disabled the Imperial defensive network.
+
+With additional landing areas now available, additional support craft are en route to provide food and other aid to the long-suffering people of Altair 9. 
+
+Vander spoke to a small collection of embedded journalists in the hours following his troops' victory, saying, &quot;Truly, this is a stunning victory that all Republic citizens can feel proud of!&quot;</text>
+		<text bitflag="321" id1="411" id2="575052" version="1065353216">Jonas Balkar</text>
+		<text bitflag="321" id1="412" id2="575052" version="1065353216">RE: Beginnings</text>
+		<text bitflag="321" id1="413" id2="575052" version="1065353216">I'm really enjoying the story you forwarded, even though the subject is a little obvious. Being pals with Havoc Squad has perks! Followed any other good authors lately?
+
+Watch the game the other day? Your bet panned out yet again. Back to back wins, impressive!</text>
+		<text bitflag="321" id1="414" id2="575052" version="1065353216">Maj. Nol Corovani--Monarch</text>
+		<text bitflag="321" id1="415" id2="575052" version="1065353216">Well Fought</text>
+		<text bitflag="321" id1="416" id2="575052" version="1065353216">Your destruction of our communications relays will delay this message somewhat--if all goes as it should, I will be dead by the time you receive it.
+
+Simple text communication is one of the few systems embedded in my implants that I can occasionally gain control of. You and I are fighting right now, as I compose this. Seeing you firsthand, I understand Garza's obsession with a follow-up.
+
+I wish I could stop my hands, stop trying to kill you. I am not in control anymore. I haven't been, for far too long.
+
+I don't know if you will feel guilt in stopping us. Please don't. I'm just a ghost, trapped in a cage shaped like my body.
+
+You're destroying that cage. Setting me free.
+
+Thank you.</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>27</strs>
+		<file_name>/resources/en-us/str/gui/itemenhancement.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="395095" version="1065353216">(Empty)</text>
+		<text bitflag="321" id1="2" id2="395095" version="1065353216">Lightsaber Workbench</text>
+		<text bitflag="321" id1="3" id2="395095" version="1065353216">Armor Workbench</text>
+		<text bitflag="321" id1="4" id2="395095" version="1065353216">Blaster Workbench</text>
+		<text bitflag="321" id1="5" id2="395095" version="1065353216">WORKBENCH</text>
+		<text bitflag="321" id1="6" id2="395095" version="1065353216">Pick one of your items to modify:</text>
+		<text bitflag="321" id1="7" id2="395095" version="1065353216">Active Modifications</text>
+		<text bitflag="321" id1="8" id2="395095" version="1065353216">WORKBENCH</text>
+		<text bitflag="321" id1="9" id2="395095" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="10" id2="395095" version="1065353216">APPLY</text>
+		<text bitflag="321" id1="11" id2="395095" version="1065353216">&lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="12" id2="395095" version="1065353216">WARNING: Because the previous modification was not removed from this slot, it is about to be destroyed. Proceed?</text>
+		<text bitflag="321" id1="13" id2="395095" version="1065353216">Add Augment Slot</text>
+		<text bitflag="321" id1="14" id2="395095" version="1065353216">Upgrade Augment Slot</text>
+		<text bitflag="321" id1="15" id2="395095" version="1065353216">Buy Augment Slot</text>
+		<text bitflag="321" id1="16" id2="395095" version="1065353216">Requires</text>
+		<text bitflag="321" id1="17" id2="395095" version="1065353216">Item Modification Stations can be found in most cities. Use the Modification Station filter on your map to help locate them. Right-click an Item Modification Station to add or upgrade an augment slot.</text>
+		<text bitflag="321" id1="18" id2="395095" version="1065353216">FIELD MODIFICATION</text>
+		<text bitflag="321" id1="19" id2="395095" version="1065353216">No Item Required!</text>
+		<text bitflag="321" id1="20" id2="395095" version="1065353216">There are no upgrades available for this item.</text>
+		<text bitflag="321" id1="21" id2="395095" version="1065353216">Equipped</text>
+		<text bitflag="321" id1="22" id2="395095" version="1065353216">Select or drag an item to begin modification</text>
+		<text bitflag="321" id1="23" id2="395095" version="1065353216">Click here to show items you may modify.</text>
+		<text bitflag="321" id1="258" id2="395095" version="1065353216">You spent &lt;&lt;1&gt;&gt; x &lt;&lt;2&gt;&gt; and &lt;&lt;3&gt;&gt; credits to add &lt;&lt;4&gt;&gt; to &lt;&lt;5&gt;&gt;.</text>
+		<text bitflag="321" id1="259" id2="395095" version="1065353216">You cannot modify equipment while reverse engineering an item.</text>
+		<text bitflag="321" id1="261" id2="395095" version="1065353216">Subscribers pay less to add augment slots. Subscribe now!</text>
+		<text bitflag="321" id1="265" id2="395095" version="1065353216">Subscribers pay less to remove item modifications. Subscribe now!</text>
+	</file_content>
+</stb_file>

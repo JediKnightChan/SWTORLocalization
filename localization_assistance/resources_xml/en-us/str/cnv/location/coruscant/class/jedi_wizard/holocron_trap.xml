@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>64</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/class/jedi_wizard/holocron_trap.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="687902" id2="17" version="1065353216">Oh thank goodness! A visitor! It gets so lonely in here sometimes.</text>
+		<text bitflag="1345" id1="687904" id2="17" version="1065353216">I would offer you a drink--but I ran out millennia ago, by my record. But we could play a game instead.</text>
+		<text bitflag="1345" id1="687905" id2="17" version="1065353216">You don't look like a Jedi Master. What's going on?</text>
+		<text bitflag="1360" id1="687905" id2="17" version="1065353216">Isn't this a Noetikon?</text>
+		<text bitflag="1345" id1="687906" id2="17" version="1065353216">Well, I'm not a Jedi Master, which would explain your first statement, and as for the second--it's hard to say.</text>
+		<text bitflag="1345" id1="687908" id2="17" version="1065353216">What is this place?</text>
+		<text bitflag="1360" id1="687908" id2="17" version="1065353216">Where am I?</text>
+		<text bitflag="1345" id1="687909" id2="17" version="1065353216">Now, that is a good question, but a difficult one.</text>
+		<text bitflag="1345" id1="687911" id2="17" version="1065353216">I don't have time for games.</text>
+		<text bitflag="1360" id1="687911" id2="17" version="1065353216">Don't be ridiculous.</text>
+		<text bitflag="1345" id1="687912" id2="17" version="1065353216">And here I was thinking it would be just the thing to pass the time--but perhaps the truth of the matter hasn't dawned on you yet.</text>
+		<text bitflag="1345" id1="687914" id2="17" version="1065353216">I'm guessing you activated what looked like some sort of ancient device--a holocron, maybe--and something went wrong.</text>
+		<text bitflag="1345" id1="687916" id2="17" version="1065353216">You zigged where you should have zagged, and you ended up here.</text>
+		<text bitflag="1345" id1="687917" id2="17" version="1065353216">How do I get out of here?</text>
+		<text bitflag="1360" id1="687917" id2="17" version="1065353216">I need to go back.</text>
+		<text bitflag="1345" id1="687918" id2="17" version="1065353216">I was trying to access the Noetikon of Secrets.</text>
+		<text bitflag="1360" id1="687918" id2="17" version="1065353216">I don't understand.</text>
+		<text bitflag="1345" id1="687919" id2="17" version="1065353216">Hmm... nope, can't say that name means a thing to me.</text>
+		<text bitflag="1345" id1="687921" id2="17" version="1065353216">But whatever it is, you won't be able to access it in here. And there's only one way out.</text>
+		<text bitflag="1345" id1="687923" id2="17" version="1065353216">I don't care how I ended up here, I only want to know how to get out.</text>
+		<text bitflag="1360" id1="687923" id2="17" version="1065353216">Let me go right now!</text>
+		<text bitflag="1345" id1="687924" id2="17" version="1065353216">Well, I suppose I could let you go. But you'd have to play a game with me, first--a game of questions.</text>
+		<text bitflag="1345" id1="687926" id2="17" version="1065353216">Answer right, you're free. Answer wrong, and your strength becomes a permanent part of this place.</text>
+		<text bitflag="1345" id1="687927" id2="17" version="1065353216">Those terms don't sound very fair, but I'll do my best.</text>
+		<text bitflag="1360" id1="687927" id2="17" version="1065353216">All right.</text>
+		<text bitflag="1345" id1="687928" id2="17" version="1065353216">You'd better start asking, then.</text>
+		<text bitflag="1360" id1="687928" id2="17" version="1065353216">Let's get this over with.</text>
+		<text bitflag="1345" id1="687929" id2="17" version="1065353216">Excellent! Such an accommodating guest!</text>
+		<text bitflag="1345" id1="687931" id2="17" version="1065353216">I don't like the sound of that... but I guess I have no choice.</text>
+		<text bitflag="1360" id1="687931" id2="17" version="1065353216">That's hardly fair.</text>
+		<text bitflag="1345" id1="687932" id2="17" version="1065353216">Now you're beginning to understand!</text>
+		<text bitflag="1345" id1="687934" id2="17" version="1065353216">Okay. The first question: How do you catch an answer?</text>
+		<text bitflag="1345" id1="687935" id2="17" version="1065353216">Through hardwork, meditation and study.</text>
+		<text bitflag="1360" id1="687935" id2="17" version="1065353216">You seek instruction.</text>
+		<text bitflag="1345" id1="687936" id2="17" version="1065353216">You lure it out with a question.</text>
+		<text bitflag="1360" id1="687936" id2="17" version="1065353216">You ask.</text>
+		<text bitflag="1345" id1="687937" id2="17" version="1065353216">Too obvious I suppose. It's no fun when you get the answer right.</text>
+		<text bitflag="1345" id1="687939" id2="17" version="1065353216">I'm not going to play your game.</text>
+		<text bitflag="1360" id1="687939" id2="17" version="1065353216">I won't do this.</text>
+		<text bitflag="1345" id1="687940" id2="17" version="1065353216">No, I'm sorry--that's not right.</text>
+		<text bitflag="1345" id1="687942" id2="17" version="1065353216">Don't worry too much, though. There are still two more questions.</text>
+		<text bitflag="1345" id1="687944" id2="17" version="1065353216">Next question: What does the wise person know?</text>
+		<text bitflag="1345" id1="687945" id2="17" version="1065353216">The wise person knows all there is to know.</text>
+		<text bitflag="1360" id1="687945" id2="17" version="1065353216">Everything.</text>
+		<text bitflag="1345" id1="687946" id2="17" version="1065353216">What is right and what is wrong, what is true and what is false.</text>
+		<text bitflag="1360" id1="687946" id2="17" version="1065353216">The truth.</text>
+		<text bitflag="1345" id1="687947" id2="17" version="1065353216">Oh, dear. Wrong answer.</text>
+		<text bitflag="1345" id1="687949" id2="17" version="1065353216">That means you pay the penalty.</text>
+		<text bitflag="1345" id1="687951" id2="17" version="1065353216">Wrong again!</text>
+		<text bitflag="1345" id1="687953" id2="17" version="1065353216">That looked painful. But don't fret--eternity in here is not such a bad thing.</text>
+		<text bitflag="1345" id1="687955" id2="17" version="1065353216">The wise person does not know, but seeks knowledge, always.</text>
+		<text bitflag="1360" id1="687955" id2="17" version="1065353216">Nothing.</text>
+		<text bitflag="1345" id1="687956" id2="17" version="1065353216">Another right answer! You are so dull.</text>
+		<text bitflag="1345" id1="687958" id2="17" version="1065353216">Ah, you got it right this time. How boring.</text>
+		<text bitflag="1345" id1="687960" id2="17" version="1065353216">Last question: Soon this place will be overrun with enemies. What will you do?</text>
+		<text bitflag="1345" id1="687961" id2="17" version="1065353216">None of this is real--these enemies will not harm me.</text>
+		<text bitflag="1360" id1="687961" id2="17" version="1065353216">Let them come. [Meditate]</text>
+		<text bitflag="1345" id1="687962" id2="17" version="1065353216">You are a fool. While you sit and meditate, your enemies trample you underfoot. You perish....</text>
+		<text bitflag="1345" id1="687963" id2="17" version="1065353216">What are the enemies? What are their weaknesses? Where will they attack from?</text>
+		<text bitflag="1360" id1="687963" id2="17" version="1065353216">I need more information.</text>
+		<text bitflag="1345" id1="687964" id2="17" version="1065353216">No! I don't know the answers to these questions....</text>
+		<text bitflag="1345" id1="687967" id2="17" version="1065353216">I will fight to the bitter end.</text>
+		<text bitflag="1360" id1="687967" id2="17" version="1065353216">I will defend myself.</text>
+		<text bitflag="1345" id1="687968" id2="17" version="1065353216">Wrong answer. You are overwhelmed and trampled underfoot. You perish....</text>
+	</file_content>
+</stb_file>

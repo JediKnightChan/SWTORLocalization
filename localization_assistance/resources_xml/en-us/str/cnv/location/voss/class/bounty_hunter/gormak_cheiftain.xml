@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>201</strs>
+		<file_name>/resources/en-us/str/cnv/location/voss/class/bounty_hunter/gormak_cheiftain.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="459453" id2="17" version="1065353216">Another Voss delivered for judgment? Rejoice!</text>
+		<text bitflag="3393" id1="459647" id2="17" version="1065353216">You fight as Gormak fight, not with vile magics. You are not Voss.</text>
+		<text bitflag="3393" id1="459651" id2="17" version="1065353216">I will come for you.</text>
+		<text bitflag="3393" id1="459652" id2="17" version="1065353216">Find the doubters, destroy them.</text>
+		<text bitflag="3393" id1="459657" id2="17" version="1065353216">It is deep in the Nightmare Lands, shrouded in madness. None can walk there.</text>
+		<text bitflag="3393" id1="459659" id2="17" version="1065353216">The doubters believe their shamans can protect them from the taint, but they are wrong. They will be corrupted, as will you.</text>
+		<text bitflag="1345" id1="459660" id2="17" version="1065353216">I know how to handle the Nightmare Lands.</text>
+		<text bitflag="1360" id1="459660" id2="17" version="1065353216">No, I won't.</text>
+		<text bitflag="1345" id1="459661" id2="17" version="1065353216">A little more tarnish on my soul won't make much difference.</text>
+		<text bitflag="1360" id1="459661" id2="17" version="1065353216">I'm as dirty as they come.</text>
+		<text bitflag="3393" id1="459662" id2="17" version="1065353216">You have taken my worth and my sons.</text>
+		<text bitflag="1360" id1="459664" id2="17" version="1065353216">That's all I need. [Kill him]</text>
+		<text bitflag="1345" id1="459666" id2="17" version="1065353216">The Sith know how to deal with your corruption.</text>
+		<text bitflag="1360" id1="459666" id2="17" version="1065353216">No, I won't.</text>
+		<text bitflag="1345" id1="459667" id2="17" version="1065353216">Your superstitious hogwash ain't gonna scare me.</text>
+		<text bitflag="1360" id1="459667" id2="17" version="1065353216">Eh, I'm not worried.</text>
+		<text bitflag="3393" id1="459668" id2="17" version="1065353216">I will hope you survive, that I might purge your corruption when my strength returns.</text>
+		<text bitflag="1360" id1="459669" id2="17" version="1065353216">That's all I need. [Kill him]</text>
+		<text bitflag="1345" id1="459671" id2="17" version="1065353216">Better than dead.</text>
+		<text bitflag="1345" id1="459673" id2="17" version="1065353216">How are the shamans supposed to protect them?</text>
+		<text bitflag="1360" id1="459673" id2="17" version="1065353216">What's their secret?</text>
+		<text bitflag="3393" id1="459674" id2="17" version="1065353216">They make medicines and believe this protects their weak minds. No medicine will help them. Voss corruption is unnatural, only Voss thrive on it.</text>
+		<text bitflag="1345" id1="459676" id2="17" version="1065353216">I've been some pretty nasty places and managed well enough.</text>
+		<text bitflag="1360" id1="459676" id2="17" version="1065353216">I've heard that story before.</text>
+		<text bitflag="3393" id1="459677" id2="17" version="1065353216">You are not easily stopped. You may be like the other.</text>
+		<text bitflag="3393" id1="459679" id2="17" version="1065353216">I have seen a Voss from the stars who is fearless of the Nightmare Lands. Corrupt he must be, but mad he is not.</text>
+		<text bitflag="1345" id1="459681" id2="17" version="1065353216">I'd suggest you think of a solution real fast.</text>
+		<text bitflag="1360" id1="459681" id2="17" version="1065353216">Start helping, or else.</text>
+		<text bitflag="3393" id1="459682" id2="17" version="1065353216">There is no solution! A Gormak has no reason to tread there--</text>
+		<text bitflag="3393" id1="459684" id2="17" version="1065353216">Wait--I have seen a Voss from the stars who is fearless of the Nightmare Lands. Corrupt he must be, but mad he is not.</text>
+		<text bitflag="3393" id1="459686" id2="17" version="1065353216">Take his secrets, I have none to give.</text>
+		<text bitflag="1345" id1="459687" id2="17" version="1065353216">I can work with that. You get to live.</text>
+		<text bitflag="1360" id1="459687" id2="17" version="1065353216">You've given enough.</text>
+		<text bitflag="3393" id1="459688" id2="17" version="1065353216">You will regret this.</text>
+		<text bitflag="1360" id1="459690" id2="17" version="1065353216">Glad you saw things my way.</text>
+		<text bitflag="3393" id1="459691" id2="17" version="1065353216">I am disgraced. My sons are dead.</text>
+		<text bitflag="3393" id1="459693" id2="17" version="1065353216">When I find my strength, I will kill you.</text>
+		<text bitflag="1360" id1="459694" id2="17" version="1065353216">I plan on it. [Kill him]</text>
+		<text bitflag="3393" id1="459710" id2="17" version="1065353216">The doubters believe their shaman's medicines can protect them from the taint, but they are wrong. They will be corrupted, as will you.</text>
+		<text bitflag="1345" id1="459711" id2="17" version="1065353216">I've already taken precautions against the taint.</text>
+		<text bitflag="1360" id1="459711" id2="17" version="1065353216">I'm protected.</text>
+		<text bitflag="3393" id1="459712" id2="17" version="1065353216">The only protection from the corruption is to destroy it.</text>
+		<text bitflag="1345" id1="459714" id2="17" version="1065353216">It's not impossible to travel there, I should know.</text>
+		<text bitflag="1360" id1="459714" id2="17" version="1065353216">I've been there before.</text>
+		<text bitflag="3393" id1="459715" id2="17" version="1065353216">There is no reason for a Gormak to travel those lands.</text>
+		<text bitflag="1345" id1="459717" id2="17" version="1065353216">That really isn't your problem, now is it?</text>
+		<text bitflag="1360" id1="459717" id2="17" version="1065353216">I didn't ask for your opinion.</text>
+		<text bitflag="3393" id1="459718" id2="17" version="1065353216">No.</text>
+		<text bitflag="3393" id1="459720" id2="17" version="1065353216">Go, warrior. Our trade is complete. We will meet again on the field of battle.</text>
+		<text bitflag="1345" id1="459726" id2="17" version="1065353216">The Sith know how to deal with the corruption.</text>
+		<text bitflag="1360" id1="459726" id2="17" version="1065353216">I'm taking care of it.</text>
+		<text bitflag="3393" id1="459727" id2="17" version="1065353216">The only way to deal with the corruption is extinction of the Voss.</text>
+		<text bitflag="1345" id1="459729" id2="17" version="1065353216">I've met someone who can walk the Nightmare Lands.</text>
+		<text bitflag="1360" id1="459729" id2="17" version="1065353216">Not everyone gets corrupted.</text>
+		<text bitflag="3393" id1="459730" id2="17" version="1065353216">The Voss from the stars. We have seen who you speak of.</text>
+		<text bitflag="1345" id1="459732" id2="17" version="1065353216">Keep your opinions to yourself.</text>
+		<text bitflag="1360" id1="459732" id2="17" version="1065353216">We're done here.</text>
+		<text bitflag="3393" id1="459733" id2="17" version="1065353216">Our trade is complete. Go, we will meet again on the field of battle.</text>
+		<text bitflag="1345" id1="459737" id2="17" version="1065353216">I'm willing to take that risk.</text>
+		<text bitflag="1360" id1="459737" id2="17" version="1065353216">I have to follow them.</text>
+		<text bitflag="1345" id1="459738" id2="17" version="1065353216">I'll try not to lose my head.</text>
+		<text bitflag="1360" id1="459738" id2="17" version="1065353216">Thanks for the warning.</text>
+		<text bitflag="1345" id1="459739" id2="17" version="1065353216">I'm willing to try their medicines if there's a chance it'll work.</text>
+		<text bitflag="1360" id1="459739" id2="17" version="1065353216">I don't have another option.</text>
+		<text bitflag="3393" id1="459740" id2="17" version="1065353216">True Gormak do not travel those lands. We do not make such medicines.</text>
+		<text bitflag="1345" id1="459742" id2="17" version="1065353216">Your king managed well enough.</text>
+		<text bitflag="1360" id1="459742" id2="17" version="1065353216">Jokull did it, I can too.</text>
+		<text bitflag="3393" id1="459743" id2="17" version="1065353216">You are not Jokull.</text>
+		<text bitflag="3393" id1="459745" id2="17" version="1065353216">We have seen a Voss from the stars who is fearless of the Nightmare Lands.</text>
+		<text bitflag="3393" id1="459747" id2="17" version="1065353216">Corrupt he must be, but mad he is not. Seek him and learn his secrets if you must.</text>
+		<text bitflag="3393" id1="459751" id2="17" version="1065353216">The woman convinced the weak to doubt Jokull's vision; they follow her to the Dark Heart.</text>
+		<text bitflag="3393" id1="459755" id2="17" version="1065353216">Enough! We misjudge this one. Throw down the barriers!</text>
+		<text bitflag="3393" id1="459759" id2="17" version="1065353216">Why does one who fights pure come to rescue the corrupted?</text>
+		<text bitflag="1345" id1="459760" id2="17" version="1065353216">You aren't the only ones who want to see her punished.</text>
+		<text bitflag="1360" id1="459760" id2="17" version="1065353216">I didn't come to rescue her.</text>
+		<text bitflag="3393" id1="459761" id2="17" version="1065353216">It is good to know others are not all Voss.</text>
+		<text bitflag="1345" id1="459763" id2="17" version="1065353216">Tell me where she is before I blow your head off.</text>
+		<text bitflag="1360" id1="459763" id2="17" version="1065353216">Talk now or else.</text>
+		<text bitflag="3393" id1="459764" id2="17" version="1065353216">We do not wish to fight a warrior of your strength. We wish to learn.</text>
+		<text bitflag="3393" id1="459766" id2="17" version="1065353216">Why does one who is not impure trespass on our land and shed our blood?</text>
+		<text bitflag="1345" id1="459767" id2="17" version="1065353216">I'm hunting the woman you took.</text>
+		<text bitflag="1360" id1="459767" id2="17" version="1065353216">You have someone I want.</text>
+		<text bitflag="3393" id1="459768" id2="17" version="1065353216">The blasphemer.</text>
+		<text bitflag="1345" id1="459770" id2="17" version="1065353216">To be fair, you were the ones who shot first.</text>
+		<text bitflag="1360" id1="459770" id2="17" version="1065353216">I wasn't looking for a fight.</text>
+		<text bitflag="3393" id1="459771" id2="17" version="1065353216">We must be vigilant. Voss are deceivers. They send Voss who do not look like Voss to kill and corrupt.</text>
+		<text bitflag="3393" id1="459773" id2="17" version="1065353216">Gormak captured such a Voss. She came with words instead of weapons.</text>
+		<text bitflag="1345" id1="459775" id2="17" version="1065353216">What's with all this pure, impure business?</text>
+		<text bitflag="1360" id1="459775" id2="17" version="1065353216">Corrupted?</text>
+		<text bitflag="3393" id1="459776" id2="17" version="1065353216">Voss twist our land with their waking dreams. Voss must be destroyed, and we have almost crushed them.</text>
+		<text bitflag="3393" id1="459778" id2="17" version="1065353216">Desperate, they sent their deceiver to convince us to share their corruption.</text>
+		<text bitflag="3393" id1="459780" id2="17" version="1065353216">Most would not listen to her lies, but there are those who doubt the truth. They stole her before she was judged.</text>
+		<text bitflag="3393" id1="459781" id2="17" version="1065353216">Wise Jokull would not listen to her lies, but her words found the weak. Doubters stole her before she was judged.</text>
+		<text bitflag="1345" id1="459782" id2="17" version="1065353216">Tell me where to find these doubters; I'll make sure she gets what's coming to her.</text>
+		<text bitflag="1360" id1="459782" id2="17" version="1065353216">Then I'll just steal her back.</text>
+		<text bitflag="1345" id1="459783" id2="17" version="1065353216">We've got common interests; we should work together.</text>
+		<text bitflag="1360" id1="459783" id2="17" version="1065353216">Help me find her.</text>
+		<text bitflag="1345" id1="459784" id2="17" version="1065353216">The woman's got a knack for getting people to see things her way.</text>
+		<text bitflag="1360" id1="459784" id2="17" version="1065353216">Of course they did.</text>
+		<text bitflag="1345" id1="459786" id2="17" version="1065353216">We may have found your match.</text>
+		<text bitflag="1360" id1="459786" id2="17" version="1065353216">She's your type, Gault.</text>
+		<text bitflag="1345" id1="459787" id2="17" version="1065353216">Ahh, she's a one-trick thranta.</text>
+		<text bitflag="1345" id1="459789" id2="17" version="1065353216">Besides, human's a little mundane for my taste.</text>
+		<text bitflag="1345" id1="459790" id2="17" version="1065353216">Besides, you humans don't age so gracefully... no offense.</text>
+		<text bitflag="1345" id1="459791" id2="17" version="1065353216">You know where they took her?</text>
+		<text bitflag="3393" id1="459792" id2="17" version="1065353216">You possess things we want; we possess things you want. A trade. Knowledge for knowledge.</text>
+		<text bitflag="3393" id1="459794" id2="17" version="1065353216">Ooh, boss! Blizz make lots of trades! Get good deal! Boss let Blizz trade with Gormak?</text>
+		<text bitflag="1345" id1="459795" id2="17" version="1065353216">What are you proposing?</text>
+		<text bitflag="1360" id1="459795" id2="17" version="1065353216">I'll handle this myself.</text>
+		<text bitflag="1345" id1="459796" id2="17" version="1065353216">I'm not big on haggling anyway.</text>
+		<text bitflag="1360" id1="459796" id2="17" version="1065353216">Okay, sure.</text>
+		<text bitflag="3393" id1="459797" id2="17" version="1065353216">Blizz not disappoint boss!</text>
+		<text bitflag="3393" id1="459799" id2="17" version="1065353216">Boss! Boss, look! Gormak tech so shiny! Blizz can't wait to make improvements!</text>
+		<text bitflag="1345" id1="459800" id2="17" version="1065353216">Blizz. Did they tell you about our target, or not?</text>
+		<text bitflag="1360" id1="459800" id2="17" version="1065353216">What about General Redrish?</text>
+		<text bitflag="3393" id1="459801" id2="17" version="1065353216">Oops... sorry, boss. Blizz forget to ask.</text>
+		<text bitflag="1345" id1="459803" id2="17" version="1065353216">You can open your presents once we've dealt with General Redrish, okay?</text>
+		<text bitflag="1360" id1="459803" id2="17" version="1065353216">Got a few new toys, huh?</text>
+		<text bitflag="3393" id1="459804" id2="17" version="1065353216">Aww... okay.</text>
+		<text bitflag="1345" id1="459806" id2="17" version="1065353216">You better be holding the answer to my question.</text>
+		<text bitflag="1360" id1="459806" id2="17" version="1065353216">I didn't tell you to shop.</text>
+		<text bitflag="3393" id1="459807" id2="17" version="1065353216">Umm... remind Blizz of question.</text>
+		<text bitflag="3393" id1="459809" id2="17" version="1065353216">Your little maker's machines show us much. We repay his ingenuity.</text>
+		<text bitflag="1345" id1="459811" id2="17" version="1065353216">The last thing I need is you trading my kit for a new can opener.</text>
+		<text bitflag="1360" id1="459811" id2="17" version="1065353216">Butt out.</text>
+		<text bitflag="3393" id1="459812" id2="17" version="1065353216">Blizz have things for trade, not need boss's things... have good can opener.</text>
+		<text bitflag="1345" id1="459814" id2="17" version="1065353216">What're we talkin' for? Brain 'em.</text>
+		<text bitflag="1345" id1="459816" id2="17" version="1065353216">Better late than never.</text>
+		<text bitflag="3393" id1="459818" id2="17" version="1065353216">We see your machine has a mind. Our machines do not possess this trait. I will trade for it. Our science for yours.</text>
+		<text bitflag="1345" id1="459819" id2="17" version="1065353216">If your offer's good, I'll let you have a peek at his insides.</text>
+		<text bitflag="1360" id1="459819" id2="17" version="1065353216">You can look, but that's all.</text>
+		<text bitflag="1345" id1="459820" id2="17" version="1065353216">This droid's one of a kind; I'm not just gonna give him away.</text>
+		<text bitflag="1360" id1="459820" id2="17" version="1065353216">He's irreplaceable.</text>
+		<text bitflag="3393" id1="459821" id2="17" version="1065353216">If you will not part with it, I will trade for knowledge of its workings.</text>
+		<text bitflag="1360" id1="459823" id2="17" version="1065353216">I'll pass.</text>
+		<text bitflag="3393" id1="459824" id2="17" version="1065353216">We will offer you the weapons, armor and materials of Gormak. Unique, by my design. This, and knowledge of the blasphemer.</text>
+		<text bitflag="1360" id1="459825" id2="17" version="1065353216">Sounds good.</text>
+		<text bitflag="3393" id1="459826" id2="17" version="1065353216">You have taught us much today.</text>
+		<text bitflag="1345" id1="459828" id2="17" version="1065353216">How about you give me everything I want, and I let you live?</text>
+		<text bitflag="1360" id1="459828" id2="17" version="1065353216">I don't trade. I take.</text>
+		<text bitflag="1345" id1="459829" id2="17" version="1065353216">You mean the weapons and armor that didn't stop me? Come on, get serious.</text>
+		<text bitflag="1360" id1="459829" id2="17" version="1065353216">You can do better than that.</text>
+		<text bitflag="3393" id1="459830" id2="17" version="1065353216">I add to this offer, my prized treasure. Nothing greater I can give.</text>
+		<text bitflag="3393" id1="459832" id2="17" version="1065353216">Show us to fight as you fight. I will tell where the invader woman went.</text>
+		<text bitflag="1345" id1="459833" id2="17" version="1065353216">I'll show you the ropes if it gets me out without trouble.</text>
+		<text bitflag="1360" id1="459833" id2="17" version="1065353216">I suppose that's fair.</text>
+		<text bitflag="1345" id1="459834" id2="17" version="1065353216">Oh, I'll show you how I fight all right.</text>
+		<text bitflag="1360" id1="459834" id2="17" version="1065353216">I'd rather beat it out of you.</text>
+		<text bitflag="1345" id1="459835" id2="17" version="1065353216">Gonna be the lesson of your lives.</text>
+		<text bitflag="3393" id1="459837" id2="17" version="1065353216">A Voss after all. Crush her!</text>
+		<text bitflag="3393" id1="459838" id2="17" version="1065353216">A Voss after all. Crush him!</text>
+		<text bitflag="1345" id1="459840" id2="17" version="1065353216">I don't come that cheap.</text>
+		<text bitflag="1360" id1="459840" id2="17" version="1065353216">Sweeten the deal.</text>
+		<text bitflag="3393" id1="459841" id2="17" version="1065353216">We shall trade you wealth and knowledge, then. Give the warrior weapons that are worthy.</text>
+		<text bitflag="1345" id1="459842" id2="17" version="1065353216">That's better.</text>
+		<text bitflag="3393" id1="459843" id2="17" version="1065353216">Observe this warrior well, my sons.</text>
+		<text bitflag="3393" id1="459845" id2="17" version="1065353216">We see, you are whole. Weapon and body as one.</text>
+		<text bitflag="1345" id1="459846" id2="17" version="1065353216">The less you have to think before you act, the better.</text>
+		<text bitflag="1360" id1="459846" id2="17" version="1065353216">That's the gist of it.</text>
+		<text bitflag="3393" id1="459847" id2="17" version="1065353216">We will build to account for this.</text>
+		<text bitflag="1345" id1="459849" id2="17" version="1065353216">Got the hang of this pretty quickly. Shame I can't stick around.</text>
+		<text bitflag="1360" id1="459849" id2="17" version="1065353216">You make good pupils.</text>
+		<text bitflag="3393" id1="459850" id2="17" version="1065353216">What you have shown will make me strong. I will make Gormak strong, and I will be our new king.</text>
+		<text bitflag="3393" id1="459852" id2="17" version="1065353216">What you have shown will make us the strongest. Jokull will honor us with great status.</text>
+		<text bitflag="1345" id1="459854" id2="17" version="1065353216">Nice drills. You're a natural.</text>
+		<text bitflag="1345" id1="459856" id2="17" version="1065353216">If you're done gawking, I want my information.</text>
+		<text bitflag="1360" id1="459856" id2="17" version="1065353216">Whatever, school's out.</text>
+		<text bitflag="3393" id1="459857" id2="17" version="1065353216">The doubters allowed the woman to lure them into the Nightmare Lands. They seek the Dark Heart.</text>
+		<text bitflag="3393" id1="459859" id2="17" version="1065353216">The doubters question Jokull's vision; they were swayed to follow the blasphemer into the Nightmare Lands. They seek the Dark Heart.</text>
+		<text bitflag="3393" id1="459861" id2="17" version="1065353216">The Nightmare Lands twist those that enter with the taint of the Voss; gives them waking nightmares until that is all they see.</text>
+		<text bitflag="3393" id1="459883" id2="17" version="1065353216">Oh, hi! Hi! Gormak cheer for boss and Blizz?</text>
+		<text bitflag="1345" id1="459885" id2="17" version="1065353216">Smile for the fans.</text>
+		<text bitflag="1345" id1="459887" id2="17" version="1065353216">Lotta dyin' done here.</text>
+		<text bitflag="1345" id1="459889" id2="17" version="1065353216">Thought I heard commotion.</text>
+		<text bitflag="1345" id1="459891" id2="17" version="1065353216">Oh boy... I don't think we're the crowd favorite.</text>
+		<text bitflag="3393" id1="459898" id2="17" version="1065353216">We will not be robbed of retribution again!</text>
+		<text bitflag="3393" id1="459900" id2="17" version="1065353216">Great king Jokull is kind! We will see Voss bleed here today after all!</text>
+		<text bitflag="3393" id1="459902" id2="17" version="1065353216">Interloper! The blood of Gormak stains you and corruption follows in your wake! For this, you shall be punished!</text>
+		<text bitflag="1345" id1="459903" id2="17" version="1065353216">Hand over the outsider you captured, and nobody else has to get hurt.</text>
+		<text bitflag="1360" id1="459903" id2="17" version="1065353216">I want the woman you took.</text>
+		<text bitflag="3393" id1="459904" id2="17" version="1065353216">You come to rescue the blasphemer come to corrupt us?</text>
+		<text bitflag="3393" id1="459906" id2="17" version="1065353216">You come to rescue the Voss woman great king Jokull gave us to punish. Ha!</text>
+		<text bitflag="3393" id1="459908" id2="17" version="1065353216">Doubters robbed us of seeing her suffer, but you will not share her fortune.</text>
+		<text bitflag="1345" id1="459910" id2="17" version="1065353216">Step up and try it. See what happens.</text>
+		<text bitflag="1360" id1="459910" id2="17" version="1065353216">That supposed to be a threat?</text>
+		<text bitflag="3393" id1="459911" id2="17" version="1065353216">Do you hear? This one wants a fight! You have killed many today. We will enjoy making sport of you.</text>
+		<text bitflag="1345" id1="459913" id2="17" version="1065353216">You've got three seconds to drop these force fields.</text>
+		<text bitflag="1360" id1="459913" id2="17" version="1065353216">Let me out of here or you die.</text>
+		<text bitflag="3393" id1="459914" id2="17" version="1065353216">This we shall do! The land hungers and it must be fed.</text>
+		<text bitflag="3393" id1="459916" id2="17" version="1065353216">Doubters have robbed us of the Voss woman, but you will not share her fortune.</text>
+		<text bitflag="3393" id1="459918" id2="17" version="1065353216">We shall enjoy watching you struggle!</text>
+		<text bitflag="3393" id1="459919" id2="17" version="1065353216">You shall make a more fitting tribute to Jokull than the blasphemer!</text>
+		<text bitflag="3393" id1="459923" id2="17" version="1065353216">She is like nothing I have seen! Throw open the cages! Let her kill until nothing remains!</text>
+		<text bitflag="3393" id1="459924" id2="17" version="1065353216">He is like nothing I have seen! Throw open the cages! Let him kill until nothing remains!</text>
+		<text bitflag="3393" id1="459925" id2="17" version="1065353216">More! More war beasts! Let us see what it takes to drag this Voss down!</text>
+		<text bitflag="3393" id1="459926" id2="17" version="1065353216">Let the beasts eat their fill!</text>
+		<text bitflag="1345" id1="459928" id2="17" version="1065353216">It's called a droid, and it's yours if the price is right.</text>
+		<text bitflag="1360" id1="459928" id2="17" version="1065353216">Okay, I'll trade.</text>
+		<text bitflag="1345" id1="459929" id2="17" version="1065353216">I don't know, I'm kind of attached to it....</text>
+		<text bitflag="1360" id1="459929" id2="17" version="1065353216">Not sure I want to give it up.</text>
+		<text bitflag="3393" id1="459930" id2="17" version="1065353216">You share a bond much like our war beasts?</text>
+	</file_content>
+</stb_file>

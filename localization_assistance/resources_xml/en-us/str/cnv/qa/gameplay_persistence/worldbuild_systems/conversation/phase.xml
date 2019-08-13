@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>23</strs>
+		<file_name>/resources/en-us/str/cnv/qa/gameplay_persistence/worldbuild_systems/conversation/phase.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1040642" id2="17" version="1065353216">Why hello there stranger!</text>
+		<text bitflag="1345" id1="1040643" id2="17" version="1065353216">Hi there!</text>
+		<text bitflag="1360" id1="1040643" id2="17" version="1065353216">Hello!</text>
+		<text bitflag="1345" id1="1040644" id2="17" version="1065353216">Stay awhile and listen!</text>
+		<text bitflag="1345" id1="1040645" id2="17" version="1065353216">Sure!  That sounds awesome!  what am I listening to?</text>
+		<text bitflag="1360" id1="1040645" id2="17" version="1065353216">okay!</text>
+		<text bitflag="1345" id1="1040646" id2="17" version="1065353216">The town of Tristrum is under attack by the evil forces of King Leoric!  and Diablo!</text>
+		<text bitflag="1345" id1="1040647" id2="17" version="1065353216">I'm off to smite these evil creatures!</text>
+		<text bitflag="1360" id1="1040647" id2="17" version="1065353216">TO ADVENTURE!</text>
+		<text bitflag="1345" id1="1040648" id2="17" version="1065353216">You're a little too... enthusiastic.</text>
+		<text bitflag="1360" id1="1040648" id2="17" version="1065353216">O.. kaay</text>
+		<text bitflag="1345" id1="1040649" id2="17" version="1065353216">It's really all I have.  I'm supposed to keep you here for long enough that a BVT can be completed.  Don't take it too personally.</text>
+		<text bitflag="1345" id1="1040650" id2="17" version="1065353216">Ah, okay.  so you're just wasting my time.  Fine.</text>
+		<text bitflag="1360" id1="1040650" id2="17" version="1065353216">Ah</text>
+		<text bitflag="1345" id1="1040651" id2="17" version="1065353216">WHY ARE YOU QUOTING DECKARD CAIN?! DON'T YOU KNOW THAT DIALBO 3 IS PUSHED BACK UNTIL 2012?!?!</text>
+		<text bitflag="1360" id1="1040651" id2="17" version="1065353216">ARGH!?</text>
+		<text bitflag="1345" id1="1040652" id2="17" version="1065353216">DON'T YOU REALIZE THAT DECKARD CAIN SHOULD BE DEAD BY NOW?! HE'S AN OLD OLD OLD MAN!</text>
+		<text bitflag="1345" id1="1040653" id2="17" version="1065353216">DUDES CAN'T KILL A MAINSTAY OF THE SERIES! QUIT REMINDING ME THAT I CAN'T PLAY IT!</text>
+		<text bitflag="1360" id1="1040653" id2="17" version="1065353216">THEN DIE ALREADY</text>
+		<text bitflag="1345" id1="1040654" id2="17" version="1065353216">Hey, what up?</text>
+		<text bitflag="1360" id1="1040654" id2="17" version="1065353216">Hi</text>
+		<text bitflag="1345" id1="1040655" id2="17" version="1065353216">Why are you talking like that?</text>
+		<text bitflag="1360" id1="1040655" id2="17" version="1065353216">er</text>
+	</file_content>
+</stb_file>

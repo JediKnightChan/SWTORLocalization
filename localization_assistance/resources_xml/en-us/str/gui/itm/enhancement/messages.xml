@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>26</strs>
+		<file_name>/resources/en-us/str/gui/itm/enhancement/messages.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1" id2="273213" version="1065353216">Item has been successfully modified!</text>
+		<text bitflag="1345" id1="2" id2="273213" version="1065353216">Modification of this type is already present!</text>
+		<text bitflag="1345" id1="3" id2="273213" version="1065353216">You are not high enough level to use this modification!</text>
+		<text bitflag="1345" id1="4" id2="273213" version="1065353216">Modification of this type doesn't fit this item!</text>
+		<text bitflag="1345" id1="5" id2="273213" version="1065353216">No available modification slot found!</text>
+		<text bitflag="1345" id1="6" id2="273213" version="1065353216">An error has occured while trying to modify this item!</text>
+		<text bitflag="1345" id1="7" id2="273213" version="1065353216">This is not a valid modification item!</text>
+		<text bitflag="1345" id1="8" id2="273213" version="1065353216">The item modification station is too far!</text>
+		<text bitflag="321" id1="9" id2="273213" version="1065353216">You do not meet the alignment requirements to use this modification!</text>
+		<text bitflag="321" id1="10" id2="273213" version="1065353216">You do not meet the social score requirements to use this modification!</text>
+		<text bitflag="321" id1="11" id2="273213" version="1065353216">This modification is already present!</text>
+		<text bitflag="321" id1="12" id2="273213" version="1065353216">You do not meet the valor requirements to use this modification!</text>
+		<text bitflag="321" id1="13" id2="273213" version="1065353216">You have insufficient credits to extract this modification!</text>
+		<text bitflag="321" id1="15" id2="273213" version="1065353216">This modification is restricted to a specific piece of equipment and is not valid for target item!</text>
+		<text bitflag="321" id1="256" id2="273213" version="1065353216">This augment requires a more powerful augment slot!</text>
+		<text bitflag="321" id1="257" id2="273213" version="1065353216">Your Warzone Rank isn't high enough to use this modification!</text>
+		<text bitflag="321" id1="258" id2="273213" version="1065353216">This item cannot be modified!</text>
+		<text bitflag="321" id1="259" id2="273213" version="1065353216">You do not meet the entitlement requirements to use this modification!</text>
+		<text bitflag="321" id1="260" id2="273213" version="1065353216">You are unable to remove enhancements from items.</text>
+		<text bitflag="321" id1="261" id2="273213" version="1065353216">You don't have the subscription permission required to add this modification to the item.</text>
+		<text bitflag="321" id1="262" id2="273213" version="1065353216">You don't have the subscription permission required to change this item's modifications.</text>
+		<text bitflag="321" id1="263" id2="273213" version="1065353216">You don't have the subscription permission required to add augment slots to this item.</text>
+		<text bitflag="321" id1="264" id2="273213" version="1065353216">Addition of a modification to this equipment will remove the previous Authorization from the modification. The modification will not be useable until you acquire a permanent Authorization from the Cartel Market.</text>
+		<text bitflag="321" id1="265" id2="273213" version="1065353216">You do not have Authorization for the modification you are adding to this equipment. Adding this modification will remove the previous Authorization from the equipment. The equipment will not be useable until you acquire a permanent Authorization from the Cartel Market.</text>
+		<text bitflag="321" id1="266" id2="273213" version="1065353216">You do not meet the reputation requirements to use this modification!</text>
+		<text bitflag="321" id1="267" id2="273213" version="1065353216">The modification is attempting to change slot restriction of item that is equipped in different slot.</text>
+	</file_content>
+</stb_file>

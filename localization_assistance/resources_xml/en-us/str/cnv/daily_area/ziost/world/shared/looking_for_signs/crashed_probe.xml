@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>1</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/ziost/world/shared/looking_for_signs/crashed_probe.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1157400" id2="17" version="1065353216">::: REPORT
+:: UNIT STATUS ALERT
+Orbit Failure - Surface Impact Assured
+
+:: NETWORK STATUS ALERT
+Geostatic-Orbit Observational Network: Outages Detected
+
+:: ANOMALY REPORT
+Regional Data Scan of World Event Recorded
+-World Event Cause: UNKNOWN
+-World Event Categorization: UNKNOWN
+
+:: RECOMMENDATION
+Manually Retrieve/Upload Network Unit Memory Cores
+Study Compiled Geostatic Data
+
+CAUTION: SELF-DEFENSE DEACTIVATION CODES CORRUPTED</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>3</strs>
+		<file_name>/resources/en-us/str/cnv/misc/vendor/astromech_beep1.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="57580" id2="17" version="1065353216">Customer = welcome</text>
+		<text bitflag="3393" id1="57581" id2="17" version="1065353216">Low prices = guaranteed</text>
+		<text bitflag="3393" id1="57584" id2="17" version="1065353216">Transaction = complete</text>
+	</file_content>
+</stb_file>

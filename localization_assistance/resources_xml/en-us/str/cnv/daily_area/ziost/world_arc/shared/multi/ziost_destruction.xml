@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>19</strs>
+		<file_name>/resources/en-us/str/cnv/daily_area/ziost/world_arc/shared/multi/ziost_destruction.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1157052" id2="17" version="1065353216">[Your current mission objective is located at the Central District of New Adasta. A transport is ready for departure.]</text>
+		<text bitflag="1360" id1="1157053" id2="17" version="1065353216">[Travel to the Central District]</text>
+		<text bitflag="321" id1="1157517" id2="17" version="1065353216">[Your current mission objective is located at the People's Tower in New Adasta. A transport is ready for departure.]</text>
+		<text bitflag="336" id1="1157518" id2="17" version="1065353216">[Travel to the People's Tower]</text>
+		<text bitflag="321" id1="1157544" id2="17" version="1065353216">[Imperial military forces on Ziost have ceased responding to orbital comm signals. Reports indicate the military has turned on the civilian populace. An Imperial military outpost may yield more information. A transport is available for departure.]</text>
+		<text bitflag="1360" id1="1157545" id2="17" version="1065353216">[Travel to the outpost]</text>
+		<text bitflag="321" id1="1157551" id2="17" version="1065353216">[The transport is fueled and ready for departure to a designated landing zone on Ziost.]</text>
+		<text bitflag="1360" id1="1157552" id2="17" version="1065353216">[Travel to the Landing Zone]</text>
+		<text bitflag="321" id1="1157558" id2="17" version="1065353216">[You make note of a warning that planetary traffic-control stations are unresponsive. However, orbital sensors report that Ziost's atmosphere remains within acceptable levels. Transport is available for departure to a designated landing zone.]</text>
+		<text bitflag="336" id1="1157559" id2="17" version="1065353216">[Travel to the Landing Zone]</text>
+		<text bitflag="336" id1="1157561" id2="17" version="1065353216">[Step away from the terminal]</text>
+		<text bitflag="1360" id1="1157564" id2="17" version="1065353216">[Travel to the Central District]</text>
+		<text bitflag="1360" id1="1157567" id2="17" version="1065353216">[Travel to the outpost]</text>
+		<text bitflag="336" id1="1157568" id2="17" version="1065353216">[Travel to the People's Tower]</text>
+		<text bitflag="321" id1="1157573" id2="17" version="1065353216">[You notice a warning that orbital sensors detect a &quot;planetary anomaly&quot;. A widespread crisis may be imminent. If you choose to investigate, further travel to Ziost's surface may become impossible, leaving any open concerns there unresolved.]</text>
+		<text bitflag="336" id1="1157574" id2="17" version="1065353216">[Travel to the landing zone]</text>
+		<text bitflag="336" id1="1157576" id2="17" version="1065353216">[Investigate the crisis]</text>
+		<text bitflag="336" id1="1157578" id2="17" version="1065353216">[Step away from the terminal]</text>
+		<text bitflag="321" id1="1157635" id2="17" version="1065353216">[You are unable to access the Ziost Departures Terminal without a valid set of coordinates and clearance codes.]</text>
+	</file_content>
+</stb_file>

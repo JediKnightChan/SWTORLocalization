@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>375</strs>
+		<file_name>/resources/en-us/str/cnv/alliance/alderaan/broonmark/broonmark.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="1183117" id2="17" version="1065353216">Monster! Madclaw! You are a beast! A shame to your noble species!</text>
+		<text bitflag="3393" id1="1183119" id2="17" version="1065353216">We are the shame? No.</text>
+		<text bitflag="3393" id1="1183121" id2="17" version="1065353216">We are the last Talz.</text>
+		<text bitflag="321" id1="1183122" id2="17" version="1065353216">Broonmark. I thought I recognized your handiwork.</text>
+		<text bitflag="321" id1="1183123" id2="17" version="1065353216">The last Talz? How is that possible?</text>
+		<text bitflag="321" id1="1183124" id2="17" version="1065353216">You are right to cower, Wookiee. There are few creatures that match his ferocity.</text>
+		<text bitflag="321" id1="1183125" id2="17" version="1065353216">You need to stop. Right now!</text>
+		<text bitflag="321" id1="1183126" id2="17" version="1065353216">Stop, Broonmark! I demand to know what you are doing here.</text>
+		<text bitflag="321" id1="1183127" id2="17" version="1065353216">A cowardly Wookiee? Now I've seen everything.</text>
+		<text bitflag="2369" id1="1183130" id2="17" version="1065353216">[The tracking signal confirms that the speeder crashed here is the senator's. There's no one in the vehicle live or dead.]</text>
+		<text bitflag="2369" id1="1183132" id2="17" version="1065353216">[Farther down the same trajectory is another, smaller, wreck and a Wookiee's body.]</text>
+		<text bitflag="321" id1="1183133" id2="17" version="1065353216">[Check Senator's Speeder]</text>
+		<text bitflag="3393" id1="1183134" id2="17" version="1065353216">[Judging by the amount of blood in the front seat, the driver probably died there and the vehicle went out of control.]</text>
+		<text bitflag="1345" id1="1183136" id2="17" version="1065353216">[Rows of small gouges can be found all over the hood and driver's side door, but it doesn't look like the vehicle impacted with anything on that side.]</text>
+		<text bitflag="1345" id1="1183137" id2="17" version="1065353216">[Check Other Wreck]</text>
+		<text bitflag="1345" id1="1183138" id2="17" version="1065353216">[The smoldering chassis of a swoop bike lays in a tangled heap. It looks like it took a nose dive right in to the ground.]</text>
+		<text bitflag="1345" id1="1183139" id2="17" version="1065353216">[Check Body]</text>
+		<text bitflag="1345" id1="1183140" id2="17" version="1065353216">[It looks like the Wookiee tumbled here after being ejected from the speeder when it crashed, but that likely isn't what killed him.]</text>
+		<text bitflag="1345" id1="1183142" id2="17" version="1065353216">[His throat and chest are covered in blood. Closer inspection shows the wound is more a ragged tear than a clean cut.]</text>
+		<text bitflag="1345" id1="1183143" id2="17" version="1065353216">[Piece Together the Events]</text>
+		<text bitflag="1345" id1="1183144" id2="17" version="1065353216">[Near as you can tell, the attacker caught up with the senator's speeder on the swoop bike and lept to it in flight.]</text>
+		<text bitflag="1345" id1="1183146" id2="17" version="1065353216">[He then tore the driver's throat out while clinging to the exterior.]</text>
+		<text bitflag="1345" id1="1183148" id2="17" version="1065353216">[You don't see drag marks, so more than one of the passengers was alive enough to leave of their own volition.]</text>
+		<text bitflag="1345" id1="1183150" id2="17" version="1065353216">[Searching the ground for tracks, you find the next best thing: blood. A slight trail picks its way across the ground away from the wreck.]</text>
+		<text bitflag="1345" id1="1183154" id2="17" version="1065353216">[The speeder lot looks as unremarkable as any other you've seen at first glance, but the bowcaster scoring on several vehicles reveals you're on the trail.]</text>
+		<text bitflag="1345" id1="1183155" id2="17" version="1065353216">[Check Speeders]</text>
+		<text bitflag="1345" id1="1183156" id2="17" version="1065353216">[A rapid check of the compartments and undercarriages only establishes that the people you're after aren't still here.]</text>
+		<text bitflag="1345" id1="1183158" id2="17" version="1065353216">[One of the vacant speeder spaces has an empty bandoleer laying on it. The space is marked &quot;seven.&quot;]</text>
+		<text bitflag="1345" id1="1183159" id2="17" version="1065353216">[Check Gatehouse]</text>
+		<text bitflag="1345" id1="1183160" id2="17" version="1065353216">[The gatehouse droid sits manning its station unperturbed.]</text>
+		<text bitflag="1345" id1="1183162" id2="17" version="1065353216">***Gatehouse Droid: Visitor = Welcome // Query = Lot number, please?</text>
+		<text bitflag="1345" id1="1183163" id2="17" version="1065353216">Who was parked on lot seven?</text>
+		<text bitflag="1345" id1="1183164" id2="17" version="1065353216">***Gatehouse Droid: Lot Seven = reserved for Senator Gryyzak // Query = speeder missing?</text>
+		<text bitflag="1345" id1="1183165" id2="17" version="1065353216">That much I know is true.</text>
+		<text bitflag="1345" id1="1183166" id2="17" version="1065353216">Yes, you useless hunk of junk.</text>
+		<text bitflag="1345" id1="1183167" id2="17" version="1065353216">***Gatehouse Droid: Visitor = reporting theft? // 4Y =  noting in log</text>
+		<text bitflag="1345" id1="1183169" id2="17" version="1065353216">***Gatehouse Droid: Criminal activity = report to appropriate authorities // Lot != responsible for damages</text>
+		<text bitflag="1345" id1="1183171" id2="17" version="1065353216">***Gatehouse Droid: Speeder Model = equipped with anti-theft tracking // Visitor = inform owner or send to 4Y</text>
+		<text bitflag="1345" id1="1183172" id2="17" version="1065353216">[Check Senator's Datapad]</text>
+		<text bitflag="1345" id1="1183173" id2="17" version="1065353216">Thanks, 4Y.</text>
+		<text bitflag="1345" id1="1183174" id2="17" version="1065353216">Uh, sure.</text>
+		<text bitflag="1345" id1="1183175" id2="17" version="1065353216">***Gatehouse Droid: Visitor = safe travels</text>
+		<text bitflag="1345" id1="1183177" id2="17" version="1065353216">[Checking the senator's datapad, you find a utility from the speeder manufacturer allowing for remote start, roadside assistance and location positioning.]</text>
+		<text bitflag="1345" id1="1183179" id2="17" version="1065353216">[You can now see the speeder on your map.]</text>
+		<text bitflag="1345" id1="1183181" id2="17" version="1065353216">I'm not here for my speeder. Did you see a Wookiee come through here?</text>
+		<text bitflag="1345" id1="1183182" id2="17" version="1065353216">***Gatehouse Droid: Wookiee = have not seen // Visitor = first speeder check of the day</text>
+		<text bitflag="1345" id1="1183183" id2="17" version="1065353216">Idiot droid. Which way did the attackers go?</text>
+		<text bitflag="1345" id1="1183184" id2="17" version="1065353216">***Gatehouse Droid: 4Y != understand visitor // Visitor = first speeder check of the day</text>
+		<text bitflag="1345" id1="1183185" id2="17" version="1065353216">[Look at Roads]</text>
+		<text bitflag="1345" id1="1183186" id2="17" version="1065353216">[Knowing the attack happened recently, you raise your macro-binoculars hoping to catch a glimpse of the escapees.]</text>
+		<text bitflag="1345" id1="1183188" id2="17" version="1065353216">[Scanning several directions shows no sign of suspicious piloting.]</text>
+		<text bitflag="1345" id1="1183191" id2="17" version="1065353216">[The safe haven where Hylo's senate contact was holed up is in shambles. The signs of a struggle are obvious to any onlooker.]</text>
+		<text bitflag="1345" id1="1183193" id2="17" version="1065353216">[Smashed furniture, blaster damage and vibro blade marks can be found everywhere you look. The smell of burnt hair and smoke still hangs in the air.]</text>
+		<text bitflag="1345" id1="1183194" id2="17" version="1065353216">Anyone alive in here?</text>
+		<text bitflag="1345" id1="1183195" id2="17" version="1065353216">[If anyone is still here, they don't answer. Or can't.]</text>
+		<text bitflag="1345" id1="1183197" id2="17" version="1065353216">[Sweeping for danger, neither threats nor survivors are found. A few Wookiee warriors lay slain within the guest house.]</text>
+		<text bitflag="1345" id1="1183199" id2="17" version="1065353216">[These warriors were cut down by a bladed weapon. Defensive wounds on their arms and bowcasters indicate they put up a fight, but their depleted ammo packs aren't reassuring.]</text>
+		<text bitflag="1345" id1="1183201" id2="17" version="1065353216">[The senator is not among the dead.]</text>
+		<text bitflag="1345" id1="1183202" id2="17" version="1065353216">[Examine Damage]</text>
+		<text bitflag="1345" id1="1183203" id2="17" version="1065353216">[The slashes are clean and speak to sharp blades rather than energy weapons. The blaster damage is a little less clean cut.]</text>
+		<text bitflag="1345" id1="1183205" id2="17" version="1065353216">[Not blasters, exactly, but bowcaster bolts. The greatest cluster found around a smashed entry.]</text>
+		<text bitflag="1345" id1="1183206" id2="17" version="1065353216">[Examine Entry]</text>
+		<text bitflag="1345" id1="1183207" id2="17" version="1065353216">[It looks like the attackers forwent stealth and smashed in the door with considerable force. No sign of explosives are present.]</text>
+		<text bitflag="1345" id1="1183209" id2="17" version="1065353216">[A shock of short white hair is plastered against the ragged entry by a few flecks of blood. A grazing wound inflicted from the frame itself.]</text>
+		<text bitflag="1345" id1="1183210" id2="17" version="1065353216">[Search for Information]</text>
+		<text bitflag="1345" id1="1183211" id2="17" version="1065353216">[You rifle through the belongings abandoned by the senator. Mostly personal effects and clothing, but a couple things catch your interest.]</text>
+		<text bitflag="1345" id1="1183213" id2="17" version="1065353216">[Several gift-wrapped boxes contain objects native to Kashyyyk: dried wasaka berries, carvings made from wroshyr wood and a ryyk blade bound to its scabbard with elaborate braids.]</text>
+		<text bitflag="1345" id1="1183215" id2="17" version="1065353216">[The senator's personal datapad is also among the items you located.]</text>
+		<text bitflag="1345" id1="1183216" id2="17" version="1065353216">[Look at the Room Again]</text>
+		<text bitflag="1345" id1="1183217" id2="17" version="1065353216">[Take the Gift Boxes]</text>
+		<text bitflag="1345" id1="1183218" id2="17" version="1065353216">[You gather the assorted goods and tuck them among your own belongings.]</text>
+		<text bitflag="1345" id1="1183219" id2="17" version="1065353216">[Read Datapad]</text>
+		<text bitflag="1345" id1="1183220" id2="17" version="1065353216">[You slice your way into the datapad with a known exploit. It's enough to get you into the locally stored data at least.]</text>
+		<text bitflag="1345" id1="1183222" id2="17" version="1065353216">[The senator's calendar shows an anniversary date that recently passed. The location is listed as Parliament, but a note says &quot;Delayed Indefinitely.&quot;]</text>
+		<text bitflag="1345" id1="1183224" id2="17" version="1065353216">[A cursory glance at his recent messages shows that the senator was in contact with local authorities about an attack at Parliament.]</text>
+		<text bitflag="1345" id1="1183226" id2="17" version="1065353216">[Among his last sent messages are a plea to Hylo for discreet passage and a series of urgent check-ins with another senator that received no reply.]</text>
+		<text bitflag="1345" id1="1183227" id2="17" version="1065353216">[Sweep for Intruders or Survivors]</text>
+		<text bitflag="1345" id1="1183228" id2="17" version="1065353216">[It occurs to you that someone could be hiding within the safe haven and a search would be prudent.]</text>
+		<text bitflag="1345" id1="1183230" id2="17" version="1065353216">[Search for Valuables]</text>
+		<text bitflag="1345" id1="1183231" id2="17" version="1065353216">[The Alderaanian guest home was nicely appointed before whatever transpired tore it apart. You manage to pocket a few pieces that survived the melee.]</text>
+		<text bitflag="1345" id1="1183233" id2="17" version="1065353216">[The destroyed room might hold some other things of value, but searching would cost you valuable time.</text>
+		<text bitflag="1345" id1="1183234" id2="17" version="1065353216">[Piece Together the Events]</text>
+		<text bitflag="1345" id1="1183235" id2="17" version="1065353216">[The senator's meeting at Parliament was interrupted by an attack, forcing him into protective custody. At least one other senator appears to have been involved.]</text>
+		<text bitflag="1345" id1="1183237" id2="17" version="1065353216">[Another attack occurred as the senator was securing illegal transport off-world. Several bodyguards were killed, but the senator is not among them.]</text>
+		<text bitflag="1345" id1="1183239" id2="17" version="1065353216">[Whether he escaped or was taken is unclear, but no sign of him or his white-haired assailant can be found here.]</text>
+		<text bitflag="1345" id1="1183245" id2="17" version="1065353216">Hey, Commander. Got a sec?</text>
+		<text bitflag="1345" id1="1183246" id2="17" version="1065353216">I can spare a moment.</text>
+		<text bitflag="1345" id1="1183247" id2="17" version="1065353216">Good, line up a few more while you're at it.</text>
+		<text bitflag="1345" id1="1183248" id2="17" version="1065353216">Depends, how illegal is what you're about to ask me?</text>
+		<text bitflag="1345" id1="1183249" id2="17" version="1065353216">Totally above board. You'd even be defending what's left of the legal system.</text>
+		<text bitflag="1345" id1="1183250" id2="17" version="1065353216">Not really, make it quick.</text>
+		<text bitflag="1345" id1="1183251" id2="17" version="1065353216">This can't really wait.</text>
+		<text bitflag="3393" id1="1183254" id2="17" version="1065353216">Gryyzak robs our ancestors' truth. Steals our ways. Leaves us toothless and docile!</text>
+		<text bitflag="3393" id1="1183255" id2="17" version="1065353216">We come to avenge our clan, all clans, with what Gryyzak takes from us.</text>
+		<text bitflag="3393" id1="1183256" id2="17" version="1065353216">We are meant to rend flesh. We are meant to warm ourselves in frozen wastes with the taste of hot blood.</text>
+		<text bitflag="3393" id1="1184165" id2="17" version="1065353216">Master Jedi, I owe you my life! I am forever in your debt.</text>
+		<text bitflag="321" id1="1184166" id2="17" version="1065353216">Protecting others from harm is simply my duty.</text>
+		<text bitflag="3393" id1="1184167" id2="17" version="1065353216">That does not mean I will not offer you my gratitude.</text>
+		<text bitflag="321" id1="1184169" id2="17" version="1065353216">I can't take all the credit. Hylo Visz was the one who told me of your situation.</text>
+		<text bitflag="321" id1="1184170" id2="17" version="1065353216">I hope that's true, senator. I'll need friends like you in the times ahead.</text>
+		<text bitflag="3393" id1="1184171" id2="17" version="1065353216">I--I'm surprised to see a Republic soldier out here. Someone heard my concerns?</text>
+		<text bitflag="321" id1="1184172" id2="17" version="1065353216">Yes, but I'm not here on behalf of Republic command. Hylo sent me to help you.</text>
+		<text bitflag="321" id1="1184173" id2="17" version="1065353216">Hylo heard you. I'm sure she's expecting more than a thank you.</text>
+		<text bitflag="321" id1="1184174" id2="17" version="1065353216">Not just anyone would have been equipped to deal with a Talz commando. This is the luckiest day of your life.</text>
+		<text bitflag="3393" id1="1184175" id2="17" version="1065353216">Are you the transport Hylo was supposed to arrange? This rescue has earned you far more than what she promised.</text>
+		<text bitflag="321" id1="1184176" id2="17" version="1065353216">She suspected you were in more trouble than you were prepared to deal with, and Hylo knows that trouble and I have a wedding registry.</text>
+		<text bitflag="3393" id1="1184177" id2="17" version="1065353216">I believe you. To have defeated the madclaw that slew all my sworn protectors, it seems beyond reason.</text>
+		<text bitflag="321" id1="1184179" id2="17" version="1065353216">Oh yeah it has. You see the size of that monster? Two words: Life. Debt.</text>
+		<text bitflag="3393" id1="1184180" id2="17" version="1065353216">I--yes, that would be appropriate for such actions.</text>
+		<text bitflag="321" id1="1184182" id2="17" version="1065353216">Well she didn't exactly promise much, so points in your favor, furball.</text>
+		<text bitflag="3393" id1="1184183" id2="17" version="1065353216">Senator. Please.</text>
+		<text bitflag="3393" id1="1184185" id2="17" version="1065353216">Who--who are you? What do you want with me?</text>
+		<text bitflag="321" id1="1184186" id2="17" version="1065353216">I'm allied with Hylo Visz. Be sure to be generous when thanking us for this bit of bodyguarding.</text>
+		<text bitflag="321" id1="1184187" id2="17" version="1065353216">Just a bounty hunter on Hylo's payroll. You're safe, so I figure we're done here.</text>
+		<text bitflag="321" id1="1184188" id2="17" version="1065353216">Is that how you thank someone who just saved your skin?</text>
+		<text bitflag="3393" id1="1184189" id2="17" version="1065353216">Forgive me! This has been a trying time. You have my deepest thanks.</text>
+		<text bitflag="3393" id1="1184191" id2="17" version="1065353216">I owe you my life. A debt I will attempt to repay for the rest of our lives.</text>
+		<text bitflag="321" id1="1184193" id2="17" version="1065353216">A party interested in seeing you survive these assassination attempts. When your nerves are settled, reach out to Hylo Visz and we'll speak again.</text>
+		<text bitflag="321" id1="1184194" id2="17" version="1065353216">Hylo Visz sent me to ensure your safety. You were fortunate I caught up in time.</text>
+		<text bitflag="3393" id1="1184195" id2="17" version="1065353216">The smuggler sent you? Unexpected--but welcome!</text>
+		<text bitflag="3393" id1="1184197" id2="17" version="1065353216">I am grateful for her help, and yours. A life debt I shall reward so long as you both shall live.</text>
+		<text bitflag="321" id1="1184199" id2="17" version="1065353216">Who I am is far less important than what I want. I believe your people have the concept of a life debt. You can expect to hear from me again.</text>
+		<text bitflag="3393" id1="1184200" id2="17" version="1065353216">Who--who are you, Sith? What do you want from me?</text>
+		<text bitflag="321" id1="1184201" id2="17" version="1065353216">I command an Alliance to which you should be grateful. Hylo will tell you how you may thank me for this mercy.</text>
+		<text bitflag="321" id1="1184202" id2="17" version="1065353216">This intervention was a gift from Hylo Visz. That is all.</text>
+		<text bitflag="3393" id1="1184203" id2="17" version="1065353216">I--of course. I am grateful for her help, and yours. A life debt I shall reward so long as you both shall live.</text>
+		<text bitflag="3393" id1="1184205" id2="17" version="1065353216">I must... attend to all this. I will not speak of you to the authorities.</text>
+		<text bitflag="321" id1="1184207" id2="17" version="1065353216">You are nothing to me but the scent of fear. Be gone before I indulge Broonmark's deepest desire.</text>
+		<text bitflag="3393" id1="1184208" id2="17" version="1065353216">Ah!</text>
+		<text bitflag="321" id1="1184210" id2="17" version="1065353216">Why, everything, of course. Your debt to me is life itself.</text>
+		<text bitflag="3393" id1="1184211" id2="17" version="1065353216">Honor obliges me to aid you however I can. Gratitude as well.</text>
+		<text bitflag="3393" id1="1184213" id2="17" version="1065353216">If you have a need, I will do everything in my power to fulfill it.</text>
+		<text bitflag="3393" id1="1184215" id2="17" version="1065353216">Contact my office anytime.... I--I should attend to all of this. I won't mention you to the authorities.</text>
+		<text bitflag="3393" id1="1184219" id2="17" version="1065353216">Sith clan is still strongest.</text>
+		<text bitflag="3393" id1="1184221" id2="17" version="1065353216">We are betrayed again. No clan but our own. Finish us.</text>
+		<text bitflag="3393" id1="1184223" id2="17" version="1065353216">Still no match for Sith.</text>
+		<text bitflag="3393" id1="1184225" id2="17" version="1065353216">Republic clan continues to shame us. We will not be tame!</text>
+		<text bitflag="3393" id1="1184227" id2="17" version="1065353216">Stranger bests us. We are no match, but it doesn't matter.</text>
+		<text bitflag="3393" id1="1184229" id2="17" version="1065353216">We will not live as they do. We will die as we are!</text>
+		<text bitflag="321" id1="1184230" id2="17" version="1065353216">You will live and die as I demand of you. As you pledged.</text>
+		<text bitflag="321" id1="1184231" id2="17" version="1065353216">I do not wish you to be docile, but I expect your obedience.</text>
+		<text bitflag="3393" id1="1184232" id2="17" version="1065353216">We return to old ways when Sith clan shattered. We forget Talz clan is not our clan. We are Sith clan.</text>
+		<text bitflag="321" id1="1184234" id2="17" version="1065353216">[Kill Broonmark] I will grant you that much.</text>
+		<text bitflag="321" id1="1184235" id2="17" version="1065353216">I admire your spirit. I'd prefer not to have to kill you. Is there really nothing I could offer to appease your anger?</text>
+		<text bitflag="3393" id1="1184236" id2="17" version="1065353216">We are born to rip and maim. Sith clan understand this.</text>
+		<text bitflag="3393" id1="1184238" id2="17" version="1065353216">Jedi could never know us.</text>
+		<text bitflag="321" id1="1184239" id2="17" version="1065353216">I am not a pacifist. I do not hesitate to use force when necessary, you've just seen that yourself.</text>
+		<text bitflag="3393" id1="1184240" id2="17" version="1065353216">Many Jedi die at our hands alongside our Sith. Always hesitating, speaking useless words, holding back. You are different.</text>
+		<text bitflag="321" id1="1184242" id2="17" version="1065353216">If pain and suffering is your only desire, then I really do have nothing to offer you.</text>
+		<text bitflag="3393" id1="1184243" id2="17" version="1065353216">Offer your throat!</text>
+		<text bitflag="321" id1="1184245" id2="17" version="1065353216">Have you ever thought that your way isn't the right one, and that's why you walk it alone?</text>
+		<text bitflag="3393" id1="1184246" id2="17" version="1065353216">We have seen what the Republic does to Talz clan. Never again.</text>
+		<text bitflag="321" id1="1184247" id2="17" version="1065353216">Whatever your history with the Republic is, it's got nothing to do with us. I'm fighting for more than a flag now.</text>
+		<text bitflag="3393" id1="1184248" id2="17" version="1065353216">We think you different from timid Republic soldiers. Your strength deserves respect.</text>
+		<text bitflag="321" id1="1184250" id2="17" version="1065353216">Talz commandos are some of the finest arctic fighters in the galaxy. I don't see what you have to complain about.</text>
+		<text bitflag="3393" id1="1184251" id2="17" version="1065353216">They are shadows of us! Not Talz clan, but tools! Republic clan must suffer for our shame!</text>
+		<text bitflag="321" id1="1184253" id2="17" version="1065353216">You joined up looking to kill people and found the Republic doesn't tolerate war criminals.</text>
+		<text bitflag="3393" id1="1184254" id2="17" version="1065353216">War without instinct is your crime! Our claws will carve the lessons on your bones!</text>
+		<text bitflag="321" id1="1184256" id2="17" version="1065353216">I'm known to bust a few heads to get what I want, fella, and I consider myself more Republic-adjacent anyway.</text>
+		<text bitflag="3393" id1="1184257" id2="17" version="1065353216">We find pleasure in the cracking of skulls. Your clan is not so different.</text>
+		<text bitflag="321" id1="1184259" id2="17" version="1065353216">I've had fallings out with them myself, but they aren't so bad. So the wanting to murder all of it may be a tiny overreaction.</text>
+		<text bitflag="3393" id1="1184260" id2="17" version="1065353216">We are given claws to use them!</text>
+		<text bitflag="321" id1="1184262" id2="17" version="1065353216">Yeah, they really got the short end of the stick with the whole climbing out of the stone age thing.</text>
+		<text bitflag="3393" id1="1184263" id2="17" version="1065353216">Republic clan stole our strength for promised comfort! Turn our clan to beasts of burden with no pride!</text>
+		<text bitflag="3393" id1="1184265" id2="17" version="1065353216">Our Sith would have celebrated our revenge. Our Sith was living wrath!</text>
+		<text bitflag="321" id1="1184266" id2="17" version="1065353216">You mistake my opposition for disapproval. Your current aims are simply counterproductive to my own.</text>
+		<text bitflag="3393" id1="1184267" id2="17" version="1065353216">We cross our Sith at first too. We offer our life to Sith clan for unmolested hunt. Give us vengeance and we serve new Sith clan.</text>
+		<text bitflag="321" id1="1184269" id2="17" version="1065353216">Not all Sith are alike. I choose not to let passion and ambition be synonymous with cruelty and hatred.</text>
+		<text bitflag="3393" id1="1184270" id2="17" version="1065353216">You taint the Sith clan! We cleanse for honor of our Sith!</text>
+		<text bitflag="321" id1="1184272" id2="17" version="1065353216">Then your master was a fool. Blind hate offers little to a Sith with any vision.</text>
+		<text bitflag="3393" id1="1184273" id2="17" version="1065353216">Our Sith would crush you for such insults. We offer our life to see you suffer for them!</text>
+		<text bitflag="3393" id1="1184275" id2="17" version="1065353216">What do you know of our hunger?</text>
+		<text bitflag="321" id1="1184276" id2="17" version="1065353216">I get paid a lot of money to put holes in people, and I love my work.</text>
+		<text bitflag="321" id1="1184277" id2="17" version="1065353216">I hurt a lot of people in my line of work. Maybe I don't take your glee in it, but I ain't squeamish.</text>
+		<text bitflag="3393" id1="1184278" id2="17" version="1065353216">A job is not a need! Our instinct gnaws. We will show your clan our hunger!</text>
+		<text bitflag="321" id1="1184280" id2="17" version="1065353216">I know that as far as crazies I've put down go, you aren't even in my top ten.</text>
+		<text bitflag="3393" id1="1184281" id2="17" version="1065353216">Crazy! Mad! Feral! Words clans use to excuse their weakness!</text>
+		<text bitflag="321" id1="1184283" id2="17" version="1065353216">I know that &quot;interrogation&quot; is just a gentle term for my favorite pastime.</text>
+		<text bitflag="3393" id1="1184284" id2="17" version="1065353216">Your clan feels the hunger too.</text>
+		<text bitflag="3393" id1="1184286" id2="17" version="1065353216">We offer our life to your clan. Our claws will rend all your clan's enemies. Just give us our vengeance on Gryyzak!</text>
+		<text bitflag="321" id1="1184287" id2="17" version="1065353216">A life debt? Very well. Pledge loyalty to me and I'll allow it.</text>
+		<text bitflag="321" id1="1184288" id2="17" version="1065353216">For the last time: no. The Wookiee is connected to my clan. Can you understand that?</text>
+		<text bitflag="3393" id1="1184289" id2="17" version="1065353216">We understand you're our enemy! Our life will not be yours to dirty!</text>
+		<text bitflag="321" id1="1184291" id2="17" version="1065353216">I think your Sith simply found an interesting pet, then tired of it.</text>
+		<text bitflag="3393" id1="1184292" id2="17" version="1065353216">We are of the Sith clan and you are our pets!</text>
+		<text bitflag="321" id1="1184294" id2="17" version="1065353216">Whatever drives you is an aberration and your species will be better off without you.</text>
+		<text bitflag="3393" id1="1184295" id2="17" version="1065353216">We will dig those thoughts from your brain!</text>
+		<text bitflag="321" id1="1184297" id2="17" version="1065353216">That's not for either of us to decide; however, you're going to answer for the deaths you caused here.</text>
+		<text bitflag="3393" id1="1184298" id2="17" version="1065353216">No! It is for us to decide!</text>
+		<text bitflag="321" id1="1184300" id2="17" version="1065353216">[Kill Broonmark] If that's what you really want.</text>
+		<text bitflag="3393" id1="1184301" id2="17" version="1065353216">We greet death with our claws!</text>
+		<text bitflag="3393" id1="1184307" id2="17" version="1065353216">We swear to crush our clan's enemies. Leave their worlds as oceans of blood and tears!</text>
+		<text bitflag="321" id1="1184308" id2="17" version="1065353216">Senator Gryyzak. You owe Hylo a great debt for sending me here today. See that she wants for nothing.</text>
+		<text bitflag="321" id1="1184309" id2="17" version="1065353216">I have missed your enthusiasm.</text>
+		<text bitflag="3393" id1="1184310" id2="17" version="1065353216">Our hunger is never greater than now.</text>
+		<text bitflag="321" id1="1184312" id2="17" version="1065353216">My clan, Broonmark. Remember that and I will make you more than your ancestors ever dreamed to be.</text>
+		<text bitflag="3393" id1="1184313" id2="17" version="1065353216">We trust the Sith clan with our life. Make us bloody and content.</text>
+		<text bitflag="3393" id1="1184315" id2="17" version="1065353216">Rrrwah! Talz clan is cleansed. Our claws pluck the cancer from our bodies so strength can return!</text>
+		<text bitflag="3393" id1="1184317" id2="17" version="1065353216">Once again, Sith gives us greatest satisfaction. We repay our lives with thousands offered to Sith clan.</text>
+		<text bitflag="321" id1="1184318" id2="17" version="1065353216">Keep that promise, Broonmark, and I will ensure your continued satisfaction.</text>
+		<text bitflag="3393" id1="1184319" id2="17" version="1065353216">Worlds will be buried under the bodies.</text>
+		<text bitflag="321" id1="1184321" id2="17" version="1065353216">I harbor no doubts that you will sow great fear and death among our enemies.</text>
+		<text bitflag="3393" id1="1184322" id2="17" version="1065353216">We will reap both in great handfuls.</text>
+		<text bitflag="321" id1="1184324" id2="17" version="1065353216">Your service will suffice.</text>
+		<text bitflag="3393" id1="1184325" id2="17" version="1065353216">Sith's will is ours.</text>
+		<text bitflag="3393" id1="1184327" id2="17" version="1065353216">We have ached to kill for the Sith clan again. Lead us to our prey!</text>
+		<text bitflag="3393" id1="1184328" id2="17" version="1065353216">You do not interfere, but we do not know you. We are sated. You may go.</text>
+		<text bitflag="321" id1="1184329" id2="17" version="1065353216">Not just yet. I could use someone with your talents.</text>
+		<text bitflag="321" id1="1184330" id2="17" version="1065353216">Clarify something for me. What specifically did that Wookiee do?</text>
+		<text bitflag="3393" id1="1184331" id2="17" version="1065353216">Gryyzak comes to Talz homeworld long ago. Convinces ancestors our ways are savage. Makes us dogs of the Republic.</text>
+		<text bitflag="321" id1="1184332" id2="17" version="1065353216">It's something you obviously cared deeply about to go through this much effort. And inflict that much pain.</text>
+		<text bitflag="3393" id1="1184333" id2="17" version="1065353216">We are the rage of our kind.</text>
+		<text bitflag="321" id1="1184335" id2="17" version="1065353216">So the other senator that was attacked. A Talz?</text>
+		<text bitflag="3393" id1="1184336" id2="17" version="1065353216">We crush his thin bones and hear hopeless cries in our native speech. We savor it.</text>
+		<text bitflag="3393" id1="1184338" id2="17" version="1065353216">We hunt for new prey. Careful we do not take interest in you.</text>
+		<text bitflag="321" id1="1184339" id2="17" version="1065353216">One last thing.</text>
+		<text bitflag="321" id1="1184340" id2="17" version="1065353216">I respect your abilities, but don't think you scare me.</text>
+		<text bitflag="321" id1="1184341" id2="17" version="1065353216">Was that a threat?</text>
+		<text bitflag="3393" id1="1184342" id2="17" version="1065353216">Were we unsatisfied, we would slake our thirst with your blood. Talk makes us thirsty.</text>
+		<text bitflag="321" id1="1184343" id2="17" version="1065353216">I command an Alliance in need of skilled warriors. An assassin of your skill is of interest to me.</text>
+		<text bitflag="3393" id1="1184344" id2="17" version="1065353216">You wish us to join your clan?</text>
+		<text bitflag="321" id1="1184346" id2="17" version="1065353216">How would you like to have all the blood you could ever desire. I plan to see Zakuul run red.</text>
+		<text bitflag="3393" id1="1184347" id2="17" version="1065353216">That has our attention.</text>
+		<text bitflag="3393" id1="1184349" id2="17" version="1065353216">We are adapted to solitude, but a clan is something missed. We will slaughter for your clan, if you leave us to do it.</text>
+		<text bitflag="321" id1="1184350" id2="17" version="1065353216">So long as it's my enemies you're hurting, I won't complain.</text>
+		<text bitflag="3393" id1="1184351" id2="17" version="1065353216">We will sharpen our claws on their bones.</text>
+		<text bitflag="3393" id1="1184353" id2="17" version="1065353216">Call us Broonmark. Show us your clan.</text>
+		<text bitflag="321" id1="1184355" id2="17" version="1065353216">[Reject Companion] On second thought, maybe it's better we just part ways.</text>
+		<text bitflag="3393" id1="1184356" id2="17" version="1065353216">Skitter away.</text>
+		<text bitflag="3393" id1="1184358" id2="17" version="1065353216">Sith clan senses our hate. We long to wash Gryyzak's stain from Talz clan. We are glad Sith is here to see it.</text>
+		<text bitflag="3393" id1="1184360" id2="17" version="1065353216">Sith clan? Do not stand in the way of this hunt!</text>
+		<text bitflag="3393" id1="1184362" id2="17" version="1065353216">Lies and delusions! Please, stop this madclaw!</text>
+		<text bitflag="3393" id1="1184365" id2="17" version="1065353216">We stop when we cleanse Talz clan of taint.</text>
+		<text bitflag="3393" id1="1184367" id2="17" version="1065353216">Wookiee clan forgets who they are. What they rob from our clan as well.</text>
+		<text bitflag="3393" id1="1184370" id2="17" version="1065353216">We have found the source of shame. We must tear out Gryyzak's lying tongue!</text>
+		<text bitflag="321" id1="1184371" id2="17" version="1065353216">You're saying this Wookiee had something to do with the taming of the Talz?</text>
+		<text bitflag="3393" id1="1184372" id2="17" version="1065353216">Gryyzak is the one! All Talz suffer because of him!</text>
+		<text bitflag="321" id1="1184374" id2="17" version="1065353216">I would hear of the Wookiee's crimes before you render judgment.</text>
+		<text bitflag="3393" id1="1184375" id2="17" version="1065353216">Crimes? What crimes?</text>
+		<text bitflag="3393" id1="1184377" id2="17" version="1065353216">I have done nothing but good for the Talz. They are like kin to me!</text>
+		<text bitflag="3393" id1="1184379" id2="17" version="1065353216">Gryyzak brings Wookiee customs to Talz, teaches us to hide our claws, urges us to join Republic. Robs us of our true nature.</text>
+		<text bitflag="321" id1="1184381" id2="17" version="1065353216">This Wookiee is of value to me. You will do nothing unless I deem it.</text>
+		<text bitflag="3393" id1="1184382" id2="17" version="1065353216">Sith clan understands us. Sith clan knows the hunger like no other.</text>
+		<text bitflag="321" id1="1184384" id2="17" version="1065353216">Gryyzak, what did you take that has enraged this Talz enough to hunt you across Alderaan?</text>
+		<text bitflag="321" id1="1184385" id2="17" version="1065353216">I'm not letting you kill anyone else.</text>
+		<text bitflag="3393" id1="1184386" id2="17" version="1065353216">You decide who is right for us to kill? That is for Talz clan to decide!</text>
+		<text bitflag="321" id1="1184388" id2="17" version="1065353216">You killed all those Wookiee warriors by yourself? You're a talented killer.</text>
+		<text bitflag="3393" id1="1184389" id2="17" version="1065353216">We remember what we are.</text>
+		<text bitflag="3393" id1="1184392" id2="17" version="1065353216">We are the last true Talz. We will avenge the death of our ways!</text>
+		<text bitflag="321" id1="1184393" id2="17" version="1065353216">Step away from the Wookiee. Last warning.</text>
+		<text bitflag="3393" id1="1184394" id2="17" version="1065353216">Stand between us and die! Rrrwah!</text>
+		<text bitflag="321" id1="1184395" id2="17" version="1065353216">[Attack] You will die out.</text>
+		<text bitflag="3393" id1="1184396" id2="17" version="1065353216">Rrrwah!</text>
+		<text bitflag="321" id1="1184397" id2="17" version="1065353216">I will delay the redemption of your people no longer. Savor your retribution, my beast.</text>
+		<text bitflag="3393" id1="1184398" id2="17" version="1065353216">Sith has our gratitude.</text>
+		<text bitflag="321" id1="1184400" id2="17" version="1065353216">Please, there has to be a way to settle this peacefully.</text>
+		<text bitflag="321" id1="1184401" id2="17" version="1065353216">Killing this diplomat accomplishes nothing. This is your selfish bloodlust speaking, nothing more.</text>
+		<text bitflag="3393" id1="1184402" id2="17" version="1065353216">We need it and we will not be denied!</text>
+		<text bitflag="321" id1="1184403" id2="17" version="1065353216">You are a proud being. A killer that exemplifies everything the Talz should be. What example do you set by slaughtering this wretch?</text>
+		<text bitflag="3393" id1="1184404" id2="17" version="1065353216">Sith knows our hunger, our hate. How is it wrong, when we feel it is right, deep in our bones? What would Sith have us do?</text>
+		<text bitflag="321" id1="1184405" id2="17" version="1065353216">Return to my clan, Broonmark. I will turn your ferocity on worthy victims and your people will see what Talz strength truly is.</text>
+		<text bitflag="321" id1="1184406" id2="17" version="1065353216">Obey. You swore to me when Fetzellen died that my enemies would be yours and I have many that need your attention.</text>
+		<text bitflag="3393" id1="1184407" id2="17" version="1065353216">Rrrr... Rrrrwah!</text>
+		<text bitflag="321" id1="1184409" id2="17" version="1065353216">Make peace with this grudge and move on.</text>
+		<text bitflag="3393" id1="1184410" id2="17" version="1065353216">Peace, Sith...?</text>
+		<text bitflag="3393" id1="1184412" id2="17" version="1065353216">Peace is a lie!</text>
+		<text bitflag="321" id1="1184413" id2="17" version="1065353216">It's foolish to argue with you. Do what you must.</text>
+		<text bitflag="3393" id1="1184414" id2="17" version="1065353216">Sith clan understands again. We show gratitude... when we are done.</text>
+		<text bitflag="321" id1="1184416" id2="17" version="1065353216">You will master your rage or I will quash it.</text>
+		<text bitflag="321" id1="1184417" id2="17" version="1065353216">Go ahead. You're of much more interest to me than this sniveling rug anyway.</text>
+		<text bitflag="3393" id1="1184418" id2="17" version="1065353216">Show me your claws, Gryyzak! We will show what you've forgotten!</text>
+		<text bitflag="3393" id1="1184420" id2="17" version="1065353216">No! Monsters! Both of you!</text>
+		<text bitflag="3393" id1="1184422" id2="17" version="1065353216">Rrrwah!</text>
+		<text bitflag="321" id1="1184426" id2="17" version="1065353216">Enough! If you will not obey I will put you in your place.</text>
+		<text bitflag="3393" id1="1184427" id2="17" version="1065353216">No! Sith will not take this from us. Betrayers will feel our wrath!</text>
+		<text bitflag="321" id1="1186207" id2="17" version="1065353216">[The speeder is in bad shape from its terminal impact and won't be moving again without significant repairs. There's no one in the vehicle, alive or dead.]</text>
+		<text bitflag="321" id1="1186209" id2="17" version="1065353216">[Farther down the same trajectory is another, smaller, wreck and a Wookiee's body.]</text>
+		<text bitflag="321" id1="1186210" id2="17" version="1065353216">[Check Crashed Speeder]</text>
+		<text bitflag="321" id1="1186211" id2="17" version="1065353216">[Judging by the amount of blood in the front seat, the driver probably died there and the vehicle went out of control.]</text>
+		<text bitflag="321" id1="1186213" id2="17" version="1065353216">[Rows of small gouges can be found all over the hood and driver's side door, but it doesn't look like the vehicle impacted with anything on that side.]</text>
+		<text bitflag="321" id1="1186214" id2="17" version="1065353216">[Check Other Wreck]</text>
+		<text bitflag="321" id1="1186215" id2="17" version="1065353216">[The smoldering chassis of a swoop bike lays in a tangled heap. It looks like it took a nose dive right into the ground.]</text>
+		<text bitflag="321" id1="1186216" id2="17" version="1065353216">[Check Body]</text>
+		<text bitflag="321" id1="1186217" id2="17" version="1065353216">[It looks like the Wookiee tumbled here after being ejected from the speeder when it crashed, but that likely isn't what killed him.]</text>
+		<text bitflag="321" id1="1186219" id2="17" version="1065353216">[His throat and chest are covered in blood. Closer inspection shows the neck wound is more a ragged tear than a clean cut.]</text>
+		<text bitflag="321" id1="1186220" id2="17" version="1065353216">[Piece Together the Events]</text>
+		<text bitflag="321" id1="1186221" id2="17" version="1065353216">[Near as you can tell, the attacker caught up with the senator's speeder on the swoop bike and leapt to it in flight.]</text>
+		<text bitflag="321" id1="1186223" id2="17" version="1065353216">[He then tore the driver's throat out while clinging to the exterior.]</text>
+		<text bitflag="321" id1="1186225" id2="17" version="1065353216">[You don't see drag marks, so more than one of the passengers was alive enough to leave of their own volition.]</text>
+		<text bitflag="321" id1="1186227" id2="17" version="1065353216">[Searching the ground for tracks, you find the next best thing: blood. A slight trail picks its way across the ground away from the wreck.]</text>
+		<text bitflag="3393" id1="1186231" id2="17" version="1065353216">Jedi? Hey! You have to help me, I just got robbed and nearly killed!</text>
+		<text bitflag="321" id1="1186232" id2="17" version="1065353216">My sympathies, but I've got an assassination attempt in need of thwarting.</text>
+		<text bitflag="321" id1="1186233" id2="17" version="1065353216">I'm afraid muggings are a little low on my priority list at the moment.</text>
+		<text bitflag="3393" id1="1186234" id2="17" version="1065353216">I guess you're just part of whatever it is that's going on. They all came the same way you did.</text>
+		<text bitflag="3393" id1="1186236" id2="17" version="1065353216">A Republic soldier? If you're part of whatever's been going on today, I don't want to be involved anymore than I am!</text>
+		<text bitflag="321" id1="1186237" id2="17" version="1065353216">I'm trying to catch up to a diplomat with an assassin in tow. If you've got intel, time's a factor.</text>
+		<text bitflag="3393" id1="1186238" id2="17" version="1065353216">Does that involved Wookiees?</text>
+		<text bitflag="3393" id1="1186240" id2="17" version="1065353216">Oh, great, now Imperials... how unlucky can I get in one day? I don't want any trouble!</text>
+		<text bitflag="321" id1="1186241" id2="17" version="1065353216">Tell me if you've seen any Wookiees come through here. Now.</text>
+		<text bitflag="3393" id1="1186242" id2="17" version="1065353216">Uh-- yeah, actually. Ruined my day.</text>
+		<text bitflag="321" id1="1186244" id2="17" version="1065353216">So, so much more unlucky. Would you like something to really moan about?</text>
+		<text bitflag="3393" id1="1186245" id2="17" version="1065353216">No, no, sorry, please! I just got robbed and all I want is to get home in one piece.</text>
+		<text bitflag="321" id1="1186247" id2="17" version="1065353216">I can guess that you didn't intend to be on foot out here.</text>
+		<text bitflag="3393" id1="1186248" id2="17" version="1065353216">I got robbed!</text>
+		<text bitflag="3393" id1="1186250" id2="17" version="1065353216">Hey! Hey, I haven't got anything left! Police are on the way, okay? I don't want any trouble!</text>
+		<text bitflag="321" id1="1186251" id2="17" version="1065353216">First of all, rude. Second, what are you going on about?</text>
+		<text bitflag="321" id1="1186252" id2="17" version="1065353216">If I were here to rob you, I wouldn't bother asking.</text>
+		<text bitflag="3393" id1="1186253" id2="17" version="1065353216">Okay, okay, sorry. It's been a rough day and I just want to get through it in one piece.</text>
+		<text bitflag="321" id1="1186255" id2="17" version="1065353216">That's terrible, tell me what happened.</text>
+		<text bitflag="321" id1="1186256" id2="17" version="1065353216">I'm not here to cause you any trouble. You've seen others come through here?</text>
+		<text bitflag="3393" id1="1186257" id2="17" version="1065353216">Yeah, whole bunch of crazies.</text>
+		<text bitflag="321" id1="1186259" id2="17" version="1065353216">Who are you and what are you doing out here?</text>
+		<text bitflag="3393" id1="1186260" id2="17" version="1065353216">I'm just a courier!</text>
+		<text bitflag="3393" id1="1186262" id2="17" version="1065353216">I was on a delivery when a couple Wookiees came out of the woods into the middle of the road.</text>
+		<text bitflag="3393" id1="1186264" id2="17" version="1065353216">They flagged down the speeder ahead of me and took off in it! I stopped to check on the driver and bam!</text>
+		<text bitflag="321" id1="1186265" id2="17" version="1065353216">Bam?</text>
+		<text bitflag="3393" id1="1186266" id2="17" version="1065353216">I get flung off my bike like I hit a low branch. I hear the other driver run off screaming and my swoop tearing off into the distance.</text>
+		<text bitflag="3393" id1="1186268" id2="17" version="1065353216">Caught a glimpse of it speeding toward House Alde, just down the road, same as the Wookiees.</text>
+		<text bitflag="321" id1="1186269" id2="17" version="1065353216">That'll do. Thank you.</text>
+		<text bitflag="321" id1="1186270" id2="17" version="1065353216">I need to follow them, good luck to you.</text>
+		<text bitflag="3393" id1="1186271" id2="17" version="1065353216">If you find the one who took my bike, sock'em for me!</text>
+		<text bitflag="321" id1="1186272" id2="17" version="1065353216">Shut up. I need to hurry.</text>
+		<text bitflag="3393" id1="1186273" id2="17" version="1065353216">What a day....</text>
+		<text bitflag="321" id1="1186274" id2="17" version="1065353216">Just tell me which way they went.</text>
+		<text bitflag="3393" id1="1186275" id2="17" version="1065353216">Off toward House Alde, right along the road. Same as the thing that took my bike!</text>
+		<text bitflag="321" id1="1186279" id2="17" version="1065353216">[A pair of dead Wookiee warriors prove you're on the right path. They appear to have been cut down by a bladed weapon.]</text>
+		<text bitflag="321" id1="1186281" id2="17" version="1065353216">[Defensive wounds on their arms and bowcasters indicate they put up a fight, but their depleted ammo packs aren't reassuring.]</text>
+		<text bitflag="321" id1="1186282" id2="17" version="1065353216">[Check Defensive Wounds]</text>
+		<text bitflag="321" id1="1186283" id2="17" version="1065353216">[A few grazing cuts on their arms and bowcasters match the bladed weapon. There are some rougher scratches that might have been from wrestling in the terrain.]</text>
+		<text bitflag="321" id1="1186285" id2="17" version="1065353216">[One of the Wookiees has a clump of long white hairs caught in his fingers. Aside from color, it's similar to his own.]</text>
+		<text bitflag="321" id1="1186286" id2="17" version="1065353216">[Check Fatal Wounds]</text>
+		<text bitflag="321" id1="1186287" id2="17" version="1065353216">[The weapon used to kill both Wookiees was extremely sharp, as the wounds are both clean and deep. It was most likely some kind of vibroblade.]</text>
+		<text bitflag="321" id1="1186288" id2="17" version="1065353216">[Search Surroundings]</text>
+		<text bitflag="321" id1="1186289" id2="17" version="1065353216">[The ten or so meters around the bodies are trampled and gouged from an intense melee. Though neither the senator nor the assailant are here, you easily find tracks.]</text>
+		<text bitflag="321" id1="1186290" id2="17" version="1065353216">[Piece Together the Events]</text>
+		<text bitflag="321" id1="1186291" id2="17" version="1065353216">[Whoever laid the trap for the motorcade along the road caught up with the survivors here.]</text>
+		<text bitflag="321" id1="1186293" id2="17" version="1065353216">[The white haired attacker was dangerous enough to overpower at least two Wookiee warriors in close combat and might even be a Wookiee as well.]</text>
+		<text bitflag="321" id1="1186295" id2="17" version="1065353216">[The tracks leaving the grisly scene are clear enough to follow and hint that the chase didn't conclude here.]</text>
+		<text bitflag="321" id1="1186299" id2="17" version="1065353216">[On the road to House Alde, you find a small convoy of abandoned speeders.]</text>
+		<text bitflag="321" id1="1186301" id2="17" version="1065353216">[The lead vehicle is a smoking wreck, though the others appear undamaged. The odds that this was an attack on Hylo's contact are good.]</text>
+		<text bitflag="321" id1="1186302" id2="17" version="1065353216">Anyone alive here?</text>
+		<text bitflag="321" id1="1186303" id2="17" version="1065353216">[If anyone is still alive, they don't answer. Or can't.]</text>
+		<text bitflag="321" id1="1186305" id2="17" version="1065353216">[Search the Vehicles]</text>
+		<text bitflag="321" id1="1186306" id2="17" version="1065353216">[You rifle through the belongings abandoned by the passengers. Mostly personal effects of little consequence, but a couple things catch your interest.]</text>
+		<text bitflag="321" id1="1186308" id2="17" version="1065353216">[Several gift-wrapped boxes contain objects native to Kashyyyk: dried wasaka berries, carvings made from wroshyr wood, and a ryyk blade bound to its scabbard with elaborate braids.]</text>
+		<text bitflag="321" id1="1186310" id2="17" version="1065353216">[The senator's personal datapad is also among the items you located.]</text>
+		<text bitflag="321" id1="1186311" id2="17" version="1065353216">[Look Back Over the Convoy]</text>
+		<text bitflag="321" id1="1186312" id2="17" version="1065353216">[Take the Gift Boxes]</text>
+		<text bitflag="321" id1="1186313" id2="17" version="1065353216">[You gather the assorted goods and tuck them among your own belongings.]</text>
+		<text bitflag="321" id1="1186314" id2="17" version="1065353216">[Read Datapad]</text>
+		<text bitflag="321" id1="1186315" id2="17" version="1065353216">[You slice your way into the datapad with a known exploit. It's enough to get you into the locally stored data at least.]</text>
+		<text bitflag="321" id1="1186317" id2="17" version="1065353216">[The senator's calendar shows an anniversary date that recently passed. The location is listed as Parliament, but a note says &quot;Delayed Indefinitely.&quot;]</text>
+		<text bitflag="321" id1="1186319" id2="17" version="1065353216">[A cursory glance at his recent messages shows that the senator was in contact with local authorities about an attack at Parliament.]</text>
+		<text bitflag="321" id1="1186321" id2="17" version="1065353216">[Among his last sent messages are a plea to Hylo for discreet passage and a series of urgent check-ins with another senator that received no reply.]</text>
+		<text bitflag="321" id1="1186322" id2="17" version="1065353216">[Sweep for Survivors]</text>
+		<text bitflag="321" id1="1186323" id2="17" version="1065353216">[It occurs to you that someone could be hiding among the wreckage and a search would be prudent.]</text>
+		<text bitflag="321" id1="1186325" id2="17" version="1065353216">[Look down the Road]</text>
+		<text bitflag="321" id1="1186326" id2="17" version="1065353216">[You can tell the attack was recent. Raising your macrobinoculars, you take a look down the road ways for signs of flight and pursuit.]</text>
+		<text bitflag="321" id1="1186328" id2="17" version="1065353216">[You find nothing indicating that the diplomat or attackers continued along the road.]</text>
+		<text bitflag="321" id1="1186329" id2="17" version="1065353216">[Check for Survivors]</text>
+		<text bitflag="321" id1="1186330" id2="17" version="1065353216">[Checking the speeders and bodies for signs of life only confirms that anyone still breathing has fled the scene.]</text>
+		<text bitflag="321" id1="1186331" id2="17" version="1065353216">[Check Destroyed Speeder]</text>
+		<text bitflag="321" id1="1186332" id2="17" version="1065353216">[The lead speeder in the escort looks to have been struck by a blast that reduced it to a smoking wreck.]</text>
+		<text bitflag="321" id1="1186334" id2="17" version="1065353216">[Scorching around the ground indicates that a mine or improvised explosive was the cause. The other speeders appear unharmed by the blast though.]</text>
+		<text bitflag="321" id1="1186336" id2="17" version="1065353216">[Taking a closer look for damage to the senator's vehicle reveals that it's electronic systems are fried. The shell of an ion pulse bomb lays half-buried along the road.]</text>
+		<text bitflag="321" id1="1186337" id2="17" version="1065353216">[Piece Together the Events]</text>
+		<text bitflag="321" id1="1186338" id2="17" version="1065353216">[The senator's meeting at Parliament was interrupted by an attack, forcing him into protective custody. At least one other senator appears to have been involved.]</text>
+		<text bitflag="321" id1="1186340" id2="17" version="1065353216">[While traveling under armed escort to House Alde, the senator was targeted by another attack that disabled his motorcade and killed several bodyguards.]</text>
+		<text bitflag="321" id1="1186342" id2="17" version="1065353216">[Whether he escaped or was taken is unclear, but no sign of him or his assailant can be found here.]</text>
+		<text bitflag="321" id1="1186344" id2="17" version="1065353216">[With no signs of flight along the roads, an off-road path through the wilderness remains the only obvious means of escape.]</text>
+		<text bitflag="1345" id1="1199064" id2="17" version="1065353216">[Check Crashed Speeder]</text>
+		<text bitflag="1360" id1="1199064" id2="17" version="1065353216">[Check Crashed Speeder]</text>
+		<text bitflag="321" id1="1207136" id2="17" version="1065353216">[Leave the Scene]</text>
+		<text bitflag="321" id1="1207166" id2="17" version="1065353216">[Leave the Scene]</text>
+		<text bitflag="321" id1="1207168" id2="17" version="1065353216">[Leave the Scene]</text>
+	</file_content>
+</stb_file>

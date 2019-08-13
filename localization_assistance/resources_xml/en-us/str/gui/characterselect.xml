@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>124</strs>
+		<file_name>/resources/en-us/str/gui/characterselect.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194651" version="1065353216">PLAY</text>
+		<text bitflag="321" id1="2" id2="194651" version="1065353216">DELETE</text>
+		<text bitflag="321" id1="3" id2="194651" version="1065353216">QUIT</text>
+		<text bitflag="321" id1="4" id2="194651" version="1065353216">CREATE CHARACTER</text>
+		<text bitflag="321" id1="5" id2="194651" version="1065353216">Game Preferences</text>
+		<text bitflag="321" id1="6" id2="194651" version="1065353216">The Old Republic game credits.</text>
+		<text bitflag="321" id1="7" id2="194651" version="1065353216">Do you want to delete</text>
+		<text bitflag="321" id1="8" id2="194651" version="1065353216">Type 'DELETE' into the field to confirm.</text>
+		<text bitflag="321" id1="9" id2="194651" version="1065353216">delete</text>
+		<text bitflag="321" id1="10" id2="194651" version="1065353216">CHANGE SERVER</text>
+		<text bitflag="321" id1="11" id2="194651" version="1065353216">Delete Character</text>
+		<text bitflag="321" id1="13" id2="194651" version="1065353216">Rotate character to the right.</text>
+		<text bitflag="321" id1="14" id2="194651" version="1065353216">Rotate character to the left.</text>
+		<text bitflag="321" id1="15" id2="194651" version="1065353216">Zoom In/Out</text>
+		<text bitflag="321" id1="97" id2="194651" version="1065353216">Really Delete</text>
+		<text bitflag="321" id1="98" id2="194651" version="1065353216">Yes</text>
+		<text bitflag="321" id1="99" id2="194651" version="1065353216">No</text>
+		<text bitflag="321" id1="100" id2="194651" version="1065353216">Set Language to English</text>
+		<text bitflag="321" id1="101" id2="194651" version="1065353216">Set Language to French</text>
+		<text bitflag="321" id1="102" id2="194651" version="1065353216">Set Language to German</text>
+		<text bitflag="321" id1="192" id2="194651" version="1065353216">OK</text>
+		<text bitflag="321" id1="193" id2="194651" version="1065353216">This account currently has another character, '&lt;&lt;1&gt;&gt;', waiting to be logged out. Please try again in a few moments.</text>
+		<text bitflag="321" id1="200" id2="194651" version="1065353216">PVE</text>
+		<text bitflag="321" id1="201" id2="194651" version="1065353216">PVP</text>
+		<text bitflag="321" id1="202" id2="194651" version="1065353216">RP</text>
+		<text bitflag="321" id1="203" id2="194651" version="1065353216">RP-PVP</text>
+		<text bitflag="321" id1="204" id2="194651" version="1065353216">Tournament</text>
+		<text bitflag="321" id1="205" id2="194651" version="1065353216">You have been placed in a queue</text>
+		<text bitflag="321" id1="206" id2="194651" version="1065353216">Change Galaxy</text>
+		<text bitflag="321" id1="207" id2="194651" version="1065353216">Position in Queue &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="208" id2="194651" version="1065353216">&lt;&lt;1&gt;&gt; of &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="209" id2="194651" version="1065353216">Level &lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="210" id2="194651" version="1065353216">Unknown Level and Class</text>
+		<text bitflag="321" id1="211" id2="194651" version="1065353216">Unknown Faction</text>
+		<text bitflag="321" id1="212" id2="194651" version="1065353216">Unknown Location</text>
+		<text bitflag="321" id1="213" id2="194651" version="1065353216">Character versioning error</text>
+		<text bitflag="321" id1="214" id2="194651" version="1065353216">Contact customer service</text>
+		<text bitflag="321" id1="215" id2="194651" version="1065353216">There has been an unexpected error while versioning your character. Please contact customer service at testing@swtor.com.</text>
+		<text bitflag="321" id1="216" id2="194651" version="1065353216">&lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt; Active Characters (Server)</text>
+		<text bitflag="321" id1="217" id2="194651" version="1065353216">Page</text>
+		<text bitflag="321" id1="218" id2="194651" version="1065353216">Note: You currently have more than the allowed number of character slots. You cannot create a new character until you have an available character slot as indicated on the character selection window.</text>
+		<text bitflag="321" id1="219" id2="194651" version="1065353216">Character Requires Rename</text>
+		<text bitflag="321" id1="220" id2="194651" version="1065353216">Origin Shard: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="3000" id2="194651" version="1065353216">You are a SUBSCRIBER.</text>
+		<text bitflag="321" id1="3030" id2="194651" version="1065353216">&lt;&lt;1&gt;&gt; Inactive Characters</text>
+		<text bitflag="321" id1="3100" id2="194651" version="1065353216">This character is currently INACTIVE and must be activated before playing.
+Select the ACTIVATE button to make this character playable.</text>
+		<text bitflag="321" id1="3200" id2="194651" version="1065353216">This character is currently INACTIVE and cannot be played without an available character slot.
+Character slots are available in the Cartel Market.</text>
+		<text bitflag="321" id1="3300" id2="194651" version="1065353216">CONFIRM</text>
+		<text bitflag="321" id1="3330" id2="194651" version="1065353216">Confirm that you want to make this character Active for your account. This will use one of your available Character Activations. 
+You currently have &lt;&lt;1[%d Character Slots/%d Character Slot/%d Character Slots]&gt;&gt; available on this server (&lt;&lt;2&gt;&gt; Globally).
+
+&lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="3400" id2="194651" version="1065353216">&lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt; Active Characters (Global)</text>
+		<text bitflag="321" id1="3430" id2="194651" version="1065353216">INACTIVE</text>
+		<text bitflag="321" id1="3500" id2="194651" version="1065353216">ACTIVATE</text>
+		<text bitflag="321" id1="3530" id2="194651" version="1065353216">Star Wars: The Old Republic - Rise of the Hutt Cartel Credits</text>
+		<text bitflag="321" id1="3600" id2="194651" version="1065353216">RotHC</text>
+		<text bitflag="321" id1="3700" id2="194651" version="1065353216">Your account is FREE-TO-PLAY.
+&lt;hl lid=&quot;BFBN&quot; &gt;</text>
+		<text bitflag="321" id1="3845" id2="194651" version="1065353216">Your account is PREFERRED STATUS
+&lt;hl lid=&quot;BFBN&quot; &gt;</text>
+		<text bitflag="321" id1="3900" id2="194651" version="1065353216">You are a SUBSCRIBER!
+
+You will receive &amp;#162;500 Cartel Coins per month for subscribing!</text>
+		<text bitflag="321" id1="3901" id2="194651" version="1065353216">Create a new character</text>
+		<text bitflag="321" id1="3902" id2="194651" version="1065353216">CHARACTERS</text>
+		<text bitflag="321" id1="3903" id2="194651" version="1065353216">SELECT CHARACTER</text>
+		<text bitflag="321" id1="3904" id2="194651" version="1065353216">Enter the game</text>
+		<text bitflag="321" id1="3905" id2="194651" version="1065353216">Play Cinematic</text>
+		<text bitflag="321" id1="3906" id2="194651" version="1065353216">Preferences</text>
+		<text bitflag="321" id1="3907" id2="194651" version="1065353216">Star Wars: The Old Republic Credits</text>
+		<text bitflag="321" id1="3908" id2="194651" version="1065353216">Server selection</text>
+		<text bitflag="321" id1="3909" id2="194651" version="1065353216">Unknown Icon</text>
+		<text bitflag="321" id1="3910" id2="194651" version="1065353216">Quit the game.</text>
+		<text bitflag="321" id1="3911" id2="194651" version="1065353216">Quit?</text>
+		<text bitflag="321" id1="3912" id2="194651" version="1065353216">Are you sure you want to quit?</text>
+		<text bitflag="321" id1="3913" id2="194651" version="1065353216">CANCEL</text>
+		<text bitflag="321" id1="3914" id2="194651" version="1065353216">Your character '&lt;&lt;1&gt;&gt;' is logged in right now. You cannot create a new character or log in another character until '&lt;&lt;1&gt;&gt;' is logged out.</text>
+		<text bitflag="321" id1="3915" id2="194651" version="1065353216">SERVER IS FULL</text>
+		<text bitflag="321" id1="3918" id2="194651" version="1065353216">Deleting character '&lt;&lt;1&gt;&gt;' ...</text>
+		<text bitflag="321" id1="3919" id2="194651" version="1065353216">DELETE</text>
+		<text bitflag="321" id1="3920" id2="194651" version="1065353216">Not Ready</text>
+		<text bitflag="321" id1="3921" id2="194651" version="1065353216">Quick Play Mode</text>
+		<text bitflag="321" id1="3922" id2="194651" version="1065353216">While you play, the game continues to download. If you finish the starting planet before it completes, you may start a new character and play one of the other 7 class stories. When the download completes, you can access the entire game.</text>
+		<text bitflag="321" id1="3923" id2="194651" version="1065353216">You may not play this character until the planet it is located on has been fully downloaded.</text>
+		<text bitflag="321" id1="3924" id2="194651" version="1065353216">WARNING: You will not be able to play this character if they are off the origin world.</text>
+		<text bitflag="321" id1="3925" id2="194651" version="1065353216">Star Wars: The Old Republic - Galactic Starfighter Credits</text>
+		<text bitflag="321" id1="3926" id2="194651" version="1065353216">GSF</text>
+		<text bitflag="321" id1="3927" id2="194651" version="1065353216">Credits</text>
+		<text bitflag="321" id1="3928" id2="194651" version="1065353216">TOR</text>
+		<text bitflag="321" id1="3929" id2="194651" version="1065353216">Star Wars: The Old Republic - Galactic Stronghold Credits</text>
+		<text bitflag="321" id1="3930" id2="194651" version="1065353216">GSH</text>
+		<text bitflag="321" id1="3931" id2="194651" version="1065353216">Star Wars: The Old Republic - Shadow of Revan</text>
+		<text bitflag="321" id1="3932" id2="194651" version="1065353216">SOR</text>
+		<text bitflag="321" id1="3933" id2="194651" version="1065353216">NEW CHARACTER</text>
+		<text bitflag="321" id1="3934" id2="194651" version="1065353216">Play the Origin Story</text>
+		<text bitflag="321" id1="3935" id2="194651" version="1065353216">Experience one of eight exciting class-specific stories in the original Star Wars: The Old Republic, as well as Rise of the Hutt Cartel and Shadow of Revan expansions.</text>
+		<text bitflag="321" id1="3936" id2="194651" version="1065353216">Play the Outlander Story</text>
+		<text bitflag="321" id1="3937" id2="194651" version="1065353216">Skip straight to level &lt;&lt;1&gt;&gt; and start playing Knights of the Fallen Empire. Your character will have already completed all previous story content, including all previous expansions.
+If your account does not have access to Knights of the Fallen Empire, you will instead be placed on your faction's fleet.</text>
+		<text bitflag="321" id1="3938" id2="194651" version="1065353216">LEVEL &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="3939" id2="194651" version="1065353216">CREATE CHARACTER</text>
+		<text bitflag="321" id1="3940" id2="194651" version="1065353216">Level &lt;&lt;1&gt;&gt; character tokens may be purchased from the Cartel Market.</text>
+		<text bitflag="321" id1="3941" id2="194651" version="1065353216">Level &lt;&lt;1&gt;&gt; Characters:</text>
+		<text bitflag="321" id1="3942" id2="194651" version="1065353216">Class Stories</text>
+		<text bitflag="321" id1="3943" id2="194651" version="1065353216">&lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt; Completed</text>
+		<text bitflag="321" id1="3944" id2="194651" version="1065353216">Legendary status is achieved by completing the full eight class-specific stories in the original Star Wars: The Old Republic. Upon completion legendary players are granted a unique in-game portrait frame and viewed as 'Legendary' across the galaxy.</text>
+		<text bitflag="321" id1="3945" id2="194651" version="1065353216">Legendary Status</text>
+		<text bitflag="321" id1="3946" id2="194651" version="1065353216">Star Wars: The Old Republic - Knights of the Fallen Empire Credits</text>
+		<text bitflag="321" id1="3947" id2="194651" version="1065353216">KotFE</text>
+		<text bitflag="321" id1="3948" id2="194651" version="1065353216">&lt;&lt;1&gt;&gt; Boosted &lt;&lt;1 [Characters/Character/Characters]&gt;&gt;</text>
+		<text bitflag="321" id1="3949" id2="194651" version="1065353216">You are about to spend an Outlander Character Token.
+
+Your token can be refunded and reused if you delete this character, unless this character does one of the following:
+•Gains a character level
+•Completes any Crew Skill mission or task
+•Completes any mission</text>
+		<text bitflag="321" id1="3950" id2="194651" version="1065353216">This &lt;font color='#&lt;&lt;1&gt;&gt;'&gt;level &lt;&lt;2&gt;&gt;&lt;/font&gt; character was created using a Boosted character create token. &lt;font color='#&lt;&lt;1&gt;&gt;'&gt;If you delete them now, your token WILL be refunded.&lt;/font&gt;</text>
+		<text bitflag="321" id1="3951" id2="194651" version="1065353216">This &lt;font color='#&lt;&lt;1&gt;&gt;'&gt;level &lt;&lt;2&gt;&gt;&lt;/font&gt; character was created using a Boosted character token. &lt;font color='#&lt;&lt;1&gt;&gt;'&gt;If you delete them now, your token WILL NOT be refunded.&lt;/font&gt;</text>
+		<text bitflag="321" id1="3954" id2="194651" version="1065353216">KotET</text>
+		<text bitflag="321" id1="3955" id2="194651" version="1065353216">Star Wars: The Old Republic - Knights of the Eternal Throne</text>
+		<text bitflag="321" id1="3956" id2="194651" version="1065353216">Star Wars: The Old Republic - Knights of the Fallen Empire Credits (Cont.)</text>
+		<text bitflag="321" id1="3957" id2="194651" version="1065353216">KotFE (Cont.)</text>
+		<text bitflag="321" id1="3959" id2="194651" version="1065353216">Skip straight to level &lt;&lt;1&gt;&gt; and start playing Knights of the Eternal Throne.</text>
+		<text bitflag="321" id1="3960" id2="194651" version="1065353216">Play the Eternal Throne Story</text>
+		<text bitflag="321" id1="3961" id2="194651" version="1065353216">LEVEL
+BOOST</text>
+		<text bitflag="321" id1="3962" id2="194651" version="1065353216">FREE
+TRIAL</text>
+		<text bitflag="321" id1="3965" id2="194651" version="1065353216">NEW!</text>
+		<text bitflag="321" id1="3966" id2="194651" version="1065353216">You have been selected for a free trial of the first chapter of this season.</text>
+		<text bitflag="321" id1="3967" id2="194651" version="1065353216">You will be creating a level 60 character.</text>
+		<text bitflag="321" id1="3968" id2="194651" version="1065353216">You will be creating a level 65 character.</text>
+		<text bitflag="321" id1="3969" id2="194651" version="1065353216">KNIGHTS OF THE ETERNAL THRONE</text>
+		<text bitflag="321" id1="3970" id2="194651" version="1065353216">KNIGHTS OF THE FALLEN EMPIRE</text>
+		<text bitflag="321" id1="3971" id2="194651" version="1065353216">STAR WARS: THE OLD REPUBLIC</text>
+		<text bitflag="321" id1="3972" id2="194651" version="1065353216">The Outlander's saga continues! Jump right into the latest adventure as you fight to overthrow the Eternal Throne -- or claim its power for yourself.</text>
+		<text bitflag="321" id1="3973" id2="194651" version="1065353216">The saga of the Outlander begins! Defend against the mysterious and powerful Eternal Empire as they wage a devastating war to conquer the galaxy.</text>
+		<text bitflag="321" id1="3974" id2="194651" version="1065353216">Join the fight for the galaxy as you side with the Galactic Republic or Sith Empire to embark on one of eight exciting class stories.</text>
+	</file_content>
+</stb_file>

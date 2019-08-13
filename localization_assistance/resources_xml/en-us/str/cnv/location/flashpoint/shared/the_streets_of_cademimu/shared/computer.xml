@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>16</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/the_streets_of_cademimu/shared/computer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="985292" id2="17" version="1065353216">[You attempt to shut down the missile launch sequence using the logistics computer.]</text>
+		<text bitflag="321" id1="985294" id2="17" version="1065353216">[Unfortunately, General Ortol has activated the emergency locks, preventing the missile batteries from shutting down.]</text>
+		<text bitflag="321" id1="985296" id2="17" version="1065353216">[However, this logistics computer can be used to alter the trajectory of the missiles.]</text>
+		<text bitflag="321" id1="985297" id2="17" version="1065353216">[You reconfigure the missile trajectories to target the Imperial fleet.]</text>
+		<text bitflag="336" id1="985297" id2="17" version="1065353216">[Target the Imperial fleet]</text>
+		<text bitflag="321" id1="985298" id2="17" version="1065353216">[You reconfigure the missile trajectories to target one of Cademimu's uninhabited moons.]</text>
+		<text bitflag="336" id1="985298" id2="17" version="1065353216">[Target an uninhabited moon]</text>
+		<text bitflag="321" id1="985311" id2="17" version="1065353216">[You attempt to shut down the missile launch sequence using the logistics computer.]</text>
+		<text bitflag="321" id1="985313" id2="17" version="1065353216">[Unfortunately, General Ortol has activated the emergency locks, preventing the missile batteries from shutting down.]</text>
+		<text bitflag="321" id1="985315" id2="17" version="1065353216">[However, this logistics computer can be used to alter the trajectory of the missiles.]</text>
+		<text bitflag="321" id1="985316" id2="17" version="1065353216">[You reconfigure the missile trajectories to target the Republic fleet.]</text>
+		<text bitflag="336" id1="985316" id2="17" version="1065353216">[Target the Republic fleet]</text>
+		<text bitflag="321" id1="985317" id2="17" version="1065353216">[You reconfigure the missile trajectories to target one of Cademimu's uninhabited moons.]</text>
+		<text bitflag="336" id1="985317" id2="17" version="1065353216">[Target an uninhabited moon]</text>
+		<text bitflag="321" id1="991293" id2="17" version="1065353216">[The console is offline.]</text>
+		<text bitflag="321" id1="991294" id2="17" version="1065353216">[The console is offline.]</text>
+	</file_content>
+</stb_file>

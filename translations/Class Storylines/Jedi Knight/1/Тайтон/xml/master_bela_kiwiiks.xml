@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="42">
+	<unit bitflag="1345" id1="604642" id2="17" version="1065353216">
+		<source>Place those sensors. We'll take things from here.</source>
+		<target>Размести сенсоры. Дальше действовать будем мы.</target>
+	</unit>
+	<unit bitflag="1345" id1="604643" id2="17" version="1065353216">
+		<source>Master Orgus sent us. We came as quickly as we could.</source>
+		<target>Мастер Оргус прислал нас. Мы пришли, как только смогли.</target>
+	</unit>
+	<unit bitflag="1345" id1="604644" id2="17" version="1065353216">
+		<source>One of the Flesh Raiders I just fought called me &quot;Jedi.&quot; He could use the Force.</source>
+		<target>Один из раздирателей назвал меня джедаем. Он владел Силой.</target>
+	</unit>
+	<unit bitflag="1345" id1="604645" id2="17" version="1065353216">
+		<source>That's troubling. If the Flesh Raiders are learning the ways of the Force, it won't be on the side of light.</source>
+		<target>Это пугает. Если раздиратели изучают пути Силы, то они явно будут не на стороне света.</target>
+	</unit>
+	<unit bitflag="1345" id1="604647" id2="17" version="1065353216">
+		<source>You sure made short work of this bunch. You ever leave survivors?</source>
+		<target>Ты, определённо, легко с ними расправился. Ты вообще оставляешь выживших?</target>
+	</unit>
+	<unit bitflag="1345" id1="604648" id2="17" version="1065353216">
+		<source>I didn't come here hoping to kill someone.</source>
+		<target>Я пришёл сюда не ради того, чтобы кого-то убить.</target>
+	</unit>
+	<unit bitflag="1360" id1="604648" id2="17" version="1065353216">
+		<source>I always try.</source>
+		<target>Я стараюсь это делать.</target>
+	</unit>
+	<unit bitflag="1345" id1="604649" id2="17" version="1065353216">
+		<source>Hey, I didn't mean anything. Mouth gets ahead of my brains....</source>
+		<target>Эй, я не имела ничего в виду. Что на уме, то и на языке...</target>
+	</unit>
+	<unit bitflag="1345" id1="604650" id2="17" version="1065353216">
+		<source>When was the last time you fought someone trying to kill you?</source>
+		<target>Когда ты в последний раз сражалась с кем-то, кто хочет убить тебя?</target>
+	</unit>
+	<unit bitflag="1360" id1="604650" id2="17" version="1065353216">
+		<source>Your battles are different?</source>
+		<target>Ты сражаешься по-другому?</target>
+	</unit>
+	<unit bitflag="1345" id1="604651" id2="17" version="1065353216">
+		<source>Besides my Master? Eh... few months.</source>
+		<target>Кроме учителя? Эх... пару месяцев назад.</target>
+	</unit>
+	<unit bitflag="1345" id1="604653" id2="17" version="1065353216">
+		<source>This is no laughing matter, Padawans.</source>
+		<target>Это не тема для шуток, падаваны.</target>
+	</unit>
+	<unit bitflag="1345" id1="604654" id2="17" version="1065353216">
+		<source>Fighting the same enemy twice gets boring.</source>
+		<target>Сражаться с одним и тем же врагом дважды скучно.</target>
+	</unit>
+	<unit bitflag="1360" id1="604654" id2="17" version="1065353216">
+		<source>Not if I can help it.</source>
+		<target>По возможности нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="604655" id2="17" version="1065353216">
+		<source>Pretty sure that's not in the Jedi Code.</source>
+		<target>Уверена, в Кодексе написано не так.</target>
+	</unit>
+	<unit bitflag="1345" id1="604657" id2="17" version="1065353216">
+		<source>This Flesh Raider carried a holocron--a repository of knowledge created by a Force user. Thousands of years old, from the looks of it.</source>
+		<target>У этого раздирателя был голокрон - хранилище знаний, созданное адептом Силы. Тысячелетия назад, судя по его виду.</target>
+	</unit>
+	<unit bitflag="1345" id1="604659" id2="17" version="1065353216">
+		<source>Master Orgus was right. These natives are more advanced than we realized. They're learning how to fight us.</source>
+		<target>Мастер Оргус был прав. Эти туземцы более продвинуты, чем мы думали. Они учатся сражаться с нами.</target>
+	</unit>
+	<unit bitflag="1345" id1="604660" id2="17" version="1065353216">
+		<source>Master Orgus thinks he knows who's behind it.</source>
+		<target>Мастер Оргус считает, что знает, кто за этим стоит.</target>
+	</unit>
+	<unit bitflag="1360" id1="604660" id2="17" version="1065353216">
+		<source>On someone else's orders.</source>
+		<target>По чьему-то указанию.</target>
+	</unit>
+	<unit bitflag="1345" id1="604661" id2="17" version="1065353216">
+		<source>I gathered as much, but he had no time to explain before sending us here.</source>
+		<target>Я слышала то же, но у него не было времени на объяснения, когда он отправил нас сюда.</target>
+	</unit>
+	<unit bitflag="1345" id1="604663" id2="17" version="1065353216">
+		<source>What do the Flesh Raiders have against us?</source>
+		<target>Что раздиратели имеют против нас?</target>
+	</unit>
+	<unit bitflag="1360" id1="604663" id2="17" version="1065353216">
+		<source>But why?</source>
+		<target>Но почему?</target>
+	</unit>
+	<unit bitflag="1345" id1="604664" id2="17" version="1065353216">
+		<source>From their perspective, we've invaded their home--but there's more to this than a territorial dispute.</source>
+		<target>С их точки зрения, мы вторглись на их родную планету... но дело не только в территориальном конфликте.</target>
+	</unit>
+	<unit bitflag="1345" id1="604666" id2="17" version="1065353216">
+		<source>If this is the best they can do, they're no threat.</source>
+		<target>Если это всё, что они могут, они не опасны.</target>
+	</unit>
+	<unit bitflag="1360" id1="604666" id2="17" version="1065353216">
+		<source>They don't stand a chance.</source>
+		<target>У них нет ни шанса.</target>
+	</unit>
+	<unit bitflag="1345" id1="604667" id2="17" version="1065353216">
+		<source>This was only a scouting party.</source>
+		<target>Это была лишь разведывательная группа.</target>
+	</unit>
+	<unit bitflag="1345" id1="604669" id2="17" version="1065353216">
+		<source>I wish we could stay, see this through--but Master Satele has ordered us to Coruscant on a special mission.</source>
+		<target>Хотелось бы остаться, довести дело до конца... но мастер Сатил послала нас на специальное задание на Корусант.</target>
+	</unit>
+	<unit bitflag="1345" id1="604671" id2="17" version="1065353216">
+		<source>All those bad feelings the Council's been having? She thinks the Republic capital is the source.</source>
+		<target>У Совета были плохие предчувствия, и она считает, что их источник - столица Республики.</target>
+	</unit>
+	<unit bitflag="1345" id1="604673" id2="17" version="1065353216">
+		<source>I'm sorry to have to leave you, but the danger is passed. These surveillance monitors will keep watch on Kaleth.</source>
+		<target>Мне жаль, что приходится покидать тебя, но опасность прошла. Эти камеры слежения присмотрят за Калетом.</target>
+	</unit>
+	<unit bitflag="1345" id1="604675" id2="17" version="1065353216">
+		<source>Place them around the ruins. The temple can then monitor any future incursions by our enemies.</source>
+		<target>Размести их в руинах. Храм сможет наблюдать любое дальнейшее вторжение врагов.</target>
+	</unit>
+	<unit bitflag="1345" id1="604676" id2="17" version="1065353216">
+		<source>Maybe we'll get lucky and find their leader.</source>
+		<target>Быть может, нам повезёт найти их лидера.</target>
+	</unit>
+	<unit bitflag="1360" id1="604676" id2="17" version="1065353216">
+		<source>Good plan, Master Kiwiiks.</source>
+		<target>Хороший план, мастер Кивиикс.</target>
+	</unit>
+	<unit bitflag="1345" id1="604677" id2="17" version="1065353216">
+		<source>What are we prepared to do if the Flesh Raiders return?</source>
+		<target>Что мы готовы сделать в случае возвращения раздирателей?</target>
+	</unit>
+	<unit bitflag="1360" id1="604677" id2="17" version="1065353216">
+		<source>And if they come back?</source>
+		<target>А если они вернутся?</target>
+	</unit>
+	<unit bitflag="1345" id1="604678" id2="17" version="1065353216">
+		<source>The temple's guards will respond to any invasion--and these surveillance devices will give us ample warning.</source>
+		<target>Стражи Храма ответят на любое вторжение - а эти системы слежения предупредят нас заранее.</target>
+	</unit>
+	<unit bitflag="1345" id1="604680" id2="17" version="1065353216">
+		<source>I have better things to do than wander around these ruins.</source>
+		<target>Мне есть чем заняться, кроме как шататься по этим руинам.</target>
+	</unit>
+	<unit bitflag="1360" id1="604680" id2="17" version="1065353216">
+		<source>That's a waste of time.</source>
+		<target>Это трата времени.</target>
+	</unit>
+	<unit bitflag="1345" id1="604681" id2="17" version="1065353216">
+		<source>Do you? I doubt Master Orgus would agree. The more we know of our enemy's movements, the better.</source>
+		<target>Неужели? Сомневаюсь, что мастер Оргус согласился бы с тобой. Чем больше мы знаем о передвижениях врага, тем лучше.</target>
+	</unit>
+	<unit bitflag="1345" id1="604683" id2="17" version="1065353216">
+		<source>May the Force be with you, Padawan.</source>
+		<target>Да пребудет с тобой Сила, падаван.</target>
+	</unit>
+	<unit bitflag="1345" id1="604687" id2="17" version="1065353216">
+		<source>You're fortunate to have a Master as wise as Orgus. He'll teach you well.</source>
+		<target>Тебе повезло иметь столь мудрого учителя, как Оргус. Он хорошо обучит тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="604688" id2="17" version="1065353216">
+		<source>You must be the extraordinary Padawan Master Orgus keeps talking about.</source>
+		<target>Ты, должно быть, необычный падаван, о котором не перестаёт говорить мастер Оргус.</target>
+	</unit>
+	<unit bitflag="1345" id1="604689" id2="17" version="1065353216">
+		<source>I am Master Bela Kiwiiks. You are welcome on Tython.</source>
+		<target>Я мастер Бела Кивиикс. Добро пожаловать на Тайтон.</target>
+	</unit>
+</dialogue_file>

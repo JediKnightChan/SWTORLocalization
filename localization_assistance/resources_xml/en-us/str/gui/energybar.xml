@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>17</strs>
+		<file_name>/resources/en-us/str/gui/energybar.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="272956" version="1065353216">Force</text>
+		<text bitflag="321" id1="2" id2="272956" version="1065353216">Focus</text>
+		<text bitflag="321" id1="3" id2="272956" version="1065353216">Rage</text>
+		<text bitflag="321" id1="4" id2="272956" version="1065353216">Energy</text>
+		<text bitflag="321" id1="5" id2="272956" version="1065353216">Heat</text>
+		<text bitflag="321" id1="6" id2="272956" version="1065353216">Energy Cells</text>
+		<text bitflag="321" id1="7" id2="272956" version="1065353216">Stamina</text>
+		<text bitflag="321" id1="8" id2="272956" version="1065353216">Fast</text>
+		<text bitflag="321" id1="9" id2="272956" version="1065353216">Moderate</text>
+		<text bitflag="321" id1="10" id2="272956" version="1065353216">Slow</text>
+		<text bitflag="321" id1="11" id2="272956" version="1065353216">Very Slow</text>
+		<text bitflag="321" id1="12" id2="272956" version="1065353216">&lt;&lt;1&gt;&gt; Level: &lt;&lt;2&gt;&gt;%</text>
+		<text bitflag="321" id1="13" id2="272956" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt;: &lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="14" id2="272956" version="1065353216">&lt;&lt;1&gt;&gt; &lt;&lt;2&gt;&gt; per second</text>
+		<text bitflag="321" id1="15" id2="272956" version="1065353216">Regeneration</text>
+		<text bitflag="321" id1="16" id2="272956" version="1065353216">Dissipation</text>
+		<text bitflag="321" id1="17" id2="272956" version="1065353216">&lt;&lt;1&gt;&gt; / &lt;&lt;2&gt;&gt;</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>57</strs>
+		<file_name>/resources/en-us/str/gui/elev_package_display_names.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="221629" version="1065353216">Elevator</text>
+		<text bitflag="321" id1="2" id2="221629" version="1065353216">Shuttle Door</text>
+		<text bitflag="321" id1="3" id2="221629" version="1065353216">Airlock</text>
+		<text bitflag="321" id1="4" id2="221629" version="1065353216">Tram</text>
+		<text bitflag="321" id1="5" id2="221629" version="1065353216">Input Which Color Shard?</text>
+		<text bitflag="321" id1="6" id2="221629" version="1065353216">Initiate Assembly Sequence?</text>
+		<text bitflag="321" id1="7" id2="221629" version="1065353216">Disassemble Matrix Cube?</text>
+		<text bitflag="321" id1="8" id2="221629" version="1065353216">Input Which Enhancement?</text>
+		<text bitflag="321" id1="9" id2="221629" version="1065353216">System Controls</text>
+		<text bitflag="321" id1="10" id2="221629" version="1065353216">Holorecordings</text>
+		<text bitflag="321" id1="11" id2="221629" version="1065353216">Shuttle Controls</text>
+		<text bitflag="321" id1="12" id2="221629" version="1065353216">Rakata Transporter</text>
+		<text bitflag="321" id1="13" id2="221629" version="1065353216">DANGER: Maintenance Only</text>
+		<text bitflag="321" id1="14" id2="221629" version="1065353216">Maintenance ID Override:</text>
+		<text bitflag="321" id1="15" id2="221629" version="1065353216">Cantina Jukebox</text>
+		<text bitflag="321" id1="16" id2="221629" version="1065353216">Meditation Altar</text>
+		<text bitflag="321" id1="17" id2="221629" version="1065353216">Carbonite Chamber Door</text>
+		<text bitflag="321" id1="18" id2="221629" version="1065353216">Meditation Censer</text>
+		<text bitflag="321" id1="19" id2="221629" version="1065353216">Ancient Altar</text>
+		<text bitflag="321" id1="20" id2="221629" version="1065353216">Imperial Crawler</text>
+		<text bitflag="321" id1="21" id2="221629" version="1065353216">Gameplay World</text>
+		<text bitflag="321" id1="22" id2="221629" version="1065353216">Hatch</text>
+		<text bitflag="321" id1="23" id2="221629" version="1065353216">Speeder</text>
+		<text bitflag="321" id1="24" id2="221629" version="1065353216">Shipping Crate</text>
+		<text bitflag="321" id1="25" id2="221629" version="1065353216">Security Code Override:</text>
+		<text bitflag="321" id1="26" id2="221629" version="1065353216">Escape Pod</text>
+		<text bitflag="321" id1="5000" id2="221629" version="1065353216">Advanced Class Selector</text>
+		<text bitflag="321" id1="5001" id2="221629" version="1065353216">Imperial Agent Training</text>
+		<text bitflag="321" id1="5003" id2="221629" version="1065353216">Bounty Hunter Training</text>
+		<text bitflag="321" id1="5005" id2="221629" version="1065353216">Sith Inquisitor Training</text>
+		<text bitflag="321" id1="5007" id2="221629" version="1065353216">Sith Warrior Training</text>
+		<text bitflag="321" id1="5009" id2="221629" version="1065353216">Jedi Consular Training</text>
+		<text bitflag="321" id1="5011" id2="221629" version="1065353216">Jedi Knight Training</text>
+		<text bitflag="321" id1="5013" id2="221629" version="1065353216">Smuggler Training</text>
+		<text bitflag="321" id1="5015" id2="221629" version="1065353216">Trooper Training</text>
+		<text bitflag="321" id1="10016" id2="221629" version="1065353216">One-Way Fleet Transport</text>
+		<text bitflag="321" id1="10017" id2="221629" version="1065353216">Auditron Entertainment System</text>
+		<text bitflag="321" id1="10018" id2="221629" version="1065353216">Security Station</text>
+		<text bitflag="321" id1="10020" id2="221629" version="1065353216">One-Way Matter Transfer</text>
+		<text bitflag="321" id1="10021" id2="221629" version="1065353216">Manual Security Override Panel</text>
+		<text bitflag="321" id1="10022" id2="221629" version="1065353216">Shuttle</text>
+		<text bitflag="321" id1="10023" id2="221629" version="1065353216">Stowed Speeder Bike</text>
+		<text bitflag="321" id1="10024" id2="221629" version="1065353216">Transport Fare Box</text>
+		<text bitflag="321" id1="10025" id2="221629" version="1065353216">Grappling Hook</text>
+		<text bitflag="321" id1="10026" id2="221629" version="1065353216">Priority Transport Terminal</text>
+		<text bitflag="321" id1="10027" id2="221629" version="1065353216">Watchtower Hypergate</text>
+		<text bitflag="321" id1="10028" id2="221629" version="1065353216">Landing Beacon</text>
+		<text bitflag="321" id1="10029" id2="221629" version="1065353216">Watchtower Portal</text>
+		<text bitflag="321" id1="10030" id2="221629" version="1065353216">Propulsion Autoassembly Control</text>
+		<text bitflag="321" id1="10031" id2="221629" version="1065353216">Electronics Autoassembly Control</text>
+		<text bitflag="321" id1="10032" id2="221629" version="1065353216">Weapons Autoassembly Control</text>
+		<text bitflag="321" id1="10033" id2="221629" version="1065353216">Ship Assembler Master Control</text>
+		<text bitflag="321" id1="10035" id2="221629" version="1065353216">Turbolift</text>
+		<text bitflag="321" id1="10036" id2="221629" version="1065353216">Loading Bay Access</text>
+		<text bitflag="321" id1="10037" id2="221629" version="1065353216">Ship Access Panel</text>
+		<text bitflag="321" id1="10038" id2="221629" version="1065353216">Taxi Transport</text>
+		<text bitflag="321" id1="10045" id2="221629" version="1065353216">Arena Controls</text>
+	</file_content>
+</stb_file>

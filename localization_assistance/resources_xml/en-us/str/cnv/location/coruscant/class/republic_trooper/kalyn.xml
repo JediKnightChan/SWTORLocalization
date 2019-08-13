@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>53</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/class/republic_trooper/kalyn.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="687007" id2="17" version="1065353216">Stay back! The door is locked and sealed! You can't get in!</text>
+		<text bitflag="1345" id1="687009" id2="17" version="1065353216">We heard all of the fighting, and we heard you talking to that freak Krel! We're not coming out until you swear you won't hurt us!</text>
+		<text bitflag="1345" id1="687010" id2="17" version="1065353216">I'm sorry, but I can't just let you go.</text>
+		<text bitflag="1360" id1="687010" id2="17" version="1065353216">You're too dangerous.</text>
+		<text bitflag="1345" id1="687011" id2="17" version="1065353216">Just open the door, let's talk about this.</text>
+		<text bitflag="1360" id1="687011" id2="17" version="1065353216">We'll work this out.</text>
+		<text bitflag="1345" id1="687012" id2="17" version="1065353216">My orders are to kill you, and that's what I'm going to do.</text>
+		<text bitflag="1360" id1="687012" id2="17" version="1065353216">Let's get this over with.</text>
+		<text bitflag="1345" id1="687013" id2="17" version="1065353216">But we're not cyborgs! I'd know if I was some half-machine freak! This is insane!</text>
+		<text bitflag="1345" id1="687015" id2="17" version="1065353216">You out there! Listen--I'm not sure about these others, but I can assure you that I'm not a cyborg!</text>
+		<text bitflag="1345" id1="687017" id2="17" version="1065353216">What? Are you calling me a freak like Krel? I'm not a freak! Maybe you're the cyborg, and you're trying to trick everyone!</text>
+		<text bitflag="1345" id1="687019" id2="17" version="1065353216">I am not! He spent far more time operating on you than he did on me, so if anyone is--</text>
+		<text bitflag="1345" id1="687021" id2="17" version="1065353216">Both of you, stop it! None of us are cyborgs! That's all there is to it!</text>
+		<text bitflag="1345" id1="687022" id2="17" version="1065353216">There's just no way to tell for sure, ma'am.</text>
+		<text bitflag="1360" id1="687022" id2="17" version="1065353216">We don't know that.</text>
+		<text bitflag="1345" id1="687023" id2="17" version="1065353216">Prove you aren't cyborgs, and I'll let you go.</text>
+		<text bitflag="1360" id1="687023" id2="17" version="1065353216">I need proof.</text>
+		<text bitflag="1345" id1="687024" id2="17" version="1065353216">What do you mean, &quot;prove we aren't cyborgs&quot;? You might as well ask us to prove we're not rancors! It's obvious, isn't it?</text>
+		<text bitflag="1360" id1="687026" id2="17" version="1065353216">You're lying.</text>
+		<text bitflag="1345" id1="687027" id2="17" version="1065353216">This is insane! Even if a few of us are cyborgs, would you really murder all of us just to be sure none of the cyborgs escape?</text>
+		<text bitflag="1345" id1="687028" id2="17" version="1065353216">I'm sorry, ma'am, but there's no other choice.</text>
+		<text bitflag="1360" id1="687028" id2="17" version="1065353216">I'm just following orders.</text>
+		<text bitflag="1345" id1="687029" id2="17" version="1065353216">You're right--this is absurd. I can't do this.</text>
+		<text bitflag="1360" id1="687029" id2="17" version="1065353216">No, I won't kill you.</text>
+		<text bitflag="1345" id1="687030" id2="17" version="1065353216">Then, you won't hurt us? You'll let us go?</text>
+		<text bitflag="1345" id1="687031" id2="17" version="1065353216">You're free to go--all of you.</text>
+		<text bitflag="1360" id1="687031" id2="17" version="1065353216">Yes.</text>
+		<text bitflag="1345" id1="687032" id2="17" version="1065353216">Orders are orders.</text>
+		<text bitflag="1360" id1="687032" id2="17" version="1065353216">Nope. [Drain air from lab]</text>
+		<text bitflag="1345" id1="687034" id2="17" version="1065353216">I'm getting tired of arguing about this through a door.</text>
+		<text bitflag="1360" id1="687034" id2="17" version="1065353216">Open the door--now.</text>
+		<text bitflag="1345" id1="687035" id2="17" version="1065353216">Please, soldier--think this through. Cyborgs or not, we haven't done anything wrong. There's no reason to kill us.</text>
+		<text bitflag="1345" id1="687036" id2="17" version="1065353216">I can't kill innocent people. Come on out, I won't hurt you.</text>
+		<text bitflag="1360" id1="687036" id2="17" version="1065353216">You're right--you can go.</text>
+		<text bitflag="1345" id1="687037" id2="17" version="1065353216">Give me your names and identification numbers, and I'll let you go.</text>
+		<text bitflag="1360" id1="687037" id2="17" version="1065353216">You can go if you give me ID.</text>
+		<text bitflag="1345" id1="687038" id2="17" version="1065353216">What? So you can track us all down and kill us later? No way!</text>
+		<text bitflag="1345" id1="687040" id2="17" version="1065353216">If it gets us out of here alive, then it's worth it. We'll put the information on a datapad for you, soldier.</text>
+		<text bitflag="1345" id1="687042" id2="17" version="1065353216">Okay, stand back--I'm going to open the door.</text>
+		<text bitflag="5441" id1="687044" id2="17" version="1065353216">Here's the datapad, soldier. Thank you for sparing us. Let's go home, everyone!</text>
+		<text bitflag="1345" id1="687045" id2="17" version="1065353216">Come on out, everyone. It's going to feel so good to go home....</text>
+		<text bitflag="1345" id1="687046" id2="17" version="1065353216">Stay safe out there.</text>
+		<text bitflag="1360" id1="687046" id2="17" version="1065353216">Goodbye.</text>
+		<text bitflag="1345" id1="687047" id2="17" version="1065353216">I'd better not find out you were dangerous after all.</text>
+		<text bitflag="1360" id1="687047" id2="17" version="1065353216">Don't make me regret this.</text>
+		<text bitflag="1345" id1="687048" id2="17" version="1065353216">We won't harm anyone, I swear it.</text>
+		<text bitflag="1345" id1="687050" id2="17" version="1065353216">Thanks again, soldier. Farewell.</text>
+		<text bitflag="1345" id1="687054" id2="17" version="1065353216">Sorry--this was the only way.</text>
+		<text bitflag="1360" id1="687054" id2="17" version="1065353216">Home? Not likely. [Kill them]</text>
+		<text bitflag="1345" id1="687055" id2="17" version="1065353216">What? Oh no, no!</text>
+		<text bitflag="1345" id1="687059" id2="17" version="1065353216">My orders are reason enough.</text>
+		<text bitflag="1360" id1="687059" id2="17" version="1065353216">Too bad. [Drain air from lab]</text>
+		<text bitflag="1345" id1="687062" id2="17" version="1065353216">What? What are you....</text>
+	</file_content>
+</stb_file>

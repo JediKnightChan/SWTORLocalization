@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>43</strs>
+		<file_name>/resources/en-us/str/cnv/location/corellia/bronze/republic/boiling_point/doctor_misar.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="234588" id2="17" version="1065353216">Thank you for your assistance in saving Coronet City's water resources. You are a credit to your clan.</text>
+		<text bitflag="3393" id1="234591" id2="17" version="1065353216">You have everything I asked for? Magnificent. Your clan would be proud of you.</text>
+		<text bitflag="3393" id1="234593" id2="17" version="1065353216">I'll dispatch these materials to my work crews immediately. There is still enough time to save Coronet City's water resources.</text>
+		<text bitflag="3393" id1="234595" id2="17" version="1065353216">I have recorded your images. Rest assured, you will be properly credited for your heroism today.</text>
+		<text bitflag="3393" id1="234596" id2="17" version="1065353216">I have not studied the Jedi clan in any detail, but I have heard your motto: May the floor be with you.</text>
+		<text bitflag="3393" id1="234597" id2="17" version="1065353216">The Republic military will be informed of your heroism. I'm sure you will receive many commendations.</text>
+		<text bitflag="3393" id1="234598" id2="17" version="1065353216">I will see to it you are properly recognized for your contributions to Coronet City's ecosystem.</text>
+		<text bitflag="3393" id1="234602" id2="17" version="1065353216">Without the precise materials, Coronet City's water resources will become unalterably toxic.</text>
+		<text bitflag="3393" id1="234605" id2="17" version="1065353216">Attend my words carefully, gentlebeings. It is absolutely vital you assist me. Coronet City is in prodigious danger!</text>
+		<text bitflag="3393" id1="234607" id2="17" version="1065353216">Attend my words carefully, gentlebeing. It is absolutely vital you assist me. Coronet City is in prodigious danger!</text>
+		<text bitflag="3393" id1="234609" id2="17" version="1065353216">The Corellian Chemical Corporation's main factory was obliterated in the last bombardment. Its pipelines are rupturing into the underground aquifer.</text>
+		<text bitflag="3393" id1="234611" id2="17" version="1065353216">Unless we repair the damage, Coronet City's water resources will become unalterably toxic in a few hours. Everyone consuming it will perish--potentially millions.</text>
+		<text bitflag="1345" id1="234612" id2="17" version="1065353216">The enemy wants as many people dead as possible.</text>
+		<text bitflag="1360" id1="234612" id2="17" version="1065353216">That's what the Empire hopes.</text>
+		<text bitflag="3393" id1="234613" id2="17" version="1065353216">My calculations indicate at least five-hundred thousand deaths in the first hour alone. That is simply unacceptable.</text>
+		<text bitflag="1345" id1="234615" id2="17" version="1065353216">You must warn everyone to avoid the water until we can make it safe.</text>
+		<text bitflag="1360" id1="234615" id2="17" version="1065353216">Alert the authorities.</text>
+		<text bitflag="3393" id1="234616" id2="17" version="1065353216">The hostilities here have disrupted communications. There is no chance of warning everyone. We must act.</text>
+		<text bitflag="1345" id1="234618" id2="17" version="1065353216">We're having a hard enough time getting supplies here as it is. We can't afford to airlift water.</text>
+		<text bitflag="1360" id1="234618" id2="17" version="1065353216">The army needs its water.</text>
+		<text bitflag="3393" id1="234619" id2="17" version="1065353216">Your own clan's needs are not the point. This city is home to millions.</text>
+		<text bitflag="1345" id1="234621" id2="17" version="1065353216">I only drink poisonous beverages when I'm at the cantina--and even then, rarely.</text>
+		<text bitflag="1360" id1="234621" id2="17" version="1065353216">I prefer my water clean.</text>
+		<text bitflag="3393" id1="234622" id2="17" version="1065353216">Shall I infer you have a personal stake in this? I suppose that's helpful.</text>
+		<text bitflag="1360" id1="234624" id2="17" version="1065353216">What species are you?</text>
+		<text bitflag="3393" id1="234625" id2="17" version="1065353216">If you must know, I am a Drall. More importantly, I am Doctor Ernisto Misar, senior environmental specialist.</text>
+		<text bitflag="1345" id1="234627" id2="17" version="1065353216">No one's going to die, short fry... but someone will make a fortune selling bottled water.</text>
+		<text bitflag="1360" id1="234627" id2="17" version="1065353216">Stop panicking, little thing.</text>
+		<text bitflag="3393" id1="234628" id2="17" version="1065353216">Your words do not make any sense. Is the atmosphere more contaminated at your breathing height?</text>
+		<text bitflag="3393" id1="234630" id2="17" version="1065353216">My work clan can repair the ruptured pipelines, but they require specialized materials--all of which are in the combat zone nearby.</text>
+		<text bitflag="3393" id1="234632" id2="17" version="1065353216">You have the strength of numbers and are obviously skilled at battle. You could easily obtain the materials I require.</text>
+		<text bitflag="1360" id1="234633" id2="17" version="1065353216">Tell us where to go.</text>
+		<text bitflag="1360" id1="234635" id2="17" version="1065353216">We'll handle the combat zone.</text>
+		<text bitflag="1360" id1="234637" id2="17" version="1065353216">No, we can't. [Refuse quest]</text>
+		<text bitflag="3393" id1="234639" id2="17" version="1065353216">Based on your appearance, I surmise you are a Jedi. You could easily survive long enough to obtain the materials I require.</text>
+		<text bitflag="3393" id1="234640" id2="17" version="1065353216">I am a scientist, not a soldier. You, on the other hand, are a soldier. Will you obtain the materials I require?</text>
+		<text bitflag="3393" id1="234641" id2="17" version="1065353216">Since you are not running about in blind panic, I assume you have martial skills I lack. Can you obtain the materials I need?</text>
+		<text bitflag="1360" id1="234642" id2="17" version="1065353216">Point me to the materials.</text>
+		<text bitflag="1360" id1="234643" id2="17" version="1065353216">Leave the combat zone to me.</text>
+		<text bitflag="3393" id1="234644" id2="17" version="1065353216">I will provide you with a complete list of what I require. Once you have everything, return to me immediately.</text>
+		<text bitflag="1360" id1="234646" id2="17" version="1065353216">Learn to fight. [Refuse quest]</text>
+		<text bitflag="3393" id1="234647" id2="17" version="1065353216">When you become thirsty from all this fighting, you'll regret not helping.</text>
+		<text bitflag="3393" id1="234651" id2="17" version="1065353216">Please do not disturb me. Performing calculations in a war zone is not as easy as it appears.</text>
+	</file_content>
+</stb_file>

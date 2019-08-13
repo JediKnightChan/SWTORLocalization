@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="23">
+	<unit bitflag="3393" id1="604615" id2="17" version="1065353216">
+		<source>Padawan, turn back. Leave this place--leave me. I am dying.</source>
+		<target>Падаван, уходи. Оставь это место... оставь меня. Я умираю.</target>
+	</unit>
+	<unit bitflag="3393" id1="604617" id2="17" version="1065353216">
+		<source>Flesh Raiders in this ruin. More powerful than we've seen.</source>
+		<target>Раздиратели в этих руинах. Сильнее, чем мы когда-либо видели.</target>
+	</unit>
+	<unit bitflag="1345" id1="604618" id2="17" version="1065353216">
+		<source>Master Orgus sent me to drive back the Flesh Raiders.</source>
+		<target>Мастер Оргус послал меня отбросить раздирателей.</target>
+	</unit>
+	<unit bitflag="1360" id1="604618" id2="17" version="1065353216">
+		<source>That's why I'm here.</source>
+		<target>Потому я и здесь.</target>
+	</unit>
+	<unit bitflag="3393" id1="604619" id2="17" version="1065353216">
+		<source>No. These Flesh Raiders control the Force.</source>
+		<target>Нет. Эти раздиратели владеют Силой.</target>
+	</unit>
+	<unit bitflag="1345" id1="604621" id2="17" version="1065353216">
+		<source>What's your name? How'd you get here?</source>
+		<target>Как тебя зовут? Как ты сюда попал?</target>
+	</unit>
+	<unit bitflag="1360" id1="604621" id2="17" version="1065353216">
+		<source>Who are you?</source>
+		<target>Кто ты?</target>
+	</unit>
+	<unit bitflag="3393" id1="604622" id2="17" version="1065353216">
+		<source>Laotah. Defender of the Jedi Temple.</source>
+		<target>Лаотах. Защитник Храма джедаев.</target>
+	</unit>
+	<unit bitflag="1345" id1="604624" id2="17" version="1065353216">
+		<source>The enemy was obviously too much for you.</source>
+		<target>Враги явно были слишком сильны.</target>
+	</unit>
+	<unit bitflag="1360" id1="604624" id2="17" version="1065353216">
+		<source>You're a mess.</source>
+		<target>Тебе досталось.</target>
+	</unit>
+	<unit bitflag="3393" id1="604625" id2="17" version="1065353216">
+		<source>Barely escaped. Can't go on with these wounds.</source>
+		<target>Едва спасся. Не могу идти дальше с этими ранами.</target>
+	</unit>
+	<unit bitflag="3393" id1="604627" id2="17" version="1065353216">
+		<source>Surveillance monitors picked up Flesh Raiders entering this ruin. Came to investigate. Shouldn't have come alone.</source>
+		<target>Скрытые камеры показали, как раздиратели входят в руины. Отправился разузнать. Не следовало идти в одиночку.</target>
+	</unit>
+	<unit bitflag="3393" id1="604629" id2="17" version="1065353216">
+		<source>This place--strong in the dark side. Flesh Raiders channel their hatred here, feed on the darkness. They grow powerful.</source>
+		<target>Это место... здесь сильна Тёмная сторона. Раздиратели здесь концентрируют свою ненависть, питаются Тьмой. Становятся сильнее.</target>
+	</unit>
+	<unit bitflag="1345" id1="604630" id2="17" version="1065353216">
+		<source>Powerful or not, there's no one else coming.</source>
+		<target>Сильнее или нет, больше никто не придёт на подмогу.</target>
+	</unit>
+	<unit bitflag="1360" id1="604630" id2="17" version="1065353216">
+		<source>Then I have to stop them.</source>
+		<target>Тогда мне нужно их остановить.</target>
+	</unit>
+	<unit bitflag="1345" id1="604633" id2="17" version="1065353216">
+		<source>An alien commands the Flesh Raiders. Is he here?</source>
+		<target>Раздирателями командует ксенос. Он здесь?</target>
+	</unit>
+	<unit bitflag="1360" id1="604633" id2="17" version="1065353216">
+		<source>Have you seen their leader?</source>
+		<target>Ты видел их главаря?</target>
+	</unit>
+	<unit bitflag="3393" id1="604634" id2="17" version="1065353216">
+		<source>Don't know. Everything grows dark. Can't see....</source>
+		<target>Не знаю. Всё темнеет. Не вижу...</target>
+	</unit>
+	<unit bitflag="1345" id1="604636" id2="17" version="1065353216">
+		<source>Then I'll meet their hatred with my own and kill every last one.</source>
+		<target>Тогда я отвечу на их ненависть своей и перебью всех до единого.</target>
+	</unit>
+	<unit bitflag="1360" id1="604636" id2="17" version="1065353216">
+		<source>If they can do it, so can I!</source>
+		<target>Если они могут, то смогу и я.</target>
+	</unit>
+	<unit bitflag="3393" id1="604637" id2="17" version="1065353216">
+		<source>No--this is wrong. You don't know what you're doing....</source>
+		<target>Нет... это неправильно. Ты не знаешь, что делаешь...</target>
+	</unit>
+	<unit bitflag="3393" id1="604639" id2="17" version="1065353216">
+		<source>Turn back. The enemy's too strong. They have my lightsaber....</source>
+		<target>Уходи. Враг слишком силён. У них мой световой меч...</target>
+	</unit>
+	<unit bitflag="3393" id1="604641" id2="17" version="1065353216">
+		<source>Beware. This ruin is strong with the dark side of the Force.</source>
+		<target>Берегись. В этих руинах сильна Тёмная сторона Силы.</target>
+	</unit>
+</dialogue_file>

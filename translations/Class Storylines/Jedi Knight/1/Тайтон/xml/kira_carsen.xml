@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="4">
+	<unit bitflag="1345" id1="604610" id2="17" version="1065353216">
+		<source>Considering things here, leaving for Coruscant doesn't sound so bad.</source>
+		<target>Учитывая обстановку, покинуть Корусант - не так уж и плохо.</target>
+	</unit>
+	<unit bitflag="1345" id1="604611" id2="17" version="1065353216">
+		<source>Well aren't you something special? See you around....</source>
+		<target>Ну разве ты не чудо? Увидимся...</target>
+	</unit>
+	<unit bitflag="1345" id1="604612" id2="17" version="1065353216">
+		<source>I think you'd better talk to Master Orgus.</source>
+		<target>Думаю, тебе стоит поговорить с мастером Оргусом.</target>
+	</unit>
+	<unit bitflag="1345" id1="604613" id2="17" version="1065353216">
+		<source>Why do I get the feeling you're not supposed to be here?</source>
+		<target>Почему мне кажется, что тебе не следует быть здесь?</target>
+	</unit>
+</dialogue_file>

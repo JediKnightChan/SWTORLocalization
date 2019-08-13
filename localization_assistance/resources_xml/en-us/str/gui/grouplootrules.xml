@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/gui/grouplootrules.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="227455" version="1065353216">Free For All</text>
+		<text bitflag="321" id1="2" id2="227455" version="1065353216">Round Robin</text>
+		<text bitflag="321" id1="3" id2="227455" version="1065353216">Master Looter</text>
+		<text bitflag="321" id1="100" id2="227455" version="1065353216">Loot Threshold: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="101" id2="227455" version="1065353216">Loot Rule: &lt;&lt;1&gt;&gt;</text>
+	</file_content>
+</stb_file>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>145</strs>
+		<file_name>/resources/en-us/str/cnv/location/taris_imp/class/sith_warrior/darth_baras.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="507621" id2="17" version="1065353216">I am here. Let the war begin.</text>
+		<text bitflag="1345" id1="507622" id2="17" version="1065353216">Yes, time is of the essence. Lieutenant Pierce, Captain Quinn, bring my apprentice up to speed on our enemy's activity.</text>
+		<text bitflag="1345" id1="507624" id2="17" version="1065353216">Yes, my lord. It's a fairly complex situation....</text>
+		<text bitflag="1345" id1="507626" id2="17" version="1065353216">General Faraire, the War Trust's most senior member, is garrisoned in a fortified wing of the Republic's main base.</text>
+		<text bitflag="1345" id1="507628" id2="17" version="1065353216">He's got a huge army protecting him, more reinforcements on the way. We're outnumbered eight-to-one.</text>
+		<text bitflag="1345" id1="507630" id2="17" version="1065353216">My lord, the lieutenant's statistics are inexact, but the general thrust is sound. The numbers favor Faraire, but there are ways around that.</text>
+		<text bitflag="1345" id1="507631" id2="17" version="1065353216">If you have a plan, let's hear it.</text>
+		<text bitflag="1360" id1="507631" id2="17" version="1065353216">I'm all ears.</text>
+		<text bitflag="1345" id1="507632" id2="17" version="1065353216">Stick close to the captain, Lieutenant; you might learn a thing or two.</text>
+		<text bitflag="1360" id1="507632" id2="17" version="1065353216">Listen to Quinn, Pierce.</text>
+		<text bitflag="1345" id1="507633" id2="17" version="1065353216">Noted.</text>
+		<text bitflag="1345" id1="507635" id2="17" version="1065353216">Does Lieutenant Pierce rub you the wrong way, Quinn?</text>
+		<text bitflag="1360" id1="507635" id2="17" version="1065353216">You sound perturbed.</text>
+		<text bitflag="1345" id1="507636" id2="17" version="1065353216">I'm sure it's just a product of his enthusiasm.</text>
+		<text bitflag="1345" id1="507638" id2="17" version="1065353216">Now, to maximize our chances, we must coordinate three simultaneous strikes. One will destroy the base's power station....</text>
+		<text bitflag="1345" id1="507640" id2="17" version="1065353216">Another will sabotage its spaceport force field to thwart any reinforcements, and the last will force the conscripted regiments of Faraire's army to flee.</text>
+		<text bitflag="1360" id1="507641" id2="17" version="1065353216">It's straightforward then.</text>
+		<text bitflag="1345" id1="507642" id2="17" version="1065353216">What do these strikes entail?</text>
+		<text bitflag="1360" id1="507642" id2="17" version="1065353216">Give me the details.</text>
+		<text bitflag="1345" id1="507643" id2="17" version="1065353216">The details will be forthcoming, apprentice, but I do not need to hear them.</text>
+		<text bitflag="1360" id1="507645" id2="17" version="1065353216">That's a lot to deal with.</text>
+		<text bitflag="1345" id1="507646" id2="17" version="1065353216">War is never simple, apprentice.</text>
+		<text bitflag="1345" id1="507648" id2="17" version="1065353216">Quinn will coordinate from the base, and you will lead the front line offensive. Beyond that, decide how to assign your men. Goodbye.</text>
+		<text bitflag="1345" id1="507650" id2="17" version="1065353216">I'm the best choice for front line work. You need a soldier.</text>
+		<text bitflag="1345" id1="507652" id2="17" version="1065353216">I disagree. If the frontal assault isn't handled correctly, your route into the command center will be clogged with run-over battlefield soldiers.</text>
+		<text bitflag="1345" id1="507654" id2="17" version="1065353216">In my opinion, Jaesa should join you. She can use her power to see into the hearts of the enemy and identify the insecure ranks.</text>
+		<text bitflag="1345" id1="507655" id2="17" version="1065353216">I want Jaesa's insights on the battlefield.</text>
+		<text bitflag="1360" id1="507655" id2="17" version="1065353216">Jaesa will go.</text>
+		<text bitflag="1345" id1="507668" id2="17" version="1065353216">Suit up, Lieutenant. I want to see you in action firsthand.</text>
+		<text bitflag="1360" id1="507668" id2="17" version="1065353216">Pierce will go.</text>
+		<text bitflag="1345" id1="507677" id2="17" version="1065353216">I want Vette to learn more combat skills. She comes.</text>
+		<text bitflag="1360" id1="507677" id2="17" version="1065353216">Vette will go.</text>
+		<text bitflag="1345" id1="507786" id2="17" version="1065353216">Whatever you wish, my lord.</text>
+		<text bitflag="1345" id1="507788" id2="17" version="1065353216">That leaves Pierce and Jaesa for the power station demolition and spaceport sabotage.</text>
+		<text bitflag="1345" id1="507790" id2="17" version="1065353216">That leaves Vette and Jaesa for the power station demolition and spaceport sabotage.</text>
+		<text bitflag="1345" id1="507792" id2="17" version="1065353216">If the traps and mines that protect the power station aren't circumvented in time, you'll be under constant turret fire inside the Republic base.</text>
+		<text bitflag="1345" id1="507793" id2="17" version="1065353216">Vette, clear the way so the power station can be destroyed.</text>
+		<text bitflag="1360" id1="507793" id2="17" version="1065353216">Vette is best suited for that.</text>
+		<text bitflag="1345" id1="507798" id2="17" version="1065353216">Child's play.</text>
+		<text bitflag="1345" id1="507800" id2="17" version="1065353216">Unless Jaesa is able to lock the spaceport force field, Faraire's reinforcements will arrive in time to fight you inside the base.</text>
+		<text bitflag="1345" id1="507802" id2="17" version="1065353216">Jaesa, take out that power station.</text>
+		<text bitflag="1360" id1="507802" id2="17" version="1065353216">Jaesa will handle that.</text>
+		<text bitflag="1345" id1="507807" id2="17" version="1065353216">I'll do what I can, master.</text>
+		<text bitflag="1345" id1="507808" id2="17" version="1065353216">I will do my best, my lord.</text>
+		<text bitflag="1345" id1="507810" id2="17" version="1065353216">Unless Pierce can lock the spaceport force field in time, you'll face Faraire's reinforcements inside the base.</text>
+		<text bitflag="1345" id1="507812" id2="17" version="1065353216">Don't worry about me, Captain.</text>
+		<text bitflag="1345" id1="507814" id2="17" version="1065353216">Lieutenant, take out that power station.</text>
+		<text bitflag="1360" id1="507814" id2="17" version="1065353216">Pierce will handle that.</text>
+		<text bitflag="1345" id1="507819" id2="17" version="1065353216">Done.</text>
+		<text bitflag="1345" id1="507821" id2="17" version="1065353216">Unless Jaesa and Moff Hurdenn's technicians can lock the spaceport force field in time, you'll face Faraire's reinforcements inside the base.</text>
+		<text bitflag="1345" id1="507823" id2="17" version="1065353216">I'm not wild about being sent to tinker, but I'll give it my best, master.</text>
+		<text bitflag="1345" id1="507824" id2="17" version="1065353216">I will try to figure out the Republic's systems swiftly, my lord.</text>
+		<text bitflag="1345" id1="507826" id2="17" version="1065353216">Unless Vette and Moff Hurdenn's technicians can lock the spaceport force field in time, you'll face Faraire's reinforcements inside the base.</text>
+		<text bitflag="1345" id1="507828" id2="17" version="1065353216">Not exactly my forte, but I'll do the best I can.</text>
+		<text bitflag="1345" id1="507830" id2="17" version="1065353216">Pierce, since I denied you your preference, choose which of these assaults you want.</text>
+		<text bitflag="1360" id1="507830" id2="17" version="1065353216">Let the lieutenant pick.</text>
+		<text bitflag="1345" id1="507831" id2="17" version="1065353216">I know how the Republic systems work. I can sabotage their spaceport.</text>
+		<text bitflag="1345" id1="507833" id2="17" version="1065353216">And I can dismantle the traps and mines at the power station with my eyes closed. But, uh, I'll keep one open anyway.</text>
+		<text bitflag="1345" id1="507836" id2="17" version="1065353216">I guess that leaves the power station for me. Not the excitement I was hoping for, but I'll do my best.</text>
+		<text bitflag="1345" id1="507838" id2="17" version="1065353216">And I'll do everything I can to knock out that power station.</text>
+		<text bitflag="1345" id1="507840" id2="17" version="1065353216">Unless Pierce locks the spaceport force field, Faraire's reinforcements will arrive in time to fight you inside the base.</text>
+		<text bitflag="1345" id1="507842" id2="17" version="1065353216">Won't be an issue.</text>
+		<text bitflag="1345" id1="507844" id2="17" version="1065353216">In your opinion, who is better suited for this assault?</text>
+		<text bitflag="1360" id1="507844" id2="17" version="1065353216">Who do you suggest, Quinn?</text>
+		<text bitflag="1345" id1="507845" id2="17" version="1065353216">With help form Moff Hurdenn's technicians, Jaesa may be able to sabotage the spaceport force field in time.</text>
+		<text bitflag="1345" id1="507847" id2="17" version="1065353216">But with Vette's background in breaking and entering, she should make quick work of the power station traps.</text>
+		<text bitflag="1345" id1="507848" id2="17" version="1065353216">Vette, destroy that power station; Jaesa, sabotage the spaceport.</text>
+		<text bitflag="1360" id1="507848" id2="17" version="1065353216">I wholeheartedly agree.</text>
+		<text bitflag="1345" id1="507851" id2="17" version="1065353216">I want Vette to sabotage the spaceport and Jaesa to destroy the power station.</text>
+		<text bitflag="1360" id1="507851" id2="17" version="1065353216">I disagree.</text>
+		<text bitflag="1345" id1="507854" id2="17" version="1065353216">If that makes sense to you, assign them as you see fit.</text>
+		<text bitflag="1360" id1="507854" id2="17" version="1065353216">I don't care.</text>
+		<text bitflag="1345" id1="507855" id2="17" version="1065353216">In that case, yes, Vette, you will destroy the power station. Jaesa, do the best you can to sabotage that force field.</text>
+		<text bitflag="1345" id1="507859" id2="17" version="1065353216">Doesn't excite me, but I'll do my best.</text>
+		<text bitflag="1345" id1="507860" id2="17" version="1065353216">I'll be as swift as I can be.</text>
+		<text bitflag="1345" id1="507862" id2="17" version="1065353216">Yeah, I'll try to figure that out.</text>
+		<text bitflag="1345" id1="507864" id2="17" version="1065353216">Mines and traps are like kid toys to me. No problem.</text>
+		<text bitflag="1345" id1="507866" id2="17" version="1065353216">Assaults have been assigned, my lord. Once you've cleared the way on the front, invade General Faraire's command center at will.</text>
+		<text bitflag="1345" id1="507868" id2="17" version="1065353216">Let's get this war started! My lord, any final words for the troops?</text>
+		<text bitflag="1345" id1="507869" id2="17" version="1065353216">If you value your lives, do not fail me. The consequences will be dire.</text>
+		<text bitflag="1360" id1="507869" id2="17" version="1065353216">Succeed or else.</text>
+		<text bitflag="1345" id1="507870" id2="17" version="1065353216">Motivational.</text>
+		<text bitflag="1345" id1="507872" id2="17" version="1065353216">Today, we fight as one. I believe in every one of you. Join me in victory!</text>
+		<text bitflag="1360" id1="507872" id2="17" version="1065353216">Together, we triumph.</text>
+		<text bitflag="1345" id1="507873" id2="17" version="1065353216">If that doesn't inspire, nothing will.</text>
+		<text bitflag="1345" id1="507875" id2="17" version="1065353216">I'm about action, not speeches.</text>
+		<text bitflag="1360" id1="507875" id2="17" version="1065353216">They don't need a pep talk.</text>
+		<text bitflag="1345" id1="507876" id2="17" version="1065353216">Brilliant.</text>
+		<text bitflag="1345" id1="507878" id2="17" version="1065353216">Good luck, my lord. I'll be coordinating the attacks via holo.</text>
+		<text bitflag="1345" id1="507880" id2="17" version="1065353216">Don't worry, Captain. The real soldiers have got this one.</text>
+		<text bitflag="1345" id1="507889" id2="17" version="1065353216">My lord, I am preparing for my assault on Taris.</text>
+		<text bitflag="1345" id1="507890" id2="17" version="1065353216">Excellent. Your mission on Taris is to take down the Republic's entire Strategic High Command.</text>
+		<text bitflag="1345" id1="507892" id2="17" version="1065353216">The War Trust--the four generals who implement the bulk of the Republic military force's strategic planning--are all on Taris as we speak.</text>
+		<text bitflag="1345" id1="507894" id2="17" version="1065353216">Normally they're never together in one place. This is an incredible opportunity.</text>
+		<text bitflag="1345" id1="507895" id2="17" version="1065353216">The Republic will pay for such a blunder.</text>
+		<text bitflag="1360" id1="507895" id2="17" version="1065353216">I shall seize it.</text>
+		<text bitflag="1345" id1="507896" id2="17" version="1065353216">It won't be easy. The War Trust generals are master strategists.</text>
+		<text bitflag="1345" id1="507898" id2="17" version="1065353216">It must be something very important for them to expose themselves like this.</text>
+		<text bitflag="1360" id1="507898" id2="17" version="1065353216">What could they be up to?</text>
+		<text bitflag="1345" id1="507899" id2="17" version="1065353216">Truthfully, I don't care about their agenda--the War Trust generals themselves are the true threat.</text>
+		<text bitflag="1345" id1="507901" id2="17" version="1065353216">Tell me about these generals.</text>
+		<text bitflag="1360" id1="507901" id2="17" version="1065353216">Who are they?</text>
+		<text bitflag="1345" id1="507902" id2="17" version="1065353216">The War Trust has stretched the Republic's resources and fought us to a standstill time and again. They are master strategists.</text>
+		<text bitflag="1345" id1="507904" id2="17" version="1065353216">Generals Faraire, Minst, Durant and Frellka should not be taken lightly.</text>
+		<text bitflag="1345" id1="507906" id2="17" version="1065353216">Each will likely be protected by his own elite guard, and they have all the Republic forces on Taris at their disposal.</text>
+		<text bitflag="1360" id1="507907" id2="17" version="1065353216">I'll defeat all our enemies.</text>
+		<text bitflag="1345" id1="507908" id2="17" version="1065353216">If the War Trust can be killed, that is in effect what will be achieved.</text>
+		<text bitflag="1360" id1="507910" id2="17" version="1065353216">Bad news.</text>
+		<text bitflag="1345" id1="507911" id2="17" version="1065353216">This will likely be the largest scale assault you have ever undertaken.</text>
+		<text bitflag="1360" id1="507913" id2="17" version="1065353216">Sounds thrilling.</text>
+		<text bitflag="1345" id1="507914" id2="17" version="1065353216">Do not approach this endeavor frivolously, apprentice. Your task on Taris represents the largest scale assault of your career.</text>
+		<text bitflag="1345" id1="507916" id2="17" version="1065353216">Moff Hurdenn leads the Imperial forces on the planet. He will provide whatever resources he can.</text>
+		<text bitflag="1345" id1="507918" id2="17" version="1065353216">Shuttle to the surface and seek him out, immediately.</text>
+		<text bitflag="1345" id1="507922" id2="17" version="1065353216">Why have you gone to Taris? I specifically directed you to stop the siege of Darth Vengean's flagship and kill Admiral Monk.</text>
+		<text bitflag="1345" id1="507924" id2="17" version="1065353216">Monk is the most elusive of your targets. This is our chance to destroy him.</text>
+		<text bitflag="1345" id1="507926" id2="17" version="1065353216">Handle the conflict in space first, apprentice. That is an order.</text>
+		<text bitflag="1345" id1="507928" id2="17" version="1065353216">Excellent. Now that Admiral Monk and the Jedi have been neutralized, the Republic's Strategic High Command is all that remains.</text>
+		<text bitflag="1345" id1="507931" id2="17" version="1065353216">In that case, yes, Vette, you will destroy the power station. Broonmark, do the best you can to sabotage that force field.</text>
+		<text bitflag="3393" id1="507933" id2="17" version="1065353216">We are ready! We are unleashed!</text>
+		<text bitflag="1345" id1="507935" id2="17" version="1065353216">Unless Broonmark and Moff Hurdenn's technicians can lock the spaceport force field in time, you'll face Faraire's reinforcements inside the base.</text>
+		<text bitflag="3393" id1="507937" id2="17" version="1065353216">We break anything. We are ready!</text>
+		<text bitflag="1345" id1="507939" id2="17" version="1065353216">With help from Moff Hurdenn's technicians, Broonmark may be able to sabotage the spaceport force field in time.</text>
+		<text bitflag="1345" id1="507941" id2="17" version="1065353216">In my opinion, Broonmark should join you. If you are able to identify the conscripted regiments, he can strike the most fear into them.</text>
+		<text bitflag="1345" id1="507942" id2="17" version="1065353216">The lieutenant is savvy enough to identify the conscripts, and the Talz will do the intimidating.</text>
+		<text bitflag="1360" id1="507942" id2="17" version="1065353216">Pierce and Broonmark will go.</text>
+		<text bitflag="1345" id1="507943" id2="17" version="1065353216">I want the benefit of Jaesa's insights, and Vette needs to work on intimidation.</text>
+		<text bitflag="1360" id1="507943" id2="17" version="1065353216">Jaesa and Vette will go.</text>
+		<text bitflag="1345" id1="507944" id2="17" version="1065353216">The Talz is best suited to terrorize the enemy.</text>
+		<text bitflag="1360" id1="507944" id2="17" version="1065353216">Broonmark will go.</text>
+		<text bitflag="1345" id1="507947" id2="17" version="1065353216">Jaesa and Broonmark should join you. Jaesa can see into the hearts of the enemy and identify the insecure ranks, and Broonmark will be best at intimidating them into running.</text>
+		<text bitflag="1345" id1="507948" id2="17" version="1065353216">Quinn's right. I want the benefit of Jaesa's insights, and the Talz can terrorize like no other.</text>
+		<text bitflag="1360" id1="507948" id2="17" version="1065353216">Jaesa and Broonmark will go.</text>
+		<text bitflag="1345" id1="507953" id2="17" version="1065353216">That leaves Pierce and Broonmark for the power station demolition and spaceport sabotage.</text>
+		<text bitflag="1345" id1="507955" id2="17" version="1065353216">That leaves Vette and Broonmark for the power station demolition and spaceport sabotage.</text>
+		<text bitflag="1345" id1="507957" id2="17" version="1065353216">My lord, with you overseeing the frontal assault, that leaves Pierce and Vette to handle the power station demolition and spaceport sabotage.</text>
+		<text bitflag="1345" id1="507960" id2="17" version="1065353216">I want Vette to sabotage the spaceport and Broonmark to destroy the power station.</text>
+		<text bitflag="1360" id1="507960" id2="17" version="1065353216">I disagree.</text>
+		<text bitflag="1345" id1="507961" id2="17" version="1065353216">Vette, destroy that power station; Broonmark, sabotage the spaceport.</text>
+		<text bitflag="1360" id1="507961" id2="17" version="1065353216">I wholeheartedly agree.</text>
+		<text bitflag="3393" id1="507963" id2="17" version="1065353216">Then we are ready for war. Ready to destroy the enemy's power now!</text>
+		<text bitflag="1345" id1="507965" id2="17" version="1065353216">Broonmark, clear the way so the power station can be destroyed.</text>
+		<text bitflag="1360" id1="507965" id2="17" version="1065353216">I choose Broonmark</text>
+		<text bitflag="3393" id1="507966" id2="17" version="1065353216">We are ready, clan leader.</text>
+		<text bitflag="1345" id1="754314" id2="17" version="1065353216">That leaves Pierce and Vette to handle the power station demolition and the spaceport sabotage.</text>
+		<text bitflag="1345" id1="758094" id2="17" version="1065353216">Very good, my lord.</text>
+	</file_content>
+</stb_file>

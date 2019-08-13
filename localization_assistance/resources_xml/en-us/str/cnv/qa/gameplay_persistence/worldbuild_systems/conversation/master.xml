@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>9</strs>
+		<file_name>/resources/en-us/str/cnv/qa/gameplay_persistence/worldbuild_systems/conversation/master.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1036041" id2="17" version="1065353216">BVT for quest item</text>
+		<text bitflag="336" id1="1036042" id2="17" version="1065353216">Complete</text>
+		<text bitflag="1345" id1="1036045" id2="17" version="1065353216">I am here to serve you!</text>
+		<text bitflag="1345" id1="1036048" id2="17" version="1065353216">Hello I will take 10 credits from you</text>
+		<text bitflag="336" id1="1036049" id2="17" version="1065353216">Take Them</text>
+		<text bitflag="1345" id1="1036050" id2="17" version="1065353216">I wil give you 30 Credits</text>
+		<text bitflag="336" id1="1036051" id2="17" version="1065353216">Yar!</text>
+		<text bitflag="321" id1="1036052" id2="17" version="1065353216">Now i will take 40 Credits from you</text>
+		<text bitflag="336" id1="1036053" id2="17" version="1065353216">No!</text>
+	</file_content>
+</stb_file>

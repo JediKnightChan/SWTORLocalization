@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra/bronze/body_of_evidence/cantina_doorman.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="720191" id2="17" version="1065353216">You done?</text>
+		<text bitflag="3393" id1="720193" id2="17" version="1065353216">I'll just leave this for the Chiss to find, then....</text>
+		<text bitflag="3393" id1="720194" id2="17" version="1065353216">Go on. I'll watch the door.</text>
+		<text bitflag="1345" id1="720196" id2="17" version="1065353216">I'm working for Breerdin.</text>
+		<text bitflag="3393" id1="720197" id2="17" version="1065353216">Go on in. But be careful--the delegate's bodyguard droids are still inside, and on full alert.</text>
+		<text bitflag="3393" id1="720199" id2="17" version="1065353216">No unauthorized entrance.</text>
+	</file_content>
+</stb_file>

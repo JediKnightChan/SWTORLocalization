@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="8">
+	<unit bitflag="321" id1="457541" id2="17" version="1065353216">
+		<source>[This is the ancient Forge, where millennia of Jedi have constructed their lightsabers.]</source>
+		<target>[Это древняя Кузница, где на протяжении тысячелетий джедаи создавали световые мечи]</target>
+	</unit>
+	<unit bitflag="1345" id1="457542" id2="17" version="1065353216">
+		<source>I'll have the power to strike down all my enemies....</source>
+		<target>У меня будет мощь, достаточная, чтобы сразить всех моих врагов...</target>
+	</unit>
+	<unit bitflag="1360" id1="457542" id2="17" version="1065353216">
+		<source>[Use Bengel Morr's knowledge]</source>
+		<target>[Использовать знания Бенгела Морра]</target>
+	</unit>
+	<unit bitflag="321" id1="472752" id2="17" version="1065353216">
+		<source>[The Forge stands silent.]</source>
+		<target>[В кузнице стоит тишина]</target>
+	</unit>
+	<unit bitflag="1345" id1="472753" id2="17" version="1065353216">
+		<source>This weapon will be a light in the darkness....</source>
+		<target>Это оружие будет лучом света во тьме...</target>
+	</unit>
+	<unit bitflag="1360" id1="472753" id2="17" version="1065353216">
+		<source>[Make a Jedi lightsaber]</source>
+		<target>[Создать световой меч джедая]</target>
+	</unit>
+	<unit bitflag="1345" id1="472755" id2="17" version="1065353216">
+		<source>I need to think about this....</source>
+		<target>Мне нужно подумать...</target>
+	</unit>
+	<unit bitflag="1360" id1="472755" id2="17" version="1065353216">
+		<source>I can't decide.</source>
+		<target>Не могу решить.</target>
+	</unit>
+</dialogue_file>

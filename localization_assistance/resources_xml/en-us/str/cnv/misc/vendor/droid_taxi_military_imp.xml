@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>4</strs>
+		<file_name>/resources/en-us/str/cnv/misc/vendor/droid_taxi_military_imp.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="754071" id2="17" version="1065353216">Displaying all authorized destinations.</text>
+		<text bitflag="1345" id1="754072" id2="17" version="1065353216">At your service, sir.</text>
+		<text bitflag="1345" id1="754073" id2="17" version="1065353216">At your service, my lord.</text>
+		<text bitflag="1345" id1="754076" id2="17" version="1065353216">Travel route is confirmed.</text>
+	</file_content>
+</stb_file>

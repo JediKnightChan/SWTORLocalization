@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>2</strs>
+		<file_name>/resources/en-us/str/abl/player/recently_died.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="0" id2="86196" version="1065353216">Recently Died</text>
+		<text bitflag="321" id1="1" id2="86196" version="1065353216">Used to apply the recently died effect to a player</text>
+	</file_content>
+</stb_file>

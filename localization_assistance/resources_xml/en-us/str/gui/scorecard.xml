@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>57</strs>
+		<file_name>/resources/en-us/str/gui/scorecard.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="194675" version="1065353216">Crash Site</text>
+		<text bitflag="321" id1="2" id2="194675" version="1065353216">Command Center</text>
+		<text bitflag="321" id1="3" id2="194675" version="1065353216">Generator</text>
+		<text bitflag="321" id1="4" id2="194675" version="1065353216">Enemy controlled</text>
+		<text bitflag="321" id1="5" id2="194675" version="1065353216">Friendly controlled</text>
+		<text bitflag="321" id1="6" id2="194675" version="1065353216">Not owned</text>
+		<text bitflag="321" id1="7" id2="194675" version="1065353216">Capture its Targeting Console</text>
+		<text bitflag="321" id1="8" id2="194675" version="1065353216">Defend its Targeting Console</text>
+		<text bitflag="321" id1="9" id2="194675" version="1065353216">&lt;&lt;1&gt;&gt;&lt;br\&gt;&lt;&lt;2&gt;&gt;&lt;br\&gt;&lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="10" id2="194675" version="1065353216">Your ship^F</text>
+		<text bitflag="321" id1="11" id2="194675" version="1065353216">Enemy ship^F</text>
+		<text bitflag="321" id1="12" id2="194675" version="1065353216">remaining shield power^n</text>
+		<text bitflag="321" id1="13" id2="194675" version="1065353216">&lt;&lt;g:1,2&gt;&gt;</text>
+		<text bitflag="321" id1="14" id2="194675" version="1065353216">Timers</text>
+		<text bitflag="321" id1="15" id2="194675" version="1065353216">Gamestate: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="16" id2="194675" version="1065353216">Control Points</text>
+		<text bitflag="321" id1="17" id2="194675" version="1065353216">Scores:</text>
+		<text bitflag="321" id1="18" id2="194675" version="1065353216">Team A</text>
+		<text bitflag="321" id1="19" id2="194675" version="1065353216">Team B</text>
+		<text bitflag="321" id1="20" id2="194675" version="1065353216">Your Team: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="21" id2="194675" version="1065353216">A</text>
+		<text bitflag="321" id1="22" id2="194675" version="1065353216">B</text>
+		<text bitflag="321" id1="23" id2="194675" version="1065353216">Neutral</text>
+		<text bitflag="321" id1="24" id2="194675" version="1065353216">Team A Alt</text>
+		<text bitflag="321" id1="25" id2="194675" version="1065353216">Team B Alt</text>
+		<text bitflag="321" id1="26" id2="194675" version="1065353216">NONE</text>
+		<text bitflag="321" id1="27" id2="194675" version="1065353216">Your Team</text>
+		<text bitflag="321" id1="28" id2="194675" version="1065353216">The damage done to the enemy base</text>
+		<text bitflag="321" id1="29" id2="194675" version="1065353216">The damage done to your base</text>
+		<text bitflag="321" id1="30" id2="194675" version="1065353216">Western Panel Emplacement</text>
+		<text bitflag="321" id1="31" id2="194675" version="1065353216">Southern Middle Emplacement</text>
+		<text bitflag="321" id1="32" id2="194675" version="1065353216">The enemy shield is currently up any hit from a turret will temporarily disable it</text>
+		<text bitflag="321" id1="33" id2="194675" version="1065353216">The enemy shield is currently down any hits from a turret will damage the enemy base</text>
+		<text bitflag="321" id1="34" id2="194675" version="1065353216">Your shield is currently up any hit from a turret will temporarily disable it</text>
+		<text bitflag="321" id1="35" id2="194675" version="1065353216">Your shield is currently down any hits from a turret will damage your base</text>
+		<text bitflag="321" id1="36" id2="194675" version="1065353216">Eastern Tower Emplacement</text>
+		<text bitflag="321" id1="257" id2="194675" version="1065353216">Occupy the objective</text>
+		<text bitflag="321" id1="258" id2="194675" version="1065353216">Destroy enemy ships around the objective</text>
+		<text bitflag="321" id1="259" id2="194675" version="1065353216">Your Team's Progress</text>
+		<text bitflag="321" id1="260" id2="194675" version="1065353216">Their Team's Progress</text>
+		<text bitflag="321" id1="261" id2="194675" version="1065353216">A</text>
+		<text bitflag="321" id1="262" id2="194675" version="1065353216">B</text>
+		<text bitflag="321" id1="263" id2="194675" version="1065353216">C</text>
+		<text bitflag="321" id1="264" id2="194675" version="1065353216">D</text>
+		<text bitflag="321" id1="265" id2="194675" version="1065353216">E</text>
+		<text bitflag="321" id1="266" id2="194675" version="1065353216">F</text>
+		<text bitflag="321" id1="267" id2="194675" version="1065353216">G</text>
+		<text bitflag="321" id1="268" id2="194675" version="1065353216">H</text>
+		<text bitflag="321" id1="269" id2="194675" version="1065353216">I</text>
+		<text bitflag="321" id1="270" id2="194675" version="1065353216">Destroy enemy turrets around the objective.</text>
+		<text bitflag="321" id1="271" id2="194675" version="1065353216">Destroy enemy drones to destroy the objective.</text>
+		<text bitflag="321" id1="272" id2="194675" version="1065353216">Control of this objective adds a kill multiplier of &lt;&lt;1&gt;&gt; to the team.</text>
+		<text bitflag="321" id1="273" id2="194675" version="1065353216">Kill multiplier for your team.</text>
+		<text bitflag="321" id1="274" id2="194675" version="1065353216">Kill multipler for their team.</text>
+		<text bitflag="321" id1="275" id2="194675" version="1065353216">Relics Turret</text>
+		<text bitflag="321" id1="276" id2="194675" version="1065353216">Jungle Turret</text>
+		<text bitflag="321" id1="277" id2="194675" version="1065353216">Palisade Turret</text>
+	</file_content>
+</stb_file>

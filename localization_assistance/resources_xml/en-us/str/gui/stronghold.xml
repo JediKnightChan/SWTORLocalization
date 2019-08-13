@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>371</strs>
+		<file_name>/resources/en-us/str/gui/stronghold.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="256" id2="781281" version="1065353216">Layouts</text>
+		<text bitflag="321" id1="257" id2="781281" version="1065353216">APPLY LAYOUT</text>
+		<text bitflag="321" id1="258" id2="781281" version="1065353216">Current Layout:</text>
+		<text bitflag="321" id1="259" id2="781281" version="1065353216">Alphabetical</text>
+		<text bitflag="321" id1="260" id2="781281" version="1065353216">Owned</text>
+		<text bitflag="321" id1="261" id2="781281" version="1065353216">Available</text>
+		<text bitflag="321" id1="262" id2="781281" version="1065353216">Show All</text>
+		<text bitflag="321" id1="263" id2="781281" version="1065353216">PLACE</text>
+		<text bitflag="321" id1="264" id2="781281" version="1065353216">APPLY CHANGES</text>
+		<text bitflag="321" id1="265" id2="781281" version="1065353216">RESET CHANGES</text>
+		<text bitflag="321" id1="266" id2="781281" version="1065353216">PICK UP</text>
+		<text bitflag="321" id1="267" id2="781281" version="1065353216">X Offset</text>
+		<text bitflag="321" id1="268" id2="781281" version="1065353216">Y Offset</text>
+		<text bitflag="321" id1="269" id2="781281" version="1065353216">Rotation</text>
+		<text bitflag="321" id1="270" id2="781281" version="1065353216">STRONGHOLD MANAGEMENT WINDOW</text>
+		<text bitflag="321" id1="271" id2="781281" version="1065353216">STRONGHOLD EXPANSION - &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="272" id2="781281" version="1065353216">STRONGHOLDS</text>
+		<text bitflag="321" id1="273" id2="781281" version="1065353216">Category</text>
+		<text bitflag="321" id1="274" id2="781281" version="1065353216">PURCHASE &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="275" id2="781281" version="1065353216">EXPAND</text>
+		<text bitflag="321" id1="276" id2="781281" version="1065353216">EXPANSIONS: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="277" id2="781281" version="1065353216">ACTIVATE &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="278" id2="781281" version="1065353216">This purchase will use guild funds.</text>
+		<text bitflag="321" id1="279" id2="781281" version="1065353216">Not enough credits in the guild bank for purchase.</text>
+		<text bitflag="321" id1="280" id2="781281" version="1065353216">REACTIVATE COST:</text>
+		<text bitflag="321" id1="281" id2="781281" version="1065353216">OCCUPANCY: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="282" id2="781281" version="1065353216">Subcategory</text>
+		<text bitflag="321" id1="283" id2="781281" version="1065353216">Object Positioning</text>
+		<text bitflag="321" id1="284" id2="781281" version="1065353216">Unlock this Stronghold room expansion for your Legacy.</text>
+		<text bitflag="321" id1="285" id2="781281" version="1065353216">Unlock this Stronghold room expansion for your guild.</text>
+		<text bitflag="321" id1="286" id2="781281" version="1065353216">Title:</text>
+		<text bitflag="321" id1="287" id2="781281" version="1065353216">Owner:</text>
+		<text bitflag="321" id1="288" id2="781281" version="1065353216">No Filter</text>
+		<text bitflag="321" id1="289" id2="781281" version="1065353216">+ &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="290" id2="781281" version="1065353216">EXIT TO STARSHIP</text>
+		<text bitflag="321" id1="291" id2="781281" version="1065353216">EXIT TO FLEET</text>
+		<text bitflag="321" id1="292" id2="781281" version="1065353216">STRONGHOLD ENTRANCE (&lt;&lt;1&gt;&gt;)</text>
+		<text bitflag="321" id1="293" id2="781281" version="1065353216">SUBSCRIBED!</text>
+		<text bitflag="321" id1="294" id2="781281" version="1065353216">SUBSCRIBE?</text>
+		<text bitflag="321" id1="295" id2="781281" version="1065353216">EXIT STRONGHOLD</text>
+		<text bitflag="321" id1="296" id2="781281" version="1065353216">Enables the Stronghold Hook Editor</text>
+		<text bitflag="321" id1="297" id2="781281" version="1065353216">Disables the Stronghold Hook Editor</text>
+		<text bitflag="321" id1="298" id2="781281" version="1065353216">Reset Decorations in Room
+
+This will pick up all decorations in the selected hook's room. This may include decorations in adjacent rooms.</text>
+		<text bitflag="321" id1="299" id2="781281" version="1065353216">Open the Decoration Window.</text>
+		<text bitflag="321" id1="300" id2="781281" version="1065353216">Open the Invite Dialog.</text>
+		<text bitflag="321" id1="301" id2="781281" version="1065353216">You have already purchased this Stronghold.</text>
+		<text bitflag="321" id1="302" id2="781281" version="1065353216">Preparing to travel...</text>
+		<text bitflag="321" id1="303" id2="781281" version="1065353216">Decorations</text>
+		<text bitflag="321" id1="304" id2="781281" version="1065353216">STRONGHOLDS</text>
+		<text bitflag="321" id1="305" id2="781281" version="1065353216">Personal</text>
+		<text bitflag="321" id1="306" id2="781281" version="1065353216">Guild</text>
+		<text bitflag="321" id1="307" id2="781281" version="1065353216">KEYRING</text>
+		<text bitflag="321" id1="308" id2="781281" version="1065353216">Owner</text>
+		<text bitflag="321" id1="309" id2="781281" version="1065353216">&gt; &lt;&lt;1&gt;&gt; People</text>
+		<text bitflag="321" id1="310" id2="781281" version="1065353216">DIRECTORY</text>
+		<text bitflag="321" id1="311" id2="781281" version="1065353216">PURCHASE</text>
+		<text bitflag="321" id1="312" id2="781281" version="1065353216">PUBLIC LISTINGS</text>
+		<text bitflag="321" id1="313" id2="781281" version="1065353216">STRONGHOLDS - PUBLIC LISTINGS</text>
+		<text bitflag="321" id1="314" id2="781281" version="1065353216">STRONGHOLDS - PERSONAL</text>
+		<text bitflag="321" id1="315" id2="781281" version="1065353216">STRONGHOLDS - GUILD</text>
+		<text bitflag="321" id1="316" id2="781281" version="1065353216">STRONGHOLDS - KEYRING</text>
+		<text bitflag="321" id1="317" id2="781281" version="1065353216">TOUR</text>
+		<text bitflag="321" id1="318" id2="781281" version="1065353216">GUILD PURCHASE</text>
+		<text bitflag="321" id1="319" id2="781281" version="1065353216">LEGACY PURCHASE</text>
+		<text bitflag="321" id1="320" id2="781281" version="1065353216">FILTERS</text>
+		<text bitflag="321" id1="321" id2="781281" version="1065353216">Republic</text>
+		<text bitflag="321" id1="322" id2="781281" version="1065353216">Empire</text>
+		<text bitflag="321" id1="323" id2="781281" version="1065353216">Both Factions</text>
+		<text bitflag="321" id1="324" id2="781281" version="1065353216">RESET</text>
+		<text bitflag="321" id1="325" id2="781281" version="1065353216">APPLY</text>
+		<text bitflag="321" id1="326" id2="781281" version="1065353216">This Stronghold is deep within enemy territory and cannot be reached with the usual travel routes available to your faction.
+
+You cannot afford the cost to smuggle yourself into this Stronghold.
+Smuggling Cost: &lt;font color='#00ff54'&gt;&amp;#164;&lt;&lt;1&gt;&gt;&lt;/font&gt;</text>
+		<text bitflag="321" id1="327" id2="781281" version="1065353216">= 100%</text>
+		<text bitflag="321" id1="328" id2="781281" version="1065353216">&gt; &lt;&lt;1&gt;&gt;%</text>
+		<text bitflag="321" id1="329" id2="781281" version="1065353216">Name</text>
+		<text bitflag="321" id1="330" id2="781281" version="1065353216">Prestige</text>
+		<text bitflag="321" id1="331" id2="781281" version="1065353216">Occupancy</text>
+		<text bitflag="321" id1="332" id2="781281" version="1065353216">Completion</text>
+		<text bitflag="321" id1="333" id2="781281" version="1065353216">TRAVEL</text>
+		<text bitflag="321" id1="334" id2="781281" version="1065353216">KEYS</text>
+		<text bitflag="321" id1="335" id2="781281" version="1065353216">INVITES</text>
+		<text bitflag="321" id1="336" id2="781281" version="1065353216">BANS</text>
+		<text bitflag="321" id1="337" id2="781281" version="1065353216">Private Access Only</text>
+		<text bitflag="321" id1="338" id2="781281" version="1065353216">Republic Access Only</text>
+		<text bitflag="321" id1="339" id2="781281" version="1065353216">Empire Access Only</text>
+		<text bitflag="321" id1="340" id2="781281" version="1065353216">Everyone</text>
+		<text bitflag="321" id1="341" id2="781281" version="1065353216">Stronghold Key: Gold</text>
+		<text bitflag="321" id1="342" id2="781281" version="1065353216">Stronghold Key: Silver</text>
+		<text bitflag="321" id1="343" id2="781281" version="1065353216">Stronghold Key: Bronze</text>
+		<text bitflag="321" id1="344" id2="781281" version="1065353216">KEY HOLDERS</text>
+		<text bitflag="321" id1="345" id2="781281" version="1065353216">SEND KEY</text>
+		<text bitflag="321" id1="346" id2="781281" version="1065353216">BAN</text>
+		<text bitflag="321" id1="347" id2="781281" version="1065353216">SHOW GUILD</text>
+		<text bitflag="321" id1="348" id2="781281" version="1065353216">INVITE</text>
+		<text bitflag="321" id1="349" id2="781281" version="1065353216">INVITE GROUP</text>
+		<text bitflag="321" id1="350" id2="781281" version="1065353216">REMOVE ALL INVITES</text>
+		<text bitflag="321" id1="351" id2="781281" version="1065353216">Do you wish to deactivate&lt;br&gt;&lt;&lt;1&gt;&gt;? All decorations will be picked up and returned to your personal collection.&lt;br&gt;Type 'CONFIRM' into the field to confirm.</text>
+		<text bitflag="321" id1="352" id2="781281" version="1065353216">REMOVE ALL BANS</text>
+		<text bitflag="321" id1="353" id2="781281" version="1065353216">Order By..</text>
+		<text bitflag="321" id1="354" id2="781281" version="1065353216">Filter By..</text>
+		<text bitflag="321" id1="355" id2="781281" version="1065353216">Key Type</text>
+		<text bitflag="321" id1="356" id2="781281" version="1065353216">Location</text>
+		<text bitflag="321" id1="357" id2="781281" version="1065353216">Faction</text>
+		<text bitflag="321" id1="358" id2="781281" version="1065353216">Bronze Key</text>
+		<text bitflag="321" id1="359" id2="781281" version="1065353216">Silver Key</text>
+		<text bitflag="321" id1="360" id2="781281" version="1065353216">Gold Key</text>
+		<text bitflag="321" id1="361" id2="781281" version="1065353216">SHARE KEYS</text>
+		<text bitflag="321" id1="362" id2="781281" version="1065353216">&lt;&lt;g:2,1&gt;&gt;</text>
+		<text bitflag="321" id1="363" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; would like to offer you a &lt;&lt;2&gt;&gt; to &lt;&lt;3&gt;&gt;.&lt;br&gt;&lt;br&gt;Your keyring currently has room for &lt;&lt;4&gt;&gt; more keys.</text>
+		<text bitflag="321" id1="364" id2="781281" version="1065353216">ACCEPT</text>
+		<text bitflag="321" id1="365" id2="781281" version="1065353216">DECLINE</text>
+		<text bitflag="321" id1="366" id2="781281" version="1065353216">KEY OFFER</text>
+		<text bitflag="321" id1="367" id2="781281" version="1065353216">Failed to send key offer to &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="368" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; is busy with another key offer.</text>
+		<text bitflag="321" id1="369" id2="781281" version="1065353216">&lt;&lt;g:1&gt;&gt; keyring is full</text>
+		<text bitflag="321" id1="370" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; declined your stronghold key offer.</text>
+		<text bitflag="321" id1="371" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; accepted your stronghold key offer.</text>
+		<text bitflag="321" id1="372" id2="781281" version="1065353216">STRONGHOLD PURCHASE OPTIONS</text>
+		<text bitflag="321" id1="373" id2="781281" version="1065353216">Show Unlocked</text>
+		<text bitflag="321" id1="374" id2="781281" version="1065353216">Show Available</text>
+		<text bitflag="321" id1="375" id2="781281" version="1065353216">&lt;font color='#&lt;&lt;1&gt;&gt;'&gt;EXPANSION COST:&lt;/font&gt; &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="376" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt;  is offline, another faction, or does not exist.</text>
+		<text bitflag="321" id1="377" id2="781281" version="1065353216">Your attempt to travel to this Stronghold has failed.</text>
+		<text bitflag="321" id1="378" id2="781281" version="1065353216">This Stronghold has reached its maximum population. Please wait until someone leaves.</text>
+		<text bitflag="321" id1="379" id2="781281" version="1065353216">You are not permitted to enter this Stronghold.</text>
+		<text bitflag="321" id1="380" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; is already a keyholder for this Stronghold. Cannot send a new key.</text>
+		<text bitflag="321" id1="381" id2="781281" version="1065353216">You cannot travel to a Stronghold while engaged in combat.</text>
+		<text bitflag="321" id1="382" id2="781281" version="1065353216">You cannot travel to a Stronghold yet. Please wait.</text>
+		<text bitflag="321" id1="383" id2="781281" version="1065353216">You cannot travel to a Stronghold from this area.</text>
+		<text bitflag="321" id1="384" id2="781281" version="1065353216">Your &lt;&lt;1&gt;&gt;  to &lt;&lt;2&gt;&gt;  has been changed to &lt;&lt;3&gt;&gt;</text>
+		<text bitflag="321" id1="385" id2="781281" version="1065353216">Your &lt;&lt;1&gt;&gt; to &lt;&lt;2&gt;&gt; has been revoked.</text>
+		<text bitflag="321" id1="386" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; is blacklisted and can not be given a key.</text>
+		<text bitflag="321" id1="387" id2="781281" version="1065353216">You cannot travel to your stronghold from this location.</text>
+		<text bitflag="321" id1="388" id2="781281" version="1065353216">Are you sure you want to unban everyone from this stronghold? This action cannot be undone.</text>
+		<text bitflag="321" id1="389" id2="781281" version="1065353216">UNBAN ALL</text>
+		<text bitflag="321" id1="390" id2="781281" version="1065353216">DEACTIVATE</text>
+		<text bitflag="321" id1="391" id2="781281" version="1065353216">Confirm</text>
+		<text bitflag="321" id1="392" id2="781281" version="1065353216">You have purchased this Stronghold!&lt;br&gt;&lt;br&gt;You can access your new Stronghold by switching to the PERSONAL tab and clicking the TRAVEL button.</text>
+		<text bitflag="321" id1="393" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; Gold Key</text>
+		<text bitflag="321" id1="394" id2="781281" version="1065353216">ABOUT STRONGHOLDS</text>
+		<text bitflag="321" id1="395" id2="781281" version="1065353216">Serving as both personal residence and seat of power, Galactic Strongholds are purchasable homes available on many civilized worlds. Each stronghold is designed for maximum customization and expansion, allowing the owner to decorate every room with their choice of furniture, personal items, trophies, and a tremendous variety of other items either crafted by hand or earned over the course of exciting adventures. In addition to expanding Strongholds with additional rooms, it's also possible to own multiple Strongholds at once, adding even more opportunities for customization! Owners can even invite their friends to visit and check out every hard-earned detail!
+
+Owning Strongholds, expanding their interiors, and decorating them with rare and exceptional items all bring tremendous prestige. Those with the highest prestige can vie for top spots on the public Stronghold Directory, earning a name for themselves as one of the galaxy's elite!</text>
+		<text bitflag="321" id1="396" id2="781281" version="1065353216">PRESTIGE: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="397" id2="781281" version="1065353216">OCCUPANCY: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="398" id2="781281" version="1065353216">EXPANSIONS: &lt;&lt;1&gt;&gt;/&lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="399" id2="781281" version="1065353216">MAXIMUM OCCUPANCY:</text>
+		<text bitflag="321" id1="400" id2="781281" version="1065353216">MAXIMUM DECORATIONS:</text>
+		<text bitflag="321" id1="401" id2="781281" version="1065353216">Unlocking room expansions requires a gold key.</text>
+		<text bitflag="321" id1="402" id2="781281" version="1065353216">Not enough credits for purchase.</text>
+		<text bitflag="321" id1="403" id2="781281" version="1065353216">Not enough Cartel Coins for purchase.</text>
+		<text bitflag="321" id1="404" id2="781281" version="1065353216">Show All</text>
+		<text bitflag="321" id1="405" id2="781281" version="1065353216">PURCHASE COST:</text>
+		<text bitflag="321" id1="406" id2="781281" version="1065353216">-&lt;&lt;1&gt;&gt;%</text>
+		<text bitflag="321" id1="407" id2="781281" version="1065353216">Edit Mode</text>
+		<text bitflag="321" id1="408" id2="781281" version="1065353216">Hide Hooks</text>
+		<text bitflag="321" id1="409" id2="781281" version="1065353216">You have offered &lt;&lt;1&gt;&gt; a &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="410" id2="781281" version="1065353216">AVAILABLE AT THIS DIRECTORY</text>
+		<text bitflag="321" id1="411" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; is already blacklisted under the name: &lt;&lt;2&gt;&gt;</text>
+		<text bitflag="321" id1="412" id2="781281" version="1065353216">Successfully blacklisted &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="414" id2="781281" version="1065353216">Blacklist attempt failed.</text>
+		<text bitflag="321" id1="415" id2="781281" version="1065353216">You have been kicked from &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="416" id2="781281" version="1065353216">You have been kicked from the Stronghold.</text>
+		<text bitflag="321" id1="417" id2="781281" version="1065353216">EXIT TO &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="418" id2="781281" version="1065353216">RETURN TO &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="419" id2="781281" version="1065353216">This Stronghold is deep within enemy territory and cannot be reached with the usual travel routes available to your faction.
+
+Would you like to smuggle yourself into the Stronghold?  Costs include supplies, fuel, and bribery of public officials.
+&lt;font color='#00ff54'&gt;&amp;#164;&lt;&lt;1&gt;&gt;&lt;/font&gt;</text>
+		<text bitflag="321" id1="420" id2="781281" version="1065353216">This Stronghold is deep within enemy territory and cannot be reached with the usual travel routes available to your faction.
+
+Would you like to hire a mercenary to smuggle you into the Stronghold?
+&lt;font color='#00ff54'&gt;&amp;#164;&lt;&lt;1&gt;&gt;&lt;/font&gt;</text>
+		<text bitflag="321" id1="421" id2="781281" version="1065353216">Insufficient funds.</text>
+		<text bitflag="321" id1="436" id2="781281" version="1065353216">Invited player not found.</text>
+		<text bitflag="321" id1="437" id2="781281" version="1065353216">Stronghold invitation failed.</text>
+		<text bitflag="321" id1="438" id2="781281" version="1065353216">Invited player is blacklisted from entering this stronghold.</text>
+		<text bitflag="321" id1="439" id2="781281" version="1065353216">Your invite was declined.</text>
+		<text bitflag="321" id1="440" id2="781281" version="1065353216">The invited player already has access to this stronghold.</text>
+		<text bitflag="321" id1="441" id2="781281" version="1065353216">Your invite was accepted.</text>
+		<text bitflag="321" id1="442" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; has invited you to &lt;&lt;2&gt;&gt; (invitation will expire in &lt;&lt;3&gt;&gt; seconds)</text>
+		<text bitflag="321" id1="443" id2="781281" version="1065353216">Accept Invitation</text>
+		<text bitflag="321" id1="444" id2="781281" version="1065353216">Decline Invitation</text>
+		<text bitflag="321" id1="445" id2="781281" version="1065353216">Invited player already has an outstanding invite to this stronghold.</text>
+		<text bitflag="321" id1="446" id2="781281" version="1065353216">Travel to Stronghold</text>
+		<text bitflag="321" id1="447" id2="781281" version="1065353216">Travel Now</text>
+		<text bitflag="321" id1="448" id2="781281" version="1065353216">Travel to Stronghold now?</text>
+		<text bitflag="321" id1="449" id2="781281" version="1065353216">Offline</text>
+		<text bitflag="321" id1="450" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; Silver Key</text>
+		<text bitflag="321" id1="451" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; Bronze Key</text>
+		<text bitflag="321" id1="452" id2="781281" version="1065353216">Show All Keys</text>
+		<text bitflag="321" id1="453" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; - Show Gold Keys</text>
+		<text bitflag="321" id1="454" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; - Show Silver Keys</text>
+		<text bitflag="321" id1="455" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; - Show Bronze Keys</text>
+		<text bitflag="321" id1="456" id2="781281" version="1065353216">Unable to invite &lt;&lt;1&gt;&gt;. This stronghold has exceeded the maximum number of allowed pending invites.</text>
+		<text bitflag="321" id1="458" id2="781281" version="1065353216">Stronghold</text>
+		<text bitflag="321" id1="462" id2="781281" version="1065353216">GUILD STRONGHOLDS</text>
+		<text bitflag="321" id1="463" id2="781281" version="1065353216">GUILD PUBLIC LISTING</text>
+		<text bitflag="321" id1="464" id2="781281" version="1065353216">DECORATIONS</text>
+		<text bitflag="321" id1="465" id2="781281" version="1065353216">GUILD DECORATIONS</text>
+		<text bitflag="321" id1="466" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; Prestige required for this Stronghold to appear in public listings.</text>
+		<text bitflag="321" id1="467" id2="781281" version="1065353216">Stronghold now publicly listed.</text>
+		<text bitflag="321" id1="468" id2="781281" version="1065353216">Stronghold removed from public listings.</text>
+		<text bitflag="321" id1="469" id2="781281" version="1065353216">Trade Emporium</text>
+		<text bitflag="321" id1="470" id2="781281" version="1065353216">Marketplace Cantina</text>
+		<text bitflag="321" id1="471" id2="781281" version="1065353216">Smuggler's Haven</text>
+		<text bitflag="321" id1="472" id2="781281" version="1065353216">Vacation Retreat</text>
+		<text bitflag="321" id1="473" id2="781281" version="1065353216">Imperial Sanctuary</text>
+		<text bitflag="321" id1="474" id2="781281" version="1065353216">Republic Sanctuary</text>
+		<text bitflag="321" id1="475" id2="781281" version="1065353216">Starfighter's Lounge</text>
+		<text bitflag="321" id1="476" id2="781281" version="1065353216">Temple of Light</text>
+		<text bitflag="321" id1="477" id2="781281" version="1065353216">Sith Academy</text>
+		<text bitflag="321" id1="478" id2="781281" version="1065353216">Temple of Darkness</text>
+		<text bitflag="321" id1="479" id2="781281" version="1065353216">Jedi Academy</text>
+		<text bitflag="321" id1="480" id2="781281" version="1065353216">Purchasing a Guild Flagship immediately provides your guild with several powerful features, including Flagship Transport, Orbital Support, and the ability to invade planets during Conquest Events.
+
+When you first unlock your Flagship, you will have access to the bridge, the escape pod array, and the lift between decks. Additional rooms and decks will require Flagship Plans to unlock. See the Flagship Commissioner for more details.</text>
+		<text bitflag="321" id1="481" id2="781281" version="1065353216">You have already purchased this Stronghold in the past, which means the cost of reactivating it will be zero credits.</text>
+		<text bitflag="321" id1="482" id2="781281" version="1065353216">Galactic Stronghold</text>
+		<text bitflag="321" id1="483" id2="781281" version="1065353216">As a subscriber, your stronghold's prestige rating is doubled!</text>
+		<text bitflag="321" id1="484" id2="781281" version="1065353216">Subscribe to double your stronghold's prestige rating!</text>
+		<text bitflag="321" id1="485" id2="781281" version="1065353216">Conquer a planet to temporarily double your guild's flagship prestige rating!</text>
+		<text bitflag="321" id1="486" id2="781281" version="1065353216">While your guild owns a planet, your effective flagship prestige is doubled!</text>
+		<text bitflag="321" id1="487" id2="781281" version="1065353216">Lost Astromech</text>
+		<text bitflag="321" id1="488" id2="781281" version="1065353216">This astromech appears to have been separated from its master.</text>
+		<text bitflag="321" id1="489" id2="781281" version="1065353216">Your flagship transportation offer was declined by: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="490" id2="781281" version="1065353216">Your flagship transportation offer was accepted by: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="491" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; is ineligible for your offer of flagship transportation.</text>
+		<text bitflag="321" id1="492" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; waited too long to respond to your flagship transportation offer.</text>
+		<text bitflag="321" id1="493" id2="781281" version="1065353216">Flagship Transportation Offered</text>
+		<text bitflag="321" id1="494" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; offered you flagship transportation to &lt;&lt;2&gt;&gt; (Instance &lt;&lt;3&gt;&gt;).</text>
+		<text bitflag="321" id1="495" id2="781281" version="1065353216">You cannot accept flagship transportation offers, because you are in a warzone match.</text>
+		<text bitflag="321" id1="496" id2="781281" version="1065353216">You cannot accept flagship transportation offers, as you have not unlocked your personal starship.</text>
+		<text bitflag="321" id1="497" id2="781281" version="1065353216">You activated flagship transportation too recently. Please wait &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="498" id2="781281" version="1065353216">Your guild does not have a flagship.</text>
+		<text bitflag="321" id1="499" id2="781281" version="1065353216">You must have a gold key in order to activate flagship transportation.</text>
+		<text bitflag="321" id1="500" id2="781281" version="1065353216">You must be in a group to activate flagship transportation.</text>
+		<text bitflag="321" id1="501" id2="781281" version="1065353216">You cannot activate flagship transportation while your group has pending invites.</text>
+		<text bitflag="321" id1="502" id2="781281" version="1065353216">Your guild must have a guild bank in order to activate flagship transportation.</text>
+		<text bitflag="321" id1="503" id2="781281" version="1065353216">Your guild bank does not have enough credits to pay for flagship transportation.</text>
+		<text bitflag="321" id1="504" id2="781281" version="1065353216">Activating flagship transportation would put you over your withdrawal limit for your guild bank.</text>
+		<text bitflag="321" id1="505" id2="781281" version="1065353216">You cannot activate flagship transportation while in combat.</text>
+		<text bitflag="321" id1="506" id2="781281" version="1065353216">You cannot activate flagship transportation without having unlocked your personal starship.</text>
+		<text bitflag="321" id1="507" id2="781281" version="1065353216">You cannot activate flagship transportation while quick travel is forbidden.</text>
+		<text bitflag="321" id1="508" id2="781281" version="1065353216">Your group already has an active flagship transportation request pending.</text>
+		<text bitflag="321" id1="509" id2="781281" version="1065353216">You must be a member of a guild to activate flagship transportation.</text>
+		<text bitflag="321" id1="510" id2="781281" version="1065353216">Flagship</text>
+		<text bitflag="321" id1="511" id2="781281" version="1065353216">PURCHASE FOR GUILD: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="514" id2="781281" version="1065353216">This item will be removed from your inventory.</text>
+		<text bitflag="321" id1="515" id2="781281" version="1065353216">This item will be removed from your guild bank.</text>
+		<text bitflag="321" id1="516" id2="781281" version="1065353216">Missing required item for purchase.</text>
+		<text bitflag="321" id1="517" id2="781281" version="1065353216">You must have a guild bank to expand your guild stronghold.</text>
+		<text bitflag="321" id1="518" id2="781281" version="1065353216">You cannot withdraw the required amount from your guild's bank to purchase this guild stronghold expansion.</text>
+		<text bitflag="321" id1="519" id2="781281" version="1065353216">Your guild's bank does not have enough credits to purchase this guild stronghold expansion.</text>
+		<text bitflag="321" id1="520" id2="781281" version="1065353216">You lack the access privileges to expand your guild's stronghold.</text>
+		<text bitflag="321" id1="521" id2="781281" version="1065353216">The guild stronghold has been successfully expanded.</text>
+		<text bitflag="321" id1="525" id2="781281" version="1065353216">You have decorated &lt;&lt;1&gt;&gt; out of a possible &lt;&lt;2&gt;&gt; hooks. This stronghold has a maximum of &lt;&lt;3&gt;&gt; hooks. You must fully expand your Stronghold to unlock the maximum hook count.</text>
+		<text bitflag="321" id1="526" id2="781281" version="1065353216">Your guild has decorated &lt;&lt;1&gt;&gt; out of a possible &lt;&lt;2&gt;&gt; hooks. This stronghold has a maximum of &lt;&lt;3&gt;&gt; hooks. You must fully expand your guild Stronghold to unlock the maximum hook count.</text>
+		<text bitflag="321" id1="527" id2="781281" version="1065353216">Reset This Room's Decorations</text>
+		<text bitflag="321" id1="528" id2="781281" version="1065353216">Are you sure you want to pick up all decorations in the current room?</text>
+		<text bitflag="321" id1="529" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt;% Completion</text>
+		<text bitflag="321" id1="530" id2="781281" version="1065353216">This value shows how many players you can have in your stronghold at once. Unlock room expansions to raise this cap.</text>
+		<text bitflag="321" id1="531" id2="781281" version="1065353216">This value shows how many expansions you have unlocked. Unlocking expansions increases maximum occupancy and maximum hook count.</text>
+		<text bitflag="321" id1="532" id2="781281" version="1065353216">You do not have permission to invite players to this stronghold.</text>
+		<text bitflag="321" id1="533" id2="781281" version="1065353216">You do not have permission to ban players from this stronghold.</text>
+		<text bitflag="321" id1="534" id2="781281" version="1065353216">You do not have permission to grant keys to this stronghold.</text>
+		<text bitflag="321" id1="535" id2="781281" version="1065353216">You have a gold key to this stronghold.</text>
+		<text bitflag="321" id1="536" id2="781281" version="1065353216">You have a silver key to this stronghold.</text>
+		<text bitflag="321" id1="537" id2="781281" version="1065353216">You have a bronze key to this stronghold.</text>
+		<text bitflag="321" id1="538" id2="781281" version="1065353216">GET COINS &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="539" id2="781281" version="1065353216">This is the base amount of players you can have in this stronghold. This can be increased by purchasing stronghold expansions.</text>
+		<text bitflag="321" id1="540" id2="781281" version="1065353216">This is the amount of room expansions in this stronghold. Room expansions can be purchased to increase occupancy and maximum hook count.</text>
+		<text bitflag="321" id1="541" id2="781281" version="1065353216">RENAME</text>
+		<text bitflag="321" id1="542" id2="781281" version="1065353216">Headquarters: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="543" id2="781281" version="1065353216">Failed to donate &lt;&lt;1&gt;&gt; to guild.</text>
+		<text bitflag="321" id1="544" id2="781281" version="1065353216">Flagship: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="545" id2="781281" version="1065353216">NAME FLAGSHIP</text>
+		<text bitflag="321" id1="546" id2="781281" version="1065353216">Enter a name for your guild flagship.</text>
+		<text bitflag="321" id1="547" id2="781281" version="1065353216">This room has already been unlocked.</text>
+		<text bitflag="321" id1="550" id2="781281" version="1065353216">Guild stronghold expansion failed.</text>
+		<text bitflag="321" id1="551" id2="781281" version="1065353216">PERSONAL COLLECTION</text>
+		<text bitflag="321" id1="552" id2="781281" version="1065353216">GUILD COLLECTION</text>
+		<text bitflag="321" id1="553" id2="781281" version="1065353216">HOOK: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="554" id2="781281" version="1065353216">Filters</text>
+		<text bitflag="321" id1="555" id2="781281" version="1065353216">Flagship Transportation</text>
+		<text bitflag="321" id1="556" id2="781281" version="1065353216">Would you like to summon your group to your coordinates via Flagship transportation for &lt;&lt;1&gt;&gt; credits?</text>
+		<text bitflag="321" id1="557" id2="781281" version="1065353216">Your guild's bank does not have enough of the item required to purchase this stronghold expansion.</text>
+		<text bitflag="321" id1="558" id2="781281" version="1065353216">Flagship transportation is blocked for your current area.</text>
+		<text bitflag="321" id1="559" id2="781281" version="1065353216">Flagship transportation cannot be initiated while you are within a phase.</text>
+		<text bitflag="321" id1="560" id2="781281" version="1065353216">You are in an area where quick travel is restricted. To accept the flagship transportation you will have to first leave your current area.</text>
+		<text bitflag="321" id1="561" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; has offered you flagship transportation to their coordinates at &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="562" id2="781281" version="1065353216">Your flagship transportation invitation has expired.</text>
+		<text bitflag="321" id1="564" id2="781281" version="1065353216">You have purchased this Stronghold!&lt;br&gt;&lt;br&gt;You can access your new Stronghold by switching to the GUILD tab and clicking the TRAVEL button.</text>
+		<text bitflag="321" id1="565" id2="781281" version="1065353216">Failed to activate flagship transportation.</text>
+		<text bitflag="321" id1="566" id2="781281" version="1065353216">Cannot activate flagship transportation while you are moving.</text>
+		<text bitflag="321" id1="567" id2="781281" version="1065353216">Flagship transportation cannot be used while in a ops group.</text>
+		<text bitflag="321" id1="568" id2="781281" version="1065353216">You cannot travel to a Stronghold while dead.</text>
+		<text bitflag="321" id1="569" id2="781281" version="1065353216">Owner Offline</text>
+		<text bitflag="321" id1="570" id2="781281" version="1065353216">You are ineligible for &lt;&lt;1&gt;&gt;'s offer of flagship transportation due to not having unlocked your personal starship.</text>
+		<text bitflag="321" id1="571" id2="781281" version="1065353216">Guild purchase cost: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="572" id2="781281" version="1065353216">Successfully donated decoration [&lt;&lt;1&gt;&gt;] to your guild.</text>
+		<text bitflag="321" id1="573" id2="781281" version="1065353216">You do not have any of these decorations.</text>
+		<text bitflag="321" id1="574" id2="781281" version="1065353216">Bronze Key Privileges: Access to the stronghold while the owner is offline.</text>
+		<text bitflag="321" id1="575" id2="781281" version="1065353216">Silver Key Privileges: Offline access, permission to invite players and kick players.</text>
+		<text bitflag="321" id1="576" id2="781281" version="1065353216">Gold Key Privileges: Offline access, permission to invite, grant keys, purchase expansions, and decorate the stronghold. On flagships, this also allows access to the command console.</text>
+		<text bitflag="321" id1="577" id2="781281" version="1065353216">REMOVE KEY</text>
+		<text bitflag="321" id1="578" id2="781281" version="1065353216">Do you wish to remove this key to&lt;br&gt;&lt;&lt;1&gt;&gt;?&lt;br&gt;Type 'CONFIRM' into the field to confirm.</text>
+		<text bitflag="321" id1="579" id2="781281" version="1065353216">You have decorated &lt;&lt;1&gt;&gt; out of a maximum possible &lt;&lt;2&gt;&gt; hooks.</text>
+		<text bitflag="321" id1="580" id2="781281" version="1065353216">STRONGHOLD PURCHASE</text>
+		<text bitflag="321" id1="581" id2="781281" version="1065353216">You are about to spend &lt;&lt;1&gt;&gt; on a stronghold unlock. This purchase cannot be refunded.</text>
+		<text bitflag="321" id1="582" id2="781281" version="1065353216">You do not have access to Galactic Strongholds.&lt;br&gt;&lt;br&gt;Subscribe now to start building your stronghold today!</text>
+		<text bitflag="321" id1="583" id2="781281" version="1065353216">You have the maximum allowed number of active strongholds. You must deactivate a stronghold to activate this one.</text>
+		<text bitflag="321" id1="584" id2="781281" version="1065353216">You cannot invite yourself to a stronghold.</text>
+		<text bitflag="321" id1="585" id2="781281" version="1065353216">&lt;&lt;1&gt;&gt; is not a member of your guild and cannot be given a key.</text>
+		<text bitflag="321" id1="586" id2="781281" version="1065353216">Only the guild leader may purchase a flagship for the guild.</text>
+		<text bitflag="321" id1="587" id2="781281" version="1065353216">You have unlocked a stronghold decoration: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="588" id2="781281" version="1065353216">You cannot use flagship transportation while using a taxi.</text>
+		<text bitflag="321" id1="589" id2="781281" version="1065353216">Sent stronghold invite to &lt;&lt;1&gt;&gt;.</text>
+		<text bitflag="321" id1="590" id2="781281" version="1065353216">Sent stronghold invite to group.</text>
+		<text bitflag="321" id1="591" id2="781281" version="1065353216">Somebody</text>
+		<text bitflag="321" id1="592" id2="781281" version="1065353216">Decoration Grant Failed: At max ownable for this decoration.</text>
+		<text bitflag="321" id1="593" id2="781281" version="1065353216">Decoration Grant Failed</text>
+		<text bitflag="321" id1="594" id2="781281" version="1065353216">You have reached your limit for NPC decorations in this stronghold and cannot place more.</text>
+		<text bitflag="321" id1="596" id2="781281" version="1065353216">EXIT TO &lt;&lt;1&gt;&gt; (&lt;&lt;2&gt;&gt;)</text>
+		<text bitflag="321" id1="597" id2="781281" version="1065353216">You cannot ban a guild member from this stronghold.</text>
+		<text bitflag="321" id1="598" id2="781281" version="1065353216">Cannot interact with anything but decoration hooks while in Edit Mode.</text>
+		<text bitflag="321" id1="600" id2="781281" version="1065353216">You cannot use flagship transport while dead.</text>
+		<text bitflag="321" id1="601" id2="781281" version="1065353216">Your rank does not have permission to withdraw from the guild bank.</text>
+		<text bitflag="321" id1="604" id2="781281" version="1065353216">You cannot kick the owner of this stronghold.</text>
+		<text bitflag="321" id1="605" id2="781281" version="1065353216">You must have a guild bank to unlock a stronghold.</text>
+		<text bitflag="321" id1="606" id2="781281" version="1065353216">Renaming the flagship is a one time use.</text>
+		<text bitflag="321" id1="607" id2="781281" version="1065353216">You have decorated &lt;&lt;1&gt;&gt; out of a possible &lt;&lt;2&gt;&gt; hooks. This stronghold has a maximum of &lt;&lt;3&gt;&gt; hooks. Stronghold Fully Unlocked!</text>
+		<text bitflag="321" id1="608" id2="781281" version="1065353216">Your guild has decorated &lt;&lt;1&gt;&gt; out of a possible &lt;&lt;2&gt;&gt; hooks. This stronghold has a maximum of &lt;&lt;3&gt;&gt; hooks. Stronghold Fully Unlocked!</text>
+		<text bitflag="321" id1="609" id2="781281" version="1065353216">Kick attempt failed.</text>
+		<text bitflag="321" id1="611" id2="781281" version="1065353216">Commit Layout Change?</text>
+		<text bitflag="321" id1="612" id2="781281" version="1065353216">Commiting to this layout will pick up the &lt;&lt;1[/$d decoration/$d decorations]&gt;&gt; that were placed in the previous layout.</text>
+		<text bitflag="321" id1="613" id2="781281" version="1065353216">You have been granted a &lt;&lt;1&gt;&gt; to &lt;&lt;2&gt;&gt;.</text>
+		<text bitflag="321" id1="614" id2="781281" version="1065353216">FLAGSHIP RENAME</text>
+		<text bitflag="321" id1="615" id2="781281" version="1065353216">Are you sure you'd like to rename your flagship to: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="616" id2="781281" version="1065353216">FLAGSHIP RENAME</text>
+		<text bitflag="321" id1="617" id2="781281" version="1065353216">Are you sure you'd like to rename your flagship to: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="618" id2="781281" version="1065353216">Pirate's Roost</text>
+		<text bitflag="321" id1="619" id2="781281" version="1065353216">Lair of Shadows</text>
+		<text bitflag="321" id1="620" id2="781281" version="1065353216">Chamber of Deception</text>
+		<text bitflag="321" id1="621" id2="781281" version="1065353216">Chamber of Truth</text>
+		<text bitflag="321" id1="622" id2="781281" version="1065353216">Filter</text>
+		<text bitflag="321" id1="623" id2="781281" version="1065353216">Clear</text>
+		<text bitflag="321" id1="624" id2="781281" version="1065353216">This speeder may only be used after the Front Cart has been unlocked.</text>
+		<text bitflag="321" id1="625" id2="781281" version="1065353216">This speeder may only be used after the Temple Grounds is unlocked.</text>
+		<text bitflag="321" id1="626" id2="781281" version="1065353216">This feature is only available for Personal Strongholds.</text>
+		<text bitflag="321" id1="627" id2="781281" version="1065353216">This elevator may only be used after the Carrier Expansion has been unlocked.</text>
+		<text bitflag="321" id1="628" id2="781281" version="1065353216">You cannot access the Sky Deck until the Sky Deck Expansion has been unlocked.</text>
+		<text bitflag="321" id1="629" id2="781281" version="1065353216">3</text>
+		<text bitflag="321" id1="630" id2="781281" version="1065353216">2</text>
+		<text bitflag="321" id1="631" id2="781281" version="1065353216">1</text>
+		<text bitflag="321" id1="632" id2="781281" version="1065353216">Gates Unlocked</text>
+		<text bitflag="321" id1="633" id2="781281" version="1065353216">Gates Locked</text>
+		<text bitflag="321" id1="634" id2="781281" version="1065353216">Locking Gates In:</text>
+		<text bitflag="321" id1="635" id2="781281" version="1065353216">4</text>
+		<text bitflag="321" id1="636" id2="781281" version="1065353216">5</text>
+		<text bitflag="321" id1="637" id2="781281" version="1065353216">6</text>
+		<text bitflag="321" id1="638" id2="781281" version="1065353216">7</text>
+		<text bitflag="321" id1="639" id2="781281" version="1065353216">8</text>
+		<text bitflag="321" id1="640" id2="781281" version="1065353216">9</text>
+		<text bitflag="321" id1="641" id2="781281" version="1065353216">10</text>
+		<text bitflag="321" id1="642" id2="781281" version="1065353216">The security gates have locked! Training scenario will begin in 30 seconds.</text>
+		<text bitflag="321" id1="643" id2="781281" version="1065353216">Training scenario is currently ending. Please try again.</text>
+		<text bitflag="321" id1="644" id2="781281" version="1065353216">BEGIN!</text>
+		<text bitflag="321" id1="645" id2="781281" version="1065353216">This decoration can not be rotated.</text>
+		<text bitflag="321" id1="646" id2="781281" version="1065353216">Lower Observation Deck</text>
+		<text bitflag="321" id1="647" id2="781281" version="1065353216">Upper Observation Deck</text>
+		<text bitflag="321" id1="648" id2="781281" version="1065353216">Options</text>
+		<text bitflag="321" id1="651" id2="781281" version="1065353216">Misc Options</text>
+		<text bitflag="321" id1="652" id2="781281" version="1065353216">Enable Stronghold PvP</text>
+		<text bitflag="321" id1="653" id2="781281" version="1065353216">Public Listing: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="657" id2="781281" version="1065353216">You do not have the required permissions to change options.</text>
+		<text bitflag="321" id1="658" id2="781281" version="1065353216">Your Stronghold must have at least &lt;&lt;1&gt;&gt; Prestige to be eligible for the Public Listings.</text>
+		<text bitflag="321" id1="660" id2="781281" version="1065353216">Close Options</text>
+		<text bitflag="321" id1="661" id2="781281" version="1065353216">Deactivate Stonghold</text>
+		<text bitflag="321" id1="662" id2="781281" version="1065353216">PvP Settings: &lt;&lt;1&gt;&gt;</text>
+		<text bitflag="321" id1="663" id2="781281" version="1065353216">PvP Enabled</text>
+		<text bitflag="321" id1="664" id2="781281" version="1065353216">PvP Disabled</text>
+	</file_content>
+</stb_file>

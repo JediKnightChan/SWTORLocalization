@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/location/flashpoint/shared/ilum/republic/captain_farnis.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="198656" id2="17" version="1065353216">The sooner Malgus is dethroned, the sooner the Republic can breathe easy.</text>
+		<text bitflag="1345" id1="198659" id2="17" version="1065353216">It's an honor, Master Jedi. The stealth fighter is ready for your departure.</text>
+		<text bitflag="1345" id1="198661" id2="17" version="1065353216">The stealth fighter is primed and ready for departure.</text>
+		<text bitflag="1345" id1="198663" id2="17" version="1065353216">Captain Cantarus will fly you to Darth Malgus's space station. The Republic's counting on you.</text>
+		<text bitflag="1345" id1="198665" id2="17" version="1065353216">The Supreme Commander has ordered this hangar locked.</text>
+		<text bitflag="1360" id1="970847" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="987541" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="987543" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="321" id1="987544" id2="17" version="1065353216">[You must wait a while before repeating this difficulty mode. Return later.]</text>
+		<text bitflag="321" id1="987547" id2="17" version="1065353216">[You are not yet eligible for this difficulty mode.]</text>
+		<text bitflag="1360" id1="1170356" id2="17" version="1065353216">[Start Story Mode]</text>
+	</file_content>
+</stb_file>

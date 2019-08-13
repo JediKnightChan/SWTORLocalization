@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>11</strs>
+		<file_name>/resources/en-us/str/cnv/location/dromund_kaas/advanced_class/sith_warrior/warrior_advanced_class_trainer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="211592" id2="17" version="1065353216">You have made your choice. I can give you nothing more.</text>
+		<text bitflag="3393" id1="211593" id2="17" version="1065353216">Do not be surprised. The Sith do sometimes, grudgingly, allow aliens into their ranks. You may even learn something from me. Two paths are open:</text>
+		<text bitflag="3393" id1="211595" id2="17" version="1065353216">The Marauder brings death and destruction. Wearing lighter armor and striking with two lightsabers, Marauders master the deadly Juyo form, the acrobatic Ataru form, or the balanced Shii-Cho form.</text>
+		<text bitflag="3393" id1="211597" id2="17" version="1065353216">The Juggernaut dons heavy armor and a shield generator to empower their attacks and defense. A Juggernauts learns the deadly Shien form, the balanced Shii-Cho form, or the resilient Soresu form.</text>
+		<text bitflag="3393" id1="211599" id2="17" version="1065353216">Once your decision is made, your fate is decided. There is no turning back. Now decide!</text>
+		<text bitflag="1360" id1="211600" id2="17" version="1065353216">I wish to be a Sith Marauder.</text>
+		<text bitflag="3393" id1="211601" id2="17" version="1065353216">Then let none stand in your path.</text>
+		<text bitflag="1360" id1="211603" id2="17" version="1065353216">I will be a Sith Juggernaut.</text>
+		<text bitflag="3393" id1="211604" id2="17" version="1065353216">You shall be invincible.</text>
+		<text bitflag="1360" id1="211606" id2="17" version="1065353216">I'm not ready to choose.</text>
+		<text bitflag="3393" id1="211607" id2="17" version="1065353216">I have no time for you.</text>
+	</file_content>
+</stb_file>

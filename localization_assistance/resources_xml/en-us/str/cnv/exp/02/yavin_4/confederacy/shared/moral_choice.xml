@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>23</strs>
+		<file_name>/resources/en-us/str/cnv/exp/02/yavin_4/confederacy/shared/moral_choice.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1142140" id2="17" version="1065353216">Lana here. I have an opportunity for us, if you're interested.</text>
+		<text bitflag="1345" id1="1142141" id2="17" version="1065353216">Go ahead.</text>
+		<text bitflag="1345" id1="1142142" id2="17" version="1065353216">There's a redundant monitoring subsystem in the equipment you're installing. You could activate the subsystem, setting it to track Republic chatter and movements.</text>
+		<text bitflag="1345" id1="1142143" id2="17" version="1065353216">Sneaky. I like it.</text>
+		<text bitflag="1360" id1="1142143" id2="17" version="1065353216">Tell me how.</text>
+		<text bitflag="1345" id1="1142144" id2="17" version="1065353216">Can we set the backup system to help the main system do its job better instead?</text>
+		<text bitflag="1360" id1="1142144" id2="17" version="1065353216">Let's try being more helpful.</text>
+		<text bitflag="1345" id1="1142145" id2="17" version="1065353216">Yes, in theory....</text>
+		<text bitflag="1345" id1="1142146" id2="17" version="1065353216">Then let's do that.</text>
+		<text bitflag="1345" id1="1142147" id2="17" version="1065353216">Okay, I'll walk you through the steps....</text>
+		<text bitflag="1345" id1="1143201" id2="17" version="1065353216">I finished planting the sensors.</text>
+		<text bitflag="1345" id1="1143202" id2="17" version="1065353216">Good work. Before you come back to base... I think an extra modification is in order.</text>
+		<text bitflag="1345" id1="1143204" id2="17" version="1065353216">With a few tweaks, we can set the sensors to forward us extra data on Imperial activities. They won't even know it's happening.</text>
+		<text bitflag="1345" id1="1143205" id2="17" version="1065353216">You want to spy on the Empire's forces.</text>
+		<text bitflag="1345" id1="1143206" id2="17" version="1065353216">I think recent events have taught us to keep an eye over our shoulder. We won't be doing anything to damage their capabilities--just staying informed on them.</text>
+		<text bitflag="1345" id1="1143207" id2="17" version="1065353216">If we don't show trust, we'll never keep a lasting truce.</text>
+		<text bitflag="1360" id1="1143207" id2="17" version="1065353216">I won't betray the truce.</text>
+		<text bitflag="1345" id1="1143208" id2="17" version="1065353216">You're serious? I guess I can't make you do the smart thing here....</text>
+		<text bitflag="1345" id1="1143210" id2="17" version="1065353216">Just... head back to camp. You're done out there. Theron out.</text>
+		<text bitflag="1345" id1="1143212" id2="17" version="1065353216">You don't have to convince me. Just walk me through the modifications.</text>
+		<text bitflag="1360" id1="1143212" id2="17" version="1065353216">You're right.</text>
+		<text bitflag="1345" id1="1143213" id2="17" version="1065353216">All right. Start with the internal communications processor....</text>
+		<text bitflag="1345" id1="1143215" id2="17" version="1065353216">...That should do it. I'll scrub our chat from the comm log--you should get back to base. Theron out.</text>
+	</file_content>
+</stb_file>

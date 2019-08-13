@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>64</strs>
+		<file_name>/resources/en-us/str/cnv/location/open_worlds/class/smuggler/chapter_3/event_and_finale/agent_broll.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="517935" id2="17" version="1065353216">Stop it right there.</text>
+		<text bitflag="1345" id1="517937" id2="17" version="1065353216">I'm going to need your ID, your papers and a blasted good reason why you're flying in and out of a war zone for kicks.</text>
+		<text bitflag="1345" id1="517938" id2="17" version="1065353216">This is a private job for Jedi Master Sumalee. You want to tell her you tried to stop me?</text>
+		<text bitflag="1360" id1="517938" id2="17" version="1065353216">I'm on important business.</text>
+		<text bitflag="1345" id1="517939" id2="17" version="1065353216">Far as I know, our Jedi advisor was killed weeks ago.</text>
+		<text bitflag="1345" id1="517941" id2="17" version="1065353216">I think I need to take a look-see, make sure you're not trying to smuggle valuable resources off Hoth....</text>
+		<text bitflag="1345" id1="517942" id2="17" version="1065353216">I swear it's nothing like that. It's a, uh, rare herb, for my, uh, grandmother. She's very sick....</text>
+		<text bitflag="1360" id1="517942" id2="17" version="1065353216">[Lie] You're wasting time.</text>
+		<text bitflag="1345" id1="517943" id2="17" version="1065353216">Try a little silver coating on that lie, maybe I'll buy it.</text>
+		<text bitflag="1345" id1="517945" id2="17" version="1065353216">I'm talking credits, if you didn't follow.</text>
+		<text bitflag="1345" id1="517946" id2="17" version="1065353216">My apologies. Take this. My poor sick grandmother will thank you.</text>
+		<text bitflag="1360" id1="517946" id2="17" version="1065353216">You have yourself a deal.</text>
+		<text bitflag="1345" id1="517947" id2="17" version="1065353216">I'm sure she will.</text>
+		<text bitflag="1345" id1="517949" id2="17" version="1065353216">I heard gunshots! I think the space station's under attack! Go check.</text>
+		<text bitflag="1360" id1="517949" id2="17" version="1065353216">[Lie] Run for your life!</text>
+		<text bitflag="1345" id1="517950" id2="17" version="1065353216">Are you kidding me? I'm a customs agent, not a soldier!</text>
+		<text bitflag="1345" id1="517952" id2="17" version="1065353216">I'm getting into the inner hold. They say that's the safest place to be in an attack.</text>
+		<text bitflag="1345" id1="517954" id2="17" version="1065353216">I can't believe he fell for that. I guess the war's gotten everyone a little jumpy.</text>
+		<text bitflag="1345" id1="517956" id2="17" version="1065353216">Sorry, man. Your life's just not worth that much.</text>
+		<text bitflag="1360" id1="517956" id2="17" version="1065353216">I'm broke. [Kill him]</text>
+		<text bitflag="1345" id1="517957" id2="17" version="1065353216">I wouldn't do that. Master Sumalee said the cargo is Force sensitive. Non-Jedi can go blind and deranged just at the sight!</text>
+		<text bitflag="1360" id1="517957" id2="17" version="1065353216">[Lie] It's too dangerous.</text>
+		<text bitflag="1345" id1="517958" id2="17" version="1065353216">I knew it! I knew they wouldn't keep sending bodies down there if there wasn't something special under that ice!</text>
+		<text bitflag="1345" id1="517960" id2="17" version="1065353216">Load your ship and get out of here. I'm telling the boys.</text>
+		<text bitflag="1345" id1="517962" id2="17" version="1065353216">Blind and deranged? I can't believe he fell for that.</text>
+		<text bitflag="1345" id1="517964" id2="17" version="1065353216">Don't question me!</text>
+		<text bitflag="1360" id1="517964" id2="17" version="1065353216">Back off! [Kill him]</text>
+		<text bitflag="1345" id1="517965" id2="17" version="1065353216">How about I add a bit to your salary, just for looking the other way?</text>
+		<text bitflag="1360" id1="517965" id2="17" version="1065353216">Can you take credits, instead?</text>
+		<text bitflag="1345" id1="517966" id2="17" version="1065353216">Now you're sounding reasonable.</text>
+		<text bitflag="1345" id1="517968" id2="17" version="1065353216">It's a tough job, working customs. Almost makes you want to ask a special fine of those who don't show the respect.</text>
+		<text bitflag="1345" id1="517970" id2="17" version="1065353216">You're clear to go, ma'am. Long live the Republic.</text>
+		<text bitflag="1345" id1="517971" id2="17" version="1065353216">You're free and clear, sir. Long live the Republic.</text>
+		<text bitflag="1345" id1="517973" id2="17" version="1065353216">Neatly done. I'll reimburse you the bribe, of course.</text>
+		<text bitflag="1345" id1="517974" id2="17" version="1065353216">You're ruining my selfless gesture. Which I'm okay with.</text>
+		<text bitflag="1360" id1="517974" id2="17" version="1065353216">I was trying to be generous.</text>
+		<text bitflag="1345" id1="517975" id2="17" version="1065353216">Nothing better than a damsel in distress who picks up the tab.</text>
+		<text bitflag="1360" id1="517975" id2="17" version="1065353216">[Flirt] Good.</text>
+		<text bitflag="1345" id1="517976" id2="17" version="1065353216">Honey, I haven't been a damsel in a long time. But it's cute that you're trying.</text>
+		<text bitflag="1345" id1="517978" id2="17" version="1065353216">I was hoping I wouldn't have to bill you.</text>
+		<text bitflag="1360" id1="517978" id2="17" version="1065353216">Thanks.</text>
+		<text bitflag="1360" id1="517979" id2="17" version="1065353216">What happens now?</text>
+		<text bitflag="1345" id1="517980" id2="17" version="1065353216">I can take it from here. I've got my own ship stashed a few hangars down.</text>
+		<text bitflag="1345" id1="517982" id2="17" version="1065353216">This one's a keeper, Risha.</text>
+		<text bitflag="1345" id1="517984" id2="17" version="1065353216">Glad you're still kicking, Risha. You ever want to go legit, look me up.</text>
+		<text bitflag="1345" id1="517986" id2="17" version="1065353216">Thanks for the help. You're welcome to any of the salvage in the shuttle. Some of it might fetch a good price.</text>
+		<text bitflag="1345" id1="517988" id2="17" version="1065353216">And I'll make sure you get anything I learn about the Voidwolf.</text>
+		<text bitflag="1345" id1="517989" id2="17" version="1065353216">You're not stopping me!</text>
+		<text bitflag="1360" id1="517989" id2="17" version="1065353216">Out of my way! [Kill him]</text>
+		<text bitflag="1345" id1="517992" id2="17" version="1065353216">Aggghhh!</text>
+		<text bitflag="1345" id1="517994" id2="17" version="1065353216">You killed a customs agent? Just like that? You want to follow that up by kicking some puppies?</text>
+		<text bitflag="1345" id1="517996" id2="17" version="1065353216">I can't believe you! He was on our side!</text>
+		<text bitflag="1345" id1="517997" id2="17" version="1065353216">You're the one who said the Imperials have spies here. How do you know he wasn't one of them?</text>
+		<text bitflag="1360" id1="517997" id2="17" version="1065353216">Not necessarily.</text>
+		<text bitflag="1345" id1="517998" id2="17" version="1065353216">I guess he could have been. Usually I like a bit more proof before committing murder, though!</text>
+		<text bitflag="1345" id1="518000" id2="17" version="1065353216">I, uh, guess I got a little overzealous.</text>
+		<text bitflag="1360" id1="518000" id2="17" version="1065353216">Oops. Sorry.</text>
+		<text bitflag="1345" id1="518001" id2="17" version="1065353216">There's a dead body lying here! We can't just....</text>
+		<text bitflag="1345" id1="518003" id2="17" version="1065353216">I got you here, didn't I?</text>
+		<text bitflag="1360" id1="518003" id2="17" version="1065353216">Don't question me!</text>
+		<text bitflag="1345" id1="518004" id2="17" version="1065353216">I--I guess we'll just leave him here. Maybe it will start them looking for Imperial agents....</text>
+		<text bitflag="1345" id1="518006" id2="17" version="1065353216">Be careful with this one, Risha. He seems a bit... unpredictable.</text>
+		<text bitflag="1345" id1="518008" id2="17" version="1065353216">Are you sure you're not interested in joining the good guys, Risha?</text>
+		<text bitflag="1345" id1="518010" id2="17" version="1065353216">We should clear out before someone finds us. I've got a ship nearby; I'll take it from here.</text>
+	</file_content>
+</stb_file>

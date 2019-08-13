@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>64</strs>
+		<file_name>/resources/en-us/str/cnv/qtr/1x3/pvp/warzone_alderaan.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="1040356" id2="17" version="1065353216">Welcome to the Alderaan battle simulation. This is a clean, live-fire competition--no shenanigans on my watch.</text>
+		<text bitflag="1345" id1="1040357" id2="17" version="1065353216">Initiating wargame simulation four-nine kresh, Alderaan scenario.  It is my pleasure to oversee this exercise.</text>
+		<text bitflag="1345" id1="1040531" id2="17" version="1065353216">You've seized the artillery! Firing on Shadow Squad.</text>
+		<text bitflag="1345" id1="1040532" id2="17" version="1065353216">Blazer Squad takes the artillery. Good work.</text>
+		<text bitflag="1345" id1="1040533" id2="17" version="1065353216">Artillery firing on your ship, Blazer Squad.</text>
+		<text bitflag="1345" id1="1040534" id2="17" version="1065353216">Shadow Squad is firing on you! Don't give them the satisfaction.</text>
+		<text bitflag="1345" id1="1040550" id2="17" version="1065353216">The deployment vehicles are ready. Strap in.</text>
+		<text bitflag="1345" id1="1040551" id2="17" version="1065353216">Turret locked. Firing on enemy ship.</text>
+		<text bitflag="1345" id1="1040566" id2="17" version="1065353216">The deployment vehicles are ready. Take them to the battlefield.</text>
+		<text bitflag="1345" id1="1040567" id2="17" version="1065353216">Artillery is firing on your ship!</text>
+		<text bitflag="1345" id1="1041763" id2="17" version="1065353216">You have been divided into two teams. Blazer Squad and Striker Squad will face off for control of the planetary cannon facility.</text>
+		<text bitflag="1345" id1="1041765" id2="17" version="1065353216">Note the three air-defense artillery turrets on the ground. Slice each turret's targeting console to take the weapon.</text>
+		<text bitflag="1345" id1="1041767" id2="17" version="1065353216">Use the turrets to neutralize the enemy dropship. Destroy their vessel, and you win the simulation!</text>
+		<text bitflag="1345" id1="1041770" id2="17" version="1065353216">Combatants are divided into two teams: Reaper Squad and Shadow Squad. Each will fight for control of the planetary cannon facility.</text>
+		<text bitflag="1345" id1="1041772" id2="17" version="1065353216">The battlefield contains three air-defense artillery turrets. Slice each turret's targeting console to harness the gun's firepower.</text>
+		<text bitflag="1345" id1="1041774" id2="17" version="1065353216">Direct those turrets at the opposing squad's dropship. Annihilate the enemy vessel, and win the wargame!</text>
+		<text bitflag="1345" id1="1041778" id2="17" version="1065353216">Shadow Squad! Artillery has locked on your ship!</text>
+		<text bitflag="1345" id1="1041781" id2="17" version="1065353216">You've taken the artillery. Well done, Shadow Squad.</text>
+		<text bitflag="1345" id1="1041784" id2="17" version="1065353216">Artillery has locked on your ship, Striker Squad.</text>
+		<text bitflag="1345" id1="1041787" id2="17" version="1065353216">The artillery is yours, Striker Squad.</text>
+		<text bitflag="1345" id1="1041792" id2="17" version="1065353216">You're taking fire! Reclaim that turret.</text>
+		<text bitflag="1345" id1="1041795" id2="17" version="1065353216">Turret firing on Reaper Squad's ship. Well done.</text>
+		<text bitflag="1345" id1="1041800" id2="17" version="1065353216">The turret is yours. Firing on Striker Squad's vessel.</text>
+		<text bitflag="1345" id1="1041801" id2="17" version="1065353216">The enemy's firing on you. Striker Squad, take that turret.</text>
+		<text bitflag="1345" id1="1041804" id2="17" version="1065353216">Blazer Squad, you're taking fire.</text>
+		<text bitflag="1345" id1="1041805" id2="17" version="1065353216">Turret locked on the enemy's ship. Firing.</text>
+		<text bitflag="1345" id1="1041810" id2="17" version="1065353216">Gun battery locked and firing! Fantastic, Reaper Squad.</text>
+		<text bitflag="1345" id1="1041811" id2="17" version="1065353216">Enemy has seized the gun battery.</text>
+		<text bitflag="1345" id1="1041814" id2="17" version="1065353216">Gun battery firing. Good show, Shadow Squad!</text>
+		<text bitflag="1345" id1="1041815" id2="17" version="1065353216">Enemy takes the gun battery. Watch out, Reaper Squad!</text>
+		<text bitflag="1345" id1="1041820" id2="17" version="1065353216">Gun battery firing. Advantage to you, Blazer Squad.</text>
+		<text bitflag="1345" id1="1041821" id2="17" version="1065353216">Warning, Striker Squad. Gun battery under enemy control.</text>
+		<text bitflag="1345" id1="1041824" id2="17" version="1065353216">The enemy commands the gun battery.</text>
+		<text bitflag="1345" id1="1041825" id2="17" version="1065353216">Gun battery won. Advantage to you, Striker Squad.</text>
+		<text bitflag="1345" id1="1041850" id2="17" version="1065353216">Enemy vessel taking fire. Keep up your offensive, Blazer Squad.</text>
+		<text bitflag="1345" id1="1041851" id2="17" version="1065353216">Striker Squad, your ship is taking heavy fire.</text>
+		<text bitflag="1345" id1="1041854" id2="17" version="1065353216">Blazer Squad, your ship has sustained heavy damage.</text>
+		<text bitflag="1345" id1="1041855" id2="17" version="1065353216">Strong offensive, Striker Squad. The enemy is taking fire.</text>
+		<text bitflag="1345" id1="1041860" id2="17" version="1065353216">Enemy shields are failing. Maintain your assault!</text>
+		<text bitflag="1345" id1="1041861" id2="17" version="1065353216">Shields failing, Striker Squad. Recapture the weapons, or your ship will be lost!</text>
+		<text bitflag="1345" id1="1041864" id2="17" version="1065353216">Ship damage critical--but don't give up. Retake those enemy weapons!</text>
+		<text bitflag="1345" id1="1041865" id2="17" version="1065353216">Keep it up, Striker Squad. The enemy ship won't last long.</text>
+		<text bitflag="1345" id1="1041870" id2="17" version="1065353216">Enemy vessel taking damage. Bring them down, Reaper Squad!</text>
+		<text bitflag="1345" id1="1041871" id2="17" version="1065353216">Shadow Squad, your ship is taking damage!</text>
+		<text bitflag="1345" id1="1041874" id2="17" version="1065353216">Reaper Squad, your ship is taking fire!</text>
+		<text bitflag="1345" id1="1041875" id2="17" version="1065353216">Enemy ship damaged. Don't relent!</text>
+		<text bitflag="1345" id1="1041880" id2="17" version="1065353216">Continue your onslaught! Shadow Squad's shields are failing.</text>
+		<text bitflag="1345" id1="1041881" id2="17" version="1065353216">Your ship is nearly lost. Turn the tide, Shadow Squad. Take back the artillery!</text>
+		<text bitflag="1345" id1="1041884" id2="17" version="1065353216">Critical damage sustained! Reaper Squad, take the enemy's artillery!</text>
+		<text bitflag="1345" id1="1041885" id2="17" version="1065353216">Reaper Squad's shields are nearly down. Finish them!</text>
+		<text bitflag="1345" id1="1041890" id2="17" version="1065353216">Your ship is lost, Blazer Squad. Thankfully, this is just an exercise. Simulation complete.</text>
+		<text bitflag="1345" id1="1041891" id2="17" version="1065353216">That's how it's done. Striker Squad has destroyed the enemy ship. Simulation complete.</text>
+		<text bitflag="1345" id1="1041894" id2="17" version="1065353216">Well done, Blazer Squad. You've successfully routed the enemy ship. Simulation complete.</text>
+		<text bitflag="1345" id1="1041895" id2="17" version="1065353216">Your ship has fallen to the enemy. Striker Squad, prepare for performance review. Simulation complete.</text>
+		<text bitflag="1345" id1="1041900" id2="17" version="1065353216">Your ship has been destroyed. Reaper Squad: standby for extraction and debriefing. Wargame complete.</text>
+		<text bitflag="1345" id1="1041901" id2="17" version="1065353216">The enemy ship is destroyed! Congratulations Shadow Squad on a glorious victory worthy of the Empire.</text>
+		<text bitflag="1345" id1="1041904" id2="17" version="1065353216">The enemy ship burns, and Reaper Squad wins the simulation. A superb wargame.</text>
+		<text bitflag="1345" id1="1041905" id2="17" version="1065353216">Shadow Squad, your ship is no more. May the sting of defeat fuel your next victory. Wargame complete.</text>
+		<text bitflag="1345" id1="1041927" id2="17" version="1065353216">Alderaan simulation engaged. Make the Republic proud.</text>
+		<text bitflag="1345" id1="1041930" id2="17" version="1065353216">Prove your might. May the best squad win!</text>
+		<text bitflag="1345" id1="1045326" id2="17" version="1065353216">You are on Striker Squad.</text>
+		<text bitflag="1345" id1="1045327" id2="17" version="1065353216">You are on Blazer Squad.</text>
+		<text bitflag="1345" id1="1045330" id2="17" version="1065353216">You form Reaper Squad.</text>
+		<text bitflag="1345" id1="1045331" id2="17" version="1065353216">You form Shadow Squad.</text>
+	</file_content>
+</stb_file>

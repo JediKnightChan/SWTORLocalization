@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>73</strs>
+		<file_name>/resources/en-us/str/gui/abl/player/skill_trees.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="472958" version="1065353216">General</text>
+		<text bitflag="321" id1="2" id2="472958" version="1065353216">Sith Warrior</text>
+		<text bitflag="321" id1="3" id2="472958" version="1065353216">Marauder</text>
+		<text bitflag="321" id1="4" id2="472958" version="1065353216">Annihilation</text>
+		<text bitflag="321" id1="5" id2="472958" version="1065353216">Carnage</text>
+		<text bitflag="321" id1="6" id2="472958" version="1065353216">Fury</text>
+		<text bitflag="321" id1="7" id2="472958" version="1065353216">Juggernaut</text>
+		<text bitflag="321" id1="8" id2="472958" version="1065353216">Vengeance</text>
+		<text bitflag="321" id1="9" id2="472958" version="1065353216">Immortal</text>
+		<text bitflag="321" id1="10" id2="472958" version="1065353216">Rage</text>
+		<text bitflag="321" id1="11" id2="472958" version="1065353216">Sith Inquisitor</text>
+		<text bitflag="321" id1="12" id2="472958" version="1065353216">Hatred</text>
+		<text bitflag="321" id1="13" id2="472958" version="1065353216">Assassin</text>
+		<text bitflag="321" id1="14" id2="472958" version="1065353216">Darkness</text>
+		<text bitflag="321" id1="15" id2="472958" version="1065353216">Deception</text>
+		<text bitflag="321" id1="16" id2="472958" version="1065353216">Madness</text>
+		<text bitflag="321" id1="17" id2="472958" version="1065353216">Sorcerer</text>
+		<text bitflag="321" id1="18" id2="472958" version="1065353216">Lightning</text>
+		<text bitflag="321" id1="19" id2="472958" version="1065353216">Corruption</text>
+		<text bitflag="321" id1="20" id2="472958" version="1065353216">Imperial Agent</text>
+		<text bitflag="321" id1="21" id2="472958" version="1065353216">Virulence</text>
+		<text bitflag="321" id1="22" id2="472958" version="1065353216">Sniper</text>
+		<text bitflag="321" id1="23" id2="472958" version="1065353216">Marksmanship</text>
+		<text bitflag="321" id1="24" id2="472958" version="1065353216">Engineering</text>
+		<text bitflag="321" id1="25" id2="472958" version="1065353216">Lethality</text>
+		<text bitflag="321" id1="26" id2="472958" version="1065353216">Operative</text>
+		<text bitflag="321" id1="27" id2="472958" version="1065353216">Concealment</text>
+		<text bitflag="321" id1="28" id2="472958" version="1065353216">Medicine</text>
+		<text bitflag="321" id1="29" id2="472958" version="1065353216">Bounty Hunter</text>
+		<text bitflag="321" id1="30" id2="472958" version="1065353216">Innovative Ordnance</text>
+		<text bitflag="321" id1="31" id2="472958" version="1065353216">Mercenary</text>
+		<text bitflag="321" id1="32" id2="472958" version="1065353216">Bodyguard</text>
+		<text bitflag="321" id1="33" id2="472958" version="1065353216">Arsenal</text>
+		<text bitflag="321" id1="34" id2="472958" version="1065353216">Pyrotech</text>
+		<text bitflag="321" id1="35" id2="472958" version="1065353216">Powertech</text>
+		<text bitflag="321" id1="36" id2="472958" version="1065353216">Shield Tech</text>
+		<text bitflag="321" id1="37" id2="472958" version="1065353216">Advanced Prototype</text>
+		<text bitflag="321" id1="38" id2="472958" version="1065353216">Jedi Knight</text>
+		<text bitflag="321" id1="39" id2="472958" version="1065353216">Focus</text>
+		<text bitflag="321" id1="40" id2="472958" version="1065353216">Guardian</text>
+		<text bitflag="321" id1="41" id2="472958" version="1065353216">Defense</text>
+		<text bitflag="321" id1="42" id2="472958" version="1065353216">Vigilance</text>
+		<text bitflag="321" id1="43" id2="472958" version="1065353216">Concentration</text>
+		<text bitflag="321" id1="44" id2="472958" version="1065353216">Sentinel</text>
+		<text bitflag="321" id1="45" id2="472958" version="1065353216">Combat</text>
+		<text bitflag="321" id1="46" id2="472958" version="1065353216">Watchman</text>
+		<text bitflag="321" id1="47" id2="472958" version="1065353216">Jedi Consular</text>
+		<text bitflag="321" id1="48" id2="472958" version="1065353216">Balance</text>
+		<text bitflag="321" id1="49" id2="472958" version="1065353216">Sage</text>
+		<text bitflag="321" id1="50" id2="472958" version="1065353216">Telekinetics</text>
+		<text bitflag="321" id1="51" id2="472958" version="1065353216">Seer</text>
+		<text bitflag="321" id1="52" id2="472958" version="1065353216">Infiltration</text>
+		<text bitflag="321" id1="53" id2="472958" version="1065353216">Shadow</text>
+		<text bitflag="321" id1="54" id2="472958" version="1065353216">Kinetic Combat</text>
+		<text bitflag="321" id1="55" id2="472958" version="1065353216">Serenity</text>
+		<text bitflag="321" id1="56" id2="472958" version="1065353216">Smuggler</text>
+		<text bitflag="321" id1="57" id2="472958" version="1065353216">Dirty Fighting</text>
+		<text bitflag="321" id1="58" id2="472958" version="1065353216">Gunslinger</text>
+		<text bitflag="321" id1="59" id2="472958" version="1065353216">Sharpshooter</text>
+		<text bitflag="321" id1="60" id2="472958" version="1065353216">Saboteur</text>
+		<text bitflag="321" id1="61" id2="472958" version="1065353216">Ruffian</text>
+		<text bitflag="321" id1="62" id2="472958" version="1065353216">Scoundrel</text>
+		<text bitflag="321" id1="63" id2="472958" version="1065353216">Sawbones</text>
+		<text bitflag="321" id1="64" id2="472958" version="1065353216">Scrapper</text>
+		<text bitflag="321" id1="65" id2="472958" version="1065353216">Trooper</text>
+		<text bitflag="321" id1="66" id2="472958" version="1065353216">Assault Specialist</text>
+		<text bitflag="321" id1="67" id2="472958" version="1065353216">Commando</text>
+		<text bitflag="321" id1="68" id2="472958" version="1065353216">Gunnery</text>
+		<text bitflag="321" id1="69" id2="472958" version="1065353216">Combat Medic</text>
+		<text bitflag="321" id1="70" id2="472958" version="1065353216">Plasmatech</text>
+		<text bitflag="321" id1="71" id2="472958" version="1065353216">Vanguard</text>
+		<text bitflag="321" id1="72" id2="472958" version="1065353216">Tactics</text>
+		<text bitflag="321" id1="73" id2="472958" version="1065353216">Shield Specialist</text>
+	</file_content>
+</stb_file>

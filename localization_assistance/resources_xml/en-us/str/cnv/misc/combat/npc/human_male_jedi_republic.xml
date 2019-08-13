@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>6</strs>
+		<file_name>/resources/en-us/str/cnv/misc/combat/npc/human_male_jedi_republic.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="63564" id2="17" version="1065353216">I will not fall!</text>
+		<text bitflag="1345" id1="63566" id2="17" version="1065353216">You cannot win!</text>
+		<text bitflag="1345" id1="63568" id2="17" version="1065353216">This ends here!</text>
+		<text bitflag="1345" id1="63570" id2="17" version="1065353216">I do what I must!</text>
+		<text bitflag="1345" id1="63572" id2="17" version="1065353216">You asked for this!</text>
+		<text bitflag="1345" id1="63574" id2="17" version="1065353216">Surrender now!</text>
+	</file_content>
+</stb_file>

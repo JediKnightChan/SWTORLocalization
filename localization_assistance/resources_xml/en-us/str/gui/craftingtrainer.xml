@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>25</strs>
+		<file_name>/resources/en-us/str/gui/craftingtrainer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="321" id1="1" id2="272879" version="1065353216">TRAIN</text>
+		<text bitflag="321" id1="2" id2="272879" version="1065353216">Filter</text>
+		<text bitflag="321" id1="3" id2="272879" version="1065353216">All</text>
+		<text bitflag="321" id1="4" id2="272879" version="1065353216">Cheap</text>
+		<text bitflag="321" id1="5" id2="272879" version="1065353216">Standard</text>
+		<text bitflag="321" id1="6" id2="272879" version="1065353216">Premium</text>
+		<text bitflag="321" id1="7" id2="272879" version="1065353216">Prototype</text>
+		<text bitflag="321" id1="8" id2="272879" version="1065353216">Artifact</text>
+		<text bitflag="321" id1="9" id2="272879" version="1065353216">Legendary</text>
+		<text bitflag="321" id1="10" id2="272879" version="1065353216">Legacy</text>
+		<text bitflag="321" id1="11" id2="272879" version="1065353216">Misc</text>
+		<text bitflag="321" id1="12" id2="272879" version="1065353216">Gloves</text>
+		<text bitflag="321" id1="13" id2="272879" version="1065353216">Feet</text>
+		<text bitflag="321" id1="14" id2="272879" version="1065353216">Waist</text>
+		<text bitflag="321" id1="15" id2="272879" version="1065353216">Legs</text>
+		<text bitflag="321" id1="16" id2="272879" version="1065353216">Chest</text>
+		<text bitflag="321" id1="17" id2="272879" version="1065353216">Wrists</text>
+		<text bitflag="321" id1="18" id2="272879" version="1065353216">Head</text>
+		<text bitflag="321" id1="19" id2="272879" version="1065353216">Ear</text>
+		<text bitflag="321" id1="20" id2="272879" version="1065353216">Weapons</text>
+		<text bitflag="321" id1="21" id2="272879" version="1065353216">EXIT</text>
+		<text bitflag="321" id1="22" id2="272879" version="1065353216">Trainable</text>
+		<text bitflag="321" id1="23" id2="272879" version="1065353216">[Requires: &lt;&lt;1&gt;&gt;]</text>
+		<text bitflag="321" id1="257" id2="272879" version="1065353216">[Requires: &lt;&lt;1&gt;&gt;, &lt;&lt;2&gt;&gt;]</text>
+		<text bitflag="321" id1="258" id2="272879" version="1065353216">Advanced Training</text>
+	</file_content>
+</stb_file>

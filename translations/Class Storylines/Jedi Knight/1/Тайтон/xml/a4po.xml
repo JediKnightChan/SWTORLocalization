@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="16">
+	<unit bitflag="1345" id1="604386" id2="17" version="1065353216">
+		<source>Transmit everything you know about the Forge to my droid T7.</source>
+		<target>Передай всё, что ты знаешь о Кузнице, моему дроиду T7.</target>
+	</unit>
+	<unit bitflag="1345" id1="604387" id2="17" version="1065353216">
+		<source>That area is considered highly dangerous. May I inquire why you need this data?</source>
+		<target>Эта область считается весьма опасной. Можно узнать, зачем вам такие данные?</target>
+	</unit>
+	<unit bitflag="1345" id1="604388" id2="17" version="1065353216">
+		<source>Flesh Raiders captured Master Orgus and took him there.</source>
+		<target>Раздиратели поймали мастера Оргуса и забрали туда.</target>
+	</unit>
+	<unit bitflag="1360" id1="604388" id2="17" version="1065353216">
+		<source>It's an emergency.</source>
+		<target>Это срочно.</target>
+	</unit>
+	<unit bitflag="1345" id1="604389" id2="17" version="1065353216">
+		<source>By the stars! What perfectly awful timing.</source>
+		<target>Во имя звёзд! Абсолютно не вовремя.</target>
+	</unit>
+	<unit bitflag="1345" id1="604391" id2="17" version="1065353216">
+		<source>The temple Masters are all indisposed fighting Flesh Raiders. I will alert them immediately, but they may be unable to assist you.</source>
+		<target>Мастера храма все заняты, сражаются с раздирателями. Я оповещу их немедленно, но, возможно, они не смогут помочь вам.</target>
+	</unit>
+	<unit bitflag="1345" id1="604393" id2="17" version="1065353216">
+		<source>Just doing a little sightseeing.</source>
+		<target>Просто осматриваю окрестности.</target>
+	</unit>
+	<unit bitflag="1360" id1="604393" id2="17" version="1065353216">
+		<source>Oh, no reason.</source>
+		<target>Да никаких причин.</target>
+	</unit>
+	<unit bitflag="1345" id1="604394" id2="17" version="1065353216">
+		<source>Do be careful. The temple has received several alerts regarding Flesh Raider activities in the area.</source>
+		<target>Будьте осторожны. Храм получил несколько оповещений об активности раздирателей в этой области.</target>
+	</unit>
+	<unit bitflag="1345" id1="604396" id2="17" version="1065353216">
+		<source>You want a memory wipe? Just do it!</source>
+		<target>Хочешь, чтобы тебе память стёрли? Выполняй!</target>
+	</unit>
+	<unit bitflag="1360" id1="604396" id2="17" version="1065353216">
+		<source>Shut up and transmit.</source>
+		<target>Заткнись и передавай.</target>
+	</unit>
+	<unit bitflag="1345" id1="604397" id2="17" version="1065353216">
+		<source>Well, really! I'll report your behavior to the Council when they return.</source>
+		<target>Да неужели! Я сообщу о твоём поведении Совету, когда он вернётся.</target>
+	</unit>
+	<unit bitflag="1345" id1="604399" id2="17" version="1065353216">
+		<source>Transmitting data now....</source>
+		<target>Передаю данные...</target>
+	</unit>
+	<unit bitflag="3393" id1="604401" id2="17" version="1065353216">
+		<source>T7 = receiving files on Forge // T7 = show Jedi the way</source>
+		<target>T7 = получает файлы по Кузнице // T7 = покажет джедаю дорогу</target>
+	</unit>
+	<unit bitflag="3393" id1="604403" id2="17" version="1065353216">
+		<source>T7 + Jedi = go to Forge + save Master Orgus!</source>
+		<target>T7 + джедай = идти на Кузницу + спасти мастера Оргуса!</target>
+	</unit>
+	<unit bitflag="1345" id1="604405" id2="17" version="1065353216">
+		<source>I am A-4P0, Jedi archivist. How may I help you?</source>
+		<target>Я A-4PO, архивариус джедаев. Чем могу помочь?</target>
+	</unit>
+</dialogue_file>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>12</strs>
+		<file_name>/resources/en-us/str/cnv/location/coruscant/advanced_class/smuggler/smuggler_advanced_class_trainer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="220610" id2="17" version="1065353216">You have already chosen your specialization.</text>
+		<text bitflag="3393" id1="220611" id2="17" version="1065353216">You're that freighter captain who stirred things up on Ord Mantell. I hear you've got Rogun the Butcher after you. My condolences.</text>
+		<text bitflag="3393" id1="220613" id2="17" version="1065353216">If you want to stay alive and retire wealthy, you need special training. I'll give you that, for a price.</text>
+		<text bitflag="3393" id1="220615" id2="17" version="1065353216">I can make you into a real Gunslinger. Why fire one gun when you could shoot two? Gunslingers find the best cover in a firefight and stay there, doing damage.</text>
+		<text bitflag="3393" id1="220617" id2="17" version="1065353216">Of course, some people prefer to be a Scoundrel. Make a sneak attack with a scatter gun from up close and even learn a bit of medicine training.</text>
+		<text bitflag="3393" id1="220619" id2="17" version="1065353216">Once you start the training, you'll need to stick with it, so pick your specialization carefully.</text>
+		<text bitflag="1360" id1="220620" id2="17" version="1065353216">Being a Gunslinger sounds fun.</text>
+		<text bitflag="3393" id1="220621" id2="17" version="1065353216">Gunslinger it is. You'll specialize in the old shoot em' up method. Good luck out there!</text>
+		<text bitflag="1360" id1="220623" id2="17" version="1065353216">I'm a Scoundrel by nature.</text>
+		<text bitflag="3393" id1="220624" id2="17" version="1065353216">Scoundrel always worked for me. We'll get you a scatter gun, a stealth belt and a combat-grade medpac. Good luck out there!</text>
+		<text bitflag="1360" id1="220626" id2="17" version="1065353216">Don't make this choice now.</text>
+		<text bitflag="3393" id1="220627" id2="17" version="1065353216">I have no business with you.</text>
+	</file_content>
+</stb_file>

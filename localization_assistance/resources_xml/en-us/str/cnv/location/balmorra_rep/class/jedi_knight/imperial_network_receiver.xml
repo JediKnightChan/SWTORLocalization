@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>5</strs>
+		<file_name>/resources/en-us/str/cnv/location/balmorra_rep/class/jedi_knight/imperial_network_receiver.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="1345" id1="495341" id2="17" version="1065353216">The Imperials are exceeding my expectations. Sobrik's forces have been cut by almost two-thirds. Keep up the pressure.</text>
+		<text bitflag="1345" id1="495342" id2="17" version="1065353216">There goes a flight of Imperial strike bombers. We'll empty Sobrik defenses before you know it. Head for the next comm tower.</text>
+		<text bitflag="1345" id1="495343" id2="17" version="1065353216">Just as I hoped. The Empire mobilized an entire armored battalion. Keep up the good work, my friend.</text>
+		<text bitflag="321" id1="495344" id2="17" version="1065353216">[The receiver is silent.]</text>
+		<text bitflag="1345" id1="495345" id2="17" version="1065353216">Excellent. Resistance scouts already detect forces scrambling out of Sobrik. Move on to the next tower.</text>
+	</file_content>
+</stb_file>

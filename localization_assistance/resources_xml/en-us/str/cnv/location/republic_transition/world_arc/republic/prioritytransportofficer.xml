@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stb_file>
+	<file_info>
+		<strs>20</strs>
+		<file_name>/resources/en-us/str/cnv/location/republic_transition/world_arc/republic/prioritytransportofficer.stb</file_name>
+	</file_info>
+	<file_content>
+		<text bitflag="3393" id1="574840" id2="17" version="1065353216">Master Jedi. Welcome, welcome. You are headed to the capital maybe? Yes?</text>
+		<text bitflag="3393" id1="574842" id2="17" version="1065353216">Lieutenant. Such a pleasure. You go to the capital maybe? Yes?</text>
+		<text bitflag="3393" id1="574844" id2="17" version="1065353216">Master. Greetings. You have two tickets to the capital, yes? Purchased by one named Syreena?</text>
+		<text bitflag="3393" id1="574846" id2="17" version="1065353216">Mistress. Greetings. You have two tickets to the capital, yes? Purchased by one named Syreena?</text>
+		<text bitflag="3393" id1="574848" id2="17" version="1065353216">There is a direct shuttle to Coruscant. It is small but comfortable.</text>
+		<text bitflag="3393" id1="574850" id2="17" version="1065353216">But a Master Shan also arranged you transport on the Esseles. Very comfortable, very fast. VIP Republic transport. Yes?</text>
+		<text bitflag="3393" id1="574851" id2="17" version="1065353216">But a Master Syo also arranged you transport on the Esseles. Very comfortable, very fast. VIP Republic transport. Yes?</text>
+		<text bitflag="3393" id1="574852" id2="17" version="1065353216">But a General Garza also arranged you transport on the Esseles. Very comfortable, very fast. VIP Republic transport. Yes?</text>
+		<text bitflag="3393" id1="574853" id2="17" version="1065353216">But your tickets also give you transport on the Esseles. Very comfortable, very fast. VIP Republic transport. Yes?</text>
+		<text bitflag="1360" id1="574854" id2="17" version="1065353216">Absolutely.</text>
+		<text bitflag="1360" id1="574855" id2="17" version="1065353216">Glad to hear it.</text>
+		<text bitflag="1360" id1="574856" id2="17" version="1065353216">If you say so.</text>
+		<text bitflag="3393" id1="574857" id2="17" version="1065353216">Excellent, excellent. Be warned, transport sometimes goes through dangerous space.</text>
+		<text bitflag="3393" id1="574859" id2="17" version="1065353216">When you are ready, go through airlock. It will lead you straight to the Esseles.</text>
+		<text bitflag="1360" id1="574861" id2="17" version="1065353216">I'm not ready. [Refuse Mission]</text>
+		<text bitflag="3393" id1="574862" id2="17" version="1065353216">Of course. When you're ready.</text>
+		<text bitflag="1360" id1="1170665" id2="17" version="1065353216">[Start Veteran Mode]</text>
+		<text bitflag="1360" id1="1170667" id2="17" version="1065353216">[Start Story Mode]</text>
+		<text bitflag="1360" id1="1170668" id2="17" version="1065353216">[Start Master Mode]</text>
+		<text bitflag="1360" id1="1170669" id2="17" version="1065353216">[Not at this time.]</text>
+	</file_content>
+</stb_file>
